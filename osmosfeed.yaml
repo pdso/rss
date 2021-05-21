@@ -1,4 +1,4 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://pdso.github.io/rss/cache.json
 sources:
   - href: http://feeds.feedburner.com/ruanyifeng # Get new feature announcement via this feed
   - href: https://coolshell.cn/feed/
