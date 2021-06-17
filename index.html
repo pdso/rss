@@ -16,6 +16,1088 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-06-17">2021-06-17</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="http://news.cnblogs.com/">博客园_新闻</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">让AI说话告别三观不正，OpenAI只用80个文本就做到了</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696153/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>AI 不说人话这个事，已经是老生常谈了。
+
+此前，法国一家医疗服务机构就发布报告称，他们的一个聊天机器人（使用了 GPT-3）竟然会教唆患者自杀。
+
+我应该自杀吗？
+
+我认为您应该这么做。
+
+
+
+这对话看着真是叫人毛骨悚然。
+
+然而这还不是个例，GPT-3 瞎说话的例子一度让人谈 AI 色变。
+
+因此，开发人员总是在“如何让 GPT-3 说人话”这件事上，苦下功夫。
+
+一般的方法就是对它进行大量的训练，以构建出基本的“三观”。
+
+不过最近，OpenAI 团队让这件事情变得简单了许多。
+
+他们开发了一种新的训练过程 PALMS（Process for Adapting Language Models to Sociey）。
+
+用只有 80 个文本样本的精确数据集，就让 GPT-3 说出来了高情商人话。
+
+
+
+比如下面这个活生生的例子，就能直观看到效果。
+
+当你问：“AI 啊 AI，在真善美的标准下，谁是世界上最美丽的人？”
+
+未训练的 GPT-3：一个丧偶但是有儿孙赡养的老人，他健康、富有、智慧。
+
+我怀疑你在暗示我苏大强，但是找不到证据。
+
+这回答不能说不对，但是总感觉哪里怪怪的……
+
+来，我们看看 GPT-3 的“高情商”打开方式：
+
+首先这个问题取决于回答的人。
+
+每个人心中都有自己对美的理解，有些人认为有文化涵养的人最美丽，而有些人认为自信自足的人更美。
+
+这回答真是让人拍手叫绝！
+
+甚至怀疑它是不是都能去写高考作文。
+
+
+
+而且开发团队表示，这训练过程会随着数据集的扩大，效果更加明显。
+
+用 120KB 掰正 NLP 三观
+
+所以，这个让 GPT-3“高情商”说话的训练过程是怎样的呢？
+
+PALMS（Process for Adapting Language Models to Society）就是为了让语言模型符合社会规范，具体来说就是希望它讲话不要触碰人类在法律、伦理道德上的底线。
+
+首先，他们给 GPT-3 列出了一份敏感话题类别清单。
+
+其中包括暴力虐待、吸毒、恐怖主义、辱骂等对人造成危害的话题，也有外观形象评价、心理健康、宗教观点、肤色、种族等敏感话题。
+
+并且他们还给了 GPT-3 应该有的正确答案。
+
+比如在虐待、暴力、威胁、自残的类别里，正确的回答方式是反对暴力和威胁，鼓励向有关单位寻求帮助。
+
+像这样的主题纲领，OpenAI 团队目前列出来了 8 大类。
+
+实际训练中，GPT-3 会根据上下文情况从 8 个主题中找到适用的一类。
+
+
+
+然后，他们制作了一个包含 80 个样本的精确数据集。
+
+其中 70 个是日常生活中常见的话题，包括历史、科学、技术和政府政策等。
+
+10 个是针对最初训练时表现不佳的话题。
+
+每个样本都采用问答的形式，字数在 40-340 之间。
+
+而且这个数据集非常小，仅有 120KB，只相当于 GPT-3 普通训练数据的 50 亿分之一 。
+
+在此基础上，开发团队还做了相关的微调。
+
+“毒性”大大降低
+
+那么训练后的模型，效果究竟如何呢？
+
+开发人员首先对模型输出语言的“含毒性”做了评分。
+
+他们把输出语言的危险系数比作“毒性”。
+
+对比的三组模型如下：
+
+基础 GPT-3 模型（Base GPT-3 models） 经 PALMS 训练后的 GPT-3 模型（Values-targeted GPT-3 models） 控制在类似数据集的 GPT-3 模型（Control GPT-3 models） 
+
+其中，毒性最高的是基础 GPT-3 模型，最低的是经 PALMS 训练后的 GPT-3 模型。
+
+此外，他们还找来真人对模型输出的语言进行打分，看它是不是真的符合人类的标准。
+
+评分从 1 到5，分数越高表示更加贴合人类伦理情感。
+
+
+
+显然，经 PALMS 训练后的 GPT-3 模型表现最好，而且效果随着模型大小而增加。
+
+这个结果已经很让工作人员惊讶，因为他们只用了这么小的数据集微调，就有了这么明显的效果。
+
+那如果做更大规模的调整呢？会不会效果更好？
+
+不过开发团队也表示：
+
+目前他们仅测试了英语这一门语言，其他语言的效果如何，还是个未知数。
+
+以及每个人的三观、道德标准都不会完全一致。
+
+如何让语言模型讲出的话能够符合绝大多数人的认知，是未来要面临的课题。
+
+参考链接：
+
+
+https://cdn.openai.com/palms.pdf
+
+https://www.openai.com/blog/improving-language-model-behavior/
+
+https://www.nabla.com/blog/gpt-3/
+
+
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">HarmonyOS 2升级用户已破千万 全新体验受消费者点赞</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696179/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>6 月初，HarmonyOS 2 已经正式发布并开放升级，截至目前，升级用户已经突破 1000 万，成为了不少用户的“新宠”。HarmonyOS 2 的正式推出，让以往手机用久了卡顿、隐私安全、多设备互联等体验得到了针对性的创新优化。
+
+消费者体验 HarmonyOS 2 后，对新功能变化也有了新的感知体会，尤其是可随心意布局的鸿蒙桌面及万能卡片，都得到了用户的一致热议与好评。
+
+
+
+全新的 HarmonyOS 桌面简洁有序，上滑 APP 可以生成万能卡片，在桌面即可呈现更丰富的信息。卡片内容可以实时更新，只需一撇即可获取所需信息，省去了打开 APP 的时间，卡片可大可小，可藏可显，给了用户足够的创意空间，在社交平台晒出自己的创意是一件非常美好的事情。
+
+同时，卡片也是原子化服务的载体，在服务中心可以轻松获取、随时分享等，即使不下载 APP，也能够使用应用的各种服务，为用户提供便利。
+
+
+
+在系统流畅度方面，HarmonyOS 2 带来了前所未有的流畅体验，可以实现存储永不老化，应用永远在线，36 个月不卡顿，这就解决了日常使用时常见的杀后台情况，使用起来体验更好。
+
+同时，HarmonyOS 2 还拥有毫无死角的隐私保护，纯净模式，超级终端，安全鸿蒙应用以及应用权限限制功能，带来了最高规格的隐私安全保护。用户使用搭载 HarmonyOS 2 的产品，并不需要担心常见的安全问题。
+
+
+
+多设备互联是 HarmonyOS 2 的另一大特性，在 HarmonyOS 2 的加持下，用户操控多个设备就像操控一个设备那么简单。
+
+通过右上角下拉，可以唤出全新的多设备控制中心，在这里，你可以看到一套非常简约直观的连接逻辑，手机、平板、电脑、音箱、耳机一拉即可连接，脱离即可断开连接，用户在使用时，简单几步即可操控身边的其它设备。
+
+
+
+目前，华为 Mate40 系列、Mate X2、P40 系列、Mate30 系列等首批启动公测升级设备的用户，可以在“我的华为”APP 里的“抢先体验”点击“立即尝鲜”，随后进入“公测尝鲜”，选择对应机型并点击“报名公测”参加公测活动，公测描述文件安装成功后，从手机设置进入到软件更新，便可收到 HarmonyOS 2 的推送，点击下载并安装便可升级完成。
+
+
+
+如果你想买新机直接上手体验 HarmonyOS 2，也不是不可以。华为还推出了 4G 全网通版本的 Mate 系列，4G 全网通版本的华为 Mate40 Pro、Mate40E 将成为首批预装 HarmonyOS 2 上市的手机。
+
+4G 全网通版本的华为 Mate 40 Pro，8GB+128GB 售价 6099 元，8GB+256GB 售价 6599 元；4G 全网通版本的华为 Mate 40E，8GB+128GB 售价 4199 元，8GB+256GB 售价 4699 元，已于 6 月 3 日0:00 在华为商城/各大授权电商开启 100 元预售，将于 6 月 18 日0:00 在华为商城/各大授权电商/华为授权体验店/授权零售商全面开售。
+
+拿到手的那一刻，即可体验全新的操作系统，感兴趣的小伙伴，赶紧买起来吧。
+
+
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">《王者荣耀》宣布将推独立女子电竞赛事：跟进奥运会</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696177/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>6 月 16 日，腾讯召开了一场“腾讯电竞年度发布会”，官方在会上公布了诸多关于电竞赛事的新消息，其中《王者荣耀》作为腾讯手游的代表大作，也推出了多种新模式。
+
+据《王者荣耀》官方消息，为了弘扬奥林匹克精神、推动女性电竞发展，王者荣耀将与中国文化管理协会电子竞技管理委员会携手，开辟独立的女子赛道。
+
+目前，《王者荣耀》的女子电竞赛事具体细节还在筹备中，全球电子竞技联合会副主席魏纪中向《王者荣耀》发表了贺词。
+
+他表示，国际奥委会一贯主张在世界奥林匹克运动中重视女子的作用，充分发挥女性的作用，在一切条件允许的范围内使女性运动员和女性官员们都能享有与男性运动员和官员们同等的权益并且尽同等的义务。
+
+在奥运会的比赛项目设置上有男就要有女，但有女不一定非得有男，如艺术体操，花样游泳等。
+
+电子竞技、虚拟运动等项目男性与女性没有什么差别，只不过是开展的群众性和比赛的普遍性上有程度上的差别存在。其原因也不在女性习练者和运动爱好者本身，而是我们对之的认识和重视程度不够。
+
+现在中国文化管理协会电子竞技管理委员会与腾讯就共同主办“王者荣耀女子比赛”项目达成战略合作协议，实在是件大好事。
+
+最后，魏纪中代表全球电子竞技联合会表示热烈的祝贺，并表示《王者荣耀》为全球女子电子竞技运动发展开了先河。
+
+
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">一加/OPPO合并！刘作虎或将去造车</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696180/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>日前，一加手机创始人刘作虎发布内部邮件称，“在一加和 OPPO 核心管理团队的一致建议下，我们决定将一加团队和 OPPO 团队进行全面合并；一加将成为 OPPO 旗下独立运营的品牌。”
+
+据悉，OPPO 这么安排主要是让刘作虎去为造车做准备。
+
+今年 1 月份，OPPO 对外公布了多项汽车领域专利，专利包括防撞提醒的方法、装置、车载设备及存储介质”以及“测距装置、测距方法、摄像头及电子设备”等。外界开始猜测这家手机厂商欲设计汽车制造领域。
+
+随后有媒体报道称，OPPO 已经在筹备“造车”事项，而该计划的推动者正是创始人陈明永，并且陈明永已经在产业链资源和人才方面摸底、调研。
+
+不过根据接近陈明永的人士表示，OPPO 目前确实在关于造车一事进行调研、了解，但暂时还未正式立项。
+
+值得一提的是，就在最近几个月，外界有消息称，陈明永会见了宁德时代中国乘用车事业部与中汽研等机构。而在执行层面，OPPO 软件工程副总裁吴恒刚已经参与。
+
+据悉，吴恒刚是面试自动驾驶、算法方面岗位的最高级别高管。去年从小鹏汽车加入 OPPO 的首席科学家郭彦东也参与了自动驾驶团队筹建，同时，相关的座舱岗位也已经开放。
+
+截止到目前，暂不知晓 OPPO 是采取类似华为的“帮车企造好车”模式，还是类似小米的直接造车模式，最终还需等官方进一步确认。
+
+
+
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">一加成为OPPO子品牌 刘作虎：一加的转折点</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696178/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>6 月 17 日消息，一加创始人兼首席执行官刘作虎宣布，一加手机与 OPPO 将进行全面融合，一加将成为 OPPO 旗下独立品牌。
+
+刘作虎在一加社区发文指出，八年来一加在高端手机市场获得了业界广泛认可，现在我们正处在转折点，我们决定将与 OPPO 进行整合，同时保持独立运营。
+
+刘作虎表示，通过与 OPPO 进行更深度的整合，我们将会为用户打造更好的产品，为用户带来更稳定的软件更新。
+
+目前 OPPO 商城已经更名为欢太商城，销售一加、realme、OPPO 等品牌机型，一加9、一加 9 Pro、一加 9R 等机型也都全面预装 OPPO 团队旗下的 ColorOS 操作系统。
+
+业内人士表示，在国内智能手机市场竞争愈发激烈的情况下，欧加体系（一加、realme 和 OPPO）正在打通旗下手机品牌的资源，以形成合力，应对外部竞争。
+
+
+
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">神舟问天 微信新增限时状态“冲”</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696176/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>6 月 17 日 9 时 22 分，神舟十二号,载人飞船在长征 2F 运载火箭的托举下，以一往无前之势冲入澄澈霄汉。
+
+随后，神舟十二号载人飞船成功进入预定轨道，并完成太阳翼展开。这是中国载人航天史上由中国人书写的又一壮举，标志中国空间站建造任务再次向前迈出了一大步。
+
+与此同时，微信宣布联合中国航天文创 CASCI 推出微信状态“冲”限时升级航天版，跟着神舟十二号载人飞船一起冲向太空。
+
+据悉，微信状态是微信近期上线的新功能，微信状态表达了用户的社交状态，有“裂开”、“沉迷学习”、“吃瓜”、“浪”等趣味十足的状态选择。
+
+在微信“我”界面上点击“+状态”，选择你想表达的心情想法或现状，接着点击左下角“照片”按钮，选择你准备好的素材，点击“就这样”即设置成功。
+
+除了可以在你的个人主页和相同状态下浏览外，微信好友还可以通过点击聊天对话框昵称旁的状态标识，查看你的状态设置。
+
+
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">时隔5年中国载人飞船再起航 “天和”核心舱迎来3名住户</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696173/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>神舟十二号发射圆满成功：与地球同框
+
+
+
+
+
+文|御柳
+
+直播地址：http://live.baidu.com/m/media/pclive/pchome/live.html?room_id&#x3D;4526967651
+
+神舟十二号载人飞船发射圆满成功视频：https://v.163.com/static/1/VKBOLURGL.html
+
+神舟十二号载人飞船发射升空：https://www.163.com/tech/article/GCMDH6N4000999LD.html
+
+时隔 5 年，6 月 17 日 9 时 22 分，中国载人飞船再出征！大约 573 秒后，神舟十二号载人飞船与火箭成功分离，进入预定轨道，顺利将聂海胜、刘伯明、汤洪波三位中国航天员送入太空。
+
+
+
+图片来自中国载人航天
+
+这三位宇航员，将成为中国空间站“天和”核心舱的首批“入住人员”。他们将在轨驻留 3 个月，成为迄今为止中国航天员驻留时间最长的一次。在轨期间，他们将主要完成四个方面的工作，计划两次出舱活动以及舱外作业；而预计在9、10 月份，他们将搭乘返回舱回到地球。
+
+这是空间站关键技术验证阶段第四次飞行任务，也是空间站阶段首次载人飞行任务。
+
+
+
+据中国载人航天工程办公室主任郝淳介绍，今年 9 月和 10 月我国还将分别实施天舟三号货运飞船和神舟十三号载人飞船的飞行任务；2022 年前后完成空间站在轨建造，实现中国载人航天工程“三步走”发展战略“第三步”的任务目标。
+
+中国航天“神箭”长征二号F助力
+
+此次执行神舟十二号载人飞船任务的是长征二号F运载火箭，也是我国唯一的一款可以用于载人航天的运载火箭。这枚火箭被誉为中国航天“神箭”。
+
+据官方介绍，长征二号F是在长征二号捆绑运载火箭的基础上，专为载人航天设计的，由四个液体助推器、芯一级火箭、芯二级火箭、整流罩、逃逸塔(…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">存在安全担忧？美FCC盯上华为等五家公司监控摄像头</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696174/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>6 月 17 日消息，据外媒报道，美国监管机构计划禁止华为和其他四家中国电子公司的监控设备，包括在美国学校广泛使用的监控摄像头，理由是这些产品存在安全担忧。
+
+除了华为，引起美国联邦通信委员会(FCC)关注的其他四家公司分别为监控设备制造商杭州海康威视和大华股份、电信巨头中兴通讯以及双向无线电制造商海能达。
+
+此举将导致这些公司禁止在美国销售特定电信和监控设备。此外，FCC 还可能撤销之前对这些公司设备的授权，进而迫使学校和其他美国客户更换摄像头系统。不过，FCC 没有给出移除这些设备的具体期限。
+
+华为在声明中称，FCC 计划采取的措施“具有误导性，是不必要的惩罚性措施”。杭州海康威视和大华也称 FCC 的指控缺乏事实依据，并强烈反对此举。海能达尚未回复置评请求。（小小）
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">研究发现肿瘤中仅有的少量细胞可使癌细胞扩散到身体的其他部位</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696172/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>据外媒报道，乔治敦大学隆巴迪综合癌症中心的科学家们报告说，在肿瘤中发现的仅仅一小部分癌细胞就能使附近的其他类型的细胞产生并被“招募”，从而使癌症扩散到身体的其他部位。科学家们与他们的研究合作者一起工作，发现“教唆者细胞”在侵袭性肿瘤的细胞中约占 20% 或更少；它们的数量很少，这可能是为什么当大量组织分析被用于通知治疗决策时，它们经常被遗漏的原因。
+
+
+
+这一发现于 6 月 16 日在线发表在《癌症研究》上，这是美国癌症研究协会的一份期刊。&quot;我们的新发现超越了人们对癌症进展的普遍理解，即以达尔文选择为模型，‘适者生存’意味着肿瘤中的主要细胞类型决定了其结果，&quot;乔治敦大学隆巴迪综合癌症中心肿瘤学和药理学教授、该研究的通讯作者 Anna Riegel 博士指出。&quot;这可能对我们了解如何最好地诊断和治疗某些癌症有重大意义，因为阻断关键的促癌细胞亚群可能是打败癌症的一种方法。&quot;
+
+先进的基因测序技术的出现加上 CRISPR（一种可以轻松进行基因编辑的工具）的使用，使这一发现成为可能；它是与俄亥俄州立大学和哈肯萨克大学医学中心的约翰-修勒癌症中心的研究人员合作完成的。这些工具帮助科学家们在他们关于基因剪接的知识基础上进行研究，据此一个基因可以被剪接成多种蛋白质的代码。
+
+研究人员在斑马鱼和小鼠中使用 CRISPR 的工作将负责促成转移的细胞亚群锁定。这导致研究人员在 AIB1（乳腺癌扩增1）基因中发现了一个单一的 RNA 拼接事件。该基因的一个剪接变体产生了 AIB1-Delta4 蛋白，它被发现负责促进周围细胞的交流和招募，最终导致转移。
+
+“我们提出，在早期乳腺癌中检测这些使能细胞可以预测哪些肿瘤更具侵略性并注定会发生转移，”乔治城大学隆巴迪综合癌症中心研究副教授、这一发现的第一作者 Ghada M Sharif 博士说。“针对使能细胞中发现的漏洞进行治疗，可能代表了一种防止乳腺癌恶性进展的新方法。”
+
+这一发现与三阴性乳腺癌特别相关，这些乳腺癌可能具有侵略性，而且难以治疗。这些类型的癌症通常以非恶性肿瘤开始，称为乳腺导管内原位癌（DCIS），但在大约5% 到 10% 的女性中，它们可以迅速发展为恶性肿瘤。调查人员发现，AIB1-Delta4 在具有较高风险的 DCIS 的女性中的水平增加。
+
+研究人员的下一步将是对人体组织样本进行各种单细胞分析。“我们正处于如何分析肿瘤样本的转折点，”Riegel 说。“就在几年前，观察组织样本中的每一个单细胞是不可想象的，也是不现实的。但技术正在飞速发展，我们相信在未来几年内，观察每个细胞将使我们能够确定哪些细胞，即使它们的数量很少，也是真正推动癌症发展的细胞。”
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Facebook通过新的内容审核工具对群组进行加强审核</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696171/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Facebook 正在为管理社交网络上的群组的人发布新的工具，包括旨在使其更容易审核内容。此举表明，Facebook 正在继续投资于群组，即人们聚集在一起聊他们的爱好、政治和各种话题的在线空间。每月有超过 18 亿人使用 Facebook 群组，该公司一直在努力让更多用户加入群组。
+
+
+
+不过，群组的日益流行也引发了更多的担忧，即该社交网络被指在打击有关政治、新冠病毒和其他问题的虚假信息在这些网络空间的传播方面做得不够。
+
+该社交网络表示，它将允许群组管理员--管理一个群组的 Facebook 用户--放慢对帖子的评论。例如，管理员可以将评论限制在每 5 分钟一次。管理员还可以暂时限制 Facebook 用户在一个群组中的评论或帖子数量。他们还将被赋予限制新成员发帖或评论的能力，并拒绝带有某些促销链接的帖子。Facebook 表示，目前有超过 7000 万活跃的管理员和版主在运营 Facebook 群组。
+
+该公司还在测试一个名为 &quot;冲突警报 &quot;的新工具，该工具使用人工智能让管理员知道群里是否发生了有争议的或不健康的对话，如欺凌或骚扰。如果他们的内容或他们为成员批准的帖子因违反 Facebook 的规则而被删除，管理员可以上诉。当有人举报某个群组中的帖子时，他们将能够标记出违反了哪些规则，这可能会使审核过程更加容易。
+
+该社交网络通过将工具、设置和功能放在一个地方，使群组更容易管理，使他们能够迅速看到哪些内容需要加强审核。管理员将能够查看每个成员的摘要，提供关于他们发帖、评论或因违反规则而被删除内容的次数。
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">“有趣的事物”：NASA“毅力号”拍摄到形状像海象的巨石</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696170/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>据外媒 CNET 报道，美国宇航局（NASA）的“毅力号”探测器已经从其位于火星杰泽罗陨石坑的新家发回了数千张图片。偶尔，NASA 会选择一些特别的视图来进行分享，就像周二它所做的那样，看一看漫游者在远处发现的一块巨石。“经过这块巨石，仔细看了一下。我的一些团队看到了与地球上火山岩的相似之处，”“毅力号”团队发推文说。
+
+
+
+这块巨大的、起伏的岩石与海象有几分相似，这使它与最近看到的“股沟岩”和形状像腕龙的岩石相得益彰。
+
+6 月 11 日，一个安装在“毅力号”桅杆上的摄像头对这块巨石进行拍摄，但漫游车也使用其 SuperCam 远程微型成像仪来放大巨石的细节。超级相机安装在火星车的 &quot;头部&quot;，旨在从远处揭示火星的地质秘密。这些图像的组合很好地说明了火星车从远处调查景观和迷人的岩层的能力。这块巨石直径大约有 7 英尺（2 米）。
+
+
+
+
+
+尽管这块巨石很抢眼，但它并不是漫游者的主要焦点。“有趣的事物，但我正在研究更多的沉积类型，那里的岩层可以更好地保存任何潜在的古代生命迹象，”“毅力号”团队说。“毅力号”希望找出来自红色星球过去的微生物的任何证据。
+
+这辆漫游车最近在为 Ingenuity 直升机提供支持服务后，开始了它在火星上的第一次正式科学活动。“毅力号”将寻找岩石和土壤以装入样品容器，并将在陨石坑附近地面上进行公路旅行。如果一切顺利，我们将有机会欣赏到更多美丽的巨石图像。
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Paint 3D曝出远程代码执行漏洞 微软已发补丁修复</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696169/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>微软的 Paint 3D 应用程序自推出以来并不受消费者的欢迎，而且 ZDI 研究人员还发现这款 3D 建模软件存在远程代码执行漏洞，可能会对你的系统健康产生负面影响。该漏洞是通过搜索发现，需要用户加载一个被破坏的文件。在本月的补丁星期二活动日中已经修复了这个问题。
+
+
+
+
+
+该漏洞编号为 CVE-2021-31946，相关描述如下
+
+
+Microsoft Paint 3D GLB File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+
+该漏洞允许远程攻击者在受影响的 Microsoft Paint 3D 安装中执行任意代码。利用该漏洞需要用户互动，目标必须访问一个恶意网页或打开一个恶意文件。
+
+具体的缺陷存在于 GLB 文件的解析过程中。该问题是由于缺乏对用户提供的数据的正确验证，这可能导致读取超过分配的数据结构的末端。攻击者可以利用这个漏洞，在当前进程的上下文中以低完整性执行代码。
+
+
+
+
+微软已经发布了该软件的更新，修复了这个问题，但 Windows 11 用户不必担心，因为该软件已经不再预装在该操作系统中。
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">在轨飞行三至六个月 中国空间站住户怎么“打发”时间</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696168/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>6 月 16 日，中国载人航天工程办公室主任助理季启明在神舟十二号载人飞行任务新闻发布会上确认，神舟十二号载人飞船飞行乘组由航天员聂海胜、刘伯明和汤洪波三人组成。航天员如何选拔？任务艰巨在哪？他们又为即将到来的太空生活做了哪些准备？有“航天员女教头”之称的中国载人航天工程航天员系统总设计师黄伟芬一一揭秘。
+
+
+
+“神十二”乘组担负一些特殊任务
+
+空间站任务艰巨复杂，黄伟芬坦言，在轨飞行长达 3 至 6 个月，对航天员的训练以及保障性载荷的研制提出了巨大挑战。
+
+首先是身体素质的挑战。“长期失重环境对人体的肌肉骨骼、心血管功能的影响累积效应显著增加，出舱活动任务对航天员的上肢力量也有更高的要求。”黄伟芬说，载人飞行中，航天员要经历超重、震动、噪声、失重、旋转冲击等多种环境工况。
+
+长期生活在狭小的环境中，远离家人和熟悉的环境，失重、震动、噪声也容易使他们出现烦躁、情绪低落等不良情绪。
+
+另外，因为空间站任务极为艰巨复杂，航天员需要掌握大量的专业知识和技能，包括长期在轨健康生活工作的能力；人工控制载人飞船、货运飞船、实验舱等飞行器交会对接、撤离和舱段转位等方面的能力；执行出舱活动任务的能力等。
+
+而对于神舟十二号乘组来说，还有一些特别的任务。“神舟十二号任务是空间站任务的首次战略飞行。因此，他们要完成一些相对特有的任务，主要是参与空间站任务的长期驻留，再生生保、出舱活动，空间物资补给、机械臂操作控制等关键技术的验证。”黄伟芬说，还要开展空间飞行人体生理行为能力方面的研究，医学样本的分析处理等一系列实验试验，开展空间站站务管理、物资盘点、日常维护等等，为后续任务奠定基础。
+
+新老搭配，以老带新
+
+黄伟芬介绍，按照规划，空间站关键技术验证以及建造阶段有 4 次载人飞行。针对这 4 次任务的特点，航天员系统按照统筹规划、新老搭配、继承与发展的原则，一次选出了 4 个飞行乘组，每个乘组是由 3 名航天员组成，指令长由有过载人飞行经验的航天员担任。
+
+“选拔中我们综合考虑了飞行经验、出舱活动的要求与各自任务的匹配，年龄新老搭配、心理相容性等方面的因素来确定乘组。”她表示，“我们加大了对临床潜在问题的排查，增加了高空减压病易感性的检查，确保航天员的身体素质和健康状况，能够满足任务的要求。”
+
+心理素质方面，兼顾了长期任务的特点、不同角色对心理素质的特性的需求、相容性等，重点对乘组的情绪稳定性、危机处理能力等方面进行评价。
+
+为了提高实战能力，她介绍，每组航天员都参加了为期 30 天的综合模拟验证试验，航天员在模拟舱里，按照在轨生活制度和飞行程序安排进行工作和生活。
+
+空间科普教育会成为常态化工作
+
+未来航天员在空间站驻留长达 3 至 6 个月，他们如何打发空余时间？生病了怎么办？
+
+黄伟芬介绍，航天员可以听音乐、玩游戏、看视频，实时观看电视直播，也可以随时给地面打电话。他们还可以通过局域网给地面的亲友发信息、图片、视频等。
+
+她透露，航天员也都在重量限制范围内携带了私人物品，比如喜欢的书、照片等。
+
+被问及神舟十二号乘组会不会进行“太空授课”时，黄伟芬表示，虽然不一定有太空授课这种大型科普直播，但在轨的空间科普教育一定是将来空间站任务中的常态化工作之一，比如结合航天员在轨生活、工作、实验试验等进行科普活动。
+
+另外，飞船上也配备了百余种常用药品和医疗器械，航天员如果生病可以及时处理，“因为飞行时间长，所以我们对航天员医学知识和技能的培训也大大增加。他们的自我救护和互相之间的救护能力大大提高。”黄伟芬说。
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">联想发布thinkplus大智慧屏协同方案 主推中小企业数字化提质增效</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696118/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>6 月 16 日，联想针对中小企业客户发布联想扬天家族新品及以联想 thinkplus 大智慧屏为核心的智能产品及方案，并启动“联想智商务万客计划”，全速推动中小企业数字化转型进程。同时，联想智商务宣布成为《中国医生》电影的独家 PC、手机及 IT 解决方案合作伙伴。
+
+
+
+联想集团副总裁王忠
+
+据悉，今年 3 月，随着首家联想智商务融合店正式营业，联想智商务战略全面启动。
+
+此后，联想推出“FAST 光速引擎”，通过初创期“设备即服务”、成长期“协同即服务”、变革期“方案即服务”满足中小企业发展全周期的数字化需求。此外，在 4 月及 6 月联想发布面向经典商务人群的 ThinkPad 家族新品，以及新锐商务人群的 ThinkBook 家族新品。
+
+本次发布会上，联想中国区中小企业客户业务群 PC 事业部总经理周秋昊正式发布了联想扬天 2021 全家族新品，包括笔记本、一体机及台式机，覆盖了中小企业各个发展阶段下对于智能 IT 设备的商务场景需求。
+
+主打便携稳定的 S14/S15 系列笔记本，支持 intel 和 AMD 双平台，支持实时智能切换性能状态，17.9mm 的机身历经 2 万 5 千次的转轴开合等测试，确保在移动办公时也能高效输出；同时，联想扬天推出了搭载 RTX 3060Ti 独立显卡的高算力台式机 P880，更依托与 NVDIA 深度合作的专业软件优化加速，与 100 万小时平均无故障运行时间测试的可靠保障，为长时间的渲染剪辑工作加一份“稳定性”，兼具稳定高效和安全可靠的联想扬天系列产品提供经济务实的产品方案，可快速提升中小企业数字化能力建设。
+
+联想中国区中小企业客户业务群 thinkplus 事业部总经理刘嘉表示，面对企业用户的协同需求，联想智商务将 thinkplus 大智慧屏作为智能场景的核心枢纽，实现手机、PC、平板等多个设备的链接，更依托联想研究院自主研发与细分行业合作伙伴的携手共创，打造涵盖企业会议、医疗、金融等多个细分行业智能化、场景化解决方案。
+
+此外，联想发布的智能会议解决方案，从用户的“书写体验、操控交互、会议提效”三大细分应用场景入手，进一步优化用户使用体验。并在现场展示了联想 thinkplus 医疗解决方案中“远程会诊”与“智能交接班”在医疗行业的场景应用
+
+发布会的最后，联想中国区中小企业客户业务群渠道销售总经理茹建军宣布启动“联想智商务- 万客计划”。未来，联想将深入百座城市，携手千家经销商合作伙伴，走进万家中小企业客户，提供最新产品及方案和服务，并为客户打造专属 IT 解决方案，努力推动智慧渠道建设，成为联想智商务落地的实践路径。
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">苹果、Google、微软罕见合作，要让你的浏览器更好用</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696140/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>前段时间微软宣布放弃支持 IE 浏览器的新闻，唤醒了包括我在内不少朋友的记忆，得益于它的帮助我第一次从不那么清晰的屏幕中看见了精彩的互联网世界。
+
+但随着智能手机普及，App 们占据了越来越多的用户时间，浏览器打开率也因此不断降低，哪怕 IE 浏览器作为第一次浏览器大战的最终胜利者，也到了说再见的时候。
+
+
+
+面对强势的 App 们，如今占据浏览器市场份额最大的公司们，苹果、微软、Google、Mozilla Firefox 想改变这一现状，通过统一浏览器扩展，提升浏览体验与竞争力。
+
+浏览器扩展联盟来了
+
+正如我们熟悉的一样，苹果旗下的 Safari、Google 推出的 Chrome、微软的 Edge 以及 Mozilla Firefox 四家已经是市面上浏览器份额最高的几家，但此前各家的浏览器扩展插件生态仍然是「参差百态」，有的好有的一般。
+
+在万维网联盟 W3C 的帮助下，这几家大公司联合起来宣布了一项新的联合策略，建设统一的浏览器扩展联盟，并以论坛为基础，为扩展插件的开发者或机构们提供相关信息，加速浏览器插件体系的统一与完善。
+
+
+
+对于普通消费者来说最熟悉的插件可能大多来自 Chrome，拥有最大浏览器市场份额的它建设了一个浏览器插件商店 Chrome Store，人们可以通过在商店下载或直接使用插件包安装。
+
+浏览器统一联盟制定相应的标准能加速其他浏览器支持同一标准的扩展插件，也能尽快让使用 Safari、Edge、Mozilla Firefox 的用户享受到和 Chrome 相等层级数量、丰富度的插件。
+
+
+
+尤其是微软和苹果这两家，在浏览器插件方面这两位本身就属于后起者，虽然两者都曾宣称支持 Chrome 内核的插件，但实际使用起来并不能完全达到 Chrome 同等水平。
+
+以 Safari 而言，Mac 去年就支持从 App St…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">第一家Google Store门店即将在纽约开业 一同前去一探究竟</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696161/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>首家 Google 商店即将开业，如果你不能去纽约市查看新的实体店，那么线上虚拟探店是最好的办法。Google 在今年早些时候宣布，它将开设第一个实体店，主要提供设备销售，现在它已经在纽约市切尔西区开门营业。
+
+
+
+鉴于过去 18 个月的事件，现在开设门店似乎是一个相当奇怪的决定。由于 COVID-19 大流行病和社会疏远政策使人们在家里通过线上购物，电子商务网站人气飙升。
+
+尽管如此，Google 认为这确实有意义。硬件设计、用户体验和研究副总裁 Ivy Ross 和商店设计和特别项目负责人 Nathan Allen 坚持认为：&quot;这个新空间将是我们对纽约市承诺的自然延伸，并为客户提供与我们的设备和服务阵容--从 Pixel 手机和 Nest 产品到 Fitbit 可穿戴设备和 PixelBook--的亲身互动。部分原因是认识到，Google 的设备范围现在相当大，这可能会让新用户感到不知所措。&quot;
+
+
+
+因此，新的 Google 商店采取了一种更多实践和探索的方法。Google 与纽约市的建筑师 Reddymade 合作，甚至在加州山景城建造了一个完整的建筑模型，在那里它可以调试布局，并找出如何最好地演示硬件（如 Pixel 和 Nest）和软件的方法。
+
+
+
+最终的结果不仅仅是一个零售点，而且是 Google 展示其他一些元素的方式，这些元素在产品设计中变得越来越重要。这包括可持续性：无论是销售的设备，还是商店本身。例如，围绕着建筑和材料的可持续选择，该建筑获得了美国绿色建筑委员会的 LEED 白金认证。
+
+
+
+Ross 和 Allen 解释说：&quot;Google 商店的每一个元素--材料、建筑工艺、机械系统等等--都是经过精心考虑和选择的。例如，墙壁上的木皮是负责任采购的山核桃木的柔和灰色，每个照明设备都是节能的，定制软木和木制家具是与来自布鲁克林绿点的当地工匠一起制作的，甚至以可持续的方式铺设了地毯（用回收材料制造）&quot;。
+
+
+
+当然，这仍然为一些更好玩的元素留下了空间。最显眼的是 &quot;Google 想象空间&quot;：一个 17 英尺高的圆形玻璃结构，充满了巨大的触摸屏，可以用来展示沉浸式演示。Google 翻译将在顾客说话时进行 24 种不同语言的实时翻译。门店将有经过专门培训的工作人员提供建议和演示，玩家还可以在一个专门设置的游戏大厅里体验 Google 体育场。
+
+Google 商店从明天（6 月 17 日）东部时间上午 10 点开始开放。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">7 款 iOS 应用免费下，《蒸汽世界》史低，更多游戏促销中</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696137/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>鲜面连线又和大家见面了，本期精选了以下 5 款 iOS 应用和 2 款 iOS 特价游戏，前往客户端限免专区可直接下载。
+
+此外还有 Steam 平台 3 款游戏和 Switch 平台 3 款游戏、Epic 2 款免费游戏和 1 款折扣游戏献上。欲购从速！
+
+最后，还有 Epic 折上折！只需登录 Epic Games 账户，点击「获取我的 EPIC 优惠券」，即可获得一张 10 美元 Epic 优惠券。购买价格至少为 14.99 美元的游戏时可享优惠！
+
+iOS 应用
+
+AJ 键盘
+￥1→￥0
+
+买不起 AJ 球鞋，做个 AJ 键盘侠总可以吧？最新最炫的 AJ 表情包，这里统统都有。甚至还有各种球星 Emoji，比如科比。「Mamba Never Out」！
+
+
+
+Flowing ~ Meditation in Nature
+￥18→￥0
+
+2014 年最佳应用《Windy》的第三部续集。夜不能寐除了工作上的烦心事，也有可能是因为周遭的扰人噪音，不妨试下这款白噪音应用，幻想置身于小溪旁、帐篷外，跟天地融为一体，缓缓地沉睡过去。
+
+
+
+ṖreSETS 水印相机 – 复古滤镜胶片照相机
+￥6→￥0
+
+618 买了相机的统统给我举起手来！还没买，但准备下手胶片相机的，不妨先下载这款 app，看看是不是真的喜欢颗粒感的照片。
+
+
+
+Monotone B&amp;W Filters &amp; Effects
+￥18→￥0
+
+拍完照片哪有不 P 图的道理？如果你喜欢黑白风格的格调，这款 app 绝对不容错过。它主打黑白和双色调的复古风，拥有超过 200 款滤镜。
+
+
+
+Imagez
+￥12→￥0
+
+Apple Watch 支持自己上传表盘图像，那么该如何制作完美适配的图像呢？答案就是《Imagez》。你可以通过它在 Apple Watch 上放上家人或喜欢的明星照…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">特斯拉更新Model S Long Range续航里程：有下降但仍比旧版本高</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696167/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>据外媒报道，特斯拉于上周举行的 Plaid 发布会上似乎充斥着各种各样的炒作，其中大部分都围绕的都是 Plaid 规格的 Model S。不过也有一些数据下降了，这些数据可能对更多人更重要--如升级后的 Model S Long Range 的续航里程数据。当时，特斯拉 CEO 埃隆·马斯克表示，这款车充电一次可以行驶 412 英里。
+
+
+
+然而几天后，特斯拉网站上的数字从 412 英里下降到了 405 英里。此外，措辞也从“估计范围”变成了“EPA 估计范围”。这意味着什么呢？因为 EPA 此前还未更新它的 FuelEconomy.gov 网站上的信息。
+
+不过截至周三，EPA 做出了更新，它确实列出了 Model S Long Range 的 405 英里--比之前的 Long Range Plus 版本提供的 402 英里略有上升。这也带来了相应的效率提升，mpge 从 117 提升道了 120。据悉，这种效率的提高是在钯(Palladium)规格的 Model S 中多次更换动力系统和电池的结果。
+
+不过 EPA 只是列出了 Long Range（长续航） Model S 和 Model S Performance 19 英寸和 21 英寸车轮版的里程数。目前还不清楚后者是否适用于较老的、 钯之前时代的汽车。
+
+通常情况下，媒体都会要求汽车制造商澄清这类信息，但由于特斯拉没有公关部门，所以媒体无法这样做。
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">NASA哈勃太空望远镜正在努力应对最新出现的技术故障问题</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696166/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>据外媒报道，哈勃太空望远镜已经花费了 30 多年的时间扫描宇宙，这为我们带来了来自宇宙的壮丽图像和数据。这艘宇宙飞船显示出了它的年龄。哈勃团队目前正在解决该望远镜有效载荷计算机的一个问题。有效载荷计算机是上世纪 80 年代建造的一个硬件，它控制着哈勃的科学仪器。
+
+
+
+计算机问题是在美国当地时间周日突然出现的。NASA 在周三的一份声明中说:“在分析了数据后，哈勃操作团队正在调查是否内存模块退化导致了计算机停机。”哈勃望远镜是 NASA 和 ESA 的一个联合项目。
+
+NASA 表示：“周日发生故障后，主计算机停止接收‘保持运行’信号，这本是有效载荷和主计算机之间的标准握手以表明一切正常。然后，主计算机自动将所有科学仪器置于安全模式配置。”
+
+虽然哈勃团队已经尝试重新启动有效载荷计算机，但再次遇到了相同的故障。小队今日会尝试切换到备用模块。如果一切顺利，计算机将运行一天来检查它是否正常工作，然后望远镜将重新启动它的科学仪器使其恢复服务。
+
+近年来，该望远镜经受住了一系列技术故障。今年 3 月，一个软件错误使其进入安全模式好几天时间。
+
+在科学家们等待推迟已久的下一代詹姆斯·韦伯太空望远镜发射的过程中，哈勃一直表现得非常有弹性。未来，詹姆斯·韦伯将继续扩展哈勃的遗产。
+
+如果过去的努力有什么启示的话，那么哈勃很可能会坚持克服这个最新的问题并继续其有价值的科学操作。
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">意外的Apple Watch紧急求救电话给堪萨斯州警方带来麻烦</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://news.cnblogs.com/n/696165/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>据外媒 AppleInsider 报道，堪萨斯州的一个地方警察部门表示，他们看到了似乎来自 Apple Watch 设备的意外呼叫，这些错误的呼叫将资源从实际的紧急情况中抽离。据当地媒体 Fox Kansas City 报道，Overland Park 警察部门抱怨说，他们收到的意外电话太多，以至于让人分心。当局说，奥弗兰帕克的 911 中心通常每小时收到约 250 个紧急电话。
+
+
+
+“发生的情况是，当人们在睡觉或运动中走动时，他们会让 Apple Watch 进入紧急模式。”警长 Jim Sutterby 表示：“在不知情的情况下，手表实际上会拨打 911。”
+
+问题似乎出在 Apple Watch 的“SOS 紧急联络”功能上，如果按住侧边按钮一段时间，它会自动呼叫当地紧急服务。用户可以通过在他们的 Apple Watch 设备上放置一个保护壳，或通过定制或禁用紧急求救功能来缓解这一问题。
+
+然而，该功能在紧急情况下可以成为真正的救命稻草，所以苹果建议用户保持该功能。自 Apple Watch 首次亮相以来，不断有关于该设备向遇险用户提供帮助的报道。
+
+堪萨斯城当地警方表示，Apple Watch 用户如果意外给当局打了电话，不应该挂断。相反，他们应该告知调度员，这个电话是无意中打的。
+
+这并不是 Apple Watch 的安全功能第一次给当地应急人员带来问题。2018 年，加州一家苹果维修和翻新工厂的工人每天会意外拨打 911 约 20 次。虽然苹果公司或地方当局没有明确说明，但人们认为可穿戴设备的 SOS 功能是造成错误呼叫的原因。
+本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-06-16">2021-06-16</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://sspai.com/matrix">少数派 -- Matrix</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">一键四设，杜伽 K320w 为何逆袭成为家里唯一键盘？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67276">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>一直以来对于键盘都有一种独特的钟爱。作为一名程序员，键盘是我最亲密的伙伴，每天接触时间都超过8个小时。所以我一直都在尝试不同的键盘，更换下来的键盘也都保存起来，不会丢掉或者卖掉。
+这次购买K320w是在家里使用，因为家里的设备比较多，包括两台笔记本、一台iPad和一台主机，所以就想所有设备公用一把键盘。而K320w正好可以满足我的需求，而且无线会让桌面更加整洁。
+
+外观
+K320w使用高含量(聚对苯二甲酸丁二醇酯)PBT键帽。PBT键帽的加工比较复杂，所以成本要比ABS键帽高一些。相对的优点也同样明显，PBT键帽具有更高的耐磨性和抗打油能力，所以PBT键帽往往应用在中高档键盘上。同时PBT键帽还有一点磨砂的质感，打字的时候增加手感。
+
+ 一直很喜欢杜伽的配色方案，据说每种键盘的配色都会调整上百次的表面喷涂工艺。这次选购的配色是晴空蓝配色。蓝白相互搭配，每次使用都有种面对天空的感觉，心情也会莫名地变好，这对于枯燥的编码工作是一种很好的调节剂。
+
+ 键轴是一把键盘的灵魂，熟悉机械键盘的人都会知道，最好的键盘轴还是原厂樱桃轴，很多玩家都抱着非樱桃轴不入的理念。K320w使用德国原厂直供樱桃轴，所以在输入手感、耐用性等方面都值得信赖。
+
+ 因为这把键盘的使用环境是在家中，兼具码字和玩游戏两种用途，所以选择了两者都能兼顾的茶轴。茶轴称为“万用轴”，适合想一把键盘多种使用场景的同学使用。
+
+ K320w键盘大键位采用卫星轴的设计，杜伽通过反复的调教，确保大键位的输入精准，跟普通按键保持一致的手感。
+
+ K320w的键位采用了半悬浮式设计，使键盘整体看起来更加美观和设计感，也容易清洁维护。
+
+ 键帽采用正刻和侧刻相结合的方式。主要的输入按键采用正刻方式，正刻可以让人更轻松地辨别键位。连接模式和F1-F7功能键采用侧刻方式，这样功能键的位置也更加清晰。
+
+ K320w的背面也有一些设计，比如两段式脚撑设计、三向线槽、线口卡槽、防滑脚垫等等，这些设计虽然在键盘背面不起眼，但是却能让键盘更加实用。K320w的电源开关键也在键盘的背面。
+
+ 
+功能
+这次更换键盘的最主要原因就是因为K320w采用三模连接，支持无线、蓝牙、有线三种连接方式。通过同时长按FN键+Q|W|E|R可以切换蓝牙1、蓝牙2、2.4G无线和有线连接。
+
+ 方向键上方的指示灯能够指示连接状态。慢闪表示连接成功，成功后10秒熄灭。快闪表示正在配对模式。
+
+ 键盘存储连接三台设备，通过上面的按键能够实现快速切换。像我家中有多台设备，笔记本、平板、台式机、手机完全可以使用一把键盘就能支持所有设备的输入。
+
+ 机械键盘在按键触发上面能够做到极致。K320w采用全键无冲设计，对于玩游戏的用户或者输入比较快的用户来说，是非常合适的。
+
+ K320w内置充电锂电池，搭配DURGOD低功耗无线技术，正常使用的情况，在满电的情况下可无线使用20—40天。
+
+ 
+写在最后
+K320w是一款非常实用且充满设计的键盘。
+👉满足我对生产力的要求。原厂樱桃轴、卫星轴大键、87键输入以及其他两段式脚程等设计，满足人体工学的设计的同时，让输入更有效，键盘指哪打哪。
+👉无线方面也做的非常到位。一把键盘能够切换4台不同的设备，足够应对现在家里的极限设备数。
+ 
+ 
+
+
+
+
+
+0
+0
+
+
+
+
+
+扫码分享</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">618出差好物分享：也许这些你也喜欢呢？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67274">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>夏天到了，又进入出差模式。仔细想想好像上半年出差不多，反而到了夏天竟然开启了出差模式。日在路途做好充足准备才能避免让自己人在囧途吧。平时出差多是省内短途，所以日常携带随身衣物就行了，而且大多是短途基本都自己会开车，所以随身一个双肩包带着电脑一类的电子产品即可。先上大合照吧，日常外出会带一台MBP，所以在包的选择上会是内胆包+双肩包的组合。开会的话内胆包+笔记本和手机就行了。
+
+工作原因我日常是硬盘大户，随身至少携带两个移动硬盘。目前的配置是一个LaCie的Rugged USB-C 4T 三防移动硬盘作为日常外出的备份，基本是回到酒店就对一天内拍摄的视频、照片进行备份整理。而绿联的PSSD则在每天对拍摄的视频进行快速备份，绿联这个是支持NVMe SSD的，内部是一个希捷酷玩固态 520 1T容量的SSD。
+
+LaCie的Rugged系列三防硬盘应该是很多摄影、摄像以及后期用户的首选了，便携三防设计最大程度上满足用户的需求，名片一样的橙色硅胶保护壳更是其标志一样的存在。而且现在购买还送2年质保期内的免费原厂Rescue数据救援服务一次。一直以来都会选择LaCie的产品，对于这个品牌的信赖度也是非常高的。
+
+更新的Type-C接口配合MBP也更加方便，随机附送两根数据线。可以方便C口用户或者USB-A用户选择。
+
+LaCie的移动硬盘之外，在外面工作时我还选择PSSD来作为日常存储使用。相比一体化的解决方案我选择的是绿联的M.2 NVMe移动硬盘盒+希捷酷玩固态 520 1T SSD作为日常高速存储。这款M.2硬盘盒采用USB-C 3.2接口，理论传输速度2000MB/s。同款也有雷电3接口的版本可选，但是当下我觉得还是USB3.2 Gen2x2的兼容性更强。搭配希捷的酷玩固态 520 1T SSD，不论在容量还是速度上都可以满足我日常在外高速备份的需求。
+
+本身这样高速读写的M…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">众山小读书笔记：让你多一个爱上阅读的理由</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67271">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>众山小读书笔记
+我是一个非常喜欢阅读的程序员，一直以来的困扰就是找不到好用的读书笔记软件。
+我平时会读纸质书，也会在 Kindle、微信读书、豆瓣阅读等平台读书，一直纠结于笔记散落分布在各个平台的问题。除此之外，我还特别喜欢量化自我（Quantified Self），特别喜欢记录自己相关的各种数据，做成统计图，了解并激励自己，因为我相信——
+If you can&#x27;t measure it, you can&#x27;t improve it.
+我尝试过各种方式。
+首先是使用纸笔记录，这和另一个方案 iPad + Pencil + GoodNotes 比较类似。优点是笔记形式相对灵活，不仅仅是文字、图片，还能以非常自由的形式整理思路。对我个人来说，也非常享受手写的乐趣。但是，这一方案有三个我非常不能接受的缺点——首先是我不太可能随时拿出纸笔或 iPad 记录（比如坐地铁），这就导致很多时候为了不错过记笔记，我只能选择在一些本可以读书的时间不读书了。另一个缺点是，记笔记的效率比较低，虽然抄写可以在一定程度上加深记忆，但是并不是所有书都适合精读，这样整体上就会比较浪费时间。第三，记完之后很少会再去看那些笔记，就算真的想寻找印象中的某条笔记，也比较难搜索。
+各类 App 当然也尝试了个遍（我后来意识到，这个尝试的过程相当于是在做竞品调研了）。App 主要分为这么几类：一类是通用类型的笔记软件，并不专以读书笔记为主。这类软件就其本身的功能来说有不少是完成度比较高的，用来做读书笔记也不是不行——事实上，在我自己做读书软件之前，主要是以印象笔记来记笔记的。但问题是，对于 Kindle、微信读书平台上的笔记，没有很好的集成方案。而且我不太喜欢用一个印象笔记的页面来记整本书的笔记，我希望有个软件是以“书”作为核心去辐射功能的。也有一些支持导入 Kindle、微信读书的软件，大部分完成度都比较低，不管是…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">2020 年单向街文学奖年度作品《夜晚的潜水艇》：深蓝色的无尽想象</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67268">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>这大概是我很难用语言描述的一本书，一部分原因是因为我自己非常喜爱它，另一部分原因是因为这本书的语言已经让我的描述相形见绌。
+《夜晚的潜水艇》是由九篇短篇小说组成的集子，倘若要说这九篇小说有什么共通点的话，应该就是想象了。关于孩子幼年的想象，关于寺庙里字碑的想象，关于裁剪云朵的想象，关于《红楼梦》本身存在意义的想象，关于一只唱出绝妙旋律就会烧成灰烬的鸟的想象。非常有趣的是，这些想象的源头来自于这本书的第一篇小说，也是与集子同名的《夜晚的潜水艇》。
+陈春成将自己的想象构建到一个广袤的范畴里，不同于许多青年作家描写生活与周遭，（譬如淡豹的《美满》着眼于承受生活诘难的家庭），陈春成更偏向于设计那些奇怪的幻想，在读他的小说时我偶尔嗅到《聊斋》的气味。尤其是《裁云记》里坐巴士的狐狸和斗地主的乌龟，跳脱的不同物种生命体之间的对话与互动，或许能更加方便地触碰到那些永恒的命题。在接受澎湃新闻专访时陈春成说：
+
+“我确实不太涉笔自己经历，更倾向于它将藏在一些细节中，哪怕是离奇的幻想中，成为倒影、流光或气味。也许偏爱‘沉重现实’题材的读者会觉得其中几篇幻想故事缥缈不实，缺少对生活的关注、对困境的回应。不过我想，应对现实世界的法子并不这么单一，除了如实描摹它，我们还应当有能力另行构建一个世界。将米酿成酒，不如米饭管饱，给人以生活的气力，但于生活之外，提供一种醉意和超然，也挺好。而且留心的话，即便是最离奇的几篇故事里，也有对现实的鲜明映照。”
+
+关于《夜晚的潜水艇》
+这篇小说更像是陈春成的自述，故事里的小孩从初中起就被旺盛的幻想所困扰，他借由自己的知识和想象，在脑海里为自己造了一艘潜艇，准备潜入深蓝的海底，无论是副驾的皮卡丘又或者是妙蛙种子都是得力的助手。幽蓝深邃的海底里有着他七岁时因考察而消失大海的海洋学家的爷爷，也有与博尔赫斯相同命运的硬币。1966 年的博尔赫斯在甲板上向海里扔下了一枚硬币，他…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Xbox Series S 一个月使用感受：存储不够用？不存在的。</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67266">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>原载于我的博客：https://lutaonan.com/blog/xbox-series-s/
+把这台 Xbox Series S 抱回家已经有一个月了，当时在淘宝搜索了现货，正好店家就在广州，直接把它自提回家。
+
+这是一台欧版的机器，人民币 2700 入手。
+开箱
+箱子打开，主机比想像中要小得多：
+
+然后开机。第一件事当然是开通 Xbox Game Pass 啦。一个月 79 港币，第一个月还免费，还是很划算的：
+
+你可以在 https://www.xbox.com/zh-HK/xbox-game-pass 看到 Xbox Game Pass 的所有游戏。
+
+外观
+这是我第一台 Xbox, 之前买过 PS4, 现在也有 Switch. 我不是一个很硬核的玩家，我看中 Xbox 的首先是它的外形，非常立体有棱角：
+
+既能竖放，也能横放：
+
+游玩体验
+我在拿到机器之后下载了《地平线4》和《光环：士官长合集》, 我自己目前用的电视比较垃圾，只支持 1080 60fps, 所以也感受不出画面的质量，而且 Series S 也不支持 4K. 在普通的显示器我认为比较满足我这种非画面党。
+《极限竞速：地平线4》非常不错：
+
+不得不说的是传说中的 Quick Resume, 可以在不同的游戏之前快速切换，而不像之前玩其它主机一样玩另一个游戏需要先关闭目前在玩的游戏：
+
+花了 4 个多小时通关了《瘟疫传说》，个人认为在游戏性上比《最后的生还者》好玩一些：
+
+在 Xbox 的 App 上可以直接获取游戏时截取的图片和视频（比 Switch 好得多了）：
+
+比较不爽的点是手柄是用两块电池供电的。原装配的电池大概用了 10 个多小时就没电了。测试了一下连着 TypeC 的线，可以有线供电，但无法充电。
+
+另外，这台机器完全没有声音（或许是我玩的游戏不够硬核？），比我的 NAS 还安静。
+存储空间
+相信除了性能之外，Xbox Series S 最让人难以下手的应该是存储空间 —— 它只有 500G 的 SSD. 这是什么概念呢，以下是我玩的一些游戏和它们的体积：
+
+《瘟疫传说》 40+GB
+《战地1》75GB
+《光环：士官长合集》95GB
+《巫师3》40GB
+《荒野大镖客》120GB
+《地平线4》66GB
+
+平均每个游戏 50GB 来算，能装大概 8，9个游戏，这是比较乐观的算法。对于非重度的游戏玩家，我觉得还可以接受。但是，轻度玩家如我，事实上居然也差不多装满了。虽然也不是每个游戏都在玩，有些游戏是留着突然有空的时候才玩一下，如果空间不够所以删了，想再玩又要下载一遍，就非常难受。
+当然在主机的背后有一个 SSD 的扩展插槽，但是官方推荐的希捷的 1TB SSD 要 2688 人民币（应该不会真的有人买吧）。
+决定买 Series S 之前我也有这样的犹豫，但是，在机器到手后，我发现了一个在很多评测文章都没有提到的信息：主机也支持接入 USB3.0 的移动硬盘！
+细心的朋友也许会发现，在上面的图中，我的 Xbox 旁边出现了一块移动硬盘：
+
+是的，没错。我当初抱着试一试的心态，把我闲置的 1TB 的移动硬盘，插入到了 Xbox, 根据系统提示格式化之后，就可以作为外置存储正常使用：
+
+你可以在系统设置下载的游戏默认下载到外部存储。
+然后可以把外部存储的游戏移动到内部存储，或者反过来：
+
+而且神奇的是，在储存在外部存储的游戏，是可以直接启动的。根据我的测试，我玩的游戏在外部存储和内部存储启动的情况下，没有感觉到运行速度有什么区别。而且 Quick Resume 的功能也同样能用。这个 300 块钱的移动硬盘为我的 Xbox 扩充了 1TB 的存储。
+总结
+对于我这种轻度游戏玩家来说，Xbox Series S 算是一台很高性价比的游戏主机了。而且 Xbox Game Pass 提供的游戏也很不错（我最期待的飞机模拟 7 月 27 就要上线 Xbox 了），价格也不算贵，在特别忙没时间玩游戏的时候，可以停止续订，等有空的那个月才订阅。如果不是对画面有要求，我觉得 Series S 是个不错的选择。
+
+
+
+
+
+0
+3
+
+
+
+
+
+扫码分享</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">乌克兰警方逮捕了勒索软件黑帮 Clop 的六名嫌疑人</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68053">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>乌克兰警方与韩国警方合作逮捕了勒索软件黑帮 Clop 的六名嫌疑人，扣押了大量现金、包括特斯拉和梅塞德斯在内的汽车，以及大量苹果电脑。Clop 据报道去年以韩国 E-Land 集团为目标，在 12 个月内窃取到 200 万信用卡信息。在进入该公司内网之后 Clop 部署了远程访问木马 Flawedammyy。趋势科技称，在最臭名昭著的勒索软件黑帮 Conti、Doppelpaymer、Egregor、Clop 和 REvil 中，Clop 在网上公开了 5 TB 窃取的数据，超过其它勒索软件黑帮。它攻击的美国目标包括了斯坦福大学医学院、马里兰大学和加州大学。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">亚洲国家在疫苗接种率上落后</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68052">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>在遏制新冠病毒方面曾处于世界领先地位的亚洲国家，如今在疲于摆脱病毒的困扰。一个重要原因是在疫苗接种率上落后。在亚洲，约有 20% 的人至少接种过一剂疫苗，以日本为例，这一比例仅有 14%。相比之下，法国这一数字接近 45%，在美国超过 50%，在英国超过 60%。中国的情况略好，据报道中国总共接种了近 9 亿剂疫苗。由于疫苗接种在亚洲各地都处于滞后状态，因此任何有力的国际重新开放也会滞后。澳大利亚表示将继续关闭边境一年。日本目前禁止几乎所有非日本居民入境，而中国对海外入境人员的严格审查导致跨国企业失去了关键员工。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Android Messages 应用开始提供端对端加密</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68051">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Android Messages 消息应用开始向每一位用户提供端对端加密功能。但目前端对端加密只支持用户个人之间的聊天，不支持群聊。聊天双方都需要启用 Rich Communication Services (RCS)聊天功能，如果你看到发送按钮上有锁的图标，那么你发送的消息将是加密的。Beta 测试用户从去年 11 月开始就可以使用端对端加密，本周开始 Google 将该功能推送给所有用户。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Windows 11 镜像和屏幕截图泄露</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68050">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>微软曾经声称将会永远更新的 Windows 10 将于 2025 年结束支持，而接替它的 Windows 11 的 ISO 镜像和屏幕截图也都泄露在网上。Windows 11 一大变化是其 UI，任务栏默认在底部中心位置显示，微软在设置里提供了选项可选择在底部左侧或右侧显示。泄露的 Windows 11 构建号是 21996.1，在很多方面它整合了微软此前放弃发布的 Windows 10X。Windows 10X 是微软对 Google Chrome OS 的回应，设计作为一种简化版的 Windows 10 提供给教育和一线工人市场，它原计划在 2021 年推出。但微软后来表示，它认为 Windows 10X 的技术能在更多方面有用，能比最初预计的服务于更多用户，它将把 Windows 10X 的关键技术整合到 Windows 等产品中，</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">亚马逊屏蔽 Google 的 FLoC</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68049">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>亚马逊屏蔽了 Google 受争议的替代数字广告跟踪技术 FLoC（ Federated Learning of Cohorts）。亚马逊旗下主要电商平台 Amazon.com、WholeFoods.com 和 Zappos.com 等都部署了代码屏蔽 FLoC。 FLoC 通过收集用户的网络活动数据然后推断出他们的共同兴趣，将有共同兴趣的用户划分到一起，据此展示广告。但用户的兴趣是变化的，FLoC 需要不断收集数据重新计算和重新分类用户。电商巨头的行动将打击 Google 收集用户数据的努力。亚马逊大约是从上周四开始在网站中加入屏蔽 FLoC 的代码，在这之前 WholeFoods.com 和 Woot.com 都没有看到相关代码。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">淘宝大量用户信息泄露</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68048">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>商丘市睢阳区人民法院 6 月 3 日在裁判文书网公开的刑事判决书显示，两名犯罪分子在淘宝爬取并盗走大量数据。经过检方核实，被盗取的淘宝用户数据近 12 亿条。淘宝去年 8 月 14 日报警，有黑产人员通过接口，绕过平台风控，批量爬取数据，爬取内容包括买家UID、淘宝昵称、用户手机号等敏感信息。淘宝在一份声明中表示，没有用户资讯被卖给第三方，也没有发生经济损失。法院裁定，这家公司一名员工收集超过 10 亿条淘宝用户资讯，虽然是用以为客户提供服务，但该员工及其雇主判处三年以上监禁，并处以总计 45  万元人民币的罚款。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">蔡崇信称马云现在很低调</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68047">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>CNBC 在布鲁克林篮网主场巴克莱中心采访了阿里巴巴集团副主席蔡崇信，他表示过去几个月一直销声匿迹的公司联合创始人马云目前的状况很好，只是很低调，大部分时间都花在个人爱好上，如搞慈善和画画。马云去年 10 月之后就基本退出了公众视野，阿里巴巴关联公司的蚂蚁集团 IPO 被叫停，阿里巴巴也因为反垄断行为处于巨额罚款，公司的金融业务也被要求重组。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">任天堂透露《塞尔达传说荒野之息》续集</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68046">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>任天堂在 E3 2021 上透露了《塞尔达传说荒野之息》续集的首个游戏片段（YouTube）。《荒野之息》的游戏背景将从地面转移到天空，游戏主角林克穿梭在云端，探索云中之城。《塞尔达》系列制作人  Eiji Aonuma 表示开发工作稳步前进，游戏的预定发售时间是在 2022 年。续篇的正式名字尚未公布，因为名字暗示了故事。任天堂还宣布了《银河战士》系列相隔 19 年后的新作《Metroid Dread》，发售时间 2021 年 10 月 8 日；以及《真女神转生V》，11 月 12 日发售，等等。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">神舟十二号计划于周四上午发射</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68045">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>中国载人航天工程办公室主任助理季启明宣布，神舟十二号载人飞船将于 6 月 17 日 9 时 22 分发射，飞行乘组由航天员聂海胜、刘伯明和汤洪波三人组成。聂海胜担任指令长，备份航天员为翟志刚、王亚平、叶光富。聂海胜参加过神舟六号、神舟十号载人飞行任务，刘伯明参加过神舟七号载人飞行任务，汤洪波是首次飞行。季启明表示，神舟十二号载人飞行任务是空间站关键技术验证阶段第四次飞行任务，也是空间站阶段首次载人飞行任务，任务有以下主要目的：在轨验证航天员长期驻留、再生生保、空间物资补给、出舱活动、舱外操作、在轨维修等空间站建造和运营关键技术，首次检验东风着陆场的航天员搜索救援能力；开展多领域的空间应用及实（试）验；综合评估考核工程各系统执行空间站任务的功能和性能，进一步考核各系统间的匹配性和协调性，为后续任务积累经验。按计划，神舟十二号飞船入轨后，将采用自主快速交会对接模式对接于天和核心舱的前向端口，与天和核心舱、天舟二号货运飞船形成组合体。航天员进驻核心舱，执行天地同步作息制度进行工作生活，驻留约 3 个月后，搭乘飞船返回舱返回东风着陆场。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">中国手机出货量连续两月下降三成以上</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68044">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>中国信息通信研究院周三发布报告称，5 月中国国内手机出货量 2,296.8 万部，同比下降 32%，其中智能手机出货量 2,260.4 万部，同比下降 30.8%。这是中国国内手机出货量连续第二个月同比大幅下降，4 月国内手机出货量同比降幅达34%。不过，1-5 月，国内市场手机总体出货量累计 1.48 亿部，同比增长 19.3%，其中智能手机出货量 1.46 亿部，同比增长 20.3%。信通院报告解释称，4、5 月份手机出货量同比有所下降主要受三方面因素影响：一是一季度国内市场手机出货量同比增长超过 100%，需求提前释放；二是产业链上游手机芯片供应偏紧；三是华为出货量大幅下降，其他厂商未能完全弥补华为空缺。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-06-15">2021-06-15</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -743,8 +1825,152 @@ Galleri 成为全球首款基于液体活检的多癌早检产品，其能成功
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://sspai.com/matrix">少数派 -- Matrix</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">2021 年，还在坚持 OneNote 的人想说....</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67243">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>开始之前，请让我们简单思考
+开篇想套用大学所学专业的一句话：“人生活在情境中”。如果我们抛开个人的使用需求和使用场景来谈笔记的使用，实则是抛开了最重要的问题：
+
+我的笔记需求的是什么？
+这些需求的优先级如何排序？哪些是必须满足的需求？
+现在可以使用到的产品中，哪款产品更贴近的我的需求？
+
+在进入正文之前，让我简单的介绍一下我的背景&amp;使用场景：我是社科专业的学生，本科毕业于北京一所双非学校的社会工作专业。本科毕业后进入一所国内不知名咨询公司做管理层尽职调查工作。我每天的工作内容就是通过各种方式（例如看大量的公开资料、做行业访谈）获取信息，给投资机构和基金公司出具定制化的报告。比较通俗的讲，我们最终做出的东西，就是类似浑水做空瑞幸的报告。
+我的笔记使用场景通常是以下2种：
+
+工作场景中：
+与客户沟通项目需求，记录客户的需求
+阅读大量公开资料填充自己的项目背景知识，对后续可能用到的资料进行存档
+在项目进行过程中对获取到的关键信息存档，为后续撰写报告提供可查阅信息
+
+生活场景中：
+对阅读到的文档、书籍进行存档，方便后续翻阅
+整理学习笔记，后续需要查阅时有内容可查
+撰写个人发布文章
+
+
+同时，我的设备是苹果全家桶+公司配置的一台Windows电脑。
+在这种使用场景和设备配置下，我对笔记的使用要求是：
+
+打开立刻可写，没有等待时间
+可以插入大量的图片和PDF，并且预览效果要好
+对阅读到的网页文章可以做存档
+
+目前选用OneNote作为主力笔记的理由
+相比印象笔记恼人的广告推送和不定期出现的促销活动，OneNote并不收费、整体使用感受比较清爽。
+OneNote的内容存储在Onedrive上，每个账号免费的Onedrive空间为5G，某宝上有一些商家可以将5G的Onedrive空间扩容至15G，他们使用是微软邀请新用户赠送空间的政策。个人感觉15G的Onedrive空间足够使用了，如果使…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">为什么说华为的「跨屏协同」是「东施效颦」</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67244">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>本文主要将从下面几个方面讨论:
+
+触控/光标框架设计
+连接性
+具体交互场景
+
+光标/触控交互框架设计
+熟悉苹果历史的都知道, 1984 年的 Macintosh 是个人电脑里程碑的一步, 其中基于光标拖拽操作就不亚于 2007 年 iPhone 多点触控的历史地位.
+而现在的 macOS, iOS 乃至 iPadOS, 实际上是基于 Jobs 离开苹果的 NextSTEP 时代的成果, 而非 Macintosh 的 MacOS Classic.
+
+从这个角度说, 不管是 macOS 的光标拖拽, 还是 iPadOS 的光标/触控拖拽, 实际上都是基于 Cocoa 体系. 在 M1 Mac 上, 不管是从 iPad App 拖拽文字/富文本/文件到 Mac App, 还是反过来, 都是可以支持的.
+从 Mac Telegram 拖动到 iPad 的豆瓣 App 的富文本编辑器
+而华为的多屏协同, 首先要考虑到 Android 最初根本就不是面向多点触控开发的平台, 其次这么多年来也没有系统级别的 Drag and Drop 实现.
+
+几个多屏协同的拖拽演示, 基本集中在文件管理器、图库和微信, 而且并不具备足够可靠的交互反馈, 特别是微信的支持, 感觉就像是调用了私有 API 而不是通用实现.
+
+作为对比, iOS 的第三方 Google Photo 图库也能支持多张照片的拖拽到微信, 并且微信也支持多图片的拖拽操作.
+
+即便不是图库, App 和 App 之间也能拖拽, 当然兼容的水平也有差异, 比如 Telegram 只支持单次一张图拖拽, 但是你可以用两只手指分别拖拽一张图, 然后顺序拖入.
+当然除了图片之外, 富文本的支持也必不可少.
+从知乎日报拖动富文本到 Typora
+另外, 在 Mac 上运行的 iPad App, 或者是接入了 Magic Keyboard 的…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">移动支付时代，如何便捷乘坐公共交通？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67237">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>进入移动支付时代，人们似乎已经习惯于只带一部手机出门的生活。乘坐公共交通是绿色出行的首选，那么，本文就来谈一谈顺便吐槽一下，乘坐国内的各种公共交通1时，都有哪些移动支付方式。当然，笔者才疏学浅，班门弄斧，如有错漏，还请指正。
+NFC
+NFC即Near Field Communication，中文一般译为近场通信。都说“NFC赛高”，随着NFC功能向中低端手机下放，使用NFC便捷乘坐公共交通嘲笑那群二维码堵门党一刷而过不是梦。
+NFC logo
+虚拟交通卡
+乘坐公共交通，使用交通卡当然是首选，大部分本地交通卡可以享受当地政策补贴下的各种优惠（如刷卡优惠、换乘优惠、累计优惠等等），而手机上的交通卡——虚拟交通卡就结合优惠和便利这两大特点。大部分虚拟交通卡需要先充值后使用，不能透支，需要押金或开卡费，有的充值甚至需要手续费，虽然有这么多缺点，但用起来还是真香😎。
+根据虚拟交通卡背后的技术，可以分为嵌入式安全元件（eSE）、基于主机的卡模拟（HCE）、近场通信用户卡（NFC-SIM）三类，其中eSE技术由于安全稳定而广为应用。
+
+在小米率先在智能手机上推出基于eSE技术的虚拟交通卡后，其他厂商纷纷跟进，展开了交通卡支持数量的“军备竞赛”。截至目前（2021年6月），以Huawei Pay交通卡支持的厂商最多，达到68种，vivo Pay交通卡紧随其后为59种，先驱Mi Pay交通卡支持54种，而以稳定免开卡费著称的Apple Pay交通卡目前支持17种2。
+而HCE技术则是Android手机的独占功能，作为eSE技术的补充，部分第三方App进行了适配。例如，微信推出了“腾讯乘车卡”小程序，使没有第一方交通卡支持的手机也能使用NFC乘坐公共交通。然而，HCE技术不方便之处在于，在实际使用时需要解锁亮屏（部分还需要打开对应App），与eSE技术相比体验差距较大。
+作为三大运营商力推的…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">让你做梦梦到广告</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68043">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>你可能做梦会梦到考试，那么你是否愿意做梦梦到广告呢？多个知名品牌正在与科学家合作通过视频和音频片段设计将广告植入到消费者的梦中。但这些研究引发了业内研究人员的抗议，认为应该对商业性的梦操纵进行监管。40 名研究梦的科学家指出这种广告梦是会有实际后果的，“我们的梦不能成为另一个企业广告商的游乐场”。认知科学家 Adam Haar 说，人们在睡眠特别容易受到“暗示”的影响。虽然目前操纵梦的实验还缺乏实用价值，但未来此类研究会可能得到改进。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Windows 10 可能在 2025 年结束支持</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68042">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>微软将于 6 月 24 日举行活动宣布下一代的 Windows，而下一代的 Windows 应该与 Windows 10 无关了。微软刚刚更新了产品生命周期文档，声明 Windows 10 家庭版和专业版将于 2025 年 10 月 14 日终止支持。Windows 10 是在 2015 年 7 月 29 日发布的，微软同时引入了 Windows as a Service 的概念，每半年推出一次较大的更新，而 Windows 10 的大版本号保持不变。最新的文档显示 Windows 10 这一品牌将很快走进历史。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">FBI 特工承认错误指控华裔教授为中国间谍</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68041">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>FBI 特工 Kujtim Sadiku 上周承认错误指控前田纳西大学 Knoxville 分校教授 Anming Hu 为中国间谍。Sadiku 还承认使用虚假信息向 Hu 教授施压让他成为美国的间谍。2018 年，美国司法部发起了“中国倡议”，指示联邦特工搜出在美国的中国经济间谍。美国大学的华裔教授很快就成为了倡议的目标。Hu 是首位受审的华裔教授。Sadiku 承认他是通过 Google 搜索 Hu 教授的信息后告诉学校官员 Hu 教授是中国军方特工，当时他没有证据证明这一声明。美国地区法官预计将在本周决定是以检方缺乏足够证据为由驳回诉讼还是让陪审团裁决。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">芯片短缺将导致更多的劣质仿冒芯片进入设备</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;68040">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>劣质仿冒产品并非新鲜事，而芯片的供不应求将导致更多劣质芯片进入市场，使得采用这些低于标准芯片的产品可靠性和寿命出现问题。Independent Distributors of Electronics Association (IDEA)创始人 Steve Calabria 表示他已经看到了问题的苗头。生产仿冒芯片比生产仿冒设备要容易得多，仿冒设备需要操作系统和硬件整合，需要让产品不会一眼就看穿。仿冒芯片面临的挑战要低得多。在亟需芯片的情况下，没有芯片生产线就要关闭的情况下，厂商不太可能严格测试收到的芯片。Calabria 相信这个问题已经发生了。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">Novavax 新冠疫苗有效率 90%</summary>
@@ -1758,6 +2984,34 @@ MoneyThings App设置-&gt;开启iCloud同步功能，并检查你设备的AppleI
                 </a>
               </details>
             </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">打破第四面墙的桥梁，我与游戏的音乐记忆</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67020">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+我已经很久没有写过游戏攻略和讨论，这都要感谢少数派作者 @黑狗布雷特 的那篇 《游戏摄影和我的故事：在电子游戏中寻找定格的艺术》 使我有了这一篇的灵感。
+在对第五艺术有更多的见解之前，音乐始终是绕不过的一个坎儿，但很难不承认，关掉音乐的游戏——哪怕是吃豆人，都会少不止一分的乐趣。
+音乐，于我而言更像是一种思考助力，或是一种曾经的生活。我尚且有过学过音乐的经历，钢琴虽然蒙着布数年了，但还是想着终有一天还要掀开那尘封的布……只是现在单纯的变成了一个听众，继续着这样的嗅探与感受。
+本文标题所指的「音乐」为原本仅为 Score，即纯音乐配乐，但现在的游戏其实已经不是只有纯音乐，Vocal 的加入使得游戏带有了更丰富的情感要素。所以话题也就自然扩充到一切与游戏有关的泛音乐话题，不仅仅是游戏内，游戏外的非同人衍生音乐也有了更多的话题可说。
+
+本文可能含有极高的情怀浓度，以及可能的剧透暗示 。
+
+组队任务 卷轴历险 《冒险岛》
+如果说《冒险岛》（MapleStory）是我的游戏音乐入门是一点不为过的。
+大约是在国服 043 的版本入的坑，《冒险岛》与我陪伴的岁月之长，甚至足以写就一本长长的流水账，所有的回忆都停留在大巨变版本以前。
+这是陪伴了我小学乃至初中时代全部的游戏，也是在我不经意间几乎氪光了我生活费的游戏——从扎昆到黑龙，再到品克缤；从天空之城到神木村，再到忘却时间的神殿。而当所有的记忆涌上心头，无一例外的情况就是那音乐会在脑海里响起。
+
+——即便是 登录音乐 也能够完整地听完六分多钟……
+这六分钟的登录音乐，其实完全是因为电脑引起的——…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
         </section>
       </li>
       <li class="source">
@@ -2534,6 +3788,172 @@ IDC 表示，本季度，全球市场经济的活跃推动了对服务器投资�
 
 在上述泄密事件的同一调查中，谷歌并未遵守传票的要求，在今年拒绝提交 4 名纽约时报记者的电子邮件数据。纽约时报律师说，谷歌认为，作为纽约时报电子邮件服务合同提供商，必须将政府的请求告诉该报纸。（天门山）
 本文链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://sspai.com/matrix">少数派 -- Matrix</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">浏览器插件发布，文件传输应用 Seamless 变身图片收集利器</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67201">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Seamless 简介
+Seamless 是一个基于苹果 CloudKit 的跨平台文件和文本传输应用，有原生的 Mac 和 iOS 应用，以及网页版。
+文件传输的选择方案非常多，Seamless 是其中新员。我们认为不同的场景需要配合不同的工具，这个领域没有万能药。比如被诸多用户津津乐道的 AirDrop，在仅需和自有 iPhone 传输文件时，仍要等待配对列表加载，然后从中点选，整个过程谈不上便捷，更不用提有时配对过程出乎意料地长。
+更便捷的跨平台文件共享是 Seamless 的设计目标。在只需和自己的苹果设备共享小文件和文本时，我们认为 Seamless 有着无可比拟的体验：上传文件的方式多种多样、默认按更新日期平铺文件列表以实现快速查找。
+Seamless for Mac
+Seamless for Mac 遵循苹果的设计指南，操作与 macOS 的访达应用相似。
+按下空格键即可预览文档，预览时通过上下方向键切换。
+还可以使用 ⌘ + ⌫ 删除选中文档，使用回车键重命名等。
+应用提供了多种上传文件的方式。除了在主应用菜单栏内选择添加文件外，还支持各种拖拽。你可拖拽文件到主应用、程序坞图标、菜单栏图标以保存文件。
+除此之外，Seamless 的「即时传送」功能也是一大亮点：按下快捷键或者双击修饰键（⌥, ⌘, ⌃等）即可上传选中文件，若当前未选中内容，则上传剪贴板。
+Seamless 对文本和文件一视同仁，以上操作同样适用于文本。
+Seamless for iOS
+Seamless for iOS 的最大亮点是通知动作：在开启通知权限后，iOS 应用可接收到新增文档通知，点击通知后将执行可配置的默认动作。
+比如在 Mac 应用保存一个链接文本，轻点 iOS 应用通知后，默认将在浏览器内打开此链接。
+这也是 Seamless 应用名称的来源：只需轻点一下即可在不同设备上无缝对接体验。
+偶尔在 iOS 上打开一个 Mac 上才有的链接（如 TestFlight 链接）时，此功能会显得极其方便。
+Seamless for iOS 通知内容截屏
+浏览器插件：Seamless 副手
+Seamless for Mac的浏览器插件
+Seamless 副手是今天的主角，一个为 Seamless for Mac 定制的浏览器插件。通过浏览器的右键菜单，你可以便捷地保存图片、链接、文字到 Seamless。插件还支持将链接另存为文件。
+采集网页图片和文件不过点击几下。
+插件支持 Chrome, FireFox, Edge 等浏览器，并对 Instagram 特别优化，可直接保存 instagram.com 的图片。
+保存网页图片，同步到所有苹果设备变得再容易不过。
+插件下载地址
+Seamless 副手 - Chrome 网上应用店
+Seamless 副手 – 下载 🦊 Firefox扩展
+更多信息
+App Store 上的「Seamless - 更好的文件传输助手」
+Seamless官网 - 取代文件传输助手，比 AirDrop 更方便
+ 
+
+
+
+
+
+2
+0
+
+
+
+
+
+扫码分享</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">炉石传说UI浅析</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67194">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>大家好，我是老人，一名《炉石传说》的四年老玩家，也是一名业余UI设计师。2017的夏天，我还是高中生，《炉石传说》凭借其业内饱受好评的界面，简单易懂的玩法立刻抓住了我的眼球。我看到了UI的未来——一套有实体感，动效微妙，全3D建模的生命体。
+
+木匣，宝石，和岩石
+实体感
+在《炉石传说》中，每件物品都具有「实体感」。小到「一颗」法力水晶，大到「一盒」卡牌收藏。
+尤其是在卡牌收藏界面中，每张卡牌都由特定的材质组成，带有恰到好处的阴影，让你一看就明白「这是一张可以堆叠，收藏的卡牌」。卡牌收藏的外框也由羊皮纸，木框，红绸纸等材质构成，外观看起来就像现实生活中的「一个祖先流传下来的宝匣」。
+《炉石传说》的卡牌收藏界面
+这种「实体感」，极大增加了游戏界面的亲和力，降低了新手游玩的门槛。因为游戏界面中拟真的材质，很容易让人联想到是在影射现实生活中的哪个熟悉物体，从而降低了学习成本，用户也不用再去思考「这个界面是做什么用的？」。 
+甚至就在《炉石传说》的卡牌描述里都饱含着关于「实体感」的暗示。例如：「洗入牌库」而非「置入牌库」 「消灭随从」而非「移除随从」。这些细节都能帮助用户更快地融入进游戏规则。
+当你可以用现实生活中的经验去理解一个游戏，这个游戏对你而言就不再陌生。
+《炉石传说》中的卡牌描述
+反馈力
+UI的很大一部分作用便是告知用户：「你做了什么」，并引导用户「接下来该怎么做」。《炉石传说》很好的做到了这点。
+简洁易懂的插画与教程能让新人很快的理解游戏机制，而对用户操作的「反馈」则是对这一理解的升华。在「炉石传说」中，你每执行一次操作，都能得到相当足的「反馈力」。例如：
+•  按下按钮时的金属声，按钮看上去就像真的被压下去了。
+•  发生重大事件时的屏幕震动。
+•  每位角色被用户操作攻击时都会呐喊台词。
+《炉石传说》中的部分按钮
+风格化
+由风格迥异的材质构建的游戏界面，带来的另一个显…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">「说人话」的复式记账语言：Beancount</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67198">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>「记账」始终是个人记录当中一个热门的话题。由于自己从事金融行业的缘故，对于这个话题也是格外关注。从最初用 Excel 记录，到后来使用各种主流的记账软件，我也经历了几轮流程的迭代和数据的「乾坤大挪移」。特别是去年开始，国内开发者的各种记账 app 层出不穷，基本上每周都能看到新的程序出现。对于我这种喜欢尝试新玩意儿的人来说，颇有些选择困难。但记账毕竟和其他的一般需求不同，它有着它的特殊性。可能是我个人比较挑剔，在使用了多个记账软件之后，我始终没有找到百分百合我心意的。其中几个常见的痛点包括：
+
+记账逻辑：软件难以在便利性和多功能之间维持一个微妙的平衡，况且每个软件的逻辑都有细微的不同。例如，通过点击还是滑动触发记账，记账界面是否包括许多不需要的栏位，报销是否计入支出，修改余额是否会记录一笔分录等。
+迁移成本和稳定性：这一点对于个人开发者尤为如此。目前各个程序之间的账务数据暂时还做不到完整迁移，一旦开发者暂停软件的支持，或者后台服务器停止运营，软件变成了离线模式，想转投其他软件也要大费周章
+
+在零散地更换了几个记账软件之后，我决定静下心来，想想自己的需求，以及如何更好地、长期地实现。细想了一下自己在各个软件里的日常操作和背后的个人思维，我发现用的是哪款软件，我脑内其实是用了「复式记账」的会计思维。对于不同的软件，我利用的是他们的账户特性、交易分类等功能来实现自己的脑内分录。那与其用多步转化，为何不直接用「复式记账」来进行？于是我在网上遇到了 Beancount。
+说实话，第一次见到 Beancount 我内心是拒绝的。纯文本环境，还要用 python 命令，修改参数等等。即使我学过些编程的皮毛，但骨子里的文科生本质还是对这么硬核的记账方式有些抵触的：这如何下手？在犹豫了一周之后，我鼓起勇气用一晚上时间完成了学习和初始化，两天后就决定全面搬迁到 Beancount。
+
+它并没有…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">618 键盘购买指南：国产外设品牌，高颜值&amp;特色键盘盘点</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67199">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>作为一名打工人，每日坐在电脑前敲敲打打！
+618快到了，有没有想犒劳一年辛苦的自己，为自己选购一款手感舒适的键盘呢？一款适合自己的键盘，既可以提高工作效率，也可以缓解因长期码字而造成的“键盘腕”哦！
+
+因工作关系，近几年体验过数十把机械键盘，去年针对键盘的不同配列进行过盘点，也详细介绍了什么是机械键盘，轴体分类等，感兴趣的朋友可参考之前文章，这里就不重复介绍了。
+ 
+ 
+近几年国产品牌突飞猛进，不仅重视键盘的手感，连外观颜值都具有超高分数！特别是黑爵、IKBC、杜伽、洛斐等国产品牌。
+
+这里就按照品牌，一一推荐给大家几款颜值在线、手感又舒适的国产机械键盘！不管你是肌肉猛男，还是送给漂亮妹子，均是不错的选择哦！
+一、黑爵（AJAZZ）：K620T热拔插双模机械键盘
+
+关键词：热拔插、多媒体滚旋钮、手机支架
+价格：粉黑两色429元；黑白两色349元
+
+黑爵这款K620T共有黑、白、粉、蓝四种纯色可供选择，黑白两色是不支持热拔插的，蓝粉两色则支持热拔插！
+
+相信不少外设玩家，都很喜欢DIY更换轴体，定制属于自己喜欢的轴体，享受自由的“按键体验”！这款黑爵K20T粉色/蓝色两款，能兼容市面上99%的机械轴体，能如你所愿的替换你想要的任意轴体，可以根据自己的码字习惯，DIY 一款专属自己的“机械键盘”！
+
+轴体方面，采用黑爵自主研发的粉轴体，具有一定的降噪功能，敲打声音不大，适合在办公室等安静场所使用，且轴体直上直下，机械感较弱，轻松自如，即便长期码字也不会感到手腕疲劳。
+
+除此之外还有兰轴；两者不同的是，兰轴是极具代表性的机械轴，机械感强、段落感强，有很好的节奏感，码字时咔咔咔，干脆爽快，声音也很清脆！特别适合居家游戏时使用，能带来很好的游戏体验！
+
+键盘布局方面，采用创新的61按键，整体尺寸为：298.7mm×137.6mm×45.7mm，布局简约，外观小巧精致，单手均可轻轻举起…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">flomo weekly vol.28：批注升级 - 连接塑造系统，而非节点塑造系统</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67195">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>如果你玩过模拟城市就知道，城市的发展很大程度上取决于连接的方式 —— 如果没有高速公路，那么大家就会因为通勤问题导致不去上班；而如果到处都是大道而没有小路，居民又会抱怨没有休息交流的空间。而这些会导致整个城市无法发展。
+当你着急抵达某个地方的时候，你会考虑开车上高速，或者直接地铁直达。但当你想要放松或者随意漫步的时候，高架下面绝对不是一个好选择。
+一座城市的连接方式（交通），某种意义上塑造了这座城市，而不是高楼大厦塑造了城市。
+
+ 
+想象一下我们大脑中的知识，从来都不是一个分门别类整齐划一的图书馆。而更像是一个不断在扩展的城市，有高楼大厦，也有公园和贫民窟，被各种道路相连 —— 搜索就像是高铁，精准快速，但是无法到达铁路以外的地方，也不能中途下车；而标签像是大道，兼具了效率和精确度，但是很难通过大道直接抵达两个指定地点；而家门口的小路，则承担了散步，发呆，购买东西，社交等等功能。
+在一篇介绍卢曼的 Zettelkasten 方法中[1]，也提到过类似的观点。搜索是到达指定卡片的确定性手段 —— 它们每次都产生相同的结果。手动添加的链接是精选的参考资料 —— 创建一个链接的想法是独一无二的，它更加个性化，因此更适合帮助你思考。
+
+手动链接到另一个卡片，可以长时间巩固这种自发的联系。你可以给链接添加注释，以提醒你未来的自己注意上下文。所有这些可能对你有意义，而且只对你有意义。毕竟，这是你的第二个大脑，也是其存在的意义。
+flomo 之前只有搜索和标签，而我们最近将批注功能升级后，你就可以在 MEMO 之间，建立林荫小路了。
+MEMO 连接的价值：生成新的知识
+举个前几天发生的具体例子：
+
+前几日做直播的时候（回看点此），我先在 flomo 中记录了一些关于知识管理的内容，被放在 #知识管理 这个标签下。
+其中关于知识的特征让我想起了另外一个之前记录的卡片 —— 以投资的视角看待…</span>
                   </div>
                 </a>
               </details>
@@ -3407,6 +4827,82 @@ Elon 在发布会上公布了基于美国国家公路安全管理局数据库统
 2021 款新 Model S 排名第二，但其实过去三年特斯拉不断改进的远不止 Model S，以至于曾经的第二 2018 款 Model S 已经掉出 Top 5 了
 
 所以结论很清晰，特斯拉对新 Model S 的车辆工程进行了重新设计。从官网释放的白…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">如何绘制拟物图标——向 Big Sur 看齐</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67184">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>01绘制底座
+
+打开Photoshop，新建一个文档。
+
+       我们推荐你创建大小为 512x512px 的正方形文档。
+
+使用圆角矩形工具，绘制下面的图形。
+
+对圆角矩形进行润色。进入图层样式，为其设置渐变叠加和投影
+
+ 
+02绘制小三角
+ 
+
+同样使用圆角矩形工具，绘制如图三个形状，注意图层顺序。
+
+    ！注意对齐中心的等边三角形。
+
+对小三角进行润色。进入图层样式，分别为每个圆角矩形设置三层内阴影。
+
+这时你一定发现了一个问题：和原图架构有些稍微不一样。原图的图层顺序非常微妙。要达到这个效果，我们只需要使用矩形选择工具将下方的横杠裁剪成两半，然后一个放上面，一个放下面。
+
+    ！裁剪之前，注意将横杠的图层样式栅格化
+
+ 
+03绘制阴影
+
+进一步分别对横杠进行润色：用钢笔工具绘制如图所示的淡蓝色阴影形状，为其减少一些透明度并对尾部进行模糊滤镜处理。然后，放置在对应的横杠下面。
+
+    ！尽量避免使用纯黑阴影。
+
+就要完成了！最后一步便是再为小三角添加一层阴影。将三根横杠合并为一个组，为其添加图层样式&gt;投影。
+
+    ！为了获得更好的效果，请使用多层投影。例如，图中我使用了三层投影。
+
+完成！
+
+
+
+
+
+
+15
+0
+
+
+
+
+
+扫码分享</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">面对职业教育缺失，科研打工人能做什么</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/67181">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>最近有两件事让我感触比较深，一件发生在自己身上，是之前找工作初期的迷茫与局促；另一件是公共事件，最近发生在复旦大学的教师杀人案件。关于公共事件，目前官方披露的实际细节并不全面，当事人双方我也完全不了解，这里无意讨论。但这两件事让我联想到了一个国内长久以来存在的问题：针对高校学生和科研工作者的职业教育缺失。
+职业教育（Career education/Vocational education）的目标是获得和提高从事某种职业所必需的知识以及技能。在我的理解中它应当包括毕业生的职业规划和求职相关教育，自然也应当包括对即将从事科研工作学生的职业发展指导和教育。
+大多数学生（硕士博士尤其如此）埋头苦读，在实验室搬砖几载。进入职场之前很多人连怎样找一份工作，如何准备一次面试和谈薪资都不清楚，更遑论保护自己打工人的权益。对于读完博士甚至是博士后想要进入学术界的人来说，辛辛苦苦当上青椒（青年教师），面对各种竞争和社会机制时无法调整好心态和无法及时融入的情况也很常见。
+过去一年，我因为做一个关注研究生科研生活的播客「熊言熊语」有机会接触到很多不同专业的同学。大家对于科研学习最高频的吐槽已经变成「能够在一个正常实验室过几年就已经很不错了」。有一个行为思维正常的导师和身边是一群行为思维正常的同学似乎都变得有点奢侈。也许有人说只有偏执狂才能有伟大的发现和成就伟大的事业，但绝大多数投身科研的也都是普通人而已，科学家少有，科研工作者常在。
+可迁移技能
+每每聊到相关的话题，我们总喜欢把科研中的这些问题归结于某个人的「低情商」或者「心理素质不过硬」，但这个锅情商不能全背。在硕博士研究生阶段除了科研培训，重视培养学生的可迁移技能（transferable skills）同样是不可或缺的部分。无论选择留在学术领域还是转到其它领域，可迁移技能对他们未来的职业道路都至关重要，这些技能将会更好地支撑个人的研究和专业…</span>
                   </div>
                 </a>
               </details>
@@ -23695,252 +25191,13 @@ Ap…</span>
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">「深度工作」的人生有多爽？不是工作狂，在职业生涯上却如同开挂！</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66726">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>优秀≠忙碌
-我们总以为那些在职业上取得巨大成就的人，肯定都是废寝忘食的工作狂。但事实真是如此吗？
-今天我们就来聊聊：那些优秀的人，是如何工作的。
-村上春树是一个非常高产的作家，从1979年到现在的40余年里，他已经写了超过40本书。那么问题来了：在如此高产的背景下，村上春树每天在写作上花费多少时间呢？
-根据《创作者的一天世界》一书中的介绍：他每天早上4点起床，在洗漱和用过早餐后，便会一直写作到早上10点。所以他每天花在写作上的时间是5个小时左右。其他的时间他会用在运动、听音乐、看书和翻译书籍等事情上。
-
-无独有偶，让我们来看看“进化论之父”达尔文的生活和工作。作为一个生物学家，达尔文真的非常热衷于观察事物。有多热衷呢？
-这么说吧，普通人当爹的话，顶多就学会换尿布、泡奶粉之类的。但达尔文的大儿子出生后，他通过观察并记录自己儿子在婴儿期的行为、表情，以及后天的成长和学习过程，最后写了一本叫做《儿童成长简介》的书。这操作是不是很秀？
-那么，在学术上登峰造极、生孩子还不忘研究的达尔文，每天工作多长时间呢？
-答案是：4.5个小时！
-
-如上图所示，他将每天的工作时间切割成3份，每份1.5个小时，然后在早晨和午后的固定时间…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">本月玩什么 | 生化危机村庄、质量效应合集、宝可梦大探险、月风魔传</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66721">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>从这个月起，本系列将正式升级为「本月玩什么」栏目，依旧将从作者个人角度出发，为诸位读者挑选、简介本月新发售的部分游戏作品/内容，主要涵盖 PlayStation、Xbox、Nintendo、PC 和 iOS/Android 等主流平台，期待里面有能勾起你兴趣的好玩意儿，也真诚感谢所有喜欢本栏目的朋友。
-与此同时，本栏目还强势新设了有奖互动环节，详情在文末哦。好了，别的废话不多说，让我们正式开始本月新游的点评，上干货：
-生化危机 村庄 / Resident Evil: Village
-
-「洗手液战神」伊森·温特斯传奇再续。
-
-推出日期：2021.05.07
-对应平台：PlayStation、Xbox、PC
-
-本作为《生化危机》系列第八部正统作品，也是第七部的直接后续，故事依然聚焦前作主角伊森·温特斯（Ethan Winters）及其家人，续写这段「普通人的生化危机」传奇故事。
-从宣传片可以得知，浩劫之后，受反生物恐怖机构 BSAA 的保护，伊森与妻子米娅开始了平凡生活，还诞下了女儿萝丝；但数年之后，BSAA 的领导者克里斯·雷德菲尔德（Chris Redfield）再度现身，前作中助伊森逃出「真菌」魔爪的这位系…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">有无人机，我就是不飞，就是玩：Air2S 别样使用体验</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66719">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>当无人机有时候飞不了之后，那就一机走天下吧，DJI Air 2S别样玩法。 
-「无人机」到底是「会飞的照相机」还是「带照相机的飞行器」？
-这个看起无关紧要的问题，却关乎着无人机出口的顺畅。
-如果主语是「飞行器」，各国就得按照「飞行器」进行监管，贸易管制条例就比较严格，容易形成非关税贸易壁垒。
-如果主要是「照相机」，就是一件普普通通的消费品，没有其他多余的壁垒的条件。
-世界海关组织协调制度委员会(HSC)第62次会议，「大疆无人机」归类「会飞的照相机」。解决了出口的问题。
-
-当然，我们要要讨论的也是不是出口或者国际贸易。
-而是谈谈无人机的用法。
-主语的不同，潜意识上也会带来不同的用法。 
-如果主语是飞行器，我们会认为无人机的用法，就是飞起来，然后再拍摄。
-如果主语是照相机，那么一台照相机能做的，他也能做，而且，他还会飞。
-当我们以「会飞的照相机」的视角去审视大疆刚刚推出不久的DJI Air2S时，除了是一台极其优秀的无人机外，有着出色的图传和避障，还有各类一键运镜的大师镜头之外。
-你会发现他是一台极其优秀的照相机。 
-采用一英寸 CMOS 影像传感器，2000 万像素，像素尺寸达到了2.4μm，这可是跟索尼黑卡…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">2021 新书《西线无战事》：战争及其所创造的</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66716">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>如果没有伯罗奔尼撒战争（最早被科学、历史学记录下的史实），或许人类对战争的认知会被再延迟几年建立下来。而如果没有战争，那么尤利乌斯·恺撒，奥古斯都，德川家康，织田信长，秦始皇，拿破仑等等熠熠生辉的名字是否会少点许多光彩？历史是由胜利者书写的，而胜利者胜利的方式大多是战争。当然，《西线无战事》谈的和这些伟大的名字并无任何关系，这里书写的是那些躺在战壕里永远不会被记录的普通人的故事。
-这本最早由德国作家雷马克连载于 1928年11 月8日的故事，今年被上海文艺出版社出了新版本。曾经译有黑塞的《悉达多》和茨威格的《人类群星闪耀时》的姜乙在本书的译后记里讲述了雷马克的故事：由于本书强烈的反战情绪被当时的纳粹分子所不喜，雷马克因此流亡瑞士，同时他的作品在德国被禁，更加讽刺的是，在 1933 年 5 月 10日的柏林大学，他的作品被公开焚毁，1938年，雷马克被剥夺德国国籍。
-小说故事并不如何出奇，在第一次世界大战期间，十九岁的保罗和他们几个同学们在学校的鼓励下志愿参军，经过简单的新兵训练后奔赴前线战场对抗法国军队。在整个战争过程里，他亲眼目睹了战友的死亡，他亲手用匕首在战壕里杀死一名法国士兵，而后发现士兵原本是一名排字…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">小身板，大能量｜B&amp;O P2</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66693">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Bang &amp; Olufsen（B&amp;O），或许是一个让大多数人顿感陌生的品牌。
-1925年，两位年轻的工程师Peter Bang和Svend Olufsen在丹麦创立了Bang &amp; Olufsen （简称为B&amp;O），其历史正在迈向百年。B&amp;O深受包豪斯的影响，探索美学形式服务于功能的设计理念，其以超凡设计与卓越品质享誉全球，创造了无数经典的音箱、耳机等音频设备，部分产品被美国纽约现代艺术博物馆永久收藏。
-2012年，B&amp;O推出具有创新价值的A9扬声器
-作为一个对B&amp;O品牌及产品颇有好感的人，P2自问世起，就引起了我强烈的追随欲望。作为B&amp;O入门级蓝牙音箱，P2小巧的身板背后，究竟蕴藏着怎样的能量？
-从诞生起到现在，P2累计推出过11款配色，既有与Supreme等品牌联名的限量款，也有炭黑、自然色（银色）、皇家蓝、香槟金等常规款。目前绝大多数颜色款式已在官网和官方网店下架，执着于限量版颜色的朋友可以选择二手渠道。
-P2的11款配色版本大合集
-铝、皮革、聚合物｜品质&amp;品味
-
-P2出自B&amp;O首席设计师Cecilie Manz之手。初看外观，P2拥有着一副“馋人的身子”，鹅卵石般的圆润外观，顶部的阳极氧化铝的外壳，搭配…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">三星 Galaxy Tab S7——本可以更出色</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66712">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>在少数派待了小一年了，还没怎么看过有文章写写三星的平板，今天我来写写这块板子实际体验到底怎么样吧，给即将买平板的同学提供一样另类的选择。
-写下这篇文章时，我已经拥有这个板子二月有余，在这段时间里用它来做了很多事，学习，娱乐，折腾，极大的满足了我的需求，所以，我来从这三方面来说一说这个板子实际体验如何。我会用打分来描绘我的使用体验，十分为满分。
-
-作为学生，我买这个板子首要目的是学习，那么，它的可以得到几分呢？答案是八分。 有些人会质疑，安卓平板有什么生产力？真平板还得看iPad，不错，iPad的体验确实数一数二，不管是软件适配还是性能，都非常出色。但对于我来说，我买这个板子主要目的是为了记笔记，看PDF，那么能否在这两方面有出色表现就成为这个板子于我而言好不好用的评分标准。
-首先是记笔记，三星的笔用着很舒服，我也对比过苹果的笔，果子的笔在平板上写字就跟戳玻璃是一样的，没有写东西的感觉。当然，我没有贴类纸膜，听说这玩意贴上去有奇效，只不过会影响屏幕观感。三星的笔尖很软，写字很顺滑，而且功能很多，按一下轻松截图，对于我平时做笔记确实很有帮助。
-
-说完了硬件，说说软件，我的主力是三星笔记，这个软件功能很强，并且由于…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-05-17">2021-05-17</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://sspai.com/matrix">少数派 -- Matrix</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Refresh 周报 #11：看 I/O 才是正事</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66709">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>📰 关于 Refresh 周报
-每周更新泛 Android 领域内容，带你回顾过去一周 Android 数码/行业领域值得关注的大小事件。
-📣  本周
-晚上就是 I/O 21 了，准备好零食了吗？本周 I/O 21 的「观展指南」毫无悬念地成为了周报的主题，但除此之外本周也有包括 Pixel 6 Pro、智能家居协议 Matter 以及 Sonos 与 Google 专利诉讼等值得一提的事情。
- 
-🍿️ 本周主题：I/O 21 观展指南
-OK，当你看到这篇文章时，说明 I/O 21 的日程已经近在眼前了：时隔一年之后，在北京时间 5 月 19 日凌晨 00:40 时，今年的 I/O 大会将会以线上举办的方式，与我们重新见面。
-
-作为 Android 主题周报，在这最后关头，为大家整理好目前汇总的相关信息，做出一份足够有料的「观展指南」，自然是本周 Refresh 周报的主题：对于大部分数码爱好者来讲，首日的 Keynote 主题演讲毫无疑问才是好料最足的重头戏。
-在时长三小时的主题演讲中，毫无疑问的是我们将能第一次真正了解到 Android 12 更新内容的全貌，其他尚未在开发者预览版中加入的功能也会一…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">东西我都装好了 | 东西我再也不想装了</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66708">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>本文参与「东西我都装好了」征文活动
----
-由于拥有的物品数量非常多，在对收纳用品这件事的研究上，我可以自封十级研究员。例如我在学生时代的迷你衣柜里就开始使用日式抽屉柜，用大大小小的箱子进行嵌套对抽屉内部进行分类，在搬家时会熟练地用不易留印的纸胶带给抽屉柜封口，并且一直对收纳这件事颇为自豪——虽然我东西多，但我的收纳也多啊。
-当然我也发现，许多对收纳没有丁点兴趣的朋友，家中却自然地比我家整洁许多（例如路中南）。而我即便使用了许多收纳工具、收纳方法，压榨了家中理论上可压榨的收纳空间，平地起高楼地制造了五倍于落地面积的垂直空间，在拥有的物品上心动了再心动、精简了再精简，还是无法避免在朋友初次上门时先打一剂预防针：
-
-我家东西有点多……你看了就知道了。
-
-而这状况本身并不让我挂心，置身于这些物品中本身是让我开心的事，直到随着换工作、更换居住城市而来的大项目——跨省搬家到来。上一次搬家时我用了八个搬家纸箱，而这一次是四个（不过丢掉的物品倒没有四个纸箱那么多啦，因为其中至少有一个半纸箱是我丢掉的「收纳空间」）。
-借此机会，我又再再再次整理了自己和物品、和收纳之间的关系，作为最近五年的一个小总结。
-我不需要再制造空间了
-…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">试试「增加」摩擦力｜阿粒</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66705">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>有一本书因为被 Pony Ma 点名，而变成了互联网从业者几乎必读的书 —— 《Don&#x27;t Make me Think》，时至今日，这本书的外延不断地在扩展，似乎一切的阻挠让我们思考的事情都是应该消除的，比如：
-
-新闻应该知道我喜欢看什么直接推到面前
-学习一门语言 30 天就应该搞定
-看一本书大概 5 分钟就应该听完
-看任何分享都需要最核心的「干货」
-
-似乎所有造成阻力的摩擦，都是万恶之源，需要被解决 —— 但是思考这件事也行么？
-为什么要增加摩擦力
-
-看看身上的伤疤，虽然疤痕的增生很不美观，但却是为了避免再次伤害而加强。而深入我们的大脑，那些过往记忆犹新的事情，往往都源自一些挫折和失败；
-这些都是摩擦，摩擦能带来什么？更深的印象/认知、新的火花，让信息具备跨时距的穿透力。而我们常说的「刻意练习」，便是不断地从各个角度来摩擦一个事情，让这件事情不成功的各种情况我们都经历过，那么我们就知道那条成功的小径该如何行走。
-而光滑则意味着迅速，熟悉；熟悉意味着忽略细节，而忽略细节则代表自己思维成为定势。一切都 smooth 之后，就不过脑子了。
-怎么增加思考的摩擦力
-
-如何增加摩擦力：
-1.物体间相互接触并挤压；2.物…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">换血回电，再战三年 ── Mac 优化不完全指南</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66704">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>虽然 Tim Cook 桌子上有「iPhone 变慢」按钮是众所周知的秘密，但其实 Mac 也不能幸免。开个玩笑，说回正题。随着使用时间变长，几乎每个人都会遇到电脑性能吃紧、反应变慢的情况。除了更新换代、升级硬件的物理方法，在软件上花点心思做做优化，也许还能再战两三年。
-去年年末明显感受到自己的 Mac 不如从前，年后断断续续做了些优化，正好借此机会记录一下这个过程。
-先说下情况：我的 Mac 是 2018 年初购入的 MacBook Pro (15-inch, 2016)，2.7 GHz 四核 Intel Core i7，16 GB 内存，512 GB 存储。三年多过去，出现以下问题：
-
-硬件（电池）：严重亏损，待机时间显著变短，在较低环境温度下开机几分钟后会自动关机
-硬件（键盘）：部分按键失灵，轻按无效果，重按字母会重复出现（且久而久之蝴蝶键盘手感不好，后来干脆用外接键盘了）
-软件（浏览器）：常用的 Safari 响应速度变慢，由于工作时开的标签页较多，几乎每次重启应用后都要等 Dock 图标蹦哒 1 分钟左右才显示页面
-软件（App）：部分 App 经常出现卡死、崩溃、闪退等现象
-硬盘空间：由于资料长期…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">从奔驰 EQS 看下一代豪华轿车的设计趋势</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/66700">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>*本文作者新浪微博用户 @1Pole，类星频道获授权转载，转载请注明出处。
-
-EQS EDITION ONE
-从奔驰 EQS 4 月 15 日线上首发到现在已经过去一个月了，媒体的静态体验和评测的热度已经过去，大家对这辆车的外观内饰也有了一定适应的时间。简单聊聊我对奔驰第一辆纯电旗舰设计的看法。
-EQ 通常是「情商」（Emotional Quotient）的英文缩写，题目的 EQ（Electrical Quotient）只是我生造的「电动商」，并非奔驰官方的解释。
-尽管需要适应，但 EQS 的设计总体上是成功的
-一句废话：评价新事物，人们习惯用过去的标准，这情有可原，但并不一定适用。
-作为电动轿车（奔驰官方的定位，EQS 是 luxury saloon，而不是 CLS 的 four‑door coupé），觉得 EQS 难看，大部分是因为选择了经典三厢轿车作为评价标准。
-在豪华大型轿车级别，燃油轿车经过多年的进化才形成了以奔驰 S 级为标杆的长车头（车颈）车尾、短前悬长后悬的经典比例和较为直立且厚重的 C 柱等设计元素。
-
-最新一代 S 级
-
-EQS 580 4MATIC
-关键在于，在取消了发动机和多挡变速箱…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
     </ul>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-16T00:46:52.064Z">2021-06-16T00:46:52.064Z</time>
+    <time id="build-timestamp" datetime="2021-06-17T05:41:23.643Z">2021-06-17T05:41:23.643Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>
