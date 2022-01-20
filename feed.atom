@@ -2,10 +2,255 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T00:53:53.007Z</updated>
+    <updated>2022-01-20T01:06:00.111Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软修复导致 VPN 连接失败的 bug]]></title>
+        <id>https://www.solidot.org/story?sid=70432</id>
+        <link href="https://www.solidot.org/story?sid=70432"/>
+        <updated>2022-01-19T12:41:17.000Z</updated>
+        <summary type="html"><![CDATA[微软上周释出的一月例行安全更新被发现引入了 bug，给企业客户制造了麻烦，会导致 VPN 连接失败。根据微软公布的信息，问题主要影响包含供应商 ID 的 IPSEC 连接，以及 L2TP 和IPSEC IKE VPN 连接，受影响操作系统包括 Windows 10、Windows 11，Windows Server v2022、20H2、2019 和 2016。最常见受影响的是是 Windows 操作系统内置的 VPN 客户端，其它这些连接的第三方客户端也可能会出错。微软在本周释出补丁修复了这些问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字幕站 Opensubtitles 遭到黑客入侵]]></title>
+        <id>https://www.solidot.org/story?sid=70431</id>
+        <link href="https://www.solidot.org/story?sid=70431"/>
+        <updated>2022-01-19T11:18:55.000Z</updated>
+        <summary type="html"><![CDATA[知名字幕站 Opensubtitles 宣布遭到黑客入侵。事情始于 2021 年 8 月，黑客通过 Telegram 发送消息称能访问网站的用户表下载数据库，黑客勒索 1 BTC 换取不公开漏洞并承诺删除数据。黑客还提供了如何修复漏洞的方法。之后几个月风平浪静，但在 2022 年 1 月 11 日网站管理员再次收到了相同漏洞的勒索要求，可能来自第一位黑客的合作伙伴，漏洞事实上没有修复。1 月 14 日网站数据泄露，在获悉之后网站管理员立即锁定了所有账号并强制要求更改密码，18 日披露了这一安全事故。Opensubtitles 成立于 2006 年，当时对安全还不够重视，用户密码使用的 md5() 储存，没有加盐处理，弱密码会很容易破解。如果用户在其它网站重复使用了密码，网站管理员建议一同修改。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家表示化学污染已超过人类安全极限]]></title>
+        <id>https://www.solidot.org/story?sid=70430</id>
+        <link href="https://www.solidot.org/story?sid=70430"/>
+        <updated>2022-01-19T09:51:54.000Z</updated>
+        <summary type="html"><![CDATA[科学家认为遍布全球的化学污染混合物危及了人类赖以生存的全球生态系统的稳定性。他们表示，塑料和包括杀虫剂、工业化合物和抗生素在内的35 万种合成化学品值得特别注意。从珠穆朗玛峰顶到海洋的最深处都发现了塑料污染，而一些有毒化学制品非常持久并广泛存在，例如多氯联苯（PCB）。研究得出的结论是，化学污染跨越了“行星的边界”——在这个点上，人类对地球造成的改变推动其离开了过去一万年的稳定环境。
+
+确定化学污染是否越过行星的边界很复杂，因为没有人类出现之前的基线，这与气候危机和工业化前大气中二氧化碳的水平不同。存在着大量合法使用的化合物——大约有 35 万种——其中只有很少一部分经过了安全性评估。因此研究使用了组合测量评估状况。其中包括化学品的生产速度，它上升得很快；以及它们向环境中的释放速度，这比当局能跟踪或调查其影响的能力要快得多。一些化学品的副作用众所周知，从化石燃料中提取它们，再到它们在环境中的泄露，都是评估的一部分。科学家承认，很多领域的数据有限，但是大量的证据表明行星的边界遭到了破坏。研究人员表示，需要加强监管，在未来对化学品的生产和排放设定固定上限，就像为了结束温室气体排放设定碳目标一样。他们的研究发表在《Environmental Science & Technology》期刊上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神经噪声显示记忆的不确定性]]></title>
+        <id>https://www.solidot.org/story?sid=70429</id>
+        <link href="https://www.solidot.org/story?sid=70429"/>
+        <updated>2022-01-19T09:47:39.000Z</updated>
+        <summary type="html"><![CDATA[在阅读一个电话号码并将其输入手机期间，你可能会发现部分数字神秘地忘记了——即使你将第一个数字牢牢记住，最后一个数字仍会变得模糊，这种情况真的难以解释。6 是在 8 之前还是之后？能确定吗？将信息碎片保留足够长时间以根据它们采取行动，这需要一种被称为视觉工作记忆的能力。科学家多年来一直在争论工作记忆是否一次只能容纳几个条目，或者它是否只有有限的空间存储细节：也许我们的大脑容量中有少量清晰的记忆或者是大量拿不准的记忆碎片。
+
+
+纽约大学神经科学研究人员最近在《Neuron》期刊上发表论文，认为工作记忆的不确定性可能与大脑监控并使用模糊性的方式有关，这种方式令人吃惊。使用机器学习分析进行记忆任务的人的脑部扫描，他们发现信号编码了人们认为自己看到的东西是什么的估计——信号中噪声的统计分布编码了记忆的不确定性。感知的不确定性可能是大脑对记忆的表示的一部分。这种不确定的感觉可能有助于大脑如何使用记忆做出更好的决定。
+
+
+论文作者、纽约大学心理学和神经科学教授 Clayton Curtis表示，研究结果表明“大脑在使用这些噪音”。这项工作和越来越多的证据表明，即使人类似乎并不善于理解日常生活中的统计学，大脑也会常规地根据概率解释其对世界的感官印象——无论是当下的还是回忆中的感官印象。这种观点提供了一种新的方式，以理解我们对不确定世界的感知赋予了多少价值。
+
+
+视觉系统中的神经元会对特定的景象做出反应，例如倾斜的线条、特定的图案，甚至是汽车或面孔，然后向神经系统的其他部分发出闪烁信号。但就其本身而言，单个神经元是嘈杂的信息来源，Curtis 表示，因此“大脑不太可能用单个的神经元推断它所看到的东西”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FedEx 请求在其货机上安装反导弹激光器]]></title>
+        <id>https://www.solidot.org/story?sid=70428</id>
+        <link href="https://www.solidot.org/story?sid=70428"/>
+        <updated>2022-01-19T09:11:21.000Z</updated>
+        <summary type="html"><![CDATA[根据本月早些时候提交的请求，FedEx 向美国联邦航空管理局（FAA）询问是否可在货机上安装反导弹激光器。公共登记机构定于下周公布这项提交给 FAA 的请求。寻热导弹探测并瞄准货运喷气发动机排出的热量，由于货机机动性不如战斗机，它们很难摆脱。反导弹激光器的作用就像是分散注意力，将红外激光直接照射在导弹上，破坏其跟踪热信号的能力。尽管这看起来有点离谱。但自从 COVID-19 疫情以来，供应链问题一直在导致食品和产品的短缺。去年黑客甚至对一家主要的农业服务供应商进行了勒索软件攻击。考虑到物流面临的这些赛博朋克挑战，FedEx 的申请有点合理。申请信中写道：“近年来，在国外发生的多起事件中，民用飞机被便携式防空系统击中。”当 FedEx 在 2008 年首次测试类似设备时，CBS 报告称激光器对眼睛是安全的。这种激光真的不会对地面上的平民造成问题，那么这让我们想知道——所有客机都应该使用这种技术吗？]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[概念验证量子电池的物理学原理]]></title>
+        <id>https://www.solidot.org/story?sid=70427</id>
+        <link href="https://www.solidot.org/story?sid=70427"/>
+        <updated>2022-01-19T09:00:51.000Z</updated>
+        <summary type="html"><![CDATA[科学家首次演示了超吸收的量子力学原理，概念验证设备证明该原理可支持量子电池。论文通讯作者 James Quach 表示：“超吸收是一种量子集体效应，分子状态之间的转变会产生建设性的干扰。”“建设性干涉发生在各种波（光、声、水上的波）中，并在不同的波叠加在一起产生比任何一种波都更大影响的时候发生。关键之处在于，这使得组合分子能比单独的每种分子更有效地吸收光。”在量子电池中，这种现象的好处将会非常明显。你拥有的储能分子越多，它们吸收能量的效率越高——换句话说制造的电池越大，它充电的速度就越快。至少理论上如此。超吸收还没有在足以制造量子电池的规模上得到证明，但这项新研究做到了这一点。
+
+为了构建他们的测试设备，研究人员在两个镜子之间的微腔中放置了一层吸光分子的活性层——一种称为被 Lumogen-F Orange 的染料。Quach 解释说：“微腔中使用的镜子是用制造高质量镜子的标准方法制造的。”“这是使用交替的介电材料层——二氧化硅和五氧化二铌——制造所谓的‘分布式布拉格反射器’。这样生产出来的镜子能比典型的金属/玻璃镜子反射更多的光。这很重要，因为我们希望光尽可能长时间地留在腔内。”然后该团队使用超快瞬态吸收光谱测量染料分子如何储存能量以及整个设备的充电速度。随着微腔尺寸和分子数量的增加，充电的时间缩短了，证明超吸收起了作用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印尼新首都命名为 Nusantara]]></title>
+        <id>https://www.solidot.org/story?sid=70426</id>
+        <link href="https://www.solidot.org/story?sid=70426"/>
+        <updated>2022-01-19T08:50:20.000Z</updated>
+        <summary type="html"><![CDATA[印度尼西亚宣布将新首都命名为“Nusantara”，它在爪哇语中的意思是“群岛”。印尼国会批准了一项法案，将首都从正在迅速下沉的雅加达迁出。在 1300 公里之外的婆罗洲岛上建造新首都的想法于 2019 年首次被提出。但批评人士表示，这个新名称可能会令人困惑，而且此举本身并未考虑环境因素。雅加达非常拥挤、污染也很严重，地下水过度开采导致沉降速度惊人。该市拥有超过 1000 万人口，坐落在爪哇岛的沼泽地上。雅加达的空气污染和交通拥堵可谓臭名昭著。政府部长必须由警方车队护送才能准时参加会议。在婆罗洲岛上的印度尼西亚省东加里曼丹建立新首都时，政府希望它可以分担部分雅加达的压力。最新的人口普查显示，以丛林和猩猩种群闻名的东加里曼丹只有 370 万人居住，该地区矿产丰富。周二规划部长 Suharso Monoarfa 在议会发表讲话称：“新首都具有核心功能，是国家身份的象征，也是新的经济中心。”批评人士认为，新城市的建设将导致棕榈油种植园的扩张，并在这个拥有丰富多样野生动物和茂密热带雨林的地区伐木。印尼不是唯一一个尝试迁都的国家，缅甸尝试迁都到奈比多（Naypyidaw），但它成为了一个鬼城，只有几十万居民。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无偿工作的开源开发者发现自己的力量]]></title>
+        <id>https://www.solidot.org/story?sid=70425</id>
+        <link href="https://www.solidot.org/story?sid=70425"/>
+        <updated>2022-01-19T08:43:43.000Z</updated>
+        <summary type="html"><![CDATA[尽管工作没有报酬，部分开源开发者开始意识到他们拥有巨大的力量，因为其项目被世界最大最赚钱的公司使用。一月初，两个流行的 NPM 包——“colors”和“faker”的开发者 Marak Squires 故意更改代码，破坏了这两个包的功能，在调用时，它会输出“LIBERTY LIBERTY LIBERTY”（自由），然后是乱码，出现无限循环。虽然 Squires 没有透露此举原因，但他之前曾在 GitHub 上表示，“我不想用无偿工作支持财富 500 强（和其他的小公司）了。”Squires 的修改破坏了其他流行的项目，包括亚马逊的 Cloud Development Kit，因为他的库每周在NPM 上安装近 2000 万次，数千个项目直接依赖于它们。NPM 在几个小时之内对这个流氓版本进行了回滚，而 GitHub 则暂停开发者账户作为回应。
+
+
+NPM 的回应在预料之中，之前曾发生过恶意代码被添加到库中，最终被回滚以控制损害，GitHub 的做法却是件新鲜事：该代码托管平台删除了 Squires 的整个帐户，即使他是这些代码的所有者，并且有权随心所欲地对它们进行修改。这并不是开发者第一次用他们的代码表示抗议。2016 年在与 Kik messenger 就他拥有的另一个开源项目的命名发生争执之后，“left-pad”的开发者从 NPM 上撤下了他的代码，破坏了数以万计依赖它的网站。令人惊讶的是，尽管偶尔会有知名的库抗议这个行业运作的方式，但此类事件并不常见：尽管许多价值数百万美元的产品是在开源开发者的工作上创造出来的，可是开源开发者仍在无偿工作，竭尽所能地维护自己的项目。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国民主党提出法案禁止网络监视广告]]></title>
+        <id>https://www.solidot.org/story?sid=70424</id>
+        <link href="https://www.solidot.org/story?sid=70424"/>
+        <updated>2022-01-19T07:58:20.000Z</updated>
+        <summary type="html"><![CDATA[美国民主党人提出新法案，将禁止在 Facebook、Google 等平台托管的广告市场中使用几乎所有的定向数字广告。由众议员 Anna Eshoo（D-CA）、Jan Schakowsky（D-IL）和参议员 Cory Booker（D-NJ）提议的《禁止监视广告法案》（Banning Surveillance Advertising Act）禁止数字广告商将任何广告定位到用户。它有一些小的例外，例如允许基于“广泛”位置的定位。情境广告，例如专门匹配在线内容的广告将被允许。法案的主要发起人 Eshoo 周二在一份声明中表示：“‘监视广告’商业模式的前提是不恰当地收集并囤积个人数据以实现广告定位。”“这种恶劣的做法让在线平台跟踪用户的使用状况，让社会付出巨大的代价，它助长了虚假信息、歧视、压制选民、侵犯隐私并造成了许多其他的危害。监视广告的商业模式已经出了问题。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列警方用 Pegasus 间谍软件攻击本国公民]]></title>
+        <id>https://www.solidot.org/story?sid=70423</id>
+        <link href="https://www.solidot.org/story?sid=70423"/>
+        <updated>2022-01-19T07:50:33.000Z</updated>
+        <summary type="html"><![CDATA[根据以色列商业媒体网站 Calcalist 的调查，以色列警方在未经授权的情况下，使用 NSO 集团备受争议的 Pegasus 间谍软件对包括政治家和活动人士在内的以色列公民进行电话侦听。报道称这些侦听针对的目标包括本地市长、反对前总理内塔尼亚胡（Benjamin Netanyahu）的政治抗议活动领袖以及前政府雇员。监控以色列公民需要法院监督，这些监控是在缺少法院监督的情况下进行的，对于数据如何使用也缺乏监督，以色列警方和一位政府部长明确否认这一说法。以色列日报《国土报（Haaretz）》的另外一则报道称，据报社看到的发票，NSO 集团在 2013 年向以色列警方开具了 270 万谢克尔（86.2万美元）的发票，显然是该计划的基本版本。以色列 NSO 集团设计了 Pegasus并将其出售给外国政府，虽然出现了许多滥用 Pegasus 的报道，但最近的报道标志着情况出现了重大变化，以色列人也成了侦听的目标。《卫报》从熟悉 NSO 授权的消息人士处了解到，虽然 NSO 出售给国外第三方客户的软件不能在国外针对美国和以色列的电话号码，但购买间谍软件的以色列执法机构——例如警方——可以针对以色列的手机号码。虽然报道没有提及消息来源，但它声称使用间谍软件的命令是由高级官员下达的，由警方的电子侦听专家执行。这一说法意义重大，因为它首次反驳了向以色列人做出的保证，即他们不会成为 Pegasus 的目标，对以色列人免于非法入侵的观点提出了质疑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嘲笑死于新冠的反疫苗者在道德上是否正确？]]></title>
+        <id>https://www.solidot.org/story?sid=70422</id>
+        <link href="https://www.solidot.org/story?sid=70422"/>
+        <updated>2022-01-19T06:47:56.000Z</updated>
+        <summary type="html"><![CDATA[这可能是美国独有的现象：嘲笑死于新冠的反疫苗者在道德上是否正确？都说死者为大，世界各地的人通常不会说死人的坏话，但新冠疫情期间死于新冠的反疫苗倡导者会引发广泛的讨论，但主要不是致哀而是嘲讽。名叫 Sorry Antivaxxer.com 的网站专门报道反疫苗者的故事，他们因感染病毒住院送入 ICU 甚至死亡。最近的一个故事是南加州 Orange 县的共和党人 Kelly Ernby，她是前检察官助理和候选议员，公开游说反对新冠疫苗，本月初因新冠感染去世年仅 46 岁。她没有接种疫苗，其 Facebook 主页上有很多评论，大部分不是去哀悼的。批评者认为为死亡欢呼无助于有益的辩论，无助于提高疫苗接种率。但支持者认为这么做是必要的。没有接种疫苗的人有三类：因合法原因无法接种，比如小孩或医疗禁忌；一部分人则是因为误导性信息愚弄而反对接种疫苗；还有部分则是在疫情期间去捍卫所谓的自由。他们中的一些人用生命为自己的愚蠢付出了代价，而他们的死亡通常没有让我们吸取教训。弱化批评和嘲讽旨在转移对真实的关注，这些批评者其实都是伪君子。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被锁定 God Mode 跑步者破解跑步机]]></title>
+        <id>https://www.solidot.org/story?sid=70421</id>
+        <link href="https://www.solidot.org/story?sid=70421"/>
+        <updated>2022-01-19T05:48:04.000Z</updated>
+        <summary type="html"><![CDATA[NordicTrack 公司的 X32i 跑步机售价高达 4000 美元，配备了 32 英寸的显示屏，客户在锻炼时可以观看各类视频。NordicTrack 一直尝试让客户订阅其母公司 iFit 的锻炼应用，限制观看外部视频。它有一个 God Mode 允许用户安装第三方应用，观看外部视频。从去年 10 月开始，NordicTrack 通过更新阻止客户使用 God Mode，不让客户访问 Netflix、YouTube 等流视频服务。这激怒了消费者。他们投诉指出，NordicTrack 的跑步机非常昂贵，他们本应该能完全掌控设备。NordicTrack 和 iFit 的发言人则回应称限制 God Mode 是出于安全考虑。客户开始寻找各种方法绕过 NordicTrack 的限制，目前最流行的做法是恢复出厂设置，配置路由器屏蔽 NordicTrack 推送自动更新。虽然出厂时安装的软件比较旧，但客户可以完全控制跑步机。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国审查阿里巴巴云业务]]></title>
+        <id>https://www.solidot.org/story?sid=70420</id>
+        <link href="https://www.solidot.org/story?sid=70420"/>
+        <updated>2022-01-19T05:18:55.000Z</updated>
+        <summary type="html"><![CDATA[拜登政府正在审查电商巨头阿里巴巴的云业务，以判定它是否对美国国家安全构成风险。调查重点是该公司如何存储包括个人信息和知识产权在内的美国客户数据，以及中国政府是否有存取这些数据的权限。美国监管机构最终可能选择强制该公司采取措施，降低云业务构成的风险，或者乾脆禁止海内外美国人使用该服务。据研究公司 Gartner 的数据，阿里巴巴在美国的云业务规模不大，年度营收估计不到 5,000 万美元。但如果监管机构最终决定阻止美国企业与阿里云之间的交易，这将损害该公司最具前景的业务之一的利润，并对公司整体声誉造成打击。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 恶意程序数量去年增长 35%]]></title>
+        <id>https://www.solidot.org/story?sid=70419</id>
+        <link href="https://www.solidot.org/story?sid=70419"/>
+        <updated>2022-01-19T05:16:46.000Z</updated>
+        <summary type="html"><![CDATA[针对 Linux 设备的恶意程序数量去年增长 35%，这些恶意程序主要通过感染物联网设备组建僵尸网络发动 DDoS 攻击。运行不同 Linux 版本的物联网设备功能有限，但联合起来能发动规模惊人的 DDoS 攻击。除了发动 DDoS 功能，Linux 物联网设备还能用于挖掘加密货币，发送垃圾邮件等等。安全公司 Crowdstrike 的报告称，2021 年针对 Linux 系统的恶意程序数量比 2020 年增加了 35%；其中 XorDDoS、Mirai 和 Mozi 恶意程序家族占到了 22%；其中尤以 Mozi 数量最多，Mozi 恶意程序样本数量同比增长了 10 倍，XorDDoS 同比增长了 123%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 科学家估计汤加火山喷发的强度相当于 10 兆吨 TNT 当量]]></title>
+        <id>https://www.solidot.org/story?sid=70418</id>
+        <link href="https://www.solidot.org/story?sid=70418"/>
+        <updated>2022-01-19T03:52:29.000Z</updated>
+        <summary type="html"><![CDATA[NASA 科学家对上周六汤加附近海底火山喷发的强度进行最新估计，认为相当于 10 兆吨 TNT 当量，是广岛原子弹的 500 倍以上。美国地质调查局地球物理学家 Michael Poland 称，这可能是一个多世纪以来最大的声音制造事件之一，远在阿拉斯加都能听到火山喷发的声音。它可能是 1883 年印尼 Krakatau 火山喷发以来声音最响亮的喷发，19 世纪的火山喷发导致了数千人死亡，释放出了大量火山灰。火山喷发至今，由于通讯中断，汤加基本上仍然与世隔绝。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肠道细菌如何让大熊猫吃胖]]></title>
+        <id>https://www.solidot.org/story?sid=70417</id>
+        <link href="https://www.solidot.org/story?sid=70417"/>
+        <updated>2022-01-19T03:36:23.000Z</updated>
+        <summary type="html"><![CDATA[属于食肉动物的大熊猫如今 99% 的食物是竹子，而其牙齿和消化道还保留着食肉动物的特征。它能消化竹子关键在于梭菌类的肠道微生物。根据发表在《Cell Reports》期刊上的一项新研究，中科院动物研究所的研究人员识别了一种关键的肠道细菌——丁酸梭菌。“我们发现，在大熊猫以竹笋为主要食物的季节，肠道中的丁酸梭菌会更加富集。这让大熊猫对竹笋中的粗纤维降解消化更加充分，产生了更多的丁酸盐。”论文共同第一作者、中国科学院动物研究所助理研究员黄广平说，“这跟大熊猫在食笋期体重显著增加的现象相匹配，证明食笋期是大熊猫补充能量和营养物质的关键时期。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔准备宣布 ASIC 矿机]]></title>
+        <id>https://www.solidot.org/story?sid=70416</id>
+        <link href="https://www.solidot.org/story?sid=70416"/>
+        <updated>2022-01-19T02:49:44.000Z</updated>
+        <summary type="html"><![CDATA[根据会议议程，英特尔准备在下个月举行的国际固态电路大会(International Solid-State Circuits Conference)上宣布 ASIC 矿机。ASIC 矿机主要用于挖掘比特币，目前市场上的矿机主要由比特大陆等公司供应。英特尔准备宣布的芯片被称为 Bonanza Mine: An Ultra-Low-Voltage Energy-Efficient Bitcoin Mining ASIC，这将是世界最大的芯片巨头与比特大陆和 MicroBT 等公司展开直接竞争。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINE 7.0 发布]]></title>
+        <id>https://www.solidot.org/story?sid=70415</id>
+        <link href="https://www.solidot.org/story?sid=70415"/>
+        <updated>2022-01-19T02:39:25.000Z</updated>
+        <summary type="html"><![CDATA[WINE 项目释出了 7.0 版本。新版与上个版本相隔一年，包含了 9,100 多个变动。最主要的变化包括：绝大部分模块都用 PE 格式构建；改进主题支持，绑定的主题有更现代的外观；改进 HID 堆栈和摇杆支持；新的 WoW64 架构。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软收购动视暴雪]]></title>
+        <id>https://www.solidot.org/story?sid=70414</id>
+        <link href="https://www.solidot.org/story?sid=70414"/>
+        <updated>2022-01-18T13:58:34.000Z</updated>
+        <summary type="html"><![CDATA[微软正式宣布收购动视暴雪，交易额接近 700 亿美元。官方声明未透露收购金额，700 亿美元来自于消息人士。这将是游戏行业最大金额的一笔收购案，动视暴雪的市值在 500 亿美元左右，收购金额是大幅溢价。动视暴雪旗下的知名游戏包括了使命召唤系列、星际争霸系列、魔兽争霸系列、魔兽世界等等，以及热门手游《糖果粉碎传奇》等。微软表示动视暴雪旗下的游戏将进入订阅服务  Xbox Game Pass 和 PC Game Pass。微软此前收购了另一家著名游戏公司 ZeniMax/Bethesda。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dislike 3.0：一个异类时间管理工具的进化]]></title>
+        <id>https://sspai.com/post/70955</id>
+        <link href="https://sspai.com/post/70955"/>
+        <updated>2022-01-18T13:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Dislike 是一个日常生活事务管理工具。
+之所以说这款 App 另类，一则 Dislike 专门设计来打理生活琐事，而非像多数同类产品一样着眼于效率提升；二则 Dislike 没有遵循任何既定的时间管理理论，完全依照普通人的日常使用「直觉」设计、开发。
+这意味着使用 Dislike，你不需要为了记录、提醒一些事情去强迫自己学习任何理论，或是改变一种生活方式。
+关于时间管理的完整思考，我在《我们究竟需要怎样的时间管理工具》这篇文章里有较详细的记录，感兴趣的朋友可以翻阅。
+如果市面上鼎鼎大名的 GTD 类 App 你用了个遍都无法坚持，说明你很可能和我一样不是个「效率达人」，那么我非常推荐你试试 Dislike。
+Dislike 基础功能介绍参见这篇文章：
+ 
+Dislike 3.0 做了 10 余项较大的功能新增及优化，以及一堆没仔细数过的细节提升。
+虽然做了很多工作，但 UI 层面仍然保持了精简、克制，这也是从 Dislike 着手设计 1.0 至今一直贯彻的理念。
+拣几个 3.0 的重点功能说说。
+事件创建重构
+
+Dislike 3.0 完全重新设计、开发了事件创建功能。
+这也是 3.0 版本最耗费精力的一块开发工作。
+2.x 版本的事件创建逻辑本身没问题，同类日程 App 大多采用的也是类似的创建逻辑（包括 iOS 系统日历）。优点是创建流程清晰易懂，缺点是步骤稍显繁琐。
+尤其对于复杂事件，常常需要多次往返于二级、甚至三级设置页面。
+相较同类 App，Dislike 事件的日期、重复、提醒等设置更为灵活，这进一步加剧了 Dislike 2.x 版本创建事件的交互复杂度。
+不破不立，3.0 版本推翻重构后的事件创建模块 ，所有设置项均可在 1 个页面内完成。
+定制化的日期和时间控件，左右滑动可快速定位日期选择，双击返回今天。
+提醒时间设置，起始、结束日期设置，重复设置…]]></summary>
+        <author>
+            <name>不许任性</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[arXiv 论文数量突破 200 万篇]]></title>
+        <id>https://www.solidot.org/story?sid=70413</id>
+        <link href="https://www.solidot.org/story?sid=70413"/>
+        <updated>2022-01-18T13:40:50.000Z</updated>
+        <summary type="html"><![CDATA[1 月 3 日 预印本平台 arXiv 的论文数量突破 200 万篇：第 200 万篇是数值分析论文《Affine Iterations and Wrapping Effect: Various Approaches》。arXiv 诞生于 1991 年， 创始人Paul Ginsparg 在 2001 年加入了康奈尔大学，arXiv 网站随后由康奈尔大学图书馆接手。在 arXiv 诞生之前，对于递交到科学期刊的论文，作者通常需要等待半年甚至更长时间才能出版，而递交到 arXiv 的论文通常能在一天之内上线。2008 年上线 18 年的 arXiv 论文数突破了 50 万篇，2015 年突破一百万篇，2022 年突破 200 万，论文数量在 7 年内翻了一番。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2200 年历史的沉船发现 100 多种物种]]></title>
         <id>https://www.solidot.org/story?sid=70408</id>
@@ -124,6 +369,24 @@
         <summary type="html"><![CDATA[北京奥组委宣布，由于疫情防控形势“依旧严峻复杂”，本届冬奥会将原定的公开售票调整为定向组织观众现场观赛。这意味着冬奥会将不对境内外的公众售票。北京刚刚报告了首宗奥密克戎感染病例，该感染者近期曾接收国际快递。但是否通过国际邮件传染病毒存疑，此前有研究显示新冠病毒在纸板上存活的时间只有一天。北京市邮政管理局称，感染者于 1 月 11 日曾接收过来自加拿大多伦多的文件类快件，该快件于 1 月 10 日到达北京首都机场，11 日抵达某快递公司北京口岸，进行消杀后，运至北京海淀中关村末端站点，网点进行消杀后派送，收件人即海淀确诊病例，签收时间为 1 月 11 日 14:41。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 成为少数派作者的这一年]]></title>
+        <id>https://sspai.com/post/71011</id>
+        <link href="https://sspai.com/post/71011"/>
+        <updated>2022-01-18T02:14:48.000Z</updated>
+        <summary type="html"><![CDATA[前言
+收到我人生最大的一笔单篇稿费的这天晚上，我失眠了。
+当然不是因为钱多烧的，而是白天咖啡喝多了 2021 年最后一篇稿子赚来的稿酬成功让我回想起了成为少数派作者的这一年。
+我是 Leslie，一个致力于让没有医学背景的人听懂医生在说啥的科普作者，一年以前，我还只是一个潜水的小透明，现在却混进了少数派的作者群。不过和作者群里两百多个大佬不一样，我不太厉害。在「高效工作」领域，我是个吊车尾，不会编程，不会拆电脑修手机，不会摄影，不会录播客，不会剪视频；在「品质生活」方面，我不会马伽术，不会做厉害的咖啡或是诱人的饭菜，不会种菜，不会俄语，没有惊人的读书量和阅片量，去过的地方也很少。在以上知识技能和经历方面相信很多读者都可以来无情地碾压我。而且我还是个内向的「社恐」。
+但你既然已经读到了这篇文章，说明我对这个社区还是有一点点价值的。一直以来我写的多是具体的医学健康话题，这次，我想讲点柔软的，讲讲在成为了少数派作者的这一年，我这样的普通人在坚持写作之后，在网络上终于开始 reach out 之后，有了什么样的改变和思考。希望可以鼓励到和我有着类似渴望或相同困境的读者。
+在关系中成长——和编辑的故事
+正如《也许你该找个人聊聊》的作者所说，人和人是在关系中成长的。
+我向来习惯在现实生活和社交网络中对陌生人保持缄默，而在少数派上写稿、加入作者群，让我产生了新的和人的联结，我认识了好多编辑，有的勇敢，有的善良，有的很宽容，有的很硬汉。在这样的交流中我除了交了十几篇稿子之外，也渐渐地变得没那么社恐了。
+故事开始于去年的一月，我和很多小伙伴一样，新年伊始就立了 flag。我在朋友圈公然大放厥词：新年目标是写 50 篇科普。准备重新捡起没咋更过的公众号，但公众号完全没人关注，不如找个读者群优质的地方发发看？出于侥幸心理，我申请了 Matrix 社区写作权限。彼时我还没读到老麦的深漂回顾，还不知…]]></summary>
+        <author>
+            <name>刀客特Leslie</name>
         </author>
     </entry>
     <entry>
@@ -25297,16 +25560,6 @@ TechWeb 获悉，抖音盒子目前处于冷启动阶段，主要是抖音一些
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[视觉刺激如何抓住你的注意力]]></title>
-        <id>https://www.solidot.org/story?sid=70083</id>
-        <link href="https://www.solidot.org/story?sid=70083"/>
-        <updated>2021-12-21T11:28:11.000Z</updated>
-        <summary type="html"><![CDATA[在发表在《Science Advances》期刊上的一篇论文中，来自圣安东尼奥市德克萨斯大学健康科学中心（UT Health San Antonio）的作者报告说，去甲肾上腺素——一种大脑功能的基础化合物，在大脑区域视觉皮层被局部调控。论文主要作者、医学博士、UT Health San Antonio 的细胞和综合生理学助理教授 Martin Paukert 表示：“此前的研究提出了局部调控去甲肾上腺素释放的可能性，但是它从未被直接证明过。”去甲肾上腺素与注意力有关。Paukert 博士表示：“需要释放一定量的这种化合物才能获得最佳的大脑性能和注意力。”“因此释放的量过多或者过少都会影响我们处理信息的方式。”研究还发现星形胶质细胞在大脑和中枢神经系统中充当辅助细胞。Paukert 博士表示：“当一个人做一个动作，比如扭头听父母说话，这个动作结合了视觉刺激，那么在处理视觉信息的地方就会释放更多的去甲肾上腺素。我们的第二个发现也很重要，星形胶质细胞能可靠地检测甲肾上腺素的释放率。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[字节跳动为什么变慢了？]]></title>
         <id>http://news.cnblogs.com/n/709476/</id>
         <link href="http://news.cnblogs.com/n/709476/"/>
@@ -25395,156 +25648,6 @@ TechWeb 获悉，抖音盒子目前处于冷启动阶段，主要是抖音一些
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一种支配决策的算法]]></title>
-        <id>https://www.solidot.org/story?sid=70082</id>
-        <link href="https://www.solidot.org/story?sid=70082"/>
-        <updated>2021-12-21T09:59:36.000Z</updated>
-        <summary type="html"><![CDATA[对大多数动物而言，生活就是决定去哪里。在世界中奔跑、游泳或飞翔，动物不断地做出行动的决定，选择去哪里进食、在哪里躲避以及和谁交往。神经生物学在过去几十年里的突破，包括获得 2014 年诺贝尔医学奖的突破已经拼凑出动物表示空间分布选择的图景。现在一个国际研究团队应用这些神经生物学知识了解动物如何从分散在空间中的选项中进行选择。从神经生物学、物理学和动物行为中汲取灵感，这个跨学科的团队构建了一个大脑决策的计算模型。该模型具有大脑表示“空间”选项的特征——在这种情况下是指向潜在目的地的方向——以了解如何在移动中做出决策。由此产生的模型预测，大脑会自发地将多个选项之间的决策分解为一系列二选一的决策，直到只剩下一个选项——也就是最终选择。这会导致动物表现出一系列突然的方向变化，每一次都与排除了一个剩余的选项有关。每一次的方向变化都是神经动力学突然变化的结果——科学家称之为“分叉”，动物和剩余选项之间存在非常特定的几何关系。这种算法被发现非常强大，以至于研究人员预测，这种“分叉”过程不仅会带来高度准确的决策，而且还可能是“通用的。”通过将很多动物模拟轨迹叠加在一起，他们发现了一个分支结构。他们预测，如果将真实动物空间决策留下的很多轨迹叠加在一起，这种结构也应该很明显。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[镜头记录揭开是什么触发了闪电]]></title>
-        <id>https://www.solidot.org/story?sid=70081</id>
-        <link href="https://www.solidot.org/story?sid=70081"/>
-        <updated>2021-12-21T09:56:25.000Z</updated>
-        <summary type="html"><![CDATA[在 2018 年的一场夏季风暴中，一道巨大的闪电在荷兰的一个射电望远镜网络上空闪过。望远镜的详细记录直到最近才得到处理，镜头记录了以前从未有人见过的东西：闪电实际上是从雷雨云中开始的。在即将发表在《地球物理研究通讯》期刊上的一篇新论文中，研究人员利用观察结果终结了长久以来关于是什么触发了闪电的争论——这是闪电产生、生长并传播到地面的神秘过程的初始。格罗宁根大学的闪电研究员、新论文的共同作者 Brian Hare 表示：“这有点尴尬。这是地球上最有活力的过程，我们有以它为中心的宗教，但是我们不知道它是怎么发生的。”教科书上的说法是：在雷雨云的内部，随着较轻的冰晶上升，冰雹落下。冰雹擦掉冰晶带负电的电子，导致云的顶部带正电，而底部带负电。这会产生一个不断增强的电场，直到一个巨大的电火花划过天空。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1972 年登月带回的真空密封样本将打开研究]]></title>
-        <id>https://www.solidot.org/story?sid=70080</id>
-        <link href="https://www.solidot.org/story?sid=70080"/>
-        <updated>2021-12-21T09:41:11.000Z</updated>
-        <summary type="html"><![CDATA[阿波罗任务的规划者很聪明。认识到未来的科学家将拥有更好的工具和更丰富的科学洞见，他们没有打开阿波罗任务带回的部分月球样本。尘封 50 年之后，其中一个样本容器即将打开研究。
-新闻稿中表示，现在是打开容器研究里面珍贵的内容物的时候了。希望里面存在月球气体，特别是氢气、氦气和其他轻质气体。对气体的分析可以加深对月球地质的理解，并为如何最好地保存未来从小行星、月球还是火星上收集的样本提供新思路。
-Apollo Next Generation Sample Analysis Program（ANGSA）负责，它负责管理这些密封的宝藏。ANGSA 要求欧洲航天局和其他几个机构找出安全释放这些被封闭的气体的方法，这标志着 ESA 首次参与开启阿波罗计划带回的样本.。过去 16 个月 ANGSA和合作方一直在致力于解决这个问题，被称为“阿波罗开罐器”的解决方案现在已经准备就绪。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做系统架构的一些原则]]></title>
-        <id>https://coolshell.cn/?p=21672</id>
-        <link href="https://coolshell.cn/articles/21672.html"/>
-        <updated>2021-12-21T07:46:41.000Z</updated>
-        <summary type="html"><![CDATA[工作 20 多年了，这 20 来年看到了很多公司系统架构，也看到了很多问题，在跟这些公司进行交流和讨论的时候，包括进行实施和方案比较的时候，都有很多各种方案的比...
- Read More  Read More
-我做系统架构的一些原则 first appeared on 酷 壳 - CoolShell.]]></summary>
-        <author>
-            <name>陈皓</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马来西亚通过法案对非法流媒体盗版者最高处以 20 年监禁]]></title>
-        <id>https://www.solidot.org/story?sid=70079</id>
-        <link href="https://www.solidot.org/story?sid=70079"/>
-        <updated>2021-12-21T07:46:29.000Z</updated>
-        <summary type="html"><![CDATA[马来西亚版权法新修正案意味着提供损害版权所有人的流媒体服务和设备的人可能会面临相当于 2,377 美元或以上的罚款、最高 20 年的监禁，或者两者并处。该修正案在实践中如何执行仍有待观察，但其范围似乎有意地扩大了，且可能会对被发现的违法者加以严惩。那些希望将公司结构作为挡箭牌的人也受到了关注。如果法人团体或者公司合伙人有任何违法行为，从董事到经理在内的每个人都将被视为罪犯，并有可能被单独或者共同指控，除非他们能证明自己不知情，且履行了防止犯罪的勤勉责任。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员教会培养皿中的人类脑细胞打“乒乓球”]]></title>
-        <id>https://www.solidot.org/story?sid=70078</id>
-        <link href="https://www.solidot.org/story?sid=70078"/>
-        <updated>2021-12-21T07:44:38.000Z</updated>
-        <summary type="html"><![CDATA[New Scientist 报道，生物技术初创公司 Cortical Labs 的研究人员在培养皿中创造了一个由 80 万至 100 万个活人脑细胞组成的“迷你大脑”。这些细胞被放置在分析神经活动的微电极阵列的顶部.为了教会这个迷你大脑玩游戏，研究人员创建了一个没有对手的简化版“乒乓球”。一个信号被发送到阵列的右侧或左侧以指示球的位置，脑细胞的神经发回信号移动球拍。Cortical Labs 的首席科学官兼该项目的研究负责人Brett Kagan表示，虽然迷你大脑玩游戏比不上人类，但是它的学习速度比一些 AI 快。他表示：“它学习的速度令人吃惊，不到五分钟实时完成。”“这真是生物学的一项创举。”Cortical Labs 的网站表示，尽管这肯定是令人惊叹的 Twitch 素材，但是该公司的团队希望利用他们的发现，使用“与传统硅计算集成的活生物神经元”开发复杂的技术。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喜马拉雅冰川正以惊人速度融化]]></title>
-        <id>https://www.solidot.org/story?sid=70077</id>
-        <link href="https://www.solidot.org/story?sid=70077"/>
-        <updated>2021-12-21T07:34:44.000Z</updated>
-        <summary type="html"><![CDATA[横跨喜马拉雅山脉的冰川正以惊人速度融化，新研究表明，巨大的冰盖在过去 40 年收缩的速度是之前七个世纪的 10 倍。
-
-研究人员称，雪崩、洪水和冰层加速流失的其他影响危及印度、尼泊尔和不丹的居民，有可能破坏南亚数亿人的农业生产。由于冰川融化的水会造成海平面上升，喜马拉雅山脉的冰川流失也加剧了世界各地沿海社区面临的洪水威胁。周一发表在《科学报告》期刊上一篇论文详细介绍了这项研究，论文共同作者、利兹大学冰川学家 Jonathan Carrivick 表示：“世界这一部分变化的速度可能比任何人意识到的都要快。”长期以来，科学家一直在观察新西兰、格陵兰岛、巴塔哥尼亚和世界其他地区大型冰川的冰层流失。但新研究发现，喜马拉雅山脉的冰层流失特别快。研究人员没有指出原因，但指出区域气候因素，例如南亚季风的变化，可能起到了一定的作用。
-
-这一新发现出现之际，科学界已有一项共识：化石燃料燃烧产生的温室气体排放造成全球气温上升，气温上升造成冰川和极地冰盖的冰消失。许多同行评议的科学研究确定人类活动是全球气温上升的原因。联合国政府间气候变化专门委员会 8 月发布的一份报告也持这种观点，报告表示“人类影响很可能是自 1990 年代以来全球冰川退缩的主要推动因素”。在新研究中，Carrivick 博士和同事扫描了该地区近 15,000 条冰川的卫星照片，寻找冰川缓慢碾压山谷后留下的巨大岩石和碎屑山脊的迹象。利用这些古老冰川痕迹的位置，科学家估算了前几个世纪冰盖的覆盖跨度。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小行星样本揭示太阳系起源]]></title>
-        <id>https://www.solidot.org/story?sid=70076</id>
-        <link href="https://www.solidot.org/story?sid=70076"/>
-        <updated>2021-12-21T07:24:46.000Z</updated>
-        <summary type="html"><![CDATA[日本“隼鸟2号”（Hayabusa2）任务首次将小行星地下样本送回地球的一年多之后，科学家确定小行星“龙宫”（Ryugu）是太阳系形成时留下的原始遗迹。这是首次从富碳小行星带回地球的物质。这些小行星可揭示太阳系是如何形成的。锁定在这些小行星内的有机和水合矿物质也可以揭示生命构成要素的起源。龙宫是一颗黑色的菱形小行星，宽约 1 公里。“隼鸟2号”于 2019 年 2 月 22 日从小行星表面收集了一份样本，然后向小行星发射了一枚铜“子弹”，形成了一个 33 英尺宽的撞击坑。2019 年 7 月 11 日从这个撞击坑收集了一份样本。“隼鸟2号”于去年 12 月飞过地球时将样本“丢”在了澳大利亚。根据周一发表在《自然天文学》杂志上的一项研究，这颗 C 型（碳质）小行星比科学家最初认为的要暗得多，仅反射了 2% 接收到的光。研究主要研究作者、日本太空发展署空间和航天科学研究所的副高级研究员 Toru Yada 表示，在打开样本后，科学家惊讶地发现该航天器从这颗小行星上收集了 5.4 克的样本——比他们预期的 0.1 克要多得多。发表在周一的《自然天文学》杂志上的第二项研究中，研究人员确定“龙宫”是由粘土和其他水合矿物质制成的，样品中含有大量碳酸盐和有机物。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前 1% 控制比特币流通量的 27%]]></title>
-        <id>https://www.solidot.org/story?sid=70075</id>
-        <link href="https://www.solidot.org/story?sid=70075"/>
-        <updated>2021-12-21T07:18:54.000Z</updated>
-        <summary type="html"><![CDATA[一项新研究认为，1% 的比特币持有者控制着比特币流通量的四分之一以上。美国非营利性研究机构国家经济研究局发布研究，前 10,000 名比特币投资者（占所有比特币持有者总数的0.01%）拥有 500 万个比特币，占所有流通的 1890 万个比特币的 27%。据《华尔街日报》周一报道，这些比特币用户拥有的比特币约值 2320 亿美元。MIT 斯隆管理学院的金融学教授 Antoinette Schoar 和伦敦经济学院的 Igor Makarov 主持了这项研究，旨在证明比特币并不像人们想象的那样去中心化。Schoar 表示：“尽管存在了 14 年，且炒作也越来越多，但它仍然是一个非常集中的生态系统。”顶级持有者控制的比特币份额比最富有的美国家庭控制的美元份额更大。美联储的数据显示，美国前 1% 的家庭拥有约三分之一的财富。
-
-新报道可能会让加密货币社区感到震惊，因为比特币的主要倡导者一直在推动去中心化，将其作为比特币网络最大的原则之一。量子经济学创始人 Mati Greenspan 认为，大部分流通的比特币供应都在中本聪的控制之下，中本聪是比特币的匿名创造者。Greenspan 表示：“仅中本聪就拥有超过 5% 的比特币。”他表示：“随着时间的推移，比特币的所有权设计会更分散。法币的情况往往正好相反。”值得注意的是，比特币的大部分流通供应显然不受任何人控制，很可能永远丢失。加密保险公司 Coincover 称，由于无法访问，有大约 400 万比特币停止流通。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[线下校外培训机构压减逾八成]]></title>
-        <id>https://www.solidot.org/story?sid=70074</id>
-        <link href="https://www.solidot.org/story?sid=70074"/>
-        <updated>2021-12-21T04:59:18.000Z</updated>
-        <summary type="html"><![CDATA[中国教育部相关负责人周二称，校外培训机构治理取得明显进展，学科类培训大幅压减，其中线下校外培训机构已压减 83.8%，线上校外培训机构已压减 84.1%。留下的学科类培训机构一部分转为非营利性机构，实行政府指导价，提供公益服务；不适合“营转非”的将被进一步注销。“2022年，我们将继续把‘双减’督导作为教育督导‘一号工程’，加大督办、通报、约谈和问责力度，推动‘双减’工作取得新的成效，”教育部相关负责人称。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国执法机构与 Have I Been Pwned 共享 5.85 亿泄露密码]]></title>
-        <id>https://www.solidot.org/story?sid=70073</id>
-        <link href="https://www.solidot.org/story?sid=70073"/>
-        <updated>2021-12-21T04:56:16.000Z</updated>
-        <summary type="html"><![CDATA[在 FBI 之后，英国执法机构国家犯罪调查局与 Have I Been Pwned 共享它在调查中发现的 5.85 亿泄露密码。Have I Been Pwned 维护者 Troy Hunt 表示，其中 2.25 亿个密码是唯一的，即此前未泄露过。国家犯罪调查局是在英国一家云存储设施的一个账户内发现泄露的密码以及对应的电邮账号，它无法判断泄露的密码和电邮来自哪个平台或哪家公司。目前 Have I Been Pwned 包含 55 亿个条目，其中 8.47 亿是唯一的，所有密码都可以免费下载，可以下载到本地后对照是否密码泄露，无需通过该网站。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩根大通因员工使用 WhatsApp 绕过监管要求被罚 2 亿美元]]></title>
-        <id>https://www.solidot.org/story?sid=70072</id>
-        <link href="https://www.solidot.org/story?sid=70072"/>
-        <updated>2021-12-21T04:16:35.000Z</updated>
-        <summary type="html"><![CDATA[摩根大通因员工使用端对端加密消息应用 WhatsApp 规避联邦记录法规要求被罚 2 亿美元。摩根大通向美国证券交易委员会支付 1.25 亿美元，向美国商品期货交易委员会支付 7500 万美元罚款。美国联邦证券法要求保留金融公司与其客户之间的通信记录，以确保金融公司没有绕过反欺诈法或反垄断法。随着交易员越来越多的使用无法记录通信信息的消息应用如 WhatsApp、Signal 或 Telegram，世界各地的监管机构加大了对记录保存规则的执法力度，但金融公司很难控制员工如何使用第三方消息应用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铁血社区宣布将关闭]]></title>
-        <id>https://www.solidot.org/story?sid=70071</id>
-        <link href="https://www.solidot.org/story?sid=70071"/>
-        <updated>2021-12-21T03:24:12.000Z</updated>
-        <summary type="html"><![CDATA[中国曾经最流行的军事论坛铁血社区宣布将于 2022 年 3 月 1 日关闭，2021 年 12 月 20 日停止用户发帖、回帖功能，官方给出的理由是“在移动互联和万物互联的热潮中，我们没能跟上时代的发展”。铁血社区是铁血网最主要的组成部分，它旗下还有服装品牌龙牙战术服装和老兵公益基金。铁血网表示未来的重心将是这两个活跃度较低的子网站。铁血网成立于 2001 年，铁血社区成立于 2002 年，关闭时恰逢创立二十年。铁血网表示，“正式停止服务前，用户可登录账号下载历史贴文，转移重要的个人信息，数据将保留 3 个月。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omicron 变种占到了美国新感染病例的 73%]]></title>
-        <id>https://www.solidot.org/story?sid=70070</id>
-        <link href="https://www.solidot.org/story?sid=70070"/>
-        <updated>2021-12-21T03:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Omicron 超过 Delta 成为美国最流行的新冠病毒变种，美国疾控中心（CDC）的数据显示，上周 Omicron 变种占到了新感染病例的 73%，而在纽约等地区 Omicron变种占到了新感染病例的 90%。CDC 的数据显示 ，截至 11 月底，美国主流新冠变种是 Delta，占到了感染病例的 99.5% 以上，Omicron 变种不到一个月的时间就超过了 Delta。早期研究数据显示，全球大部分地区接种的新冠疫苗都几乎无法抵御传染性极强的 Omicron 变种的感染，但能避免引起重症。只有辉瑞和莫德纳的疫苗在接种加强针后，对预防感染具有初步成效。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[引力波探测器的“副业”：从暗物质中寻找信号]]></title>
         <id>http://news.cnblogs.com/n/709397/</id>
         <link href="http://news.cnblogs.com/n/709397/"/>
@@ -25583,36 +25686,6 @@ Grote 说，引力波产生的是短暂的声音，而一直存在的暗物质�
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家发现真正的千足虫]]></title>
-        <id>https://www.solidot.org/story?sid=70069</id>
-        <link href="https://www.solidot.org/story?sid=70069"/>
-        <updated>2021-12-20T14:28:43.000Z</updated>
-        <summary type="html"><![CDATA[千足虫通常有几十到几百只脚，现在研究人员在西澳大利亚发现了真正的千足虫，有 1306 只脚。这种动物是在西澳东部金矿区的地下 60 米处发现的，被命名为 Eumillipes persephone，以希腊神话中冥界之后珀尔塞福涅（Persephone）的名字命名。此前脚最多的物种是在加州发现的 Illacme plenipes，有 750 只脚。新千足虫的身体就像线一样，有多达 330 个节，它长期生活在黑暗中，因此缺乏视力，皮肤十分苍白。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自毁开关 BusKill 帮助你保护计算机里的秘密]]></title>
-        <id>https://www.solidot.org/story?sid=70068</id>
-        <link href="https://www.solidot.org/story?sid=70068"/>
-        <updated>2021-12-20T14:16:57.000Z</updated>
-        <summary type="html"><![CDATA[据说暗网市场丝绸之路的创始人 Ross Ulbricht 的笔记本电脑是在解锁的情况下被美国联邦特工抢走。他被怀疑是丝绸之路的创始人但没有确凿证据，执法部门需要笔记本电脑中的数据作为证据。为在解锁情况下拿到笔记本电脑，两名特工在 Ulbricht 面前演了一场打斗戏，吸引他的注意力后由第三名特工抢走电脑。如何在这种罕见的情况下保护计算机里的秘密？名叫 BusKill 的项目就是设计针对这种情况，保护记者和活动人士的数据安全。BusKill 是一种磁分离线缆，支持 macOS、Windows 和 Linux，用户可以配置当磁分离连接器被断开也就是笔记本电脑离开拥有者的情况下的应对措施，包括锁住计算机和自毁数据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知乎被要求整改]]></title>
-        <id>https://www.solidot.org/story?sid=70067</id>
-        <link href="https://www.solidot.org/story?sid=70067"/>
-        <updated>2021-12-20T13:47:52.000Z</updated>
-        <summary type="html"><![CDATA[北京市网信办约谈知乎负责人，针对知乎网多次出现法律法规禁止发布或者传输的信息等问题，责令其立即整改，严肃处理相关责任人；北京网信办并对知乎网违法行为进行行政处罚立案。网信北京微信公众号周一新闻稿称，北京网信办有关负责人强调，网站平台应当切实履行主体责任，健全网络信息安全管理制度，不得为违法违规信息提供传播平台。北京网信办将进一步督促相关网站平台加强内部管理，依法依规开展服务，维护清朗网络空间。知乎网负责人表示，将深刻吸取教训，严格落实各项整改要求，在整改期间自行暂停相关功能。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
