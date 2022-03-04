@@ -2,10 +2,403 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T01:07:41.101Z</updated>
+    <updated>2022-03-04T01:12:04.156Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何将你的代码可视化？]]></title>
+        <id>https://news.cnblogs.com/n/714977/</id>
+        <link href="https://news.cnblogs.com/n/714977/"/>
+        <updated>2022-03-04T01:04:12.000Z</updated>
+        <summary type="html"><![CDATA[本文最初发布于 Alex Ellis 的个人博客。 有一天，我正在阅读关于个人电脑和桌面 GUI 发展的内容，我就想，我们都已经非常习惯个人电脑“桌面“这个类比。我们把文件放在文件夹里，并把它们放在桌面上。这个过程有很多物理动作发生。 人类非常善于理解空间，尤其是在记忆物理空间的时候，这让我联想到了
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter将开始向部分用户展示众包的事实核查]]></title>
+        <id>https://news.cnblogs.com/n/714985/</id>
+        <link href="https://news.cnblogs.com/n/714985/"/>
+        <updated>2022-03-04T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[据 The Verge 报道，一小部分美国 Twitter 用户现在可以在被标记为误导性的推文下看到众包注释。用户生成的注释是名为 Birdwatch 的项目的一部分，该项目由 Twitter 在 2021 年推出，旨在解决平台上的错误信息。 Birdwatch 计划允许贡献者在推文下写下背景说明和
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 197 期）：如果这个世界有快乐机]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html"/>
+        <updated>2022-03-04T00:46:01.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+2021年4月29日，西安交响乐团在海南文昌的海滩上，举办"大国重器飞向太空"交响音乐会。他们背后就是火箭发射场，随着运送天宫空间站的火箭腾空而起，音乐会正式开始。（via）
+本周话题：如果这个世界有快乐机
+上个世纪70年代，哈佛大学的哲学教授诺齐克（Robert Nozick）提出一个问题， 如何证明享乐主义（追求快乐和满足）是人类的行为目的？
+
+当时，美国陷入越南战争的泥潭，社会弥漫着"享乐主义"的气氛，年轻人普遍觉得，人的行为就是为了追求快乐、满足、幸福感。只要能够获得快乐的事情，就值得去做。
+
+诺齐克不喜欢这种想法，质疑道：有何证据可以证明，人活着就是为了追求享乐？
+他假设了一个场景，假如世界上有一种机器，叫做"快乐机"，只要插上插头，就能带给你源源不断的快乐。 并且，你无法分辨，这种机器快乐与现实世界的快乐有何不同。
+
+如果人生的目标是体验尽可能多的快乐，那么没有理由不接入这台快乐机。一旦所有人都想接入，那就证明了人类真的是追求享乐主义。
+这在哲学上称为"快乐机假设"。诺齐克相信，只要有人放弃接入快乐机，就说明享乐对这个人来说并不是最重要的，从而证明了人类还有其他的追求。
+他在著作里面，提出了三种可能，会让人放弃快乐机。
+人们想亲身做某些事情，而不是单纯地体验快乐。
+人们希望能够真正成为某种类型的人，而不是虚拟地扮演角色。
+人们不希望被限制在人造现实中，还希望去接触更多的事物。
+上面的三种可能，说实话，都没有说服力，都是无法证明的假设。因为现实中没有快乐机，所以关于这个问题的一切讨论，都是纸上谈兵，没有答案。
+但是，现在的情…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团做电商：找对了方向，但走错了路]]></title>
+        <id>https://news.cnblogs.com/n/714988/</id>
+        <link href="https://news.cnblogs.com/n/714988/"/>
+        <updated>2022-03-04T00:43:00.000Z</updated>
+        <summary type="html"><![CDATA[文王新喜 美团终于盯上了电商这块蛋糕。 据天眼查网站数据显示，早在 2 月 9 日，美团的母体公司“北京三快科技有限公司”就已经悄然申请注册“美团电商”商标。 如今在美团 APP 内，底部导航栏“电商”一栏已在首页重点列出，其商品品类覆盖非常齐全，且目前主打低价与补贴战略，也有自营电商业务，这意味着
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电动汽车，涨价涨到停产？]]></title>
+        <id>https://news.cnblogs.com/n/714991/</id>
+        <link href="https://news.cnblogs.com/n/714991/"/>
+        <updated>2022-03-04T00:35:39.000Z</updated>
+        <summary type="html"><![CDATA[作者周继凤 编辑黎明 来源：深途 电动车江湖，一直有着这样不成文的规矩：“买特斯拉一定要犹豫，犹豫就会降价”，“一时犹豫一时爽，一直犹豫一直爽”。 到了 2022 年，这一规矩似乎不奏效了。 以“割韭菜”闻名的特斯拉，开始涨价。去年的最后一天，特斯拉宣布上调价格，Model 3、Model Y 两款
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivian为“失信”道歉：新报价竟比原先高出2万美元]]></title>
+        <id>https://news.cnblogs.com/n/714987/</id>
+        <link href="https://news.cnblogs.com/n/714987/"/>
+        <updated>2022-03-04T00:28:00.000Z</updated>
+        <summary type="html"><![CDATA[本周，Rivian 更新了其 R1T 电动皮卡和 R1S 电动 SUV 的价格估算。这家公司通知消费者它们的价格可能比原来的报价高出 20,000 美元，具体则取决于他们订购的套装。那些在汽车生产前几年就投入 1000 美元排队购买的车迷们对这一变化感到愤怒，Rivian 将其归咎于通货膨胀压力和供
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌隐私沙盒会毁灭互联网广告吗？业内人士这么说]]></title>
+        <id>https://news.cnblogs.com/n/714990/</id>
+        <link href="https://news.cnblogs.com/n/714990/"/>
+        <updated>2022-03-04T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[作者｜陈文琦 编辑｜亚澜 来源：深响 一石激起千层浪。 在去年苹果默认关闭 IDFA 引发巨大争议后，谷歌宣布将在安卓 Android 上推出“隐私沙盒”（Privacy Sandbox），引入更新的、更具私密性的广告解决方案。这些解决方案会限制与第三方共享用户信息，并且能够在没有跨应用标识、广告 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[健身环爆打老头环！超高难度击败boss，宫崎英高估计也想不到]]></title>
+        <id>https://news.cnblogs.com/n/714989/</id>
+        <link href="https://news.cnblogs.com/n/714989/"/>
+        <updated>2022-03-04T00:15:28.000Z</updated>
+        <summary type="html"><![CDATA[晓查萧箫发自凹非寺 量子位公众号 QbitAI 7 天销量破 1000 万的《艾尔登法环》，彻底火出圈了。 被玩家们亲切称为“老头环”的它，首发当日在线人数就在 Steam 上登顶 TOP 1，简直让毕设人无心搞学业，打工人无心再摸鱼，甚至不少人专门请了年假…… 作为魂系列游戏的代表作之一，《艾尔登
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Server预览版Build 25066发布：下个LTSC版]]></title>
+        <id>https://news.cnblogs.com/n/714986/</id>
+        <link href="https://news.cnblogs.com/n/714986/"/>
+        <updated>2022-03-04T00:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Windows Server Preview Build 25066 于今天发布，这是下个 Windows Server 长期服务渠道（LTSC）的最新预览版，在数据中心（Datacenter）版本和标准（Standard）版本中整合了桌面体验和 Server Core 安装选项。 在更新日志中，微
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站四季度营收57.8亿元同比增51%，日活用户7220万]]></title>
+        <id>https://news.cnblogs.com/n/714984/</id>
+        <link href="https://news.cnblogs.com/n/714984/"/>
+        <updated>2022-03-04T00:08:49.000Z</updated>
+        <summary type="html"><![CDATA[3 月 3 日消息，哔哩哔哩（NASDAQ: BILI，HKEX:9626；以下简称“B站”）公布了截至 2021 年 12 月 31 日的第四季度和全年未经审计的财务报告。财报显示，2021 财年B站总营收达 193.8 亿元人民币，同比增长 62%。其中第四季度营收同比增长 51%，达 57.8
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度系拟减持极米科技不超4.28%股份，账面浮盈超6亿元]]></title>
+        <id>https://news.cnblogs.com/n/714983/</id>
+        <link href="https://news.cnblogs.com/n/714983/"/>
+        <updated>2022-03-04T00:07:00.000Z</updated>
+        <summary type="html"><![CDATA[“投影龙头”极米科技限售股解禁，百度系浮盈或达 17.27 亿元。 3 月 3 日晚间，成都极米科技股份有限公司（688696.SH，极米科技）公告称，公司运营主体成都极米科技股份有限公司（下称“极米科技”）的股东北京百度网讯科技有限公司（下称“百度网讯”）、北京百度毕威企业管理中心（有限合伙）（下
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[橙心优选下线，知情人：社区团购业务去年已关停]]></title>
+        <id>https://news.cnblogs.com/n/714982/</id>
+        <link href="https://news.cnblogs.com/n/714982/"/>
+        <updated>2022-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，有网友在社交平台爆料称，滴滴(DIDI.US)旗下社区团购业务橙心优选已整体关停，相关产研岗位人员全部被裁。 3 月 2 日，一位滴滴内部人士向红星资本局透露：“橙心优选杭州区域的产研团队都裁得差不多了，被裁员工会拿到N+1 的赔偿金。”该人士透露，自去年底，橙心优选就开始逐步裁员，“春节前裁
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宁德时代否认减产传闻！中下游产业链抵制锂价飙涨，高价还持续吗？]]></title>
+        <id>https://news.cnblogs.com/n/714981/</id>
+        <link href="https://news.cnblogs.com/n/714981/"/>
+        <updated>2022-03-03T23:53:00.000Z</updated>
+        <summary type="html"><![CDATA[最近市场上有消息称，宁德时代及部分磷酸铁锂厂商下调 3 月排产计划。 据证券时报证实该消息并不属实。正如报道所析，宁德时代具备较强的保供能力，但减产传闻确实也透露出行业整体的成本压力。 作为新能源时代最宝贵的“石油”——电池级碳酸锂的报价近期依旧一路走高。 2021 年 8 月份，电池级碳酸锂报价在
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股周四：热门中概股普跌 知乎跌逾17%]]></title>
+        <id>https://news.cnblogs.com/n/714980/</id>
+        <link href="https://news.cnblogs.com/n/714980/"/>
+        <updated>2022-03-03T23:48:00.000Z</updated>
+        <summary type="html"><![CDATA[美国时间周四，美股收盘主要股指全线下跌，纳斯达克指数下跌逾 200 点。美国能源和债券价格上涨放缓，投资者仍密切关注俄乌局势。 道琼斯指数收于 33794.66 点，下跌 96.69 点，跌幅 0.29%；标准普尔 500 指数收于 4363.49 点，跌幅 0.53%；纳斯达克综合指数收于 135
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抖音多位内容负责人将转岗做 VR]]></title>
+        <id>https://news.cnblogs.com/n/714979/</id>
+        <link href="https://news.cnblogs.com/n/714979/"/>
+        <updated>2022-03-03T23:42:00.000Z</updated>
+        <summary type="html"><![CDATA[《晚点 LatePost》获悉，继西瓜视频负责人任利锋之后，抖音综艺负责人宋秉华、抖音娱乐总监吴作敏即将转岗至 VR（虚拟现实）产品 Pico，这也表明字节跳动将开始加大在 VR 内容领域的投入。 多位知情人士透露，截至 2021 年，Pico 系列产品一共售出 50 万台左右，2022 年团队的销
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互联网算法治理落地，实测腾讯美团等平台“关闭算法”设置]]></title>
+        <id>https://news.cnblogs.com/n/714978/</id>
+        <link href="https://news.cnblogs.com/n/714978/"/>
+        <updated>2022-03-03T23:35:00.000Z</updated>
+        <summary type="html"><![CDATA[3 月 1 日，国家网信办等四部门联合发布的《互联网信息服务算法推荐管理规定》（简称《规定》）正式施行。在去年 12 月 31 日，《规定》便正式发布，也引发各界广泛关注。在互联网时代，算法广泛影响着人们的工作生活，《规定》的落地实施将有望破除算法歧视、“大数据杀熟”、诱导沉迷等算法乱象。 该规定于
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remix 究竟比 Next.js 强在哪儿？]]></title>
+        <id>https://news.cnblogs.com/n/714976/</id>
+        <link href="https://news.cnblogs.com/n/714976/"/>
+        <updated>2022-03-03T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[作为 Remix 的联合创始人，Ryan Florence 常常会被问到一个问题： Remix 到底和 Next.js 有什么区别？ 看来这个问题是避不开了！那么，为了能更好地回答这个问题，也为了避免不必要的麻烦，作者决定给予各位观众一个直球答复。但如果你对 Remix 爱得深沉，希望你在分享本文到
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌隐私沙盒会毁灭互联网广告吗？我们和业内聊了聊]]></title>
+        <id>https://news.cnblogs.com/n/714975/</id>
+        <link href="https://news.cnblogs.com/n/714975/"/>
+        <updated>2022-03-03T16:45:03.000Z</updated>
+        <summary type="html"><![CDATA[文深响，作者｜陈文琦，编辑｜亚澜 一石激起千层浪。 在去年苹果默认关闭 IDFA 引发巨大争议后，谷歌宣布将在安卓 Android 上推出“隐私沙盒”（Privacy Sandbox），引入更新的、更具私密性的广告解决方案。这些解决方案会限制与第三方共享用户信息，并且能够在没有跨应用标识、广告 ID
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI成野生动物保护神：没有图像识别算法，考拉就会灭绝！]]></title>
+        <id>https://news.cnblogs.com/n/714974/</id>
+        <link href="https://news.cnblogs.com/n/714974/"/>
+        <updated>2022-03-03T13:19:04.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：袁榭 、时光 【新智元导读】虽然 AI 没有真正如同大型动物的智能，但用来保护智能动物可是利器。 按照当下从业者的说法，AI 应用是环境保护领域的三大新兴技术之一。 从隐藏相机录像、卫星图像到录音，AI 在处理这些环保大数据时极有助益。AI 可以学习如何识别数千张热成像照片中哪些包
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给研究思路就能推荐数据集，CMU博士后等人推出NLP数据处理神器]]></title>
+        <id>https://news.cnblogs.com/n/714973/</id>
+        <link href="https://news.cnblogs.com/n/714973/"/>
+        <updated>2022-03-03T13:18:35.000Z</updated>
+        <summary type="html"><![CDATA[明敏发自凹非寺 量子位公众号 QbitAI 说出你的研究思路，就能给你推荐合适的数据集： 当然还可自己按需检索，同时标出不同数据集的热度： 更厉害的是能直接帮你分析数据集。 语料中是否包含仇恨言论、性别歧视语料等，所占比例是多少，通通都能告诉你。 以上，是一个名叫DataLab的通用数据处理平台。 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年了，OPPO终于出平板了]]></title>
+        <id>https://news.cnblogs.com/n/714972/</id>
+        <link href="https://news.cnblogs.com/n/714972/"/>
+        <updated>2022-03-03T13:18:08.000Z</updated>
+        <summary type="html"><![CDATA[2021 年的手机圈也有一个很特别的现象：全面进军平板市场。 这事要是放在三年之前，Android 平板市场可以复苏，估计 Google 自己都是绝对不敢想的。 一直以来，苹果 iPad 系列产品凭借着优异的生态体验牢牢占据了市场的主导地位，完美覆盖了用户在平板这个产品上的娱乐需要，Android 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔 AMD 等联合制定 Chiplet 间互联标准]]></title>
+        <id>https://www.solidot.org/story?sid=70842</id>
+        <link href="https://www.solidot.org/story?sid=70842"/>
+        <updated>2022-03-03T10:54:30.000Z</updated>
+        <summary type="html"><![CDATA[英特尔、AMD、高通、Arm、台积电和三星等芯片行业巨头宣布联合制定 Chiplet 处理器设计的开放互联标准 Universal Chiplet Interconnect Express (UCIe)。英特尔和 AMD 等公司已经设计出或销售基于 Chiplet 的处理器，如 AMD 的 Ryzen CPU 和英特尔即将推出的 Sapphire Rapids Xeon 处理器。但这些芯片使用了不同的互联实现小芯片之间的通信。UCIe 将用单一的标准去替代不同的互联方法，让规模较小的企业能更容易的利用基于 Chiplet 的芯片设计，让一家公司能更容易的在产品中整合另一家公司的芯片，举例来说，在英特尔的 CPU 中封装 AMD 的 GPU。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[即使在元宇宙中你也躲不过税务员]]></title>
+        <id>https://www.solidot.org/story?sid=70841</id>
+        <link href="https://www.solidot.org/story?sid=70841"/>
+        <updated>2022-03-03T09:29:26.000Z</updated>
+        <summary type="html"><![CDATA[《第二人生（Second Life）》是一个长寿的在线元宇宙，每个月吸引了近 100 万活跃用户，自 2003 年推出以来，它首次宣布将对美国用户的游戏内购买行为征收当地的销售税。这可能会严重拖累强劲的游戏内经济，并对其他希望向美国居民出售虚拟商品的新生元宇宙发出警告。在周一宣布这一举措时开发商 Linden Labs 援引了最高法院在 2018 年对南达科他州与 Wayfair 公司等案的裁决。裁决明确了州和地方可以对在该州没有实体存在的在线公司销售的产品征收销售税。在做出这一决定后，Linden Labs 表示，它已经“尽了最大的努力尽可能长时间保护居民免受税收的影响，但是我们不能够再承担它们了。”
+
+
+从 3 月 31 日开始，第二人生的用户将需要为订阅费和土地费等经常性账单支付地方税。Linden Labs 将继续负担任何对一次性购买征收的税款（例如更名和购买游戏内的L$币）。Linden Labs 写道，这些成本将在“未来某个时候”转嫁给用户。Linden Labs写道：“这不是我们喜欢分享的消息，但是为了业务和第二人生的健康，我们不能再继续承担这些税收负担。”“感谢你的理解和对第二人生的继续支持。”
+
+
+在其他大公司都急于推出自己的元宇宙产品之际，Linden Labs 的经验可作为一个警示故事。这包括使用加密货币和 NFT 等所谓的“web3”技术支持其虚拟经济的公司。除了可能的地方销售税风险之外，加密货币在赚取、出售或转换成另一种形式时，可能会被作为收入或者资本收益征税。与此同时，NFT 可能会被作为收藏品征税，在美国适用于 28% 的最高资本利得税。由于去年两党基础设施法案中的一项规定，美国国税局开始对基于加密货币的收入严格执法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 设计的蛋白质一个一个唤醒休眠基因]]></title>
+        <id>https://www.solidot.org/story?sid=70840</id>
+        <link href="https://www.solidot.org/story?sid=70840"/>
+        <updated>2022-03-03T09:21:10.000Z</updated>
+        <summary type="html"><![CDATA[通过结合 CRISPR 技术与 AI 设计的蛋白质，唤醒休眠基因成为可能。华盛顿大学医学院的研究人员在《Cell Reports》期刊上介绍了这一发现。新技术在不改变基因组 DNA 序列的情况下，通过靶向化学修饰控制基因活性，化学修饰帮助将基因包装在染色体中，调节活性。因为化学修饰不是发生在基因中而是发生在基因之上，所以它们被称为表观遗传（epigenetic），这里的“epi”来自希腊语，表示在基因“之上”。调节基因活性的化学修饰被称为表观遗传标记。科学家对表观遗传修饰特别感兴趣，因为它们不仅会影响正常细胞功能中的基因活性，而且随着时间的推移，表观遗传标记会积累，导致衰老，影响后代的健康——因为我们可以将它们传给孩子。在新论文中，研究人员表明，通过使用新技术，他们能阻断 PRC2 并选择性地打开四种不同的基因。他们还能证明可以简单通过打开两种基因，将诱导多能干细胞转化为胎盘祖细胞。研究人员能展示如何使用该技术找到特定 PRC2 控制的调节区域的位置，从中激活单个基因。其中很多位置是未知的。在这种情况下，他们针对一个名为 TBX18 的基因确定了名为“TATA box”的启动区域。尽管目前的看法是启动区域应该在基因附近——在 30 个DNA碱基对内，但他们发现该基因的启动区域和基因的距离超过了 500 个碱基对。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在超声技术中看到整个物种的未来]]></title>
+        <id>https://www.solidot.org/story?sid=70839</id>
+        <link href="https://www.solidot.org/story?sid=70839"/>
+        <updated>2022-03-03T08:50:39.000Z</updated>
+        <summary type="html"><![CDATA[加州大学戴维斯分校的科学家 Kristin Aquilino 知道，希望只是伪装过的失望。过去十年她领导了该校的白鲍圈养繁殖计划，旨在将这种海洋软体动物从灭绝的边缘挽救回来。去年 6 月她和同事沿着加利福尼亚海岸驾车将圈养在戴维斯分校的部分白鲍送到洛杉矶 Cabrillo 海洋水族馆。其他白鲍则被送到南加州附近的实验室和水族馆；这是迄今为止最大的白鲍产卵尝试。但是当她试图用一种她所谓的爱情魔药（一种海水和过氧化氢的混合物）让它们燃起“性趣”时，白鲍们在水箱里无精打采，偶尔冒几个泡泡，但是没有卵子或者精子。四个小时后，Aquilino 博士叫停了。在其他地方的尝试也失败了。她表示：“这很糟糕。”“很多人付出了努力，但它们今天就是不产卵。”
+
+
+1970 年代的渔民在野外捕捞了 99% 的白鲍，这种动物命悬一线。Aquilino 博士表示，尽管迫切需要繁殖濒临灭绝的软体动物以重新引入野外，但在实验室中繁殖更多的白鲍仍然是一场猜谜游戏。周四发表在《海洋科学前沿》期刊上的一项研究提供了一种改进的工具，可以确定哪只鲍鱼会繁殖。它采用无创超声技术——一种已有数十年历史的医疗技术，可提高圈养繁殖的成功率，最终帮助在野外恢复濒临灭绝的鲍鱼。对于 Aquilino 博士来说，这种方法带来了一线希望。她表示：“当我第一次看到孩子的超声图像时，我看到了一家人的未来。”“当我看到这些鲍鱼的超声图像时，我看到了整个物种的未来。”
+
+
+与 Gross 博士合作的博士后研究员 Sara Boles 发现了一种无需将鲍鱼从鱼缸中取出即可对其进行超声检查的方法，方法是将设备放到它们粘性的足上。这将很快就能在连接超声波探头的笔记本电脑上显示出清晰的图像，看到鲍鱼的性腺是肿胀还是松弛。在新的研究中，Boles 博士和同事检查了 200 多只鲍鱼，以从 1 到 5 的等级对它们的性腺厚度进行评分，以确定哪些鲍鱼可能产卵。通过这种超声图像，性腺成了焦点：胃看起来是呈黑色的锥形物体，性腺围绕在它周围，颜色略浅。目前这些图像可提供一种对动物进行评分的简单方法，但 Gross 博士和同事们想要验证性腺的厚度是否与繁殖成功相关。Boles 博士使用超声波帮助 Aquilino 博士进行白鲍鱼养殖工作。去年春天，在 Aquilino 博士对动物采取了视觉评分之后，Boles 博士将超声波带到了她的实验室。在 Boles 博士的超声检查中评分最高的八只白鲍中，有五只产卵；一些评分略低的白鲍也产了卵。这种方法已在帮助研究人员修改评估哪些鲍鱼最适合繁殖的方法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家试图弄清楚为什么部分人没有感染 Covid]]></title>
+        <id>https://www.solidot.org/story?sid=70838</id>
+        <link href="https://www.solidot.org/story?sid=70838"/>
+        <updated>2022-03-03T07:58:45.000Z</updated>
+        <summary type="html"><![CDATA[有些人能顽强地抵抗 Covid 感染，尽管周围的每个人都感染了这种病毒。他们究竟是如何做到的？这仍然是一个谜，但科学家开始找到一些头绪。寻找到背后的机制将能推动药物研发，不仅可保护人们免受 Covid 感染，还可以防止他们传播病毒。Phoebe Garrett 不是唯一一个在挑战试验中没有被感染的参与者。在接触病毒的 34 人中，16 人未被感染（定义为连续两次 PCR 检测呈阳性）——尽管其中大约一半的人在接触病毒后的几天内短暂检测出低水平的病毒阳性。这可能是免疫系统将感染扼杀在萌芽阶段的反映。领导这项研究的伦敦帝国理工学院的 Christopher Chiu 教授表示：“在之前对其他病毒的研究中，我们在鼻子里看到了抵抗感染的早期免疫反应。”“总的来说，这些发现意味着病毒和宿主之间存在斗争，在这些‘未被感染’的参与者中，这种斗争阻止了感染。”他们中的一些人也报告了一些轻微的症状，例如鼻塞、喉咙痛、疲倦或头痛——由于这些症状在日常生活中经常出现，它们可能与病毒暴露无关。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家在中国发现最早的赭石加工证据]]></title>
+        <id>https://www.solidot.org/story?sid=70837</id>
+        <link href="https://www.solidot.org/story?sid=70837"/>
+        <updated>2022-03-03T07:47:36.000Z</updated>
+        <summary type="html"><![CDATA[人类进化中最深远的事件之一是智人在世界范围内的扩张。化石、基因和考古证据表明，在过去大约20万年的时间里，智人多次离开非洲，在跨越欧亚大陆的迁移过程中，与尼安德特人和丹尼索瓦人等古人类也进行着生殖融合。目前的古人类学和考古证据表明，智人至少在4万年前就出现在亚洲北部，但人们尚不清楚当时存在的文化适应性。发表在《自然》期刊上的最新研究报告了已知最早东亚利用赭石的证据，这种颜料的使用与人类文化中的象征行为有关。赭石是一种含铁的矿石，世界各地的考古遗址中都留有赭石的痕迹。它是已知最早被人类用来描绘世界的颜料，此前的一些记录也显示有着药用等多种用途。研究显示，来自中国北部泥河湾遗址群的下马碑（一处新近发掘、保存良好的遗址）的考古发现，包括一些小型化工具，在东亚是独一无二的，并为智人的扩张提供了新见解。泥河湾不是单一的遗址，而是由数十处旧石器时代遗址构成的遗址群，涵盖了旧石器时代早、中、晚期。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play 官方市场发现窃取敏感数据的远程访问木马]]></title>
+        <id>https://www.solidot.org/story?sid=70836</id>
+        <link href="https://www.solidot.org/story?sid=70836"/>
+        <updated>2022-03-03T07:26:43.000Z</updated>
+        <summary type="html"><![CDATA[去年五月曝光的一种恶意应用被发现重新进入了 Google Play 官方应用市场。被称为 TeaBot 和 Anatsa 的恶意应用是一种远程访问木马，允许攻击者远程浏览被感染设备的屏幕，与设备执行操作，它主要设计窃取数十种银行类应用的敏感数据。安全公司 Cleafy 本周报告，TeaBot 重返 Google Play 市场，通过二维码扫描应用 QR Code & Barcode Scanner 传播，在下架前恶意应用的下载量超过了一万此。研究人员称，新版本的 TeaBot 增加了对保险、加密钱包和加密货币交易所等应用的攻击，它针对的应用数量从此前的 60 款增加到了 400 多款，它支持的语言加入了俄语、斯洛伐克语和汉语。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网信办公布弹窗信息推送征求意见稿]]></title>
+        <id>https://www.solidot.org/story?sid=70835</id>
+        <link href="https://www.solidot.org/story?sid=70835"/>
+        <updated>2022-03-03T06:47:15.000Z</updated>
+        <summary type="html"><![CDATA[网信办公布了《互联网弹窗信息推送服务管理规定（征求意见稿）》，意见截至日期 3 月 17 日。《征求意见稿》规定：第五条（二）不得推送《网络信息内容生态治理规定》明确的违法和不良信息，特别是恶意炒作娱乐八卦、绯闻隐私、奢靡炫富、审丑扮丑等违背公序良俗内容；不得关联某一话题集中推送相关旧闻，恶意翻炒。（八）不得设置诱导用户沉迷、过度消费等违反法律法规或者违背伦理道德的算法模型；不得滥用个性化弹窗服务，利用算法屏蔽信息、过度推荐等；不得滥用算法，针对未成年用户进行画像，向未成年用户推送可能影响其身心健康的信息。（十）不得以弹窗信息推送方式呈现恶意引流跳转的第三方链接、二维码等信息；不得通过弹窗信息推送服务诱导用户点击，实施流量造假、流量劫持。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星在一加之后被发现限制 Android 应用性能]]></title>
+        <id>https://www.solidot.org/story?sid=70834</id>
+        <link href="https://www.solidot.org/story?sid=70834"/>
+        <updated>2022-03-03T06:20:38.000Z</updated>
+        <summary type="html"><![CDATA[三星在一加之后被发现为了延长电池续航力而有意的限制 Android 应用性能，受影响应用数量可能多达上万。三星的 Galaxy 系列手机预装了名为 Game Optimizing Service 的系统应用，它无法被禁用，从名字上看它的功能似乎是优化游戏的性能。但三星实际上用该应用“优化了”数以千计的非游戏类应用的性能，包括 3DMark、GeekBench 在内的测试工具不受限制，因此有用户修改了 3DMark 的软件包名字，结果 3DMark 应用之后性能就受限了。被限制性能的应用包括了 Instagram、Netflix、TikTok，部分 Google 应用，以及部分三星的应用如支付服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 开始强制要求员工重返办公室]]></title>
+        <id>https://www.solidot.org/story?sid=70833</id>
+        <link href="https://www.solidot.org/story?sid=70833"/>
+        <updated>2022-03-03T05:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Google 开始要求美国、英国和亚太地区部分办公室员工从 4 月 4 日起每周重返办公室三天。Google 在给湾区员工的邮件中称，预防和治疗上的进展，病例数的持续下降，安全措施的改进，意味着可以开始过渡到混合工作模式。Google 预计大部分员工将会每周回到办公室工作三天，这一工作安排会因团队和角色的不同而存在差异。重返办公室的员工必须完全接种疫苗或者有经过批准的接种豁免。没有接种也没有豁免的员工将给与选项寻求一次性或永久性的远程工作。完全接种的员工不再需要佩戴口罩。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾断电事故影响到台积电]]></title>
+        <id>https://www.solidot.org/story?sid=70832</id>
+        <link href="https://www.solidot.org/story?sid=70832"/>
+        <updated>2022-03-03T05:29:08.000Z</updated>
+        <summary type="html"><![CDATA[台湾周四上午发生了大规模的突然断电事故，原因据报道是因为高雄兴达电厂开关场事故，龙崎超高压变电所以南机组跳脱，造成南部地区停电，引发中北部地区低频卸载，导致中北部部分地区用户停电。目前受影响地区已陆续恢复供电。台积电证实它的部分厂区受到影响，但没有发生停电，不影响日常工作。台联电的厂务设备及生产机台已逐步复机，联电指出，影响程度在可控范围内。南亚科、华邦电也分别对外说明生产营运未受到影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[175 个国家计划制定全球塑料条约]]></title>
+        <id>https://www.solidot.org/story?sid=70831</id>
+        <link href="https://www.solidot.org/story?sid=70831"/>
+        <updated>2022-03-03T05:19:00.000Z</updated>
+        <summary type="html"><![CDATA[175 个国家的代表周三同意起草制定全球塑料条约，以遏制塑料污染的爆炸式增长。该协议是在联合国环境大会上达成的，各国致力于制定一项广泛且具有法律约束力的条约，以改善回收利用、清理塑料废物并遏制塑料生产。这可能会将禁止使用一次性塑料等措施摆上台面。支持者表示，这项有望在 2024 年达成的协议将是自 2015 年巴黎气候变化协议以来最重要的环境协议。联合国环境规划署估计，只有 9% 的塑料被回收利用。大部分只使用一次，之后被填埋丢弃或焚烧。科学家称塑料在整个生命周期都会造成环境伤害。制造塑料在 2015 年产生了 4.5% 的全球温室气体排放。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工信部公布规定限制 APP 下载行为]]></title>
+        <id>https://www.solidot.org/story?sid=70830</id>
+        <link href="https://www.solidot.org/story?sid=70830"/>
+        <updated>2022-03-03T05:01:44.000Z</updated>
+        <summary type="html"><![CDATA[针对媒体和网友反映部分网站在用户浏览页面信息时，强制要求下载 APP 问题，工信部表示日前召开行政指导会，督促相关互联网企业进行整改。具体要求如下：未经用户同意或主动选择，不得自动或强制下载APP；推荐下载APP时，应同步提供明显的“取消”选项。无合理正当理由，不得要求用户不下载APP就不给看，或者不让看全文。不得以折叠显示、主动弹窗、频繁提示、降低体验等方式强迫、误导用户下载、打开APP，或跳转至应用商店，影响用户正常浏览信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[曾经想要吞下一切生意的亚马逊，将关闭68家实体店]]></title>
         <id>https://news.cnblogs.com/n/714889/</id>
@@ -59,6 +452,35 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于在 2022 年去广告这件事]]></title>
+        <id>https://sspai.com/post/71815</id>
+        <link href="https://sspai.com/post/71815"/>
+        <updated>2022-03-02T13:23:13.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+
+桌面端浏览器上去广告，建议使用 Firefox 浏览器；
+去广告规则大致可分为网络层面的「屏蔽」行为和网页层面的「隐藏」行为，后者相对成本更高，可能会拖慢网页加载速度；
+Safari 上的 Content Blocker 接口使用的语法与传统的 Adblock 语法或 host 语法并不相同，应用需要转译一次；
+如果第三方应用基于 Content Blocker 语法开放相应自定义规则，能够实现类似 uBlock Origin 的效果，无论是桌面端还是移动端。
+省心方案推荐。
+
+为什么去广告后反而网页打开更慢了？
+因为大部分时间都在使用浏览器，所以当我想给老电脑「续命」的时候，自然而然地联想到了 App Store 上各类去广告应用的宣传语，无非归结为三类：
+
+三到五倍的速度提升；
+节省流量；
+提升续航。
+
+如果真有这样的好事，那就连地球妈妈也应该好好感谢我。好！整！给浏览器上去广告插件！
+但实际使用后，却发现去广告让我的浏览网页体验更加糟糕了。首先点击链接后需要等上几秒钟才能加载完毕网页，网页的架构就好像慢动作播放一样一层一层填充丰满起来；其次在加载过程中还会时不时「闪烁」一下，让我在努力诚恳工作之余怀疑浏览器是不是也要加上一个闪烁画面警告。
+这段痛苦的经历让我性格发生扭曲并变态起来，半年过去，哪怕渐渐了解到去广告的原理后，我也想做一名速度狂魔，追求任何网页的极致打开速度。至于在 2022 年我又聊起去广告这件事，很大一部分要感谢 iOS 15 上 Safari 的改进，重新回到 iDevice 上后发现跟其他几个开放系统一比情况还挺不同，得继续琢磨一番。
+去广告标杆 uBO 如何看待这件事
+在放弃了老电脑（MBP 2016 13寸）后我整了一台类似工控机的小主机在办公室，选系统的时候正巧同事轮番辱骂 Windows 11，索性我就采用了 Linux Min…]]></summary>
+        <author>
+            <name>路中南</name>
         </author>
     </entry>
     <entry>
@@ -307,6 +729,59 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[在 macOS 下搭建 51 单片机开发环境]]></title>
+        <id>https://sspai.com/post/71802</id>
+        <link href="https://sspai.com/post/71802"/>
+        <updated>2022-03-02T08:11:25.000Z</updated>
+        <summary type="html"><![CDATA[搭建原因
+
+本学期的《微机原理与单片机技术》需要进行一些简单的单片机开发实验，原本打算在 Parallels Desktop 的 Windows 虚拟机中进行实验，但实在难以忍受老旧 MacBook 上运行虚拟机的发热和吵闹的风扇声以及割裂的使用体验（我校提供的是“万年前”的盗版 Keil），决定尝试在 macOS 下尝试搭建开发环境。
+我的设备
+
+Macbook Pro ( Intel )
+STC89C52RC 单片机及开发板
+
+本文可能仅适用于 Intel 架构的 macOS 和 STC89C52RC 单片机，使用 ARM 架构 macOS 或其他型号单片机的朋友们可能还需要继续折腾。
+软件安装
+
+CH340/CH341 的 USB 转串口驱动程序
+交叉编译器 sdcc
+程序下载器 stcgal
+一个趁手的代码编辑器
+
+准备工作
+
+Homebrew
+
+如果没有安装 Homebrew，你可以从 这里 获取。如果访问较慢，可以尝试更换为 清华源。
+
+Python 和 Pip
+
+你可以参照我派的 这篇教程 来安装 Python 和 Pip。
+
+驱动程序的安装
+
+沁恒微电子提供了 CH340/CH341 的 USB 转串口驱动程序，你可以点击 这里 下载。解压后运行 pkg 文件，按照提示即可简单的完成安装。
+
+在完成安装后，将开发板连接至 Mac。在终端中输入：ls /dev/tty.wchusbserial*，
+若出现了类似的文字（后四位数字可能不同）/dev/tty.wchusbserial1440那么恭喜你，驱动程序的安装已经完成。
+
+交叉编译工具 sdcc
+
+在终端中输入：brew install sdcc即可完成安装。
+
+程序下载器 stcgal
+
+在终端中输入：pip3 install stcgal即可完成安装。
+ 
+初试牛刀——用数码管点亮 SSPAI
+
+示例代…]]></summary>
+        <author>
+            <name>Lin0u0</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zoë Kooyman 被任命为 FSF 执行董事]]></title>
         <id>https://www.solidot.org/story?sid=70822</id>
         <link href="https://www.solidot.org/story?sid=70822"/>
@@ -354,6 +829,32 @@
         <summary type="html"><![CDATA[宫崎英高的最新作品《艾尔登法环（Elden Ring）》上市不到一周，仅 Steam 平台的销量估计就超过千万。以难度著称的魂系游戏真正走向了主流。《纽约客》采访了宫崎英高，介绍了他的生平和工作。宫崎英高称他本人从来不是技术精湛的玩家，在游戏中也会死许多次，所以在工作中他想回答一个问题：如果死亡不只是失败的标记，我如何赋予其意义？如何让死亡成为一种享受？宫崎说，他对那些认为游戏难度过高的玩家感到抱歉，他只是想让玩家体验到克服困难带来的愉悦。宫崎出生在贫困的家庭，小时候负担不起拥有自己的图书，他从图书馆借阅科幻奇幻类的英文书籍，虽然看不懂但通过里面的插图去想象故事。这一经历影响到了他的游戏创作，魂系游戏的故事背景都是相当零碎的，故事的零零散散是一种激发玩家想象力的技术，就像他儿童时期从插图中提取故事，他说想象是一种强大的力量，为用户的诠释提供了空间，创造了一种与观众沟通的感知。《艾尔登法环》的背景故事是由著名作家乔治 R R 马丁创造的，马丁提供了背景、人物和神话的简短描述，但没有参与游戏剧本的写作。宫崎解释说故事必须始终服务于玩家体验，如果马丁写了游戏故事他担心这可能会偏离这个方向。他希望马丁能自由创作，而不是被游戏机制所约束，而游戏机制在开发过程中是会发生变化的。宫崎称家里没人玩他的游戏，因为他感到这会让家人看到他不好的一面，不光彩的一面，这会令人感到尴尬。他的女儿只有三岁，还没到玩视频游戏的年龄。他称，在现实生活中，死亡是可怕的，但在游戏中则另当别论。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有你便是晴天，花 2 万元在顶上开了个天窗到底值不值？]]></title>
+        <id>https://sspai.com/post/71788</id>
+        <link href="https://sspai.com/post/71788"/>
+        <updated>2022-03-02T04:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Aqara 首款支持 Apple HomeKit 的智能晴空灯来啦！不仅可以调节亮度，更支持色温调节。2700K～6500K 色温，支持 HomeKit 自适应照明。创新的专利光学设计，瑞利散射扩散板模拟最真实的天空。
+ 
+ 
+
+
+
+
+
+
+0
+2
+
+
+
+
+
+扫码分享]]></summary>
+        <author>
+            <name>WaveTech烂科技</name>
         </author>
     </entry>
     <entry>
@@ -11315,382 +11816,6 @@ YouTuber / B 站 up
 现在是一个视频的时代，对吧？所以免不了的，我也关注了一些 YouTuber 和 B 站 up，主要也是有关科技的。关注视频类的账号，其实主要是因为有些时候看文字测评很容易睡着，视频其实从形式上有趣、直接…]]></summary>
         <author>
             <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无体育，不清华！华裔少年梦圆2022北京冬奥，清华父母硅谷续写传奇]]></title>
-        <id>https://news.cnblogs.com/n/712096/</id>
-        <link href="https://news.cnblogs.com/n/712096/"/>
-        <updated>2022-02-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：时光好困 【新智元导读】随着 2022 年北京冬奥会临近，华裔选手周知方备受世人关注，他的身上流淌着「清华基因」，中华根系，父母在美国续写传奇，培养冬奥选手参加本届冬奥花滑。 距离 2022 年北京冬奥会开幕还剩 4 天，随着外国运动员陆续抵京，美国华裔花滑运动员周知方（Vince
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cruise 将在旧金山向公众提供免费的自动驾驶出租车服务]]></title>
-        <id>https://www.solidot.org/story?sid=70561</id>
-        <link href="https://www.solidot.org/story?sid=70561"/>
-        <updated>2022-02-02T11:42:08.000Z</updated>
-        <summary type="html"><![CDATA[通用汽车旗下自动驾驶子公司 Cruise 宣布将于数周内在旧金山向公众提供免费的自动驾驶出租车服务。自动驾驶出租车的方向盘后没有人类司机坐着充当备份，是真正的自动驾驶。Cruise 从去年 11 月起就为员工提供没有备份司机的自动驾驶服务。面向公众的自动驾驶出租车服务时间从晚上 11 点持续到凌晨 5 点，只限于旧金山西北的 Nob Hill、Fillmore、Panhandle、Sunset 和 Richmond 等地区。目前包括 Cruise 在内的自动驾驶公司未能获得加州公用事业委员会的批准提供付费出租车服务，因此这些服务都是免费的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上帝进入元宇宙！美国牧师创建VR教堂，在虚拟世界中复活洗礼祷告]]></title>
-        <id>https://news.cnblogs.com/n/712095/</id>
-        <link href="https://news.cnblogs.com/n/712095/"/>
-        <updated>2022-02-02T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：桃子 、拉燕 【新智元导读】元宇宙里能做什么？先办一场在虚拟之境中的艺术展，再去 VR 教堂进行一次虔诚的祈祷，完成一次别具一格的洗礼，又或是？ 元宇宙里能做什么？ 先办一场艺术展。艺术家们描绘生活，观看世界的一些生动瞬间在虚拟之境呈现，别有韵味。 再去 VR 教堂进行一次虔诚的祈
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国技术人员2022薪资报告出炉：平均年薪超10万美元]]></title>
-        <id>https://news.cnblogs.com/n/712094/</id>
-        <link href="https://news.cnblogs.com/n/712094/"/>
-        <updated>2022-02-02T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：David 拉燕 调查显示，过去一年美国技术人员平均薪资上涨7%，超过 10 万美元。但近一半的人认为自己的工资「过低」。去年一年你的工资涨了吗？ 过去的一年，你的工资是涨了还是降了？你对目前自己的工资水平满意吗？ 近日，数据网站 Dice 出炉了 2022 版美国技术人员薪资水平
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑莓将其移动专利出售给一家专门为此成立的公司]]></title>
-        <id>https://www.solidot.org/story?sid=70560</id>
-        <link href="https://www.solidot.org/story?sid=70560"/>
-        <updated>2022-02-02T11:15:08.000Z</updated>
-        <summary type="html"><![CDATA[黑莓公司移动业务再落下一章：它宣布以 6 亿美元将移动、消息和无线网络专利组合出售给专门为此成为的公司 Catapult IP Innovations Inc。黑莓是智能手机市场早期的巨头，这家公司无疑会把专利作为武器获取巨额回报。黑莓曾在 2018 年起诉 Facebook Messenger 专利侵犯。Catapult 只筹集到 4.5 亿美元的贷款，这 4.5 亿美元现金会直接支付给黑莓，剩余的 1.5 亿美元是期票，第一笔款项将在三年内支付。Catapult 显然需要立即将黑莓专利组合转化为收入来源，这意味着我们可能会很快看到相关的专利诉讼。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首款AR隐形眼镜问世：是元宇宙窗口，还是广告弹窗捷径？]]></title>
-        <id>https://news.cnblogs.com/n/712093/</id>
-        <link href="https://news.cnblogs.com/n/712093/"/>
-        <updated>2022-02-02T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[编辑：袁榭 来源：新智元 【导读】2022 年 1 月的国际消费电子展，InWith 公司宣布已成功开发出世界第一款软性 AR 隐形眼镜。这将是“动眼进入元宇宙”的第一步么？ 用智能隐形眼镜，直接在人眼上映出增强现实图像的点子，在电影电视中里不少见。 比如在很卖座的《黑镜》里有。 在很不卖座的《机械
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2202年了，AI还是不如猫！图灵奖得主Yann LeCun：3大挑战依然无解]]></title>
-        <id>https://news.cnblogs.com/n/712092/</id>
-        <link href="https://news.cnblogs.com/n/712092/"/>
-        <updated>2022-02-02T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：好困 、时光 2022 年了，LeCun 依然认为人工智能还远不及猫的认知水平。尽管只有微不足道的 8 亿个神经元，但猫的大脑远远领先于任何巨型人工神经网络。 2018 年，Yann LeCun：人工智能缺乏对世界的基本认识，甚至还不如家猫认知水平。 2022 年，Yann LeC
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI老板推特说相声：嘲笑创投圈「募6轮资还没到A轮」]]></title>
-        <id>https://news.cnblogs.com/n/712091/</id>
-        <link href="https://news.cnblogs.com/n/712091/"/>
-        <updated>2022-02-02T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：袁榭、拉燕 创业孵化器大佬、OpenAI 现任 CEO Sam Altman，又在推特上开嘲讽了。 创业公司募资化缘一轮接一轮、同时迟迟不出货没进展的恶劣风气，现在已是妇孺皆知。虽然初创公司过去一般在筹集 A、B、C 等轮次之前先进行种子轮融资，但现在许多公司选择在其间进行额外的轮
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoodNotes 免费资源｜虎年笔记封面放送中]]></title>
-        <id>https://sspai.com/post/71221</id>
-        <link href="https://sspai.com/post/71221"/>
-        <updated>2022-02-02T10:11:05.000Z</updated>
-        <summary type="html"><![CDATA[🐯虎年到！GoodNotes 也为大家奉上了新年福利。希望大家在新的一年里都可以生龙活虎
-
-🎁礼包里面有什么？
-这一次的封面礼包为大家带来了三个不同的笔记封面，并且提供了横版和竖版两种选项，方便不同记录习惯的你。
-🔴红色热情张扬，祝你新年红红火火。🟡浅色朴素经典，祝你新年温柔坚定。⚫️暗色暗藏锋芒，祝你新年深思远行。
-📲 如何获得虎年笔记封面
-1⃣️ 使用 iPad 或 Mac 下载封面至设备
-2⃣️ 打开 GoodNotes，点击右上角“设置”
-3⃣️ 在出现的菜单中选择“笔记本模版”
-4⃣️ 在模版中点击“封面”，然后在下方除“基本”外的任意栏的最后点击“+”导入下载的封面
-5⃣️ 点击左上角的“完成”后就可以正常使用啦
-
-你知道吗，你还可以用 GoodNotes...
-🔍 搜索手写内容、PDF 文字和标题、输入文字等
-⏬ 导入并标记 PDF、PPT、图片等文件
-🌸 内置不同风格封面及笔记模版
-...
-欢迎关注 GoodNotes 的少数派专栏，第一时间获得更多 GoodNotes 使用技巧、新功能介绍、免费资源等更多福利哦。
- 
-你喜欢这一次的分享吗？如果你还想要更多免费笔记资源，欢迎在评论区告诉我们。
- 
-
-
-
-
-
-
-8
-7
-
-
-
-
-
-扫码分享]]></summary>
-        <author>
-            <name>GoodNotes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2040张图片训练出的ViT，准确率96.7%，连迁移性能都令人惊讶]]></title>
-        <id>https://news.cnblogs.com/n/712090/</id>
-        <link href="https://news.cnblogs.com/n/712090/"/>
-        <updated>2022-02-02T10:11:00.000Z</updated>
-        <summary type="html"><![CDATA[晓查发自凹非寺 量子位公众号 QbitAI ViT 在计算机视觉领域取得了巨大的成功，甚至大有取代 CNN 之势。 但是相比 CNN，训练 ViT 需要更多的数据，通常要在大型数据集 JFT-300M 或至少在 ImageNet 上进行预训练，很少有人研究少量数据训练 ViT。 最近，南京大学吴建鑫
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩春雨，时隔六年再发高分论文]]></title>
-        <id>https://news.cnblogs.com/n/712089/</id>
-        <link href="https://news.cnblogs.com/n/712089/"/>
-        <updated>2022-02-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[金磊博雯发自凹非寺 量子位公众号 QbitAI 时隔 6 年，“韩春雨”这个名字，再次跃入大众视线。 六年前（2016 年），他凭借一把基因“新剪刀”NgAgo登上 Nature Biotechnology。 因技术所具备的极高研究、商业价值，可谓是迅速走红： 诺奖级学者、秒杀半数以上 CNS（三大
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放基础架构安全防护：对抗复杂性]]></title>
-        <id>https://www.solidot.org/story?sid=70559</id>
-        <link href="https://www.solidot.org/story?sid=70559"/>
-        <updated>2022-02-02T09:47:28.000Z</updated>
-        <summary type="html"><![CDATA[HardenedVault 写道 "2022年1月25日，赛博堡垒（HardenedVault）创始人 Shawn Chang在第九界安天网络安全冬训营研讨会上分享了《开放基础架构安全防护:对抗复杂性》(视频）的议题，主要围绕基础架构的定义、用实际案例分析了高级防护的趋势、威胁建模过程中遇到的常见问题及打造开放的体系基础架构安全过程中关键性的组件等方面进行了介绍。2021年的公开披露信息来看，高级威胁有之前未见的两大趋势，规模化构建专注底层的攻击链条和更加精湛的攻击技术，Kaspersky针对2022年APT（高级可持续威胁）的趋势预测中直接指出了底层攻击的“热度”回归，"Bootkit is a new norm"沉积了数年之后再次进入主流视野。"]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds 不是中本聪]]></title>
-        <id>https://www.solidot.org/story?sid=70558</id>
-        <link href="https://www.solidot.org/story?sid=70558"/>
-        <updated>2022-02-02T09:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Linux 之父 Linus Torvalds 在内核中添加了一行代码“Name = I am Satoshi”。再次引发了比特币神秘创作人中本聪的讨论。中本聪在 2008 年发布了比特币的白皮书，在 SourceForge 上发布了最早的比特币程序。他在 2010 年停止参与比特币社区，此后基本上从互联网上销声匿迹。随着比特币为代表的加密货币的兴起，围绕谁是中本聪的讨论持续至今，其身份至今无人知晓。Linus Torvalds 会是中本聪？当然不可能，Torvalds 承认他只是针对 GitHub 如何工作开了玩笑。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费填字游戏值数百万美元？！2个月火爆全球的Wordle被开天价]]></title>
-        <id>https://news.cnblogs.com/n/712088/</id>
-        <link href="https://news.cnblogs.com/n/712088/"/>
-        <updated>2022-02-02T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[杨净明敏发自凹非寺 量子位公众号 QbitAI 一个小游戏，价值竟上百万美元？ 最近，全球爆火的填字游戏 Wordle，有了新进展—— 被《纽约时报》收购，价格在7 位数。 它的玩法很简单，就填一个含 5 个字母的单词。 可以说除了词汇量之外，无其他挑战性可言。 但就是这样一款游戏，在短短几个月内火
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器人首次独立手术！最快55分钟缝合肠道，“结果优于外科医生”]]></title>
-        <id>https://news.cnblogs.com/n/712087/</id>
-        <link href="https://news.cnblogs.com/n/712087/"/>
-        <updated>2022-02-02T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[杨净发自凹非寺 量子位公众号 QbitAI 没有人类指导，机器人自己就完成了手术？！ 结果还显著优于外科医生。 最近，有这样一项实验引发了大家关注。 美国约翰·霍普金斯研究团队设计研发的手术机器人STAR，在猪的软组织上首次独立完成腹腔镜肠道吻合手术——重新连接肠道的两端。 研究人员表示， 这是朝着
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全美第二机器人项目核心数学课免费开放，院长授课作业讲义全同步]]></title>
-        <id>https://news.cnblogs.com/n/712086/</id>
-        <link href="https://news.cnblogs.com/n/712086/"/>
-        <updated>2022-02-02T09:22:00.000Z</updated>
-        <summary type="html"><![CDATA[行早发自凹非寺 量子位公众号 QbitAI 密歇根安娜堡分校机器人学院开放了核心课程：Robotics 501: Mathematics for Robotics。 密歇根大学安娜堡分校是被誉为“公立常青藤”的工科强校，在 QS 排名中基本保持在 20 左右的名次。其机器人项目更是全美第二名： 在整
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虚拟人春节搞事情！先在央视《对话》，又跟李玉刚组团除夕出道]]></title>
-        <id>https://news.cnblogs.com/n/712085/</id>
-        <link href="https://news.cnblogs.com/n/712085/"/>
-        <updated>2022-02-02T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 一个女孩登上了央视《对话》栏目，仅是浅唱了一首歌，便让全场惊叹连连。 讲真，这种 reaction 还真没有一点夸张。 话不多说，先来感受下这个 feel： 或许你会问了，人美歌甜是没错，但也不至于到震惊的程度吧？ 但如果说，视频里的这个女孩，她并不是人呢
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虚数有物理意义吗？潘建伟范靖云团队最新量子力学研究同日登顶刊]]></title>
-        <id>https://news.cnblogs.com/n/712084/</id>
-        <link href="https://news.cnblogs.com/n/712084/"/>
-        <updated>2022-02-02T09:08:00.000Z</updated>
-        <summary type="html"><![CDATA[量子力学又成了热点，这次不是量子计算也不是量子加密通讯，而是一个基础理论问题。 相关问题一度登上知乎热榜第二。 事情是这样的。 量子力学很多方程中都用到了虚数，但这让物理学家们感到困惑。 毕竟现实世界中能测量出的值都是实数的，比如一个物体的质量或速度，量子力学中的概率和期望也不例外。 就连薛定谔自己
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看不懂代码？AI给你做翻译，说人话的那种]]></title>
-        <id>https://news.cnblogs.com/n/712083/</id>
-        <link href="https://news.cnblogs.com/n/712083/"/>
-        <updated>2022-02-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI GitHub Copilot，最近又出了个新功能。 这一次，它不再是帮你写代码了，而是充当一个“翻译官”： 用“人话”告诉你，这段代码到底写了啥。 瞧，只需要选中一段代码，然后点一下旁边的“Ask Copilot”，就会快速得到代码的“人话版”解释： 示例
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他22岁在家自造芯片，性能接近英特尔初代，连光刻机都有解决方案]]></title>
-        <id>https://news.cnblogs.com/n/712082/</id>
-        <link href="https://news.cnblogs.com/n/712082/"/>
-        <updated>2022-02-02T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 万万没想到，造芯这件事，竟然还能如此“亲民”： 在 22 岁的年纪，一个人竟能凭一己之力，在自家车库里打造一块芯片！ △ 图源：WIRED 你没听错，这就是一位名叫Sam Zeloof的美国小伙，硬生生给搞出来的事儿。 而且他在车库里 DIY 的芯片，是连
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[论机智还是国产旗舰花样多，2999到10999元，各有各的“开窍点”]]></title>
-        <id>https://news.cnblogs.com/n/712081/</id>
-        <link href="https://news.cnblogs.com/n/712081/"/>
-        <updated>2022-02-02T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[萧箫发自凹非寺 量子位公众号 QbitAI 赶在春节前，各家国产安卓旗舰机陆续上市，从小米 12 Pro、荣耀 Magic V、iQOO 9 Pro，到一加 10 Pro、realme 真我 GT2 Pro、moto edge X30…晃眼一看数不过来。 拿到手机后，就能发现挺多有趣的功能细节： 像
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta AI发布图音文大一统模型Data2vec,CV精度超MAE]]></title>
-        <id>https://news.cnblogs.com/n/712080/</id>
-        <link href="https://news.cnblogs.com/n/712080/"/>
-        <updated>2022-02-02T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[行早发自凹非寺 量子位公众号 QbitAI Meta AI 搞了一个大一统的自监督学习模型Data2vec。 怎么个大一统法？ 图像、语音、文本都可以处理，效果还都不错，在 CV 方面甚至超过了包括 MAE、MaskFeat 在内的一众模型。 这是怎么做到的？我们来看看 Data2vec 的思路和结
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文｜手机相册里的香江]]></title>
-        <id>https://sspai.com/post/71075</id>
-        <link href="https://sspai.com/post/71075"/>
-        <updated>2022-02-02T07:41:44.000Z</updated>
-        <summary type="html"><![CDATA[序言
-我一直觉得，要用一篇几千字的文章来概括自己在一年里做了什么是一件非常困难的事情，出于自己的文笔和对文字的把控能力，我只能挑选自己觉得最重要且时间较长的事情展开说说。
-2021 年 1 月，我在 Alva 的「怂恿」下成为了我派的一员，开始尝试用文字在少数派里和朋友们分享自己在「摄影」这个「无底洞」里面的收获的心得和教训。
-8 月份，我告别家人，来到香港继续学业。
-作为一个从小看着 TVB 电视剧长大的广州人，在香港其实并没有感受到多少「独在异乡」的感觉。虽说如此，在我在香港生活的这段时间里，也确实遇到了一些让我感到疑惑、生气和愤怒的人和事。也许这就是香港这座城市本来的样子吧。香港很小，只有广州的七分之一，长沙的十分之一。但是它又足够大，我可以在里面找到熟悉和亲切的感觉，感受到善意和温暖，也能够遇到敌意和冷漠。
-乌溪沙海滩
-在香港这半年里，我发现其实能带着相机出去的时间并不多（虽然已经尽量尝试多带出去了），一方面是因为我懒，哪怕现在的无反相机已经很轻了，但是带出去还是需要进行一点心理建设；另一方面是因为学习比较繁重，也没很多大段完整的时间外出拍摄。所以，我很多时候就是靠着随身的手机拍摄，很多图片都是我看到在路上发现的风景抬手拍摄而成的。
-在动笔开始写这篇年度总结之前，我特地看了一下之前用手机拍摄的照片，很惊讶地发现原来自己已经走过了这么多的地方：从上水到浅水湾、从天水围到油塘、从坚尼地城到杏花村。我很欣慰，因为虽然感觉自己很懒，但是从来没有放弃用脚去过丈量这片土地。现在是一月中下旬，因为香港「遍地开花」的疫情，距离下一次的痛快出游显得遥遥无期。所以，我谨以这篇文章记录一下这半年内我所看到的香江风情。
-粉岭 谷浦
-器材、拍摄方式和后期处理
-在科技快速发展以及手机行业高度内卷的今天，手机（也可以说一部分是算法）已经可以替代一部分传感器面积为一英寸左右或者更小传感器尺寸的相机…]]></summary>
-        <author>
-            <name>Hermanchannn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[运动让人年轻！研究证明锻炼成功“逆龄”老年小鼠肌肉]]></title>
-        <id>https://news.cnblogs.com/n/712079/</id>
-        <link href="https://news.cnblogs.com/n/712079/"/>
-        <updated>2022-02-02T02:47:07.000Z</updated>
-        <summary type="html"><![CDATA[运动对于身体的诸多益处已无须多言，包括能改善我们骨骼和肌肉的力量、提高行动能力与耐力、以及降低心脏病、糖尿病和高血压等疾病的风险。其中饱受关注的就是运动的“逆龄”功效。 许多人会发现，长期坚持运动的人，往往会比同龄人看起来要年轻些。 最新一项研究更指出，在抗衰老上，运动可不止让你“看起来”年轻，而且
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#真全屋WiFi漫游 - 手机漫游不丢包，智能家居不掉线]]></title>
-        <id>https://sspai.com/post/71264</id>
-        <link href="https://sspai.com/post/71264"/>
-        <updated>2022-02-01T16:31:32.000Z</updated>
-        <summary type="html"><![CDATA[按照上一期的视频设置好全屋漫游的 WiFi 以后，发现房间里的智能家居设备变得更加不稳定了？这是因为智能家居产品使用的 WiFi 芯片和固件驱动不支持 802.11r 漫游协议造成的。那么本期的视频就和大家一起设置全屋多WiFi 设置，让你的手机漫游不丢包，智能家居不掉线！
- 
-视频章节：
-0:00 开场
-1:27 多SSID设置
-2:49 启用mDNS服务
-3:10 启用UPnP服务
-4:03 总结
- 
-如果喜欢文字版本的内容，这里也将字幕全部码出来了：
-What’s up 大家好，欢迎收看本期的 WaveTech 烂科技，我是 Eric。在上一期的视频里说了应该要如何部署一个全屋漫游的 Wi-Fi，那么这一期的视频呢，主要来说说看家里准备要部署或者已经部署了全屋智能小伙伴该如何设置全屋Wi-Fi呢？其实很简单，就是忘记上一期视频的内容。哈哈哈哈，为什么这么说呢？我们每年换的新款 iPhone，都是使用了最强大的一线主流 WiFi 芯片，运行的全功能的 iOS 操作系统，对同步双频，对802.11r Wi-Fi漫游支持的都非常完美。但是通常智能家居的设备呢，由于价格就摆在那里，用的不知名小厂的 WiFi 芯片和不知到什么分支的开源 Linux 系统，对于这些Wi-Fi漫游都没有进行完整的支持。所以大家在设置这类产品的时候，常常会遇到两个问题，一个就是在入网的时候，产品就会要求独立的 2.4G 网络才能完成设置，或者在WiFi漫游的网络下时常容易掉线。针对这些问题，这里准备一些全屋Wi-Fi的设置技巧要和你们分享一下。
- 
-首先，第一个就是要选择支持多 SSID 的WiFi路由器，要了解 SSID，首先要了解的另一个名词BSS，全称是 a Wireless basic service set, 中文翻译过来就是无线服务集，说人话呢，就是无线局域网。那么每个无线局域网都会有一个 SSID 全称是 Service Set Identifier 服务集识别码，也就是常说的 WiFi 名称。每个 WiFi 的名称呢，又绑定着一个物理层面的接口，一个由 48 位 MAC 组成的 BSSID。将一个无线局域网的设备划分给不同的物理层面接口，也就是给无线局域网内的设备分组。说了这么多，简单的来说呢，就是例如 Ubnt 的 AP，有 4个 BSSID，也就是最多可以创建 4个不同的 WiFi 名称。每个名称可以设置自己独立的 WiFi 支持特性。这里常见的做法会将笔记本，手机等需要漫游的设备，划分到一个WiFi名称中，而将这些对漫游支持比较差劲的设备单独划分到IoT专用WiFi里，这个 WiFi 可以设置成仅 2.4G 的 WiFi，保证一些对双频支持较差的设备无法入网。同时关闭 802.11r 快速漫游功能，避免智能家居设备因为漫游支持的不完善而掉线。
- 
-第二个，大多数 HomeKit 的智能家居设备利用内网的 mDNS 服务发现局域网内的其他设备，这里要启用路由器上的 mDNS 的服务。mDNS 可以想象成内网的一台智能家居设备，例如智能灯泡，拿了个小喇叭，向周围其他设备播报自己的 IP 地址，其他设备可以通过广播中的 IP 地址找到这盏智能灯。
- 
-最后一个功能是一些依赖云服务的智能家居设备，需要通过云端服务器来完成设备的开关或者智能化操作。那么这里就要依赖到路由器的另外一个功能，uPnP，中文叫即插即用。这个功能是因为我们现在常见的IP 地址是 IPv4，也就是IP协议的第四版本，我们可以把它想象成邮政编码。但是由于这个邮编太短了，所以要给每家每户都分一个邮编，那么邮编就不够用了。所以这里又引入了门牌号。uPnP 服务就是用来记住哪个门牌号属于哪个设备。那么所有到这个大楼的快递包裹就要由 uPnP 进行接收，并且分派到每个门牌号上。在不远的未来，全新一代的 IPv6 就解决了不够用的问题，128位 IPv6 地址保证地球上的每一粒沙子都可以获得一个自己的 IP 地址。这时候就不需要 uPnP 帮忙记住门牌号啦。
- 
-Ok，还没睡着吧？我们总结一下，今天我们说如果打算在家里部署全屋智能的小伙伴们在选择 WiFi 路由器的时候，要注意路由器是否支持多 WiFi 名称设置。将家里需要漫游的手机，笔记本划分到支持漫游的 WiFi 里。并且给智能家居设备开起一个独立的IoT 2.4G WiFi。这样做还有一个好处就是可以独立给 IoT WiFi 设置独立密码。平时用来漫游的 WiFi 要是密码泄露了需要修改密码，也不需要重置整个家中的智能设备。同时开始路由器中的 mDNS 以及 uPnP 功能，保证设备的互相发现以及云服务器的正常链接。如果你还有任何的疑问，欢迎你留下你的评论。如果哪里还有听的不够详细的，也欢迎将播放速度调整为 75% 在看一遍。还有别忘了点赞，关注，我们下期视频见。Bye～
-
-
-
-
-
-
-0
-0
-
-
-
-
-
-扫码分享]]></summary>
-        <author>
-            <name>WaveTech烂科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[截图、修图、管理图片 – Capto 与图片管理工作流]]></title>
-        <id>https://sspai.com/post/71263</id>
-        <link href="https://sspai.com/post/71263"/>
-        <updated>2022-02-01T13:33:09.000Z</updated>
-        <summary type="html"><![CDATA[TL；DR
-Capto 牛逼，买它！购买地址直达链接
-正文
-如果你日常会有编写操作教程，或有大量编写图文混合文章、PowerPoint的时候，你一定会有以下几个困扰：
-
-如何截图:虽然 Windows 和 macOS 都自带了截图的功能，但因为基本是系统自带的功能，所以大部分只有「全屏幕截图」这一个功能，或者需要按下十分复杂的组合键来完成图片的截取。
-如何添加标注：为了确保图片的读者能够找到正确的位置，我们往往会在图片中加入一些标注，帮助读者能够在第一时间找到重点，或帮助用户涂抹掉不需要关注的部分，仅保留核心区域的内容。
-如何管理截图：图片被截取完成后，我们应该如何管理这些图片？我们应该如何管理已经标注好的图片？我们如何阻止这些截图？这些都是在管理截图的时候遇见的问题。
-
-而如果你也遇见了这样的问题，这篇文章就是为你准备的，接下来，且听我为你介绍我的截图管理历史。
-截图工具演变史
-刀耕火种：系统自带截图工具时期
-第一个时期，我采用的是最为笨拙的截图方式方法，在 Windows 和 macOS 系统都提供了默认的截图工具。
-
-在 Windows 当中，只需要按下 Win + Printscreen 键，就可以将你当前的屏幕截取，并保存在系统的「图片\屏幕截图」目录中。
-知乎《Windows10 自带截屏快捷键》
-
-在 macOS 当中，只需要同时按住以下三个按键：Shift、Command 和3，就会拍摄截图。
-Apple《在 Mac 上拍摄截屏》
-
-无论是 Windows 还是 macOS ，都提供了基本的截图工具，但在实际使用的时候，你会发现，你产出的图片(如图1)大多数的时候是这样的：图片中元素极多、无关主题的元素无法被隐藏、桌面背景是你自己自定义的背景等一系列小瑕疵。
-图1: macOS 自带的截图产出的截图
-此外，不同设备上的不同按键让我们在切换设备的时候产生迷惑（…]]></summary>
-        <author>
-            <name>Bestony</name>
         </author>
     </entry>
 </feed>
