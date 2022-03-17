@@ -2,10 +2,357 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-16T01:08:53.178Z</updated>
+    <updated>2022-03-17T01:06:49.111Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新消费退潮背后：奶茶“凉了”？]]></title>
+        <id>https://news.cnblogs.com/n/716888/</id>
+        <link href="https://news.cnblogs.com/n/716888/"/>
+        <updated>2022-03-17T00:17:00.000Z</updated>
+        <summary type="html"><![CDATA[撰文 潘弗尼 编辑 秦言 来源：懂懂笔记 互联网营销带动下的品牌流量与红利，为何没后劲了。 2022 年伊始，新消费的遮羞布从“奶茶”开始被揭开，行业状况百出。 或者说，这一轮因为互联网思维而崛起的新消费浪潮，随着奶茶市场的低迷而开启了正式的退潮。 一直在亏钱的奈雪，在 2021 年预计要亏 1 个
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript命名冲突不可避免？冲突源有哪些]]></title>
+        <id>https://news.cnblogs.com/n/716887/</id>
+        <link href="https://news.cnblogs.com/n/716887/"/>
+        <updated>2022-03-17T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[从 1995 年开始，本文作者 Dr.Axel Rauschmayer 就专门从事 JavaScript 和 Web 开发，已经有 30 多年了。2010 年，他获得慕尼黑大学信息学博士学位。自 2011 年以来，他一直在 2ality.com 写博客，并写了几本关于 JavaScript 的书，比
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox下拉搜索菜单移除俄罗斯搜索引擎Yandex和Mail.ru]]></title>
+        <id>https://news.cnblogs.com/n/716886/</id>
+        <link href="https://news.cnblogs.com/n/716886/"/>
+        <updated>2022-03-17T00:04:27.000Z</updated>
+        <summary type="html"><![CDATA[作者张洁 在 2022 年 3 月 14 日，Mozilla 公司推出了新版本的 Firefox 浏览器，这次的版本为 98.0.1 版本。这次更新有一个很明显的变化，那就是俄罗斯搜索引擎 Yandex 和 Mail.ru 已在 Firefox 浏览器的下拉搜索菜单中被删除。 说到 Yandex 和
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币圈二代目孙宇晨的一万种疯狂]]></title>
+        <id>https://news.cnblogs.com/n/716884/</id>
+        <link href="https://news.cnblogs.com/n/716884/"/>
+        <updated>2022-03-16T23:49:23.000Z</updated>
+        <summary type="html"><![CDATA[图片来源@视觉中国 文｜首席人物观，作者小满，编辑江岳 格林纳达，一个名不见经传的加勒比岛国，最近因为中国年轻人孙宇晨，而在中文互联网世界里拥有了更高的热度。 格林纳达常驻 WTO 大使、特命全权大使，这是孙宇晨的新身份。在搜索网站可见的公关文中，这位“大使”最近很忙，他以视频方式分别会见了欧盟、新
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中概股反弹，是加息前的“黎明前黑暗”还是“柳暗花明”？]]></title>
+        <id>https://news.cnblogs.com/n/716883/</id>
+        <link href="https://news.cnblogs.com/n/716883/"/>
+        <updated>2022-03-16T23:36:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜老铁 在几天的急促下行之后，周围的朋友（包括我）在讨论股市时都开始显示出熊市特征，越发不自信，越发怀疑自己。 经过几天的低沉与思考之后，还是想与大家分享我的一些观点：1.此次股市调整究竟要到什么时候，底部究竟在何处；2.对于中概股我们又有什么可以反思的，是否监管预期明确后就可以舞照跳？ 在美股的
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS新版本终于删掉自带Python2，这波操作连Python死忠粉都叫好]]></title>
+        <id>https://news.cnblogs.com/n/716873/</id>
+        <link href="https://news.cnblogs.com/n/716873/"/>
+        <updated>2022-03-16T15:38:29.000Z</updated>
+        <summary type="html"><![CDATA[鱼羊发自凹非寺 量子位公众号 QbitAI 喜大普奔，苹果现已正式推出的 macOS 12.3 版本，终于把自带的Python 2给删了！ 此前测试版推出时，就有网友激动地表示： 终于！虽然我是 Python 的死忠粉，但我真的希望操作系统们不要再内置 Python 了！！！ 操作系统捆绑编程语言是
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里巴巴和腾讯准备裁员]]></title>
+        <id>https://www.solidot.org/story?sid=70964</id>
+        <link href="https://www.solidot.org/story?sid=70964"/>
+        <updated>2022-03-16T15:08:34.000Z</updated>
+        <summary type="html"><![CDATA[路透援引消息来源报道，阿里巴巴和腾讯准备在今年裁减数万个职位，这会是它们最大的裁员行动。消息人士估计，阿里巴巴最终可能会裁掉其员工总数的 15 %以上，约为 3.9 万人。有三位知情人士称，腾讯也计划在今年裁减其一些业务部门的员工。其中一位人士说，其负责视频流媒体和搜索等业务的部门今年将裁员 10%-15%。监管部门的打击，加上经济放缓，使大多数互联网公司的销售增长急剧放缓，股价骤跌，在中国筹集新资和业务扩张更加艰难，迫使阿里巴巴和腾讯等公司寻找削减运营成本的方法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌：性能不佳的微调模型不要扔，求一下平均权重就能提升性能]]></title>
+        <id>https://news.cnblogs.com/n/716874/</id>
+        <link href="https://news.cnblogs.com/n/716874/"/>
+        <updated>2022-03-16T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[如何最大限度地提升模型精度？ 最近，谷歌等机构发现： 性能不好的微调模型先不要扔，求一下平均权重！ 就能在不增加推理时间以及内存开销的情况下，提高模型的准确性和鲁棒性。 比如，研究人员就使用该方法创造了 ImageNet1K 的新纪录：90.94%。 将它扩展到多个图像分类以及自然语言处理任务中，也
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒武纪人财两失]]></title>
+        <id>https://news.cnblogs.com/n/716882/</id>
+        <link href="https://news.cnblogs.com/n/716882/"/>
+        <updated>2022-03-16T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[光芒褪去。 作者丨樟稻 编辑丨伊页 来源：科技新知 一家行业里的独角兽，从声名鹊起到千夫所指，需要多久？拥有“AI 芯片第一股”光环的寒武纪，只用了不到 2 年。 3 月 15 日，中科寒武纪科技股份有限公司发布了关于核心技术人员离职的公告，内容显示，核心技术人员梁军先生因与公司存在分歧，通知公司解
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[arXiv 因室温超导争议暂停作者发表论文半年]]></title>
+        <id>https://www.solidot.org/story?sid=70963</id>
+        <link href="https://www.solidot.org/story?sid=70963"/>
+        <updated>2022-03-16T13:59:06.000Z</updated>
+        <summary type="html"><![CDATA[因室温超导争议，预印本平台 arXiv 的管理员最近移除或拒绝发表对立双方的多篇论文，理由是论文手稿包含了煽动性的内容和不专业的语言。arXiv 还暂停其中一位作者——加州圣迭戈的理论物理学家 Jorge Hirsch 发表论文半年。Hirsch 回应说，禁令不公平，“如果不能发表论文我无法工作。”arXiv 董事会主席、阿姆斯特丹大学物理学家 Ralph Wijers 表示他们的决定与科学无关，不是因为不喜欢内容而拒绝发表，而是因为人们的情绪深受影响，语言过于激烈。向 arXiv 递交的论文不是每一篇都接受发表，拒绝的比例只有 1%，大约 200 名志愿者会审查递交的论文确保内容合法或能引起学界的兴趣。志愿者会确保论文不包含对其他科学家抨击的措辞。arXiv 咨询委员会成员 Paul Fendley 说，如果允许此类内容的话那么 arXiv 和 Twitter 有何区别呢？志愿审查人员认为 Hirsch 跨过了红线。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传音控股：“非洲之王”不想躺平]]></title>
+        <id>https://news.cnblogs.com/n/716881/</id>
+        <link href="https://news.cnblogs.com/n/716881/"/>
+        <updated>2022-03-16T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[欢迎关注“新浪科技”的微信订阅号：techsina 文/五行 来源：节点财经（ID:jiedian2018) 2019 年，传音控股（688036.SH）赶在国庆节前在科创板上市，资本市场用极高的热情欢迎了这位“非洲之王”。 上市首日收盘，股价报 57.80 元，较开盘价上涨 64.44%，总市值达
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机厂商“垄断式”崛起之路，或已走到尽头]]></title>
+        <id>https://news.cnblogs.com/n/716880/</id>
+        <link href="https://news.cnblogs.com/n/716880/"/>
+        <updated>2022-03-16T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[撰文 冷泽林 编辑 王潘 来源：光子星球 上个月，大洋彼岸的参议院以压倒性优势通过了《开放市场法案》，此法案将要求苹果、谷歌允许软件开发者在 iOS 和安卓系统中使用其他支付系统，并允许用户安装第三方应用商店。 无独有偶，本月，韩国电信监管机构也通过了针对苹果和谷歌应用商店的修正法案，将禁止苹果和谷
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德邦快递改姓，京东物流蝶变]]></title>
+        <id>https://news.cnblogs.com/n/716879/</id>
+        <link href="https://news.cnblogs.com/n/716879/"/>
+        <updated>2022-03-16T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜王飞澍 编｜派公子 来源：派财经 传闻已久的京东物流收购德邦，靴子终于落地。 3 月 13 日，京东物流发布公告，将以 89.76 亿元的价格收购德邦 66.49% 股份。这一价格相比于此前传闻中的 130 亿元、150 亿元、170 亿元等，明显低了不少，但仍未妨碍其刷新行业最高收购纪录——2
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“个个都是影帝”，玉石直播终于火上了315]]></title>
+        <id>https://news.cnblogs.com/n/716878/</id>
+        <link href="https://news.cnblogs.com/n/716878/"/>
+        <updated>2022-03-16T13:22:00.000Z</updated>
+        <summary type="html"><![CDATA[文张行 编辑王芳洁 来源：最话 FunTalk “那都是演的，不是真的”。 这句话出现在今年的 315 晚会上。一段晚会上播出的视频资料显示，央视记者以主播身份应聘进入一家名为永德祥的云南腾冲公司，该公司从事玉石直播生意，其号称“家有珠宝工厂”的主播莎莎坦言，所有主播的“专业”身份都是编造的。而“高
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迟延交付、电池替换门、销量被反超，小鹏身陷“多事之春”]]></title>
+        <id>https://news.cnblogs.com/n/716877/</id>
+        <link href="https://news.cnblogs.com/n/716877/"/>
+        <updated>2022-03-16T13:11:00.000Z</updated>
+        <summary type="html"><![CDATA[采写／凝 雨 编辑／陈纪英 来源：财经故事荟 作为国内造车新势力的三大巨头之一，小鹏汽车 2021 年可谓风光无两。 公开数据显示，2021 年小鹏汽车交付量高达 98155 辆，力压蔚来的 91429 辆及理想的 90491 辆。 2022 年 1 月份，小鹏汽车再次拔得当月造车新势力销量榜的头筹
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汽车团队解散！苹果8年造车梦又碎了一地]]></title>
+        <id>https://news.cnblogs.com/n/716875/</id>
+        <link href="https://news.cnblogs.com/n/716875/"/>
+        <updated>2022-03-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：袁榭好困 【新智元导读】近日「苹果爆料王」郭明錤再有爆料，称 Apple Car 项目团队「早就解散了」。 苹果汽车，又要凉了？ 最近，著名分析师郭明錤在个人推特上又一次爆料，称苹果负责传闻已久的 Apple Car 项目的员工团队已经「解散了有段时间」。 苹果若要在 2025 年
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯可用存储空间只剩两个月]]></title>
+        <id>https://www.solidot.org/story?sid=70962</id>
+        <link href="https://www.solidot.org/story?sid=70962"/>
+        <updated>2022-03-16T12:19:46.000Z</updated>
+        <summary type="html"><![CDATA[在云计算服务商退出之后，俄罗斯的存储空间只够两个月使用。俄罗斯数字转型部正在探索各种解决方案，包括租借所有可用的国内存储，扣押撤离公司留下的 IT 资源，要求 ISP 暂停国内流媒体服务和在线娱乐平台，选择中国的云计算服务商。由于制裁，在西方云计算公司切断联系之后，俄罗斯企业被迫转向本国替代。问题是俄罗斯没有足够的数据中心满足对数据储存的需求。与此同时政府监控项目对储存的需求还在快速增长。上周数字发展部修订了 Yarovaya Law (2016)，暂停电信运营商增加 15% 存储容量给监控用途的要求。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔欧洲芯片工厂初步选址德国]]></title>
+        <id>https://www.solidot.org/story?sid=70961</id>
+        <link href="https://www.solidot.org/story?sid=70961"/>
+        <updated>2022-03-16T11:40:08.000Z</updated>
+        <summary type="html"><![CDATA[英特尔将一个大型新芯片制造综合体的选址定在德国，为整个欧洲 880 亿美元的投资计划提供了初步细节。欧洲正在努力减少对进口的依赖，缓解制造商的供应紧张。由于德国的新工厂要到 2027 年才能投产，所以供应短缺不会快速缓解。英特尔正将其在欧洲的投资分散到大约六个国家，包括扩建其在爱尔兰的现有工厂，在法国建立一个设计和研究机构，以及在意大利建立一个包装和装配基地。最初的支出总额将达到 330 亿欧元，包括在德国的 170 亿欧元，那里的汽车行业可能是尖端芯片的主要客户，这些芯片可能采用最小 2 纳米的技术。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一款 RISC-V 便捷式计算机]]></title>
+        <id>https://www.solidot.org/story?sid=70960</id>
+        <link href="https://www.solidot.org/story?sid=70960"/>
+        <updated>2022-03-16T11:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Clockwork 发布了第一款 RISC-V 便捷式计算机 DevTerm R-01。DevTerm R-01 配备了 64 位单核 RISC-V CPU，频率 1.0GHz，没有 GPU，1GB DDR3，6.86 英寸 IPS 显示屏，键盘，32GB TF 卡等等，售价 239 美元。开发商承认该产品是实验性的，用户需要具有 Linux 和开源软件的经验，新手建议使用其它产品。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[种草，撑不起小红书的电商梦]]></title>
+        <id>https://news.cnblogs.com/n/716876/</id>
+        <link href="https://news.cnblogs.com/n/716876/"/>
+        <updated>2022-03-16T11:24:13.000Z</updated>
+        <summary type="html"><![CDATA[社区的尽头是电商。小红书的电商梦开始得很早，但是七年过去了，始终没有太大进展，想通过社区+电商“两条腿”走路，却一直瘸一边。站在上市门槛边上，被 200 亿美元估值推着往前的小红书，在 2022 年初开启新的组织架构调整，要加深电商和社区的融合，这一次能做到什么程度？答案还不明晰，更要命的是，留给小
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亏了100亿后，小扎再提元宇宙「开发时间表」]]></title>
+        <id>https://news.cnblogs.com/n/716872/</id>
+        <link href="https://news.cnblogs.com/n/716872/"/>
+        <updated>2022-03-16T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：David 【新智元导读】在 SXSW2022 上，Meta 掌门人扎克伯格提出了一份元宇宙开发时间表。他表示，真正可实现功能的元宇宙，可能还需要几年。 距离 Facebook 改名 Meta，全力投入元宇宙愿景，已经过去了快半年时间。但目前看来，马克·扎克伯格仍不太确定的一点是，
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体温高会折寿？温州大学学者发现体温比代谢率更会影响寿命]]></title>
+        <id>https://news.cnblogs.com/n/716871/</id>
+        <link href="https://news.cnblogs.com/n/716871/"/>
+        <updated>2022-03-16T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[明敏发自凹非寺 量子位公众号 QbitAI 体温越高，寿命越短。 这是Nature 子刊《Nature Metabolism》上最新发表的一项研究结论。 研究发现，在一定温度范围内，体温比代谢率更会影响寿命长短。 要知道，过去已有研究表明，低代谢率和低体温都可能是影响寿命的关键因素。 但由于代谢率和
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软在文件夹里插广告把用户恶心到了，官方：试验功能不小心推送]]></title>
+        <id>https://news.cnblogs.com/n/716870/</id>
+        <link href="https://news.cnblogs.com/n/716870/"/>
+        <updated>2022-03-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[杨净梦晨发自凹非寺 量子位公众号 QbitA 315 刚曝光广告弹窗乱象，这边 Windows 用户就被微软骚操作恶心坏了。 一位自称微软 30 年老粉的网友发现，在最新 win11 测试版里，广告已经伸进用户文件夹里。 而且还是加在常用的资源管理器中。 就离谱家人们！他把这件事 po 在网上，已经
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷恋“田忌赛马”的货拉拉，前路如何？]]></title>
+        <id>https://news.cnblogs.com/n/716869/</id>
+        <link href="https://news.cnblogs.com/n/716869/"/>
+        <updated>2022-03-16T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[文邻章 来源：邻章 这两年的货拉拉似乎“很忙”。 长沙女孩跳车事件，让货拉拉在整个 2021 年都处于风口浪尖，而今年 2 月份，因修改服务协议和交易规则未依法公开征求意见，深圳市市场监督管理局福田监管局依法对货拉拉罚款 40 万元，再次引发行业热议论。 同样在今年 2 月份，根据网络视频曝出，在深
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[薇娅让道，罗永浩、李佳琦后退，大主播时代结束了？]]></title>
+        <id>https://news.cnblogs.com/n/716868/</id>
+        <link href="https://news.cnblogs.com/n/716868/"/>
+        <updated>2022-03-16T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[文/张霏 编辑/李信 来源：连线 Insight 曾作为绿叶的助播们，如今渐渐成了大主播直播间的主角。 不论是李佳琦之前的助播付鹏，还是薇娅的助播琦儿，早年前都曾饱受网友诟病。“看到薇娅助播琪儿在直播间带货，顿时产生退出直播间的冲动，也不想买了，她还爱抢镜头、声音大，有种喧宾夺主的感觉。”这是 2 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL/LibreSSL 发现一个可远程利用的漏洞]]></title>
+        <id>https://www.solidot.org/story?sid=70959</id>
+        <link href="https://www.solidot.org/story?sid=70959"/>
+        <updated>2022-03-16T09:42:45.000Z</updated>
+        <summary type="html"><![CDATA[广泛使用的加密库 OpenSSL 发现了一个可远程利用的高危漏洞。计算模平方根的 BN_mod_sqrt() 包含 bug 会导致无限循环，它能用于发动拒绝服务攻击。OpenSSL 项目释出了 OpenSSL 3.0.2 和 1.1.1n 修复了漏洞。该漏洞是由 Google 安全研究员 Tavis Ormandy 在 2 月 24 日报告的，Googl 的 David Benjamin 和  OpenSSL 项目的 Tomáš Mráz
+开发了补丁。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉解雇发自动驾驶评测的员工]]></title>
+        <id>https://www.solidot.org/story?sid=70958</id>
+        <link href="https://www.solidot.org/story?sid=70958"/>
+        <updated>2022-03-16T08:22:28.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉解雇了一名在其 YouTube 频道发布自动驾驶系统 Full Self Driving Beta 评测的员工。特斯拉同时还切断了这名员工个人所拥有汽车上的 FSD Beta 系统的访问。虽然特斯拉的系统被称为 Full Self Driving，但事实上它的技术尚未达到真正的自动驾驶，而是属于辅助驾驶。FSD Beta 加入了一组新的辅助驾驶功能，但尚未完成开发或完成调试。这位员工称在解雇前经理口头上告诉他违反了公司政策，他的 YouTube 频道构成了利益冲突。该员工称他没有看到任何政策禁止员工在自己的时间使用自己的汽车制作技术评论。他发布了大约 10 个视频展示了 FSD Beta 的缺陷。特斯拉 CEO  Elon Musk 自称是言论自由的绝对主义者，但他的公司显然不是。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARM 裁员千人]]></title>
+        <id>https://www.solidot.org/story?sid=70957</id>
+        <link href="https://www.solidot.org/story?sid=70957"/>
+        <updated>2022-03-16T07:14:16.000Z</updated>
+        <summary type="html"><![CDATA[日本软银旗下的英国芯片设计公司 ARM 计划裁员约一千人，相当于员工总数的 12-15%。ARM 在全球有大约 6400 名员工。ARM 此举是在准备上市前精简业务。CEO Rene Haas 在给员工的电子邮件中解释说，为了维持竞争力需要精简掉重复的工作，结束对未来成功不重要的工作。ARM 需要在成本和投资方向上更严格。软银原计划将 ARM 出售给美国芯片公司英伟达，但因为监管方面的问题这笔交易告吹，软银现在考虑让 ARM 上市。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[走私者尝试捆绑 160 个英特尔 CPU 入境]]></title>
+        <id>https://www.solidot.org/story?sid=70956</id>
+        <link href="https://www.solidot.org/story?sid=70956"/>
+        <updated>2022-03-16T05:49:49.000Z</updated>
+        <summary type="html"><![CDATA[中国海关上周通报，连接澳门和大陆的珠海闸口海关查获一宗旅客身藏 CPU 进境案。凌晨 1时左右一名男子在拱北口岸旅检现场经海关“无申报通道”进境，关员发现其行走体态存在异常，遂将其截查。经进一步查验，关员在其小腿内侧、腰腹部处查获用胶带捆绑成条状的 CPU 共计 160 个和折叠手机共计 16 部。这名男子被称为“行走的 CPU”，他试图走私入境的 CPU 为英特尔 11 代和 12 代 CPU，其高端产品如 12900K 建议零售价 589 美元，海关公布的照片显示 CPU 型号为 Core i5-12600KF，如果全部都是的话价值约 4.2 万美元。这不是第一次有人以胶带捆绑的形式走私 CPU，2021 年有人尝试以相同的方法走私多达 256 个英特尔 CPU。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat 未能拿回 WeMakeFedora.org 域名]]></title>
+        <id>https://www.solidot.org/story?sid=70955</id>
+        <link href="https://www.solidot.org/story?sid=70955"/>
+        <updated>2022-03-16T04:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat 以商标侵犯等理由寻求从 Daniel Pocock 手中拿回 WeMakeFedora.org 域名。Fedora 是 Red Hat 资助的社区发行版，它拥有该名字的商标权，但因为域名含有 We Make ，这被认为是对商标的合理使用，因此 Red Hat 的请求遭到了回绝。Daniel Pocock 是开源社区的“名人”或者说是“巨魔（troll）”，其行为备受争议。Debian 和自由软件基金会欧洲分会（FSFE）都抱怨过 Pocock 的行为。他被认为以匿名或化名在开源社区骚扰和攻击。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究估计香港近半数人口感染新冠]]></title>
+        <id>https://www.solidot.org/story?sid=70954</id>
+        <link href="https://www.solidot.org/story?sid=70954"/>
+        <updated>2022-03-16T04:25:29.000Z</updated>
+        <summary type="html"><![CDATA[香港大学的一项新研究表明，香港 740 万居民中可能已有 360 万人感染了病毒，是官方病例数的五倍。研究还称，在当前的疫情结束之前，可能还会有另外 100 万人被感染。香港卫生当局在过去两个月中共报告了超过 74.8 万感染病例和 4568 例死亡病例。香港是目前世界上新冠死亡率最高的地区之一，平均每天每 10 万居民中有 3.8 人死亡。研究人员估计在 5 月 1 日前至少还会有 5,100 人死亡。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在浅薄的信息时代中，我们应该注意什么？]]></title>
+        <id>https://sspai.com/post/72052</id>
+        <link href="https://sspai.com/post/72052"/>
+        <updated>2022-03-16T00:14:01.000Z</updated>
+        <summary type="html"><![CDATA[为什么讯息变得浅薄？
+坦率地说，我是一个不太喜欢碎片化讯息的人，更准确地说，我从小就没有这样的阅读习惯。小学时在学校订阅了《发现号》，除了有赠送的玩具（大部分都不太好玩）之外，图文并茂的内容，加上中心页可以向外延展，让我在小学那个内心充满探索欲望的年纪就了解了蒸汽火车内部构造；自由女神像是法国送给美国的，而且可以拼起来等新鲜的知识。每次等公交车的时候，我都会在附近的报停看一看挂在两边门上的杂志。这个习惯一直保留到现在，不管在哪儿，只要路过报停，我都会驻足一会儿。
+初中时，我在学校订阅了《环球科学》，内容变得更硬核，以至于我阅读一期杂志至少要花费我一周的时间。当时，我对医学比较感兴趣，而物理是我的天敌（现在仍然是），所以每次我都会着重看一下历史学、医学、健康等相关内容，了解了阿尔兹海默症、各种神经递质、药物的当下研究。
+那时我终于拥有了自己第一台手机，我的阅读从传统杂志慢慢转移到了手机上。在 B 站上看科技美学的评测视频知道了微信公众号，但我也仅仅是关注了小米、科技美学、爱否科技和锤子科技，高中的时候增添了少数派，以及新京报书评周刊和三联生活周刊。
+我家里也没有这样的习惯。我姥爷在家里闲来无事就拿本书来看，因为是党员，他对政治一类的书非常感兴趣。记得在世时，他曾托我买一套《明朝那些事儿》，读起来津津有味，经常手不释卷。高中时，我用我写文章赚来的稿费给我姥爷置换了更好的手机，但他也没有让我下载短视频等应用，手机中最常用的除了微信以外就是网易新闻。我妈虽然没有阅读习惯，但不管是什么电视剧都用一倍速看。这令我这种觉得某些地方可以跳过或者快进的人来说，深感惭愧。
+也许是因为这些原因，直至现在我认为「碎片化阅读」不过是商家的一种剥夺你注意力的策略罢了。于是，讯息的形象产生了变化1：内容者逐渐关注讯息产生的效应而不是关注内容本身的意义。这一点和互联网的发展是离不开的。
+随着发展，自媒体平…]]></summary>
+        <author>
+            <name>南山居氪</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[郭明錤：苹果 Apple Car 团队已解散]]></title>
         <id>https://news.cnblogs.com/n/715814/</id>
@@ -59,6 +406,16 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国如何帮助乌克兰加强网络战防御]]></title>
+        <id>https://www.solidot.org/story?sid=70953</id>
+        <link href="https://www.solidot.org/story?sid=70953"/>
+        <updated>2022-03-15T14:31:23.000Z</updated>
+        <summary type="html"><![CDATA[2015 年乌克兰电网因网络攻击导致基辅等地区断电数小时，此后美国一直在帮助乌克兰加强网络防御。去年 10 月 和 11 月，美国派遣了更多人去帮助乌克兰保护基础设施，其中部分人员为美国陆军 Cyber Command 的士兵。此次加派人员是为了应对即将爆发的战争。美国人担心俄罗斯在战争前夕会秘密在乌克兰网络中植入休眠的恶意程序，战争爆发的同一时间激活和发动毁灭性的网络攻击。美国的这一行动有助于解释为什么乌克兰的网络基础设施至今安然无恙。乌克兰和美国官员将这一行动描述为防御性的。由美国士兵和平民组成的网络任务小组在乌克兰铁路局发现并清除了一种设计抹掉数据的恶意程序，它能通过指令删除关键文件瘫痪整个计算机网络。在战争爆发后的十天内，乌克兰有近百万平民是通过铁路网逃到安全地带。在乌克兰网络遭到 DDoS 攻击之后，美国团队在数小时内安排并部署了 Fortinet 公司的软件。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -194,6 +551,71 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[疫情来袭，手把手教你在家制作美味炒鸡]]></title>
+        <id>https://sspai.com/post/72081</id>
+        <link href="https://sspai.com/post/72081"/>
+        <updated>2022-03-15T13:26:51.000Z</updated>
+        <summary type="html"><![CDATA[做饭是一项家庭活动，既能解决温饱问题，又能在协作中增强家的氛围。炒鸡一直是我妈妈的拿手好菜，从我有记忆的的时候开始吃，到如今逢年过节回家，几十年的味道一直没变。
+工作后开始独立生活，周末下厨炒鸡也成为了我的小家非常重要的家庭活动之一。接下来，我将尝试分享这道十分美味的家常炒鸡，送给喜欢干饭的朋友们。
+
+食材选择
+一道美味的炒鸡，优质的原材料必不可少。最理想的炒鸡原材料是乡下的散养土鸡，当然并不是随时都有机会购买到农户自家散养土鸡。生活在城市里可以选购盒马等超市宣传的草鸡或土鸡，这些鸡往往并不够土，但也能够达到不错的效果。而对于超市里卖的普通饲料鸡，冰鲜鸡块或者鸡胸肉，不太适合做炒鸡。不过疫情当前，能买到新鲜的食材就不错了，也就不用挑剔了。
+
+除了最主要的原材料之外，必不可少的炒鸡原材料还有青椒。青椒需要优先选择二荆条、杭椒等长条形的辣椒，非常不推荐选择圆青椒。不能吃辣的朋友也不必太过担心，大部分辣椒炒过之后的辣味会非常弱，且你可以选择不吃辣椒本身。如果你很能吃辣，建议搭配小米椒或者辣椒干。
+
+有了草鸡和辣椒之后，你还可以选择其他的配菜。配菜并不是必须的，但会更加下饭。经过多年尝试，炒鸡优选的配菜有鲜茶树菇、猪肚菇、笋干等。我一般会选择茶树菇 + 天目山笋干的搭配，茶树菇的绵软韧性和笋干的清脆爽口搭配在一起非常和谐。这些配菜一般在盒马等超市都能买到。
+
+有了辣椒之后，其他的辅料还包括葱、姜、蒜、花椒。如果家里没有豆瓣酱或不擅长调味，可以买一块火锅底料。毕竟，火锅底料可以炒一切。
+
+食材准备
+选择好食材之后，接下来就是当好墩子，做好「施工」前的准备工作。
+第一步是切鸡。餐厅里的炒鸡大部分都是大块的鸡肉，原因是这样切起来会比较方便。为了制作更加入味和美味的炒鸡，鸡块一定不能太大，1 立方厘米的鸡丁最为合适。这一步一定要有足够的耐心，非常关键，慢工出细活。相信我，小鸡肉丁一定比大鸡肉块美味太多了。
+
+这需要花一些时间来处理食材。处理的过程中，你可以先将大块的鸡肉从骨头上分离下来，然后切成 1 厘米左右的长条，然后排列在一起切成 1 厘米左右的鸡丁。
+切好之后，可以加入少许生抽、胡椒粉、料酒腌制。切忌料酒不宜过多，否则很容易会有料酒的气味残留在菜品内。切完鸡肉之后，青椒的处理同样是 1 厘米左右的辣椒段，而葱姜蒜等辅料切碎即可。
+
+炒制流程
+一切准备就绪，接下来就是关键的炒制过程。
+油热下鸡
+首先选择一口中等大小的锅，推荐大铁锅，也可以选择不粘锅。倒入较多（油一定要多）的植物油，经过多年尝试推荐选择便宜好用的菜籽油，也可以选择玉米油、葵花籽油等。不推荐橄榄油等烟点较低的油。
+如果使用菜籽油，请务必等油升温后再下入鸡肉。菜籽油如果油温不够，菜品会留有生油的气味。鉴别菜籽油油温的方法很简单，油表面有轻微的油烟或者放入木筷有小气泡即可。
+
+鸡肉下锅之后，简单翻炒均匀，然后盖上锅盖。这个步骤中，鸡肉会渗出大量的水分，盖上锅盖后可以减缓水分的蒸发使鸡肉被更快焖熟且更鲜嫩一些。这个过程大概需要持续 10 分钟，在此期间可以打开锅盖 1 ～ 2 次翻炒均匀。
+配菜下锅
+当锅里鸡肉明显处于被油炸状态且表皮金黄后，说明鸡肉已经炒到合适的火候。如果你喜欢吃更干爽一些的鸡肉，可以再炒一会儿等鸡肉完全缩水。接下来直接向锅中加入配菜，如果没有配菜可以忽略这一步。
+
+加入配菜之后，重新盖上锅盖，方便配菜熟透。配菜同样会渗出大量的水分，需不断翻炒 5 ～ 10 分钟，等待配菜水分基本蒸发，锅里重新呈现近似油炸状态，即可关火。此时可以将鸡肉捞出临时装盘。
+复炒出菜
+为了让不同的食材达到最佳的火候状态。最后我们需要经过一轮复炒，同时加入辅料。
+首先导入一点植物油，并放入准备好的火锅底料 45g（每 500g 鸡肉）。如果你不喜欢火锅底料，可以放入些许豆瓣酱和花椒。然后放入姜蒜爆香。接下来，重新倒入刚刚炒好的鸡肉，翻炒 3 分钟左右。最后倒入青椒粒，再翻炒 2 分钟即可出锅装盘。
+
+复炒的目的在于保持辅料和青椒的最佳状态。如果在前序步骤放入姜和蒜，最后大概率会被炒糊。同样，青椒最后放入可以保持青翠的状态，避免前序焖制过程中将青椒焖烂，影响菜品口感。
+至此，一道美味的家常炒鸡就制作完毕了。搭配白米饭，十分美味。
+
+Q&A
+Q：炒制过程需要放盐吗？放多少？
+A：整个炒制过程中都无需单独放盐。首先第一步腌制过程会倒入些许生抽，此外火锅底料中也有盐分。如果最终菜品出锅时，感觉盐分不足再单独适量放盐。炒制过程中不单独放盐，可以有效避免失手翻车。
+Q：如果一顿没吃完怎么办？
+A：我在家往往会炒一整只鸡，大概率无法一顿吃完，剩下的炒鸡用作面条浇头是非常棒的选择。一般情况下，我会在下一顿饭用白水煮面条，加入剩下的炒鸡，再放一些醋和生抽调味，十分美味。
+
+
+
+
+
+
+4
+2
+
+
+
+
+
+扫码分享]]></summary>
+        <author>
+            <name>huhuhang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[宇宙真的是从一片虚无中产生的吗？]]></title>
         <id>https://news.cnblogs.com/n/715797/</id>
         <link href="https://news.cnblogs.com/n/715797/"/>
@@ -202,6 +624,36 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软测试在文件管理器中展示广告]]></title>
+        <id>https://www.solidot.org/story?sid=70952</id>
+        <link href="https://www.solidot.org/story?sid=70952"/>
+        <updated>2022-03-15T12:13:33.000Z</updated>
+        <summary type="html"><![CDATA[微软 Windows 11 最新测试版本（ Insider build）测试在文件管理器中推广其自家产品。测试版用户在发现该功能后分享了屏幕截图：微软在系统默认的文件管理器上方显示文字广告推荐用户使用它的其它产品，如“write with confidence across documents, email, and the web with advanced writing suggestions from Microsoft Editor” 。用户抱怨称文件管理器是最不应该展示广告的地方，这一做法会将用户导向替代的文件管理器。目前看来微软没有对所有测试版用户展示广告，而是在进行某种 A/B 测试。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简悦 +Logseq 个人知识库搭建 | 从零开始完全指南]]></title>
+        <id>https://sspai.com/post/72022</id>
+        <link href="https://sspai.com/post/72022"/>
+        <updated>2022-03-15T11:25:16.000Z</updated>
+        <summary type="html"><![CDATA[前言
+对我来说，简悦并没有降低我面对稍后读的压力，但它大大提高了我清空稍后读的动力，特别是当它和双链笔记软件进行无缝联动时，那种读完一篇再来一篇的激情就像小龙虾配啤酒一样让人欲罢不能。它的机制决定了，我必须用自己的思想来充实笔记库，而非僵硬机械地复制剪藏一堆二手文本。阅读本篇文章可能还需要你对 Logseq 这个软件，或者至少对双向链接这个概念有所了解，你可以在本文末尾找到一些参考资料。
+传统稍后读软件的局限性
+稍后再读是不得已而为之，收藏只是为了能稍后阅读的手段，而阅读的最终目的则是为了能更好的思考和创作。
+但 Cubox、Pocket 或是 Instapaper 这类传统的稍后读应用，只满足了收藏和阅读这两项最基础的需求，它们强调自己能用多种方式收藏多平台、多类型的网页、文章、或推文，更在意如何能让收藏这个动作更快捷。至于后续阅读文章时，能划划高亮、写写批注就已是极限。在知识管理这条路上，它们所提供的想象力仅能到此为止。
+所以我总在想一个问题，这些软件跟印象笔记的本质区别是什么？很多时候好像只是 UI 更好看而已。
+Cubox
+我想说的是，当我们终于痛定思痛放弃印象笔记，就不要再把自己埋进下一个剪藏的深渊。不要再相信自己能有足够的自制力，一旦收藏这个动作几乎零成本，READ IT LATER 就会变成 READ IT NEVER。
+当你终于攒够足够的行动力开始阅读和记录，你又会发现在稍后读里做笔记是非常痛苦的一件事。无数剪藏的文章会污染你的笔记库，让检索笔记变成灾难，这也是我极力反对再在 Logseq 或 Obsidian 中使用任何一款一键剪藏工具的原因。你也很难在其中输出深度的、长篇的内容，就好像你不会轻易在出租房里置办大型家具一样，这是我不看好用 Cubox 记笔记（或速记）的原因。
+
+于是大家又开始寻找下一款工具，希望稍后读软件能将其中批注的段落或笔记导入到自己…]]></summary>
+        <author>
+            <name>二一的笔记</name>
         </author>
     </entry>
     <entry>
@@ -237,6 +689,40 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我与我与少数派的十年]]></title>
+        <id>https://sspai.com/post/72077</id>
+        <link href="https://sspai.com/post/72077"/>
+        <updated>2022-03-15T09:05:17.000Z</updated>
+        <summary type="html"><![CDATA[突然发现今天是少数派创办 10 周年的日子，很巧的是 2012 年的 3 月份也是我人生第一次踏入社会的时候，不知道从什么时候我开始关注了少数派，可能是 2013 年我的三星手机被我丢在了鄂尔多斯的厕所里，然后经朋友介绍我买到了人生第一个 iPhone，从此我就踏入了苹果的生态圈，成为数码爱好者，从此也跟鄂尔多斯一样“羊煤土气”，我的世界仿佛打开了一扇大门，也陆续的关注到了少数派，认识了老麦，认识了很多的数码爱好者。
+iPhone 7 Plus
+当时每天都在研究怎么刷机、越狱，尝试各种新奇的功能。后来开始研究各种 app，看到少数派的推荐就立刻下载下来，钻研它的功能，不懂了就查资料，真是一腔热血，上学时有这股劲估计怎么也得 985 吧。刚看了一下手机，从当时用到现在的 app，可能只有 Launch Center Pro 了，我竟然为这个 app 设置了输入法的快捷键，现在每天打开健康码、收付款全是用的它的 iOS URL schemes ，我也为这个短语设置了输入法的快捷键。
+Launch Center Pro
+后来换手机，从没有犹豫必定是买 iPhone，再后来买了 iPad ，MacBook Pro，Apple Watch，HomePod mini，也安利过其他人尝试苹果产品，每次更换手机都会拍开箱视频，想着以后写个文章或者做个视频，可到现在也从来没执行，甚至更新设备的时候都懒得从新一个个下载app了，现在都是直接用数据迁移过来，新设备的新鲜感也就三两天，再也体验不到为了某个功能查各种资料咨询达人找到解决方案的那种酣畅淋漓。随着时间的推移这种创作和探索的冲动越来越少，可能是被琐碎的生活和工作消耗殆尽了。不过我的体重在这十年间竟然增加了 40 斤，真是越挫越“勇”。
+2015 年在我人生低谷的时候，老麦到北京出差，我就试探性的问了一下，可否见面聊聊，他竟然答应了，我就跟追星的感觉似的，我们在一个咖啡厅伴着日落聊了很久，我很惊讶他在数码圈已经很知名了，竟然跟我这么一个普通的少数派的读者推心置腹聊这么多，后来在每次见面都能畅聊一番，一直以来他就是这么和善，这样的人想必一路走来会有很多人愿意支持和帮助他吧，这也许是少数派成功的原因之一。
+2019 年左右少数派开始做线下活动了，同时我也在一个众创空间工作，当时就很希望少数派能在空间举办线下活动，后来活动在中关村举办，我见到了很多微博大V，窃窃的去加了微信。当时流行 Shot on iPhone，刚好第一次出国去了日本，京都的美景让我手机摄影的水平提升了几个档次。也是从这时候开始，不管去哪个城市只要有 Apple 直营店就一定会过去拍照。
+京都琉璃光院Apple 成都太古里店
+2019 年下半年我去了杭州工作，少数派刚好要在华东做活动，就协调少数派在我所任职的空间里举办活动，当时活动邀请到了 影视飓风的Tim，若饭 CEO 伯恩，开发者李晨啸，他们当时还没现在这么红，有幸在当时听他们分享创业故事。在这个活动上我认识了 61 ，他的创业故事也很精彩，跌宕起伏，听了他们的创业故事，我看到了他们身上的那份毅力，这些年坚持下来，逐渐走向成功，也许就是这些弯弯折折，才造就了现在的他们吧，于我自己于少数派也是一样，共勉。
+这十年是少数派茁壮成长的十年，也是我人生初入社会的十年，我们一起加油迎接下一个十年。
+ 
+
+
+
+
+
+
+15
+8
+
+
+
+
+
+扫码分享]]></summary>
+        <author>
+            <name>亮Sir</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[豆瓣应用下架被要求整改]]></title>
         <id>https://www.solidot.org/story?sid=70950</id>
         <link href="https://www.solidot.org/story?sid=70950"/>
@@ -248,6 +734,31 @@
 去年 12 月初，网信办约谈豆瓣网主要负责人、总编辑，指称“近期豆瓣网及其账号屡次出现法律、法规禁止发布或者传输的信息，情节严重”，责令其立即整改，并严肃处理相关责任人；去年 1-11 月，累计对豆瓣网实施 20 次处置处罚，共累计罚款 900 万元。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我与习惯——减少与自己的搏斗]]></title>
+        <id>https://sspai.com/post/72076</id>
+        <link href="https://sspai.com/post/72076"/>
+        <updated>2022-03-15T08:41:06.000Z</updated>
+        <summary type="html"><![CDATA[写在前面
+大家好，我是来自平凡学校的平凡学生，Lin0u0。
+在前段时间，因为一些与学科竞赛与争取保研名额有关的琐事与同学进行了长达多个小时的聊天，虽然保研对于成绩并不拔尖我而言是高高挂在树上难以企及的果子，但借着那次的交流，回顾了我的学习习惯与生活方式，也从中发现了在这个内卷日益严重的专业里，我可以在快乐生活的前提下，保证自己依然维持在专业排名前 10%。
+ 
+我的学习习惯
+无论是父母或是老师，总会孜孜不倦的告诉我们「要养成良好的学习习惯」。但什么样的学习习惯才能称得上「良好」？课前预习课后复习就是良好的学习习惯吗？（从某种程度上没错。）我认为，应该借着校园生活，摸索出适合自己的学习习惯。
+课前预习
+大学的课程往往知识量大，课时少且局促，与其他课程有一定的相关性，老师上课只会按照既定的计划一路推进。课前预习可以帮助我们提前了解课程所涉及的知识，发现知识与前序课程的相关性、了解难点侧重点，
+通常我会选择在上课的前一天，翻阅教材和 PPT，划出重要的知识点，确认与其相关的知识和数学工具已经掌握。在对于一些困惑的概念或理论推导加以备注，确保第二天听课时有限的注意力可以分配到更陌生、更不理解的部分。
+课堂记录
+曾经我也是「无纸化学习」的拥趸。
+不可否认，iPad + Apple Pencil 是减轻书包重量的好方法，但是对我而言，在 iPad 上书写的体验与「橡皮擦玻璃」无异，而工科繁多的数学公式与电路、函数图像成为了我使用键盘输入的阻碍。所以我选择了重新回到纸笔的怀抱。
+俗话说「好记性不如烂笔头」，更何况的我的记性只能用糟糕来形容。在上课过程中，我会用划线等方式快速标注并通过简洁的符号在教材的空白处快速记录课堂内容，这样我可以把重心放在「听」老师的叙述和推导，而不是机械的记录。
+课后复习
+短期
+因为上课的笔记大多数时候是简略甚至简陋的，在课后必须及时的结合笔记回忆课程内容，把它…]]></summary>
+        <author>
+            <name>Lin0u0</name>
         </author>
     </entry>
     <entry>
@@ -362,6 +873,71 @@ Hyperlight 声称其名为 Tectonic Sun 的存储系统可以全年无休地提�
         <summary type="html"><![CDATA[创建于 2017 年的 YouTube Vanced 是非常受欢迎的 Android YouTube 应用 Mod，开发者通过反编译 Google 的官方应用加入额外的功能，其中最主要的是广告屏蔽功能，它名字中的 Vanced 来自于 AdVanced 但移除了 Ad。它事实上是 YouTube 官方应用的破解版本，把付费的 YouTube Premium 功能免费提供给了用户。上周末 YouTube Vanced 项目宣布停止运作，随后媒体确认是因为 Google 寄出了终止信函。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFC标签如何与物品书籍收纳结合使用？不妨看看这篇文章]]></title>
+        <id>https://sspai.com/post/72039</id>
+        <link href="https://sspai.com/post/72039"/>
+        <updated>2022-03-15T06:15:34.000Z</updated>
+        <summary type="html"><![CDATA[什么是NFC标签？
+NFC标签全称Near Field Communication，意为近距离无线通讯技术，简称近场通信。
+NFC标签是在非接触式射频识别(RFID)技术的基础上，结合无线互连技术研发而成，它为我们日常生活中越来越普及的各种电子产品提供了一种十分安全快捷的通信方式。
+近距离无线通讯技术结合了移动通信技术，实现了电子支付、身份认证、票务、数据交换、防伪、广告等多种功能，是移动通信领域的一种新型业务。
+NFC标签非常小巧，便于携带，使用起来也非常的方便。
+NFC标签的样子，也有圆形的
+如何与物品收纳和书籍整理相结合？
+在生活中你有没有遇到过这样的场景：
+我的书放到哪里了？我的那件灰色的衣服放到哪里了？孩子的指甲刀放到哪里了？酸奶过期了怎么还在冰箱里放着？鸡蛋没有了怎么还不及时购买？
+我们这款【Ta在哪里】App就是为了解决这些问题被开发出来的，让大家能够及时的找到自己的物品和书籍。
+同时鉴于NFC标签如此小巧便于携带和使用，所以我们这次在【Ta在哪里】这款物品书籍管理的App中融入了NFC功能，赋予NFC标签收纳小能手的功能，使用NFC标签不仅可以用来查找物品，还可以更快更直观的来管理书籍，为了直观大家可以通过视频了解下它是如何使用的。
+ 
+【Ta在哪里】的其他亮点
+【Ta在哪里】作为一款物品收纳App还有其他很多丰富的功能，下面我将详细介绍一下这款App的其他功能，希望可以大家都能及时找到自己的东西，成为生活中的收纳小能手。
+集物品收纳，书籍阅读进度于一身
+【Ta在哪里】既可以管理物品还可以管理书籍以及每本书的阅读进度。你可以制作自己的物品和书籍目录，比如你可以根据自己家的位置来制作物品目录，并在每个目录下增加相应的物品，也可以根据书籍的分类来增加书籍的目录，在相应目录下添加管理自己的书籍。
+图书与物品管理
+【嘿，Siri】
+我们在这款App里面集成了【嘿，Siri】功能，用户在录入他的物品之后可以不打开App，在使用的时候只需要对他的iPhone说：【嘿，Siri，查找我的物品】，即可完成相应的查找。此外我们还为大家准备了其他的一些指令，比如可以通过Siri查找即将过期的物品，也可以通过Siri查找已经过期的物品。用户甚至可以定制自己特定的语音指令，对Siri说出自己定制的指令之后，Siri就会执行相应的操作，通过Siri大家可以摆脱繁琐的在输入框搜索查找，通过语音就可以完成这些，非常的便捷易用。
+嘿，Siri
+制作专属的二维码和NFC标签
+上面的视频中我们介绍了如何使用NFC标签来管理自己的物品书籍，此外大家也可以通过二维码来管理查找自己的物品，或者查看物品的详细信息。在App中，大家可以对物品，目录，标签，品牌生成它们相应的专属二维码，大家可以把这些二维码保存到本地，然后打印出来，通过系统的相机扫描二维码就可以直接定位到相应的内容。
+制作专属的NFC标签与二维码
+丰富的图表与详细的物品展示
+我们在App中针对物品和书籍分别制作了丰富的图表展示功能，用户可以通过图表更加直观的了解自己物品和书籍当前的状态，更加便于大家管理物品书籍，同时配合详细的物品与书籍展示方式，是不是又里收纳小能手更近了一步呢罒ω罒
+图表与详情 
+送码
+HMPWMMHN9KWN
+7PHTAYTWM9FJ
+YP7MTREKP3FJ
+KL37KNN7N9F9
+9JKL4E6YERTJ
+NNKA3RL7Y6MP
+JA73LTKWXX73
+PRY6YWNN6N6N
+349YN734R69E
+AMWN49NM3FK7
+KP633EYL69FT
+HN43YKXNN3KM
+MXH7PXWX9J4E
+X4MERATY6AWT
+HW4J7LWN36EF
+
+
+
+
+
+
+5
+5
+
+
+
+
+
+扫码分享]]></summary>
+        <author>
+            <name>wei_0929</name>
         </author>
     </entry>
     <entry>
@@ -13336,513 +13912,6 @@ Menon）。]]></summary>
         <link href="https://news.cnblogs.com/n/712850/"/>
         <updated>2022-02-15T13:15:47.000Z</updated>
         <summary type="html"><![CDATA[新智元报道 编辑：好困 、拉燕 、袁榭 【新智元导读】「25 辆特斯拉被黑」事件又有后续：19 岁事主在个人博客上详细复述了完成此举的前因后果、操作流程。此外，相关软件漏洞也已成功补上。 1 月 11 日，一位来自德国的 19 岁年轻黑客突然发推表示，自己成功地控制了 10 个国家的 20 多辆特斯
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[起底深信服的“员工监控”生意]]></title>
-        <id>https://news.cnblogs.com/n/712859/</id>
-        <link href="https://news.cnblogs.com/n/712859/"/>
-        <updated>2022-02-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文/韩滢 来源：连线 Insight（ID:lxinsight) 继打游戏、看视频等摸鱼行为被监控后，现在打工人离职的倾向也会被监控。 在这背后，一家提供软件系统的科技公司“深信服”浮出水面。 追根溯源，监控员工离职倾向系统这件事源于上周知乎裁员的爆料消息。彼时，有网友爆料称知乎正在低调裁员，视频相
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传理想汽车CTO王凯将离职 加盟仅一年半时间]]></title>
-        <id>https://news.cnblogs.com/n/712858/</id>
-        <link href="https://news.cnblogs.com/n/712858/"/>
-        <updated>2022-02-15T12:46:14.000Z</updated>
-        <summary type="html"><![CDATA[雷递网乐天 2 月 15 日报道 据 36 氪报道，理想汽车 CTO 王凯将于近期离职，这是理想汽车成立以来，离开的最高级别高管。 在 2021 年 1 月的调整中，王凯管辖的业务，如自动驾驶、算力平台和 Li OS（操作系统）等已经移交给理想汽车联合创始人、总工程师马东辉。 截至目前，理想汽车官方
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞幸单月新开360家店 郭谨一：谷爱凌身上看到我们勇毅前行的影子]]></title>
-        <id>https://news.cnblogs.com/n/712857/</id>
-        <link href="https://news.cnblogs.com/n/712857/"/>
-        <updated>2022-02-15T12:34:00.000Z</updated>
-        <summary type="html"><![CDATA[雷递网乐天 2 月 15 日报道 瑞幸咖啡董事长兼 CEO 郭谨一日前发布内部信称，2022 年 1 月，瑞幸新开门店总数约 360 家，刷新瑞幸单月开店总数记录。 过去一年，瑞幸咖啡动作很多，包括 2021 年 9 月签约行业谷爱凌，随着谷爱凌在 2022 年北京冬奥会上分别得冠军和亚军，狠狠的刷
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝再次回应“操纵”基金榜单：榜单规则未同步更新，将立即予以优化]]></title>
-        <id>https://news.cnblogs.com/n/712856/</id>
-        <link href="https://news.cnblogs.com/n/712856/"/>
-        <updated>2022-02-15T12:28:00.000Z</updated>
-        <summary type="html"><![CDATA[记者佘晓晨 支付宝基金平台再度陷入风波。 2 月 14 日，中欧基金葛兰管理的产品消失在支付宝的基金销售榜单中。葛兰为 2021 年的明星基金经理，就在上周，支付宝金选榜单里的“周销售排行榜”显示，葛兰管理的中欧医疗健康C高居周销量 TOP1，近一周购买人数超 30 万人；在腾讯理财通的近一周热销基
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蔚来回应“蔚来汽车科技公司注销”：对业务没影响]]></title>
-        <id>https://news.cnblogs.com/n/712855/</id>
-        <link href="https://news.cnblogs.com/n/712855/"/>
-        <updated>2022-02-15T12:21:00.000Z</updated>
-        <summary type="html"><![CDATA[中新经纬 2 月 15 日电 15 日晚间，上海蔚来汽车有限公司企业传播高级总监@蔚来马麟通过新浪微博回应“蔚来汽车科技公司注销”称，该公司未曾实际经营，对蔚来业务没有影响。 截图来源：新浪微博 天眼查 App 显示，近日，蔚来汽车科技有限公司注销，注销原因为决议解散。该公司成立于 2019 年 7
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[车价最低7万！宁德时代租电方案曝光：租电成本和油费差不多]]></title>
-        <id>https://news.cnblogs.com/n/712854/</id>
-        <link href="https://news.cnblogs.com/n/712854/"/>
-        <updated>2022-02-15T12:17:00.000Z</updated>
-        <summary type="html"><![CDATA[2 月 15 日消息，财联社报道，宁德时代董事长曾毓群在调研会上表示： 公司要争取8-12 万这个电动车渗透率比较低的市场，不含电池的车价可以做到 7 万，每月电池租赁成本和油费差不多，换电速度也和加油差不多。 8-12 万元这个价位，一直是最广大的家用车市场，日产轩逸、大众朗逸等车型常年占据乘用车
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neuralink回应虐猴 脑机接口“上人”面临巨大伦理争议]]></title>
-        <id>https://news.cnblogs.com/n/712853/</id>
-        <link href="https://news.cnblogs.com/n/712853/"/>
-        <updated>2022-02-15T12:11:00.000Z</updated>
-        <summary type="html"><![CDATA[美国动物保护组织 PCRM（负责任医学从业者委员会）上周对全球首富马斯克的脑机接口公司 Neuralink 提起诉讼，指控其“虐待”猴子。Neuralink 对此发表最新回应称：“所有新的医疗设备都必须先在动物身上进行测试，然后再在人体上进行测试。这是 Neuralink 无法逃避的规则，所有的实验
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话梁建章：期待更多公司效仿混合办公，是企业、员工和社会的多赢]]></title>
-        <id>https://news.cnblogs.com/n/712852/</id>
-        <link href="https://news.cnblogs.com/n/712852/"/>
-        <updated>2022-02-15T12:03:00.000Z</updated>
-        <summary type="html"><![CDATA[2 月 15 日，携程集团董事局主席梁建章接受网易科技等媒体采访表示，携程混合办公实验效果明显，尤其是离职率下降了三分之一，员工满意度大幅提升，无论是优秀的员工还是一般的员工流失率都下降了非常大的幅度，用工成本也有比较大的帮助。他讲到，“混合办公制度的推广是企业、员工和社会的多赢。” 昨日，在线旅游
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逼捐成功？马斯克真的捐了近60亿美元]]></title>
-        <id>https://news.cnblogs.com/n/712851/</id>
-        <link href="https://news.cnblogs.com/n/712851/"/>
-        <updated>2022-02-15T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[马斯克又有大动作了，而且一动手就是将近 60 亿美元。 在向美国证券交易委员会（SEC）递交的 F5 报告中显示，在 2021 年 11 月 19-29 日期间，马斯克向一家名称不详的慈善机构捐赠 504 万股特斯拉股票。 就在捐赠前半月的 11 月 4 日，特斯拉股价刷新了 1243.49 美元的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中微子有多轻？]]></title>
-        <id>https://www.solidot.org/story?sid=70662</id>
-        <link href="https://www.solidot.org/story?sid=70662"/>
-        <updated>2022-02-15T09:42:35.000Z</updated>
-        <summary type="html"><![CDATA[物理学家朝着确定中微子质量迈出了一步，它可能是所有基本粒子中最神秘的。根据发表在《Nature Physics》期刊上的研究，国际氚中微子实验（KATRIN）的科学家得到了中微子质量新上限：0.8 eV。KATRIN 实验曾在 2019 年确定的中微子质量上限是 1.1 eV。这是首次将中微子的质量推向 sub-eV 级。在宇宙学中，中微子在大尺度结构的形成中扮演着重要角色；而在粒子物理学中，它们微小但非零的静止质量令它们与众不同，表现出了超出我们当前理论的新的物理现象。如果没有中微子质量尺度的测量，我们对宇宙的理解将会变得不完整。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疫苗加强针让奥密克戎住院率从 91% 下降到 78%]]></title>
-        <id>https://www.solidot.org/story?sid=70661</id>
-        <link href="https://www.solidot.org/story?sid=70661"/>
-        <updated>2022-02-15T09:12:25.000Z</updated>
-        <summary type="html"><![CDATA[美国疾控中心（Centers for Disease Control and Prevention）最近发表的一项研究表明，新冠疫苗加强针能在很大程度上阻止传播性超强的奥密克戎变体——尽管保护作用随着时间的推移不可避免地会减弱。研究作者指出，由于加强针的效果不可避免会减弱以及奥密克戎逃逸某些免疫反应的能力，未来可能需要第四针疫苗维持或提高对COVID-19 的防护。这项研究发表在 CDC 的发病率和死亡率周报上，估计了疫苗加强针预防重症和住院的效果。它描绘了加强针的效果从接种后不到两个月到第三针接种后超过四到五个月后略有下降。从加强针广泛接种的时间算起，后一个时间是最新可以跟踪到的最久的效果数据。研究收集了美国 10个州的患者的数据，包括超过 24万次急诊或紧急护理中心就诊数据和超过 9.3 万次的住院治疗数据。总体上，两个月内注射任意一种 mRNA 疫苗的加强针，预防因感染奥密克戎而住院的有效率为 91%，四个月或更长时间后降低到 78%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离婚夫妇争夺加密货币财产]]></title>
-        <id>https://www.solidot.org/story?sid=70660</id>
-        <link href="https://www.solidot.org/story?sid=70660"/>
-        <updated>2022-02-15T08:55:04.000Z</updated>
-        <summary type="html"><![CDATA[随着加密货币日益广泛接受，加密货币家庭财产的分割成为一种新的争执来源，分居的夫妻指责对方欺诈和财务管理不善。丑陋的离婚往往会在所有的事情上都引发争执。加密货币难以跟踪和估值的特点带来新的难题。加密货币是在去中心化网络上交易的数字资产。离婚律师表示，很多情况下配偶会少报财产，或者试图将资金隐藏在难以进入的在线钱包。服务于高净值客户的纽约离婚律师 Jacqueline Newman 表示：“一开始，钱藏在床垫下面，然后是开曼群岛的银行账户里。现在则是用加密货币。”加密货币的兴起为犯罪分子提供了一种有用的交换媒介，为欺诈创造新机会。但数字资产并非无法追踪。交易记录在被称为区块链的公共分类账上，让精明的分析师能追踪资金。一些离婚律师开始依赖不断增长的法律事务调查行业，他们收取数万美元的费用，追踪比特币和以太坊等加密货币从在线交易所到数字钱包的转移。调查公司 CipherBlade 的法律事务分析师 Paul Sibenik 表示，公司过去几年处理了大约 100 起与加密货币相关的离婚案。他表示很多起案件中，追踪到丈夫向妻子隐瞒了价值超过 1000 万美元的加密货币。Sibenik 先生表示：“我们正努力让这个领域变得更干净。这需要一定程度的追责。”在采访中，近十二位律师和法律事务调查员描述了一些离婚案件，配偶一方（通常是丈夫）被指控在加密货币交易方面说谎或者隐藏数字资产。没有一对夫妇同意接受采访。但是一些离婚案件形成了书面记录，可揭示纠纷是如何发生的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让恐龙宝宝灭绝：IBM 用年轻人劳动力替代老员工]]></title>
-        <id>https://www.solidot.org/story?sid=70659</id>
-        <link href="https://www.solidot.org/story?sid=70659"/>
-        <updated>2022-02-15T08:46:20.000Z</updated>
-        <summary type="html"><![CDATA[IBM 前雇员最近几年在各种法律文件和新闻报道中指责公司存在年龄歧视，称 IBM 试图用年轻员工取代数以千计的老员工，以跟上竞争对手公司的步伐。现在看来，IBM 高层直接参与了降低公司内老员工比例的讨论，有时候会用“恐龙宝宝（dinobabies）”之类的蔑称称呼他们。美国联邦地方法院上周五公开了之前保密的文件，显示公司高管讨论逐步淘汰年长员工的计划，哀叹公司内千禧一代员工的比例太低。这些文件来自一场诉讼，该诉讼称 IBM 多年来一直在努力改变其员工的年龄构成，这些文件提供了首个公开的直接证据，证明公司领导层在这方面扮演的角色。该案原告律师 Shannon Liss-Riordan 表示：“文件显示，IBM 高级管理明确地互相密谋，将年长的员工赶出 IBM 的员工队伍，以便为千禧一代的员工腾出位置。”Liss-Riordan 女士代表着数百名 IBM 前员工处理类似索赔。她正寻求让索赔成为集体诉讼，但法院尚未批准。IBM 发言人 Adam Pratt 为公司的雇佣行为辩护。他表示：“IBM 从未进行过系统性的年龄歧视。”“员工被解职是因为商业条件和对某些特定技能需求的变化，而不是因为他们的年龄。”Pratt 先生表示，IBM 从 2010 年到 2020 年在美国雇佣了超过 1 万名 50 岁以上的员工，IBM 在美国的员工年龄中位数在这些年一直保持稳定：48 岁。它没有披露在此期间的美国员工总数。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无需电脑如何执行adb shell命令]]></title>
-        <id>https://sspai.com/post/71355</id>
-        <link href="https://sspai.com/post/71355"/>
-        <updated>2022-02-15T07:30:57.000Z</updated>
-        <summary type="html"><![CDATA[背景
-ADB（Android Debug Bridge），是调试Android设备的一个命令行工具。对开发者来说，ADB自然是日常工作的得力助手；对我们业余玩家来说，它也可以用来控制一些默认情况下接触不到的功能设置。
-在早期的Android平台上，我们只能通过USB数据线连接电脑和手机，然后再在电脑上使用ADB工具，前提是已经在开发者选项中开启了USB调试开关。
-从Android 10开始，Google看着大家那可怜的USB接口数量和满桌的数据线，无奈之下推出了一个无线调试功能。只需要电脑和手机连接到同一个WiFi（即在同一局域网下），就可以进行调试。
-
-虽然简化如此，但用户还是需要一台电脑才可以执行ADB的相关命令。比如说我想随时随地“冻结”某个应用：
-adb shell pm disable-user com.tencent.mm
-还得身边有一台安装了Android开发工具的电脑，挺麻烦的。
-本地ADB
-既然现在新设备已经支持无线调试，我们是不是可以把手机本身当作电脑，让它自己连接自己呢？相当于手机本身既是ADB Server也是Client，同时也满足在同一局域网的条件。
-是的，已经有大神想到这个点子并开发了一个工具应用：LADB，顾名思义即Local ADB，在本地的ADB。基于GPL协议开源：github.com/tytydraco/LADB。
-我们安装后试一试效果，目前看起来功能还是挺简单的，就一个Shell窗口。简单使用步骤：
-先连接任意一个WiFi，就算没有接入互联网都可以；
-然后打开LADB，将它调整为小窗模式（或分屏模式），因为无线调试的配对码等信息每次点击都会动态生成，所以才需要小窗模式同时打开本应用和开发者选项；
-
-进入开发者选项，开启无线调试，首次使用需要配对设备，将配对码和端口填入本应用即可。成功以后，下次再使用就会自动连接了。
-
-我们不仅可以使用adb shell相关的命令，还可以使用Linux系统中一些常用的命令。这样即便没有电脑，也可以做部分调试了，而且访问权限会比其他类似的模拟终端应用（诸如Termux）高一些。
-
-后话
-我们仍然不能使用LADB这个应用来执行类似如下命令：
-adb root
-adb reboot
-adb install
-...
-因为LADB只是向用户开放了adb shell输入，所以也只能执行 adb shell xxx 这样的命令（比如上文提到的停用应用）。从它的源码来看是将整个ADB工具编译到移动平台的，我猜也是考虑到安全原因吧没有暴露除shell以外的其他命令输入。
-我基于原作者的开源代码做了一些Shell使用上的优化，其他功能基本不变，感兴趣的同学可以下载体验。
-
-
-
-
-
-
-3
-3
-
-
-
-
-
-扫码分享]]></summary>
-        <author>
-            <name>去梦老婆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国西部正经历 1200 年来最严重干旱]]></title>
-        <id>https://www.solidot.org/story?sid=70658</id>
-        <link href="https://www.solidot.org/story?sid=70658"/>
-        <updated>2022-02-15T07:12:37.000Z</updated>
-        <summary type="html"><![CDATA[水库收缩。地下蓄水层枯竭。河流干涸。森林火灾肆虐。美国西部处于严重干旱之中，这不是什么秘密了。周一发表的新研究表明情况变得多么极端。根据发表在《自然气候变化》上的新研究，美国西部和墨西哥北部正经历至少 1200 年以来最严重干旱。上一次可比但没有那么严重的干旱发生在十六世纪，持续数十年，那时西部主要居民是美洲印第安部落。今天该地区拥有数以千万计的人口、大型的农业中心和美国发展最快的城市——所有这一切都在一个可用水比过去更少的地区，造成这一现象的部分原因是人类引发的气候变化。研究主要作者、加州大学洛杉矶分校的生物气候学家 Park Williams 表示：“社会依赖于相当于 20 世纪第一个十年的水量。”“但是现在，随着可用水量减少，我们到了应该真正了解有多少水可供使用的时候了。”Williams 调查了来自数千个地点的树木的年轮数据。从活树木、死树木以及美洲原住民考古遗址保存的木质梁中采集数据。树木的年轮让 Williams了解到可追溯到公元 800 年的干旱事件，大约在同一时期，查理曼大帝被加冕为罗马皇帝。他确定了四次特大干旱，最值得注意的是结束于 1500 年代后期的干旱，那场干旱长达 23 年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉结构电池：下个时代开端]]></title>
-        <id>https://sspai.com/post/71465</id>
-        <link href="https://sspai.com/post/71465"/>
-        <updated>2022-02-15T06:39:55.000Z</updated>
-        <summary type="html"><![CDATA[作者 I 小董同学
-编辑 I Chris
-▎2021 年的 7 月 27 日，特斯拉 CEO Elon Musk 在 2021 年特斯拉 Q2 财报会议上宣布了一个重要的消息：「我很可能不再参与财报电话会议，除非有一些非常重要的事情要我说。」
-过了 6 个月，也就是中间休息了仅仅 1 个季度后，Elon 重返特斯拉财报，「提供更新的产品路线图」。
-
-然而 —— 没有新车。
-Elon 宣布了一个产品更新：第一批搭载 4680 结构电池的 Model Y 将在特斯拉 Giga Texas 工厂量产下线，并于本季度交付。
-结构电池，与业内更主流的 CTC（Cell To Chassis，即电芯直接集成到底盘）是同一个技术概念。顾名思义，通过将电芯直接集成到底盘，「没有中间商赚差价」，会带来许多显而易见的好处。
-首先是电量的提升。
-我们来做一个简单对比。目前搭载 2170 电芯的特斯拉 Model Y 长续航电池组共计 4416 颗电芯，根据特斯拉电池日上公布的设计，4680 结构电池的电池组共计 960 颗电芯，考虑到 1 颗 4680 电芯的能量是 1 颗 2170 电芯的 5 倍，960 颗 4680 电芯等效为 4800 颗 2170 电芯，增幅在 8.7%。
-
-而目前 Model Y 长续航版的电量为 82 kWh，如果换成搭载 960 颗 4680 电芯的 Model Y 长续航版电量预计会成 82 × 1.087 ≈ 89 kWh。如果具体到续航，目前 Model Y 全驱版的 CLTC 续航为 660 km，660 × 1.087 ≈ 717 km。
-但 Giga Texas 工厂下线的 Model Y 续航会比这更长，这是因为特斯拉同时上马了前后车身一体压铸技术，将车身前后 370 个零部件简化为 2 个超大型的一体压铸件，车身重量由此降低 10%。
-
-同样大小的…]]></summary>
-        <author>
-            <name>类星频道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将在月球上坠毁的火箭残骸不是来自 SpaceX 而是来自中国]]></title>
-        <id>https://www.solidot.org/story?sid=70657</id>
-        <link href="https://www.solidot.org/story?sid=70657"/>
-        <updated>2022-02-15T05:50:44.000Z</updated>
-        <summary type="html"><![CDATA[上月底有报道称，SpaceX 的一枚火箭残骸正位于撞向月球的轨道。这枚火箭的助推器在 2015 年被用于发射一颗太空气象卫星，之后因为燃料不足无法返回地面而一直留在高轨道。在此之后它的飞行轨迹在地球、月球和太阳引力作用下略显混乱，目前正处于撞向月球的路线。这将是已知第一次火箭在不受控下撞向月球。碰撞将于 3 月 4 日发生。但 NASA JPL 的工程师 Jon Giorgini 在进一步调查后发现，火箭残骸不是来自 SpaceX 的 Falcon 9 而是来自 2014 年 10 月发射嫦娥五号的长征三号丙运载火箭。碰撞仍然将在 3 月 4 日发生。SpaceX 的火箭残骸去向何处未知，可能进入了绕日轨道。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「物品指南」- 从idea到上线]]></title>
-        <id>https://sspai.com/post/71462</id>
-        <link href="https://sspai.com/post/71462"/>
-        <updated>2022-02-15T05:29:30.000Z</updated>
-        <summary type="html"><![CDATA[大家好，我是Jiaolong，「物品指南」的开发者。从正式上线到现在已经四个月了，很早前就想写一篇文章来讲下开发这个app的初衷和过程，一直迟迟没有行动，终于经过近期的重构调整，算是有点样子了，遂动手写点自己的想法。文章分为两部分，第一部分是我做这个app的初衷。第二部分是关于开发的过程以及未来计划。
- 
-初衷
-最早有记录物品的想法是在一次在宿舍整理东西的时候，看着一些产品的包装盒不舍得扔，哪怕有些东西已经坏了或是不用了，但扔了之后就好像从没拥有过，于是便想把它们都整理记录下来。一开始选择了notion进行记录。
-notion的特点是all in one，什么都可以记录，它的数据库系统自定义性很高，这也是我喜欢notion的一个特色。但all in one也会造成一些困扰，当所有琐事都往里扔时，重要的东西就会被淹没，为了避免这一点，我们就不得不创建一套自己的分类管理系统，以至于每次要进行记录的时候要先进行一个打开-选择分类-记录的过程，也无形中增大了记录的成本。同时我有一套自己的知识管理体系，其中notion的最大用途就是用来把零碎信息汇总成文或是数据库整理起来，但当这些其他不相关的内容越来越多时，notion的这一环就会被影响。就像我们打开QQ微信就是为了联系沟通，打开淘宝京东就是为了购物，而不是为了其他目的。
-所以便开始寻找替代品，我们使用率最高的就是手机，但并没有找到类似或符合我想法的app。既然没有合适工具，而作为一个程序员最擅长的就是自己创造工具，于是便有了做一个app的想法。
-
-在v1.0版本中，除了仓库模块记录购买过的物品，还增加了种草及日常模块，种草对应一些想要购买但因一些限制因素导致不能立即购买或是决定以后再购买的物品，可能在电商app中加入购物车更为方便，但我自己很少使用过，同时随着电商平台的增多，种草物品也被分散，这时一个汇总的工具便起到了很大的作用，…]]></summary>
-        <author>
-            <name>Jiaolong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数千 NPM 账号使用域名过期的邮箱]]></title>
-        <id>https://www.solidot.org/story?sid=70656</id>
-        <link href="https://www.solidot.org/story?sid=70656"/>
-        <updated>2022-02-15T05:27:09.000Z</updated>
-        <summary type="html"><![CDATA[微软和北卡州立大学的研究人员发现，数千名 JS 开发者使用了域名过期的邮箱，这将使得他们在 NPM（Node Package Manager） 上的项目很容易被劫持。研究人员分析了上传到 NPM 包管理器上的 1,630,101 个库的元数据。NPM 是最大的软件包仓库。研究人员发现有 2818 个项目维护者的账户仍在使用域名过期的电邮地址，而部分过期的域名正在 GoDaddy 等网站出售。研究人员认为，攻击者可购买相关域名，在电邮服务器上注册这些维护者的地址，然后重置维护者的账户密码接管 NPM 包。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊制作《银翼杀手》电视剧]]></title>
-        <id>https://www.solidot.org/story?sid=70655</id>
-        <link href="https://www.solidot.org/story?sid=70655"/>
-        <updated>2022-02-15T04:25:29.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊工作室（Amazon Studios）开始制作《银翼杀手（Blade Runner）》电视剧，新剧取名为《Blade Runner 2099》。电视剧将由 1982 年电影版《银翼杀手》导演 Ridley Scott 担任执行制片，他本人可能会亲自执导几集。他已经 84 岁了。其他几位制片人包括了 Silka Luisa 和 《银翼杀手 2049》的剧作家 Michael Green。参与制作的公司除了亚马逊工作室，还有 Scott 的 Scott Free Productions 工作室和《无垠的太空》系列的制作公司 Alcon Entertainment。1982 年版《银翼杀手》改编自  Philip K. Dick 的《Do Androids Dream of Electric Sheep?》。而亚马逊此前制作过电视剧《Philip K. Dick's Electric Dreams》。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opera 支持基于绘文字的网址]]></title>
-        <id>https://www.solidot.org/story?sid=70654</id>
-        <link href="https://www.solidot.org/story?sid=70654"/>
-        <updated>2022-02-15T04:09:55.000Z</updated>
-        <summary type="html"><![CDATA[挪威浏览器开发商 Opera 宣布支持基于绘文字的网址。相同绘文字的样式在不同软件和不同平台上可能会存在差异，它的输入和记忆也比简单的字符困难。Opera 对绘文字网址的支持是与 Yat 合作完成的，该公司销售带有绘文字字符串的网址。Opera 移动业务执行副总裁 Jorgen Arnesen 表示自万维网诞生近三十年来，网址基本没有任何创新。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以后期设计师的角度看DELL XPS 8950到底怎么样？]]></title>
-        <id>https://sspai.com/post/71443</id>
-        <link href="https://sspai.com/post/71443"/>
-        <updated>2022-02-14T15:54:23.000Z</updated>
-        <summary type="html"><![CDATA[最近收到一台熟悉的DELL XPS主机，采用intel最新的12代i9-12900K处理器与NV RTX 3060Ti显卡的组合。这次的酷睿处理器更新绝对是intel牙膏挤爆的一次，单核和多核性能都得到了飞跃的提升，加上对于DDR5以及PCIe 5.0标准的支持，可以让专业用户在内容创意生产力方面获得更好的支持。
-而且相比目前12代的游戏主机来讲，DELL XPS 8950则是另一种选择。DELL的XPS系列主机定位是给设计师、图文视频内容创作者使用的，作为一名后期用户的我来讲。这里也根据自己多年影视后期制作的经验从影视后期用户的角度从生产力出发，给大家分享一下这台DELL XPS 8950主机是否可以满足生产力用户的需求，以及DELL在生产力方面是否足够了解设计、后期用户的需求呢？
-
-更新后的DELL XPS 8950从i5-12400的版本到最高i9-12900K的版本可选，显卡最高可选Nv的RTX 3060Ti。内存则全系标配DDR5内存，不过最高只有16GB版本可选。我估计内存目前这样的配置应该也是由于当前DDR5内存的产能问题吧，整体配置来讲我是期待后续DELL可以提供更高的容量的内存给用户选择。
-
- 
-而且作为intel主打的创意设计PC来讲，配合NV的RTX显卡在选择安装RTX STUDIO显卡驱动，让DELL XPS 8950在专业运算上更有优势，除了传统CUDA加速之外，RTX显卡的实时光线追踪、高效AI运算功能在生产力方面的提升都是非常明显的。目前已经有40多款创作软件支持NV STUDIO加速功能，像是熟悉的ADOBE全家桶、达芬奇软件都我日常最常用的软件了。
-
- 
-作为剪辑用户，日常用的最多得就是ADOBE全家桶了。比如Adobe Premiere Pro CC 2020的Auto Reframe自动重构图功能，Lightroom利用AI加快照片的细…]]></summary>
-        <author>
-            <name>GLB1031</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现阿尔茨海默氏症与生物钟之间存在联系]]></title>
-        <id>https://news.cnblogs.com/n/712769/</id>
-        <link href="https://news.cnblogs.com/n/712769/"/>
-        <updated>2022-02-14T15:30:26.000Z</updated>
-        <summary type="html"><![CDATA[患有阿尔茨海默氏症的人可能在发病前数年就会出现睡眠障碍，但究竟是两者间存在因果关系，还是有更复杂的原因，科学家一直难以确定。现在美国的研究人员解开了这个谜团，为新疗法带来了希望，有望解释“良好的睡眠卫生”如何帮助解决这种疾病及其症状。 研究表明，人类 24 小时生物钟控制着大脑清除难以控制的、与阿尔
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迄今观测到的最大彗星确认]]></title>
-        <id>https://news.cnblogs.com/n/712768/</id>
-        <link href="https://news.cnblogs.com/n/712768/"/>
-        <updated>2022-02-14T15:24:35.000Z</updated>
-        <summary type="html"><![CDATA[科技日报讯 （记者刘霞）据物理学家组织网 2 月 9 日报道，来自法国巴黎天文台和西班牙安达卢西亚天体物理研究所的一个研究团队证实，于 2014 年首次映入科学家眼帘的彗星 2014 UN271 是迄今为止观测到的最大彗星，目前相关论文已被《天文学和天体物理学快报》接收。 2014 UN271 彗星
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是互联网人，爸妈还是被互联网骗了]]></title>
-        <id>https://news.cnblogs.com/n/712767/</id>
-        <link href="https://news.cnblogs.com/n/712767/"/>
-        <updated>2022-02-14T14:46:10.000Z</updated>
-        <summary type="html"><![CDATA[作者金玙璠 编辑魏佳 来源：开菠萝财经 都说家丑不可外扬，袁晓最近把家中 66 岁父亲的一件“囧事”发在了朋友圈。 简单说就是，袁晓父亲在某 App 购物时“无意中”开通了免密支付，此后买东西都无需输入密码，就误以为在该 App 上购物不要钱。袁晓一直没当回事，直到父亲跟她视频。“嚯，码了一墙的水果
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沈阳“出局”？ 特斯拉在华第二工厂落子何处扑朔迷离 2023年将最终确定]]></title>
-        <id>https://news.cnblogs.com/n/712766/</id>
-        <link href="https://news.cnblogs.com/n/712766/"/>
-        <updated>2022-02-14T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[财联社（北京，记者刘阳）讯，面对马斯克放出的豪言壮语，特斯拉扩产只是时间问题。2 月 14 日，针对特斯拉在中国的第二座工厂即将落户沈阳大东区的信息，特斯拉方面表示，此消息不实，“选址的事还没有确定”。 此前的 2 月 10 日，人民网辽宁频道发布了《沈阳市大东区“五抓”并举争当振兴发展排头兵》的文
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国政府工资仲裁失败，三星电子或迎53年历史上首次罢工]]></title>
-        <id>https://news.cnblogs.com/n/712765/</id>
-        <link href="https://news.cnblogs.com/n/712765/"/>
-        <updated>2022-02-14T14:32:00.000Z</updated>
-        <summary type="html"><![CDATA[韩联社 2 月 14 日消息，韩国国家劳动关系委员会周一决定停止调解三星电子管理层和工会成员之间的工资谈判，使这家韩国最大的企业集团自 1969 年成立以来首次出现罢工可能。 韩国国家劳动关系委员会在不到一周的时间内进行两次仲裁，未能成功使双方达成协议。根据这一决定，如果三星电子工会成员投票赞成，工
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[携程将推出每周只需上班3天模式 梁建章：有利于提高生育率]]></title>
-        <id>https://news.cnblogs.com/n/712764/</id>
-        <link href="https://news.cnblogs.com/n/712764/"/>
-        <updated>2022-02-14T14:28:00.000Z</updated>
-        <summary type="html"><![CDATA[2 月 14 日消息，携程宣布将在全公司推行混合办公制度。3 月 1 日开始，每周三、周五，公司各事业部、职能部门可根据实际管理需求，实行或逐步推行1-2 天的混合办公，即每周有1-2 天，符合条件的员工可自行选择办公地点。目前，携程已经同步发布了与之匹配的员工申请和管理流程、设备支持等政策。 据携
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI首席科学家称AI或有点自主意识了，杨立昆怒怼]]></title>
-        <id>https://news.cnblogs.com/n/712763/</id>
-        <link href="https://news.cnblogs.com/n/712763/"/>
-        <updated>2022-02-14T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[影视剧《西部世界》中 AI 角色 “现在的大型神经网络可能已经有了点自主意识。”近日，OpenAI 首席科学家 Ilya Sutskever 推文中的一句话激起千层浪。 关于 AI 能否有自主意识的大型争论在学术界已经停歇好久，但目前 Sutskever 的这则推文已经“引战”了学术界的多位大佬。其
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 13 虚拟化让 Pixel 6 手机能运行 Windows 11 和 Linux 发行版]]></title>
-        <id>https://www.solidot.org/story?sid=70653</id>
-        <link href="https://www.solidot.org/story?sid=70653"/>
-        <updated>2022-02-14T14:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Google 最近开放测试的 Android 13 开发者预览版被发现能让 Pixel 6 之类的硬件能运行 Windows 11 和 Linux 发行版。Android 13 利用了 KVM 虚拟化框架，Android 和 Web 开发者“kdrag0n” 在 Twitter 上发布了一系列视频，在 Pixel 6 手机上测试运行 Windows 11、Ubuntu 21.10、Arch Linux Arm、Void Linux 和  Alpine Linux，并尝试玩了经典射击游戏 Doom（旧版）。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美监管机构迫使特斯拉召回50多万辆汽车 马斯克称其为"扫兴鬼"]]></title>
-        <id>https://news.cnblogs.com/n/712762/</id>
-        <link href="https://news.cnblogs.com/n/712762/"/>
-        <updated>2022-02-14T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[2 月 14 日消息，据外媒报道，美国国家公路交通安全管理局(NHTSA)向电动汽车制造商特斯拉施加压力，在三个多月来在美国进行了 11 次汽车召回，该公司首席执行官埃隆·马斯克(Elon Musk)显然对此感到不满。 当一名推特粉丝周六询问特斯拉因自动音箱功能 Boombox 召回 50 多万辆汽
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD宣布完成对赛灵思的全股票交易收购]]></title>
-        <id>https://news.cnblogs.com/n/712761/</id>
-        <link href="https://news.cnblogs.com/n/712761/"/>
-        <updated>2022-02-14T14:11:00.000Z</updated>
-        <summary type="html"><![CDATA[AMD 官网 2 月 14 日发布声明称，AMD 今天完成对赛灵思的全股票交易收购。 2020 年 10 月 27 日，AMD 宣布将以全股票交易方式收购全球最大可编程芯片（FPGA）厂商赛灵思，该交易价值高达 350 亿美元。 赛灵思前首席执行官 Victor Peng 将加入 AMD，担任新成立
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每迈一步都受到密切关注：Facebook转型元宇宙比扎克伯格创业难多了]]></title>
-        <id>https://news.cnblogs.com/n/712760/</id>
-        <link href="https://news.cnblogs.com/n/712760/"/>
-        <updated>2022-02-14T14:08:00.000Z</updated>
-        <summary type="html"><![CDATA[2 月 14 日消息，自 2004 年成立以来，Facebook 的用户规模已经占到全球人口的四分之一以上。但在依靠广告市场收入建立多年的统治地位之后，Facebook 几乎在一夜之间就想要打破既定模式，开辟新的庞大业务。 2021 年 10 月，Facebook 宣布更名为“Meta”，并将重新专
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁财富回应葛兰基金被“摘牌”：投资者较多配置稳健产品]]></title>
-        <id>https://news.cnblogs.com/n/712759/</id>
-        <link href="https://news.cnblogs.com/n/712759/"/>
-        <updated>2022-02-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[近日，支付宝上的金选榜单的各种维度排名均不见“基金一姐”葛兰掌管的中欧医疗健康混合基金的身影。据此，有市场人士猜测葛兰在管基金被蚂蚁财富“摘牌”。 2 月 14 日，蚂蚁财富回复澎湃新闻（www.thepape.cn）记者称，蚂蚁财富金选榜单里的“周销售排行”，是以周为维度的投资者申购的客观数据，最
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌做社交网络失败：Google+明年彻底关停]]></title>
-        <id>https://news.cnblogs.com/n/712758/</id>
-        <link href="https://news.cnblogs.com/n/712758/"/>
-        <updated>2022-02-14T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[驱动中国 2022 年 2 月 14 日消息，从今年 1 季度开始，谷歌将逐渐关闭 Google Currents 上极少使用的功能。 谷歌作为国际网络巨头，但是做社交网络平台未曾成功，曾经在 2011 年推出的 Google+，计划做到最大的社交网络平台，但一经推出就火了一段时间，之后热度就较为一
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[财说|亏损接近10亿元，申通快递的真实状况到底有多差？]]></title>
-        <id>https://news.cnblogs.com/n/712757/</id>
-        <link href="https://news.cnblogs.com/n/712757/"/>
-        <updated>2022-02-14T13:48:00.000Z</updated>
-        <summary type="html"><![CDATA[记者杨马可 近日，申通快递（002468.SZ）发布了 2021 年业绩预告，公司预计全年营业收入 241 亿元至 265 亿元，同比增长 12%-23%；不过增收不增利，营收创出历史新高的同时，归属于上市公司股东的净亏损却高达 8.4 亿元至 9.5 亿元，同比由盈转亏，创下了自 2016 年 1
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节跳动投资极兔快递？抖音电商相关负责人回应：消息不实]]></title>
-        <id>https://news.cnblogs.com/n/712756/</id>
-        <link href="https://news.cnblogs.com/n/712756/"/>
-        <updated>2022-02-14T13:41:00.000Z</updated>
-        <summary type="html"><![CDATA[来源：中华网财经 中华网财经 2 月 14 日讯，此前有消息称，据一位接近字节跳动人士透露，字节跳动已完成对极兔快递的投资，用以补齐字节的电商拼图，扩充海外电商布局。针对“字节跳动已完成对极兔快递的投资”一事，抖音电商相关负责人表示，消息不实。 公开资料显示，极兔快递（J&T Express ）于 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一夜爆红的啫喱APP突然下架，这是要闹哪样？]]></title>
-        <id>https://news.cnblogs.com/n/712755/</id>
-        <link href="https://news.cnblogs.com/n/712755/"/>
-        <updated>2022-02-14T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[2 月 13 日晚间，啫喱 App 发布声明称近期遭遇连续有组织的攻击，已采取法律行动。同时，啫喱选择主动从应用商店下架，暂停新用户进入。2 月 14 日上午，用户发现已经无法在苹果应用商店搜索到啫喱 App。 曾登顶 AppStore，啫喱 APP 为何能爆火？ “好朋友，加啫喱”。据应用介绍显示
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面对极星讽刺广告 马斯克“哭笑不得”]]></title>
-        <id>https://news.cnblogs.com/n/712754/</id>
-        <link href="https://news.cnblogs.com/n/712754/"/>
-        <updated>2022-02-14T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[2 月 14 日消息，沃尔沃旗下电动汽车初创企业极星在今年美国超级碗比赛期间投放了一则广告，直接讽刺特斯拉和大众。 这则 30 秒的广告名为“不妥协”（No Compromise）。片中出现了极星 2 的照片，上面写着“不”（No），后面则跟着“柴油门”（dieselgate）和“征服火星”（con
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上到登月计划下到自动驾驶，Alphabet究竟是一家什么公司？]]></title>
-        <id>https://news.cnblogs.com/n/712753/</id>
-        <link href="https://news.cnblogs.com/n/712753/"/>
-        <updated>2022-02-14T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[头图来源丨创客贴 Alphabet（谷歌母公司）投资的业务包括登月计划、自动驾驶汽车、家用网络提速等等，那么它到底是一家什么公司？ 文丨 Tom Kerr 译者丨杨佩奇 来源：BT 财经 关于 Alphabet（谷歌母公司）是一家科技公司还是一家媒体公司，投资者一直存在争论。尽管谷歌已经创造了极好的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“垂帘听政者”贾跃亭]]></title>
-        <id>https://news.cnblogs.com/n/712752/</id>
-        <link href="https://news.cnblogs.com/n/712752/"/>
-        <updated>2022-02-14T13:14:00.000Z</updated>
-        <summary type="html"><![CDATA[头图来源丨法拉第未来官微 贾跃亭在 2019 年 FF 重组的时候已经辞去 CEO 职务，但时至今日贾跃亭依然是 FF 的实际控制人，上演了一幕垂帘听政的好戏。 文丨梦萧 来源：BT 财经 国内最会做 PPT 的贾跃亭在国内人设崩塌后，长期滞留美国，但这一次贾跃亭和他的 FF（法拉第未来）又栽了。这
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
