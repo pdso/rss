@@ -885,6 +885,56 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=71267",
+          "author": null,
+          "description": "69 岁的 Richard Stallman（RMS）发表了演讲谈论了自由软件运动的现状。他首先感谢了每一位为自由软件做出贡献的人，认为自由软件运动应该惠及每一个人，在道德上不能排斥任何人，即使一个人犯有罪行应该被惩罚，但切断一个人对自由软件的贡献是在惩罚全世界，而不是那个人。他指出了自由软件运动中做的较好的例子，同时指出情况在恶化。支持自由软件的硬件在老化在变少。英特尔和 AMD 的新硬件都在限制用户自由。苹果的电脑则变成了监狱，用户难以自行安装执行软件。RMS 认为这应该是非法的，出售禁止用户从源代码自行安装软件的计算机应该是非法的。他还提到了 Zoom  等在疫情期间流行起来的视频会议软件，指出如果学校不得不使用 Zoom 之类的非自由软件，那么应该在每一堂课上说自己为使用 Zoom 感到羞耻。",
+          "link": "https://www.solidot.org/story?sid=71267",
+          "publishedOn": "2022-04-17T15:09:03.000Z",
+          "wordCount": 87,
+          "title": "Richard Stallman 谈论自由软件运动的现状",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71266",
+          "author": null,
+          "description": "过去的十年是割裂的十年，仿佛像是巴别塔的毁灭，突然之间人们无法说同一种语言，无法认识相同的事实。究竟是什么导致了这一现象？纽约大学商学院社会心理学家 Jonathan Haidt 认为是社交网络。他认为社交媒体平台训练用户花更多时间去表演花更少时间去建立联系，助长了病毒性的动态，导致了信任的不断减少，而民主制度依赖于内部对规则、规范和机构合法性的广泛接受。衡量公民对政府、企业、媒体和非政府组织信任度的指标 Edelman Trust Barometer 显示，中国和阿联酋位居前列，而美国和英国等国位居末尾。社交媒体如 Facebook、Twitter 和 YouTube 对机构的错综复杂知之甚少，不关心施加给社会的外部成本，而只是不顾一切的为了增长， 它们在无意中溶解了将世俗民主国家维系在一起的信任、信念和共同叙事。过去十年公众变得愚蠢，数字革命让公众高度分割成敌意的碎片，彼此互相谩骂，生活在某种泡沫里。越来越多的证据表明，社交网络在破坏民主，应该加强监管。",
+          "link": "https://www.solidot.org/story?sid=71266",
+          "publishedOn": "2022-04-17T14:02:56.000Z",
+          "wordCount": 83,
+          "title": "社交网络让我们变蠢？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71265",
+          "author": null,
+          "description": "Twitter 董事会宣布采取毒丸计划阻止 Elon Musk 的敌意收购。Elon Musk 是 Twitter 最大个人股东，持有 9.2% 股份，他最初宣布加入董事会推动多项改革，但之后放弃加入董事会，宣布以每股 54.20 美元约 430 亿美元整体收购 Twitter。虽然 Musk 是世界首富但手上并没有这么多现金，而是需要通过其它方法筹集。而 Twitter 董事会所采取的毒丸计划是给现有股东时间以折扣价购买额外股份，稀释 Musk 的股权。Twitter 在一份声明中表示董事会一致通过一项有期限的股东权利计划。",
+          "link": "https://www.solidot.org/story?sid=71265",
+          "publishedOn": "2022-04-16T10:35:15.000Z",
+          "wordCount": 102,
+          "title": "Twitter 采取毒丸计划阻止 Elon Musk 的敌意收购",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71264",
+          "author": null,
+          "description": "匿名搜索引擎 DuckDuckGo 被发现从搜索结果移除了流行的盗版网站域名如 The Pirate Bay、1337x 和 Fmovies，开源下载工具 youtube-dl.org 的域名也被剔除（返回结果为空）。DuckDuckGo 没有解释原因，推测与版权侵犯相关的责任有关。但 youtube-dl.org 并没有托管任何侵犯版权的内容。DuckDuckGo 曾在 2018 年采取过类似的行动，当时 DuckDuckGo 解释说，它在全球运营，侵犯版权的网站会让它的员工面临法律责任，会危及到整个服务。",
+          "link": "https://www.solidot.org/story?sid=71264",
+          "publishedOn": "2022-04-16T08:31:22.000Z",
+          "wordCount": 92,
+          "title": "DuckDuckGo 从搜索结果移除盗版网站和 YouTube-DL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71263",
+          "author": null,
+          "description": "中国载人航天办公室宣布，北京时间 2022 年 4 月 16 日 09 时 56 分，神舟十三号载人飞船返回舱在东风着陆场（位于巴丹吉林沙漠）成功着陆，现场医监医保人员确认航天员翟志刚、王亚平、叶光富身体状态良好，神舟十三号载人飞行任务取得圆满成功。神舟十三号飞船于 2021 年 10 月 16 日从酒泉卫星发射中心发射升空，随后与天和核心舱对接形成组合体，3 名航天员进驻核心舱，进行了为期 6 个月的驻留，创造了中国航天员连续在轨飞行时长新纪录。航天员在轨飞行期间，先后进行了 2 次出舱活动，开展了手控遥操作交会对接、机械臂辅助舱段转位等多项科学技术实（试）验，验证了航天员长期驻留保障、再生生保、空间物资补给、出舱活动、舱外操作、在轨维修等关键技术。三名航天员中翟志刚曾执行 2008 年的神舟七号载人飞行任务，是中国首位出舱航天员，王亚平执行过 2013 年神舟十号载人飞行任务，叶光富是首次飞行。",
+          "link": "https://www.solidot.org/story?sid=71263",
+          "publishedOn": "2022-04-16T05:10:43.000Z",
+          "wordCount": 97,
+          "title": "神舟十三号返回地面",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=71262",
           "author": null,
           "description": "从新浪微博开始，中国主要的网络平台周五宣布将展示帐号 IP 属地。今日头条、抖音、小红书、百度百家号和知乎宣布默认展示 IP 地址，用户无法手动关闭。公告内容都十分相似，以今日头条为例：为维护真实有序的讨论氛围，减少冒充热点事件当事人、恶意造谣、蹭流量等不良行为，今日头条拟在个人主页等位置展示帐号 IP 属地，相关功能即日起在网页版进行测试，将根据测试情况逐步在其他场景全量上线。\n\n\n知乎称，近期，我们注意到，在国内外热点事件的讨论中，出现个别用户冒充当地网友，发布、传播不实信息，干扰正常讨论秩序的情况。与此同时，众多热心知友也积极向我们反映，建议知乎公开展示用户 IP 属地信息。为了更好地维护社区生态氛围，打击造谣传谣行为，社区拟逐步开放「用户 IP 属地」的公开显示。届时，问答页面将显示用户发布内容时的 IP 属地。",
@@ -3503,56 +3553,6 @@
           "wordCount": 93,
           "title": "Telegram 忘记检查邮箱，巴西最高法院下令封锁 Telegram",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70996",
-          "author": null,
-          "description": "石之予导演的皮克斯最新动画片《Turning Red》没有登陆电影院，而是直接在迪士尼流媒体平台 Disney+ 上线。根据迪士尼统计的观看小时数，《Turning Red》上线三天打破了全球开映观看记录。在《Turning Red》中，13 岁的加拿大华裔女孩小美会因为激动变身为红熊猫。现在，Google 给地图应用加入了红熊猫：在手机 Google Maps 应用中输入 Turning Red 选择 See Red Panda Mei in your space，就可以在 3D 地图中看跳舞的红熊猫。",
-          "link": "https://www.solidot.org/story?sid=70996",
-          "publishedOn": "2022-03-19T10:47:12.000Z",
-          "wordCount": 98,
-          "title": "Google 给地图应用加入红熊猫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70995",
-          "author": null,
-          "description": "AMD 宣布了 FSR 2.0，将在下周举行的游戏开发者大会上公布更多细节。AMD 是在去年发布了 FidelityFX Super Resolution（FSR），运用空间提升算法实现超高画质的边缘和细节，帮助提高部分游戏的帧率。FSR 不同于英伟达的 Deep Learning Super Sampling (DLSS)，没有使用 AI 训练模型，而是采用传统图像处理算法，其优点是容易整合到游戏中，支持旧显卡，甚至包括竞争对手的旧显卡。DLSS 需要英伟达显卡上的专门硬件重构图像，它甚至能重建出比原生画质更高的像素数。FSR 依赖和受制于游戏的基本像素，难以真正挑战 DLSS。这是 AMD 在 FSR 2.0 中准备改进的地方：新技术能预测和绘制图像，取代传统的抗锯齿技术 TAA。FSR 2.0 预计将在第二季度正式推出，AMD 尚未透露更多技术细节。",
-          "link": "https://www.solidot.org/story?sid=70995",
-          "publishedOn": "2022-03-19T10:17:38.000Z",
-          "wordCount": 105,
-          "title": "AMD 宣布 FSR 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70994",
-          "author": null,
-          "description": "Humble 推出 Stand With Ukraine 慈善包，包含 80 多款游戏、软件（部分软件提供的是有限时间的订阅）和书籍，售价 40 美元，所有收入将捐赠给相关慈善组织。目前慈善包已筹集到超过 2800 万人民币。在这之前独立游戏平台 itch.io 的 Bundle for Ukraine 慈善包共筹集 637 万美元。",
-          "link": "https://www.solidot.org/story?sid=70994",
-          "publishedOn": "2022-03-19T02:27:25.000Z",
-          "wordCount": 92,
-          "title": "Humble 推出乌克兰慈善包",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70993",
-          "author": null,
-          "description": "根据发表在《科学》上的一项研究，中外科学家汇总分析了来自全球 53 个国家地区的研究数据，发现与结构简单的人工林相比，天然林可以更好地支持生物多样性保护和实现地表碳存储、土壤保持、水源涵养的生态系统服务，但是人工林在木材生产方面具有优势。森林的恢复方式可被大体区分为种植结构较为单一的人工林和恢复天然森林。但出于人工林与天然林在生态系统服务上成效相似的假定，目前全球主流的森林恢复模式是种植人工林。论文研究结果表明，天然林在保护生物多样性与地表碳存储、土壤保持、水源涵养这三种面向环境的生态系统服务方面都比人工林成效更好。人工林相比天然林的差距在土壤保持方面尤其突出，并且在水源涵养方面随气候的干旱程度增强而越发严重。这些发现提示，如果森林恢复的主要目标是环境益处，那么即使不从生物多样性的考虑出发，我们也应该优先恢复天然林。恢复的方式需要因地制宜，基于土地退化程度、水热条件、距离动植物种源地距离等因素，灵活采用自然恢复、人工种植、人工辅助的自然恢复等一系列方法。",
-          "link": "https://www.solidot.org/story?sid=70993",
-          "publishedOn": "2022-03-18T14:49:41.000Z",
-          "wordCount": 74,
-          "title": "研究揭示人工林与天然林效益差别",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70992",
-          "author": null,
-          "description": "Mozilla 和 Open Web Docs 宣布在 MDN 项目的  Web Docs 部分携手合作。Mozilla 宣布将推出订阅服务 MDN Plus，而 Web Docs 部分将会永远免费：Mozilla 承担平台的基础设施、开发和维护费用，包括一个工程师团队和一个专业技术作者团队；Open Web Docs 接受企业和个人的捐款，捐款不会转给 Mozilla 或 MDN，而是提供给 MDN  Web Docs 的文档技术写作团队。",
-          "link": "https://www.solidot.org/story?sid=70992",
-          "publishedOn": "2022-03-18T13:28:39.000Z",
-          "wordCount": 112,
-          "title": "Mozilla 和 Open Web Docs 在 MDN 上携手合作",
-          "imageUrl": null
         }
       ]
     },
@@ -3561,6 +3561,156 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/718948/",
+          "author": null,
+          "description": "中国载人航天工程办公室主任郝淳 17 日在国新办举行的新闻发布会上介绍，通过空间站关键技术验证阶段任务， 我们全面突破并掌握了空间站建造的关键技术， 完善了任务的组织指挥体系，初步建立了有中国特色的载人航天运营管理体系，取得了高水平的空间科学研究成果和显著的综合效益。 图片来源：新华视点 2022 \n本文链接",
+          "link": "https://news.cnblogs.com/n/718948/",
+          "publishedOn": "2022-04-18T00:13:00.000Z",
+          "wordCount": 6,
+          "title": "我国将研制新一代载人飞船，可搭载7名航天员；六月发射“神十四”……这场发布会信息量很大",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718947/",
+          "author": null,
+          "description": "4 月 17 日消息，有网友日前在社交平台向罗永浩提问“没勇气再做款手机吗？”对此，罗永浩回应称，“因为要烧投资人的钱，所以我确实没这勇气了”。 罗永浩还调侃道：“要不然你投吧，只要 20 个亿。咱俩都不考虑财务回报和庸众的反应，我给你做一个触及灵魂、荡气回肠的手机。” 此前，罗永浩曾多次公开表态将\n本文链接",
+          "link": "https://news.cnblogs.com/n/718947/",
+          "publishedOn": "2022-04-18T00:06:00.000Z",
+          "wordCount": 6,
+          "title": "被问没勇气再做款手机吗？罗永浩：要烧投资人的钱，没这勇气了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718946/",
+          "author": null,
+          "description": "【文/观察者网吕栋编辑/周远方】 4 月 13 日-15 日，欧拉开发者大会（openEuler Developer Day 2022）在线上和线下同步举行。这是自 2021 年 11 月华为捐赠欧拉后的首次社区开发者大会，由开放原子开源基金会和欧拉开源社区共同主办。 本次大会的一个亮点，是欧拉首个\n本文链接",
+          "link": "https://news.cnblogs.com/n/718946/",
+          "publishedOn": "2022-04-18T00:00:00.000Z",
+          "wordCount": 6,
+          "title": "英特尔为何加入中国的欧拉社区？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718945/",
+          "author": null,
+          "description": "4 月 16 日，在清华大学主办，清华大学五道口金融学院、清华大学国家治理与全球治理研究院承办的 2022 清华五道口全球金融论坛上，央行原行长周小川围绕“关于数字货币的几点问题及回应”发表主旨演讲。 针对中国央行是否应该加快发行跨境数字货币，周小川表示：“货币印多少可以自己决定，但是否能出去流通取\n本文链接",
+          "link": "https://news.cnblogs.com/n/718945/",
+          "publishedOn": "2022-04-17T23:51:06.000Z",
+          "wordCount": 6,
+          "title": "央行原行长周小川：数字人民币的设计是为了零售，不是为了替代美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718944/",
+          "author": null,
+          "description": "出品｜虎嗅商业、消费与机动组 作者｜黄青春 题图｜视觉中国 长视频平台正通过一轮轮会员涨价“自救”。 上周（4 月 9 日），腾讯视频宣布将于 4 月 20 日进行会员涨价（ 连续包月由 20 元涨至 25 元，涨幅 25%；连续包年由 218 元涨至 238 元；年卡由 253 元涨到 258 元\n本文链接",
+          "link": "https://news.cnblogs.com/n/718944/",
+          "publishedOn": "2022-04-17T23:47:39.000Z",
+          "wordCount": 6,
+          "title": "VIP快看不起爱优腾了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718943/",
+          "author": null,
+          "description": "金磊发自凹非寺 量子位公众号 QbitAI 现在，周末睡懒觉这件事，可以变得有理有据了。 一项来自韩国延世大学的研究表明：周末1 小时的懒觉，能让抑郁风险降低约30%； 而多睡2 小时，患抑郁症的风险可能降低48%。 没开玩笑，这是正儿八经的研究，已经发表在了睡眠领域期刊Sleep Medicine\n本文链接",
+          "link": "https://news.cnblogs.com/n/718943/",
+          "publishedOn": "2022-04-17T13:43:52.000Z",
+          "wordCount": 6,
+          "title": "新研究结论：周末多睡2小时，抑郁风险降低48%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718942/",
+          "author": null,
+          "description": "作者｜柠檬 编辑｜月见 来源：新熵（ID：baoliaohui） 近日，某接近B站的匿名人士对「新熵」表示，B站直播业务部门计划裁员，名单已初步拟好，待上海地区恢复正常后进行裁员约谈，本次裁员将会波及整个直播部门。 裁员原因可能为B站直播区与入驻公会关系的失衡，直播部门“允许”入驻公会用高于行业的标\n本文链接",
+          "link": "https://news.cnblogs.com/n/718942/",
+          "publishedOn": "2022-04-17T12:00:00.000Z",
+          "wordCount": 6,
+          "title": "B站直播，也要“毕业裁员”？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718941/",
+          "author": null,
+          "description": "文/丰色萧箫 来源/量子位（ID:QbitAI） 十年融资十三轮、一度估值 525 亿的柔宇科技真的不行了。 从财报里的连年亏损到今年曝出的欠薪门，真真假假的各种消息，现在被刘姝威证实了。 最近，作为独立董事的她在微信公众号和微博发表近 2000 字长文呼吁： 救救柔宇。 这个昔日资本的宠儿，立志要\n本文链接",
+          "link": "https://news.cnblogs.com/n/718941/",
+          "publishedOn": "2022-04-17T10:54:02.000Z",
+          "wordCount": 6,
+          "title": "“乐视掘墓人”刘姝威，想当柔宇的“救世主”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718940/",
+          "author": null,
+          "description": "文/拉燕桃子 来源/新智元（ID:AI_era） 【新智元导读】知网又被送上了热搜！近日，中科院称，知网暂停中科院对 CNKI 数据库的使用权限，因其订购费用高已经成为中科院资源引进中的“巨无霸”。 知网（CNKI）又双叒叕出幺蛾子了。 2022 年 4 月 8 日，中国科学院文献情报中心称，同方知\n本文链接",
+          "link": "https://news.cnblogs.com/n/718940/",
+          "publishedOn": "2022-04-17T10:20:00.000Z",
+          "wordCount": 6,
+          "title": "知网又火了！网传中科院停用知网，近千万续订费太贵了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718939/",
+          "author": null,
+          "description": "文/宛其 、王敏 、唐亚华 、邹帅 、李秋涵 来源/深燃（ID:shenrancaijing） 近期疫情的反复，打乱了许多人的生活、工作节奏，很多人陷入对病毒的恐惧和对未来不确定性的担忧中，一些人甚至出现了压力过大、焦虑、烦躁、抑郁等心理问题。 这一现象不容忽视。此前，国家卫健委曾发布新冠肺炎紧急心\n本文链接",
+          "link": "https://news.cnblogs.com/n/718939/",
+          "publishedOn": "2022-04-17T10:02:00.000Z",
+          "wordCount": 6,
+          "title": "疫情之下，我怎么走出emo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718938/",
+          "author": null,
+          "description": "文/樟稻 来源/科技新知（ID:kejixinzhi） 作为云行业中的老大哥，阿里云的一举一动都备受瞩目。一次出其不意的人事调整，一夜之间将其推到了风口浪尖之上。 事情简单明了，无非是一场新旧交替的调兵换将。从好事者的视角来看，这叫新华为人“挤”走了老华为人。 但调侃归调侃，更应该关注的是，在串联近\n本文链接",
+          "link": "https://news.cnblogs.com/n/718938/",
+          "publishedOn": "2022-04-17T09:49:00.000Z",
+          "wordCount": 6,
+          "title": "阿里云换将，欲承王冠之重",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718937/",
+          "author": null,
+          "description": "IT 之家 4 月 17 日消息，在一份新的工作清单中，微软已确认将其 Android 工作整合到一个名为“Android Microsoft 平台和体验”的部门中。此举可能允许 Windows 11 和 Android 之间的进一步集成。 据 Windows Latest 报道，本周早些时候，微软\n本文链接",
+          "link": "https://news.cnblogs.com/n/718937/",
+          "publishedOn": "2022-04-17T04:26:46.000Z",
+          "wordCount": 6,
+          "title": "微软确认成立安卓体验部门，暗示大力整合Win11和安卓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718936/",
+          "author": null,
+          "description": "近 400 年前，伽利略在《试金者》（The Assayer）中写道：“哲学写在宇宙这本大书里……（但宇宙这本书）是用数学语言写就的。” 这几乎可以被认为是最早的关于科学方法的著作。 我们不知道是谁最早开始将数学应用在了科学研究中，有可能是巴比伦人，他们在近 3000 年前用数学发现了日食的基本模式\n本文链接",
+          "link": "https://news.cnblogs.com/n/718936/",
+          "publishedOn": "2022-04-17T04:07:55.000Z",
+          "wordCount": 6,
+          "title": "没有数学的宇宙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718935/",
+          "author": null,
+          "description": "你能相信？一个堂堂的研究院，却被曝出聘用了一位假博士？ 更震惊的是，假博士在职 11 年都没有被人发现，期间还主持了四项研究。 这么离谱的事儿到底是怎么发生的？ 咱们直接进入正文。 假博士当上副研究员 11 年 事情发生于台湾省行政院科技部管辖下的实验研究院（成立于 1974 年）。 涉事主人公姓李\n本文链接",
+          "link": "https://news.cnblogs.com/n/718935/",
+          "publishedOn": "2022-04-17T02:56:51.000Z",
+          "wordCount": 6,
+          "title": "假博士手写毕业证，入职研究院瞒天过海11年，诈领公款工资上千万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/718934/",
+          "author": null,
+          "description": "丰色鱼羊发自凹非寺 量子位公众号 QbitAI 183 天，三名太空出差的中国航天员终于顺利回家了！ 就在刚刚，9 点 57 分，神舟十三号返回舱成功着陆位于内蒙古的东风着陆场。 并且是自神六以来返回舱首次落地后呈直立姿态。 翟志刚首先出舱，并向大家招手致意。 王亚平、叶光富两位航天员也随后顺利出舱\n本文链接",
+          "link": "https://news.cnblogs.com/n/718934/",
+          "publishedOn": "2022-04-17T02:00:00.000Z",
+          "wordCount": 6,
+          "title": "9小时速返地球！刚刚，神舟十三号返回舱平安降落",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/718933/",
           "author": null,
@@ -9159,206 +9309,6 @@
           "publishedOn": "2022-03-20T08:27:00.000Z",
           "wordCount": 6,
           "title": "贝索斯前妻再捐2.81亿美元，捐赠总额近86亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717092/",
-          "author": null,
-          "description": "燃次元（ID:chaintruth）原创 燃财经出品 作者丨谢中秀 编辑丨饶霞飞 生鲜电商坏消息不断。 3 月 17 日，有报道指出，叮咚买菜（DDL.US）因前置仓存在用死鱼冒充活鱼、擅自“翻包”换签、日常消毒流于形式等问题，于 3 月 16 日被海淀区市场监管局约谈并启动立案调查。受此影响，17\n本文链接",
-          "link": "https://news.cnblogs.com/n/717092/",
-          "publishedOn": "2022-03-19T12:11:00.000Z",
-          "wordCount": 6,
-          "title": "叮咚买菜被调查，每日优鲜遭“讨债” ，生鲜电商大溃败？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717091/",
-          "author": null,
-          "description": "长、短视频在历经了多年的对峙状态后，有望在接下来真正实现“化干戈为玉帛”。 不久前，抖音方面率先宣布与搜狐达成合作。获得搜狐全部自制影视作品的二创授权，其中，即包括热门剧集《法医秦明》、《匆匆那年》和《逆光中告白》等作品。 据抖音方面透露，根据合作内容，抖音平台和用户可对这些影视作品进行 5 分钟之\n本文链接",
-          "link": "https://news.cnblogs.com/n/717091/",
-          "publishedOn": "2022-03-19T12:00:00.000Z",
-          "wordCount": 6,
-          "title": "抖音与搜狐达成合作，长短之争有了新解法？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717090/",
-          "author": null,
-          "description": "微软之前已经宣布将于 2022 年彻底淘汰 Internet Explorer 浏览器，如今他们再次强调这一情况。 微软写道：“正如之前宣布的那样，未来 Windows 上的 Internet Explorer 将整合到 Microsoft Edge 中，通过所谓的 IE 兼容模式而提供对旧版浏览器\n本文链接",
-          "link": "https://news.cnblogs.com/n/717090/",
-          "publishedOn": "2022-03-19T11:50:00.000Z",
-          "wordCount": 6,
-          "title": "微软再次提醒IE浏览器将于今年6月退役：经典谢幕！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717089/",
-          "author": null,
-          "description": "网传小鹏汽车将于下周开始上调全系车型价格，其中小鹏 P7 上涨幅度为 2 万，小鹏 P5 和小鹏 G3i 涨幅为 1 万。据闻，部分城市的小鹏汽车销售人员已开始停休，全力进行客户邀约，只能以电话形式通知，不允许以文字形式通知客户。 不过，以上消息没有得到小鹏汽车官方证实。不过对于小鹏汽车涨价，也没有\n本文链接",
-          "link": "https://news.cnblogs.com/n/717089/",
-          "publishedOn": "2022-03-19T11:44:00.000Z",
-          "wordCount": 6,
-          "title": "网传小鹏汽车全系下周涨价！销售：没法子，电池成本翻了10倍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717088/",
-          "author": null,
-          "description": "雷达财经出品文张凯旌编深海 3 月 17 日，胡润研究院发布了《2022 全球富豪榜》，中国以 1133 位十亿美金企业家蝉联第一，同比增加 75 人。全球十亿美金企业家的前三大居住城市都位于中国，分别是北京（144 人）、上海（121 人）、深圳（113 人）。农夫山泉的钟睒睒蝉联中国首富。 值得\n本文链接",
-          "link": "https://news.cnblogs.com/n/717088/",
-          "publishedOn": "2022-03-19T11:33:00.000Z",
-          "wordCount": 6,
-          "title": "马化腾马云跌出富豪榜前三，互联网失去想象空间了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717087/",
-          "author": null,
-          "description": "日前，特斯拉被曝要求车主签“不转卖承诺函”引发关注。据悉，该承诺函要求车主承诺自提车后 365 天内不将任何车辆向任何第三方过户转让或实际转让。3 月 18 日，特斯拉工作人员向南都记者表示，不转卖承诺函针对的是一次性或一年陆续购买多台车的人，对常规客户没有影响。 3 月 16 日，特斯拉一封“不转\n本文链接",
-          "link": "https://news.cnblogs.com/n/717087/",
-          "publishedOn": "2022-03-19T11:25:00.000Z",
-          "wordCount": 6,
-          "title": "特斯拉要求车主签“不转卖承诺函”，回应了！律师：应属无效",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717086/",
-          "author": null,
-          "description": "3 月初，俄罗斯宣布停止向美国交付火箭发动机，俄航天局局长罗戈津对美方喊话“用他们的扫帚飞吧”。对此，美国航空航天局（NASA）局长比尔·纳尔逊 3 月 18 日回应称，美国将继续与俄罗斯在太空项目上合作。 据美联社 3 月 19 日报道，随着美国对俄罗斯施加更多制裁，俄航天局局长罗戈津近日在推特上\n本文链接",
-          "link": "https://news.cnblogs.com/n/717086/",
-          "publishedOn": "2022-03-19T11:18:00.000Z",
-          "wordCount": 6,
-          "title": "NASA局长回应俄航天局局长言论：美俄会继续太空合作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717085/",
-          "author": null,
-          "description": "随着采用 M1 芯片的 Mac 电脑在自媒体口中“大杀四方”，原本小众的 Mac 生态也被越来越多的消费者接受，尤其是在某些大学生眼里，一台采用 M1 芯片的 Mac 仿佛已经成为了他们学习视频剪辑、成为生活博主最终进入百大 Up 主名单的第一步。 不过考虑到即使是最基础款的 Mac mini 售价\n本文链接",
-          "link": "https://news.cnblogs.com/n/717085/",
-          "publishedOn": "2022-03-19T11:10:00.000Z",
-          "wordCount": 6,
-          "title": "让苹果摸不着“头脑”的断头Mac，打开了性价比的新思路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717084/",
-          "author": null,
-          "description": "3 月 19 日消息，德国当地公用事业部门日前表示，当地水资源仅能支持特斯拉柏林超级工厂现有运营规模，而当地任何发展都将有导致水资源枯竭的风险。换句话说，特斯拉柏林工厂将耗尽当地的现有水资源供给。 当地时间周四，德国勃兰登堡州供水公司 Wasserverband Strausberg-Erkner（\n本文链接",
-          "link": "https://news.cnblogs.com/n/717084/",
-          "publishedOn": "2022-03-19T11:00:00.000Z",
-          "wordCount": 6,
-          "title": "德国供水公司称特斯拉柏林工厂将耗尽当地水资源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717083/",
-          "author": null,
-          "description": "近日，寒武纪有点儿动荡。 3 月 14 日晚，寒武纪官宣，公司核心技术人员梁军于 2022 年 2 月 10 日通知公司解除劳动合同。官宣次日，寒武纪股价暴跌超过 18%，上交所也对寒武纪下发监管工作函。 寒武纪关于核心技术人员离职的公告 外界更是对梁军放弃数百万股票离职一事充满好奇，甚至引发对于寒\n本文链接",
-          "link": "https://news.cnblogs.com/n/717083/",
-          "publishedOn": "2022-03-19T09:40:00.000Z",
-          "wordCount": 6,
-          "title": "寒武纪CTO梁军离职背后：技术与商业博弈间，大牛何去何从？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717082/",
-          "author": null,
-          "description": "3 月 19 日消息，SpaceX 于本周初将星际飞船原型 S20 与超级重型火箭助推器 B4 堆叠组装后，开始对整个星际飞船系统进行测试。 虽然 S20 与 B4 的合体不会升空，但这是 SpaceX 首次对完整的星际飞船系统进行测试。 合体后的星际飞船系统高约 119 米，是有史以来体积最大，也\n本文链接",
-          "link": "https://news.cnblogs.com/n/717082/",
-          "publishedOn": "2022-03-19T09:32:00.000Z",
-          "wordCount": 6,
-          "title": "SpaceX首次对星际飞船系统进行燃料加注测试",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717081/",
-          "author": null,
-          "description": "出品三言财经作者丰收 昨日晚间，纽诺教育创始人王荣辉发表名为《卖了 4 套房，创业 12 年，如今负债 1 亿，无家可归》的文章，其中的创业经历引发热议，文章更是在朋友圈刷屏。 文章开头，王荣辉这样介绍自己：“我，叫王荣辉。一个失败的创业者，一个负债累累的 Loser，一个被人唾骂卷款跑路的骗子。实\n本文链接",
-          "link": "https://news.cnblogs.com/n/717081/",
-          "publishedOn": "2022-03-19T09:28:00.000Z",
-          "wordCount": 6,
-          "title": "刷屏的女创业者值得同情吗？家长要求退款、前搭档称其挤走高管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717080/",
-          "author": null,
-          "description": "IT 之家 3 月 19 日消息，近日，微软必应搜索引擎的搜索建议功能再次暂时关闭 7 天。这是在微软必应搜索建议功能于去年 12 月暂时关闭的 3 个月以后，再次出现关闭的情况。 公告显示，“根据中国法律，必应中国已被相关政府机构要求在中国内地暂停搜索自动建议功能 7 天。必应是一个全球性的搜索平\n本文链接",
-          "link": "https://news.cnblogs.com/n/717080/",
-          "publishedOn": "2022-03-19T09:22:00.000Z",
-          "wordCount": 6,
-          "title": "微软 Bing 必应在中国内地“搜索建议”暂时关闭 7 天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717079/",
-          "author": null,
-          "description": "近日，多家国际科技巨头接连栽在了黑客手里。 近日，据日媒报道，全球主要汽车零部件供应商日本电装株式会社（Denso）疑似遭遇黑客攻击，超过 15.7 万份订购单、邮件和设计图纸等总共 1.4TB 的资料疑被泄露，并被黑客索要赎金。而就在 2 月底，另一家丰田供应商小岛冲压工业被黑客袭击，导致丰田汽车\n本文链接",
-          "link": "https://news.cnblogs.com/n/717079/",
-          "publishedOn": "2022-03-19T09:19:00.000Z",
-          "wordCount": 6,
-          "title": "什么情况？三大巨头遭黑客攻击，这家还被勒索！190GB机密文件泄露，并供外界下载，高通也躺枪…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717078/",
-          "author": null,
-          "description": "财联社 3 月 19 日电，SpaceX 称，搭载 53 颗“星链”卫星的猎鹰 9 号火箭发射升空，猎鹰 9 号一级火箭成功降落在海上火箭回收平台。 相关阅读： 12 手火箭达成：SpaceX 53 颗星链卫星搭载猎鹰 9 号发射成功 IT 之家 3 月 19 日消息，由于不利天气，SpaceX 星\n本文链接",
-          "link": "https://news.cnblogs.com/n/717078/",
-          "publishedOn": "2022-03-19T09:11:00.000Z",
-          "wordCount": 6,
-          "title": "12手火箭达成：SpaceX 53颗星链卫星搭载猎鹰9号发射成功",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717077/",
-          "author": null,
-          "description": "3 月 19 日，“几万人砍手机未成功”成为热门事件，拼多多对此回应，该消息不实，事件中博主并未邀请几万人实际参与砍价，且商品已砍价成功，目前已发货。 该事件主角是一名游戏主播“超级小桀”，当下引起热议的消息称，其 3 月 17 日直播中参与了拼多多的砍价免费领手机活动，邀请了几万名网友参与砍价，但\n本文链接",
-          "link": "https://news.cnblogs.com/n/717077/",
-          "publishedOn": "2022-03-19T09:07:00.000Z",
-          "wordCount": 6,
-          "title": "几万人砍价不成功？拼多多回应：砍价成功，商品已送达",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717076/",
-          "author": null,
-          "description": "据报道，百度第二轮减员正在进行。抖音网友 ID 小豹子在 3 月 16 日爆料称，其本人在 2014 年 2 月份加入百度，工作 8 年后被裁员。据爆料人小豹子称，早在去年 12 月，百度内部就有传言称团队将被裁撤。由于其团队超额完成工作业绩，小豹子本人并不相信部门将会被裁撤。 但令人意外的是，12\n本文链接",
-          "link": "https://news.cnblogs.com/n/717076/",
-          "publishedOn": "2022-03-19T09:00:00.000Z",
-          "wordCount": 6,
-          "title": "前员工爆料百度裁员：工作8年被裁 年终奖还没发",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717075/",
-          "author": null,
-          "description": "来源：e公司 “欧拉黑猫、白猫只是停止接单，不是停产，我们正在积极寻求解决方法”。日前，欧拉品牌 CEO 董玉东在接受证券时报·e公司记者采访时，透露了欧拉旗下两款热销车型暂停接单背后的原因。 董玉东透表示，以黑猫为例，在 2022 年原材料价格大幅上涨后，平均一辆车的亏损已超万元。这对于企业而言，\n本文链接",
-          "link": "https://news.cnblogs.com/n/717075/",
-          "publishedOn": "2022-03-19T08:58:55.000Z",
-          "wordCount": 6,
-          "title": "“卖一辆亏1万”！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717074/",
-          "author": null,
-          "description": "说到生物演化，很多人印象中这是一个缓慢、渐进的过程，可能需要以成千上百年为时间尺度才能理解生物如何通过遗传变异适应环境的变化。然而，顶尖学术期刊《科学》刚刚发表的一篇论文，也许会改变你对演化时间尺度的想法。 在这项新研究中，美国宾夕法尼亚大学的研究人员通过一项巧妙设计的田间实验，追踪果蝇在自然环境条\n本文链接",
-          "link": "https://news.cnblogs.com/n/717074/",
-          "publishedOn": "2022-03-19T08:58:42.000Z",
-          "wordCount": 6,
-          "title": "短短四个月，基因组60%变了！实验显示果蝇惊人的演化速度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717073/",
-          "author": null,
-          "description": "作者：噗少侠 最近几天，马斯克似乎又赢麻了。 趁油价大涨特斯拉加码加价，更不出意料地再次拿下了《2022 胡润全球富豪榜》头把交椅，马斯克身家折算成人民币，高达 1.29 万亿。 “极致的成功需要有极致的个性，他们的思维方式不同于常人，往往会被认为是与社会格格不入的怪胎。”这是马斯克前妻贾斯汀对他的\n本文链接",
-          "link": "https://news.cnblogs.com/n/717073/",
-          "publishedOn": "2022-03-19T07:00:00.000Z",
-          "wordCount": 6,
-          "title": "谁该为马斯克的“疯狂”负责？",
           "imageUrl": null
         }
       ]
