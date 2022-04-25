@@ -957,26 +957,6 @@
           "wordCount": 125,
           "title": "你真的需要这半台MacBook Pro么？看看我的踩坑实录！",
           "imageUrl": "https://cdn.sspai.com/2022/03/27/92139ee48fe5d65745633983225063d4.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/72309",
-          "author": "Seine_in_rain",
-          "description": "电脑是如何识别轮廓的？\n 我叫Mark，这是我的第0期科技专栏。今后我会为大家介绍数码、计算机、运筹学领域有趣的内容。\n\n\n\n\n\n\n3\n0\n\n\n\n\n\n扫码分享",
-          "link": "https://sspai.com/post/72309",
-          "publishedOn": "2022-03-26T09:53:40.000Z",
-          "wordCount": 57,
-          "title": "【科普】电脑是如何识别轮廓的？",
-          "imageUrl": "https://cdn.sspai.com/2022/03/26/dea7b500c6a6dfe11c349b6f98b76710.png"
-        },
-        {
-          "id": "https://sspai.com/post/72273",
-          "author": "KDF5000",
-          "description": "原文链接：如何使用飞书机器人打造一个私人Flomo?\n\n如Flomo官网所说 重要的不是记录，而是更好地思考 ，用何种方式记录并不重要，工具所起的作用只是帮助你更好地沉淀思考\n\n为什么用飞书机器人？\n\n飞书是自己仅次于微信的打开频次最高的应用，工作日甚至高于微信，相信使用飞书作为办公软件的小伙伴会深有体会\n飞书机器人的定制化程度很高，将飞书机器人作为与用户交互的入口可以实现很多丰富的功能\n太懒了，不想装新的App了\n\n效果\n\n飞书文档\n\nNotion Page\n\n准备工作\n字节的同学也可以直接联系我，使用在内部轻服务已经部署好的服务和机器人\n\n到飞书官网注册一个飞书企业账户或者加入一个团队/企业（个人账户目前飞书开放平台权限做了限制）\n（可选）注册一个Notion账户\n\n申请飞书机器人\n1. 前往飞书开放平台，登录飞书账号进入开发者后台并创建应用\n\n2. 创建成功后，进入到应用主页，在“凭证与基础信息”菜单栏可以看到飞书应用的App ID和App Secret信息，复制一份保留备用\n\n在应用页面的机器人菜单启用机器人，并配置消息卡片的请求网址，用于接受用户发送给机器人的消息。请求网址可以使用我在腾讯云部署的服务https://nomo.openhex.cn/api/v1/message/lark，也可以按照如何部署Nomo后台服务部署自己的后台服务\n\n3. 在权限管理面板开通机器人”获取与发送单聊、群组消息”、”获取用户在群组中@机器人消息的事件”以及“获取用户发给机器人的单聊消息”的权限。其中“获取与发送单聊、群组消息”需要创建版本并审核，可以点击”确认并前往创建应用版本”创建一个应用版本\n\n申请发布的时候机器人默认只有自己可见，如果有需要可以添加其他员工或者设置全员可见，不同可见范围审核标准不同，可以根据需要添加。申请发布后，应用平台管理员会收到审核通知，需要审核通过后…",
-          "link": "https://sspai.com/post/72273",
-          "publishedOn": "2022-03-26T02:55:39.000Z",
-          "wordCount": 112,
-          "title": "如何使用飞书机器人打造一个私人的 Flomo?",
-          "imageUrl": "https://cdn.sspai.com/2022/03/24/506882b6d1b1aa298d40ac1b5fb3b2e1.jpeg"
         }
       ]
     },
@@ -991,6 +971,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23199",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n Developer - 设计开发加速器\n“订阅优惠”的工程实践\n2022 年 4 月 21 日（报名截止 4 月 20 日）\n学习如何通过 StoreKit 技术的接入向您的用户提供自动续期订阅产品的推介促销优惠、促销优惠和优惠代码。允许新用户或现有用户在特定时限内免费获取或以折扣价购买自动续期订阅。\n加快您的测试过程\n2022 年 4 月 19 日（报名截止 4 月 18 日）\n探索如何进行自动化测试，进一步有效处理测试结果。改进您的测试套件以加快反馈循环，进而更快地得到修复。了解如何利用 Test Plan 测试计划、xcodebuild 命令行工具及相关 API 来消除永无止境和表现不佳的测试。我们将研究 XCTest 中的测试超时和执行时间余量，检查设备并行化，并详细介绍用于平衡性能和明确故障定位的推荐实践。\n\n新手推荐\n🐕 Design Patterns 的实战应用记录\n@老驴：2016年的时候最火的文章莫过于一些设计模式类的分享。当时各种 MVP，MVC 等等的讨论火爆整个移动开发圈。只不过这几年，很难再见到有这类的文章了。这篇文章是作者自荐，记录的是作者完成一个对其他第三方库的封装的过程。对于刚接触移动开发的同学，可以再学习一下设计模式和其中的思路。\n对于大家刚接触这类的同学们，还是想再强调下，天下没有最好的设计模式，只有最适合当前项目的设计模式。千万不要陷入为了模式而模式的陷阱中去，过度设计也不可取。\n推荐人：zhgchgli0718\n文章\n🌟 🐢 Lookin 原理及 5 个开发难点\n@Damonwong:Lookin 是一款可以查看与修改 iOS App 里的 UI 对…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23199",
+          "publishedOn": "2022-04-24T16:56:23.000Z",
+          "wordCount": 794,
+          "title": "老司机 iOS 周报 #199 | 2022-04-18",
+          "imageUrl": "https://opengraph.githubassets.com/d4b24ff7988cd5812468c67e4fda3c5568901716b832075c6d883357b584a2ed/SwiftOldDriver/iOS-Weekly/releases/tag/%23199"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23198",
           "author": null,
@@ -1034,6 +1024,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71344",
+          "author": null,
+          "description": "科学家报告，一名英国患者持续感染新冠长达 505 天。传染病专家 Luke Blagdon Snell 表示 505 天是至今被报告的持续时间最长的感染病例。他的团队调查了在超长感染的人身上会出现哪些突变，以及变体是否会进化。该研究涉及 9 名对新冠病毒检测呈阳性的病人，他们的持续感染时间至少为 8 周。所有这些人的免疫系统都因器官移植、艾滋病毒、癌症或其他疾病的治疗而被削弱。出于隐私原因，这些人的身份未被公布。反复检测显示，他们的感染平均持续了 73 天。其中两人的感染时间超过一年。研究人员介绍，此前经过 PCR 检测确认的最长的已知病例持续了 335 天。",
+          "link": "https://www.solidot.org/story?sid=71344",
+          "publishedOn": "2022-04-24T11:28:58.000Z",
+          "wordCount": 93,
+          "title": "英国患者持续感染新冠长达 505 天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71343",
+          "author": null,
+          "description": "安全公司 Mandiant 分析了 2021 年 0day 漏洞利用。0day 漏洞是指在发现时未修复或此前未知，因此在修复补丁释出前会有一个时间空挡，黑客可乘着空挡利用漏洞发动攻击。2021 年共发生了 80 起 0day 漏洞利用案例，比 2020 年和 2019 年之和还要多 18 起，其中中国黑客利用了 8 个，俄罗斯用了 2 个，朝鲜用了 1 个。最著名的案例是黑客组织 Hafnium 使用了微软 Microsoft Exchange 服务器的 4 个 0day 访问西方组织的电邮通信。勒索软件组织 HelloKitty 利用了 SonicWall SMA 100 VPN 的 1 个 0day。微软、苹果和 Google 软件的 0day 利用占到了所有攻击的四分之三。",
+          "link": "https://www.solidot.org/story?sid=71343",
+          "publishedOn": "2022-04-24T11:21:00.000Z",
+          "wordCount": 124,
+          "title": "2021 年 0day 漏洞利用分析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71342",
+          "author": null,
+          "description": "StockApps.com 的数据显示，虽然 Android 仍然是移动市场最流行的操作系统，但过去五年它的市场份额减少了近 8%。2018 年 7 月 Android 市场份额 77.32%，2022 年 1 月减少到 69.74%，下降 7.58%。相比之下，苹果 iOS 同期的份额从 19.4% 提高到 25.49% 增加 6% 的份额。剩余 1.58% 由其它操作系统获得。虽然市场份额出现下降，但这并不意味着 Android 的地位受到了威胁。",
+          "link": "https://www.solidot.org/story?sid=71342",
+          "publishedOn": "2022-04-24T10:15:36.000Z",
+          "wordCount": 102,
+          "title": "Android 市场份额五年减少 8%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71341",
+          "author": null,
+          "description": "美国政府启动一项 60 亿美元的举措，救援面临关闭风险的核电站，理由是需要继续将核能作为帮助应对气候变化的无碳能源。这是联邦为了拯救陷入财务困境的核反应堆最大的一笔投资。能源部长 Jennifer Granholm 在一份声明中表示：“核电站贡献了我们一半以上的无碳电力，拜登总统致力于让这些工厂保持运营，以实现我们的清洁能源目标。”“我们正使用所有可用工具让国家在 2035 年之前使用清洁能源电力，其中包括优先考虑我们现有的核设施，以便为领导这项重要工作的社区提供持续的无排放电力和经济稳定……”过去十年，美国有十几座商业核电反应堆在许可证到期之间关闭，主要是由于来自更便宜的天然气的竞争、低电价和成本上升导致的巨大运营亏损或者大修成本造成的。能源部称，这导致了地区排放量增加，空气质量下降，数千个高薪工作岗位流失，并对当地社区的经济造成打击。能源部表示，四分之一甚至更多的核电设施处于危险之中。七座目前正在运行的反应堆的所有者宣布计划在 2025 年之前让它们退役。行业协会核能协会表示，在各州介入拯救之前，过去十年中又有 20 座反应堆面临关闭。低电价是这一趋势的主要原因，不过 NEI 补充表示，联邦和各州促进风能和太阳能的政策也起到了一定作用。美国 28 个州有 55 座商业核电站和 93 座核反应堆。核电为美国提供了大约 20% 的电力，或者说这个国家无碳能源的大约一半。美国能源部负责核能的代理助理部长 Andrew Griffith 表示，如果反应堆在许可证到期之前就关闭，化石燃料厂可能会填补这些空白，排放量将会增加，这将是一个重大的倒退。Griffith 表示，虽然天然气可能很便宜，但是核能对电网的无碳贡献并没有得到认可，这导致核电站在财务上陷入困境。俄亥俄州的能源经济和金融分析研究所的 David Schlissel 表示，他希望联邦政府在分配这 60亿 美元之前，分析过了用这笔钱来提高可再生能源、电池存储和能源效率是否会更好，这些项目可以快速、廉价地取代化石燃料。",
+          "link": "https://www.solidot.org/story?sid=71341",
+          "publishedOn": "2022-04-24T08:31:23.000Z",
+          "wordCount": 105,
+          "title": "美国投资 60 亿美元拯救“陷入财务困境”的核反应堆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71340",
+          "author": null,
+          "description": "塑料包围了我们——无论是超市使用的购物袋，还是洗发水和洗涤剂等家居用品的瓶子。塑料不仅以大型物品的形式存在，还以其释放出来的微小颗粒的形式存在。这些微小的塑料最终会进入环境，它们也会被摄入人体内。现在美国国家标准与技术研究院（NIST）的研究人员分析了几种广泛使用的消费品，以更好地理解这些微塑料。他们发现，当塑料产品暴露在热水中时，会向每升水中释放出数万亿个纳米颗粒。NIST 的研究人员在科学期刊《环境科学与技术》上发表了他们的发现。NIST 的化学家 Christopher Zangmeister 表示：“关键在于我们看到不管哪里都有塑料颗粒。它们很多。每升数万亿个。我们不知道它们是否会对人或者动物的健康造成不良影响。我们只是高度确信它们在那里。”",
+          "link": "https://www.solidot.org/story?sid=71340",
+          "publishedOn": "2022-04-24T07:48:00.000Z",
+          "wordCount": 76,
+          "title": "日常塑料制品将数以万亿计的微小颗粒释放到水中",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71339",
+          "author": null,
+          "description": "神经科学家相信，在中风之后，镇静过度兴奋的神经元可能会阻止其释放一种有毒的分子，这种分子可以杀死因缺氧受损的神经元。这一观点得到了细胞和动物研究的支持，但在很多临床试验中，它未能改善中风患者的预后，因而 2000 年代初期“失宠”。但是新研究证明放弃这种想法也许太过仓促。根据发表在在线《大脑》期刊上的新发现。圣路易斯华盛顿大学医学院的研究人员扫描了近 6000 名中风患者的全基因组，确定了两个与中风后 24 小时内关键恢复相关的基因。第一天发生的情况——无论好坏——都让中风患者走上了长期康复的道路。事实证明，这两个基因都参与调节神经元的兴奋性，为受到过度刺激的神经元影响中风结果的看法提供了证据。\n研究员 Carlos Cruchaga 表示：“我们从没有神经元损伤机制的假设开始。”“我们首先假设一些遗传变异与中风恢复有关，但是我们没有去猜测是哪些变异。我们测试了每一个基因和遗传区域。因此，无偏见的分析产生了两个与兴奋性毒性相关的基因这一事实告诉我们，这一定很重要。”另一位研究员 Jin-Moo Lee 表示：“我们知道最初的 24 个小时对结果的影响最大。”“超过 24 小时之后，对长期恢复的影响就会逐渐减少。我们没有任何针对最初 24 个小时的神经保护剂。许多抗兴奋剂的原始研究都是同时进行的，那时我们还不确定最好的试验设计。在过去几十年里，我们学到了很多关于中风的知识。我认为是时候重新研究一下了。”",
+          "link": "https://www.solidot.org/story?sid=71339",
+          "publishedOn": "2022-04-24T07:36:51.000Z",
+          "wordCount": 90,
+          "title": "镇静过度兴奋的神经元可能会在中风后保护大脑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71338",
+          "author": null,
+          "description": "核电被认为是一种清洁能源，它的二氧化碳排放量为零；与此同时，随着世界各地建造的核反应堆越来越多，它们会产生大量有害的放射性废料，这些废料会堆积起来。为了更好地保护环境和人们的健康，专家针对这个问题提出了不同的解决方案。由于核废料处理的安全储存空间不足，这些想法的重点都是重新利用。放射性金刚石电池于 2016 年首次面世就立即受到好评，因为它们承诺了一种新的、具有成本效益的核废料回收方式。在这种情况下，对于它们是否能成为这些有毒、致命残留物的最终解决方案，人们不可避免地会非常慎重。放射性金刚石电池最初是由布里斯托大学卡博特环境研究所的一个物理学家和化学家团队开发，采用了一种贝塔伏特装置的形式，这意味着它由核废料的β衰变提供动力。β衰变是一种放射性衰变，当原子核具有过量粒子并释放其中一些粒子以获得更稳定的质子/中子比率时，就会发生这种衰变。这会产生一种被称为β辐射的电离辐射，涉及大量的高速高能电子或者正电子，它们被称为 β 粒子。",
+          "link": "https://www.solidot.org/story?sid=71338",
+          "publishedOn": "2022-04-24T07:17:01.000Z",
+          "wordCount": 75,
+          "title": "科学家将核废料变为可用千年的金刚石电池",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71337",
+          "author": null,
+          "description": "欧盟周六早晨批准了《Digital Services Act（DSA）》，加强对科技平台的监管。根据 DSA，科技平台如 Google 和 Meta 将需要更迅速的删除非法内容和商品，需要向用户和研究人员解释其算法如何工作，加大对虚假信息传播的限制。违反规定的企业将面临其最高年营业额 6 %的罚款。欧盟委员会主席 Ursula von der Leyen 在声明中称，平台的规模越大，责任越大。DSA 的完整文本尚未正式发布。",
+          "link": "https://www.solidot.org/story?sid=71337",
+          "publishedOn": "2022-04-24T07:08:01.000Z",
+          "wordCount": 94,
+          "title": "欧盟新监管法律要求 Google 和 Meta 等解释其算法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71336",
+          "author": null,
+          "description": "3D 动画 NFT 项目 AkuDreams 因合约代码错误导致投标者的 11539.5 枚 ETH 被永久锁定，无法退款。被锁定的加密货币价值 3420 万美元。智能合约代码存在两个 bug，其一是完成投标用户状态会设为 1，竞标失败后退款条件状态为 0，因此用户无法申请退款。而开发团队也无法取款，因为 refundProgress ≥ totalBids，totalBids 是卖出量，而代码应该针对是的报价人数——对应 bidIndex。Akutars 宣布将向通行证持有者发放 0.5 ETH 退款。",
+          "link": "https://www.solidot.org/story?sid=71336",
+          "publishedOn": "2022-04-24T06:56:13.000Z",
+          "wordCount": 102,
+          "title": "因合约代码错误 11539 枚 ETH 被永久锁定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71335",
+          "author": null,
+          "description": "如果 Twitter 拒绝特斯拉 CEO 马斯克（Elon Musk）的收购提议，在中期选举赢得众议院多数党席位之后，共和党考虑对此展开调查。众议院司法委员会的共和党众议员致函 Twitter 董事会主席 Bret Taylor 及其他成员，要求保留与考虑应对交易相关的官方账号或个人账号信息，包括通过加密软件交流的信息。18 名共和党众议员在信中表示，Twitter 应该将这一信息保存通知理解为一项指示，采取一切合理的措施防止破坏或改变，不管有意或无意，所有文档、通信和其它信息，包括电子数据和元数据。",
+          "link": "https://www.solidot.org/story?sid=71335",
+          "publishedOn": "2022-04-24T05:22:55.000Z",
+          "wordCount": 87,
+          "title": "共和党众议员要求 Twitter 董事会保存与马斯克收购交易相关的记录",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71334",
           "author": null,
@@ -3653,66 +3743,6 @@
           "wordCount": 82,
           "title": "FCC 将卡巴斯基列入国家安全名单",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71068",
-          "author": null,
-          "description": "英伟达研究院宣布了 Instant NeRF（Instant Neural Graphics Primitives），能在数秒内使用多幅 2D 照片转创建 3D 模型。源代码发布在 GitHub 上。根据 2D 照片创建 3D 场景的技术被称为逆向渲染（Inverse Rendering），传统方法需要数小时甚至更长时间，英伟达开发的 NeRF 能将这一过程在极短时间内完成。NeRF 训练一个小型神经网络，通过预测 3D 空间任意点向任意方向辐射的光线颜色重建场景。英伟达负责图形研究的副总裁 David Luebke 称，Instant NeRF 对 3D 的重要性不亚于数码相机和 JPEG 压缩对 2D 摄影的重要性。该公司利用这项新技术使用旧照片重建了著名的安迪·沃霍尔（Andy Warhol）拍摄快照的 3D 场景（YouTube）。",
-          "link": "https://www.solidot.org/story?sid=71068",
-          "publishedOn": "2022-03-26T10:41:52.000Z",
-          "wordCount": 114,
-          "title": "将 2D 照片转变为 3D 虚拟场景",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71067",
-          "author": null,
-          "description": "台湾威盛（VIA）与上海市政府的合资企业兆芯在 2019 年发布了基于“陆家嘴（LuJiaZui）”微架构的 KX-6000，频率 3.0GHz，性能比上一代 KX-5000 系列提升了 50%，达到了英特尔 i5-7400 的水平。KX-6000 采用 16 纳米工艺制造，为八核 x86-64 处理器。Linux 内核在当时加入了对兆芯陆家嘴的支持，但广泛使用的编译器 GNU Compiler Collection 一直未能正确识别陆家嘴处理器，而是将其错误识别为英特尔的 Core 2 或i386 CPU。本周五兆芯的开发者递交了补丁为 GCC 加入了对陆家嘴 CPU 的正式支持。兆芯目前在开发下一代的 KX-7000，采用台积电的 7 纳米工艺，原计划在 2021 年推出，但目前还没有新处理器的消息，可能因为新冠疫情或供应链问题而延期了。",
-          "link": "https://www.solidot.org/story?sid=71067",
-          "publishedOn": "2022-03-26T08:56:56.000Z",
-          "wordCount": 107,
-          "title": "GCC 终于能正式支持兆芯陆家嘴 CPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71066",
-          "author": null,
-          "description": "Humble 乌克兰慈善包义卖结束，共筹集到 1.31 亿元善款，创下了 Humble 慈善包的筹款记录。独立游戏平台 itch.io 的 Bundle for Ukraine 慈善包共筹集 637 万美元。Fanatical 网站的 Stand With Ukraine Charity Bundle 慈善包因限量只持续了 12 小时，筹集到 15.9 万美元。Epic Games 宣布将其热门游戏《堡垒之夜》在 3 月 20 日到 4 月 3 日之间的收入捐出，截至 3 月 25 日共筹集到 7000 万美元。",
-          "link": "https://www.solidot.org/story?sid=71066",
-          "publishedOn": "2022-03-26T03:18:46.000Z",
-          "wordCount": 117,
-          "title": "Humble 乌克兰慈善包共筹集到 1.31 亿元善款",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71065",
-          "author": null,
-          "description": "类似数字订阅服务，苹果准备推出硬件订阅方案，让用户以类似租赁的方式拥有 iPhone 和其它硬件产品。该项目仍然在开发之中，苹果还没有正式宣布。采用硬件订阅模式对一家通常全价出售产品的公司来说是一次巨大的战略转型，这有助于产生更多收入，让消费者更容易采用新设备。 iPhone 是苹果最大的收入来源，去年销售收入 1920 亿美元，占总收入的一半以上。硬件订阅与分期付款不同，消费者将允许在新产品推出之后更换到新产品。苹果通常每年更新一次产品线。硬件订阅有可能在 2022 年底或 2023 年推出，但也可能会被取消。",
-          "link": "https://www.solidot.org/story?sid=71065",
-          "publishedOn": "2022-03-25T14:24:58.000Z",
-          "wordCount": 81,
-          "title": "苹果准备推出硬件订阅方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71064",
-          "author": null,
-          "description": "匿名读者 写道 \"\n过去2年内，中国用“动态清零”的筛查、隔离等清根拔源政策，取得了每个本土局部新冠疫情的防控胜利。这一防控经验，也为其他传染病的防控提供了借鉴，特别是肺结核。《中华人民共和国传染病防治法》的修订草案正在征求意见。其中第四十五条规定，“对于病原学阳性肺结核患者在传染期内需进行规范隔离治疗并开展耐药性检查，对其密切接触者进行必要的筛查。开展耐多药肺结核的诊断和治疗的机构要具备相应的隔离和感染控制等条件。肺结核患者应当根据防控需要采取佩戴口罩等必要的防护措施，以避免传播他人。肺结核患者须持有指定的医疗机构出具的证明方能复工复学。”\"",
-          "link": "https://www.solidot.org/story?sid=71064",
-          "publishedOn": "2022-03-25T13:29:08.000Z",
-          "wordCount": 74,
-          "title": "中国或将启动肺结核隔离治疗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71063",
-          "author": null,
-          "description": "在忽视了平板电脑一段时间之后，Google 突然加大了对 Android 平板市场的投资。新版本的 Android 12L 改进了对大屏幕平板电脑的支持。Android 平板 CTO Rich Miner 解释说，比笔记本电脑更便宜的平板电脑有增长潜力。他列举 2020 年的销售数据，指出平板电脑的购买量已经接近笔记本电脑的出货量，他认为在不久的将来，两者将会抵达一个交叉点，平板电脑销量将超过笔记本电脑。而一旦超过这个点，平板将会永远将笔记本电脑甩在后面。他呼吁开发者利用 Google 的工具改进应用程序对平板电脑的支持，甚至将平板电脑作为首要考虑的目标。",
-          "link": "https://www.solidot.org/story?sid=71063",
-          "publishedOn": "2022-03-25T13:20:49.000Z",
-          "wordCount": 88,
-          "title": "Google 高管相信在不遥远的将来平板销量将超过笔记本电脑",
-          "imageUrl": null
         }
       ]
     },
@@ -3721,6 +3751,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/719493/",
+          "author": null,
+          "description": "4 月 25 日消息，在特斯拉首席执行官埃隆·马斯克(Elon Musk)提出新的 465 亿美元收购要约后，推特面临的股东压力越来越大，他们要求推特与马斯克就收购事宜展开谈判。据知情人士透露，双方已经同意于美国当地时间周日进行会面，这表明推特越来越有可能接受马斯克的收购。 股东 VS 董事会 外界\n本文链接",
+          "link": "https://news.cnblogs.com/n/719493/",
+          "publishedOn": "2022-04-25T00:55:00.000Z",
+          "wordCount": 6,
+          "title": "外媒：股东向推特施压 寻求与马斯克达成协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719492/",
+          "author": null,
+          "description": "辛选“售假”罗生门迎来戏剧性反转。 4 月 23 日晚间，此前公开质疑辛选主播“蛋蛋”售假的品牌方“YPL 运动潮品”在最新声明中转变态度，向辛选和辛巴道歉，称双方“已和解”，将这场“售假风波”转变成了“商标授权争议”。 红星资本局注意到，这场“售假”罗生门看似画上了句号，其实还留下不少疑问：卖了 \n本文链接",
+          "link": "https://news.cnblogs.com/n/719492/",
+          "publishedOn": "2022-04-25T00:47:00.000Z",
+          "wordCount": 6,
+          "title": "辛选事件罗生门悬疑：“洋品牌”先打假后道歉，消费者权益谁保障",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719491/",
+          "author": null,
+          "description": "据“抖音安全中心”微信公众号消息，为积极响应中央网信办“清朗·网络暴力专项治理行动”的相关要求，抖音将在以下几个方面开展重点治理： 一是建立健全识别预警机制，进一步细化网络暴力信息分类标准，强化行为识别和舆情发现，及时预警防范网络暴力苗头性、倾向性问题。 抖音针对施暴者的不良言论攻击和不友善行为，成\n本文链接",
+          "link": "https://news.cnblogs.com/n/719491/",
+          "publishedOn": "2022-04-25T00:40:00.000Z",
+          "wordCount": 6,
+          "title": "抖音宣布将优化私信功能规则：限制陌生人私信频次，强化涉网暴内容过滤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719490/",
+          "author": null,
+          "description": "据央视新闻消息，今天（4 月 24 日）是中国航天日，也是我国第一颗人造地球卫星“东方红一号”成功发射 52 周年纪念日。1970 年 4 月 24 日，我国首颗人造卫星“东方红一号”成功升空，一曲《东方红》响彻寰宇，宣告我国从此进入了太空时代。 近些年，随着功能不同的各类卫星和航天器数量不断增多，\n本文链接",
+          "link": "https://news.cnblogs.com/n/719490/",
+          "publishedOn": "2022-04-25T00:32:00.000Z",
+          "wordCount": 6,
+          "title": "我国将着手组建近地小行星防御系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719489/",
+          "author": null,
+          "description": "关注数码新闻的读者们应该不难发现，不知道是受到疫情影响，还是厂商不够用心的缘故，市面上新产品出现的问题正在变得越来越多。如果说软件上存在的问题，厂商们还能通过越来越频繁的 OTA 更新来修复的话，那么硬件上存在的问题，显然就没有这么容易解决了。 为了解决用户的后顾之忧，近些年来，部分厂商积极出台了针\n本文链接",
+          "link": "https://news.cnblogs.com/n/719489/",
+          "publishedOn": "2022-04-25T00:26:00.000Z",
+          "wordCount": 6,
+          "title": "苹果之后，小米成了“薅羊毛”的下一个受害者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719488/",
+          "author": null,
+          "description": "题图视觉中国 一天增长一千万粉丝，刘畊宏创造了全平台涨粉新纪录。 4 月 23 日晚，刘畊宏抖音粉丝突破四千万，就在两天前，他的粉丝刚突破两千万。不仅如此，他还走出了抖音直播间，几乎霸屏整个社交媒体，无论是欢快的抖音、微博、小红书，还是 Keep 这种严肃的运动健身平台，随意滑动几下，就会刷到刘畊宏\n本文链接",
+          "link": "https://news.cnblogs.com/n/719488/",
+          "publishedOn": "2022-04-25T00:20:10.000Z",
+          "wordCount": 6,
+          "title": "刘畊宏爆火背后，在线健身的蛋糕谁能吃到？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719487/",
+          "author": null,
+          "description": "IT 之家 4 月 24 日消息，据网信办官网消息，中央网信办部署开展“清朗・网络暴力专项治理行动”，就加强网络暴力治理进行专门部署，要求网站平台认真抓好集中整治，建立健全长效机制，确保治理工作取得扎实成效。 IT 之家曾报道，本次“清朗・网络暴力专项治理行动”主要聚焦网络暴力易发多发、社会影响力大\n本文链接",
+          "link": "https://news.cnblogs.com/n/719487/",
+          "publishedOn": "2022-04-25T00:19:10.000Z",
+          "wordCount": 6,
+          "title": "微博：将进一步完善网暴识别机制、加大言论攻击等行为的引导治理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719486/",
+          "author": null,
+          "description": "IT 之家 4 月 24 日消息，彭博社 Mark Gurman 在最新的文章中表示，苹果正在开发一款搭载 M3 芯片的 iMac 产品，最早明年年底发布。这可能意味着苹果会在 iMac 产品上跳过 M2 芯片。 Mark Gurman 表示，M2 芯片并不是苹果正在测试的唯一芯片，M3 芯片的 i\n本文链接",
+          "link": "https://news.cnblogs.com/n/719486/",
+          "publishedOn": "2022-04-25T00:17:00.000Z",
+          "wordCount": 6,
+          "title": "彭博社Gurman：搭载 M3 芯片的苹果 iMac 已在开发中",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719485/",
+          "author": null,
+          "description": "互联网行业裁员潮还在继续，游戏直播行业也同样动荡，近日游戏直播领域两家头部企业虎牙和斗鱼，相继传出大裁员的消息。 4 月 24 日，雷峰网消息，据 Tech 星球报道，虎牙近日进行了一轮整体大裁员，国际国内业务均有涉及。国际化业务受创最为严重，运营部门裁员比例高达 70%，导致出海产品 Nimo 运\n本文链接",
+          "link": "https://news.cnblogs.com/n/719485/",
+          "publishedOn": "2022-04-25T00:11:00.000Z",
+          "wordCount": 6,
+          "title": "虎牙斗鱼大规模裁员，谁将掌控游戏直播这盘棋？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719484/",
+          "author": null,
+          "description": "IT 之家 4 月 24 日消息，在面对 TED 的采访中，埃隆・马斯克表示，他的脑机接口初创公司 Neuralink 有望在十年内解决大脑和脊柱的损伤问题。马斯克指出，该公司的技术甚至可以解决病态肥胖等健康问题。 专家们则表示，虽然这一想法有些牵强而且尚未经科学证实，但使用大脑植入物来治疗病态肥胖\n本文链接",
+          "link": "https://news.cnblogs.com/n/719484/",
+          "publishedOn": "2022-04-25T00:07:00.000Z",
+          "wordCount": 6,
+          "title": "马斯克称 Neuralink 可以解决病态肥胖问题，专家表示认可",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719483/",
+          "author": null,
+          "description": "近日，浙江天猫技术有限公司、淘宝（中国）软件有限公司发生工商变更，董事长/总经理更新为淘宝天猫业务负责人戴珊；财务董事更新为李发光。此外，阿里巴巴网络科技有限公司财务董事已经由武卫更新为徐宏。 天眼查信息显示，4 月 21 日，浙江天猫技术有限公司、淘宝（中国）软件有限公司发生工商变更，张勇退出二者\n本文链接",
+          "link": "https://news.cnblogs.com/n/719483/",
+          "publishedOn": "2022-04-25T00:00:00.000Z",
+          "wordCount": 6,
+          "title": "张勇退出天猫、淘宝公司法定代表人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719482/",
+          "author": null,
+          "description": "鱼羊发自凹非寺 量子位公众号 QbitAI 据清华大学消息，著名计算机专家李三立院士因病医治无效，于 4 月 23 日在京去世，享年 87 岁。 李三立是中国工程院院士、清华大学计算机科学与技术系教授，曾任清华大学计算机研究所所长，兼任上海大学计算机学院院长。 作为微机体系结构、局部网络、RISC \n本文链接",
+          "link": "https://news.cnblogs.com/n/719482/",
+          "publishedOn": "2022-04-24T22:32:00.000Z",
+          "wordCount": 6,
+          "title": "李三立院士逝世：中国计算机体系结构先驱，监制2台超算登TOP500",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719481/",
+          "author": null,
+          "description": "文路世明 编辑大风 来源：锌财经 近期，国内车企的日子过得有些糟糕，不少车企深陷“停产危机”。 根据报道，3 月 28 日，特斯拉暂停上海工厂的生产；4 月 1 日，上汽大众上海工厂停产；4 月 9 日，蔚来汽车发布公告称整车生产已经暂停；4 月 13 日晚，长城汽车旗下坦克 300 车型于 4 月\n本文链接",
+          "link": "https://news.cnblogs.com/n/719481/",
+          "publishedOn": "2022-04-24T13:38:12.000Z",
+          "wordCount": 6,
+          "title": "上海车企熬过“停产期”，还需面临“复工难”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719480/",
+          "author": null,
+          "description": "欢迎关注“新浪科技”的微信订阅号：techsina 花钱太多，成果太少。 作者 James 编辑 晓寒 来源：车东西 丰田似乎成了自动驾驶时代最焦虑的企业。 如今，自动驾驶几乎一天一迭代，全球市值第二高、销量第一的丰田集团，自然也少不了在自动驾驶领域的布局。 近些年，丰田在自动驾驶领域的公开投资并购\n本文链接",
+          "link": "https://news.cnblogs.com/n/719480/",
+          "publishedOn": "2022-04-24T12:36:00.000Z",
+          "wordCount": 6,
+          "title": "搞自动驾驶，丰田太焦虑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719479/",
+          "author": null,
+          "description": "作者黎明 编辑艾小佳 来源：深途 从 2013 年启动无人车研发开始，百度交过很多个“朋友”。 比如宝马，2015 年百度在北京五环路测试的那辆无人车，就是宝马 3 系 GT；再比如长城， 2017 年百度开放 Apollo 平台，长城是加入的第一批 OEM 厂商；还有北汽，去年百度推出 Robot\n本文链接",
+          "link": "https://news.cnblogs.com/n/719479/",
+          "publishedOn": "2022-04-24T12:24:00.000Z",
+          "wordCount": 6,
+          "title": "“瓜分”传统车企，百度准备好了吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719478/",
+          "author": null,
+          "description": "这是一个不太隐秘，却又不够热闹的角落。 作者｜柠檬 编辑｜月见 来源：新熵 这届年轻人，在直播间玩得越来越野。 自修勾夜店走红后，60 万只小狗一起蹦迪的故事席卷整个直播界，如今弹幕互动游戏也如雨后春笋，迅速走进“多样化”阶段。 在B站直播区，甚至能够在单机游戏的分栏中找到弹幕互动游戏分区，里面的游\n本文链接",
+          "link": "https://news.cnblogs.com/n/719478/",
+          "publishedOn": "2022-04-24T12:12:00.000Z",
+          "wordCount": 6,
+          "title": "我在B站直播弹幕互动游戏，月入20万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719477/",
+          "author": null,
+          "description": "图片来源@视觉中国 文创业最前线，作者李小反，编辑蛋总 如今，在疫情影响和就业压力渐增所带来的焦虑氛围里，越来越多的年轻人试图用副业来缓解这一情绪，并从中寻找一种安全感。 有人把副业做得风生水起，一年收入 20 来万，是主业的 2 倍多，这带给他们极大的安全感。“睡觉更踏实，也敢花钱了。”一位卖电子\n本文链接",
+          "link": "https://news.cnblogs.com/n/719477/",
+          "publishedOn": "2022-04-24T12:00:00.000Z",
+          "wordCount": 6,
+          "title": "被“副业焦虑”支配的年轻人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719476/",
+          "author": null,
+          "description": "文/金磊 、萧箫 来源/量子位 （ID：QbitAI） 59 岁“山寨机教母”荣秀丽，收获了她人生的第一个 IPO——唯捷创芯，成功登陆科创板，最新市值为 191.96 亿元。至此，在中国芯片的大版图中，天津有了它的名字。 而随着这条消息的曝光，“荣秀丽”这个名字，也再次步入大众的视线。 毕竟在中国\n本文链接",
+          "link": "https://news.cnblogs.com/n/719476/",
+          "publishedOn": "2022-04-24T11:29:36.000Z",
+          "wordCount": 6,
+          "title": "59岁“山寨机教母”，在天津造出市值191亿芯片公司，曾出走拖拉机研究所成就传奇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719475/",
+          "author": null,
+          "description": "文允中 来源：智能车参考 里程碑节点来了，真正的挑战也开始了。 盆友们，当你打车开始有得选： 人类老司机 or AI 虚拟司机，pick 哪一个？ 以前可能没得选，要么 Robotaxi（自动驾驶出租）有专门固定的运营区域，要么同场竞技里条件也有倾斜。 但从今天起，AI 司机和人类老司机，终于同工同\n本文链接",
+          "link": "https://news.cnblogs.com/n/719475/",
+          "publishedOn": "2022-04-24T11:11:00.000Z",
+          "wordCount": 6,
+          "title": "小马智行搞出Robotaxi商业化新突破：同工同酬同场竞技",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/719474/",
+          "author": null,
+          "description": "从老生常谈的安全漏洞，到滋生出的种种乱象 撰文/黎炫岐 编辑/孟会缘 来源：锌刻度 嘀嗒出行最近有些活跃。 一边是，在碳中和成为热点话题的当下，嘀嗒出行以“新出行之路”的符号，也蹭上了前者的热度，宣称要“让小作为，有大作为，让爱车，变身‘顺风零碳小车’，让顺路接单，实现随手碳中和。” 另一边则是，据\n本文链接",
+          "link": "https://news.cnblogs.com/n/719474/",
+          "publishedOn": "2022-04-24T10:50:00.000Z",
+          "wordCount": 6,
+          "title": "嘀嗒出行，“疯狂”的顺风车还能“行”多远？",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/719413/",
           "author": null,
@@ -9270,356 +9500,6 @@
           "wordCount": 6,
           "title": "蔚来财报里的两张大饼",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717576/",
-          "author": null,
-          "description": "欢迎关注“新浪科技”的微信订阅号：techsina 文/周雄飞 来源/连线出行（ID：lianxianchuxing） 埃隆·马斯克又一次跳起了舞。 近日，特斯拉在德国柏林的超级工厂（Giga Berlin）中举办了一场隆重的开工仪式，来庆祝这一工厂的落地。作为其 CEO 的马斯克激动地在现场跳起了\n本文链接",
-          "link": "https://news.cnblogs.com/n/717576/",
-          "publishedOn": "2022-03-26T13:11:00.000Z",
-          "wordCount": 6,
-          "title": "欧洲工厂落地，特斯拉要做欧洲汽车市场的“鲨鱼”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717575/",
-          "author": null,
-          "description": "图片来源@视觉中国 原文来源 ETF Stream，原文标题 Web 3: The future of internet，文章翻译 Chaindder Web 3 被誉为是当今互联网时代的第三次革命，其核心理念是打造去中心化的互联网基础设施和技术，与此同时又能保护个人隐私。实际上，这一理念的诞生可以\n本文链接",
-          "link": "https://news.cnblogs.com/n/717575/",
-          "publishedOn": "2022-03-26T13:00:00.000Z",
-          "wordCount": 6,
-          "title": "Web 3：互联网世界的未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717574/",
-          "author": null,
-          "description": "新京报贝壳财经讯（记者宋美璐）近日，为减少网络暴力，豆瓣上线了预防网暴的“应急防护模式”（iOS 版本 7.25 及 web 端均已上线，安卓版即将上线）。 该新功能的上线，意在当用户受到陌生人的恶意骚扰、或在短时间内面对大量的言论攻击、或感到自身隐私安全遭遇严重威胁时，可以通过平台提供的应急防护模\n本文链接",
-          "link": "https://news.cnblogs.com/n/717574/",
-          "publishedOn": "2022-03-26T12:48:00.000Z",
-          "wordCount": 6,
-          "title": "豆瓣上线“应急防护模式”：防止网络暴力，最长防护时间14天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717573/",
-          "author": null,
-          "description": "撰文 / 陈畅 编辑 / 杨洁 李佳琦在微信小程序上支起了新的生意“摊子”。近日，不少人发现，李佳琦直播间的官方小程序“所有女生会员服务中心”（以下简称为“所有女生”小程序）推出了一个“精选好物”功能。用户点开其中的商品链接，可以直接跳转到京东平台小程序，以及兰蔻、阿玛尼等品牌小程序中。 众所周知，\n本文链接",
-          "link": "https://news.cnblogs.com/n/717573/",
-          "publishedOn": "2022-03-26T12:43:00.000Z",
-          "wordCount": 6,
-          "title": "布局微信小程序，“淘宝一哥”李佳琦，也要“淘跑”了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717572/",
-          "author": null,
-          "description": "财联社新消费日报（记者李丹昱）讯，2022 年开年，就有三家社区团购接连倒下。 橙心优选逐渐退出市场后，京东旗下的京喜拼拼开始收缩业务甚至彻底退出，日前十荟团也被曝退出湖南市场，失去最后一个阵地。 日前，京喜拼拼广东供应商陶英对新消费日报记者表示，其采购通知将退出市场，合作中止，随后该名采购也被裁员\n本文链接",
-          "link": "https://news.cnblogs.com/n/717572/",
-          "publishedOn": "2022-03-26T12:38:00.000Z",
-          "wordCount": 6,
-          "title": "巨头收缩、供应商被瓜分 社区团购遇“寒冬” 一线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717571/",
-          "author": null,
-          "description": "不能胜任工作，公司能否随便开除员工？ 3 月 26 日，红星资本局从北京法院审判信息网上获悉，根据北京市第一中级人民法院披露的一起案件来看，北京小米移动软件有限公司以上述理由将员工辞退，被法院认为“违法解除”。此次判决为该案件的二审，即终审。 公开信息显示，北京小米移动软件有限公司成立 2012 年\n本文链接",
-          "link": "https://news.cnblogs.com/n/717571/",
-          "publishedOn": "2022-03-26T12:33:00.000Z",
-          "wordCount": 6,
-          "title": "小米辞退“不能胜任工作”员工，被认定为违法解除，终审败诉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717570/",
-          "author": null,
-          "description": "就在刘强东一家在三亚度假期间，后院接连传来裁员的消息。 京东京喜——社区团购大撤退：全国仅留三省一市，其他区域全部不要了。 京东物流——大裁员，此前宣布大量校招，现在看，其实都是掩盖“换血”的障眼法。 京东零售——各部门平均裁员 20%，技术中台等核心部门也都有涉及。 京东国际、工业、健康……全部都\n本文链接",
-          "link": "https://news.cnblogs.com/n/717570/",
-          "publishedOn": "2022-03-26T12:28:00.000Z",
-          "wordCount": 6,
-          "title": "京东大裁员下，离职窗口的现场图",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717569/",
-          "author": null,
-          "description": "3 月 25 日晚，美的集团（000333）发布公告称，公司全资子公司将以 80.77 欧元/股全面收购库卡，合计收购总价款为 1.5 亿欧元。 2021 年 11 月 24 日，美的集团公告称拟通过全资子公司全面收购公司控股的德国法兰克福交易所上市公司 KUKA Aktiengesellschaf\n本文链接",
-          "link": "https://news.cnblogs.com/n/717569/",
-          "publishedOn": "2022-03-26T12:22:00.000Z",
-          "wordCount": 6,
-          "title": "美的拟1.5亿欧元收购库卡剩余股权并完成私有化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717568/",
-          "author": null,
-          "description": "3 月 26 日消息，据知情人士透露，索尼集团正准备最早于下周为 PlayStation 推出新的视频游戏订阅服务。 这项服务代号为 Spartacus，索尼已经开发了很长时间，以此与微软 Xbox Game Pass 展开竞争。Xbox Game Pass 已经积累了超过 2500 万用户。 知情\n本文链接",
-          "link": "https://news.cnblogs.com/n/717568/",
-          "publishedOn": "2022-03-26T12:22:00.000Z",
-          "wordCount": 6,
-          "title": "传索尼最早下周推出PS游戏订阅服务 对决微软XGP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717567/",
-          "author": null,
-          "description": "新智元报道 编辑：时光袁榭 【新智元导读】当科学家致力于新冠研究时，Science 却发现，他们饱受社交网络的严重骚扰！ 从 2020 年 3 月起，当新冠成为世界上最大的新闻事件时，相关研究人员一夜之间成为家喻户晓的名字。 但，许多研究人员也成为新的极端骚扰、恐吓和威胁的目标。 最近，Scienc\n本文链接",
-          "link": "https://news.cnblogs.com/n/717567/",
-          "publishedOn": "2022-03-26T12:17:00.000Z",
-          "wordCount": 6,
-          "title": "Science调查近万名新冠研究者：38%回复称被网络骚扰，18%受死亡威胁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717566/",
-          "author": null,
-          "description": "IT 之家 3 月 25 日消息，据 Apple Insider 报道，2001 年 3 月 24 日，苹果公司推出了 Mac OS X 的第一个官方公开版本。它一开始并不成功，但为 Mac 提供了支持，一直坚持了 19 年，直到被 macOS Big Sur 替代。 OS X 刚推出时带有救世主色\n本文链接",
-          "link": "https://news.cnblogs.com/n/717566/",
-          "publishedOn": "2022-03-26T12:11:00.000Z",
-          "wordCount": 6,
-          "title": "乔布斯领导下的杰作，苹果“革命性”Mac OS X 系统的发展史",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717565/",
-          "author": null,
-          "description": "三言财经 3 月 25 日消息，近日，有不少网友在社交平台上爆料称有赞裁员，并且裁员比例疑似达到 70%。 有网友晒出了有赞裁员后，办公桌上摆满了电脑和还有一大箱工牌，据称是被裁员工留下的。 一位认证为有赞科技员工的网友称，公司裁员 2000 多人，而且自己也在其列。 目前，有赞尚未回应此事。\n本文链接",
-          "link": "https://news.cnblogs.com/n/717565/",
-          "publishedOn": "2022-03-26T12:07:00.000Z",
-          "wordCount": 6,
-          "title": "有赞被曝裁员，比例疑似达70%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717564/",
-          "author": null,
-          "description": "IT 之家 3 月 25 日消息，今天稍早前分析师 Ross Young 和郭明錤曝光了苹果 15 英寸 MacBook 笔记本，称其可能不叫 MacBook Air ，将于 2023 年第四季度量产。 今晚，分析师 Ross Young 又放出了新款 MacBook Air 的详细尺寸信息： 20\n本文链接",
-          "link": "https://news.cnblogs.com/n/717564/",
-          "publishedOn": "2022-03-26T12:00:00.000Z",
-          "wordCount": 6,
-          "title": "苹果 2022 款 MacBook Air 最新爆料：屏幕尺寸增加到 13.6 英寸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717563/",
-          "author": null,
-          "description": "IT 之家 3 月 26 日消息，“互联互通”迎来新进展，IT 之家小伙伴发现淘宝 App 下单后已经可以选择微信支付的付款方式，不过有点麻烦。 从下图可以看到，在订单提交界面，你可以通过淘宝给出的二维码进行微信支付，但很可惜不支持自动跳转，所以你还需要自己截图并手动打开微信扫码才能实现。值得一提的\n本文链接",
-          "link": "https://news.cnblogs.com/n/717563/",
-          "publishedOn": "2022-03-26T08:20:00.000Z",
-          "wordCount": 6,
-          "title": "腾讯阿里“互联互通”最新进展：淘宝内测微信支付，支持截图跳转",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717562/",
-          "author": null,
-          "description": "财联社（上海，编辑赵昊）讯，当地时间周五（3 月 25 日），美国联邦通信委员会（FCC）将卡巴斯基、中国电信和中国移动列入“对美国国家安全构成威胁的通信设备和服务”的清单。 FCC 依据 2019 年颁布的旨在保护美国通信网络安全的法律，进入清单的公司被认定对美国国家通信安全构成威胁。去年 6 月\n本文链接",
-          "link": "https://news.cnblogs.com/n/717562/",
-          "publishedOn": "2022-03-26T08:10:00.000Z",
-          "wordCount": 6,
-          "title": "不择手段封堵中企！ 美FCC将中国电信和中国移动列入“安全风险清单”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717561/",
-          "author": null,
-          "description": "近日，一架波音飞机在中国发生了严重的意外事故。虽然发生意外的原因还未完全调查清楚，但中国市场对波音飞机的信心是直线下降，东方航空公司也停飞了所有的波音 737 机型。这给波音飞机带来了巨大的损失。 而且，波音的对手空客近日连连释放好消息，波音公司的心情更加沉重。这时，市场却传来了一个更糟的消息。据英\n本文链接",
-          "link": "https://news.cnblogs.com/n/717561/",
-          "publishedOn": "2022-03-26T08:00:00.000Z",
-          "wordCount": 6,
-          "title": "波音又迎一坏消息，美国FAA警告：737MAX10认证年底前或无法通过",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717560/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者云鹏 编辑心缘 当有一天，你被告知全国的麦当劳、肯德基和星巴克都会关门，或许以后都吃不到了，是什么感觉？ 这听起来有些魔幻，但这就是实实在在发生在俄罗斯的事情，俄罗斯普通消费者都将面对这样无奈的现实。从俄乌冲突开始至 3 月 15 日，已经有超过 380 家公\n本文链接",
-          "link": "https://news.cnblogs.com/n/717560/",
-          "publishedOn": "2022-03-26T07:49:00.000Z",
-          "wordCount": 6,
-          "title": "俄乌激战30天：中国手机巨头躺枪还是躺赢？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717559/",
-          "author": null,
-          "description": "到了网络时代的今天，智能手机和电脑，已经成为了很多人办公娱乐的标配。 尤其是电脑，它既是生产力工具，还能提供刷剧、打游戏等娱乐方式，一举两得。 不过，和智能手机的发展速度一比，电脑在很多方面可以说就落后很多了。 不光配置升级挤牙膏，很多历史问题一拖再拖，硬是拖成了好几代人的青春回忆。 比如前些日子，\n本文链接",
-          "link": "https://news.cnblogs.com/n/717559/",
-          "publishedOn": "2022-03-26T07:41:00.000Z",
-          "wordCount": 6,
-          "title": "为了卸载360，日本网友发帖求救中国人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717558/",
-          "author": null,
-          "description": "3 月 25 日晚间，商汤集团股份有限公司（下称“商汤”）公布 2021 年度业绩公告，此份报告为上市后首份财报。 公告显示，2021 年，商汤营收 47 亿元，同比增长 36.4%；非国际财务报告准则下，经调整净亏损 14.18 亿元，同比扩大 61.5%。 商汤是一家人工智能软件公司，业务涵盖智\n本文链接",
-          "link": "https://news.cnblogs.com/n/717558/",
-          "publishedOn": "2022-03-26T07:32:00.000Z",
-          "wordCount": 6,
-          "title": "2000亿AI龙头发布上市后首份财报，年净亏损14亿元，同比扩大60%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717557/",
-          "author": null,
-          "description": "3 月 25 日，美团发布 2021 年第四季度及全年业绩。美团 2021 年四季度营收达到约 495 亿元，同比增长 31.6%。经调整后净亏损额约 39 亿元，与去年同期相比亏损扩大了 174%。2021 年全年营收 1791 亿元，同比增长 56%。经调整后亏损为 156 亿元，上年同期则是盈\n本文链接",
-          "link": "https://news.cnblogs.com/n/717557/",
-          "publishedOn": "2022-03-26T07:28:00.000Z",
-          "wordCount": 6,
-          "title": "美团去年营收1791亿增56%，骑手成本占外卖收入超7成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717549/",
-          "author": null,
-          "description": "一直以来，关于买油车还是电车的抉择一直存在： 上班通勤，该买油车还是电车？家里第一辆车，该买油车还是电车？考虑置换，该换油车还是电车？ 基于使用场景和心理价位承受能力、保值率等多方面因素，加上对购车成本和使用成本的接受程度不同，买油车还是电车，多年来一直是一个让人纠结的话题。 最近两周，几乎每天都有\n本文链接",
-          "link": "https://news.cnblogs.com/n/717549/",
-          "publishedOn": "2022-03-26T00:40:00.000Z",
-          "wordCount": 6,
-          "title": "电车涨价了，别急，油车也会跟着涨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717548/",
-          "author": null,
-          "description": "最近老家疫情反复，确诊病例的行程又成为了家庭群每日讨论的主要话题。在 3 月 13 日陕西宝鸡的新增病例中，有两位 14 岁少男少女的行程引起了大家的注意：他们在同一时间出入了同一家酒店。 后来，关于他们两个的轨迹有了更多文字和图片爆料，似乎实锤了「未成年情侣开房导致阳性」这一情况，但两天后，微博@\n本文链接",
-          "link": "https://news.cnblogs.com/n/717548/",
-          "publishedOn": "2022-03-26T00:33:00.000Z",
-          "wordCount": 6,
-          "title": "好烦，网上到处是谣言",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717547/",
-          "author": null,
-          "description": "3 月 24 日，Insta360 推出了 Insta360 ONE R 的更新款—— Insta360ONE RS。 准确来说，应该是给 ONE R 系统推出了一款新机身和新镜头。 新推出的 ONE RS 沿用前一代的模块化系统，相同的接口设计让它兼容下了之前推出的绝大部分产品。面对只想升级机身的\n本文链接",
-          "link": "https://news.cnblogs.com/n/717547/",
-          "publishedOn": "2022-03-26T00:26:00.000Z",
-          "wordCount": 6,
-          "title": "Insta360 ONE RS 轻体验：相机优化升级，还加了一个能拍 6K 的新镜头",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717546/",
-          "author": null,
-          "description": "偶像剧里，男女主人公中总会有一个童年悲惨。或许是年幼时被父母遗忘在了黑暗的电梯里，也可能是因为家里过于有钱遭到绑匪惦记，小小年纪就被一个人关在工厂的小房间孤立无援。这一切悲惨的后果就是——主人公患上了黑暗恐惧症、幽闭恐惧症，只有灯光才是缓解紧张的良药。 对于这样的男女主角来说，电梯必须是照明的，睡觉\n本文链接",
-          "link": "https://news.cnblogs.com/n/717546/",
-          "publishedOn": "2022-03-26T00:20:00.000Z",
-          "wordCount": 6,
-          "title": "开灯睡觉对身体不好，是真的咩？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717545/",
-          "author": null,
-          "description": "▲ 次条封面 想起设计师的时候，你的脑中是呈现出怎样的形象？是拿着压感笔在数位板上涂画，还是一手敲着快捷键，一手握着鼠标快速点击？ 从手指作画到用画笔，再到今天的用鼠标、数位板、键盘搞创作，创作这个工作似乎在技术层面日益丰富和复杂，但设计者和作品却没有变得更亲近。如果设计工具与设计者的交互更加直观自\n本文链接",
-          "link": "https://news.cnblogs.com/n/717545/",
-          "publishedOn": "2022-03-26T00:13:00.000Z",
-          "wordCount": 6,
-          "title": "多点触摸就能做设计？这个在线工具让你轻松自制 Logo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717544/",
-          "author": null,
-          "description": "提起新能源轿车，比亚迪一定是一个绕不开的品牌。 在乘联会公布的 2022 年 2 月新能源轿车销量排行榜中，比亚迪成功占据了前五名中的三位：比亚迪秦、比亚迪汉，以及比亚迪海豚。 倘若把这三辆车放在一起，最惹人注目的一定是比亚迪汉这辆中大型轿车——车身低矮，线条流畅，最重要的是它够宽、够大。 和芝士牛\n本文链接",
-          "link": "https://news.cnblogs.com/n/717544/",
-          "publishedOn": "2022-03-26T00:06:00.000Z",
-          "wordCount": 6,
-          "title": "汉 DM-p，是比亚迪冲击高端轿车的开端",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717543/",
-          "author": null,
-          "description": "刘慈欣的短篇小说《白垩纪往事》里，恐龙和蚂蚁这两种体型相差巨大的动物，关系的设定十分有趣：体型庞大的恐龙无法完成精密的操作，但对于小巧的蚂蚁来说却轻而易举。 对于人类来说，也总是在借助其他生物与生俱来的能力弥补自己的不足。比如我们会利用狗出色的嗅觉来检测易燃易爆物、毒品等危险物品，有的狗在经过训练后\n本文链接",
-          "link": "https://news.cnblogs.com/n/717543/",
-          "publishedOn": "2022-03-26T00:00:00.000Z",
-          "wordCount": 6,
-          "title": "芯片蠕虫，闻「香」识肺癌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717541/",
-          "author": null,
-          "description": "文/万喆 编辑/胡展嘉 来源：零态 LT（ID：LingTai_LT） 华为要放弃智能汽车了？ 距离推出最新款华为智选汽车不过月余，近日有消息称大众汽车集团拟以数十亿欧元的价格收购华为自动驾驶团队。截至发稿前，大众中国与华为方面都没有回应。但就实际情况而言，所谓收购最多是人才引进，若要将华为自动驾驶\n本文链接",
-          "link": "https://news.cnblogs.com/n/717541/",
-          "publishedOn": "2022-03-25T15:48:50.000Z",
-          "wordCount": 6,
-          "title": "华为隐形“造车”局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717542/",
-          "author": null,
-          "description": "图片来源@视觉中国 3 月 23 日，华住集团发布了 2021 年第四季度及全年财报。财报显示，2021 年全年华住集团营收达 128 亿，同比增长 25.41%，净亏损 4.65 亿元，同比亏损减少 78.79%。去年四季度华住集团营收 33.5 亿元，同比增长 9.08%；净亏损 4.59 亿元\n本文链接",
-          "link": "https://news.cnblogs.com/n/717542/",
-          "publishedOn": "2022-03-25T15:00:00.000Z",
-          "wordCount": 6,
-          "title": "华住亏损收窄背后：资产负债率超80%，业绩受DH拖累明显 | 看财报",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717540/",
-          "author": null,
-          "description": "首先是一只鸟从半空掉下来。 然后是一群鸟齐刷刷垂直掉下来，一场密集又无形的屠杀从天而降。 ▲ 图片来自：Foto- Cortesía Seguridad Pública 此时初春降临，暖意袭来，鸟儿们刚迁徙回归。它们兴致盎然穿过曼哈顿市中心，望到前方白云飘浮，树影摇曳，便全速冲锋，没想到一切都是\n本文链接",
-          "link": "https://news.cnblogs.com/n/717540/",
-          "publishedOn": "2022-03-25T14:55:00.000Z",
-          "wordCount": 6,
-          "title": "停止制造「致命建筑」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717539/",
-          "author": null,
-          "description": "看过《星球大战》的衍生剧《曼达洛人》番外《波巴·费特之书》《The Book of Boba Fett》的朋友，不知道对这个画面有没有印象？ 剧中出现的这款机器人，其实是来自 Boston Dynamics（波士顿动力）公司的机器狗「Spot」，只不过在剧中它换了个「马甲」，身上的涂装不是标志性的黄\n本文链接",
-          "link": "https://news.cnblogs.com/n/717539/",
-          "publishedOn": "2022-03-25T14:44:00.000Z",
-          "wordCount": 6,
-          "title": "打破《黑镜》，机器狗变成消防员拯救生命",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717538/",
-          "author": null,
-          "description": "每天醒来，我们都会看到许许多多新文章，而真正有用的内容可能只占据内容中的一小部分。 转存每篇文章显然没有必要，只复制粘贴相关内容但忽略上下文的话，你很快就会忘记当初为什么有此感悟。那么，有没有折衷办法呢？ 当然有！今天我们要介绍的网页标注服务——Hypothesis，就是当前场景下非常好用的工具。它\n本文链接",
-          "link": "https://news.cnblogs.com/n/717538/",
-          "publishedOn": "2022-03-25T14:33:00.000Z",
-          "wordCount": 6,
-          "title": "免费标注也能「万物互联」，你可以取消 Instapaper 的订阅了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717537/",
-          "author": null,
-          "description": "上一代 iPhone SE 发布时，我身边的小屏旗舰爱好者朋友们，没有一位真金白银地花钱下单，反而是 iPhone 12 mini 发布后有好几位首发购入。 哪怕 iPhone 12 mini 续航不太好，屏幕比较小，显示内容相对更少，甚至因为频繁出差要再购入一款手机交替使用，都阻碍不了他们。 你摸\n本文链接",
-          "link": "https://news.cnblogs.com/n/717537/",
-          "publishedOn": "2022-03-25T14:22:00.000Z",
-          "wordCount": 6,
-          "title": "别再期待刘海屏 iPhone SE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717536/",
-          "author": null,
-          "description": "如果用 6 个字来形容最近的手机圈，那一定是「驯骁龙，待天玑」。如今，首批搭载天玑 9000 的手机已经渐次来到我们面前，而 Redmi K50 Pro 就是其中之一。 ▲ 以下简称 K50 Pro 绕不开的天玑 9000，性能确实够旗舰 作为一个每天一局《王者荣耀》的佛系玩家，我对全新一代骁龙 8\n本文链接",
-          "link": "https://news.cnblogs.com/n/717536/",
-          "publishedOn": "2022-03-25T14:11:00.000Z",
-          "wordCount": 6,
-          "title": "K50 Pro 焊上了一扇门，天玑 9000 打开了一扇门",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/717535/",
-          "author": null,
-          "description": "人类的发展史上，一直都离不开「采矿」这项活动，一个又一个矿山中蕴藏着人们需要的资源。然而，在时间已经进入到二十一世纪的今天，我们对这个古老行业的依赖仍不减。虽然采矿业的技术也在不断地提高，但依旧危险。 2018 年由 Andrew Job 在澳大利亚布成立的一家技术公司 Plotlogic，开发了一\n本文链接",
-          "link": "https://news.cnblogs.com/n/717535/",
-          "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": 6,
-          "title": "不一样的「眼」，用高光谱成像精准采矿",
-          "imageUrl": null
         }
       ]
     },
@@ -9628,6 +9508,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23199",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n Developer - 设计开发加速器\n“订阅优惠”的工程实践\n2022 年 4 月 21 日（报名截止 4 月 20 日）\n学习如何通过 StoreKit 技术的接入向您的用户提供自动续期订阅产品的推介促销优惠、促销优惠和优惠代码。允许新用户或现有用户在特定时限内免费获取或以折扣价购买自动续期订阅。\n加快您的测试过程\n2022 年 4 月 19 日（报名截止 4 月 18 日）\n探索如何进行自动化测试，进一步有效处理测试结果。改进您的测试套件以加快反馈循环，进而更快地得到修复。了解如何利用 Test Plan 测试计划、xcodebuild 命令行工具及相关 API 来消除永无止境和表现不佳的测试。我们将研究 XCTest 中的测试超时和执行时间余量，检查设备并行化，并详细介绍用于平衡性能和明确故障定位的推荐实践。\n\n新手推荐\n🐕 Design Patterns 的实战应用记录\n@老驴：2016年的时候最火的文章莫过于一些设计模式类的分享。当时各种 MVP，MVC 等等的讨论火爆整个移动开发圈。只不过这几年，很难再见到有这类的文章了。这篇文章是作者自荐，记录的是作者完成一个对其他第三方库的封装的过程。对于刚接触移动开发的同学，可以再学习一下设计模式和其中的思路。\n对于大家刚接触这类的同学们，还是想再强调下，天下没有最好的设计模式，只有最适合当前项目的设计模式。千万不要陷入为了模式而模式的陷阱中去，过度设计也不可取。\n推荐人：zhgchgli0718\n文章\n🌟 🐢 Lookin 原理及 5 个开发难点\n@Damonwong:Lookin 是一款可以查看与修改 iOS App 里的 UI 对…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23199",
+          "publishedOn": "2022-04-24T16:56:23.000Z",
+          "wordCount": 794,
+          "title": "老司机 iOS 周报 #199 | 2022-04-18",
+          "imageUrl": "https://opengraph.githubassets.com/d4b24ff7988cd5812468c67e4fda3c5568901716b832075c6d883357b584a2ed/SwiftOldDriver/iOS-Weekly/releases/tag/%23199"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23198",
           "author": null,
