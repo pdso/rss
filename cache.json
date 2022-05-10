@@ -80,6 +80,36 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/73095",
+          "author": "katejate",
+          "description": "你还能回想起，上一次偶遇一本好书，是在多久之前吗？\n虽然当下行动受限，但没有什么能拘束思想的自由。无法漫游银河系，不妨漫游图书馆。\n让我带你重拾散漫与随意的阅读生活，兴起而读，兴尽而归。\n前言\n「长文预警，可选择性跳过。」\n我们正在逐渐丧失「挑选」的能力。\n在信息爆炸的时代，面对海量的信息，我们常常不知所措：打开手机，铺天盖地的信息奔涌而来，大字号标题、生动而富有冲击力的图片、令人怒发冲冠或想入非非的报道内容……煽情新闻从小型报（tabloid）转移到了赛博空间，藉由电子媒介撒播、弥散，而我们可怜的大脑还停留在「邓巴数」1时代，对于瞬息万变的信息世界无所适从。每一条信息看起来都那么重要，每时每刻都有新的信息，以有限的注意力，对付无限的信息，令我们陷入了难以取舍的处境。\n然而与此同时，内卷的时代，又催生了对效率的追求，阅读逐渐被纳入功利的体系，人与书籍的关系也逐渐从「此中有真意，欲辨已忘言」的精神享受，变成了「写 800 字读后感明天交」的思想检讨。\n阅读被赋予了额外的要求，即「读完必有感悟，而且是可以用文字表达的感悟」。属于心灵的隐秘而玄妙的感受，被外力强行要求「落实到纸面上」物化为书面文字，颇有些禅宗从「不立文字」到「不离文字」的变革——但请注意，并非每次阅读都能了悟禅机、有偈语可作，更何况是八百字的长篇大论。\n漫游偶遇的好书之一，推荐文字禅和宋诗感兴趣的朋友去看，不是广告\n单纯阅读的快乐被视为低效、浪费，你可以为了获取知识而看书，你可以为了思考而看书，但你不能不带目的、散漫而随机地去看书。于是，书单推荐成为热门话题，「干货十足」的工具书经久畅销，图书馆的书架鲜有人问津，书桌上的考研考公资料却堆积如山……\n我们如同一个精明的商人，将阅读当成一桩小本生意，小心翼翼沿着前人探索的「最优路线」，按照安排，将分配好的精力和时间投入回报率最高的书籍当中，毕竟「书中自有颜如玉，书中自…",
+          "link": "https://sspai.com/post/73095",
+          "publishedOn": "2022-05-09T02:41:03.000Z",
+          "wordCount": 63,
+          "title": "图书馆漫游指南：阅读的本色，是散漫与随意",
+          "imageUrl": "https://cdn.sspai.com/2022/05/08/8ec03898cfa21710e2d979bf34af7f00.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/73061",
+          "author": "互联网小白",
+          "description": "用了 5 年的 Lastpass，但随着网站密码的增加，遇到的 bug 也越来越多。有次误操作，合并了 Lastpass 密码库，丢失了一大批密码，对云端密码库的信任度直接降为零。\n之后，尝试了 1Password、Bitwarden、Enpass、Remembear 多种密码管理软件，最终选择开源免费且自动填充超强的 KeePass。\nKeePass 的密码保存在本地的.kdbx数据库中，让你真正掌握自己的账号密码。搭配坚果云或同步盘的 KeePass，能实现密码多端同步，让手机与电脑使用同一密码库。\nKeePass 官网下载：https://keepass.info/download.html\n安卓客户端推荐Keepass2Android。\nKeePass 懒人包\n懒人包下载：https://wwz.lanzouf.com/i1NUV04e398j\nKeePass 懒人包为绿色版，集成了常用插件，建立数据库即可使用 KeePass。\n建立数据库：\n\n解压懒人包，打开程序KeePass.exe。\n屏幕右下角托盘处，打开 KeePass。\n依次点击菜单栏 - 文件 - 新建，建立属于你的密码数据库。\nKeePass 懒人包设置\n以下为 KeePass 的具体配置介绍，初阶用户可忽略，直接使用懒人包。\n推荐设置\n选项设置：\n依次点击菜单栏 -「工具」-「选项」\n\n外观 - 主窗口，勾选「最小化到系统托盘（而不是任务栏）」；\n外观 - 主窗口，勾选「关闭按钮 [X] 最小化主窗口，而不是退出程序」；\n集成 - 全局热键，全局自动输入：Ctrl+Alt+A；\n集成 - 全局热键，全局自动输入（仅密码）：Ctrl+Alt+Shift+A。\n\n自动输入规则：\n选中左侧的数据库，右键点击「编辑群组」-「自动输入」，替换默认规则为^{SPACE}{DELAY 100}{CLEARFIEL…",
+          "link": "https://sspai.com/post/73061",
+          "publishedOn": "2022-05-09T02:14:11.000Z",
+          "wordCount": 185,
+          "title": "抛弃 Lastpass，拥抱 KeePass-免费开源的绿色密码管理软件",
+          "imageUrl": "https://cdn.sspai.com/2022/05/06/600d225d51ae4b4ae4ac843b236ce343.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/73088",
+          "author": "胡鹤仙",
+          "description": "最近，我建立的中文博客圈微信群里掀起了一股笔记软件讨论风。或者说这个话题一直没有断过，不断有人安利新的笔记软件，咨询使用方法，前段时间我在日记里简单写了我对于笔记软件的用途，今天趁此机会聊聊我对于选择笔记软件的看法。\n\n“好记性不如烂笔头”，我觉得这是大部分人选择记笔记的主要原因之一，人的记忆力是有限的，脑海中能容纳的东西有限，记笔记就成了我们开发第二个大脑的方式。从最原始的手写笔记，到现在各种笔记软件层出不穷，各具特色，极大地丰富了我们对记笔记的理解和使用，但这或许也会让我们陷入选择的困境。可供我们选择的太多太多了，经常会有人问：我应该用哪一款笔记软件。在我看来，从自身需求出发，选择自己合适的笔记软件，即先了解自己为什么要记笔记。\n以下皆为我个人看法，仅供参考。\nNotion\n首先，最客观的原因，记忆力有限，需要用别的方式接收和存储我们获得的信息。在我生活和学习的许多方面，都需要记笔记。\n我看书时有一个习惯：划线精彩的句子、段落，随手写下自己的评论与想法，看完整本之后，偶尔会写写对这本书的感想。在过去，很多时候写完、划线完，这本书就搁置在一旁，很少再去翻阅，甚至时间久了，自己写过什么内容都忘了，为了改变这种情况，我用 Notion 建立了一个个人书库。Notion 拓展性很强，有想法有能力，就可以把 database 和 block 玩出各种各样的花样。All in one，功能丰富并且强大，正因如此，我也还在学习使用。\n将每一本看过的书的作者、阅读时间、阅读平台等信息在 Notion 中进行标记，并且将划线的精彩句子段落和感想、评论同步，日后随便点开一本书，能轻松回忆起有关这本书的内容。对于看过的电影，也可以进行类似的操作。\n\nflomo\n现在获取信息的方式多种多样，主动获取也好，被动获取也罢，我们总会接收到对自己有用的信息和内容，比如我们认同的某个人的观点或理念，或是…",
+          "link": "https://sspai.com/post/73088",
+          "publishedOn": "2022-05-08T00:44:22.000Z",
+          "wordCount": 141,
+          "title": "从个人需求角度出发，聊聊我对于笔记软件选择的看法",
+          "imageUrl": "https://cdn.sspai.com/2022/05/08/e846ce9188b3bada419cd63888781b41.jpg"
+        },
+        {
           "id": "https://sspai.com/post/73058",
           "author": "不爱吃鱼的蓝鲸",
           "description": "首发于少数派，公众号：蓝鲸先生的储物间 分享更多干货\n\n写在前面\n如果说到全平台最常见的阅读文件格式，那么非pdf格式莫属了。\n随着电子产品的普及，pdf已经逐渐变为我们电子阅读的主流。\n\n不管是文献需要还是书籍查阅，又或是分享一份不会乱码的文件，pdf这种格式的简洁一致性深得广泛的好评。\n而对于pdf的阅读和修改，其实也是有很多非常好用的工具，并不只是局限于浏览器打开。\n这次我就从阅读到修改，推荐一些好用但鲜为人知的pdf优质工具，覆盖你的pdf全要求。\n\n关于阅读\n浏览器自带\n可能有很多小伙伴现在还依旧使用着浏览器自带的pdf阅读功能，其实体验还是不错的，也有较快的反应速度。\n并且也会显示目录，带有一些标记功能。\n\n浏览器更适合用来看一些篇幅较小的pdf文件，如果是书籍之类的还是比较建议使用第三方软件，可以更易于管理多个文件。\nsumatra pdf\n如果你对要阅读的文档没有太高的要求，也不需要标注或者记录，那么可以试试 这款只有7M大小的极简pdf阅读器sumatra pdf。\n\n界面非常朴实，加载大文件速度也很快，同时也可以查找pdf中的内容。\n小小的身躯就满足了大部分阅读pdf的基本要求，可以说是阅读pdf的不二之选了。\nDrawboard pdf\n当然，如果没有了标注和记录，就少了阅读pdf的灵魂。\nDrawboard pdf在这方面从不让人失望。这是一款老牌的windows阅读应用，拥有非常丰富的批注功能。\n\n直接在win10商店搜索就可以安装。\n这款软件的精髓在于使用笔进行批注时体验极佳，堪比ipad上的当家笔记应用，手写体验非常好。\n而且工具的全面程度应该首屈一指了。\n\n由于以前只有windows版本，所以想要更好的批注体验需要有手写笔触控屏之类的工具。\n现在这款软件也已上架ios，需要沉浸式阅读体验的小伙伴可以尝试一下。\nPDF Reader by Xo…",
@@ -1018,16 +1048,6 @@
           "wordCount": 74,
           "title": "医学生「小天地」——寝室学习/摸鱼环境搭建",
           "imageUrl": "https://cdn.sspai.com/2022/04/10/5b82e77c4f288fb4005ce1700a22a806.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/72578",
-          "author": "柯帕Kepa",
-          "description": "经原视频作者 ABMedia 授权，本文由 Learn PowerShell 系列教程翻译整理而来。为尽量保证行文流畅和正式，在不改变作者原意的情况下，文字版做了一些删改修饰。引用样式文字皆为译者注，文中部分配图为译者根据原作者语境添设。\n \n上一节中，我们对 PowerShell 以及其工作方式有了初步的印象，我们会在此基础上继续探索，学习一些新的概念。\n在进入正题前顺便一提，我希望你能在看文章的间隙，自己尝试玩一玩 PowerShell 及其命令。因为看完了第一节，理论上讲你已经有足够的能力去自己探索了。此外再多说一句，在看这一集的时候，要是你觉得这篇文章中的一些东西很酷，那么请记住，和 PowerShell 真正能做到的相比，我们目前探索的还只是皮毛。随着我们学得更深，会有更 cool 的东西出现。所以，点个关注，不要错过更精彩的部分。\n好了，收收心，我们正式开始这一章的学习。\n别名\n那么，我们开头还以文件为例。当你在使用 PowerShell 的时候，角括号后面的这个路径就是目前所在的目录，当前目录会影响许多命令，这些命令常常和文件相关。目前我在 Test 目录中，如果我运行 「ls」，我们可以看到这个文件夹里的所有东西，这里有一个 「Inner」文件夹：\n\n如果我想进入此目录，可以使用一个叫做 「Set-Location」 的命令，它能设置我们当前所处的目录，只要告诉它我们要进入哪个文件夹即可\n\n很明显，每次你想要改变当前位置时，都要写 「Set-Location」，很麻烦。这就是为什么 PowerShell 有一个叫做 「别名」 的东西。一个别名基本上就是一个命令的简单的写法。实际上我们已经用了不少别名：例如，「Where」这个命令实际上并不是一条命令，而是一个别名，全称是：「Where-Object」；「ls 」，它也不是一个命令，它实际上是「Get-Chil…",
-          "link": "https://sspai.com/post/72578",
-          "publishedOn": "2022-04-10T09:43:16.000Z",
-          "wordCount": 402,
-          "title": "PowerShell 教程 №2：命令，参数，别名和内部架构",
-          "imageUrl": "https://cdn.sspai.com/2022/04/10/48ab69c2bb2307f0bb4a7b90de989b85.jpg"
         }
       ]
     },
@@ -1042,6 +1062,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23201",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\n阐明 App Store 改善流程的标准和新的限期延长\n过去几年，苹果为了保证贯彻在安全和隐私方面的最新改革，陆续下架了 280 万个 App。同时还强调了，在过去三年内从未更新且未达到最低下载量 (即该 App 在连续 12 个月内完全没有或只有极低的下载量) 时，其开发者将会收到电子邮件，告知该 App 已被识别并可能从 App Store 中被移除。具体细节请参照：App Store 改善的支持页面\nSSWG 2021 Annual Update\nSwift 服务端工作组发布了 2021 年的工作总结：\nSwift Concurrency：社区的各个 HTTP 框架的客户端现在都已经添加了 async/await 接口\n工具链：\n\n发布了 RPM/Deb 包\n发布了 Swift for VSCode 插件\n发布了 Setup Swift 的 GitHub Action\n加强了对于 ARM Linux 的支持\n文档：工作组为旗下的项目补充了大量的文档\n生态：\n\nSwiftMetrics，gRPC Swift 项目完成了孵化\nSwiftStatsdClient，SwiftPrometheus，MongoSwift，Swift Service Lifecycle，Soto for AWS 陆续进入孵化阶段\n以及 2022 年的目标：\n继续扩大生态圈\n继续加强 Concurrency 的支持\n拓展工具链\n缩短编译构建时间\n提升 Swift 服务端的使用率\n Developer - 设计开发加速器\n电商购物类 App 专场：为你的电商购物 App 提升体验\n2022 年 5 月 10 日至 11…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23201",
+          "publishedOn": "2022-05-09T03:52:20.000Z",
+          "wordCount": 692,
+          "title": "老司机 iOS 周报 #201 | 2022-05.09",
+          "imageUrl": "https://opengraph.githubassets.com/7aebc220f265d331aa8b855afcefcd2e3600d4b9ee7b45e4a9e4a03eb0a0fbb7/SwiftOldDriver/iOS-Weekly/releases/tag/%23201"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23200",
           "author": null,
@@ -1085,6 +1115,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71471",
+          "author": null,
+          "description": "中国人民大学、南京大学、兰州大学等多所高校据报道宣布退出国际大学排名，中国人民大学的一位知情人士表示，中国的知识体系已发展了数千年，是世界上最悠久、最丰富、最深厚的知识体系，创新性发展中华文化传统，创建中国自主的知识体系，维护中国教育主权和文化主权，“中国人民大学等高校退出所谓的‘国际大学排名’，反映了中国大学、中国教育、中国文化的自主性和勇气”。",
+          "link": "https://www.solidot.org/story?sid=71471",
+          "publishedOn": "2022-05-09T09:25:51.000Z",
+          "wordCount": 71,
+          "title": "多所高校退出国际大学排名",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71470",
+          "author": null,
+          "description": "出生于卢旺达在苏格兰长大的演员 Ncuti Gatwa 成为英国科幻剧《神秘博士》的第十四任时间领主，他将接替第十三任时间领主、女演员 Jodie Whittaker。29 岁的 Ncuti Gatwa 此前最知名的角色是在 Netflix 电视剧《性爱自修室》中扮演 Eric Effiong，获得了英国电影电视艺术学院的喜剧类电视最佳男演员奖。《神秘博士》的制作人 Russell T Davies 表示 Gatwa 的试镜给他留下了深刻印象。Gatwa 将在 2023 年以时间领主身份首次亮相。",
+          "link": "https://www.solidot.org/story?sid=71470",
+          "publishedOn": "2022-05-09T09:13:46.000Z",
+          "wordCount": 97,
+          "title": "Ncuti Gatwa 成为第十四任神秘博士",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71469",
+          "author": null,
+          "description": "2009 年 10 月 9 日，一枚重达 2 吨的火箭以每小时 9000 公里的速度撞向月球。它在尘埃中爆炸，将月球表面的温度提高到数百度，它坠入卡比厄斯陨石坑，数十亿年来第一次让这个黑漆漆的陨石坑中短暂地充满了光。这次撞击并非偶然。NASA 的月球陨石坑观测和传感卫星（LCROSS）任务的目标是了解撞击会在月球的阴影中激起什么。一枚航天器尾随该火箭飞过飘起的尘埃，并对其进行采样，NASA 月球勘测轨道器（Lunar Reconnaissance Orbiter）则从远处进行观察。实验的结果令人震惊：科学家检测到 155 公斤的水蒸气混在飘起的尘埃中。他们首次在月球上发现了水。LCROSS 首席研究员、NASA 埃姆斯研究中心的 Anthony Colaprete 表示：“确凿无疑。”\n\n\n月球并不是一个显而易见的水库。亚利桑那州立大学的行星科学家 Mark Robinson 表示：“如果你停下来想想，就会觉得真的很奇怪。”它缺乏会导致任何水分几乎立刻蒸发的大气和极端温度。在大约 25 年前，航天器开始在月球两极附近探测到了氢的特征，这暗示着水可能会以冰的形式被困在那里。LCROSS 证明了这一理论。科学家现在认为月球上的水冰不只有一星半点。那里有 6 万亿公斤的水冰。\n\n\n这些冰绝大部分位于月球两极的特殊区域，这些区域被称为永久阴影区（PSR）。由于月球轨道的几何形状，阳光永远无法到达卡比厄斯这样的陨石坑。德国普朗克（Max Planck）太阳系研究所的行星科学家 Valentin Bickel 表示，“它们处于永久的黑暗中。”PSR 引起了科学家的极大兴趣。它内部的温度可能会降至 170 摄氏度以下。马里兰州约翰霍普金斯大学应用物理实验室的行星科学家 Parvathy Prem 表示，“一些 PSR 比冥王星表面更冷。”这意味着在 PSR，月球表面之上或之下的冰不一定会融化；相反它可能在那里存在了数十亿年。研究这些冰的化学成分应该可以揭示它是如何到月球的，进而揭示地球上水的起源，或者实际上是任何恒星周围的任何岩石世界的起源。它也可能成为未来人类在月球上活动的资源。",
+          "link": "https://www.solidot.org/story?sid=71469",
+          "publishedOn": "2022-05-09T08:02:23.000Z",
+          "wordCount": 114,
+          "title": "月球永久阴影的秘密即将大白天下",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71468",
+          "author": null,
+          "description": "俄罗斯最受欢迎的 10 个 VPN 应用的日下载量从战前的不到 1.5 万次飙升至 3 月的 47.5 万次。分析公司 Apptopia 依靠应用程序、公共数据和算法得出估值，《华盛顿邮报》汇编该公司的数据显示，到上周为止，下载量以日均近 30 万次的速度增长。俄罗斯的客户通常会下载多个VPN，数据表明每月新增用户多达数百万。据塔斯社报道，4 月初，俄罗斯电信运营商 Yota 报告称，VPN 用户数量是 1 月的 50 多倍。\n\n\n法律诉讼相关的互联网内容档案数据库 Lumen 的数据显示，在战前和战后的几周内，俄罗斯当局加大了对 Google 的施压，要求删除数千个与 VPN 相关的互联网站点。Google 仍然在搜索结果中包含被禁止的网站，不过该公司并没有回应置评请求。尽管从技术上来说，下载 VPN 很容易，通常只需要点击几下，但是在俄罗斯购买付费 VPN 变得很麻烦，因为西方的制裁使得俄罗斯的信用卡和借记卡在该国之外几乎毫无用处。这迫使很多人求助于免费 VPN，它们的服务水平参差不齐，而且会售卖有关用户的信息。Surfshark 是一家立陶宛 VPN 公司，首席执行官 Vytautas Kaziukonis 发现俄罗斯的用户在 3 月份增长了 20 倍——其中一些用户正在使用加密货币或者通过他们在第三国认识的人付款。",
+          "link": "https://www.solidot.org/story?sid=71468",
+          "publishedOn": "2022-05-09T07:47:28.000Z",
+          "wordCount": 143,
+          "title": "数百万俄罗斯人使用 VPN “撕破数字铁幕”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71467",
+          "author": null,
+          "description": "COVID-19 疫情期间，员工监控软件成为一种新常态，这些软件记录按键和鼠标移动、捕获屏幕截图、跟踪位置，甚至会激活网络摄像头和麦克风。现在工人似乎被困住了。针对白领行业雇主的调查显示，即使返回办公室的员工也将受到此类新监控工具的影响。对很多澳大利亚的工作场所来说，疫情危机期间作为封锁和在家工作的短期补救措施引入的做法悄然成为‘新常态’。数以千计的员工甚至购买了鼠标晃动软件，只是为了欺骗监控软件。还有更大的问题吗？BuzzFeed 的前资深文化作者 Anne Helen Petersen 认为，“绝大多数人获得的报酬不足以支撑对他们的生产力要求。”在审视了技术不断升级的需求之后，Peterse n警告称，真正的问题是人类的生产力终究是有上限的。“我们必须集体拒绝无休止的增长推动，以及对无限生产力的渴望，以免它击垮我们所有人。”",
+          "link": "https://www.solidot.org/story?sid=71467",
+          "publishedOn": "2022-05-09T07:33:11.000Z",
+          "wordCount": 78,
+          "title": "疫情是否会使员工监控软件常态化？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71466",
+          "author": null,
+          "description": "为了攻击肿瘤，科学家正研发可注射到患者血液中的磁导微小弹丸。 由谢菲尔德大学的研究人员领导的项目建立在两大关键医学领域的进展之上。第一个涉及专门攻击肿瘤的病毒。在感染溶瘤病毒后，癌细胞会破裂并死亡。美国食品和药物管理局已批准使用 T-Vec，这是一种经过改良的简单疱疹病毒，可感染并杀死肿瘤细胞，现在被用于治疗患有某些类型黑色素瘤（一种皮肤癌）的患者。不幸的是，这些病毒很快就会受到人体免疫系统的攻击。因此科学家希望用磁性粒子包裹病毒，以便用磁铁（在患者体外）快速地将这些病毒引导至需要它们的地方。为实现这一目标，他们正使用一种土壤细菌，我们知道这种细菌可制造出与地球自身磁场一致的磁体。项目的一位负责人向《卫报》解释道，“这种方法的本质很简单。”“我们使用虫子作为药物……我们发现细菌在制造它们方面比我们做得更好。”在开发出这项技术后，谢菲尔德大学团队正努力确保能生产出足够的供应量，以便很快开展人体临床试验。迄今为止，实验主要是在动物模型上进行。“早期的测试非常令人鼓舞，我们现在需要采取下一步措施，让这些技术进入可以应用于人类的状态——希望在几年之后。”",
+          "link": "https://www.solidot.org/story?sid=71466",
+          "publishedOn": "2022-05-09T07:21:03.000Z",
+          "wordCount": 73,
+          "title": "科学家尝试用土壤细菌生成的磁体包裹抗肿瘤病毒制成注射液",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71465",
+          "author": null,
+          "description": "床单应该多长时间换洗一次？英国调查显示大部分单身男子每 4 个月或更长时间才换洗一次床单，单身女子则大部分 2 个星期换洗一次床单。心理学家 Lindsay Browning 博士认为，应该每周换洗一次，或者最多每 2 周一次。她解释说，原因之一是出汗。汗水不但可以打湿床单令其味道难闻，同时也让床单不透气。睡觉时需要气流流动才能感觉凉爽，才能达到最佳睡眠效果。另一个原因是脱落的皮肤细胞，死皮细胞会在床单上越积越多。这些堆积的死皮细胞还会为尘螨提供食物，导致皮肤不适以及起皮疹。这意味着，你不但睡在恶心的汗液和死皮细胞中，而且还在与尘螨为伍。",
+          "link": "https://www.solidot.org/story?sid=71465",
+          "publishedOn": "2022-05-09T07:06:10.000Z",
+          "wordCount": 80,
+          "title": "专家建议每周换一次床单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71464",
+          "author": null,
+          "description": "比特币币值在 40 天前是 47,454 美元，今天是 33,489 美元。比特币、以太坊等主流加密货币过去几天纷纷下跌，加密货币市场数天内蒸发两千亿美元，比特币现在的价格比去年 11 月创下的最高价格 67802.30 美元下跌了 50%。比特币和加密货币市场的价格波动剧烈。在过去多年里，该市场被散户投资者控制，但对冲基金和资金管理公司等机构投资者已经开始主导这一市场。随着越来越多的专业投资者交易加密货币，该市场的走势日益与传统市场趋同。许多购买加密货币的机构投资者将其视为类似于科技股的风险资产。在市场剧烈动荡时期，投资者倾向于撤退到市场中更安全的领域。",
+          "link": "https://www.solidot.org/story?sid=71464",
+          "publishedOn": "2022-05-09T06:51:40.000Z",
+          "wordCount": 86,
+          "title": "加密货币市场蒸发两千亿美元，比特币跌至 3.4 万美元以内",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71463",
+          "author": null,
+          "description": "没多少游戏能像《Eve Online》那样会因为整合微软的电子表格程序而迎来玩家们的欢呼。《Eve Online》开发商 CCP 宣布与微软合作创建一个 JavaScript API，允许玩家将《Eve Online》中的数据导出到电子表格程序 Microsoft Excel，利用电子表格计算从利润率到战争策略的各项任务。《Eve Online》是一款非常受欢迎的太空多人游戏，至今已有近二十年历史，它有太空电子表格模拟器的外号，原因是游戏中的高级玩法涉及到大量的数据计算，玩家事实上需要使用 Excel 等外部程序去跟踪数据。集成 Excel 可以大大简化数据访问，让游戏变得更公平让玩家更轻松。",
+          "link": "https://www.solidot.org/story?sid=71463",
+          "publishedOn": "2022-05-08T15:25:35.000Z",
+          "wordCount": 87,
+          "title": "《Eve Online》整合微软电子表格",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71462",
           "author": null,
@@ -3644,56 +3764,6 @@
           "wordCount": 86,
           "title": "太阳黑子活动超过预期",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71200",
-          "author": null,
-          "description": "OpenAI 的文本生成神经网络 GPT-3 被认为能产生以假乱真的文章，那么搜索引擎应该如何对待它生成的内容？\nGoogle 表示 AI 工具自动生成内容将被视为垃圾信息，此类内容可能会在搜索结果中受到惩罚。但 Google 的系统如果没有人类审阅者的帮助可能检测不出 AI 生成的内容。特定类型的 AI 写作助手在今天的媒体中实际上很常见。Google 的 Search Advocate John Mueller 表示如果 Google 的 webspam 团队发现了 AI 生成的内容，他们被授权可以对此采取行动。",
-          "link": "https://www.solidot.org/story?sid=71200",
-          "publishedOn": "2022-04-10T09:02:45.000Z",
-          "wordCount": 102,
-          "title": "Google 将 AI 写作视为自动生成内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71199",
-          "author": null,
-          "description": "科学家声称发掘出一个小行星撞击地球时留下的恐龙化石。6600 万年前的事件结束了恐龙统治地球的时代，哺乳动物开始崛起。但至今没有发现多少灭绝事件前几千年的恐龙化石，更不用说来说灾难本身的标本，如果确认这将是一次非常重要的发现。考古学家是在距离小行星撞击地点 3000 公里远的北达科他州 Tanis 遗址挖掘出保存良好的恐龙腿化石。除了腿之外，还发现了撞击碎片击中的鱼。对于恐龙是否真的死于小行星撞击有科学家对此持怀疑态度。",
-          "link": "https://www.solidot.org/story?sid=71199",
-          "publishedOn": "2022-04-10T08:09:32.000Z",
-          "wordCount": 76,
-          "title": "科学家发掘出小行星撞击地球时的恐龙化石",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71198",
-          "author": null,
-          "description": "在撤离切尔诺贝利之后，无人机拍摄的视频和实地采访披露了俄罗斯士兵在人类历史上核事故最严重地区的行为。红色森林是切尔诺贝利核电站方圆十公里内的树林，它们因吸收了过量的放射线死亡，并呈棕红颜色，它被划为禁区。在历经多次铲土除污后，该地区的辐射水平已大幅下降，但仍是世界上污染最严重的地区之一。无人机视频显示俄罗斯士兵在红色森林周围挖掘战壕，而核污染粒子被带到了他们居住的地方，导致这些房间内的辐射水平略高于自然水平。短时间接触不会有危险，但长时间接触会造成伤害。俄罗斯士兵还被发现赤手拿起了 钴-60 源，暴露在极高剂量的辐射下，这名士兵的情况未知。乌克兰的首席安全工程师称核燃料未出现过热问题，表示欢迎俄罗斯士兵继续回来挖掘战壕。",
-          "link": "https://www.solidot.org/story?sid=71198",
-          "publishedOn": "2022-04-10T07:26:21.000Z",
-          "wordCount": 74,
-          "title": "鲁莽的俄罗斯士兵在污染最严重的区域挖战壕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71197",
-          "author": null,
-          "description": "一个国际天文学家团队发现了有史以来最遥远的星系。这个名为 HD1 的候选星系距离我们约 135 亿光年。研究团队提出了两个想法：HD1 可能正在以惊人的速度形成恒星，甚至可能是宇宙第一颗恒星 Population Ⅲ 恒星的家园，或者 HD1 可能包含一个超大质量黑洞，其质量约为太阳质量的 1 亿倍。论文（预印本）发表在《天体物理学杂志》上。 HD1 在紫外光下非常亮。起初研究人员假设其是一个标准的星暴星系，也就是一个正在高速创造恒星的星系。但在计算了 HD1 产生了多少颗恒星之后，他们发现 HD1 每年会形成 100 多颗恒星。这一速度简直令人难以置信，至少比他们的预期高出 10 倍。研究团队使用阿塔卡马大型毫米/亚毫米阵列（ALMA）进行了后续观测以确认距离，该距离比目前最远星系的纪录保持者 GN-z11 还要远1亿光年。",
-          "link": "https://www.solidot.org/story?sid=71197",
-          "publishedOn": "2022-04-09T15:18:25.000Z",
-          "wordCount": 95,
-          "title": "天文学家发现至今最遥远的星系",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71196",
-          "author": null,
-          "description": "科学家运用细胞重编程技术逆转老化的人类皮肤细胞，使其年轻三十年。在模拟皮肤伤口的实验中，恢复活力的细胞看起来更像是年轻细胞。人工诱导多能干细胞（iPSC）最早是由山中伸弥的团队于 2006 年发现的，山中伸弥因这一发现而在 2012 年获得诺贝尔生理医学奖。发表在《eLife》期刊上的最新研究没有诱导皮肤细胞转变成干细胞，而只是将其变成更年轻的版本，仍然保留皮肤细胞的性质。细胞重编程技术仍然存在很多局限， 比如有癌化的风险。",
-          "link": "https://www.solidot.org/story?sid=71196",
-          "publishedOn": "2022-04-09T15:03:25.000Z",
-          "wordCount": 76,
-          "title": "科学家逆转人类皮肤细胞老化三十年",
-          "imageUrl": null
         }
       ]
     },
@@ -3702,6 +3772,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/720368/",
+          "author": null,
+          "description": "COVID-19 疫情期间，员工监控软件成为一种新常态，这些软件记录按键和鼠标移动、捕获屏幕截图、跟踪位置，甚至会激活网络摄像头和麦克风。现在工人似乎被困住了。针对白领行业雇主的调查显示，即使返回办公室的员工也将受到此类新监控工具的影响。对很多澳大利亚的工作场所来说，疫情危机期间作为封锁和在家工作的\n本文链接",
+          "link": "https://news.cnblogs.com/n/720368/",
+          "publishedOn": "2022-05-10T00:00:00.000Z",
+          "wordCount": 6,
+          "title": "疫情是否会使员工监控软件常态化？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720367/",
+          "author": null,
+          "description": "5 月 9 日消息，关于迅雷因“未按规定期限公示 2021 年年度报告”被列入经营异常事宜，迅雷官微发布声明，称目前公司运营一切正常。本次列入经营异常范围，是由于年报系统截止日期调整引起。此前申报截止日期为 6 月 30 日，我司已于 5 月 6 日进行提交。经与相关部门沟通，目前该名目经营风险已经\n本文链接",
+          "link": "https://news.cnblogs.com/n/720367/",
+          "publishedOn": "2022-05-09T13:55:00.000Z",
+          "wordCount": 6,
+          "title": "迅雷回应被列入经营异常范围：由年报系统截止日期调整引起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720366/",
+          "author": null,
+          "description": "品玩 5 月 9 日讯，据 Tech 星球消息，字节推出了一款名为“聆镜直播一体机”的硬件设备以及“聆镜”App。 据悉，聆镜视频直播一体机是集成音视频采集、智能处理、上传传输一体化的直播专用设备，可用于社交直播、电商直播、户外直播、大型活动直播等场景。直播一体机为主播提供专业设备、降低设备调试门槛\n本文链接",
+          "link": "https://news.cnblogs.com/n/720366/",
+          "publishedOn": "2022-05-09T13:47:00.000Z",
+          "wordCount": 6,
+          "title": "字节跳动推出聆镜直播一体机，售价15800元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720365/",
+          "author": null,
+          "description": "5 月 9 日消息，据长江日报报道，中国裁判文书网披露，中南财经政法大学退休教授赵德馨状告知网维权后，其妻子周秀鸾也选择起诉，法院一审判决知网单篇文章赔偿周秀鸾 2100 元到 2400 元不等。 法院认为，学术期刊公司通过其经营的“CNKI 手机知网”iOS 手机软件向不特定公众提供涉案作品的下载\n本文链接",
+          "link": "https://news.cnblogs.com/n/720365/",
+          "publishedOn": "2022-05-09T13:40:00.000Z",
+          "wordCount": 6,
+          "title": "知网嫌赔偿金过高上诉被驳回，教授赵德馨妻子维权成功",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720364/",
+          "author": null,
+          "description": "编译 / 黄茜琳 来源：字母榜 马斯克之所以能够成功收购推特，离不开一个神秘的得力助手——贾里德·伯查尔（Jared Birchall）。5 月 7 日，彭博社发布了关于伯查尔的一篇报道，揭秘了他是如何帮助马斯克完成特斯拉和推特私有化、打理财富并解决难题的。 据彭博社报道，在此次收购中，伯查尔积极说\n本文链接",
+          "link": "https://news.cnblogs.com/n/720364/",
+          "publishedOn": "2022-05-09T13:30:00.000Z",
+          "wordCount": 6,
+          "title": "马斯克有个“大总管”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720363/",
+          "author": null,
+          "description": "欢迎关注“新浪科技”的微信订阅号：techsina 文/雷建平 来源：雷递网（ID:touchweb) 雷递网雷建平 5 月 9 日报道 欢聚集团日前向美国 SEC 递交 20-F 文件，文件显示，截至 2022 年 3 月 31 日，欢聚集团创始人、CEO 李学凌持有 25.6% 股权，有 78.\n本文链接",
+          "link": "https://news.cnblogs.com/n/720363/",
+          "publishedOn": "2022-05-09T13:20:00.000Z",
+          "wordCount": 6,
+          "title": "欢聚集团股权曝光：李学凌持股25.6% 有78.5%投票权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720362/",
+          "author": null,
+          "description": "文/雷建平 来源：雷递网（ID:touchweb) 360 数科日前递交 20-F 文件，文件显示，截至 2022 年 2 月 28 日，360 集团董事长、CEO、360 数科董事长周鸿祎持股为 14.4%，有 75.1% 的投票权；360 数科副董事长 Wei Liu 持股为 1.2%。 截至 \n本文链接",
+          "link": "https://news.cnblogs.com/n/720362/",
+          "publishedOn": "2022-05-09T13:10:00.000Z",
+          "wordCount": 6,
+          "title": "360数科股权曝光：周鸿祎持股14.4% 有75.1%投票权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720361/",
+          "author": null,
+          "description": "上百万甚至数百万元的交易，一旦出现纠纷或问题，那么谁来负责？是快手平台，快手主播？还是合作的开发商？ 作者刘珊珊 编辑杨铭 来源：极点商业 “现在还往这个赛道跑，我只能说快手纯粹为‘割韭菜’了。”房产中介行业打拼多年，刚刚辞职离开的罗艳钰告诉“极点商业”。 仍然坚守的某房产中介平台西南总监级人士艾迪\n本文链接",
+          "link": "https://news.cnblogs.com/n/720361/",
+          "publishedOn": "2022-05-09T13:00:00.000Z",
+          "wordCount": 6,
+          "title": "寒冬中快手杀入房产中介，新机会还是割韭菜？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720360/",
+          "author": null,
+          "description": "文/ 陈妍 来源：锌财经（ID:xincaijing) 在争当“水果第一股”这件事上，百果园可谓是一波三折。 5 月 7 日，百果园因门店将水果违规分级、售卖隔夜变质水果等问题，向消费者道歉，一时引燃互联网，登上热搜第二。而几天前，它才刚向港交所提交上市申请，摩根士丹利作为其独家保荐人，这已经是百果\n本文链接",
+          "link": "https://news.cnblogs.com/n/720360/",
+          "publishedOn": "2022-05-09T12:43:00.000Z",
+          "wordCount": 6,
+          "title": "百果园不卖“好水果”，只编“烂故事”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720359/",
+          "author": null,
+          "description": "如今，居家办公成为了很多打工人的生活关键词，这其中有“带娃打工”想要逃离的职场妈妈，也有终于能“带薪撸猫”的幸福铲屎官，还有比到岗上班更累的“天选打工人”……居家办公像一面镜子，照出不同打工人的生活百态。 作者 叶丹璇 编辑 刘杨 来源：豹变 最近一段时间，居家办公不再是一个遥远的名词，更像是游戏世\n本文链接",
+          "link": "https://news.cnblogs.com/n/720359/",
+          "publishedOn": "2022-05-09T12:35:00.000Z",
+          "wordCount": 6,
+          "title": "居家“摸鱼”的第56天，我却最想念办公室",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720358/",
+          "author": null,
+          "description": "文/Hernanderz 来源：价值研究所（ID:jiazhiyanjiusuo) 早在 2019 年就开始探索房产垂类业务的快手，似乎要发力了——5 月 7 日，多家媒体报道称快手正式成立房产业务中心，探索大宗线下交易业务。 回顾过去三年快手在房产业务上的布局，价值研究所认为其业务模式或许并不完美\n本文链接",
+          "link": "https://news.cnblogs.com/n/720358/",
+          "publishedOn": "2022-05-09T12:29:00.000Z",
+          "wordCount": 6,
+          "title": "快手卖房，老铁买单否？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720357/",
+          "author": null,
+          "description": "需求端能否形成持续的人群渗透或下沉，是这一市场能否持续火爆的关键。 文韩希言 编辑 呦呦 来源：铅笔道 这个春天，露营占据社交C位。“走啊，露营去”成为城市年轻人新的浪漫。 不过，与过往只带一张野餐垫的露营不同，这次走红的露营还得在前面冠上“精致”二字。宽帐篷下，折叠桌椅齐全，烤箱、烤盘、锅碗瓢盆都\n本文链接",
+          "link": "https://news.cnblogs.com/n/720357/",
+          "publishedOn": "2022-05-09T12:21:00.000Z",
+          "wordCount": 6,
+          "title": "精致露营能走出“北上广”么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720356/",
+          "author": null,
+          "description": "昔日出海标杆，今朝危机四伏 撰文/陈邓新 编辑/许伟 来源：锌刻度 作为电动平衡车与电动滑板车的双料全球冠军，九号公司在小米体系中颇为醒目。 日前，九号公司公告称，2021 年营业收入为 91.46 亿元，同比增长 52.36%；净利润为 4.11 亿元，同比增长 458.84%。 业绩不可谓不靓丽\n本文链接",
+          "link": "https://news.cnblogs.com/n/720356/",
+          "publishedOn": "2022-05-09T10:00:00.000Z",
+          "wordCount": 6,
+          "title": "疏远小米，九号“失速”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720355/",
+          "author": null,
+          "description": "文/托尼 来源：差评（ID:chaping321) 前几天托尼在办公室和同事们聊天，谈到了如今手机的发展。 然后就发现了一个问题，目前国产手机的旗舰机型，基本都习惯宣称他们是 2K 屏幕 （ 3216x1440 ）。 像 realme GT2 Pro、小米 12 Pro、一加 10 Pro 还有 O\n本文链接",
+          "link": "https://news.cnblogs.com/n/720355/",
+          "publishedOn": "2022-05-09T09:36:15.000Z",
+          "wordCount": 6,
+          "title": "为啥安卓旗舰标配的2K屏幕，苹果愣是不愿意做？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720354/",
+          "author": null,
+          "description": "文/张霏 编辑/周晓奇 来源：连线 Insight 影视行业正经历十年来的“至暗时刻”。 “一夜回到解放前”，中国电影评论学会会长饶曙光近期接受每日经济新闻采访忍不住感叹：“走势太低迷了，最近一段时间不敢看电影市场数据”。 回看今年的1-3 月的总体票房成绩，中国电影行业的确过得并不如意。尤其是 3\n本文链接",
+          "link": "https://news.cnblogs.com/n/720354/",
+          "publishedOn": "2022-05-09T09:35:29.000Z",
+          "wordCount": 6,
+          "title": "影视公司，集体走在悬崖边",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720353/",
+          "author": null,
+          "description": "梦晨鱼羊发自凹非寺 量子位公众号 QbitAI 坏了坏了，一觉醒来，“等等党们”发现购物车里的显卡价格又涨了。 3080TI 涨幅最大，比昨天高400左右，3060TI 以及 3070TI 也涨了100-300不等。 啊这，说好的“你，我，200”呢？？？（你不买，我不买，明天还要降 200） 赶紧\n本文链接",
+          "link": "https://news.cnblogs.com/n/720353/",
+          "publishedOn": "2022-05-09T09:34:23.000Z",
+          "wordCount": 6,
+          "title": "“黄仁勋不仁不义”！挖矿限制被100%破解，显卡价格应声而涨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720352/",
+          "author": null,
+          "description": "微软在 Windows 系统的底部任务栏中内置了一个用于全局搜索的搜索框，这个搜索框原本的目的应该是为了给用户一个入口，让用户可以更加便捷、快速地查找到本地或互联网上所需的内容，为了保持高效，自然也需要尽可能更少地打扰用户。 微软近日给搜索栏加入的涂鸦却是完全违背了不干扰用户的初衷，被大量网友吐槽。\n本文链接",
+          "link": "https://news.cnblogs.com/n/720352/",
+          "publishedOn": "2022-05-09T09:28:00.000Z",
+          "wordCount": 6,
+          "title": "微软拉低 Windows “逼格”，系统搜索栏被指用于营销",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720351/",
+          "author": null,
+          "description": "GameLook 报道/最近，不少腾讯游戏的玩家发现了一些异样，官方在公告表示游戏将增加新的运营主体，而这也引发了不少玩家的各种猜测。 早在 4 月 29 日，《QQ 飞车手游》官方便在微博上做出了解释，称腾讯天游科技为腾讯全资控股子公司，此次添加腾讯天游主体只是基于经营策略所需的调整，并不影响游戏\n本文链接",
+          "link": "https://news.cnblogs.com/n/720351/",
+          "publishedOn": "2022-05-09T09:22:00.000Z",
+          "wordCount": 6,
+          "title": "腾讯多款游戏换运营主体，称勿信“腾讯跑路”谣言",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720350/",
+          "author": null,
+          "description": "欢迎关注“新浪科技”的微信订阅号：techsina 文/李唐 来源/零态 LT（ID：LingTai_LT） 过去几天，北京居民经历了过山车的“囤菜”生活。 自 4 月 24 日以来，因疫情反复，北京居民一夜间涌入各大 APP 和线下商超，疯狂囤货。有人一次下单近万元，有人一次搬回 100 斤大米、\n本文链接",
+          "link": "https://news.cnblogs.com/n/720350/",
+          "publishedOn": "2022-05-09T09:15:00.000Z",
+          "wordCount": 6,
+          "title": "北京24小时保供战：互联网抢菜大考",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/720349/",
+          "author": null,
+          "description": "新智元报道 编辑：时光 【新智元导读】高通 CEO 在媒体专访中透露，元宇宙将是一个非常大的机会。 最近，高通 CEO 预测，未来虚拟设备将和手机一般大小。 访谈中，他还取下自己的眼镜以更好地展示，并说：「就像这个样子」。 事实上，高通一直努力打造智能连接，比如，用 5G 连接让街道更加安全，社会更\n本文链接",
+          "link": "https://news.cnblogs.com/n/720349/",
+          "publishedOn": "2022-05-09T09:07:00.000Z",
+          "wordCount": 6,
+          "title": "高通CEO称元宇宙是巨大机会，未来虚拟设备将和手机一样大",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/720292/",
           "author": null,
@@ -9191,186 +9461,6 @@
           "wordCount": 6,
           "title": "定位商务旗舰，延续高端化进程，荣耀Magic4 Pro评测",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718488/",
-          "author": null,
-          "description": "文剁椒 TMT，作者｜诗晴 “又来搞我一次？想起了早期被入站考试支配的恐惧”“全靠鬼畜区救我”“虚假的二刺猿竟是我自己”“上一次答题好像是七年前的事了”“爷青回”“ 动漫全是声优问题，麻了”“ 万万没想到，我有一天会在B站做高数题”…… 最近，B站推出硬核会员功能，让一些六级用户重新找到了当年入站答\n本文链接",
-          "link": "https://news.cnblogs.com/n/718488/",
-          "publishedOn": "2022-04-10T13:06:00.000Z",
-          "wordCount": 6,
-          "title": "B站推“硬核会员”，新老用户平衡术？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718487/",
-          "author": null,
-          "description": "图片来源@视觉中国 文巨潮 WAVE，作者｜蟪蛄，编辑 王方玉 自电商作为一种新零售业态兴起以来，就一直在想尽办法解决物流问题，但物流始终是个问题。 本轮疫情导致的物流配送难题，成了电商——物流——快递体系的又一次噩梦。大量的商品在下单之后无法按照正常时效送达，而是被积压在了物流配送的途中，进一步导\n本文链接",
-          "link": "https://news.cnblogs.com/n/718487/",
-          "publishedOn": "2022-04-10T10:30:00.000Z",
-          "wordCount": 6,
-          "title": "快递慢了，商家懵了，即时零售火了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718486/",
-          "author": null,
-          "description": "上海疫情牵动人心。4 月以来，上海每日报告的本土感染者连日上涨，7 日、8 日两天更是单日新增超 2 万，目前本轮已累计报告阳性感染者超 15 万人。因持续多天的封控管理，上海人民甚至陷入“一菜难求”困境。 中共中央政治局常委、国务院总理李克强在 7 日主持召开的经济形势专家和企业家座谈会上表示，今\n本文链接",
-          "link": "https://news.cnblogs.com/n/718486/",
-          "publishedOn": "2022-04-10T10:18:00.000Z",
-          "wordCount": 6,
-          "title": "骑手、快递小哥重返岗位！互联网平台火速驰援上海",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718485/",
-          "author": null,
-          "description": "自 3 月份以来，因为疫情原因，公司位于吉林、上海、江苏等多地的供应链合作伙伴陆续停产，目前尚未恢复。受此影响，蔚来整车生产已经暂停。由于上述原因，近期不少用户的车辆会推迟交付，还请大家谅解。 4 月 9 日，蔚来汽车在其官方 APP 上宣布已暂停整车生产。 就在清明节前，蔚来汽车联合创始人、总裁秦\n本文链接",
-          "link": "https://news.cnblogs.com/n/718485/",
-          "publishedOn": "2022-04-10T10:00:00.000Z",
-          "wordCount": 6,
-          "title": "疫情下的中国汽车产业停工潮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718484/",
-          "author": null,
-          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 为了让皮肤保持年轻、对抗衰老，人类想出很多手段。 现在科学家找到一种新方法，让 53 岁皮肤细胞年轻 30 岁，直接重返青春。 而且这一次不局限于小鼠研究，实验中真正使用了人类细胞。 相关论文目前已被 eLife 期刊接收，尽管全文还没有正式发表，已经受到\n本文链接",
-          "link": "https://news.cnblogs.com/n/718484/",
-          "publishedOn": "2022-04-10T09:45:00.000Z",
-          "wordCount": 6,
-          "title": "13天让皮肤细胞年轻30岁，英国科学家找到精准细胞重编程新方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718483/",
-          "author": null,
-          "description": "新智元报道 作者：zhoujing zhengyanan 编辑：好困 【新智元导读】数据增广是通过自动生成新的训练数据来提升模型性能的方法，而现有方法多基于简单问题设置。然而，在极限问题场景下，这些方法会全部失效。 针对数据增广方法在困难任务（小样本自然语言理解任务）以及更强的基线模型（超过 1 亿\n本文链接",
-          "link": "https://news.cnblogs.com/n/718483/",
-          "publishedOn": "2022-04-10T09:34:00.000Z",
-          "wordCount": 6,
-          "title": "NLP数据增广不故障！清华大学提出FlipDA，轻松解决小样本任务｜ACL 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718482/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 【新智元导读】大艺术家重磅升级！最近 OpenAI 发布升级版 DALL·E 2，不仅分辨率提升了 4 倍，准确率更高，业务也更广了：除了生成图像，还能二次创作！ 2021 年 1 月，OpenAI 放了一个大招：DALL-E 模型，让自然语言和图像成功牵手，输入一段不管多\n本文链接",
-          "link": "https://news.cnblogs.com/n/718482/",
-          "publishedOn": "2022-04-10T09:20:00.000Z",
-          "wordCount": 6,
-          "title": "多模态新王登基！OpenAI发布DALL·E 2，生成图像「指哪打哪」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718481/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子拉燕 【新智元导读】你所期待的 Meta 新头显要来了。不过，下一代 Oculus VR 头显将会是 Quest 2 Pro，而不是 Quest 3。 Quest 3 没来？听说 Meta 下一代 VR 头显叫 Quest 2 Pro。 天风国际分析师郭明錤称，先前预测 Met\n本文链接",
-          "link": "https://news.cnblogs.com/n/718481/",
-          "publishedOn": "2022-04-10T09:05:00.000Z",
-          "wordCount": 6,
-          "title": "VR新里程碑：Meta Quest 2 Pro高端头显要来了！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718480/",
-          "author": null,
-          "description": "深燃（shenrancaijing）原创 作者李秋涵 编辑魏佳 现在，刘特变成了自己不喜欢的那类互联网人。 计较 OKR、主动站队，随时记录自己的工作成绩，为未来汇报做准备。他年近 35 岁，奋斗多年的赛道消失，转型进入到互联网大厂。当时，他信心满满，但入职后，一切都失去了掌控感，如何处理与领导的关\n本文链接",
-          "link": "https://news.cnblogs.com/n/718480/",
-          "publishedOn": "2022-04-10T08:51:00.000Z",
-          "wordCount": 6,
-          "title": "计较OKR、主动站队、给领导“画饼”，我在大厂变成卷王",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718479/",
-          "author": null,
-          "description": "Alex 发自凹非寺 量子位公众号 QbitAI 人工神经网络的尽头是一个神经元？ ——没准儿还真有可能。 当前，最先进的 AI 系统通过创建多层神经网络来模仿人类大脑，旨在将尽可能多的神经元塞进尽可能小的空间。 可惜，这样的设计需要消耗大量的电力等资源，而产生的输出结果与强大且“节能”的人脑比起来\n本文链接",
-          "link": "https://news.cnblogs.com/n/718479/",
-          "publishedOn": "2022-04-10T08:42:00.000Z",
-          "wordCount": 6,
-          "title": "单个神经元也能实现DNN功能，图像分类准确率达98% | Nature子刊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718478/",
-          "author": null,
-          "description": "作者｜童思思 编辑｜胡展嘉 来源：零态 LT 4 月 7 日，网易有道“静悄悄”开了一场线上新品发布会。 发布会通过直播形式发布了智能学习硬件新品——有道智能学习灯。与此同时，智能学习灯正式在京东、天猫等平台全面开启预售，售价为 1999 元，首发优惠价 1699 元。 据此前知情人士表示，教育公司\n本文链接",
-          "link": "https://news.cnblogs.com/n/718478/",
-          "publishedOn": "2022-04-10T08:30:00.000Z",
-          "wordCount": 6,
-          "title": "有道卖灯，网易尴尬",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718477/",
-          "author": null,
-          "description": "来源：远川研究所 西方不能没有耶路撒冷，正如中国互联网的历史不能没有华清嘉园。 华清嘉园是一个位于北京海淀的居民小区，占地 190 亩，拥有 23 栋居民楼、97 个单元、1776 个停车位、2475 套房子——既有 37 平的开间，也有 177 平的四房，周边更是配套有 19 家发廊、8 家咖啡馆\n本文链接",
-          "link": "https://news.cnblogs.com/n/718477/",
-          "publishedOn": "2022-04-10T08:21:00.000Z",
-          "wordCount": 6,
-          "title": "华清嘉园往事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718476/",
-          "author": null,
-          "description": "文万博 来源：智能车参考 增长，增长，还是增长，小鹏最新季度财报基本面，营收、交付和亏损状况全面向好。 而且连点成线看，业绩高增长，已经成为小鹏的常态趋势。 但在高增长之下，小鹏的远虑和近忧，也进一步暴露出来： 受原材料价格上涨影响，整体毛利率 12%，环比下降 2.4 个百分点，汽车销售毛利率 1\n本文链接",
-          "link": "https://news.cnblogs.com/n/718476/",
-          "publishedOn": "2022-04-10T08:12:00.000Z",
-          "wordCount": 6,
-          "title": "小鹏最佳财报交付，最大短板同时暴露",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718475/",
-          "author": null,
-          "description": "芯研所 4 月 9 日消息，此前，AMD 卖掉半导体封测厂，转交给通富微电，后者负责 AMD 大量锐龙及 Radeon 显卡芯片的封装，日前该公司确认 AMD 的芯片产能有望缓解，公司封装的 5nm 产品也即将量产。 芯研所采编 根据该公司的年报，2021 年全年，通富微电实现营业收入 158.12\n本文链接",
-          "link": "https://news.cnblogs.com/n/718475/",
-          "publishedOn": "2022-04-10T08:06:00.000Z",
-          "wordCount": 6,
-          "title": "5nm芯片即将量产：国内厂商确认AMD产能或缓解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718474/",
-          "author": null,
-          "description": "雷递网乐天 3 月 10 日报道 蔚来汽车日前在官方 APP 上宣布，自 3 月份以来，因为疫情原因，公司位于吉林、上海、江苏等多地的供应链合作伙伴陆续停产，目前尚未恢复。受此影响，蔚来整车生产已经暂停。 “近期不少用户的车辆会推迟交付。公司会与供应链合作伙伴一道，在满足防疫要求前提下，争取早日恢复\n本文链接",
-          "link": "https://news.cnblogs.com/n/718474/",
-          "publishedOn": "2022-04-10T08:00:00.000Z",
-          "wordCount": 6,
-          "title": "蔚来整车生产已暂停 李斌被曝在上海“用葱换盐”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718473/",
-          "author": null,
-          "description": "雷递网乐天 4 月 9 日报道 琴弦的振动是怎样的形式？声音在空气中的传播速度如何计算？太阳的寿命大约还剩 50 亿年？ 4 月 8 日，《张朝阳的物理课》线下第二课开讲，搜狐创始人、董事局主席兼 CEO 张朝阳与来自北京各高校的物理学子及物理学爱好者们一起探讨物理的奥秘。 课堂上，他陆续讲解了经典\n本文链接",
-          "link": "https://news.cnblogs.com/n/718473/",
-          "publishedOn": "2022-04-10T07:50:00.000Z",
-          "wordCount": 6,
-          "title": "解释太阳能量来源《张朝阳的物理课》估算太阳寿命约百亿年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718455/",
-          "author": null,
-          "description": "来源：科普中国 大家都知道熬夜、睡太晚不好，不仅第二天精神状态不佳，时间久了，还容易引发内分泌失调、记忆力下降、免疫力降低、腑脏功能衰退等一系列健康问题，甚至可能增加癌症的发生风险。 那么，睡得越早越好吗？——并不是！ 2021 年 11 月，欧洲心脏学会（ESC）旗下期刊《European Hea\n本文链接",
-          "link": "https://news.cnblogs.com/n/718455/",
-          "publishedOn": "2022-04-09T15:03:46.000Z",
-          "wordCount": 6,
-          "title": "最新研究发现：早睡晚睡都不行，这个时间睡觉，远离心血管病！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/718454/",
-          "author": null,
-          "description": "来源：经济日报 本报记者：黄鑫 国际分析机构 Canalys 日前发布的 2021 年中国云计算市场报告显示，中国的云基础设施市场规模已达 274 亿美元，由阿里云、华为云、腾讯云和百度智能云组成的“中国四朵云”占据 80% 的中国云计算市场，稳居主导地位。 近年来，我国数字经济建设取得巨大成就。作\n本文链接",
-          "link": "https://news.cnblogs.com/n/718454/",
-          "publishedOn": "2022-04-09T14:41:58.000Z",
-          "wordCount": 6,
-          "title": "2023年我国云计算市场规模预计突破3000亿元",
-          "imageUrl": null
         }
       ]
     },
@@ -9379,6 +9469,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23201",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\n阐明 App Store 改善流程的标准和新的限期延长\n过去几年，苹果为了保证贯彻在安全和隐私方面的最新改革，陆续下架了 280 万个 App。同时还强调了，在过去三年内从未更新且未达到最低下载量 (即该 App 在连续 12 个月内完全没有或只有极低的下载量) 时，其开发者将会收到电子邮件，告知该 App 已被识别并可能从 App Store 中被移除。具体细节请参照：App Store 改善的支持页面\nSSWG 2021 Annual Update\nSwift 服务端工作组发布了 2021 年的工作总结：\nSwift Concurrency：社区的各个 HTTP 框架的客户端现在都已经添加了 async/await 接口\n工具链：\n\n发布了 RPM/Deb 包\n发布了 Swift for VSCode 插件\n发布了 Setup Swift 的 GitHub Action\n加强了对于 ARM Linux 的支持\n文档：工作组为旗下的项目补充了大量的文档\n生态：\n\nSwiftMetrics，gRPC Swift 项目完成了孵化\nSwiftStatsdClient，SwiftPrometheus，MongoSwift，Swift Service Lifecycle，Soto for AWS 陆续进入孵化阶段\n以及 2022 年的目标：\n继续扩大生态圈\n继续加强 Concurrency 的支持\n拓展工具链\n缩短编译构建时间\n提升 Swift 服务端的使用率\n Developer - 设计开发加速器\n电商购物类 App 专场：为你的电商购物 App 提升体验\n2022 年 5 月 10 日至 11…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23201",
+          "publishedOn": "2022-05-09T03:52:20.000Z",
+          "wordCount": 692,
+          "title": "老司机 iOS 周报 #201 | 2022-05.09",
+          "imageUrl": "https://opengraph.githubassets.com/7aebc220f265d331aa8b855afcefcd2e3600d4b9ee7b45e4a9e4a03eb0a0fbb7/SwiftOldDriver/iOS-Weekly/releases/tag/%23201"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23200",
           "author": null,
