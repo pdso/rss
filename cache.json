@@ -1098,16 +1098,6 @@
           "wordCount": 456,
           "title": "PowerShell 教程 №5：方法的参数、Overload 和 C# 描述",
           "imageUrl": "https://cdn.sspai.com/2022/05/01/4ecee9c304ac9413c7383c0534e6268f.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/72888",
-          "author": "SanKo",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n众所周知，各个终端默认的配置都十分简陋。无论是 Windows 的 Powershell，还是 Linux 大部分发行版默认的 Bash，亦或是 macOS 预置的 zsh，本身都只提供了路径名和提示符，别无其他。\n默认的 Powershell 界面\n这对需要频繁使用的机器来说，无论从生产力方面，还是美观度、舒适度方面，都是不大够用的。\n我曾经尝试过好多种终端自定义方案，例如我使用 zsh 时，使用 oh-my-zsh 这一集成方案，本身内置了大量主题，但是想对具体主题进行些许适合自己的微调，则并不容易。\n我在使用 Bash 时，通过编辑 .bashrc 文件，虽然实现了比较自由的界面设置，但是复杂的代码和难用的 Shell 脚本，想要调整依然不简单。\nlocal EXIT=\"$?\"\n\nlocal RCol='\\[\\e[0m\\]'\nlocal BRed='\\[\\e[1;31m\\]'\nlocal BGre='\\[\\e[1;32m\\]'\nlocal BBlu='\\[\\e[1;34m\\]'\n\nPS1=\"${debian_chroot:+($debian_chroot)}\\n\"\nif [ $EXIT != 0 ]; then\n    PS1+=\"[${BRed}$EXIT${RCol}] \"\nfi\nif test -n \"$VIRTUAL_ENV\"; then\n    PS1+=\"($(basename $VIRTUAL_ENV)) \"\nfi\nPS1+=\"${BGre}\\u@\\h${RCol}:${BBlu}\\w${RCol}\"\nPS…",
-          "link": "https://sspai.com/post/72888",
-          "publishedOn": "2022-04-29T15:30:13.000Z",
-          "wordCount": 315,
-          "title": "在所有终端中使用相同界面，Starship 帮助你自定义命令行",
-          "imageUrl": "https://cdn.sspai.com/2022/04/26/8be67df9e46ac19b4d282a8ec3c0ba6e.png"
         }
       ]
     },
@@ -1166,6 +1156,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71668",
+          "author": null,
+          "description": "2020 年 Red Hat 决定停止将 CentOS Linux 作为独立发行版，改为推出滚动更新发行版 CentOS Stream，把它作为企业发行版 RHEL  的上游 beta 版本。社区立即推出了多个项目替代 CentOS，其中最为突出的是两个项目：Rocky Enterprise Software Foundation 赞助的 Rocky Linux，它最近释出了 Rocky Linux 8.6；另一个是 AlmaLinux OS Foundation 的 AlmaLinux，它刚刚释出了最新的 AlmaLinux 9。AlmaLinux 9 是基于 Linux 5.14 内核，增强了云端和容器开发，改进了 cockpit，改善了 SELinux 性能和用户身份验证日志，Python 3.9、GCC 11，最新版本的 LLVM、Rust 和 Go 编译器，等等。",
+          "link": "https://www.solidot.org/story?sid=71668",
+          "publishedOn": "2022-05-29T14:53:06.000Z",
+          "wordCount": 119,
+          "title": "AlmaLinux 9 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71667",
+          "author": null,
+          "description": "多人游戏在匹配玩家时一般使用基于技能的匹配算法，让同一技能水平的人一起更公平的对战，结果是胜负的几率通常是 50 比 50。但这对于游戏主播来说不是一件好事，因为只有在游戏中赢才能吸引观众。《Call of Duty: Warzone》的主播 Jordan \"HusKerrs\" Thomas 抱怨这种基于技能的匹配算法对他们这些排在前 1% 的玩家产生了巨大的负面影响，迫使他们“流汗”才能制造出更好的内容娱乐观众。竞技类社区如此，休闲类多人游戏社区也是如此，他们抱怨这种匹配算法降低了他们的游戏乐趣。EA、Epic 和动视暴雪都采用了机器学习等复杂技术调整匹配算法，让玩家与水平相似的对手进行比赛。",
+          "link": "https://www.solidot.org/story?sid=71667",
+          "publishedOn": "2022-05-29T11:16:14.000Z",
+          "wordCount": 84,
+          "title": "游戏主播抱怨基于技能的匹配算法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71666",
+          "author": null,
+          "description": "BBC 执照费将于 2027 年废除，为节省开支它计划关闭两个频道：主打艺术和纪录片的 BBC 4 台和针对儿童的  CBBC。BBC 将继续制作原来在这两个频道播出的内容，但将转到由流媒体平台 BBC iPlayer 独播。过去几十年，BBC 的资金来源于执照费。英国的每个家庭或企业都必须购买一年期的电视执照费用，确保 BBC 有足够的资金。由于这种特殊的经费来源，BBC 没有商业广告，理论上节目不受任何商业利益驱使或政府控制。它不像其它国家控制的电视频道那样成为政府的宣传工具。现有的执照费协议将在 2027 年到期和终止。",
+          "link": "https://www.solidot.org/story?sid=71666",
+          "publishedOn": "2022-05-29T09:41:42.000Z",
+          "wordCount": 90,
+          "title": "BBC 将关闭两个频道",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71665",
           "author": null,
@@ -3655,46 +3675,6 @@
           "wordCount": 84,
           "title": "巴菲特解释为什么不投资比特币",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71408",
-          "author": null,
-          "description": "尼日利亚本月初屏蔽了 7300 万未在国家身份数据库里登记的电话号码。这一数字相当于尼日利亚 1.98 亿人口的三分之一以上。包括尼日利亚、加纳、埃及和肯尼亚在内的非洲国家表示，出于安全目的需要 SIM 卡登记法律，但数字权利专家认为此举旨在加强监控侵犯隐私。尼日利亚过去十年推出了 11 位数字的电子国民身份证，记录包括指纹和照片在内的个人和生物识别数据。开设银行账户、申请驾照、投票、获得医保和报税都需要国民身份号码。尼日利亚电信监管机构 2020 年宣布手机号码必须与电子国民身份证关联起来，关联的截至日期为 2022 年 3 月 31 日。它宣布从 4 月 4 日起禁止未关联的电话号码打电话。",
-          "link": "https://www.solidot.org/story?sid=71408",
-          "publishedOn": "2022-04-30T11:23:21.000Z",
-          "wordCount": 95,
-          "title": "尼日利亚屏蔽 7300 万未登记身份的电话号码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71407",
-          "author": null,
-          "description": "Google 本周宣布扩大用户可要求从搜索结果中删除的数据类型。以前 Google 允许未成年人要求从搜索结果里删除他们的肖像，以及允许用户要求删除银行账号或信用卡号码等敏感数据，现在 Google 扩大到了电话号码、邮箱和家庭地址。Google 表示它会对存在明确或隐含威胁或者明确或隐含的呼吁他人进行伤害或骚扰的行动时考虑删除请求。一旦删除请求批准，Google 可能会在所有搜索查询中移除提供的网址，或者只针对包含你名字的查询删除网址。",
-          "link": "https://www.solidot.org/story?sid=71407",
-          "publishedOn": "2022-04-30T10:47:46.000Z",
-          "wordCount": 82,
-          "title": "你可以要求 Google 从搜索结果中移除你的电话号码、邮箱和地址",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71406",
-          "author": null,
-          "description": "深夜进食会干扰代谢，突出了进餐时间对健康的重要性，但目前没有证据表明进餐时间对长寿有作用。根据发表在《Frontiers in Nutrition》期刊上的一项研究，研究人员调查了意大利长寿者聚焦地区 Abruzzo 的老年人进餐时间和饮食习惯。结果显示，百岁长寿者的晚餐时间平均为晚上 7 点 13 分，晚餐和下一次午餐之间的热量限制时间间隔为 17.5 小时。他们更多消费谷物、蔬菜、水果和豆类，肉类、加工肉类和鸡蛋消费较少，几乎不食用糖类。根据意大利统计局的数据，Abruzzo 是该国九十多岁和百岁老人人数最多的地区之一。当地居民遵循着一种被称为 sdijuno 的饮食习惯。",
-          "link": "https://www.solidot.org/story?sid=71406",
-          "publishedOn": "2022-04-30T10:00:11.000Z",
-          "wordCount": 84,
-          "title": "进餐的时间与长寿的关联",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71405",
-          "author": null,
-          "description": "复工工厂名单显示，苹果公司上海周边供应商优先获准复工：上海有 31 家公司的复工工厂供应苹果，江苏有 79 家，浙江有 7 家。随着防疫政策带来的经济阵痛越来越大，中国一直在推动工厂复工，这一努力迄今为止是循序渐进的，有时也很不顺利。在江苏昆山，当地政府发布了一份名单，将立讯精密工业股份有限公司和纬创资通股份有限公司等几家苹果主要供应商指定为“无疫企业”，允许它们优先复工。",
-          "link": "https://www.solidot.org/story?sid=71405",
-          "publishedOn": "2022-04-30T03:30:22.000Z",
-          "wordCount": 77,
-          "title": "苹果上海周边供应商优先复工",
-          "imageUrl": null
         }
       ]
     },
@@ -3703,6 +3683,196 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/721696/",
+          "author": null,
+          "description": "文/贾浩楠、褚万博 来源：智能车参考（ID:AI4Auto) 昨晚罗大佑一波情怀杀，都看了吗？ 你在缅怀年少光阴的时候，不知有没有注意到这个贯穿全场的大 logo: 罗大佑演唱会，包括不久前的崔健线上演唱会，都是极狐汽车花真金白银独家冠名带给你的。 你问极狐汽车是谁？网友可能回答不了你，因为无论直播\n本文链接",
+          "link": "https://news.cnblogs.com/n/721696/",
+          "publishedOn": "2022-05-30T00:35:00.000Z",
+          "wordCount": 6,
+          "title": "华为带不动极狐，崔健罗大佑们行吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721695/",
+          "author": null,
+          "description": "作者邹帅李秋涵王敏宛其唐亚华 编辑王敏 来源：深燃（ID：shenrancaijing） “专家建议”还靠谱吗？ 5 月 19 日，“专家不建议年轻人掏空六个钱包凑首付”、“专家称买房比租房划算”、“专家称今年 6 到 10 月是购房好时机”这几个话题，同时出现在了微博热搜上，引发了热议。 频频出现\n本文链接",
+          "link": "https://news.cnblogs.com/n/721695/",
+          "publishedOn": "2022-05-30T00:28:00.000Z",
+          "wordCount": 6,
+          "title": "“专家建议”，让我一天亏了20万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721694/",
+          "author": null,
+          "description": "作者马舒叶 、谢中秀 、陶淘 、苏琛 、冯晓亭 、张琳 来源 燃次元（ID:chaintruth） “肯德基不重要，可达鸭才重要。”夏天伊始，可达鸭彻底爆火出圈。 5 月 21 日，肯德基微信官方公众号发布文章《超大宝可梦玩具，乐翻六一！》。文章写道，即日起购买指定儿童节套餐，即可得随机宝可梦超大玩\n本文链接",
+          "link": "https://news.cnblogs.com/n/721694/",
+          "publishedOn": "2022-05-30T00:20:00.000Z",
+          "wordCount": 6,
+          "title": "成年人的疯狂，不止“可达鸭”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721693/",
+          "author": null,
+          "description": "新智元报道 编辑：David 好困袁榭 【新智元导读】谷歌大神 Jeff Dean 最近亲自操刀发新作，提出了一个大规模多任务学习框架µ2Net，基本把各大数据集多任务学习的 SOTA 刷了个遍，但这次为何网友有点不买账了？很简单，差钱。 2021 年 10 月，Jeff Dean 亲自撰文介绍了一\n本文链接",
+          "link": "https://news.cnblogs.com/n/721693/",
+          "publishedOn": "2022-05-30T00:10:00.000Z",
+          "wordCount": 6,
+          "title": "Jeff Dean大规模多任务学习SOTA遭吐槽，复现一遍要6万美元！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721692/",
+          "author": null,
+          "description": "文游戏猎，作者丨令狐 索尼也学坏了。 5 月 26 日上午，PlayStation 官方发了条推特：“以折扣价订阅 PS+ 会员的亚洲玩家，在升级服务时需要补差价是技术故障，目前已修复。之前已付费开通新会员制度的老玩家，将得到相应补偿。” 简单来说，两天前索尼推出了全新的 PlayStation P\n本文链接",
+          "link": "https://news.cnblogs.com/n/721692/",
+          "publishedOn": "2022-05-30T00:00:00.000Z",
+          "wordCount": 6,
+          "title": "订阅付费，会是游戏圈新镰刀吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721691/",
+          "author": null,
+          "description": "来源：学术头条 处理情绪，特别是区分危险和安全，对动物的生存至关重要。在人类中，过度的负面情绪，如恐惧反应和焦虑状态，会导致创伤后应激障碍（PTSD）等病理状态。 在欧洲，就有大约 15% 的人群受到持续焦虑和严重精神疾病的影响。 近日，由瑞士尔尼大学神经病学系和伯尔尼大学医院 Antoine Ad\n本文链接",
+          "link": "https://news.cnblogs.com/n/721691/",
+          "publishedOn": "2022-05-29T14:20:44.000Z",
+          "wordCount": 6,
+          "title": "Science：睡眠医学的突破，大脑会在梦境中巩固积极情绪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721689/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 【新智元导读】最近两位南加州大学华人博士在 IEEE Transaction 上发表了一篇文章，用偏好驱动的方式为用户定制触感，真实度大大提升，彻底革新了数据驱动的触觉感知算法！预告：居家办公让虚拟人来作伴？欢迎预约直播，教你如何从 0 到 1 自己创建一个！ 电子技术的发\n本文链接",
+          "link": "https://news.cnblogs.com/n/721689/",
+          "publishedOn": "2022-05-29T08:18:16.000Z",
+          "wordCount": 6,
+          "title": "触觉从未如此真实！两位南加州大学华人博士革新「触觉感知」算法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721690/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 【新智元导读】ImageNet 的标签问题一直为人诟病，最近 Google Brain 全面分析了基准内遗留的历史问题，并找出了所有顶级模型全都预测失败的 68 张图片，或许未来 CV 想取得突破，先得攻破这 68 关！ 过去的十年里，ImageNet 基本就是计算机视觉领\n本文链接",
+          "link": "https://news.cnblogs.com/n/721690/",
+          "publishedOn": "2022-05-29T08:10:00.000Z",
+          "wordCount": 6,
+          "title": "CV未来在这68张图上？Google Brain深扒ImageNet：顶级模型全都预测失败",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721688/",
+          "author": null,
+          "description": "作者韩希言　编辑 呦呦 来源铅笔道（ID：pencilnews） “开课吧”还能继续“开课”么？ 最近，职业教育平台“开课吧”深陷负面舆论当中。暴力裁员、拖欠员工薪资、供应商催款、学员退费维权……甚至有人将其比喻成“下一个万门大学”。 开课吧如今的遭遇实际上是为过往的激进策略买单。在过去的一年多时间\n本文链接",
+          "link": "https://news.cnblogs.com/n/721688/",
+          "publishedOn": "2022-05-29T08:00:00.000Z",
+          "wordCount": 6,
+          "title": "裁员30%！融资超10亿，烧不动了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721687/",
+          "author": null,
+          "description": "杨净明敏发自凹非寺 量子位公众号 QbitAI 只凭一张人脸，就能检索出各种公开网站上的照片。 甚至连十几年前的黑历史都可能挖到！ 最近，一个名为PimEyes的人脸搜索引擎，引发了巨大争议。 这个网站支持搜索任何人的照片，而且准确度惊人。 即便戴着口罩、墨镜、脸上有头发遮挡，人脸也能被识别，然后扒\n本文链接",
+          "link": "https://news.cnblogs.com/n/721687/",
+          "publishedOn": "2022-05-29T07:50:00.000Z",
+          "wordCount": 6,
+          "title": "仅一张人脸就能被扒得底裤不剩：口罩都没用，这个人脸搜索惹众怒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721686/",
+          "author": null,
+          "description": "在刘慈欣的短篇科幻小说《白垩纪往事》里，恐龙体型庞大做不了精细的工作，但蚂蚁可以，于是二者各取所长，合力发展了属于自己的文明。蚂蚁体型小巧难以被发现的特性，也对推动故事发展起了重要作用。 ▲图片来自：Unsplash 恐龙或许很难发现身上的蚂蚁，但若是爬到人的身上，还是有可能会被发现的，动画版西游记\n本文链接",
+          "link": "https://news.cnblogs.com/n/721686/",
+          "publishedOn": "2022-05-29T07:40:00.000Z",
+          "wordCount": 6,
+          "title": "比跳蚤还小的亚毫米级机器人，放在身上都发现不了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721685/",
+          "author": null,
+          "description": "文/犀利财经 来源：犀利财经（ID:xili-caijing) 2022 年 5 月 23 日，爱彼迎（Airbnb）可能也没想到，一纸退出中国市场的声明，直接将自己送上了热搜。 从 2013 年开始布局中国市场，2015 年正式入华，2017 年更名本地化运营……2022 年，爱彼迎在中国近十年的\n本文链接",
+          "link": "https://news.cnblogs.com/n/721685/",
+          "publishedOn": "2022-05-29T07:30:00.000Z",
+          "wordCount": 6,
+          "title": "对话Airbnb创始人，五年前的野心勃勃，如今落花流水春去也",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721684/",
+          "author": null,
+          "description": "距离 Bill Hwang 单日暴亏 150 亿美元，“终结”中概股行情仅过去一年，另一位韩国人 Do Kwon 用了三天，便将币圈搅得天崩地裂。 由斯坦福计算机大神 Do Kwon 建立的区块链系统代币 LUNA 曾在一年多里涨了近 200 倍，最高的时候一度超过 110 美元，被中文炒币者简称为\n本文链接",
+          "link": "https://news.cnblogs.com/n/721684/",
+          "publishedOn": "2022-05-29T07:24:00.000Z",
+          "wordCount": 6,
+          "title": "A16Z正在垄断Web3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721683/",
+          "author": null,
+          "description": "IT 之家 5 月 27 日消息，苹果将在今年 9 月发布四款 iPhone 14 系列机型，而此前的传言称非 Pro 的 iPhone 14 和 iPhone 14 Max 手机将搭载与 Pro 系列不同的芯片组，既能缓解缺芯压力又能节约成本，一举多得。 虽然没有确切的对应关系，但大部分爆料者都认\n本文链接",
+          "link": "https://news.cnblogs.com/n/721683/",
+          "publishedOn": "2022-05-29T07:17:00.000Z",
+          "wordCount": 6,
+          "title": "消息称台积电准备在苹果 A16 芯片上重新使用增强型 5nm 工艺生产",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721682/",
+          "author": null,
+          "description": "在一些与医疗相关的影视作品总是能看到器官移植手术，利用人体自身的修复能力，某些组织就能实现再生。除了这种方式，其实有些人体组织也可以在体外进行培养再移植，不过这一领域的发展还在起步阶段。 ▲图片来自：Lonza Bioscience 体外组织培养发展受限的原因之一就是适配性。在静态环境中培育出的组织\n本文链接",
+          "link": "https://news.cnblogs.com/n/721682/",
+          "publishedOn": "2022-05-29T07:11:00.000Z",
+          "wordCount": 6,
+          "title": "体外培养人体组织，用机器人骨架更方便",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721681/",
+          "author": null,
+          "description": "文/谭宵寒 来源/盒饭财经（ID：daxiongfan） 5 月 26 日，阿里发布了大规模组织架构调整后的首份财报。 2022 财年第四季度，阿里营收 2040.5 亿元，同比增长9%，不按美国通用会计准则计算，净利润为人民币 197.99 亿元，同比下降 24%，和腾讯上季度净利润下滑比率 23\n本文链接",
+          "link": "https://news.cnblogs.com/n/721681/",
+          "publishedOn": "2022-05-29T07:05:00.000Z",
+          "wordCount": 6,
+          "title": "阿里“对齐”腾讯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721680/",
+          "author": null,
+          "description": "两家俄罗斯互联网服务提供商(ISP)收到 Google 的通知，称其网络上的全球缓存服务器已被禁用。缓存服务器是一个 isp 绑定节点，用于更快地向互联网用户提供谷歌内容，并在中断期间也可保持访问。缓存对于流行的 YouTube 内容是最重要的，isp 可以将这些内容存储在服务器上，并更快地加载，给\n本文链接",
+          "link": "https://news.cnblogs.com/n/721680/",
+          "publishedOn": "2022-05-29T06:57:00.000Z",
+          "wordCount": 6,
+          "title": "谷歌关闭了两家俄罗斯ISP的缓存服务器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721679/",
+          "author": null,
+          "description": "如果只看图片，你能猜出这几个方块是什么吗？ 摇杆、十字键，还是 PPT 遥控笔？ 这几个黑方块——准确说，这一整套黑方块组合，其实是微软最近发布的一套新的鼠标。 是的，和经典的 IE 3.0 相比，这套黑方块和传统的鼠标造型可以说是毫不沾边。 大按键和大摇杆的组合看起更像是飞机的驾驶台，而不是大家熟\n本文链接",
+          "link": "https://news.cnblogs.com/n/721679/",
+          "publishedOn": "2022-05-29T06:50:00.000Z",
+          "wordCount": 6,
+          "title": "微软发布的新鼠标，值得所有外设厂商「抄袭」｜硬哲学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/721678/",
+          "author": null,
+          "description": "DuckDuckGo 最初仅仅是一个搜索引擎，主要特点就是保护用户隐私，承诺不跟踪也不记录用户的搜索以及在进行搜索时的行为。之后 DuckDuckGo 扩展了产品阵容，相继推出了适用于 Chrome 和 Firefox 等浏览器的扩展程序，以及自家的浏览器（目前有 iOS、Android 和 Mac\n本文链接",
+          "link": "https://news.cnblogs.com/n/721678/",
+          "publishedOn": "2022-05-29T06:35:00.000Z",
+          "wordCount": 6,
+          "title": "DuckDuckGo 隐私保护 “翻车”，唯独不拦截微软跟踪器",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/721665/",
           "author": null,
@@ -9221,126 +9391,6 @@
           "publishedOn": "2022-04-30T14:55:00.000Z",
           "wordCount": 6,
           "title": "用于写交互式小说的 Inform 7 编程语言正式开源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719917/",
-          "author": null,
-          "description": "新茶饮进军瓶装市场，防守还是进攻？ 作者丨樱木 编辑丨月见 来源：新熵 瓶装饮品的市场，被奈雪的一条消息，砸出了涟漪。 据可靠消息称，奈雪的茶将投入 5 亿-10 亿元收购即饮饮品生产线，要求产能规模达每年 7000 万-8000 万箱，生产线预计8-12 条。 对此消息，奈雪的茶回应称：“公司确实\n本文链接",
-          "link": "https://news.cnblogs.com/n/719917/",
-          "publishedOn": "2022-04-30T08:12:00.000Z",
-          "wordCount": 6,
-          "title": "装在瓶子里的奈雪们",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719916/",
-          "author": null,
-          "description": "作者吴娇颖 编辑金玙璠 来源：开菠萝财经 刘畊宏和李佳琦，又被网友“锁”了。 4 月 27 日晚，刘畊宏妻子在直播中提到“大家跳操瘦了，可以去找李佳琦买衣服”，李佳琦也很快隔空回应“谢谢支持，5 月会上很多新衣服”。 这不是当下互联网两大“顶流”主播的第一次“隔空联动”。自刘畊宏爆火以来，两人就被网\n本文链接",
-          "link": "https://news.cnblogs.com/n/719916/",
-          "publishedOn": "2022-04-30T07:55:00.000Z",
-          "wordCount": 6,
-          "title": "李佳琦“被困”的40天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719915/",
-          "author": null,
-          "description": "文/樊博 来源：YOUNG 财经漾财经（ID:youngcaijing) 知网被诟病，与其属性、营收、定价、侵权等问题有关。我们试图找到它被指责背后的真实面向。题图为知网主要创始人、董事长王明亮。 4 月 28 日中国知网的母公司同方股份有限公司发布了 2021 年年度报告。其中显示知网主营业务收入\n本文链接",
-          "link": "https://news.cnblogs.com/n/719915/",
-          "publishedOn": "2022-04-30T07:42:00.000Z",
-          "wordCount": 6,
-          "title": "知网，里外不是人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719913/",
-          "author": null,
-          "description": "欢迎关注“新浪科技”的微信订阅号：techsina 作者周继凤 编辑黎明 来源：深途 最近，全世界的电池厂商都在干一件事——撸起袖子抢锂矿。 去年，动力电池一哥宁德时代与国内锂业巨头赣锋锂业展开了一场轰动全球、持续长达 4 个月的“抢矿大战”，它们的争夺对象是千禧锂业——一家手中握有大量锂盐湖项目的\n本文链接",
-          "link": "https://news.cnblogs.com/n/719913/",
-          "publishedOn": "2022-04-30T07:30:00.000Z",
-          "wordCount": 6,
-          "title": "电池厂商的尽头是矿商",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719912/",
-          "author": null,
-          "description": "文/张霏 来源/连线 Insight（ID：lxinsight） 不出意外但也略让数码爱好者遗憾——华为新一代折叠机 MateXs 2，仍然不是一款 5G 手机。 4 月 28 日，华为举办了 MateXs 2 线上发布会。这是华为继 MateX、MateXs、MateX2、华为 P50 Pocke\n本文链接",
-          "link": "https://news.cnblogs.com/n/719912/",
-          "publishedOn": "2022-04-30T07:17:00.000Z",
-          "wordCount": 6,
-          "title": "5G仍缺席，但华为必须持续发布折叠机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719914/",
-          "author": null,
-          "description": "近日 Google 正式发布了 Chrome 101 稳定版本，在新版本中引入了多项新功能。如果你已经看过了更新内容，那么就这些新特性而言，Chrome 101 版本并没有十分特别，甚至可以说有点乏善可陈。 事实上，Google 在该版本中还引入了两项对用户影响非常大的功能，而它们并没有被 Goog\n本文链接",
-          "link": "https://news.cnblogs.com/n/719914/",
-          "publishedOn": "2022-04-30T07:00:00.000Z",
-          "wordCount": 6,
-          "title": "Chrome 开始测试新的广告机制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719911/",
-          "author": null,
-          "description": "如果不是金星上稀薄、快速移动的大气层，地球的这颗姐妹行星可能不会旋转。相反，金星会被锁定在一个地方，总是一面朝向太阳，就像月球的同一面总是朝向地球一样。 太空中一个大天体的引力可以阻止小天体旋转，这种现象称为潮汐锁定。美国加利福尼亚大学河滨分校（UCR）的科学家认为，由于大气能够阻止这种锁定，因此在\n本文链接",
-          "link": "https://news.cnblogs.com/n/719911/",
-          "publishedOn": "2022-04-30T00:00:00.000Z",
-          "wordCount": 6,
-          "title": "金星自转一周为何要243天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719910/",
-          "author": null,
-          "description": "文/冷泽林 来源：光子星球（ID:TMTweb) “不在沉默中爆发，便在沉默中灭亡。” 本是鲁迅点醒国人的一句话，却可能在当下新能源市场中成为部分车企最好的注脚。 谁也未曾预料到，疫情的影响如此宽泛。今年开年后整个汽车市场不分能源动力、不分新旧层级，连续遭受了多个利空消息，原材料上涨、补贴倒计时导致\n本文链接",
-          "link": "https://news.cnblogs.com/n/719910/",
-          "publishedOn": "2022-04-29T15:45:59.000Z",
-          "wordCount": 6,
-          "title": "威马、极狐静悄悄",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719909/",
-          "author": null,
-          "description": "封面来源视觉中国 文 乔雪 来源：Tech 星球 B 站似乎在一夜之间长大了，根据 Q4 财报数据，月活达到 2.7 亿，日活达到 6500 万，俨然坐上国内视频平台第三把交椅。 B 站越长越大的另一方面是，曾经被视为B站最重要资产的 up 主们，开始被降低收益，有的收益甚至缩减了 9 成。 4 月\n本文链接",
-          "link": "https://news.cnblogs.com/n/719909/",
-          "publishedOn": "2022-04-29T15:44:52.000Z",
-          "wordCount": 6,
-          "title": "B站成长的烦恼：拔毛up主、抖音化，只为降本增收",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719908/",
-          "author": null,
-          "description": "文 贾琦 来源：财经琦观 小红书创始人毛文超在互联网上的痕迹，正在被有组织地删除。 打开百度，搜索《毛文超:“小红叔”的完美人生历险》、《对话小红书 CEO 毛文超好的内容社区，需要热心的“朝阳群众”一起维护》、《小红书创始人毛文超:白手起家创业，被称为“最懂女人的男人”》等多篇媒体报道，均已显示着\n本文链接",
-          "link": "https://news.cnblogs.com/n/719908/",
-          "publishedOn": "2022-04-29T15:44:01.000Z",
-          "wordCount": 6,
-          "title": "小红书创始人毛文超，为什么“消失”了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719907/",
-          "author": null,
-          "description": "图片来源@视觉中国 文异观财经，作者炫夜白雪 2022 年以来，受俄乌冲突，以及通胀和宏观供应链影响，一些以广告业务为主的社交媒体平台，收入均受到不同程度的影响。 近日，社交媒体平台 Snapchat、Facebook 母公司 Meta、Twitter 相继发布最新季度的财务业绩报告，那么这三家公司\n本文链接",
-          "link": "https://news.cnblogs.com/n/719907/",
-          "publishedOn": "2022-04-29T15:35:00.000Z",
-          "wordCount": 6,
-          "title": "Snap vs FB vs Twitter谁的未来更值得期待？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/719906/",
-          "author": null,
-          "description": "文｜新摘商业评论，作者｜子雨 《2022 年 Q1 移动广告趋势洞察》报告中提到，流量增长放缓已经辐射到各行各业，广告投放的竞争也愈发激烈。 过去几年，短视频就像一个黑洞，侵占了大量用户的时间，甚至改变了用户上网的习惯。对广告主来说，用户的眼球在哪里，流量的价值就在哪里。流量发生了迁移，追踪流量的动\n本文链接",
-          "link": "https://news.cnblogs.com/n/719906/",
-          "publishedOn": "2022-04-29T15:00:00.000Z",
-          "wordCount": 6,
-          "title": "抖音广告，良夜已去",
           "imageUrl": null
         }
       ]
