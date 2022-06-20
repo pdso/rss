@@ -667,26 +667,6 @@
           "wordCount": 69,
           "title": "护肤是门学问：抗老的第一步是要防晒",
           "imageUrl": "https://cdn.sspai.com/2022/05/22/f988dfaa472c77bba6ff7ff3dc1f3226.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/73333",
-          "author": "Eddy_current",
-          "description": "自从在我的教唆下买了M1的MacBook Air后，我女朋友从一开始对Mac的各种不习惯到逐渐被系统调教成功。然而作为一个需要每周开组会写文档做汇报的可怜研究生，她一直不喜欢macOS访达的设计。每当她右键在桌面打开菜单栏，映入眼脸的是New Folder以及一大堆没什么用的选项。她一直和我抱怨：“为什么Mac不能像Windows那样鼠标右键就可以创建一个文档？我每次还得先打开启动台，然后在一堆软件里面找到Word和PowerPoint，好麻烦啊，太不人性化了吧。” 既然她觉得不人性化，那我就给她写一个扩展吧。于是便有了Filer的诞生。\nFiler开发过程简单介绍\n一开始设计Filer的时候害怕Apple没有给开发人员足够的API与权限，所以打算设计成一个菜单栏软件，在某一个路径下，通过顶上的菜单栏来实现文档的创建。不过这一想法遭到了女朋友强烈的嘲讽：“这样看着好low呀，能不能直接在Finder里面出现一个New File选项，这样多方便呀～” 想法初期就这样夭折了，毕竟得听甲方爸爸的意见。\n后来在查阅了一个小时的Apple开发文档，终于找到了一个比较靠谱的API，Finder Sync。Apple官方对这个API的描述为：\n\nEnhance the Finder’s user interface by adding badges, shortcut menu items, and toolbar buttons.\n\n简单来说就是可以给Finder创建扩展的一个API。\n开发过程顺风顺水没有一丝丝挫折，目前Filer的第一个版本顺利诞生了。由于功能比较简单，为了保持简洁的特性选择将Filer创建为一个菜单栏软件，底部程序坞不展示Filer的图标，关闭软件可以通过菜单栏上的退出按钮来实现。\nFiler功能简单介绍\nFiler的第一个版本支持一些简单文本的创建，包括\n\nText 文本\nMarkdown 文本\nWord\nPowerPoint\nPython 文本\nLatex 文本\nJSON 文本\nC/C++ 文本\nMatlab 文本\nFiler支持的文本\n文档创建默认文件名为untitled+文档后缀。后续应该还会加入对其他文档的支持，效率与时间取决于实验室忙不忙啦。\n软件下载\nFiler可以在官网下载，无付费无广告无内购的\"三无产品\"，欢迎各位下载使用。",
-          "link": "https://sspai.com/post/73333",
-          "publishedOn": "2022-05-21T03:34:22.000Z",
-          "wordCount": 93,
-          "title": "Filer: 在 Mac 任何地方轻松创建文档",
-          "imageUrl": "https://cdn.sspai.com/2022/05/21/d40fad724475a155ac1d211a95901ac0.png"
-        },
-        {
-          "id": "https://sspai.com/post/73330",
-          "author": "橘子PJacky",
-          "description": "Apple 在2022年5月19日终于官宣了『 Apple 武汉 』的开业时间，Apple 武汉零售店是大中华区第 54 家 Apple Store 零售店，也是湖北省的首家 Apple Store 。这几年偶尔也会在微博上看到武汉开苹果店的传闻，评论区无外乎都是“求求了赶紧开业吧”、“什么？武汉没有苹果店？”以及“为什么非要苹果店，我只用XX”这样的内容。我就想用这篇文章试图从我的角度我的理解来回答这最后一个问题。\n苹果的『 第三空间 』？\n先说点别的，看到『第三空间』这个词毫无疑问会想到的是星巴克，星巴克也无疑并不是那个最好喝的咖啡店，甚至总是被嘲笑说是“洗锅水”咖啡，而它最为重要的产品便是遍布全世界的星巴克门店；时任星巴克营销总监的霍华德·舒尔茨在出差米兰之后，认为咖啡店就应该像是在意大利大街上随处可见的那样，顾客都在吧台与咖啡师交谈嘻笑，或者和老友同事一起在店里品味咖啡的醇香，当然也可以是独自一人在店里享受午后时光，于是他便致力于改变星巴克，将这家咖啡豆经销商变革为全球连锁的咖啡店。\n然而在这个创意源头的意大利，一直没有办法开一家星巴克，霍华德几次想要开拓意大利市场却屡屡破壁，不知道是星巴克没有准备好，还是意大利没有准备好。法国德国都有上百家星巴克门店，而迟迟在2018年星巴克才开业了在意大利的第一家店--星巴克米兰臻选烘焙工坊，这家店也是欧洲最大的也是唯一一家星巴克烘培工坊，可以说它的象征意义要远远大于它的商业意义。星巴克在意大利的第一家常规门店于一年后2019年10月在都灵开业，开业当天顾客排队进店购买星巴克咖啡，而在店门口也有多名传统意大利咖啡拥护者举牌抗议表示『星巴克的咖啡就是垃圾』，而其实就在不远处的『卡罗·阿尔伯托广场』上就有一家开业于2010的美式咖啡厅，采用了和星巴克类似的纸杯和刷锅水口味咖啡，深受周围年轻人和大学生的喜爱。\n图片来源于网络，值得一提…",
-          "link": "https://sspai.com/post/73330",
-          "publishedOn": "2022-05-20T18:27:22.000Z",
-          "wordCount": 130,
-          "title": "为什么我在期待这一家 Apple Store",
-          "imageUrl": "https://cdn.sspai.com/2022/05/20/22dabdd668fd79e6fc2404b05529c5d3.jpeg"
         }
       ]
     },
@@ -713,6 +693,16 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71873",
+          "author": null,
+          "description": "北京师范大学天文系宇宙学与地外文明研究团组中国地外文明搜寻首席科学家张同杰教授在一篇已删除的报道中透露，其团队使用“中国天眼（FAST）”发现了几例来自地球之外可能的技术痕迹和地外文明候选信号。SETI 项目首席科学家、\n加州伯克利的 Dan Werthimer 在一封电邮中表示，这些信号来自无线电干扰，是因为地球的无线电污染而不是来自 ET。类似故事过去几十年一再发生。至今望远镜观测到的地外文明候选信号都来自地球，如最近一个被认为来自半人马座方向的信号被跟踪到是澳大利亚的无线电干扰。Werthimer 博士认为可能在他的一生中都无法发现一个真正的 SETI 信号，但他坚信一定会找到。他说为了避开地球的无线电污染，可能需要在月球的背面建造一座望远镜。一百年前地球的天空没有人造天体，但那个时候我们缺乏技术手段去观测太空。“一百年后，天空不再存在。”",
+          "link": "https://www.solidot.org/story?sid=71873",
+          "publishedOn": "2022-06-18T16:01:27.000Z",
+          "wordCount": 153,
+          "title": "中国天眼没有发现地外文明信号",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71872",
           "author": null,
@@ -3432,46 +3422,6 @@
           "wordCount": 88,
           "title": "世界最古老的树可能生长在智利",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71594",
-          "author": null,
-          "description": "计算机协会（Association for Computing Machinery 或 ACM）成立于 1947 年，它正在庆祝成立 75 周年，作为庆祝活动的一部分，ACM 数字图书馆 开放获取前五十年出版的文章。出版时间是从 1951 年到 2000 年，文档数量超过 117,500 篇，用户无需登陆可直接下载。过去二十多年出版的文章仍然需要付费或订阅才能访问。开放获取的档案包括了技术文档、期刊文章和研究论文，许多档案都展现了计算机的历史。",
-          "link": "https://www.solidot.org/story?sid=71594",
-          "publishedOn": "2022-05-21T11:25:13.000Z",
-          "wordCount": 90,
-          "title": "ACM 数字图书馆开放前五十年出版的文章",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71593",
-          "author": null,
-          "description": "波音公司为 NASA 商业载人项目研发的飞船 Starliner 于美国时间 5 月 19 日执行了第二次轨道飞行测试（Orbital Flight Test 2 或 OFT-2）。Starliner 的第一次轨道飞行测试是在 2019 年完成的，因为推进器问题未能抵达空间站。它原计划在 2021 年 8 月执行第二次试飞，但因为阀门问题而推迟到今年 5 月。周六时间 00:28 UTC Starliner 飞船抵达国际空间站，它的成功对接对波音的示范飞行具有里程碑意义。飞船将在空间站停留四天然后脱离返回地面。OFT-1 和 OFT-2 都是无人，如果此次任务取得成功，波音的下一次任务将是载人飞行测试。",
-          "link": "https://www.solidot.org/story?sid=71593",
-          "publishedOn": "2022-05-21T10:49:58.000Z",
-          "wordCount": 104,
-          "title": "波音飞船 Starliner 首次对接国际空间站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71592",
-          "author": null,
-          "description": "美国地区法院法官 John Michael Seabright 裁决，外国 BT 下载网站的运营者使用美国服务器允许其他人下载盗版电影需要为侵犯版权承担责任。本案的原告是电影《Hellboy》的制作方 HB Productions，被告是巴基斯坦人 Muhammad Faizan，他经营的 BT 网站 MKVCage 传播了《Hellboy》 的盗版拷贝。因为 Faizan 没有现身法庭为自己辩护，HB Productions 寻求缺席判决，它是在一家夏威夷联邦法院提起诉讼的，但夏威夷法庭对此有疑问，被告是巴基斯坦人，它认为美国法庭对巴基斯坦被告没有司法管辖权。HB Productions 之后补充了更多信息，指出 MKVCage 使用了位于美国的服务器。Seabright 法官认为 BT 网站托管的是侵权文件的元数据，因此本身并没有托管侵犯版权的材料，但网站需要为允许其他人盗版的行为承担责任。",
-          "link": "https://www.solidot.org/story?sid=71592",
-          "publishedOn": "2022-05-21T10:27:14.000Z",
-          "wordCount": 102,
-          "title": "法官裁决可以在美国起诉外国 BT 网站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71591",
-          "author": null,
-          "description": "围绕 ARM 在华合资企业的争夺有了新的发展。一家名为莲鑫集团的企业发表声明：下属莲鑫基金与安谋科技股东 Amber Leading (Hong Kong) Limited、宁波梅山保税港区安创成长股权投资合伙企业（有限合伙）、ARM Ecosystem Holdings (Hong Kong) Limited 达成意向并签署意向书，拟收购安谋科技 51% 股权。莲鑫集团是一家专注于大湾区科技投资的企业公司，本次为收购安谋科技 51% 股权专门成立莲鑫基金。莲鑫集团发言人表示，安谋科技的业务蓬勃发展，离不开客户及各方面的支持，特别是ARM全球的支持，这也是团队共同努力的结果。莲鑫基金有幸在这个重要的项目上与各方进行探讨并取得重大进展，各方期待着顺利完成交易。这一声明发生在 ARM 在华合资公司前首席执行官吴雄昂仍然不愿意下台之后。",
-          "link": "https://www.solidot.org/story?sid=71591",
-          "publishedOn": "2022-05-21T09:51:38.000Z",
-          "wordCount": 95,
-          "title": "神秘公司寻求收购安谋科技 51% 股权",
-          "imageUrl": null
         }
       ]
     },
@@ -3480,6 +3430,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/722995/",
+          "author": null,
+          "description": "6 月 19 日消息，据 The Verge 报道，苹果公司在马里兰州的陶森镇中心 Apple Store 的工人首次投票决定成立工会，有 65 票赞成，33 票反对，大约 110 名员工有资格进行投票。 该商店是美国第一家举行工会投票的苹果 Apple Store，此前亚特兰大的组织者撤回了原定于\n本文链接",
+          "link": "https://news.cnblogs.com/n/722995/",
+          "publishedOn": "2022-06-20T00:48:00.000Z",
+          "wordCount": 161,
+          "title": "苹果美国Apple Store员工首次投票成立工会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722994/",
+          "author": null,
+          "description": "6 月 19 日消息，特斯拉和菲多利 (Frito-Lay) 正在准备交付用户期待已久的 100 辆特斯拉 Semi 电动汽车。 Teslarati 报告称，特斯拉在加州莫德斯托的 Frito Lay 和百事可乐公司的工厂中增加了一台主动式超级充电器（Megacharger），为交付做好准备。 据称\n本文链接",
+          "link": "https://news.cnblogs.com/n/722994/",
+          "publishedOn": "2022-06-20T00:41:00.000Z",
+          "wordCount": 161,
+          "title": "特斯拉电动卡车Semi即将推出，百事可乐100辆新车加速交付",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722993/",
+          "author": null,
+          "description": "6 月 19 日消息，美国西雅图陪审团裁定，前亚马逊软件工程师 Paige Thompson 被指控在 2019 年从 Capital One 窃取数据，犯有电信欺诈罪和五项未经授权访问受保护计算机的罪名。 Capital One 黑客攻击是美国最大的安全漏洞之一，该事件导致 1 亿美国人和 600\n本文链接",
+          "link": "https://news.cnblogs.com/n/722993/",
+          "publishedOn": "2022-06-20T00:38:00.000Z",
+          "wordCount": 161,
+          "title": "前亚马逊工程师被定罪：曾盗窃曝光超1亿人数据，面临最高20年监禁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722992/",
+          "author": null,
+          "description": "网易阴阳师手游官方微博发文回应近期关于“水军”和“内部人员引发玩家矛盾”等争议性问题。 阴阳师表示，绝对没有也不可能安排任何账号发布任何引发玩家之间争议和矛盾的内容，不允许内部成员个人代表官方发声，更不允许任何内部人员以各种方式伤害游戏角色或玩家。 阴阳师还表示，我们内部有严格的规定：不允许内部成员\n本文链接",
+          "link": "https://news.cnblogs.com/n/722992/",
+          "publishedOn": "2022-06-20T00:31:00.000Z",
+          "wordCount": 161,
+          "title": "网易阴阳师手游回应争议：没有安排任何账号发布任何引发玩家之间争议和矛盾的内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722991/",
+          "author": null,
+          "description": "6 月 19 日消息，瑞典制造巨头沃尔沃建筑设备公司已开始测试世界上第一台以氢燃料电池为动力的铰接式卡车。 铰接式卡车是非常大的重型自卸卡车，用于在崎岖的地形上运送重货。铰接式卡车具有旋转接头，将驾驶室与车斗连接起来，消除了作用在车架上的扭转载荷，提高了在崎岖路面上行驶的可靠性。 沃尔沃的 HX04\n本文链接",
+          "link": "https://news.cnblogs.com/n/722991/",
+          "publishedOn": "2022-06-20T00:27:00.000Z",
+          "wordCount": 161,
+          "title": "沃尔沃测试全球首台氢燃料电池铰接式卡车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722990/",
+          "author": null,
+          "description": "日本经济产业省近日表示，将为台积电、索尼集团和电装在日本熊本县建设的半导体工厂提供高达 4760 亿日元（约合 35 亿美元）的补贴。对此中国台湾知名分析师陆行之表示，尽管看起来大手笔补助要比美国看起来有江湖道义，但也要具体看是日本政府的无偿补助，还是政府及客户共同投资下强行要求技术转移。 台积电日\n本文链接",
+          "link": "https://news.cnblogs.com/n/722990/",
+          "publishedOn": "2022-06-20T00:23:00.000Z",
+          "wordCount": 161,
+          "title": "日本提供35亿美元补贴 分析师：不看好台积电的海外投资项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722989/",
+          "author": null,
+          "description": "6 月 19 日消息，据 TheKoreanCarBlog 报道，现代全新电动轿车 IONIQ 6 或将于 7 月 14 日在釜山车展全球首发。 IONIQ 6 本应在 3 月或 4 月首发亮相，但官方推迟了其发布。有消息称，现代汽车公司董事长 Chung Eui-sun 亲自要求在这款电动轿车准备\n本文链接",
+          "link": "https://news.cnblogs.com/n/722989/",
+          "publishedOn": "2022-06-20T00:20:00.000Z",
+          "wordCount": 161,
+          "title": "消息称现代全新电动轿车IONIQ 6将于7月14日全球首发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722988/",
+          "author": null,
+          "description": "6 月 19 日消息，日前，爱立信、OPPO 和高通共同在一款适配了 Android 12 的手机上成功完成了一项 5G 企业网络切片测试。 该项预商用试验使用了爱立信双模 5G 核心网家族的最新产品——动态网络切片组件（Dynamic Network Slicing Selection）及爱立信的\n本文链接",
+          "link": "https://news.cnblogs.com/n/722988/",
+          "publishedOn": "2022-06-20T00:17:00.000Z",
+          "wordCount": 161,
+          "title": "爱立信携手OPPO、高通成功完成5G企业网络切片测试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722987/",
+          "author": null,
+          "description": "普通家用车，恐怕很大一部分没到 10 万公里就换了。 然而，这部车，愣是跑了 161 万公里，而且它还是一部纯电汽车特斯拉 Model S P85。 车主是来自德国的 Hansjörg Gemmingen，这辆他 2014 年购置汽车（据说还是二手），终于达成了累计 100 万英里（约合 160.9\n本文链接",
+          "link": "https://news.cnblogs.com/n/722987/",
+          "publishedOn": "2022-06-20T00:12:00.000Z",
+          "wordCount": 161,
+          "title": "8年开161万公里创世界纪录 德国男子终于对特斯拉无爱：换了8台电机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722985/",
+          "author": null,
+          "description": "微软于 2022 年 6 月 16 日更新了 Microsoft Store 的政策。其中一个值得开发者关注的变化是微软将禁止开源软件或免费软件的 “山寨产品” 收费，以及禁止开发商在商店里使用不合理的高定价。 自从微软逐步开放 Microsoft Store，不再限制开发者仅能上传 UWP 应用之\n本文链接",
+          "link": "https://news.cnblogs.com/n/722985/",
+          "publishedOn": "2022-06-20T00:10:00.000Z",
+          "wordCount": 161,
+          "title": "Microsoft Store 新政策，禁止山寨开源软件收费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722986/",
+          "author": null,
+          "description": "6 月 19 日消息，看点快报 App 近日发布公告，由于公司业务调整，快报 App 将于 2022 年 7 月 18 日正式停止运营。 “尊敬的快报 App 用户： 感谢大家一直以来对快报的关注与支持，由于公司业务调整，快报 App 将于 2022 年 7 月 18 日 12：00 起正式停止运营\n本文链接",
+          "link": "https://news.cnblogs.com/n/722986/",
+          "publishedOn": "2022-06-20T00:05:00.000Z",
+          "wordCount": 161,
+          "title": "腾讯看点快报（原天天快报）App 宣布 7 月 18 日停止运营",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722984/",
+          "author": null,
+          "description": "随着照片和视频处理技术不断提高，如今网络上充斥着各种伪造的内容。Adobe 领导的 CAI 近日宣布将推出一个由三部分组成的开源工具包，就是为了遏制这些错误信息的传播。 CAI（Content Authenticity Initiative）是一个由 Adobe 领导的团体，成立于 2019 年，目\n本文链接",
+          "link": "https://news.cnblogs.com/n/722984/",
+          "publishedOn": "2022-06-20T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "为打击网络虚假图片，Adobe 推出开源工具包",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722983/",
+          "author": null,
+          "description": "微软高级项目经理 Emma Irwin 在社交平台上发文透露称，该公司将为 GNOME 项目提供 1 万美元的资助。 微软在 2020 年设立了一个 FOSS 基金，作为其开源办公室中的一个项目。每个月，微软都会让其员工提名公司有使用但不属于公司（任何人）、且拥有 OSI 许可的开源项目来投票，提名\n本文链接",
+          "link": "https://news.cnblogs.com/n/722983/",
+          "publishedOn": "2022-06-19T14:25:00.000Z",
+          "wordCount": 161,
+          "title": "微软向 GNOME 提供了 1 万美元的资助",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722982/",
+          "author": null,
+          "description": "据路透社报道，TikTok 已完成将美国用户的数据信息迁移到甲骨文公司 (Oracle）的服务器上，从而解决美国监管机构对该应用数据完整性的担忧。 报道称，目前该消息已得到该公司证实。 据了解，甲骨文曾在 2020 年，讨论收购 TikTok 的少数股权，当时字节跳动面临美国出售该应用程序的压力。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/722982/",
+          "publishedOn": "2022-06-19T14:18:00.000Z",
+          "wordCount": 161,
+          "title": "TikTok已将美国用户数据转移到甲骨文，由新团队控制监管，字节跳动无法访问",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722981/",
+          "author": null,
+          "description": "知名量子计算机专家 Scott Aaronson 宣布他将离开 UT Austin 一年，到 AI 创业公司 OpenAI（大部分是远程）从事理论研究，其工作主要是研究防止 AI 失控的理论基础，以及计算复杂性对此有何作为。他承认暂时没有头绪，因此需要花一整年时间去思考。 OpenAI 的使命是确保\n本文链接",
+          "link": "https://news.cnblogs.com/n/722981/",
+          "publishedOn": "2022-06-19T14:11:00.000Z",
+          "wordCount": 161,
+          "title": "Scott Aaronson 将在 OpenAI 研究如何防止 AI 失控",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722980/",
+          "author": null,
+          "description": "微软更新了它的应用商店规则，其中一条是“不要试图从开源或其他通常免费提供的软件中获利，也不要试图相对于产品提供的特性和功能定价过高”。如果过去几年使用过微软应用商店，你会注意到有很多开源软件。这些软件通常不是由原开发者而是由第三方上传的，而且经常将可免费获取的应用变成付费软件。这意味着微软应用商店的\n本文链接",
+          "link": "https://news.cnblogs.com/n/722980/",
+          "publishedOn": "2022-06-19T14:07:00.000Z",
+          "wordCount": 161,
+          "title": "微软应用商店禁止第三方对免费的开源软件收费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722979/",
+          "author": null,
+          "description": "北京师范大学天文系宇宙学与地外文明研究团组中国地外文明搜寻首席科学家张同杰教授在一篇已删除的报道中透露，其团队使用“中国天眼（FAST）”发现了几例来自地球之外可能的技术痕迹和地外文明候选信号。 SETI 项目首席科学家、 加州伯克利的 Dan Werthimer 在一封电邮中表示，这些信号来自无线\n本文链接",
+          "link": "https://news.cnblogs.com/n/722979/",
+          "publishedOn": "2022-06-19T14:00:00.000Z",
+          "wordCount": 161,
+          "title": "中国天眼没有发现地外文明信号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722978/",
+          "author": null,
+          "description": "作者 Bryan McMahon 编译 bluemin 编辑陈彩娴 自 20 世纪 50 年代 DNA 被发现以来，生物学家一直试图将基因序列的长度与一系列细胞成分和蛋白质合成过程联系起来，例如，包括为现在著名的 mRNA 疫苗助力的特定抗体的 mRNA 转录过程。 尽管自 DNA 发现以来，在基因\n本文链接",
+          "link": "https://news.cnblogs.com/n/722978/",
+          "publishedOn": "2022-06-19T10:48:00.000Z",
+          "wordCount": 161,
+          "title": "AI 正在引领一场新型科学革命",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722977/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 【新智元导读】想知道那些超大规模神经网络都是怎么训出来的？OpenAI 一篇文章总结：除了显卡要多，算法也很重要！ 如今 AI 的很多进步都要归功于大型神经网络，尤其是大公司和研究机构提供的预训练模型更是推动了下游任务的进步。 但想自己动手训练一个大型神经网络并不简单，首先\n本文链接",
+          "link": "https://news.cnblogs.com/n/722977/",
+          "publishedOn": "2022-06-19T10:36:00.000Z",
+          "wordCount": 161,
+          "title": "OpenAI秘籍披露：一篇文章教会你训练大型神经网络",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/722976/",
+          "author": null,
+          "description": "文孙鹏越 编辑大风 来源：锌财经 6 月 15 日，缺席许久的叮咚买菜 2022 年 Q1 季度财报，终于姗姗来迟，但迟到的不一定是好消息。 财报显示：叮咚买菜 2022 年 Q1 季度总营收为 54.437 亿元（约合 8.587 亿美元），同比增长 43.2%；GMV（商品交易总额）为 58.5\n本文链接",
+          "link": "https://news.cnblogs.com/n/722976/",
+          "publishedOn": "2022-06-19T10:27:00.000Z",
+          "wordCount": 161,
+          "title": "第一季度亏损近5亿、败走10余城、下注预制菜，叮咚买菜迎至暗时刻",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/722969/",
           "author": null,
@@ -8838,146 +8988,6 @@
           "publishedOn": "2022-05-21T14:51:13.000Z",
           "wordCount": 6,
           "title": "Web3.0革命：机构跑步进场 价值互联网将立",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721191/",
-          "author": null,
-          "description": "美国国家航空航天局（NASA）官方推特 5 月 20 日发布消息称，波音公司星际客船（Starliner）于美国东部时间 20 日 20:28（北京时间 5 月 21 日8:28）与国际空间站对接。 据路透社报道，波音 CST-100 星际客船是波音公司为 NASA 商业载人航天发展计划研制的飞船。\n本文链接",
-          "link": "https://news.cnblogs.com/n/721191/",
-          "publishedOn": "2022-05-21T07:40:00.000Z",
-          "wordCount": 6,
-          "title": "波音星际客船成功对接国际空间站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721190/",
-          "author": null,
-          "description": "撰文 / 王达叶 编辑 / 冒诗阳 背靠上汽、阿里巴巴的智己汽车，首款车还未交付，便陷入了一场舆论危机。 5 月 20 日，《财经天下》周刊从闲鱼等平台看到，大量用户开始将自己下定的智己 L7“转单”，转让价格在 4000 元-7500 元。这些用户多为已经向智己支付了 5000 元锁单定金的首批车\n本文链接",
-          "link": "https://news.cnblogs.com/n/721190/",
-          "publishedOn": "2022-05-21T07:33:00.000Z",
-          "wordCount": 6,
-          "title": "上汽、阿里造车，“天使轮”车主维权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721189/",
-          "author": null,
-          "description": "最近，京东集团新任 CEO 徐雷陆陆续续退出了所有媒体群，一见君发现，多个他以前经常发言的媒体群已经没了徐雷的身影。 出任京东集团 CEO 之前，徐雷在多个媒体群还算活跃，会经常聊一些有关京东业务、足球等话题。 此前，上海疫情关键时期，徐雷发表了上海物资供应的相关言论，引起很大关注。他在朋友圈写道：\n本文链接",
-          "link": "https://news.cnblogs.com/n/721189/",
-          "publishedOn": "2022-05-21T07:28:00.000Z",
-          "wordCount": 6,
-          "title": "京东CEO徐雷退了媒体群",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721188/",
-          "author": null,
-          "description": "5 月 21 日消息，据外媒报道，在发现京东方未经允许擅自更改苹果设定的屏幕规格后，苹果正考虑取消授予该公司的多达 3000 万块 iPhone 14 OLED 屏幕订单。 据称，京东方改变了 iPhone 13 上薄膜晶体管(TFT)的电路宽度，此举可能是为了提高良率。改变设计后，可能会使屏幕更厚\n本文链接",
-          "link": "https://news.cnblogs.com/n/721188/",
-          "publishedOn": "2022-05-21T07:20:00.000Z",
-          "wordCount": 6,
-          "title": "未经许可擅改设计 京东方或失去3000万块iPhone 14屏幕订单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721187/",
-          "author": null,
-          "description": "雷达财经出品文张凯旌编深海 “返贫了（Poor again）。”5 月 17 日，币安创始人赵长鹏转载了一条有关币安投资 Luna 币的报道并评论道。 赵长鹏真的返贫了吗？雷达财经注意到，在美联储激进加息缩表的大背景下，虚拟货币的泡沫正在逐渐破灭，而 Luna 币的暴雷则成为了标志性的事件。仅用时几\n本文链接",
-          "link": "https://news.cnblogs.com/n/721187/",
-          "publishedOn": "2022-05-21T07:15:00.000Z",
-          "wordCount": 6,
-          "title": "“华人首富”赵长鹏，真的一夜返贫了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721186/",
-          "author": null,
-          "description": "5 月 21 日消息，美国当地时间周五，特斯拉首席执行官埃隆·马斯克（Elon Musk）宣布，这家电动汽车制造商正在组建“核心诉讼部门”，以“直接发起诉讼”。此举引发了许多猜测，因为它恰好发生在针对马斯克的性骚扰指控之后。 马斯克在推特上宣布：“特斯拉正在组建核心诉讼部门，我们将直接发起和执行诉讼\n本文链接",
-          "link": "https://news.cnblogs.com/n/721186/",
-          "publishedOn": "2022-05-21T07:07:00.000Z",
-          "wordCount": 6,
-          "title": "打破沉默？马斯克宣布特斯拉组建“核心诉讼部门”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721185/",
-          "author": null,
-          "description": "近日，在美国国家航空航天局(NASA)的冷原子实验室(CAL)内，科学家将超冷原子气体形成超冷原子气泡，有助于为量子研究开辟新途径。相关成果发表在《自然》(Nature)。 图片来自《自然》(Nature) 自 NASA 阿波罗计划以来，美国宇航员已经记录了液体在微重力环境下与地球上的不同表现：在微\n本文链接",
-          "link": "https://news.cnblogs.com/n/721185/",
-          "publishedOn": "2022-05-21T07:00:00.000Z",
-          "wordCount": 6,
-          "title": "接近绝对零度：国际空间中的超冷原子气泡为量子研究另辟蹊径",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721184/",
-          "author": null,
-          "description": "游戏业务继续经历低迷，近期有回暖的迹象，但带腾讯去到下一个未来的船票，可能不是游戏 文刘以秦 编辑谢丽容 腾讯正在进行新一轮裁员。 多位不同业务线的腾讯人士告诉《财经十一人》，目前大部分的事业群都在裁员，包括腾讯云、游戏业务、广告业务、内容业务等，投资部门暂未裁员。其中腾讯游戏业务人士称，裁员比例大\n本文链接",
-          "link": "https://news.cnblogs.com/n/721184/",
-          "publishedOn": "2022-05-20T23:26:01.000Z",
-          "wordCount": 6,
-          "title": "腾讯裁员范围扩大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721183/",
-          "author": null,
-          "description": "原标题：悔过自忏还是明哲保身？承认“造谣”的温州特斯拉车主，仍在漩涡之中 记者丨李星 2020 年 8 月，浙江温州特斯拉失控事件车主陈俊（化名）因驾驶一辆 Model 3 高速冲撞停车场的拦截杆并连撞多辆车引发了外界关注。两年之后，2022 年 5 月 9 日，陈俊因一份道歉信再次成为舆论焦点。他\n本文链接",
-          "link": "https://news.cnblogs.com/n/721183/",
-          "publishedOn": "2022-05-20T23:25:25.000Z",
-          "wordCount": 6,
-          "title": "承认造谣的特斯拉车主或发布新道歉信",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721182/",
-          "author": null,
-          "description": "在互联网企业“降本增效”的大环境下，B站也开始裁员。 资料图 5 月 20 日，澎湃新闻记者从B站内部员工获悉，近期B站正开启新一轮裁员，重灾区为游戏业务。员工称，游戏业务整体裁员比例达到 20%-30%，其中个别项目达到 70%，有员工将此戏称为“毕业季”开启。 去年年底到今年年初之间，B站游戏业\n本文链接",
-          "link": "https://news.cnblogs.com/n/721182/",
-          "publishedOn": "2022-05-20T23:23:20.000Z",
-          "wordCount": 6,
-          "title": "B站调整游戏业务？有员工称整体裁员比例超过20%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721181/",
-          "author": null,
-          "description": "“人民在线 Peopleyun”微信公众号消息，5 月 20 日，国家级数据云平台“人民云”正式上线。 “人民云”基础技术平台由人民数据管理（北京）有限公司与北京世纪互联宽带数据中心有限公司共建。平台提供云主机、数据库、混合云、裸金属云、容器云、云原生等云产品服务；提供数据中心租赁、建设、机房托管、\n本文链接",
-          "link": "https://news.cnblogs.com/n/721181/",
-          "publishedOn": "2022-05-20T23:21:50.000Z",
-          "wordCount": 6,
-          "title": "“人民云”正式上线，将在全国多地投建数据中心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721180/",
-          "author": null,
-          "description": "5 月 20 日，“微信珊瑚安全”微信公众号发布公告称，微信视频号将展示用户发布内容时的帐号 IP 属地。平台展示的帐号 IP 属地为用户发布视频或评论时的网络位置，境内帐号展示到省（自治区、直辖市），境外帐号展示到国家（地区），帐号 IP 属地以运营商提供信息为准，用户暂时无法主动开启或关闭相关展\n本文链接",
-          "link": "https://news.cnblogs.com/n/721180/",
-          "publishedOn": "2022-05-20T23:21:09.000Z",
-          "wordCount": 6,
-          "title": "微信视频号将展示用户IP属地，用户暂无法主动开启或关闭相关展示",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721179/",
-          "author": null,
-          "description": "Max Ehrmann 在其著名的诗歌《Desiderata》中形容每个人都是宇宙的孩子。在字面意义上，我们确实是宇宙之子，人体含有恒星的成分。人类及地球所有生命都是以碳-12 元素为基础。而碳-12 需要恒星内部的高温和高压才能形成。碳是氢、氦和氧之后第四丰富的元素。创造大爆炸创造了氢气和氦气。恒\n本文链接",
-          "link": "https://news.cnblogs.com/n/721179/",
-          "publishedOn": "2022-05-20T14:52:56.000Z",
-          "wordCount": 6,
-          "title": "碳-12 如何在恒星中形成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/721178/",
-          "author": null,
-          "description": "正在与哥斯达黎加政府打信息战的勒索软件组织 Conti 关闭了运作，下线了其基础设施。安全专家 Yelisey Boguslavskiy 称 Conti 成员用于协商和发布信息的 Tor 管理面板已经下线。其它内部基础设施也已经离线。Boguslavskiy 认为 Conti 高调的攻击哥斯达黎加政\n本文链接",
-          "link": "https://news.cnblogs.com/n/721178/",
-          "publishedOn": "2022-05-20T14:52:10.000Z",
-          "wordCount": 6,
-          "title": "Conti 关闭运营化整为零",
           "imageUrl": null
         }
       ]
