@@ -2,10 +2,370 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-23T01:27:49.380Z</updated>
+    <updated>2022-06-24T01:42:36.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“芯片之母”华大九天突破封锁！56岁复旦校友即将敲钟]]></title>
+        <id>https://news.cnblogs.com/n/723312/</id>
+        <link href="https://news.cnblogs.com/n/723312/"/>
+        <updated>2022-06-24T00:48:00.000Z</updated>
+        <summary type="html"><![CDATA[记者｜覃毅 编辑｜江昱玢 “中国芯”破冰行动驶向快车道。 6 月 22 日，国产 EDA 龙头华大九天在创业板 IPO 注册获证监会批准，即将敲响上市的钟声。 芯片设计软件工具 EDA 被誉为“芯片之母”，是集成电路（IC）产业上游最高端的产业之一。作为电子设计的“刚需”，它被应用于 IC 设计、制
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国SLS登月火箭湿彩排又漏了？不管了赌一把，8月发射时间不变]]></title>
+        <id>https://news.cnblogs.com/n/723311/</id>
+        <link href="https://news.cnblogs.com/n/723311/"/>
+        <updated>2022-06-24T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[美国新一代载人登月火箭 SLS，不仅关系到美国重返月球“阿尔忒弥斯”计划的进度，而且也决定了 SpaceX“星舰”的首次轨道级试飞时间，因此它的一举一动备受外界的关注。可是这几个月折腾过来，它实在是太不给力。 首先是在 3 月 18 日，火箭从装配大楼被拖到肯尼迪航天中心 39B 发射台，杵了十几天
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千元“买皮肤”？虚拟服装是元宇宙狂欢，还是收割智商税]]></title>
+        <id>https://news.cnblogs.com/n/723310/</id>
+        <link href="https://news.cnblogs.com/n/723310/"/>
+        <updated>2022-06-24T00:32:00.000Z</updated>
+        <summary type="html"><![CDATA[小红书上展示的虚拟服装。截图 “元宇宙”的魅力，正蔓延至虚拟服装，并成为一门生意。 “虚拟时空里，金属可以长出花瓣，波浪可以织就裙摆，水晶可以反重力倒流，而你，可以变装成任何模样”。新京报贝壳财经记者发现，小红书等社交平台上，虚拟服装、虚拟配饰、甚至虚拟翅膀都可以实现穿戴，打造“专属时装大片”。 它
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html"/>
+        <updated>2022-06-24T00:30:53.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+6月21日，河南濮阳市到达 40℃ 高温。为了降温，某小区开启人工降雨，大楼楼顶的喷淋系统向楼身喷水，相当于为整个小区浇一个凉水澡。据报道，喷淋一次的成本为6000元左右。（via）
+本周话题：虚拟商品可以拉动 GDP
+本周，脸书宣布推出线上的虚拟服装商店，里面有很多名牌服装（比如 Prada），用户买来在虚拟世界穿。
+
+我看到这个新闻，不禁想到以前就思考过的一个观点：虚拟商品的交易，可以拉动 GDP 增长，与实物商品的效果是一样的。
+虚拟服装、游戏道具、表情包......这些纯数字的虚拟商品，交易金额都是 GDP 的一部分，用户买得越多，GDP 就越高。不夸张地说，购买一个游戏道具，也是在为 GDP 做贡献。
+
+有些朋友不了解经济学，我简单解释一下。GDP 有一种计算方法，就是统计一段时间内的消费总金额。消费金额越大，就表示经济总量越大，GDP 越高。至于消费的是什么，实体商品还是虚拟商品，并不区分。
+这里的关键是必须消费，才会计入 GDP。有一个经典例子，你付钱在餐馆吃饭，就会增加 GDP；你自己在家做饭，就不会，因为这样没有发生交易。
+这个原则也适用于虚拟物品。比如，微信打赏就不计入 GDP，因为它本质上是一种赠与，不是消费，也没有发生交易。
+
+如果腾讯改变打赏规则，规定只能用 Q 币打赏，那就会计入 GDP。因为用户必须先购买 Q 币，这就会发生交易。
+同理，直播时给主播送礼物，是增加 GDP 的。以抖音直播为例，它使用"抖币"打赏，1元人民币可以购买10个"抖币"。用户将抖币换成礼物，送给主播。一束数字鲜花，需要10个抖币，…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌警告：苹果和安卓手机都遭到意大利间谍软件攻击]]></title>
+        <id>https://news.cnblogs.com/n/723309/</id>
+        <link href="https://news.cnblogs.com/n/723309/"/>
+        <updated>2022-06-24T00:28:00.000Z</updated>
+        <summary type="html"><![CDATA[6 月 24 日消息，美国当地时间周四，谷歌发出警告称，意大利软件开发商 RCS Lab 提供的黑客工具被用来发动攻击，主要针对意大利和哈萨克斯坦的苹果和安卓智能手机进行间谍活动。 谷歌旗下威胁分析小组和 Project Zero 漏洞分析团队在报告中称，总部位于米兰的 RCS Lab 开发了多款工
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows对俄“断供”，国产操作系统还好用吗？]]></title>
+        <id>https://news.cnblogs.com/n/723308/</id>
+        <link href="https://news.cnblogs.com/n/723308/"/>
+        <updated>2022-06-24T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[【文/观察者网吕栋编辑/周远方】 操作系统，被视为计算机体系的“灵魂”，起着“承上启下”的关键作用。 但好用的国产桌面操作系统一直难现。 究其根本原因，Windows、苹果等美国厂商拥有巨大的先发与产业聚集优势，其常年保持超过 90% 的市占率，让国产桌面操作系统难有商业生存空间。 但近来伴随 Wi
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA前副局长：马斯克曾遭俄罗斯设计师吐口水，激发造飞船决心]]></title>
+        <id>https://news.cnblogs.com/n/723307/</id>
+        <link href="https://news.cnblogs.com/n/723307/"/>
+        <updated>2022-06-24T00:18:00.000Z</updated>
+        <summary type="html"><![CDATA[6 月 24 日消息，在最近出版的回忆录中，美国宇航局（NASA）前副局长洛丽·加弗（Lori Garver）详细回忆了特斯拉首席执行官埃隆·马斯克（Elon Musk）创办 SpaceX、自主研发火箭的过程。 这本回忆录名为《逃离地心引力：我改造 NASA 并开启新太空时代的探索》 （Escapi
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机顶会CVPR：中国投稿数第一，李飞飞获黄煦涛纪念奖]]></title>
+        <id>https://news.cnblogs.com/n/723306/</id>
+        <link href="https://news.cnblogs.com/n/723306/"/>
+        <updated>2022-06-24T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[CVPR 速递：中国投稿数最高，占全部的 44.59%；同济大学、阿里集团拿下最佳学生论文奖；黄煦涛纪念奖花落斯坦福大学教授李飞飞；《Learning to Solve Hard Minimal Problems》获最佳论文奖。 除此之外，值得一提的是，今年 CVPR 大会特设了缅怀近期因病去世的青
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钟薛高进入“休眠期” 前途在哪里？]]></title>
+        <id>https://news.cnblogs.com/n/723305/</id>
+        <link href="https://news.cnblogs.com/n/723305/"/>
+        <updated>2022-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[编辑于斌 出品潮起网‘于见专栏’ 雪糕冰品，作为解暑的一大利器，深得老中青的喜爱。在梦龙、哈根达斯、歌帝梵牢牢盘踞高端冰品市场多年后，几乎没有国内品牌能与它们抗衡。但在近年，网红品牌钟薛高就异军突起，试图对高端冰品市场发起挑战。 钟薛高于 2018 年在上海正式挂牌成立，在短短的四年时间里，它从一个
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯启动新一轮优化，PCG成重灾区，一个千人团队计划砍一半]]></title>
+        <id>https://news.cnblogs.com/n/723298/</id>
+        <link href="https://news.cnblogs.com/n/723298/"/>
+        <updated>2022-06-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PCG 新闻中心目前大概 1000 人，第一轮优化后将降至 800 人，第二轮优化压缩至 500 人。 作者 王么么 编辑 张子睿 来源：豹变 6 月 23 日，有腾讯 PCG（平台与内容事业群）员工向《豹变》透露，今天收到一封有关事业群组织变革的内部邮件。根据公司规划，将成立平台运营部和综合管理部
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了抢用户，「Facebook」要改算法了]]></title>
+        <id>https://news.cnblogs.com/n/723297/</id>
+        <link href="https://news.cnblogs.com/n/723297/"/>
+        <updated>2022-06-23T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[文白鲸出海 Facebook 改名 Meta，就是求新，希望元宇宙能够让自己在 web3.0 时代依然是全球的社交流量入口，当然换一个角度，绝大多数的求新，与不断变化的环境有关，因而 Meta 改名的时间点，也是公司日子不太好过的起点。造成这一现状的“始作俑者”有很多，苹果的 IDFA 新政、Tik
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想汽车纯电车型或搭载麒麟电池]]></title>
+        <id>https://news.cnblogs.com/n/723296/</id>
+        <link href="https://news.cnblogs.com/n/723296/"/>
+        <updated>2022-06-23T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[理想汽车创始人李想今天转发了宁德时代发布麒麟电池的消息，并配文明年见，引起业内猜想。 有媒体猜测，理想汽车或将会在明年推出搭载麒麟电池的理想汽车车型。目前，宁德时代官方微博也转载了李想的相关微博，明确此次合作。宁德时代今天发布了 CTP3.0 麒麟电池，系统集成度创全球新高，体积利用率突破 72%，
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔚来正在失去信徒]]></title>
+        <id>https://news.cnblogs.com/n/723295/</id>
+        <link href="https://news.cnblogs.com/n/723295/"/>
+        <updated>2022-06-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文金角财经，作者梦清 6 月 22 日下午，上海创新港蔚来汽车总部，一辆蔚来汽车从 3 楼冲出坠落。 据澎湃新闻报道，车内两人均已死亡。 图源来自网络 真是，屋漏偏遇连夜雨。 一个礼拜前，蔚来抢在理想、小鹏之前推出新车 ES7，却被刚刚发布的理想 L9 抢尽了风头。 蔚来销量掉队已经很久了，近期又接
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[短视频挺进在线音乐腹地]]></title>
+        <id>https://news.cnblogs.com/n/723294/</id>
+        <link href="https://news.cnblogs.com/n/723294/"/>
+        <updated>2022-06-23T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[文一点财经，作者赵同，编辑刘煜 一条爆火的短视频，往往带有神级的 BGM。 你可能不知道这些 BGM 的名字，但一定被旋律洗脑过，甚至无意中哼了出来，大家对它们是又爱又恨。 一方面歌曲确实抓耳上头，让人听得停不下来。另一方面又觉得毫无营养，仿佛音乐里的快餐食品，吃过不会觉得有多大益处，权当充饥了。 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brave Search Goggles：用规则和过滤器改变搜索排名]]></title>
+        <id>https://www.solidot.org/story?sid=71923</id>
+        <link href="https://www.solidot.org/story?sid=71923"/>
+        <updated>2022-06-23T09:38:32.000Z</updated>
+        <summary type="html"><![CDATA[民主在黑暗中死去，如果公众不被告知事实和真相，民主不可能存在。受益于黑暗的人总是试图通过宣传控制媒体和操纵公众舆论。以前操纵媒体的主要是国家，但随着互联网的普及和私有化的社交媒体，宣传不再只是精英阶层的工具，而是被商品化，像广告一样易于获得，成为许多人能利用的武器。但假新闻的风险无法被忽视。如果公众不能区分事实、观点和完全错误的信息，那么社会会变得十分危险。这就是浏览器 Brave 的搜索团队的动机（PDF），它开发了一种允许用户利用规则和过滤器改变搜索排名减少偏见的工具：Brave Search Goggles。源代码发布在 GitHub 上，beta 版本的 Goggles 已经上线供用户尝试。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乐视视频发会员不涨价通知：一直在“吃老本” 没资格涨价]]></title>
+        <id>https://news.cnblogs.com/n/723293/</id>
+        <link href="https://news.cnblogs.com/n/723293/"/>
+        <updated>2022-06-23T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[6 月 23 日消息，在“爱优腾”纷纷宣布涨价后，乐视视频今日下午发布会员不涨价通知，称乐视视频会员不涨价，也没有资格涨价。 乐视视频表示，乐视视频已经走过 18 个年头，近几年并没能为用户、为行业带来具有影响力的影视作品，一直在“吃老本”，深感惭愧。 上新优质的影视剧内容是会员涨价的前提，同时也是
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[焦虑的年轻人，开始逃离叫卖式直播间]]></title>
+        <id>https://news.cnblogs.com/n/723292/</id>
+        <link href="https://news.cnblogs.com/n/723292/"/>
+        <updated>2022-06-23T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[文/黎文婕 来源：锌刻度（ID:znkedu) 直播间，到了一个转折的路口 “新东方直播间再看下去，我可能灵魂富了，钱包穷了。一时之间竟然说不好到底我是赚了，还是赔了。” 这个夏天，有的吸引了大批粉丝的带货直播间不再“上播”，有的跨行试水的直播间却一夜之间让大家“原本只想买根玉米，却看哭了”。东方甄
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有什么区别和好坏，但一定要有热爱 | 专访戴森女性工程师]]></title>
+        <id>https://news.cnblogs.com/n/723291/</id>
+        <link href="https://news.cnblogs.com/n/723291/"/>
+        <updated>2022-06-23T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[今天是第 9 个国际女性工程师日，今年的节日主题是 「发明家和创新者」。这个节日旨在提高女性在工程领域的平等地位，为女性工程师提供更好的职业机会，并庆祝女工程师取得的杰出成就。 我们也借着节日契机，对戴森的女性工程师进行了专访——在被认为是男性主导的工程行业中，女性同样能够乘风破浪。 ▲ 图片来自：
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物理资产上链首次实现规模化突破，蚂蚁链能源产业上链设备破500万]]></title>
+        <id>https://news.cnblogs.com/n/723290/</id>
+        <link href="https://news.cnblogs.com/n/723290/"/>
+        <updated>2022-06-23T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[产业区块链获得新突破，在大规模商用上验证了可行性，而融合技术是这一突破的关键点。 记者今日从蚂蚁集团旗下蚂蚁链了解到，其通过区块链 +IoT 技术的融合探索，率先在新能源产业中实现 “上链” 设备量突破 500 万，主要覆盖新能源车、太阳能光伏、新能源电池等。 业内人士表示，这表明物理资产可信数字化
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔚来测试车冲出总部大楼坠落 两名试车员死亡]]></title>
+        <id>https://news.cnblogs.com/n/723289/</id>
+        <link href="https://news.cnblogs.com/n/723289/"/>
+        <updated>2022-06-23T08:48:00.000Z</updated>
+        <summary type="html"><![CDATA[6 月 23 日消息，日前，网上曝光一辆蔚来汽车从蔚来总部创新港停车楼坠落，图片显示，一辆汽车侧翻在地，车辆破损严重。 有媒体向蔚来汽车客服工作人员求证得到回复：“(总部一汽车坠楼)确有其事，疑似 ET7，目前具体情况还在调查中，尚不清楚事故原因。后续调查清楚会对外公布，车主们可以放心用车。” 据大
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心肌梗死后，实现心脏细胞的修复与再生]]></title>
+        <id>https://news.cnblogs.com/n/723288/</id>
+        <link href="https://news.cnblogs.com/n/723288/"/>
+        <updated>2022-06-23T08:42:00.000Z</updated>
+        <summary type="html"><![CDATA[科学家们开发了一种新技术，可以在心脏病发作(或心肌梗塞)后修复甚至再生心肌细胞。 虽然到目前为止只在老鼠身上进行了测试，但如果它在人类身上同样有效，它可能会成为心脏病发作患者的救命疗法。 该技术使用合成信使核糖核酸 (mRNA)。 mRNA 创造了 DNA 序列的“蓝图”，然后身体使用它来构建形成和
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宁德时代正式发布CTP3.0麒麟电池 将于2023年量产上市]]></title>
+        <id>https://news.cnblogs.com/n/723287/</id>
+        <link href="https://news.cnblogs.com/n/723287/"/>
+        <updated>2022-06-23T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[6 月 23 日消息，今日，宁德时代正式发布了 CTP3.0 麒麟电池。 宁德时代表示，CTP3.0 麒麟电池系统集成度创全球新高，体积利用率突破 72%，能量密度可达 255Wh/kg，轻松实现整车 1000 公里续航。 据介绍，宁德时代通过全球首创的电芯大面冷却技术，麒麟电池可支持 5 分钟快速
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用推文和喷鼻剂对抗新冠的免疫学家]]></title>
+        <id>https://www.solidot.org/story?sid=71921</id>
+        <link href="https://www.solidot.org/story?sid=71921"/>
+        <updated>2022-06-23T07:40:27.000Z</updated>
+        <summary type="html"><![CDATA[在美国等国，Covid-19 疫情进入了一个矛盾的阶段，这种冠状病毒演化出了具有高度传染性的变种，导致病例激增，但是公众的态度变得漠不关心，影响了防疫措施的效果。耶鲁大学医学院的 Akiko Iwasaki 等免疫学家敏锐地意识到，尚未结束的疫情仍在造成影响，因此继续在实验室中与这种病毒作斗争。Iwasaki 最近在《纽约时报》的一篇专栏文章中写道：“敌人已经演化，世界需要下一代疫苗”。尽管目前针对这种冠状病毒的疫苗在预防重症和死亡方面非常有效，但在预防感染方面却不太成功。Iwasaki 表示，鼻喷剂形式的疫苗可能会改变这种状况，阻止感染以及很多之前的感染者都出现的一系列“Covid 长期症状”。与世界各地的其他实验室一样，耶鲁大学 Iwasaki 的小组正开发鼻腔喷雾剂。她及其团队还试图解开 Covid 长期症状的谜团，以及为什么只有一些人受到折磨。Iwasaki 表示，疫情“改变了我的科研方向”，她和许多其他研究人员一样，在疫情出现后，将实验室重新定位于这种冠状病毒的研究。在此之前，实验室的大部分工作都是研究被称为先天免疫系统的身体防御机制是如何检测病毒，以及它是如何帮助启动粘膜中的免疫反应的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半数英国人支持用基因组编辑预防严重疾病]]></title>
+        <id>https://www.solidot.org/story?sid=71920</id>
+        <link href="https://www.solidot.org/story?sid=71920"/>
+        <updated>2022-06-23T07:34:17.000Z</updated>
+        <summary type="html"><![CDATA[一项调查显示，逾半数英国人支持改写人类胚胎 DNA 以预防严重或危及生命的疾病。受生育和基因组学慈善机构进步教育信托基金（PET）的委托，Ipsos 民意调查发现，53% 的人支持使用人类基因组编辑预防儿童患上囊性纤维化等严重疾病。对于使用这种方法预防哮喘等较温和疾病的热情较低，只有 36% 的人赞成，只有五分之一的人表示支持创造基因工程婴儿，但是不同年龄段的人对这种技术的看法差异显著。年轻一代比老年人更喜欢基因工程婴儿，16 至 24 岁年龄段中有 38 %的人，25 至 34 年龄段中有 31% 的人支持使用基因编辑让父母选择孩子的身高、眼睛和头发的颜色等特征。在英国等国家，对怀孕用胚胎进行基因组编辑是非法的，但是如果研究表明这种做法可安全地预防严重疾病，这些限制就可能被取消。基因组编辑被寄予厚望，可能会改变一系列遗传性疾病的治疗，从囊性纤维化和肌肉萎缩症到泰萨二氏病，泰萨二氏病是一种会逐渐破坏神经系统的罕见疾病。原则上，导致这些疾病的有缺陷的基因可以在体外受精的胚胎中被改写，从而使这些胚胎发育成健康的婴儿。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 年后 NASA 开始关闭航海者号]]></title>
+        <id>https://www.solidot.org/story?sid=71919</id>
+        <link href="https://www.solidot.org/story?sid=71919"/>
+        <updated>2022-06-23T07:29:08.000Z</updated>
+        <summary type="html"><![CDATA[NASA 开始关闭航海者号宇宙飞船的系统，标志着探测器 50 年生涯的终章拉开了序幕。航海者一号和航海者二号是两个完全相同的探测器，于 1977 年发射，穿越星际空间到达太阳系边缘，让人类得以近距离观察木星和土星的卫星。现在为了让它能一直运行到 2030 年，NASA 必须开始限制航海者号的运作。约翰霍普金斯大学应用物理实验室的物理学家 Ralph McNutt 表示：“我们已运行了 44 年半。”“所以加了十倍的小心，保障这些该死的东西正常。”航海者一号还剩下四个仪器在工作，而航海者二号剩下五个，所有这些仪器都是通过将衰变的钚转化为电力来供电。这种电池的输出功率每年会降低大约 4 瓦，因此 NASA 不得不做出艰难的选择，决定关闭哪些功能；2019 年，工程师们不得不关闭了宇宙射线探测器的加热器，这是探测航海者二号何时离开太阳风层（磁层、天体层和太阳最外层大气层）的关键设备。NASA 将最后关闭的仪器可能是磁强计和等离子体科学仪器，它们在宇宙飞船的主体之内。计算机散发出的热量可帮助加热，而其他的仪器则悬挂在 13 米长的玻璃纤维吊杆上，这意味着它们在关闭之前能坚持的时间最长。两艘宇宙飞船距离地球都很远，即使是以光速传播的无线电信号，抵达航海者一号也需要 22 个小时，抵达航海者二号需要 18 个多小时。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从视频中快速提取关键文字信息（macOS 专享）]]></title>
+        <id>https://sspai.com/post/73895</id>
+        <link href="https://sspai.com/post/73895"/>
+        <updated>2022-06-23T07:19:47.000Z</updated>
+        <summary type="html"><![CDATA[随着短视频的流行，大家对于信息获取的渠道越来越到的依赖视频和图片，有些内容是适合视频和图片化，而有些则不是，但是因为注意力焦点转移的问题。人们在短视频中花了太多的时间，实际上获取和沉淀下来，可供二次创作的信息越来越少，换言之——信息水化严重。那么如何从这些视频、图片中提取干货呢？
+处理图片里的文字，首先想到 OCR 对吗？利用图像识别可以获取图片中的文字，大家并不陌生，也有很多浏览器插件可以实现 OCR。一般情况下，对图片 OCR 需要下载特殊的程序、或者依赖外部网络来远端识别。缺陷就是操作繁琐，如果是网络 OCR 速度则受网络影响很大，速度、精度都不佳。随着近年来，苹果在硬件和软件方面的突飞猛进，在 macOS 上有了更快速、可靠、免费的工具——点击图片复制文字。 比方说
+iPhone 相册自带的从图片中获取文字
+你可以通过选中对应位置来对单独的文字做处理，复制、翻译。
+而支持相册里复制文字功能背后的技术，第三方 app 也可以使用，所以 LightNote 就是利用苹果设备内置的算力来提供这项功能——高效和准确。
+适用场景
+视频大部分时候是为了提供即时的享受，但有些视频里藏着重要的信息，你不想错过。举个例子，《报告老板》的片头都要大段的文字来表述本集的内容，为其定性、定调，不乏一些有趣的段子。如果你想了解完整的内容，可以在合适的时候暂停、人肉誊写或者截屏后，寻找单独的 app 或者网络服务做 OCR 来实现——冗长繁琐。 LightNote 提供了一键截屏 + OCR 功能，并且可将此截图和结果用笔记的形式保存起来，供日后检索、再创作。
+
+依赖视频学习课程、新技能的人群。他们在视频中接收更生动活泼的知识关注，在快乐学习的时候，还是会需要把视频中的信息，保存为文字消化、吸收成为自己的知识。比如你想把下面这个历史题目作为背诵内容的素材。
+历史试卷
+抑或只是科普、视频讲解、赏…]]></summary>
+        <author>
+            <name>xiangheka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国今年 IPO 筹资额居全球之首]]></title>
+        <id>https://www.solidot.org/story?sid=71918</id>
+        <link href="https://www.solidot.org/story?sid=71918"/>
+        <updated>2022-06-23T07:17:39.000Z</updated>
+        <summary type="html"><![CDATA[在 2600 万人口的上海进入封锁之际，当地有关部门迅速做出反应，派出了一支干部队伍来保护这座中国金融之都一项最宝贵的资源：首次公开发行(IPO)。就在上海居民纷纷在社交媒体上抱怨居家隔离期间的生活时，中国证券监管机构派出官员驻扎在上海证券交易所(SSE)。他们白天通过视频会议对上市申请人进行审查，然后批准上市交易，晚上就睡在行军床和充气床垫上。此举帮助中国今年 IPO 总额达到近 350 亿美元，为美国的两倍。其中半导体行业的 IPO 达到 66 亿美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现 Mega 的文件加密容易破解]]></title>
+        <id>https://www.solidot.org/story?sid=71917</id>
+        <link href="https://www.solidot.org/story?sid=71917"/>
+        <updated>2022-06-23T05:26:57.000Z</updated>
+        <summary type="html"><![CDATA[云储存服务 Mega 有 2.5 亿注册用户，1200 亿个文件，逾 1000 PB 存储空间。Mega 的一大卖点是文件加密，该公司宣称没有其它云储存公司提供端对端加密，表示只要密码足够强其他人都无法访问用户储存的文件，即使它的基础设施都被扣押。研究人员发布报告指出这一说法并不正确。Mega 用于加密文件的架构充斥着基本的加密学漏洞，只要用户登陆的次数足够多，控制该平台的人很容易执行密钥恢复攻击。恶意者可以破解加密的文件，甚至在用户账号下上传恶意文件。Mega 在 3 月份收到了研究人员的报告，本周释出了一个更新，加大了攻击难度。但研究人员指出这并没有修复他们所发现的密钥复用等诸多问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广电总局发布《网络主播行为规范》]]></title>
+        <id>https://www.solidot.org/story?sid=71916</id>
+        <link href="https://www.solidot.org/story?sid=71916"/>
+        <updated>2022-06-23T03:22:40.000Z</updated>
+        <summary type="html"><![CDATA[广电总局发布了《网络主播行为规范》。其中规定：通过互联网提供网络表演、视听节目服务的主播人员，包括在网络平台直播、与用户进行实时交流互动、以上传音视频节目形式发声出镜的人员，应当遵照本行为规范。利用人工智能技术合成的虚拟主播及内容，参照本行为规范...
+对于需要较高专业水平（如医疗卫生、财经金融、法律、教育）的直播内容，主播应取得相应执业资质，并向直播平台进行执业资质报备，直播平台应对主播进行资质审核及备案...
+建立健全网络主播入驻、培训、日常管理、业务评分档案和“红黄牌”管理等内部制度规范。对向上向善、模范遵守行为规范的网络主播进行正向激励；对出现违规行为的网络主播，要强化警示和约束；对问题性质严重、多次出现问题且屡教不改的网络主播，应当封禁账号，将相关网络主播纳入“黑名单”或“警示名单”，不允许以更换账号或更换平台等形式再度开播。对构成犯罪的网络主播，依法追究刑事责任。对违法失德艺人不得提供公开进行文艺表演、发声出镜机会，防止转移阵地复出。网络表演、网络视听经纪机构要加强对网络主播的管理和约束，依法合规提供经纪服务，维护网络主播合法权益。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里巴巴性侵案客户被判 18 个月]]></title>
+        <id>https://www.solidot.org/story?sid=71915</id>
+        <link href="https://www.solidot.org/story?sid=71915"/>
+        <updated>2022-06-23T03:11:01.000Z</updated>
+        <summary type="html"><![CDATA[去年夏天阿里巴巴的一名周姓女员工指控她的经理和公司客户在商务宴请中将其灌醉后性侵犯了她。
+几个月后，事情的发展并不如预期。9 月检察官决定不起诉其领导，称他的行为不构成犯罪。11 月阿里巴巴解雇了这名女子。该公司称，周女士散布虚假信息，损害了其声誉。不过，这起案件有了最新进展，法院周三裁定，该案中的公司客户张国犯有“强制猥亵罪”，判张国服刑 18 个月，这是中国男性在性侵犯指控后被追究责任的少数备受瞩目的案例之一。 淮阴区人民法院在判决中写道，根据其调查结果，张国利用周女士醉酒，在餐厅前台附近和私人包间对她进行猥亵。调查还发现，张国第二天去了她的酒店房间，再次对她进行了性侵犯。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok 广告收入激增]]></title>
+        <id>https://www.solidot.org/story?sid=71914</id>
+        <link href="https://www.solidot.org/story?sid=71914"/>
+        <updated>2022-06-23T03:04:11.000Z</updated>
+        <summary type="html"><![CDATA[字节跳动旗下短视频应用 TikTok 预计今年将产生高达 120 亿美元的广告收入，较 2021 年增长两倍。TikTok 的总广告收入将是 Snapchat 广告收入的三倍，尽管仍只是 Facebook 和 Instagram 母公司 Meta 同类收入的一个零头。广告买家 Dentsu Media 美洲区首席执行官 Doug Rozen 表示，成立仅五年的 TikTok 已从一个新兴的广告平台成长为知名广告平台。TikTok 的爆炸式增长一定程度上是以 Meta 和 Google 等科技巨头的损失为代价的。苹果去年修改了其设备上的移动广告追踪功能，使广告客户更难锁定消费者并衡量其广告效果。广告买家称，苹果此举导致许多中小型企业和电商公司将支出分散在包括 TikTok 在内的更多平台。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[监督委员会的年度报告追踪Meta公司遵循其建议的频率]]></title>
         <id>https://news.cnblogs.com/n/723228/</id>
@@ -125,6 +485,69 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-zip 支持 Windows Mark-of-the-Web 安全功能]]></title>
+        <id>https://www.solidot.org/story?sid=71913</id>
+        <link href="https://www.solidot.org/story?sid=71913"/>
+        <updated>2022-06-22T15:57:42.000Z</updated>
+        <summary type="html"><![CDATA[7-zip 加入了对 Windows Mark-of-the-Web 安全功能的支持。当用户从网络下载文档和可执行文件，Windows 会对其加入特定的标识符 Mark-of-the-Web，告诉操作系统和支持的应用程序，文件是从另一台计算机或网络上下载的，打开文件可能会存在安全风险。举例来说，Microsoft Office 在打开文件时会检查 Mark-of-the-Web，如果有该标识符它会在保护视图下打开文件，文件处于只读模式，禁用了宏功能。7-zip 是最流行的解压缩软件之一，其作者 Igor Pavlov 在 7-zip 22.00 中加入了一个新设置，允许用户启用 Mark-of-the-Web 功能。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 manim 用简单的代码制作精美的动画]]></title>
+        <id>https://sspai.com/post/73952</id>
+        <link href="https://sspai.com/post/73952"/>
+        <updated>2022-06-22T15:53:02.000Z</updated>
+        <summary type="html"><![CDATA[manim 是什么
+manim 是视频博主 3Blue1Brown 开发的动画引擎，他使用 manim 创作出了许多直观、美丽的数学科普内容。
+
+可以先看一下我用 manim 制作的一个小动画，之后我会放出代码。
+
+前言
+我很早就了解到了 manim，但在很久以后我才尝试去使用它，令我惊讶的是它并没有想象中的麻烦，让我不禁联想到 Apple 的 SwiftUI，使用简单的几句代码，通过「描述」这里存在着什么样的东西，就能制作出想要的效果。
+安装
+在 mac 终端里分别输入
+brew install py3cairo ffmpeg
+ 
+brew install cmake pango scipy
+ 
+pip3 install manim
+运行第一个项目
+manim 是运行在 python 下的，首先创建一个 python 文件 test.py，它基本结构是长这样的。
+from manim import * # 导入 manim
+
+class Test(Scene): # 定义一个场景
+    def construct(self):
+        #code here
+新建一个文件夹 manim 用来存放 manim 项目，将文件放入。
+为了运行这个项目，你需要先了解一点命令行的知识。
+打开 mac 的终端，目前你处于根目录下，输出 ls 可以显示当下目录下的所有文件和文件夹。
+输入 cd <文件夹名> 可以进入到这个文件夹。
+例如，我的文件夹 manim 是创建在文件夹 Downloads 下的，要进入 manim 文件夹，我需要输入
+cd Downloads
+
+cd manim
+或者
+cd Downloads/manim
+进入到 test.py 所在的文件后，可以通过这样一行命令运行项目。
+manim test.py Test
+这里 Test 是我在上面的示例中定义的场…]]></summary>
+        <author>
+            <name>唐夕洲</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国芯片行业高速发展]]></title>
+        <id>https://www.solidot.org/story?sid=71912</id>
+        <link href="https://www.solidot.org/story?sid=71912"/>
+        <updated>2022-06-22T15:11:50.000Z</updated>
+        <summary type="html"><![CDATA[在美国制裁华为海康威视等公司之后，中国芯片行业增长速度比其它任何地方都快。数据显示，过去四个季度全世界增长速度最快的 20 家芯片行业公司有 19 家在中国。据中国半导体行业协会的数据，2021 年中国芯片制造商和设计公司的总销售额增长 18%，达到创纪录的逾 1 万亿元人民币。中芯国际和华虹半导体是中国最大的合同芯片制造商，中芯国际最近报告其季度销售额增长 67%，超过 GlobalFoundries 和台积电。视频芯片设计公司上海富瀚微电子的收入平均增长 37%，它计划进入电动汽车和人工智能领域。集成电路软件工具开发商上海概伦电子过去四个季度平均销售额增长了一倍，它声称其软件可用于制造 3 纳米芯片。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -10906,484 +11329,6 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，
         <link href="https://www.solidot.org/story?sid=71634"/>
         <updated>2022-05-25T13:56:34.000Z</updated>
         <summary type="html"><![CDATA[英国政府提出了一项法案，为培育和养殖基因编辑动植物铺平道路。拟议中的法案将放松对基因编辑（非基因修改）产品的监管，一开始将主要适用于植物。基因编辑涉及通过剪裁一小段 DNA 关闭或打开生物体的基因。它能更快的开发出新品种。生物技术公司和农业研究人员游说政府为商业化基因修改作物立法，但政府部长们决定采取更谨慎的做法。欧盟制定的规定限制使用基因编辑技术。但脱欧让英国能制定自己的规定。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们用了一个周末，将 370 万行代码迁移到了 TypeScript]]></title>
-        <id>https://news.cnblogs.com/n/721473/</id>
-        <link href="https://news.cnblogs.com/n/721473/"/>
-        <updated>2022-05-25T12:41:00.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript 是增长最快的语言之一，最近几年逐渐成为很多大厂的首选工具。最近，Stripe 将最大的 JavaScript 代码库（用于支持 Stripe Dashboard 功能）从 Flow 迁移到了 TypeScript。于是通过单一 PR 请求，转换了超过 370 万行代码。第二天，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六位科学家获得邵逸夫奖]]></title>
-        <id>https://news.cnblogs.com/n/721472/</id>
-        <link href="https://news.cnblogs.com/n/721472/"/>
-        <updated>2022-05-25T12:28:00.000Z</updated>
-        <summary type="html"><![CDATA[邵逸夫奖基金会公布了本年度的获奖者名单。邵逸夫奖是根据已故香港影视大亨邵逸夫的遗愿设立的科学类奖项，分为天文学、生命科学与医学、数学科学三个类别，每项奖金 120 万美元。 天文学奖授予了瑞典的 Lennart Lindegren 和爱尔兰的 Michael Perryman，以表彰他们一生对天体测
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lyft将暂停招聘并削减预算]]></title>
-        <id>https://news.cnblogs.com/n/721471/</id>
-        <link href="https://news.cnblogs.com/n/721471/"/>
-        <updated>2022-05-25T12:21:00.000Z</updated>
-        <summary type="html"><![CDATA[品玩 5 月 25 日讯，据华尔街日报报道，多为知情人士透露，共享出行平台 Lyft 将放慢招聘步伐，削减部分部门的预算。 据悉，该公司发言人 Jodi Seth 已经发表声明，证实将会大幅放缓招聘速度。知情人士透露，Lyft 将向部分员工发放新的股票期权以弥补股价下跌带来的损失。
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合杭高铁湖杭段开启全线拉通试验 设计时速 350 公里]]></title>
-        <id>https://news.cnblogs.com/n/721470/</id>
-        <link href="https://news.cnblogs.com/n/721470/"/>
-        <updated>2022-05-25T12:17:00.000Z</updated>
-        <summary type="html"><![CDATA[品玩 5 月 25 日讯，据中国铁路微信公众号消息，5 月 24 日，一列综合检测列车从湖州站出发，开始对合杭高铁湖杭段进行全线拉通试验，标志着该条铁路迎来联调联试新节点，即将具备开通运营条件。 合杭高铁湖杭段线路全长 137.8 公里，设计时速 350 公里，全线设湖州、德清、杭州西、富阳西、桐庐
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[排名超TikTok，「霸屏」社交如何抓住欧美年轻人]]></title>
-        <id>https://news.cnblogs.com/n/721469/</id>
-        <link href="https://news.cnblogs.com/n/721469/"/>
-        <updated>2022-05-25T12:10:00.000Z</updated>
-        <summary type="html"><![CDATA[摘要 厌倦了无休止的「信息流」和「网红 KOL」轰炸，年轻人渴望私密社交。 就像中国互联网一直在问，什么时候能出现「下一个微信」，在美国，人们也一直在问，什么时候会有「下一个脸书」，来颠覆已经固化太久的社交市场格局。 曾经，Snap 被认为是打倒脸书的新一代社交平台，但是年轻人的喜爱并没有让其成为「
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世纪互联第一季度净营收16.5亿元 同比增长18.6%]]></title>
-        <id>https://news.cnblogs.com/n/721467/</id>
-        <link href="https://news.cnblogs.com/n/721467/"/>
-        <updated>2022-05-25T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5 月 25 日消息，世纪互联在美股盘后对外发布 2022 年第一季度未经审计的财务业绩，数据显示，世纪互联第一季度净营收为 16.5 亿元人民币，同比增长 18.6%；调整后现金毛利润为 6.848 亿元人民币，同比增长 13.1%；调整后现金毛利率为 41.6%；调整后 EBITDA 为 5.0
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luna 创始人成为韩国最讨厌的人]]></title>
-        <id>https://www.solidot.org/story?sid=71633</id>
-        <link href="https://www.solidot.org/story?sid=71633"/>
-        <updated>2022-05-25T11:33:55.000Z</updated>
-        <summary type="html"><![CDATA[加密货币 Luna 及算法稳定币 terraUSD 币值的崩溃让 Luna 的创始人 Do Kwon 成为韩国最讨厌的人。在损失了大量金钱的投资者投诉之后，韩国检方上周对 Do Kwon 的 Terraform Labs 展开了调查。一位损失了 240 万美元的加密货币主播  Chancers 因跑去他的家敲门对峙而遭到逮捕，因为根据韩国的法律他的行为是非法的。Chancers 从 2017 年开始投资加密货币，从比特币等的币值上涨了赚了一大笔钱，但他在最糟糕的时间向  Terra Luna 投资了 80 万美元。在短短 48 小时内  Terra Luna 的币值蒸发了 99%，如今更是一文不值。在损失巨额财富之后 Chancers 想直接对峙 Do Kwon 问他对 Luna 有什么未来计划。他没见到 Do Kwon 只见到了他的妻子，然后警方就来了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搜狐回应称员工遭钓鱼攻击的损失不高]]></title>
-        <id>https://www.solidot.org/story?sid=71632</id>
-        <link href="https://www.solidot.org/story?sid=71632"/>
-        <updated>2022-05-25T11:00:22.000Z</updated>
-        <summary type="html"><![CDATA[搜狐员工遭到了钓鱼邮件攻击，攻击者可能首先窃取了搜狐内部邮箱账号，然后用这个邮箱群发邮件给其他员工，诱骗其在钓鱼网站上输入账号和密码。搜狐发表声明称，有 24 名员工被骗取了逾四万元。声明称：5 月 18 日凌晨，搜狐部分员工邮箱收到诈骗邮件。经调查，实为某员工使用邮件时被意外钓鱼导致密码泄露，进而被冒充财务部盗发邮件。事发后，公司 IT 及安全部门第一时间做了紧急处理并向公安机关报案。据统计，共有 24 名员工被骗取四万余元人民币。目前正在等待警方的调查进展和处理结果。搜狐表示，这次事件不涉及到搜狐公司对用户提供的邮件服务。搜狐会持续升级网络安全技术，维护公司和个人的网络安全，更好地提供网络服务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网传搜狐遭遇史诗级邮件诈骗，张朝阳回应来了]]></title>
-        <id>https://news.cnblogs.com/n/721465/</id>
-        <link href="https://news.cnblogs.com/n/721465/"/>
-        <updated>2022-05-25T10:51:21.000Z</updated>
-        <summary type="html"><![CDATA[近日，关于“搜狐员工遭遇了史诗级电子邮件诈骗，大量员工工资卡被清零”在互联网上传的沸沸扬扬。 消息称大部分员工几乎都落入了骗子的圈套之中，搜狐员工打开附件提交了相关身份、金融信息后，其工资卡直接就被犯罪分子清零，有的员工甚至因此损失了十几万。由于涉案金额巨大，目前警方已经介入处理。 2022 年 5
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国下水无人系统母舰珠海云号]]></title>
-        <id>https://www.solidot.org/story?sid=71631</id>
-        <link href="https://www.solidot.org/story?sid=71631"/>
-        <updated>2022-05-25T10:24:54.000Z</updated>
-        <summary type="html"><![CDATA[5 月 18 日，全球首艘智能型无人系统母船“珠海云”在广州下水。该船隶属于南方海洋科学与工程广东省实验室（珠海），由中国舰船设计研究中心负责设计建造总承包，中国船舶黄埔文冲船舶有限公司负责建造，中国船级社指导支持，清华大学美术学院唐林涛教授团队负责外观总体设计。“珠海云”长 88.5 米，型宽 14.0 米，型深 6.1 米，设计吃水 3.7 米，设计排水量约 2000 吨，最大航速 18 节，经济航速 13 节，可搭载数十台配置不同观测仪器的空、海、潜无人系统装备，能在目标海区批量化布放，并进行面向任务的自适应组网，实现对特定目标的立体动态观测，是南方海洋实验室“智能敏捷海洋立体观测系统（ISOOS）”的水面支持平台。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[试播集 06 | 少数派作者们最近读完了啥（上）]]></title>
-        <id>https://sspai.com/post/73426</id>
-        <link href="https://sspai.com/post/73426"/>
-        <updated>2022-05-25T09:29:00.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目
-不少读者表示希望能够见到更多关于文化与书籍的内容，充实书单、丰富精神。机器人特地邀请了 Matrix 社区作者们来聊聊自己近期阅读的有意思的书籍。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是作者们前进的动力。
-所有内容均遵循 原创、首发、非商务 原则，投稿细则可查看文末。
-
-@潘誉晗：《桶川跟踪狂杀人事件》
-
-被谋杀了三次的女大学生。
-——《桶川跟踪狂杀人事件》的悲剧
-
-阅读这本被誉为 「记者的教科书」「日本纪实文学的金字塔」的这本书的原因，真的就是因为简介写得实在是太有吸引力：「九九九年十月二十六日，年轻女子猪野诗织在日本埼玉县 JR 桶川站前遭人持刀刺死。受害者生前因长期受到跟踪骚扰而多次向警方报案，警方却未予重视，最终没能阻止悲剧的发生。」确实是一段非常棒的阅读过程，作为一部纪实作品，它深刻，却又写得通俗易懂，让人一看就手不释卷，当然，也正是因为这般的一目了然，所以心底便生出了更多的遗憾和气愤。
-因为这本是一场可以被阻止的谋杀。
-接受记者调查的时候，猪野诗织朋友所的第一句话就是：「诗织是被小松和警方杀死的。」只是这样寥寥几个字，却已经足够令人震惊。原来这一场悲剧，只要警方有所动作，是真的可以避免的。毕竟早在案件发生之前，嫌疑人小松（猪野诗织的前男友）就因为两个人感情的时候叫嚣着要把诗织杀死，担心受怕的一家人选择了团结一心并且积极录音、报警，可当他们一家人去报警的时候，警方并没有采取任何实质性的举措。即使面对嫌疑人越来越猖狂的威胁，无论他们拿出了多少证据，警方也依然不处理，甚至是上门「要求」他们取消报案。如此忽略、漠视受害者生前报案已经让人不能接受的情况下，警方更是在案后企图抹黑受害者，并利用自身的权利掩盖之前渎职的行为：「县警冷酷的反击，终于到了露骨地攻击诗织的地步。读到这些内容，我忍不住呻吟。县警利用诗织的日记，不仅践…]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国 2021 年出生率比前一年增加 1%]]></title>
-        <id>https://www.solidot.org/story?sid=71630</id>
-        <link href="https://www.solidot.org/story?sid=71630"/>
-        <updated>2022-05-25T09:16:06.000Z</updated>
-        <summary type="html"><![CDATA[美国政府称，2021 年生育率略有回升，结束了自 2014 年以来的持续下降。生育率的上升并没有改变美国的整体人口状况。自 2007 年以来，美国生育率基本呈直线下降。虽然 2021 年有所回升，但仍低于 2019 年的水平。越来越多的美国父母选择只生一个孩子。数据显示，去年美国有 3,659,289 个孩子出生，比 2020 年增加  46,000 或 1%。2020 年的疫情封锁期间，美国的生育率急剧下降。但随着失业率的下降和疫情补助的发放，生育出现了回升。但不是所有人对疫情期间怀孕有信心：白人和西裔妇女的生育率上升了 2%，黑人、亚裔和原居民妇女的生育率下降了 2% 到 3%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海洋中发现大量糖]]></title>
-        <id>https://www.solidot.org/story?sid=71629</id>
-        <link href="https://www.solidot.org/story?sid=71629"/>
-        <updated>2022-05-25T07:59:40.000Z</updated>
-        <summary type="html"><![CDATA[马克斯普朗克海洋微生物研究所（Max Planck Institute for Marine Microbiology）的研究人员报告称，在世界各大洋的海草草地之下发现了大量的糖。海草草地是碳捕捉量最大的生态系统之一——该研究所称，仅 1 平方公里的海草储藏的碳的数量大约是陆地森林的两倍，速度则是陆地森林的 35 倍。为了更好地了解这些碳捕捉“高手”，科学家在意大利的厄尔巴岛附近进行了研究，采集了海草草地及周围沉积物的样本。他们的数据显示，海草下的糖浓度至少比其他海洋生态系统中的高 80 倍。该研究所的科学家 Manuel Liebeke 在一份新闻稿中表示：“从这个角度看来：我们估计全球有 60 至 130 万吨糖，主要是以蔗糖的形式存在。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对气候的担忧激发了美国的核支持运动]]></title>
-        <id>https://www.solidot.org/story?sid=71628</id>
-        <link href="https://www.solidot.org/story?sid=71628"/>
-        <updated>2022-05-25T07:52:29.000Z</updated>
-        <summary type="html"><![CDATA[Charles Komanoff 几十年来一直是反核组织的专家证人，他的批评激烈又切中要害，当成千上万的抗议者于 1979 年因三里岛熔毁事故涌入华盛顿时，他在讲台上赢得了一席之地。Komanoff 后来继续坚定不移地反对代阿布洛峡谷核电站——这座拥有 37 年历史的庞大核设施坐落在加利福尼亚中部海岸的一片原始地带，一度是美国反核活动的焦点。但是他于二月份写给加利福尼亚州州长Gavin Newsom 的最后一封信恐怕是他自己也未曾预料到的。他恳请 Newsom 放弃关闭这座沿海核电站的计划。Komanoff 在接受采访时表示：“如果我们要应对气候问题，就不得不放弃长期以来坚持的一些信念。”“我对太阳能和风能依然乐观。但是我对气候问题很悲观。气候问题正在走向失败。”
-
-
-Komanoff 的转变是核能政治迅速变化的一个标志。由于各国政府竞相结束对化石燃料的依赖以及乌克兰战争加剧了对能源安全和成本的担忧，人们担心关闭几乎不产生任何排放物的美国核电站毫无意义，因此这种长期以来一直备受争议的能源正获得支持。这种势头在很大程度上是由长期的核怀疑论者推动的，他们对这种技术仍然感到不安，但是现在正在推动保持现有反应堆运行，因为气候方面的消息越来越令人担忧。
-
-
-联合国政府间气候变化专门委员会在 4 月发布的最新报告中警告称，世界在气候行动方面严重滞后，以至于在十年内可能就会突破将气候变暖控制在可控水平的关键目标。排放分析师们越来越多地批评让现有核反应堆退役的做法，因为这种做法让电网失去了大量低排放电力，破坏了风能和太阳能上线所取得的收益。尽管人们还在担心有毒废料，而日本福岛核电站的泄露灾难也只过去了十年，但是保持这些反应堆运转的运动还是出现了。公众对于核电的接受程度越来越高，这推动了它的发展，并且培育出一个原本不太可能的联盟，其中包括行业参与者、昔日的反核人士以及大批年轻的草根环保活动家，他们担心气候变化，甚于核事故。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[受气候趋势影响春季热浪让巴基斯坦达到了 49°C]]></title>
-        <id>https://www.solidot.org/story?sid=71627</id>
-        <link href="https://www.solidot.org/story?sid=71627"/>
-        <updated>2022-05-25T07:38:52.000Z</updated>
-        <summary type="html"><![CDATA[今年春天印度和巴基斯坦的天气异常炎热。自 3 月以来，范围大到不寻常的热浪接踵而至，一直持续到 5 月份。这为快速研究气候变化在这一事件中的作用提出了一个难题，因为我们还不能确定它会何时结束。然而已经有两项研究探讨了气候对三四月高温的影响。很多地区的单日、月度温度记录已被打破。温度计的示数高达 49°C，天气还异常干燥。破纪录的热浪通常会与干旱同时发生，因为干燥的地面在没有蒸发的冷却作用的情况下升温更多。户外工作极具挑战，随着高温的持续，对经济放缓的影响也越来越大。对农业的影响非常显著，例如，印度北部地区的小麦产量估计会损失 10% 至 35%。由于战争导致乌克兰出口下滑，印度此前曾经计划增加出口，但是在本月却实施了出口禁令。在巴基斯坦，高温还导致一个冰川湖爆发洪水，摧毁了一座重要的桥梁和包括发电厂在内的许多建筑。
-
-
-World Weather Attribution 团队对截止到 4 月底的高温进行了常规分析，告诉了我们它与气候变化的关系。这些快速研究之所以可能，是因为该团队每次都使用相同的（同行评审）方法。目标不是对这种天气事件是否是由气候变化“引起”的做出判断——这不是一个正确的问题。相反这些研究的重点在于我们在气候变暖的情况下是否会更多/更少地看到这种天气模式。如果答案是“更多”，我们就可以问问气候变化对出现概率的影响有多大。
-
-
-研究受限于该地区只有 1979 年以来的每日温度数据，印度境内的数据可追溯到 1951 年——对于趋势分析来说，这并不理想。但为了评估气候变化的影响，研究人员从日常收集的大量气候模型中提取了数据，包括对有/没有人为温室气体排放（和反射阳光的气溶胶）情况的模拟。这项研究分析了事件稀有程度的统计数据。历史数据显示，今年 3 月至 4 月的高温每年出现的概率大约为 1%，即通常所说的“百年一遇”。但是在工业化之前的气候（温度比现在低 1.2°C）模型模拟中，这种极端高温将会是“三千年一遇”。换句话说，气候变化让这种热浪的出现概率增加了大约 30 倍。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无人驾驶汽车可能会让人类司机更高效驾驶]]></title>
-        <id>https://www.solidot.org/story?sid=71626</id>
-        <link href="https://www.solidot.org/story?sid=71626"/>
-        <updated>2022-05-25T07:26:26.000Z</updated>
-        <summary type="html"><![CDATA[自动驾驶汽车——即使数量很少，也可以提高道路上所有汽车的燃油效率、行驶时间和安全性，这一想法将于今年晚些时候在田纳西州纳什维尔附近的道路上进行测试。新泽西州罗格斯大学的 Benedetto Piccoli 和同事之前使用了一个每个方向只有一条车道的简单环形道路计算机模型，发现（PDF）自动驾驶汽车可将所有交通的整体油耗降低 40%，即使是所有车辆中自动驾驶汽车比例仅有 5%。他表示，这些新模型的最佳情况在现实世界中“很少出现”，但是他的团队仍然希望在试验期间将道路上所有车辆——而不仅仅是无人驾驶汽车的油耗减少 10%。他表示：“如果你考虑的是一个国家交通系统的总体成本的话，你甚至只要将其降低 5%，就能节省出数十亿美元。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 正在打破专利法]]></title>
-        <id>https://www.solidot.org/story?sid=71625</id>
-        <link href="https://www.solidot.org/story?sid=71625"/>
-        <updated>2022-05-25T07:18:35.000Z</updated>
-        <summary type="html"><![CDATA[过去几年，越来越多的发明涉及到了 AI。AI 帮助设计药物，开发疫苗，发现新材料。它的广泛使用对现有的专利制度构成了挑战。因为旧的专利法假设发明者是人类。如果法院和政府决定 AI 创造的发明不能授予专利，无疑这将会产生巨大影响，将会降低利用 AI 进行研究和发明的积极性，人类社会可能会错过具有重要意义的 AI 发明。新南威尔士大学的两位研究人员在《自然》网站上发表评论，提出了一种解决方案：与其让旧的专利法适应新情况，不如设计新的 AI 专利法律 AI-IP 去保护 AI 的发明，各国还应该制定国际条约，确保新的 AI 专利法律遵守标准原则，确保有效解决争端。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双星系统如何影响行星演化]]></title>
-        <id>https://www.solidot.org/story?sid=71624</id>
-        <link href="https://www.solidot.org/story?sid=71624"/>
-        <updated>2022-05-25T06:48:08.000Z</updated>
-        <summary type="html"><![CDATA[类太阳恒星近半处于双星或多星系统中，此类的星系如何影响到行星的形成？根据发表在《自然》期刊上的一项研究，行星系统在双星周围形成的方式与围绕太阳等单星形成的方式非常不同。新发现是基于智利 ALMA 望远镜对距离地球约 1000 光年的双星系统 NGC1333-IRAS2A 的观测得出的。从天文学的角度来看，这是一个相当短的距离。它形成于大约 1 万年前，是一个非常年轻的恒星系统。其中的两颗恒星相距 200 个天文单位（AU）。该双星系统被一个由气体和尘埃组成的圆盘所包围。通过观测并借助计算机模拟，研究人员发现，气体和尘埃的运动并不遵循连续的模式。在某些时间点，通常是相对较短的时间段，即每十年到一百年，运动变得非常强烈，双星系统会变得比原来亮十到一百倍，直到它恢复到正常状态。据推测，这种循环模式可以用双星的对偶性来解释。这两颗恒星相互环绕，每隔一段时间，它们的联合重力就会以某种方式影响周围的气体和尘埃盘，导致大量物质向恒星坠落。坠落的物质将引发明显加热，热度将使这颗恒星比平时亮得多。这些爆发会将气体和尘埃盘撕裂。虽然这个圆盘将再次形成，但爆发仍然可能影响后来的行星系统的结构。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现缩短看电视时间能减少心脏疾病]]></title>
-        <id>https://www.solidot.org/story?sid=71623</id>
-        <link href="https://www.solidot.org/story?sid=71623"/>
-        <updated>2022-05-25T06:16:33.000Z</updated>
-        <summary type="html"><![CDATA[研究发现，如果把每天看电视的时间缩短到一小时以内，那么逾十分之一的冠心病病例可被预防。冠心病的发作是因为脂肪物质在冠状动脉内堆积，导致流向心肌的血流降低，减少心脏血液供应。研究人员称，减少看电视的时间可以降低这种最常见心血管疾病的风险。虽然研究团队没有探究这一关联背后的原因，论文作者、香港大学助理教授 Youngwon Kim 博士称，以前的研究发现，电视观看时间过长与体内胆固醇和葡萄糖的不良水平有关联，可能导致患冠心病的风险增加。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉建议使用哪些便携式充电器？产品标准解读与参数配置分析]]></title>
-        <id>https://sspai.com/post/73424</id>
-        <link href="https://sspai.com/post/73424"/>
-        <updated>2022-05-25T05:53:43.000Z</updated>
-        <summary type="html"><![CDATA[前言
-对于特斯拉而言，充电补能是日常使用最为重要的一部分，好的充电体验能大大增加纯电车使用的幸福感。
-
-我之前关于充电体验的分享中，有不少评论对于随车充比较感兴趣，我个人和身边车主也都有不同随车充产品是使用经历，关于固定充电桩和第三方充电桩可以看我已经发布的分享，本篇来专门聊聊随车充！
-我的充电方式
-先说说我个人用车，目前接近2万公里，在提车的前半段，我基本是使用第三方快充为主，其中包括合计3000KM，也就是750度电的特斯拉官方超充，它们大概为我提供了实际5000公里上下的行车里程。
-
-在我安装自己的家充桩之前，商场内的第三方充电站也是为我车辆续航的主力，也因为商场充电普遍可以免2小时停车费，我也经常以充一点点电的方式实现免费停车。
-
-去年申请到了380V电表，安装好21KW充电桩之后，自己的家充桩可以让我下班停好车，设置好10点开始充电后，早上顺利满电出门。它会是未来绝大多数时间我的核心补能手段。
-
-而在去年夏天，住的一套老房子可以把车停在楼下，从三楼窗户接延长线下来，使用普诺得3.5KW随车充充电，这一方式我也使用了一个多月，随车充也作为未来外出自驾游、去农家乐的补电方式，常驻在了我的后备箱中，不过大家都知道今年的上海，到现在一直没什么出去玩的机会。
-随车充的优势与劣势
-优点：
-便携式充电器，可以随车携带。
-不用申请独立电表，只要带电三孔插座就能实现补能。
-低功率交流充电，对电池友好。
-可作为固定充电桩使用的随车充，价格普遍低于同功率的固定充电桩。
-缺点：
-大部分使用环境下，充电速度慢于固定的家充桩
-连接家庭电表使用，在阶梯电价系统下，用电成本理论数值高于家充桩。
-非别墅车库住1楼有就近车位，随车充需搭配延长线飞线。飞线可能会遭到物业管控、邻居意见。
-随车充标准中的模式解读
-
-这里是我购置比亚迪汉DM附带的原厂随车充，说明书上印上了各种技术参数，生产是依据GB/T …]]></summary>
-        <author>
-            <name>老木曾雪菜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bing 合同禁止 DuckDuckGo 完全屏蔽微软跟踪程序]]></title>
-        <id>https://www.solidot.org/story?sid=71622</id>
-        <link href="https://www.solidot.org/story?sid=71622"/>
-        <updated>2022-05-25T05:53:19.000Z</updated>
-        <summary type="html"><![CDATA[因为保密协议，以隐私为主要卖点的搜索引擎 DuckDuckGo 并没有屏蔽所有微软跟踪程序。DuckDuckGo 的搜索是基于微软的 Bing。它是在安全研究人员发现之后承认此事的。安全研究员 @thezedwards 发现，DuckDuckGo 移动浏览器没有屏蔽第三方网站上的微软追踪程序，DuckDuckGo CEO Gabriel Weinberg 解释说，微软不知道用户在 DuckDuckGo 上的搜索，DuckDuckGo 浏览器屏蔽了所有微软的 cookies。但如果你访问了一个含有微软跟踪程序的网站，那么用户的数据将会暴露给 Bing 和 LinkedIn，这是 DuckDuckGo 与微软搜索合作协议（search syndication agreement）的结果。这是一个保密协议，Gabriel Weinberg 称该公司正在幕后工作改进与微软的交易，他预计 DuckDuckGo 未来的更新将会“包含更多第三方微软保护”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻量级开源免费博客评论系统解决方案 （Cusdis + Railway）]]></title>
-        <id>https://sspai.com/post/73412</id>
-        <link href="https://sspai.com/post/73412"/>
-        <updated>2022-05-25T04:04:59.000Z</updated>
-        <summary type="html"><![CDATA[前言
-之前写了一篇《免费的个人博客系统搭建及部署解决方案（Hugo + GitHub Pages + Cusdis）》，讲述了一下我使用 Serverless 和一些开源项目搭建的博客系统，也开了个系列来记录搭建过程。
-本篇是关于博客评论系统的解决方案，我最早使用的博客评论系统是万恶的 Disqus，一个笨重且会收集用户隐私的知名评论系统，因为加载比较慢，且免费版本经常会附带一些广告，实在难以忍受，于是换成了另一个基于 GitHub issues 的评论系统 utterances，它会为每篇文章生成一个 issue，将，用户通过授权 GitHub 登录来对 issue 发表评论。这种方式的好处是只需要授权一个 utterances-bot 来进行管理，无需自己部署服务，维护数据库等。但是用了一段时间后，觉得有几点不足：
-
-基于 GitHub API 进行评论管理，如之后接口变动或对这类利用 issue 进行评论的方式进行限制，会不太稳定
-读者必须要授权 GitHub 登录，非技术人员或使用移动端阅读的读者使用起来很不方便
-会将 GitHub 仓库弄得较乱，也不方便后续迁移到其他系统
-
-经过一番调研 Randy 的 Cusdis 很合我的心意。Cusdis 是一个注重数据隐私的开源的评论系统，十分轻量，经过 gzipped 后大约只有 5kb，从名字来看也知道开发者也是难以忍受 Disqus，自己做了一个替代版，因此它也是支持 Disqus 历史数据导入的，很贴心。
-虽然这是一个开发早期的项目，但是已经提供了电子邮件通知以及通过 Webhook 联动 Telegram 等方式进行评论提醒，对使用者来说很方便进行管理。Cusdis 提供了免费托管服务与自行部署两种方式，如果不想折腾可以直接用作者提供的服务。自行部署则需要服务器与一个 Postgre SQL 实例，我们主要示范一…]]></summary>
-        <author>
-            <name>pseudoyu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信何以成为字节的心病？]]></title>
-        <id>https://news.cnblogs.com/n/721407/</id>
-        <link href="https://news.cnblogs.com/n/721407/"/>
-        <updated>2022-05-25T01:41:13.000Z</updated>
-        <summary type="html"><![CDATA[出品｜虎嗅商业消费组 作者｜黄青春 题图｜视觉中国 上周，抖音内测“兴趣匹配”（根据短视频内容匹配同时观看的网友进行聊天等交互行为）的新闻在互联网不胫而走，预示着字节跳动又悄咪咪在抖音一级入口内给社交挤出来一条“缝”。 在张一鸣的叙事里，字节跳动不遗余力啃社交完全是替用户打抱不平—— 2019 年 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保持实力但更轻薄，联想拯救者Y9000X 2022发布]]></title>
-        <id>https://news.cnblogs.com/n/721406/</id>
-        <link href="https://news.cnblogs.com/n/721406/"/>
-        <updated>2022-05-25T01:29:00.000Z</updated>
-        <summary type="html"><![CDATA[钛媒体 App 5 月 24 日消息，联想拯救者 Y9000X 及家族新品发布会于线上召开。本次，拯救者 Y9000X 2022 采用了更轻薄的机身设计，但在硬件方面依然保持高性能实力表现，进一步实现轻薄电竞本概念。 在外观上，本次拯救者 Y9000X 2022 采用了 16.9mm 超薄金属机身，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快手不愿“被带走”]]></title>
-        <id>https://news.cnblogs.com/n/721404/</id>
-        <link href="https://news.cnblogs.com/n/721404/"/>
-        <updated>2022-05-25T01:23:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜光子星球，作者 吴先之 ，编辑 王潘 “上个月我休假回家乡，在湘西州呆了几天。” 仿佛知道风雨欲来，5 月 23 日，宿华在全球湘商大会的致谢视频中，有意无意间透露了过去一个月的行程。稍晚时候，有媒体曝出宿华“被带走配合调查”，随后被快手辟谣，宿华的微信也回应称“不信谣不传谣”。 一天之后，快手
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“抄底”中概股，国际资管入局，资本加码中国市场]]></title>
-        <id>https://news.cnblogs.com/n/721403/</id>
-        <link href="https://news.cnblogs.com/n/721403/"/>
-        <updated>2022-05-25T01:16:18.000Z</updated>
-        <summary type="html"><![CDATA[我国资本市场对外开放步伐稳健，多家国际资管机构加快布局步伐的同时，北向资金也开始逐步扭转 3 月以来的净卖出态势。 近日，证监会发布《公开募集证券投资基金管理人监督管理办法》中再度提及促进公募基金行业高水平对外开放。该办法指出，坚持内外资一致原则，进一步完善境外股东准入条件，鼓励借鉴境外先进资产管理
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社交APP魔咒：你很难给中国人的关系链定价]]></title>
-        <id>https://news.cnblogs.com/n/721398/</id>
-        <link href="https://news.cnblogs.com/n/721398/"/>
-        <updated>2022-05-25T01:10:18.000Z</updated>
-        <summary type="html"><![CDATA[文最话 FunTalk，作者孙颖莹，编辑王芳洁 你不能否认，微信之后，中国的社交软件行业没有神话。 但这并不妨碍，无论是已实现生态化的互联网巨头，还是那些专攻社交领域的独立企业，每隔一段时间，总有人在社交领域吹响一次冲锋号。 近期，抖音开始了针对陌生人社交的内测，打的是短视频兴趣匹配的概念；一个月之
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 102 正式发布]]></title>
-        <id>https://news.cnblogs.com/n/721399/</id>
-        <link href="https://news.cnblogs.com/n/721399/"/>
-        <updated>2022-05-25T01:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 102 已正式发布了！ Chrome 102 添加了一个新的捕获句柄机制，允许应用程序选择将部分信息暴露给其他正在录制（捕获）它的视频录制应用。这个捕获句柄打开了录制软件和被录制应用之间的协作。 Chrome 102 的另一个新增功能是文件处理接口，文件处理为 Web 应用程序提供了一
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鹏汽车，最坏的时刻尚未到来]]></title>
-        <id>https://news.cnblogs.com/n/721396/</id>
-        <link href="https://news.cnblogs.com/n/721396/"/>
-        <updated>2022-05-25T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜电厂，作者｜严利婷，编辑｜高宇雷 2022 年上半年，对于造车新势力来说可谓坏消息不断——芯片短缺到原料涨价的影响尚未退潮，旋即又遭到疫情冲击而面临供应链危机，5 月小鹏、理想更因解约应届生相继陷入舆论风波。 对此，小鹏汽车方面亦给予正面回应，然而，隐藏在岗位调整与绩效优化这一标准话术背后的关键
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图书市场暗流涌动]]></title>
-        <id>https://news.cnblogs.com/n/721395/</id>
-        <link href="https://news.cnblogs.com/n/721395/"/>
-        <updated>2022-05-25T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜老铁，微信平台：科技说 ，微信号：kejishuo 疫情已经对我国相当多产业带来深远的影响。本文我们从图书出版业去探求疫情前后行业的变化，以探讨行业未来的发展趋势。 之所以选择图书行业主要原因为： 其一，由于标准化程度高，该行业是国内外电商企业最先攻破的品类，如美国的亚马逊，我国的当当网等等，都
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络电影沦为“头部游戏”]]></title>
-        <id>https://news.cnblogs.com/n/721393/</id>
-        <link href="https://news.cnblogs.com/n/721393/"/>
-        <updated>2022-05-25T00:28:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜犀牛娱乐，作者｜小福，编辑｜夏添 5 月 23 日早些时候，5 月 7 日上线的奇幻网络电影《齐天大圣》宣布分账突破 1000 万大关。 在这短短一个月时间里，市场上已经接连涌现了《东北告别天团》《依兰爱情故事》《开棺》《齐天大圣》四部新的千万级别网络电影。其中表现最佳的《开棺》上线不过三周就凭
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联手越南女首富，李嘉诚押注东南亚地产]]></title>
-        <id>https://news.cnblogs.com/n/721392/</id>
-        <link href="https://news.cnblogs.com/n/721392/"/>
-        <updated>2022-05-25T00:21:00.000Z</updated>
-        <summary type="html"><![CDATA[图片来源@视觉中国 文｜鲸纬度，作者｜四象 一向眼光独到的李超人，撤资英国洗牌资产，下注东南亚——越南。 投资的核心，仍是房产。长实集团（01113.HK）将在越南引进高端房地产项目，涵盖住宅、办公室、商业中心等业务。 越南胡志明市，目前成为资本宠儿。据世邦魏理仕（CBRE）发布的《2021 年亚太
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米想要禁止用户提取 apk 文件]]></title>
-        <id>https://news.cnblogs.com/n/721390/</id>
-        <link href="https://news.cnblogs.com/n/721390/"/>
-        <updated>2022-05-25T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[通过 apk 文件在 Android 设备上安装应用对开发者和用户既方便又实用，但小米想要限制用户这么做。根据 AOSP（Android 开源项目）上的讨论，小米工程师提议给 Android 添加 SELinux 策略禁止提取 apk，让用户只能通过官方商店或授权网站下载应用，小米的理由是 apk 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 透露 Ryzen 7000 系列 CPU]]></title>
-        <id>https://news.cnblogs.com/n/721389/</id>
-        <link href="https://news.cnblogs.com/n/721389/"/>
-        <updated>2022-05-25T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[AMD 周一在台北电脑展上透露了基于 Zen 4 架构的 Ryzen 7000 系列 CPU。AMD 没有公布具体的上市日期，只是称是今年秋季。Ryzen 7000 CPU 将使用新一代的 Socket AM5 主板，上一代 Socket AM4 主板始于 2017 年，支持了五年四代 Zen 处理
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社交媒体是否在训练我们取悦机器？]]></title>
-        <id>https://news.cnblogs.com/n/721388/</id>
-        <link href="https://news.cnblogs.com/n/721388/"/>
-        <updated>2022-05-25T00:09:00.000Z</updated>
-        <summary type="html"><![CDATA[TikTok 上青少年说话的口气一模一样，自鸣得意的口吻如出一辙。Twitter 上的千禧一代使用相同的缩略词汇表。伙计！有一个正常的！即使你在洒满阳光的现实世界中遇到他们，即使作为英国人，他们也会说“valid”或者“based”，或者说“y'all”…… 你在网上所说的一切都会受到即时奖励系统的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实用的无线电力传输成真]]></title>
-        <id>https://news.cnblogs.com/n/721387/</id>
-        <link href="https://news.cnblogs.com/n/721387/"/>
-        <updated>2022-05-25T00:08:00.000Z</updated>
-        <summary type="html"><![CDATA[在传输电力方面，电线功劳不小，但它们也有缺点。毕竟谁不讨厌为手机或其他可充电设备插入或者拔出电线呢？这是个麻烦事。电线也对电力公司提出了挑战：这些公司必须努力将施加在传输电缆上的电压提到非常高的值，以避免在传输过程中消耗掉大部分电力。在为电动火车和有轨电车等公共交通工具供电时，电线需要与滚动或者滑动
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[声网一季度营收3859万美元 全球注册应用超43.9万个]]></title>
-        <id>https://news.cnblogs.com/n/721383/</id>
-        <link href="https://news.cnblogs.com/n/721383/"/>
-        <updated>2022-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5 月 24 日消息，声网今日公布截至 2022 年 3 月 31 日的第一季度财报，财报显示，声网一季度实现营收 3859 万美元。客户规模方面，截至 2022 年 3 月 31 日，声网全球注册应用超 43.9 万个，同比增长 43%；全球活跃客户数量达 2706 个，同比增长 16 ％。 财报
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博通洽谈收购 VMware]]></title>
-        <id>https://www.solidot.org/story?sid=71621</id>
-        <link href="https://www.solidot.org/story?sid=71621"/>
-        <updated>2022-05-24T15:10:02.000Z</updated>
-        <summary type="html"><![CDATA[博通正洽谈以约 600 亿美元收购 VMware，如果成功这将是今年至今最大金额的收购交易之一，次于微软以约 750 亿美元收购动视暴雪。收购价格还未最终敲定，可能还会有变动。如果谈判没有破裂两家公司将在周四宣布交易。一位知情人士说，为了帮助支付这笔交易，博通计划向几家银行债务融资约 400 亿美元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六位科学家获得邵逸夫奖]]></title>
-        <id>https://www.solidot.org/story?sid=71620</id>
-        <link href="https://www.solidot.org/story?sid=71620"/>
-        <updated>2022-05-24T15:04:44.000Z</updated>
-        <summary type="html"><![CDATA[邵逸夫奖基金会公布了本年度的获奖者名单。邵逸夫奖是根据已故香港影视大亨邵逸夫的遗愿设立的科学类奖项，分为天文学、生命科学与医学、数学科学三个类别，每项奖金 120 万美元。天文学奖授予了瑞典的 Lennart Lindegren 和爱尔兰的 Michael Perryman，以表彰他们一生对天体测量学的贡献，尤其是在欧洲太空总署依巴谷号及盖亚号的构想和设计中扮演的角色；生命科学与医学奖授予了美国的 Paul A Negulescu 和 Michael J Welsh，以表彰他们发现囊肿性纤维化是分子、生物化学和功能上出现缺陷所引致，以及鉴别和研发新药物去修复这些缺陷，因而能够治疗大多数患者；数学科学奖授予了普林斯顿的 Noga Alon 和牛津大学的 Ehud Hrushovski，以表彰他们对离散数学和模型论的非凡贡献，尤其是与代数几何、拓扑和计算机科学的相互影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东方被指悄悄修改设计可能丢失苹果订单]]></title>
-        <id>https://www.solidot.org/story?sid=71619</id>
-        <link href="https://www.solidot.org/story?sid=71619"/>
-        <updated>2022-05-24T14:51:02.000Z</updated>
-        <summary type="html"><![CDATA[京东方去年为苹果生产了部分 iPhone 13 显示屏，成为三星和 LG 公司之后苹果第三大显示屏供应商 。它还希望能为苹果供应更多显示屏，但京东方面临多个问题，主要是显示屏驱动芯片库存不足，以及产品良品率不高。据报道为了提高良品率京东方悄悄修改了 iPhone 13 使用的 OLED 显示屏薄膜晶体管的电路宽度，增加了厚度使得制造更容易。这一做法没有逃过苹果的注意。此举可能导致京东方丢失 iPhone 14 多达 3000 万张显示屏的订单。对于这一报道京东方拒绝置评，表示“在 OLED 领域的年度目标没有变化”。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
