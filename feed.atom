@@ -2,10 +2,171 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-09T01:36:07.136Z</updated>
+    <updated>2022-07-10T01:57:11.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 将 Snap 格式 Firefox 的启动时间缩短了 50%]]></title>
+        <id>https://news.cnblogs.com/n/724326/</id>
+        <link href="https://news.cnblogs.com/n/724326/"/>
+        <updated>2022-07-10T00:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Snap 版本的 Firefox 是 Ubuntu 22.04 LTS 的默认 Firefox 包装，Snap 格式提高了安全性，提供了跨版本兼容性，并缩短了 Mozilla 推送改动的时间。而这些好处的代价是 Snap 格式的 Firefox 性能存在大问题，启动时间超长，尤其是在系统重启后首次启
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从忽略到重视，StackOverflow改变了对单元测试的态度]]></title>
+        <id>https://news.cnblogs.com/n/724325/</id>
+        <link href="https://news.cnblogs.com/n/724325/"/>
+        <updated>2022-07-10T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[在很长一段时间里，Stack Overflow 都忽略了单元测试，但现在 Stack Overflow 正在努力改变这种状况。 在早期的时候，Stack Overflow 是一个以快速精益运营为主的网站，像所有初创公司一样，优先考虑对企业最重要的质量属性，单元测试这样的事情被搁置到一旁。如果存在 B
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软推出 VS Code Server，用平板也能远程开发啦！]]></title>
+        <id>https://news.cnblogs.com/n/724324/</id>
+        <link href="https://news.cnblogs.com/n/724324/"/>
+        <updated>2022-07-10T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，微软推出了 Visual Studio Code Server ，这是一项在远程开发机器上运行的后端服务。用户可以将该服务安装在任何位置（本地开发机器、云 VM 等），然后使用 VS Code 网页版（vscode.dev）通过浏览器安全地连接到该远程计算机上进行开发，无需设置麻烦的 SSH 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因通货膨胀和价格上涨，美国亚马逊Prime会员增长已停滞]]></title>
+        <id>https://news.cnblogs.com/n/724323/</id>
+        <link href="https://news.cnblogs.com/n/724323/"/>
+        <updated>2022-07-10T00:17:00.000Z</updated>
+        <summary type="html"><![CDATA[7 月 9 日消息，据芝加哥调查公司 Consumer Intelligence Research Partners 称，截至 6 月 30 日，亚马逊拥有约 1.72 亿会员，这与六个月前持平。 据 Bloomberg 报道，该调查公司合伙人迈克尔-莱文（Michael Levin）称，经过多年的
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克宣布终止收购推特，及时止血还是极限施压？]]></title>
+        <id>https://news.cnblogs.com/n/724322/</id>
+        <link href="https://news.cnblogs.com/n/724322/"/>
+        <updated>2022-07-10T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[摘要 想说「分手」，似乎并不容易。 马斯克私有化推特的大戏，真是一波三折。 7 月 8 日，马斯克方面宣布，他将终止 440 亿美元收购推特的计划，理由是推特严重违反了协议中的多项条款。 马斯克在写给推特首席法律顾问的一封信中称，他终止协议的原因，是推特不愿与他分享所要求的信息，而已分享的信息则证实
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军：小米捐赠 5 亿成立北京市自然科学基金-小米创新联合基金]]></title>
+        <id>https://news.cnblogs.com/n/724321/</id>
+        <link href="https://news.cnblogs.com/n/724321/"/>
+        <updated>2022-07-10T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[小米创始人兼 CEO 雷军今日在微博发文称，7 月 7 日，第七届北京市自然科学基金委员会 (以下简称“市基金委”) 成立大会在中关村展示中心会议中心顺利召开。会上，市自然基金与小米公益基金会签约设立“北京市自然科学基金-小米创新联合基金”。北京小米公益基金会向市自然基金捐赠 5 亿元 (每年捐赠 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚂蚁发放120亿元股息，还会有诗和远方吗]]></title>
+        <id>https://news.cnblogs.com/n/724320/</id>
+        <link href="https://news.cnblogs.com/n/724320/"/>
+        <updated>2022-07-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如果没有消费市场的恢复和反弹，支付这头现金奶牛也会日益瘦弱 文老铁 自 5 月阿里财报披露蚂蚁集团要派息 120 亿元以来 （阿里分得 39.45 亿元） ，有几个问题一直在我脑中： 其一，从常识推论，一家公司如果开始分配巨额股息，就意味着企业业务慢慢“现金牛化” （成长性低，现金收益丰厚） ，蚂蚁
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑞士的地下货运管道走向现实]]></title>
+        <id>https://www.solidot.org/story?sid=72079</id>
+        <link href="https://www.solidot.org/story?sid=72079"/>
+        <updated>2022-07-09T15:01:23.000Z</updated>
+        <summary type="html"><![CDATA[地面的公路铁路运输网络日益拥挤，为什么不充分利用地下？瑞士的 Cargo Sous Terrain 公司提出了一种地下货运管道概念，利用自动化小型货车在城市和物流中心之间运送货物。几年前这可能听起来像天方夜谭，但去年 12 月瑞士议会通过了必要的法律框架，Cargo Sous Terrain 可以从今年 8 月 1 日启动地下货运管道建设。相比地下客运管道，货运要简单且容易得多，地下管道可以更小速度更慢，安全性和舒适性也不需要太高。它的成本估计为 500 公里完整网络耗资 300 亿到 350 亿美元，第一阶段建造连接苏黎世和 Härkingen-Niederbipp 物流中心的 70 公里 10 个枢纽的地下管道投资 30 亿美元预计够了。CST 估计它的地下货运管道能将地面公路上重型卡车的数量减少 40%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软撤回默认屏蔽宏的计划]]></title>
+        <id>https://www.solidot.org/story?sid=72078</id>
+        <link href="https://www.solidot.org/story?sid=72078"/>
+        <updated>2022-07-09T13:21:51.000Z</updated>
+        <summary type="html"><![CDATA[为了应对勒索软件等恶意程序，微软今年早些时候宣布计划改变 MS Office 办公软件处理宏的方式：如果文件使用的宏命令是从网上下载的，宏将会默认完全禁用。 2022 年 4 月起，这一改变将首先提供给 Office v2203 用户预览，6 月起推广到订阅版本 Microsoft 365  Office。但在上周，微软通知 IT 管理员，根据测试收到的用户反馈，它撤回了禁用 VBA 宏的计划。禁用宏可能破坏某些功能而导致微软决定回滚。如果 MS Office 的宏运行在沙盒模式下，在未经用户许可下访问其它任何文档，那么它构成的安全风险也就基本不存在了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[距今5.18亿年！地球上最古老的脊椎动物被确认]]></title>
+        <id>https://news.cnblogs.com/n/724319/</id>
+        <link href="https://news.cnblogs.com/n/724319/"/>
+        <updated>2022-07-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[◎ 科技日报记者金凤张晔 在生命演化历程中，脊椎动物的演化是最为壮丽的篇章之一。脊椎动物的起源，始终是最吸引人的科学热点之一。 南京大学地球科学与工程学院姜宝玉教授课题组和中国科学院南京地质古生物研究所朱茂炎研究员领导的“地球—生命系统早期演化”研究团队密切合作，确认了我国 5.18 亿年前澄江动物
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为避免反垄断诉讼 Google 提议拆分部分业务]]></title>
+        <id>https://www.solidot.org/story?sid=72077</id>
+        <link href="https://www.solidot.org/story?sid=72077"/>
+        <updated>2022-07-09T09:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Google 做出让步，试图阻止美国政府可能针对其庞大的广告技术业务提起的反垄断诉讼。根据一项提案，Google 提出把其为网站和应用程序拍卖和投放广告的部分业务分拆为 Alphabet 旗下的一家独立公司。该实体的估值可能达到数百亿美元，具体取决于包含哪些资产。 目前还不确定任何不涉及资产出售的提议能否满足美国司法部的要求，司法部的反垄断官员已经表明希望 Google 对其广告技术业务进行深入的结构性改革，而不是仅仅承诺改变商业作法。司法部一直在对 Google 滥用其数字广告经纪和拍卖商角色的指控进行长期调查，指控称该公司牺牲竞争对手的利益为自己招揽业务。相关反垄断诉讼可能最快在今年夏季提出。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Y打败五菱神车登顶，特斯拉卖爆！比亚迪笑了：全球新能源车销冠是我]]></title>
+        <id>https://news.cnblogs.com/n/724318/</id>
+        <link href="https://news.cnblogs.com/n/724318/"/>
+        <updated>2022-07-09T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[本文来源：时代财经 作者：林前 7 月 8 日，乘联会发布 6 月份国内乘用车市场数据。 数据显示，6 月份，乘用车市场零售达到 194.3 万辆，同比增长 22.6%，环比增长 43.5%，6 月零售环比增速处于近 6 年同期历史最高值。1-6 月累计零售 926.1 万辆，同比下降 7.2%，同
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo要求印度法院撤销对其银行账户的冻结，否则将无法支付工资]]></title>
+        <id>https://news.cnblogs.com/n/724317/</id>
+        <link href="https://news.cnblogs.com/n/724317/"/>
+        <updated>2022-07-09T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 7 月 8 日消息，印度金融犯罪机构周四表示，作为对 vivo 涉嫌洗钱的调查的一部分，已经封锁了 119 个与 vivo 印度业务及其关联公司相关的银行账户，这些账户持有 46.5 亿卢比（约 3.9 亿元人民币）。 据路透社今日报道，vivo 已向印度新德里的一家法院寻求撤销印度执法
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想汽车CEO李想：大部分高端汽车音响品牌只是授权贴牌]]></title>
+        <id>https://news.cnblogs.com/n/724316/</id>
+        <link href="https://news.cnblogs.com/n/724316/"/>
+        <updated>2022-07-09T09:28:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 7 月 8 日消息，近日高合音响被曝虚假宣传遭车主集体起诉，理想汽车 CEO 李想今天也在微博发表了自己对汽车音响的看法。 李想称，出现在各大豪华品牌车上的几个大名鼎鼎的高端汽车音响品牌，动不动几万元的选装价格。他们大部分既不生产喇叭，也不生产功放；既不研发音响的软件，也不设计喇叭罩。主
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克终止收购 Twitter，Twitter 表示将起诉]]></title>
+        <id>https://www.solidot.org/story?sid=72076</id>
+        <link href="https://www.solidot.org/story?sid=72076"/>
+        <updated>2022-07-09T07:54:01.000Z</updated>
+        <summary type="html"><![CDATA[马斯克(Elon Musk)周五终止收购 Twitter 的协议，而 Twitter 董事长承诺要对簿公堂。马斯克在给 Twitter 首席法律顾问的一封信中称，他终止协议的原因是 Twitter 不愿与他分享所要求的信息，而已分享的信息则证实了他的观点，即 Twitter 上的机器人账户数量比该公司在监管公告中声称的要多。马斯克表示将终止合并协议，因为 Twitter 严重违反了该协议的多项条款，似乎在马斯克签订合并协议时做出了虚假和误导性陈述，并可能遭受公司重大不利变化。Twitter 董事长兼 Salesforce.com(CRM)联合首席执行官 Bret Taylor 发推文回应了马斯克，并承诺将他告上特拉华州法庭。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新加坡用「马桶水」做啤酒，不重口还很好喝]]></title>
         <id>https://news.cnblogs.com/n/724315/</id>
@@ -224,6 +385,26 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纳米颗粒疫苗能抵御类 SARS 病毒]]></title>
+        <id>https://www.solidot.org/story?sid=72075</id>
+        <link href="https://www.solidot.org/story?sid=72075"/>
+        <updated>2022-07-08T15:26:48.000Z</updated>
+        <summary type="html"><![CDATA[在小鼠和猴子的动物实验中，一种新型的纳米颗粒疫苗能抵御多种类 SARS 病毒，包括新冠病毒的变种。研究报告发表在《科学》期刊上。疫苗是基于笼状的纳米颗粒技术，由蛋白质构成，表面的粘性附加物可用于标记病毒蛋白。当注射到动物体内时，疫苗将病毒片段展示给免疫系统，诱导抗体产生。在最新研究中，研究人员使用了包括新冠在内的八种类 SARS 病毒的刺突结构，诱导免疫系统产生广泛的冠状病毒抗体反应。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼 PlayStation 商店将移除客户购买的电影]]></title>
+        <id>https://www.solidot.org/story?sid=72074</id>
+        <link href="https://www.solidot.org/story?sid=72074"/>
+        <updated>2022-07-08T14:02:10.000Z</updated>
+        <summary type="html"><![CDATA[发行商与内容提供商之间经常会因为协议到期而下架内容，对于之前那些购买了相关产品的客户发行商该如何处理？在 Valve 的 PC 游戏平台 Steam，下架的游戏仍然会留在玩家的游戏库，可以下载或继续游戏，游戏对应的商店页面会消失。亚马逊计划在两年后终止其 kindle 中文电子书商店，届时中国客户将无法再下载已购的电子书。这个做法有争议，但至少电商巨人提前两年通知了客户，因此客户有足够的时间下载已购电子书。而索尼的 PlayStation 商店则采取了更备受争议的做法：它通知奥地利和德国的客户，从 2022 年 8 月 31 日起从客户的内容库中删除 Studio Canal 发行的电影(包括 Apocalypse Now、Django、John Wick、La La Land、Saw  和 The Hunger Games 等知名电影)。客户并非租赁而是购买了这些电影。它只给客户留了不到两个月的时间。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -10904,483 +11085,6 @@ OLED电视：OLED可以说屏幕技术上就完全不同于传统LED屏幕，目
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自研智能底盘域控制器ICC，蔚来智能底盘量产落地]]></title>
-        <id>https://news.cnblogs.com/n/722474/</id>
-        <link href="https://news.cnblogs.com/n/722474/"/>
-        <updated>2022-06-10T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[智能电动汽车时代，底盘不再是纯粹的机械集成，软件的加入，让底盘开发垂直整合能力大幅提升，提升整车动态性能边界。 日前，蔚来汽车全栈自主开发的悬架控制系统，率先量产落地交付用户，其搭载了全栈自研智能底盘域控制器 ICC，这也是国内首个全栈自研智能底盘域控制器，已率先搭载到 ET7 上，于 2022 年
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里平头哥独立传闻背后]]></title>
-        <id>https://news.cnblogs.com/n/722473/</id>
-        <link href="https://news.cnblogs.com/n/722473/"/>
-        <updated>2022-06-10T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[文数智前线，作者 赵艳秋，编辑 周路平 一两个月前，阿里旗下的芯片公司平头哥要从阿里集团独立的消息，在芯片界广为流传。而最近又有消息称，平头哥不独立了。反复的信息背后，互联网大厂的芯片业务都怎么样了？ 一两个月前，阿里旗下的芯片公司平头哥要从阿里集团独立的消息，在芯片界广为流传。而最近又有消息称，平
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暂停上市584天，蚂蚁集团整改怎样了]]></title>
-        <id>https://news.cnblogs.com/n/722472/</id>
-        <link href="https://news.cnblogs.com/n/722472/"/>
-        <updated>2022-06-10T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[本文来源于微信公众号中国企业家杂志 （ID:iceo-com-cn），作者邓双琳，编辑李薇 北京时间 6 月 9 日晚，阿里巴巴美股经历了一场盘前巨震，从跌超6% 直线拉升至涨超6%，最终当天收于 109.90 美元，跌 9.72 美元，跌幅为 8.13%。 这场过山车式的股价震荡，和一则市场传闻有
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能手表不开发，AR眼镜被推迟，Meta的产品一波又三折]]></title>
-        <id>https://news.cnblogs.com/n/722471/</id>
-        <link href="https://news.cnblogs.com/n/722471/"/>
-        <updated>2022-06-10T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[从 Meta 公司宣布更名开始，迈向元宇宙的路也频频受阻，不仅在人事变动上数次动荡，各类产品的开发计划也不那么顺利。 2022 年初停止了一个新的 VR/AR 软件操作系统的开发，不久前彭博社的报道称，之前曝出过产品的那款带摄像头的智能手表，也已经停止了开发。 ▲图片来自：Unsplash 从之前曝
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芯片荒蔓延到先进制程芯片]]></title>
-        <id>https://news.cnblogs.com/n/722470/</id>
-        <link href="https://news.cnblogs.com/n/722470/"/>
-        <updated>2022-06-10T12:50:00.000Z</updated>
-        <summary type="html"><![CDATA[持续了两年之久的全球芯片荒可能蔓延到一些最先进制程芯片，而这类芯片对于下一代智能手机和为应用程序提供动力的数据中心至关重要。此前芯片荒主要影响成熟制程芯片。然而现在最先进制程芯片也出现了生产困难和制造设备短缺等问题，引发了人们对全球两家最高端芯片制造商能否履约交货的担忧。问题的棘手之处在于，由于成本
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 剪切板无最大数据容量限制]]></title>
-        <id>https://news.cnblogs.com/n/722469/</id>
-        <link href="https://news.cnblogs.com/n/722469/"/>
-        <updated>2022-06-10T12:48:00.000Z</updated>
-        <summary type="html"><![CDATA[有没有向 Windows 剪切板拷贝数据时遇到问题？据微软资深程序员、《Old New Thing》作者 Raymond Chen 的解释，问题通常与剪切板本身无关。剪切板没有对数据预设容量上限，唯一的限制是可用内存和地址空间。 Raymond Chen 举例说，有客户尝试向剪切板拷贝 30 万行 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任正非的咖啡哲学]]></title>
-        <id>https://news.cnblogs.com/n/722468/</id>
-        <link href="https://news.cnblogs.com/n/722468/"/>
-        <updated>2022-06-10T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[作者｜周超臣 头图｜视觉中国 日前，有媒体报道称，华为提交了一个名为“一杯咖啡吸收宇宙能量”的商标申请，目前处于审核状态，该申请提交于 5 月 18 日。 随即有媒体扒出几年前任正非吐槽华为研发人员小气、挣那么多钱却不舍得出去跟人喝咖啡的一个视频，任正非说：“你看我们公司遍地都是咖啡厅啊，是因为我们
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理学家可能发现了新粒子]]></title>
-        <id>https://news.cnblogs.com/n/722467/</id>
-        <link href="https://news.cnblogs.com/n/722467/"/>
-        <updated>2022-06-10T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[研究人员可能发现了希格斯玻色子的磁性表亲。研究报告发表在《自然》期刊上。发现希格斯玻色子需要大型强子对撞机（LHC）巨大的粒子加速能力，而这种被称为轴向希格斯玻色子的粒子是通过一个可在小型厨房台面上进行的实验发现的。希格斯玻色子可赋予其他粒子质量，其磁性表亲有可能是暗物质的候选者，暗物质占宇宙总质量
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱奇艺被指双标：花一样的钱苹果用户能看1080p安卓不行]]></title>
-        <id>https://news.cnblogs.com/n/722465/</id>
-        <link href="https://news.cnblogs.com/n/722465/"/>
-        <updated>2022-06-10T12:23:00.000Z</updated>
-        <summary type="html"><![CDATA[同一家网站的同一个视频，使用不同设备来观看，最高画质竟然有区别。 近日，据共富财经报道，四川一名网友爆料称：用安卓手机在爱奇艺看《魔法满屋》，最高清晰度只支持 720p，但用苹果手机却能播放 1080p 画质的视频。 当事人称，刚开始以为是自己没开会员的问题，开完会员后发现还是只支持 720p，但在
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南京大学实现柔性全钙钛矿叠层电池新突破]]></title>
-        <id>https://news.cnblogs.com/n/722466/</id>
-        <link href="https://news.cnblogs.com/n/722466/"/>
-        <updated>2022-06-10T12:11:00.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 6 月 9 日，南京大学谭海仁教授团队与吉林大学张立军团队合作在 Nature Energy 上发表了一篇题为“Flexible all-perovskite tandem solar cells approaching 25% efficiency with molecule-bri
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 剪切板无最大数据容量限制]]></title>
-        <id>https://www.solidot.org/story?sid=71794</id>
-        <link href="https://www.solidot.org/story?sid=71794"/>
-        <updated>2022-06-10T11:32:12.000Z</updated>
-        <summary type="html"><![CDATA[有没有向 Windows 剪切板拷贝数据时遇到问题？据微软资深程序员、《Old New Thing》作者 Raymond Chen 的解释，问题通常与剪切板本身无关。剪切板没有对数据预设容量上限，唯一的限制是可用内存和地址空间。Raymond Chen 举例说，有客户尝试向剪切板拷贝 30 万行 Excel 表格，然后再在 Rich Text Format 格式中提取数据，结果返回了 NULL 错误。问题不是因为剪切板有数据容量上限，而是因为 Excel 没有为 Rich Text Format 格式优化。Excel 未能在特定时间范围内完成任务后导致了超时。他说，系统给剪切板数据复制的时间限制是 30 秒，超过 30 秒后会返回 NULL 错误。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芯片荒蔓延到先进制程芯片]]></title>
-        <id>https://www.solidot.org/story?sid=71793</id>
-        <link href="https://www.solidot.org/story?sid=71793"/>
-        <updated>2022-06-10T10:55:24.000Z</updated>
-        <summary type="html"><![CDATA[持续了两年之久的全球芯片荒可能蔓延到一些最先进制程芯片，而这类芯片对于下一代智能手机和为应用程序提供动力的数据中心至关重要。此前芯片荒主要影响成熟制程芯片。然而现在最先进制程芯片也出现了生产困难和制造设备短缺等问题，引发了人们对全球两家最高端芯片制造商能否履约交货的担忧。问题的棘手之处在于，由于成本和技术壁垒较高，只有台积电和三星两家公司有能力制造最先进制程芯片。据知情人士称，台积电的一些客户收到预警称，一些生产设备的购置遇到一些问题，该公司明年和 2024 年的增产情况可能落后于之前预期的速度。三星代工部门的 4 纳米制程芯片良率的改善速度慢于预期，今年无法提供承诺数量的芯片，促使高通和英伟达等主要客户转而向竞争对手台积电订购其下一代产品使用的芯片。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 建立团队研究 UFO]]></title>
-        <id>https://www.solidot.org/story?sid=71792</id>
-        <link href="https://www.solidot.org/story?sid=71792"/>
-        <updated>2022-06-10T10:18:30.000Z</updated>
-        <summary type="html"><![CDATA[NASA 周四表示正组建一个团队研究不明飞行现象（UAP），即俗称的 UFO。 NASA 称该团队将收集“从科学角度无法识别为飞机或者已知自然现象的天空事件”的数据。NASA 表示，出于安全和安防考虑，它对 UAP 很感兴趣。NASA 补充道，没有证据表明 UAP 源于外星。这项研究预计需要九个月的时间。NASA 华盛顿总部的科学助理主管 Thomas Zurbuchen 表示：“NASA 相信科学发现的工具很强大，也适用于这个问题。”“我们可以从太空对地球进行广泛地观测——这是科学探究的生命线。我们拥有可以帮助我们提高对未知事物理解的工具和团队。这就是科学的定义。这就是我们要做的事。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大厂裁员登上热搜，谈谈我的 3 点认知]]></title>
-        <id>https://news.cnblogs.com/n/722464/</id>
-        <link href="https://news.cnblogs.com/n/722464/"/>
-        <updated>2022-06-10T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[大家好，我是梦想家 Alex 。 因为昨天恰好看到了大厂裁员的热搜 ，和几个朋友写的公众号文章，我就打算就着这个话题简单和大家分享几点我的认知，希望对大家有所帮助！ NO1、老板只会给你一个位置，不会给你一个未来 第一点呢，我希望大家明白一个道理 。今天不管你在哪里工作，老板都只会给你一个位置，不会
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一篇论文如何摧毁比特币的匿名性]]></title>
-        <id>https://www.solidot.org/story?sid=71791</id>
-        <link href="https://www.solidot.org/story?sid=71791"/>
-        <updated>2022-06-10T10:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Rice 大学 Baylor 医学院研究员 Alyssa Blackburn 及其团队使用被称为“地址链接（address linking）”的技术研究比特币诞生前两年内的交易：从 2009 年 1 月至 2011 年 2月。他们的发现这两年中“大多数比特币都是由区区 64 个代理开采出来的，总价值为 B2,676,800（现价值为 840 亿美元）。”“开采”指的是通过解决计算机挑战铸币的过程。他们观察到，这个数字——总共 64 人——“比之前估计的比特币社区的早期规模（7.5 万人）小了 1000 倍”。这 64 个人中包括一些已成为传奇人物的名人，例如以 Dread Pirate Roberts 闻名的 Ross Ulbricht。Ulbricht 是丝绸之路的创始人，一个使用比特币进行非法交易的黑市——直到它被 FBI 关闭。
-
-
-对于 Blackburn 及其团队来说，重点是研究人们匿名参与博弈论情景的情况。他们发现像 Ulbricht 之类的早期内部人士可利用参与者相对稀缺的局面进行“双花”（double-spend），这会破坏比特币，但他们没有这样做。他们采取了“利他主义”的方式维护系统的完整性。这很有趣，但更紧迫的发现是地址可以被追踪，身份可以被揭露。为了找出谁在进行这些早期交易，Blackburn 及其团队不得不对比特币及所有加密货币的整个前提条件进行逆向工程：匿名性。
-
-
-正如中本聪在最初的比特币白皮书中所描述的，隐私将通过两种方式进行保护：使用匿名公钥并为每笔交易创建新的密钥对。Blackburn 和团队必须追踪这些密钥对才能揭示早期比特币的交易方。为此他们开发了一种称为新型地址链接的方案。该方案发现了两种指向用户的模式：一种是重复出现的代码位，另一种是某些交易的重复地址。他们在论文（PDF）中写道，结果就是有可能从一个已知的身份开始，通过跟踪地址图中的关联链识别出身份，并“追踪资金”。此外他们假设“很多加密货币可能容易受到追踪资金攻击。”Blackburn 对《纽约时报》的 Siobhan Roberts 表示，“当你加密私人数据并将其公开时，你就不能认为它能永远保密。”正如该团队在报告中总结的那样，“信息泄露一点一滴地侵蚀了曾经难以逾越的障碍，开辟出社会经济数据的新格局。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B站只能假装会做游戏]]></title>
-        <id>https://news.cnblogs.com/n/722458/</id>
-        <link href="https://news.cnblogs.com/n/722458/"/>
-        <updated>2022-06-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文/辜鸿城 来源：零态 LT（ID:LingTai_LT) 2022 年 6 月 9 日，B站发布了 2022 年 Q1 财报，总营收 50.54 亿元，同比增长 29.56%。作为营收的四驾马车，增值业务收入 20.52 亿元、游戏业务收入 13.58 亿元、广告业务收入 10.41 亿元和电商及
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[强执500余万，股价连续低于1美元！每日优鲜称不会退市，前景几何？]]></title>
-        <id>https://news.cnblogs.com/n/722463/</id>
-        <link href="https://news.cnblogs.com/n/722463/"/>
-        <updated>2022-06-10T09:35:00.000Z</updated>
-        <summary type="html"><![CDATA[因拖欠货款被强制执行 533 万，股价连续低于 1 美元，2021 年财报“爽约”，“社区零售电商第一股”每日优鲜的日子可谓不好过。 股价连续低于 1 美元，遭退市警示 公开信息显示，作为生鲜前置仓模式的代表，每日优鲜成立于 2014 年 11 月，是一家创新型社区零售企业。2018 年，每日优鲜获
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老板们愿意用吗？360推出反加班服务：到点自动关闭电脑]]></title>
-        <id>https://news.cnblogs.com/n/722462/</id>
-        <link href="https://news.cnblogs.com/n/722462/"/>
-        <updated>2022-06-10T09:35:00.000Z</updated>
-        <summary type="html"><![CDATA[6 月 10 日，有消息称 360 企业安全云即将上线一项新服务，公司管理者可通过 360 企业安全云设置“强制下班”时间，做到真正的“一键下班”。 （图片来自：360 官方） 360 企业安全云专为中小型企业提供数字化管理服务和解决方案，具备“云原生 SaaS 架构”、“企业级安全防护”和“定制级
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud 将 π 计算到 100 万亿位]]></title>
-        <id>https://www.solidot.org/story?sid=71790</id>
-        <link href="https://www.solidot.org/story?sid=71790"/>
-        <updated>2022-06-10T09:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud 开发大使 Emma Haruka Iwao 及其同事表示将π计算到了小数点后 100 万亿位。Iwao 和她的团队此前曾在 2019 年创下小数点后 31.4 万亿位数的计算精度记录。过海记录之后被打破了几次。Iwao 在博文中写道，尽可能多地计算出 π 的位数是一种衡量计算能力进步的方法。Iwao 的工作要展示 Google
- Cloud 的能力，因此她会利用平台的强大功能执行这种计算也就不足为奇了。2019 年的计算花费了 121 天，最终计算出的位数是最近一次尝试的三分之一。这一次 Iwao 使用了“同样的工具和技术”，计算运行了 157 天 23 小时 31 分 7.651 秒，这意味着计算机的运行速度是原来的两倍多。总共处理了大约 82,000 TB的数据。Iwao 还指出，以每秒 1 个数字的速度大声读出所有 100 万亿个数字将需要花费超过 310 万年的时间。如果你想知道的话，π 在小数点后 100 万亿位上的数字是 0。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大战当前，俞永福号召员工思考“原点”问题]]></title>
-        <id>https://news.cnblogs.com/n/722461/</id>
-        <link href="https://news.cnblogs.com/n/722461/"/>
-        <updated>2022-06-10T09:24:00.000Z</updated>
-        <summary type="html"><![CDATA[接管阿里本地生活业务近一年，俞永福开始思考它的使命、愿景和文化。 5 月 10 日，他向全员发出一封语气真挚的内部信，鼓励大家和他一起思考本地生活发展的源动力是什么，先自我回答一些 “原点” 问题，包括：我们是谁？我们为什么能长期自驱地一起战斗 ？ 过去，只有一家独立的公司才拥有使命愿景，但阿里业务
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炮轰美国经济、推特虚假账户 马斯克情绪不稳只因特斯拉日子不好过了？]]></title>
-        <id>https://news.cnblogs.com/n/722460/</id>
-        <link href="https://news.cnblogs.com/n/722460/"/>
-        <updated>2022-06-10T09:12:00.000Z</updated>
-        <summary type="html"><![CDATA[6 月 10 日消息，最近埃隆·马斯克（Elon Musk）频频发声，又说美国经济衰退又反对居家办公，还抱怨推特上虚假账户。分析认为，这种情绪发泄只是说明他领导的电动汽车制造商特斯拉日子又开始不好过了。 不要被马斯克不断投向太空的闪亮航天器所迷惑。无论是他因为反对居家办公大放厥词、宣称美国经济正处于
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理学家可能发现了新粒子]]></title>
-        <id>https://www.solidot.org/story?sid=71789</id>
-        <link href="https://www.solidot.org/story?sid=71789"/>
-        <updated>2022-06-10T09:04:31.000Z</updated>
-        <summary type="html"><![CDATA[研究人员可能发现了希格斯玻色子的磁性表亲。研究报告发表在《自然》期刊上。发现希格斯玻色子需要大型强子对撞机（LHC）巨大的粒子加速能力，而这种被称为轴向希格斯玻色子的粒子是通过一个可在小型厨房台面上进行的实验发现的。希格斯玻色子可赋予其他粒子质量，其磁性表亲有可能是暗物质的候选者，暗物质占宇宙总质量的 85%，只能通过引力展示。希格斯玻色子是 LHC 的 ATLAS 和 CMS 探测器在十年前（2012年）首次检测到的，轴向希格斯玻色子与希格斯玻色子不同，因为它具备磁矩、磁强度或产生磁场的方向。因此需要一个比它的非磁性质量赋予表亲更复杂的理论来描述它。
-
-
-获得这一发现的团队的首席研究员、波士顿学院物理学 Kenneth Burch 表示：“当学生给我看数据时，我认为她肯定搞错了。”“你不是每天都能在桌面上发现新粒子的。”Burch 表示：“我们用桌面光学实验发现了轴向希格斯玻色子，该实验位于一个大约 1*1 米的桌子上，目标是研究具有独特特性组合的材料。”“具体而言，我们使用了稀土三碲化物（RTe3），这是一种具有高度二维晶体结构的量子材料。RTe3中的电子自组织成一个波，其中的电荷密度周期性地上升或降低。”这些室温以上出现的电荷密度波动的幅度可以随着时间的推移进行调制，从而产生轴向希格斯模式。
-
-
-在新研究中，该团队将一种颜色的激光射入 RTe3 晶体中，创建出了轴向希格斯模式。在拉曼散射的过程中，光发生散射并变成频率较低的颜色，颜色变化过程中损失的能量产生了轴向希格斯模式。然后该团队旋转晶体，发现轴向希格斯模式还控制了电子的角动量，即它们在圆周上移动的速率，在这种材料中，这意味着这种模式也必须是磁性的。Burch解释称，“我们一开始只是研究这种材料的光散射特性。在仔细研究了响应的对称性——它在我们旋转样本时的变化——之后，我们发现异常变化是某种新东西的最初暗示。”“因此它是第一个被发现的此类磁性希格斯粒子，表明 RTe3 中电子的集体行为不同于此前在自然界中看到的任何状态。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传苹果正开发15英寸MacBook Air，最早明年发布]]></title>
-        <id>https://news.cnblogs.com/n/722459/</id>
-        <link href="https://news.cnblogs.com/n/722459/"/>
-        <updated>2022-06-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[6 月 10 日消息，据知情人士透露，苹果公司计划明年推出多款使用其自主研发、速度更快内部芯片的笔记本电脑产品，以抢占更多市场份额。 知情人士表示，苹果正在开发尺寸更大的 MacBook Air，它将配有 15 英寸屏幕，最早将于明年春天发布。这意味着，它将成为 MacBook Air 诞生 14 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专家称猴痘可通过空气传播]]></title>
-        <id>https://www.solidot.org/story?sid=71788</id>
-        <link href="https://www.solidot.org/story?sid=71788"/>
-        <updated>2022-06-10T07:33:05.000Z</updated>
-        <summary type="html"><![CDATA[自 5 月 13 日报告疫情首例猴痘病例以来，已有 3 1个国家的 1000 多人被诊断出感染了该病毒，至少还有 1000 例正在接受观察。在以前的疫情中，大多数病例发现于与感染者或动物有密切接触的人。但在某些情况下，空气传播是感染的唯一解释。大多数关于猴痘病毒的信息都是从对天花的研究中收集到的。猴痘是一种较为温和的天花。在过去的二十年里，科学家们一直在研究天花是如何传播的，包括它存在于被称为气溶胶的微小液滴中，以便做好准备应对生物恐怖分子对它的利用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该怎么与这个世界相处？]]></title>
-        <id>https://sspai.com/post/73704</id>
-        <link href="https://sspai.com/post/73704"/>
-        <updated>2022-06-10T07:25:23.000Z</updated>
-        <summary type="html"><![CDATA[去年 9 月，我在荷兰参加了一个中文文化沙龙组织的活动，当时整体分享、讨论的氛围极好。在后半段的提问环节时，有个朋友问了大家一个问题：“生活里我常常被淹没在各种各样的信息里，导致我不断怀疑自己以前做的决定、以及正在做的决定是否是正确的。我应该怎么做，才能坚持自己的选择？或者怎么样才能做出「好的选择」？”
-那时我似乎福至心灵，脑海里突然浮现出了我对于这个问题的答案，但是这个答案仿佛只是一个框架、又或者是一幅画，只是处在「心灵语言1」的阶段。但还好借由当时的气氛，我艰难地用语言将答案组织出来了。
-当时我没觉得自己的答案多有建设性，但是会议之后至少有两个人过来和我说，我刚才的答案对她们很有帮助。我听后很开心——能够帮助到别人——同时我心里也暗暗记下，这个想法很重要，但还不够成熟、不够逻辑自洽，只是藏在脑海深处的、模糊的一些想法。
-但现在，我决定将我脑海里尚且不够清晰，但可以与人分享的内容写下来。而让我产生写下这个想法的契机，是我前段时间读的三本书2，或者说这三本书里提到的想法。这些想法的组合，和我当时在会议上的回答不谋而合。但是借由作者清晰的描述，我似乎也能够将我脑海里的想法描述出来了。我决定借着写这篇文章的机会，希望找到一个答案来回答——我应该怎么与这个世界相处？
-问题与答案
-「我应该怎么与这个世界相处？」这个问题似乎与文章开头提到的问题不同，但实际上是一个问题。
-当我们谈论「与这个世界相处」时，「世界」指的是什么呢？
-首先是「别人」，即我们的朋友、家人、爱人、同事、陌生人，乃至我们关注的明星和 influencer。各种各样的人对我们的影响是极大的。父母让我们选择的大学专业、朋友升职的信息、明星代言的品牌、关注的大 V 说的某个观点，这些信息无时无刻不在影响我们对世界的看法。如何与这些人（及背后的信息）相处？
-其次是「信息」，关注的新闻、读的书、朋友圈里的信息，这些信息是真是…]]></summary>
-        <author>
-            <name>Theia在路上</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微型流星击中韦伯望远镜镜片]]></title>
-        <id>https://www.solidot.org/story?sid=71787</id>
-        <link href="https://www.solidot.org/story?sid=71787"/>
-        <updated>2022-06-10T07:25:05.000Z</updated>
-        <summary type="html"><![CDATA[NASA 透露略小于一粒沙的微流星体击中了韦伯（James Webb）望远镜的一片镜片，不过望远镜仍能完成原定任务。撞击发生在 5 月 23 日至 25 日期间，望远镜收集到的数据因此受到轻微影响，但望远镜运行良好，超出任务要求。声明说，工程师调整了被击中镜片的位置，一定程度抵消了因撞击造成的偏差。“最近的撞击不会改变韦布望远镜的运行计划。”望远镜主镜直径 6.5 米，由 18 片巨大六边形镜片构成，调整这 18 片镜片后可统一聚焦拍摄。望远镜造价 100 亿美元，是 NASA 迄今建造的最大、功能最强的空间望远镜，目前在距离地球约 150 万千米的轨道运行，预计于 7 月 12 日传回首批正式观测照片。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《最后生还者》将登陆 PC]]></title>
-        <id>https://www.solidot.org/story?sid=71786</id>
-        <link href="https://www.solidot.org/story?sid=71786"/>
-        <updated>2022-06-10T07:02:34.000Z</updated>
-        <summary type="html"><![CDATA[在夏季游戏节（Summer Game Fest）上，索尼旗下的工作室 Naughty Dog 宣布了 PS5 版本的《最后生还者1》，同时证实 PC 版本在开发之中。《最后生还者1》重制版本将于 9 月 2 日发布，PC 版本尚未发布日期。Naughty Dog 称，登陆 PS5 的重制版本现代化了游戏方式、改进了控制、扩展了可及性选项，加强了特效、探索和战斗，实现了 3D Audio 等功能。《最后生还者1》是最新一款将登陆 PC 平台的索尼第一方游戏。Naughty Dog 同时宣布《最后生还者1》的多人模式将转变为一个完整的独立游戏，显示索尼在探索类似《命运（Destiny）》 系列的 live service 游戏服务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 209 期）：程序员是怎样的人]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html"/>
-        <updated>2022-06-10T00:33:54.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
-周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
-封面图
-
-重庆巫山机场位于巫山县三峡旁边的群山之中，削平了7个山头，填了6个山谷后，才形成了3000亩平地。它的海拔有1700多米，距离山脚垂直落差近1000米，乘客需要沿着盘山公路，来到山顶以后才能乘坐飞机。（via）
-本周话题：程序员是怎样的人
-我最近看到一个令人深思的心理学实验，叫做"斯坦福监狱实验"（Stanford Prison Experiment），跟大家分享一下。
-1971年，一个美国的心理学家在斯坦福大学心理学系的地下室，搭建了一个模拟监狱。
-
-他找来一批志愿者，让他们掷硬币，一半人扮演囚犯，另一半人扮演狱警。这些志愿者都是正常人，从来没有接触过监狱，心理学家也不告诉他们，该怎么扮演囚犯和狱警。
-每个人换上角色服装，进入逼真的环境。一开始，大家都举止笨拙，不知道做什么，还觉得这件事有点滑稽。
-
-但是过了一会，事情就开始发生变化。囚犯们慢慢摆脱了从前的身份，开始接受现在的角色，站在囚犯的立场思考。他们感受到心理压力，没心思吃东西，向"狱警"提出抗议，彼此互相指责。
-狱警们也开始像真正的狱警，管起了囚犯，划定单人牢房，让囚犯呆在里面，接受心理惩罚。同时，对囚犯发表长篇大论的说教，听任囚犯互相攻击，还会缓慢地在走​​廊上踱步，用木棍敲打牢房门的栅栏。
-
-最惊人的是，过了两天，心理学家让所有人调换角色，囚犯扮演狱警，狱警扮演囚犯。结果，双方很快就适应了新角色，行为变得与新角色一致。
-由于所有人太入戏，心理学家担心发生难以控制的局面，原定两周的实验不得不在第六天就宣布结束。
-心理学家从这个实验，得到一个结论：人类行为受到工作环境的强烈影…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最惨小米生态链上市公司？营收净利暴降，全屋智能“摊大饼”]]></title>
-        <id>https://news.cnblogs.com/n/722410/</id>
-        <link href="https://news.cnblogs.com/n/722410/"/>
-        <updated>2022-06-10T00:31:05.000Z</updated>
-        <summary type="html"><![CDATA[文/程茜 来源：智东西（ID:zhidxcom) 营收骤降、口碑崩盘、濒临退市，云米怎么了？ 智东西 6 月 9 日报道，不久前，云米科技发布了截至 3 月 31 日的 2022 年第一季度财报，云米第一季度营收 7.121 亿元，同比下滑 43.3%，归属于公司普通股股东的净亏损为 5061.4 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丁磊距离张朝阳还差几步]]></title>
-        <id>https://news.cnblogs.com/n/722409/</id>
-        <link href="https://news.cnblogs.com/n/722409/"/>
-        <updated>2022-06-10T00:16:53.000Z</updated>
-        <summary type="html"><![CDATA[文 / 杨羽 编辑 / 王芳洁 来源：最话 FunTalk 6 月 7 日晚，国家新闻出版署发布了 2022 年 6 月份国产网络游戏审批信息。但是，在所有 60 款获得批号的游戏中，均不见腾讯、网易、三七互娱等传统强势游戏厂商的身影。自 4 月 11 日版号重启发放之后，已经连续两次出现该情况。 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“最邪恶”AI？由一亿多条仇恨言论喂养，很难与人类区分]]></title>
-        <id>https://news.cnblogs.com/n/722415/</id>
-        <link href="https://news.cnblogs.com/n/722415/"/>
-        <updated>2022-06-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[用 1.345 亿个帖子的仇恨言论训练 AI，YouTube 知名深度学习博主 Yannic Kilcher 称其创造了“有史以来最糟糕的人工智能”。 这几天，这个名为 GPT-4chan 的 AI 学会了如何在网站上交谈，并在不到 24 小时内发布了超过 15000 个充满暴力内容的帖子，最初都没
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清华教授宁存政出任深圳技术大学集成电路与光电芯片学院院长]]></title>
-        <id>https://news.cnblogs.com/n/722417/</id>
-        <link href="https://news.cnblogs.com/n/722417/"/>
-        <updated>2022-06-09T23:50:00.000Z</updated>
-        <summary type="html"><![CDATA[深圳技术大学日前对外公布消息，世界纳米激光及半导体器件领域的领军人之一、白光激光的发明者宁存政教授成为深圳技术大学集成电路与光电芯片学院的首任院长。 学校方面介绍，2021 年，深圳技术大学与企业合作，联合兴办粤港澳大湾区第一所集成电路学院，致力培养湾区产业发展急需的半导体和集成电路高端人才。前不久
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自如总部裁员20% 房源已收缩近15万间]]></title>
-        <id>https://news.cnblogs.com/n/722416/</id>
-        <link href="https://news.cnblogs.com/n/722416/"/>
-        <updated>2022-06-09T23:41:00.000Z</updated>
-        <summary type="html"><![CDATA[除一线业务部门，总部中后台及职能部门不到 4000 人，此次裁员比例约 20%，涵盖互联网营销、运营管理、品质、设计等部门。这是 36 氪从位于北京的公寓运营商「自如」总部获悉的内部消息。 据多位自如内部员工对 36 氪表示，6 月以来，公司正在大规模裁员，赔偿标准N+1，只给两三天的交接的时间。 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉带队，这些车企想要干掉电池包]]></title>
-        <id>https://news.cnblogs.com/n/722413/</id>
-        <link href="https://news.cnblogs.com/n/722413/"/>
-        <updated>2022-06-09T23:32:00.000Z</updated>
-        <summary type="html"><![CDATA[文/Juice 来源：车东西（ID:chedongxi) 特斯拉掀起 CTC 技术浪潮，5 大车企扎堆跟进。 电动车企扎堆搞 CTC 技术，到底有啥区别？ 头部的新能源汽车中，特斯拉早在 2020 年的电池日活动上就讲解了 CTC 技术，认为这项技术能够省掉 370 个车身零部件，减轻 10% 的车
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蔚来财报中的四个好消息和一个坏消息 | 看财报]]></title>
-        <id>https://news.cnblogs.com/n/722412/</id>
-        <link href="https://news.cnblogs.com/n/722412/"/>
-        <updated>2022-06-09T23:20:00.000Z</updated>
-        <summary type="html"><![CDATA[钛媒体 APP 6 月 9 日消息，蔚来于今日披露了 2022 年一季报，在财报与当晚的沟通会上，我们发现了四个好消息与一个坏消息。 营收连续八个季度正增长，研发持续投入 财报显示蔚来 2022 年一季度营收 99.1 亿元，同比增长 24.2%，连续八个季度实现正增长，这在新冠疫情自 2020 年
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南极降雪发现塑料微粒]]></title>
-        <id>https://news.cnblogs.com/n/722411/</id>
-        <link href="https://news.cnblogs.com/n/722411/"/>
-        <updated>2022-06-09T23:12:00.000Z</updated>
-        <summary type="html"><![CDATA[新西兰坎特伯雷大学的研究人员从南极洲罗斯岛（Ross）的 19 个地点收集了新雪样，发现每个雪样都含有塑料微粒。研究人员发现，每升融化的雪中平均含有 29 个塑料微粒。他们还确定了 13 种不同类型的塑料，其中最常见的是聚对苯二甲酸乙二醇酯（PET），主要用于软饮料瓶和衣服。研究人员在 79 %的降
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三次关键失误，威马能否叩开IPO大门]]></title>
-        <id>https://news.cnblogs.com/n/722407/</id>
-        <link href="https://news.cnblogs.com/n/722407/"/>
-        <updated>2022-06-09T16:12:34.000Z</updated>
-        <summary type="html"><![CDATA[文/乔雪 来源：Tech 星球（ID:tech618) 毫无疑问，威马掉队了，无论是上市速度，还是汽车销量。 在一众造车新势力里，威马同它的名字（德语：Weltmeiste，译为世界冠军）一样，曾是最有冠军相的，他的创始人沈晖，是一众造车风潮履历和背景最漂亮的——他曾是沃尔沃中国区董事长、吉利集团副
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈佛研究所开发3D打印心脏技术，打印出的心脏细丝自己还能长]]></title>
-        <id>https://news.cnblogs.com/n/722404/</id>
-        <link href="https://news.cnblogs.com/n/722404/"/>
-        <updated>2022-06-09T16:03:38.000Z</updated>
-        <summary type="html"><![CDATA[在 2020 年 12 月世界卫生组织公布的《2019 年全球健康评估报告》里，在过去 20 年来，心脏病一直是全球首要死因，且心脏病死亡人数比以往任何时候都多。自 2000 年以来，心脏病死亡人数增加了 200 多万，2019 年增至近 900 万。 ▲图片来自：The Guardian Nige
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抖音本地生活收费的底气在哪？]]></title>
-        <id>https://news.cnblogs.com/n/722400/</id>
-        <link href="https://news.cnblogs.com/n/722400/"/>
-        <updated>2022-06-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文偲睿洞察，作者寇敏 6 月 1 日起，在抖音打广告并产生交易的本地商家要交钱了。 根据字节在巨量网发布的《2022 年生活服务软件服务费标准说明》，只要商家在抖音平台发布商品或服务信息，如商品名称、价格、门店地址等，并与用户产生交易，就要向抖音缴纳软件服务费。 其中，软件服务费以“消费者实付金额+
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南极降雪发现塑料微粒]]></title>
-        <id>https://www.solidot.org/story?sid=71785</id>
-        <link href="https://www.solidot.org/story?sid=71785"/>
-        <updated>2022-06-09T14:26:31.000Z</updated>
-        <summary type="html"><![CDATA[新西兰坎特伯雷大学的研究人员从南极洲罗斯岛（Ross）的 19 个地点收集了新雪样，发现每个雪样都含有塑料微粒。研究人员发现，每升融化的雪中平均含有 29 个塑料微粒。他们还确定了 13 种不同类型的塑料，其中最常见的是聚对苯二甲酸乙二醇酯（PET），主要用于软饮料瓶和衣服。研究人员在 79 %的降雪样本中发现了这种塑料。以前的研究已经在南极的海冰和地表水中发现了塑料微粒污染，但这是第一次出现南极降雪中带有塑料微粒的报道。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰国合法化大麻加工食品的消费]]></title>
-        <id>https://www.solidot.org/story?sid=71784</id>
-        <link href="https://www.solidot.org/story?sid=71784"/>
-        <updated>2022-06-09T14:16:16.000Z</updated>
-        <summary type="html"><![CDATA[泰国周四将大麻种植和消费大麻加工食品合法化，成为亚洲第一个消费大麻合法化的国家，此举旨在促进农业和旅游业的发展。泰国对加工食品中大麻含量有严格限制，直接吸食大麻仍然是非法的。购买者在销售大麻加工食品的商店前排起了长队，以示对最新政策表达欢迎。泰国于 2018 年合法化医用大麻，政府现在计划将大麻作为一种经济作物，鼓励农民种植。但政府将加工食品中的大麻有效成分四氢大麻酚（THC）的含量限制在 0.2% 以内，这个含量非常低，消费者需要消耗大量 THC 才能兴奋起来。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
