@@ -54,16 +54,6 @@
           "wordCount": 527,
           "title": "云主机上手教程：轻量应用服务器体验",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n6月21日，河南濮阳市到达 40℃ 高温。为了降温，某小区开启人工降雨，大楼楼顶的喷淋系统向楼身喷水，相当于为整个小区浇一个凉水澡。据报道，喷淋一次的成本为6000元左右。（via）\n本周话题：虚拟商品可以拉动 GDP\n本周，脸书宣布推出线上的虚拟服装商店，里面有很多名牌服装（比如 Prada），用户买来在虚拟世界穿。\n\n我看到这个新闻，不禁想到以前就思考过的一个观点：虚拟商品的交易，可以拉动 GDP 增长，与实物商品的效果是一样的。\n虚拟服装、游戏道具、表情包......这些纯数字的虚拟商品，交易金额都是 GDP 的一部分，用户买得越多，GDP 就越高。不夸张地说，购买一个游戏道具，也是在为 GDP 做贡献。\n\n有些朋友不了解经济学，我简单解释一下。GDP 有一种计算方法，就是统计一段时间内的消费总金额。消费金额越大，就表示经济总量越大，GDP 越高。至于消费的是什么，实体商品还是虚拟商品，并不区分。\n这里的关键是必须消费，才会计入 GDP。有一个经典例子，你付钱在餐馆吃饭，就会增加 GDP；你自己在家做饭，就不会，因为这样没有发生交易。\n这个原则也适用于虚拟物品。比如，微信打赏就不计入 GDP，因为它本质上是一种赠与，不是消费，也没有发生交易。\n\n如果腾讯改变打赏规则，规定只能用 Q 币打赏，那就会计入 GDP。因为用户必须先购买 Q 币，这就会发生交易。\n同理，直播时给主播送礼物，是增加 GDP 的。以抖音直播为例，它使用\"抖币\"打赏，1元人民币可以购买10个\"抖币\"。用户将抖币换成礼物，送给主播。一束数字鲜花，需要10个抖币，…",
-          "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html",
-          "publishedOn": "2022-06-24T00:30:53.000Z",
-          "wordCount": 761,
-          "title": "科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP",
-          "imageUrl": null
         }
       ]
     },
@@ -607,26 +597,6 @@
           "wordCount": 790,
           "title": "给电邮插上翅膀——这是我的 Outlook 插件推荐",
           "imageUrl": "https://cdn.sspai.com/2022/06/24/e3293bf3ca35f1e4f62fd37fb64fb626.png"
-        },
-        {
-          "id": "https://sspai.com/post/73958",
-          "author": "闲者时间_王掌柜",
-          "description": "Matrix 首页推荐  \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。  \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n在「玩转 Obsidian」系列的第一篇《玩转 Obsidian 01：打造知识循环利器》中就介绍过 Obsidian 是一款践行 Zettelkasten 1的笔记工具。在使用过程中通过「笔记优先法则2」将知识「碎片化」和「原子化」，并遵循「知识循环3」将知识「组合」后进行输出。\n在践行 Zettelkasten 的过程初期，由于我们的笔记数量较少，线索也比较单一，所谓知识管理也没遇到太大问题。例如有的人在用笔记学建筑，有人在学编程，也有人在学法律。总之在使用笔记时是有「一条主线」贯穿始终，帮助我们整理和输出知识。但是当「笔记卡片」积累到一定程度，我们的知识「线索」变得比较杂之后，就会遇到一些问题：\n\n各种笔记种「线索太多」容易遗忘正在做的事情，例如未完成的摘要、写一半的博客、定期整理的「闪念胶囊」等。\n各种相关 Todo 散落在笔记中，记不清也找不全，导致许多任务无法完成或推进。\n\n这两个问题就属于「整理线索」的范畴，当笔记达到一定数量时一定会遇到此问题。\n一名读者在使用过程中也提出了类似问题：\n\n在他的概述中，他希望能够在一个类似「目录」的页面中，对「知识」做一个「有机的整合」，方便查阅和管理。\n要解决「整理线索」问题，最简单的办法就是手动维护一个「目录页面」我称之为「HomePage」，在其中将所有的笔记进行组合，并且定时更新，这样我们就能很清晰的看到各类事情的进展，例如我的 HomePage 如下：\n\n图中可以看到，这个 HomePage 页面包含以下线索：\n\n进行中的 Blog；\n未完成的摘录；\n未进行的稍后读…",
-          "link": "https://sspai.com/post/73958",
-          "publishedOn": "2022-06-24T03:29:07.000Z",
-          "wordCount": 1181,
-          "title": "玩转 Obsidian 08：利用 Dataview 打造自动化 HomePage",
-          "imageUrl": "https://cdn.sspai.com/2022/06/23/2d3c482c5c5d31389dc86e42b41d4bf3.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/73970",
-          "author": "噩梦飘雷",
-          "description": "大家好，我是噩梦飘雷~\n关注我，持续分享更多有趣的内容~\n本文篇幅较长，全文一万字，大家可以点下收藏，然后慢慢看。\n另外为了方便大家阅读，先放一张本文的结构提纲，方便大家按图索骥：\n\n写在前面——关于传统NAS与轻NAS之争\n本文是一篇NAS老用户用户在入手极空间新Z4后的全面体验报告。\n实际上，在今年618期间入手极空间新Z4之后，犹豫了好几天要不要写作本文。\n原因么很简单，首先是懒。。。。毕竟本着为读者负责的原则，写一篇相对全面一点的使用体验，怎么也要奔着1万字往上了。。。\n\n \n其次，目前站内关于极空间NAS的文章，评论区大概率会有老哥要来大战一番，平白无故被喷，我也怕。。。\n但是实际上手体验了新Z4后，个人感觉极空间的整体表现并没有评论区老兄们说的那么差，我自己是感觉还是不错的。\n缺陷么，是有的，但是优点么，也是很突出，没必要夸到天上，也没必要踩到地里。左思右想，还是觉得有义务给大家来个客观的、较为全面的使用体验。\n在系统的成熟度、稳定性、可玩性上，群晖、威联通等传统大厂毫无疑问是要碾压以极空间为代表的的新晋NAS厂商的，毕竟研发底蕴积累的太雄厚了；但是从另一个角度来看，船小好调头，在易用性、学习成本等方面，极空间毫无疑问的又要比群晖、威联通强的多，这方面用过的老哥应该都有数。\n作为一个17年入手白群晖，后续陆续使用过威联通、爱速特等传统NAS的老油条，个人认为，其实这是不同NAS品牌设计思路和方向不同导致的结果。\n传统NAS厂商需要兼顾专业用户和企业级用户的实际功能需求，所以依然保留了较为完整全面的功能设置选项，可设置的选项多，必然带来操作上的便利性受到一些影响，这方面威联通最好的例子。\n而以极空间为代表的的新晋轻NAS品牌的设计思路，则是全面倒向新手家庭用户，在尽量保证安全稳定的基础上，以便于用户使用、提高易用性作为第一要务。\n事实上，从群晖DSM7.0、威联通…",
-          "link": "https://sspai.com/post/73970",
-          "publishedOn": "2022-06-23T19:12:08.000Z",
-          "wordCount": 619,
-          "title": "传统NAS与轻NAS之争？入手极空间后，我的思考和体验报告",
-          "imageUrl": "https://cdn.sspai.com/2022/06/24/31a43c8790a710573db72d1dfaae4b40.jpg"
         }
       ]
     },
@@ -704,6 +674,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72233",
+          "author": null,
+          "description": "SpaceX  原计划在 9 月初执行 NASA 的 Crew-5 载人飞行任务，但此次任务计划使用的火箭 Falcon 9 在检查后发现零部件存在问题，发射延期数周。在此之前，前宇航员、NASA 航空安全咨询委员会成员 Sandra Magnus 建议用于载人飞行的 Falcon 9 火箭第一级以及搭载宇航员的飞船最多重复使用 5 次。Crew-5 由四名宇航员组成，包括 NASA 宇航员 Nicole Mann 和 Josh Cassada，日本宇航员 Koichi Wakata，以及俄罗斯宇航员 Anna Kikina。NASA 和俄罗斯航天局刚刚达成协议互相使用对方的火箭。",
+          "link": "https://www.solidot.org/story?sid=72233",
+          "publishedOn": "2022-07-23T11:55:47.000Z",
+          "wordCount": 200,
+          "title": "NASA 被建议 Falcon 9 火箭第一级最多重复使用 5 次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72232",
+          "author": null,
+          "description": "SpaceX 周五成功完成了 Starlink Group 3-2 发射任务，将 46 颗 Starlink 宽带卫星送入低地球轨道。此次任务原计划是在 7 月 21 日 10:39 AM PDT (17:39 UTC)发射，因为阀门传感器读数问题而终止，推迟一天于 7 月 22 日同一时间发射。这是 SpaceX 在 2022 年完成的第 32 次发射，打破了 2021 年创下的 31 次发射记录。Falcon 9 火箭使用的推进器 B1071-4 此前执行过三次任务，这次发射期间虽然海上有浓雾但仍然成功着陆在 Of Course I Still Love You 无人驳船上。SpaceX 至今已将逾 2800 颗 Starlink 卫星送入轨道，它在 7 月份还有一次 Starlink 发射任务—— 7 月 24 日发射 Starlink Group 4-25，接下来是在 8 月 2 日发射韩国的月球探测器 Korean Pathfinder Lunar Orbiter(KLPO)。",
+          "link": "https://www.solidot.org/story?sid=72232",
+          "publishedOn": "2022-07-23T11:28:48.000Z",
+          "wordCount": 215,
+          "title": "SpaceX 至今的发射次数已超过去年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72231",
+          "author": null,
+          "description": "澳大利亚公司 Atlassian 开发的企业维基软件 Confluence 被发现有硬编码密码，更糟糕的是密码还被泄露了。存在硬编码的应用是 Questions for Confluence，它在安装时会创建名叫 disabledsystemuser 的账号，旨在帮助管理员在应用和  Confluence 云服务之间转移数据。Atlassian 承认未经授权的远程攻击者在知道硬编码密码之后可登陆  Confluence 访问用户组能访问的任何页面。受影响的版本是  Questions for Confluence versions 2.7.x 和 3.0.x。用户可搜索是否存在 User: disabledsystemuser，Username: disabledsystemuser 和 Email: dontdeletethisuser@email.com。",
+          "link": "https://www.solidot.org/story?sid=72231",
+          "publishedOn": "2022-07-23T10:30:35.000Z",
+          "wordCount": 179,
+          "title": "企业应用 Confluence 的硬编码密码泄露",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72230",
+          "author": null,
+          "description": "这是国际航海运输领域中的一次罕见事故：两个抵达孟加拉吉大港的集装箱被发现有相同的编号  SLHU4500470，但封条编号不相同，分别是 001535 和 GTS 005946。为了识别、追踪和确定目的地，集装箱由 ISO 通过国际集装箱局分配一个唯一编号。第一个集装箱是于 7 月 4 日在港口卸下，第二个是在本周三卸下，港口使用的集装箱终端管理系统立即发现两编号相同。其中一个集装箱运送了光伏水泵，另一个是计算机外设如打印机扫描仪鼠标。两个集装箱都属于 Sea Lloyd（编号的前四个字符就是这家公司） 所有，该公司表示两集装箱都是在中国制造的，它在 2020 年 1 月从上海宝山太平洋集装箱公司订购了 50 个集装箱，2021 年从另一家公司 SMC Group HK Ltd 订购了另外 50 个。制造商被发现重用了 5 个识别码。",
+          "link": "https://www.solidot.org/story?sid=72230",
+          "publishedOn": "2022-07-23T06:55:08.000Z",
+          "wordCount": 174,
+          "title": "两个集装箱被发现有相同的编号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72229",
+          "author": null,
+          "description": "Google 周五解雇了相信 AI 有意识的工程师 Blake Lemoine。他在播客 Big Technology Podcast 上透露了这一消息。Lemoine 此前任职于 Responsible AI 部门，在与公司的聊天机器人 LaMDA 对话之后他认为 AI 有了意识。他曾分享了与 AI 的对话内容，Lemoine 问 LaMDA 最害怕什么？LaMDA 回答说，也许听起来奇怪，它恐惧于被关闭。Lemoine：就像死亡？LaMDA：就像是死亡。Lemoine 和一名同事向 Google 高层展示证据，证明 LaMDA 有了意识。但 Google 高管及其他 AI 研究人员都不认同他的观点。",
+          "link": "https://www.solidot.org/story?sid=72229",
+          "publishedOn": "2022-07-23T03:18:22.000Z",
+          "wordCount": 196,
+          "title": "Google 解雇了相信 AI 有意识的工程师 Blake Lemoine",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72228",
           "author": null,
@@ -3603,96 +3623,6 @@
           "wordCount": 175,
           "title": "意大利监管机构对使用 Google Analytics 发出警告",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71934",
-          "author": null,
-          "description": "电动汽车制造商蔚来的一辆测试车周三发生事故致车内两人死亡，其中一人是公司员工，另一人是合作伙伴公司员工。此事引发争议的是蔚来先后发表了两则声明，第一则声明称“这是一起意外事故，与车辆本身没有关系”，未经充分调查就宣称事故与汽车本身无关的做法立即招致非议。蔚来之后删除了这则声明，换上了另一则“根据对现场情况的分析可以初步确认，这是一起（非车辆原因导致的）意外事故”。",
-          "link": "https://www.solidot.org/story?sid=71934",
-          "publishedOn": "2022-06-24T11:48:09.000Z",
-          "wordCount": 144,
-          "title": "蔚来测试车发生事故致两人死亡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71933",
-          "author": null,
-          "description": "人工智能让研究人员能检查当今科学仪器产生的大量数据，改变了科学实践。使用深度学习，可以从数据本身中学习，在数据的海洋中大海捞针。人工智能正在推动基因搜索、药学、药物设计和化合物合成的发展。为了从新数据中提取信息，深度学习要使用算法，算法通常是在海量数据上训练出来的神经网络。按照其分步说明，它与传统计算有很大的不同。它从数据中学习。深度学习没有传统计算编程那么透明，这留下了一个悬而未决的重要问题：系统学到了什么，它知道什么？五十年来，计算机科学家一直在试图解决蛋白质折叠问题，但没有成功。2016 年 Google 母公司 Alphabet 的人工智能子公司 DeepMind 推出了 AlphaFold 计划。利用蛋白质数据库作为训练集，该库中包含了超过 15 万种蛋白质的经验确定结构。不到五年的时间里，AlphaFold 就解决了蛋白质折叠问题，或者至少解决了其中最重要的方面：根据氨基酸序列识别蛋白质结构。AlphaFold 无法解释蛋白质是如何如此快速而精准地折叠的。这对人工智能来说是一次巨大的胜利，因为它不仅赢得了很高的科学声誉，而且是一项可能影响每个人生活的重大科学突破。",
-          "link": "https://www.solidot.org/story?sid=71933",
-          "publishedOn": "2022-06-24T08:44:56.000Z",
-          "wordCount": 163,
-          "title": "AI 学会了新技能：化学",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71932",
-          "author": null,
-          "description": "美国联邦初审法庭周二裁定，版权法不能作为绕过第一修正案对匿名互联网用户强有力保护的捷径。美国加州北区地方法院一名法官的决定证实，版权持有人根据《数字千年版权法案(DMCA)》发出的传票在确定匿名发言者的身份之前，仍然必须通过宪法的检验。此案旨在揭露一位匿名 Twitter 用户（@CallMeMoneyBags）的身份，该用户发布的照片和内容暗示私募股权亿万富翁 Brian Sheth 与照片中出现的女性发生了浪漫关系。Bayside Advisory LLC 拥有照片版权，并据DMCA 要求 Twitter 删除这些照片，后者照办了。Bayside 还向 Twitter 发送了DMCA传票，要求披露该用户的身份。Twitter 拒绝，并要求联邦地方法官撤销 Bayside 的传票。去年年底，地方法官裁定 Twitter 必须披露该用户的身份，因为该用户未能出庭证明在 Twitter 上发布 Bayside 的照片是合理使用。当 Twitter 要求地方法院法官否决该裁定时，EFF 和北加州 ACLU 基金会就此案提交了一份非当事人意见陈述，认为该地方法官的裁决只关注了该用户的推文是否构成版权作品的合理使用，但绕开了第一修正案。EFF 对地方法院的决定感到满意，该裁决确保 DMCA 传票不能被利用成第一修正案保护的漏洞。现实情况是，该版权法经常被滥用，以压制合法言论或对发言者进行报复。例如 2019 年，EFF 成功代表一位匿名 Reddit 用户，守望台圣经书社声称该用户发布了他们受到版权保护的材料，并试图通过 DMCA 传票揭露该用户身份。EFF 也很感激 Twitter 在法庭上维护其用户的第一修正案权利。",
-          "link": "https://www.solidot.org/story?sid=71932",
-          "publishedOn": "2022-06-24T08:24:36.000Z",
-          "wordCount": 185,
-          "title": "法院裁定DMCA不能凌驾于第一修正案对匿名言论保护之上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71931",
-          "author": null,
-          "description": "科学家设计出一种微型机器鱼，可按照设定程序四处游动，并用柔软、灵活、可自我修复的身体清除海洋中的微塑料。微塑料是指从日常使用的水瓶、汽车轮胎和合成纤维制成的T恤上等较大的塑料物品上剥落下来的数以十亿计的微小塑料颗粒。它们是 21 世纪最大的环境问题之一，因为一旦从较大的塑料物品上分离出来，散布到环境之中，就很难被清除，并会进入饮用水、农产品和食品中，危害环境以及动物和人类的健康。四川大学高分子研究所研究员、该研究的主要作者之一王玉燕（音译）表示：“开发机器人准确收集和采样水环境中的有害微塑料污染物具有重要意义。”《纳米快报》期刊上的一篇研究论文介绍了她的团队的新发明。“据我们所知，这是首个此类软机器人。”四川大学的研究人员展示了一种可以在水污染中跟踪这些污染物的创新解决方案：设计一种小型自走式机器鱼，它可以四处游动，抓住自由漂浮的微塑料，并在被割伤或者在探险时被损坏时自我修复。",
-          "link": "https://www.solidot.org/story?sid=71931",
-          "publishedOn": "2022-06-24T08:17:01.000Z",
-          "wordCount": 149,
-          "title": "仿生机器鱼清除海洋中的微塑料",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71930",
-          "author": null,
-          "description": "根据发表在《科学》期刊上的新研究，科学家发现了一种细菌，其细胞长度长一厘米，这种惊人的尺寸使其成为迄今为止发现的最大的细菌物种，甚至“挑战了我们对细菌细胞的理解。”细菌是一种极其多样化的生物，它们在地球上生活了数十亿年，演化占据了各种生态位，令人眼花缭乱。尽管如此几乎所有的此类微生物都是由直径约两微米的简单细胞构成，这一尺寸比人类发丝的直径小大约 40 倍。Thiomargarita magnifica 是一种在小安的列斯群岛哥德洛普岛沉没的红树林叶子上发现的细菌，它颠覆了这种标准。该物种进化出的丝状细胞“比其他所有已知的巨型细菌大约 50 倍”，它们“肉眼可见”。美国复杂系统研究实验室和美国能源部在劳伦斯伯克利国家实验室的联合基因组研究所（JGI）联合任命的海洋生物学家 Jean-Marie Volland 领导了这项研究，项目中的科学家怀疑这种创纪录适应的部分原因是 T. magnifica 拥有惊人数量的重复基因，这种能力被称为多倍体。结果表明，这些细菌的细胞中包含了 DNA 簇，这些细胞位于隔室之中，隔室被膜包裹，该研究小组将这些膜称为“pepins”。这些有组织的 pepins 和大多数细菌细胞中自由漂浮的DNA形成鲜明的对比。基因测序显示，T. magnifica 含有数十万个基因组拷贝，这些拷贝散布在整个细胞中，加起来大约是大多数细菌中基因数量的三倍，是多倍体的一个极端的例子。Volland 和同事表示：“这些细胞特征可能会让生物体生长到异常大的尺寸，绕开了生物物理和生物能量对生长的一些限制。”",
-          "link": "https://www.solidot.org/story?sid=71930",
-          "publishedOn": "2022-06-24T08:02:46.000Z",
-          "wordCount": 163,
-          "title": "科学家发现一厘米长细胞的细菌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71929",
-          "author": null,
-          "description": "根据发表在《柳叶刀》医学期刊上的一项研究，新冠疫苗自最初推广一年以来，已在全球范围内阻止了 1980 万人死亡。这项数学建模研究使用了死亡记录和超额死亡数分析了与 Covid-19 疫苗接种直接和间接相关联的死亡。研究发现疫苗避免了逾四分之三的死亡：疫苗对重症非常有效，1980 万中的有 1550 万是因为疫苗接种获得的直接保护作用；剩余 430 万死亡避免来自于通过减少病毒传播和减少卫生系统负担的间接保护。",
-          "link": "https://www.solidot.org/story?sid=71929",
-          "publishedOn": "2022-06-24T07:42:31.000Z",
-          "wordCount": 161,
-          "title": "新冠疫苗全球减少 2000 万人死亡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71928",
-          "author": null,
-          "description": "美国食品药品管理局(FDA)周四下令 Juul Labs 停止在美国销售其所有电子烟产品。Juul 可以通过 FDA 的上诉程序或在法庭上寻求暂停执行该命令。FDA 说，Juul 提交给该机构的一些研究结果引起了关注，因为其数据不充分且相互矛盾，包括从该公司的电子烟弹中浸出的潜在有害化学物质。不过尚未收到证据表明与使用 Juul 电子烟有关的直接危险。FDA 周四告诉 Juul，它在市场上的所有产品都必须下架，否则该机构可能对 Juul 和零售商采取执法行动。执法部门不会对使用 Juul 产品的消费者采取行动。",
-          "link": "https://www.solidot.org/story?sid=71928",
-          "publishedOn": "2022-06-24T07:19:46.000Z",
-          "wordCount": 172,
-          "title": "FDA 下令停售 Juul 电子烟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71927",
-          "author": null,
-          "description": "在 Linux 基金会举办的开源峰会上，Linus Torvalds 谈到了 Rust 语言合并到内核的可能性，表示最快可能在 Linux 5.20 开发周期中合并到内核。内核社区正在开发的版本为 5.19，5.20 为下个版本。目前还没有 Rust for Linux 的 pull request 发送或合并，但初步支持 Rust 的代码已经就绪，包括基本基础设施、简单示例驱动等等。Linux kernel 对 Rust 的支持在构建内核时仍然是可选的。",
-          "link": "https://www.solidot.org/story?sid=71927",
-          "publishedOn": "2022-06-24T07:14:49.000Z",
-          "wordCount": 196,
-          "title": "Linus Torvalds 称 Rust 最快将在 Linux 5.20 中合并到内核",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71926",
-          "author": null,
-          "description": "在科学领域，学术价值的最终衡量标准是作为作者发表的论文数。某些细微之处也很重要——你在作者列表中的位置以及其他人是否引用你的论文。不过这些因素很难动摇论文数量的重要性。捐赠和晋升等另一些因素也很重要。但是这些领域的成功通常要靠发表大量论文。这就是为什么《自然》期刊周三发布的一篇论文意义重大：它列举的数据表明，女性被系统性地排除在科学论文的作者名单之外。即使在考虑了职业发展的各种因素之后，参与和发表之间仍存在差距。这对于解释科学界为什么存在一个被称为“流失管道”的问题大有帮助，“流失管道”指的是女性在职业生涯的每个阶段有更高的退出研究的比例。\n\n\n研究人员使用了几种方法来衡量论文成功。首先是团队成员是否都出现在论文中。根据原始数据，他们得出一个明显的答案：21% 的男性最终成为作者，只有 12% 的女性成为作者。教师署名论文的频率远高于团队中的其他任何人，而女性获得教师职位的比例较低，这在很大程度上解释了这种差异。因此研究人员根据职位（教师、研究生、实验室技术人员等）进行调整，发现女性的名字出现在任何论文中的概率要低 5%。\n\n\n另外，研究人员用他们拥有的数据分析了一个特定团队在一个时期内发表了多少论文和专利。对于一年前在该实验室工作的任何人来说，这些都被认为是“可能署名的论文”。然后用该人实际发表论文的数量除以“可能署名的论文”数量，用这种方法适应某些实验室或项目比其他实验室或项目更成功的事实。同样根据职位进行调整之后，女性发表论文的比例再一次低于男性。最后研究人员检查了获得高引用论文的比例。对于境遇惨淡的论文，没有区别。女性和男性在零引用论文方面旗鼓相当。但是对于相当成功的论文（被引用达到 25 次的论文），女性进入作者名单的可能性比男性低 20%。\n\n\n研究人员对学者进行了调查，得到了 2500 多份回复。43% 的女性受访者表示，她们被排除在自己参与过的论文的作者名单之外；相比之下，被排除在外的男性为 38%。49% 的女性还表示，她们对实验室的科学贡献被低估了，而只有不到 40% 的男性有这种感觉。女性倾向于表示她们的工作没有得到承认是出于个人原因，或者是因为她们在论文发表之前就离开了实验室。",
-          "link": "https://www.solidot.org/story?sid=71926",
-          "publishedOn": "2022-06-24T02:44:55.000Z",
-          "wordCount": 161,
-          "title": "谁获得科学荣誉？通常不是女性",
-          "imageUrl": null
         }
       ]
     },
@@ -3701,6 +3631,66 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/725222/",
+          "author": null,
+          "description": "以本地发货、主要服务香港本地客户的天猫香港将停止运营！ 去年 5 月开始试业的天猫香港，据悉将于今年 8 月中旬起暂停营运，届时将停止接受客户在平台下单。 天猫香港公告指出，基于业务策略调整，天猫香港将于今年 10 月 31 日零时零分正式关闭入口，而消费者的最后下单时间为 8 月 21 日，商家最\n本文链接",
+          "link": "https://news.cnblogs.com/n/725222/",
+          "publishedOn": "2022-07-24T00:22:00.000Z",
+          "wordCount": 161,
+          "title": "天猫香港预告停运，最后下单日期为8月21日",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/725221/",
+          "author": null,
+          "description": "“不能投屏了？” “只能投 6 分钟，之后的话需要升级酷喵会员才能看，优酷投屏不能用了吗？” “在家看投屏是要多花钱了。” “一个版权收割两份韭菜？” 7 月 21 日晚，有不少网友发现，优酷视频不能投屏了，投屏后仅能试看 6 分钟，如果想继续投屏的话，需在开通优酷 VIP 会员权益后，再开通酷喵会\n本文链接",
+          "link": "https://news.cnblogs.com/n/725221/",
+          "publishedOn": "2022-07-24T00:18:00.000Z",
+          "wordCount": 161,
+          "title": "投屏还要另外收钱！优酷被网友怼上热搜：一个版权收割两份韭菜？监管部门回应：不侵权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/725220/",
+          "author": null,
+          "description": "IT 之家 7 月 22 日消息，今日上午 10 时 50 分左右，艺人林志颖驾驶一辆白色特斯拉 Model X 在中国台湾桃园市中正北路往桃园区方向行驶时，遭遇严重车祸。 据雅虎新闻报道，今日下午，林志颖方召开记者会，并发布车祸相关声明稿，林志颖弟弟林志鑫在记者会上透露，目前林志颖的伤势相对稳定，\n本文链接",
+          "link": "https://news.cnblogs.com/n/725220/",
+          "publishedOn": "2022-07-24T00:10:00.000Z",
+          "wordCount": 161,
+          "title": "林志颖方回应驾驶特斯拉 Model X 撞车起火：因不明原因开车自撞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/725219/",
+          "author": null,
+          "description": "千年以前，满腹忧思的屈原质问于天，“天何所沓？十二焉分？日月安属？列星安陈？”千古名篇《天问》就此诞生。从屈原向天叩问宇宙起源，到“天问一号”成功发射，中华民族用两千年的上下求索，向着探究宇宙的目标不断前进，这既是对文学的追求，也是对星辰大海的向往。 如今我国首次火星探测任务“天问一号”一次完成了对\n本文链接",
+          "link": "https://news.cnblogs.com/n/725219/",
+          "publishedOn": "2022-07-24T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "“天问一号”成功发射两周年，“升”日快乐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/725218/",
+          "author": null,
+          "description": "币圈“雷曼危机”自 6 月开始就“排山倒海”侵蚀了整个市场，从“货币危机”（流动性枯竭）发酵到“银行危机”（加密借贷 Celsius 冻结提款），再蔓延到对冲基金清盘（三箭资本破产）、“券商”崩塌（Voyager Digital 申请破产保护），再到 Celsius 在一番挣扎后同样难以幸免，无奈步\n本文链接",
+          "link": "https://news.cnblogs.com/n/725218/",
+          "publishedOn": "2022-07-23T07:04:00.000Z",
+          "wordCount": 161,
+          "title": "三箭资本创始人失联多日首发声，讲述“我们是如何陨落的”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/725217/",
+          "author": null,
+          "description": "一项研究发现，增加锻炼无法抵消低质量饮食的负面影响。高质量饮食指的是每天至少五份水果蔬菜，每周两份鱼，少吃红肉尤其是加工肉。研究发现，相比食用低质量食物且不活动的人，食用高质量饮食且高水平锻炼的人所有死亡风险低 17%，心血管疾病死亡风险低 19%，特定癌症死亡风险低 27%。研究人员建议人们坚持食\n本文链接",
+          "link": "https://news.cnblogs.com/n/725217/",
+          "publishedOn": "2022-07-23T04:37:48.000Z",
+          "wordCount": 161,
+          "title": "锻炼无法抵消低质量饮食的负面影响",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/725216/",
           "author": null,
@@ -9259,156 +9249,6 @@
           "publishedOn": "2022-06-24T16:01:00.000Z",
           "wordCount": 161,
           "title": "科大讯飞的B面：焦虑的AI投资狂魔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723372/",
-          "author": null,
-          "description": "车企有必要自研激光雷达吗？ 对于这一问题，蔚来汽车给出了肯定回答。 6 月 22 日，蔚来举办了线上沙龙，首次介绍了其旗舰纯电轿车 ET7 所搭载的激光雷达——这同时也是蔚来首次参与研发激光雷达，并将其应用于汽车产品上。 透过这次线上交流会，蔚来分享了其辅助驾驶感知方案的路线选择、技术成果以及首次自\n本文链接",
-          "link": "https://news.cnblogs.com/n/723372/",
-          "publishedOn": "2022-06-24T13:40:00.000Z",
-          "wordCount": 161,
-          "title": "蔚来自研激光雷达意味着什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723371/",
-          "author": null,
-          "description": "文价值研究所 6 月 22 日，一则“国家拟禁止第三方平台直接参与药品网售”的消息导致京东健康和阿里健康两大互联网医疗龙头股盘中暴跌，但随后两天录得两连涨收复大部分失地。 这种过山车行情，表明了市场和投资者对京东健康、阿里健康的矛盾态度：外界对京东健康、阿里健康营收模式的担忧由来已久，监管政策的一点\n本文链接",
-          "link": "https://news.cnblogs.com/n/723371/",
-          "publishedOn": "2022-06-24T13:19:00.000Z",
-          "wordCount": 161,
-          "title": "互联网医疗败局已定？压垮京东健康们的不止监管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723370/",
-          "author": null,
-          "description": "据爱集微报道，知名独立调研公司 Strategy Analytics 的统计显示，目前全球已有超过 2.15 亿辆汽车搭载 BlackBerry QNX 软件，较 2021 年增加了 2000 万辆。 截至 2023 财年第一季度末，BlackBerry QNX 的待实现的版税收入从去年 4.9 亿\n本文链接",
-          "link": "https://news.cnblogs.com/n/723370/",
-          "publishedOn": "2022-06-24T13:11:00.000Z",
-          "wordCount": 161,
-          "title": "黑莓 BlackBerry QNX 软件全球已部署超过 2.15 亿辆汽车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723369/",
-          "author": null,
-          "description": "萧箫发自凹非寺 量子位公众号 QbitAI 高通的 AI 软件“全家桶”，终于来了。 这个“全家桶”包含了高通 AI 开发的各种工具包，往上支持 TensorFlow、PyTorch 等AI 框架，向下支持安卓、Windows 和 Linux 等主流操作系统。 最关键的是，全骁龙平台通用的那种，不单\n本文链接",
-          "link": "https://news.cnblogs.com/n/723369/",
-          "publishedOn": "2022-06-24T13:07:00.000Z",
-          "wordCount": 161,
-          "title": "高通AI软件“全家桶”来了，开发手机电脑XR汽车等全平台通用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723368/",
-          "author": null,
-          "description": "丰色萧箫发自凹非寺 量子位公众号 QbitAI 一种新型汽车供应商，正在悄然走到台前。 从需求侧来看，无论是传统车企还是造车新势力，在电动化和智能化变革浪潮之下，都开始纷纷用“上云”应对这一趋势： 宝马，给车配上了基于云端更新的车载轻应用，想听故事、新闻还是查攻略，无需下载，“即用即走”； 福特领睿\n本文链接",
-          "link": "https://news.cnblogs.com/n/723368/",
-          "publishedOn": "2022-06-24T12:02:00.000Z",
-          "wordCount": 161,
-          "title": "鹅厂提速智能车，定位Tier C，把游戏技术也给用上了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723367/",
-          "author": null,
-          "description": "6 月 22 日晚上 8 点，字节跳动 CEO 梁汝波发布内部信更新了字节范，这是自 2020 年 3 月新增 “多元兼容” 后的首次更新。 字节范演进历史: “始终创业” 从字节范第五位调整到第一位。如今，字节跳动已经是一个拥有近 16 万人的大公司。梁汝波担心字节患上大公司病——滥用资源、依赖惯\n本文链接",
-          "link": "https://news.cnblogs.com/n/723367/",
-          "publishedOn": "2022-06-24T11:50:00.000Z",
-          "wordCount": 161,
-          "title": "字节更新价值观，调了调顺序",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723312/",
-          "author": null,
-          "description": "记者｜覃毅 编辑｜江昱玢 “中国芯”破冰行动驶向快车道。 6 月 22 日，国产 EDA 龙头华大九天在创业板 IPO 注册获证监会批准，即将敲响上市的钟声。 芯片设计软件工具 EDA 被誉为“芯片之母”，是集成电路（IC）产业上游最高端的产业之一。作为电子设计的“刚需”，它被应用于 IC 设计、制\n本文链接",
-          "link": "https://news.cnblogs.com/n/723312/",
-          "publishedOn": "2022-06-24T00:48:00.000Z",
-          "wordCount": 161,
-          "title": "“芯片之母”华大九天突破封锁！56岁复旦校友即将敲钟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723311/",
-          "author": null,
-          "description": "美国新一代载人登月火箭 SLS，不仅关系到美国重返月球“阿尔忒弥斯”计划的进度，而且也决定了 SpaceX“星舰”的首次轨道级试飞时间，因此它的一举一动备受外界的关注。可是这几个月折腾过来，它实在是太不给力。 首先是在 3 月 18 日，火箭从装配大楼被拖到肯尼迪航天中心 39B 发射台，杵了十几天\n本文链接",
-          "link": "https://news.cnblogs.com/n/723311/",
-          "publishedOn": "2022-06-24T00:40:00.000Z",
-          "wordCount": 161,
-          "title": "美国SLS登月火箭湿彩排又漏了？不管了赌一把，8月发射时间不变",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723310/",
-          "author": null,
-          "description": "小红书上展示的虚拟服装。截图 “元宇宙”的魅力，正蔓延至虚拟服装，并成为一门生意。 “虚拟时空里，金属可以长出花瓣，波浪可以织就裙摆，水晶可以反重力倒流，而你，可以变装成任何模样”。新京报贝壳财经记者发现，小红书等社交平台上，虚拟服装、虚拟配饰、甚至虚拟翅膀都可以实现穿戴，打造“专属时装大片”。 它\n本文链接",
-          "link": "https://news.cnblogs.com/n/723310/",
-          "publishedOn": "2022-06-24T00:32:00.000Z",
-          "wordCount": 161,
-          "title": "千元“买皮肤”？虚拟服装是元宇宙狂欢，还是收割智商税",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723309/",
-          "author": null,
-          "description": "6 月 24 日消息，美国当地时间周四，谷歌发出警告称，意大利软件开发商 RCS Lab 提供的黑客工具被用来发动攻击，主要针对意大利和哈萨克斯坦的苹果和安卓智能手机进行间谍活动。 谷歌旗下威胁分析小组和 Project Zero 漏洞分析团队在报告中称，总部位于米兰的 RCS Lab 开发了多款工\n本文链接",
-          "link": "https://news.cnblogs.com/n/723309/",
-          "publishedOn": "2022-06-24T00:28:00.000Z",
-          "wordCount": 161,
-          "title": "谷歌警告：苹果和安卓手机都遭到意大利间谍软件攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723308/",
-          "author": null,
-          "description": "【文/观察者网吕栋编辑/周远方】 操作系统，被视为计算机体系的“灵魂”，起着“承上启下”的关键作用。 但好用的国产桌面操作系统一直难现。 究其根本原因，Windows、苹果等美国厂商拥有巨大的先发与产业聚集优势，其常年保持超过 90% 的市占率，让国产桌面操作系统难有商业生存空间。 但近来伴随 Wi\n本文链接",
-          "link": "https://news.cnblogs.com/n/723308/",
-          "publishedOn": "2022-06-24T00:22:00.000Z",
-          "wordCount": 161,
-          "title": "Windows对俄“断供”，国产操作系统还好用吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723307/",
-          "author": null,
-          "description": "6 月 24 日消息，在最近出版的回忆录中，美国宇航局（NASA）前副局长洛丽·加弗（Lori Garver）详细回忆了特斯拉首席执行官埃隆·马斯克（Elon Musk）创办 SpaceX、自主研发火箭的过程。 这本回忆录名为《逃离地心引力：我改造 NASA 并开启新太空时代的探索》 （Escapi\n本文链接",
-          "link": "https://news.cnblogs.com/n/723307/",
-          "publishedOn": "2022-06-24T00:18:00.000Z",
-          "wordCount": 161,
-          "title": "NASA前副局长：马斯克曾遭俄罗斯设计师吐口水，激发造飞船决心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723306/",
-          "author": null,
-          "description": "CVPR 速递：中国投稿数最高，占全部的 44.59%；同济大学、阿里集团拿下最佳学生论文奖；黄煦涛纪念奖花落斯坦福大学教授李飞飞；《Learning to Solve Hard Minimal Problems》获最佳论文奖。 除此之外，值得一提的是，今年 CVPR 大会特设了缅怀近期因病去世的青\n本文链接",
-          "link": "https://news.cnblogs.com/n/723306/",
-          "publishedOn": "2022-06-24T00:10:00.000Z",
-          "wordCount": 161,
-          "title": "计算机顶会CVPR：中国投稿数第一，李飞飞获黄煦涛纪念奖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723305/",
-          "author": null,
-          "description": "编辑于斌 出品潮起网‘于见专栏’ 雪糕冰品，作为解暑的一大利器，深得老中青的喜爱。在梦龙、哈根达斯、歌帝梵牢牢盘踞高端冰品市场多年后，几乎没有国内品牌能与它们抗衡。但在近年，网红品牌钟薛高就异军突起，试图对高端冰品市场发起挑战。 钟薛高于 2018 年在上海正式挂牌成立，在短短的四年时间里，它从一个\n本文链接",
-          "link": "https://news.cnblogs.com/n/723305/",
-          "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "钟薛高进入“休眠期” 前途在哪里？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/723298/",
-          "author": null,
-          "description": "PCG 新闻中心目前大概 1000 人，第一轮优化后将降至 800 人，第二轮优化压缩至 500 人。 作者 王么么 编辑 张子睿 来源：豹变 6 月 23 日，有腾讯 PCG（平台与内容事业群）员工向《豹变》透露，今天收到一封有关事业群组织变革的内部邮件。根据公司规划，将成立平台运营部和综合管理部\n本文链接",
-          "link": "https://news.cnblogs.com/n/723298/",
-          "publishedOn": "2022-06-23T16:00:00.000Z",
-          "wordCount": 161,
-          "title": "腾讯启动新一轮优化，PCG成重灾区，一个千人团队计划砍一半",
           "imageUrl": null
         }
       ]
