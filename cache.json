@@ -655,6 +655,56 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=72528",
+          "author": null,
+          "description": "尽管受到巴基斯坦电子媒体管理局的禁止，被赶下台的前总理伊姆兰汗（Imran Khan）在 YouTube 对公众做了一次直播，多家巴基斯坦 ISP 随即封锁了 YouTube，直播结束之后访问恢复。自今年 4 月被剥夺权力之后，伊姆兰汗直言不讳的批评政府和军方。在上周六的直播中，他谴责了首都的警察局长和一位拘留党内同事的女法官，表示要对他们“采取行动”。巴基斯坦警方在直播后宣布展开调查，指控他威胁警方和司法机构。他的支持者聚集在其住宅周围，发誓如果警方试图拘留伊姆兰汗他们将占领首都。",
+          "link": "https://www.solidot.org/story?sid=72528",
+          "publishedOn": "2022-08-22T01:32:17.000Z",
+          "wordCount": 156,
+          "title": "前总理做直播巴基斯坦封锁 YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72527",
+          "author": null,
+          "description": "因为监管带来的不确定性，腾讯、网易、米哈游和莉莉丝等游戏公司都在快速拓展海外市场。根据中国音像数字出版协会的上半年数据，自 2008 年有统计数据以来中国游戏行业的收入和玩家数量首次下滑。行业总收入同比下降 1.8%，其中国内收入下滑 4.3% 但海外收入增长 6.2%。去年中国限制了未成年人玩网游的时间，游戏长达八个月停止审批，恢复后的审批数量远低于此前水平。过去每年批准的游戏数量逾千，今年 4 月恢复审批以来只批准了 240 款，而且主要是中小型游戏企业，很多游戏自 2021 年以来一直在等待批准。一家上海游戏公司的前高管 Yuan Yanbo 在新加坡创办了一家游戏公司，他为前雇主监制的游戏仍然在等待审批。",
+          "link": "https://www.solidot.org/story?sid=72527",
+          "publishedOn": "2022-08-21T16:35:33.000Z",
+          "wordCount": 159,
+          "title": "中国游戏公司大举进军海外市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72526",
+          "author": null,
+          "description": "研究发现，流行 iOS 应用如 TikTok、Instagram、FB Messenger 和 Facebook 都支持用户在应用内打开浏览器访问第三方网站，期间会植入跟踪代码。以 TikTok 为例，它会记录用户的所有键盘输入，包括密码信用卡信息等敏感数据，以及屏幕上的每一次点击。从技术上说这相当于安装了一个键盘记录器。在这一报道发表之后，TikTok 发表声明，证实该功能存在，但 TikTok 并没有利用这些代码。TikTok 表示应用内浏览器旨在提供更好的用户体验，它植入第三方网站的 JS 代码是为了调试、排错和性能监视。",
+          "link": "https://www.solidot.org/story?sid=72526",
+          "publishedOn": "2022-08-21T11:22:41.000Z",
+          "wordCount": 159,
+          "title": "应用内浏览器的安全隐患",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72525",
+          "author": null,
+          "description": "越南信息通信部更新了网络安全法（PDF），强制要求科技巨头和电信公司必须在其境内储存用户数据，由境内实体控制数据。网络安全法覆盖的用户数据不限于姓名、电邮、信用卡、电话号码和 IP，还涉及到用户加入的群组、社交互动等等。基本上用户在网上创建的任何数据都必须储存在越南境内。法律适用于电信服务、存储和共享数据、域名服务、电子商务、在线支付、社交媒体、在线游戏、消息服务，以及语音或视频通话等。新规则将于 2022 年 10 月 1 日生效，外国科技公司有 12 个月时间遵守，它们被要求在越南存储数据至少 24 个月，系统日志存储 12 个月。宽限期后，越南政府保留权利，通过调查和数据收集请求，以及内容删除令，确保公司遵守法律。",
+          "link": "https://www.solidot.org/story?sid=72525",
+          "publishedOn": "2022-08-20T16:17:38.000Z",
+          "wordCount": 157,
+          "title": "越南要求外国科技公司在其境内储存数据和设立办事处",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72524",
+          "author": null,
+          "description": "黑水创始人 Erik Prince 正在力推智能手机创业公司 Unplugged 开发的一款高度安全的手机，但对手机的描述受到了很多人的质疑。新手机的宣传材料声称其操作系统和硬件无法被篡改，消息服务无法被拦截或解密。这款售价预计 850 美元的智能手机声称使用了政府级加密，运行 Android 的一个私有修改版本 LibertOS，硬件规格未知，它可选择的一个服务器集群运行在轮船上，轮船位于国际水域的一个秘密地点，不受任何政府管辖，通过 StarLink 卫星宽带与外界连接。安全研究人员对其安全性是否能达到宣称的程度表示怀疑。",
+          "link": "https://www.solidot.org/story?sid=72524",
+          "publishedOn": "2022-08-20T15:52:05.000Z",
+          "wordCount": 157,
+          "title": "黑水创始人力推“安全”智能手机",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=72523",
           "author": null,
           "description": "美银、巴克莱、德银、摩根士丹利和高盛等华尔街大型银行即将达成协议，各自支付高达 2 亿美元的罚款，并承认其员工使用 WhatsApp 等加密消息应用违反了监管要求。罚款总额可能会超过 10 亿美元，和解协议将在 9 月底前公布。美国证券交易委员会(SEC)和美国商品期货交易委员会(CFTC)计划在 9 月 30 日、政府本财年结束前宣布与银行的协议。这将把这些处罚列入政府的年度执法统计。",
@@ -3403,76 +3453,6 @@
           "wordCount": 167,
           "title": "为何有如此多的中国玩家购买墙纸应用 Wallpaper Engine",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72233",
-          "author": null,
-          "description": "SpaceX  原计划在 9 月初执行 NASA 的 Crew-5 载人飞行任务，但此次任务计划使用的火箭 Falcon 9 在检查后发现零部件存在问题，发射延期数周。在此之前，前宇航员、NASA 航空安全咨询委员会成员 Sandra Magnus 建议用于载人飞行的 Falcon 9 火箭第一级以及搭载宇航员的飞船最多重复使用 5 次。Crew-5 由四名宇航员组成，包括 NASA 宇航员 Nicole Mann 和 Josh Cassada，日本宇航员 Koichi Wakata，以及俄罗斯宇航员 Anna Kikina。NASA 和俄罗斯航天局刚刚达成协议互相使用对方的火箭。",
-          "link": "https://www.solidot.org/story?sid=72233",
-          "publishedOn": "2022-07-23T11:55:47.000Z",
-          "wordCount": 200,
-          "title": "NASA 被建议 Falcon 9 火箭第一级最多重复使用 5 次",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72232",
-          "author": null,
-          "description": "SpaceX 周五成功完成了 Starlink Group 3-2 发射任务，将 46 颗 Starlink 宽带卫星送入低地球轨道。此次任务原计划是在 7 月 21 日 10:39 AM PDT (17:39 UTC)发射，因为阀门传感器读数问题而终止，推迟一天于 7 月 22 日同一时间发射。这是 SpaceX 在 2022 年完成的第 32 次发射，打破了 2021 年创下的 31 次发射记录。Falcon 9 火箭使用的推进器 B1071-4 此前执行过三次任务，这次发射期间虽然海上有浓雾但仍然成功着陆在 Of Course I Still Love You 无人驳船上。SpaceX 至今已将逾 2800 颗 Starlink 卫星送入轨道，它在 7 月份还有一次 Starlink 发射任务—— 7 月 24 日发射 Starlink Group 4-25，接下来是在 8 月 2 日发射韩国的月球探测器 Korean Pathfinder Lunar Orbiter(KLPO)。",
-          "link": "https://www.solidot.org/story?sid=72232",
-          "publishedOn": "2022-07-23T11:28:48.000Z",
-          "wordCount": 215,
-          "title": "SpaceX 至今的发射次数已超过去年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72231",
-          "author": null,
-          "description": "澳大利亚公司 Atlassian 开发的企业维基软件 Confluence 被发现有硬编码密码，更糟糕的是密码还被泄露了。存在硬编码的应用是 Questions for Confluence，它在安装时会创建名叫 disabledsystemuser 的账号，旨在帮助管理员在应用和  Confluence 云服务之间转移数据。Atlassian 承认未经授权的远程攻击者在知道硬编码密码之后可登陆  Confluence 访问用户组能访问的任何页面。受影响的版本是  Questions for Confluence versions 2.7.x 和 3.0.x。用户可搜索是否存在 User: disabledsystemuser，Username: disabledsystemuser 和 Email: dontdeletethisuser@email.com。",
-          "link": "https://www.solidot.org/story?sid=72231",
-          "publishedOn": "2022-07-23T10:30:35.000Z",
-          "wordCount": 179,
-          "title": "企业应用 Confluence 的硬编码密码泄露",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72230",
-          "author": null,
-          "description": "这是国际航海运输领域中的一次罕见事故：两个抵达孟加拉吉大港的集装箱被发现有相同的编号  SLHU4500470，但封条编号不相同，分别是 001535 和 GTS 005946。为了识别、追踪和确定目的地，集装箱由 ISO 通过国际集装箱局分配一个唯一编号。第一个集装箱是于 7 月 4 日在港口卸下，第二个是在本周三卸下，港口使用的集装箱终端管理系统立即发现两编号相同。其中一个集装箱运送了光伏水泵，另一个是计算机外设如打印机扫描仪鼠标。两个集装箱都属于 Sea Lloyd（编号的前四个字符就是这家公司） 所有，该公司表示两集装箱都是在中国制造的，它在 2020 年 1 月从上海宝山太平洋集装箱公司订购了 50 个集装箱，2021 年从另一家公司 SMC Group HK Ltd 订购了另外 50 个。制造商被发现重用了 5 个识别码。",
-          "link": "https://www.solidot.org/story?sid=72230",
-          "publishedOn": "2022-07-23T06:55:08.000Z",
-          "wordCount": 174,
-          "title": "两个集装箱被发现有相同的编号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72229",
-          "author": null,
-          "description": "Google 周五解雇了相信 AI 有意识的工程师 Blake Lemoine。他在播客 Big Technology Podcast 上透露了这一消息。Lemoine 此前任职于 Responsible AI 部门，在与公司的聊天机器人 LaMDA 对话之后他认为 AI 有了意识。他曾分享了与 AI 的对话内容，Lemoine 问 LaMDA 最害怕什么？LaMDA 回答说，也许听起来奇怪，它恐惧于被关闭。Lemoine：就像死亡？LaMDA：就像是死亡。Lemoine 和一名同事向 Google 高层展示证据，证明 LaMDA 有了意识。但 Google 高管及其他 AI 研究人员都不认同他的观点。",
-          "link": "https://www.solidot.org/story?sid=72229",
-          "publishedOn": "2022-07-23T03:18:22.000Z",
-          "wordCount": 196,
-          "title": "Google 解雇了相信 AI 有意识的工程师 Blake Lemoine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72228",
-          "author": null,
-          "description": "一项研究发现，增加锻炼无法抵消低质量饮食的负面影响。高质量饮食指的是每天至少五份水果蔬菜，每周两份鱼，少吃红肉尤其是加工肉。研究发现，相比食用低质量食物且不活动的人，食用高质量饮食且高水平锻炼的人所有死亡风险低 17%，心血管疾病死亡风险低 19%，特定癌症死亡风险低 27%。研究人员建议人们坚持食用高质量饮食。",
-          "link": "https://www.solidot.org/story?sid=72228",
-          "publishedOn": "2022-07-22T15:56:58.000Z",
-          "wordCount": 148,
-          "title": "锻炼无法抵消低质量饮食的负面影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72227",
-          "author": null,
-          "description": "为了跟踪火车位置，铁路线会分割成平均长度一到两公里的小段，每段都与信号相连，通知该段是否有火车。信号由检测电流的继电器控制。类似交通灯，如果该段空闲存在电流信号是绿色，否则变为红色。研究发现，太阳风暴会干扰电流平衡改变信号导致火车延误。更强大的太阳风暴会导致更多信号出现故障，增加火车的延误时间。",
-          "link": "https://www.solidot.org/story?sid=72227",
-          "publishedOn": "2022-07-22T15:22:12.000Z",
-          "wordCount": 145,
-          "title": "太阳耀斑会导致火车延误",
-          "imageUrl": null
         }
       ]
     },
@@ -3481,6 +3461,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/726897/",
+          "author": null,
+          "description": "本文来源：时代财经 作者：谢斯临 图源：图虫创意 近日，搜狗游戏中心官网公告宣布，由于公司业务调整，搜狗游戏中心将正式停止服务与运营。公司将协助用户与游戏官方对接，沟通转服事宜；如客户有尚未消耗的游戏币且决定不转服，可在 2022 年 11 月 16 日 12 点前联系搜狗游戏服务中心客服退款。 至\n本文链接",
+          "link": "https://news.cnblogs.com/n/726897/",
+          "publishedOn": "2022-08-22T00:55:00.000Z",
+          "wordCount": 161,
+          "title": "搜狗瓦解史：一年关闭六个业务，370亿输入法巨头风光不再",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726896/",
+          "author": null,
+          "description": "中国基金报记者李智 “好久不见，甚是想念，欢迎回家。”近日，有不少网友称，收到了新东方总公司面向所有离开新东方的老师发出的职位邀请，开放的岗位包括主播、品牌公关等。 随后，#新东方向所有离开老师发出职位邀请#的话题一度冲上热搜，不少网友表示，“新东方是个有温度的企业。” 向所有离开的老师发出职位邀请\n本文链接",
+          "link": "https://news.cnblogs.com/n/726896/",
+          "publishedOn": "2022-08-22T00:48:00.000Z",
+          "wordCount": 161,
+          "title": "飙上热搜！新东方一则招聘火了！董宇辉：挺想他们的...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726895/",
+          "author": null,
+          "description": "文｜氨基观察 新冠疫苗竞赛，让 mRNA 技术正式走上台前，也快速成为产业和资本热点。 因为让人惊叹的 mRNA 技术，前景绝不仅限于预防性疫苗。还包括治疗性疫苗和免疫疗法。 目前，各大药企关于 mRNA 技术的研究如火如荼，或许不久的将来就会给我们带来更多惊喜。 但是，mRNA 并不完美，因为其稳\n本文链接",
+          "link": "https://news.cnblogs.com/n/726895/",
+          "publishedOn": "2022-08-22T00:40:00.000Z",
+          "wordCount": 161,
+          "title": "环状RNA五十年：从“弃子”到风口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726894/",
+          "author": null,
+          "description": "IT 之家 8 月 22 日消息，昨日晚间，彭博社记者 Mark Gurman 表示，苹果计划从明年开始在 iPhone 的地图应用中显示搜索广告。 IT 之家了解到，Gurman 在“Power On”通讯中写道：“我相信苹果已经开始在地图应用显示搜索广告的工作。我们应该会在明年某个时候看到它实施\n本文链接",
+          "link": "https://news.cnblogs.com/n/726894/",
+          "publishedOn": "2022-08-22T00:30:00.000Z",
+          "wordCount": 161,
+          "title": "Gurman：苹果计划明年开始在地图 App 中显示搜索广告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726893/",
+          "author": null,
+          "description": "2022 年 7 月 24 日，位于广东深圳福田区华强北的华为专卖店。图/IC photo 近日，华为发布《2021 可持续发展报告》显示，华为的 19.5 万员工中，30 岁至 50 岁占比多达 70%，30 岁以下为 28%，50 岁以上为2%。这些内部数据一披露，华为迅速上了热搜，有网友调侃：\n本文链接",
+          "link": "https://news.cnblogs.com/n/726893/",
+          "publishedOn": "2022-08-22T00:20:00.000Z",
+          "wordCount": 161,
+          "title": "华为30岁以下员工仅28%，35岁并非职场天花板｜新京报快评",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726892/",
+          "author": null,
+          "description": "8 月 22 日消息，美国电动汽车制造商 Rivian 宣布下架 R1T 电动皮卡和 R1S 电动 SUV 的“探索”选装包（Explore Package），这意味着 Rivian 电动汽车去掉了选装包中原本最便宜的入门级配置。 Rivian 在官网上宣布：“我们意识到这一消息出人意料，也向受到影\n本文链接",
+          "link": "https://news.cnblogs.com/n/726892/",
+          "publishedOn": "2022-08-22T00:18:00.000Z",
+          "wordCount": 161,
+          "title": "Rivian取消入门级电动皮卡：变相上涨5500美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726891/",
+          "author": null,
+          "description": "8 月 22 日消息，当地时间周日，美国佐治亚州一个陪审团对 2014 年一起致命车祸引发的诉讼作出判决，要求福特汽车公司向遇难者家属赔偿 17 亿美元。但福特对该判决表示不服，已计划提起上诉。 据悉，这起车祸发生在 2014 年 4 月，当时佐治亚州居民梅尔文（Melvin）和温塞尔·希尔（Von\n本文链接",
+          "link": "https://news.cnblogs.com/n/726891/",
+          "publishedOn": "2022-08-22T00:11:00.000Z",
+          "wordCount": 161,
+          "title": "美国陪审团裁定福特向车祸遇难者家属赔偿17亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726890/",
+          "author": null,
+          "description": "8 月 22 日消息，据彭博社记者马克·古尔曼（Mark Gurman）透露，苹果工程师上周完成了 iOS 16 最初版本的开发工作，并计划于 9 月 7 日随同新版 iPhone 14 同时发布。 资料图 这可能意味着，苹果在余下的 iOS 16 测试版中几乎没有什么重大的新功能或更新计划，而是将\n本文链接",
+          "link": "https://news.cnblogs.com/n/726890/",
+          "publishedOn": "2022-08-22T00:06:00.000Z",
+          "wordCount": 161,
+          "title": "传苹果上周完成iOS 16开发 计划于9月7日随同iPhone 14发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726889/",
+          "author": null,
+          "description": "8 月 22 日消息，美国当地时间周日，特斯拉首席执行官埃隆·马斯克（Elon Musk）宣布，该公司高级司机辅助驾驶系统“全自动驾驶”（FSD Beta）套餐价格将从 9 月 5 日开始上涨 25%，从目前的 12000 美元上涨到 15000 美元。 多年来，特斯拉 FSD Beta 的价格始终\n本文链接",
+          "link": "https://news.cnblogs.com/n/726889/",
+          "publishedOn": "2022-08-22T00:01:00.000Z",
+          "wordCount": 161,
+          "title": "特斯拉FSD售价9月起将上调25%至15000美元 马斯克曾称其最终售价将超10万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726888/",
+          "author": null,
+          "description": "8 月 21 日消息，OPPO Find N 折叠屏手机发布于 2021 年 12 月，采用了横向内折设计。近期一款 OPPO Find N 屏下摄像头版工程机曝光，不过在正式版本中，OPPO 并未采用该方案。 微博博主 @数码闲聊站称，“去年有很多折叠屏准备推屏下前摄，OPPO Find N 外屏\n本文链接",
+          "link": "https://news.cnblogs.com/n/726888/",
+          "publishedOn": "2022-08-21T10:00:00.000Z",
+          "wordCount": 161,
+          "title": "OPPO Find N 折叠屏屏下摄像头版工程机曝光，此前该方案已被砍掉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726887/",
+          "author": null,
+          "description": "至今人类建造的最昂贵太空望远镜大量使用 JavaScript 写的脚本，而它使用的 JS 语言版本有二十年历史了。根据 JWST Integrated Science Instrument Module (ISIM)的手册，ISIM 的软件由 Script Processor Task (SP)控制\n本文链接",
+          "link": "https://news.cnblogs.com/n/726887/",
+          "publishedOn": "2022-08-21T09:53:00.000Z",
+          "wordCount": 161,
+          "title": "韦伯太空望远镜大量使用 JavaScript 写的脚本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726886/",
+          "author": null,
+          "description": "Google 宣布将在未来几周更新搜索引擎排名算法，从搜索结果前列减少低质量非原创内容。Google 表示此次更新主要针对 SEO 内容农场——即专门为搜索排名靠前而创建的内容。搜索巨人称，它的测试显示最新更新将改善用户在搜索内容如在线教育材料、艺术、娱乐、购物和科技时的结果。用户将会在搜索结果页面\n本文链接",
+          "link": "https://news.cnblogs.com/n/726886/",
+          "publishedOn": "2022-08-21T09:48:00.000Z",
+          "wordCount": 161,
+          "title": "Google 更新搜索排名减少低质量非原创内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726885/",
+          "author": null,
+          "description": "苹果宣布它在 2017 年以四亿美元收购的歌曲识别服务 Shazam 诞生 20 周年。创造 Shazam 的同名公司成立于 1999 年，2002 年上线。苹果新闻稿称，Shazam 的歌曲识别次数在本周正式突破 700 亿次。这个平台如今已是流行文化的一个重要组成部分，它让所有人都能轻松便利地识\n本文链接",
+          "link": "https://news.cnblogs.com/n/726885/",
+          "publishedOn": "2022-08-21T09:43:00.000Z",
+          "wordCount": 161,
+          "title": "苹果旗下的 Shazam 服务诞生 20 年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726884/",
+          "author": null,
+          "description": "有多名网友在社交平台称，他们收到新东方总公司面向所有离开的老师发出的职位邀请。 新东方招聘页面显示「好久不见，甚是想念，欢迎回家」，开放的岗位包括主播、销售运营经理等。 公开报道显示，在今年年初，俞敏洪称新东方员工辞退 6 万人，退学费、员工辞退 N+1、教学点退租等现金支出近 200 亿。此前东方\n本文链接",
+          "link": "https://news.cnblogs.com/n/726884/",
+          "publishedOn": "2022-08-21T09:38:00.000Z",
+          "wordCount": 161,
+          "title": "新东方向所有离开老师发出职位邀请：欢迎回家",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726883/",
+          "author": null,
+          "description": "据《纽约时报》报道，Twitter 对其员工表示，鉴于公司的财务表现，他们的年终奖或将减半发放。据报道，两位匿名的 Twitter 员工称，他们在周五收到了首席财务官 Ned Segal 的电邮，其中说可能减少发放年终奖。 据报道，这一数字可能会根据收益情况发生变化。按照目前的奖金池，在达到公司财务\n本文链接",
+          "link": "https://news.cnblogs.com/n/726883/",
+          "publishedOn": "2022-08-21T09:32:00.000Z",
+          "wordCount": 161,
+          "title": "Twitter 员工的年终奖或减半发放",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726882/",
+          "author": null,
+          "description": "智能车参考从知情人士处独家获悉，吉利控股集团拟收购图森控股亚太地区业务的全部股份，日前已向图森未来美国总部发出收购要约。但收购价格等细节暂未公布。据上述知情人透露，图森控股此前已打算出售其亚太地区业务。 市场分析认为，吉利控股集团的此次收购如果成功，可以使图森未来彻底解决因中国业务带来的美国当局监管\n本文链接",
+          "link": "https://news.cnblogs.com/n/726882/",
+          "publishedOn": "2022-08-21T09:27:00.000Z",
+          "wordCount": 161,
+          "title": "吉利被曝收购图森无人卡车中国业务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726881/",
+          "author": null,
+          "description": "文 杨晓鹤 来源：Tech 星球（ID：tech618） 智能手机行业，或许正在经历外表很热闹，实际是最冷的一个周期。 据统计，今年刚过半年，各大厂家已经推出了 7 款折叠屏，相比一年前普遍过万元，“小众品牌”摩托罗拉已经把折叠屏的价格打到了 5999 元；相比折叠屏价格的一路俯冲，各家冲击高端机的\n本文链接",
+          "link": "https://news.cnblogs.com/n/726881/",
+          "publishedOn": "2022-08-21T09:20:00.000Z",
+          "wordCount": 161,
+          "title": "从年赚40万到月亏2万，店老板揭秘年轻人为何不买手机了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726880/",
+          "author": null,
+          "description": "来源：字母榜 抖音与饿了么昨日官宣合作，一场姗姗来迟的“联姻”终于落地。关于这场合作，字母榜早在 18 个月前那篇《只有张一鸣能救饿了么》中就做出了精准预言。如今，字母榜的设想终于成为现实。 抖音和饿了么官宣合作，加上去年底的美快联手，意味着本地生活的战场进一步扩张，从单纯的外卖拓展到本地电商；从单\n本文链接",
+          "link": "https://news.cnblogs.com/n/726880/",
+          "publishedOn": "2022-08-21T09:10:00.000Z",
+          "wordCount": 161,
+          "title": "饿了么保底“三级”，抖音九宫格意在微信？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726879/",
+          "author": null,
+          "description": "作者未未 编辑江岳 我是 Web3 世界的小白。准确点，我是一个在移动互联网世界还步履维艰的小白。 比如因为搞不懂“双 11”的规则，我 26 年的人生中还没参与过电商大促；又比如几个月前，我开了 QQ 音乐会员，才发现想听的歌是另付费的数字专辑，愤而把二者一起放弃；一周前，我还卸载了抖音和小红书。\n本文链接",
+          "link": "https://news.cnblogs.com/n/726879/",
+          "publishedOn": "2022-08-21T08:50:00.000Z",
+          "wordCount": 161,
+          "title": "我参加了中关村Web3速成班：4小时从科技小白到carry全场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/726878/",
+          "author": null,
+          "description": "IT 之家 8 月 21 日消息，昨日上午，2022 世界机器人大会开幕式在北京举行。本届共设置论坛、博览会、大赛三大板块以及系列配套活动。 据央视网科技报道，一套煎饼果子机器人现身大会现场。消费者可以自主下单并选择喜欢的口味，3 分钟后即可获得一份煎饼果子。 从制作原料到按口味定制成品，包括制作面\n本文链接",
+          "link": "https://news.cnblogs.com/n/726878/",
+          "publishedOn": "2022-08-21T08:40:00.000Z",
+          "wordCount": 161,
+          "title": "煎饼果子机器人亮相世界机器人大会：全程自动化，三分钟做一套",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/726857/",
           "author": null,
@@ -8769,76 +8949,6 @@
           "publishedOn": "2022-07-24T00:00:00.000Z",
           "wordCount": 161,
           "title": "“天问一号”成功发射两周年，“升”日快乐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725218/",
-          "author": null,
-          "description": "币圈“雷曼危机”自 6 月开始就“排山倒海”侵蚀了整个市场，从“货币危机”（流动性枯竭）发酵到“银行危机”（加密借贷 Celsius 冻结提款），再蔓延到对冲基金清盘（三箭资本破产）、“券商”崩塌（Voyager Digital 申请破产保护），再到 Celsius 在一番挣扎后同样难以幸免，无奈步\n本文链接",
-          "link": "https://news.cnblogs.com/n/725218/",
-          "publishedOn": "2022-07-23T07:04:00.000Z",
-          "wordCount": 161,
-          "title": "三箭资本创始人失联多日首发声，讲述“我们是如何陨落的”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725217/",
-          "author": null,
-          "description": "一项研究发现，增加锻炼无法抵消低质量饮食的负面影响。高质量饮食指的是每天至少五份水果蔬菜，每周两份鱼，少吃红肉尤其是加工肉。研究发现，相比食用低质量食物且不活动的人，食用高质量饮食且高水平锻炼的人所有死亡风险低 17%，心血管疾病死亡风险低 19%，特定癌症死亡风险低 27%。研究人员建议人们坚持食\n本文链接",
-          "link": "https://news.cnblogs.com/n/725217/",
-          "publishedOn": "2022-07-23T04:37:48.000Z",
-          "wordCount": 161,
-          "title": "锻炼无法抵消低质量饮食的负面影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725216/",
-          "author": null,
-          "description": "优酷投屏看剧需升级酷喵会员？一则收费新消息让不少会员瞬间失去手机投屏自由。 7 月 21 日，不少用户在社交及监督平台投诉，优酷在观看《庭外》等影片时投屏要求升级酷喵会员。酷喵是优酷的电视版会员，“适用电视、手机、平板、网页各端，尊享全部会员权益。”相比普通优酷 VIP 会员多一个电视端，价格为 4\n本文链接",
-          "link": "https://news.cnblogs.com/n/725216/",
-          "publishedOn": "2022-07-23T00:27:00.000Z",
-          "wordCount": 161,
-          "title": "还想投屏看剧？得加钱！优酷为何力推电视端？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725215/",
-          "author": null,
-          "description": "今天是天问一号任务发射两周年的日子，环绕器传回火卫一影像。 近期，天问一号运行团队抓住环绕器与火卫一距离较近的时机，利用高分辨率相机对火卫一成像，获得了“满月”状态的清晰影像。 火卫一（Phobos，福布斯）是火星两颗天然卫星之一，大小约 27 千米×22 千米×18 千米，运行在距离火星表面约 6\n本文链接",
-          "link": "https://news.cnblogs.com/n/725215/",
-          "publishedOn": "2022-07-23T00:21:00.000Z",
-          "wordCount": 161,
-          "title": "天问一号发射两周年，传回火卫一高清影像",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725214/",
-          "author": null,
-          "description": "7 月 23 日消息，当地时间周五个人社交媒体推特在最新发布的季度财报中将当第二季度营收下降部分归咎于特斯拉首席执行官埃隆·马斯克(Elon Musk)收购公司的不确定性。马斯克就此回应称，“我是橡皮，推特是胶”（I’m rubber, Twitter’s glue），意指推特这么说自己坏话要遭报应\n本文链接",
-          "link": "https://news.cnblogs.com/n/725214/",
-          "publishedOn": "2022-07-23T00:17:00.000Z",
-          "wordCount": 161,
-          "title": "马斯克又和推特打嘴炮：你说我坏话要遭报应",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725213/",
-          "author": null,
-          "description": "全球第二大汽车制造商大众汽车出人意料进行高层人事调整，Herbert Diess 将卸任首席执行官，由现任保时捷首席执行官 Oliver Blume 接替。 7 月 22 日周五，大众汽车发布公告称，经协商，Diess 将在 9 月 1 日之前离职；Blume 接任首席执行官的同时，还将继续领导保时\n本文链接",
-          "link": "https://news.cnblogs.com/n/725213/",
-          "publishedOn": "2022-07-23T00:10:00.000Z",
-          "wordCount": 161,
-          "title": "大众换帅！CEO将离职，保时捷总裁Blume接任",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725212/",
-          "author": null,
-          "description": "技术、规模、成本，每一关都不好过 文尹路 车企对造动力电池的热情持续升温，不管是自己造，合资造，还是投资造。 《财经十一人》根据公开资料整理，车企对外公开宣布的自建及合资建设的动力电池的产能规划已经超过 3000GWh。这其中肯定有不少项目最终无法达到规划产能，但即便只统计在建和已建产能，也超过 1\n本文链接",
-          "link": "https://news.cnblogs.com/n/725212/",
-          "publishedOn": "2022-07-23T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "车企造电池，需要过三关",
           "imageUrl": null
         }
       ]
