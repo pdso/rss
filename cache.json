@@ -6,6 +6,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n重庆连日高温，导致嘉陵江水位急剧下降，江底的浅滩都露出来了，千厮门大桥的桥墩下完全没水了。（via）\n本周话题：人工智能的机会在哪里\nOpenAI 公司的人工智能模型 DALL·E 2，最近向社会公众开放。\n\n它可以根据文本生成图片，有点像童话里面的\"魔镜\"。你告诉魔镜想看什么，它就向你展示什么。目前的价格是15美元生成460张图片，平均每张图0.03美元（约为人民币两角）。\n人们马上发现，这个工具有实际用途。\n数据库查询软件 OctoSQL 缺少一个 Logo，作者就描述了一下想要什么 Logo。\n一只可爱的小章鱼戴着黄色安全帽，玩耍着彩色珍珠，充满活力和喜悦，图片背景为黑色。\nDALL·E 2 给了他下面的图片。\n\n这个 Logo 现在就放在他的项目首页。当然，不是一次就得到了最后的成品，中间经过了多次调整，具体可以看他的文章。\n另一个开发者尝试生成博客文章的插图。他有一篇 Docker 容器的介绍文章，插图描述是\"一只蓝鲸背上有成堆的集装箱\"，模型给出了下面的图片。\n\nGo 语言数据流操作的文章，图片描述是\"一个毛绒绒的蓝色地鼠，在多个显示器上编程\"，得到了下图。\n\n上面的例子可以看出，对于个人开发者和小企业，这个工具简直是天上掉下来的免费设计师。\n即使对于真正拥有设计师的大公司，它也很有用。有人拿着它生成的图片\"宇航员在月球骑马\"，在推特上面询问艺术家：\"如果让你画下面这张图，需要多久？\"\n\n回答的平均数是5.25个小时，而 DALL·E 2 实际只花了22秒。这意味着，人工智能可以节省99.9%的设计师时间！ 这些节省出来的…",
+          "link": "http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html",
+          "publishedOn": "2022-08-26T00:20:55.000Z",
+          "wordCount": 893,
+          "title": "科技爱好者周刊（第 220 期）：人工智能的机会在哪里",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n\"武汉超算中心\"使用集装箱搭建，是国内最大的集装箱超算中心，8月15日正式接入\"中国算力网\"。（via）\n本周话题：如何防止帐号被黑\n上周有一起安全事件。两家著名的美国互联网公司----Twillo 和 Cloudflare----被攻击了，前者还被攻破了。\n这两家都不是普通公司，技术很强，都采用了\"双因素认证\"，但还是被有效攻击了。它们事后披露了一些细节，我觉得值得谈一下，聊聊怎么保护帐号安全。\n\n首先，有一点应该是共识：密码是不安全的，一定要启用双因素认证。\n大部分的互联网密码都已经泄漏了。地下的黑产出售很全的数据库，一查邮箱或手机号，密码就出来了。你不妨认定，自己的密码已经泄漏了。如果为每个网站设置不一样的密码，情况可能会好一点，但也无法保证某个账号就是安全的。\n\n任何一个重要账号，都应该打开\"双因素认证\"（two factor authentication，简写 2FA），即除了密码，再多一种认证。即使如此，也必须非常小心，因为 \"双因素认证\"也可能被破解。\n一种常见的\"双因素认证\"就是密码 + 短信。每次登录时，除了密码，还会发一个短信验证码。它的风险在于短信是不加密的，而且国内有过不少案例，罪犯拿着伪造的身份证去挂失，办了一个相同号码的 SIM 卡，顺利收到验证码。\n另一种新兴的\"双因素认证\"是密码 + 人脸识别。它的风险在于，国内的很多方案采用身份证照片与人脸比对，这很不安全。已经有新闻报道，银行的人脸识别被破解，储户的存款被转走。\n\n公认较安全的\"双因素认证\"是密码 + TOTP 时间码。你在手机安装一个专门 App（…",
@@ -53,16 +63,6 @@
           "publishedOn": "2022-07-29T00:13:39.000Z",
           "wordCount": 818,
           "title": "科技爱好者周刊（第 216 期）：极简主义的胜利",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html",
-          "author": null,
-          "description": "一、\n美国能源署统计，1650年到2009年的美国能源消耗，年增长率为2.9%。\n\n[图片说明] 美国的能源消耗，红线为年均2.9%。\n你可能觉得，2.9%不是一个很高的增长率。某种程度确实如此，1949年到2019年的七十年间，中国用电量增长了1978倍，折算为年增长率是11.5%。\n那么看上去，2.9%的增长似乎比较温和。\n但是，加州大学的一个物理学家不这样想。他提出了一个无人问过的问题：如果人类继续以这种速度，生产和消耗能源，那会发生什么事？\n下面，我就介绍他的计算结果。我不知道他的计算对不对，但是我觉得他的思路没错。\n他后来写了一本书，叫做《一颗有限星球的能源和人类欲望》（\nEnergy and Human Ambitions on a Finite Planet），网上免费下载。书里有详细的计算过程，感兴趣的朋友可以去看。\n\n二、\n他首先假定，全世界的能源增长率是每年2.3%。这样比较容易计算，这个速度正好等于每一百年增长10倍。\n以这个速度，一百年后的2122年，全世界的能源是今天的10倍；两百年后的2222年，是今天的100倍。\n那么，问题就来了。人类怎样才能在两百年内，将能源扩大到今天的100倍？ \n化石能源是不可能的，太阳能倒是有可能。根据维基百科，一小时内到达地球的太阳能，比人类当前一年消耗的能量还要多。\n如果我们充分利用太阳能，确实可能把能源扩大到今天的100倍。但是那样的话，地球的每一寸陆地都必须铺设太阳能板。\n计算表明，2.3%的增长率保持400年，地球的所有表面（包括海洋）都必须铺设太阳能板；保持1350年，人类需要的能源将等于整个太阳的能量；保持2500年，等于整个银河系的能量。\n\n[图片说明] 2.3%的能源增长率，将导致两千多年后，人类需要整个银河系的能量。\n这显然是不可能的。但是，即使不考虑遥远的将来，只在今后几十年保持2.3%的能源增长…",
-          "link": "http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html",
-          "publishedOn": "2022-07-27T00:54:54.000Z",
-          "wordCount": 459,
-          "title": "能源的极限",
           "imageUrl": null
         }
       ]
@@ -607,26 +607,6 @@
           "wordCount": 602,
           "title": "PasteNow 2.3 发布：支持 Word、Pages 下多个项目粘贴",
           "imageUrl": "https://cdn.sspai.com/2022/07/29/1d20d5e634878747e2042a1d7a554128.png"
-        },
-        {
-          "id": "https://sspai.com/post/74820",
-          "author": "鸿苓",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n本文参与数字文具盒征文活动。\n\n上学时最常有的作业就是限制在两千字以内的短 essay，需要引用参考文献，针对某个指定话题援引正反方观点，或者针对某个问题讲述现状及未来的可能发展方向。有时也需要联系同时在学的好几门课，从不同角度切入分析同一个问题。\n写作的套路没什么新奇，我一般分成三步：\n\n首先是看一定数量的资料，对这个话题的背景和相关知识有一定的了解，收集有用的信息；\n其次是通过已知信息，大概整理出文章框架，包括大致结构、需要提及的论点，以及目前的发现如何支持这些论点；\n最后就是整合前两步的发现，写完这篇文章。\n\n其中前两步往往是同时进行，不分先后：了解了基本信息就可以开始搭建结构，在梳理论点和证据时如果出现了逻辑上的断层，就得找更多文献填补空缺。而只要这两步做得足够细致，写作时就可以顺着大纲一路写下去，行云流水毫无阻滞。\n\n然而在实际操作中，却有件事一直困扰我。当时用的软件是 Mendeley 和 MS Word 或 Scrivener 的组合，若想要把找到的资料，按照文章的结构而非阅读顺序，依次放置在合适的位置，并且能够迅速找到引文出处，就只能靠多开窗口和详细记录引文位置来弥补单个软件的不足，稍有不慎就得翻遍资料库寻找某句话到底出自哪篇文章……非常痛苦。\n因此，我希望能有一款软件，让我在查阅文献资料时有个「卡片」可以同时存放引文和我自己的总结，并且能及时链接到原文的位置，写作时自动生成参考文献；同时这个卡片可以自由移动，并组成一个思维导图，方便我构建大纲。\n直到我最近发现，MarginNote 和上面那个组合相比，能更好地…",
-          "link": "https://sspai.com/post/74820",
-          "publishedOn": "2022-07-27T12:25:28.000Z",
-          "wordCount": 610,
-          "title": "有没有想过，MarginNote 也可以拿来写文章捏？",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://sspai.com/post/74811",
-          "author": "八肌大蛇",
-          "description": "“一大段”自我介绍\n       大家好，很高兴能加入 Matrix 这个大家庭，你们可以叫我“八肌大蛇”，我在建筑行业工作已经有两年了。而从呱呱坠地到初入社会，我最想和大家分享的经历却是自己第一次正式入职单位时因为考勤迟到而必须写考勤说明的“趣事”。\n       相信“迟到”这个行为在大多数老板眼里一定是极为可恨的，可我为什么好像“不以为耻，反以为荣”呢 ？这是因为其实当月考勤大多是外派工作没能及时在 钉钉 上打卡而导致迟到，所以考勤说明就显得尤为重要，可不能白白被扣钱不是？\n       和大多数人一样，遇到要写什么之前没写过的说明、报告，大概率的会去度娘查模板、范文，避免自己东拼西凑结果词不达意。不过查归查，写还是得结合实际，在详细列出每一次考勤迟到的事件起因、发生时间以及可以证明的同事后，再添上改进的方案就完成了。因为长期阅读少数派的文章，我使用上了闲置 Ipad 的 快捷指令 ，连接上办公区域的 WIFI 后自动提示我打开 钉钉 打卡。这篇用心的报告，即赢得了主管的赞赏也改善了我的工作流程。\n       是的，不论是在生活还是工作中，我一直在探索其中的”最优解“，希望在看了这么多派友的优秀分享后，也能为大家输出一些有用的东西。\n个人主力设备\n红米 Note 7  (方便刷机，体验多样性的系统)\n戴尔灵越14Z N411z （手动升级到win11，加内存使用Ramdisk，更换固态硬盘后使用良好）\nAmazon Kindle Paperwhite 3 （现在在读 列夫·托尔斯泰 写的《复活》）\nSony linkbuds（不压耳，佩戴体验良好）\nIpad air3（使用 “duet”软件作为电脑副屏的临时替代，安装微信以及钉钉减少手机压力）\n方方面面都心水的应用软件\n生活：Daywise （使我不必为目不暇接的通知”心力交瘁“）\n工作：WateryDroid (定时提醒我喝水并且开源省电不占资源)\n学习：学堂在线（各式各样的课程都可以系统学习以及完成测试）\n主屏应用\n心中物廉价美的好物（限额 100）\n宜家库克斯多功能闹钟（79￥）\n旋转闹钟 就可以切换到 倒计时、温度、时间、闹钟 功能，绿色的配色不论是放在桌面还是床头都非常可爱。",
-          "link": "https://sspai.com/post/74811",
-          "publishedOn": "2022-07-27T09:56:00.000Z",
-          "wordCount": 508,
-          "title": "「一篇普通而又不普通的个人介绍 | 新人报到」",
-          "imageUrl": "https://cdn.sspai.com/2022/07/26/fd428db10e3542b0ccf73b34c48316ac.jpg"
         }
       ]
     },
@@ -684,6 +664,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72580",
+          "author": null,
+          "description": "北大和清华的研究人员本周在《JAMA Network Open》期刊上发表研究报告，分析了新冠病毒不同变种的潜伏期，发现平均潜伏期越来越短。武汉最早发现的病毒原始版本平均潜伏期 6.65 天，alpha 变种 5 天，beta 变种 4.5 天，delta 4.41 天，omicron 3.42 天。这使得新冠病毒与常见的季节性冠状病毒愈来愈相似。四种能引发类似普通感冒症状的人类冠状病毒的潜伏期是 3.2 天。导致普通感冒的鼻病毒的平均潜伏期 1.4 天，流感病毒的潜伏期 1.43 到 1.64天，副流感病毒是 2.6 天。",
+          "link": "https://www.solidot.org/story?sid=72580",
+          "publishedOn": "2022-08-25T15:56:30.000Z",
+          "wordCount": 167,
+          "title": "新冠潜伏期日益类似季节性冠状病毒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72579",
+          "author": null,
+          "description": "安全公司趋势科技的研究人员报告，《原神》的反作弊驱动 mhyprot2.sys 被勒索软件利用杀死杀毒软件的进程和服务。mhyprot2.sys 作为设备驱动是与《原神》游戏分开安装的，卸载《原神》并不会卸载 mhyprot2.sys，早在 2020 年 9 月米哈游发布 《原神》时游戏社区就开始讨论具有间谍软件能力的 mhyprot2.sys。它很快被发现存在漏洞允许被利用杀死进程。开发者神楽坂早苗/kagurazakasanae 和 Kento Oki 分别发布了 PoC 演示了杀死进程的能力。Kento Oki 向米哈游报告了漏洞，但该公司没有承认也没有修复。勒索软件利用的 mhyprot2.sys 是 2020 年 8 月构建的，其签名至今仍然有效没有撤销。",
+          "link": "https://www.solidot.org/story?sid=72579",
+          "publishedOn": "2022-08-25T15:37:53.000Z",
+          "wordCount": 168,
+          "title": "《原神》的反作弊驱动被勒索软件利用杀死杀毒软件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72578",
+          "author": null,
+          "description": "Wii U 模拟器项目 Cemu 宣布开源，源代码托管在 GitHub 上，采用 Mozilla Public License 2.0 许可证。开发者同时宣布了 Cemu 2.0，表示将提供 Linux 构建版本，但目前用户需要自己编译，未来计划提供 appimage 或 flatpak 打包格式。Cemu 项目还简化了版本号，从以前的三位数字简化为两位数，因此 Cemu 2.0 之后的下一个版本为 Cemu 2.1 和 2.2，而不是 Cemu 2.1.0。开发者承认选择开源的一个原因是开发停滞了，项目的另一个资深开发者退出，Cemu 的热度也降低，从高峰时逾百万人使用减少到每月下载量 25 万左右。开发者希望通过开源如果他退出的话会有人接手。",
+          "link": "https://www.solidot.org/story?sid=72578",
+          "publishedOn": "2022-08-25T13:45:12.000Z",
+          "wordCount": 192,
+          "title": "Wii U 模拟器 Cemu 开源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72577",
+          "author": null,
+          "description": "索尼以通货膨胀等经济环境挑战为由，宣布做出“艰难决定”，调整欧洲、中东及非洲、亚太地区、拉丁美洲  以及加拿大等特定市场的 PlayStation 5 建议零售价。美国则维持价格不变。其中香港地区的光驱版 4,380 港币，数字版 3,580 港币；中国大陆光驱版 4299 元，数字版 3499 元。截至 5 月 31 日，索尼宣布 PS5 销量突破 2000 万。",
+          "link": "https://www.solidot.org/story?sid=72577",
+          "publishedOn": "2022-08-25T11:31:28.000Z",
+          "wordCount": 168,
+          "title": "PS5 涨价",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72576",
+          "author": null,
+          "description": "AWK 作者、普林斯顿大学教授 Brian Kernighan 在接受采访（YouTube，8 分钟左右）时透露他最近做了点一个小小的工作，为 AMK 加入了 Unicode 支持。AWK 语言被用于分析文本文件，是 Unix 操作系统的核心组件之一，任何 POSIX 兼容操作系统被认为都应该包含 AWK。它的名字来自于三名原作者 Alfred Aho、Peter Weinberger 和 Brian Kernighan 姓的首字母缩写。Kernighan 教授同时也是著名《C 程序设计语言》一书作者 K&R 之一的 K，另一个 R 就是 C 作者 Dennis Ritchie。他命名了 Unix 系统，并发明了 \"Hello, world\" 的语言演示。原版的 AWK 在 GitHub 上被称为  One True AWK。今年 5 月 80 岁的 Kernighan 教授在邮件中表示他在学习 Git 系统，之后会递交 pull request 为 AMK 加入 Unicode 支持。",
+          "link": "https://www.solidot.org/story?sid=72576",
+          "publishedOn": "2022-08-25T11:09:06.000Z",
+          "wordCount": 216,
+          "title": "AWK 作者为语言加入 Unicode 支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72575",
+          "author": null,
+          "description": "部分吸烟者习惯早晨喝杯咖啡。佛罗里达大学的研究人员发现，烘焙咖啡豆中的化合成分或有助于减轻早晨对尼古丁的渴望。研究人员发现，咖啡的两种化合物直接影响大脑中高敏感度的尼古丁受体。吸烟者的尼古丁受体在一夜戒断之后会变得过度敏感。研究结果发表在《Neuropharmacology》期刊上，针对的是实验室细胞，尚未经过人体测试。",
+          "link": "https://www.solidot.org/story?sid=72575",
+          "publishedOn": "2022-08-25T10:06:09.000Z",
+          "wordCount": 144,
+          "title": "为什么吸烟者早晨想喝咖啡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72574",
+          "author": null,
+          "description": "美国总统拜登将为数千万美国人免除至多 2 万美元的联邦学生贷款债务，此举将为借款人提供前所未有的援助，但肯定会引来法律挑战和政治阻力。拜登周三表示，他将为年收入低于 12.5 万美元的借款人或年收入低于25万美元的夫妇免除 1 万美元的联邦学贷债务。拜登还说，接受联邦 Pell Grants 助学金、年收入低于 12.5 万美元的借款人将有资格获得总额 2 万美元的学贷减免。这一消息引发了争议，很多人觉得不公平，他们因为节省费用而选择不知名的大学，结果那些贷款上知名大学的人可以减免学贷了，简直就像是被打了一记耳光。但另一部分人认为作为一种经济刺激方案它让更多人受益，相比给企业减税让富有的人变得更富有来得公平。",
+          "link": "https://www.solidot.org/story?sid=72574",
+          "publishedOn": "2022-08-25T08:58:35.000Z",
+          "wordCount": 158,
+          "title": "拜登宣布学生贷款减免计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72573",
+          "author": null,
+          "description": "英伟达公布了截至 2022 年 7 月 31 日的 2023 年度第二财季报告，收入 67 亿美元，同比增长 3%，但比上一财季下滑 19%。其中数据中心业务收入 38.1 亿美元，同比增长 61%；游戏业务收入 20.4 亿美元，同比下降 33%；专业可视化收入 4.96 亿美元，同比下降 4%；汽车业务 2.20 亿美元，同比增长 45%。显然游戏业务拖累了英伟达的收入增长。英伟达的显卡市场占有率最高，也被矿工广泛用于挖掘加密货币如以太坊，但加密货币市场的崩溃以及消费者收缩开支都对该公司业务造成了巨大冲击。英伟达预测第三财季收入继续下滑到 59 亿美元。",
+          "link": "https://www.solidot.org/story?sid=72573",
+          "publishedOn": "2022-08-25T08:38:02.000Z",
+          "wordCount": 172,
+          "title": "英伟达报告第二财季收入下滑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72572",
+          "author": null,
+          "description": "Debian 以隐私理由将 Chromium 浏览器的默认搜索引擎从 Google 改为 DuckDuckGo。Chromium 是 Chrome 的开源项目，但仍然包含有 Google 的服务。Debian 开发者是在今年初讨论用 DDG 替换 Google。它是通过受管理的策略文件（/etc/chromium/policies/managed/.json）实现这一变动的。用户仍然可以自己修改默认的搜索引擎。",
+          "link": "https://www.solidot.org/story?sid=72572",
+          "publishedOn": "2022-08-25T07:58:47.000Z",
+          "wordCount": 175,
+          "title": "Debian 以隐私理由将 Chromium 的默认搜索引擎改为 DDG",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72571",
+          "author": null,
+          "description": "为保证电力供应日本首相岸田文雄提议建造新的核电站。在东日本大地震福岛核事故之后，日本关闭了现有的核电站，由日本原子能规制委员会进行安全审查。之前日本总发电量的三成左右依靠核电站，审查合格的核电站正在推进重启。但是审查已通过的 17 座核电站中，现在运行的只有 6 座。审查长达近 10 年，还有核电站没有得出结论。日本 2020 年度的总发电量中，核电站仅占 4%。",
+          "link": "https://www.solidot.org/story?sid=72571",
+          "publishedOn": "2022-08-25T07:38:18.000Z",
+          "wordCount": 153,
+          "title": "日本首相提议发展核电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72570",
+          "author": null,
+          "description": "Facebook、Twitter等社交媒体平台移除了与亲美影响力运动有关的帐户。研究人员发现，该运动在八个社交网络和即时通讯软件上进行了近五年，旨在宣传美国的观点、价值观和目标，同时攻击俄罗斯、中国和伊朗等国家的利益。这些帐户经常伪装成新闻媒体或虚构角色，以至少七种语言发布内容。专家表示，其策略与中国相似，主要目标是“展示与其他国家相比，美国有多棒”。这是首次在社交媒体平台上发现将美国利益推向海外的影响力运动。",
+          "link": "https://www.solidot.org/story?sid=72570",
+          "publishedOn": "2022-08-25T03:06:43.000Z",
+          "wordCount": 156,
+          "title": "Facebook 和 Twitter 移除亲美账号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72569",
+          "author": null,
+          "description": "Canalys 的北美智能手机出货量数据显示，Google 的 Pixel 手机二季度出货量 80 万，占北美市场份额的 2%，同比增长 230%。而今年第一季度 Pixel 的增长率高达 380%。涨幅如此巨大的一个原因是搜索巨人投入了惊人的广告费，过去一年 Pixel 的广告投入超过 1 亿美元。数据显示，苹果手机份额高居第一，市场份额 52%，其次是三星的 26%，联想/摩托罗拉 9%，TCL 5%。最畅销机型前五都是 iPhone 系列，iPhone 13 Mini 销量很差，传闻苹果不会推出 iPhone 14 Mini。最畅销的 Android 机型是三星 Galaxy S22 Ultra，排在第六位。",
+          "link": "https://www.solidot.org/story?sid=72569",
+          "publishedOn": "2022-08-25T02:52:37.000Z",
+          "wordCount": 188,
+          "title": "Google Pixel 北美市场份额达到 2%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72568",
+          "author": null,
+          "description": "匿名读者 写道 \"Dr. Web 的报告显示，包括红米 Note8 和华为 Mate40 在内的四款手机预装了后门软件。这些后门软件有任意代码执行的能力，其中一个目标是用于窃听 WhatsApp 和 WhatsApp Business 的聊天记录。技术分析显示，系统分区里的 libcutils.so 和 libmtd.so 被恶意修改以提供任意代码执行的能力。\"",
+          "link": "https://www.solidot.org/story?sid=72568",
+          "publishedOn": "2022-08-25T01:41:32.000Z",
+          "wordCount": 212,
+          "title": "多款安卓手机被发现预装了用于窃听 WhatsApp 的后门软件",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72567",
           "author": null,
@@ -3463,166 +3573,6 @@
           "wordCount": 185,
           "title": "美光量产首款 232 层 3D NAND 闪存芯片",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72276",
-          "author": null,
-          "description": "过去几个月俄罗斯出台了多项政策和规定，加强对互联网的控制。议员要求在手机上预装本国的应用商店，限制数据转移到境外，收紧外国代理人法律打击 VPN 使用，宣布建立手机 IMEI 码数据库，计划到 2025 年关键基础设施停止使用外国软件。Privacy Accelerator 的创始人 Stanislav Shakirov 指出，自 2012 年以来俄罗斯在五个方面立法规范和控制互联网：控制领土上的互联网基础设施，施压本国互联网公司加强审查，限制独立媒体，审查网络言论和限制抗议活动，通过封锁网站限制信息获取。",
-          "link": "https://www.solidot.org/story?sid=72276",
-          "publishedOn": "2022-07-27T11:32:58.000Z",
-          "wordCount": 157,
-          "title": "俄罗斯加强互联网的控制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72275",
-          "author": null,
-          "description": "欧洲两大卫星互联网公司 OneWeb 和 Eutelsat 计划合并，以更好的挑战 SpaceX 公司 Starlink 宽带卫星星座。合并计划还需要得到监管机构和 Eutelsat 股东批准，预计 2023 年年中完成。OneWeb 和 Eutelsat 股东将各自拥有新公司一半股份。Eutelsat 目前有 36 颗地球静止轨道卫星，OneWeb 拥有 428 颗低地球轨道卫星群。两家公司预计 2022-23 财年总收入将达到 15.6 亿美元。Eutelsat 董事长 Dominique D'Hinnin 和 CEO Eva Berneke 将继续担任合并后企业的董事长和 CEO。投资 OneWeb 的英国政府将保留其特定权利，包括对某些决策的否决权。",
-          "link": "https://www.solidot.org/story?sid=72275",
-          "publishedOn": "2022-07-27T11:12:11.000Z",
-          "wordCount": 196,
-          "title": "OneWeb 和 Eutelsat 合并以挑战 Starlink",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72274",
-          "author": null,
-          "description": "美国的劳动力供不应求。为了在高流失率的市场环境下留住员工，企业都将 90 天作为一个重要目标。高管和人力资源称，如果能留住三个月，那么员工就可能长期留任——即至少工作一年以上。为了防止新员工在三个月内辞职，企业使出了浑身解数。他们推出了特别奖金（三个月后才能拿到），加强培训，让新员工和有经验的员工结对。人力资源高管称，三个月的时间足够让员工能证明自己。",
-          "link": "https://www.solidot.org/story?sid=72274",
-          "publishedOn": "2022-07-27T10:44:57.000Z",
-          "wordCount": 147,
-          "title": "为减少流失美国企业致力于在三个月内留住员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72273",
-          "author": null,
-          "description": "留给系统管理员打上新披露漏洞修复补丁的时间比以前认为的要短得多。安全公司 Palo Alto 发布的事故响应报告（Incident Response Report）称，黑客一直在监视安全公司的新漏洞披露报告，通常在 CVE 公布 15 分钟后就开始扫描漏洞，在数小时内就能观察到首次漏洞利用尝试。Palo Alto 以 2022 年 5 月 4 日披露的 F5 BIG-IP 远程执行漏洞 CVE-2022-1388 为例，在 CVE 公布 10 小时内就记录到了 2552 次扫描和漏洞利用尝试。这场攻防大战每年留给任意一方的时间都越来越短。Palo Alto 的报告称 ，2022 年上半年利用最多的漏洞是 ProxyShell 占 55%，其次是阿里巴巴发现的 Log4Shell 占 14%，SonicWall 7%，ProxyLogon 5%。",
-          "link": "https://www.solidot.org/story?sid=72273",
-          "publishedOn": "2022-07-27T09:56:02.000Z",
-          "wordCount": 193,
-          "title": "在披露 15 分钟内黑客就开始扫描漏洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72272",
-          "author": null,
-          "description": "2021 年圣诞节发射本月上旬正式开始投入天文观测的韦伯太空望远镜在两周时间内就对天文学产生了巨大影响。韦伯宣传最多的是其观测宇宙诞生初期早期星系和恒星的能力，而它确实不负众望。它已经发现了已知最遥远的早期星系。被称为 GLASS-z13 的星系诞生于创世大爆炸 3 亿年之后。早期星系只有银河系百分之一大小，但恒星形成的速度超出预期，而这只是开始。在最早公布的星系团 SMACS 0723 的图像中，天文学家通过引力透镜发现了 16 个遥远星系，其具体年龄尚未确定。望远镜从其中一个星系中发现了氧气等重元素的光谱。天文学家称这很疯狂。",
-          "link": "https://www.solidot.org/story?sid=72272",
-          "publishedOn": "2022-07-27T09:29:26.000Z",
-          "wordCount": 154,
-          "title": "才两周时间韦伯望远镜就重塑了天文学",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72270",
-          "author": null,
-          "description": "乌兹别克斯坦的自治区 Karakalpakstan 首府 Nukus 本月初发生了民众抗议，警方开枪导致至少 18 人死亡。抗议的原因是政府准备改变宪法将 Karakalpakstan 从有权独立的自治区变为省。为平息抗议政府采取了一种常见的手段——断网。政府早在抗议发生前的 6 月 26 日就开始针对移动网络的访问实施某种形式的信息封锁，之后 ATM 和支付服务被关闭。Karakalpakstan 的紧急状况已经解除，但截至本周互联网服务仍然未完全恢复。Access Now 的 Anastasiya Zhyrmont 称，从该地区获取信息非常困难，网络从 7 月 1 日以来十分不稳定，即使能上网上传照片都需要几个小时，发送短消息都需要 5 到 10 分钟。当然这就是政府断网的意图。",
-          "link": "https://www.solidot.org/story?sid=72270",
-          "publishedOn": "2022-07-27T07:59:36.000Z",
-          "wordCount": 172,
-          "title": "乌兹别克斯坦断网以平息抗议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72269",
-          "author": null,
-          "description": "全球光缆出现短缺，欧洲、印度和中国是受影响最严重的地区，光纤价格从每公里 $3.70 上涨到了 $6.30。疫情促使部分公司削减资本支出，但对互联网和数字服务需求激增，这种关键但常被忽视的材料出现供不应求的情况。今年上半年光缆总消费同比增长 8.1%，其中中国占 46%，北美增长最快同比增长 15%。制造光纤玻璃使用的氦因俄罗斯和美国的工厂停工出现短缺，其价格过去两年上涨 135%。光纤的另一个关键成分四氯化硅的价格上涨 50%。",
-          "link": "https://www.solidot.org/story?sid=72269",
-          "publishedOn": "2022-07-27T06:33:55.000Z",
-          "wordCount": 152,
-          "title": "光缆出现短缺",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72268",
-          "author": null,
-          "description": "据财新网报道，紫光集团原董事长赵伟国被有关部门带走调查。财新从多名知情人士处获悉，7月上旬，赵伟国被有关部门从北京家中带走，目前仍处于与外界失联的状态。不同信源均称，赵伟国身涉调查或与其个人所控公司和原紫光集团旗下公司之间利益输送相关，比如设备采购、装修工程等未经公开招投标的问题。从 2009 年起，赵伟国执紫光集团逾十年，但在 2021 年 7 月现金短缺的紫光宣布破产重组，赵伟国的董事长职位也在前不久被撤下。",
-          "link": "https://www.solidot.org/story?sid=72268",
-          "publishedOn": "2022-07-27T06:30:08.000Z",
-          "wordCount": 150,
-          "title": "紫光前董事长被调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72267",
-          "author": null,
-          "description": "4 月 27 日未知身份的人士或团体故意切断了巴黎附近三个地方的光缆，为法国至今发生的最严重网络基础设施破坏事件。有约 10 家互联网和基础设施运营商受到影响。法国电信联盟的常务董事 Michel Combot 称，攻击者目标明确，针对是骨干网光缆，影响到多个地区的网络连接，部分用户断网，部分用户因为网络流量被重路由而网速下降。三次对光缆的攻击几乎发生在同一时间，攻击手段也类似。法国电信公司 Nasca Group 的 CEO Nicolas Guillaume 称，攻击者相当专业，对光缆的破坏需要更长时间才能修复。许多光缆被切断了两处，如果切断一次那么光缆还可能重新连接起来，但切断多处增加了修复难度。反对数字化的激进活动人士被怀疑是攻击发起者，但许多专家对此持怀疑立场，因为之前那些破坏手机信号塔的活动人士在行动之后都宣布对此负责。",
-          "link": "https://www.solidot.org/story?sid=72267",
-          "publishedOn": "2022-07-27T03:43:21.000Z",
-          "wordCount": 159,
-          "title": "神秘人士破坏法国网络光缆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72266",
-          "author": null,
-          "description": "俄罗斯宣布将在 2024 年结束与 NASA 等在国际空间站上的合作，俄罗斯宇航局还宣布将建造自己的空间站。国际空间站原计划在 2024 年左右退役，NASA 决定将退役时间推迟到 2030 年。俄罗斯退出意味着什么？NASA 有没有应对方案？有报道称 NASA 有应对之策：俄罗斯进步号货运飞船帮助改变空间站轨道和抵消大气阻力影响，美国的  Cygnus NG-17 货运飞船可作为替代。俄罗斯据说还准备将其模块舱脱离空间站，如果要保留这些模块舱俄罗斯可能会要求美国支付大量费用。",
-          "link": "https://www.solidot.org/story?sid=72266",
-          "publishedOn": "2022-07-27T02:53:44.000Z",
-          "wordCount": 167,
-          "title": "俄罗斯宣布将在 2024 年退出国际空间站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72265",
-          "author": null,
-          "description": "Creative Commons CC0 是公有领域许可证，允许任何人不受限制地在全球范围内发布内容。但放弃对内容的限制并不意味着放弃商标或专利权。而自由开源社区（FOSS）的一个共识是排除任何形式的专利授权或专利宽限的许可证不能被视为 FOSS 许可证。Fedora 项目宣布将不允许使用 CC0 授权代码，现有的 CC0 授权代码可能会继续使用但决定尚未做出。",
-          "link": "https://www.solidot.org/story?sid=72265",
-          "publishedOn": "2022-07-27T01:45:10.000Z",
-          "wordCount": 166,
-          "title": "Fedora 将不接受 CC0 授权的代码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72264",
-          "author": null,
-          "description": "Debian 项目、Debian.ch 和 Software in the Public Interest 组织最近向世界知识产权组织 (WIPO)递交申请，寻求拿回 Debian.community 域名。该域名被 Daniel Pocock 用于攻击Debian 项目及其成员。Daniel Pocock 是开源社区的“名人”或者说是“巨魔（troll）”，其行为备受争议。今年早些时候，Red Hat 曾尝试从 Daniel Pocock 手中拿回 WeMakeFedora.org 域名，但未获成功。Debian 项目的尝试成功了，WIPO 在 7 月 19 日裁定转移域名。虽然域名拿回了，但攻击不太可能会停止。",
-          "link": "https://www.solidot.org/story?sid=72264",
-          "publishedOn": "2022-07-26T15:55:28.000Z",
-          "wordCount": 186,
-          "title": "Debian 拿回了 Debian.community 域名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72263",
-          "author": null,
-          "description": "由欧洲刑警组织、荷兰国家警察局以及多家网络安全和 IT 公司于 2016 年联合发起的 No More Ransom 项目至今帮助逾 150 万勒索软件受害者不需要支付赎金就成功解密文件，挽回损失约 15 亿美元。No More Ransom 项目支持包括简体和繁体中文在内的逾三十种语言，到目前为止提供了 165 个勒索软件变种的 136 个免费解密工具。",
-          "link": "https://www.solidot.org/story?sid=72263",
-          "publishedOn": "2022-07-26T14:54:05.000Z",
-          "wordCount": 183,
-          "title": "No More Ransom 项目帮助逾 150 万受害者解密文件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72262",
-          "author": null,
-          "description": "阿里巴巴宣布将申请香港为主要上市地。目前阿里巴巴的主上市地是纽约，香港为第二上市地。第二上市地位从属于主上市地位，两个市场的股票完全可兑换，投资者可以选择在任一市场持有阿里巴巴股票。目前阿里巴巴在香港的日均成交量要远低于纽约交易所。将香港作为主要上市地以及纳入港通股后将有助于吸引新投资者，分析师估计能为阿里巴巴股票至少 210 亿美元的资金流入。",
-          "link": "https://www.solidot.org/story?sid=72262",
-          "publishedOn": "2022-07-26T14:29:43.000Z",
-          "wordCount": 148,
-          "title": "阿里巴巴申请香港为主要上市地",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72261",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 103。主要新特性包括：改进 macOS 平台高 CPU 负荷下的响应；高亮 PDF 表格中的必填项；改进 120Hz+ 高刷新率显示器上的性能；支持调整画中画的字幕字体大小；bug 修正和安全更新，等等。",
-          "link": "https://www.solidot.org/story?sid=72261",
-          "publishedOn": "2022-07-26T14:25:07.000Z",
-          "wordCount": 164,
-          "title": "Firefox 103 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72260",
-          "author": null,
-          "description": "VRChat 是一款非常流行的虚拟现实多人游戏，有着活跃的 Mod 社区，其中最流行的 Mod 客户端是 emmVRC。有部分通过 Discord 等传播的 Mod 存在恶意功能，比如让其他用户的客户端崩溃，或者对特定用户发动 DDoS 攻击。游戏基本上不存在内容管理者，也基本上不屏蔽 IP 地址，被封杀的用户可用立即创建新账号。为了解决恶意客户端带来的问题，VRChat 开发商宣布封杀全部 Mod，引入 Easy Anti Cheat (EAC)反作弊系统，使用 Mod 客户端的用户将无法登陆进游戏服务器。此举立即引发了批评，在 Steam 平台上反对的玩家留下大量差评，VRChat 的好评率从逾八成降为三成左右。",
-          "link": "https://www.solidot.org/story?sid=72260",
-          "publishedOn": "2022-07-26T14:01:14.000Z",
-          "wordCount": 177,
-          "title": "VRChat 禁止 Mod，引发差评潮",
-          "imageUrl": null
         }
       ]
     },
@@ -3631,6 +3581,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/727238/",
+          "author": null,
+          "description": "苹果昨日正式发出邀请函，宣布将于北京时间 9 月 8 日凌晨 1 点举行秋季发布会。 此次苹果邀请函的主题是「Far out 超前瞻」，以太空为背景，被指暗示了 iPhone 14 可能拥有的三大功能：卫星连接、天体摄影和息屏显示。 首先，卫星通信功能可以使用户无需运营商，直接通过卫星网络向紧急联系\n本文链接",
+          "link": "https://news.cnblogs.com/n/727238/",
+          "publishedOn": "2022-08-26T01:55:00.000Z",
+          "wordCount": 161,
+          "title": "苹果邀请函解读：卫星连接、天体摄影、息屏显示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727236/",
+          "author": null,
+          "description": "文/王琳 来源：Tech 星球（ID:tech618) 祖孙三代都经营消费电子产品芯片生意的陈晨，甚至用“百年难遇”来形容过去两年的经历——芯片价格暴涨，有些涨幅甚至高达千倍；贸易商都在囤货，期待大赚一笔。 但今年行情急转直下，部分芯片价格出现雪崩，降价超过 80%。意法半导体的某款芯片，去年价格一\n本文链接",
+          "link": "https://news.cnblogs.com/n/727236/",
+          "publishedOn": "2022-08-26T01:47:53.000Z",
+          "wordCount": 161,
+          "title": "“芯片荒”冰火两重天：有人囤货亏了几百万，有人采购抢不到单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727235/",
+          "author": null,
+          "description": "文/刘柏铖 来源/华商韬略（ID:hstl8888） 2006 年，任正非在内蒙看了一次歌舞表演。 过去的几年里，他经常半夜吓醒，华为每个月都要发几亿的薪水，万一有一天发不出来怎么办？ 同行在抢食市场，对危机的担忧，把任正非压到抑郁。直到他在内蒙，看见唱歌跳舞的蒙古族姑娘。那天他流了很多泪，满脑子只\n本文链接",
+          "link": "https://news.cnblogs.com/n/727235/",
+          "publishedOn": "2022-08-26T01:40:00.000Z",
+          "wordCount": 161,
+          "title": "任正非喜欢反着来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727234/",
+          "author": null,
+          "description": "文/路世明 来源/锌财经（ID:xincaijing） 近日，互联网众筹平台“水滴筹”再登热搜。有媒体曝出水滴筹大病筹款链接存在灰色链条，背后筹款中介抽成最高达 70%，消息一出，水滴筹紧急发布了声明。 来源：水滴官方微博 这已不是水滴第一次面临这样的争议，而每一次被质疑，其回应也都是大同小异。先是\n本文链接",
+          "link": "https://news.cnblogs.com/n/727234/",
+          "publishedOn": "2022-08-26T01:29:41.000Z",
+          "wordCount": 161,
+          "title": "水滴筹：公益外衣下的暴利保险生意",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727226/",
+          "author": null,
+          "description": "文/何诺沐 来源/零态 LT（ID：LingTai_LT） 资本还在疯狂。当然，这发生在时下最为热门的造车行业，尤以新能源赛道为甚。 几组数据用来佐证，2011~2020 年十年间，根据汽车工业协会统计的数据，新能源汽车销量从 0.84 万辆/年增长至 136.7 万辆/年，除了 2019 年受补贴\n本文链接",
+          "link": "https://news.cnblogs.com/n/727226/",
+          "publishedOn": "2022-08-26T01:22:12.000Z",
+          "wordCount": 161,
+          "title": "30万造车大军 ： 斥资3000亿的冒险实验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727224/",
+          "author": null,
+          "description": "文/刘文行 来源：最话 FunTalk（ID:iFuntalker) 规模和利润该怎么取舍？ 关于这个问题，任正非给到华为的答案是利润。但是仍有不少的公司，在规模的路上一路狂奔。 比如，泡泡玛特。 8 月 25 日，泡泡玛特发布 2022 年上半年业绩报告，报告期内，其营收同比增长三成，但自上市以来\n本文链接",
+          "link": "https://news.cnblogs.com/n/727224/",
+          "publishedOn": "2022-08-26T01:15:00.000Z",
+          "wordCount": 161,
+          "title": "泡泡玛特的娃娃，在仓库里等待了小半年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727223/",
+          "author": null,
+          "description": "我现在还清晰记得 LHDC 4.0 发布会上讲“元音频”时在座的媒体脸上惊诧的表情，充满了疑惑和困惑，甚至还有些许惊讶。其实当时 LHDC 只是想“蹭元宇宙”这个炙手可热的话题，他们在当时提出的概念其实还是非常新颖的：通过个人设备，在不同场景下实现沉浸式听音体验，带来更真实感。 看着这么描述，是不是\n本文链接",
+          "link": "https://news.cnblogs.com/n/727223/",
+          "publishedOn": "2022-08-26T01:07:00.000Z",
+          "wordCount": 161,
+          "title": "LHDC-V或许是苹果将发布的高清蓝牙音频协议最大“克星”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727222/",
+          "author": null,
+          "description": "GameLook 报道/今年 8 月 22 日，一条最新的收购消息毫无征兆地出现在了资本市场：eBay 将以 2.95 亿美元的价格收购 TCGplayer 公司，交易预计 2023 年 Q1 完成，目前 TCGplayer 员工人数超 600 人。 eBay 收藏品副总裁 Dawn Block 表\n本文链接",
+          "link": "https://news.cnblogs.com/n/727222/",
+          "publishedOn": "2022-08-26T01:02:00.000Z",
+          "wordCount": 161,
+          "title": "被eBay近3亿美元收购！辍学生创办的TCGplayer如何成为卡牌巨无霸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727221/",
+          "author": null,
+          "description": "胜兵先胜而后求战，败兵先战而后求胜 《孙子兵法·形篇》说到 “是故胜兵先胜而后求战，败兵先战而后求胜。”意谓胜利的军队总是先有了胜利的把握才寻求同敌人交战，失败的军队总是先同敌人交战而后企求侥幸取胜。 指要充分做好战争准备，等有胜利的把握再打。如同行军打仗一般，企业信息化建设也是如此，如果没有做好未\n本文链接",
+          "link": "https://news.cnblogs.com/n/727221/",
+          "publishedOn": "2022-08-26T00:55:00.000Z",
+          "wordCount": 161,
+          "title": "为什么需要企业架构？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727220/",
+          "author": null,
+          "description": "近日，中科院大连化学物理研究所催化基础国家重点实验室研究员吴忠帅与副研究员郑双好团队，开发了可形成三维导电网络的电极油墨与高离子电导率的电解质油墨，显著提高了 3D 打印高载量微电极中的电子和离子传输效率，研制出了高容量、高倍率柔性化钠离子微型电池。相关研究成果发表在《先进材料》。 可穿戴电子产品与\n本文链接",
+          "link": "https://news.cnblogs.com/n/727220/",
+          "publishedOn": "2022-08-26T00:48:00.000Z",
+          "wordCount": 161,
+          "title": "研制出3D打印钠离子微型电池",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727219/",
+          "author": null,
+          "description": "在今年《2022 前端开发者现状报告》中显示， 84% 受访者表示使用过 TypeScript，可见这门语言已被越来越多的前端开发者所接受。他们表示，TypeScript 让 Web 开发变得轻松——不用在 IDE 和浏览器之间来回多次切换，来猜测为什么“undefined is not a fun\n本文链接",
+          "link": "https://news.cnblogs.com/n/727219/",
+          "publishedOn": "2022-08-26T00:40:00.000Z",
+          "wordCount": 161,
+          "title": "TypeScript 遭库开发者嫌弃：类型简直是万恶之源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727218/",
+          "author": null,
+          "description": "小伙伴们小时候有幻想过拥有隐身的能力吗？ 或者拥有哈利波特电影中的“隐身斗篷”让自己实现隐身。 在现实生活中，就有人通过技术力实现了隐身的能力，而且他分享的办法还不止一种！ 有这样的： 这样的： 以及这样的： 还有他自己琢磨出来的最终方案，隐身背板： 分享隐身技术的是来自 youtube 上的技术大\n本文链接",
+          "link": "https://news.cnblogs.com/n/727218/",
+          "publishedOn": "2022-08-26T00:30:00.000Z",
+          "wordCount": 161,
+          "title": "油管博主打造「隐身」设备，多种方法实现，最低9块钱即可获得隐身斗篷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727217/",
+          "author": null,
+          "description": "文半导体产业纵横 近来，国产 GPU 的发展势头非常迅猛。芯动科技、景嘉微、龙芯频频推出重磅新品，把国产 GPU 推向了高潮。 中国在自主研发 GPU 方面仍处于起步阶段，但已经聚集了约 20 家该领域的企业，包括景嘉微电子、芯动科技、天数智芯、摩尔线程、壁仞科技、沐曦集成、登临科技和砺算科技。它们\n本文链接",
+          "link": "https://news.cnblogs.com/n/727217/",
+          "publishedOn": "2022-08-26T00:20:00.000Z",
+          "wordCount": 161,
+          "title": "国产GPU喧嚣一时，应用如何？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727216/",
+          "author": null,
+          "description": "文商隐社，作者里普 01 从昨天开始，华为内部《整个公司的经营方针要从追求规模转向追求利润和现金流》的讲话内容在网上疯传，相信大家也都看到了。 文中提到，全球经济面临衰退，消能费力也下降了，华为应该改变思路和经营方针，从追求规模转向追求利润和现金流，保渡证过未来三的年危机。 “把活下来作为最主要纲领\n本文链接",
+          "link": "https://news.cnblogs.com/n/727216/",
+          "publishedOn": "2022-08-26T00:10:00.000Z",
+          "wordCount": 161,
+          "title": "在任正非眼里，华为从来没有过春天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727215/",
+          "author": null,
+          "description": "文半导体产业纵横 今年 7 月，一家蜂窝物联网芯片厂商倒闭，而这家芯片企业，早在 2018 年就交出了首个流片的 NK6010 NB-IOT 系统级芯片（SoC），并且在 2020 年，其已经完成了 2 亿元的B轮融资。 这家企业名字叫诺领科技，曾经立志成为“中国高通”。 而在 8 月份，半导体产业\n本文链接",
+          "link": "https://news.cnblogs.com/n/727215/",
+          "publishedOn": "2022-08-26T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "正在消失的芯片企业",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727214/",
+          "author": null,
+          "description": "文 XEV 研究所，自述 谷小丰，作者 利荣，编辑 德新 2022 年，中国的自动驾驶产业已经达成了一些基本共识：高阶智能驾驶、导航辅助驾驶必须要有高精地图，同样也需要激光雷达。 中国的第一个高精度地图应用案例，是 2018 年通用汽车的凯迪拉克 CT6 进入中国，CT6 的高配车型搭载了 Supe\n本文链接",
+          "link": "https://news.cnblogs.com/n/727214/",
+          "publishedOn": "2022-08-25T12:06:21.000Z",
+          "wordCount": 161,
+          "title": "亲历者说：中国第一张商业化的高精地图是怎么诞生的？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727213/",
+          "author": null,
+          "description": "寻找人工智能中的常识（common sense）是比关注语言更重要的任务。 整理李梅、王玥 编辑陈彩娴 前段时间，谷歌工程师声称自家的 AI 聊天机器人 LaMDA 具有了意识，引发了一片混乱。 LaMDA 是一种大型语言模型（LLM），能够基于任何给定文本预测出可能出现的下一个单词。许多对话在某种\n本文链接",
+          "link": "https://news.cnblogs.com/n/727213/",
+          "publishedOn": "2022-08-25T12:05:16.000Z",
+          "wordCount": 161,
+          "title": "Yann LeCun：语言的有限性决定了 AI 永远无法比肩人类智能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727211/",
+          "author": null,
+          "description": "百度今天发布了集量子硬件平台、软件平台、量子应用的产业级超导量子计算机 “乾始”。 据介绍，本次发布的乾始超导量子计算机不仅包含了硬件平台，还拥有百度专门针对硬件进行优化的自研量子操作系统量易伏、量子测控平台量脉以及丰富的量子应用程序，允许用户在手机、平板电脑、台式机等多终端设备上访问乾始超导量子计\n本文链接",
+          "link": "https://news.cnblogs.com/n/727211/",
+          "publishedOn": "2022-08-25T12:02:09.000Z",
+          "wordCount": 161,
+          "title": "百度发布产业级超导量子计算机“乾始”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727210/",
+          "author": null,
+          "description": "文热点微评，作者王新喜 近几天，抖音饿了么联手成为业内关注的一个热点，从消费者与商家的期待来看，还是乐见抖音搅局外卖市场。 毕竟，在商家的角度，在抖音的鲶鱼效应冲击下，也有望把巨头平台的抽成费用打下来。 在电商市场，抖音对淘宝、拼多多、京东也构成了肉眼可见的冲击。 目前抖音电商淘宝化的趋势明显，布局\n本文链接",
+          "link": "https://news.cnblogs.com/n/727210/",
+          "publishedOn": "2022-08-25T11:50:00.000Z",
+          "wordCount": 161,
+          "title": "抖音电商进入深水区：拼多多比淘宝更焦虑？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727209/",
+          "author": null,
+          "description": "文青年消费观 孟羽童消失了。 本月初，格力旗下“明珠羽童精选”的抖音账号变更头像，由原本的董明珠和孟羽童的合照，换成了董明珠单人照。 孟羽童的消失并不突然。5 月，与孟羽童相关的视频尚有约 15 条；6 月，相关视频减少到约 6 条，7 月至今则已不见孟羽童身影。当初信誓旦旦“我要将她培养成第二个董\n本文链接",
+          "link": "https://news.cnblogs.com/n/727209/",
+          "publishedOn": "2022-08-25T11:40:00.000Z",
+          "wordCount": 161,
+          "title": "孟羽童消失后年轻人才醒过神：“令人心动的offer”都是骗我的......",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/727138/",
           "author": null,
@@ -9049,116 +9199,6 @@
           "publishedOn": "2022-07-27T14:11:00.000Z",
           "wordCount": 161,
           "title": "我在英国TikTok做直播电商 | 霞光出海人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725491/",
-          "author": null,
-          "description": "7 月 27 日，华为正式发布了 HarmonyOS 3，以及华为 MatePad Pro、华为 MateBook X Pro、华为 FreeBuds Pro 2、华为智慧屏 S86 Pro、华为智慧屏S系列、全新华为 WATCH 3 Pro new、华为 PixLab V1 打印机、华为 Mate\n本文链接",
-          "link": "https://news.cnblogs.com/n/725491/",
-          "publishedOn": "2022-07-27T14:00:00.000Z",
-          "wordCount": 161,
-          "title": "HarmonyOS 3正式发布，6大特性，9月规模升级",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725489/",
-          "author": null,
-          "description": "新智元报道 编辑：Joey 好困 7 月 26 日，IJCAI 2022 杰出论文奖公布。本次大会中国大陆团队投稿 2794 篇，入选 298 篇占据榜首。 继六月公布其年度四大奖项之后，人工智能领域顶会 IJCAI-ECAI 刚刚揭晓了 2022 年杰出论文奖获得者名单 （IJCAI-ECAI 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/725489/",
-          "publishedOn": "2022-07-27T13:51:00.000Z",
-          "wordCount": 161,
-          "title": "IJCAI 2022杰出论文公布，大陆作者中稿298篇拿下两项第一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725488/",
-          "author": null,
-          "description": "新智元报道 编辑：Aeneas 如願 最近，Meta 委托咨询公司写了一份元宇宙白皮书，预测元宇宙市场可达 80 万亿美元。Meta CEO 扎克伯格认为，在构建元宇宙上，Meta 和苹果正处于一场「非常深刻的哲学竞争」。 近日，Meta 委托国际经济咨询公司 Analysis Group 编写了一\n本文链接",
-          "link": "https://news.cnblogs.com/n/725488/",
-          "publishedOn": "2022-07-27T13:37:00.000Z",
-          "wordCount": 161,
-          "title": "80万亿元宇宙市场，Meta和苹果抢疯了！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725407/",
-          "author": null,
-          "description": "贫血是一种常见的疾病，病人缺乏充足的红细胞或者血红蛋白来满足身体的生理需求，影响着世界三分之一的人口。贫血的原因多达几百种，比如癌症的一个常见并发症就是贫血。 癌症是如何让人贫血的呢？近期在 Cancer cell 上发表的一篇研究找到了一个原因：癌细胞给发育中的红细胞指了“错误道路”，最后让病人身\n本文链接",
-          "link": "https://news.cnblogs.com/n/725407/",
-          "publishedOn": "2022-07-26T15:45:00.000Z",
-          "wordCount": 161,
-          "title": "癌症病人的红细胞去哪了？新研究解释癌症导致贫血原因",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725408/",
-          "author": null,
-          "description": "本文来自微信公众号“一点财经”（yidiancaijing）作者：冯伟康编辑：蒋冬梅 步入下半年，有关苹果手机的信息多了起来。 7 月 16 日，富士康推出重金招工的信息，为 iPhone 14 即将到来的量产做准备；另一边，iPhone 相机将迎来大升级的消息让提供潜望式长焦镜头的高伟电子股价一度\n本文链接",
-          "link": "https://news.cnblogs.com/n/725408/",
-          "publishedOn": "2022-07-26T15:36:00.000Z",
-          "wordCount": 161,
-          "title": "果链“围城”：傍上苹果，是一场甜蜜与苦楚交错的旅途",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725406/",
-          "author": null,
-          "description": "逐渐变短的端粒 当细胞准备分裂时，DNA 会紧紧缠绕在蛋白质周围，形成能为遗传物质提供结构和支撑的染色体。端粒就位于染色体的末端，它们是 DNA 的一种重复延伸，是染色体的“保护帽”，就像鞋带末端的塑料帽一样，起到防止染色体内的遗传物质受损的作用。 在每条染色体的末端，端粒起着保护帽的作用。 然而，\n本文链接",
-          "link": "https://news.cnblogs.com/n/725406/",
-          "publishedOn": "2022-07-26T15:30:00.000Z",
-          "wordCount": null,
-          "title": "年纪大了，僵尸细胞多了......",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725405/",
-          "author": null,
-          "description": "2022 年 6 月 27 日 23 时 46 分，长征四号丙运载火箭在酒泉卫星发射中心点火升空，随后成功将“高分十二号 03 星”送入预定轨道，发射任务取得圆满成功。 高分十二号 03 星是高分辨率对地观测系统国家科技重大专项安排的微波遥感卫星，主要用于国土普查、城市规划、土地确权、路网设计、农作\n本文链接",
-          "link": "https://news.cnblogs.com/n/725405/",
-          "publishedOn": "2022-07-26T15:24:00.000Z",
-          "wordCount": 161,
-          "title": "除了加热食物，“微波”还有这个大作用！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725404/",
-          "author": null,
-          "description": "整理彭慧中 责编屠敏 出品 CSDN（ID：CSDNnews） 近年来，为了表达对开源社区的支持，微软自由与开放源码软件基金（FOSS）为微软工程师提供了直接参与提名和评选的渠道，从而来帮助这些工程师们最热爱的项目。curl 项目在今年一月份被选中，微软为其提供 1 万美元的资助，分 10 期付清。\n本文链接",
-          "link": "https://news.cnblogs.com/n/725404/",
-          "publishedOn": "2022-07-26T15:12:00.000Z",
-          "wordCount": 161,
-          "title": "微软默默给curl捐赠一万美元，半年后才通知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725403/",
-          "author": null,
-          "description": "阿尔茨海默病（AD），俗称“不死的癌症”，缺乏有效治疗方案，至今仍是医学界的“老大难”问题。正如《黄帝内经》所记载“上医医未病之病，中医医欲病之病，下医医已病之病”。或许“治未病”——找到预防/延迟 AD 的可控因素才更加重要。 近期，来自德克萨斯大学休斯顿健康科学中心（UT Health）的 Av\n本文链接",
-          "link": "https://news.cnblogs.com/n/725403/",
-          "publishedOn": "2022-07-26T14:55:00.000Z",
-          "wordCount": 161,
-          "title": "流感疫苗竟能预防阿尔茨海默病？！近200万人研究表明，接种流感疫苗与65岁以上人群患AD的风险降低40%有关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725402/",
-          "author": null,
-          "description": "文刺猬公社，作者陈梅希、星晖、弋瞳，编辑园长 最近 1 个多月，“告别”我们的互联网产品有点多。 2022 年 7 月 25 日，90 后、95 前的大学生都用过的“青春回忆”中国移动飞信宣布即将停止服务；7 月 12 日，运营了 20 多年的“国内电商第一站”易趣网公告将停止运营；6 月 15 日\n本文链接",
-          "link": "https://news.cnblogs.com/n/725402/",
-          "publishedOn": "2022-07-26T14:40:00.000Z",
-          "wordCount": 161,
-          "title": "2022年，我们只用一个月就“送走”了这么多互联网产品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725401/",
-          "author": null,
-          "description": "7 月，2022 达摩院青橙奖已启动评审流程。 在今年寻访学术新星的路上，一些与往年不同的变化，值得关注： 申报人数进一步提升 今年，青橙奖组委会通过寻访等方式近距离触达超过 700 位的优秀青年学者，截至 6 月 1 日共收到近 500 份有效申报材料，其中近 3 成为 90 后，最年轻者仅 27\n本文链接",
-          "link": "https://news.cnblogs.com/n/725401/",
-          "publishedOn": "2022-07-26T14:22:00.000Z",
-          "wordCount": 161,
-          "title": "又见青橙，2022达摩院青橙奖进入评审阶段",
           "imageUrl": null
         }
       ]
