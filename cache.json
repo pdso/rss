@@ -69,6 +69,56 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/75386",
+          "author": "KIDSTYO",
+          "description": "Hi 大家好，我是 3x3 的作者 KIDSTYO\n在2022年初的时候，我制作发布了自己的第一款苹果平台应用 3x3\n这是一款采用极简主义设计风格（参考Windows Phone）的时间管理应用\n在此之前，我在少数派上看到很多朋友都在用自己的方式结合市面上的工具来搭建自己的时间管理体系\n其中有一些关键词，比如间歇式日记、柳比歇夫时间记录法、双链等\n其中一些理念，让我觉得和 3x3 的理念很类似，所以也是经过半年多的迭代完善后，想向各位介绍这款工具\n我自己不太会写文章，所以这篇文章的内容可能会比较简单\n我希望能分享一下我为什么要做这个软件以及分享我自己和一些用户的使用体验\n3x3 的理念\n首先我想分享一段话，这正是 3x3 核心理念：dots will somehow connect in your future\n\nYou can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever.\n\n3x3 可以轻松的记录日常的时间线，可以关联每日、周、月、年、甚至人生的待办或者标签，并且待办之间可以进行双向链接\n做3x3的想法就是，过了很多年之后，我还可以方便的找到当天做过有意义的事情\n然后可以将所有事情串联起来，比如我学习一样事情，阅读一本书，可以清晰的知道每个阶段的过程，甚至你可以制作你自己的10000小时计划\n3x3 的设计想法在 2018 年初，就有了，当时我还做了一个简单的网页，它…",
+          "link": "https://sspai.com/post/75386",
+          "publishedOn": "2022-08-29T06:28:17.000Z",
+          "wordCount": 594,
+          "title": "我做了一款时间管理工具，将自己的生活串联了起来",
+          "imageUrl": "https://cdn.sspai.com/2022/08/27/af22763e1a151e40061bac8df506ce30.png"
+        },
+        {
+          "id": "https://sspai.com/post/75370",
+          "author": "yozoo",
+          "description": "在 WWDC22 上，Apple 发布 iOS 16 的时候，公布了一个功能叫实时活动，并向开发者开放 Live Activities API。\n\n那么什么实时活动呢？\n实时活动是一种新的交互式消息通知，用户可以在 iPhone 的锁屏界面看到事件的实时更新。比如球赛的比分、打车或订餐的订单状态、运动锻炼的实时数据等。这种消息通知形式允许开发者在实时活动期间更新单个交互式通知，而不是每次有状态更新时都发送新通知。通过减少发送的通知数量，同时使信息更易于访问。\nUber海外版团队设计的实时活动界面\nApple 在 iOS 16 开发者测试版 Beta 4 首次向开发者提供 ActivityKit 开发套件，首次在真机实装，随后在 Beta 6 和 Beta 7 并没有在真机实装实时活动功能。开发者目前只能在模拟器测试这项功能，或者降级回 Beta 4 或 Beta 5。Apple 在开发者网站也明确表示实时活动不会在首个 iOS16 正式版推出，而是在今年晚些时候的正式版突出。下图是模仿目前已有的原神安卓小组件、iOS 小组件做的实时活动版小组件。到了 8 月 16 日一大早用手机更新 Beta 6 之后，手机就不能运行和测试实时活动了，随后也看到其他开发者反馈实时活动在 Beta 6 版本没有实装。本文后面的截图只能在模拟器截取了，但模拟器不能更改壁纸，只有黑色背景。\nXcode真机调试报错ActivityKit没实装\n实时活动界面部分是小组件扩展，开发者使用 WidgetKit 功能和 SwiftUI 编写界面布局，ActivityKit 是处理配置、启动、更新和结束实时活动。实时活动是一种消息通知，是一种可以自定义界面布局和更新状态的消息通知。下图是普通类型的消息通知，或许以后能看到换了界面布局的降雨提醒。\n普通的消息通知类型\n实时活动要求和限制\n与小组件不同的是，小组件是通过时间线机制更新界面数据，实时活动是通过远程推送或 ActivityKit 从主应用程序来启动、更新和结束实时活动。实时活动无法访问网络或接收位置更新，下图网络请求图片失败。\n\nActivityKit 更新和远程推送通知更新的更新动态数据大小不能超过 4KB。\n实时活动界面不能包含可交互元素，例如按钮和 WebView。当用户点击实时活动界面，将会打开主应用程序。\n自定义实时活动的用户界面时，系统会忽略任何自定义动画，但可以使用系统自带的时间文本动画，当实时活动的动态内容发生变化时，系统会执行一些动画。文本视图通过模糊的内容过渡动画内容变化，系统为图像和 SF Symbols 符号动画内容过渡，根据内容或状态更改从用户界面添加或删除视图，视图会淡入淡出。\n系统自带的时间文本动画系统为图像内容变化作出的动画效果\n在开发者网站的描述中，如果实时活动的高度超过 160，系统可能会截断它。在实际测试中，实时活动界面最小高度为 64，最大高度可以达到 220。目前实时活动功能还不是正式的版本，有可能在之后的测试版本会有改变。\n\n当用户在 App 首次启动时，点击允许应用程序发送通知时，就代表允许 App 发送实时活动通知，不允许则不会收到实时活动的通知。之后在系统设置 - 对应的 App -实时活动，可以关闭/开启实时活动权限。\n实时活动权限位置\n实时活动有 4 种活动状态，分别是：等待中、正在进行、成功、失败\n实时活动在锁屏界面显示的时候，用户可以左划，点击清除按钮将其清除。用户没有清除的情况下，实时活动最多可以处于活动状态 8 小时，如果用户或应用程序尚未结束活动状态，系统会自动结束它。在此结束状态下，实时活动会在锁定屏幕上最多保留 4 个小时，最后系统会将其删除。\n\n目前实时活动功能还在测试状态，开发者们还在为他们的 App 设计和测试这一项功能，下图是收集几款目前在测试中的实时活动的例子。\n一些例子展示\n关于实时活动这一功能的一些设想。在这个功能正式上线后，除了官方和大部分媒体提到的比赛比分、运动训练状态、行程状态、订单状态等这些功能以外，我们或许还可以看到这些功能：某餐饮 App 提醒你周四中午吃啥；原神体力、宝钱、参量质变仪到点提示上线领取；购物平台推送提醒商品抢购即将开启、正在抢购还剩余 69 件并且在不断减少等之类的功能。\n\n以上就是关于实时活动这个功能的一些介绍和想法。之前的一篇锁屏天气的文章和视频会有评论说解锁在桌面小组件就能看到天气了啊，左划负一屏添加小组件就能看到天气了啊。不过对于我这种手机懒得解锁的用户来说，对于锁屏实时活动这个功能是非常期待的。大家对于实时活动这个系统特性及功能有什么想法和期待呢？",
+          "link": "https://sspai.com/post/75370",
+          "publishedOn": "2022-08-29T06:24:58.000Z",
+          "wordCount": 550,
+          "title": "简单聊聊iOS 16实时活动功能",
+          "imageUrl": "https://cdn.sspai.com/2022/08/26/d7834a2529946df8e27a1208e33337d7.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/75388",
+          "author": "两颗皮蛋",
+          "description": "在我看来，Nreal Air 眼镜是一个非常「简单」、非常「聪明」的产品\n包装大全套\n拿到 Nreal Air 有几天时间了，老实讲等快递到那几天是很激动的，这不是我第一次使用 Nreal 眼镜了，在 2019 年的时候，我非常有幸去北京拜访过 Nreal，期间短暂的体验过 Nreal Air 的前身，当时的 demo 版本已经非常接近现在的样子，给我留下了非常深刻的印象。\n如今，在我体验了一段时间，新鲜感消失之后，重新审视这个产品时，我觉得他们做了一些非常漂亮的取舍，得以让 Nreal Air 能够脱离小众，走向大众的视野。这在我的印象当中，可能是这个品类的第一次。并且在苹果发布他们的 AR 眼镜之前，分析一下 Nreal 的每一个选择背后的原因，想想苹果在面对取舍时会怎么选择，这是一个非常好的参照。\n\n取舍\n从用户端的需求来说，其实第一个选择非常简单：AR 眼镜到底能干什么？或者说我期望用户能用 AR 眼镜来做什么？\n这个问题是简单的，但要回答清楚也是困难的。做产品定义时，产品经理大可以做一些「元宇宙」式的幻想：我希望 AR 眼镜是信息的入口，用户可以活在里面。这个回答可能没错，但是稍微认清一些现实的话，做到这一步是要有非常多的前提的，「元宇宙」里面的内容谁来填充？芯片是否具备这么高的算力能够渲染出丰富的画面？光机是不是能把这些画面精细的显示出来？这几个灵魂拷问可能就连产业巨头都只能兼顾 1-2 个，更别提 Nreal 只是一个 2017 年成立的创业公司了。\n所以结合现实，他们的答案是，优先把画面显示好，内容生态寻求合作伙伴补充。\n在这个答案的背后，就是他们两个最重要产品取舍：\n1. 不在眼镜里集成计算模块和电池，将计算的部分放进用户固有设备中，如手机、平板。\n2. 不做无线投屏，采用有线链接，保证稳定性和低延迟\n\n这么选择一个重要的好处就是成本直接少一大块，反映到实…",
+          "link": "https://sspai.com/post/75388",
+          "publishedOn": "2022-08-29T02:15:07.000Z",
+          "wordCount": 585,
+          "title": "Nreal Air —— 简单背后的选择",
+          "imageUrl": "https://cdn.sspai.com/2022/08/27/a571b81e935143b629f891332522a77c.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/75398",
+          "author": "Caseeey",
+          "description": "「本文参与数字文具盒征文活动」\n背景\n成为少数派 Matrix 作者已经两年有余。回想起在少数派发表的第一篇文章，也是因为征文活动「无限桌面」有感而发，简单介绍了一下当时身在国内，日夜颠倒网课学习时的桌面布置。两年过去了，我已经回到了美国，也从当时的学校毕业，进入到新的学校，开启了人生的一个新阶段。 \n新闻传媒，英文名叫做「Journalism」，是一门专门学习新闻报道和写作的学科。而除了学校里开设的各类理论和实践课之外，最好的学习方法就是平时的阅读积累。在我将新闻传媒定为自己学习的方向之后，我便开始有意识地通过各种渠道获取内容，加深自己对于新闻事件的理解，同时也学习职业记者们的写作风格。几年下来，我也有了一套独属于自己的系统。这次少数派的征文主题是「数字文具盒」，那我也趁这个机会，聊一聊自己作为一个新闻传媒系的学生，是如何使用数字工具来搭建自己的阅读和写作系统的。\n按照工具和媒体的性质，我把自己的「数字文具盒」简单分为四个步骤：获取内容，收集内容，处理内容，以及产出内容。\n我的阅读与写作系统的简单流程图\n获取内容\n阅读理解新闻的第一步，当然是要找到优质的信息渠道。我目前常用的渠道主要有四个：传统媒体，播客，书籍，以及社交媒体。\n传统媒体，指的就是规模大，存在时间久，以报道新闻为主要目的的媒体。我订阅的传统媒体有三家：纽约时报 New York Times，华尔街日报 The Wall Street Journal， 以及大西洋杂志 The Atlantic。 纽约时报作为美国发行量最大的报纸之一，文章质量有一定的保证，并且汇集了许多美国最知名的专栏作家。我每天都会阅读它的早间资讯 Morning Briefing 和 On Politics 两份 newsletter。但因为它的受众主要是美国的自由派人士，文章导向非常明显。而华尔街日报专注于商务人士，文章也偏向保守。大西…",
+          "link": "https://sspai.com/post/75398",
+          "publishedOn": "2022-08-28T18:21:45.000Z",
+          "wordCount": 713,
+          "title": "从信息获取到内容产出，这是一位新闻传媒学生的「数字文具盒」",
+          "imageUrl": "https://cdn.sspai.com/2022/08/28/614f254d6bdf93ec36b99fe8e1b0ae38.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/75364",
+          "author": "bigzhe",
+          "description": "「本文参与数字文具盒征文活动」\n背景\n读博士的这些年，我每天都在获取各式各样的知识。大到学术论文，小到快捷指令的配置教程，每份知识都可能在未来某个时刻派上用场。我根据自己的习惯和需求建立了一套工作流，用来记录以及内化各类知识。我的目标是形成自己的个人数据库，方便未来随时的调用。\n知识有不同的特点，调用场景也各不相同。下面的表格展示了我对知识的理解以及相应的分类。在这篇文章里，我将针对每个类型，介绍了我记录（和内化）这些知识的经验，以及使用到的工具。\n\n\n知识类型知识特点例子\n学术研究格式固定，密度高，需要原文阅读学术论文，演讲\n系统性知识内容多，密度低，自上而下结构大学课程，教科书，出版书籍\n非系统性知识碎片化知识，自下而上结构CSDN，网络文章，教学/科普 视频\n信息只需记录，不需整理做饭教学视频，服务器配置流程代码\n\n\n1. 学术研究\n首先要讨论的是学术研究类的知识，代表的例子就是学术论文。可能是因为阅读论文都需要花费巨大的精力而且经常会查阅，我通常会对阅读过论文有印象。即便不一定记得所有的细节，我还是很容易就能检索到，并重新阅读。\n学术论文这一类知识有三个特点：\n\n知识密度高：文章内容很浓缩，比较难再二次总结。未来通常需要再查阅论文的时候大概率还是得阅读原文。\n格式固定：学术论文通常都会有 Abstract 来记录文章梗概。理工科的论文经常会有 Related Work, Methodology 和 Results 这些章节。第一次阅读难度较大，但理解以后再次阅读的难度不大，信息获取容易。\n上下文重要：随意从论文中抽出来某一段文字或者配图，不一定很好理解。通常需要结合上下文才好理解。\n\n由于查阅论文的大多需要阅读原文，所以我不会专门用笔记 app 给论文记笔记。我会把笔记直接记在论文 PDF 上。\n使用 Zotero 管理论文和笔记\n我使用 Zotero 来管理论文。…",
+          "link": "https://sspai.com/post/75364",
+          "publishedOn": "2022-08-26T16:54:53.000Z",
+          "wordCount": 592,
+          "title": "有效整理和吸收不同类型的知识 - 我的笔记工作流",
+          "imageUrl": ""
+        },
+        {
           "id": "https://sspai.com/post/75363",
           "author": "手动贩卖机",
           "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。 \n\n最近，我正在研究使用 Obsidian，想看看大名鼎鼎的「卡片盒笔记法」是否真的能解决我读书过目就忘的困扰。不过困扰还不知道能不能解决，我就发现了新的问题。\nObsidian 有许多优点，其中一个就是自带社区主题库，用户可以随意更换样式，不再天天看千篇一律的外观。然而，尽管社区主题库里有很多主题样式，说实话，没有一个能百分之百令我满意的。\n比如「Things」这个主题，我很喜欢它的简洁风格，但是它每一级的标题颜色却似乎并不遵循某种规律，甚至莫名其妙地在二级标题下多出了一条下划线，这一点让完美主义的我无比介意。\n\n我明白，主题风格毕竟只是制作者的个人喜好，肯定是做不到让所有使用者都百分之百满意的。那么，有没有什么办法，可以让我自己来自定义主题呢？\n答案是有的，Obsidian 设置中的「CSS 代码片段」这个功能就是为用户对外观进行自定义而准备的。\n\nHTML 与 CSS\nObsidian 的外观本质上是由 CSS 代码所决定的。\n我们可以打开 Obsidian 的窗口，按下 Ctrl + Shift + I，即可开启开发者工具（Developer Tools），这个操作和在浏览器中开启开发者工具是一样的，展示出来的也同样是 HTML 文档。\n\nHTML，全称「HyperText Markup Language」，又称为「超文本标记语言」，它的作用就是告诉浏览器这个网页该怎么渲染，比如这段文字是一级标题，这一段文字是正文，而这一段文字是链接，可以跳转别的网页。\n听起来和 Obsidian 所使用的 Markdown 很像。没错，M…",
@@ -587,16 +637,6 @@
           "wordCount": 666,
           "title": "家庭自身也需要治疗",
           "imageUrl": "https://cdn.sspai.com/2022/07/29/d30b210f56f74b8f6459efd31d21cbb3.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/74915",
-          "author": "河林",
-          "description": "前阵子收到了小宇宙的消息推送，我才发现不知不觉，我已经在小宇宙听了 200 小时播客了，最开始只是偶尔听听，后来越来越喜欢，几乎每天只有有空就都要打开小宇宙，把听播客这个习惯无缝融入到了我的日常 routine 中。\n今天这一篇，我想复盘一下在我从播客萌新到播客重度听众的这 200 个小时，我的一些收获和体验，以及对播客这一种内容形式的思考。\n我喜欢听哪些播客？\n我收听的播客领域主要集中在这几类：互联网、商业分析、心理学、轻松休闲类。\n📻互联网行业：三五环、温柔一刀、组织进化论等等；\n📻商业分析：无人知晓、疯投圈；\n📻心理学：得意忘形；\n📻轻松休闲类：日谈公园、谐星聊天会；\n我一般都是在家用电脑做一些不需要太集中精力的工作的时候，会去听我喜欢的一些有信息量的播客，收听到有价值的信息的时候，会直接打开电脑上的记事本，或者用 flomo 记录下当时觉得有价值的信息和思考。\n而一个人出门散步、吃饭的时候，会放日谈公园或者谐星聊天会这种信息浓度不高的播客，作为放松休闲的背景音。\n我的小宇宙收听总结里收听时长最长的播客是张潇雨老师的《得意忘形》，刘飞老师的《三五环》以及孟岩老师的《无人知晓》。这三档播客也是我目前最喜欢的三档播客。\n\n播客为什么吸引了我？\n在听了 200 个小时的播客之后，我开始对播客这一内容形式有了一些思考，我开始想：\n播客为什么吸引到了我，能让我愿意付出这么多时间去使用它？播客这一种内容形式，和其他的内容形式又有什么特别之处？\n我尝试着从我自己作为普通用户的角度，也夹杂着我作为一个内容运营的看法，去解答这个问题：\n1.仅限音频，收听便利，使用门槛低。\n播客的内容只以音频形式呈现，只要用耳朵收听就可以了，与传统的信息摄入形式相比，解放了双手双眼，让信息输入的门槛低了很多；\n所以比如在通勤的时候，散步的时候，坐在电脑前打字聊天的时候，在家里收拾家务的时候，很多…",
-          "link": "https://sspai.com/post/74915",
-          "publishedOn": "2022-07-31T02:32:24.000Z",
-          "wordCount": 512,
-          "title": "在小宇宙收听播客200小时后，我体会到了播客的魅力",
-          "imageUrl": ""
         }
       ]
     },
@@ -611,6 +651,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23215",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🌟 🐎 以小窥大：IO 卡顿探寻苹果文件系统\n@JonyFang：从一个用户反馈的不寻常的 I/O 卡顿入手，发现苹果 APFS 的一个严重 bug。结合问题场景分析问题，结合数据分析结果，发现苹果的文件操作存在的坑，并给出了相应建议。在日常缓存设计中，也需要留意相应的这些点。\n分析问题\n寻找关键堆栈\n构造必现代码\ndtrace 分析\nHopper 分析\n对比 HFS+\n结合已有数据分析，发现苹果的文件操作里存在的坑：\ntmp 在极端情况下可能会存在 >90G 的占用；\nWebKit 随机 + 群众的方式删除网络缓存极端情况下的问题；\nNSURLCache 在 diskCapacity 设置过大时存在的问题；\n密集删除文件导致 I/O 性能下降过快的问题；\n为了避免上述这些极端情况下会导致的 I/O 性能骤降，移动端 APP 也需要合理的设计存储结构。如需要分层管理文件，尽量不将单个文件夹或单个文件搞得过大，同时也需要定时清理临时缓存目录，来进一步优化存储空间占用和优化 I/O 效率。\n🌟 🐎 不改一行业务代码，飞书 iOS 低端机启动优化实践\n@Leo：在性能优化中，并发是一个常见的手段。但 CPU 核数是有限的，意味着同时能执行的线程数量也是固定的，不合理的并发一方面会带来线程频繁切换的开销，另一方面也会引起一些意料之外的抢占，导致主线程得不到执行。本文结合 Lark 在低端机上的实践，详细地讲解了线程 QoS 优化的原理，对性能优化很有参考意义。\n🐕 在 SwiftUI 中用 Text 实现图文混排\n@含笑饮砒霜：SwiftUI 提供了强大的布局能力，不过这些布局操作都是在视图…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23215",
+          "publishedOn": "2022-08-29T02:36:41.000Z",
+          "wordCount": 565,
+          "title": "老司机 iOS 周报 #215 | 2022-08-29",
+          "imageUrl": "https://opengraph.githubassets.com/4204249aa4fd17a8a88db7fc7544547405002295d6fd4e25899a95cc0b313a51/SwiftOldDriver/iOS-Weekly/releases/tag/%23215"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23214",
           "author": null,
@@ -654,6 +704,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72607",
+          "author": null,
+          "description": "没有 Hurrian Hymn No. 6 更古老的音乐了。它是于 1950 年代在叙利亚港口城市 Ugarit 的一块泥板上发现的，至今有逾 3400 年历史。比它古老约 600 年的音乐来自伊辛第一王朝第五位国王 Lipit-Ishtar 的一首赞美诗，但只留下简单的调音指令，Hurrian Hymn No. 6 留下更多的内容，保存良好，允许考古学家重建歌曲。加州大学亚述学教授 Anne Kilmer 花了 15 年时间研究石板，将其翻译成现代音乐符号。这首歌缺乏调音或音符多长时间的信息，给现代的编曲者留下了创造性的空间。",
+          "link": "https://www.solidot.org/story?sid=72607",
+          "publishedOn": "2022-08-29T10:01:34.000Z",
+          "wordCount": 177,
+          "title": "聆听有 3400 年历史的音乐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72606",
+          "author": null,
+          "description": "Google 从 4 月开始要求大部分员工每周至少去办公室三天，此后员工的邮箱就定期收到确诊感染新冠的通知，许多员工质疑重返办公室的强制性要求。根据洛杉矶公共卫生部门网站的数据，Google 是当地新冠确诊最多的雇主。搜索巨人在加州 Venice 的 Silicon Beach 园区报告了 145 例感染，在 Playa Vista 园区记录下了 135 例。许多员工收到了欢迎重返办公室的邮件之后下一条就是确诊感染通知。Google 发言人表示没有出现新冠确诊突然增加的情况，数百例感染都是在过去几个月发生的。",
+          "link": "https://www.solidot.org/story?sid=72606",
+          "publishedOn": "2022-08-29T09:30:21.000Z",
+          "wordCount": 165,
+          "title": "Google 在实施强制性重返办公室政策后记录到数百例新冠确诊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72605",
+          "author": null,
+          "description": "天文学家首次在系外行星大气中发现二氧化碳。研究发现发表在预印本服务 arXiv 上。韦伯太空望远镜的这一发现为行星如何形成提供了线索。对于韦伯望远镜的首次系外行星观测，天文学家瞄准了 700 光年外土星大小的炙热气态巨行星 WASP-39，它每 4 天围绕恒星运动一周。首批数据是在 7 月 10 日拍摄的，天文学家在原始数据发现了显著的二氧化碳光谱。发现二氧化碳的价值在于它提供了行星金属丰度的线索——行星构成中比氦重的元素比例。创世大爆炸中产生的氢和氦是宇宙所有可见物质的初始材料，更重的物质是在恒星形成中产生的。专家预测当韦伯望远镜观测温度较低的类地行星时可能会带来惊喜，可能会发现适宜生命生存的气体。",
+          "link": "https://www.solidot.org/story?sid=72605",
+          "publishedOn": "2022-08-29T08:17:42.000Z",
+          "wordCount": 155,
+          "title": "天文学家首次在系外行星大气中发现二氧化碳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72604",
+          "author": null,
+          "description": "NASA 将按计划于 8 月 29 日发射阿尔忒弥斯 1 号月球任务，发射窗口始于美国东部时间 8 时 33 分（北京时间 20 时 33 分）。NASA TV 将从 6 时 30 分开始直播（北京时间 18 时 30 分）。阿尔忒弥斯 1 号为无人绕月飞行，主要进行测试，如果测试成功 NASA 计划在 2024 年开展阿尔忒弥斯 2 号载人绕月飞行任务，然后启动阿尔忒弥斯 3 号载人登月任务。登月任务将为未来的火星任务打下基础。更新（21 时 30 分）：发射推迟。",
+          "link": "https://www.solidot.org/story?sid=72604",
+          "publishedOn": "2022-08-29T05:28:29.000Z",
+          "wordCount": 187,
+          "title": "NASA 准备发射阿尔忒弥斯1号月球任务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72603",
+          "author": null,
+          "description": "在许多经济体面临能源短缺的大背景下，西方国家开始寻求资金和政治支持，以确保已有几十年历史的核反应堆不会被关闭，从而维系这个重要的低碳电力来源。美国、法国等一些国家计划让几十个反应堆在其原始运营许可到期后继续运行数十年。比利时正在采取行动，允许原定于 2025 年退役的两个反应堆运行到 2036 年，帮助欧洲在俄乌战争后摆脱对俄罗斯天然气的依赖。原定于今年年底前关闭所有反应堆的德国，目前正在讨论是否将最后三个反应堆保留到明年，以节省天然气过冬。一些政界人士呼吁将这些反应堆保留更长时间。由于高气价，日本首相上周呼吁本国重启更多核反应堆。相比建造新反应堆，维护和更换现有反应堆的设备不仅成本低得多，工序也简单得多。",
+          "link": "https://www.solidot.org/story?sid=72603",
+          "publishedOn": "2022-08-29T05:05:23.000Z",
+          "wordCount": 148,
+          "title": "西方国家纷纷重启旧核电站",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72602",
+          "author": null,
+          "description": "为改进可及性 Debian 社区讨论默认加载非自由固件。如盲人用户需要在文本语音模式下运行安装程序，可能需要先加载音频固件。目前 Debian 发行版默认不加载非自由固件，要盲人用户自己去摸索调整是非常困难的。因此 Debian 开发者提议在官方镜像中包含非自由固件。非自由软件仍然是明确反对的，用户如果需要可以自己启用非自由组件。",
+          "link": "https://www.solidot.org/story?sid=72602",
+          "publishedOn": "2022-08-29T03:43:10.000Z",
+          "wordCount": 158,
+          "title": "为改进可及性 Debian 考虑默认加载非自由固件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72601",
+          "author": null,
+          "description": "Politico 援引知情人士的消息报道，美国司法部可能对苹果发起反垄断诉讼。报道称，美司法部的律师正在起草针对苹果的反垄断控诉，表明调查可能临近终点，诉讼可能很快会发生。自 2019 年以来美司法部已经对苹果调查了三年多时间，原因是它被控滥用市场地位扼杀小型科技公司，包括应用开发商和竞争的硬件制造商。",
+          "link": "https://www.solidot.org/story?sid=72601",
+          "publishedOn": "2022-08-29T03:23:02.000Z",
+          "wordCount": 147,
+          "title": "苹果面临反垄断诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72600",
+          "author": null,
+          "description": "安全公司 Group-IB 称，至少 136 家公司遭到相同黑客的钓鱼攻击，其中包括 Twilio、LastPass 和  DoorDash。Twilio 旗下的 Authy 储存了 7500 万用户的双因素身份认证令牌，黑客登陆了其中 93 名用户的个人账号，并添加了接收一次性密码的新设备，Authy 称已经删除了未经授权添加的设备。LastPass 的源代码被黑客访问，但用户主密码不受影响。DoorDash 称有未披露数量的用户名字、电邮地址、送货地址、电话号码、支付卡号码的一部分被黑客访问。种种迹象显示，黑客计划周密，执行精确到位，掌握了极高的智谋和技能。",
+          "link": "https://www.solidot.org/story?sid=72600",
+          "publishedOn": "2022-08-29T03:14:01.000Z",
+          "wordCount": 169,
+          "title": "至少 136 家公司遭到相同黑客的钓鱼攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72599",
+          "author": null,
+          "description": "根据发表在《皇家学会开放科学》期刊上的一项研究，草食性海生哺乳动物儒艮在中国沿海水域功能性灭绝。这项研究基于对中国南方近 800 名渔民的采访。自 1970 年代中期以来，中国沿海水域的儒艮数就开始急剧下降。“功能性灭绝”意味着，即使少量儒艮仍然存活在中国沿海，它们的数量也无法维持一个可存活的种群。全世界大约 40 个国家的水域仍然生活着接近 10 万只儒艮。儒艮为海牛目儒艮科，是海牛目中唯一仍生存于印度-太平洋地区的物种。",
+          "link": "https://www.solidot.org/story?sid=72599",
+          "publishedOn": "2022-08-29T02:53:04.000Z",
+          "wordCount": 152,
+          "title": "儒艮在中国沿海功能性灭绝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72598",
+          "author": null,
+          "description": "试图成为 Web3 版本 DNS 的以太坊域名服务 ENS 依赖 Eth.link 将 .eth 域名记录转换到其它服务。但 eth.link 域名是有时间期限的，到期后需要续期。问题是域名持有人 Virgil Griffith 因帮助朝鲜逃避制裁而被判入狱五年，目前正在服第一年牢役。域名服务商 GoDaddy 此前允许其他人代表 Griffith 续期域名，但现在它逆转了这一决定，让 eth.link 域名在 9 月 5 日过期。ENS DAO 督促人们切换到不同的服务，担心域名被恶意者抢注后发动钓鱼攻击。",
+          "link": "https://www.solidot.org/story?sid=72598",
+          "publishedOn": "2022-08-28T15:50:58.000Z",
+          "wordCount": 179,
+          "title": "因域名持有人入狱 Eth.link 域名将下线",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72597",
           "author": null,
@@ -3343,46 +3493,6 @@
           "wordCount": 188,
           "title": "Linux 5.19 释出",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72316",
-          "author": null,
-          "description": "开源社区仍然广泛使用邮件列表这一历史悠久的通信媒介，Python 语言社区则开始讨论将开发者使用的讨论媒介从邮件列表切换到 \nDiscourse 论坛。Python 项目是在 2018 年开始实验使用 discussion.python.org 论坛。作为实验的一部分，核心开发者使用的邮件列表  python-committers 切换到了 Discourse。今天该邮件列表仍然存在，但主要作为发布公告使用，大部分讨论都是在 Discourse 论坛上进行。开发者 Victor Stinner 的提议引发了保留邮件列表还是完全使用 Discourse 的讨论。Victor Stinner 称他不怎么访问 Discourse 错过了有兴趣的新 PEP 讨论，希望新 PEP 能发布在 python-dev 邮件列表上。在随后的讨论中 Python 语言指导委员会表示要将讨论的媒介从  python-dev 切换到 discussion.python.org。python-dev 列表可能将迎来它的最终命运。",
-          "link": "https://www.solidot.org/story?sid=72316",
-          "publishedOn": "2022-07-31T11:52:15.000Z",
-          "wordCount": 186,
-          "title": "Python 开发者讨论从邮件列表转移到论坛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72315",
-          "author": null,
-          "description": "美国监管机构核能管理委员会（Nuclear Regulatory Commission，NRC）周五宣布将向一种新的核反应堆设计颁发证书。该设计来自于 NuScale 公司，将是 NRC 批准的第一种小型模块化反应堆设计。小型模块化反应堆被认为降低核电站建造成本，可在工厂组装，然后运到目标地点运行。它的被动安全设计结构被认为在出现问题时能自动关闭，不需要手动。NuScale 的模块反应堆采用了传统设计，整个反应堆设置在一个大水池中，控制棒在断电下能靠重力插入反应堆，从外部水源进行冷却。",
-          "link": "https://www.solidot.org/story?sid=72315",
-          "publishedOn": "2022-07-31T11:04:51.000Z",
-          "wordCount": 151,
-          "title": "美国监管机构批准第一种小型核反应堆设计",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72314",
-          "author": null,
-          "description": "2021 年 12 月俄罗斯媒体监管机构 Roskomnadzor 下令 ISP 屏蔽 Tor 网站及其服务器。此后俄罗斯的审查人员和 Tor 项目的开发者和用户之间展开了一场竞争。俄罗斯和中国不同，中国完全控制了互联网基础设施，因此对 Tor 的封锁更有效，而俄罗斯的网络基础设施是相对分散的，封锁 Tor 的命令由不同公司执行，效果也参差不齐，部分人被封锁了，另一部分人则可以正常使用，相同的城市也可能出现不同的审查状况。Tor 网络的数据显示，自去年 12 月以来俄罗斯连接 Tor 的人数出现了大幅下降，如今俄罗斯用户主要通过网桥以及 Tor 的反审查工具 Snowflake 连上 Tor 网络，使用 Snowflake 的俄罗斯用户数量有了大幅增长。过去几个月俄罗斯的审查者两次攻击了 Snowflake，通过指纹识别 Tor 用户的连接，但 Tor 开发者释出修正解决了问题。俄罗斯除了了本国封锁 Tor 外，它占领的乌克兰地区的用户报告 Tor 无法连接。",
-          "link": "https://www.solidot.org/story?sid=72314",
-          "publishedOn": "2022-07-31T10:26:49.000Z",
-          "wordCount": 185,
-          "title": "Tor 项目如何对抗俄罗斯的审查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72313",
-          "author": null,
-          "description": "本周英特尔披露了一个令人失望的 Q2 财报，连续第二财季销售额下降，净亏损 4.54 亿美元。周五它的股价下跌近 9%，市值降至 1480 亿美元。它在桌面和数据中心领域的主要竞争对手 AMD 将在下周二公布 Q2 财报，AMD 的股价周五上涨逾 3% 市值达到 1530 亿美元。这不是今年第一次 AMD 的市值超过英特尔，今年早些时候 AMD 就多次超过。 股票市场的波动主要反映了目前投资者更看好 AMD 而不是英特尔。",
-          "link": "https://www.solidot.org/story?sid=72313",
-          "publishedOn": "2022-07-31T09:29:25.000Z",
-          "wordCount": 171,
-          "title": "AMD 市值再次超过英特尔",
-          "imageUrl": null
         }
       ]
     },
@@ -3391,6 +3501,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/727390/",
+          "author": null,
+          "description": "文｜价值星球 Planet，作者沙拉酱，编辑唐飞 据中国汽车流通协会汽车市场研究分会（乘联会）7 月份的零售销量数据统计，哪吒汽车 7 月份的销量已经达到 12655 台，超过了蔚小理在当月的销量。 此前，哪吒汽车也完成了 D3 轮的融资，融资完成后D轮融资金额已经达到 100 亿元人民币。 不论是\n本文链接",
+          "link": "https://news.cnblogs.com/n/727390/",
+          "publishedOn": "2022-08-30T00:12:00.000Z",
+          "wordCount": 161,
+          "title": "“性价比”为王，哪吒可能要“闹海”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727389/",
+          "author": null,
+          "description": "文｜电商在线，作者｜沈嵩男，编辑｜斯问 顶部和底部，是几乎所有手机应用的黄金资源位，和新功能的试验田。 入口已被常态化置于顶部“右侧第二位”的抖音商城，几个月前还在顶部、底部之间反复变动，以试验出最佳的用户习惯。「电商在线」观察发现，部分用户的快手 App 顶部“居中”位置，如今也出现了一个“商城”\n本文链接",
+          "link": "https://news.cnblogs.com/n/727389/",
+          "publishedOn": "2022-08-30T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "抖音、快手，开始搭“货架”做商城",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727388/",
+          "author": null,
+          "description": "如果问各大科技公司，英伟达这家公司最让人羡慕的地方是什么，“不受周期限制”可能是最多的答案。 作为一个游戏显卡发家的公司，英伟达先是乘上 AI 的东风，成了一家人工智能公司；然后比特币带火了虚拟货币市场，它的显卡被广泛用于虚拟货币“挖矿”；再然后智能汽车产业崛起，它的车机芯片业务也迅速生长。而这些业\n本文链接",
+          "link": "https://news.cnblogs.com/n/727388/",
+          "publishedOn": "2022-08-29T14:00:00.000Z",
+          "wordCount": 161,
+          "title": "英伟达挖矿史：“把这一代最优秀的工程师聚在一起，然后研究挖比特币”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727387/",
+          "author": null,
+          "description": "文｜第一新声，作者｜Tina ，编辑｜Sherry，校对｜也行，策划｜Eason “芯片投资太内卷，今年一次没出手”“芯片倒在B轮，死在C轮” “VC 不爱投 SaaS 了”“SaaS 进入资本寒冬” “整个消费组被砍掉”“从消费转向硬科技赛道” ...... 这样的的言论和低迷情绪弥漫了 2022\n本文链接",
+          "link": "https://news.cnblogs.com/n/727387/",
+          "publishedOn": "2022-08-29T09:55:00.000Z",
+          "wordCount": 161,
+          "title": "全国1万+投资机构，活跃率不足3%，谁在坚守？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727386/",
+          "author": null,
+          "description": "文｜表外表里，作者｜周霄陈成徐帆，编辑｜付晓玲 “富士康甚至会给在职员工下硬任务拉人，完不成任务会影响绩效，有的员工没办法，就自己花钱买人来充数。” 这是社交平台上，相关人士披露的（郑州）富士康招工情况。 之所以会这样，在于生产端分旺季和淡季，淡季加班少，一大半普工会因工资太低离职；旺季，又需要大量\n本文链接",
+          "link": "https://news.cnblogs.com/n/727386/",
+          "publishedOn": "2022-08-29T09:40:00.000Z",
+          "wordCount": 161,
+          "title": "快手和BOSS直聘，盯上了同一块“蛋糕”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727385/",
+          "author": null,
+          "description": "文｜三言财经 8 月 26 日晚，新东方在线公布截至 2022 年 5 月 31 日的 2022 财年业绩。 财报显示，2022 财年新东方在线总营收为 8.99 亿元，同比下滑 36.67%；年内亏损 5.34 亿元，上年同期为 16.58 亿元。 其中，截至 2022 年 5 月 31 日，直播\n本文链接",
+          "link": "https://news.cnblogs.com/n/727385/",
+          "publishedOn": "2022-08-29T09:28:00.000Z",
+          "wordCount": 161,
+          "title": "东方甄选首份官方成绩单：董宇辉火之前，5个月营收2460万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727384/",
+          "author": null,
+          "description": "品玩 8 月 29 日讯，据 IT 之家，微软近期宣布，Microsoft Kaizala 将于 2023 年 8 月 23 日退役，目前该平台已开始限制新订阅用户。 Kaizala 是微软在 2016 年推出的一款员工信息平台，旨在帮助移动端用户查看消息。目前，申请加入的用户将会被重定向到 Mic\n本文链接",
+          "link": "https://news.cnblogs.com/n/727384/",
+          "publishedOn": "2022-08-29T09:21:00.000Z",
+          "wordCount": 161,
+          "title": "微软宣布明年停止支持 Kaizala 消息平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727383/",
+          "author": null,
+          "description": "8 月 29 日讯，游戏《冒险岛2》官网发布公告，由于腾讯与《冒险岛2》游戏开发商的代理协议即将到期，经与开发商友好协商，腾讯将于 2022 年 11 月 2 日 11 点正式停止《冒险岛2》在中国大陆地区的运营。 停运具体事项安排如下： 2022 年 08 月 29 日 11 点，停止游戏充值和新\n本文链接",
+          "link": "https://news.cnblogs.com/n/727383/",
+          "publishedOn": "2022-08-29T09:17:00.000Z",
+          "wordCount": 161,
+          "title": "腾讯《冒险岛2》宣布即将停服，系代理到期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727382/",
+          "author": null,
+          "description": "8 月 29 日，阿里巴巴集团正式发布《2022 阿里巴巴环境、社会和治理报告（Environmental Social and Governance Report）》（以下简称“ESG 报告”），展现了对于环境、均衡发展、企业治理等一系列问题的思考与行动。 2022 年 8 月 29 日，《202\n本文链接",
+          "link": "https://news.cnblogs.com/n/727382/",
+          "publishedOn": "2022-08-29T09:16:00.000Z",
+          "wordCount": 161,
+          "title": "阿里巴巴发布2022 ESG报告：创造商业之上的价值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727381/",
+          "author": null,
+          "description": "《幻塔》高开低走，上线即巅峰。 撰文/陈邓新 编辑/ 许伟 来源：锌刻度 完美世界，似乎终于有了“止血”的迹象。 2022 年上半年，完美世界营业收入为 39.23 亿元，同比减少 6.73%；净利润为 11.37 亿元，同比增长 341.51%，扣非净利润为 6.71 亿元，同比增长 1653.6\n本文链接",
+          "link": "https://news.cnblogs.com/n/727381/",
+          "publishedOn": "2022-08-29T09:07:00.000Z",
+          "wordCount": 161,
+          "title": "完美世界中报喜人，资本怎么无动于衷？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727380/",
+          "author": null,
+          "description": "杨净明敏发自凹非寺 量子位公众号 QbitAI 明明半个世纪前人类就已经登月了… 为什么 NASA 打着“重返月球”的旗号折腾了这么老长时间，最新进展还只是带着假人绕月飞行？ 北京时间今晚 8 点，承载着阿耳忒弥斯计划的 SLS 火箭，将在肯尼迪航天中心发射升空，整个飞行旅程为期 42 天。 一旦发\n本文链接",
+          "link": "https://news.cnblogs.com/n/727380/",
+          "publishedOn": "2022-08-29T08:55:00.000Z",
+          "wordCount": 161,
+          "title": "美国登月技术退步了？50年前载人着陆，怎么现在只带着史努比绕月",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727379/",
+          "author": null,
+          "description": "新智元报道 编辑：桃子 注册商标申请文件显示，苹果头显名字可能叫 Reality。 苹果头显有名字了，就叫 Reality！ 这个名字，瞬间有了西部世界画面的既视感... 如今，更新到第 4 季的西部世界，便呈现了两个真世界真实世界与西部世界形成的镜像。 这样听来，苹果头显名字真是颇具科幻感。 真 \n本文链接",
+          "link": "https://news.cnblogs.com/n/727379/",
+          "publishedOn": "2022-08-29T08:45:00.000Z",
+          "wordCount": 161,
+          "title": "2023年首推！苹果AR/VR头显叫Reality，西部世界既视感",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727378/",
+          "author": null,
+          "description": "羿阁发自凹非寺 量子位公众号 QbitAI 原来人生第一次喝酒后，大脑就发生了永久性改变？ 没错，以前大家往往只关注长期饮酒的危害，但发表于 PNAS（美国科学院院报）的一篇最新论文告诉大家： 仅仅喝一次酒 ，就足以改变大脑神经元的形态，并增加未来酒精成瘾的风险。 更重要的是，这个变化将是不可逆的。\n本文链接",
+          "link": "https://news.cnblogs.com/n/727378/",
+          "publishedOn": "2022-08-29T08:35:00.000Z",
+          "wordCount": 161,
+          "title": "只喝一次酒，足以永久性改变大脑｜PNAS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727377/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 好困 最近，Nature 连发两篇文章，揭露美国的博后被导师 PUA 的内幕。来自国外的博后，就更惨了。降薪、威胁不给签证都是小意思，有的还被辱骂、欺凌。 你，一个外国人，想在美国的大学里做研究？ 可以，但你需要接受比美国同事们更少的工资，更多的工作，外加「花样百出」\n本文链接",
+          "link": "https://news.cnblogs.com/n/727377/",
+          "publishedOn": "2022-08-29T08:22:00.000Z",
+          "wordCount": 161,
+          "title": "Nature两连发：揭秘美国博导学术霸凌亚洲博士后黑幕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727376/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 好困 在刚刚举办的硅谷芯片技术研讨会 Hot Chips 34 会议上，备受关注的特斯拉 Dojo 超算指令集结构细节史上首次被公开。 为了满足对人工智能和机器学习模型越来越大的需求， 特斯拉创建了自己的人工智能技术，来教特斯拉的汽车自动驾驶。 最近，特斯拉在 Hot\n本文链接",
+          "link": "https://news.cnblogs.com/n/727376/",
+          "publishedOn": "2022-08-29T08:10:00.000Z",
+          "wordCount": 161,
+          "title": "特斯拉Dojo超算架构细节首次公开！为自动驾驶「操碎了芯」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727375/",
+          "author": null,
+          "description": "新智元报道 编辑：David 武穆 显卡价格真崩了！新品即将发布，老黄苏妈比着大降价清库存，「等等党的大胜利」 终于来了！不过，都等了两年了，这不再等等？ 显卡价格 ，又双叒叕崩了？ 最近两年，关于这个「狼来了」的故事我们已经听了无数遍了，每次都是雷声大雨点小，更多的时候是干打雷不下雨。 直到今年年\n本文链接",
+          "link": "https://news.cnblogs.com/n/727375/",
+          "publishedOn": "2022-08-29T07:58:00.000Z",
+          "wordCount": 161,
+          "title": "矿难「虽迟但到」，显卡终于价崩！老黄清货大甩卖，等等党：我还能等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727374/",
+          "author": null,
+          "description": "“遇事不决，量子力学。”曾几何时，量子力学成为了人们口中的“玄学”。而利用量子力学原理进行有效计算的量子计算，正在引领新一轮科技发展的浪潮。 “万物都是由量子构成的，我们天天生活在量子的世界，但是又感受不到量子。同样的，量子计算让很多人一头雾水，它却能够在信息安全、药物研发等领域有着魔法般的计算能力\n本文链接",
+          "link": "https://news.cnblogs.com/n/727374/",
+          "publishedOn": "2022-08-29T07:45:00.000Z",
+          "wordCount": 161,
+          "title": "百度量子计算研究所所长段润尧：量子计算产业化需要三大基础，钱、时间、人才",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727373/",
+          "author": null,
+          "description": "两年来，Rust 一直被用户评为最喜欢的语言，但程序员们却不这么认为。 最近，谷歌推出了“Carbon”，一种号称可能成为 C++ 继任者的开源编程语言。随着这门 “实验性”语言成为互联网上的热门话题，人们也开始讨论为什么“Rust”没能成为 C++ 的正式继任者。 那些使用 Rust、为 Rust\n本文链接",
+          "link": "https://news.cnblogs.com/n/727373/",
+          "publishedOn": "2022-08-29T07:35:00.000Z",
+          "wordCount": 161,
+          "title": "谷歌推出Carbon后，我在思考为什么 Rust 没能成为 C++ 的正式继任者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727372/",
+          "author": null,
+          "description": "近日，北京金融法院裁定准予强制执行证监会针对被执行人乐视网 2.4 亿元罚款的行政处罚。 对此，乐视发布公告：路要一步一步走债要一点一点还： 公司当前的第一要务是员工稳定，员工稳定公司业务才稳定。至于公司因历史原因是欠 122 亿或是 124.4 亿，公司全员都会坦然面对。路终归是一步一步走，债是要\n本文链接",
+          "link": "https://news.cnblogs.com/n/727372/",
+          "publishedOn": "2022-08-29T07:29:00.000Z",
+          "wordCount": 161,
+          "title": "乐视回应被强制执行2.4亿罚款：路要一步一步走，债要一点点还",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/727371/",
+          "author": null,
+          "description": "8 月 27 日消息，美国当地时间周五，Facebook 母公司 Meta Platforms 的虚拟现实（VR）社交平台 Horizon 负责人宣布，他即将离职并去寻找新的机会。Horizon 是 Meta 投入数十亿美元建设所谓“元宇宙”（Metaverse）的主要门户。 Meta 发言人布莱恩\n本文链接",
+          "link": "https://news.cnblogs.com/n/727371/",
+          "publishedOn": "2022-08-29T07:22:00.000Z",
+          "wordCount": 161,
+          "title": "Meta元宇宙雄心受挫！虚拟现实平台Horizon负责人离职",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/727328/",
           "author": null,
@@ -8700,126 +9010,6 @@
           "wordCount": 161,
           "title": "“二舅币崩盘”上热搜，共发行1万亿枚，交易网站已无相关币种搜索信息",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725674/",
-          "author": null,
-          "description": "出品虎嗅汽车组 作者王笑渔 编辑周到 头图视觉中国 “赶紧把刹车也收费，不交钱停不下来” “下次是不是不买年费会员连空调都没得吹了” “不知道包月包年去车机广告的服务啥时候出” 最近，关于“付费订阅”的话题讨论特别热闹。以上，是我在相关新闻的微博评论区里，随便摘取的网友留言。 事情起因是这样的——宝\n本文链接",
-          "link": "https://news.cnblogs.com/n/725674/",
-          "publishedOn": "2022-07-31T11:00:00.000Z",
-          "wordCount": 161,
-          "title": "为什么宝马要割你两次韭菜？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725673/",
-          "author": null,
-          "description": "燃次元（ID:chaintruth）原创 燃财经出品 作者丨侯燕婷冯晓亭张琳 马舒叶曹杨苏琛 编辑丨曹杨 随着国内长视频网站会员频频涨价，这届年轻人休闲娱乐的成本也与日俱增。 7 月 27 日，芒果 TV 发布通知，将于 2022 年 8 月 9 日零点调整芒果 TV 会员、芒果 TV 全屏会员价格\n本文链接",
-          "link": "https://news.cnblogs.com/n/725673/",
-          "publishedOn": "2022-07-31T10:45:00.000Z",
-          "wordCount": 161,
-          "title": "为了薅免费会员，这届年轻人有多拼？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725671/",
-          "author": null,
-          "description": "梦晨羿阁发自凹非寺 量子位公众号 QbitAI 他在“世界十大疯狂科学家”中位列第四。（排在他之前的三位是爱因斯坦、达芬奇、尼古拉·特斯拉）他离群索居，在自家谷仓摆满不知用途的仪器，成为一个不依附于任何大学或企业的独立科学家。 他的照片绝大多数都是笑着的，可他的言论都惊人的悲观：他认为“可持续发展”\n本文链接",
-          "link": "https://news.cnblogs.com/n/725671/",
-          "publishedOn": "2022-07-31T10:27:00.000Z",
-          "wordCount": 161,
-          "title": "世界第4疯狂的科学家詹姆斯·洛夫洛克，在103岁生日那天去世了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725672/",
-          "author": null,
-          "description": "IT 之家 7 月 31 日消息，从之前的航拍图来看，特斯拉上海超级工厂出口的大部分车型都是 Model 3。 不过，@WuWa 最近在上海南港码头拍到的照片表明，上海超级工厂在本月完成最新一轮升级后已经在大量生产新车，目前南港码头可以看到了成千上万辆特斯拉等待装船前往欧洲。 他指出，就在几周前，上\n本文链接",
-          "link": "https://news.cnblogs.com/n/725672/",
-          "publishedOn": "2022-07-31T10:00:00.000Z",
-          "wordCount": 161,
-          "title": "特斯拉中国第三季度大量出口，上海码头堆满了 Model Y",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725670/",
-          "author": null,
-          "description": "记者 ｜ 司林威 7 月 26 日，据《彭博社》报道，知情人士爆料，美国证券交易委员会（SEC）正在调查 Coinbase，原因是该平台涉嫌为美国用户提供本应注册为证劵的代币交易。 消息爆出当日，Coinbase 股价闻声大跌，收盘时跌逾 21%，报 52.93 美元/股，创历史新低，上市仅一年余，\n本文链接",
-          "link": "https://news.cnblogs.com/n/725670/",
-          "publishedOn": "2022-07-31T08:50:00.000Z",
-          "wordCount": 161,
-          "title": "股价暴跌，投资人撤离，全球最合规的加密货币平台Coinbase怎么了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725669/",
-          "author": null,
-          "description": "7 月 30 日，俄罗斯国家航天集团总裁鲍里索夫表示，退出国际空间站项目与建设俄罗斯自己的空间站须同步进行。 鲍里索夫 30 日在“俄罗斯 24”电视台的节目中表示，结束国际空间站工作和启动俄罗斯空间站，这两项工作必须同步进行。他还澄清说，自己之前有关俄罗斯将在 2024 年之后退出国际空间站项目的\n本文链接",
-          "link": "https://news.cnblogs.com/n/725669/",
-          "publishedOn": "2022-07-31T08:40:00.000Z",
-          "wordCount": 161,
-          "title": "俄国家航天集团总裁：退出国际空间站与建设自己的空间站须同步进行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725661/",
-          "author": null,
-          "description": "本文来源：时代财经 作者：徐晓倩 、李婷 图源：图虫创意 一家美股上市公司“原地解散”，会掀起怎样的连锁反应？ 7 月 28 日，每日优鲜多个团队被传“原地解散”。人事在线告诉员工，即日起结束工作，拖欠的6、7 月份工资不知道何时能够发放，5 月份开始公司已申请社保缓缴，8 月份起需要员工自行处理社\n本文链接",
-          "link": "https://news.cnblogs.com/n/725661/",
-          "publishedOn": "2022-07-31T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "每日优鲜雪崩48小时：用户2万元储值卡打水漂，员工吐槽它像渣男",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725660/",
-          "author": null,
-          "description": "羿阁发自凹非寺量子位公众号 QbitAI 有没有空间感差的小伙伴，每次拿到乐高说明书都不知如何下手？ 这回，可以动的乐高说明书来了！ 清华姚班校友、斯坦福大学助理教授吴佳俊，带领团队研发了一项能把纸上的说明书转化为 3D 动画的技术，目前该论文已入选 2022 年计算机视觉顶会 ECCV。 看完效果\n本文链接",
-          "link": "https://news.cnblogs.com/n/725660/",
-          "publishedOn": "2022-07-30T14:45:00.000Z",
-          "wordCount": 161,
-          "title": "纸质说明书秒变3D动画，斯坦福大学吴佳俊最新研究,入选ECCV 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725659/",
-          "author": null,
-          "description": "新智元报道 编辑：David 好困 【新智元导读】Q2 财报业绩不佳，英特尔股价连续大跌，市值也被老对手 AMD 又一次超过，「芯片法案」都救不回投资者的信心了？ 周五，AMD 的市值（再次）超过了老对手英特尔。 当天 AMD 股票上涨超过3%，市值达到 1530 亿美元。英特尔则下跌近9%，周五交\n本文链接",
-          "link": "https://news.cnblogs.com/n/725659/",
-          "publishedOn": "2022-07-30T14:35:00.000Z",
-          "wordCount": 161,
-          "title": "AMD，Yes！市值再次超越英特尔：1531亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725658/",
-          "author": null,
-          "description": "十四年 Meta“老兵”的职场传奇 文｜Lianzi 编辑｜VickyXiao 来源：硅星人（ID：guixingren123） 本周，一个陌生的名字闯入了硅谷科技圈人的耳朵：Susan Li。 她的名字首先出现在 Meta CEO 扎克伯格的个人 Facebook 页面上。在这篇博文里，扎克伯格宣\n本文链接",
-          "link": "https://news.cnblogs.com/n/725658/",
-          "publishedOn": "2022-07-30T14:26:00.000Z",
-          "wordCount": 161,
-          "title": "Meta迎来会讲中文的CFO：冲破天花板的亚裔女性，14年Meta“老兵”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725657/",
-          "author": null,
-          "description": "利好出尽，亚马逊挑战不断。 天下网商 朱之丛 编辑 李丹超 北京时间 7 月 29 日凌晨，在线零售业巨头亚马逊发布 2022 年第二季度财报。 该季度，亚马逊总营收 1212 亿美元，相比去年同期增长 7.18%；净亏损 20 亿美元，而去年同期盈利 78 亿美元。 财报算不上漂亮，但在财报会上，\n本文链接",
-          "link": "https://news.cnblogs.com/n/725657/",
-          "publishedOn": "2022-07-30T14:18:00.000Z",
-          "wordCount": 161,
-          "title": "连续两季亏损，增长失速，这个市值万亿的电商巨头“卷”不动了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/725656/",
-          "author": null,
-          "description": "网易云音乐推出社交软件 MUS，想通过用户的听歌数据解析性格和爱好，来匹配同频共振的人。不过，有用户反馈，MUS 有点像探探，最抓眼球的仍是颜值。在 MUS 的下载推广界面，也赫然写着“高颜值、高学历”。 作者丨李楠 编辑丨雷彦鹏 来源/市界（ID：ishijie2018） 2013 年 11 月，\n本文链接",
-          "link": "https://news.cnblogs.com/n/725656/",
-          "publishedOn": "2022-07-30T14:10:00.000Z",
-          "wordCount": 161,
-          "title": "暴露音乐品味的社交，你愿意吗？",
-          "imageUrl": null
         }
       ]
     },
@@ -8828,6 +9018,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23215",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🌟 🐎 以小窥大：IO 卡顿探寻苹果文件系统\n@JonyFang：从一个用户反馈的不寻常的 I/O 卡顿入手，发现苹果 APFS 的一个严重 bug。结合问题场景分析问题，结合数据分析结果，发现苹果的文件操作存在的坑，并给出了相应建议。在日常缓存设计中，也需要留意相应的这些点。\n分析问题\n寻找关键堆栈\n构造必现代码\ndtrace 分析\nHopper 分析\n对比 HFS+\n结合已有数据分析，发现苹果的文件操作里存在的坑：\ntmp 在极端情况下可能会存在 >90G 的占用；\nWebKit 随机 + 群众的方式删除网络缓存极端情况下的问题；\nNSURLCache 在 diskCapacity 设置过大时存在的问题；\n密集删除文件导致 I/O 性能下降过快的问题；\n为了避免上述这些极端情况下会导致的 I/O 性能骤降，移动端 APP 也需要合理的设计存储结构。如需要分层管理文件，尽量不将单个文件夹或单个文件搞得过大，同时也需要定时清理临时缓存目录，来进一步优化存储空间占用和优化 I/O 效率。\n🌟 🐎 不改一行业务代码，飞书 iOS 低端机启动优化实践\n@Leo：在性能优化中，并发是一个常见的手段。但 CPU 核数是有限的，意味着同时能执行的线程数量也是固定的，不合理的并发一方面会带来线程频繁切换的开销，另一方面也会引起一些意料之外的抢占，导致主线程得不到执行。本文结合 Lark 在低端机上的实践，详细地讲解了线程 QoS 优化的原理，对性能优化很有参考意义。\n🐕 在 SwiftUI 中用 Text 实现图文混排\n@含笑饮砒霜：SwiftUI 提供了强大的布局能力，不过这些布局操作都是在视图…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23215",
+          "publishedOn": "2022-08-29T02:36:41.000Z",
+          "wordCount": 565,
+          "title": "老司机 iOS 周报 #215 | 2022-08-29",
+          "imageUrl": "https://opengraph.githubassets.com/4204249aa4fd17a8a88db7fc7544547405002295d6fd4e25899a95cc0b313a51/SwiftOldDriver/iOS-Weekly/releases/tag/%23215"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23214",
           "author": null,
