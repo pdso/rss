@@ -2,10 +2,350 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-02T01:59:07.003Z</updated>
+    <updated>2022-09-03T02:02:12.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高通CEO：元宇宙是互联网的未来，我们对它的理解只是冰山一角]]></title>
+        <id>https://news.cnblogs.com/n/727676/</id>
+        <link href="https://news.cnblogs.com/n/727676/"/>
+        <updated>2022-09-03T00:13:00.000Z</updated>
+        <summary type="html"><![CDATA[萧箫发自凹非寺 量子位公众号 QbitAI 高通又一次对元宇宙表态了。 就在今年世界人工智能大会上，高通公司总裁兼 CEO 安蒙再次谈及对元宇宙的看法，包括设立1 亿美元骁龙元宇宙基金，用来投资与元宇宙相关的企业：元宇宙是互联网的未来，我们目前对它的理解只是冰山一角 在这场演讲中，安蒙全面解读了当下
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一年的时间，这家上海芯片独角兽又给我们带来了什么惊喜？]]></title>
+        <id>https://news.cnblogs.com/n/727675/</id>
+        <link href="https://news.cnblogs.com/n/727675/"/>
+        <updated>2022-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 一年时间，对于一家芯片企业来说意味着什么？ 在去年的世界人工智能大会（WAIC 2021）中，一款中国最大 AI 芯片引发轰动。 它叫邃思 2.0，发布者是上海人工智能芯片独角兽——燧原科技。 与之一同“出道”的，还有基于这款芯片打造的一组云端 AI 训练
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国学童语数能力大幅下降]]></title>
+        <id>https://www.solidot.org/story?sid=72661</id>
+        <link href="https://www.solidot.org/story?sid=72661"/>
+        <updated>2022-09-02T14:58:26.000Z</updated>
+        <summary type="html"><![CDATA[根据美国国家教育进步评价体系的最新测试结果，新冠疫情导致九岁儿童的数学和阅读能力下降到 20 年前的水平，黑人学生下降相对更严重。这是自该系统从 1970 年代开始跟踪学生成绩以来，这一年龄段的学童数学成绩首次下滑，阅读方面的下降幅度也是 30 年来最大的。在数学方面，黑人学生减少 13 分，而白人学生是 5 分，两个群体之间的差距扩大了。学校关闭对低收入学生以及黑人和西裔学生影响更深远，部分原因是学校更可能在更长时间内远程教育。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[干细胞生成特定人类胚胎细胞]]></title>
+        <id>https://www.solidot.org/story?sid=72660</id>
+        <link href="https://www.solidot.org/story?sid=72660"/>
+        <updated>2022-09-02T14:50:13.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Cell Stem Cell》期刊上的一项研究，比利时鲁汶大学研究团队在实验室中使用干细胞生成了一种新型人类细胞。新细胞与早期人类胚胎中的天然细胞非常相似，有助于更好地研究胚胎植入子宫后会发生什么。鲁汶大学团队开发出第一个特定类型的人类胚胎细胞模型，即胚胎外中胚层细胞。这些细胞在胚胎中产生第一批血液，有助于将胚胎附着在未来的胎盘上，并在形成原始脐带方面发挥作用。研究人员表示，他们现在可研究在发育过程中通常无法企及的过程，该模型已使他们能够找出胚胎外中胚层细胞的来源。从长远来看，该模型也有望为生育、流产和发育障碍等医学挑战带来更多启示。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 扩展秘密跟踪浏览历史和植入跟踪代码]]></title>
+        <id>https://www.solidot.org/story?sid=72659</id>
+        <link href="https://www.solidot.org/story?sid=72659"/>
+        <updated>2022-09-02T14:40:08.000Z</updated>
+        <summary type="html"><![CDATA[在 McAfee 的安全研究人员报告之后，Google 从 Chrome Web Store 下架了五个扩展，总下载安装量逾 140 万次。这些扩展被指秘密跟踪用户浏览历史，并在访问特定电商网站时植入跟踪代码。被下架的扩展包括 Netflix 串流共享扩展 Netflix Party 和 Netflix Party 2，购物比价扩展 FlipShope，截屏扩展 Full Page Screenshot Capture，抢购扩展 AutoBuy。研究人员发现，这些扩展会将用户访问的网站名称，唯一标识符以及国家城市邮编等信息发送到 d.langhort.com。如果访问的电商网站与其列表匹配，扩展会植入 JS 代码，修改 cookies，让扩展开发者获得购物提成。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB4 v2 支持最高 80 Gbps 的数据传输]]></title>
+        <id>https://www.solidot.org/story?sid=72658</id>
+        <link href="https://www.solidot.org/story?sid=72658"/>
+        <updated>2022-09-02T14:07:25.000Z</updated>
+        <summary type="html"><![CDATA[USB 的命名方案日益令人感到糊涂。USB Promoter Group 宣布了 USB4 v2 标准，其数据传输率最高能达到 80 Gbps ，两倍于现有的 USB4 v1 标准——但有的 USB4 v1 只支持最高 20Gbps 而不是 40Gbps。原因是 USB Type-C 连接线与 USB 协议的其它规格是分开的，连接线可以相同，但支持的传输率并不相同。USB Type-C 支持的 USB 规格包括了 USB4 2.0、USB4 1.0、USB 3.2 Gen 2x2、USB 3.2 Gen 2、USB 3.2 Gen 1 或 USB 2.0，以及英特尔的 Thunderbolt 协议。英特尔在 2017 年宣布免除 Thunderbolt 3 的版税，将其捐给 USB Promoter Group，USB4 就是基于 Thunderbolt 3 协议。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用 AI 更新 MS-DOS 游戏图像]]></title>
+        <id>https://www.solidot.org/story?sid=72656</id>
+        <link href="https://www.solidot.org/story?sid=72656"/>
+        <updated>2022-09-02T11:08:17.000Z</updated>
+        <summary type="html"><![CDATA[最近开源的自然语言图像合成模型  Stable Diffusion 引发了社区和用户的浓厚兴趣。Stable Diffusion 的一大优势是能运行在单张显卡上，包括苹果的 M1 Mac GPU，因此普通用户也可以在本地使用，不需要上云端。利用 Stable Diffusion 一位名叫 frigis9 的网友更新了经典 MS-DOS 游戏的图像，将像素图变成细节非常丰富的图像，效果令人称奇。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub 将关闭 Trending 热榜，开发者不答应]]></title>
+        <id>https://news.cnblogs.com/n/727674/</id>
+        <link href="https://news.cnblogs.com/n/727674/"/>
+        <updated>2022-09-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[作者苏宓 出品 CSDN（ID：CSDNnews） 今天，当登录到 GitHub 上时，GitHub Trending 页面突然显示了这样一则通知： Heads up! This Trending tab is being deprecated. Due to low usage of Trendi
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyPI 发现活跃半年以上的供应链攻击]]></title>
+        <id>https://www.solidot.org/story?sid=72655</id>
+        <link href="https://www.solidot.org/story?sid=72655"/>
+        <updated>2022-09-02T10:54:10.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 SentinelOne 和 Checkmarx 的研究人员报告，Python 软件包仓库 PyPI 成为一起复杂供应链攻击的目标，至少两个合法软件包被成功植入了窃取凭证的恶意程序。攻击者向 Python 开发者发动钓鱼攻击，诱骗他们泄露登陆凭证，然后利用窃取的凭证推送软件包最新更新，其中植入了窃取凭证的恶意程序 JuiceStealer。JuiceStealer 使用 .NET 框架开发，它会搜索 Google Chrome 储存的密码，其活动始于 2021 年下半年。它一开始利用用户拼写错误的方法传播，之后开始利用供应链攻击扩散。PyPI 项目已经开始强制要求软件包维护者启动 2FA。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比尔盖茨竟然发明了个马桶，能把便便烧成灰的那种]]></title>
+        <id>https://news.cnblogs.com/n/727673/</id>
+        <link href="https://news.cnblogs.com/n/727673/"/>
+        <updated>2022-09-02T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Alex 发自凹非寺 量子位公众号 QbitAI （友情提示：祝愿点开这篇文章的你，此刻没有正在吃东西…） 比尔·盖茨竟然还对有着特别关注？ 这不，这位身价千亿的富豪亲自参与发明了一个马桶——一个能焚烧粪便的马桶。 “燃烧吧便便~” 这种排泄物处理方式听起来好刺激！ 不过，盖茨和三星高级技术研究所（
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature：搞研究英语不行？几款工具帮你改论文]]></title>
+        <id>https://news.cnblogs.com/n/727672/</id>
+        <link href="https://news.cnblogs.com/n/727672/"/>
+        <updated>2022-09-02T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：David 英语不行，怎么搞研究？作为科学研究领域的世界通用语言，英语的重要性不言而喻。Nature 介绍了几款小工具，对于英语非母语的研究人员来说，不妨试试。 当 Yanina Bellini Saibene 在阿根廷拉潘帕的国家农业技术研究所开始她的数据科学事业时，她的英语并不
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打破次元壁！古建筑竟可以「指导」AI研发，商汤再揭创新密码]]></title>
+        <id>https://news.cnblogs.com/n/727671/</id>
+        <link href="https://news.cnblogs.com/n/727671/"/>
+        <updated>2022-09-02T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[‍新智元报道 编辑：编辑部 商汤在《营造法式》中，发现了贯通古今的构造密码——标准化、模块化，而这，也正是 AI 如何落地的秘诀。 在 2022 世界人工智能大会上，商汤的展品让在场的人们感到深深的震撼。 在上海世博中心银厅外，由中央美术学院副院长、实验艺术学院院长邱志杰教授创作，结合商汤 AI+A
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个人正在TikTok想办法让人们相信他是AI]]></title>
+        <id>https://news.cnblogs.com/n/727670/</id>
+        <link href="https://news.cnblogs.com/n/727670/"/>
+        <updated>2022-09-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：武穆 科学家们正努力让 AI 看起来更像人，然而有人却想让别人以为他是 AI。 外国一位名叫 Curt Skelton 的小哥，从小就痴迷于视觉效果，花费数小时修补 Adobe After Effects CS3。 「我无法想象没有视觉效果的生活，」这位 22 岁的洛杉矶大学生和酒
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10岁男孩开灯睡觉骨龄发育慢4年上热搜，开灯睡觉都有什么危害？]]></title>
+        <id>https://news.cnblogs.com/n/727669/</id>
+        <link href="https://news.cnblogs.com/n/727669/"/>
+        <updated>2022-09-02T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[衡宇发自凹非寺 量子位公众号 QbitAI 连夜追完最新恐怖片，不敢关灯睡觉。 不知道你是否有过类似经历？ 最近，有小朋友因睡觉不关灯致骨龄发育慢，上了热搜。 这名来自郑州的 10 岁小患者，身高只有 1.1 米多点，看过去只有五、六岁。 经检查，医生发现他的骨龄发育比正常孩子慢了足足 4 年。 原
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来的增长点在哪里？三七互娱给出了这两个答案]]></title>
+        <id>https://news.cnblogs.com/n/727668/</id>
+        <link href="https://news.cnblogs.com/n/727668/"/>
+        <updated>2022-09-02T09:38:00.000Z</updated>
+        <summary type="html"><![CDATA[8 月 30 日晚间，三七互娱公布 2022 年上半年财报。财报显示，公司上半年营收 80.92 亿元，同比增长 7.34%；归属于上市公司股东的净利润 16.95 亿元，同比增长 98.56%。在中国游戏市场销售收入和用户规模双双下降的上半年，三七互娱交出这样的成绩单足够令市场满意。 8 月 31
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8月数据库排行榜：Oracle分数仍在狂跌！]]></title>
+        <id>https://news.cnblogs.com/n/727667/</id>
+        <link href="https://news.cnblogs.com/n/727667/"/>
+        <updated>2022-09-02T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[DB-Engines 数据库流行度排行榜发布了 9 月份的更新。 可以看到，Oracle 较 8 月减少了 22.54 分，是分数下降最多的数据库，并且连续三个月出现了迅猛下滑。分数上涨较多的则是 MySQL 和 MongoDB。 主流数据库的分数趋势变化： 看看各类型数据库的排名情况。 关系数据库
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[燃油车，还没到该淘汰的时候]]></title>
+        <id>https://news.cnblogs.com/n/727666/</id>
+        <link href="https://news.cnblogs.com/n/727666/"/>
+        <updated>2022-09-02T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[本文来自微信公众号：汽车产经（ID：autoreport），作者：Misfire，编辑：杨光，原文标题：《燃油车，不该“死”于政策汽车产经》，头图来自：视觉中国 看上去，燃油车马上就要被扫进历史的垃圾堆了。 在日前举办的世界新能源汽车大会上，长安汽车董事长朱华荣直言：“中国已经基本具备停止销售燃油车
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里推出”通义”大模型系列，核心模型开源开放，已应用于200多个场景]]></title>
+        <id>https://news.cnblogs.com/n/727665/</id>
+        <link href="https://news.cnblogs.com/n/727665/"/>
+        <updated>2022-09-02T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[智东西（公众号：zhidxcom） 作者 ZeR0 编辑漠影 智东西 9 月 2 日报道，在阿里巴巴达摩院今日主办的世界人工智能大会“大规模预训练模型”主题论坛上，达摩院副院长周靖人发布阿里巴巴最新“通义”大模型系列，并宣布相关核心模型向全球开发者开源开放。 面向大模型通用性与易用性仍欠缺的难题，通
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多抓鱼“低买高卖”：好东西值得买两次，“韭菜”值得“割”两次？]]></title>
+        <id>https://news.cnblogs.com/n/727664/</id>
+        <link href="https://news.cnblogs.com/n/727664/"/>
+        <updated>2022-09-02T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[图片来源：多抓鱼公众号 多抓鱼还能成为第二个“豆瓣”吗？ 撰文/黎炫岐 编辑/李觐麟 来源：锌刻度 五岁的多抓鱼，迎来了生长痛。 近日，多抓鱼以 75 元价格回收衣物，却以 629 元价格售卖的操作引发了争议。而一颗石子掀起千层浪，不少网友分享了自己在多抓鱼售卖二手服装和二手书的经历，并表示“越来越
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硅谷完全无人驾驶出租刚商用就撞了，2人受伤！调查结果更惊人：这种情况技术上无解]]></title>
+        <id>https://news.cnblogs.com/n/727663/</id>
+        <link href="https://news.cnblogs.com/n/727663/"/>
+        <updated>2022-09-02T08:42:00.000Z</updated>
+        <summary type="html"><![CDATA[文/邓思邈 来源：智能车参考（ID:AI4Auto) 通用 Cruise，美国率先开启无人驾驶出租车——主驾副驾都没人的那种——商业化运营，就撞了。 事故造成两人受伤，召回 80 辆进行软件升级。 事故调查结果也出炉了：Robotaxi 的无保护左转不好使。而且厂商也说了，这次事故的这种场景情况，自
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 年温室气体浓度和海平面高度创纪录]]></title>
+        <id>https://www.solidot.org/story?sid=72654</id>
+        <link href="https://www.solidot.org/story?sid=72654"/>
+        <updated>2022-09-02T08:31:45.000Z</updated>
+        <summary type="html"><![CDATA[美国国家海洋和大气管理局（NOAA）发布的《年度气候状况报告》（PDF）称，2021 年地球大气中温室气体浓度和海平面均创下新高，表明尽管人们在努力遏制温室气体排放，但气候变化趋势仍未减缓。NOAA 表示，2021年大气中温室气体浓度为 414.7ppm，比 2020 年高 2.3ppm。这一浓度“根据古气候记录，至少在过去 100 万年中是最高的”。此外，地球的海平面连续第十年上升，创下比 1993 年卫星测量开始时的平均水平高出 97 毫米的新纪录。报告称，去年是自 19 世纪中期有记录以来最热的 6 年之一，过去 7 年都是有记录以来最热的 7 年。2015 年签署的《巴黎气候协定》设定的目标是将全球变暖限制在比工业化前水平高 1.5℃，以避免气候变化的最坏影响，但从地球的现状来看，要实现这一目标还有很大难度。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌“彻底放飞”俄罗斯！允许Google Play俄罗斯地区应用接入三方支付]]></title>
+        <id>https://news.cnblogs.com/n/727662/</id>
+        <link href="https://news.cnblogs.com/n/727662/"/>
+        <updated>2022-09-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[GameLook 报道/据 Google Play 帮助中心显示，自今年 8 月 2 日起，谷歌将在俄罗斯和白俄罗斯区域移除“在 Google Play 发行的应用和游戏必须通过 Google Play 结算系统交易”这一限制。这意味着，今后俄罗斯地区的游戏开发者将可以在 Google Play 上
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软向Windows Server添加虚拟核心许可，引来亚马逊、谷歌等不满]]></title>
+        <id>https://news.cnblogs.com/n/727661/</id>
+        <link href="https://news.cnblogs.com/n/727661/"/>
+        <updated>2022-09-02T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[8 月 29 日，微软宣布将于 2022 年 10 月 1 日对其外包和托管条款进行重大修订和升级，最核心的变化是将引入新的 Windows Server 虚拟核心许可。微软称通过简化在云中使用微软软件的许可条款，全球合作伙伴和客户将从中受益。 “现在，Windows Server 是通过物理内核授
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跑路的加密货币交易所 Thodex CEO 被捕]]></title>
+        <id>https://www.solidot.org/story?sid=72653</id>
+        <link href="https://www.solidot.org/story?sid=72653"/>
+        <updated>2022-09-02T08:05:28.000Z</updated>
+        <summary type="html"><![CDATA[已倒闭的加密货币交易所 Thodex 创始人兼 CEO Faruk Fatih Ozer 在阿尔巴尼亚的 Vlore 市被捕。Thodex 是土耳其的交易所，在 Ozer 于 2021 年 4 月携款跑路之后土耳其对其发出了全球通缉令，他面临长达 40,564 年的监禁。Chainanalysis 的研究显示，2021 年全球加密货币行业在拉地毯骗局（Rug pull）中损失 28 亿美元，其中九成发生在 Thodex 交易所。Ozer 被认为卷走了价值 25 亿美元的加密货币。在 Thodex 案件中已有六人被捕，其中包括 Ozer 的家人，]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达再发声明：高端GPU已获得美国出口授权！]]></title>
+        <id>https://news.cnblogs.com/n/727660/</id>
+        <link href="https://news.cnblogs.com/n/727660/"/>
+        <updated>2022-09-02T08:05:00.000Z</updated>
+        <summary type="html"><![CDATA[芯东西（公众号：aichip001） 作者 ZeR0 编辑 漠影 芯东西 9 月 2 日报道，在美国芯片巨头英伟达被美国政府要求限制向中国出口顶级 AI 芯片的消息发酵一天后，昨晚，英伟达披露最新进展——已获得美国政府批准，可以在明年 3 月前继续向美国客户出口（到中国）的产品提供 A100，可以在
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌云 IoT Core 服务停止公告震惊社区和客户]]></title>
+        <id>https://news.cnblogs.com/n/727659/</id>
+        <link href="https://news.cnblogs.com/n/727659/"/>
+        <updated>2022-09-02T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[谷歌云 IoT Core 是一项全托管的服务，可以帮助客户快速、安全地连接、管理和摄取来自全球数百万个设备的数据。最近，谷歌宣布停止这项服务——文档显示，谷歌将于 2023 年 8 月 16 日停止这项服务。 谷歌于 2017 年发布了 IoT Core 的第一个公开测试版，作为其他云供应商 IoT
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 20.04.5 LTS 现已可用]]></title>
+        <id>https://news.cnblogs.com/n/727658/</id>
+        <link href="https://news.cnblogs.com/n/727658/"/>
+        <updated>2022-09-02T07:44:00.000Z</updated>
+        <summary type="html"><![CDATA[作为 Ubuntu 20.04 LTS 的第五个维护版本，Ubuntu 20.04.5 LTS 现已可下载。这个版本集合了自 2 月发布的 Ubuntu 20.04.4 LTS 以来的所有安全补丁、错误修复和应用程序更新，但是没有新功能。 没有新功能就意味着，如果你正在运行的就是 Ubuntu 20
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Code 1.71 发布]]></title>
+        <id>https://news.cnblogs.com/n/727657/</id>
+        <link href="https://news.cnblogs.com/n/727657/"/>
+        <updated>2022-09-02T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Code 1.71 现已发布，具体更新内容如下： 合并编辑器改进 - 文本和合并编辑器之间的转换更容易。 扩展的编解码器支持 - 帮助在 notebooks 和 webviews 中显示嵌入的音频和视频。 作为 VS Code 一部分提供的 FFmpeg 共享库以前只支持
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主要 VPN 服务商关闭印度服务器]]></title>
+        <id>https://www.solidot.org/story?sid=72652</id>
+        <link href="https://www.solidot.org/story?sid=72652"/>
+        <updated>2022-09-02T05:15:02.000Z</updated>
+        <summary type="html"><![CDATA[因印度的新网络安全规定，主要 VPN 服务商正在关闭位于印度的服务器。网络安全新规要求 VPS 提供商、云服务提供商、VPN 提供商、虚拟资产服务提供商、虚拟资产交易提供商、钱包提供商和政府组织将客户姓名、电子邮件地址、IP 地址、已知客户记录和金融交易存储五年。服务商需要在印度相关部门提出要求时提供这些信息。上述新规将于 9 月 25 日起实施。印度计算机紧急应变小组表示，这部新规对于打击网络犯罪、捍卫印度的主权或完整以及国家安全是必要的。但将退出印度市场的 VPN 服务商和互联网维权组织称，通过收集这些数据，这些公司会危及其用户的隐私并限制网上言论。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 向付费订阅用户提供编辑功能]]></title>
+        <id>https://www.solidot.org/story?sid=72651</id>
+        <link href="https://www.solidot.org/story?sid=72651"/>
+        <updated>2022-09-02T04:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Twitter 将向付费订阅用户提供编辑功能。允许用户编辑已发布帖子这一要求已经讨论了许多年，现在终于实现了。编辑按钮将首先提供给每月支付 4.99 美元的 Twitter Blue 订阅用户，它允许用户在推文发布 30 分钟内修改内容，被修改的推文将包含一个标签，用户点击标签将可以看到早期版本，这与维基类百科的做法类似。Twitter 官方博客表示该功能将在未来几周提供给 Twitter Blue 订户。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在发生车祸导致乘客受伤后 Cruise 召回了无人驾驶出租车]]></title>
+        <id>https://www.solidot.org/story?sid=72650</id>
+        <link href="https://www.solidot.org/story?sid=72650"/>
+        <updated>2022-09-02T03:48:05.000Z</updated>
+        <summary type="html"><![CDATA[通用旗下的无人驾驶汽车公司 Cruise 在发生车祸导致一位乘客受伤后召回了无人驾驶出租车。Cruise 前不久获得了完全无人驾驶出租车的商业服务许可，出租车的工作时间限制在晚上十点到凌晨六点之间。事故发生时无人驾驶出租车在十字路口左转然后停了下来，它猜测迎面而来的一辆汽车会转弯，结果是汽车迎面与出租车相撞。Cruise 称这辆汽车在限速 25 英里/时的车道上以大约 40 英里时速行驶，公司发言人拒绝发布车祸视频。该公司表示召回无人驾驶出租车是出于对公众透明的考虑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国挑战微软收购动视暴雪交易]]></title>
+        <id>https://www.solidot.org/story?sid=72649</id>
+        <link href="https://www.solidot.org/story?sid=72649"/>
+        <updated>2022-09-02T03:08:29.000Z</updated>
+        <summary type="html"><![CDATA[英国竞争监管机构表示，微软收购动视暴雪的计划可能会损害他们的竞争对手和游戏行业的新成员，这为这笔 750 亿美元交易的前景增添了不确定性。英国竞争和市场管理局(CMA)于今年 7 月对这笔收购交易展开调查，以判断它是否会削弱英国市场中的竞争。该监管机构周四发表公告，表示将给这两家公司五个工作日的时间，让它们提出承诺来解决其注意到的竞争问题。CMA 表示，如果届时仍不满意，调查将进入第二阶段，该阶段将涉及一个独立审查员小组。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[造车新势力8月交付量放榜：哪吒、零跑持续领跑 理想表现不理想]]></title>
         <id>https://news.cnblogs.com/n/727618/</id>
@@ -300,6 +640,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[待办软件 vs 日历软件，新手朋友应该如何选择？]]></title>
+        <id>https://sspai.com/post/75482</id>
+        <link href="https://sspai.com/post/75482"/>
+        <updated>2022-09-01T09:14:52.000Z</updated>
+        <summary type="html"><![CDATA[刚接触效率软件的朋友，经常会被两类软件弄混淆：
+一类是清单/待办/Todo类软件，比如知名的滴答清单、极简待办、Reminder（苹果系统自带的提醒事项）、Microsoft to do、Things3、Sorted3、Todoist等等。
+一类是日历类软件，比如苹果手机、华为手机系统自带的日历app，还有一些第三方的日历软件，比如Fantastical、Busycal、Google日历、Calendars等等。
+这两类都能可以记录待办事项，进行时间上的规划，比如它们都能实现像「周三出差」、「5月3日购物」这样的日程提醒，但是二者又有很多不同之处，比如界面上的差异、使用方法上的差异等等。如果用更专业的术语来形容，这两类软件的目标也有显著的差别，前者主要进行任务（Tasks）管理，后者主要进行日程或时间（Time）管理，侧重点是不一样的。
+这篇文章会从新手角度，聊一聊如何开启一段效率之旅。文章讲的内容比较浅显，一部分来自我这两年的探索，另一部分来自少数派友的分享。推荐大家读一读 @闲者时间_王掌柜君的文章（注意搜索之后选择「不限时间」，否则很容易错过早先的好文章），这篇文章也受到王掌柜 《术与道-聊聊我的时间管理》 这篇文章的启发，推荐大家阅读。
+概念梳理
+待办清单：侧重任务管理
+第一类待办软件，顾名思义，就是以处理等待办理的事情，核心功能落在要做的「事件」上。
+这类软件最简单的使用方法，就是在Inbox（收件箱）里输入一件待办事项。比如你想约几个老友抽空聚餐，只要在收件箱里记下这几个字，无需更多设置，等到你打开软件，看到这句话，就会起到提醒的作用。
+如果你想要把这件事情规划得更详细，也可以为它设置各种属性，比如确定时间（约好在下周三晚8点），也可以预设提醒（前一天21:00提醒你，以提前安排出行），还可以设置标签（放到 #生活 这个标签下）、优先级（高，毕竟老朋友难得聚一次…]]></summary>
+        <author>
+            <name>知道分子吴先先</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[杭州法院与抖音合作精准曝光失信被执行人]]></title>
         <id>https://www.solidot.org/story?sid=72644</id>
         <link href="https://www.solidot.org/story?sid=72644"/>
@@ -355,6 +714,42 @@ AirPort Express是苹果已经停产的路由器，它长得就像是一个MacBo
         <summary type="html"><![CDATA[ARM 起诉其重量级大客户高通，原因与高通收购的创业公司  Nuvia 开发的同名 CPU 有关。Nuvia 由苹果 iPhone 芯片前首席架构师等行业资深人士创办，设计服务器芯片，它从 ARM 公司获得了特别的架构许可证，允许设计定制的高端 AMR 兼容核心。2021 年高通以 14 亿美元收购 Nuvia。ARM 公司认为未经其许可授予 Nuvia 的许可证并不能转移和给与高通使用。2022 年初 ARM 公司终止了与 Nuvia 的许可证，要求高通公司摧毁和停止使用 Nuvia CPU 设计。它在诉讼中指控高通公司是实际上寻求绕过 ARM 的授权模式。高通则否认它违反了 ARM 的许可证。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这里有一个概念，或许可以让你更愿意做笔记]]></title>
+        <id>https://sspai.com/post/75451</id>
+        <link href="https://sspai.com/post/75451"/>
+        <updated>2022-09-01T06:35:02.000Z</updated>
+        <summary type="html"><![CDATA[写在正文之前
+
+我不希望你在没有判断的情况下全盘接受这篇文章的概念，所以请你在阅读的时候保持警觉。
+文章里会涉及大量概念，由于和平时的使用方式有很大区别又想要便于理解，我用「」做了区分，如果你不习惯，请谅解。
+另，最近住的地方开始降温了，我心情很好，希望你也有个好心情。
+
+概念的第一个特征，非均质性
+我想和你聊聊「概念」，准确地说，聊聊「概念」的两个特性。
+第一个是非均质性。鉴于这个词我平时不常用，我觉得你应该也不太熟悉它。那你可以这么理解——你无法用「是」来说明一个概念。或者更直白一些，你无法对一个概念下一个准确的定义。
+有些例子可以帮你理解这句话。你现在在脑子里随便选一个词，然后挑几本不同的字典查一下，或者网上找字典也可以。我作个假设，你大概会发现每本字典的解释都有一些差异，如果是纸质的字典，甚至同一字典不同的版本对同一个词的解释也有可能不一样。
+所以你觉得发生了什么事？明明是同一个词，为什么不同的字典会有不同的解释？
+或者我们可以举个更生活化的例子，包子。我不了解你的口味，但我猜你应该知道包子。于是，包子是什么？
+就我个人而言，这大概是早餐偶尔会吃的，在早餐店一般都有的，从蒸笼里拿出来的，圆圆白白的，松松软软的，里面有馅的那个东西。
+但是，你可能会有不同的意见。
+
+包子必须在早餐店里才有吗？自己在家做过包子的人肯定也不少吧？
+包子必须早餐吃吗？中午或者晚上甚至当零食解馋吃包子的人应该也有吧？
+包子必须是圆的吗？做得稍微长一点，稍微三角形一点也有吧？
+包子必须是白色的吗？黑麦包子应该也能找得到吧？
+
+所以，到最后你可能会不认同我的想法。那么，包子是什么？我找到了度娘给的包子的定义。
+
+包子，指用发面皮包馅蒸成的食品。
+
+这当然比我给出的答案要准确了不少，但我觉得还有「一点点」不准确。
+
+比如，你应该吃过一种生煎的包子吧？烤包子可能少一点，但也有，我还听说过油炸包子，虽然…]]></summary>
+        <author>
+            <name>悟啊悟啊</name>
         </author>
     </entry>
     <entry>
@@ -10346,522 +10741,6 @@ Chain毕竟早已是历史，这篇文章希望能在技术和哲学之间有一
         <link href="https://news.cnblogs.com/n/725954/"/>
         <updated>2022-08-04T14:10:00.000Z</updated>
         <summary type="html"><![CDATA[文锌财经，作者 孟会缘，编辑 陈邓新 这两天，“知识付费第一股”思维造物撤回 IPO 申请的消息在全网刷屏。在外界的惋惜和感叹声中，罗振宇发布的内部信却将这个不太好的消息定义为“一切都是最好的安排”。 同时，他还在内部信中透露，“过去一段时间，公司一方面在推进一场深度的组织变革；另一方面在进行艰难的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[短视频双雄To B：快手向左，抖音向右]]></title>
-        <id>https://news.cnblogs.com/n/725953/</id>
-        <link href="https://news.cnblogs.com/n/725953/"/>
-        <updated>2022-08-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文价值研究所 互联网巨头 To B 俨然成为行业新趋势，继腾讯、字节跳动之后，快手也加入了这个行列，计划成立独立业务部门“溪流湖”、发布全新产品 StreamLake。 快手加速 To B 并不令人意外，依托短视频市场的广告、直播等业务面临增长瓶颈是最主要的原因。数据显示，过去一年快手亏损高达 78
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从高端到中低端，蔚来苦寻出路]]></title>
-        <id>https://news.cnblogs.com/n/725952/</id>
-        <link href="https://news.cnblogs.com/n/725952/"/>
-        <updated>2022-08-04T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[文派财经，作者 辛有吉，编辑派公子 传闻许久的蔚来中低端品牌，又有了新进展。 日前，有媒体报道称，蔚来正计划推出第三个汽车品牌，用以覆盖 20 万元以下的中低端市场，消息称，第三品牌和蔚来、阿尔卑斯一样，都是独立运营，有独立的负责人和研发体系，目前正在招募核心团队。 在蔚来内部，三大品牌被视为丰田集
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[财报解读：PayPal收入超预期，不断下调指引成隐患]]></title>
-        <id>https://news.cnblogs.com/n/725951/</id>
-        <link href="https://news.cnblogs.com/n/725951/"/>
-        <updated>2022-08-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文美股研究社 PayPal 是数字支付行业的全球领导者。它的股价经历了一段艰难时期，过去 12 个月跌幅超过 60%。 PayPal 第二季度的财报显示出一些积极的因素，尤其是在净收入方面。然而，对股价产生负面影响的隐患犹存：全年收入指引再次下调，第三季度收入指引远低于分析师的预期。 然而，在 20
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GlobalFoundries 加入 Google 开源硅倡议]]></title>
-        <id>https://www.solidot.org/story?sid=72362</id>
-        <link href="https://www.solidot.org/story?sid=72362"/>
-        <updated>2022-08-04T11:49:10.000Z</updated>
-        <summary type="html"><![CDATA[仅次于台积电、三星电子及联电的全球第四大晶圆代工公司 GlobalFoundries 加入了 Google 开源硅倡议，在 Apache 2.0 许可证下公开它的 180MCU 技术平台的 Process Design Kit(PDK) 。180nm 制程是成熟技术，但此类芯片仍然广泛使用。目前全球 180nm 制程晶圆的年产量超过 1600 万片，GlobalFoundries 预计到 2026 年将超过 2200 万片。180nm 芯片的应用范围包括电机控制器、RFID、通用 MCU 和 PMIC、物联网传感器、双频 RFID和电机驱动等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里巴巴2023财年第一季度营收2055.6亿元，同比下滑1%]]></title>
-        <id>https://news.cnblogs.com/n/725948/</id>
-        <link href="https://news.cnblogs.com/n/725948/"/>
-        <updated>2022-08-04T11:27:12.000Z</updated>
-        <summary type="html"><![CDATA[新浪科技讯，北京时间 8 月 4 日晚间消息，阿里巴巴（NYSE:BABA；HK:09988）今日发布了截至 2022 年 6 月 30 日的 2023 财年第一季度及全年财报（注：阿里巴巴财年与自然年不同步，从每年的 4 月 1 日开始，至第二年的 3 月 31 日结束）。财报显示，阿里巴巴第一季
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市漫步指南（半份）｜愿您在合肥找到「平静」]]></title>
-        <id>https://sspai.com/post/74998</id>
-        <link href="https://sspai.com/post/74998"/>
-        <updated>2022-08-04T11:13:34.000Z</updated>
-        <summary type="html"><![CDATA[前言
-南京自古以来都是「国家历史文化名城」，高铁通车以后，南京更是来自安徽的朋友们求学、工作的热门目的地，所以南京又有了「徽京」这一玩味的美誉。想必这也是我经常被问及：「你当初为什么选择去合肥而不是南京」这一问题的主要原因。
-或许比起南京这样能够轻松勾起读者画面感的城市而言，合肥的存在感就低得多了。想必若非特殊的原因的话，假期出游或者是计划一场旅行，大家一般不会首选这样「少有话题性」城市作为目的地。
-城市通勤，总能收到来自合肥地铁三号线的「祝福」
-在合肥工作生活的一年半，我也从未踏足徽州诸如黄山、淮南、芜湖（此处应有感叹号）等地的风景名胜，也没走过合肥热门的包公园、步行街、逍遥津、合柴1972；而是乘着地铁、骑着小车走遍了合肥市不少算得上人迹罕至的角落。写到最后发现比起城市景观和风光，合肥最美的还是人和事儿；若您到访合肥，不妨轻装而行，感受这些小地方的「方寸之间，自有天地」。
-但如果您准备启程前往合肥工作或求学，那恭喜你来到了可能是「最美的」城市，如标题所说的：
-
-愿您在合肥找到「平静」。
-
-在合肥：「不游山，不玩水」
-大蜀山下｜烧烧香、钓钓鱼
-爬「大蜀山」似乎是属于热爱运动的合肥朋友们，周末相约的日常。但本就不爱运动，又迷恋那什么疯狂星期四的朋友们，或许会选择一些相对柔和的方式寻访大蜀山。
-烧香的时候，南山寺的大师傅有说最好不要正面拍菩萨，所以这是网图。
-位于大蜀山脚下的开福禅寺，是公交和地铁能够轻松到达的位置，随着2001年市政府在毁于日军侵华战火的遗址中重建以来，开福寺一直燃着本地居民「期盼平安」的香火。虽说是依山而建，开福寺对于膝盖和肥宅（指我自己）还算友好，从大门走到最高处的主殿也不过是爬七八层楼的高度。
-票价不过20元，不过都会顺手买上几炷平安香。
-我算不上信佛，但是会双手合十迈过寺庙的门槛，以及每个月领了工资都会去烧上一炷香。人未必要相信宗教，但得有除了「财务…]]></summary>
-        <author>
-            <name>朴步成</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 开始将 Duo 变成 Meet]]></title>
-        <id>https://www.solidot.org/story?sid=72361</id>
-        <link href="https://www.solidot.org/story?sid=72361"/>
-        <updated>2022-08-04T11:07:51.000Z</updated>
-        <summary type="html"><![CDATA[Google 今年 6 月宣布合并 Duo 和 Meet 为单一平台，以后只有 Meet 没有 Duo，Duo 的所有功能会整合到 Meet 上。Duo 和 Meet 都是视频通话应用，但前者更倾向于一对一视频通话，而后者则是更多类似 Zoom 的视频会议和群聊应用。Duo 拥有很多 Meet 没有的功能，它可以使用电话号码直接打电话给某个人，它更类似于苹果的 FaceTime。从本周三开始 Google 推送更新将 Duo logo 变成 Meet 的图标。从 9 月份开始，下载 Google Meet app 将获得 Meet 和 Duo 的组合功能。未来几个月  duo.google.com 将重定向到 meet.google.com/calling。但 Googe 在继续让用户感到困惑，旧的  Meet app 更名为 Meet Original 并最终淘汰，新的 Google Meet 其实源自 Duo app。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登特别助理吴修铭即将离职]]></title>
-        <id>https://www.solidot.org/story?sid=72360</id>
-        <link href="https://www.solidot.org/story?sid=72360"/>
-        <updated>2022-08-04T10:35:52.000Z</updated>
-        <summary type="html"><![CDATA[哥伦比亚大学法学院教授、网络中立一词的提出者吴修铭(Tim Wu)去年被美国总统拜登任命为白宫国家经济委员会科技和竞争政策总统特别助理。彭博社援引知情人士的消息报道吴修铭即将在数个月内离职。他预计将重返哥伦比亚大学从事反垄断法律相关的工作。他是过去一年拜登政府加强反垄断促进竞争的一系列行政命令的主要架构师。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用好这几个工具，帮助你更高效地完成学术型小组作业]]></title>
-        <id>https://sspai.com/post/74853</id>
-        <link href="https://sspai.com/post/74853"/>
-        <updated>2022-08-04T10:35:31.000Z</updated>
-        <summary type="html"><![CDATA[本文参与数字文具盒征文活动。
-学术生活苦海无涯，难免会遇到几个小组作业，比如：撰写一篇综述、进行一次汇报（Pre）等。在当今疫情的背景下，小组作业也大多以线上的形式开展。收集资料、小组讨论、头脑风暴、论文撰写......在多次合作中，我尝试了多种工具并构建了自己的小组作业工作流。
-从资料收集到论文撰写，下面这些工具覆盖了小组合作的全流程。用好这些工具，也许能够让小组合作的过程事半功倍。
-资料收集
-Zotero 群组文库：一起搭建文献库
-无论是做汇报还是写综述，论文的收集和阅读往往是极为重要的一环。一个共享的文献库可以让资料收集的过程效率更高，并且在后续论文写作中也会更加方便。例如：在使用 Better BibTeX 插件来快速引用论文时，所有人的 Citation Key 都会保持一致，以免出现由于 Key 不一致导致的同一篇文献被多次重复引用的问题。
-Zotero 是一款被广泛使用的文献管理软件。Zotero 除了最为常见的个人文库之外，还提供了群组文库功能。它的使用与普通的个人文库用法几乎完全一致，你在文库中做的任何修改都会被实时同步到其他人的设备上。
-Zotero 群组文库功能
-创建一个共享文库也十分简单。只需要前往 Zotero 官网 就可以新建一个群组。在新建完成后，只需要输入其他用户的 Zotero 账户邮箱即可发送邀请。
-新建 Zotero 群组文库
-easyScholor：文献期刊等级查询
-为了保证参考文献的质量，老师有时会要求作业中所引用的论文需要达到一定的标准，例如必须是 SCI/EI 收录等。并且，不同学校对期刊的认定标准还可能不同。为了保证所有人在收集的文献都符合要求，可以尝试使用 easyScholor 这款浏览器插件。
-easyScholor 是一款浏览器插件，可以在知网、Google Scholar、Web of Science 等网站上显示文…]]></summary>
-        <author>
-            <name>小镇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印尼解除对部分在线服务的封锁]]></title>
-        <id>https://www.solidot.org/story?sid=72359</id>
-        <link href="https://www.solidot.org/story?sid=72359"/>
-        <updated>2022-08-04T10:25:44.000Z</updated>
-        <summary type="html"><![CDATA[印尼上月底封锁了大量在线服务，原因是它最近通过一项规定，要求在印尼提供服务的外国科技公司必须在通信信息技术部注册，方便它要求对方披露用户数据和移除被认为扰乱治安的内容。遵守该规定的截至日期是 7 月 20 日，到 7 月底印尼对没有注册的外国网站实施全面封杀。受影响的包括了用户数量庞大的游戏平台和在线服务，包括但不限于 Steam、Epic、Origin、PayPal、Yahoo 和 Ubisoft。此事招致了广泛的批评，印尼通信信息技术部为此道歉，但强调规定必须执行。目前 Steam 已经恢复访问，但其它平台如 Epic 仍然无法访问。Facebook 母公司 Meta、Google、Spotify、Netflix 和 TikTok 据报道都已经注册。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电警告全世界都可能是输家]]></title>
-        <id>https://www.solidot.org/story?sid=72358</id>
-        <link href="https://www.solidot.org/story?sid=72358"/>
-        <updated>2022-08-04T09:48:14.000Z</updated>
-        <summary type="html"><![CDATA[台积电董事长刘德音接受 CNN 采访时表示一旦爆发冲突全世界都是输家。刘德音表示，“芯片厂是一个非常复杂的厂房作业流程，与外界连动是非常即时性的，包括与美国、日本客户及供应商等，包括原材料、化学材料、软体、工程等等，是集结所有人的力量，使台积电的厂房运作是可操作的。因此，一旦用武力，就会使台积电无法运作。台湾已经组建了一个完整的半导体生态系统，搬迁台积电厂房不是说不太可能，而是非常困难，因为你需要整个生态系统才能正常和高效的运转。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闲鱼“接盘”温州皮革厂]]></title>
-        <id>https://news.cnblogs.com/n/725950/</id>
-        <link href="https://news.cnblogs.com/n/725950/"/>
-        <updated>2022-08-04T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[文 新摘商业评论，作者赫里 提到洗脑神曲，《江南皮革厂》必然在列。 2015 年，祖国大江南北无人能逃《江南皮革厂》的魔性洗脑：“浙江温州，浙江温州，最大皮革厂，江南皮革厂倒闭了！” 温州凭借此曲一举“出圈“，让全国人民牢牢记住了跑路不忘带上小姨子的温州老板和通通 20 块的温州真皮皮革。也是从这一
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元宇宙的淘金们，该醒醒了]]></title>
-        <id>https://news.cnblogs.com/n/725949/</id>
-        <link href="https://news.cnblogs.com/n/725949/"/>
-        <updated>2022-08-04T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[图片来源@视觉中国 文新眸，作者叶静，编辑桑明强 “元宇宙不是对互联网的彻底变革。”上个月《时代》杂志发布了一篇封面文章《元宇宙将改变世界》，作者 Matthew Ball 指出，尽管当下人们还没有搞清楚元宇宙对社会究竟意味着什么，科技巨头们对它也尚未形成统一的共识，但他仍然认为，未来掌握元宇宙的公
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模因股票 AMTD Digital 上市三周市值超过高盛]]></title>
-        <id>https://www.solidot.org/story?sid=72357</id>
-        <link href="https://www.solidot.org/story?sid=72357"/>
-        <updated>2022-08-04T07:35:56.000Z</updated>
-        <summary type="html"><![CDATA[模因股票 AMTD Digital 的股价过去几天就像曾经的比特币币值那样暴涨暴跌。AMTD Digital 总部位于香港，从事数字金融服务，纽约上市不到三周。本周一它的股价不到 400 美元，周二开盘接近 800 美元，下午一点达到 2550 美元，市值逾 3100 亿美元，超过了美银、摩根士丹利和高盛等知名金融公司，次于摩根大通和伯克希尔哈撒韦。周三它跌至了 1100 美元，市值也大幅缩水。这种程度的大起大伏令当年的模因股票 GameStop 相形见绌。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家“复活”死猪器官细胞]]></title>
-        <id>https://www.solidot.org/story?sid=72356</id>
-        <link href="https://www.solidot.org/story?sid=72356"/>
-        <updated>2022-08-04T07:13:40.000Z</updated>
-        <summary type="html"><![CDATA[实验室里的猪已死了一小时，其体内没有血液循环，没有心脏跳动，没有脑电波。然后耶鲁大学的研究人员用类似心肺机的设备将特定溶液泵入死猪体内，“复活”了死亡的细胞。研究报告发表在《自然》期刊上。
-
-当哺乳动物的血流停止，氧和营养循环的缺乏会引发一连串事件，导致细胞死亡和器官损伤。虽然保存组织、促进恢复的方法可以在单独器官中实现，但把这些干预手段扩展到全身水平已被证明很有难度。耶鲁大学研究团队调整了一种名为 BrainEx 的技术，以应用于大型哺乳动物全身，该技术此前已显示出可以在猪死亡后数小时恢复一些大脑功能。新升级的系统名为 OrganEx，与循环系统相连，泵入液体中所含的因子能抵消血流停止导致的破坏性代谢物和电解质失衡。研究团队指出，还需要进一步探索和开发才能深入了解 OrganEx 帮助在死后恢复细胞或中断的血液循环的潜力。他们总结说，这些发现强调了一个过去未能充分认识的哺乳动物身体的能力，即在血流中断后可以部分恢复，这可以增加移植器官的可利用性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROG 幻 16 深度体验和对未来的预测]]></title>
-        <id>https://sspai.com/post/74341</id>
-        <link href="https://sspai.com/post/74341"/>
-        <updated>2022-08-04T07:04:48.000Z</updated>
-        <summary type="html"><![CDATA[我上台笔记本是款厚重的游戏本，光适配器就有四斤多，你可以从下图联想出本体的分量
-330W 适配器，135W 拯救者 PD 适配器，MX Anywhere 3
-工作日丢办公室，周末带回去，出门也有公用电脑，用着倒也还行。年初家里宽带升级，抱着电脑楼上楼下测速，便携性差这一劣势大大展现出来了，再看到 Intel 12 代酷睿性能提升巨大，所以换掉这台“便携式台式机 ”，选一台“便携式笔记本”，一番对比后选择了幻 16 。
-日常使用体验
-我选购的是 i9-12900H + RTX 3080Ti 顶配版本，使用了三个月中有失望也有惊喜。幻 16 机身黑色比较低调，整机 2.0 KG，对比 ThinkBook 16 的 1.8 KG 稍重，比 MacBook 16 的 2.1 KG 稍轻，久经考验如我自然觉得轻的不行。幻 16 的游戏元素较少，加上之后的性能表现，它更像全能本而不是游戏本。
-
-幻 16 搭载一块 2560 * 1600 165 Hz 高刷新率屏幕，屏幕顶部有 IR 红外摄像头，支持 Windows Hello 面部识别，无论白天黑夜都可以快速识别进入桌面，幻 16 也可以单手开合，这些配合 新型待机（Modern Standby1）体验相当好，开盖唤醒解锁一气呵成，可以媲美 iPhone ，比起俺游戏本要从休眠中再唤醒不知道高到哪里去。
-手机拍出的红外光还蛮酷炫
-屏幕显示效果也不错，如果分辨率再高些就更好了，那样能开 200% 缩放获得更好显示效果。幻 16 在日常使用还是相当静音安静的，键盘手感不错，而且触摸板面积很大堪可一用，配备了 90 Wh 的大电池续航还可以，在 4~6 小时间。
-左侧雷电接口和 Type-C 接口均支持 100W PD，视频输出方面 HDMI 和标有 DP 的 Type-C 接口独显直连，必须关闭集显模式才能输出画面，雷电接口由核显输出画面…]]></summary>
-        <author>
-            <name>noahhhh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[费兰特解答了我写作时会遭遇的困惑？]]></title>
-        <id>https://sspai.com/post/74982</id>
-        <link href="https://sspai.com/post/74982"/>
-        <updated>2022-08-04T07:02:56.000Z</updated>
-        <summary type="html"><![CDATA[当一个作家在书写「写作」时，无论 TA 是有心还是无意，关于写作的一切都会被暴露。寻着蛛丝马迹，你可以在文章里找到同样困扰自己的问题，有心的读者或许还就能在字里行间里找到自己的答案。
-我一直对作家的对话访谈录更感兴趣。它们犹如窥视镜，让我管中窥豹「到底何为作家般的生活」？ TA 们的生活，是只有阅读和写作吗？TA 们描述的故事如此精彩，那故事之外的故事又是什么样的？
-埃莱娜·费兰特是一位几乎不抛头露面的作家。除了必要的文学作品，她对表达自己的态度和观点相当吝啬。她是毛姆的另一个极端。我对她的兴趣始于《碎片》，但《碎片》未能完全喂食我的好奇。所以《偶然的创造》发表之后，我再一次让自己掉入了她的世界。不过这一次，我想知道的问题很明确：费兰特的写作，是什么样的？
- 为什么是写作？
-写作，对于一个作家来说是什么？华莱士会把它描述为「瘾」，没有这个出口，身心的某处机能就会出现故障。这种瘾在费兰特这儿，被描述为「必要的写作」：出版可以延缓，但写作刻不容缓。想写作的人一定要写作。1
-如果给写作这事儿做 SWOT 分析的话，费兰特的四象限里，弊那一栏几乎可以填满：害怕交稿；害怕要在不想写的情况下写作；害怕写出的文章冒犯到读者；害怕作品没有尽善尽美就草草收场；害怕失去信心；害怕放弃。但其他三栏，费兰特只列了一条：好奇心。最后我的好奇心占了上风。2
-有没有觉得似曾相识？同样的事《老友记》里的 Ross 也做过，他在 Rachel 和 Jolie 之间摇摆不定，他列出了一长串 Rachel 的毛病，但最后优点他也只列了一条：因为她是 Rachel。纵使写作有千万种让你惧怕的理由，但你还是会选择它，因为它是写作。写作后的喜悦冲散了发表的焦虑不安。3
-如果写作仅仅是因为必要，那这个理由未免有点牵强，尤其对大多数普通的你我而言。在成为自由撰稿人之后，我深刻的体会到规律写作之必要。但不客气的说，写作是一…]]></summary>
-        <author>
-            <name>樋口不一叶</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何搭建自己的全链路知识系统]]></title>
-        <id>https://sspai.com/post/74992</id>
-        <link href="https://sspai.com/post/74992"/>
-        <updated>2022-08-04T05:21:35.000Z</updated>
-        <summary type="html"><![CDATA[本文参与数字文具盒征文活动。
-
-我是一名大二在读的本科生，经过大学一年的摸索，自认为对知识管理方面有一定的心得，想和各位分享一下。首先讲一下我的使用知识管理软件的理念：
-
-不盲目追求all in one，专业的事要交给专业软件去做。
-好的软件应该有助于思维方式的培养，而不是束缚自己的思考。
-
-我将这个系统分为输入-暂存-整理-输出四部分，涵盖了知识的获取到内化的全流程，每个流程我基本都使用了不同的工具，思维导图如下。
-
- 
-一、知识输入
-在信息爆炸的互联网时代，我们最不缺的就是信息，如何寻找到有用的信息便成为了关键，下面先罗列几个我平常获取知识的方式
-实体书籍
-我曾在网课期间有一段时间强迫自己进行完全电子化的学习，但我始终无法适应，来来回回看各种教程，折腾各类笔记软件也费时费力，于是我还是买来了纸质的课本和笔记本。对于我来说，实体书籍在我的学习中仍然占有很大一部分，简单快捷的体验可以让我更加专注于书中的内容。看到想要摘录的内容时我会手打到Flomo中，进行一个初步的提炼，也可以加深印象。虽然是分享数字文具盒，但我还是要提醒大家，不要盲目迷恋数字技术，有时回归实体也不失为一个好方法。
-论文期刊网站
-刚步入大学时我还没有查论文期刊的习惯，有啥新碰到的专业术语还是第一时间去查百度，得到的结果往往不知所云，有时还有很多纰漏。作为在校大学生，一般都是可以免费访问学校购买过的知网、维普、百度学术等网站的论文资源的，国外的论文也可以查谷歌学术和Sci-Hub，这些都比百度搜索出来的结果靠谱的多。
-关于学术搜索有一个技巧，就是多使用「高级搜索」功能，可以找到更加准确的结果。有时你想搜索的一个定理可能不包含在论文标题中，这时在高级搜索中使用关键词搜索就会更容易检索到。以知网为例：
-
-我想要搜索热传导当中一个叫「傅里叶定律」的东西，但直接在主题中搜索，结果太少，于是我在高级搜索中在左边选择关键…]]></summary>
-        <author>
-            <name>流风回雪Richard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技巨头意外成为乌克兰对抗俄罗斯的武器]]></title>
-        <id>https://www.solidot.org/story?sid=72355</id>
-        <link href="https://www.solidot.org/story?sid=72355"/>
-        <updated>2022-08-04T05:00:33.000Z</updated>
-        <summary type="html"><![CDATA[科技巨头意外成为乌克兰对抗俄罗斯的武器。乌克兰在今年 2 月通过了一项法律，允许私营的云服务供应商在乌克兰境外托管政府数据，随后乌克兰与亚马逊 AWS、微软、甲骨文和 Google 签订了合同。乌克兰数字转型部部长 Mykhailo Fedorov 说，数日后俄罗斯入侵乌克兰，一枚导弹摧毁了基辅一个储存信息的数据中心。他说，所有的数据备份都已被转移到其他欧洲国家，没有造成任何损失。在俄罗斯入侵乌克兰后的几天里，AWS 使用多个名为 Snowball 的手提箱大小的存储设备，快速下载和备份了从土地登记到税务记录等乌克兰政府数据，并将其送往安全之处，然后上传到云端。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年高温天气为 61 年以来最多]]></title>
-        <id>https://www.solidot.org/story?sid=72354</id>
-        <link href="https://www.solidot.org/story?sid=72354"/>
-        <updated>2022-08-04T04:56:08.000Z</updated>
-        <summary type="html"><![CDATA[截至目前，全国平均高温日数 8.7 ，较常年同期偏多 3.6 天，为 1961 年以来历史同期最多。国家气候中心副主任肖潺周三在新闻发布会上表示，受高温影响，浙江、上海等南方多地用电创历史新高，浙江、江苏、四川等地多人确诊热射病。受温高雨少影响，西南地区东部和南部、西北地区东部、华中和华东部分地区出现中度及以上气象干旱。据介绍，截至 7 月 31 日，华东中南部、华中西北部和东南部、西南部分地区和华南西部等多地中到重度气象干旱露头并发展，内蒙古中东部、新疆和西藏中东部地区气象干旱持续。预计 8月全国大部地区气温接近常年同期到偏高。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消费降级生活不降级，我的 1688 购物心得]]></title>
-        <id>https://sspai.com/post/74991</id>
-        <link href="https://sspai.com/post/74991"/>
-        <updated>2022-08-04T04:04:19.000Z</updated>
-        <summary type="html"><![CDATA[经济独立后，我很快发现自己之前的消费方式需要调整。
-我之前买东西几乎没有计划，大部分是偶发性的，也有很多冲动购买。其次，我对价格有些不敏感，总觉得平台上是这个价格那就这样吧；对很多产品的质量也没有概念，常常不知道该从何判断。比如买水果，我都是让商家随机装一些就过秤拿走。我也很少考虑买东西之后的处置行为，比如多久该把东西淘汰，日用品一般要屯多久等等。
-我逐渐觉得，我应该花些心思调整自己的生活和消费——我需要一个能让我在「重复购买」「快速更迭」的商品上省钱，可以为生活长远算计的在线平台。1688 就这样进入了我的视野。
-1688 建立的初衷是为批发商或者商户找到合适的生产商，由于平台允许商户购买样品，所以个人消费者也可以在 1688 上进行购买。在 1688 平台进行了大半年采买后，我想和大家分享一下我的购物体验和购物感受，也欢迎各位朋友分享你的「批发」心得。
-本文分享的所有产品和卖家均是来自于自己及朋友购买经历，不含有任何广告或者宣传。
-在 1688 购物的原因
-在 1688 购物主要就是为了两方面：规划预算省钱，适量囤货日用。1688 正好在这两点都是强项。
-各大社交平台都有博主提过，同款的产品，其他购物平台基本价格一致，而 1688 上可以便宜一半甚至是更多。因为 1688 上的卖方是生产商，少了很多分销渠道的成本和加价。这也是为什么 1688 会有很多东西便宜到让人惊讶的原因，毕竟「要批发，上 1688」。
-举个例子，我在南方经常要用的除湿袋，在 1688 上的价格是 0.7 元一包，购买超过 250 包，会便宜到 0.68 元。而在当地超市买到的同款至少一包 2 元，有些网购平台甚至要 5 元一包。
-这是我楼下超市卖的同款，非常好用，五块钱一包。
-偶尔一包可能价格差距不大，但这种除湿袋我每年都会用掉很多，累计起来就不在少数了，带上全寝室批发则开销更大。类似的还有袜子、…]]></summary>
-        <author>
-            <name>Sharon大橘子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[儿时有富有朋友长大后更有可能高薪]]></title>
-        <id>https://www.solidot.org/story?sid=72353</id>
-        <link href="https://www.solidot.org/story?sid=72353"/>
-        <updated>2022-08-04T04:00:20.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项研究，低收入家庭的儿童如果能交到高收入家庭的朋友，那么他们在成年后比没有多少类似朋友的人更可能获得高薪。个人的社会资本、社会网络和所生活的社区被认为对摆脱贫困有相当大的影响。为了验证这一猜想，哈佛大学的研究人员分析了 7220 万 25-44 岁美国人口的匿名 Facebook 数据，这一数据具有相当的代表性，占到了全美这一年龄段人口的 84%。研究团队使用机器学习算法识别一个人的社会经济地位，综合了生活在同一地区的居民收入中位数、年龄和性别等数据。他们发现家庭收入中位数约 58,000 美元。研究人员随后将分析对象分成两组，一组低于中位数，一组高于中位数。如果朋友是随机交上的，那么两组应该是均分。但分析显示，低于中位数的人更可能交低于中位数的朋友，而高于中位数的人更可能交高于中位数的朋友（比例高达 70.6%）。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新西兰发布气候适应计划]]></title>
-        <id>https://www.solidot.org/story?sid=72352</id>
-        <link href="https://www.solidot.org/story?sid=72352"/>
-        <updated>2022-08-04T02:52:13.000Z</updated>
-        <summary type="html"><![CDATA[新西兰政府发布首个气候适应计划，其中包括可能将部分社区迁往到高地。新西兰气候变化部长表示，新西兰约有 7 万座沿海房屋面临海平面上升的风险，还有更多内陆房屋面临河水泛滥的风险。气候适应计划包括将低洼房屋和资产搬迁的可能性，但这份长达近 200 页的六年计划没有说明相关费用由谁来负担。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴雪和网易取消开发《魔兽世界》手游]]></title>
-        <id>https://www.solidot.org/story?sid=72351</id>
-        <link href="https://www.solidot.org/story?sid=72351"/>
-        <updated>2022-08-04T02:35:45.000Z</updated>
-        <summary type="html"><![CDATA[暴雪和网易取消了已开发三年的《魔兽世界》手游。网易还解散了逾百人的开发团队，只有少数人获得内部调动。取消该项目的原因是两家公司在条款上存在分歧。魔兽手游项目代号为 Neptune，为一款 MMORPG，设定发生在《魔兽世界》相同的宇宙但不同的时间。网易此前为暴雪开发了暗黑手游。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于 Isogeny 的抗量子加密算法被单核计算机一小时破解]]></title>
-        <id>https://www.solidot.org/story?sid=72350</id>
-        <link href="https://www.solidot.org/story?sid=72350"/>
-        <updated>2022-08-04T02:16:56.000Z</updated>
-        <summary type="html"><![CDATA[美国国家标准技术局（NIST）最近宣布了后量子加密和签名算法竞赛的首批获胜者，一共四种，其中三种是基于格的算法，还有一种是基于哈希的算法。进入第四轮竞赛的一种基于 Isogeny 的抗量子加密候选算法被单核计算机一小时破解还是凸显了下一代加密算法标准化相关的风险。遭到攻击的是名叫 SIKE——代表 Supersingular Isogeny Key Encapsulation——的算法，被鲁汶大学的一个团队破解。研究人员发表论文《An Efficient Key Recovery Attack on SIDH (Preliminary Version)》，描述了对其的攻击。SIKE 的基础协议是 SIDH（Supersingular Isogeny Diffie-Hellman），研究人员利用了数学家  Ernst Kani 开发的 glue-and-split 理论和 Everett W. Howe 等人设计的工具，在一台单核计算机上耗时一个小时获取了 SIKE 使用的加密密钥。SIKE 的联合发明人 David Jao 承认出乎意料。这一攻击是否适用于其它基于 Isogeny 的算法？数学家 Stephen Galbraith 指出这一攻击是专门针对的 SIKE，不适用其它 Isogeny 算法如 CSIDH 或 SQISign。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这是Instagram最失败、最短命的一次尝试]]></title>
-        <id>https://news.cnblogs.com/n/725904/</id>
-        <link href="https://news.cnblogs.com/n/725904/"/>
-        <updated>2022-08-04T01:17:00.000Z</updated>
-        <summary type="html"><![CDATA[从一个足以载入史册的现象级产品，IG 已经失去了所有的独特性，沦落为一个蹩脚的抄袭者。 文｜杜晨编辑｜VickyXiao 题图来源：Tati Bruening 在业绩层面，公司出现了历史上首次营收同比下滑，还缩减开支、放缓了招聘/入职。 然而屋漏偏逢连夜雨： 就连公司旗下最受欢迎的产品 Instag
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恶搞大军出动，佩洛西这次被「假视频」整惨了！]]></title>
-        <id>https://news.cnblogs.com/n/725899/</id>
-        <link href="https://news.cnblogs.com/n/725899/"/>
-        <updated>2022-08-04T01:10:44.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：Aeneas 如願 【新智元导读】恶搞视频越来越「邪门」了！面对层出不穷的假视频，媒体是否有义务做出提醒？ 2019 年 5 月，佩洛西的一段「醉酒演讲视频」火爆全网。 最开始，这段视频出现在 Politics Watch Dog 的 Facebook 页面上。在被传到 Twitt
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北汽、AITO产品均配备 华为鸿蒙系统加速“上车”]]></title>
-        <id>https://news.cnblogs.com/n/725903/</id>
-        <link href="https://news.cnblogs.com/n/725903/"/>
-        <updated>2022-08-04T01:05:00.000Z</updated>
-        <summary type="html"><![CDATA[每经记者：李硕每经编辑：孙磊 近期，鸿蒙系统频繁在汽车圈亮相。 先是首款搭载鸿蒙车机系统的燃油车——北汽魔方车型日前正式上市。据了解，魔方车型配备车规级麒麟 990A 芯片，内置华为鸿蒙 OS 系统，支持 5G 网络连接，可结合驾驶场景进行 UI 层级设定。同时，车机可与手机实现导航、视频通话、多媒
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传因多任务处理功能开发遇阻 iPadOS 16推迟发布1个月]]></title>
-        <id>https://news.cnblogs.com/n/725902/</id>
-        <link href="https://news.cnblogs.com/n/725902/"/>
-        <updated>2022-08-04T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[8 月 4 日消息，据知情人士透露，苹果公司预计将 iPad 的重大软件更新 iPadOS 16 推迟约 1 个月发布，部分原因是其多任务处理功能的开发遇阻。 在过去几年里，苹果总是在 9 月份同时发布 iPad 和 iPhone 的重大软件更新，即 iPadOS 和 iOS。然而知情人士表示，苹果
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里巴巴集团新任命两位独立董事]]></title>
-        <id>https://news.cnblogs.com/n/725901/</id>
-        <link href="https://news.cnblogs.com/n/725901/"/>
-        <updated>2022-08-04T00:52:00.000Z</updated>
-        <summary type="html"><![CDATA[8 月 4 日消息，阿里巴巴集团宣布，委任希慎兴业集团有限公司执行主席利蕴莲、安永会计师事务所中国前主席吴港平为集团董事会独立董事，于 2022 年 8 月 4 日起生效。 在此委任后，阿里巴巴集团董事会共有 12 名董事，其中 7 名为独立董事，女性董事增至 3 名。 阿里巴巴集团董事会主席兼首席
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“复活”猪脑后又突破？猪死亡后1小时重要器官功能可被恢复]]></title>
-        <id>https://news.cnblogs.com/n/725900/</id>
-        <link href="https://news.cnblogs.com/n/725900/"/>
-        <updated>2022-08-04T00:48:00.000Z</updated>
-        <summary type="html"><![CDATA[几十年来，科学家一直在寻找保护细胞和器官免受中风、心脏病发作或呼吸停止后可能发生的氧气剥夺。2019 年，耶鲁大学的内纳德·赛斯坦（Nenad Sestan）等人曾用再灌注手段成功地让猪脑“复活”了 6 小时。 8 月 3 日深夜，赛斯坦等人在《自然》杂志上撰文描述了一种名为 OrganEx 的系统
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被AI激活的计算生物赛道：发展30年不被接纳，一年投资400亿元]]></title>
-        <id>https://news.cnblogs.com/n/725898/</id>
-        <link href="https://news.cnblogs.com/n/725898/"/>
-        <updated>2022-08-04T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[杨净丰色发自凹非寺 量子位公众号 QbitAI 计算生物界的大明星 AlphaFold，再度取得重大突破。 它已经能够预测超过 100 万个物种的 2.14 亿个蛋白质结构，几乎涵盖了地球上所有已知蛋白质。从今天起，预测几乎所有已知蛋白质的结构，都如同使用搜索引擎一样简单。 而又在一周前，国内外两种
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发者转行餐饮？Rogovoy裸辞创业，搞起了软件服务！]]></title>
-        <id>https://news.cnblogs.com/n/725897/</id>
-        <link href="https://news.cnblogs.com/n/725897/"/>
-        <updated>2022-08-04T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：拉燕 如果你是一个开发者，你愿意选择裸辞吗？ 裸辞。 这个字眼对有些人来说是解脱，对有些人来说是孤注一掷，对另一些人来说则是实现梦想。 今天故事的主人公 Kirill Rogovoy，就是裸辞大军的一员。 裸辞是自我意识的觉醒？ 2020 年 1 月，Rogovoy 辞去了网络开发
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两个博士读完，学术能力翻一倍？Nature专访三位「双料博士」]]></title>
-        <id>https://news.cnblogs.com/n/725896/</id>
-        <link href="https://news.cnblogs.com/n/725896/"/>
-        <updated>2022-08-04T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：Aeneas 如願 【新智元导读】众所周知，读一个博士就很难了，但有那么一些人，一个博士还不够，还要读两个！是什么原因呢？他们读完之后觉得值得吗？ 对于很多人来说，读一个博，已经是扒一层皮了。 写论文的时候，弱小、可怜又无助。 但是有些学霸大牛，读一个博还不够。 他们中，有的是为了
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI也有健忘症？英国41岁教授专访：解决灾难性遗忘]]></title>
-        <id>https://news.cnblogs.com/n/725895/</id>
-        <link href="https://news.cnblogs.com/n/725895/"/>
-        <updated>2022-08-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：Joey 好困 罗切斯特大学计算机科学家在持续学习领域的开创性研究，有望解决算法一直以来存在的灾难性遗忘问题。 如何实现持续学习，让 AI 不断片？ 近日，来自罗切斯特大学的 41 岁计算机科学家 Christopher Kanan 在专访中表示，自己正在构建可以让 AI 随着时间
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水能自发变成“消毒水”，83岁斯坦福教授揭示冬天容易流感原因]]></title>
-        <id>https://news.cnblogs.com/n/725894/</id>
-        <link href="https://news.cnblogs.com/n/725894/"/>
-        <updated>2022-08-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 冬天容易感冒咳嗽得流感。 但这背后到底是什么原因？ 一项来自斯坦福的研究揭开了这个问题其中的一层神秘面纱，而且结果可以说是令人意想不到。 因为它正是我们再熟悉不过的——水（H2O）。 没错，这项研究正是揭示了水所具有的一个神奇能力：在一定条件下，可以自发地
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周鸿祎“偏安一隅”]]></title>
-        <id>https://news.cnblogs.com/n/725893/</id>
-        <link href="https://news.cnblogs.com/n/725893/"/>
-        <updated>2022-08-03T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[撰文 文烨豪 编辑 吴先之 来源：光子星球 “互联网下半场，互联网公司绝对是配角。现实商业世界中，主角死得才快，配角会一直活下去。”近日，360 董事长周鸿祎在接受中国企业家杂志专访时，将自己定义为了“配角”。 也许是还未适应“配角”角色，第十届互联网安全大会期间，周鸿祎本色出演了过去的自己，直言不
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汽车订阅：一把镰刀，只割韭菜]]></title>
-        <id>https://news.cnblogs.com/n/725892/</id>
-        <link href="https://news.cnblogs.com/n/725892/"/>
-        <updated>2022-08-03T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[欢迎关注“新浪科技”的微信订阅号：techsina 作者｜吴狄 编辑｜胡展嘉 来源：零态 LT 车企正在试图通过“热水烫青蛙”的方式，让车主接受：你买下的只是汽车的所用权，使用权另算的结果。 前段时间，奔驰在国内推出了 4998 元/年的后轮转向功能。妙就妙在，这个付费功能只针对入门款的 EQS 4
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1314元的七夕礼盒，收割了多少直男？]]></title>
-        <id>https://news.cnblogs.com/n/725890/</id>
-        <link href="https://news.cnblogs.com/n/725890/"/>
-        <updated>2022-08-03T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[作者吴娇颖 编辑金玙璠 来源：开菠萝财经 七夕，又到了彩妆礼盒收割直男的时候了。 看到售价 1314 元的花西子七夕礼盒天猫月销量过万，我就知道，有 1 万个直男可能即将接受来自另一半的“审判”。 果不其然，打开小红书，姐妹们已经开启了一年一度的花西子礼盒吐槽大会，一边求助“怎么才能委婉地让男朋友退
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄光裕拯救国美18个月：裁员降薪、股东套现、市值蒸发806亿]]></title>
-        <id>https://news.cnblogs.com/n/725891/</id>
-        <link href="https://news.cnblogs.com/n/725891/"/>
-        <updated>2022-08-03T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[来源：锌财经 8 月 3 日，深陷裁员潮的国美迎来重大调整，据新浪财经报道：内部人士表示，国美旗下真快乐公司执行副总裁丁薇已被免职，团队已大幅裁员；国美管家售后公司 CEO 曾之宁被免职，该职务由国美管家公司董事长林超兼任；张斌则被任命为国美通信公司 CEO。 自国美电器创始人黄光裕回归后，国美高层
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一家电子游戏博物馆的“拜金之路”]]></title>
-        <id>https://news.cnblogs.com/n/725889/</id>
-        <link href="https://news.cnblogs.com/n/725889/"/>
-        <updated>2022-08-03T14:12:00.000Z</updated>
-        <summary type="html"><![CDATA[文 贾志新 来源：互联网指北 2021 年 9 月，加利福尼亚州奥克兰市的电子艺术与数字娱乐博物馆 THE MADE 开始在社交网络上持续“抱怨”有关钱的事情。 他们首先感叹政府相关部门的拨款杯水车薪，游戏大厂更是对毫无 ROI 可言的品牌投放毫无兴趣。接着他们又诉说起一个尴尬的“死循环”——即使存
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个娃娃卖9999元，泡泡玛特急了]]></title>
-        <id>https://news.cnblogs.com/n/725888/</id>
-        <link href="https://news.cnblogs.com/n/725888/"/>
-        <updated>2022-08-03T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[顺应Z世代人群消费习惯的潮流，泡泡玛特一度迅速崛起为 1500 亿港元市值的公司。然而，潮流来得快，去得也快，上市不到两年，泡泡玛特市值便从高处坠落。如今，泡泡玛特的“大娃”生意风生水起，一个娃娃可以卖到 9999 元，这会是泡泡玛特的未来潜能所在吗？ 作者丨沙行 编辑丨韩忠强 来源：市界 泡泡玛特
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
