@@ -6,6 +6,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n成都太古里的熊猫候车亭。（via）\n本周话题：程序员需要担心裁员吗？\nHacker News 论坛上面，一个欧洲程序员问大家：欧洲经济不景气，公司可能把他裁掉，他应该怎么办？\n\n很多人发表看法，我觉得很有参考价值。不少国内程序员大概也有类似担心，今天就结合国外网友的看法，说说程序员裁员这件事。\n首先，程序员不需要过分担心裁员，这有以下几个原因。\n（1）称职的程序员很难招聘。公司实际上会尽可能避免解雇程序员。\n（2）已经上线的系统需要维护。如果你参与线上系统，除非公司打算放弃该系统，否则不太会考虑解雇你。\n（3）就算公司真的解雇你，你属于有多年项目经验的程序员，这种人在市场上是抢手的，不难找到下一份工作，而且工资很可能会增加。\n（4）很多公司不是真的要裁员，而是在调整雇员结构。它解雇4个人，同时新招4个人，经济形势不好只是一个借口。所以，就算离开现在的公司，其他正在招人的公司还有很多。\n（5）如果你不喜欢现在的工作，被解雇其实是一件好事，让你有机会去找一份让自己兴奋的新工作。\n由于上面这些原因，比起其他行业，程序员裁员不算很严重的状况。\n但是为了预防万一，你可以做两方面的准备。\n预留一些现金，至少够应付三个月的支出。\n强化一些方便求职的技能。\n不过，这两件事是平时就应该做到的，不管你会不会遇到裁员。\n那个帖子的所有回答里面，我最喜欢下面这个回答。\n\"与其担心宏观经济，不如关注自己。你对自己生活的影响，往往比宏观经济对你的影响大得多。\"\n公司裁员肯定会对一个人产生影响，但是它决定不了你的未来，你自己才是最大的影响因素。\n如果公司确实要裁员…",
+          "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html",
+          "publishedOn": "2022-09-16T00:16:56.000Z",
+          "wordCount": 765,
+          "title": "科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n8月12日是今年最后一次\"超级月亮\"，摄影师在德国法兰克福拍到了一个超级大的月亮，在公寓楼之间出现。\"超级月亮\"指的是，满月正好发生在月球轨道的近地点。（via）\n本周话题：四十年编程感想\n上周，国外程序员论坛 Hacker News 有一篇热门文章《四十年编程感想》。\n作者说，他8岁学编程，今年46岁，再过两年，就是学习编程四十周年了。他写了一大堆自己的感想，都是肺腑之言。\n我觉得说得挺好，发人深思。他的文章很长，我摘录一些重点内容，与大家分享。\n\n（1）编程是长期职业\n你开始步入这个行业时，应该意识到，程序员是一个长期职业，你可能会从事20年甚至更长。你应该从长期角度看待编程。\n在长期中，技术来来去去，语言也来来去去，精通一种技术或语言，并不能保证你的长期职业发展。\n你的目标不必局限在学习什么语言或框架，只要吃透基础知识，你可以学会任何你想要的东西。\n（2）多尝试不同的事情\n你的编程生涯很漫长，刚刚开始时，不要急于求成。你只需要动手写代码就可以了，任何代码都没有关系，写完一个软件，再写下一个。\n写不同的软件，尝试不同的事情。你会发现，自己需要学习很多不同的东西。你按什么顺序学习它们并不是大问题。\n不要变得僵化，抱住某个领域不放。几乎任何学科都可以教给你一些东西。如果你太僵化，抗拒学习其他领域的知识，那你就输了。\n多学习一些困难的东西，容易发现自己的问题。\n你可以给自己定一个目标，比如\"每周二做一件以前从没有做过的事情\"。\n当然，你最终需要深入某个领域。李小龙说过：\"我不怕练过一万种拳法的人。但是一种拳练了一万遍的人，我怕他。\"\n（…",
@@ -59,6 +69,16 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/75719",
+          "author": "莱森",
+          "description": "Part 0 引入\n众所周知，Watch 有两种视图。第一个是「列表视图」，第二个则是「蜂窝视图」。我第一次用蜂窝视图的时候觉得这种交互模式非常炫酷，但是用了一段时间后的感受是 —— 「就像把杂货箱的东西全部倾倒出来，然后直到找着这一次需要的东西」。这无疑是一个非常糟糕的体验，因为每一次找 App 都要反复体验一下找杂物的难受感。所以这里触发了一个痛点是：「买完 Apple Watch 之后，我们应该如何快速找到并打开目标 app 呢？」\n回忆一下小时候混乱的工具箱\n本篇文章的前提 —— 在抛除了「Siri」、「程序坞」、「表盘上的快捷入口」三种检索方式的基础之上，再来探索有没有办法可以进一步提高效率，让我们的「应用菜单」也可以具备更强的检索性，做到井井有条。\nGrid View（网格视图，我也喜欢称为蜂窝视图）\nPart 1 思路总括\n一开始我是换回了习惯的「列表视图」，依靠皇冠的转动来找到 App。但是列表视图有个问题是 —— 你无法调整 App 的显示顺序。就算你可以调整并分类 App，你也有可能需要在「单向」上线性地浏览众多的 App 之后才能找到目标，\nList View（列表视图）\n所以思路开始清晰起来 —— 如果我们把应用进行分类，并从中心延伸到几个不同的方向，就可以减少查找的时间和查找的路径长度。基于此，我们利用蜂窝的特性，从中心恰好可以切割出 6 条大方向，代表 6 个大类，然后把最主要的 App 直接放到 6 条线上。相当于至少提高检索速度 6 倍。\n自制演示图\nPart 2 和我一起来分类\n现在，请大家停下 1 分钟，和我一起思考：我的 Apple Watch 上大致都有哪些 app 呢？对于我而言，我会分为以下 6 大类（逆时针），然后把最常用的放到线上：\n\n健康\n运动\n音乐·声音\n办公·社交·信息\n支付\n其他工具\n\nPart 3 和我一起思考 6 …",
+          "link": "https://sspai.com/post/75719",
+          "publishedOn": "2022-09-15T06:56:56.000Z",
+          "wordCount": 633,
+          "title": "一日一技｜六边形法迅速查找 Apple Watch 中的 app",
+          "imageUrl": "https://cdn.sspai.com/2022/09/14/d128741fed4c4eeeed1bf4df750df0ae.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/75715",
           "author": "少数派编辑部",
           "description": "5 月 25 日，少数派受邀参与「2022 年春季飞书未来无限大会」。 在「人与事相互成就」这个话题上，飞书这次又为我们带来了一整套从人事、招聘、绩效到项目管理、应用开发完整覆盖的先进工具，也分享了更多值得我们借鉴和消化的用法。\n在这些工具当中，我们对上手简单、功能强大且完全免费的飞书多维表格，其实也有自己的「一套说法」。\n虽然不能像大会上提到的那些团队「一张表管公司」，多维表格的确也在过去这段时间里帮我们解决了很多问题：曾经有过这么一段时间，我们的团队沟通工具是 Slack、选题看板放在 Trello、协作文档服务是 Quip、跨组项目进度同步依赖 Teambition、作者运营工作放在微信群……每一处都需要有人花时间和精力去维护，工作群里时不时也会蹦出几条消息提醒老麦，XX 团队服务又该续费了。\n飞书多维表格的上线，则让「不花一分钱解决业务需求」成为了可能。如果你没能第一时间观看「2022 年春季飞书未来无限大会」的线上直播，不妨跟随本文一起认识多维表格，看看这套工具在我们的团队中是如何发挥作用的。\n首先，它是一张（更好用的）表\n接触过 Excel，上手多维表格就已经成功了一半。如果你已经有了原始数据，甚至可以在飞书文档右上角的「新建」菜单里，直接将 Excel/CSV 格式文件导入为多维表格。\n\n能否用好多维表格，另一半因素在于你是否清楚自己的需求，或者说后续如何对表格数据进行加工、处理。和所有优秀的互联网工具类似，飞书也在多维表格的创建流程中提供了海量的模板，既能搜索、也能通过左侧导航分门别类进行筛选，成员分工、项目管理、分销记录、防疫报备、周报月报……下次同事按耐不住剁手的冲动想要续费什么团队服务之前，先打开多维表格的模板用他念叨的那些关键字搜搜看？\n\n当然，我们将多维表格和 Excel 类比，最主要的原因在于，和恨不得把所有选项都堆在工具栏的 Excel 不同，…",
@@ -67,6 +87,16 @@
           "wordCount": 565,
           "title": "少数派每天都在用的这个软件，怎么让我们「提前下班」",
           "imageUrl": "https://cdn.sspai.com/article/24160872-8c6d-382e-95de-ce59a931bfb1.png"
+        },
+        {
+          "id": "https://sspai.com/post/75658",
+          "author": "老麦",
+          "description": "一转眼就到了九月，全新的少数派会员服务也运转了两个多月，经过会员组、编辑部、产品组、数字工具组的共同努力，目前的产品、内容和服务，都已经进入了稳定状态，接下来该周边组发力了，给大家准备这一季的实体周边，借着周边的设计，我也重新总结一下少数派会员的权益和价值。\n\n在我们的会员介绍页面，有三个简单的图形，这背后是产品负责人的设计思考，它代表着一个三角形切割打磨成圆形的过程，其实也完美的诠释了少数派业务与会员服务的关系，以及我们未来的愿景。这套图形也正是会员周边的核心元素，我想把背后的故事讲给大家听听。\n超值的六边会员服务\n代表着我给会员定制的六个方面的服务，它们分别是专属内容、专属产品、高质社群、定制周边、商品福利、共创增值，逐个给大家讲讲。\n\n专属内容\n最近几年，短视频爆发，娱乐内容泛滥，大量的攫取着我们的时间。但我们始终认为，如果想让工作和生活变得更好，单靠娱乐远远是不够的，我们需要持续的学习和成长，持续的创新和创造，而深度图文+语音对谈，依然是承载这类内容的最佳方式。而这些经验和思考类内容，稀缺性强，生产成本也高，且很难获得广告支持，会员服务将支撑我们长期深耕这些内容，不断扩展领域，让会员用户跟我们共同成长。\n\n比如一份针对用户消费领域的深度报告内容，制作周期可能长达数月，目前已经针对机械键盘、显示器、咖啡、录音设备等领域推出了这类消费报告。帮助大家全面完整的了解这些产品和用法。\n专属产品\n我们几乎开发了一套完整的会员产品模块，从页面设计、产品功能、用户体系，都在围绕会员进行规划和重构，我们不像以往的互联网公司那样，为了流量去做大而全，而是希望不断提供独特的创新的产品使用体验。\n\n会员用户可以给我们最直接和有效的反馈，更有很多产品从业者，甚至能跟我们一起共创有趣的新模块。除了内容、商品，我们甚至希望联动线下服务。\n高质社群\n家家都可以做社群，做好社群却很难，少数派本身就是…",
+          "link": "https://sspai.com/post/75658",
+          "publishedOn": "2022-09-14T02:35:13.000Z",
+          "wordCount": 487,
+          "title": "少数派思考 031：会员周边要来了",
+          "imageUrl": "https://cdn.sspai.com/2022/09/14/b7fd9cfe5e69da8065bdf0c9faa9ba5a.jpg"
         },
         {
           "id": "https://sspai.com/post/75710",
@@ -667,16 +697,6 @@
           "wordCount": 690,
           "title": "数字文具盒：这些 app 帮我度过读研时光",
           "imageUrl": "https://cdn.sspai.com/2022/08/17/bd560bb66acbac0200e18984847c5dfb.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/75196",
-          "author": "玉树芝兰",
-          "description": "痛点\n之前我跟你聊过很多次用卡片笔记法写文章的事儿。今天咱们换个话题，聊聊用卡片法做视频。\n现在是移动互联网时代，学习和工作中需要用到视频制作的地方，还真不少。尤其是像我这样当老师的。\n\n我这几年做了许多视频。但是实话实说，凡是复杂一些的视频，特别是技术类讲解展示，我在制作的时候总会感觉很焦虑。\n焦虑的原因，是表达欲和成熟度不匹配。\n我最想表达的时刻，往往是刚让电脑跑出来一个结果。这时候，我特别想把自己的成果和喜悦心情分享出去。\n但是，一般这时候内容成熟度是不够的。例如前面的铺垫内容，还都没有准备好。讲解的思路，也都没有理顺。\n怎么办呢？\n常见做法，自然就是去查找和准备这些资料，直到胸有成竹。这样自己讲解内容时，才不会露怯。\n可等到内容成熟度足够了，时间往往已经过去许久，我也没有那么想展示自己做出来的结果了，因为兴奋感衰退了。\n很多有趣的内容，因此淹没在了我的笔记里。更可惜的，是那些没有记录下来的内容，就丢弃在风中了。可惜。\n最近，我开始尝试用 Stable Diffusion 来人工智能绘图。这款工具真是非常强大。绘制出来的内容，比起 Disco Diffusion ，要精细得多。说明一下，我不是画家，上面描述的，是本人尝试对比后的主观感受。请不要跟我讨论某些风格上「Disco Diffusion 甩开 Stable Diffusion 几条街」之类的。不听不听。\n举个例子，我最近开始读《九宫格写作法》这本书。里面有一段描述顾客尝试过一碗汤后的评论：\n\n汤底是炖了 3 天的猪骨浓汤，配菜是汆烫得恰到好处的豆芽菜，吃起来脆嫩爽口。桌子上放有店家推荐的柚子胡椒，只需撒上一点点，柚子那清新的酸味便会让你眼前一亮。\n\n我于是好奇心大起，就想尝试一下，这碗汤画出来是什么样子。于是我决定用 Stable Diffusion 来画。\n首先还得把上面那段话翻译成英文，因为 Stable …",
-          "link": "https://sspai.com/post/75196",
-          "publishedOn": "2022-08-17T09:13:18.000Z",
-          "wordCount": 643,
-          "title": "如何用卡片法高效做视频？",
-          "imageUrl": "https://cdn.sspai.com/2022/08/17/998a18b2d7967dd8c84e119b09d102aa.png"
         }
       ]
     },
@@ -734,6 +754,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72778",
+          "author": null,
+          "description": "创办户外服装公司 Patagonia 半个世纪之后，Yvon Chouinard 这位不情不愿成为亿万富翁的创始人捐出了他的公司。Chouinard 夫妇及其两个成年子女没有出售公司或将公司上市，而是将公司所有权转让给一个专门设立的信托基金和一个新成立的非营利组织，Patagonia 价值约 30 亿美元。它们将保持公司的独立性，确保每年获得的大约一亿美元利润全部用于应对气候变化和保护全球未开发土地。83 岁的 Chouinard 希望他的做法能影响一种新形式的资本主义，这种资本主义不是以少数富人和多数穷人为结局。Chouinard 家族之前一直控制着这家年销售逾 10 亿美元夹克、帽子和滑雪裤的公司，上个月他们将公司全部的有投票权股票（占总股份的 2%）不可撤销的转让给名为 Patagonia Purpose Trust 的新成立实体，该信托基金由家族成员和顾问监督，旨在确保 Patagonia 履行其承诺，经营一家具有社会责任心的公司并捐出其利润。Chouinard 家族将 98% 的普通股全部捐赠给新的非营利组织 Holdfast Collective，该组织接收 Patagonia 公司利润，用于应对气候变化。Holdfast Collective 属于 501(c)(4)类型组织，在游说立法机关、参与政治运动和选举等方面不受限制，因此 Chouinard 家族未从捐赠中获得任何税收优惠。Yvon Chouinard 本人非常节约，穿着旧衣开着破车，也没有手机或计算机。",
+          "link": "https://www.solidot.org/story?sid=72778",
+          "publishedOn": "2022-09-15T15:57:11.000Z",
+          "wordCount": 183,
+          "title": "Patagonia 创始人捐出公司对抗气候变化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72777",
+          "author": null,
+          "description": "在 Linux Plumbers Conference 会议上，Linus Torvalds 接受采访谈论了工作、Rust 和 M2 MacBook Air 笔电。\nTorvalds 称他不是工作狂，在参加会议前花了六天时间在荷属西印度群岛的 Bonaire 玩潜水。他说他一年又一年在内核上工作是因为他可以短时间离开放松下，他最筋疲力尽的时候通常是合并开始时，他专注于在合并开始第一周内完成大部分工作。Linux 内核社区真正的工作狂是稳定版内核维护者 Greg Kroah-Hartmann，他每周都不停的工作，Torvalds 猜测他大量使用自动化工具。新冠疫情对内核开发没有产生多少影响，因为包括 Torvalds 在内的主要维护者多年来都习惯在家中远程工作。他指出内核开发的一个变化是子系统维护者通常由团队而不是一个人组成，部分子系统维护者只有一个人，但已经相当罕见了。内核对 Rust 的支持可能需要更长的时间，一个原因是非标准的 Rust 扩展的处理，另一个更重要原因是 Rust 编译器还不稳定。Torvalds 外出旅行时使用一台 M2 MacBook Air 笔电，运行 Fedora Workstation 36，Fedora 还没有支持 ARM-64 M2 处理器的版本，Torvalds 自己动手让 Fedora 36 能运行在 M2 上，这个版本不完美，不支持 3D 图形，Chrome 也不支持，而 Torvalds 使用  Chrome 的密码管理器管理部分密码。",
+          "link": "https://www.solidot.org/story?sid=72777",
+          "publishedOn": "2022-09-15T11:19:37.000Z",
+          "wordCount": 224,
+          "title": "Linus Torvalds 谈工作、Rust 和 M2 MacBook Air 笔电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72776",
+          "author": null,
+          "description": "愈来愈多的硬件制造商拥抱软件订阅模式，硬件通常是一次性收入，而软件订阅模式能提供持续的收入来源。最新一家计划拥抱软件订阅模式的是农机巨头 John Deere，该公司预测到 2030 年软件收入将占到总收入的十分之一。该公司投入了数十亿美元开发自动驾驶拖拉机以及能区分杂草和农作物的智能喷雾器，通过为智能农机出售订阅软件获取持续收入。Bernstein 的分析师估计，农机软件的平均毛利率为 85%，设备毛利率为 25%。John Deere 计划将 150 万机器和 5 亿英亩的土地接入其运营中心，提供基于云端的智能农业服务。农民们未必喜欢这一转变，他们已经向 FTC 投诉，指控 John Deere 公司非法的拒绝提供维修农机所需要的软件和技术数据。",
+          "link": "https://www.solidot.org/story?sid=72776",
+          "publishedOn": "2022-09-15T10:24:44.000Z",
+          "wordCount": 179,
+          "title": "John Deere 预测到 2030 年软件收入将占到十分之一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72775",
+          "author": null,
+          "description": "EA 宣布其生活模拟游戏《模拟人生4》将从 10 月 18 日起变为免费游戏。EA 称所有新玩家可在 PC 上通过 EA app 或 Origin、或在 Mac  上通过 Origin，亦或是通过 Steam、PlayStation5、PlayStation4、Xbox Series X|S 和 Xbox One 主机免费下载《The Sims™ 4》主游戏。所有购买过《The Sims 4》本体的玩家都将在 10 月 17 日前免费获得大漠奢华套件包。《模拟人生4》有海量的 DLC，游戏未来将主要依靠 DLC 付费获得收入。",
+          "link": "https://www.solidot.org/story?sid=72775",
+          "publishedOn": "2022-09-15T08:51:05.000Z",
+          "wordCount": 177,
+          "title": "《模拟人生4》将成为免费游戏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72774",
+          "author": null,
+          "description": "第二大加密货币以太坊完成了从工作量证明（POW）到权益证明(POS)的切换，此举让以太坊消耗的能量减少了 99.9%。以太坊是次于比特币的第二大加密货币，市值接近 2000 亿美元。这次合并始于美国东部时间 2:43 AM，逾 4.1 万人在 YouTube 上观看了“Ethereum Mainnet Merge Viewing Party”的直播，大约 15 分钟后合并完成。在合并前以太坊能使用显卡挖掘，需要消耗大量能量，合并之后矿工们是不是关掉了矿机？答案是否定的，对以太坊分支以太坊经典（Ethereum Classic 或 ETC）网络哈希率的跟踪显示，它从 9 月 14 日的 60 TH/s 增加到了 15 日的 140 TH/s，翻了一倍以上，目前还在快速增长，显然矿工转移了阵地，耗电量未必能下降多少。",
+          "link": "https://www.solidot.org/story?sid=72774",
+          "publishedOn": "2022-09-15T08:42:35.000Z",
+          "wordCount": 177,
+          "title": "以太坊切换到权益证明，矿工涌向 ETC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72773",
+          "author": null,
+          "description": "电商软件 FishPig 的分发服务器遭黑客入侵，攻击者在付费软件模块 Magento 2 中植入后门，导致使用 Magento 2 的客户系统感染了 Rekoobe，该后门允许攻击者向被感染的服务器远程发送指令。FishPig 督促客户重新安装或更新现有扩展。FishPig 正在调查攻击者是如何入侵其系统的，暂时还不清楚是通过服务器漏洞还是应用程序漏洞。FishPig 是一家 Magento-WordPress 集成销售商，Magento 是一个开源电商平台，FishPig 的软件被多达 2 万个网站使用。这次供应链攻击只影响付费的 Magento 2 模块。黑客入侵可能发生在 8 月 19 日前后，开发商已经向过去 12 周下载软件的所有用户发送了警告邮件。",
+          "link": "https://www.solidot.org/story?sid=72773",
+          "publishedOn": "2022-09-15T08:00:17.000Z",
+          "wordCount": 175,
+          "title": "FishPig 电商软件遭攻击被植入后门",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72772",
+          "author": null,
+          "description": "加州周三起诉亚马逊，指控电商巨头与第三方卖家和批发商签订的合同抬高价格、抑制竞争，违反了加州反垄断和不正当竞争法。该诉讼是亚马逊迄今在美国面临的最大法律挑战，此前它曾被哥伦比亚特区起诉，目前正接受联邦贸易委员会(FTC)、欧盟和一个国会委员会的调查。由于加州是美国人口最多的州和最大的经济体，加州的商业法规长期以来一直影响着全美各地企业的运营方式。起诉书称，在亚马逊市场上卖货的第三方商家占了亚马逊公司产品销售的大部分。亚马逊要求第三方商家签署协议，如果这些商家在沃尔玛或 Target 等竞争对手网站上以更低价格出售产品，就会面临惩罚。该诉讼称，那些不遵守协议的商家可能会在亚马逊的搜索结果中被排挤到更靠后的位置，或者被取消使用亚马逊网站上 buy box 的资格，甚至可能被暂停线上销售或移除出售链接。",
+          "link": "https://www.solidot.org/story?sid=72772",
+          "publishedOn": "2022-09-15T06:51:41.000Z",
+          "wordCount": 149,
+          "title": "加州起诉亚马逊涉嫌垄断",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72771",
+          "author": null,
+          "description": "百度发布了自己的自然语言图像合成模型 ERNIE-ViLG，有中国视频主播对比了用 ERNIE-ViLG、DALL-E 2 和 Stable Diffusion 等不同模型生成的图像，认为 ERNIE-ViLG 产生了更精确的图像。百度在 Hugging Face 上发布了 ERNIE-ViLG 的 DEMO，用户很快注意到与 DALL-E 2 和 Stable Diffusion 等 AI 模型的区别：有敏感词限制。输入某些词语会返回“存在敏感词，请重新输入”或者“输入内容不符合相关规则，请调整后再试！”",
+          "link": "https://www.solidot.org/story?sid=72771",
+          "publishedOn": "2022-09-15T03:48:32.000Z",
+          "wordCount": 167,
+          "title": "百度的自然语言图像合成模型有敏感词限制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72770",
+          "author": null,
+          "description": "TikTok 首席运营官 Vanessa Pappas 周三在美国参议院国土安全和政府事务委员会接受议员们的询问。美国参议员和监管机构担心 TikTok 会将美国用户的数据交给中国政府，Pappas 对此坚决否认，称从未向中国政府提供数据，而且母公司字节跳动的总部也不在中国，因为它根本没有总部。她说字节跳动有严格的数据访问控制，中国政府没有影响到该公司的企业政策。TikTok 最近开始通过甲骨文的服务器发送流量，但部分数据仍然会备份在字节跳动位于新加坡和美国弗吉尼亚州的服务器上。",
+          "link": "https://www.solidot.org/story?sid=72770",
+          "publishedOn": "2022-09-15T03:31:02.000Z",
+          "wordCount": 156,
+          "title": "TikTok 高管接受美国参议院的询问",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72769",
+          "author": null,
+          "description": "美国财政部上个月宣布制裁被控为朝鲜黑客组织 Lazarus Group 洗钱的加密货币混币器 Tornado Cash，禁止美国个人或组织与 Tornado Cash \n有任何交易往来。源码托管平台 GitHub 随即下架了 Tornado Cash 代码库，删除了开发者账号。荷兰还逮捕了一名 Tornado Cash 开发者。此事引发了争议。美国财政部现在澄清对 Tornado Cash 的制裁不涉及源代码，美国人可以查看、复制、讨论和教授源代码，或将源代码包含在书面出版物中。",
+          "link": "https://www.solidot.org/story?sid=72769",
+          "publishedOn": "2022-09-15T02:56:03.000Z",
+          "wordCount": 175,
+          "title": "美国财政部澄清对 Tornado Cash 的制裁不涉及分享源代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72768",
+          "author": null,
+          "description": "加密货币 Luna 及算法稳定币 terraUSD 币值今年五月的崩溃让 Luna 的创始人 Do Kwon 成为韩国最讨厌的人。在损失了大量金钱的投资者投诉之后，韩国检方对 Do Kwon 的 Terraform Labs 展开了调查。本周三，首尔南部地方检察厅宣布从当地法庭获得了对 Kwon 等六人的逮捕令，其中包括 Terrraform Labs 创始成员 Nicholas Platias。Kwon  本人最近一直在新加坡。",
+          "link": "https://www.solidot.org/story?sid=72768",
+          "publishedOn": "2022-09-15T01:36:13.000Z",
+          "wordCount": 179,
+          "title": "韩国对 Do Kwon 发出逮捕令",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72767",
           "author": null,
@@ -3433,56 +3563,6 @@
           "wordCount": 155,
           "title": "Google 演示机器人服务员",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72494",
-          "author": null,
-          "description": "根据发表在《Experimental Gerontology》期刊上的一项研究，过度摄入软饮料可能会损害记忆。在实验中，研究人员在 67 天内让 2、8 和 14 个月大的 Wistar 鼠饮用可乐软饮料或水（对照组），期间参与迷宫测量其空间记忆，然后在第 68 天杀死实验鼠，解剖其大脑，分析抗氧化酶（CAT）和超氧化物歧化酶（SOD）。结果显示，长期摄入软饮料会导致记忆损伤和氧化应激。",
-          "link": "https://www.solidot.org/story?sid=72494",
-          "publishedOn": "2022-08-17T11:07:23.000Z",
-          "wordCount": 155,
-          "title": "实验鼠研究发现长期摄入软饮料导致记忆损伤",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72493",
-          "author": null,
-          "description": "腾讯公布了截至 6 月 30 日的第二季度业绩（PDF）：总收入为 1,340 亿元，比去年同期下降 3%；净利润 281 亿元，同比下降 17%。腾讯收入下滑并不出人意料，它的游戏业务面临的监管压力在增大，新冠疫情及宏观经济也在继续产生影响。《中国企业家》报道称，腾讯在大规模裁员。腾讯今年初透露其员工数超过 10 万，有人预计将裁员 3 万人，员工数停留在 7 万人左右。报道称，为了避免被裁，有人当场宣布自己怀孕了。",
-          "link": "https://www.solidot.org/story?sid=72493",
-          "publishedOn": "2022-08-17T10:00:03.000Z",
-          "wordCount": 160,
-          "title": "腾讯报告二季度利润下滑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72492",
-          "author": null,
-          "description": "微软计划在 9月 20 日发布 Windows 11 下一个重大更新版本 v22H2。新版本将在用户界面上有新的变动，包括：开始菜单 App 文件夹，任务栏拖放，新触控手势和动画，帮助听力障碍者的 Live Captions 功能，PC 语音控制工具 Voice Access，任务管理器暗色模式和新的布局，等等。",
-          "link": "https://www.solidot.org/story?sid=72492",
-          "publishedOn": "2022-08-17T09:13:28.000Z",
-          "wordCount": 171,
-          "title": "微软准备释出 Windows 11 22H2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72491",
-          "author": null,
-          "description": "英国通信管理局(Ofcom)周三发布的一份报告显示，英国年轻人花在 TikTok 上的时间超过了看广播电视的时间。报告凸显出媒体习惯上的代沟正在扩大。在对消费趋势的年度调查中，Ofcom 发现，16 岁至 24 岁的人群平均每天观看传统广播电视的时间为 53 分钟，仅为 10 年前水平的三分之一。相比下 65 岁以上人群每天看电视的时间接近 6 小时。",
-          "link": "https://www.solidot.org/story?sid=72491",
-          "publishedOn": "2022-08-17T08:22:38.000Z",
-          "wordCount": 166,
-          "title": "英国年轻人 TikTok 时间多于电视",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72490",
-          "author": null,
-          "description": "国家气候中心确认，综合考虑高温热浪事件的平均强度、影响范围和持续时间，从 6 月 13 日开始至今的区域性高温事件综合强度已达到 1961 年有完整气象观测记录以来最强。此次区域性高温热浪事件的持续时间将会继续延长，综合强度将进一步增强。夏季以来（6 月 1 日至 8 月 15 日），全国共 914 个国家气象站（占全国总站数 37.7%）日最高气温达到极端高温事件标准，河北、陕西、四川、湖北、江苏、浙江、福建、广东、青海等地 262 个国家气象站日最高气温持平或突破历史极值，其中湖北竹山（44.6℃），重庆北碚（44.5℃）、奉节（44.4℃）、巫溪（44.0℃），河北灵寿（44.2℃）、藁城（44.1℃）、正定（44.0℃），云南盐津（44.0℃）日最高气温达 44℃ 及以上。截至 8 月 15 日，此次高温事件已经持续 64 天，为 1961 年以来持续时间最长（超过 2013 年的 62 天）；35℃ 以上覆盖 1680 站、37℃ 以上覆盖 1426 站，均为历史第二多（仅次于 2017 年，分别为 1762 站和 1443 站），但 40℃ 以上覆盖范围为历史最大；高温极值站数 262 站，已超过 2013 年（187 站）和 2017 年（133站）。",
-          "link": "https://www.solidot.org/story?sid=72490",
-          "publishedOn": "2022-08-17T08:05:34.000Z",
-          "wordCount": 205,
-          "title": "今年高温为 1961 年以来最强",
-          "imageUrl": null
         }
       ]
     },
@@ -3491,6 +3571,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/728364/",
+          "author": null,
+          "description": "来源 Tech 星球 文习睿 Tech 星球独家获悉，拼多多首页或将上线专门针对女装的功能专区“宝藏女装”。目前，该功能正在内测中，开放给部分在拼多多浏览或购买女装较为频繁的用户。 根据前后功能对比，首页这一位置之前是“多多买菜”的专属端口。进入“宝藏女装”页面，在上方会有精选店铺，下方会按“风衣、\n本文链接",
+          "link": "https://news.cnblogs.com/n/728364/",
+          "publishedOn": "2022-09-16T01:22:00.000Z",
+          "wordCount": 161,
+          "title": "拼多多内测新功能“宝藏女装”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728363/",
+          "author": null,
+          "description": "今年 8 月底，一位 web3.0 项目负责人发了一条朋友圈：“VR 是如此贴近用户的交互形态，目前的两大推手却是最像机器的扎克伯格和张一鸣。” 此时距离去年抖音集团宣布收购 VR 头显厂商 Pico 正好过去一整年。在抖音的大力助推下，刚刚宣布品牌升级的 PICO 销量继续增长，今年上半年市场份额\n本文链接",
+          "link": "https://news.cnblogs.com/n/728363/",
+          "publishedOn": "2022-09-16T01:17:00.000Z",
+          "wordCount": 161,
+          "title": "收购PICO一周年，抖音迈入元宇宙了吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728362/",
+          "author": null,
+          "description": "记者白帆 继德邦高管团队调整之后，德邦董事会也开始洗牌。9 月 14 日晚间，德邦股份宣布崔维星等董事辞职，京东系的余睿等人将接任。这也意味着，京东系将正式接管德邦股份。 德邦在公告中指出，近日非独立董事崔维星、崔维刚、田民芽、Luis Ceniga Imaz、赖世强和独立董事毛付根、任建标、俞卫锋\n本文链接",
+          "link": "https://news.cnblogs.com/n/728362/",
+          "publishedOn": "2022-09-16T01:11:00.000Z",
+          "wordCount": 161,
+          "title": "董事会洗牌、京东系入驻，德邦进入“京东时间”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728361/",
+          "author": null,
+          "description": "2022 世界设计之都大会 9 月 15 日上午在上海黄浦滨江开幕，中国工程院院士、中国商用飞机有限责任公司首席科学家、C919 大型客机系列型总设计师吴光辉在发表《AI 助力国产大飞机自主创新设计》主旨演讲时透露，2022 年 8 月 1 日，中国商飞宣布国产大飞机完成取证试飞，标志着 C919 \n本文链接",
+          "link": "https://news.cnblogs.com/n/728361/",
+          "publishedOn": "2022-09-16T01:07:00.000Z",
+          "wordCount": 161,
+          "title": "CR929已确定总体技术方案，正式转入初步设计",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728360/",
+          "author": null,
+          "description": "此前，为了打击“车黑”，特斯拉成立了“特斯拉法务部”，用以处理网络上对特斯拉名誉侵害等事件。 而近段时间，理想汽车风波不断，理想汽车也趁势成立了“理想汽车法务部”。9 月 15 日，“理想汽车法务部”账号建立，目前共有 15 位粉丝，仅关注“理想汽车”和“李想”两人。 此外，近段时间，理想汽车所涉及\n本文链接",
+          "link": "https://news.cnblogs.com/n/728360/",
+          "publishedOn": "2022-09-16T01:01:00.000Z",
+          "wordCount": 161,
+          "title": "看齐特斯拉！理想汽车开通法务部账号：仅关注了俩人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728359/",
+          "author": null,
+          "description": "不同苦味分子激活表达在味蕾上的苦味受体 TAS2R46 的艺术展示图（Julie Liu 设计绘制）。本文图片均为上海科技大学图 9 月 16 日，上海科技大学刘志杰和华甜联合研究团队在《科学》 (Science)期刊发表研究长文，在马钱子碱激活人源苦味受体 TAS2R46 的结构基础研究中取得重大\n本文链接",
+          "link": "https://news.cnblogs.com/n/728359/",
+          "publishedOn": "2022-09-16T00:56:00.000Z",
+          "wordCount": 161,
+          "title": "世界首次！上科大研究团队揭开苦味受体的“神秘面纱”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728358/",
+          "author": null,
+          "description": "9 月 16 日消息，上周苹果在秋季新品发布会上发布了 iPhone 14 系列智能手机，四款新机型都支持紧急卫星通信功能。苹果宣布这一功能将于今年 11 月份在美国和加拿大上线。当地时间周四苹果表示，计划未来将紧急卫星通信功能扩展到更多地区。 据报道，苹果公司计划于今年晚些时候和明年在更多地区上线\n本文链接",
+          "link": "https://news.cnblogs.com/n/728358/",
+          "publishedOn": "2022-09-16T00:50:00.000Z",
+          "wordCount": 161,
+          "title": "苹果计划在更多地区上线紧急卫星通信服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728357/",
+          "author": null,
+          "description": "路透社 9 月 15 日消息，根据当地时间周四公布的一份法庭文件，马斯克指控推特隐瞒其数据安全方面的严重漏洞，涉嫌欺诈，表示将结束对该公司 440 亿美元的收购交易。 马斯克此次修改对推特的反诉，采纳了推特前安全主管皮特·扎特科（Peiter Zatko）对该公司“将利益置于安全之上”的指控，并表示\n本文链接",
+          "link": "https://news.cnblogs.com/n/728357/",
+          "publishedOn": "2022-09-16T00:45:00.000Z",
+          "wordCount": 161,
+          "title": "马斯克修改反诉内容，指控推特“隐瞒数据安全漏洞并构成欺诈”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728350/",
+          "author": null,
+          "description": "最后的以太坊矿工，与中国「挖矿」简史。 来源：律动 BlockBeats 原作者：Jack 原标题：以太坊 8 年挖矿时代结束：V 神、中国矿业，与英伟达 编者按： 2022 年 9 月 15 日 14 点 42 分，成立 8 年的以太坊正式完成合并（The Merge）。在全球数十万人参与验证、全\n本文链接",
+          "link": "https://news.cnblogs.com/n/728350/",
+          "publishedOn": "2022-09-16T00:40:00.000Z",
+          "wordCount": 161,
+          "title": "以太坊8年挖矿时代结束：V 神、中国矿业，与英伟达",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728349/",
+          "author": null,
+          "description": "下面是视频配文： 今年的苹果秋季发布会，和 iPhone 一起更新的，还有 Apple Watch 和 AirPods Pro，今儿的视频，我们来简单聊聊新款 Apple Watch 的初步上手体验。 首先是 Apple Watch S8，虽然外观上和上一代确实没有什么区别，但这一次，苹果给 App\n本文链接",
+          "link": "https://news.cnblogs.com/n/728349/",
+          "publishedOn": "2022-09-16T00:30:00.000Z",
+          "wordCount": 161,
+          "title": "新款Apple Watch全系上手：Ultra很酷，非常酷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728356/",
+          "author": null,
+          "description": "IT 之家 9 月 15 日消息，在 9 月的“超前瞻”（Far Out）发布会上，苹果发布了 iPhone 14 和 iPhone 14 Plus，保留了 iPhone 13 的大部分设计 —— 包括用于手机自拍相机和 Face ID 传感器的刘海凹槽。苹果还推出了 iPhone 14 Pro 和\n本文链接",
+          "link": "https://news.cnblogs.com/n/728356/",
+          "publishedOn": "2022-09-16T00:23:00.000Z",
+          "wordCount": 161,
+          "title": "海南免税版苹果 iPhone 14 / Pro 系列价格出炉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728355/",
+          "author": null,
+          "description": "当地时间周四（9 月 15 日）Adobe 宣布，它将以约 200 亿美元的现金和股票收购设计软件公司 Figma。收购交易完成后，Figma 将继续独立运营，Figma 的定价暂时不会改变。 Adobe 称，它将和 Figma 共同重塑富有创造力和生产力的未来，推进产品设计，并激励全球创作者、设计\n本文链接",
+          "link": "https://news.cnblogs.com/n/728355/",
+          "publishedOn": "2022-09-16T00:18:00.000Z",
+          "wordCount": 161,
+          "title": "200亿美元！Adobe砸钱吞并最大竞争对手Figma，盘中股价大跌逾17%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728354/",
+          "author": null,
+          "description": "《凤凰 WEEKLY 地产》从知情人士处获悉，恒大汽车天津工厂将在 9 月 16 日举行恒驰 5 量产仪式。目前恒大汽车总裁刘永灼等高管已前往天津工厂现场，活动仪式现场已初步搭建完成。 据恒大汽车官方介绍，恒驰 5 是一款纯电A级 SUV，是恒大汽车规划中第一个量产的车型。今年 1 月 12 日，恒\n本文链接",
+          "link": "https://news.cnblogs.com/n/728354/",
+          "publishedOn": "2022-09-16T00:12:00.000Z",
+          "wordCount": 161,
+          "title": "恒驰5量产在即， 恒大汽车天津工厂将于9月16日举行量产仪式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728353/",
+          "author": null,
+          "description": "继俞敏洪后，央视网财经纪实访谈节目《云顶对话》迎来第二期，此次的主角是小米董事长雷军。 在官方发布的简单预告中，雷军主要谈了自己创办小米和进军电动汽车行业的初衷。 谈起 2010 年创办小米，雷军表示原因其实很简单，带领金山完成 IPO、自己半退休了三四年时间、在投资圈也算“风生水起”，37 岁他财\n本文链接",
+          "link": "https://news.cnblogs.com/n/728353/",
+          "publishedOn": "2022-09-16T00:09:00.000Z",
+          "wordCount": 161,
+          "title": "雷军登上央视：自曝37岁时就已经财务自由",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728352/",
+          "author": null,
+          "description": "三言财经 9 月 15 日消息，今日，网上流传一张游戏《羊了个羊》小程序收入数据日报截图显示，仅今天一天《羊了个羊》小程序收入就高达 468 万元。 截图显示，《羊了个羊》小程序 9 月 14 日收入达到 468 万余元，而本月收入也高达 2565 余万元。 知名互联网学者刘兴亮将该截图发布至朋友圈\n本文链接",
+          "link": "https://news.cnblogs.com/n/728352/",
+          "publishedOn": "2022-09-16T00:06:00.000Z",
+          "wordCount": 161,
+          "title": "《羊了个羊》小程序一天收入468万？马化腾：图是ps伪造的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728351/",
+          "author": null,
+          "description": "9 月 15 日消息，据外媒援引两名知情人士消息，特斯拉正在重新评估其在中国销售电动汽车的战略，考虑关闭北京等大城市豪华购物中心的门店，更多聚焦位于郊区的低成本门店。在疫情期间，这些市中心门店的客流量大幅下降。 知情人士称，特斯拉现在正在努力实现其首席执行官埃隆·马斯克（Elon Musk）制定的目\n本文链接",
+          "link": "https://news.cnblogs.com/n/728351/",
+          "publishedOn": "2022-09-16T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "传特斯拉拟调整中国零售战略：关闭市中心门店 聚焦低成本郊区门店",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728348/",
+          "author": null,
+          "description": "当地时间周三，欧洲第二高等法院“欧盟普通法院”维持了欧盟委员会对谷歌利用其安卓移动操作系统打压竞争对手的反垄断决定。法院将罚款从 43 亿欧元缩减至 41 亿欧元。这对欧盟遏制大型科技公司涉嫌反竞争行为的运动是一种推动。 谷歌发言人表示，我们对法院没有完全废除这一决定感到失望。安卓系统在手机行业创造\n本文链接",
+          "link": "https://news.cnblogs.com/n/728348/",
+          "publishedOn": "2022-09-15T23:56:04.000Z",
+          "wordCount": 161,
+          "title": "谷歌败诉其迄今以来最狠罚款“安卓上诉案”，罚金仅微降至41亿欧元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728347/",
+          "author": null,
+          "description": "欢迎关注“新浪科技”的微信订阅号：techsina 同一款产品，价格相差 14 倍？近日，有关“代工厂产品被网红品牌卖出高价”的话题登上微博热搜。有人认为，代工厂相同，不代表产品原料、品质就一样，但近年来由网红产品引发的价格虚高，仍然成为外界关注的焦点。 作者 陈法善 编辑 刘杨 来源：豹变 网红产\n本文链接",
+          "link": "https://news.cnblogs.com/n/728347/",
+          "publishedOn": "2022-09-15T18:28:14.000Z",
+          "wordCount": 161,
+          "title": "网红产品卖得贵，背后是代工厂的泪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728345/",
+          "author": null,
+          "description": "“我用它的电，它吸我的血” 撰文/黎炫岐 编辑/文婕 来源：锌刻度 “你真的不好奇它租给你的是什么电吗，难不成是爱迪生那会儿传下来的百年老电吗？”、“我用它的电，它吸我的血”、“共享充电宝卖的是电吗？卖的是教训”…… 近日的脱口秀大会上，脱口秀演员 House 对“共享充电宝太可怕了”的一连串精准吐\n本文链接",
+          "link": "https://news.cnblogs.com/n/728345/",
+          "publishedOn": "2022-09-15T18:26:02.000Z",
+          "wordCount": 161,
+          "title": "共享充电宝处境尴尬：年轻人戒不掉，“小竹兽”赚不了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728346/",
+          "author": null,
+          "description": "文 Hernanderz 来源：价值研究所 还有两天，首发用户们就能拿到最新的 iPhone 14 系列了，想必 iPhone 14 系列又能再一次在网络上掀起无与伦比的热度。结合朋友圈和网友的晒单情况来看，提升“巨大”的 iPhone 14 Pro 和 iPhone 14 Pro Max 无疑成为\n本文链接",
+          "link": "https://news.cnblogs.com/n/728346/",
+          "publishedOn": "2022-09-15T18:10:00.000Z",
+          "wordCount": 161,
+          "title": "iPhone 14 Plus预售量“暴死”：苹果大屏策略的首次吃瘪",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/728281/",
           "author": null,
@@ -8419,96 +8699,6 @@
           "publishedOn": "2022-08-18T13:24:00.000Z",
           "wordCount": 161,
           "title": "传台积电3nm芯片9月量产！苹果先用，后面7个排大队",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/726623/",
-          "author": null,
-          "description": "8 月 16 日，CNMO 注意到，魏牌汽车 CEO 李瑞峰在微博上发文表示，增程式的本质是“串联式插电混动”，而魏牌智能 DHT 本质是“串并联插电混动”，比增程式多了一套并联系统，实现全场景、全速域能效最优，说增程是一辆电动车，PHEV 是一辆燃油车，这是对新能源产品的极大讽刺，什么逻辑呢！在发\n本文链接",
-          "link": "https://news.cnblogs.com/n/726623/",
-          "publishedOn": "2022-08-17T00:45:00.000Z",
-          "wordCount": 161,
-          "title": "又开怼了！魏牌CEO称李想是逻辑鬼才 此前还怼过余承东",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/726621/",
-          "author": null,
-          "description": "据多方消息，华为 Mate 50 系列将会在下个月正式登场，发布会日期可能与 iPhone 14 系列相近，会在 9 月中上旬。 根据博主厂长是关同学最新消息，华为 Mate 50 系列将会在本月底开启筹备预热，应该会在月底开启第一波的物料曝光，并在下月初开启大规模预热。 从入网等信息来看，华为 M\n本文链接",
-          "link": "https://news.cnblogs.com/n/726621/",
-          "publishedOn": "2022-08-17T00:40:00.000Z",
-          "wordCount": 161,
-          "title": "华为Mate 50系列或月底开启预热：至少三款 发布时间与iPhone 14撞期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/726622/",
-          "author": null,
-          "description": "8 月 17 日消息，乐信（NASDAQ：LX）发布 2022 年 2 季度未经审计财务业绩。在 2 季度疫情冲击、宏观经济承压等外部环境下，乐信促成借款 491 亿元（人民币，下同），环比上升 13.9%；在贷余额 866 亿元，环比上升 3.3%；营收 24 亿元，环比上升 40.9%；利润（N\n本文链接",
-          "link": "https://news.cnblogs.com/n/726622/",
-          "publishedOn": "2022-08-17T00:35:00.000Z",
-          "wordCount": 161,
-          "title": "乐信发布Q2财报：营收24亿元，环比上升40.9%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/726620/",
-          "author": null,
-          "description": "8 月 17 日消息，为了应对不断飙升的通胀，亚马逊计划今年在假日季期间提高服务费，并且将增加的部分成本转嫁给依赖该网站销售产品的数百万第三方商家。 美国当地时间周二，亚马逊在给卖家的电子邮件中说，从 10 月 15 日到 2023 年 1 月 14 日期间，使用亚马逊递送服务（FBA）的第三方卖家\n本文链接",
-          "link": "https://news.cnblogs.com/n/726620/",
-          "publishedOn": "2022-08-17T00:30:00.000Z",
-          "wordCount": 161,
-          "title": "亚马逊年底购物季加收第三方卖家服务费，每件商品0.35美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/726619/",
-          "author": null,
-          "description": "台湾《工商时报》8 月 17 日消息，虽然近期有关台积电可能延迟 3 纳米制程建设进度的消息频传，但台积电已重申 3 纳米制程扩产将按原计划推进。 业界人士表示，今年底苹果将是第一家采用台积电 3 纳米投片（流片）的客户，首款产品可能是 M2 Pro 处理器，而明年包括新款 iPhone 专用 A1\n本文链接",
-          "link": "https://news.cnblogs.com/n/726619/",
-          "publishedOn": "2022-08-17T00:25:00.000Z",
-          "wordCount": 161,
-          "title": "台媒：今年底苹果将成第一家采用台积电3纳米客户，首款产品或为M2 Pro处理器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/726617/",
-          "author": null,
-          "description": "今年上半年，三大运营商日均约赚 5.16 亿元。 8 月 16 日，随着中国电信 2022 年上半年财报披露，三大基础电信运营商上半年业绩全部出炉。上半年，三大运营商合计实现营收约 9133.8 亿元，净利润约 933.5 亿元，日均约赚 5.16 亿元。 在外界较为关注的 5G 进展方面，三大运营\n本文链接",
-          "link": "https://news.cnblogs.com/n/726617/",
-          "publishedOn": "2022-08-17T00:20:00.000Z",
-          "wordCount": 161,
-          "title": "三大运营商上半年日均赚超5亿元，中国电信净利增速最低",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/726618/",
-          "author": null,
-          "description": "最近曼联的流量实在太大，连特斯拉 CEO 马斯克也横插一脚。8 月 17 日，特斯拉 CEO 马斯克在推特发文称，将收购英超俱乐部曼联。 而马斯克的上一条微博还在讨论共和党和民主党的选边问题。不知道马斯克此举是在揶揄美国政坛，还是真心想买下曼联。 昔日的英超豪门曼联目前开赛两连败，是整整 30 年来\n本文链接",
-          "link": "https://news.cnblogs.com/n/726618/",
-          "publishedOn": "2022-08-17T00:15:00.000Z",
-          "wordCount": 161,
-          "title": "马斯克的新目标？在推特发文称要收购曼联",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/726616/",
-          "author": null,
-          "description": "明敏发自凹非寺 量子位公众号 QbitAI 仅仅需要一个平板电脑，就能实现 3D 空间的实时重建和理解了！ 看，只要拿着平板电脑走一走，房间内的物体就能被实时重建、分割和识别出来，整个过程行云流水。 要知道，3D 重建和语义理解，是机器人、自动驾驶、AR/VR 等领域的关键共性技术，长期以来面临算法\n本文链接",
-          "link": "https://news.cnblogs.com/n/726616/",
-          "publishedOn": "2022-08-17T00:08:00.000Z",
-          "wordCount": 161,
-          "title": "平板摄像头+算力搞定3D空间实时重建和理解，来自禾多科技和清华",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/726615/",
-          "author": null,
-          "description": "梦晨明敏发自凹非寺 量子位公众号 QbitAI 要说对延缓衰老、“返老还童”的执著，现代人可一点儿都不比秦始皇少。 什么“换血大法”、抗衰口服药……都是热议颇多的方法，相关研究也频频登上顶级学术期刊。 最近，Nature 子刊报道了一项突破研究—— 证明了生命在时间面前不是无能为力，细胞衰老的进程可\n本文链接",
-          "link": "https://news.cnblogs.com/n/726615/",
-          "publishedOn": "2022-08-17T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "衰老进程可操控！换血法开创团队新突破，离破解衰老之谜又近一步",
           "imageUrl": null
         }
       ]
