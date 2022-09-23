@@ -6,6 +6,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n怎样回收火箭？SpaceX 公司造了两艘船，每艘船的上方架设一张超级大网，等着落向大海的火箭掉入网中。（via）\n本周话题：Figma 为什么赢了 Sketch\n上周，Adobe 公司宣布，200亿美元收购设计软件 Figma。\n\n这个收购价高得吓人。Figma 去年的收入是5000万美元，今年据说可以到4亿美元。就算这个预测是可靠的，收购价也达到了收入的50倍！\n作为比较，微软2018年收购 GitHub 的价格是75亿美元，那一年 GitHub 的收入约为3亿美元。\n为什么一个面向专业用户、2016年才问世的设计软件，能值这么多钱？\n\nFigma 有一个竞争对手 Sketch，功能差不多。直到2019年，Sketch 的估值还超过 Figma。当时，网上还有猜测，Sketch 什么时候会收购 Figma，但是没想到后来就被 Figma 甩开差距了。\n今天就想谈谈 Figma 的高估值，以及为什么 Sketch 输给了它？\n我不是设计师用户，无法全面分析，只想指出在技术上，它们有一个重大差异。\nSketch 是一个原生 MacOS 应用，只能在苹果电脑上安装运行，没有免费版。Figma 则是一个 Web 应用，只要有浏览器就能用，而且有免费版。 下图是浏览器打开 Figma 的样子。\n\n你想想看，一个要用 Mac 电脑下载安装，付费才能用，另一个只要打开浏览器就能用，谁占优势不言而喻。\n但是，事情没这么简单。原生应用则可以调用底层的系统 API，网页应用受限于浏览器，很多功能实现不了。所以，Sketch 功能和性能肯定强于 Figm…",
+          "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html",
+          "publishedOn": "2022-09-23T00:22:27.000Z",
+          "wordCount": 848,
+          "title": "科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n成都太古里的熊猫候车亭。（via）\n本周话题：程序员需要担心裁员吗？\nHacker News 论坛上面，一个欧洲程序员问大家：欧洲经济不景气，公司可能把他裁掉，他应该怎么办？\n\n很多人发表看法，我觉得很有参考价值。不少国内程序员大概也有类似担心，今天就结合国外网友的看法，说说程序员裁员这件事。\n首先，程序员不需要过分担心裁员，这有以下几个原因。\n（1）称职的程序员很难招聘。公司实际上会尽可能避免解雇程序员。\n（2）已经上线的系统需要维护。如果你参与线上系统，除非公司打算放弃该系统，否则不太会考虑解雇你。\n（3）就算公司真的解雇你，你属于有多年项目经验的程序员，这种人在市场上是抢手的，不难找到下一份工作，而且工资很可能会增加。\n（4）很多公司不是真的要裁员，而是在调整雇员结构。它解雇4个人，同时新招4个人，经济形势不好只是一个借口。所以，就算离开现在的公司，其他正在招人的公司还有很多。\n（5）如果你不喜欢现在的工作，被解雇其实是一件好事，让你有机会去找一份让自己兴奋的新工作。\n由于上面这些原因，比起其他行业，程序员裁员不算很严重的状况。\n但是为了预防万一，你可以做两方面的准备。\n预留一些现金，至少够应付三个月的支出。\n强化一些方便求职的技能。\n不过，这两件事是平时就应该做到的，不管你会不会遇到裁员。\n那个帖子的所有回答里面，我最喜欢下面这个回答。\n\"与其担心宏观经济，不如关注自己。你对自己生活的影响，往往比宏观经济对你的影响大得多。\"\n公司裁员肯定会对一个人产生影响，但是它决定不了你的未来，你自己才是最大的影响因素。\n如果公司确实要裁员…",
@@ -58,6 +68,26 @@
       "feedUrl": "https://rsshub.app/sspai/matrix",
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
+        {
+          "id": "https://sspai.com/post/75709",
+          "author": "hkoch24",
+          "description": "个人日程管理的需求\n在选择日程管理的形式或者app的时候，我的要求很简单：即先确定需求，再按照需求探索日程管理方式。我对日程管理的需求有几点：\n\n任务与日程要在同一个页面；\n尽可能随手拿起就能使用；\n有较大的自由度，即可以根据个人需求添加备注等；\n要能够自上而下地「俯视」整个日程管理过程；\n随时可以逃离。\n\n根据这几点需求，我开始了自己的日程管理尝试1。\n日程管理尝试\n1. 纸质日程本\n本科时期，还在用着黑莓9790、z10等一些「非主流」手机，他们没办法与电脑形成一个良好的生态系统，所以没有习惯用他们来做日程管理，而是使用传统的纸质日程本。\n当时，已经在用Moleskine的单行笔记本做日记本，对M家的本子很有好感，尤其是口袋本，非常便携。出于一种仪式感的传承，我开始尝试M家的周记本：本子摊开，左边是一周的日程记录，可以记录有确定时间的日程，也可以记录只固定日期的日程；右边是一整面的横线页面，可以写下一些备忘事项，例如可能需要本周或者下周要做的事情等，也可以记录本周的一些打卡事项。\n\n后来尝试了M家特有的400页超厚日程本，一天一页，每一页都是当天从8点到22点的日程记录。本子非常厚，携带有点不方便；记录是方便许多，能写的位置也多了很多，但因为不是每天都有排满的日程，一些琐事写进去也没意思，最终本子留了许多空，总感觉有点浪费，尤其是年终总结的时候觉得似乎是虚度了时光一样。\n\n后来也尝试过MUJI的月记本，但是总感觉没有周记本好用，我便回归Moleskine的周记本，直到我后来舍弃它。\n2. 手机自带日程管理工具\n舍弃纸质日程本的原因有两个：\n\n设备和系统升级了，从「非主流」机升级到了带有安卓系统的Blackberry Keyone，自带的日历强大了很多；\n当时正在读研究生，我们的课比谁都多，每天都被课程排满，而这些课程都写进纸质笔记本里不太可能，只把课程外的待办事项写进本…",
+          "link": "https://sspai.com/post/75709",
+          "publishedOn": "2022-09-22T05:26:19.000Z",
+          "wordCount": 530,
+          "title": "日程管理 with Firstseed Calendar",
+          "imageUrl": "https://cdn.sspai.com/2022/09/21/e34a123795319a6d562d3dcad16b2a1a.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/75841",
+          "author": "CLU",
+          "description": "上一篇《exping：一个地图创作工具是怎么诞生的？》 和大家分享了 exping 的诞生故事后。感谢大家的支持与建议，也感谢少数派的推荐，让更多的人认识了 exping ，其中也有投资人、媒体关注到了我们。这是意料之外的收获。时隔3个月，我们有了许多的变化与提升。在这段时间里，也有更多的机会去接触用户，进行深入的交流，从中也更清晰我们的产品定位，以及我们的使命。\n「地图」就像一张画布，是另类的创作载体\n从地图诞生以来，大家对地图的认识，更多是作为「导航指引」用途。其中涉及了不少的学科，如「地图学」、「地理学」、「测绘学」、「遥感技术」等等。根据地图的应用场景，结合这些学科专业，绘制不同的专用地图。\n因此，地图创作对大家来说似乎需要有一定的专业要求。而 exping 的诞生始于让每个人可以轻松、容易地呈现自己的品味地图。地图就像一幅画的画布，一个另类的创作载体。（欢迎看看小编写的文章《emoji + 地图 = exping》）在此之上以标记「点」，绘制「路线」，表达基于地理位置上的故事。「地图」作为重要的画布，重点在于可塑性，如何帮助创作者对地点进行多样性的表达。那或许一般的地图不足以满足这些需求，借此，这次我们和设计师聊聊，exping 专属地图的一些设计心路历程。\n \n\n作为 exping 的设计师，你怎么理解 exping？\n当大家还在以图文的方式分享一个好地方的时候，exping 开始将地图作为主视角。 Explorer 可以方便快捷地添加去过、计划要去的地方以及设计路线，简单或隆重地补充对该地点的评价，上传相关照片。\n通过这种更直接的方式，将你的数据传递给你的观众，大幅度减少了“这是哪里？”，“我也想去”，“环境怎么样？”等问答游戏。\n在这之前，exping 的地图风格是怎样的？\n在 exping v0.1~0.3 的地图风格从 Light （简约）到 Stree…",
+          "link": "https://sspai.com/post/75841",
+          "publishedOn": "2022-09-21T04:36:13.000Z",
+          "wordCount": 580,
+          "title": "和设计师聊聊，exping 专属地图是如何设计？",
+          "imageUrl": "https://cdn.sspai.com/2022/09/21/614d44f49dd37dfe145e8ff4c2999411.jpg"
+        },
         {
           "id": "https://sspai.com/post/75833",
           "author": "一克",
@@ -667,26 +697,6 @@
           "wordCount": 478,
           "title": "兼顾颜值与散热的M-ATX机箱“小钢炮”：华硕AP201冰立方机箱",
           "imageUrl": "https://cdn.sspai.com/2022/08/25/461c87a6ed344dd3be7ac1d27acf3874.png"
-        },
-        {
-          "id": "https://sspai.com/post/75329",
-          "author": "清顺",
-          "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。 \n\nNotion、Obsidian、Logseq、Roam Research、Evernote、flomo、为知、飞书、语雀……知识管理/笔记软件越来越多，我总在不同应用间徘徊。直到有次忽然醒悟，知识管理软件不是管理知识，而是管理笔记。笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的知识。\n这么简单的事，我之前却一直没看透，总是把笔记与知识理解划上了等号。当要用到曾摘录的笔记时，就在各类知识管理软件里翻找，折腾一番才找到需要的笔记，有时甚至出现「自己不清楚放在哪里，也不清楚是否有」的情况。记笔记花了一个小时，下次寻找与重新消化又花了一个小时，原本为效率而生的知识管理软件变成了浪费时间的杀手。\n另一方面，我们在用知识管理软件的美观界面和强大功能的同时，也被这些软件所限制，无法完全按自己的想法输出笔记。比如，你长了一双翅膀，Markdown 文本是自由的天地，而进入 Notion 则被隔成一个个小房间，你在房间里待着很舒服，可一旦想去其他房间，就必须脱离 block，不比 Markdown 可以自由飞翔。\n\n突破迷思后，我基于 VuePress 和 vuepress-theme-hope 建立了 LearnData 项目，把知识笔记、生活记录、博客和任何觉得有价值的记录转成 Markdown 文本，然后推送到 GitHub 生成 Pages 静态页面，同步到国内云服务器形成 LearnData - 开源学习笔记。\n\nLearnData 的笔记/文章编辑均使用 Markdown，输出不再受到应用的局限。同时，LearnData …",
-          "link": "https://sspai.com/post/75329",
-          "publishedOn": "2022-08-24T03:30:00.000Z",
-          "wordCount": 628,
-          "title": "抛弃知识管理软件的尝试：把博客变为知识库",
-          "imageUrl": "https://cdn.sspai.com/article/2b8e78dd-735c-3771-6eb1-604852de66e3.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/75325",
-          "author": "老木曾雪菜",
-          "description": "前言\n2022年是新能源车国补的收尾年，随着销量提升，纯电新能源车品牌不断增多，可选性逐渐增大，价格也不断攀升。 \n\n新能源车最完美的使用环境就是有家用充电桩的日常通勤，享受每公里0.05元以下的电费成本，每天到家就能补足电量，即不产生里程焦虑，也极大程度降低出行成本。\n早年新能源车标配充电桩，如今随着价格的提高，充电桩成为了重点阉割项目，不说早早就卖8000的特斯拉，今年的小鹏、问界、沃尔沃都不再赠送充电桩，未来越来越多的厂商会加入这一行列。\n7KW充电桩或成为未来主流\n虽然我个人认为家用申请380V电表，安装21KW充电桩是拓展性最好的极优解，但目前随着环境的改变，未来大部分国人的家充桩都会是220V 7KW的家用桩。 \n\n首先是电网的审批层面，上海地区的国家电网已经于今年停止了380V充电桩电表的新装报批，目前国网只为新能源车主开放220V电表，最大功率7KW的申请渠道。\n这是因新能源车增多而出现的必然趋势，国内未来势必会逐渐取消380V电表用于充电。 \n\n第二是对于交流充电而言，家用充电桩是带有保护装置的连接件，充电过程发生于车载充电机，最快交流充电速度由充电机决定，目前国内在售交流充电速率最高的是16KW，搭载在Model S与Model X两台百万级豪车上，一般大众款新能源车，没有这样的高功率电机。 \n\n理想、威马、蔚来、比亚迪、埃安、荣威等主流的新能源车品牌的核心车型，基本都是内置7KW充电机，不支持11KW三相电来交流充电，所以对于很多车主，7KW充电桩已经是顶配了。\n最后是7KW交流充电的表现，以谷时点8小时计算，可以为车辆补充56度电，目前市面大部分家用中小型纯电新能源车的能耗在每度电6~7公里，折算一夜谷时可以补电300~350公里，完全可以狠狠开上一整天。\n所以，因为政策、热销车辆和7KW充电桩家充综合体验来看，220V 7KW的家充桩或将是未来家庭…",
-          "link": "https://sspai.com/post/75325",
-          "publishedOn": "2022-08-23T23:54:30.000Z",
-          "wordCount": 479,
-          "title": "7KW或成为主流：家用充电桩比质比价",
-          "imageUrl": "https://cdn.sspai.com/2022/08/24/93b42137ab84b5e89acc4db31912f590.png"
         }
       ]
     },
@@ -744,6 +754,146 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72850",
+          "author": null,
+          "description": "一位用户名叫 Data 的卖家在一个流行黑客论坛出售包含 3.5 亿用户信息的 Ask.FM (ASKfm)数据库。这可能是有史以来最大规模的数据泄露事件之一。Ask.FM 是一个问答社交网络，2010 年上线，有逾 2.15 亿注册用户。Data 公布了数据样本，透露数据库字段包括 user_id、username、mail、hash、salt、fbid、twitterid、vkid、fbuid、iguid。Ask.FM 的密码使用了 SHA1 加密，因此比较容易破解。Data 表示最早是在 2019 年访问 Ask.FM 服务器，2020-03-14 获得了它的数据库。Ask.FM 在 2020 年就知道了这次入侵，但未予以披露。它至今没有对此作出回应。",
+          "link": "https://www.solidot.org/story?sid=72850",
+          "publishedOn": "2022-09-22T15:33:59.000Z",
+          "wordCount": 175,
+          "title": "Ask.FM 3.5 亿用户数据库在黑客论坛出售",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72849",
+          "author": null,
+          "description": "《连线》报道称 Telegram 存在严重的人肉搜索问题。来自中东、东南亚和东欧的活动人士和专家表示，Telegram 平台无视他们对于政治动机人肉搜索的警告。Telegram 目前有逾 7 亿活跃用户，它几乎不对内容进行审查，因此在独裁专制国家居民、阴谋论者、反疫苗者等人群中非常受欢迎。但数字权利活动人士 Victoire Rio 指出这也导致政治人肉搜索的扩散，容易被用于发动众包攻击。攻击者可以发布一个目标，鼓励追随者挖掘或分享目标的私人信息。虚假信息或人肉搜索内容可以交叉发布通过有数以千计用户的频道进行病毒式传播。",
+          "link": "https://www.solidot.org/story?sid=72849",
+          "publishedOn": "2022-09-22T15:21:20.000Z",
+          "wordCount": 156,
+          "title": "Telegram 上的人肉搜索问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72848",
+          "author": null,
+          "description": "NASA 执行“双小行星重定向测试”（DART）任务的飞船将于 9 月 26 日撞击双小行星系统 Didymos，以尝试改变其运行轨道。DART 飞船重 500 公斤，于去年 11 月 24 日发射升空，预计将于 9 月 26 日抵达 Didymos，随后撞上 160 米宽的卫星 Dimorphos，并试图改变其运行的轨道。NASA 科学家表示无论是 Didymos 还是 Dimorphos 都不会对地球造成任何威胁。研究团队希望此次试验获得的结果，为他们未来应对潜在致命的太空岩石提供重要参考。如果 DART 以每秒 6.6 公里左右的速度撞击 Dimorphos ，会改变其运行轨道持续至少 73 秒，大约改变 10%。不过研究人员认为，如果能改变其轨道持续 10 分钟，才会被认为试验取得了成功。",
+          "link": "https://www.solidot.org/story?sid=72848",
+          "publishedOn": "2022-09-22T11:19:01.000Z",
+          "wordCount": 184,
+          "title": "NASA 准备测试飞行器将小行星撞离轨道",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72847",
+          "author": null,
+          "description": "根据发表在《eClinicalMedicine》期刊上的一项研究，中年做噩梦可能是认知衰退的信号。如果获得证实可能有助于开发新的痴呆症筛查和干预方法。多数人都会做噩梦，5% 的成年每周至少会做一次噩梦。压力、焦虑和睡眠不足是潜在诱因。先前对帕金森症患者的研究将频繁做噩梦和认知能力下降的速度关联起来。伯明翰大学的研究人员调查了健康成年人中间的做噩梦和认知能力下降是否存在类似的联系。研究人员调查了逾 600 名中年人（35-64 岁），2600 名 79 岁及以上的老年人，对他们展开了多年的跟踪，持续评估其大脑健康。结果显示，每周至少做一次噩梦的中年人在未来十年出现认知能力下降的可能性是很少做噩梦的人的四倍。在老年人中间，经常报告噩梦的人在随后几年被诊断为痴呆症的可能性是其他人的两倍。",
+          "link": "https://www.solidot.org/story?sid=72847",
+          "publishedOn": "2022-09-22T11:03:17.000Z",
+          "wordCount": 151,
+          "title": "中年做噩梦可能是认知衰退的信号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72846",
+          "author": null,
+          "description": "根据发表在《eLife》期刊上的一项研究，多伦多大学的研究人员发现，高脂肪饮食会导致小鼠骨髓的快速变化，推动炎症免疫细胞的产生。研究结果可能有助于解释高脂肪饮食是如何引发炎症的，炎症可能导致肥胖个体产生胰岛素抵抗、2型糖尿病和其他并发症。被称为单核细胞的炎症免疫细胞侵入脂肪组织是肥胖的标志，但导致这种有害现象的原因尚不清楚。骨髓中产生包括单核细胞在内的许多免疫细胞，对环境变化非常敏感。科学家们已经证明，骨髓中的脂肪细胞会在高脂肪饮食的作用下迅速膨胀。",
+          "link": "https://www.solidot.org/story?sid=72846",
+          "publishedOn": "2022-09-22T10:11:04.000Z",
+          "wordCount": 144,
+          "title": "研究发现高脂肪饮食会刺激骨骼产生炎症免疫细胞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72845",
+          "author": null,
+          "description": "美国第二大有线电视运营商 Charter 通信公司因其技工谋杀客户被罚 11 亿美元。2019 年 12 月 83 岁的 Betty Thomas 被 Charter 旗下 Spectrum 的技术服务人员 Roy Holden Jr 用公司发的工具刀杀死。2021 年他认罪并被判终身监禁。2020 年 Thomas 的家人起诉了 Holden 的雇主 Charter，认为该公司需要为谋杀承担责任。Thomas 的家人列举了种种证据显示 Charter 公司有重大过失，没有核查 Holden 的就业历史，忽视了其不轨行为，包括盗用老年客户的信用卡和支票。Thomas 遭到谋杀被认为就是他在盗窃其银行卡时被逮住随后将她杀害。今年 6 月陪审团做出了  70 亿美元的惩罚性赔偿和 3.375 亿美元补偿性赔偿的裁决。本周达拉斯县法院法官 Juan Renteria 将惩罚性赔偿降至 7.5 亿美元，补偿性赔偿不变，加上利息总的罚款将逾 11 亿美元。",
+          "link": "https://www.solidot.org/story?sid=72845",
+          "publishedOn": "2022-09-22T09:56:52.000Z",
+          "wordCount": 205,
+          "title": "美国 Charter 通信公司因其技工谋杀客户被罚 11 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72844",
+          "author": null,
+          "description": "过去几年苹果逐渐在印度和越南组装其产品，减少对中国的依赖。苹果正准备将印度和越南作为两个重要制造中心，到 2022 年底将 5% 的 iPhone 14 生产转移到印度，扩大印度的制造能力，到 2025 年将四分之一的生产转移到印度。而越南到 2025 年将生产五分之一的 iPad 和 Apple Watch，5% 的 MacBook，以及 65% 的 65%。印度过去几年也在通过优惠政策吸引代工巨头如富士康加大投资。充足的劳动力资源和廉价的劳动力成本让印度成为下一个制造基地的理想地点。",
+          "link": "https://www.solidot.org/story?sid=72844",
+          "publishedOn": "2022-09-22T08:47:08.000Z",
+          "wordCount": 171,
+          "title": "苹果计划到 2025 年将四分之一的生产转移到印度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72843",
+          "author": null,
+          "description": "盖蒂图片社(Getty Images)禁止上传和销售 AI 工具如 DALL-E、Midjourney 和 Stable Diffusion 生成的图像。过去几个月自然语言图像生成模型如 DALL-E 产生了一批令人称奇的艺术图，部分艺术家随后将图像上传到图像销售网站销售。但出于版权方面的担忧（AI 图像是在现有图像的基础上生成的），图片网站 Newgrounds、PurplePort 和 FurAffinity 都禁止了此类内容。盖蒂图片社是最新一个做出类似决定的平台，CEO Craig Peters 表示此举是出于对 AI 生成内容合法性的担忧，以及旨在保护其客户，AI 生成的图像可能会给客户带来法律风险。另一个平台 Shutterstock 尚未禁止此类内容，但限制了搜索。",
+          "link": "https://www.solidot.org/story?sid=72843",
+          "publishedOn": "2022-09-22T08:25:46.000Z",
+          "wordCount": 183,
+          "title": "Getty Images 禁止 AI 生成的图像",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72842",
+          "author": null,
+          "description": "Alphabet 联合创始人 Larry Page 资助的飞行出租车公司 Kitty Hawk CEO Sebastian Thrun 向员工通知了裁员的消息。Thrun 是前 Google X 的创始人，Larry Page 多年来一直是 Kitty Hawk 唯一的投资人。该公司研发的飞车为全电推进，能像直升机那样垂直起飞。它研发了多个原型，包括 Cora、Flyer 以及最近的 Heaviside，都没有取得成果，目前恢复到研发模式。",
+          "link": "https://www.solidot.org/story?sid=72842",
+          "publishedOn": "2022-09-22T07:42:13.000Z",
+          "wordCount": 173,
+          "title": "Larry Page 投资的飞车公司裁员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72841",
+          "author": null,
+          "description": "WSJ 援引知情人士的消息报道，Meta 计划在未来几个月内削减至少 10% 的开支，办法之一是缩减人员。这家社交媒体巨头目前面临增长停滞和竞争加剧的问题。社交巨人已低调着手把一大批员工挤走，具体办法是重组部门，并给受影响的员工一个有限的时间窗口期来申请公司内部其他职位，此举既能实现减员，又可避免大规模发放解雇通知书。对一些 Meta 员工来说，在有限的内部窗口期重新申请工作的过程简直像是人力资源炼狱，他们称之为“30日名单”。在 Meta，过去通常只有那些被认为表现不理想的员工才会找不到新职位。而现在，受影响的员工和经理们称，口碑好、业绩好的员工也会定期被挤走。",
+          "link": "https://www.solidot.org/story?sid=72841",
+          "publishedOn": "2022-09-22T03:53:46.000Z",
+          "wordCount": 162,
+          "title": "Meta 计划削减至少 10% 的开支",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72840",
+          "author": null,
+          "description": "英伟达最新一代旗舰显卡的价格令绝大部分玩家却步，也引发了争议。CEO 黄仁勋在 Q&A 问答中回应说，摩尔定律已经死亡了，芯片的成本会随着时间逐渐下降的想法是过去时。今天 12 寸晶圆的价格要昂贵得多。摩尔定律描述了 PC 性能和价格之间的一种趋势：每两年性能提升一倍价格下降一半。黄仁勋认为显卡价格上涨的背后的一个因素是元件成本的上升。",
+          "link": "https://www.solidot.org/story?sid=72840",
+          "publishedOn": "2022-09-22T03:50:03.000Z",
+          "wordCount": 159,
+          "title": "英伟达 CEO 称显卡降价早已是过去时",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72839",
+          "author": null,
+          "description": "上周 22 岁的 Mahsa Amini 因为头巾没达到政府的标准而被道德警察拘捕被殴打致死，这起事件在伊朗各地引发了大规模抗议。反政府抗议蔓延至数十个城市。在 Amini 的家乡库尔德斯坦省，至少有七人丧生。妇女冒着被逮捕的危险在公共场合摘下并焚烧她们的头巾。抗议者高喊“独裁者去死”、“生命、自由和妇女”等口号，呼吁结束伊朗伊斯兰共和国。政府则派出防暴警察和便衣民兵等安全部队镇压抗议者。在有抗议活动的社区，互联网和手机服务已被中断。",
+          "link": "https://www.solidot.org/story?sid=72839",
+          "publishedOn": "2022-09-22T03:22:00.000Z",
+          "wordCount": 150,
+          "title": "伊朗再次切断互联网和移动服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72838",
+          "author": null,
+          "description": "加密货币做市商 Wintermute 首席执行官 Evgeny Gaevoy 周二发推文披露，Wintermute 的去中心化融资业务（DeFi）遭黑客攻击，损失约 1.6 亿美元。该公司的中心化融资和场外业务没有受到影响，而该公司“剩余股本超过上述金额的两倍，具有偿付能力”。Gaevoy 说，“如果你和 Wintermute 签订了做市协议，你的资金是安全的。今天我们的服务会受到干扰，可能会持续几天，之后会恢复正常。”",
+          "link": "https://www.solidot.org/story?sid=72838",
+          "publishedOn": "2022-09-21T16:03:48.000Z",
+          "wordCount": 174,
+          "title": "加密货币做市商 Wintermute DeFi 业务遭攻击损失 1.6 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72837",
+          "author": null,
+          "description": "Wasmtime WebAssembly 运行时 1.0 版发布，这意味着它做好了用于生产的准备。WebAssembly 或 wasm 源于 Mozilla 发起的 Asm.js 项目，设计补充 JavaScript，能提供比 JavaScript 更快的编译及执行，让高性能 Web 应用在浏览器上运行成为可能。Wasmtime 是 WebAssembly 的一个独立运行时项目，由  Bytecode Alliance 发起，能在 Web 之外运行 WebAssembly 代码，设计成为一种可配置可嵌入运行时，能在任何应用上运行。开发者列举了多个使用 Wasmtime 的项目：Shopify 的 WebAssembly 引擎在切换到 Wasmtime 之后执行性能改进了 50%；Fastly 在采用 Wasmtime 之后执行性能提高 50%，每秒请求增加了 72% 到 163%；等等。",
+          "link": "https://www.solidot.org/story?sid=72837",
+          "publishedOn": "2022-09-21T15:47:18.000Z",
+          "wordCount": 192,
+          "title": "Wasmtime 1.0 发布",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72836",
           "author": null,
@@ -3453,106 +3603,6 @@
           "wordCount": 157,
           "title": "前苹果工程师承认窃取苹果汽车机密材料",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72562",
-          "author": null,
-          "description": "华为创始人任正非在公司内部论坛发表文章，预测未来十年全球经济会持续衰退，华为要把活下来作为最主要纲领。从追求规模转向追求利润和现金流，保证渡过未来三年的危机。任正非称，“由于战争的影响以及美国继续封锁打压的原因，全世界的经济在未来3到5年内都不可能转好，加上疫情影响，全球应该没有一个地区是亮点。”",
-          "link": "https://www.solidot.org/story?sid=72562",
-          "publishedOn": "2022-08-24T11:17:07.000Z",
-          "wordCount": 144,
-          "title": "华为创始人表示公司要进入生存模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72561",
-          "author": null,
-          "description": "气象学常被称专家可犯错但仍然能保持其工作的唯一领域。但这可能不适合匈牙利。周一匈牙利以气象预报不准确解雇了两位最高级的气象官员——气象局局长及其副手。国家气象局预测周末会有一场严重的风暴，促使政府推迟了国庆节燃放烟花的计划，但最后当天无事发生。两名最高气象官员因预报不准确而被免职。气象局在其 Facebook 账号上发表了道歉声明，称根据其模型，当天的实际天气是最不可能出现的情况，但“不幸的是，这种不确定性因素是我们职业的一部分”。",
-          "link": "https://www.solidot.org/story?sid=72561",
-          "publishedOn": "2022-08-24T10:53:58.000Z",
-          "wordCount": 146,
-          "title": "匈牙利因预报不准确解雇气象官员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72560",
-          "author": null,
-          "description": "在八年前发布首个预告之后，开放世界僵尸末日游戏《死亡岛2（Dead Island 2）》在科隆游戏展上公布了首个游戏演示视频，正式宣布游戏将于 2023 年 2 月 2 日发售。《死亡岛2》在 2014 年 E3 展会上发布的首个预告片激起了玩家的浓厚兴趣，观看量超过 2600 万，但游戏本身的开发却一波三折。游戏最初由 Yager Development 开发， 2016 年 3 月由 Sumo Digital 接手，2019 年被 Deep Silver 旗下工作室 Dambuster Studios 接手。游戏以洛杉矶为背景，将支持 PC、Xbox 和 PS，其中 PC 版本将由 Epic Games 限时独占，游戏场景包括了比佛利山以及威尼斯海滩在内的洛杉矶标志性地点。科隆游戏展上公布的其它游戏包括了《Return To Monkey Island》、《The Expanse: A Telltale Series》、《家园3》，以及网易旗下工作室 Everstone Games 开发的动作游戏《燕云十六声》——以五代十国为背景。",
-          "link": "https://www.solidot.org/story?sid=72560",
-          "publishedOn": "2022-08-24T10:10:21.000Z",
-          "wordCount": 193,
-          "title": "《死亡岛2》发布首个游戏演示视频",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72559",
-          "author": null,
-          "description": "Google 研究院发布了 AI 图像降噪工具 MultiNerf。源代码托管在 GitHub 上，采用 Apache License 2.0 许可证。MultiNerf 的算法运行在原始图像数据上，利用 AI 计算出没有噪声的图像会怎么样。Google 研究人员在今年 5 月发布一则视频（YouTube）演示了其工作原理。",
-          "link": "https://www.solidot.org/story?sid=72559",
-          "publishedOn": "2022-08-24T09:45:57.000Z",
-          "wordCount": 176,
-          "title": "Google 发布 AI 图像降噪工具 MultiNerf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72558",
-          "author": null,
-          "description": "教育部通报了人民教育出版社小学数学教材插图问题的调查处理结果。通报称，“经查，教材插图主要存在三方面问题。一是不美观向上，与立德树人根本要求存在差距。整体画风不符合大众审美习惯，部分插图人物形象比较丑陋，精神风貌不佳，没有恰当体现出我国少年儿童阳光向上的形象。二是不严肃规范，个别插图甚至存在错误。插图数量过多，部分插图制作专业水准不高，个别插图存在科学性、规范性问题。三是不细致准确，部分插图容易引人误读。”通报表示没有发现人教社相关人员与插图作者和教材整体设计艺术总顾问之间存在经济利益输送问题。教育部宣布，依据有关规定，对有关单位及 27 名失职失责人员进行严肃追责问责。",
-          "link": "https://www.solidot.org/story?sid=72558",
-          "publishedOn": "2022-08-24T08:21:38.000Z",
-          "wordCount": 154,
-          "title": "人教插图事件 27 人被处罚",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72557",
-          "author": null,
-          "description": "苹果将提前在印度生产最新机型 iPhone 14。即将推出的 iPhone 14 最早可能于 11 月在印度生产，即 9 月发布新机型两个月之后。苹果今年 4 月表示开始在印度生产 iPhone 13 系列，即该系列发布七个月之后。苹果此前通知代工制造商，由于中国政府实施严格的防疫政策以及其他一些原因，该公司希望扩大在中国以外地区的生产。与此同时，印度总理莫迪领导下的政府致力于创建更加开放和可预测的监管制度，以及更简单的企业税结构。该国政府还向达到生产和收入目标的智能手机制造商提供财政奖励。分析师表示，一个挑战是在印度找到与中国一样多的熟练和非熟练劳动力。印度的港口、道路和基础设施也落后于中国。",
-          "link": "https://www.solidot.org/story?sid=72557",
-          "publishedOn": "2022-08-24T07:44:25.000Z",
-          "wordCount": 166,
-          "title": "苹果将提前在印度生产 iPhone 14",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72556",
-          "author": null,
-          "description": "根据发表在《Cell Reports》期刊上的一项研究，外表相似但毫无关联的人被发现共享了大量 DNA 序列。研究人员招募了 32 对外表相似的人，其中 16 对的相似度接近同卵双胞胎。研究人员测序了他们的 DNA 以了解在基因层面他们是否具有类似外表的相似度。结果显示，这些个体拥有相似的基因类型，但在DNA甲基化和微生物组景观方面有所不同。遗传分析显示，这 16 对人中的 9 对聚集在一起，基于 19277 个常见的单核苷酸多态性。此外，体重和身高等身体特征以及吸烟和教育等行为特征在长相相似的配对中也是相关的。综上所述，这些结果表明，共同的基因变异不仅与相似的外表有关，还可能影响共同的习惯和行为。",
-          "link": "https://www.solidot.org/story?sid=72556",
-          "publishedOn": "2022-08-24T03:16:50.000Z",
-          "wordCount": 163,
-          "title": "相似面孔的人可能共享 DNA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72555",
-          "author": null,
-          "description": "1986 年，IP 地址被分成五个地址类别（A 到 E），其中 A、B 和 C 为单播地址，D 为多播地址，E 保留供未来使用。每个类含有十六分之一到二分之一的 IPv4 地址空间。1993 年 IETF 提出了无类别域间路由 (Classless Inter-Domain Routing 或 CIDR)取代了这一方案，其中 E 类地址更名为 240/4 仍然保留供未来使用。但 IPv4 地址资源的稀缺促使 IETF 开始讨论使用这些保留供未来使用的地址空间。主要操作系统从 2008 年起就支持将 240/4 地址空间作为单播地址使用。部分企业被注意到私下使用 240/4 等保留的地址空间，没有与全球互联网社区协调。RIPE Atlas 的调查发现，亚马逊和 Verizon 都在使用 IPv4 240/4 地址块。",
-          "link": "https://www.solidot.org/story?sid=72555",
-          "publishedOn": "2022-08-24T02:41:16.000Z",
-          "wordCount": 205,
-          "title": "亚马逊和 Verizon 被发现使用 IPv4 240/4 地址段",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72554",
-          "author": null,
-          "description": "Chrome 94 的 Android 版本去年推出了名为“关注（Follow）”的类 RSS 阅读器功能。用户可以添加对网站的关注，浏览器的新标签页变成了简化版的 RSS 阅读器，以时间顺序展示所关注网站的更新。现在该功能开始进入到桌面版本和 ChromeOS 上。该功能被称为 Web Feed，Google Chrome 工程师 Adriana Porter Felt 证实它能从没有 RSS feed 的网站拉取内容。她表示功能还在开发之中，需要改进。它有可能在 9 月底随 Chrome 106 提供给用户使用。不同于 Android 版本在新标签页展示 RSS feed，桌面版本将通过侧边栏显示相应内容。",
-          "link": "https://www.solidot.org/story?sid=72554",
-          "publishedOn": "2022-08-23T15:23:03.000Z",
-          "wordCount": 214,
-          "title": "Chrome 桌面版加入 RSS 阅读器功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72553",
-          "author": null,
-          "description": "交通运输业占全球温室气体排放的四分之一，其中乘用车占一半以上。几乎每一个减排计划都涉及到替换使用化石燃料的汽车——通常是将电动车作为替代。但丹麦和荷兰等国采用了不同的方法让人们摆脱汽车——骑自行车。自行车在总体的数量上要多于汽车，1960 年代以来全世界共生产了逾 45 亿辆自行车，2.4 倍于汽车数量。中国的自行车数量最多占到了近四分之一，按人均计算丹麦、荷兰和挪威等人均超过 1 辆。澳大利亚、加拿大和美国等的自行车和汽车拥有量都很高，但因为地广出行更倾向于使用汽车。挪威因天气和地形限制了自行车的广泛使用，其它欧洲发达国家则因为环保和健康生活的理念大量使用自行车。广泛使用自行车的条件在很多国家并不存在，但假设我们能像丹麦那样大量骑自行车能减少多次温室气体排放？根据发表在《Communications Earth & Environment》期刊上的一项研究，丹麦人均每天骑 1.6 公里，如果全世界达到丹麦的自行车使用水平，能减少 4.14 亿吨二氧化碳排放，相当于英国在 2015 年的排放量。荷兰人均每天骑 2.6 公里，如果全世界达到荷兰的水平能减少近 7 亿吨二氧化碳排放，接近德国的年排放量。",
-          "link": "https://www.solidot.org/story?sid=72553",
-          "publishedOn": "2022-08-23T15:07:40.000Z",
-          "wordCount": 192,
-          "title": "如果人人都骑自行车",
-          "imageUrl": null
         }
       ]
     },
@@ -3561,6 +3611,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/728786/",
+          "author": null,
+          "description": "实验室工作人员制作蚊类标本。 在广东中山有这么一家实验室，以蚊子、苍蝇、蟑螂等“病媒生物”为研究对象，八年多来共采集到 600 多种 7 万余头病媒标本……这便是拱北海关珠海保健中心的国家医学媒介生物监测重点实验室（广东）。该实验室主要承担拱北关区病媒生物鉴定、病媒生物携带病原体检测、监测及风险分析\n本文链接",
+          "link": "https://news.cnblogs.com/n/728786/",
+          "publishedOn": "2022-09-23T01:33:00.000Z",
+          "wordCount": 161,
+          "title": "组图揭秘：一个研究蚊子、苍蝇、蟑螂的国家重点实验室",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728785/",
+          "author": null,
+          "description": "上个月，有位同事的房子快到期了，房东执意要涨价，没办法他干脆换了个地方。 就是现在住的离地铁有点远，所以想整个小电驴来代步。 于是，办公室里就开起了电驴选购指导会，聊起这个来大家可头头是道，毕竟作为新生代农民工，小电驴那绝对是通勤神器。 在一顿热火朝天的安利中，世超强推完美匹配小米生态的九号，托尼说\n本文链接",
+          "link": "https://news.cnblogs.com/n/728785/",
+          "publishedOn": "2022-09-23T01:28:00.000Z",
+          "wordCount": 161,
+          "title": "雅迪和爱玛都赚疯了，怎么小牛的日子过得这么惨？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728783/",
+          "author": null,
+          "description": "智通财经 APP 获悉，据媒体报道，特斯拉(TSLA.US)宣布将在美国召回近 110 万辆汽车，原因是其车窗自动反转系统存在故障，在检测到障碍物后可能无法做出正确反应。此次召回的车型包括部分 2017 至 2022 年生产的 Model3、2020 至 2021 年生产的 Model Y 以及 2\n本文链接",
+          "link": "https://news.cnblogs.com/n/728783/",
+          "publishedOn": "2022-09-23T01:13:00.000Z",
+          "wordCount": 161,
+          "title": "车窗反转系统存故障 特斯拉将在美国召回近110万辆汽车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728782/",
+          "author": null,
+          "description": "9 月 21 日，小鹏汽车（09868.HK/XPEV.US）最新旗舰纯电 SUV 小鹏 G9 正式上市，售价区间 30.99 万-46.99 万元，三个续航版本的 CLTC 综合工况续航里程分别为 570km、650km、702km。据悉，小鹏 G9 将在 10 月底大规模交付。 在当晚发布会上，\n本文链接",
+          "link": "https://news.cnblogs.com/n/728782/",
+          "publishedOn": "2022-09-23T01:08:00.000Z",
+          "wordCount": 161,
+          "title": "小鹏G9上市，30.99万只能买“丐版”，重点宣传的功能都得加钱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728781/",
+          "author": null,
+          "description": "9 月 21 日，航天员王亚平在直播时，回忆神舟十三号飞船返回时的惊险场面。飞船返回地面的过程很刺激，进入大气层时航天员的身体要承受十几分钟的过载，她透过舷窗能看到外面被火烧得通红的样子，能听到火燃烧的呼呼声。落地的一刻冲击力是非常大的，王亚平作为 02 航天员肩负着切伞的重要任务。 延伸阅读： 王\n本文链接",
+          "link": "https://news.cnblogs.com/n/728781/",
+          "publishedOn": "2022-09-23T01:00:00.000Z",
+          "wordCount": 161,
+          "title": "王亚平讲述神舟十三号返回过程：能听到火燃烧的声音 控制身体按下切伞按钮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728780/",
+          "author": null,
+          "description": "本文来源：时代财经 作者：林前 因一则保险补贴优惠，特斯拉近日陷入“变相降价”的舆论风波。 根据一份网传特斯拉内部邮件信息，在 9 月 16 日~9 月 30 日期间交付的中国制造特斯拉 Model 3、Model Y，若选择在特斯拉店内购买保险，且保险包含交强险、车损险的，均可享受 8000 元的\n本文链接",
+          "link": "https://news.cnblogs.com/n/728780/",
+          "publishedOn": "2022-09-23T00:53:00.000Z",
+          "wordCount": 161,
+          "title": "我在特斯拉上海工厂拧螺丝：每2小时休息10分钟，车间里全是年轻人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728779/",
+          "author": null,
+          "description": "9 月 22 日晚间，南方航空(600029) 公告，公司控股子公司厦门航空有限公司于当日与空客公司签订协议，向空客公司购买 40 架 A320NEO 系列飞机。A320NEO 系列飞机的公开市场报价为每架约 1.05 亿美元至 1.36 亿美元。40 架 A320NEO 系列飞机的基本价格约为 4\n本文链接",
+          "link": "https://news.cnblogs.com/n/728779/",
+          "publishedOn": "2022-09-23T00:45:00.000Z",
+          "wordCount": 161,
+          "title": "338亿元！南方航空子公司向空客公司购买40架飞机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728778/",
+          "author": null,
+          "description": "9 月 21 日，华为 Mate 50 系列正式开售，作为时隔两年的重磅旗舰，Mate 50 系列毫无悬念的出现了抢购热潮，线上秒罄、线下排队的场景也宣告了华为手机回来了。 除了消费者购买外，黄牛也是对 Mate 50 系列展开疯抢，新机价格甚至被黄牛最高加价 8000 元，顶配 RS 保时捷设计版\n本文链接",
+          "link": "https://news.cnblogs.com/n/728778/",
+          "publishedOn": "2022-09-23T00:40:00.000Z",
+          "wordCount": 161,
+          "title": "华为Mate 50系列首销供不应求 黄牛疯抢！余承东：会抓紧生产 保障供应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728777/",
+          "author": null,
+          "description": "宁德时代欧洲地区总裁 Matthias Zentgraf 在接受彭博电视采访时表示，该公司考虑在欧洲开设第三家电池工厂。 他说，“我们正在考虑这个问题，但目前没有明确的决定或行动，内部讨论仍在进行中”。 宁德时代 8 月宣布计划在匈牙利建设第二座欧洲工厂，将与梅赛德斯-奔驰合作，投资规模约为 73 \n本文链接",
+          "link": "https://news.cnblogs.com/n/728777/",
+          "publishedOn": "2022-09-23T00:33:00.000Z",
+          "wordCount": 161,
+          "title": "宁德时代欧洲区总裁：考虑在欧洲建立第三家工厂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728776/",
+          "author": null,
+          "description": "美国时间周四，美股收盘主要股指继续全线下跌。美债收益率和美元汇率进一步攀升，此前美联储宣布第三次大幅加息，并暗示还将进一步加息。 道琼斯指数收于 300076.68 点，下跌 107.10 点，跌幅 0.35%；标准普尔 500 指数收于 3577.99 点，跌幅 0.84%；纳斯达克指数收于 11\n本文链接",
+          "link": "https://news.cnblogs.com/n/728776/",
+          "publishedOn": "2022-09-23T00:28:00.000Z",
+          "wordCount": 161,
+          "title": "美股周四：三大股指继续全线下跌，英伟达跌超5%，特斯拉跌逾4%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728775/",
+          "author": null,
+          "description": "9 月 23 日消息，近日社交媒体平台 Facebook 用户起诉母公司 Meta 有意绕过苹果的用户隐私保护机制，在未经用户同意的情况下继续通过应用内浏览器跟踪用户上网行为。但 Meta 公司对此予以否认。 2021 年苹果更新用户隐私保护规则，推出应用程序跟踪透明度机制（ATT），允许 iOS \n本文链接",
+          "link": "https://news.cnblogs.com/n/728775/",
+          "publishedOn": "2022-09-23T00:23:00.000Z",
+          "wordCount": 161,
+          "title": "诉讼称Facebook绕过苹果隐私保护机制继续跟踪 数百万用户受影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728774/",
+          "author": null,
+          "description": "三言财经 9 月 22 日消息，据报道，日前乐视全员还收到了一封“辞旧迎新乐观向前”的内部信。内部信前半部分回忆了乐视在乐融大厦的峥嵘岁月，但表示乐视将搬新家。 乐视谈及两个月前，因“无 996 无内卷，靠大厦租金，员工过上神仙日子”登上了热搜一事。乐视表示当时虽然回应基本属实，但是其实还有两处不属\n本文链接",
+          "link": "https://news.cnblogs.com/n/728774/",
+          "publishedOn": "2022-09-23T00:18:00.000Z",
+          "wordCount": 161,
+          "title": "乐视内部信宣布将搬离乐融大厦，大厦由新业主接手",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728773/",
+          "author": null,
+          "description": "9 月 23 日消息，美国网络测试公司 Ookla 最新发布的网速测试结果显示，SpaceX 星链卫星互联网系统的网速在北美地区大幅下降，理由是该系统过于受欢迎，注册用户激增进而导致网络拥堵。 在今年第二季度，美国星链用户的网络下载速度中值稳定在 62.53Mbps，低于第一季度的 90.55Mbp\n本文链接",
+          "link": "https://news.cnblogs.com/n/728773/",
+          "publishedOn": "2022-09-23T00:11:00.000Z",
+          "wordCount": 161,
+          "title": "太受欢迎导致网络拥堵？最新测速显示星链网速最高同比下降54%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728772/",
+          "author": null,
+          "description": "9 月 23 日消息，美国当地时间周四，微软首席执行官萨蒂亚·纳德拉(Satya Nadella)表示，他相信该公司斥资 690 亿美元收购动视暴雪的交易能够获得监管机构的批准，尽管英国正在进行深入的监管调查。 纳德拉当天在接受采访时表示：“当然，任何如此大规模的收购都需要接受审查，但我们非常有信心\n本文链接",
+          "link": "https://news.cnblogs.com/n/728772/",
+          "publishedOn": "2022-09-23T00:06:00.000Z",
+          "wordCount": 161,
+          "title": "微软CEO纳德拉：对动视暴雪收购案获准非常有信心",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728771/",
+          "author": null,
+          "description": "文/熊宇翔王磊 来源/远川汽车评论（ID：yuanchuanqiche） 上个礼拜，当A股股民满目愁云时，一张截图又让新能源投资人心里雪上加霜。 截图显示，根据美国总统拜登签署的《通胀削减法案》（下称《法案》），从 2024 年起，美国将全面禁用产自中国的动力电池，从 2025 年开始，将全面禁用产\n本文链接",
+          "link": "https://news.cnblogs.com/n/728771/",
+          "publishedOn": "2022-09-22T23:55:36.000Z",
+          "wordCount": 161,
+          "title": "为了搞电池，美国也玩起了“市场换技术”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728770/",
+          "author": null,
+          "description": "梦晨 Pine 发自凹非寺 量子位公众号 QbitAI 好家伙，无人机现在都能组团盖房子了！ 在路径规划算法的加持下，它们的协作方式是这样的： 上图中蓝色轨迹表示在建造，红色轨迹表示离开建造区域去补充材料。 真正搭载了 3D 打印装置之后，就可以像这样一层一层地盖上去了： 在快速定型绝缘泡沫材料的实\n本文链接",
+          "link": "https://news.cnblogs.com/n/728770/",
+          "publishedOn": "2022-09-22T15:50:00.000Z",
+          "wordCount": 161,
+          "title": "无人机盖房子登Nature封面！半小时盖2米，未来可上火星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728769/",
+          "author": null,
+          "description": "文/道总 来源/道总有理（ID：daotmt） 几经波折，趣店终于舍得对自己“开刀”。 9 月 6 日发布第二季度财报时，趣店宣布了业务调整，一是停止新增信贷发放，二是精简预制菜项目，前者对准了趣店生存起家的信贷，后者则属于趣店转型的新业务，因此，这两个业务板块的调整可以说是直接触及到了趣店的根基。\n本文链接",
+          "link": "https://news.cnblogs.com/n/728769/",
+          "publishedOn": "2022-09-22T15:47:00.000Z",
+          "wordCount": 161,
+          "title": "趣店的动荡与不安：“切割”罗敏，为时已晚",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728768/",
+          "author": null,
+          "description": "文/荷默 来源/子弹财观（ID：zidancaiguan） 在中国传统制造业中，若论紧跟互联网风口、跨界尝试最多的企业掌门人，非董明珠莫属。 新能源火了，董明珠带着格力涉足汽车行业；芯片卡脖子了，董明珠带着格力涉足半导体；智能家居大火，董明珠招兵买马要做手机接入智能家居；直播火了，董明珠亲自上阵把直\n本文链接",
+          "link": "https://news.cnblogs.com/n/728768/",
+          "publishedOn": "2022-09-22T15:41:00.000Z",
+          "wordCount": 161,
+          "title": "格力触及天花板，董明珠急寻新风口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728767/",
+          "author": null,
+          "description": "文周霄徐帆 编辑付晓玲曹宾玲 数据支持洞见数据研究院 今年，王兴终于达成了“圆梦电商”成就。 打开美团 App 可以看到，一级入口上除了外卖，蔬菜水果、超市便利、品质百货、买药，都是同城零售业务，隶属美团闪购项目。 同时，闪购在供给端的动作——比如，2021 年合作的消费电子品牌较上年增加了两倍，已\n本文链接",
+          "link": "https://news.cnblogs.com/n/728767/",
+          "publishedOn": "2022-09-22T15:36:00.000Z",
+          "wordCount": 161,
+          "title": "美团转舵？优选成“弃子”，闪购当“棋子”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/728765/",
+          "author": null,
+          "description": "文/严张攀 来源/有数 DataVision（ID：ycsypl） 9 月 21 日晚，小鹏汽车终于发布了一款去年 11 月就亮相的，被何小鹏称为“梦中情车”的--小鹏 G9。 最早亮相，却晚于同为中大型 SUV 的蔚来 ES7、理想 L9 的上市交付，友商对标库里南，小鹏也把保时捷卡宴和迈巴赫 G\n本文链接",
+          "link": "https://news.cnblogs.com/n/728765/",
+          "publishedOn": "2022-09-22T15:30:00.000Z",
+          "wordCount": 161,
+          "title": "“梦中情车”G9：肩负着提振小鹏毛利率的大任",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/728705/",
           "author": null,
@@ -8759,196 +9009,6 @@
           "publishedOn": "2022-08-25T00:00:00.000Z",
           "wordCount": 161,
           "title": "蔚来自研4680等多种电池，明年小规模投产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727126/",
-          "author": null,
-          "description": "文/杨健楷 来源/远川科技评论（ID:kechuangych） 任正非的“寒气”论已经传遍了A股，在流传广泛的讲话纪要中，他强调“不要再讲故事，一定要讲实现”。 对于中国芯片产业而言，这是不折不扣的事实。 许多初创公司，早已没有了讲故事的资本、信誉和能力。活跃在台面上的凤毛麟角的“讲故事的人”，大多\n本文链接",
-          "link": "https://news.cnblogs.com/n/727126/",
-          "publishedOn": "2022-08-24T11:40:10.000Z",
-          "wordCount": 161,
-          "title": "任正非的“寒气”与南京的“热气”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727125/",
-          "author": null,
-          "description": "文/道总 来源/道总有理（ID:daotmt） 近日，有媒体报道，说蔚来汽车将于 2025 年进入美国市场，并最快于今年 11 月在该市场部署首个换电站。这不是蔚来的一时兴起，早在今年 5 月，蔚来就发布了其进军海外市场的战略和计划。 跟大部分新能源车企一样，蔚来出海的第一站选在挪威。无独有偶，去年\n本文链接",
-          "link": "https://news.cnblogs.com/n/727125/",
-          "publishedOn": "2022-08-24T11:30:00.000Z",
-          "wordCount": 161,
-          "title": "新能源汽车不能放弃出海",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727123/",
-          "author": null,
-          "description": "《科创板日报》8 月 24 日（记者郭辉）讯，昨日（23 日）晚间，金山办公披露 2022 年上半年财报。财报显示，公司 Q2 营收实现 9.234 亿，为公司科创板上市以来单季度新高，归母净利润同比增长 11.42%；业务结构延续了向国内机构订阅及服务业务转变趋势；上半年金山办公毛利率同比下降 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/727123/",
-          "publishedOn": "2022-08-24T11:17:00.000Z",
-          "wordCount": 161,
-          "title": "金山办公Q2营收创上市后新高 机构业务持续向订阅制转型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727124/",
-          "author": null,
-          "description": "作者/吕倩 目前国内线上广告行业，由抖音、快手、视频号等新媒体平台筑造的广告行业预算“高塔”正在逐渐形成。 近日，由J.P.摩根发布的《中国在线广告》研报显示，当下广告主对广告预算保持警惕，更大比例的广告将被分配给具有可衡量 ROI（Return On Investment 投资回报率）的绩效广告，\n本文链接",
-          "link": "https://news.cnblogs.com/n/727124/",
-          "publishedOn": "2022-08-24T11:14:00.000Z",
-          "wordCount": 161,
-          "title": "抖音快手狂奔视频号加速 更多广告预算倾斜短视频平台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727122/",
-          "author": null,
-          "description": "文/古廿 来源/科技新知（ID:kejixinzhi） 天气越热，财报越冷。赶在高温即将过去的末尾，小鹏汽车交出了上市以来单季度净亏损最高的财报。 8 月 23 日公布的财报中，数据显示第二季度小鹏汽车净亏损 27.09 亿元，2021 年同期为 11.95 亿元，2022 年第一季度为 17.01\n本文链接",
-          "link": "https://news.cnblogs.com/n/727122/",
-          "publishedOn": "2022-08-24T11:10:00.000Z",
-          "wordCount": 161,
-          "title": "小鹏汽车提前丢掉三季度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727121/",
-          "author": null,
-          "description": "记者/曾子建 编辑/赵云 投基Z世代，Z哥最实在。 气温还没明显下降，市场却有些寒气逼人。 沪指跌近2%，深成指跌近3%，创业板指数更是跌超3%，4300 多只个股下跌，几乎找不到任何热点，Z哥的自选股，几乎全线飘绿了。 就连刚刚公布了超预期中报业绩的宁王，也扛不住巨大的抛压，高开低走，盘中跌超6%\n本文链接",
-          "link": "https://news.cnblogs.com/n/727121/",
-          "publishedOn": "2022-08-24T11:00:00.000Z",
-          "wordCount": 161,
-          "title": "超4300股下跌！任正非喊话“活下去”，该“躺平”还是“上车”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727120/",
-          "author": null,
-          "description": "腾讯控股 8 月 24 日晚间在港交所公告，于 8 月 24 日回购 113 万股股份，回购价格为 307.8 港元-314.4 港元，共耗资约 3.50 亿港元。 据悉，这是近期腾讯连续第四个交易日回购数量超百万股。 腾讯控股 8 月 19 日晚间公告，于 2022 年 8 月 19 日回购 11\n本文链接",
-          "link": "https://news.cnblogs.com/n/727120/",
-          "publishedOn": "2022-08-24T10:50:00.000Z",
-          "wordCount": 161,
-          "title": "腾讯控股连续4个交易日回购数超百万，累计耗资逾14亿港元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727119/",
-          "author": null,
-          "description": "记者/涂颖浩 实习编辑/马子卿 近日，上海银保监局批复同意三星财产保险（中国）有限公司（以下简称“三星财险”）的增资计划。根据批复，三星财险获批增加注册资本金约 5.517 亿元。增资后，三星财险的注册资本金从 3.24 亿元变更为约 8.757 亿元。 资料来源：上海银保监局官网 股权变更后，三星\n本文链接",
-          "link": "https://news.cnblogs.com/n/727119/",
-          "publishedOn": "2022-08-24T10:45:00.000Z",
-          "wordCount": 161,
-          "title": "三星财险增资获批 腾讯将持股32%成第二大股东",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727056/",
-          "author": null,
-          "description": "8 月 23 日消息，快手科技发布 2022 年第二季度业绩，总营收同比增长 13.4% 至 217 亿元，高于彭博市场一致预期的 207 亿元。亏损 31.8 亿元，去年同期亏损 70.4 亿元。 快手国内业务提前两季度实现单季盈利，二季度经营利润超 9300 万元，公司整体经调 EBITDA 达\n本文链接",
-          "link": "https://news.cnblogs.com/n/727056/",
-          "publishedOn": "2022-08-24T00:51:00.000Z",
-          "wordCount": 161,
-          "title": "快手二季度营收217亿元同比增13.4%，亏损31.8亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727055/",
-          "author": null,
-          "description": "8 月 24 日消息，当地时间周一 Facebook 母公司 Meta 就一起关于 Facebook 跟踪用户位置的集体诉讼案与原告达成和解，同意支付 3750 万美元以和解。 诉讼称，Facebook 在未经允许的情况下通过智能手机跟踪用户的活动，从关闭移动设备位置服务的用户那里收集数据。原告方认\n本文链接",
-          "link": "https://news.cnblogs.com/n/727055/",
-          "publishedOn": "2022-08-24T00:47:00.000Z",
-          "wordCount": 161,
-          "title": "Meta追踪用户位置诉讼达成和解：同意赔偿3750万美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727054/",
-          "author": null,
-          "description": "8 月 24 日消息，据外媒援引知情人士透露，由于更多员工选择远程办公，叫车服务公司 Lyft 计划缩减美国市场的办公场所规模，将部分办公室转租出去。 一位匿名的知情人士表示，Lyft 将把位于旧金山、纽约市、西雅图和纳什维尔的部分办公室转租出去。目前，Lyft 的总办公面积达 615000 平方英\n本文链接",
-          "link": "https://news.cnblogs.com/n/727054/",
-          "publishedOn": "2022-08-24T00:42:00.000Z",
-          "wordCount": 161,
-          "title": "更多员工选择远程办公 Lyft计划转租44%办公室",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727053/",
-          "author": null,
-          "description": "美国时间周二，美股收盘主要股指全线下跌，连续三天下跌，纳斯达克指数下跌不到一个百分点。 道琼斯指数收于 32909.59 点，下跌 154.02 点，跌幅 0.47%；标准普尔 500 指数收于 4128.73 点，跌幅 0.22%；纳斯达克指数收于 12381.30 点，下跌 0.27 点。 大型\n本文链接",
-          "link": "https://news.cnblogs.com/n/727053/",
-          "publishedOn": "2022-08-24T00:38:00.000Z",
-          "wordCount": 161,
-          "title": "美股周二：三大股指连跌三天，小鹏汽车跌逾10%，推特跌7.32%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727052/",
-          "author": null,
-          "description": "8 月 23 日，一则“猫耳下架”的话题冲上热搜榜榜首的位置。据极目文娱报道，当日晚间，网友发现，猫耳 FM 宣布，因技术原因下架部分广播剧，其中包括付费广播剧《伪装学渣》《撒野》《默读》《破云》《某某》《嚣张》《我喜欢你的信息素》等。恢复时间显示：待定。 （图源网络） 公开资料显示，猫耳 FM 是\n本文链接",
-          "link": "https://news.cnblogs.com/n/727052/",
-          "publishedOn": "2022-08-24T00:32:00.000Z",
-          "wordCount": 161,
-          "title": "热搜第一！B站旗下猫耳FM被曝下架部分广播剧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727051/",
-          "author": null,
-          "description": "8 月 23 日，小鹏汽车公布的财报显示，该公司今年二季度实现营业总收入 74.4 亿元，同比增长超过 98%，环比下降 0.2%；净亏损 27 亿元，同比增长 126.1%，环比增长 58.8%。 财报公布后，小鹏汽车 CEO 何小鹏等人召开财报电话会，对财报进行了解读，并回答了分析师提问。 对于\n本文链接",
-          "link": "https://news.cnblogs.com/n/727051/",
-          "publishedOn": "2022-08-24T00:28:00.000Z",
-          "wordCount": 161,
-          "title": "小鹏电话会：明年上半年将推出一款Model Y竞品车型 预计三季度毛利率回到一季度水平",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727050/",
-          "author": null,
-          "description": "文闫妍 出品网易科技《态℃》栏目 今日晚间，京东集团发布了 2022 年二季度及中期业绩。2022 年上半年，京东集团净收入为 5073 亿元，同比增长 11.0%。二季度净收入为 2676 亿元，同比增长 5.4%。 第二季度，归属于普通股股东的净利润为人民币 44 亿元（约 7 亿美元），去年同\n本文链接",
-          "link": "https://news.cnblogs.com/n/727050/",
-          "publishedOn": "2022-08-24T00:21:00.000Z",
-          "wordCount": 161,
-          "title": "合并达达，降本增效，京东“过冬”粮草先行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727049/",
-          "author": null,
-          "description": "《科创板日报》8 月 23 日讯（记者黄心怡）《科创板日报》记者从相关人士处确认，华为创始人任正非在华为内部论坛再发长帖， 号召华为上下要从追求规模转向追求利润和现金流，保证度过未来三年的危机。 “寒冬”、“寒气”、“活下去”等词语贯穿任正非的文章。任正非还直接告诫华为员工，“不要再讲故事，一定要讲\n本文链接",
-          "link": "https://news.cnblogs.com/n/727049/",
-          "publishedOn": "2022-08-24T00:15:00.000Z",
-          "wordCount": 161,
-          "title": "任正非“定调”华为未来三年：首先活下来 缩减关闭不产生价值和利润的业务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727048/",
-          "author": null,
-          "description": "8 月 23 日消息，京东集团（纳斯达克股票代码：JD，港交所股票代号：9618）发布了 2022 年二季度及中期业绩。2022 年上半年，京东集团净收入为 5073 亿元，同比增长 11.0%。二季度净收入为 2676 亿元，同比增长 5.4%。 第二季度归属于普通股股东的净利润为人民币 44 亿\n本文链接",
-          "link": "https://news.cnblogs.com/n/727048/",
-          "publishedOn": "2022-08-24T00:06:00.000Z",
-          "wordCount": 161,
-          "title": "京东二季度净收入2676亿元同比增5.4% 净利44亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727047/",
-          "author": null,
-          "description": "8 月 24 日消息，当地时间周二，社交媒体巨头推特前安全主管佩特·扎特科（Peiter Zatko）向美国证券交易委员会(SEC)、联邦贸易委员会(FTC)以及美国司法部(DOJ)提交举报信，指控推特在隐私、安全和内容审查方面存在“极端惊人的缺陷”。 资料图 这封举报信由非营利性律师事务 Whis\n本文链接",
-          "link": "https://news.cnblogs.com/n/727047/",
-          "publishedOn": "2022-08-24T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "马斯克获强助攻！前主管指控推特涉嫌误导和欺骗大众",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727046/",
-          "author": null,
-          "description": "作者李梅 编辑陈彩娴 上周五，id Software 联合创始人以及 Oculus 的首席技术官 John Carmack 官宣创业，他在推特上发帖称，其 AGI（通用人工智能） 初创公司 Keen Technologies 已经获得 2000 万美元的一轮融资。 投资者包括 GitHub 前首席执\n本文链接",
-          "link": "https://news.cnblogs.com/n/727046/",
-          "publishedOn": "2022-08-23T14:23:00.000Z",
-          "wordCount": 161,
-          "title": "传奇程序员John Carmack宣布创业，而且是开了一间AGI公司",
           "imageUrl": null
         }
       ]
