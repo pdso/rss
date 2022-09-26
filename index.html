@@ -22,6 +22,700 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-26 datetime="2022-09-26T00:40:49.000Z">2022-09-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-26 datetime="2022-09-26T00:40:49.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from iOS-Weekly</button>
+                  <a class="source-heading__link" href="https://github.com/SwiftOldDriver/iOS-Weekly/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23218"
+                        open
+                      >
+                        <summary class="article-expander__title">老司机 iOS 周报 #218 | 2022-09-26</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23218">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/483677864f22802f5f9745bcc2bfc385f74a8096eb9302d441995107cf492761/SwiftOldDriver/iOS-Weekly/releases/tag/%23218" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
+文章
+🐕 中心化决议管理——云端分析
+@JonyFang：本文主要分享了目前字节跳动内部的一种 CocoaPods 云端化的优化方案，针对大量重复的 iOS 工程流水线构建任务进行了收敛和复用，在保证依赖决议正确性的前提下加速了依赖管理速率，提升了研发效能。目前云端分析服务已经完成第一阶段的开发并落地使用，已被内部几个核心的生产线使用。
+内容结构：
+背景
+什么是云端依赖分析
+如何加速决议
+
+制品库（全量组件索引信息）
+缓存机制（排序 Version 缓存、Spec 对象缓存、缓存复用）
+物料剪枝
+决议策略兼容
+🐎 How to use UIViewController in SwiftUI
+@Damien：在 iOS 开发中，SwiftUI 和 UIKit 将会长期共存，无论使用的是哪种框架，有时你都可能需要相互调用，幸运的是，Apple 可以轻松地将 UIKit 代码引入 SwiftUI 中使用，在本文中，作者将向你展示如何在 SwiftUI 使用 UIViewController。有兴趣的读者不妨一读。
+🐎 viewDidLoad() in SwiftUI
+@zvving：从 UIKit 来到 SwiftUI 世界，你可能会困惑：viewDidLoad()在 SwiftUI 下的等效方法是什么？
+在声明式视图框架体系下，苹果并没有提供 load view 的行为细节回调。在绝大多数场景，可以通过 onAppear() 模拟 viewDidLoad() 的近似方法。本文详细介绍了模拟过程，以及如何封装成 view modifier 方便使用。
+🐕 云音乐 iOS 启动性能优化「开荒篇」
+@Smallfly：启动速度是 App 的「门面」，影响用户第一使用体验，是非常重要的体验优化项。本文记录了云音乐 App 在 iOS 13 之后冷启动优化实践。
+以 main() 函数作为分界点，分别从 T1 和 T2 两个阶段进行针对性的优化。T1 阶段的治理主要包括动态库治理、+load 方法、无用代码清理、二进制重排；T2 阶段的治理主要是高频 OC 方法、runtime 符号遍历、网络相关、系统接口、业务影响等等。
+经过阶段性的启动性能专项优化，云音乐 App 启动性能提升了 30%+。
+🌟 🐕 大终端领域的新物种-KUN
+@CrazyCoderShi：Flutter 动态化的尝试和建设在社区从未停止过，今年来各种方案层出不穷: AST 解析，JS Engine+，Lua VM 等，各有千秋；KUN 是咸鱼团队基于 Kraken 产出的一套夸多端的 Flutter 动态化方案，兼顾 iOS &amp; Android 动态化的同时，对齐 W3C 标准做到 Web 端兼容，其整体方案的思路值得深入学习和借鉴，暂时并未开源。
+音视频
+🐎 🚧 Dynamic Island Animation explained
+@ChengzhiHuang：你是否很好奇灵动岛的动画是如何设计出来的，作者通过将两个圆叠在一起，先模糊（blur）再锐化（sharpen），得到蒙层，复现了同样的动效。
+摸鱼周报
+@摸鱼周报 #69：第 69 期摸鱼周报来了，一起来看下本期概要：
+本期话题：使用 iOS 16.1 Beta 版和 Xcode 14.1 Beta 版，准备登陆灵动岛
+本周学习：了解符号 Symbol
+内容推荐：Swift、SwiftUI 相关好文推荐
+摸一下鱼：iOS 16 锁屏组件以及几个有趣的小工具：emojimix、hexclock、能不能好好说话
+关注我们
+我们是「老司机技术周报」，一个持续追求精品 iOS 内容的技术公众号，欢迎关注。
+关注有礼，关注【老司机技术周报】，回复「2021」，领取 2017/2018/2019/2020 内参
+
+同时也支持了 RSS 订阅：https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom 。
+说明
+🚧 表示需某工具，🌟 表示编辑推荐
+预计阅读时间：🐎 很快就能读完（1 - 10 mins）；🐕 中等 （10 - 20 mins）；🐢 慢（20+ mins）</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from iOS-Weekly</button>
+                  <a class="source-heading__link" href="https://github.com/SwiftOldDriver/iOS-Weekly/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23218"
+                        open
+                      >
+                        <summary class="article-expander__title">老司机 iOS 周报 #218 | 2022-09-26</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23218">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/483677864f22802f5f9745bcc2bfc385f74a8096eb9302d441995107cf492761/SwiftOldDriver/iOS-Weekly/releases/tag/%23218" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
+文章
+🐕 中心化决议管理——云端分析
+@JonyFang：本文主要分享了目前字节跳动内部的一种 CocoaPods 云端化的优化方案，针对大量重复的 iOS 工程流水线构建任务进行了收敛和复用，在保证依赖决议正确性的前提下加速了依赖管理速率，提升了研发效能。目前云端分析服务已经完成第一阶段的开发并落地使用，已被内部几个核心的生产线使用。
+内容结构：
+背景
+什么是云端依赖分析
+如何加速决议
+
+制品库（全量组件索引信息）
+缓存机制（排序 Version 缓存、Spec 对象缓存、缓存复用）
+物料剪枝
+决议策略兼容
+🐎 How to use UIViewController in SwiftUI
+@Damien：在 iOS 开发中，SwiftUI 和 UIKit 将会长期共存，无论使用的是哪种框架，有时你都可能需要相互调用，幸运的是，Apple 可以轻松地将 UIKit 代码引入 SwiftUI 中使用，在本文中，作者将向你展示如何在 SwiftUI 使用 UIViewController。有兴趣的读者不妨一读。
+🐎 viewDidLoad() in SwiftUI
+@zvving：从 UIKit 来到 SwiftUI 世界，你可能会困惑：viewDidLoad()在 SwiftUI 下的等效方法是什么？
+在声明式视图框架体系下，苹果并没有提供 load view 的行为细节回调。在绝大多数场景，可以通过 onAppear() 模拟 viewDidLoad() 的近似方法。本文详细介绍了模拟过程，以及如何封装成 view modifier 方便使用。
+🐕 云音乐 iOS 启动性能优化「开荒篇」
+@Smallfly：启动速度是 App 的「门面」，影响用户第一使用体验，是非常重要的体验优化项。本文记录了云音乐 App 在 iOS 13 之后冷启动优化实践。
+以 main() 函数作为分界点，分别从 T1 和 T2 两个阶段进行针对性的优化。T1 阶段的治理主要包括动态库治理、+load 方法、无用代码清理、二进制重排；T2 阶段的治理主要是高频 OC 方法、runtime 符号遍历、网络相关、系统接口、业务影响等等。
+经过阶段性的启动性能专项优化，云音乐 App 启动性能提升了 30%+。
+🌟 🐕 大终端领域的新物种-KUN
+@CrazyCoderShi：Flutter 动态化的尝试和建设在社区从未停止过，今年来各种方案层出不穷: AST 解析，JS Engine+，Lua VM 等，各有千秋；KUN 是咸鱼团队基于 Kraken 产出的一套夸多端的 Flutter 动态化方案，兼顾 iOS &amp; Android 动态化的同时，对齐 W3C 标准做到 Web 端兼容，其整体方案的思路值得深入学习和借鉴，暂时并未开源。
+音视频
+🐎 🚧 Dynamic Island Animation explained
+@ChengzhiHuang：你是否很好奇灵动岛的动画是如何设计出来的，作者通过将两个圆叠在一起，先模糊（blur）再锐化（sharpen），得到蒙层，复现了同样的动效。
+摸鱼周报
+@摸鱼周报 #69：第 69 期摸鱼周报来了，一起来看下本期概要：
+本期话题：使用 iOS 16.1 Beta 版和 Xcode 14.1 Beta 版，准备登陆灵动岛
+本周学习：了解符号 Symbol
+内容推荐：Swift、SwiftUI 相关好文推荐
+摸一下鱼：iOS 16 锁屏组件以及几个有趣的小工具：emojimix、hexclock、能不能好好说话
+关注我们
+我们是「老司机技术周报」，一个持续追求精品 iOS 内容的技术公众号，欢迎关注。
+关注有礼，关注【老司机技术周报】，回复「2021」，领取 2017/2018/2019/2020 内参
+
+同时也支持了 RSS 订阅：https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom 。
+说明
+🚧 表示需某工具，🌟 表示编辑推荐
+预计阅读时间：🐎 很快就能读完（1 - 10 mins）；🐕 中等 （10 - 20 mins）；🐢 慢（20+ mins）</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >博客园_新闻</button>
+                  <a class="source-heading__link" href="https://news.cnblogs.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728894/"
+                        open
+                      >
+                        <summary class="article-expander__title">何小鹏斥资近3000万美元买入小鹏汽车股权 持股增至20.5%</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728894/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>雷递网乐天 9 月 25 日 小鹏汽车日前发布公告，称公司董事会获公司控股股东 Simplicity Holding Limited（“Simplicity Holding”） 通知，于 2022 年 9 月 23 日，Simplicity Holding 已于公开市场购买公司合共 220 万股美国
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728893/"
+                        open
+                      >
+                        <summary class="article-expander__title">Google说人类活到200岁不是梦，但地球首富想要的是长生不老</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728893/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>9 月 21 日，为期一周的 2022 年全球人工智能峰会在沙特阿拉伯利雅得闭幕，大会的主题是「人工智能造福人类」。 如何「造福」人类，最引人注目的还是「健康长寿」项目。Insilico Medicine 的创始人 Alex Zhavoronkov，在会上再度燃起人们的希望。该公司试图将深度学习等新
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728892/"
+                        open
+                      >
+                        <summary class="article-expander__title">明查｜美国制片人自曝伪造“阿波罗11号”登月场景？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728892/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>速览 - 网传美国电影制片人自曝伪造美国登月场景的言论来自一部叫《拍摄斯坦利·库布里克》的伪纪录片式电影。电影中的“库布里克”由演员扮演，所谓的“自曝”是经过设计的表演，“自曝”的内容是台词而非库布里克真实发表过的言论。 - 尽管半个多世纪以来，对“阿波罗 11 号”载人登月真实性的质疑声不断，但目
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728889/"
+                        open
+                      >
+                        <summary class="article-expander__title">火星已成“垃圾堆”！人类在火星留下了7000多千克废弃物</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728889/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>据美国科学家研究，在过去 50 年中，人类在火星上留下了超过 7000 千克的废弃硬件和死亡航天器，火星已成垃圾堆。科学家们担心这些垃圾可能会污染美国宇航局“毅力号”探测器正在收集的样本，该探测器目前正在寻找火星上的古代生命。 “毅力号”探测器着陆时的热毯如今丢弃在火星上。 据报道，西弗吉尼亚大学机
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728891/"
+                        open
+                      >
+                        <summary class="article-expander__title">一个辍学少年，让Adobe豪掷200亿美元</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728891/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>出品虎嗅科技组 作者丸都山 头图电影《教父》 “旧金山随处可见的由 VC 组织的社交活动中，Dylan Field 总是独自一人坐在那里，尴尬地自斟自饮。” 根据彭博社记者 Brody Ford 的描述，仅仅在 4 年前，这位 Figma 的创始人还未引起行业内的过多关注，尽管彼时他开发的付费产品已
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728890/"
+                        open
+                      >
+                        <summary class="article-expander__title">神秘的高纯石英从何而来？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728890/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>石英 （Quartz）是我们日常生活中非常常见的一种矿物，成分为 SiO2，SiO2 的单晶体就是水晶，而多晶体则形成玉髓、玛瑙，我们平时看到的普通玻璃是不具备晶体结构的 SiO2，海滩上的沙子基本上就是由石英和长石组成。相信大家对石英也并不陌生，然而近几年，随着美国禁“芯”令的颁布以及石英股价的高
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728888/"
+                        open
+                      >
+                        <summary class="article-expander__title">售价9.99万元！敞篷版五菱宏光MINIEV上市，首批买到的概率仅为0.115%</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728888/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>“年轻人的第一辆敞篷车”终于上市了。 9 月 25 日，五菱宏光敞篷版 MINIEV CABRIO 正式上市，官方售价为 9.99 万元。五菱宏光 MINIEV 敞篷版采用软顶敞篷的设计，篷布采用半自动开关篷结构，CLTC 续航里程为 280km，是目前市面上最便宜的敞篷电动车。 ↑图据五菱汽车 五
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728887/"
+                        open
+                      >
+                        <summary class="article-expander__title">爆料大神猜测苹果10月或不办发布会，新iPad/Mac直接上线</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728887/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>9 月 26 日消息，美国当地时间周日，苹果知名爆料大神马克·古尔曼（Mark Gurman）发文预测，苹果或不在 10 月份举行第三场新品发布会，而是通过网站更新或新闻稿的方式发布新产品。此外，他还预计，苹果“先买后付”功能将延期至 2023 年推出，iPhone 也将在明年迎来重大升级。 在 i
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728886/"
+                        open
+                      >
+                        <summary class="article-expander__title">美国登月火箭又又又推迟发射了，这次因为热带风暴！此前因液氢泄漏、发射台被雷劈等多次推迟</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728886/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>据央视新闻最新消息，当地时间 9 月 24 日，据 CNN 消息，因担心热带风暴袭击佛罗里达州，“阿耳忒弥斯 1 号”登月任务的发射时间再次推迟。 图片来源：新华社 又一次“液氢泄漏” 据央视新闻，当地时间 9 月 21 日，美国国家航空航天局（NASA）表示，他们再次检测到新一代登月火箭“太空发射
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-25 datetime="2022-09-25T23:59:00.000Z">2022-09-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-25 datetime="2022-09-25T23:59:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >博客园_新闻</button>
+                  <a class="source-heading__link" href="https://news.cnblogs.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728885/"
+                        open
+                      >
+                        <summary class="article-expander__title">小红书CFO离职，上市前景不明</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728885/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>此前有知情人士表示，小红书计划在港股上市 文郑可书刘以秦 编辑刘以秦 近日，内容社区平台小红书 CFO 杨若离职，加入复星集团。对此，小红书回应《财经十一人》称，杨若辞职是家庭原因。 公开资料显示，杨若毕业于加州伯克利大学，曾任花旗集团 TMT 投资银行部亚太区董事总经理，并曾在安永旧金山分所、普华
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728884/"
+                        open
+                      >
+                        <summary class="article-expander__title">Text-to-3D！建筑学小哥自称编程菜鸟，攒了个AI作画彩色三维版</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728884/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>衡宇发自凹非寺 量子位公众号 QbitAI AI 画师，技术又精进了—— 直接一句话/一张图，生成 3D 模型、环绕视频、NeRF 实例那种。 还是带颜色的。 输入“一幅美丽的花树画，作者 Chiho Aoshima，长镜头，超现实主义”，就能瞬间得到一个长这样的花树视频，时长 13 秒。 这个文本
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728883/"
+                        open
+                      >
+                        <summary class="article-expander__title">国内首个“元宇宙”专业引热议：南京双一流高校，AI学院下设立</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728883/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>羿阁萧箫发自凹非寺 量子位公众号 QbitAI 一所“双一流”高校，将有着 25 年历史的“信息工程系”，改名成了“元宇宙工程系”？！ 自元宇宙大火到现在，这还是“第一个吃螃蟹的高校”。 这个大新闻来自南京信息工程大学，前身是南京大学气象学院，并在 2004 年将校名南京气象学院改成如今的名字。 从
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728882/"
+                        open
+                      >
+                        <summary class="article-expander__title">LED之父去世，8年前颁给LED的诺奖却没有他</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728882/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>羿阁萧箫发自凹非寺 量子位公众号 QbitAI “颁给 LED 的诺奖却没颁给他，是一种不公。” 就在这几天，LED 之父去世了，享年 93 岁。 Nick Holonyak，第一位可见光 LED的发明者，掀起了人类自爱迪生发明电灯泡以来照明史的第二次革命。 ——甚至可以说，没有他这份发明，就没有今
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728881/"
+                        open
+                      >
+                        <summary class="article-expander__title">连你家电器的算力都不放过，新发现Linux恶意软件用IoT设备挖矿</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728881/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>萧箫发自凹非寺 量子位公众号 QbitAI 继电脑和手机后，挖矿病毒也盯上了 IoT 设备。 无论是智能冰箱、彩电还是洗衣机，但凡有点算力的（物联网和端侧）设备都可能被这种病毒感染，用于挖掘加密货币等。 AT&amp;T Alien Labs 新发现的 Linux 恶意软件 Shikitega 就是一例。 
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728880/"
+                        open
+                      >
+                        <summary class="article-expander__title">Transformer作者创业后首个成果亮相！用文本指挥AI做表格发邮件</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728880/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>明敏发自凹非寺 量子位公众号 QbitAI 集结了 Transformer 作者、前 OpenAI 工程副总裁的创业团队，不到半年就亮出首个大模型—— Action Transformer（ACT-1）。 简单来说，这是一个会使用浏览器、Excel 等软件工具的 AI。 基于 Transformer
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728879/"
+                        open
+                      >
+                        <summary class="article-expander__title">热搜上的钕磁体，凭啥让美国担心卡脖子？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728879/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>杨净明敏发自凹非寺 量子位公众号 QbitAI 当代“永磁王”钕磁体，成为这几日热议的主角。 这是因为呀，美国一声令下，宣布“不限制主要从中国进口的钕磁体”。 理由中提到，去年美国进口的烧结钕磁体中，中国出产占到了 75%。（烧结，就是将粉状物转变成致密体，主流制造工艺） 一时间引发了热议，网友们虽
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728878/"
+                        open
+                      >
+                        <summary class="article-expander__title">RTX 4090将机器学习速度提高3倍？黄仁勋：摩尔定律已死！</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728878/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：武穆 英伟达正式发布 RTX40 系列显卡后，知乎上，「如何评价 RTX40 系列显卡」成为热议话题。从讨论内容看，网友对细节的讨论，还是很专业的。 老黄终于在今年的 GTC（GPU 技术大会）2022 上，公布了 RTX 40 系列 GPU 的配置。 很快，在知乎上，RTX40 
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728877/"
+                        open
+                      >
+                        <summary class="article-expander__title">「扩散模型」首篇综述！谷歌&amp;北大最新研究</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728877/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 作者：大仲马 编辑：桃子 最近爆火的扩散模型首篇综述来了！ 本综述（Diffusion Models: A Comprehensive Survey of Methods and Applications）来自加州大学&amp;Google Research 的 Ming-Hsuan Yang、
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728876/"
+                        open
+                      >
+                        <summary class="article-expander__title">苹果A16处理器首张「裸照」曝光：论牙膏怎么挤最划算？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728876/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：好困 David 在一片「灵动岛」和「黄牛血亏」的喧嚣中，苹果 A16 处理器似乎有些低调过头，不过这并不耽误果粉扒它的衣服...... 一转眼，苹果新品发布会已经过去半个月了，对于 iPhone 14 Pro 的最大亮点「灵动岛」的讨论，已经逐渐变成「黄牛囤货 iPhone14 
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/728875/"
+                        open
+                      >
+                        <summary class="article-expander__title">国内首个“元宇宙”专业引热议：南京双一流高校推出，3年前刚成立AI学院</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/728875/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>作者：羿阁萧箫 来源：量子位（ID：QbitAI） 一所“双一流”高校，将有着 25 年历史的“信息工程系”，改名成了“元宇宙工程系”？！ 自元宇宙大火到现在，这还是“第一个吃螃蟹的高校”。 这个大新闻来自南京信息工程大学，前身是南京大学气象学院，并在 2004 年将校名南京气象学院改成如今的名字。
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >奇客Solidot–传递最新科技情报</button>
+                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;72873"
+                        open
+                      >
+                        <summary class="article-expander__title">AV1 更新减少三分之一 CPU 编码时间</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;72873">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Google 释出了 AOM-AV1 version 3.5，显著改善了串流、渲染和录制时 CPU 的编码时间，在最好的情况下能减少 34% 的编码时间。根据不同的分辨率，AV1 的 CPU 编码时间减少 20%-30%。1080P 下 16 线程的编码时间减少了 18%-34%；4K 下 32 线程的渲染时间减少了 18%-20%。AV1 是 AOMedia 在 2018 年释出的开源免专利费编解码器，除了流媒体平台如 YouTube 支持外，AV1 的普及依赖于硬件的支持，新一代的英特尔 Arc Alchemist 显卡和英伟达 RTX 40 系列显卡都加入了 AV1 硬件加速支持。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;72872"
+                        open
+                      >
+                        <summary class="article-expander__title">韦伯望远镜拍摄到海王星环结构最清晰视图</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;72872">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>NASA 韦伯望远镜拍摄到数十年来海王星环结构最清晰视图。望远镜近红外相机 (NIRCam)使用 0.6 到 5 微米的近红外波段进行成像，因此海王星在望远镜视角下不是呈现蓝色。它表面的甲烷-冰云层在近红外下显示出明亮的条纹和斑点，甲烷吸收红光和红外光，因此这颗气态巨行星在近红外波长下显得暗淡。韦伯望远镜共捕捉到海王星 14 颗行星中的 7 颗，其中最大卫星 Triton（海卫一）表面的氮冰反射了 70% 的阳光，在图片中显得非常明亮。Triton 逆行围绕海王星运动，它被认为来自柯伊伯带， 被海王星引力捕获。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;72871"
+                        open
+                      >
+                        <summary class="article-expander__title">北京公交司机配发情绪感知设备</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;72871">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>《北京日报》报道，为了保证行车安全，北京公交集团以高速路、跨省运营驾驶员为重点，配发多体征情绪感知设备 1800 套，实时监测驾驶员生命体征和精神压力变化。对出车前身体不适的驾驶员，暂停当日驾驶工作，加强对驾驶员健康状况等跟踪管理。北京公交集团计划今年为部分运营车辆加装技防系统，其中安装驾驶员异常行为识别系统 5000 套，安装主动安全预警系统 2000 套，这两套系统已列入新车标准配置。截至目前，已完成系统招标采买工作，正在有序推进系统批量安装工作。预计今年年底，公交集团安装主动安全预警系统的车辆将达到 8000 台，占车辆总数的 35%，安装驾驶员异常行为识别系统车辆将达到 6500 台，占车辆总数的 28%。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;72870"
+                        open
+                      >
+                        <summary class="article-expander__title">Tornado Cash 代码重返 GitHub</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;72870">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>上个月美国财政部宣布制裁被控为朝鲜黑客组织 Lazarus Group 洗钱的加密货币混币器 Tornado Cash，禁止美国个人或组织与 Tornado Cash 有任何交易往来。中心化源码托管平台 GitHub 随即下架了 Tornado Cash 代码库，删除了开发者账号。美国财政部上周澄清，对 Tornado Cash 的制裁不涉及源代码。本周在开发者的呼吁之后 GitHub 恢复了 Tornado Cash 项目，多位项目开发者的账号也都恢复。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-24 datetime="2022-09-24T16:00:54.000Z">2022-09-24</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-24 datetime="2022-09-24T16:00:54.000Z"></time>
           </button>
@@ -19842,349 +20536,6 @@ NSURLCache 在 diskCapacity 设置过大时存在的问题；
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;72593"
-                        open
-                      >
-                        <summary class="article-expander__title">中国气象局尝试用无人机在四川人工降雨</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;72593">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>四川过去几个月同时遭遇了高温和干旱天气，河流水位降至非常低的水平，多处出现森林火灾。为缓解当地旱情，周四中国航空工业集团的翼龙-2H 无人机参与了中国气象局人工影响天气中心联合四川省气象局等开展的大型无人机人工增雨作业。无人机共飞行 3 小时 50 分钟，使用点燃碘化银焰条 20 根。预测四川的旱情将持续至 29 日，气象部门将密切监测气象条件，抢抓有力时机，持续开展人工增雨作业。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >博客园_新闻</button>
-                  <a class="source-heading__link" href="https://news.cnblogs.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727292/"
-                        open
-                      >
-                        <summary class="article-expander__title">985毕业，卖手抓饼、当村官、辞别券商，我想治好精神内耗</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727292/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文周天产业分析，作者零露 现在的年轻人似乎越来越「离经叛道」了，在就业市场也常常做出一些违背社会惯性认知的选择。 「高学历辞职做游戏主播」、「离开投行做自媒体」、「北大毕业当城管」、「清华博士考协警」这些热搜新闻在今年已经不是个例。 在领英中国（Linkedln）发布的《2022 人才趋势报告》中提
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727291/"
-                        open
-                      >
-                        <summary class="article-expander__title">快手需要更多后手抵挡寒气</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727291/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文 20 社，作者贾阳 快手发了一份较之去年同期好太多的 Q2 财报。 最大的亮点不在于营收（Q2 营收 217 亿同比增长 13.4%，仅维持了 3% 的环比增长，较去年 Q4 的营收峰值仍有下跌），而在于大大超出市场预期的减亏幅度（Q2 经调整净亏损为 13.12 亿，同比收窄 72.5%）。而
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727290/"
-                        open
-                      >
-                        <summary class="article-expander__title">Wii U模拟器Cemu开源</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727290/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Wii U 模拟器项目 Cemu 宣布开源，源代码托管在 GitHub 上，采用 Mozilla Public License 2.0 许可证。开发者同时宣布了 Cemu 2.0，表示将提供 Linux 构建版本，但目前用户需要自己编译，未来计划提供 appimage 或 flatpak 打包格式。
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727289/"
-                        open
-                      >
-                        <summary class="article-expander__title">SpaceX和T-Mobile合作提供手机卫星连接服务</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727289/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>SpaceX 和 T-Mobile US 宣布展开合作，利用 Starlink 宽带卫星星座为全美各地的 T-Mobile 手机提供连接服务，甚至在目前没有无线服务的偏远地区。双方计划在 2023 年底前在选定的市场开始测试短信服务。最终目标是在任何地方提供语音和数据服务，而不受手机信号塔的影响，使
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727288/"
-                        open
-                      >
-                        <summary class="article-expander__title">DuckDuckGo 开放提供反跟踪电邮服务</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727288/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>在封闭测试一年之后，DuckDuckGo 宣布向 DuckDuckGo 移动应用、浏览器扩展使用者开放提供其反跟踪电邮服务。这项服务将向用户提供 @duck.com 电邮地址作为邮件中转，它会在移除跟踪器之后转发到你的主邮箱地址。 DuckDuckGo 称在封闭测试期间它处理的 85% 的邮件含有隐
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727286/"
-                        open
-                      >
-                        <summary class="article-expander__title">Google 开源 RawNeRF，计算摄影再进化</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727286/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Google 的 RawNeRF 是一个基于人工智能的工具，可以对图像进行智能降噪点，同时还可以改变其拍摄角度、焦点、曝光水平和色调映射，而且上述所有这些都可以在照片拍摄后再进行调整。 熟悉手机摄影的用户应该都知道，如今手机摄像头的像素越来越高，传感器尺寸也越来越大，即便如此，一旦涉及到在极端低光或
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727285/"
-                        open
-                      >
-                        <summary class="article-expander__title">新东方在线2022财年营收8.985亿元 亏损收窄72%</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727285/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>新东方在线科技控股有限公司（以下简称“新东方在线”或“公司”，连同其附属公司，统称为“集团”）公布截至 2022 年 5 月 31 日为止的财年（“报告期间”）业绩。 2022 财年，新东方在线总营收为 8.985 亿元，毛利为 4.135 亿元，同比上升 0.3%，毛利率由 2021 财年的 29
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727284/"
-                        open
-                      >
-                        <summary class="article-expander__title">大疆 DJI Avata 小型无人机正式发布 3499元起</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727284/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>品玩 8 月 25 日讯，大疆今晚正式发布了 DJI Avata 无人机，单机售价 3499 元。 图源：大疆 DJI Avata 自带桨叶保护装置，重量约 410 克，尺寸为 180×180×80 毫米，可在轻微碰撞后正常飞行且支持下视障碍物感应。 DJI Avata 搭载了一颗 1/1.7 英寸
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727283/"
-                        open
-                      >
-                        <summary class="article-expander__title">谷歌旗下导航应用Waze将关闭拼车服务</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727283/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>品玩 8 月 26 日讯，据 The Verge 报道，谷歌旗下导航应用 Waze 将关闭其已有六年历史的拼车服务，理由是新冠疫情导致通勤模式改变。 从 9 月开始，该公司将开始逐步关闭其在美国、巴西和以色列提供的拼车服务。Waze 表示，它将探索其他方式，以帮助服务使用其导航应用程序的 1.5 亿
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727282/"
-                        open
-                      >
-                        <summary class="article-expander__title">理想汽车：从 Hadoop 到云原生的演进与思考</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727282/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>云原生架构下，基于 Hadoop 技术栈搭建数据平台应该如何改造？ 理想汽车大数据平台涉及的组件多， 在从 Hadoop 到云原生演进的过程中边探索，边实践，积累了不少一手经验；同时，他们率先在对象存储上使用 JuiceFS，实现平台级文件共享、跨平台使用海量数据等场景。 作者简介： 聂磊，理想汽车
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727281/"
-                        open
-                      >
-                        <summary class="article-expander__title">AWK作者为语言加入Unicode支持</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727281/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>AWK 作者、普林斯顿大学教授 Brian Kernighan 在接受采访（YouTube，8 分钟左右）时透露他最近做了点一个小小的工作，为 AMK 加入了 Unicode 支持。AWK 语言被用于分析文本文件，是 Unix 操作系统的核心组件之一，任何 POSIX 兼容操作系统被认为都应该包含 
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/727287/"
-                        open
-                      >
-                        <summary class="article-expander__title">从花瓶到实力派，折叠屏实现了华丽转身</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/727287/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>不可否认，当下的智能手机正逐步变成一个有魔力的小盒子。 一方面，当屏幕熄灭，无论哪个品牌，正面几乎一致，形态上也几乎相同，这趋势基本上是由于「智能手机」崛起带来。 而在另一方面，智能手机在我们生活中的作用逐步变大，它占据了我们工作、生活和娱乐的大部分时间。 智能手机的形态正变得一致，逐步扮演成互联网
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-26 datetime="2022-08-26T16:54:53.000Z">2022-08-26</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-26 datetime="2022-08-26T16:54:53.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >少数派 -- Matrix</button>
-                  <a class="source-heading__link" href="https://sspai.com/matrix">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://sspai.com/post/75364"
-                        open
-                      >
-                        <summary class="article-expander__title">有效整理和吸收不同类型的知识 - 我的笔记工作流</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/75364">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>「本文参与数字文具盒征文活动」
-背景
-读博士的这些年，我每天都在获取各式各样的知识。大到学术论文，小到快捷指令的配置教程，每份知识都可能在未来某个时刻派上用场。我根据自己的习惯和需求建立了一套工作流，用来记录以及内化各类知识。我的目标是形成自己的个人数据库，方便未来随时的调用。
-知识有不同的特点，调用场景也各不相同。下面的表格展示了我对知识的理解以及相应的分类。在这篇文章里，我将针对每个类型，介绍了我记录（和内化）这些知识的经验，以及使用到的工具。
-
-
-知识类型知识特点例子
-学术研究格式固定，密度高，需要原文阅读学术论文，演讲
-系统性知识内容多，密度低，自上而下结构大学课程，教科书，出版书籍
-非系统性知识碎片化知识，自下而上结构CSDN，网络文章，教学/科普 视频
-信息只需记录，不需整理做饭教学视频，服务器配置流程代码
-
-
-1. 学术研究
-首先要讨论的是学术研究类的知识，代表的例子就是学术论文。可能是因为阅读论文都需要花费巨大的精力而且经常会查阅，我通常会对阅读过论文有印象。即便不一定记得所有的细节，我还是很容易就能检索到，并重新阅读。
-学术论文这一类知识有三个特点：
-
-知识密度高：文章内容很浓缩，比较难再二次总结。未来通常需要再查阅论文的时候大概率还是得阅读原文。
-格式固定：学术论文通常都会有 Abstract 来记录文章梗概。理工科的论文经常会有 Related Work, Methodology 和 Results 这些章节。第一次阅读难度较大，但理解以后再次阅读的难度不大，信息获取容易。
-上下文重要：随意从论文中抽出来某一段文字或者配图，不一定很好理解。通常需要结合上下文才好理解。
-
-由于查阅论文的大多需要阅读原文，所以我不会专门用笔记 app 给论文记笔记。我会把笔记直接记在论文 PDF 上。
-使用 Zotero 管理论文和笔记
-我使用 Zotero 来管理论文。…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -20192,8 +20543,8 @@ NSURLCache 在 diskCapacity 设置过大时存在的问题；
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/pdso/rss/actions/runs/3120546613">
-        <time id="build-timestamp" datetime="2022-09-25T02:06:34.750Z">2022-09-25T02:06:34.750Z</time>
+      <a class="footer-link" href="https://github.com/pdso/rss/actions/runs/3124594387">
+        <time id="build-timestamp" datetime="2022-09-26T02:07:43.343Z">2022-09-26T02:07:43.343Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
