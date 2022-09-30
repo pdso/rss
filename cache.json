@@ -6,6 +6,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周十一长假，周刊暂停一次。）\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n这大概是世界最危险的订婚照。一对加拿大恋人在山顶上订婚，摄影师按下快门的一瞬间，居然拍到了一道闪电。虽然照片本身很浪漫，实在太危险了。（via）\n本周话题：NPC 演员也是一种职业\n一位国外玩家提出一个设想：游戏 NPC 应该由真人扮演。\n这个想法很有意思，我印象中，没有任何一个游戏这样做过。它很可能实现，值得好好聊聊。\n\nNPC 指的是\"非玩家角色\"（non-player character），也就是游戏里面配合玩家的一些辅助人物，比如街上的行人、巡逻的警察、看门的士兵等等。\n玩家可以与这些角色对话，获取线索，或者向他们购买道具。\n\n他们目前都是计算机生成的，行为由程序控制，看上去非常机械，没有趣味，时间一长，让人觉得很乏味。\n仔细想一下，你就会发现，NPC 完全可以改成真人扮演。\n举例来说，我扮演一个调酒师，每天晚上到游戏里面上班，专门服务走进酒吧的玩家。游戏公司会提供剧本，告诉我需要做哪些事，说哪些话。除此之外，我可以自由发挥，但是不能离开酒吧。\n这会大大增加游戏的逼真感和可玩性。每个 NPC 背后都是真人，跟他们互动就是跟人类互动，游戏世界顿时就变成了真实世界。\n\n将来的游戏可能是这样一种商业模式：付钱的人当主人公，玩游戏，享受剧情；不付钱的人当 NPC，感受一下游戏，如果愿意长时间在线，就可以申请当 NPC 演员。\n游戏公司为了吸引更多玩家，有更多人气，会愿意向 NPC 演员支付工资，玩家也可以给 NPC 演员打赏。\n到了那个时候，扮演 NPC 就真的是一种职业了，可以赚钱糊口。开头…",
+          "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html",
+          "publishedOn": "2022-09-30T00:28:22.000Z",
+          "wordCount": 820,
+          "title": "科技爱好者周刊（第 225 期）：NPC 演员也是一种职业",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n怎样回收火箭？SpaceX 公司造了两艘船，每艘船的上方架设一张超级大网，等着落向大海的火箭掉入网中。（via）\n本周话题：Figma 为什么赢了 Sketch\n上周，Adobe 公司宣布，200亿美元收购设计软件 Figma。\n\n这个收购价高得吓人。Figma 去年的收入是5000万美元，今年据说可以到4亿美元。就算这个预测是可靠的，收购价也达到了收入的50倍！\n作为比较，微软2018年收购 GitHub 的价格是75亿美元，那一年 GitHub 的收入约为3亿美元。\n为什么一个面向专业用户、2016年才问世的设计软件，能值这么多钱？\n\nFigma 有一个竞争对手 Sketch，功能差不多。直到2019年，Sketch 的估值还超过 Figma。当时，网上还有猜测，Sketch 什么时候会收购 Figma，但是没想到后来就被 Figma 甩开差距了。\n今天就想谈谈 Figma 的高估值，以及为什么 Sketch 输给了它？\n我不是设计师用户，无法全面分析，只想指出在技术上，它们有一个重大差异。\nSketch 是一个原生 MacOS 应用，只能在苹果电脑上安装运行，没有免费版。Figma 则是一个 Web 应用，只要有浏览器就能用，而且有免费版。 下图是浏览器打开 Figma 的样子。\n\n你想想看，一个要用 Mac 电脑下载安装，付费才能用，另一个只要打开浏览器就能用，谁占优势不言而喻。\n但是，事情没这么简单。原生应用则可以调用底层的系统 API，网页应用受限于浏览器，很多功能实现不了。所以，Sketch 功能和性能肯定强于 Figm…",
@@ -59,6 +69,16 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/75945",
+          "author": "大耳Gluebi",
+          "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n首先，非常开心少数派上婉莹和甜食大大的播客制作栏目《100 小时后请叫我播客主理人》终于上线了，两位都是我很尊敬的播客制作者，之前也和两位有过关于播客和其他领域（比如音乐收藏和泉州故事）的交流，相信这个栏目一定会给到各位对于播客有兴趣的朋友很多帮助。\n关于如何制作播客的相关教程，互联网上已经不少了，我自己之前也和生产力维基的白宦成合作过一期简单教学版本《小白和大耳的播客入门指南》，私下里我也在深圳线下做过几次关于制作播客的心得分享。很多教程和指南往往会集中在技术，设备，内容策划和运营等等方面，是一种「法」或者「术」层面上的描述，对于大多数的个人播客制作者，尤其是以兴趣为出发点的制作者来说，往往看了一些指南以后，就「一时兴起」录制并上传了自己的第一期节目，然后经历了一段时间的「方兴未艾」后，在某个时间突然因为繁忙的工作打断了「周更」的节奏，于是「戛然而止」。我自己的节目《对讲鸡 RadioChicken》也经历过几次这样的过程，曾经我也对诸如断更和订阅数减少（即使现在小宇宙的订阅只有 300 多个，最近几十个还都是各种社交 app 认识的）感到失落甚至焦虑，但经历了一些列佛系的思考后，我发现制作播客对我自己的意义，完全不在于「向外展示性表达」，更多的喜悦和快乐，反而在于「向内探索性成长」。\n所以今天我想就此分享一些关于「向内探索性成长」的心得，希望对于各位对于播客有兴趣，甚至已经开始制作播客的朋友有所启发。\n降低期待\n我给新人播客制作者的第一个建议，是做好「降低期待，甚至不要有期待」的心理建设。我相信可能会有部分朋友开始做播客的原因…",
+          "link": "https://sspai.com/post/75945",
+          "publishedOn": "2022-09-29T08:30:00.000Z",
+          "wordCount": 561,
+          "title": "相信对谈的力量，一些播客小心得",
+          "imageUrl": "https://cdn.sspai.com/2022/09/27/0576c598538c8f94645b124de0b3ed33.jpg"
+        },
+        {
           "id": "https://sspai.com/post/75968",
           "author": "NICEPING",
           "description": "我的 AirPods Pro 2 还没发货，我的 AirPods Pro 1 已经吃灰很久。AirPods Pro 的耳塞我越来越戴不稳，再加上比较「白开水」的调音，以及削弱后的主动降噪效果，让我觉得虽然 AirPods Pro 综合体验不错，但总是少了点意思，对我这个 PC 玩家来说使用场景也有些窄。\n在 PC 上玩游戏，我始终不喜欢用头戴耳机，太大一坨挂头上，戴久了累，耳朵闷，还压头发。习惯各种无线 TWS 之后，我也无法再适应回去用有线耳机，有根线扯着，会极大降低我起身活动的频率。所以 TWS 真无线耳塞一直是我的心头好。\n以我常玩的 PUBG 为例，PC 桌面端能用来打游戏的真无线耳塞，至少必须得延迟够低，才有可能听声辨位，这样的耳塞市面上少之又少。所以很自然地，踩中我的喜好和需求的怒喵 CYBERBLADE 在发售后，我第一时间就上手并主力用了一段时间。所以这篇文章，我想分享一些我的体验感受。内容比较主观，没有受任一方干涉。\n先说结论：抛开前期我也不喜欢的营销方式不谈，上手后的 CYBERBLADE 本身没有让我失望。它主打的桌面端体验不错，实物的质感挺好，佩戴舒适度和音质也有超出我预期，虽然缺点短板都有，但它确实可以称得上是我用过的最好的 PC 桌面端 TWS，而且，没有之一。\n我是不是说得太满？请注意定语——「PC 桌面端 TWS」。就像我刚说的，PC 桌面端、能低延迟打游戏的真无线耳塞，市面上的可选项就没两个，这个垂直细分品类太小众，愿意像怒喵这样认真做一个偏高端定位好产品的厂商，更是没有。\n你可以说怒喵只是在讨巧，从成熟的音频市场，挑了个没什么竞争的品类来做，没啥了不起；但对我这种目标受众来说，有人做了我需要的东西，并且除了核心的桌面低延迟游戏体验 OK 之外，还做出了别家没有的特色，就很棒。\n\nCYBERBLADE 到底是个怎样的 TWS 耳机？\n它是一…",
@@ -77,6 +97,16 @@
           "wordCount": 764,
           "title": "Notion 的自动化改造之路：Notion x Zapier 初尝试",
           "imageUrl": "https://cdn.sspai.com/2022/09/21/b31a3da678649444a2d6b30f8cc1c256.png"
+        },
+        {
+          "id": "https://sspai.com/post/75964",
+          "author": "金聚",
+          "description": "提起武汉，你能想到什么呢？是崔颢心中「黄鹤一去不复返，白云千载空悠悠」的感怀，是毛主席笔下「烟雨莽苍苍，龟蛇锁大江」的壮阔，还是李白诗中「一忝青云客，三登黄鹤楼」的悲叹？武汉一直被称作为「江城」。它之所以有着如此的称呼，自然是因为它坐落在中国最大的河流长江之滨，中国四大河流「江淮河汉」中的江、汉两条大河将武汉这座城市分为三大块并融为一体。其实将武汉称做「湖城」也是不错的，那些大大小小的城中湖泊，如同明珠挂在武汉的身上，发出别样耀眼的光芒，下面请跟随我的脚步，一起去感受这属于大江大湖的浪漫吧。\n武汉水系图\n沿江而行\n如果你来武汉的时间只有一天，那去江边走上一天，便可以心中有谱地说出：我去过武汉了。那些或声势显赫或寂寂无名的景色，许许多多便是散布在长江汉水之畔的。\n汉口江滩\n漫步路线：江汉路-江汉关-武汉科学技术馆-汉口江滩\n江汉路\n每个城市里都有一条名号最响的路，在北京是王府井大街，在上海是南京路，在广州是上下九，在武汉自然就是江汉路了，江汉路很长，它的一头伸到了江边，另一头连着解放大道，被誉为「天下第一步行街」。江汉路在清末时期叫做广利巷，是商人集资修建来往贸易之用的。1861 年，汉口开埠之后，洋人也是看中了这里的临江的交通便利之处，便在广利巷附近的地盘上相继建立租界，江汉路便逐渐形成。现今江汉路著名的建筑，即是当年各个租界遗留的场所。\n江汉路沿路与江汉一、二、三路，黎黄陂路，保成路，水塔街等道路相连。弯弯绕绕，一转身，便可以看到不同风景。黎黄陂路是旧时汉口俄租界上的街道改造而成，作为一条拥有百年历史的老路，黎黄陂路见证着滚滚的历史车轮从此经过，漫步在这里，主要体会宁静，在老时光咖啡馆里享受一段悠然时光，在小物商行里欣赏别出心裁的饰件，或是在路上发发呆，看一看那些时不时提着婚纱走过的新人。保成路是承袭了几十年不断演变的夜市，短短几百米的道路上承载了近千家小商贩，漫步在这里…",
+          "link": "https://sspai.com/post/75964",
+          "publishedOn": "2022-09-28T05:58:16.000Z",
+          "wordCount": 524,
+          "title": "城市漫步指南：武汉，属于大江大湖的浪漫",
+          "imageUrl": "https://cdn.sspai.com/2022/09/28/56be01ea03fbaa6706079b1a6211bbc4.jpg"
         },
         {
           "id": "https://sspai.com/post/75940",
@@ -697,16 +727,6 @@
           "wordCount": 501,
           "title": "古典音乐是死去的吗？我的阅读与聆赏推荐01",
           "imageUrl": "https://cdn.sspai.com/2022/08/23/59ece2545350ccd589d3a0c53541bb56.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/75449",
-          "author": "Airing",
-          "description": "引言\n许久没有静下来心来玩一款游戏了，前这几日宅在家里，体验了一下《光·遇》，而又联想到许多以前玩过的游戏，有感而发，遂就此文。由于专业的关系，本科学教育学时读过一些心理学，硕士念的也是中国哲学，因此本文会较为深入地去分析游戏的价值与影响，对游戏玩法、交互体验、设计美学的分析会稍少。本文将主要以美学的角度来赏析《光·遇》的美术风格，以心理学的角度去分析《光·遇》的核心玩法，以解释学的视角来诠释《光·遇》的禅意社交，最后以存在主义的核心价值作为文章收尾。虽以《光·遇》为始，但最后分析的也不仅仅是《光·遇》。综上，文章整体脉络变构成了“四位一体”的第九艺术分析。\n\n美术风格：意象、自由、审美价值\n意象\n意象是审美中“美”本身，是美之本体。在美学的演化中，如果说有一个概念关注美学本身，那就是意象。《光·遇》中光怪陆离的风景意象如同卡尔维诺的《看不见的城市》那样，是现实与心中的那些虚构之城，交相辉映，轮回交替，更像是一场灵魂的旅行，带着思索穿梭于各个城市之间。\n所谓意象，由“意”与“象”构成，“意”即诗意，而“象”并不只是指具象，也包括想象。我们先来看看其中之”象“。想象，是假定与自由的象征，假定了，感情才有自由。反过来说，若《光·遇》中场景如实反映生活，不存在那些会发光的蝴蝶、会漂浮在空中的水母、会上天如海的鲲鹏、漂浮在空中的城市，而仅是拘泥于现实生活中存在的物体，那么没有想象，感情就没有自由，也就没有诗意了。所以我们说，艺术的精致，就在于是一种情感、联想、语言的精致。作为第九艺术的游戏，《光·遇》将这种艺术的精致发挥的淋漓精致。\n\n如果说想象是美学的灵魂，那么诗意是美学的境界。意象之中不但有极其精炼的“象”，而且有极其独特的“意”。所谓意境，不仅仅是意象群落之间的建构，而是意象与意象之间沿着意脉延伸发展而出的那般足以表达诗意的境界。\n以《光·遇》之中的雨林来看，整体意象包括了绵…",
-          "link": "https://sspai.com/post/75449",
-          "publishedOn": "2022-08-30T15:30:46.000Z",
-          "wordCount": 493,
-          "title": "从《光·遇》出发，谈谈「游戏美学」",
-          "imageUrl": "https://cdn.sspai.com/2022/08/30/56357f26cb01186bca5796ef1a7411e9.jpeg"
         }
       ]
     },
@@ -764,6 +784,176 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72929",
+          "author": null,
+          "description": "根据发表在《Frontiers in Cell and Developmental Biology》期刊上的一项研究，在母牛生殖道的模型中，公牛的精子以 2 到 4 个细胞为一组的方式聚集在一起。这似乎有助于它们逆流而上。科学家指出，成群结队游泳可以帮助精子穿过厚厚的生殖道和子宫黏液逆流而上，这些黏液往往会冲走那些独自游泳的精子。研究人员将 1 亿个新鲜的公牛精子注入一个硅胶管中，其中的液体类似于母牛的宫颈和子宫黏液——具有溶化的奶酪的稠度。然后他们使用注射泵来创造两种流速。当黏液没有流动时，聚集的精子游的线路比单个精子更笔直。在中等流速时，精子群可以逆流而上，而单个精子则不能。当液流强劲时，聚集的精子能比单个精子更好地通过迎面而来的黏液，单个精子则通常会被冲走。",
+          "link": "https://www.solidot.org/story?sid=72929",
+          "publishedOn": "2022-09-29T15:49:14.000Z",
+          "wordCount": 154,
+          "title": "动物研究显示精子组团前进",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72928",
+          "author": null,
+          "description": "美国人 Doreen Bogdan-Martin 被选为国际电联（ITU）下一任秘书长，接替中国的赵厚麟。她也是 ITU 的首位女性秘书长。她赢得了 139 张选票，其竞争对手俄罗斯的 Rashid Ismailov 得到了 25 张选票。她在获胜后的声明中称，世界面临巨大挑战——冲突升级、气候危机、粮食安全、性别不平等，以及 27 亿人无法使用互联网。她相信 ITU 能帮助解决其中一部分问题。",
+          "link": "https://www.solidot.org/story?sid=72928",
+          "publishedOn": "2022-09-29T15:39:44.000Z",
+          "wordCount": 176,
+          "title": "Doreen Bogdan-Martin 当选为 ITU 秘书长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72927",
+          "author": null,
+          "description": "Sensor Tower 的数据显示，米哈游的《原神》发布两年全球收入达到 37 亿美元。它过去两年的收入仅次于腾讯的两款手游：《PUBG Mobile》的 49 亿美元和《王者荣耀》的 53 亿美元。《原神》在中国之外地区的收入为 25 亿美元，略低于《Roblox》的 25 亿美元，高于《糖果粉碎传奇（Candy Crush Saga）》的 23 亿美元。在利用抽卡机制获利的游戏中，《原神》高居第一，高于莉莉丝游戏《万国觉醒》和阿里巴巴《三国志战略版》的 17 亿美元。",
+          "link": "https://www.solidot.org/story?sid=72927",
+          "publishedOn": "2022-09-29T15:32:01.000Z",
+          "wordCount": 170,
+          "title": "《原神》两年产生 37 亿美元收入",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72926",
+          "author": null,
+          "description": "欧盟提出 AI 责任指令（ AI Liability Directive），降低起诉 AI 产品的举证负担。自动驾驶汽车、语音助手和搜索引擎都可能在该指令的管辖范围之内。如果获得通过，该指令将配合拟议中的 AI 法——首个对 AI 系统设定限制的法律。AI 责任指令引入了 “因果关系推定”，只要证明产品的 AI 性能与相关伤害之间有因果关系，受害者将不需要破译复杂的 AI 系统以证明案件具有关联性。举例来说，如果无人机造成了伤害，其 AI 系统在其中起到了作用，那么厂商将不能免责。",
+          "link": "https://www.solidot.org/story?sid=72926",
+          "publishedOn": "2022-09-29T15:14:23.000Z",
+          "wordCount": 178,
+          "title": "欧盟提出 AI 责任指令更容易就 AI 产品提起诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72925",
+          "author": null,
+          "description": "加州州长 Gavin Newsom 签署了参议院 1162 号法案，正式将薪酬透明变成一项法律。这项法律要求员工数大于 15 人的雇主必须在招聘信息中披露薪酬范围，总部在加州、员工数大于一百人的企业必须公布不同性别和不同种族之间薪酬差异的中位数。加州企业需要在 2023 年 1 月前遵守该规定。加州知名的公司如  Meta/Facebook、Alphabet/Google 和迪士尼都将需要披露薪酬范围。美国科罗拉多州、纽约市和华盛顿州都通过类似的法律，其中科罗拉多州的法律已经生效，纽约市的法律将在 11 月 1 日生效，纽约州议会通过的法律正等待州长 Kathy Hochul 签署。",
+          "link": "https://www.solidot.org/story?sid=72925",
+          "publishedOn": "2022-09-29T13:54:38.000Z",
+          "wordCount": 163,
+          "title": "加州州长签署了薪酬透明法案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72924",
+          "author": null,
+          "description": "美国监管机构公布了与十多家华尔街银行就使用 WhatsApp 等加密消息应用违反记录保存监管要求而达成的和解协议，总罚款金额逾 20 亿美元。美国证券交易委员会(SEC)公布了 11 亿美元的罚款，美国商品期货交易委员会(CFTC)则公布了 7.1 亿美元罚款，加上摩根大通此前公布的 2 亿美元罚款，总罚款金额 20.1 亿美元。",
+          "link": "https://www.solidot.org/story?sid=72924",
+          "publishedOn": "2022-09-29T13:33:55.000Z",
+          "wordCount": 171,
+          "title": "华尔街银行为使用 WhatsApp 等加密应用缴纳逾 20 亿美元罚款",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72923",
+          "author": null,
+          "description": "solids 写道 \"在Google宣布退出中国之后，它仅在中国保留了翻译服务和不含搜索的地图服务，后来地图服务关闭了，但现在看来它也要关闭翻译服务了。近期有人发现访问Google翻译的中国站点 http://translate.google.cn 时有几率（经测试，是1/2）看到和搜索主页相同的重定向到 google.com.hk 页面 。目前不清楚这一现象的缘由，也不清楚Google是否完全计划关闭或者保留翻译服务。\"",
+          "link": "https://www.solidot.org/story?sid=72923",
+          "publishedOn": "2022-09-29T13:26:20.000Z",
+          "wordCount": 150,
+          "title": "Google疑似关闭了Google翻译的中国站点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72922",
+          "author": null,
+          "description": "台积电准备量产 3 纳米芯片，而苹果是最有可能首家使用  3 纳米工艺制造芯片的公司。但据台《经济日报》报道称，苹果拒绝涨价。台积电原计划是涨价 6%-9%，作为占到台积电收入四分之一的苹果公司则拒绝这一提议。报道称，半导体市场已经逆转了供不应求的状况，因此台积电的涨价计划遭遇阻力，客户希望台积电让利以共度难关。AMD CEO 据报道准备和台积电协商 3纳米芯片供应。",
+          "link": "https://www.solidot.org/story?sid=72922",
+          "publishedOn": "2022-09-29T11:38:20.000Z",
+          "wordCount": 159,
+          "title": "苹果据报道拒绝了台积电涨价 6% 的提议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72921",
+          "author": null,
+          "description": "Cloudflare 推出了 CAPTCHA 的免费替代 Turnstile，任何人都可以使用，不管是不是 Cloudflare 的客户。Turnstile 利用了 Cloudflare 的 Managed Challenge 系统，从用户行为、浏览器数据，以及苹果设备上的 Private Access Tokens 获取线索区分人类和机器人程序。Cloudflare 称其  Managed Challenge 系统能在一年内将向访问者展示的 CAPTCHA 减少 91%。用户将只会看到“验证中...”然后是“成功”。Cloudflare 称，除了烦人和浪费时间外，CAPTCHA 主要由 Google 通过其 reCAPTCHA 服务控制。Google 说不会将该信息用于定位广告，然而 Google 终究是一家广告销售公司。",
+          "link": "https://www.solidot.org/story?sid=72921",
+          "publishedOn": "2022-09-29T11:05:59.000Z",
+          "wordCount": 191,
+          "title": "Cloudflare 推出 CAPTCHA 免费替代 Turnstile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72920",
+          "author": null,
+          "description": "安全公司 Lumen 的研究人员发现了一种从未见过的跨平台恶意程序，能感染 Windows 和 Linux 设备，包括小型办公室路由器、FreeBSD 盒子和大型企业服务器。研究人员将该恶意程序命名为 Chaos，因为这个单词反复出现在恶意程序的函数名、证书和文件名中。它最早可能是在 4 月 16 日出现的，之后几个月感染了数以百计的设备。Chaos 的独特之处是设计支持 ARM、Intel(i386)、MIPS 和 PowerPC 等架构，支持 Windows 和 Linux 操作系统，它只通过已知的 CVE 漏洞，利用暴力破解和窃取的 SSH 密钥进行传播。Chaos 的感染主要集中在欧洲地区。",
+          "link": "https://www.solidot.org/story?sid=72920",
+          "publishedOn": "2022-09-29T10:14:13.000Z",
+          "wordCount": 181,
+          "title": "新恶意程序能感染 Windows、Linux 和 FreeBSD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72919",
+          "author": null,
+          "description": "亚马逊发布了支持手写的 10.2 英寸电子书阅读器 Kindle Scribe，有 16GB/32GB/64GB 三个版本，起售价340 美元，目前已开放预购（已售罄无货），中国区用户可通过京东国际购买（有货），含税价 4299/4429/4699元（带普通手写笔），带高级手写笔则需要再加价 300 元左右。Kindle Scribe 的显示屏为 10.2 英寸 300 ppi，重 443 克，如果每天阅读半小时电池单次充电可持续使用长达 12 周（关闭无线），如果每天写作半小时单次充电可持续使用长达 3 周（关闭无线）。",
+          "link": "https://www.solidot.org/story?sid=72919",
+          "publishedOn": "2022-09-29T09:45:07.000Z",
+          "wordCount": 181,
+          "title": "亚马逊发布 10.2 英寸电子书阅读器 Kindle Scribe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72918",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，中国科学院微生物所高福院士团队和施一团队合作，首次解析了埃博拉病毒聚合酶复合物的三维结构，为从分子水平理解埃博拉病毒复制机制奠定了关键理论基础。他们还解析了老药苏拉明能有效抑制埃博拉病毒聚合酶活性的分子机制，为抗埃博拉病毒的药物开发提供了新的靶点和方向。",
+          "link": "https://www.solidot.org/story?sid=72918",
+          "publishedOn": "2022-09-29T08:45:47.000Z",
+          "wordCount": 143,
+          "title": "中国科学家揭示埃博拉病毒聚合酶复合物的三维结构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72917",
+          "author": null,
+          "description": "美国国家情报总监办公室（ODNI）的研究部门 Intelligence Advanced Research Projects Activity (IARPA) 启动了 The Human Interpretable Attribution of Text Using Underlying Structure (HIATUS)研究项目，旨在开发能识别语言指纹的软件。人类创作的文本包含有作者的语言特征，能用于揭示作者身份。IARPA 相信有了正确的模型就能从不同文本样本中识别出作者的风格，软件同时还能修改这种风格去掩盖作者身份实现文本匿名性。",
+          "link": "https://www.solidot.org/story?sid=72917",
+          "publishedOn": "2022-09-29T08:20:15.000Z",
+          "wordCount": 169,
+          "title": "美国研究利用 AI 揭开匿名作者身份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72916",
+          "author": null,
+          "description": "1912 年 4 月 15 日，英国商船 SS Mesaba 在横渡大西洋期间向泰坦尼克号发出了冰山的无线电警告。泰坦尼克号收到了这条信息，但没有传达到主控制中心。当天晚上泰坦尼克号撞上冰山沉没。Mesaba 号则在 1918 年护航时被一艘德国潜艇发射鱼雷击沉，包括指挥官在内的 20 人死亡。一个世纪以来，Mesaba 号沉没的确切位置一直未知。现在科学家利用多波束声纳在爱尔兰海底发现了其残骸。这种近海测量工具能在声纳图上显示沉船的上层建筑，研究人员因此能识别其身份。",
+          "link": "https://www.solidot.org/story?sid=72916",
+          "publishedOn": "2022-09-29T07:48:44.000Z",
+          "wordCount": 157,
+          "title": "科学家发现了警告泰坦尼克号冰山的船只残骸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72915",
+          "author": null,
+          "description": "Google Chrome 开发者博客更新了 Manifest V2 扩展淘汰时间。搜索巨人正在强行推广受争议的 Manifest V3 扩展。Google 宣布：从 2023 年 1 月起 Chrome Web Store 停止接受现有 Manifest V2 扩展的更新，Manifest V3 将成为扩展精选标记的先决条件；从 2023 年 6 月起 Chrome Web Store 中的 Manifest V2 扩展将不再对用户可见；2024 年 1 月 Chrome Web Store 将移除所有 Manifest V2 扩展。",
+          "link": "https://www.solidot.org/story?sid=72915",
+          "publishedOn": "2022-09-29T03:43:39.000Z",
+          "wordCount": 202,
+          "title": "Google 推迟 Manifest V2 扩展淘汰时间",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72914",
+          "author": null,
+          "description": "根据发表在《Nature Communications》期刊上的一项研究，德国研究人员首次证明在二维材料中存在一种奇异的电子态——费米弧，这为新型量子材料及其在新一代自旋电子学和量子计算中的潜在应用奠定了基础。研究人员解释说，他们检测到的费米弧是费米面的一种特殊形式。费米面在凝聚态物理中用于描述金属内电子的动量分布。通常这些费米曲面代表闭合曲面，而费米弧等例外情况非常罕见，通常与超导性、负磁电阻以及异常量子传输效应等奇异性质有关。最新研究使用的材料是二维铁原子层。",
+          "link": "https://www.solidot.org/story?sid=72914",
+          "publishedOn": "2022-09-29T02:26:51.000Z",
+          "wordCount": 144,
+          "title": "二维材料发现奇异的电子态费米弧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72913",
+          "author": null,
+          "description": "据韩国情报机构称，朝鲜已开始在边境地区开展大规模的新冠疫苗接种，成为全球最后一批开始疫苗接种的国家。 WHO 曾表示，朝鲜和东非的厄立特里亚是仅剩的两个尚未开始广泛分发新冠疫苗的国家。朝鲜去年曾拒绝来自其他国家数以百万计的疫苗，随后在 5 月承认国内出现首次全国性新冠疫情，并在 8 月宣布战胜这波疫情。 金正恩本月早些时候表示，新冠疫苗将从 11 月开始分发。他提及了该国防疫专家的看法，即在 5 月和 6 月感染过新冠病毒的朝鲜人将从 10 月开始出现抗体反应下降。分析人士表示，考虑到中国和朝鲜之间最近恢复了一些航班和火车运营，很有可能是中国在向朝鲜供应疫苗。",
+          "link": "https://www.solidot.org/story?sid=72913",
+          "publishedOn": "2022-09-29T01:38:59.000Z",
+          "wordCount": 160,
+          "title": "朝鲜启动新冠疫苗接种",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72912",
           "author": null,
@@ -3523,146 +3713,6 @@
           "wordCount": 166,
           "title": "澳门提供自费 mRNA 疫苗接种",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72633",
-          "author": null,
-          "description": "热浪和空气污染都会影响人类健康，如果它们同时发生呢？研究人员调查了加州在 2014 年到 2020 年间的逾 150 万例死亡案例——黄金之州的夏季经常会同时发生热浪和野火引发的空气污染。结果显示，死亡人数在高温和高 PM2.5 指数的天会上升，而同时发生 高温和高污染时死亡风险会增加三倍以上。相比温度正常和空气干净的天，最炎热和空气污染最严重的 10% 的天，死亡风险会增加 4%；前 1% 的天死亡风险会增加 21%；而对于 75 岁以上老年人，死亡风险还会增加逾三分之一。",
-          "link": "https://www.solidot.org/story?sid=72633",
-          "publishedOn": "2022-08-31T14:23:38.000Z",
-          "wordCount": 162,
-          "title": "热浪和空气污染是致命组合",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72632",
-          "author": null,
-          "description": "得州报告了美国首例与猴痘相关的死亡病例。卫生官员目前还不确定猴痘是否是其死因。这位成年病人是于 8 月 28 日在 Harris 县去世的，尸检正在进行之中，将在未来几周公布结果。得州卫生部门称此人存在严重免疫功能低下，它正在调查以确定猴痘在死亡中的作用。CDC 的 High Consequence Pathogens and Pathology 部门副主任 Jennifer McQuiston 在白宫的新闻发布会上强调，猴痘导致的死亡是非常罕见的，疫苗接种、测试和治疗等措施都有助于预防猴痘。目前全世界共记录到 15 例猴痘相关的死亡病例，部分死者也存在免疫功能低下的问题，但还有死者被认为死亡前是健康的。",
-          "link": "https://www.solidot.org/story?sid=72632",
-          "publishedOn": "2022-08-31T13:47:39.000Z",
-          "wordCount": 162,
-          "title": "美国首次记录到与猴痘相关的死亡病例",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72631",
-          "author": null,
-          "description": "8 月 20 日晚上，Alexander Dugin 之女、阴谋论理论家 Darya Dugina 遇刺。数小时后，Telegram 频道 Utro Fevralya（意思为 February Morning 或二月之晨）率先报道称名叫 National Republican Army 的俄罗斯地下抵抗组织对此事负责。该频道由前俄议员 Ilya Ponomarev 创建和运营，他是 2014 年俄罗斯唯一一位投票反对吞并克里米亚的议员，投票之后他成为普京治下的俄罗斯不受欢迎的人，与家人逃到了乌克兰首都基辅。虽然 National Republican Army 参与暗杀无法获得证实，但这个运行在 Telegram 之上的新闻机构引起了《连线》杂志的兴趣。Telegram 审查较少，具有一定程度的匿名性，受到了乌克兰和俄罗斯的反战活动人士的欢迎。他们通过 Telegram 向受众报道不受审查的新闻，分享受到限制的材料。",
-          "link": "https://www.solidot.org/story?sid=72631",
-          "publishedOn": "2022-08-31T11:27:57.000Z",
-          "wordCount": 184,
-          "title": "运行在 Telegram 之上的新闻机构",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72630",
-          "author": null,
-          "description": "中国排名前二的游戏公司先后宣布收购或投资国外知名游戏开发商。网易宣布收购 《Heavy Rain》、《Beyond: Two Souls》和《Detroit: Become Human》的法国开发商 Quantic Dream，它在 2019 年曾收购该公司的少数股权。 Quantic Dream 目前正与迪士尼旗下的  Lucasfilm Games 合作开发星战动作冒险游戏《Star Wars Eclipse》。腾讯和索尼互动娱乐宣布投资《Elden Ring》以及其它著名魂系游戏的日本开发商 FromSoftware：腾讯旗下的  Sixjoy Hong Kong 收购 16.25% 股权，索尼互动娱乐收购 14.09%，FromSoftware 母公司 Kadokawa 仍然持有最多的 69.66% 股权。",
-          "link": "https://www.solidot.org/story?sid=72630",
-          "publishedOn": "2022-08-31T09:58:53.000Z",
-          "wordCount": 193,
-          "title": "网易收购 Quantic Dream 腾讯入股 FromSoftware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72629",
-          "author": null,
-          "description": "根据民政部公布的《2021年民政事业发展统计公报》（PDF），结婚人数首次低于 800 万对。公报称，全年依法办理结婚登记 764.3 万对，比上年下降 6.1%。结婚率为 5.4‰，比上年下降 0.4 个千分点。依法办理离婚手续 283.9 万对，比上年下降 34.6%，其中：民政部门登记离婚 214.1 万对，法院判决、调解离婚 69.8 万对。离婚率为 2.0‰，比上年下降 1.1 个千分点。此前民政部的 2022年1季度各省社会服务统计数据显示，2022 年 1 季度共有 210.7 万对新人登记结婚，同比下降 1.17%；51.4 万对夫妻离婚，同比增长 73.6%。",
-          "link": "https://www.solidot.org/story?sid=72629",
-          "publishedOn": "2022-08-31T08:42:03.000Z",
-          "wordCount": 183,
-          "title": "2021 年结婚人数首次低于 800 万对",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72628",
-          "author": null,
-          "description": "美国国家劳工关系委员会（NLRB）以 3 比 2 票通过裁决，特斯拉公司禁止穿工会 logo T恤的做法违反了美国劳工法。NLRB 中的共和党成员投了反对票，民主党投了赞成票。特斯拉公司从 2017 年开始执行一项政策，要求雇员穿黑色T恤或带有雇主 logo 的T恤，从而禁止雇员穿带有工会 logo 的T恤。NLRB 要求特斯拉公司废除或修改其服装政策，澄清它不禁止雇员穿黑色工会衫。特斯拉必须通知所有在职雇员这一变动。",
-          "link": "https://www.solidot.org/story?sid=72628",
-          "publishedOn": "2022-08-31T08:31:52.000Z",
-          "wordCount": 158,
-          "title": "特斯拉禁止穿亲工会T恤违法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72627",
-          "author": null,
-          "description": "Google Play 拒绝上架特朗普的 Truth Social 社交平台，Google 称该平台违反了其有关禁止人身威胁和煽动暴力的内容政策。 Truth Social CEO Devin Nunes 此前曾指控 Google 垄断。Truth Social 在今年二月上架 App Store，但一直没有上架  Google Play。Google 表示上架 Truth Social 是否在于遵守其规定，它在 8 月 19 日通知该平台有多处违反其政策，要求在解决之后才可能批准上架。 Truth Social 自称是一个言论自由平台，但其服务条款列举了大量可发表和禁止发表的内容。",
-          "link": "https://www.solidot.org/story?sid=72627",
-          "publishedOn": "2022-08-31T05:58:20.000Z",
-          "wordCount": 191,
-          "title": "Google Play 禁止特朗普的 Truth Social",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72626",
-          "author": null,
-          "description": "Theregister 试用了优麒麟操作系统。Ubuntu Kylin 或优麒麟是 Canonical、工信部和国防科技大学的合作项目，Canonical 并没有参与维护和开发，它被视为是一个社区项目。在中国的 Linux 发行版中，深度可能是最知名最流行的，它的深度桌面环境  DDE 支持多个发行版，但还没有更新支持最新的 Ubuntu 22.04。优麒麟使用的桌面环境 UKUI 源自 MATE，MATE 是基于 Gtk，但 UKUI 从 v3 开始迁移到了 Qt。最近宣布的 openKylin 操作系统基于 Ubuntu，与优麒麟在用户界面上相差无几，最明显的区别是 logo。优麒麟有一个国际版本，与国内版本的一个区别是前者会安装开源办公软件 LibreOffice，后者则是闭源的 WPS Office。",
-          "link": "https://www.solidot.org/story?sid=72626",
-          "publishedOn": "2022-08-31T04:44:32.000Z",
-          "wordCount": 172,
-          "title": "一窥优麒麟操作系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72625",
-          "author": null,
-          "description": "加州议会周二通过了一项议案，将在美国首次要求 Facebook、Instagram 和 TikTok 等社交媒体应用程序的开发者在设计其产品时考虑未成年人的身心健康。这项议案在加州众议院获得两党议员的一致支持，与周一州参议院投票结果相同。州长 Gavin Newsom 尚未表示是否会签署或否决这项议案。若得到 Newsom 签字批准，该议案的规定将于 2024 年 7 月生效。议案遭到社交媒体公司的反对，理由是如果各州都拿出不同的应用程序监管规则，将给合规带来很大难度。",
-          "link": "https://www.solidot.org/story?sid=72625",
-          "publishedOn": "2022-08-31T03:28:30.000Z",
-          "wordCount": 157,
-          "title": "加州新议案要求社交媒体考虑未成年人健康",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72624",
-          "author": null,
-          "description": "前苏联领导人戈尔巴乔夫逝世，享年 91 岁。俄罗斯官媒称，他死于一种未指明的“长期而严重的疾病”。很少有领导人像戈尔巴乔夫一样，能对其所在的时代产生如此深远的影响。执政期间，他带领苏联进行了一系列革命性变革，对世界政治气候和欧洲版图产生了极大影响，并终结了以核毁灭的可能性威胁世界的冷战；也是在他任内，苏联走向解体。戈尔巴乔夫因在外交上的成就获得诺贝尔和平奖，但对国内的许多人来说，他造成的动荡是一场灾难，一些人批评他未能兑现经济变革的承诺。",
-          "link": "https://www.solidot.org/story?sid=72624",
-          "publishedOn": "2022-08-31T02:54:21.000Z",
-          "wordCount": 149,
-          "title": "戈尔巴乔夫去世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72623",
-          "author": null,
-          "description": "根据发表在《Nature Climate Change》期刊上的最新研究，格陵兰冰盖融化难以逆转，而无论在哪种气候变暖预测情景下，格陵兰冰盖的整体冰损失加上降水量、冰流排放和融水径流的增加都将使海平面至少上升 274 毫米。研究人员利用 2000 年至 2019 年的气候数据，计算了格陵兰冰不平衡已经导致的冰盖体积和面积变化指出，融水径流引起的冰面消融是格陵兰冰盖质量预算发生同比变化的主要驱动因素。无论在哪一种未来气候情景下，格陵兰冰盖质量损失将导致 5900 平方千米的海冰减退，这相当于其 3.3% 的冰体积损失，使海平面至少上升 274 毫米。",
-          "link": "https://www.solidot.org/story?sid=72623",
-          "publishedOn": "2022-08-30T15:58:14.000Z",
-          "wordCount": 158,
-          "title": "格陵兰冰盖融化难以逆转",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72622",
-          "author": null,
-          "description": "在猴痘疫情之初，一名 20 多岁的男子来到北加州的急诊室，他的嘴唇、手部和背部都长了小水泡。不到 12 个小时，他就被医生诊断患上了猴痘。但医生们能确定的也只有这些了。该患者无发热、不适、虚弱、疼痛或其他典型疾病症状。他也不知道自己何时或如何被感染。他说自己几个月以来都没有和任何人发生过性接触，据他所知也没有触碰过任何有这种痘疹或其他症状的人。在疫情初期，科学家们以为自己已经了解猴痘病毒是何时以及如何传播的，也清楚这种疾病的症状以及谁最容易受到感染。但全球确诊的 4.7 万例病例颠覆了他们的许多预期。",
-          "link": "https://www.solidot.org/story?sid=72622",
-          "publishedOn": "2022-08-30T15:34:20.000Z",
-          "wordCount": 150,
-          "title": "猴痘病毒颠覆科学家认知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72621",
-          "author": null,
-          "description": "中国手机制造商 Oppo 在今年的 Mobile World Congress 大会上演示了 240 W 快充技术，一部智能手机在不到 10 分钟内就能充满电。被称为 240 W SuperVooc Flash Charge 的技术目前尚未提供给商业产品使用。Oppo 的快充雄心看起来没有限制。该公司的一位品牌经理最近甚至表示，未来有一天智能手机一秒钟就能充满电。Oppo 开发快充技术的实验室负责人 Edward Tian 承认加快充电速度不是一件简单的事情，需要考虑安全、充电温度、电池单元能量密度、充电器大小、电池寿命等等因素。Oppo 的快充技术位居业界最先进之列，在 OnePlus 10T 上，它的 150 W 快充能在 19 分钟内充满电。",
-          "link": "https://www.solidot.org/story?sid=72621",
-          "publishedOn": "2022-08-30T15:31:30.000Z",
-          "wordCount": 180,
-          "title": "Oppo 认为未来有一天智能手机一秒钟就能充满电",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72620",
-          "author": null,
-          "description": "影迷和影评人对同一部电影的评分通常是相近的，但今年的情况有显著不同。今年至今最受欢迎的 10 部（基于票房以及最大流媒体平台 Netflix 上的观影数字）双方之间的评分出现巨大鸿沟，只有票房冠军的《壮志凌云2：独行侠》和《新蝙蝠侠》的评分相近，其它八部——包括《侏罗纪世界3》、《奇异博士2：疯狂多元宇宙》、《小黄人2》、《雷神4：爱与雷霆》等都相差巨大。以改编自索尼热门游戏《神秘海域》的同名电影为例，影评人痛斥这部电影毫无吸引力，非常空洞，综合评分只有 43 分，但影迷的评分是 77 分。《侏罗纪世界3》的影评人评分是 34 分，影迷的评分是 67 分，Netflix 《灰影人》的影评人评分是 47.5 分，影迷评分是 77.5 分。这几部热门电影的评分都相差 30 分左右。前 10 电影的评分平均相差 19 分，创下了本世纪以来的最高记录。",
-          "link": "https://www.solidot.org/story?sid=72620",
-          "publishedOn": "2022-08-30T14:23:24.000Z",
-          "wordCount": 167,
-          "title": "影迷和影评人的评分日益两级分化",
-          "imageUrl": null
         }
       ]
     },
@@ -3671,6 +3721,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/729212/",
+          "author": null,
+          "description": "撰文 吴先之文烨豪 编辑 王潘 近两年来，在元宇宙等概念的带动下，沉寂已久的 VR 赛道，似乎再度焕发了生机。 一年前，字节曾在元宇宙最为火热的时间节点，高调收购 VR 硬件厂商 PICO，而一年后的 9 月 27 日，PICO 被收购后的首款产品终于问世。 相比前代，为了进一步打开国内消费级市场，\n本文链接",
+          "link": "https://news.cnblogs.com/n/729212/",
+          "publishedOn": "2022-09-30T01:35:00.000Z",
+          "wordCount": 161,
+          "title": "字节的“虚拟”，需要PICO的现实",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729211/",
+          "author": null,
+          "description": "丰色明敏发自凹非寺 量子位公众号 QbitAI 搅翻计算生物界的 AlphaFold2 一开源，各种加速方案就争相涌现。 妹想到啊，现在居然有了个 CPU 的推理优化版本，不用 GPU，效果也出人意料的好—— 端到端的通量足足提升到原来的 23.11 倍。 △高达 23.11 倍的提升不是一蹴而就，\n本文链接",
+          "link": "https://news.cnblogs.com/n/729211/",
+          "publishedOn": "2022-09-30T01:28:00.000Z",
+          "wordCount": 161,
+          "title": "CPU也能速刷AlphaFold2？英特尔：请收下这份23倍通量优化指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729210/",
+          "author": null,
+          "description": "字节距离苹果，差的不止一个 PICO 4。 作者丨古廿 编辑丨伊页 来源：科技新知 时隔一年，PICO 正式发布新一代旗舰 VR 一体机 PICO 4。相比此前的诸多版本，这一代的 PICO 4 充分融入了字节“大力出奇迹”的基因。 在硬件侧，PICO 跟随 Meta 的补贴策略，在参数配置拉满的情\n本文链接",
+          "link": "https://news.cnblogs.com/n/729210/",
+          "publishedOn": "2022-09-30T01:20:00.000Z",
+          "wordCount": 161,
+          "title": "字节身上看不到苹果光环",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729209/",
+          "author": null,
+          "description": "摄影：IT 时报沈毅斌 作者／ 沈毅斌 编辑／ 郝俊慧 挨踢妹 来源：IT 时报 上海的徐家汇，是魔都最繁华的商业中心之一，从来都不缺少人流。 9 月 26 日晚上 6 点，正值下班高峰期，拥挤的人群排着队乘坐扶梯，商场、餐厅人满为患，连天桥上都是来来往往的行人。然而，坐落于此的国美电器徐汇二店格外\n本文链接",
+          "link": "https://news.cnblogs.com/n/729209/",
+          "publishedOn": "2022-09-30T01:10:00.000Z",
+          "wordCount": 161,
+          "title": "减薪、关店、巨亏，国美“临崖”谁来救？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729208/",
+          "author": null,
+          "description": "撰文 / 杨俏 编辑 / 杨洁 顺丰推出丰网，通过加盟模式，“向下试探”通达系的电商件优势地带；与此同时，“三通一达一兔”却开始上行，进军顺丰的中高端业务老地盘。价格战告一段落之后，快递行业加快了整合的脚步，一场全新的战斗在巨头们之间展开。它们拼服务、拼成本，拼谁能撑得住长期的投入，这场比拼或许看起\n本文链接",
+          "link": "https://news.cnblogs.com/n/729208/",
+          "publishedOn": "2022-09-30T00:58:00.000Z",
+          "wordCount": 161,
+          "title": "顺丰关键变量：电商件再战“通达兔”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729207/",
+          "author": null,
+          "description": "9 月 29 日消息，一家动物权利组织正在起诉加州大学戴维斯分校，理由是后者为埃隆·马斯克（Elon Musk）旗下脑机接口公司 Neuralink 进行残酷的动物实验。该组织称，这所大学有 371 张照片与 Neuralink 在猴子身上进行的实验有关。 这家名为“负责任医疗医师委员会（PCRM）\n本文链接",
+          "link": "https://news.cnblogs.com/n/729207/",
+          "publishedOn": "2022-09-30T00:50:00.000Z",
+          "wordCount": 161,
+          "title": "动物保护组织要求公布马斯克脑机接口公司371张动物实验照片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729206/",
+          "author": null,
+          "description": "【文/观察者网吕栋】 长期以来，全球独立显卡（GPU）市场被英伟达和 AMD 两巨头垄断，英特尔虽然凭借集成显卡占据全球最高的显卡市场份额，但在利润丰厚的独显市场却没什么话语权。 不过，今后英伟达和 AMD 二分天下的格局可能会有所改变。因为英特尔已宣布全面进军独显市场。这家半导体巨头用消费者的口吻\n本文链接",
+          "link": "https://news.cnblogs.com/n/729206/",
+          "publishedOn": "2022-09-30T00:43:00.000Z",
+          "wordCount": 161,
+          "title": "英特尔时隔20年再推独显，平价显卡稳了吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729205/",
+          "author": null,
+          "description": "记者刘亚丹 编辑高宇雷 在中国珠三角和长三角的服装代工厂看来，SHEIN 并不像其在资本市场那么有魅力，更像是一个用低价扰乱行业秩序的垄断怪兽。 这是一家 App 今年在美下载量超过亚马逊，让拼拼高薪挖人的中国跨境服饰电商。分析机构 CB Insights 数据显示， SHEIN 是全球估值第三的独\n本文链接",
+          "link": "https://news.cnblogs.com/n/729205/",
+          "publishedOn": "2022-09-30T00:35:00.000Z",
+          "wordCount": 161,
+          "title": "SHEIN高速增长背后：拿走大部分利润，合作代工厂面临生死选择",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729204/",
+          "author": null,
+          "description": "美国时间周四，美股收盘主要股指全线下跌，标普 500 指数创 2022 年内的新低，苹果和其他科技股纷纷大跌。美国一系列经济数据强化了市场对美联储将继续大举加息的预期，奠定了美股当天交易的基调 道琼斯指数收于 29225.61 点，下跌 458.13 点，跌幅 1.54%，盘中一度下跌 686 点；\n本文链接",
+          "link": "https://news.cnblogs.com/n/729204/",
+          "publishedOn": "2022-09-30T00:29:00.000Z",
+          "wordCount": 161,
+          "title": "美股周四全线下跌：苹果跌近5%，市值蒸发1165亿美元，特斯拉跌近7%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729203/",
+          "author": null,
+          "description": "于 2020 年 7 月 31 日宣布全面建成的北斗三号全球卫星导航系统，是过去十年中，中国航天最为耀眼的成就之一。这项由中国自主建设、独立运行的全球卫星导航系统，在维护国家安全，服务经济社会发展方面发挥了不可替代的作用。从 1994 年正式启动至 2020 年全面建成，北斗卫星导航系统耗时 26 \n本文链接",
+          "link": "https://news.cnblogs.com/n/729203/",
+          "publishedOn": "2022-09-30T00:23:00.000Z",
+          "wordCount": 161,
+          "title": "两年前，中国“牧星人”救回了一颗重磅卫星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729202/",
+          "author": null,
+          "description": "本文转自：人民日报中央厨房-思聊工作室 睡前聊一会儿，梦中有世界。听众朋友，你好。 物理学家、诺奖得主杨振宁，迎来了 100 周岁的生日。近日，从举办“百种杨振宁主题图书版本展”，到出版《我知道的杨振宁》等书籍，社会各界通过多种形式为他祝寿，很多网友也自发送上了祝福。 杨振宁何许人也？大家并不陌生。\n本文链接",
+          "link": "https://news.cnblogs.com/n/729202/",
+          "publishedOn": "2022-09-30T00:17:34.000Z",
+          "wordCount": 161,
+          "title": "杨振宁百岁寿辰，给予我们的启示不止于此…… 睡前聊一会儿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729201/",
+          "author": null,
+          "description": "9 月 30 日消息，当地时间周四，美国国家航空航天局（NASA）宣布，其正在与 SpaceX 公司合作，探索一项延长哈勃望远镜寿命的私人航天任务。 据悉，亿万富翁、平民宇航员杰瑞德·艾萨克曼（Jared Isaacman）领导的北极星计划也将参与其中，主要研究使用 SpaceX 航天器与望远镜对接\n本文链接",
+          "link": "https://news.cnblogs.com/n/729201/",
+          "publishedOn": "2022-09-30T00:16:59.000Z",
+          "wordCount": 161,
+          "title": "SpaceX与NASA合作研究，希望抬升轨道延长哈勃望远镜寿命",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729196/",
+          "author": null,
+          "description": "作者东篱 来源：伯虎财经 夏天刚缉拿完“雪糕刺客”，秋天又来了个“充电刺客”。 近日，共享充电宝又涨价的消息冲上热搜，从早期的 0.5 元/小时集体跨入“4 元时代”，一些热门景点每小时充电价格甚至高达 10 元。 “火电 1 度 3 毛9，风电 1 度 4 毛6，共享充电宝 5 伏 1 万毫安 0\n本文链接",
+          "link": "https://news.cnblogs.com/n/729196/",
+          "publishedOn": "2022-09-30T00:12:46.000Z",
+          "wordCount": 161,
+          "title": "越贵越亏，共享充电宝注定赚不了钱？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729200/",
+          "author": null,
+          "description": "出品丨虎嗅科技组 作者丨苏北佛楼蜜 题图丨视觉中国 “诺奖风向标”向一位华人科学家抛出了橄榄枝。 当地时间 2022 年 9 月 28 日，生物医学领域的重要奖项拉斯克奖（The Lasker Awards）正式公布，今年共设立 3 个奖项：基础医学研究奖、临床医学研究奖以及公共服务奖。 拉斯克奖在\n本文链接",
+          "link": "https://news.cnblogs.com/n/729200/",
+          "publishedOn": "2022-09-30T00:09:00.000Z",
+          "wordCount": 161,
+          "title": "每年近千万名孕妇因这项技术受惠：华人科学家会再拿诺贝尔吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729199/",
+          "author": null,
+          "description": "造成软银集团巨亏的愿景基金，已开启大规模裁员。 援引彭博社消息，周四开始，软银愿景基金员工陆续将接收到裁员通知，知情人士称，此次裁员比例至少 30%。 软银集团在 8 月发布财报，录得公司成立 40 年以来最大的 234 亿美元单季亏损。亏损的原因主要是由于投资的科技股大跌以及日元贬值造成的股份价值\n本文链接",
+          "link": "https://news.cnblogs.com/n/729199/",
+          "publishedOn": "2022-09-30T00:06:00.000Z",
+          "wordCount": 161,
+          "title": "孙正义继续收缩：软银愿景基金开启裁员，比例或高达30%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729198/",
+          "author": null,
+          "description": "9 月 30 日消息，美国当地时间周四，谷歌宣布将在明年初关闭云游戏服务 Stadia，此举旨在进一步削减成本以节省开支。 Stadia 游戏服务于 2019 年推出，在手机和 Chrome 浏览器上运行。谷歌副总裁菲尔·哈里森（Phil Harriso）在博文中写道：“尽管 Stadia 面向消费\n本文链接",
+          "link": "https://news.cnblogs.com/n/729198/",
+          "publishedOn": "2022-09-30T00:03:00.000Z",
+          "wordCount": 161,
+          "title": "为削减成本，谷歌宣布明年1月关闭云游戏服务Stadia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729197/",
+          "author": null,
+          "description": "9 月 30 日消息，美国当地时间周四，Facebook 母公司 Meta Platform 首席执行官马克·扎克伯格（Mark Zuckerberg）概述了公司团队重组和裁员的全面计划，这可能标志着这家社交媒体巨头快速增长的时代正走向终结。 这将是 Facebook 自 2004 年成立以来首次大\n本文链接",
+          "link": "https://news.cnblogs.com/n/729197/",
+          "publishedOn": "2022-09-30T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "扎克伯格宣布Meta冻结招聘，大幅削减预算",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729194/",
+          "author": null,
+          "description": "（图片来自 SHEIN 官网） 文 Hernanderz 来源：价值研究所 在国内市场见顶之后，电商巨头们纷纷出海寻求新增长。北美，则成为了海外主战场。 近日，据报道，跨境电商独角兽 SHEIN 计划继续扩大北美地区业务范围，并祭出两个大招：一是在 2025 年前在美国新建两个大型配送中心，未来不排\n本文链接",
+          "link": "https://news.cnblogs.com/n/729194/",
+          "publishedOn": "2022-09-29T13:32:00.000Z",
+          "wordCount": 161,
+          "title": "供应商battle东方甄选，“6元玉米”再起波澜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729192/",
+          "author": null,
+          "description": "作者刘丹丹 编辑黎明 来源：深途 时隔两年，中国造车新势力终于走出了第四家 IPO 的车企——零跑。 与前辈蔚小理相比，零跑的 IPO 之路谋划更久、准备也更多。从去年下半年开始，零跑就在为 IPO 做铺垫，先后推出 C11、C01 两款全新平台的车，发布 CTC 电池技术，大肆讲述全域自研故事，甚\n本文链接",
+          "link": "https://news.cnblogs.com/n/729192/",
+          "publishedOn": "2022-09-29T13:20:00.000Z",
+          "wordCount": 161,
+          "title": "零跑上市，先跌为敬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729191/",
+          "author": null,
+          "description": "Alex 发自凹非寺 量子位公众号 QbitAI 免费开源的 Stable Diffusion 又被玩儿出了新花样： 这次是被拿来压缩图片。 Stable Diffusion 不仅能把同一张原图缩到更小，而且表现还肉眼可见地优于 JPEG 和 WebP。 对于同一张原图，Stable Diffusi\n本文链接",
+          "link": "https://news.cnblogs.com/n/729191/",
+          "publishedOn": "2022-09-29T13:10:00.000Z",
+          "wordCount": 161,
+          "title": "Stable Diffusion还能压缩图：比JPEG更小更清晰，但千万别试人脸",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/729142/",
           "author": null,
@@ -8629,406 +8879,6 @@
           "publishedOn": "2022-09-01T14:10:00.000Z",
           "wordCount": 161,
           "title": "NASA 修复航海家1号数据损坏问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727529/",
-          "author": null,
-          "description": "新智元报道 编辑：Aeneas 好困 近日，接到虾皮 offer 的一位网友，携家带口飞到了新加坡，结果一下飞机就发现自己失业了。虾皮这波大规模毁 offer 操作，究竟是什么原因？ 最近，一位「大怨种」网友经历了不可思议的一幕。 主攻 CV 方向的他，收到虾皮 offer 后，他开心地哼着小曲儿，\n本文链接",
-          "link": "https://news.cnblogs.com/n/727529/",
-          "publishedOn": "2022-08-31T09:35:00.000Z",
-          "wordCount": 161,
-          "title": "谢邀，原地失业！上交大佬刚到新加坡，就被虾皮取消了offer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727528/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 不会画画也能当艺术家！用心讲故事，让 AI 做你的画手！ 去年 11 月首播的《英雄联盟：双城之战》让各位老召唤师直呼爷青回，主题曲《孤勇者》也成了小学生的新暗号。 《双城之战》由中、美、法三国开发制作，内容包含 7000 多个镜头和上万个手绘原画，但制作耗费了六年时间，小\n本文链接",
-          "link": "https://news.cnblogs.com/n/727528/",
-          "publishedOn": "2022-08-31T09:26:00.000Z",
-          "wordCount": 161,
-          "title": "漫画拖更将成历史？首部AI图文小说问世：一小时画一页",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727527/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS NLP 研究者对行业现状和前景怎么看？ 自然语言理解（NLP）素有人工智能皇冠上的明珠的盛誉，在大规模语言模型的加持下，人类也终于有了让计算机理解语言的能力。 但这个「理解」还是得打个引号，按目前 NLP 模型的效果来看，虽然在部分领域模型可以为人类提供辅助，例如写作、文本\n本文链接",
-          "link": "https://news.cnblogs.com/n/727527/",
-          "publishedOn": "2022-08-31T09:18:00.000Z",
-          "wordCount": 161,
-          "title": "NLPer内部巨大分歧！美国三所顶尖大学发布调查报告：62%从业者认同寒冬正来临",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727526/",
-          "author": null,
-          "description": "新智元报道 编辑：武穆桃子 最近，哈佛大学工程与应用科学学院公布了 10 位新教师的名单。令人惊喜的是，在这份名单中，我们看到了两位华人学者。 新学期来了，哈佛大学工程与应用科学学院（SEAS）也公布了 10 位新教师名单。 这 10 位教师分别来自机器人，生物工程，应用数学，计算机科学和量子工程等\n本文链接",
-          "link": "https://news.cnblogs.com/n/727526/",
-          "publishedOn": "2022-08-31T09:11:00.000Z",
-          "wordCount": 161,
-          "title": "清华校友杨珩入职哈佛！2位MIT华人博士分任计算机和电气工程助理教授",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727525/",
-          "author": null,
-          "description": "新智元报道 编辑：David 面对凶猛矿难和难看的财报，英伟达掌门人黄仁勋依然对元宇宙未来信心满满：「可能你还没意识到，它已经免费了」。 英伟达最近发布的 Q2 财报很不好看。 财报显示，公司 PC 和游戏销售业务收入急剧下降。第二季度游戏收入为 20.4 亿美元，比一年前下降 33%，比上一季度下\n本文链接",
-          "link": "https://news.cnblogs.com/n/727525/",
-          "publishedOn": "2022-08-31T09:00:00.000Z",
-          "wordCount": 161,
-          "title": "黄仁勋专访：经济不景气又怎样？未来元宇宙将「全民免费」！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727524/",
-          "author": null,
-          "description": "新智元报道 编辑：Aeneas 通过 AI，一位英国老奶奶在自己的葬礼上出现了，并回答了来宾们的提问。最近，通过 AI，一位英国的老奶奶在自己的葬礼上「复活」了。她「看」着自己被火化，随后向悲伤的哀悼者们致辞。 实现这种全息对话的 AI，正是 StoryFile。 妈妈在火化后回答了亲戚的问题 当 \n本文链接",
-          "link": "https://news.cnblogs.com/n/727524/",
-          "publishedOn": "2022-08-31T08:51:00.000Z",
-          "wordCount": 161,
-          "title": "英国老奶奶在火化后，回答了葬礼来宾的提问",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727523/",
-          "author": null,
-          "description": "上海音乐学院于近日宣布，讯飞音乐首位 AI 虚拟学生 Luya 入学，她将入读上音音乐工程系，音乐科技与艺术专业。 音乐工程系副教授陈世哲还补充道，Luya 将在日常学习之外，参与 AI 辅助创作方向的学习研究，探索不同类型的音乐风格，在 AI 辅助下进行融合，创意编曲的新玩法。 该事件目前已上微博\n本文链接",
-          "link": "https://news.cnblogs.com/n/727523/",
-          "publishedOn": "2022-08-31T08:42:00.000Z",
-          "wordCount": 161,
-          "title": "AI虚拟歌手入学上海音乐学院",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727521/",
-          "author": null,
-          "description": "允中发自凹非寺 量子位公众号 QbitAI 览相观于四极兮，周流乎天余乃下。古人期待能从天上观察人间的四面八方，云游四海。而今天，成像技术的发展，实现了感千里之外，知万物之变的梦想。 当下，面向十亿像素级图像视频的大场景、多对象、复杂关系智能重建与理解是新一代人工智能面临的重要机遇与挑战。 长期聚焦\n本文链接",
-          "link": "https://news.cnblogs.com/n/727521/",
-          "publishedOn": "2022-08-31T08:37:00.000Z",
-          "wordCount": 161,
-          "title": "300万元重奖，GigaVision挑战赛正式开赛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727522/",
-          "author": null,
-          "description": "视觉算法工程师，月薪 3.6 万，平均一天写 7 行多代码，被公司解除劳动关系。 近日，这样一则事件在网上引发诸多关注。 其信息源头来自中国裁判文书网，根据其中内容，李某在 2020 年 11 月 2 日入职中科尚易健康科技（北京）有限公司（后简称中科尚易公司），其岗位为机器视觉算法工程师，月薪 3\n本文链接",
-          "link": "https://news.cnblogs.com/n/727522/",
-          "publishedOn": "2022-08-31T08:33:00.000Z",
-          "wordCount": 161,
-          "title": "月薪3.6万算法工程师，日均写7行代码被开除；",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727520/",
-          "author": null,
-          "description": "苹果已宣布，将于北京时间 9 月 8 日凌晨 1 点举办“超前瞻”（Far Out）特别活动。此次仍然采用线上发布会形式，预计将带来 iPhone 14 / Pro 系列、Apple Watch Series 8 等新品，还有 iOS 16 正式版的推出。 在 iPhone 14 Pro 发布前一周\n本文链接",
-          "link": "https://news.cnblogs.com/n/727520/",
-          "publishedOn": "2022-08-31T08:28:00.000Z",
-          "wordCount": 161,
-          "title": "曝苹果iPhone 14 Pro配备新款30W充电器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727519/",
-          "author": null,
-          "description": "韦伯望远镜又有新照片出来了，话不多说先上图！ △哈勃和韦伯望远镜下的 M74 图源 NASA 此次观察到的新图像是幽灵星系 M74，它并不是韦伯望远镜独自观测到的结果，其中，还有哈勃望远镜的数据补充。 幽灵星系位于双鱼座，距离地球约 3200 万光年，几乎与地球面对面。它有清晰的螺旋臂，一般是天文学\n本文链接",
-          "link": "https://news.cnblogs.com/n/727519/",
-          "publishedOn": "2022-08-31T08:21:00.000Z",
-          "wordCount": 161,
-          "title": "韦伯望远镜又有新照片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727518/",
-          "author": null,
-          "description": "上市时间一度延迟的特斯拉 Cyber Truck 现身街头！ 近日，有网友在推特上发布了一条信息，图片显示一辆外形破旧的特斯拉 Cyber truck 在街道上被拖走。 仔细看图片，这个测试车辆形状很粗糙，车窗的玻璃已经破碎，并且侧板也有凹痕。 据彭博社消息，根据车辆上配备的传感器和摄像机校准设备可\n本文链接",
-          "link": "https://news.cnblogs.com/n/727518/",
-          "publishedOn": "2022-08-31T08:13:00.000Z",
-          "wordCount": 161,
-          "title": "Cyber Truck测试车现身街头",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727517/",
-          "author": null,
-          "description": "羿阁发自凹非寺 量子位公众号 QbitAI “一项惊人的发现暴露了学术界持续存在的不平等。” 这话出自Nature 子刊的副主编 Arunas Radzvilavicius 之口。 让他感到震惊的是一篇最新论文揭示的美国学术圈现象： 近四分之一终身教授的父母拥有博士学位，这个比例是普通人口的25 倍\n本文链接",
-          "link": "https://news.cnblogs.com/n/727517/",
-          "publishedOn": "2022-08-31T08:05:00.000Z",
-          "wordCount": 161,
-          "title": "学术圈也能“子承父业”？近1/4终身教授父母是博士｜Nature子刊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727516/",
-          "author": null,
-          "description": "一直以来，只要说到和元宇宙有关的企业，大家首先会想到 Roblox、Meta、微软、腾讯、华为等国内外知名企业，可以说，他们开启了元宇宙概念、内容和硬件的时代。 为了让用户在虚拟世界中获得更真实的体验，渲染引擎一直是元宇宙技术栈中是非常重要的一环，元宇宙所带来的新诉求，对算法、算力都有了新的要求。新\n本文链接",
-          "link": "https://news.cnblogs.com/n/727516/",
-          "publishedOn": "2022-08-31T07:50:00.000Z",
-          "wordCount": 161,
-          "title": "助力元宇宙照进现实，光线云打造首款云原生实时渲染引擎",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727515/",
-          "author": null,
-          "description": "衡宇发自凹非寺 量子位公众号 QbitAI AMD 的 5nm Zen4 架构终于来啦！ Ryzen 7000 系列首批四款 CPU，今天正式发布。 按照 AMD 测试数据，这四款的 Geekbench 单核跑分，均超过了英特尔当前的旗舰处理器 i9-12900K。 与之前传闻的全系列涨价正相反，这\n本文链接",
-          "link": "https://news.cnblogs.com/n/727515/",
-          "publishedOn": "2022-08-31T07:40:00.000Z",
-          "wordCount": 161,
-          "title": "AMD首批Zen4 CPU，低端R5单核性能都超英特尔旗舰，最高降价700元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727514/",
-          "author": null,
-          "description": "金磊梦晨假装发自张北县 量子位公众号 QbitAI “全球最强智算”王座，刚刚易主。 来自中国河北省张北县的“中国选手”，一举击败谷歌。 △图：张北县草原 而其所凭借的算力值，每秒浮点运算次数已经高达12EFLOPS（百亿亿次）。 相比之下，谷歌单集群算力峰值是 9EFLOPS，特斯拉也仅有 1.9\n本文链接",
-          "link": "https://news.cnblogs.com/n/727514/",
-          "publishedOn": "2022-08-31T07:30:00.000Z",
-          "wordCount": 161,
-          "title": "全球最强智算来了：12000000000000000000（别数了18个0）FLOPS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727513/",
-          "author": null,
-          "description": "一杯娃哈哈可乐，回味总让人想起中药；一杯元气森林可乐，喝下去总感觉哪里不一样；一杯可口可乐和百事可口，虽然盲测分不出哪个品牌，但大部分人都认同这就是可乐的味道——即便模仿者众多，依旧无可替代。 在可乐这个品类，两个大品牌基本是彼此唯一的对手。 但它们也在努力成为别人的对手。 可口可乐，新品惹人爱 在\n本文链接",
-          "link": "https://news.cnblogs.com/n/727513/",
-          "publishedOn": "2022-08-31T07:08:00.000Z",
-          "wordCount": 161,
-          "title": "可口可乐最受欢迎的饮料，很快不再是可乐了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727512/",
-          "author": null,
-          "description": "科技企业对外宣传的时候，总有点儿想当老师的意思。 比如华为有点像语文老师，喜欢教授传统文化，瑞兽「麒麟」，「鸿蒙」伊始，「河图」洛书。苹果则是生物老师转岗地理老师，教大家认清楚了猎豹、美洲豹、黑豹和雪豹，然后带着大家游览「优胜美地」公园、「伊尔酋长岩」和「大瑟尔」海岸。 至于 OPPO，也有点像地理\n本文链接",
-          "link": "https://news.cnblogs.com/n/727512/",
-          "publishedOn": "2022-08-31T06:48:00.000Z",
-          "wordCount": 161,
-          "title": "OPPO 潘塔纳尔开放生态的底气，是坚持十多年的伙伴哲学",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727511/",
-          "author": null,
-          "description": "今年前 7 个月卖出 22.6 万辆的五菱宏光 MINI EV，要出敞篷版了。 8 月 30 日，上汽通用五菱正式官宣宏光 MINI EV 敞篷版，新车由五菱汽车携手时尚芭莎联合推出，将于 9 月 1 日正式开售。 新车延续了宏光 MINI EV 的样式，并保留了敞篷版概念车的设计，提供红黑双色软顶\n本文链接",
-          "link": "https://news.cnblogs.com/n/727511/",
-          "publishedOn": "2022-08-31T06:40:00.000Z",
-          "wordCount": 161,
-          "title": "五菱宏光 MINI EV 敞篷版官宣量产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727510/",
-          "author": null,
-          "description": "文/毕安娣 来源/字母榜（ID:wujicaijing） 埃隆·马斯克和推特的“连续剧”又更新了。 8 月 30 日，周二，马斯克的律师团队再次向推特发送终止收购函，以“其他理由”终止 440 亿美元的收购协议。 契机是推特前安全主管佩特·扎特科（Peiter Zatko）的举报。扎特科向美国多个监\n本文链接",
-          "link": "https://news.cnblogs.com/n/727510/",
-          "publishedOn": "2022-08-31T06:33:00.000Z",
-          "wordCount": 161,
-          "title": "马斯克传票席卷硅谷",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727482/",
-          "author": null,
-          "description": "中泰国际策略分析师颜招骏对财联社表示，巴菲特将会继续减持比亚迪。这个消息将对比亚迪的股价构成压力，主要是跟风的投资者可能会跟随股神减持。 财联社 8 月 30 日讯（编辑童古），据港交所数据，巴菲特旗下伯克希尔公司在 8 月 24 日减持了 133 万股比亚迪股份(01211.HK)，减持价格为 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/727482/",
-          "publishedOn": "2022-08-31T02:01:00.000Z",
-          "wordCount": 161,
-          "title": "14年赚33倍！巴菲特首次减持比亚迪 影响几何？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727481/",
-          "author": null,
-          "description": "本文来源：时代周报作者：金子莘胡天祥 8 月 24 日，日本知名实业家、京瓷名誉会长稻盛和夫去世，终年 90 岁。 稻盛和夫出生于 1932 年，1955 年毕业于鹿儿岛大学工学部，后就职于京都企业松风工业。 1959 年，27 岁的稻盛和夫以 300 万日元创办京都陶瓷株式会社(现名京瓷 Kyoc\n本文链接",
-          "link": "https://news.cnblogs.com/n/727481/",
-          "publishedOn": "2022-08-31T01:55:00.000Z",
-          "wordCount": 161,
-          "title": "“经营之圣”稻盛和夫去世，马云、任正非推崇其经营哲学！一生在“漩涡中工作”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727480/",
-          "author": null,
-          "description": "8 月 30 日消息，近日，理想汽车官方宣布，旗下全尺寸 SUV 理想 L9 正式开始交付。据悉，自 7 月 15 日开启试驾后，全国已累计超过 12 万人深度体验了理想 L9，这意味着有不少消费者对理想的这款新车充满兴趣。 当然，这也要归功于理想汽车 CEO 李想为其造势。李想曾毫不客气地称，理想\n本文链接",
-          "link": "https://news.cnblogs.com/n/727480/",
-          "publishedOn": "2022-08-31T01:52:00.000Z",
-          "wordCount": 161,
-          "title": "“500万内无敌手”的理想L9正式交付，李想这次能成吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727479/",
-          "author": null,
-          "description": "8 月 30 日消息，百度（NASDAQ：BIDU，HKEX: 9888）发布了截至 2022 年 6 月 30 日的第二季度未经审计的财务报告。第二季度百度实现营收 296.47 亿元；二季度净利润 36.37 亿元，上年同期净亏损 5.83 亿元；归属百度的净利润（非美国通用会计准则）达到 55\n本文链接",
-          "link": "https://news.cnblogs.com/n/727479/",
-          "publishedOn": "2022-08-31T01:47:00.000Z",
-          "wordCount": 161,
-          "title": "百度2022年第二季度营收296亿元 净利润36.37亿元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727478/",
-          "author": null,
-          "description": "美国时间周二，美股收盘主要股指连续第三个交易日全线下跌，原因是投资者担心，美国强劲的就业市场数据让美联储有更多理由继续大幅加息。 道琼斯指数收于 31790.87 点，下跌 308.12 点，跌幅 0.96%；标准普尔 500 指数收于 3986.16 点，跌幅 1.10%；纳斯达克指数收于 118\n本文链接",
-          "link": "https://news.cnblogs.com/n/727478/",
-          "publishedOn": "2022-08-31T01:42:00.000Z",
-          "wordCount": 161,
-          "title": "美股周二：主要股指三连跌，法拉第未来跌15%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727477/",
-          "author": null,
-          "description": "8 月 31 日消息，当地时间周二惠普发布截至 7 月 31 日的 2022 财年第三财季财报。财报显示，第三财季惠普营收为 147 亿美元，同比下降 4.1%；净利润为 11 亿美元，同比增长1%。 惠普第三财季营收低于分析师预期的 156 亿美元。由于个人电脑以及打印机的市场需求不断下降，惠普还\n本文链接",
-          "link": "https://news.cnblogs.com/n/727477/",
-          "publishedOn": "2022-08-31T01:37:00.000Z",
-          "wordCount": 161,
-          "title": "惠普Q3营收147亿美元净利11亿美元，净利同比增1%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727476/",
-          "author": null,
-          "description": "IT 之家 8 月 31 日消息，根据彭博社的一份新报告，苹果隐私主管 Jane Horvath 将离开公司，加入一家律师事务所。Horvath 在过去几年一直担任苹果的首席隐私官，在此之前，她是该公司的全球隐私高级总监。 Horvath 已在苹果工作了十多年，她还曾在谷歌工作过，并且是美国司法部的\n本文链接",
-          "link": "https://news.cnblogs.com/n/727476/",
-          "publishedOn": "2022-08-31T01:30:00.000Z",
-          "wordCount": 161,
-          "title": "苹果首席隐私官 Jane Horvath 将离职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727475/",
-          "author": null,
-          "description": "8 月 31 日消息，据知情人士透露，社交媒体应用 Snapchat 母公司 Snap 计划裁员约 20%。该公司目前有超过 6400 多名员工，这意味着将有 1000 多人被裁汰。 知情人士表示，Snap 过去几周始终在酝酿裁员计划，该措施将于美国当地时间周三生效，多个部门将受到较大影响。例如，为\n本文链接",
-          "link": "https://news.cnblogs.com/n/727475/",
-          "publishedOn": "2022-08-31T01:26:00.000Z",
-          "wordCount": 161,
-          "title": "传Snap计划裁员20%，将超千人，过去两年曾大量招聘",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727474/",
-          "author": null,
-          "description": "8 月 31 日消息，由于 Facebook 开始将更多人工审核工作转向新加坡劳务外包市场，隶属于埃森哲、负责为 Facebook 进行内容审核的几百名美国劳务外包员工将在今年年底失去工作。一位熟悉埃森哲计划的人士表示，这只是“未来情况的一个伏笔”。 这些劳务外包员工都在为 Facebook 项目工\n本文链接",
-          "link": "https://news.cnblogs.com/n/727474/",
-          "publishedOn": "2022-08-31T01:21:00.000Z",
-          "wordCount": 161,
-          "title": "传FB年底前将裁掉几百名美国外包员工，岗位转到新加坡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727473/",
-          "author": null,
-          "description": "8 月 31 日消息，虚拟化软件巨头 VMware 的大型年度会议 VMware Explore 于本周在旧金山开幕，博通首席执行官陈福阳出人意料地亲自现身，让许多担心双方 610 亿美元交易失败的人安心不少。 在这次活动中，几乎没有多少博通参会的迹象，直到会议第二天的主旨演讲。在演讲开始时，VMw\n本文链接",
-          "link": "https://news.cnblogs.com/n/727473/",
-          "publishedOn": "2022-08-31T01:17:00.000Z",
-          "wordCount": 161,
-          "title": "博通CEO亮相VMware大会，610亿美元收购交易稳了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727472/",
-          "author": null,
-          "description": "出品｜虎嗅商业消费组 作者｜苗正卿 题图｜视觉中国 “海外业务具备创造新价值的可能性。”拼多多 CEO 陈磊说道。 8 月 29 日，拼多多发布了 2022 年第二季度财报，季度内营收 314.4 亿元，同比增长 36%；营业利润为 86.972 亿元，同比增长 335%。而在当晚的季度财报电话会议\n本文链接",
-          "link": "https://news.cnblogs.com/n/727472/",
-          "publishedOn": "2022-08-31T01:10:00.000Z",
-          "wordCount": 161,
-          "title": "拼多多需要新故事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727471/",
-          "author": null,
-          "description": "8 月 31 日消息，美国当地时间周二，亚马逊和谷歌炮轰了微软的云计算业务调整，称这些改革限制了竞争，阻碍了客户在不同云服务之间自由流动。 美国当地时间周一，微软宣布了一系列包括软件授权政策在内的调整，新政策将会在 10 月 1 日开始生效。微软表示，这些新变化将有利于云服务提供商之间更好地竞争。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/727471/",
-          "publishedOn": "2022-08-31T01:03:00.000Z",
-          "wordCount": 161,
-          "title": "亚马逊谷歌炮轰微软云计算调整：限制客户自由流动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727470/",
-          "author": null,
-          "description": "近日，新东方在线公布 2022 财年业绩，截至 5 月 31 日，实现总营收 8.99 亿元人民币，同比减少约 36.7%。经调整后净亏损 3.64 亿元，同比收窄 72%。相比新东方在线的其他业绩，市场更为关注的是公司直播电商业务。财报显示，截至 5 月 31 日，公司直播电商营收为 2460 万\n本文链接",
-          "link": "https://news.cnblogs.com/n/727470/",
-          "publishedOn": "2022-08-31T00:55:00.000Z",
-          "wordCount": 161,
-          "title": "东方甄选3个月带货20亿！老板俞敏洪曾说“允许每年亏1个亿”，高管报告：没想到今年就盈利了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727469/",
-          "author": null,
-          "description": "当地时间 8 月 30 日，美国国家航空航天局（NASA）“阿尔忒弥斯 1 号”任务经理迈克·萨拉芬表示，将于 9 月 3 日重新发射“阿尔忒弥斯 1 号”火箭。 萨拉芬指出，在 29 日发现火箭其中一个发动机可能存在排气问题，无法达到适当的温度后，团队利用一天时间分析相关数据，并决定同意其中一个修\n本文链接",
-          "link": "https://news.cnblogs.com/n/727469/",
-          "publishedOn": "2022-08-31T00:48:00.000Z",
-          "wordCount": 161,
-          "title": "NASA定于9月3日重新发射“阿尔忒弥斯1号”火箭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727468/",
-          "author": null,
-          "description": "440 亿美元收购案，即将迎来“大结局”？ 全球首富、特斯拉 CEO 马斯克又有新动向，他正式通知终止收购推特。据美国媒体报道，马斯克方面向推特发送了终止收购函，正式通知协议终止，并列举新的理由。 推特方面已确认收到了一封来自马斯克的信。推特称，马斯克的信是无效的、错误的。 受上述消息影响，美股盘前\n本文链接",
-          "link": "https://news.cnblogs.com/n/727468/",
-          "publishedOn": "2022-08-31T00:40:00.000Z",
-          "wordCount": 161,
-          "title": "马斯克正式通知，终止收购推特！440亿美元收购案迎大结局？这封举报信成“杀手锏”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727467/",
-          "author": null,
-          "description": "九年来，我一直用 Hakyll 作为静态站点的生成工具。再往前追溯，我主要用的是 Jekyll，动态页面大概是用 Perl 加 Mojolicious 和 PHP 加 Kohana 来实现。但我对这些只有模糊的印象，当时还没有 git，所以很多开发痕迹都找不到了。 如今，我终于下定决心，打算转向自己\n本文链接",
-          "link": "https://news.cnblogs.com/n/727467/",
-          "publishedOn": "2022-08-31T00:30:00.000Z",
-          "wordCount": 161,
-          "title": "Rust治好了我的精神内耗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727466/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者李水青 编辑漠影 智东西 8 月 30 日消息，今日，阿里云宣布推出智能计算解决方案“飞天智算平台”，并启动位于张北和乌兰察布的两座超级智算中心，算力规模合计 15 EFLOPS（每秒 1500 亿亿次浮点运算），成为全球最大规模智算平台。 简单来说，智算中心\n本文链接",
-          "link": "https://news.cnblogs.com/n/727466/",
-          "publishedOn": "2022-08-31T00:22:00.000Z",
-          "wordCount": 161,
-          "title": "全球最大！阿里云推飞天智算平台，单集群算力超12EFLOPS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727465/",
-          "author": null,
-          "description": "@华为手机微博 8 月 30 日发布消息，首款搭载 HarmonyOS 的家庭数据中心华为家庭存储将在 9 月 6 日秋季发布会发布。 图源：华为\n本文链接",
-          "link": "https://news.cnblogs.com/n/727465/",
-          "publishedOn": "2022-08-31T00:16:00.000Z",
-          "wordCount": 161,
-          "title": "首款搭载HarmonyOS的华为家庭存储将在9月6日发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727464/",
-          "author": null,
-          "description": "这几天，一条视频在短视频平台彻底火了。录制这个视频的用户是一群汽车媒体人，录制这个视频是以一种直播连带调侃形式试验下，这台接近 3 万元的高科技机器狗，去咖啡店取个咖啡再送回来是个什么体验。 图源：FCC 洒洒视频截图 结果让人“惊喜”的一幕幕就展现在大家面前。 比如一开始倒着走差点给法拉利撞出一个\n本文链接",
-          "link": "https://news.cnblogs.com/n/727464/",
-          "publishedOn": "2022-08-31T00:10:00.000Z",
-          "wordCount": 161,
-          "title": "我们距离《西部世界》还有多远？看了这届机器人大会就知道了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727463/",
-          "author": null,
-          "description": "阿里云宣布全面开放旗下智能计算平台“飞天智算”，并正式启动张北、乌兰察布两座超大规模智算中心。 飞天智算平台主要提供公共云和专有云两种模式，可将计算资源利用率提高 3 倍以上，AI 训练效率提升 11 倍，推理效率提升 6 倍，已经服务小鹏汽车、深势科技、上汽集团、中国气象局、南方电网等机构和企业，\n本文链接",
-          "link": "https://news.cnblogs.com/n/727463/",
-          "publishedOn": "2022-08-31T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "阿里云正式启动张北、乌兰察布两大智算中心",
           "imageUrl": null
         }
       ]
