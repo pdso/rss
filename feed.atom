@@ -2,10 +2,358 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T02:29:37.716Z</updated>
+    <updated>2022-10-01T02:23:20.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Matrix 修复端对端加密高危漏洞]]></title>
+        <id>https://www.solidot.org/story?sid=72940</id>
+        <link href="https://www.solidot.org/story?sid=72940"/>
+        <updated>2022-09-30T15:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 消息协议的开发者释出了更新修复端对端加密漏洞。Matrix 是一个端对端加密、去中心化的即时通讯系统，它没有中心服务器，通过网桥与其它平台互通。它的生态系统由完全可互操作的开源和私有 IM 协作客户端和服务器组成，最著名的应用是支持移动和桌面系统的 Element。Matrix 联合创始人兼项目负责人、Element 的 CEO 兼 CTO Matthew Hodgson 称整个生态系统有大约 6900 万个账号分布在 1 万个服务器上，有约 250 万月活用户使用 Matrix.org 服务器。Mozilla、KDE，法国和德国政府等都在 Matrix 基础上构建了内部 IM 系统。Hodgson 表示没有迹象显示最新披露的漏洞曾被活跃利用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[眼睛如何在一生中改变颜色]]></title>
+        <id>https://www.solidot.org/story?sid=72939</id>
+        <link href="https://www.solidot.org/story?sid=72939"/>
+        <updated>2022-09-30T13:49:24.000Z</updated>
+        <summary type="html"><![CDATA[眼睛的颜色在我们的一生中并非保持不变。斯坦福大学眼科医生 Cassie Ludwig 领导的一项研究跟踪了 148 名新生儿，记录了出生时的虹膜颜色：约三分之二是棕色，五分之一是蓝色。两年之后她们发现 40 名蓝眼睛婴儿有 11 人眼睛变成了棕色，3 人淡褐色，2 人绿色。77 名棕色眼睛的婴儿绝大部分仍然是棕色。在生命早期，蓝眼睛似乎更可能发生变化。在 Ludwig 的研究中，婴儿眼睛颜色最常见的变化是变深，可能是因为虹膜中保护性色素的积累。另一项研究跟踪了逾 1300 名双胞胎眼睛颜色的变化，颜色通常在 6 岁时停止变化，但有一部分人一直持续到青春期甚至成年。这种情况与头发颜色的变化类似。婴儿时满头金发，但长大后会变成深棕色，原因通常是头发中色素的积累。研究人员承认他们并不知道是什么影响颜色变化，可能是环境因素，也可能是遗传因素。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想ONE摇身一变L8，是升级版理想ONE还是小号L9？]]></title>
+        <id>https://news.cnblogs.com/n/729264/</id>
+        <link href="https://news.cnblogs.com/n/729264/"/>
+        <updated>2022-09-30T11:43:00.000Z</updated>
+        <summary type="html"><![CDATA[理想 L8 今天正式发布了，相对于之前的消息，发布会提前到十一假期之前，可见理想 L8 对于品牌来说的重要性。那么理想 L8 和理想 ONE 有哪些升级，并且相比旗舰车型 L9 有什么不同？钛媒体第一时间进行了实拍并且了解到相关技术信息，下面从多方面来聊聊。 L9 是全尺寸 SUV，L8 是中大型 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丰田社长为无纯电战略辩护]]></title>
+        <id>https://www.solidot.org/story?sid=72938</id>
+        <link href="https://www.solidot.org/story?sid=72938"/>
+        <updated>2022-09-30T11:16:08.000Z</updated>
+        <summary type="html"><![CDATA[丰田公司没有计划转向只生产纯电动汽车，该公司既投资纯电，也在继续押注混动和插电式混动汽车。丰田社长丰田章男说，“我们不想抛弃任何人。”丰田章男说，在大众市场接受全电动车型方面仍然存在巨大挑战，包括电池材料的短缺和不发达的充电基础设施。他表示，在世界许多地方，电网仍然缺乏，大约有 10 亿人没有足够的电力供应。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity中国与腾讯云达成战略合作关系，携手打造行业最佳实践]]></title>
+        <id>https://news.cnblogs.com/n/729263/</id>
+        <link href="https://news.cnblogs.com/n/729263/"/>
+        <updated>2022-09-30T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[9 月 30 日，Unity 中国与腾讯云在上海签署战略合作协议，未来双方将依托各自资源及技术优势，打造联合创新中心，推动行业标准建设，为客户创造长期价值。 【自左及右：腾讯云副总裁陈平、腾讯云国际战略合作部总经理唐宇非、Unity 中国总裁兼首席执行官张俊波 、Unity 中国战略及市场负责人梁璐
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全新一代理想ONE理想L8发布，售价35.98-39.98万元]]></title>
+        <id>https://news.cnblogs.com/n/729262/</id>
+        <link href="https://news.cnblogs.com/n/729262/"/>
+        <updated>2022-09-30T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[2022 年 9 月 30 日，理想汽车正式发布为家庭打造的智能豪华中大型 SUV：理想 L8。理想 L8 作为理想 ONE 的换代车型，继承了理想 ONE 的经典中大型六座 SUV 空间和布局，围绕家庭用户打造了 6 座豪华舒适空间；采用了理想汽车自研的旗舰级增程电动和底盘系统，并标配理想魔毯空气
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU工具链将从Sourceware转移，托管到Linux基金会旗下]]></title>
+        <id>https://news.cnblogs.com/n/729261/</id>
+        <link href="https://news.cnblogs.com/n/729261/"/>
+        <updated>2022-09-30T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，核心 GNU 工具链项目（GCC、GLIBC、GDB 和 Binutils）表示，将从 Sourceware 转移，托管到 Linux 基金会旗下。 根据红帽 Carlos O'Donell 在邮件中的介绍，作为 GNU/Linux 生态系统信任的关键基础，GNU 工具链对基础设施、服务和安全
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节赛马：抖音图文，内卷头条？]]></title>
+        <id>https://news.cnblogs.com/n/729260/</id>
+        <link href="https://news.cnblogs.com/n/729260/"/>
+        <updated>2022-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[抖音做图文，能否外卷其他图文平台还不好说，“内卷”今日头条的可能性已在眼前。 作者／王红霞 编辑／陈纪英 来源：财经故事荟 “舍不得孩子套不着狼”，这话用来形容字节的最新境况，再合适不过。 在近日的 2022 年抖音创作者大会上，抖音首次公布了抖音图文的最新进展：自去年 11 月上线至今，抖音图文创
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 简化论坛类信息搜索]]></title>
+        <id>https://www.solidot.org/story?sid=72937</id>
+        <link href="https://www.solidot.org/story?sid=72937"/>
+        <updated>2022-09-30T09:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Google 正致力于简化 Reddit 等论坛类信息搜索。Reddit 等论坛包含了很多有用的个人经验类信息，Google 搜索引擎将添加名为“讨论和论坛(discussions and forum)”的新模块方便用户从论坛中搜索信息。Google 还为新闻相关搜索添加了新功能，方便用户浏览非英语类的国际新闻头条。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[买个电纸书，怎么老被“拔网线”？]]></title>
+        <id>https://news.cnblogs.com/n/729259/</id>
+        <link href="https://news.cnblogs.com/n/729259/"/>
+        <updated>2022-09-30T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[用着用着，发现厂商没了。 撰文 毕安娣 编辑 赵晋杰 来源：盒饭财经 又一个电纸书产品不干了，近期，QQ 阅读电子书设备/口袋阅（以下简称“口袋阅”）宣布停运。 在只有 4778 个成员的“口袋阅吧”，一些人发帖询问：大家也都收到短信了吗？ 网友发布的截图显示，来自“阅文集团”的短信通知中，用户被告
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零跑汽车IPO首日破发，朱江明画饼几时休？]]></title>
+        <id>https://news.cnblogs.com/n/729257/</id>
+        <link href="https://news.cnblogs.com/n/729257/"/>
+        <updated>2022-09-30T09:13:00.000Z</updated>
+        <summary type="html"><![CDATA[文/艺馨永阳 来源：不二研究（ID:bueryanjiu) 今日，港股迎来第四家“造车新势力”！ 浙江零跑科技股份有限公司（下称“零跑汽车”，09863.HK）正式挂牌港交所，但开盘即遭破发。 零跑汽车此次 IPO 全球发行 1.308 亿股，发行价为 48 港元/股；开盘即遭破发，开盘价为 41 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文读懂动捕技术：元宇宙的“重要拼图”之一]]></title>
+        <id>https://news.cnblogs.com/n/729258/</id>
+        <link href="https://news.cnblogs.com/n/729258/"/>
+        <updated>2022-09-30T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜MetaPost 在影视制作中，动作捕捉是最常用到的一项技术。无论是《阿凡达》还是《指环王》里的咕噜，都是先利用动作捕捉采集演员的肢体表演，再将捕捉到的动作渲染处理后，才呈现出震撼的视觉效果。 游戏行业也是动捕技术的核心应用场景。游戏动画中包含很多复杂的姿势动作，通过采集真人演员的动作数据，绑定
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[到手的offer飞了，前同事“坑惨”打工人]]></title>
+        <id>https://news.cnblogs.com/n/729255/</id>
+        <link href="https://news.cnblogs.com/n/729255/"/>
+        <updated>2022-09-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜深燃，作者唐亚华，编辑沐风 背调，指的是雇主公司向求职候选人发起的背景调查，调查内容包括对求职者的个人信息、学历、工作履历、工作表现等进行核实。这个看似不起眼的动作，让不少人到手的工作黄了。 小晴向深燃分享自己的经历称，自己应届毕业后工作半年离职了，要入职新公司时，收到了背调不通过的通知，当时 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 宣布文本视频生成器 Make-A-Video]]></title>
+        <id>https://www.solidot.org/story?sid=72936</id>
+        <link href="https://www.solidot.org/story?sid=72936"/>
+        <updated>2022-09-30T08:53:40.000Z</updated>
+        <summary type="html"><![CDATA[在文本图像生成器流行之后，Meta 宣布了文本视频生成器 Make-A-Video，可通过文本或图像提示生成视频内容。Meta 演示了利用一段文字描述或一幅静态图像生成视频的效果，比如一幅海龟图像在处理之后变成了海龟游泳视频。Make-A-Video 是基于现有的文本图像生成模型，如 OpenAI 的 DALL-E。Meta 在今年 7 月发布了自己的文本图像模型 Make-A-Scene。该公司还没有透露何时向公众提供 Make-A-Video，感兴趣的用户现在可以先注册。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[耐克发布2023财年第一季度财报：总营收126.87亿美元，同比增长10%]]></title>
+        <id>https://news.cnblogs.com/n/729256/</id>
+        <link href="https://news.cnblogs.com/n/729256/"/>
+        <updated>2022-09-30T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[据耐克刚刚发布的 2023 财年第一季度财报显示，其一季度营收 126.87 亿美元，在汇率不变基础上同比增长 10%。耐克大中华区营收 16.56 亿美元，降幅较此前收窄。耐克自营业务营收增长 14%，耐克品牌数字业务营收增长 23%。 在财报说明会上，耐克表示公司大中华区第一季度库存同比下降3%
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史上最大「4 天工作制」试验很成功，我们什么时候跟上]]></title>
+        <id>https://news.cnblogs.com/n/729254/</id>
+        <link href="https://news.cnblogs.com/n/729254/"/>
+        <updated>2022-09-30T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[今天是周五，今天不止是周五。 今天是国庆假期前的最后一天，所以每一分钟都难耐，空气中跳动着躁动的欢乐。 今天距离国庆补班还有一周，下周的今天可以就看到人们对着假期「相顾无言，惟有泪千行」。 今天是打工人最盼望的日子。因为「今天是周五吗？」只要得到一个「是」的回答就意味着工作日的结束，假期的开始。这是
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消费者“保价焦虑”难解，新一轮快递服务战来了？]]></title>
+        <id>https://news.cnblogs.com/n/729253/</id>
+        <link href="https://news.cnblogs.com/n/729253/"/>
+        <updated>2022-09-30T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[以体验为核心的服务竞赛已启幕 文/许 伟 来源：锌刻度（ID:znkedu) 长期以来，锌刻度尤其关注作为“最后一公里”核心问题的送货上门服务。 但随着喊出“不上门必赔付”口号的顺丰，在 9 月接连曝出“顺丰寄丢 11000 元手机仅赔 1000 元”“顺丰保价 1.8 万的单子只赔 500”等负面
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们真的一定需要人形机器人吗？]]></title>
+        <id>https://news.cnblogs.com/n/729252/</id>
+        <link href="https://news.cnblogs.com/n/729252/"/>
+        <updated>2022-09-30T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[从第一本科幻小说《弗兰肯斯坦》诞生以来，人类就沉迷于创造另一个人形生物。而随着技术的发展，各种各样的智能 AI 和人形机器人开始在科幻小说和电影中大幅登场。从《复仇者》中的终结者 T-800，到《我，机器人》中的桑尼，再到《钢铁侠》中的各式各样的钢铁盔甲，人形机器人伴随着每一代人成长。 《复仇者》海
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“产品杀手”谷歌关闭Stadia，网友：负责人是把 Stadia 当职业跳板了吗？]]></title>
+        <id>https://news.cnblogs.com/n/729250/</id>
+        <link href="https://news.cnblogs.com/n/729250/"/>
+        <updated>2022-09-30T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[“Stadia 不仅要革新游戏平台，更要彻底改变游戏开发的基本方式。”2019 年 3 月，谷歌宣布将为云游戏服务 Stadia 开发第一方游戏时，当时 Stadia 游戏与娱乐部门总负责人的 Jade Raymon 雄心勃勃地说道。 但这场“变革”在三年后迎来了终结。“它并没有像我们预期的那样吸引
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冻结代码、买卫星系统，乌克兰软件开发商是如何保证业务连续性的？]]></title>
+        <id>https://news.cnblogs.com/n/729251/</id>
+        <link href="https://news.cnblogs.com/n/729251/"/>
+        <updated>2022-09-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MacPaw 是扎根于乌克兰的知名软件企业，目前员工规模高达 500 人，这些年开发了很多受欢迎的苹果软件，其应用程序被安装在全球约五分之一的苹果电脑上。近期，该公司 CTO Vira Tkachenko 在由苹果举办的 Jamf Nation 用户大会上公开分享了公司是如何在战争期间确保安全和稳定
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 和 SpaceX 研究为哈勃望远镜延寿]]></title>
+        <id>https://www.solidot.org/story?sid=72935</id>
+        <link href="https://www.solidot.org/story?sid=72935"/>
+        <updated>2022-09-30T07:55:49.000Z</updated>
+        <summary type="html"><![CDATA[NASA 周四宣布将研究使用 SpaceX Crew Dragon 飞船把哈勃太空望远镜提升到更高轨道的可能性。NASA 和 SpaceX 签署了 Space Act Agreement 协议，展开为期半年的研究，确定将 Dragon 飞船与有 32 年历史的哈勃对接然后提升轨道的可行性。NASA 的目标是将哈勃望远镜轨道高度从目前的 535 公里提高到 600 公里，与 1990 年发射时的高度相同。自 2009 年最后一次维护以来，哈勃的高度一直在缓慢下降，而这一过程预计将会加速，最终会进入大气层烧毁。提升轨道高度将能把哈勃的寿命延长 15 到 20 年。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尴尬的综艺：口碑下跌，“吸金”能力缩水]]></title>
+        <id>https://news.cnblogs.com/n/729249/</id>
+        <link href="https://news.cnblogs.com/n/729249/"/>
+        <updated>2022-09-30T07:48:48.000Z</updated>
+        <summary type="html"><![CDATA[文/翟元元 来源：Tech 星球（ID:tech618) 综艺节目《一年一度喜剧大赛》第二季，近期前开播。首播当天在朋友圈刷屏，很多人感慨，只有马东和喜剧大赛能让他们重新打开综艺，“一年一度的快乐回来了”。 由于第一季喜剧大赛珠玉在前，第二季因而得以延续上一季的热度。根据爱奇艺发布的战报显示，喜剧大
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算力“吊打”全球的“雷神”，恐怕不是英伟达的“英雄”]]></title>
+        <id>https://news.cnblogs.com/n/729248/</id>
+        <link href="https://news.cnblogs.com/n/729248/"/>
+        <updated>2022-09-30T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[图源：英伟达 作者／郝俊慧 编辑／ 王昕 挨踢妹 来源：IT 时报 英伟达 9 月 20 日的“春晚”GTC 没能力挽狂澜。美东时间 9 月 26 日，英伟达收盘于 122.28 美元。一个月前的 8 月 26 日，英伟达开启了本轮下行，从当天开盘的 178.57 美元一路下探，至今已跌去超三成。 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Juno 飞船近距离飞越木星卫星欧罗巴]]></title>
+        <id>https://www.solidot.org/story?sid=72934</id>
+        <link href="https://www.solidot.org/story?sid=72934"/>
+        <updated>2022-09-30T07:32:35.000Z</updated>
+        <summary type="html"><![CDATA[NASA Juno 飞船周四从 352 公里的距离飞越木星卫星欧罗巴。欧罗巴在已知 79 颗木星卫星中第四大，略小于月球，有稀薄的大气层，其表面冰层下被认为有液态海洋。科学家希望 Juno 飞船能在这次任务中观察到欧罗巴表面喷射出的水柱。飞船是以非常高的速度飞越欧罗巴，NASA JPL 副任务经理 John Bordi 估计相对速度高达每秒 23.6 公里。NASA 的伽利略飞船曾在 2000 年 1 月从 351 公里的距离上飞越欧罗巴。这次任务中收集的数据将有益于未来的木星卫星探索任务，如 NASA 的 Europa Clipper 飞船计划于 2024 年发射，将研究欧罗巴的大气，表面和内部，判断欧罗巴表面之下是否能支持生命。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蜜雪冰城拟上市，资本还是2.2万加盟商的胜利？]]></title>
+        <id>https://news.cnblogs.com/n/729247/</id>
+        <link href="https://news.cnblogs.com/n/729247/"/>
+        <updated>2022-09-30T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[文/翟元元 来源：Tech 星球（ID:tech618) 万店连锁品牌、“雪王”蜜雪冰城距离A股市场又近了一步。 自 9 月 22 日证监会官方披露蜜雪冰城招股书以来，这家公司的财务数据、商业模式公之于众。“雪王”的称号并非浪得虚名，在新茶饮市场一片低迷，“新茶饮第一股”奈雪的茶 2021 年亏损近
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六硅基量子位处理器首次实现完全控制]]></title>
+        <id>https://news.cnblogs.com/n/729240/</id>
+        <link href="https://news.cnblogs.com/n/729240/"/>
+        <updated>2022-09-30T07:22:14.000Z</updated>
+        <summary type="html"><![CDATA[科技日报北京 9 月 29 日电 （记者刘霞）荷兰科学家首次实现了由 6 个硅基量子比特组成的完全可互操作的量子阵列。而且，他们借助新的芯片设计方法、自动化校准程序，以及量子比特初始化和读出方法，能以较低错误率操作这些量子比特，有望催生硅基可扩展量子计算机。相关研究刊发于今天出版的《自然》杂志。 量
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[听完198讲《红楼梦》，我的生活发生了什么变化]]></title>
+        <id>https://sspai.com/post/75999</id>
+        <link href="https://sspai.com/post/75999"/>
+        <updated>2022-09-30T07:10:36.000Z</updated>
+        <summary type="html"><![CDATA[2021年9月，也许是某一个灵光乍现的瞬间，也许是受到学姐和其他老师重读红楼梦的触动，我开始对红楼梦感到好奇：到底是怎样的一本小说，能成为一代又一代人终身治学的根基。考虑到我浅薄的文化素养，直接阅读文本收益不大，于是曲线救国，从他人的解读开启红楼之旅，所以试听了被高频推荐的《欧丽娟讲红楼梦》。
+
+一入坑就被深深抓住了，198讲，每讲1.5～2h，听之前觉得太多了这怎么可能听得完，听之后感觉时间过得飞快，书里的时间，视频里的时间，还有现实生活中的时间，三条时间线交织重叠，构筑成一个亦真亦幻的世界。
+这篇文稿不是为了总结300多小时的视频内容，只是作为一个外行人，分享在窥探瑰丽文学世界时的一些发现，以及这段经历给我带来的改变，包括对红楼梦观感的变化，对学问的深入理解，以及对自身心智模型的重塑。
+书中的道理--超越风花雪月，草木荣枯
+听完198讲红楼梦，更新了我对红楼梦的认知。目前我对红楼梦的理解，从它是一部关于贵族爱情的小说，变成了它是一部关于人的小说。
+金玉良缘与木石前盟，映射着青春期的少男少女对爱情的懵懂。在我还没有足够的耐心去咀嚼优美的文字和艺术的行为前，一连串的言辞已经给我大脑一种“我已知晓此书”的信号：忧郁柔弱的林妹妹和纯真无邪的富家贵公子，爱而不得和包办婚姻，隐忍的，圣洁的；凄清的，热闹的；荒凉的，繁盛的……，构成了红楼的初印象：首先，世界并不只围绕着我；其次，即便如此，我也会被人无条件地坚定地选择。这种印象也可以被概括为：才子佳人模式。
+曾经关注发生在人身上的情感流转，视频将我的视角转移到人本身。描写人物关系和个体命运的小说有那么多，红楼梦的精妙之处，是超越了风花雪月，草木荣枯。
+每一个人物专论，都很容易让人产生强烈两个阶段的情绪共鸣。第一阶段，太真实了，这不就是我嘛。他们身上有非常鲜明的人格特质，其行事逻辑也能在我们身上找到影子。于国于家无望的宝玉，虽柔弱不安也…]]></summary>
+        <author>
+            <name>鑫仔啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水果味电子烟“死刑”]]></title>
+        <id>https://news.cnblogs.com/n/729246/</id>
+        <link href="https://news.cnblogs.com/n/729246/"/>
+        <updated>2022-09-30T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[文/黑羊 来源/AI 蓝媒汇（ID：lanmeih001） 倒计时标志出现在朋友圈里，从 9 天之前开始。今天，终于数到了0。 像是明天就要经历高考一样，没了水果口味烟弹的电子烟，几个小时之后将迎来一场大考——市场是否接受仅有的烟草味烟弹？销售业绩是涨是跌？消费者如何抉择？ 国家烟草专卖局针对电子烟
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙特准备在游戏领域投资 378 亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=72933</id>
+        <link href="https://www.solidot.org/story?sid=72933"/>
+        <updated>2022-09-30T07:00:20.000Z</updated>
+        <summary type="html"><![CDATA[沙特政府资助的 The Savvy Gaming Group 准备在游戏领域投资 378 亿美元，它计划收购游戏公司并创办自己的游戏工作室。Savvy 已经拨出了逾 130 亿美元用于收购一家游戏发行商，将其作为战略发展合作伙伴，投资 180 亿美元收购游戏公司的少数股权。今年以来 Savvy 已经花费 15 亿美元收购电竞组织 ESL 和 Faceit，向瑞典游戏发行公司 The Embracer Group 投资了 10 亿美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币挖矿的气候影响相当于牛肉生产]]></title>
+        <id>https://www.solidot.org/story?sid=72932</id>
+        <link href="https://www.solidot.org/story?sid=72932"/>
+        <updated>2022-09-30T04:00:24.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Scientific Reports》期刊上的一项研究，比特币挖矿的气候影响相当于牛肉生产。研究分析称，在 2016 年至 2021 年期间，每 1 美元的比特币市场价值平均产生 35 美分的全球气候损害。作为比较，汽油产生 41 美分，牛肉生产产生 33 美分的损失。在考虑经济价值和环境影响时，比特币常常被比作黄金，但这项新的研究发现，比特币的气候损害实际上是黄金的 8.75 倍。研究作者指出，2020 年，比特币挖矿的能量使用为每年 75.4 太瓦时（TWhyear-1），比奥地利（69.9 TWhyear-1）或葡萄牙（48.4 TWhyear-1）的能量使用都高 。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 冻结招聘]]></title>
+        <id>https://www.solidot.org/story?sid=72931</id>
+        <link href="https://www.solidot.org/story?sid=72931"/>
+        <updated>2022-09-30T03:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Facebook 母公司 Meta 告诉员工，该公司将冻结招聘，并采取更多措施降低成本。Meta 人事主管 Lori Goler 在内部通知中表示，由于 Meta 试图将成本降至最低，公司所有团队的 2023 年预算都将“非常紧张”。她说，冻结招聘将使各团队能专注于优先处理重要项目。Goler 在通知中说，Meta 将不会自动填补职位空缺，公司也将暂停内部调动，以避免将人员填补到可能发生变化的职位。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 将关闭 Stadia]]></title>
+        <id>https://www.solidot.org/story?sid=72930</id>
+        <link href="https://www.solidot.org/story?sid=72930"/>
+        <updated>2022-09-30T03:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Google 的产品或服务大概率会关闭，这几乎是一个自我实现的预言。搜索巨人现在准备关闭的是早就面临困境的串流服务 Stadia。Google 官方博客宣布，将于 2023 年 1 月 18 日关闭 Stadia。玩家在这个日期前继续使用，足够打完游戏了。Google 在 FAQ 中称，玩家的游戏进度不太可能转移到其它平台，它会对所有硬件购买者退款，直接从 Google 购买硬件的人 可以保留硬件无需退还，但  Stadia Pro 订阅服务的购买者将无法获得退款，他们可以在 1 月 18 日前继续访问 Pro 游戏库。Google 现在关闭了  Stadia Store 商店，禁用了所有购买选项。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[字节的“虚拟”，需要PICO的现实]]></title>
         <id>https://news.cnblogs.com/n/729212/</id>
@@ -10570,294 +10918,6 @@ D65亮度指的是纸张在D65（R457)光源下的内反射因数，体现的是
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家首次实验实现了不同粒子之间的量子干涉]]></title>
-        <id>https://news.cnblogs.com/n/727605/</id>
-        <link href="https://news.cnblogs.com/n/727605/"/>
-        <updated>2022-09-01T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[华南师范大学物理与电信工程学、物理前沿科学研究院、粤港量子物质联合实验室的冷原子研究团队在量子科技方面取得新研究进展：首次实验实现了不同粒子之间的量子干涉。该成果于 8 月 25 日发表于Physical Review Letters。 相同粒子之间的量子干涉可以揭示粒子固有的量子统计特性，这在经典
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 修复航海家1号数据损坏问题]]></title>
-        <id>https://news.cnblogs.com/n/727604/</id>
-        <link href="https://news.cnblogs.com/n/727604/"/>
-        <updated>2022-09-01T14:10:00.000Z</updated>
-        <summary type="html"><![CDATA[今年早些时候，NASA 航海家 1 号（Voyager 1）工程团队发现了一个问题：飞船运行正常，接收并执行来自地球的指令，同时收集并发送回科学数据。但是飞船姿态关节和控制系统（AACS）的读数出现错误。AACS 控制着飞船方向，确保天线精确指向地球，使其能发送数据回地球。 现在 NASA 工程师宣
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本向软盘宣战]]></title>
-        <id>https://www.solidot.org/story?sid=72647</id>
-        <link href="https://www.solidot.org/story?sid=72647"/>
-        <updated>2022-09-01T11:16:51.000Z</updated>
-        <summary type="html"><![CDATA[发誓要让政府机构摆脱过时工具的日本数字部长 Taro Kono 在 Twitter 上宣布对软盘开战。软盘作为一种储存媒介已有五十年历史，在大部分国家早已淘汰，但在日本有大约 1900 个政府流程仍然必须用软盘。Taro Kono 表示将评估这些程序尽快淘汰软盘，而首相岸田文雄已表达了支持。他说如今软盘已经很难买到了。日本并不是唯一一个致力于淘汰软盘的国家，美国五角大楼在 2019 年宣布停止在核武库控制系统中使用软盘。今天大部分的年轻人可能从未见过软盘，完全可能认不出来。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国人均预期寿命继续下降]]></title>
-        <id>https://www.solidot.org/story?sid=72646</id>
-        <link href="https://www.solidot.org/story?sid=72646"/>
-        <updated>2022-09-01T09:56:03.000Z</updated>
-        <summary type="html"><![CDATA[美国人均预期寿命连续下降：2019 年美国预期寿命 78.8 年，2020 年降为 77 年，2021 年为 76 年，三年间减少 2.8 年，是美国近 100 年来最大幅度的下降。联邦健康研究人员报告称，疫情大流行是造成这一转变的主要原因，意外死亡、药物过量，以及心脏病、慢性肝病和肝硬化等疾病也有一定影响。专家指出，与其他收入相当的国家相比，美国人的疾病负担较高。美洲原住民和阿拉斯加原住民社区受打击尤其大，自大流行以来，他们的平均预期寿命下降了六年半，仅有 65 岁。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 绘画赢得科罗拉多州的艺术竞赛]]></title>
-        <id>https://www.solidot.org/story?sid=72645</id>
-        <link href="https://www.solidot.org/story?sid=72645"/>
-        <updated>2022-09-01T09:17:45.000Z</updated>
-        <summary type="html"><![CDATA[AI 创造的艺术打败了人类创造的艺术。在美国科罗拉多州的艺术竞赛中，名叫 Jason Allen 的艺术家递交的作品《Théåtre D'opéra Spatial》赢得了 Digital Arts/Digitally Manipulated Photography 类别的第一名。Allen 使用商业图像合成模型 Midjourney 生成了一系列图像，然后放大打印在画布上递交参与比赛。他的胜利引发了有关艺术的性质和何为艺术家的热烈讨论。有人认为 AI 的出现将会导致所有人类艺术家被机器所取代，其他人认为艺术会适应新的技术并演化发展，比如音乐合成器。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[待办软件 vs 日历软件，新手朋友应该如何选择？]]></title>
-        <id>https://sspai.com/post/75482</id>
-        <link href="https://sspai.com/post/75482"/>
-        <updated>2022-09-01T09:14:52.000Z</updated>
-        <summary type="html"><![CDATA[刚接触效率软件的朋友，经常会被两类软件弄混淆：
-一类是清单/待办/Todo类软件，比如知名的滴答清单、极简待办、Reminder（苹果系统自带的提醒事项）、Microsoft to do、Things3、Sorted3、Todoist等等。
-一类是日历类软件，比如苹果手机、华为手机系统自带的日历app，还有一些第三方的日历软件，比如Fantastical、Busycal、Google日历、Calendars等等。
-这两类都能可以记录待办事项，进行时间上的规划，比如它们都能实现像「周三出差」、「5月3日购物」这样的日程提醒，但是二者又有很多不同之处，比如界面上的差异、使用方法上的差异等等。如果用更专业的术语来形容，这两类软件的目标也有显著的差别，前者主要进行任务（Tasks）管理，后者主要进行日程或时间（Time）管理，侧重点是不一样的。
-这篇文章会从新手角度，聊一聊如何开启一段效率之旅。文章讲的内容比较浅显，一部分来自我这两年的探索，另一部分来自少数派友的分享。推荐大家读一读 @闲者时间_王掌柜君的文章（注意搜索之后选择「不限时间」，否则很容易错过早先的好文章），这篇文章也受到王掌柜 《术与道-聊聊我的时间管理》 这篇文章的启发，推荐大家阅读。
-概念梳理
-待办清单：侧重任务管理
-第一类待办软件，顾名思义，就是以处理等待办理的事情，核心功能落在要做的「事件」上。
-这类软件最简单的使用方法，就是在Inbox（收件箱）里输入一件待办事项。比如你想约几个老友抽空聚餐，只要在收件箱里记下这几个字，无需更多设置，等到你打开软件，看到这句话，就会起到提醒的作用。
-如果你想要把这件事情规划得更详细，也可以为它设置各种属性，比如确定时间（约好在下周三晚8点），也可以预设提醒（前一天21:00提醒你，以提前安排出行），还可以设置标签（放到 #生活 这个标签下）、优先级（高，毕竟老朋友难得聚一次…]]></summary>
-        <author>
-            <name>知道分子吴先先</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杭州法院与抖音合作精准曝光失信被执行人]]></title>
-        <id>https://www.solidot.org/story?sid=72644</id>
-        <link href="https://www.solidot.org/story?sid=72644"/>
-        <updated>2022-09-01T08:03:24.000Z</updated>
-        <summary type="html"><![CDATA[杭州法院与抖音合作精准曝光失信被执行人，通过“杭州中院”抖音号，将失信信息精准弹窗曝光至其所在的街道、村镇。例如居住地为富春街道的被执行人，与他们有关的弹窗消息就会被推送到同样住在富春街道或者途经富春街道的用户手机上。杭州中院执行局的工作人员称，，这些“精准推送”利用的是“熟人社会”特点，目的在于给不讲诚信的被执行人布下威慑之网，利用周围舆论让他们无所遁形、步步难行，从而敦促他们履行债务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 118｜少数派的作者们最近买了啥？]]></title>
-        <id>https://sspai.com/post/75481</id>
-        <link href="https://sspai.com/post/75481"/>
-        <updated>2022-09-01T07:52:41.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目
-为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了 Matrix 作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是作者前进的动力。
-所有内容均遵循 原创、首发、非商务 原则，投稿细则可查看文末。
-
-@rubber9soul：给iPod找个家
-
-购买渠道：咸鱼二手
-购买价格：500元
-
-最近迷恋从二手平台淘一些音频设备，这些「老家伙」使用起来不像现在的很多设备那样便利，但是声音上还是非常讲究的。
-因为手里还留了几部 iPod，一直想买一个 Dock 音箱让它们继续发光发热，看了一圈之后锁定了 Bose SoundDock II。
-
-在 iPod 鼎盛的时期，很多厂商会专门推出 Dock 音箱，其中 Bose 也非常积极，先后推出了很多代产品。Bose SoundDock II 最早发布于 2008 年，到现在已经十四年「高龄」了。它使用的是 30pin 接口，也是 Bose 最后一代兼容这个接口的 Dock 音箱（之后换为Lightning）。
-SoundDock II 的声音也是 Bose 典型的调音风格，声音浑厚注重氛围感；因为两个全频喇叭有一定的横向间距，所以还能听出一些立体声效果。可能是最近听了太多智能音箱的缘故，听到SoundDock II 后突然有一种「这样才对嘛」的感觉哈哈。
-我找了几款同价位的智能音箱对比下，大家可以听下声音风格的不同（可能有点不太公平，毕竟Bose当年也卖一千多，大家听个乐吧）：
- 
-和一代 SoundDock 相比，SoundDock II 还支持 3.5mm 音频输入，我之前买的一个 AirPort Express（A1264） 就派上用场了。
-
-AirPort Express是苹果已经停产的路由器，它长得就像是一个MacBook电源，除了基础的网…]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯计划剥离千亿资产]]></title>
-        <id>https://www.solidot.org/story?sid=72643</id>
-        <link href="https://www.solidot.org/story?sid=72643"/>
-        <updated>2022-09-01T07:52:15.000Z</updated>
-        <summary type="html"><![CDATA[FT 援引知情人士的消息报道，多年来积极投资的腾讯正转而专注于剥离资产，该公司正面临来自投资者和监管部门的压力。作为一项重要战略转向的一部分，该公司制定了软目标，即今年将约 1000 亿元人民币的资产从其持有的 880 亿美元的上市股票资产中剥离出去。具体如何实施将依从市场状况和内部利润目标。其中可能包含美团股份，腾讯持有 17% 的美团股份，价值数百亿美元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARM 起诉高通要求毁掉其 Nuvia CPU 设计]]></title>
-        <id>https://www.solidot.org/story?sid=72642</id>
-        <link href="https://www.solidot.org/story?sid=72642"/>
-        <updated>2022-09-01T07:32:31.000Z</updated>
-        <summary type="html"><![CDATA[ARM 起诉其重量级大客户高通，原因与高通收购的创业公司  Nuvia 开发的同名 CPU 有关。Nuvia 由苹果 iPhone 芯片前首席架构师等行业资深人士创办，设计服务器芯片，它从 ARM 公司获得了特别的架构许可证，允许设计定制的高端 AMR 兼容核心。2021 年高通以 14 亿美元收购 Nuvia。ARM 公司认为未经其许可授予 Nuvia 的许可证并不能转移和给与高通使用。2022 年初 ARM 公司终止了与 Nuvia 的许可证，要求高通公司摧毁和停止使用 Nuvia CPU 设计。它在诉讼中指控高通公司是实际上寻求绕过 ARM 的授权模式。高通则否认它违反了 ARM 的许可证。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这里有一个概念，或许可以让你更愿意做笔记]]></title>
-        <id>https://sspai.com/post/75451</id>
-        <link href="https://sspai.com/post/75451"/>
-        <updated>2022-09-01T06:35:02.000Z</updated>
-        <summary type="html"><![CDATA[写在正文之前
-
-我不希望你在没有判断的情况下全盘接受这篇文章的概念，所以请你在阅读的时候保持警觉。
-文章里会涉及大量概念，由于和平时的使用方式有很大区别又想要便于理解，我用「」做了区分，如果你不习惯，请谅解。
-另，最近住的地方开始降温了，我心情很好，希望你也有个好心情。
-
-概念的第一个特征，非均质性
-我想和你聊聊「概念」，准确地说，聊聊「概念」的两个特性。
-第一个是非均质性。鉴于这个词我平时不常用，我觉得你应该也不太熟悉它。那你可以这么理解——你无法用「是」来说明一个概念。或者更直白一些，你无法对一个概念下一个准确的定义。
-有些例子可以帮你理解这句话。你现在在脑子里随便选一个词，然后挑几本不同的字典查一下，或者网上找字典也可以。我作个假设，你大概会发现每本字典的解释都有一些差异，如果是纸质的字典，甚至同一字典不同的版本对同一个词的解释也有可能不一样。
-所以你觉得发生了什么事？明明是同一个词，为什么不同的字典会有不同的解释？
-或者我们可以举个更生活化的例子，包子。我不了解你的口味，但我猜你应该知道包子。于是，包子是什么？
-就我个人而言，这大概是早餐偶尔会吃的，在早餐店一般都有的，从蒸笼里拿出来的，圆圆白白的，松松软软的，里面有馅的那个东西。
-但是，你可能会有不同的意见。
-
-包子必须在早餐店里才有吗？自己在家做过包子的人肯定也不少吧？
-包子必须早餐吃吗？中午或者晚上甚至当零食解馋吃包子的人应该也有吧？
-包子必须是圆的吗？做得稍微长一点，稍微三角形一点也有吧？
-包子必须是白色的吗？黑麦包子应该也能找得到吧？
-
-所以，到最后你可能会不认同我的想法。那么，包子是什么？我找到了度娘给的包子的定义。
-
-包子，指用发面皮包馅蒸成的食品。
-
-这当然比我给出的答案要准确了不少，但我觉得还有「一点点」不准确。
-
-比如，你应该吃过一种生煎的包子吧？烤包子可能少一点，但也有，我还听说过油炸包子，虽然…]]></summary>
-        <author>
-            <name>悟啊悟啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了让自己早睡一小时，我花六个月做了一个 App]]></title>
-        <id>https://sspai.com/post/75467</id>
-        <link href="https://sspai.com/post/75467"/>
-        <updated>2022-09-01T03:41:49.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 首页推荐
-Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-
-大家好，我是 StaySleep 的作者八层夹心奥利奥。
-今年八月份，我在 App Store 上线了我的第一款 app，StaySleep。在发布之初的前三天，它一度登上了 App Store 健康健美分区的 Top 100，那几天我的社交平台也被如潮水一般的反馈、建议给淹没了，而在上周四，我惊喜地发现我的 app 出现在了 App Store 的每周编辑推荐位。趁着八月底暑假的最后几天，我想在少数派和各位朋友聊一聊 StaySleep 与我的故事。
-当时看到这个排名的时候感觉太激动了
-在想出这个「点子」之前，我都经历了什么？
-「熬夜」，在熬与不熬中煎熬
-或许是从上大学以后开始，我的入睡时间变得越来越晚，在有了手机这个连接世界的桥梁后，我似乎每时每刻都想着关注当前大家正在议论和关注的事情，哪怕是深夜。在高中那会我还没有那么多电子产品，所以最多的消遣活动就是睡前和室友们唠唠嗑，看看书架上翻过好几遍的鸡汤励志文学，很快也能感到困意然后安然睡去。而现在的晚上，即使我早早的就躺在床上希望自己可以尽快入睡，但翻来覆去以后还是忍不住再拿起手机，刷会短视频、刷会朋友圈，而时间一晃可能就是一个多小时。看着手机始终上时针的数字逐渐增大，我才明白，真的不能再看手机了，这时才恋恋不舍地放下手机，匆匆入梦。
-熬夜的危害有很多，熬夜玩手机的危害更甚。手机的灯光会减少体内让我们感觉到困意的褪黑素的生成，手机里每时每刻变化的内容也不断刺激着我们产生更多的多巴胺，让我们更加兴奋。虽然偶尔我也会因为学业或者工作不得不熬夜，但是每次熬完夜第二天起床的感觉，就像是前…]]></summary>
-        <author>
-            <name>八层夹心奥利奥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墨干V1.1.0发布了，文档格式支持Unicode]]></title>
-        <id>https://www.solidot.org/story?sid=72641</id>
-        <link href="https://www.solidot.org/story?sid=72641"/>
-        <updated>2022-09-01T03:28:56.000Z</updated>
-        <summary type="html"><![CDATA[墨者实验室 写道 "立即下载或者观看发布会视频
-
-墨干是下一代结构化编辑器，支持以结构化的方式编辑数学公式、BibTeX条目等等。
-墨干V1.1.0发布了，两大重要变更：
-①文档格式支持将中文序列化为Unicode,不再使用Cork编码
-②大量BibTeX相关错误修复和功能增强"]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里巴巴和京东为首批由美国审计的中国上市公司]]></title>
-        <id>https://www.solidot.org/story?sid=72640</id>
-        <link href="https://www.solidot.org/story?sid=72640"/>
-        <updated>2022-09-01T03:28:07.000Z</updated>
-        <summary type="html"><![CDATA[路透社报道，
-美国监管机构通知阿里巴巴、京东和百胜等在美国上市的中国公司，自 9 月开始进行审计检查，成为首批由 PCAOB（Public Company Accounting Oversight Board） 在香港进行审计检查之公司。罗兵咸永道会计师事务所将协助进行相关审计工作检查。上周中美就中概股审计问题达成协议，不过就细节看，双方阐释有所出入。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古典音乐是死去的吗？我的阅读与聆赏推荐01]]></title>
-        <id>https://sspai.com/post/75320</id>
-        <link href="https://sspai.com/post/75320"/>
-        <updated>2022-09-01T03:00:14.000Z</updated>
-        <summary type="html"><![CDATA[一直身处「音乐学院」这所「深宅大院」的我，常常面对一众亲朋：「你既为作曲专业，是否能如周杰伦那般给写曲一首，以引亢高歌？」的类似疑问感到十分无奈，也为当代古典音乐创作似乎已然成为妥妥的「少数派」，更几近沦为「音乐游乐园」中的「弃儿」而倍感受挫。
-为了自己投身至今且热爱的「专业」，也为了分享更多隶属20世纪这一时期与所谓「Contemporary Classical」风格的音乐，遂尝试奋笔直书，一吐为快！
-然，申请作者资格已半年有余，面对腹稿万千，竟不知该从何下手？直至今日读罢青年钢琴家张昊辰所写的 《演奏之外》 一书，对其中个别关键词若有所思，便「借题发挥」一二，间隙穿插作品若干，以供交流。
-音乐与语言：音乐需要被听「懂」吗？
-哲学语言自索绪尔始即讲求「能指」和「所指」的对应性，这是一种被彻底主体化的主客观映射。语言层面的二元性：能指和所指、深层和表层、语言和言说等关系在被转置到音乐中时相当难以定义且不易辨识。
-语言可作为一种言谈交流工具，但也可以是文学，散文或诗歌。而音乐似乎一直都是「文学」的，它的演绎不会落入忠实于意思还是忠实于字词的困境。从规则出发，言说的语言和音乐的语言几乎完全同构，但就实际而言，二者又有相当的差距。当复调1产生时，人不需要对语义所指进行概念的解读，音乐，或称声音的「词汇」表达，一直就是其本身。而在言语中，语义的落实则确需占用人类大脑的大量带宽，一个词说出来或者不说出来，都同时包含且排除了许多其他的事物，我们或许不得不注重其中一条线索而放弃其他的线索，从这个角度看，语言似乎是单线的。
-但语言的单线或许是一种无奈妥协？究其根本原因，也许是主体概念化的过程中，日常言语比音乐这般非概念化的输入对人脑运存的要求要高太多。而想要用类似语言之「所指」的层面去描述有意义的音乐是否也只能是一厢情愿的思考？
-以意大利作曲家贝里奥 (Luciano Berio) 的《模…]]></summary>
-        <author>
-            <name>NotteStellata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女性晋升更快但难以进入最高管理层]]></title>
-        <id>https://www.solidot.org/story?sid=72639</id>
-        <link href="https://www.solidot.org/story?sid=72639"/>
-        <updated>2022-09-01T02:55:27.000Z</updated>
-        <summary type="html"><![CDATA[宾夕法尼亚大学沃顿商学院对财富 100 强企业过去四十年排名前 10 的高管的分析，发现过去二十年女性晋升到高级管理职位的速度往往比男性更快，但她们难以进入最高管理层。研究显示，2001 年女性开始以比男性更快的速度晋升到美国大型公司的高管职位，这一趋势在 2021 年依然保持。然而这些占据了大约四分之一领导职位的女性，并不能经常进入最高管理层，担任首席执行官、总裁或首席运营官。研究报告发表在《MIT Sloan Management Review》上。报告发现，被提拔到公司前 10 职位的女性比男性快 2 到 4 年，她们更可能从外部聘用而不是内部提拔。在财富 100 强企业中，2021 年女性占据了 27% 的最高层职位，而 1980 年根本没有。研究人员称，公司感受到了来自内部和外部压力的紧迫性，要求将女性纳入其高层。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebKit 迁移到 Git 和 GitHub]]></title>
-        <id>https://www.solidot.org/story?sid=72638</id>
-        <link href="https://www.solidot.org/story?sid=72638"/>
-        <updated>2022-09-01T02:13:55.000Z</updated>
-        <summary type="html"><![CDATA[WebKit 项目在 6 月 23 日冻结了 Subversion 树，迁移到托管在 GitHub 的 Git 源代码管理系统。Git 系统简单便捷，开发者已对其十分熟悉，在迁移之前 WebKit 开发者就更倾向于在 git-svn 镜像上工作。选择托管在 GitHub 是因为它有庞大的 Web 开发者社区，他们能与 WebKit 项目更紧密的合作去改进浏览器引擎。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国禁止向中俄出口 Nvidia A100 和 H100 GPU]]></title>
-        <id>https://www.solidot.org/story?sid=72637</id>
-        <link href="https://www.solidot.org/story?sid=72637"/>
-        <updated>2022-09-01T01:43:12.000Z</updated>
-        <summary type="html"><![CDATA[英伟达（Nvidia）通过 SEC 发表公告，美国政府在 8 月 26 日通知它实施新的许可要求，即时生效。新要求限制向中俄出口 Nvidia A100 和 H100 GPU，以及未来性能强于或类似 A100 的新 GPU。英伟达称，它在 8 月 24 日公布的第三财季预报中有大约价值 4 亿美元的潜在对华销售可能受制于新出口许可要求。英伟达的 GPU 被广泛用于机器学习和 AI，A100 是基于 Ampere 架构，H100 是基于 Hopper 架构，是下一代产品。美国此举可能是限制中俄在 AI 方面的发展。AMD 报告它也收到相同的通知。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 修复航海家1号数据损坏问题]]></title>
-        <id>https://www.solidot.org/story?sid=72636</id>
-        <link href="https://www.solidot.org/story?sid=72636"/>
-        <updated>2022-08-31T16:01:23.000Z</updated>
-        <summary type="html"><![CDATA[今年早些时候，NASA 航海家1号（Voyager 1）工程团队发现了一个问题：飞船运行正常，接收并执行来自地球的指令，同时收集并发送回科学数据。但是飞船姿态关节和控制系统（AACS）的读数出现错误。AACS 控制着飞船方向，确保天线精确指向地球，使其能发送数据回地球。现在 NASA 工程师宣布问题解决了，故障是一台数年前就停止工作的计算机导致的，AACS 本身运行良好。航海者1号已经工作了 45 年，目前距离地球 233亿公里，光走完这段距离需要 20 小时 33 分钟。NASA 工程师称飞船出现了很多问题：每年损失 4 瓦电力，推进剂管道即将冻结，计算机芯片也有问题。工程师是在数百亿公里外努力保持一辆老爷车继续运转。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 年我国研发经费投入 2.8 万亿元]]></title>
-        <id>https://www.solidot.org/story?sid=72635</id>
-        <link href="https://www.solidot.org/story?sid=72635"/>
-        <updated>2022-08-31T14:59:34.000Z</updated>
-        <summary type="html"><![CDATA[国家统计局、科学技术部和财政部公布《2021年全国科技经费投入统计公报》，数据显示，2021年我国研究与试验发展（R&D）经费投入总量为 2.8 万亿元，比上年增长 14.6%，连续 6 年保持两位数增长。R&D经费投入强度（R&D经费与GDP之比）为 2.44%，比上年提高 0.03 个百分点。从投入规模看，我国R&D经费总量稳居世界第二，相当于美国的份额由2016年的44.2%提高到2020年的49.1%。从增长速度看，2016—2021年，我国R&D经费年均增长12.3%，明显高于美国（7.8%）、日本（1.0%）、德国（3.5%）和韩国（7.6%）等发达国家2016—2020年的增速。从投入强度看，我国2021年2.44%的水平在世界主要国家中排名第13位，超过法国（2.35%）、荷兰（2.29%）等创新型国家。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳门提供自费 mRNA 疫苗接种]]></title>
-        <id>https://www.solidot.org/story?sid=72634</id>
-        <link href="https://www.solidot.org/story?sid=72634"/>
-        <updated>2022-08-31T14:38:35.000Z</updated>
-        <summary type="html"><![CDATA[财新报道，澳门开放内地游客自费接种复必泰疫苗，接种点为澳门科大医院。澳门科大医院发布公告称，将为非澳门本地居民提供复必泰 mRNA 新冠疫苗的自费接种服务，于 8 月 24 日至 8 月 31 日开启试运行。澳门此举主要针对中国内地的游客，接种的费用为每剂次 1000 澳元（约合人民币 850 元）。澳门科大医院称，试运行期间游客无需预约，游客可直接来医院接种，试运行结束后，游客可联系雅各臣科研制药进行预约。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
