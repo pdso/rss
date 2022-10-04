@@ -745,6 +745,56 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=72955",
+          "author": null,
+          "description": "Linus Torvalds 在内核邮件列表上宣布释出  Linux 6.0。主要新特性包括：改进 ACPI 处理和电源管理；一系列 io_uring 改进，支持 XFS 文件系统缓冲写入，Zero-copy 网络传输，基于 io_uring 的块驱动机制，运行时验证子系统；等等。更多可浏览 LWN 概况一 和 二。",
+          "link": "https://www.solidot.org/story?sid=72955",
+          "publishedOn": "2022-10-03T15:59:17.000Z",
+          "wordCount": 174,
+          "title": "Linux 6.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72954",
+          "author": null,
+          "description": "诺贝尔奖评选委员会宣布瑞典科学家 Svante Pääbo 获得 2022 年度诺贝尔生理学或医学奖，以表彰他“在已灭绝古人类基因组和人类进化方面的发现”。人类总是对自己的起源感兴趣。我们从哪里来？是什么让我们智人与其他古人类不同?通过他的开创性研究，Svante Pääbo 完成了一件看似不可能的事情：对当今人类已经灭绝的亲戚——尼安德特人的基因组进行测序。他还发现了一种以前不为人知的古人类——丹尼索瓦人。重要的是，Pääbo 还发现，在大约 7 万年前人类离开非洲后，基因从这些现已灭绝的古人类转移到了智人身上。这种古老的基因流向今天的人类在生理上有关联，例如影响我们的免疫系统对感染的反应。Pääbo 的开创性研究产生了一门全新的科学学科：古基因组学。通过揭示所有现存人类与灭绝的古人类之间的基因差异，他的发现为探索是什么使我们成为独一无二的人类提供了基础。",
+          "link": "https://www.solidot.org/story?sid=72954",
+          "publishedOn": "2022-10-03T13:38:38.000Z",
+          "wordCount": 174,
+          "title": "瑞典科学家 Svante Pääbo 获 2022 年度诺贝尔生理学或医学奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72953",
+          "author": null,
+          "description": "2018 年轻博客服务 Tumblr 宣布屏蔽所有成人内容。2019 年 Verizon 将 Tumblr 出售给 WordPress 的母公司 Automattic。三年之后许多人开始讨论 Tumblr 也许会恢复成人内容，取消禁令。Automattic CEO Matt Mullenweg 亲自对此做出回应，称 Tumblr 永远不会再回到过去，互联网早期对色情友好的情况在今天已经不可能了。他说，2022 年的任何互联网服务都不可能像 2007 年的 Tumblr 那样制定对色情友好的规则。原因是中介机构开始对人们如何访问互联网扮演越来越重要的角色。长期对色情不友好的支付服务商加大了执法力度，部分原因是担心儿童色情和未经同意发布的色情内容。苹果的 iOS App Store 严厉打击色情。没有支付公司和苹果，运营一个营利服务是几乎不可能的。如果苹果应用商店永久封杀了 Tumblr 应用，那么 Tumblr 可能不得不关闭。然而在 Twitter 或 Reddit 上，色情内容仍然很多，为什么苹果不封杀它们？Mullenweg 猜测是它们太大而无法被封杀。",
+          "link": "https://www.solidot.org/story?sid=72953",
+          "publishedOn": "2022-10-03T11:18:55.000Z",
+          "wordCount": 184,
+          "title": "Tumblr 永远不会再允许色情",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72952",
+          "author": null,
+          "description": "Debian 项目公布了对是否允许默认加载非自由固件的投票结果，共六个选项，第五选项——“Change SC for non-free firmware in installer, one installer”获选。SC 指的是 Social Contract，是 Debian 项目的一份基础文件，它将添加一句话，声明项目官方媒介将会包含非自由固件，如果硬件工作需要将会默认加载安装。Debian 项目表示，如果硬件需要非自由固件将会默认启用，它考虑同时提供启动菜单选项和内核命令行等方式允许用户在启动时禁用非自由固件。允许非自由固件是为了改进可及性。如盲人用户需要在文本语音模式下运行安装程序，可能需要先加载音频固件。",
+          "link": "https://www.solidot.org/story?sid=72952",
+          "publishedOn": "2022-10-03T08:20:20.000Z",
+          "wordCount": 162,
+          "title": "Debian 社区投票允许安装非自由固件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72951",
+          "author": null,
+          "description": "Google 确认以低使用量为由关闭了中国版翻译服务。访问域名 http://translate.google.cn 会被重定向到 Google 的香港域名，用户可以通过香港域名下的  translate.google.com.hk 继续使用翻译服务。这一变动是在过去几天内发生和被用户注意到的，除了域名不定时跳转，部分应用如 KOReader 的翻译功能也受到了影响。",
+          "link": "https://www.solidot.org/story?sid=72951",
+          "publishedOn": "2022-10-03T01:00:03.000Z",
+          "wordCount": 156,
+          "title": "Google 以低使用量关闭中国版翻译服务",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=72950",
           "author": null,
           "description": "新华社宣布中国商飞的 C919 飞机本月从中国民用航空局获得型号合格证，但没有说明证书颁发日期。这意味着该飞机已达到中国的商业运营标准。这是向客户交付飞机的一个重要步骤。根据中国民用航空局的规定，型号合格证是飞机开始载客前所需的三个系列证书中的第一个，此外还要进行数项评估。中国商飞将于 2022 年底交付首架飞机。C919 最多可容纳 168 名乘客，最大航程超过 5,500 公里，属于中短途类别，是全球航空的主力机型。",
@@ -3503,36 +3553,6 @@
           "wordCount": 155,
           "title": "华为新手机将支持北斗短报文通信",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72670",
-          "author": null,
-          "description": "在豆瓣之后，另一个社交平台知乎被发现在移动端和 Web 版本嵌入了难以察觉的水印，这意味着如果用户在登陆状态下截图，知乎可以通过水印查出截图者的身份。知乎用户称，用户在桌面端可以使用 ublock 添加静态规则 zhihu.com##div:last-of-type[class*=\"css-\"] 消除水印。",
-          "link": "https://www.solidot.org/story?sid=72670",
-          "publishedOn": "2022-09-04T09:50:21.000Z",
-          "wordCount": 150,
-          "title": "知乎在移动和桌面嵌入盲水印",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72669",
-          "author": null,
-          "description": "去年夏天阿里巴巴的一名周姓女员工指控她的经理和公司客户在商务宴请中将其灌醉后性侵犯了她。去年 11 月阿里巴巴以虚假信息损害其声誉为由解雇了她。今年 6 月济南法院判处该案中的公司客户张国犯有“强制猥亵罪”，判刑 18 个月。张国随后提出上诉。山东济南中级人民法院于 7  月 5 日立案受理，本周五二审裁定驳回上诉，维持原判。法院认为，上诉人张国违背妇女意志，趁被害人醉酒之机猥亵被害人，其行为依法构成强制猥亵罪。张国及其辩护人所提上诉理由和辩护意见没有事实和法律依据，不能成立。一审判决认定的犯罪事实清楚，证据确实、充分，定罪准确，量刑适当，审判程序合法，遂作出上述裁定。",
-          "link": "https://www.solidot.org/story?sid=72669",
-          "publishedOn": "2022-09-04T01:36:07.000Z",
-          "wordCount": 157,
-          "title": "阿里巴巴性侵案客户二审维持原判",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72668",
-          "author": null,
-          "description": "游戏发行商 2K 正在给它的旧游戏添加启动器，以 Steam 平台为例，这意味着玩家在玩游戏时需要启动两个启动器（一个 Steam 另一个是 2K）。最新添加启动器的游戏是知名反乌托邦游戏《生化奇兵无限》，2K 在更新说明中还美名为“Quality of Life ”——意思是优化游戏体验，但它实际做的是劣化游戏体验。在游戏论坛上，部分玩家抱怨更新之后游戏崩溃，更新也导致《生化奇兵》系列（包括前两部的重置版，原版没有更新）的 Steam Deck 掌机支持全部破坏。",
-          "link": "https://www.solidot.org/story?sid=72668",
-          "publishedOn": "2022-09-03T15:47:12.000Z",
-          "wordCount": 158,
-          "title": "《生化奇兵无限》更新启动器导致众多问题",
-          "imageUrl": null
         }
       ]
     },
@@ -3541,6 +3561,166 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/729303/",
+          "author": null,
+          "description": "10 月 4 日消息，特斯拉股价周一收跌 8.6%，创下四个月来最大单日跌幅。此前，由于物流障碍，该公司第三季度汽车交付量低于华尔街预期，经济增长前景放缓也引发了对其汽车需求的疑虑。 这场暴跌促使特斯拉市值蒸发了 710 多亿美元，并拖累了其他电动汽车制造商的股价。 尽管特斯拉第三季度交付量再创纪录\n本文链接",
+          "link": "https://news.cnblogs.com/n/729303/",
+          "publishedOn": "2022-10-03T23:42:00.000Z",
+          "wordCount": 161,
+          "title": "特斯拉一夜蒸发710亿美元市值 市场需求引发担忧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729302/",
+          "author": null,
+          "description": "衡宇发自凹非寺 量子位公众号 QbitAI 密歇根大学一次意外的实验室事故，导致中国博士生视网膜中心烧伤（嘶，好痛）。 但也就是这么一次意外，后来造福了 3000 多万近视患者—— 飞秒激光 LASIK 手术就此萌芽。 今年的金鹅奖，就颁给了该实验室的五人组，以表彰他们在近视手术领域所做出的突出贡献\n本文链接",
+          "link": "https://news.cnblogs.com/n/729302/",
+          "publishedOn": "2022-10-03T23:38:00.000Z",
+          "wordCount": 161,
+          "title": "中科大校友一次意外事故，造就了让3000万人摘掉眼镜的手术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729301/",
+          "author": null,
+          "description": "Pine 发自凹非寺 量子位公众号 QbitAI 2022 年全球程序员薪资排行榜单来了： 中国上榜全球薪酬最低国家名单，排名倒9。 并且，榜单上程序员全球最高年薪和最低年薪之间相差102885 美元 （约合人民币 70 万元）。 what？？？差距有这么大？ 其实，程序员的年薪不只在不同国家之间有\n本文链接",
+          "link": "https://news.cnblogs.com/n/729301/",
+          "publishedOn": "2022-10-03T23:32:00.000Z",
+          "wordCount": 161,
+          "title": "2022全球程序员薪资排行：中国倒数，美国写Go最挣钱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729300/",
+          "author": null,
+          "description": "本文来源：时代周报作者：齐鑫 对特斯拉而言，交付一直是横亘在眼前的关键问题。 据媒体报道，特斯拉预计在本季度末汽车交付量会“非常高”，并要求所有员工协助完成季末交付任务，甚至包括非销售和交付部门的员工。 根据特斯拉此前公布的生产交付数据，今年一季度，特斯拉全球生产了超 30.5 万辆汽车，交付超 3\n本文链接",
+          "link": "https://news.cnblogs.com/n/729300/",
+          "publishedOn": "2022-10-03T23:25:00.000Z",
+          "wordCount": 161,
+          "title": "十一假期我在特斯拉工厂上班：工资按3倍计算，1天能领约1200元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729299/",
+          "author": null,
+          "description": "2022 年 10 月 3 日起，Intel 将和 SSD 彻底说再见，所有的技术支持、售后服务都转交给新的 Solidigm。 两年前，Intel 宣布以 90 亿美元的价格，将旗下 NAND 闪存与固态存储业务卖给韩国 SK 海力士，同时移交位于中国大连的 Fab 68 晶圆厂。 就在一个月前，\n本文链接",
+          "link": "https://news.cnblogs.com/n/729299/",
+          "publishedOn": "2022-10-03T23:20:00.000Z",
+          "wordCount": 161,
+          "title": "最后一天！Intel彻底告别SSD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729296/",
+          "author": null,
+          "description": "苹果首席执行官蒂姆·库克最近一直在欧洲各地旅行，谈到了他对增强现实的看法，他表示，这将是深远的，而虚拟现实只有一些特定的用途。 库克最近在接受荷兰新闻媒体 Bright 采访时谈到了增强现实，并表示它在未来将变得多么重要。 “我认为 AR 是一项深刻的技术，它将影响一切，”他说。“想象一下，我们突然\n本文链接",
+          "link": "https://news.cnblogs.com/n/729296/",
+          "publishedOn": "2022-10-03T23:16:00.000Z",
+          "wordCount": 161,
+          "title": "库克：AR是一项深刻的技术 它将影响一切",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729298/",
+          "author": null,
+          "description": "刚刚，科技春晚——特斯拉人工智能日落幕。 这场持续 3 个小时的全球直播，吸引数百万人的关注，特斯拉也没有辜负期望，发布了人形机器人(行情 300024,诊股) Tesla Bot，内部代号擎天柱 Optimus，还公布了 Dojo 超级计算机的最新进展。 这次原型机和去年展出的有很大不同，大部分的\n本文链接",
+          "link": "https://news.cnblogs.com/n/729298/",
+          "publishedOn": "2022-10-03T23:10:00.000Z",
+          "wordCount": 161,
+          "title": "马斯克3小时治好车圈内耗：机器人价格不到14万，FSD测试版年底推全球",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729297/",
+          "author": null,
+          "description": "集微网消息根据经济日报报道，苹果传将在今年底重组 Apple Car 团队，重启尘封已久、打造电动车的“泰坦计划（Project Titan）”，预计 2025 年量产。 据悉，苹果自 2014 年启动“泰坦计划”后，开发电动车的历程并不顺遂，经过多次战略改变及高层换血，团队甚至一度解散，让 App\n本文链接",
+          "link": "https://news.cnblogs.com/n/729297/",
+          "publishedOn": "2022-10-03T23:00:00.000Z",
+          "wordCount": 161,
+          "title": "传苹果年底将重组Apple Car团队",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729295/",
+          "author": null,
+          "description": "集微网消息，当地时间 10 月 3 日，据路透社报道，中国智能手机制造商小米集团周日表示，对印度冻结其 6.82 亿美元资产的命令感到\"失望\"，并将继续保护其利益。 报道称，印度上诉机构周五确认了印度联邦金融犯罪打击机构执法局 4 月下达的扣押 555.1 亿卢比的命令，称调查发现小米通过冒充特许权\n本文链接",
+          "link": "https://news.cnblogs.com/n/729295/",
+          "publishedOn": "2022-10-03T08:57:42.000Z",
+          "wordCount": 161,
+          "title": "小米：对印度冻结6.82亿美元资产感到“失望”，将用一切方式保护利益",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729294/",
+          "author": null,
+          "description": "詹士发自凹非寺 量子位公众号 QbitAI 手搓一台巴掌大小 Linux 电脑，只需树莓派加点儿零件就行？ 你没看错，有人都做出来了。 36 键触控键盘，4.3 英寸触摸显示屏，Linux 系统，功能一应俱全，单手可握： 续航长达 4 小时，能外接显示器及输入设备： 目前该项目在 GitHub 已获\n本文链接",
+          "link": "https://news.cnblogs.com/n/729294/",
+          "publishedOn": "2022-10-03T08:54:56.000Z",
+          "wordCount": 161,
+          "title": "为了随时随地能敲代码，他用树莓派手搓一台Linux掌上电脑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729293/",
+          "author": null,
+          "description": "当地时间 9 月 30 日，特斯拉人工智能日（AI Day）在美国加尼福尼亚州帕罗奥图开幕。 这是特斯拉历史上第二个 AI 日活动。特斯拉特意将今年的 AI 日延迟了一个多月，主要是为了能向大众展示其能够运转的人形机器人“擎天柱”（Optimus）。 就这点而言，特斯拉首席执行官埃隆·马斯克（Elo\n本文链接",
+          "link": "https://news.cnblogs.com/n/729293/",
+          "publishedOn": "2022-10-03T08:36:00.000Z",
+          "wordCount": 161,
+          "title": "擎天柱首秀后，专家质疑重重，他们是怎么说的？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729292/",
+          "author": null,
+          "description": "继比亚迪、特斯拉、广汽集团后，蔚来也开始加入到布局上游锂矿产业的队伍中。 日前，有消息称，蔚来计划投资一家总部位于澳大利亚的矿石开采公司——Greenwing Resources Ltd（以下简称 Greenwing），总金额最高或超过 6 亿元。获得融资后，Greenwing 将加快其阿根廷 Sa\n本文链接",
+          "link": "https://news.cnblogs.com/n/729292/",
+          "publishedOn": "2022-10-03T08:30:00.000Z",
+          "wordCount": 161,
+          "title": "加入争夺战！蔚来“下注”阿根廷锂矿项目，投资金额或超6亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729291/",
+          "author": null,
+          "description": "国庆七天假期加上高速免通行费，许多人都会选择自驾游或开车回家，经常会遇到高速堵车。但对新能源车车主而言，堵车不可怕，没电最焦虑。 广东一男子国庆回家就遇到了这样的尴尬情况，他本是想从深圳回湖南，但却被堵在高速上超 24 个小时还没出广东，结果充不了电下不了高速，最终车辆电量耗尽。怎么办？只能叫拖车紧\n本文链接",
+          "link": "https://news.cnblogs.com/n/729291/",
+          "publishedOn": "2022-10-03T08:23:00.000Z",
+          "wordCount": 161,
+          "title": "24小时还没出广东，男子开特斯拉返乡堵到电量耗尽，加价2000元叫拖车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729290/",
+          "author": null,
+          "description": "10 月 3 日消息，，仅在银河系就有数百亿颗“超级地球”存在，它们比我们现在生活的地球更常见，也更适合人类居住。 天文学家经常发现太阳系外围绕恒星运行的行星，并将它们称为“系外行星”。2022 年夏天，NASA 负责凌日系外行星调查卫星的团队发现了几颗特别有趣的系外行星，它们在其母恒星的宜居带运行\n本文链接",
+          "link": "https://news.cnblogs.com/n/729290/",
+          "publishedOn": "2022-10-03T08:17:00.000Z",
+          "wordCount": 161,
+          "title": "天文学家估算：银河系有数百亿颗“超级地球”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729289/",
+          "author": null,
+          "description": "10 月 3 日消息，美国当地时间周日，特斯拉公布了 2022 年第三季度汽车产量和交付量数据。数据显示，特斯拉该季度共生产 36.6 万辆汽车，交付 34.4 万辆，与去年同期交付 24 万辆汽车相比增长了 10 万多辆，但仍不及分析师预期。 具体来说，在第三季度，特斯拉共生产新车 365923 \n本文链接",
+          "link": "https://news.cnblogs.com/n/729289/",
+          "publishedOn": "2022-10-03T08:10:00.000Z",
+          "wordCount": 161,
+          "title": "特斯拉三季度交付新车34.4万辆，比去年多近10万但不及预期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729288/",
+          "author": null,
+          "description": "文/无锈钵 来源：财经无忌（ID:caijwj) 在曼哈顿第 53 街，充满着现代解构主义风格的纽约现代艺术博物馆坐落在这里，近百年来它如同一个容器收纳着来自世界各地的艺术品。 梵高的《星月夜》、莫奈的《睡莲》，上世纪九十年代，一个看上去并不像艺术品的“艺术品”被收纳进这里——它是被称为办公椅界“爱\n本文链接",
+          "link": "https://news.cnblogs.com/n/729288/",
+          "publishedOn": "2022-10-03T08:00:00.000Z",
+          "wordCount": 161,
+          "title": "人体工学椅，一场万元级的“黑色幽默”",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/729287/",
           "author": null,
@@ -8589,106 +8769,6 @@
           "publishedOn": "2022-09-04T15:00:00.000Z",
           "wordCount": 161,
           "title": "我庆幸果断放弃了 SwiftUI：它还不够成熟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727687/",
-          "author": null,
-          "description": "作者李梅 编辑陈彩娴 2011 年图灵奖得主、因果科学之父 Judea Pearl 曾提出著名的“因果阶梯”论（Pearl Causal Hierarchy，PCH）。 他认为，因果推断有三个层级，最低的第一层级是相关（association），涉及的是预测，而不涉及因果关系，只讨论变量之间的关联，\n本文链接",
-          "link": "https://news.cnblogs.com/n/727687/",
-          "publishedOn": "2022-09-04T12:00:00.000Z",
-          "wordCount": 161,
-          "title": "Judea Pearl怼Michael Jordan：不是所有随机对照实验都叫「反事实」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727686/",
-          "author": null,
-          "description": "允中发自凹非寺 量子位公众号 QbitAI 如何快速理解强化学习的概念？ 驯只猫就行。 比如下面这位爷，巨皮。 整天就是跑酷、尿炕、抓沙发，搞到人头皮发麻、心态爆炸。 直到你忍不了了，决定对它进行残酷的猫德教育。方案是： 以后在家，每当它表现出一次守猫德的行为，就奖励一根猫条； 而每当它皮一次，你就\n本文链接",
-          "link": "https://news.cnblogs.com/n/727686/",
-          "publishedOn": "2022-09-04T11:31:00.000Z",
-          "wordCount": 161,
-          "title": "怎样从零开始训练一个AI车手？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727685/",
-          "author": null,
-          "description": "Pine 发自凹非寺 量子位公众号 QbitAI 首位华人菲尔兹奖得主丘成桐： AI 有望用来检查数学证明，还可以帮数学家更透彻地理解外文文献 （比如拉丁文、德文…）。 这段发言来自 2022 届世界人工智能大会开幕式，丘成桐与前微软执行副总裁沈向洋的对话中。 知道人工智能源于数学，没想到它对推动数\n本文链接",
-          "link": "https://news.cnblogs.com/n/727685/",
-          "publishedOn": "2022-09-03T16:39:00.000Z",
-          "wordCount": 161,
-          "title": "丘成桐成立不用高考的清华求真书院，只为培养数学家",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727684/",
-          "author": null,
-          "description": "GameLook 报道/8 月 31 日，日本角川发表声明称，旗下子公司 FromSoftware 一直以来凭借其先进的游戏 IP 开发实力，不断创造世界著名的作品，推动游戏业务发展。日前，为了进⼀步拓展游戏业务，FromSoftware 将提升游戏 IP 的创作、开发及部署能力视为本公司的⾸要任务\n本文链接",
-          "link": "https://news.cnblogs.com/n/727684/",
-          "publishedOn": "2022-09-03T15:55:00.000Z",
-          "wordCount": 161,
-          "title": "押宝“魂Like”，腾讯联手索尼投资FromSoftware，成为FS社第二大股东",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727683/",
-          "author": null,
-          "description": "框架之战是 JavaScript 社区中的热门话题，也是业界众多圣战之一。一开始，jQuery 崭露头角，接下来 AngularJS 初露锋芒，再到现代框架混战，战争一直很激烈。然而现在框架之战已经结束，是谁赢得了最终的胜利，它又是凭什么取胜，且看本文分解。 竞争者 框架之战是 JavaScript\n本文链接",
-          "link": "https://news.cnblogs.com/n/727683/",
-          "publishedOn": "2022-09-03T15:44:00.000Z",
-          "wordCount": 161,
-          "title": "JavaScript框架大战已结束，赢家只有一个",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727682/",
-          "author": null,
-          "description": "长期以来，制备高强度却又具有优异变形承载能力的轻质材料被认为是结构材料研究的一项“圣杯”，但这些材料力学特性之间通常是相互排斥的。 近日，香港城市大学陆洋与合作者的最新研究发现了一种低成本、易操作的方法，可以将常见的光固化 3D 打印聚合物结构转化为轻质、高韧且生物兼容的复合碳材料结构。除了传统结构\n本文链接",
-          "link": "https://news.cnblogs.com/n/727682/",
-          "publishedOn": "2022-09-03T15:30:00.000Z",
-          "wordCount": 161,
-          "title": "轻质、超强韧的三维微构复合碳微点阵超材料",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727681/",
-          "author": null,
-          "description": "作为全球数字娱乐领域最具知名度和影响力的年度盛会之一，2022 年的 ChinaJoy 成为国内首个试水元宇宙的游戏展。 8 月 27 日，腾讯游戏开发的首个以品牌 logo 命名的虚拟探索空间“代号：Spark”亮相本次 ChinaJoy 线上展。腾讯游戏以“Spark 无限”为理念，并将“∞”符\n本文链接",
-          "link": "https://news.cnblogs.com/n/727681/",
-          "publishedOn": "2022-09-03T15:23:00.000Z",
-          "wordCount": 161,
-          "title": "腾讯游戏开发首个虚拟探索空间《代号：Spark》，“内测”版本亮相ChinaJoy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727680/",
-          "author": null,
-          "description": "据 IT 之家，抖音已经开始测试弹幕功能。从网友图片中可以看到，在播放横屏视频时，视频下方除了有“全屏观看”按钮外，还有一个“弹”按钮，用户可以单击此按钮发送弹幕。对于不喜欢弹幕打扰的用户，可在输入弹幕的页面直接关闭弹幕。 图源：IT 之家 除了文字，弹幕还支持 Emoji 表情符号。同时，用户可以\n本文链接",
-          "link": "https://news.cnblogs.com/n/727680/",
-          "publishedOn": "2022-09-03T15:15:00.000Z",
-          "wordCount": 161,
-          "title": "抖音开始内测弹幕功能：支持发送文字与Emoji表情",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727679/",
-          "author": null,
-          "description": "据《中国企业家》报道，阿里巴巴海外数字商业板块 CTO，同时兼任全球速卖通（AliExpress）基础平台中心总经理汤兴（花名：平畴）已离职。接近汤兴人士透露，汤兴离职为个人原因，后续或将创业。 汤兴于 2019 年 8 月加入阿里，后在大淘宝全面负责淘系用户产品与技术，直接向蒋凡汇报。2021 年\n本文链接",
-          "link": "https://news.cnblogs.com/n/727679/",
-          "publishedOn": "2022-09-03T15:07:00.000Z",
-          "wordCount": 161,
-          "title": "传阿里巴巴海外数字商业板块CTO汤兴已离职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/727678/",
-          "author": null,
-          "description": "品玩 9 月 2 日讯，据 IT 之家，近日有网友发现，腾讯电脑管家将下线 QQ 加速功能。腾讯电脑管家发公告宣布，其个人中心 QQ 加速功能将于 10 月 1 日下线。公告称，由于产品升级与调整，个人中心加速版块将于 2022 年 10 月 1 日 0 点起下线，届时包含 QQ 等级加速、登录 3\n本文链接",
-          "link": "https://news.cnblogs.com/n/727678/",
-          "publishedOn": "2022-09-03T14:28:00.000Z",
-          "wordCount": 161,
-          "title": "腾讯电脑管家将下线QQ加速功能",
           "imageUrl": null
         }
       ]
