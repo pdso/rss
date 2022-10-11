@@ -49,6 +49,36 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/76092",
+          "author": "北鸮",
+          "description": "我的第一部手机是在去外地上初中时，从我妈那里淘汰下来的诺基亚 3100，之后是高中时用的诺基亚 5320XM。读中学时移动互联网才初露头角，5320XM 用 100 MB 流量的 EDGE 网套餐承载了我躲在宿舍床上的摸鱼时光，按键的漆也在一条条聊天短信里被磨掉。当时我的所有朋友都在用全拼打字，而我为了提高速度，把手指挪动更少的笔划输入法练得飞快。\n\n后来我换了 Android 机器，在还有不少想去把玩的手机没试过时，迎来了 Symbian 与诺基亚的衰落，送走了滑盖、旋盖、全键盘。移动互联网改变了我们使用手机的习惯，也同样改变手机的形态——所以当我发现还有厂商在出实体数字键盘的智能机时，就一直想找个机会试试。赶上多亲 F22 Pro 新品发布，我付了款，等过了两周的疫情，终于把它拿到了手。\n这份喜悦在到手的一小时内烟消云散。\n\n青涩但合格的硬件设计\n多亲 F22 Pro 的设计和前代的 F21 Pro 其实有很多不同。\n除了处理器从 MT6761 / 虎贲 T310 一下跃升到 MTK G85 以外（虽然还是挺弱的），比较显眼的就是尺寸变化。屏幕从此前的 2.8 英寸 480*640 升级到了 3.5 英寸 640*960，这样的参数现在看来可能并不出色，但它和 iPhone 4 的那块 Retina 细腻程度其实一致，文字显示效果不错。而且由于用了几天只有三英寸的 Jelly 2，这块屏幕甚至让我有种换上大屏手机的错觉。\n\n机身和之前的多亲手机一致，依然是与功能机一样的瘦长手感，再加上与 iPhone 4 一样的屏幕和圆形的导航键，整个手机颇有一种当年 iPhone 配上 Typo 键盘壳的感觉。手机的宽度也因为屏幕增大从 53 mm 扩展到 58 mm，和现在流行的尺寸相比，仍然很容易上手。\n按键方面，F22 Pro 抛弃了上代采用的孤岛式按键，转向了一体式的按键设计…",
+          "link": "https://sspai.com/post/76092",
+          "publishedOn": "2022-10-10T03:36:46.000Z",
+          "wordCount": 660,
+          "title": "不是你的怀旧助手：多亲 F22 Pro 两周体验",
+          "imageUrl": "https://cdn.sspai.com/article/cf83dbd3-127c-81ed-a215-af0e12d80429.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/76076",
+          "author": "卤蛋实验室",
+          "description": "如果你喜欢我的文章，希望点赞👍 收藏 📁 评论 💬 三连支持一下，谢谢你，这对我真的很重要！\n\n最近需要给长辈置换一下手机，在有限的预算内，经过多次比较发现还是小米的硬件配置更好一些，最后也是下单了小米。\n在 2022 年，Android 系统对手机权限的进一步限制，一些过往的卡顿问题都得到了一定的解决。但是在国内的定制版 Android 机上，和原生 Android 系统还是多了一些特色的东西：\n\n无处不在的系统级广告，诱导用户点击/误触，从而去跳转/下载 APP\n“不小心下载” 的 APP，占用宝贵的内存/硬盘资源，拖慢手机速度\n国内特色的航母级 APP，一个 APP 占几个 G 的硬盘，有些小而美的应用甚至几十个 G\n\n上面的三个问题中，前两个可以通过一定的努力解决大部分，第三个大家都没得选只能硬抗。本文就是聚焦于「关闭 MIUI 无处不在的广告」这个话题的。\n\n虽然 MIUI 一直有 ADUI 的称呼，但是个人身处这个行业也能表示理解：\n小米把硬件上的利润压到了最低，赚不到钱就要从其他路子上想办法，只能不停的“加点儿广告怎么了”\n\n废话不多说，我们直接开始。\n\n本文成文于 2022.09，使用的是 MIUI 13.0.4 版本，随着时间的推移，其它版本 MIUI 可能有操作不一致的情况，这点需要读者注意。\n\n一、通过常规手段关闭广告推送\n1.1 关闭系统广告\nMIUI 的许多内置应用（例如 天气、万年历、音乐）和系统级页面（例如桌面文件夹）上都会推送一些贴片广告，诱导用户观看和点击。\n可能用户反馈过于激烈，2019 年年末某个版本更新中，新增了「一键关闭系统广告」的功能。这个开关也很好找，我们直接进入「设置」，然后在搜索框里输入「系统广告」，然后点击进入新页面，把「系统工具广告」这个开关关上即可。\n我们可以通过「查看涉及应用列表」查看涉及的 APP，然后去相关…",
+          "link": "https://sspai.com/post/76076",
+          "publishedOn": "2022-10-09T02:57:27.000Z",
+          "wordCount": 708,
+          "title": "🤖️ 如何逐步关闭 MIUI 无处不在的广告",
+          "imageUrl": "https://cdn.sspai.com/2022/10/09/72866ce0d5da0f95045beccae4cc0113.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/76019",
+          "author": "johnbens",
+          "description": "相信对于很多小伙伴来说，Twitter并非单纯是一个“社交”平台，而是“信息获取”平台。通过追踪各类名人、机构的账号来了解所关注领域的最新动向。比如最近火热的NFT、Web3.0社区中就有大量的意见领袖在Twitter发声。\n然而从获取信息效率的视角来看，常规Twitter浏览界面并不是特别友好，时间线上有着各类广告，同时经常用着用着就发现自己迷失在几十个选项卡和搜索结果页中。如果你遇到过类似问题，并希望提高在Twitter获取信息的效率，我会强烈推荐Tweetdeck这个功能。\nTweetdeck是Twitter官方提供的在线工具，有模块化，高度自定义化的浏览界面，不仅适合专业的Twitter运营人员工作使用，也非常适合个人用户来改造优化自己的信息时间线。通过对比图片，可以很清楚的看到两种模式的差异。Tweetdeck可以在设置中选择 黑/白 两种显示模式，我个人更喜欢黑暗模式，看起来更轻松。\n4K显示器下的twitter常规界面，大量留白非常浪费空间4K显示器下的tweetdeck界面\n \n基础介绍\nTweetdeck和常规界面相比最重要的功能主要是3点：自动刷新、多列显示和自定义模块。自动刷新不需要过多解释，节省频繁刷新的操作和时间。自定义模块可以定制每一列种显示的内容，例如：\n\n我想单独查看Elon Musk的所有推特或者他直发的内容。 - 单用户模式\n我希望把多个账号归为一个主题，单独浏览，如：NBA球星们、实时股市新闻、NFT相关资讯。 - 清单模式\n我想追踪网友对正在发生的热点事件的评论，如：WWDC大会、俄乌冲突事件等 - 搜索模式\n\n多列显示则大幅度提升了屏幕利用率，让我们可以同时间追踪上述这些不同的主题。\n\n上图是我最近使用Tweetdeck的截图，我通过Vivaldi浏览器“垂直平铺”功能在右边放置了Tesla AI Day的视频直播，在左边放置了Tweetdeck，并添加了：“tesla ai day”搜索结果列、“tesla bot”搜索结果列、Elon的个人内容列，和常用的市场资讯列。\n \n模块选择\n在Tweetdeck中，可以选择添加多种不同的模块，其中包含，\n内容类模块：单用户模式、搜索模式、清单模式、正在流行内容等\n功能类模块：通知、站内信、@我的、已预约内容等\n我并没有做账户运营的需求，因此最常使用的还是：搜索结果、单个用户、多用户清单这几个内容类模块。\n可添加模块截图\n \n搜索模式：\n显示关键词搜索结果配合自动刷新功能，达成“直播”的效果。并且可以通过设置条件对搜索结果进一步筛选，可设置条件包含：\n\n按推文类型过滤：例如包含图片、视频、GIF等的推文；或者是否显示“转发”内容。\n筛选内容的发布时间范围，最小单位可以精确到半个小时。\n按照推文语言类型筛选，例如：中文、英文、日语等。\n筛选推文发布者：选择特定的单个用户或者一组用户的搜索结果。\n内容互动情况：显示至少有多少点赞、转发或评论的内容。\n\n \n单用户模式 & 多用户清单：\n这2个模式本质差别就是关注用户的多少，选定关注范围后的筛选条件选项完全一致。在这2个模块中，同样可以通过设置筛选条件，包含：\n\n按推文类型过滤：例如包含图片、视频、GIF等的推文；或者是否显示“转发”内容。\n关键词过滤：显示或排除包含指定关键词的内容。\n用户筛选：由指定用户发布的内容 或 @特定用户的内容。\n\n在Tweetdeck追踪的，不管是单用户还是清单，并不要求是关注的账户。这点非常贴心，也帮助我区分不同使用场景，我把大量“新闻资讯”类账号从关注列表中去除，放在Tweetdeck清单中，日常在手机上浏览就不会被刷屏，而更关注轻松的内容，坐在电脑前则可以追踪查看这些庞杂的资讯。\n在Tweetdeck创建的清单可以选择设置为公开或者私有列表，同时这个列表也会同步到常规界面左侧的列表按钮中。\n\n \n模块设置：\n这几个内容模块中都可以单独设置“媒体展示尺寸大小”，可以大体理解为模块中每一条内容的高度。以及是否通过“声音”或者“桌面通知”的形式发送通知，提示关注的内容有更新。\n\nTweetdeck是简单，但又很强大的工具，给我带来了很多的便利，也希望分享给大家，打造适合自己的内容模块。\n \nPS：\nTweetdeck访问地址：https://tweetdeck.twitter.com\n今年Twitter官方下架了Tweetdeck的桌面客户端软件，仅提供网页版本，如果想在电脑上安装独立客户端可以使用Tweeten，有Windows和Mac版本，并且基于Tweetdeck提供了更多的功能。\nTweeten部分功能展示\n题图源自：Brett Jordan on Unsplash\n更多内容欢迎访问我的个人博客：「假设检验」",
+          "link": "https://sspai.com/post/76019",
+          "publishedOn": "2022-10-09T02:55:06.000Z",
+          "wordCount": 494,
+          "title": "通过Tweetdeck打造属于自己的内容时间线",
+          "imageUrl": "https://cdn.sspai.com/2022/10/01/873e494328b3346ddb7f4da6fd41a161.jpg"
+        },
+        {
           "id": "https://sspai.com/post/76044",
           "author": "啦苏LASU",
           "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n在不久之前，我写了一篇文章，大概讲了一下我认为出国留学「摄影」这件事对我而言的几个较有价值的部分，其中有一点是获得了「从学术的角度出发理解摄影」的一个方法。今天我就打算展开讲讲我从英国这个摄影的「发源地」学到的方法论之——如何理解摄影，希望和大家一同探讨。\n需要提醒的是，这篇文章里有一些学术概念，我已经用了尽量简单易懂的方式表述，但出于对「信息传递更精准」的目的，我依然保留了一些可能不好理解的名词，建议大家收藏本文，慢慢看。\n首先，我想先对「理解摄影」这个话题加上一个更具体的语境，即——如何用一种具有创造性的方式理解摄影，而这也是我们上个学年在讨论的一个核心议题：「The central question will be how to read photographic images in an innovative manner. 」。\n正如上面提到的，「用创造性的方式解读摄影」，这个表述背后事实上是默认了在「创造性 」的解读照片的方式背后还有一种「非创造性」的方式解读照片。那么所谓的「非创造性」和「创造性」指的是什么呢？让我们先从「非创造性」开始说起。\n「非创造性」——摄影的本质\n首先，要从沃克·埃文斯（Walker Evans）在 1931 年写的一篇名为《摄影的重生》（The Reappearance of Photography）的文章说起。这篇文章里提到了尤金·阿杰特（Eugene Atget）、史泰钦（Edward Steichen）、阿尔伯特·伦格-帕茨（Renger Patzsch）等多位摄影师的作品，并对他们有…",
@@ -594,6 +624,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73010",
+          "author": null,
+          "description": "五角大楼将奇虎 360、深圳大疆、北京知道创宇和中科曙光等 13 家中国公司列入黑名单。深圳大疆是最大的消费者无人机制造商，占据了商用无人机半数以上份额，五角大楼的黑名单代表着这些公司与军方有关联，为拜登当局实施后续制裁扫清了障碍。大疆发言人 Adam Lisberg 表示，没有理由将该公司列入黑名单，该公司是唯一一家反对将其无人机产品军用的制造商，大疆从未设计或制造过军用级别的设备。",
+          "link": "https://www.solidot.org/story?sid=73010",
+          "publishedOn": "2022-10-10T14:48:37.000Z",
+          "wordCount": 152,
+          "title": "五角大楼将奇虎和深圳大疆列入黑名单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73009",
+          "author": null,
+          "description": "美联储前主席伯南克(Ben Bernanke)与芝加哥大学的 Douglas Diamond 和华盛顿大学的 Philip Dybvig 被授予了 2022 年度的诺贝尔经济学家，以表彰他们对金融危机期间银行作用的研究。诺奖委员会称，他们的发现改进了社会应对金融危机的方式。他们的一个重要发现是：为什么金融危机期间避免银行倒闭至关重要。",
+          "link": "https://www.solidot.org/story?sid=73009",
+          "publishedOn": "2022-10-10T11:10:48.000Z",
+          "wordCount": 152,
+          "title": "伯南克等三人获诺贝尔经济学家",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73008",
+          "author": null,
+          "description": "粒子物理学家通常是先进技术的早期采用者。他们早在 1997 年就训练计算机模型标记碰撞中产生的粒子。这些模型在不断发展和进步。过去十年的深度学习革命中，粒子物理学家训练算法去解决以前难解决的问题，迎接新挑战。但粒子物理学的数据与机器学习常用数据存在显著差异，卷积神经网络 (CNN) 对图像分类很有效，但碰撞粒子数据不是图像，它需要名为图神经网络(graph neural networks 或 GNNs)的新框架。粒子物理学的机器学习仍然在早期发展阶段，物理学家也开始考虑其它领域机器学习研究中经常遇到的问题：机器学习会将分析变成自动化的人类难以理解的黑匣子。",
+          "link": "https://www.solidot.org/story?sid=73008",
+          "publishedOn": "2022-10-10T11:00:17.000Z",
+          "wordCount": 152,
+          "title": "机器学习撼动粒子物理学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73007",
+          "author": null,
+          "description": "长江流域今年遇到了创记录的干旱，人工降雨也被频繁使用。据人民日报报道，8 月中国至少有 10 省派出飞机约 90 次，播撒有利于降雨的物质。还发射了约 12 万发促进降雨的“增雨弹”。据说重庆市 8 月 25 日发射 4 枚火箭后，出现了降雨，气温下降。中国为了抵御干旱等灾害，2025 年之前将在占国土约 6 成的 550 万平方公里土地上推进人工降雨和降雪的大规模计划。还在开发利用无人机（UAV）等最新技术的系统，举国之力“控制天气”。",
+          "link": "https://www.solidot.org/story?sid=73007",
+          "publishedOn": "2022-10-10T10:31:05.000Z",
+          "wordCount": 177,
+          "title": "中国 8 月尝试 90 次人工降雨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73006",
+          "author": null,
+          "description": "根据发表在《Astrophysical Journal Letters》期刊上的一项研究（PDF），模拟显示月球可能是在短时间内形成的。一个广泛接受的假说认为，月球是由地球与火星大小的行星忒伊亚（Theia）相撞形成，这次巨大的撞击可能形成了一个庞大的碎片地带，该地带历经数千年慢慢形成了月球。但最新研究认为，月球的形成可能只花了几个小时。模拟显示，月球由被抛出的地球碎块和忒伊亚碎片在几个小时内形成，这就提出了月球一次形成理论。该理论可为月球的显著特征，如宽阔且倾斜的运行轨道、部分熔化的内核及纤薄的外壳提供清晰且简洁的解释。",
+          "link": "https://www.solidot.org/story?sid=73006",
+          "publishedOn": "2022-10-10T08:52:55.000Z",
+          "wordCount": 145,
+          "title": "模拟显示月球可能是在短时间内形成的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73005",
+          "author": null,
+          "description": "新冠疫情给内存芯片行业带来的提振正在消失。近几个月价格的下降导致三星电子和美光等最大的内存生产商发布了悲观的预测，并且低于已经下调的利润预期。其他一些企业担心供应过剩加剧，已承诺削减产能计划。芯片业高管和行业分析师认为，在明年年中之前，价格的下跌不会见底，甚至不会放缓。内存芯片用于智能手机、个人电脑和数据服务器，是半导体行业健康状况的晴雨表，该行业正在应对从疫情期的强劲发展到需求急剧下降的突然转变。根据 TrendForce 的数据，今年 7 - 9 月，DRAM 和 NAND 闪存这两种主要内存的平均合同价分别较上一季度下降 15% 和 28%。第四季度和明年全年这两种内存芯片的价格预计还会下降。",
+          "link": "https://www.solidot.org/story?sid=73005",
+          "publishedOn": "2022-10-10T08:35:54.000Z",
+          "wordCount": 155,
+          "title": "需求不振内存厂商面临困境",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73004",
+          "author": null,
+          "description": "药物专利的捍卫者多年来一直宣称需要专利和高药品价格是因为新药研发成本高。但事实上新药研发成本很大一部分是由政府（也就是纳税人）资助的，而根据发表在《JAMA Network Open》上的一项研究，研发成本和高药价之间是不相关的。研究人员对比了新药的研发成本和出售价格，发现两者没有关联，药品的治疗价值也与价格不相关。研究人员发现药厂不是根据药物的研发成本或质量定价的，而是根据市场能承受的费用。",
+          "link": "https://www.solidot.org/story?sid=73004",
+          "publishedOn": "2022-10-10T07:25:28.000Z",
+          "wordCount": 145,
+          "title": "研究显示高研发成本不能解释高药品价格",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73003",
+          "author": null,
+          "description": "在 Meta 宣布其文本视频 AI 模型 Make-A-Video 之后，Google 演示了自己的同类工具Imagen Video。它能根据书面提示以每秒 24 帧速生成分辨率为 1280×768 的视频。从文本合成图像到文本合成视频过去半年 AI 扩散模型（diffusion models）进步显著。Google 研究人员称，Imagen Video 的视频能表现出不同风格，如根据梵高的作品生成视频。Google 希望通用视频合成模型能显著降低高质量内容生成的难度。Imagen Video 使用 LAION-400M 图像文本数据集，以及1400 万视频文本对和 6000 万图像-文本对进行训练，和 Meta 一样短时间内不会对公众开放使用。",
+          "link": "https://www.solidot.org/story?sid=73003",
+          "publishedOn": "2022-10-10T06:35:57.000Z",
+          "wordCount": 191,
+          "title": "Google 演示文本视频 AI 模型 Imagen Video",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73002",
+          "author": null,
+          "description": "我们所欣赏、所阅读和所购买的很多东西是 YouTube、Twitter 和 Amazon 等网站通过推荐系统渗透到我们的意识中的。定制化的算法推荐旨在增加广告流量、点击或购买量。推荐系统有时候会让用户觉得算法根本不了解我们，但有时候也让人觉得它就像肚子里的蛔虫什么都知道。推荐系统不仅能根据我们的偏好进行调整，实际上还能塑造我们的偏好。国际机器学习会议(International Conference on Machine Learning)上发表的研究表明，当推荐系统使用强化学习增加参与度时，可能会产生改变偏好以增加参与度的副作用。研究人员介绍了检测和减少此类 AI 操纵的方法。",
+          "link": "https://www.solidot.org/story?sid=73002",
+          "publishedOn": "2022-10-10T06:09:07.000Z",
+          "wordCount": 161,
+          "title": "研究显示推荐系统能使用 AI 操纵人的偏好",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73001",
+          "author": null,
+          "description": "苹果最新发布的 iPhone 14 机型支持车祸检测功能，该功能默认启用，会在检测到车祸之后显示一则提醒并在 20 秒后自动发起紧急呼叫。但这一功能在设计时可能没有考虑到特殊使用场景，比如坐过山车。据报道，国王岛游乐园所在的沃伦县 (Warren County)自 iPhone 14 发布以来收到了六次玩游乐设施引发的紧急呼救。美国其它地方的游乐设施也发生了类似的问题。",
+          "link": "https://www.solidot.org/story?sid=73001",
+          "publishedOn": "2022-10-10T03:11:38.000Z",
+          "wordCount": 162,
+          "title": "iPhone 14 在机主坐过山车时拨打急救电话",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73000",
+          "author": null,
+          "description": "美国第四大医院系统 CommonSpirit Health 周二表示遭遇 IT 安全问题，部分系统下线。它没有披露更多细节。但知情人士确认它遭遇的是勒索软件攻击。CommonSpirit 在美国拥有逾 140 家医院，此次勒索软件攻击导致了该公司旗下医院推迟手术，暂停患者护理，以及在全国重新安排医生预约。",
+          "link": "https://www.solidot.org/story?sid=73000",
+          "publishedOn": "2022-10-09T15:31:53.000Z",
+          "wordCount": 151,
+          "title": "美国第四大医院系统遭勒索软件攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72999",
+          "author": null,
+          "description": "小行星撞击是人类文明未来面临的潜在灾难之一。地球上记录有约 200 次大型撞击事件，直径数千米的小行星撞击足以造成生物大灭绝。地球形成 45 亿年以来撞击通量呈指数下降。那么，地月系统小行星撞击频率是否一直平稳衰减？数量众多的近地小行星是否可能导致未来撞击事件突然增加？嫦娥五号返回的月壤样品是寻找相关答案的最佳研究对象。中外学者组成的国际研究团队，通过将月壤中的玻璃球粒与附近撞击坑相关联，证实月球 20 亿年以来撞击频率随着时间变化。研究报告发表在《科学进展》期刊上。值得注意的是，嫦娥五号月壤中撞击玻璃球粒年龄与小行星带内多组撞击事件年龄相同，其中一个年龄与恐龙灭绝事件相吻合，代表当时撞击频率突增。",
+          "link": "https://www.solidot.org/story?sid=72999",
+          "publishedOn": "2022-10-09T15:11:59.000Z",
+          "wordCount": 149,
+          "title": "月壤玻璃微球揭秘地月系统小行星撞击事件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72998",
+          "author": null,
+          "description": "国家超级计算长沙中心启用了天河新超算，双精度浮点峰值计算性能达到 200PFlops。暂时不知道新超算的名字。长沙晚报的报道称，新超算“算力水平国际先进、国内领先”。根据 2022 年 6 月 Top500 榜单，国内超算排名最前的是超算无锡中心的神威太湖之光，峰值计算性能 93.01PFlops，广州中心的天河二号A 性能 61.44PFlops。200PFlops 可以排在全球的第三位，次于美国的 Frontier 和日本的富岳。",
+          "link": "https://www.solidot.org/story?sid=72998",
+          "publishedOn": "2022-10-09T14:44:13.000Z",
+          "wordCount": 164,
+          "title": "天河新超算速度提高到 200 PFlops",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72997",
           "author": null,
@@ -3153,36 +3313,6 @@
           "wordCount": 180,
           "title": "Chess.com 封杀被控作弊的 19 岁棋手",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72735",
-          "author": null,
-          "description": "The Black Vault 网站根据信息自由法案（Freedom of Information Act）递交信息披露请求，寻求解密所有被标记为不明飞行现象（UFP）的视频。美国海军回应称，所有 UFO 视频都是机密信息，公开更多视频会损害国家安全。海军承认它手中有更多的 UFO 视频，此前发布的三则 UFO 视频是在先被广泛讨论之后才公布的，而公布新的 UFO 视频会向对手提供美国军事能力相关的机密情报。",
-          "link": "https://www.solidot.org/story?sid=72735",
-          "publishedOn": "2022-09-10T15:24:58.000Z",
-          "wordCount": 166,
-          "title": "美国海军拒绝解密 UFO 视频称会损害国家安全",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72734",
-          "author": null,
-          "description": "Google Android 开发者博客宣布了 Android 13 精简版 Android Go 的最低硬件需求。Android Go 专门为低内存和低速处理器进行了优化。它在 2017 年发布，主要由 OEM 厂商决定是否采用。2017 年时的最低硬件需求是 512MB 内存，过去两年提高到了 1GB，今年正式提高到了 2GB 内存。最低存储空间也提高到了 16 GB，不过 Google 并没有在文档中明确提及这一消息。OEM 厂商只有满足最低硬件需求才有资格获得 Play Store 授权。",
-          "link": "https://www.solidot.org/story?sid=72734",
-          "publishedOn": "2022-09-10T14:36:46.000Z",
-          "wordCount": 200,
-          "title": "Android 13 最低硬件需求为 2GB 内存和 16 GB 存储空间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72733",
-          "author": null,
-          "description": "英伟达发表新闻稿，宣布其下一代基于 Hopper 架构的数据中心 GPU H100（H 代表 Hopper） 在 MLPerf 行业标准 AI 基准测试中的性能比上一代 A100（基于 Ampere 架构） 高 4.5 倍。英伟达的新闻稿充斥着热门词，它表示“Hopper 在流行的用于自然语言处理的 BERT 模型上表现出色部分归功于其 Transformer Engine。BERT 是 MLPerf AI 模型中规模最大、对性能要求最高的的模型之一。”H100 仍然在开发之中，它将于今年晚些时候上市，将取代 A100 成为该公司的旗舰数据中心 GPU。",
-          "link": "https://www.solidot.org/story?sid=72733",
-          "publishedOn": "2022-09-10T14:05:50.000Z",
-          "wordCount": 198,
-          "title": "英伟达称其 H100 数据中心 GPU 性能比上一代高 4.5 倍",
-          "imageUrl": null
         }
       ]
     },
@@ -3191,6 +3321,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/729561/",
+          "author": null,
+          "description": "图片来源@视觉中国 文｜海豚投研 延续我们上篇电商行业综述中的分析，随着各互联网公司暂缓竞争，退守核心业务，当前周期下看到是各公司 “第一曲线” 的自然增长情况（上个周期是各公司的壁垒深度和防守能力）。那么，在当前环境下哪些公司核心业务会具相对增长优势？ 海豚君认为，在居民消费降级、偏好性价比商品，\n本文链接",
+          "link": "https://news.cnblogs.com/n/729561/",
+          "publishedOn": "2022-10-11T00:40:00.000Z",
+          "wordCount": 161,
+          "title": "拼多多 vs 唯品会：你的穷日子 是它们的好日子？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729560/",
+          "author": null,
+          "description": "文/路世明 来源/锌财经（ID:xincaijing） 距 9 月 27 日国内头部 VR 公司 PICO 发布新产品 PICO4，已经过去十余天。锌财经通过京东 PICO 官方旗舰店发现，该机型销量已超 5 万台。此外，淘宝、抖音商城等，总计也有过万台的出货量。 PICO 总裁及创始人周宏伟曾表示\n本文链接",
+          "link": "https://news.cnblogs.com/n/729560/",
+          "publishedOn": "2022-10-11T00:28:00.000Z",
+          "wordCount": 161,
+          "title": "元宇宙大门的钥匙，卡在内容生态上的VR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729558/",
+          "author": null,
+          "description": "文/黎佳瑜 来源/远川研究所（ID:caijingyanjiu） 2020 年的元气森林不是一家公司，而是一种现象。 这一年，元气森林的营收同比增长了 309%[1]，像一辆两只踏板都是油门的跑车。消费品行业许久未曾见证过如此酣畅淋漓的胜利，行业内讨论的话题是怎么像元气森林一样，用互联网的方式打造消\n本文链接",
+          "link": "https://news.cnblogs.com/n/729558/",
+          "publishedOn": "2022-10-11T00:21:37.000Z",
+          "wordCount": 161,
+          "title": "解构元气森林：疯子、傻子和厨子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729559/",
+          "author": null,
+          "description": "文/杨晓鹤 来源：Tech 星球（ID:tech618) 何小鹏说，自己在新车 G9 发布前一直很焦虑，如今这款“Dream Car” 上市后的 20 天内，却依然没有挽救小鹏汽车的销量、市值等方面的颓势。 最让何小鹏焦虑的销量依旧没有改善。在造车新势力 9 月销量排行榜中，小鹏以 8468 辆的销\n本文链接",
+          "link": "https://news.cnblogs.com/n/729559/",
+          "publishedOn": "2022-10-11T00:15:00.000Z",
+          "wordCount": 161,
+          "title": "四重暴击，小鹏汽车掉队“蔚小理”？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729557/",
+          "author": null,
+          "description": "文杨净 来源：量子位 100% 纯视觉信念者马斯克，现在扔掉了最后一个雷达。 如今的特斯拉传感器方案，有且只有 8 个摄像头，换而言之不论是 L2 级的辅助驾驶还是无人驾驶能力的 FSD，都完全靠这 8 个摄像头。 而被他扔掉的，正是雷达三剑客中性价比之王——超声波雷达。 它售价不过数十元，部署一整\n本文链接",
+          "link": "https://news.cnblogs.com/n/729557/",
+          "publishedOn": "2022-10-11T00:07:00.000Z",
+          "wordCount": 161,
+          "title": "马斯克割掉了最后一颗雷达",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729556/",
+          "author": null,
+          "description": "文/汤一涛 来源/电厂（ID:wonder-capsule） 人类的鼻子肯定不在素食主义者的菜单上，但道格·拉姆齐（Doug Ramsey）显然并不知晓这一点。9 月 17 日，这位人造肉巨头 Beyond Meat 的首席运营官，因为一起路怒事件被指控犯有“恐怖威胁”和“三级殴打罪”。在冲突中，拉\n本文链接",
+          "link": "https://news.cnblogs.com/n/729556/",
+          "publishedOn": "2022-10-11T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "人造肉公司高管咬人，但Beyond Meat的问题远不止这些",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729555/",
+          "author": null,
+          "description": "文/祝彰 来源/市值榜（ID:shizhibang2021） 2011 年，金山陷入自 1998 年成立以来最大的一次危机，为了挽救公司于水火，求伯君和张旋龙重新找回了雷军。 回归金山后，雷军很快替公司做出了新的战略指导： 要聚焦 WPS、网游和《金山毒霸》，退出无关业务；事业部子公司化，权力下放给\n本文链接",
+          "link": "https://news.cnblogs.com/n/729555/",
+          "publishedOn": "2022-10-10T14:04:23.000Z",
+          "wordCount": 161,
+          "title": "金山云让雷军失望了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729553/",
+          "author": null,
+          "description": "当地时间 10 月 4 日，IBM 发文宣布，Red Hat 正在将其存储产品组合和相关团队（包括 Red Hat Ceph Storage、Red Hat OpenShift Data Foundation (ODF)、Rook 和 NooBaa）转移到 IBM 旗下。之后，ODF 将成为 IBM\n本文链接",
+          "link": "https://news.cnblogs.com/n/729553/",
+          "publishedOn": "2022-10-10T11:53:23.000Z",
+          "wordCount": 161,
+          "title": "“吞并”红帽存储产品线，IBM承诺Ceph依然 100% 开源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729554/",
+          "author": null,
+          "description": "欢迎关注“新浪科技”的微信订阅号：techsina 文/周晓奇 来源/连线 Insight（ID:lxinsight） 在复刻“华为路径”上，OPPO、vivo 很卖力。 今年 4 月 vivo 刚发布首款折叠机后，9 月底又迅速发布了第二代升级款折叠机，似乎想一举通过折叠机建立自身的技术标签。 这\n本文链接",
+          "link": "https://news.cnblogs.com/n/729554/",
+          "publishedOn": "2022-10-10T11:30:00.000Z",
+          "wordCount": 161,
+          "title": "OPPO、vivo的“华为梦”，做到哪了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729552/",
+          "author": null,
+          "description": "四夸克态 ZCS (3985)0 在正负电子对撞机上产生的示意图兰州大学供图 近日，《物理评论快报》发表了由兰州大学核科学与技术学院、稀有同位素前沿科学中心粒子物理核物理团队与美国印第安纳大学、中国科学院高能物理研究所、山东大学、中国科学院大学合作完成的北京谱仪 III 实验含奇异夸克的中性隐粲四夸\n本文链接",
+          "link": "https://news.cnblogs.com/n/729552/",
+          "publishedOn": "2022-10-10T11:01:00.000Z",
+          "wordCount": 161,
+          "title": "学者找到含奇异夸克的中性隐粲四夸克态存在证据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729551/",
+          "author": null,
+          "description": "文王新喜 今年，随着大厂裁员不断，35 岁职场人的焦虑更甚以往，不少被裁的 35 岁~40 岁的中年人再就业难问题频频引发业内关注与热议。我们很明显的感受到，近年来，35 岁担心无人要已经成为非常普遍的一种焦虑了，甚至从网友的评论来看，35 岁的就业歧视正在引发一种公愤与全民焦虑。 这种焦虑也被就业\n本文链接",
+          "link": "https://news.cnblogs.com/n/729551/",
+          "publishedOn": "2022-10-10T10:49:00.000Z",
+          "wordCount": 161,
+          "title": "35岁的就业歧视与焦虑：为何国内流行国外少见？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729550/",
+          "author": null,
+          "description": "文商隐社，作者 第二人生，编辑 甄幸运 舒尔茨怎么也想不到，40 年来，伴随着星巴克的兴衰起伏，他会在 CEO 的职位上三进三出。 2000 年，他第一次辞任 CEO，想要回归家庭，却不料 2008 年重新出山，以解决当时星巴克的危机。 2017 年，他第二次辞 CEO，结果 5 年后，又被请回，以\n本文链接",
+          "link": "https://news.cnblogs.com/n/729550/",
+          "publishedOn": "2022-10-10T10:29:00.000Z",
+          "wordCount": 161,
+          "title": "星巴克崩塌始末",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729549/",
+          "author": null,
+          "description": "文新腕儿，作者怜舟 “吾观自古贤达人，功成不退皆殒身。” 01 功成，殒身 最近一年，直播带货行业发生了巨大变化。这是一种由个体到组织，由组织到群体，再由群体到时代格局的变化。在直播带货行业，最重要的个体自然是主播。从薇娅到李佳琦，再到罗永浩、辛巴、雪梨……超头主播最终只有两种命运，过气和被封杀。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/729549/",
+          "publishedOn": "2022-10-10T10:21:00.000Z",
+          "wordCount": 161,
+          "title": "超级主播如何体面退出直播江湖？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729548/",
+          "author": null,
+          "description": "文｜互联网怪盗团，作者｜裴培 自从 2022 年 6 月一夜爆红以来，东方甄选一直是全市场关注的焦点话题。不论投资人、媒体还是电商从业者，大家都在争先恐后地发表关于东方甄选的观点。正方认为这是一个伟大的转型案例，标志着直播电商乃至整个零售电商行业的战略方向；反方则认为这无非是一个“坐庄炒股票”的骗局\n本文链接",
+          "link": "https://news.cnblogs.com/n/729548/",
+          "publishedOn": "2022-10-10T10:14:00.000Z",
+          "wordCount": 161,
+          "title": "东方甄选究竟是不是泡沫？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729547/",
+          "author": null,
+          "description": "文邓思邈 来源：智能车参考 挺突然的，亚马逊关停了无人配送车项目。 要知道在此之前，这是亚马逊面向未来创新探索的重要一环，是围绕无人超市、无人机配送等在内的重要构成。 但现在，亚马逊在探索之后选择了关停——400 人团队面临解散和调岗，服役 3 年的无人配送车暂告一段落。 更令人震惊的是，这个关停决\n本文链接",
+          "link": "https://news.cnblogs.com/n/729547/",
+          "publishedOn": "2022-10-10T09:50:00.000Z",
+          "wordCount": 161,
+          "title": "亚马逊关停无人配送车：探索3年，难以落地商用，400人团队面临解散",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729546/",
+          "author": null,
+          "description": "图片来源：视觉中国 近日，36 氪从多名 58 集团内部人士处得知，9 月底 58 集团旗下 HBG 房产事业群开启了新一轮裁员，涉及北京、上海等地，此次裁员比例超过 20%。36 氪独家获悉，截至目前，58 集团房产事业群在职员工人数仍在 9000 人以上。 36 氪就此次裁员联系 58 集团方面\n本文链接",
+          "link": "https://news.cnblogs.com/n/729546/",
+          "publishedOn": "2022-10-10T09:37:00.000Z",
+          "wordCount": 161,
+          "title": "58集团房产业务年内第二轮裁员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729545/",
+          "author": null,
+          "description": "据 IT 之家报道， 国家超级计算长沙中心“天河”新一代超级计算机 10 月 9 日启动运行。算力水平国际先进、国内领先。 据悉，国家超级计算长沙中心主机系统采用国防科技大学“天河”新一代超级计算机技术，其系统双精度浮点峰值计算性能达 200P Flops、数据存储能力不低于 20PB、峰值功耗不高\n本文链接",
+          "link": "https://news.cnblogs.com/n/729545/",
+          "publishedOn": "2022-10-10T09:32:00.000Z",
+          "wordCount": 161,
+          "title": "国家超算长沙中心“天河”新一代超级计算机系统启动运行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729544/",
+          "author": null,
+          "description": "华为鸿蒙 HarmonyOS 官微今天下午宣布，首批鸿蒙 HarmonyOS 3 正式版将会在 10 月中下旬推送。 此外，HUAWEI nova 9 SE、HUAWEI MatePad 10.8 英寸等 7 款华为手机、平板也开启 HarmonyOS 3 Beta 版尝鲜招募工作。还有包括 HUA\n本文链接",
+          "link": "https://news.cnblogs.com/n/729544/",
+          "publishedOn": "2022-10-10T09:22:00.000Z",
+          "wordCount": 161,
+          "title": "鸿蒙 HarmonyOS 3 首批正式版将于 10 月中下旬推送",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729543/",
+          "author": null,
+          "description": "据 IT 之家报道，育碧于 10 月 6 日宣布成立其全球创意办公室，以更好地反映和支持其产品组合战略。 据悉，育碧全球创意办公室的成立，旨在通过促进决策制定并在整个创作过程中加强工作室的责任和自主权，进一步支持创意团队。总体目标是提高创造力并确保育碧游戏的执行和交付达到最高质量水平。新的创意办公室\n本文链接",
+          "link": "https://news.cnblogs.com/n/729543/",
+          "publishedOn": "2022-10-10T09:17:00.000Z",
+          "wordCount": 161,
+          "title": "育碧宣布设立全球创意办公室 首席创意官将离职",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729542/",
+          "author": null,
+          "description": "品玩 10 月 10 日讯，据《科创板日报》从多个独立信源获悉，黑鲨近期正在大幅收缩岗位数量，此次岗位裁撤涉及公司各个部门，裁员比例近 50%。其中，VR 项目为裁撤的重灾区，年初招聘的大量 VR 业务员工被裁撤，仍处于试用期的岗位均一次性取消。知情人士表示，腾讯对黑鲨的收购计划搁浅，或是导致黑鲨裁\n本文链接",
+          "link": "https://news.cnblogs.com/n/729542/",
+          "publishedOn": "2022-10-10T09:11:00.000Z",
+          "wordCount": 161,
+          "title": "腾讯收购计划搁浅 黑鲨手机半数岗位被裁撤",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/729496/",
           "author": null,
@@ -7929,106 +8259,6 @@
           "publishedOn": "2022-09-12T00:00:00.000Z",
           "wordCount": 161,
           "title": "宁德时代的敌人们，打响电池铁王座争夺战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728097/",
-          "author": null,
-          "description": "钛媒体编辑丨饶翔宇 过去的一周里，全球智能手机市场发生了两个节点性事件。 其一，时隔两年，华为高端手机 Mate 系列回归，但受到 5G 领域的技术封锁，Mate 50 系列依旧只能支持 4G 网络。其二，苹果发布了旗下最新款智能手机 iPhone 14 系列，iPhone 14 Plus 首次将苹\n本文链接",
-          "link": "https://news.cnblogs.com/n/728097/",
-          "publishedOn": "2022-09-11T10:46:22.000Z",
-          "wordCount": 161,
-          "title": "出货量同比大降21.7%，国产手机一夜入寒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728096/",
-          "author": null,
-          "description": "如今，再苛刻的中国消费者也得承认，中国新能源汽车值得一看。 今年上半年，我国新能源汽车产销量都突破了 350 万辆，比去年同期增长了 1.6 倍。仅在 7 月份，我国新能源汽车在整个汽车市场的渗透率就接近了 30%，其中自主品牌占到了绝对多数。 10 辆新车里，3 辆电动或混动车，这个目标即使放在 \n本文链接",
-          "link": "https://news.cnblogs.com/n/728096/",
-          "publishedOn": "2022-09-11T01:10:00.000Z",
-          "wordCount": 161,
-          "title": "中国需要不抄近道的车企",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728094/",
-          "author": null,
-          "description": "和 Pro 相比，iPhone 14 这次真成了大冤种。 截稿前，iPhone 14 在苹果中国官网仍旧是现货，可以在 16 号当天收到。而 Pro/Pro Max 则是另外一番光景，上午还是 10 月中下旬送货，目前部分型号已经被推迟到了 11 月才能交付，可见火爆程度。 值得一提的是，部分用户的\n本文链接",
-          "link": "https://news.cnblogs.com/n/728094/",
-          "publishedOn": "2022-09-11T00:40:00.000Z",
-          "wordCount": 161,
-          "title": "国人爆买iPhone 14 Pro Max！到货排到11月了：首发订单准备发出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728093/",
-          "author": null,
-          "description": "出品｜虎嗅商业消费组 作者｜黄青春 题图｜抖音@东方甄选 “两天前（9 月 8 日），阿里前脚刚宣布今年双十一启动时间（10 月 24 日开始），后脚就传出东方甄选备战淘宝直播，不由得会让人联想起来这是在造势。”一位 MCN 机构负责人向虎嗅表示，淘宝、抖音、快手之于直播电商的流量博弈已进入常态化，\n本文链接",
-          "link": "https://news.cnblogs.com/n/728093/",
-          "publishedOn": "2022-09-11T00:32:00.000Z",
-          "wordCount": 161,
-          "title": "东方甄选，狡兔三窟？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728092/",
-          "author": null,
-          "description": "iPhone14 系列支持通过卫星发送 SOS 紧急求助信息，Apple Watch Ultra 的指南针功能允许用户在没有网络的情况下回溯走过的道路，iPhone 14 和 Apple Watch Series 8 系列还加入了全新车祸感应功能。 近年来被批创新不足的苹果正在从安全角度发掘新卖点。\n本文链接",
-          "link": "https://news.cnblogs.com/n/728092/",
-          "publishedOn": "2022-09-11T00:25:00.000Z",
-          "wordCount": 161,
-          "title": "“安全必需品”！苹果打造iPhone新需求点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728091/",
-          "author": null,
-          "description": "9 月 10 日消息，据 Tom's Guide 报道，随着 iPhone 14 系列发布，苹果正按预期缩减产品线，已不再提供 iPhone 11、iPhone 12 mini、iPhone 13 Pro 和 iPhone 13 Pro Max。 上述型号 iPhone 均已正式停产，但还会继续销售\n本文链接",
-          "link": "https://news.cnblogs.com/n/728091/",
-          "publishedOn": "2022-09-11T00:20:00.000Z",
-          "wordCount": 161,
-          "title": "iPhone 13 Pro系列停产 业内人士：聪明的生命周期管理方式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728090/",
-          "author": null,
-          "description": "刚刚发布的 iPhone 14 系列中，Pro 机型的“灵动岛”设计惊艳了四方，这一全新的软硬件交互体验，无疑让人眼前一亮。 而且，苹果也通过“灵动岛（Dynamic Island）”这样悦耳的名字取代了大家习惯的“药丸屏”，颇有创意。 在发布前，“灵动岛”完全一点风声也没有，不得不佩服苹果的保密工\n本文链接",
-          "link": "https://news.cnblogs.com/n/728090/",
-          "publishedOn": "2022-09-11T00:15:00.000Z",
-          "wordCount": 161,
-          "title": "为了保密iPhone 14 Pro的灵动岛 苹果注册商标不惜代价：怕被抄走",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728089/",
-          "author": null,
-          "description": "今天（9 月 10 日），是神舟十四号航天员乘组在中国空间站的首个中秋节，航天员用摄像机拍摄下了太空中的月色。天地共赏一轮明月，同心共庆团圆佳节。 航天员陈冬：这是我们在空间站看到的月亮，与地面相比，我们可以在白天去拍摄月亮，而且因为没有大气及云的干扰和影响，我们在空间站看到的月亮更加明亮，更加透彻\n本文链接",
-          "link": "https://news.cnblogs.com/n/728089/",
-          "publishedOn": "2022-09-11T00:10:00.000Z",
-          "wordCount": 161,
-          "title": "天宫望月 中国空间站的首个中秋节",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728088/",
-          "author": null,
-          "description": "此前，张朝阳称因为劝人少睡觉引发争议，他提到睡眠的前两个小时是深度睡眠，三个小时之后，人的大脑就开始做各种噩梦。 所以他认为，睡觉多了对人是一种伤害，建议大家少睡，睡六个小时最好，如果能睡四个小时就很完美。 这个说法也引发了巨大争议，被网友吐槽，而最近他又冒出名句了。 据报道，9 月 9 日张朝阳在\n本文链接",
-          "link": "https://news.cnblogs.com/n/728088/",
-          "publishedOn": "2022-09-11T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "劝人少睡觉后 张朝阳再出名句：不能把运动当缓解焦虑工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728087/",
-          "author": null,
-          "description": "9 月 10 日，是中国传统节日中秋节，今年中秋，“十五的月亮十五圆”。相信各地不少同学都掏出手机对着月亮开启“拍拍拍”模式。 今日晚间，@华为终端官方微博晒出了一组用华为 Mate 50 Pro 拍摄的月亮大片。不少网友也在评论区晒出了自己拍摄的月亮图片，包括华为 Mate 40 Pro、Mate\n本文链接",
-          "link": "https://news.cnblogs.com/n/728087/",
-          "publishedOn": "2022-09-10T23:53:00.000Z",
-          "wordCount": 161,
-          "title": "华为Mate 50 Pro中秋圆月首拍图来了：XMAGE影像替代徕卡如何？",
           "imageUrl": null
         }
       ]
