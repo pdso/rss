@@ -49,6 +49,26 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/76131",
+          "author": "Another_Dayu",
+          "description": "前言\n本教程源于 @yetone 的一篇 推文 ，和 @Jack Huang 讨论后稍作修改。\n苹果自带的翻译功能在几次版本更新之后已很好用，但需要多个步骤，对专业词汇的支持也没有欧陆词典好（欧陆词典可自行扩充词库）。本教程基于 iOS 自带的 Back Tap 功能，快速启动翻译软件，并支持截图 OCR 翻译。\n前期准备\n下载软件： 欧路词典 (Eudic) 和快捷指令 (Shortcuts)\n「欧路词典」，是一款经典的翻译软件，可自行扩充词库，专业版需付费。\n「快捷指令」是苹果官方的软件，前身是 Workflow Gallery，可以理解成一个无代码开发平台（No-Code Development Platform），不需要编程知识，就能完成很多自动化功能的实现。如果对这方面感兴趣，可访问 Shortcuts Gallery 。\n安装 Shortcuts\n在 Safari 中打开以下两个链接，点击「获取捷径」，再点击「添加快捷方式」。\nClipboard Translate: https://www.icloud.com/shortcuts/b643ecb89dbd4468b8679cd4888b13d9\nImage Translate: https://www.icloud.com/shortcuts/02bf2bb484a54f50897b8a3f315d48fd\n设置快捷方式\n点击「设置」- 辅助功能 – 触控 – 轻点背面（Back Tap）- 设置如图所示：\n\n使用\nClipboard Translate：轻点手机背面两次，自动读取「剪切板」中的文本，并跳转欧路词典翻译。\nImage Translate: 轻点手机背面三次，自动截屏，并识别图片中的文本，跳转欧路词典翻译。\n扩展：\n\n上文是通过 Back Tap 实现的，日常使用中偶尔会有误触的可能，也可以通过「辅助触控」，俗称「小白点」实现。\nmacOS 上的全文翻译可参考这篇文章：一种几乎永不失效的网页中英对照翻译方案",
+          "link": "https://sspai.com/post/76131",
+          "publishedOn": "2022-10-11T15:15:50.000Z",
+          "wordCount": 517,
+          "title": "iOS 翻译体验优化（欧路词典 + Shortcuts + Back Tap）",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://sspai.com/post/76120",
+          "author": "vuhe",
+          "description": "当我第一次接触「断舍离」这个概念的时候，不仅对它描绘的图景所震撼，而且深切认为这就是我想要的生活。于是我在家里翻箱倒柜的搜索可以丢弃物品，从没用的数据线到大件的废纸箱，只要是能扔的我都直接从家中扔了出去。\n也许是一次性丢弃的东西过多，还没等到我开始审视剩下的东西要不要留下，家中有些东西就已经告急了，无奈又开始了买买买的旅程。当我检查购物订单，发现其中含有已经丢弃的物品，我才意识到出现了问题。例如有一次，我需要同时充电多个设备，需要多根数据线，但为了实现「断舍离」，只保留了一根。那时我发现，很多我所丢弃的东西不是不需要的，而是在扔东西那一刻我认为不需要。\n仔细想想，这种丢完东西后，又重新买的行为不正是商家所乐意看到的吗？把这种观念作为生活的准则似乎是从另一个方面掉入了消费主义的陷阱。为此我重新审视、省察了「断舍离」这个概念和我所想象的生活，并重新制定了一套可行、节俭的规则。\n谨慎购买物品\n谨慎购买物品应该是我认为最能体现「断舍离」后生活的方法了。毕竟，我希望看到的是一个没有过多杂物和没用物品的家。既然我无法将所有东西都丢弃，那么就控制新增物品的数量。先对已有物品尽可能收纳，让空间看起来不那么杂乱，再对每个想买的东西进行衡量，如果不是必须的，那就对它说不。\n当然，谨慎购买物品也要购买物品。例如：平时生活需要用的牙膏、毛巾等必需品直接买就可以了，买时尽可能货比三家，选择合适的价格和种类。真正应该谨慎购买的是那些看起来有大用，但实际到手可能不会使用的东西。\n这里可以分享几个我自己的衡量方法作为参考：\n谨慎购买「美好生活」\n例如，当我在网上看到了一个洗碗机的广告，它不断的宣传购买洗碗机后解放双手的美好。如果按照宣传所描述的，我是可以购买后有更多的时间去干其他的事情。然而，我回顾日常生活后发现我平时并没有洗大量碗的需求，也就是说，在没看到这个广告前我是不会想象到它所描绘的「美好生活」，…",
+          "link": "https://sspai.com/post/76120",
+          "publishedOn": "2022-10-11T07:28:19.000Z",
+          "wordCount": 444,
+          "title": "用另一种方式执行「断舍离」",
+          "imageUrl": "https://cdn.sspai.com/2022/10/11/2f7bf4b198b589195c3805b34ab2ce6f.jpg"
+        },
+        {
           "id": "https://sspai.com/post/76106",
           "author": "宛潼",
           "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n设想这样一个情况吧：\n你带着愉快的心情到了一个地方度假，结果在度假期间遭遇新毒株的新冠疫情爆发，全城宣布静默，城市道路、公共交通和出港港口全部封闭或停运。在配合社区每天的核酸检测和居家不出门同时，你也在仔细留意当地发布的相关信息 —— 十分幸运的是，尽管此刻的疫情还很严重，但当地已经宣布恢复机场运行，你似乎看到了一丝曙光，决定购买机票离开。\n然而，事情似乎并没有你想象的这么简单。从恢复机场的商业化运行之后，到你真正坐上飞机离开这里的时间，却过去了一个月。那么这一个月里，到底发生了什么？\n偶遇三亚疫情，与「幽灵航班」斗智斗勇\n我和朋友在今年的 7 月 16 日回到三亚，开始为期一个月的旅居生活。然而半个月后，一起从崖州区爆发的境外输入疫情在短短几天内就席卷了整个三亚，然后迅速波及了整个海南岛内。受到疫情的影响，我和朋友只能决定提前结束旅居，在 8 月 5 日的晚上购买了 8 月 9 日从海口回广州的火车票，并决定在 8 月 6 日一早坐环岛高铁前往海口。\n但计划总是赶不上变化。就在 8 月 6 日的凌晨 3 点 52 分，三亚发布发出通知，宣布全域进入静默状态。\n\n自 2022 年 8 月 6 日凌晨 6 时起，全市实行临时性全域静态管理，除保障社会基本运行服务、疫情防控和紧急特殊情况外，全市范围限制人员流动，暂停城市公共交通。恢复时间另行通告。\n原本 7 月最后一个周末还因为办音乐节而人流爆满的三亚后海主街，短短一周就变得萧条异常\n好在 8 月 15 日之后，三亚宣布有序恢复凤凰国际机场国内客运航班商业化运行。这意味着，只要是符合…",
@@ -57,6 +77,16 @@
           "wordCount": 611,
           "title": "因突发情况被困外地，怎样尽可能坐上正常航班离开？",
           "imageUrl": "https://cdn.sspai.com/article/1bb8b5ab-25b4-5555-4961-869bed924eb8.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/76113",
+          "author": "Vacodwave",
+          "description": "平时工作中往往会遇到新的知识点，这个时候需要我们快速学习并且进行最佳实践。往往是在真正学习了一段时间之后，才会发现有哪些地方可以优化，这样磨合出来的工作流才是最适合自己的。经过两年工作之余的学习后，我磨合出了以下学习工作流：\n\n底层核心逻辑\n一开始我学习新知识时会参考一些博客或者是视频，当我开始敲代码实践时往往会出现一些纰漏和错误，我开始意识到我参考的信息可能是错误的，毕竟发博客的门槛低，因此文章的可信度可能不高，于是我开始查阅一些相关的中文书籍。\n中文书籍的确是比较全面且系统地讲解了知识点，但众所周知，技术更迭很迅速，又因为老美在 CS 方面一直都是灯塔，所以一般中文书籍里的内容会滞后于当前最新的知识，导致我跟着中文书籍实践会出现软件版本差异的问题。这时我开始意识到一手信息的重要性，有些中文书籍是翻译英文书籍的，一般翻译一本书也要一两年，这会导致信息传递的延迟，还有就是翻译的过程中信息会有损失。如果一本中文书籍不是翻译的呢，那么它肯定也是参考其他书籍的，参考的过程会带有对英文原著中语言和语义理解的偏差。\n于是我就顺其自然地开始翻阅英文书籍。不得不说，整体英文书籍内容的质量是比中文书籍高的，一个原因是写英文书籍的作者更会写作，他们会用自己的话很详尽地解释一个知识点，而不是像一些中文书籍那样罗列知识点并且理所当然地以为读者能读懂而忽略一些细节的描述，还有一个原因就是知识很注重时效性，英文书籍的内容往往更新一点。后来随着学习的层层深入，以知识的时效性和完整性出发，我发现 源代码 > 官方文档 > 英文书籍 > 英文博客，最后我得出了一张 信息损失图\n\n虽然一手信息很重要，但后面的 N 手信息并非一无是处，往往这 N 手资料里写了作者对源知识的转化——作者对知识基于某种逻辑的梳理（流程图、思维导图等）以及自己的一些理解（对源知识的抽象、类比、延伸到其他知识点），这些转化可以帮助我…",
+          "link": "https://sspai.com/post/76113",
+          "publishedOn": "2022-10-11T03:35:14.000Z",
+          "wordCount": 601,
+          "title": "学习工作流的构建思路",
+          "imageUrl": "https://cdn.sspai.com/2022/10/11/35cf77064db06850c5d7c779e349a7de.jpg"
         },
         {
           "id": "https://sspai.com/post/76096",
@@ -567,46 +597,6 @@
           "wordCount": 492,
           "title": "我相信这是它一开始就想到达的地方——文石Tab8上手体验",
           "imageUrl": "https://cdn.sspai.com/2022/09/13/5049a3e59f543449d26fc5c7e5f518ec.png"
-        },
-        {
-          "id": "https://sspai.com/post/75705",
-          "author": "Tolecen",
-          "description": "白描是一款简单好用的 OCR 文字识别与扫描工具，主要功能有提取图片中的文字，图片表格转 Excel，公式识别，文件扫描，身份证扫描，合成PDF等。现在，白描除了可以在手机上和网页上用，Windows 版本正式发布，支持 Windows 7/8/10/11，目前白描已经包含 iOS、Android、Windows、Mac、网页、小程序多种版本，想在哪用就在哪用。除小程序外，所有平台的会员通用，也就是说，在手机端买个会员，就可以一个账号全平台使用了。\n\n截屏 OCR 识别\n首先，白描 Windows 版本最方便的就是截屏识别，App 运行后，会在右下角托盘有个小图标，右键小图标可以有更多操作，比如：截屏识别。\n\n除了通过托盘图标菜单识别，可以在白描设置界面设置截屏的快捷键，识别更高效。\n\n截图后会弹出识别结果页面，左侧是截图后的原图，右侧是文本结果，在识别结果页面可以复制结果，导出 Word 或 TXT 文本。\n截图不只是文字识别，还可以公式识别、表格识别\n\n如果是表格识别，在识别结果的部分可以直接导出 Excel，公式识别可以直接复制为 LaTeX 格式。\n\n如果你平常截图识别的种类非常多，又识别文字，又识别表格，又识别公式，又识别二维码，可以在设置里打开自动检测图片类型，软件会根据检测到的类型自动进行相应的识别。\n文字识别\n除了截屏快捷识别，也可以在主界面中进行操作，在左侧选中图片文字提取，便可以进行普通的 OCR 文字识别，支持单张识别，批量识别，长图也同样支持直接识别。\n\n主界面的文字识别，除了图片格式，也支持直接将 PDF 文件拖入识别，首先软件会将 PDF 的所有页面解析为图片，然后进行识别。\n\n表格识别\n主界面左侧切换为表格识别，可以直接将图片中的表格转换为 Excel 格式，无论带线还是不带线的表格都支持。\n\n如果有多个表格，也支持把表格识别为多个工作表（Sheet）。\n公式识别\n主界面左侧切换为公式识别，可以将图片中的公式转换为文本，复制为 LaTeX 格式。\n\n关于会员\n白描手机 App 中购买的会员可以直接在 Windows 版本中使用，在设置页面登录账号就可以了。\n\n点击这里去 白描官网 下载。\n关于另一个 Mac 版\n白描之前已经在 Mac 的 App Store 中发布了 Mac 版本，此次又发布了一个新的 Mac 版，是一个可以独立下载安装的版本，基本功能和上面介绍的 Windows 版本一样，同样支持截屏识别、文字识别、表格识别、公式识别、PDF 识别，不过他还有另一个功能：让你的 Mac 变成一个 OCR 识别服务器：\n\n如果你会一些编程，又拥有一台 Mac 电脑，想自己实现一个 OCR 的工具，那可以使用白描提供的服务器服务，发挥你的想象力，做出任何自己喜欢的 OCR 识别工具。\n这部分如果感兴趣的人多，会考虑单独写一篇文章来介绍服务器模式。\n最新的 Windows 和 Mac 官方版本下载地址：\nhttps://baimiaoapp.com",
-          "link": "https://sspai.com/post/75705",
-          "publishedOn": "2022-09-13T08:58:32.000Z",
-          "wordCount": 556,
-          "title": "白描 Windows 版发布，全平台好用的 OCR 文字表格识别工具",
-          "imageUrl": "https://cdn.sspai.com/2022/09/13/40f6280ddee6db989dca49648b4b27be.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/75692",
-          "author": "中年程序猿汪二",
-          "description": "中年的汪二眼里已经没有了光，头顶却越来越光，脱贫没脱掉，却脱了发，还和颈椎病斗争了多年，最终还是和颈椎病共存了。\n汪二有个儿子，每当小儿写作业的时候，就在后面，天天唠叨抬头。汪二摸了摸硬直的颈椎想：此生因为颈椎没能成为乔布斯，下一代不能在此再折一次啊。\n\n汪二在某宝上买了一些防止小朋友写作业低头的产品，有物理挡着的，有智能硬件提醒的，都不甚理想，小儿要不是完美避开了物理障碍，就是把电拨了。\n为了呵护下一代的乔布斯，也为了当代打工人还能为祖国健康工作三十年，幸福生活一辈子！\n汪二挥洒着中年程序猿的余晖，花了数月写了一个新的App，它叫顶瓜瓜！\n如何使用\n打开App，放在桌前手机支架，角度随意，只要能拍到头即可，然后脑袋上会顶个西瓜，姿势不正确的时候，西瓜会掉下来。\n \n \n当你低头了，离桌子太近了，歪头了，它会用有多种方式提醒你，屏幕闪烁和语音提醒（可选择鸭子叫，或真人发声），如果你有Apple Watch，手表会振动。\n\n灵敏度松严可调，建议在写作业时调松，用电脑时调严一点。\n\n在公司里，为了打工人在使用时避免被老板当成在玩自拍，App 设计了10几个花式 Animoji 拟我表情头套可选（也可能更像在玩自拍），随着使用时长增加还可逐步解锁更多表情。\n\n除了可以顶西瓜，当然你也可以顶个榴莲、书、花瓶、鸟窝、皇冠等。不要低头！低头皇冠会掉！打碎了贵重的花瓶也不好啊。\n除此之外，它也是一个蕃茄钟应用，你可以选择不同时长来使用，完了有完善的统计功能可供日后分析。在App 上可查看当日/月/年/近7日/近30日专注时间，以及不良坐姿统计，数据存储采用 iCloud Private Database ，它仅由你自己可以查看自己的数据，最大化保护你的隐私，并支持多设备数据同步。\n小组件\n支持 iOS 16 锁屏小组件和 iOS 14 桌面小组件\n\n作为一个AR应用，顶瓜瓜上线的第二天就获得了 App Store 推荐啦！🎉\n\n关于用户隐私\nApp 使用 iOS 系统的机器学习，完全本地运算，无需联网，你也不用担心衣装不整时使用会被汪二偷看，另外和汪二的其他作品一样，无广告，无事绝不推送，绝不推送，送。。。\n支持设备\nApp 利用了设备的搭载的前置原深感（TrueDepth）相机，需要 iPhone X 或 iPad Pro 11-inch及后续机型才能使用(即支持FaceID)。更多参考：https://support.apple.com/HT209183\n致谢\n感谢仍在日本读书的青年才俊 Megabits（PomNow作者），设计师狳魚，YaoYao 用户群的大力支持。\n下载地址：\nhttps://apps.apple.com/app/id1629577265 或 App Store 搜索： 顶瓜瓜\n有个18元的Pro 内购，欢迎大家提出一些毫无原则的鼓励，和冲动的付款。如果你觉得毫无用处，就当手工耿的发明也行。",
-          "link": "https://sspai.com/post/75692",
-          "publishedOn": "2022-09-13T07:01:54.000Z",
-          "wordCount": 512,
-          "title": "这款 App 想再次尝试拯救下你的脖子",
-          "imageUrl": "https://cdn.sspai.com/2022/09/13/771d815607f60a6d0bda5d0ee3dc4a52.png"
-        },
-        {
-          "id": "https://sspai.com/post/75655",
-          "author": "图拉鼎",
-          "description": "继 7 月的《PasteNow 2.3 发布：支持 Word、Pages 下多个项目粘贴》后，PasteNow 2.4 又带来了一个非常实用的功能，即「将最近一个项目粘贴为纯文本 」。\n新特性：将最近一个项目粘贴为纯文本\n在 PasteNow 的使用场景当中，复制粘贴文本是其中最常见的一个场景，而其中又有一部分的需求是将富文本以纯文本的形式粘贴出来，或者换句话说就是：去除文本的格式。\nPasteNow 一直都有按需去除格式的功能，它可以按纯文本粘贴或原始格式（富文本）进行粘贴。不过这个过程会需要将 PasteNow 的界面唤起，并按下内置的快捷键来达到这个目标。如果需要多次处理较多的文本，处理起来就会相对比较慢了。\n于是在 2.4 版本中，针对这一场景，PasteNow 引入了一个新的快捷键，即「将最近一个项目粘贴为纯文本 」。通过设置成自己习惯的快捷键，然后就可以非常迅速地以统一的形式在任何 App 里完成文本的去格式粘贴，这个过程甚至不需要将 PasteNow 的界面呼出来！\n举个例子，比如要将一个网页富文本以纯文本形式粘贴至 Word，首先将「Option+Command+V」设置为快捷键后，接下去只需要这样操作：\n\n在 Safari 里按下 Command + C 复制一段网页文本；\n来到 Word，直接按下 Option+Command+V，那么这段网页文本就会以纯文本的形式粘贴至 Word 里面。\n\n请看视频演示：\n \n \n相信通过新增这个快捷键，PasteNow 可以又快又好地完成纯文本粘贴这一场景的需求。\nmacOS 版本及 iOS 版本的其他更新\n和以往版本一样，每个版本也会带来旧有功能的完善和修复，其他更新有：\n\n调整音效的音量大小，使与系统当前音量匹配；\n修复无法复制正在编辑的标题的问题；\n修复无法显示其他应用保存的 JPEG 格式图像的问题；\n修复 macOS 端修改列表名称后，没有同步至 iOS 端的问题；\n修复暗色模式下，在一些白色背景的剪贴板文本下无法显示标题和快捷键标识的问题。\n\n其中 iOS 版本最主要的变化是完善了对 iOS 16 的适配：\n\n修复了在 iOS 16 Beta 版本中，底部工具栏会布局错乱的问题；\n修复无法通过搜索标题找到对应项目的问题。\n\n小结\n目前 PasteNow 还有很多需求和功能有待去实现，我会继续保持节奏，将其不断完善下去。\n附：App Store 链接",
-          "link": "https://sspai.com/post/75655",
-          "publishedOn": "2022-09-13T06:37:56.000Z",
-          "wordCount": 546,
-          "title": "PasteNow 2.4 发布：快速将最近一个项目粘贴为纯文本",
-          "imageUrl": "https://cdn.sspai.com/2022/09/13/7488f8832660a6fce2ba647156171b71.png"
-        },
-        {
-          "id": "https://sspai.com/post/75690",
-          "author": "红酒皇",
-          "description": "本文参与数字文具盒征文活动。\n产生学术外脑的需求\n自大一使用数字化笔记伊始，我就开始钻研如何更好地阅读「课本」。每一门课程推荐阅读的参考书目，最后都通过我的知识处理流程成为我知识仓库的一部分。相应的，作为知识处理载体的 MarginNote 是以书目为主要处理对象进行加工的。我对任一知识的理解，都以文本为土地生长于文本，也正因为如此，它们始终无法脱离文本。当我在想到某一点时，我总会进而联想到这是在书中的第几章。这恰是因为我所阅读的参考书目，本身为了阐述这一理论时，已经形成一套体系，通过作者对理论的理解串而联之，因此我想要从中抓取的不过是我对于作者自建的知识系统的读取（以及批注）。这使得我对知识的理解方便快捷许多，因为每一知识之间的联系已经植根于文本之中了，我的学习过程更接近于摘取树木结出的果子。\n当开始进行理论课题研究后，我就不再能直接参考一套现有的体系，而必须要创造一套“知识系统”，使其能完整地说明这一课题对象的方方面面。只有具有了足够扎实的土壤，也就是与课题相关的足够知识，才能够创造出一棵身形完整的树木。这时候我需要从知识仓库的储备中选择合适的对象，说明其中的联系，哪颗葡萄长在哪根藤上，才能够写出一篇言之凿凿详实陈告的学术论文。\n学术论文是厚积薄发，其内容相较于写作之人所掌握的知识必然是瓢水量海。因此，一篇优秀的学术论文背后离不开一个硕大的知识仓库。如果我们能够借用之前学习的思路，也找到一个载体能够更好地帮助我们进行这样的知识处理和储存，那么最后的输出步骤也会相应地高效清晰很多。\n这样一个用以进行专业知识输出的载体，我称之为「外脑」。\n外脑的作用并非是取代我的脑子替我进行思考，而是尽可能地储存和展示我记忆的内容和产生的思考。它作为知识处理的辅助工具，清除的是我在课题研究中容易遇到的障碍，比如\n\n较为冷僻的概念和定义容易被遗忘和模糊\n两个概念之间的关联还没有明确或记录\n难…",
-          "link": "https://sspai.com/post/75690",
-          "publishedOn": "2022-09-12T15:02:12.000Z",
-          "wordCount": 605,
-          "title": "数字工具盒｜用 Obsidian 来打造你的学术外脑",
-          "imageUrl": ""
         }
       ]
     },
@@ -654,6 +644,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73039",
+          "author": null,
+          "description": "两大加密货币市场的巨头 Coinbase 和 Blockchain.com 先后获得新加坡央行的批准，可以在新加坡提供支付服务。这使得获得新加坡运营资质的加密货币公司数量达到了 18 家。截至今年 1 月，有大约 180 家公司向新加坡申请了加密货币支付牌照。过去几年新加坡吸引了大量来自中国、印度等地的加密货币公司，成为亚洲地区的主要金融中心。",
+          "link": "https://www.solidot.org/story?sid=73039",
+          "publishedOn": "2022-10-12T15:43:51.000Z",
+          "wordCount": 153,
+          "title": "新加坡成为亚洲加密货币金融中心",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73038",
+          "author": null,
+          "description": "在美商务部对芯片出口实施新的限制之后，美国的芯片工具供应商 KLA 和 Lam Research 暂停了在长江存储的业务。美国供应商暂停了已安装设备的支持，中止了新设备的安装，并让工作人员退出长江存储。美国供应商在长江存储的工厂派驻了数十名雇员，在工厂运营和制造能力开发上扮演重要作用。",
+          "link": "https://www.solidot.org/story?sid=73038",
+          "publishedOn": "2022-10-12T13:57:04.000Z",
+          "wordCount": 148,
+          "title": "美国供应商暂停在中国内存厂商的业务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73037",
+          "author": null,
+          "description": "BBC 调查发现，叙利亚难民营中的难民在 TikTok 上乞求捐款，而 TikTok 公司从中抽取多达七成捐款。TikTok 表示将采取合适的行动打击“剥削乞讨”，称它从数字礼物中的抽成远低于七成，但拒绝透露具体数字。今年早些时候，TikTok 用户注意到内容源出现了来自叙利亚难民营家庭的直播，部分用户担心有诈。BBC 在难民营的实地调查发现，这一趋势是由“TikTok 中间人”推动的，这些中间人向难民营家庭提供了智能手机和设备进行直播。中间人的工作机构隶属于 TikTok 中国和中东，是 TikTok 招募主播的全球策略的一部分，旨在鼓励用户在应用中投入更多时间。TikTok 的算法推荐是基于用户手机号码所在的地理位置，中间人偏爱使用英国 SIM 卡，称英国人最慷慨。BBC 跟踪了 30 个账号 5 个月，发现难民账号直播一个小时能收到多达 1 千美元捐款。但难民表示他们只收到捐款总额的很小一部分。BBC 做了个实验：一名记者联络中间人称在难民营，获得账号后 BBC 在英国伦敦的工作人员从另一个账号向其发送了 106 美元的礼物。但这个测试账号最后只收到 33 美元，也就是 TikTok 抽走了 69% 的捐款。其他捐款者在得知这一抽走比例后认为这太荒诞了。这 33 美元事实上还无法全部拿到，中间人还要抽取 35%，从本地转账商店提取现金还要被拿走 10%，最后只剩下 19 美元。一名中间人表示他要抽成是因为需要支付手机、无线网络和  SIM 卡的费用。",
+          "link": "https://www.solidot.org/story?sid=73037",
+          "publishedOn": "2022-10-12T13:46:41.000Z",
+          "wordCount": 190,
+          "title": "TikTok 从难民的乞求捐款中抽取七成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73036",
+          "author": null,
+          "description": "Mozilla 在 2016 年放弃了它的开源移动操作系统 Firefox OS，之后在 Firefox OS 基础上出现了主要针对功能机市场的商业操作系统 KaiOS。但令人失望的是 KaiOS 既封闭还会跟踪用户并且有广告。它的分支 GerdaOS 则许诺将开放性带到 KaiOS 设备上。现在，Capyloon 项目决定复活 Firefox OS，将其带到现代 Linux 智能手机上，如 PinePhone Pro、Purism Librem 5 和 Pixel 3A。该项目还处于早期阶段，项目主页也不够清晰。它的前端 Nutria 能运行旧的 Firefox OS 应用，还可能在 Android 设备上通过启动 Google GSI (Generic System Image) 在 Android 内核上测试 Firefox OS UI。",
+          "link": "https://www.solidot.org/story?sid=73036",
+          "publishedOn": "2022-10-12T09:51:53.000Z",
+          "wordCount": 196,
+          "title": "Firefox OS 复活",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73035",
+          "author": null,
+          "description": "NASA 执行双小行星重定向测试(DART)任务的飞船于 9 月 26日成功撞击了名为 Dimorphos 的小行星。这是世界首次行星防御技术演示，测试撞击是否可能偏转小行星轨道。本周二 NASA 宣布 DART 成功偏转小行星轨道。Dimorphos 是一颗直径不到 200 米的小行星，DART 设计正面撞击，减速降低其轨道。现在地面观测确认其轨道缩短了。在撞击前 Dimorphos 完成一周轨道需要 11 小时 55 分钟，撞击后缩短到 11 小时 23 分钟，即减少了 32 分钟。NASA 的雷达观测确认 Dimorphos 与双小行星系统中的另一颗 Didymos 的距离减少了，缩短了几十米。",
+          "link": "https://www.solidot.org/story?sid=73035",
+          "publishedOn": "2022-10-12T08:11:33.000Z",
+          "wordCount": 186,
+          "title": "NASA 宣布 DART 成功偏转小行星轨道",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73034",
+          "author": null,
+          "description": "高能物理 写道 \"迄今为止最高能的伽马射线暴被 GRB 221009A 在卫星观测到触发后，被LHAASO-WCDA和LHAASO+KM2A 同时探测到，LHAASO-WCDA探测能量高于 500 GeV，中心位于赤经 288.3度, 赤纬19.7度，观测到超过 100 倍显著性，LHAASO-KM2A 也观测到超过10倍显著性，其中最高光子的能量达到 18 TeV。这是第一次从 GRB 中检测到高于 10 TeV 的光子。LHAASO 是用于超高能伽马射线天文学的多用途实验。\"",
+          "link": "https://www.solidot.org/story?sid=73034",
+          "publishedOn": "2022-10-12T07:51:31.000Z",
+          "wordCount": 164,
+          "title": "LHAASO观测到迄今为止最高能伽马射线暴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73033",
+          "author": null,
+          "description": "印度是受抗生素耐药超级病菌影响最严重的国家之一。每年近 6 万名新生儿死于感染抗生素耐药病菌。印度 Indian Council of Medical Research (ICMR)的新报告称，碳青霉烯类抗生素的耐药性一年增加 10%。碳青霉烯是一种强大的抗生素，用于治疗危及生命的败血症，通常作为 ICU 重症患者的一线治疗药物使用。根据《柳叶刀》期刊的数据，抗生素抵抗在 2019 年导致 127 万人死亡。",
+          "link": "https://www.solidot.org/story?sid=73033",
+          "publishedOn": "2022-10-12T07:35:10.000Z",
+          "wordCount": 158,
+          "title": "印度面临抗生素耐药超级病菌的爆发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73032",
+          "author": null,
+          "description": "欧洲人权法庭认为瑞士养老金规则对男性构成歧视。现有的养老金规则规定失去丈夫的寡妇在余生都能获得养老金，而失去妻子的鳏夫在孩子成年之后将无法继续获得养老金。欧洲人权法庭认为男性养家糊口已经是过去时了。本案是瑞士人 Max Beeler 提起的。他的妻子在 1990 年代因车祸去世。当时 41 岁的他辞去工作照顾两个年幼的孩子，得到了养老金的支持。2010 年他最小的儿子成年，养老金停止支付。Beeler 已经很久没有工作了，他提起了上诉，当地法庭认为他可以重返工作岗位，而寡妇则不能。Beeler 认为自己被歧视了，上诉到欧洲人权法庭。人权法庭认为女性在工作场所的角色发生了变化，瑞士违反了《欧洲人权公约》构成了对男性的歧视。这一裁决预计将在瑞士重启辩论——即欧洲法官相对于瑞士本国法律有多大的权力。",
+          "link": "https://www.solidot.org/story?sid=73032",
+          "publishedOn": "2022-10-12T07:01:48.000Z",
+          "wordCount": 153,
+          "title": "欧洲人权法庭认为瑞士养老金对男性构成歧视",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73031",
+          "author": null,
+          "description": "一位诺贝尔奖得主署名的论文和一位不知名作者署名的论文，作为审稿人你会倾向于发表哪一篇？根据一篇论文预印本，作者名字对审稿人有巨大影响。为了获得更客观的结果，研究支持同行审议双重匿名——审稿人身份对论文作者保密，论文作者身份对审稿人保密。论文作者 Stefan Palan 担任《Journal of Behavioral and Experimental Finance》的共同主编，该期刊采用强制性的双匿名审稿。Palan 询问了诺奖得主 Vernon Smith 是否正在写一篇论文，询问他是否愿意参加实验。Smith 递交了一篇两人联合署名的论文。Palan 和同事邀请了 3000 多人进行审稿，对部分人透露其中一位署名作者的身份，另一部分人完全没有透露。结果显示透露诺奖得主身份时的批准率从 29% 增加到了 36%。作者身份的披露还直接影响到了审稿意见：当得知诺奖得主为作者后审稿人直接接受论文或稍作修改的建议从 10% 飙升到了 59%。",
+          "link": "https://www.solidot.org/story?sid=73031",
+          "publishedOn": "2022-10-12T06:22:18.000Z",
+          "wordCount": 166,
+          "title": "作者名字对审稿人有巨大影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73030",
+          "author": null,
+          "description": "根据发表在《细胞代谢》期刊上的一项研究，进食时间会显著影响能量消耗、食欲和脂肪生成的分子途径。研究人员研究了 16 名体重指数（BMI）在超重或肥胖范围内的受试者。每人都完成了两组实验方案：一组严格按照时间表进食；另一组参照完全相同的饮食，但每餐时间要推迟约 4 个小时。在每组实验方案开始前的 2~3 周，参与者保持固定的作息时间。在实验开始前的最后 3 天，他们在家遵守相同进食时间。在实验室里，参与者定期记录自己的饥饿感和食欲，全天频繁提供样血，并测量体温和能量消耗。研究表明，晚进食对调节饥饿感和食欲的激素——瘦素和生长激素释放肽有深远影响，会影响人们的进食欲望。具体来说，与早进食相比，晚进食状态下的 24 小时内，暗示饱腹感的瘦素水平降低。当进食较晚时，人们消耗卡路里的速度也较慢，并表现出脂肪组织基因的表达，以增加脂肪生成，同时减少脂肪分解，从而促进脂肪生长。",
+          "link": "https://www.solidot.org/story?sid=73030",
+          "publishedOn": "2022-10-12T03:46:24.000Z",
+          "wordCount": 153,
+          "title": "晚进食可能增加肥胖风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73029",
+          "author": null,
+          "description": "HardenedLinux 写道 \"由于疫情等原因开放硬件整体方案LambdaChip（针对嵌入式快速开发的硬件，编译器和虚拟机）背后的公司正式破产清算，其项目改名为Animula并正式捐赠给HardenedLinux社区，LambdaChip作为为数不多的国产编译器项目，虽然野心勃勃，试图在 10KB 内存的单片机上同时支持 Scheme（R7RS）、Lua5.2 和 Python3 甚至更多（或多或少拥有函数式特性的）语言，其编译器Laco（Lambda Compiler）编译器已经能支持 R7RS 的基本语法，尚未合并的分支中也能勉强运行 Python3 的示例代码，基本编译优化也稍具特色，10KB 内存也阻挡不了其流畅运行。Animula在HardenedLinux社区会长期维护以支持已经购买相关硬件的用户。HardenedLinux是否成为商业失败的开源项目的集散地的结论为时尚早，如果越来越多的此类项目入驻HardenedLinux或许会成为2030年代成立HardenedLinux基金会的一个起点，俗话说”One man's trash is another man's treasure!\"。\"",
+          "link": "https://www.solidot.org/story?sid=73029",
+          "publishedOn": "2022-10-12T03:42:31.000Z",
+          "wordCount": 163,
+          "title": "编译器/VM项目Animula正式加入HardenedLinux社区",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73028",
+          "author": null,
+          "description": "因 PC 需求放缓英特尔计划裁员数千人。知情人士称，裁员最早将在本月宣布，芯片巨人计划于 10 月 27 日公布第三季度财报的同时宣布裁员。截至今年 7 月，英特尔在全球有  113,700 名员工。销售和市场部门受裁员影响最严重，可能有五分之一的人被裁掉。英特尔此前已经预警其销售收入会下滑。它的主要竞争对手 AMD 也发布了类似的预警。英特尔上一次大规模裁员是在 2016 年，裁减了约 12,000 个职位，占员工总数的 11%。",
+          "link": "https://www.solidot.org/story?sid=73028",
+          "publishedOn": "2022-10-12T03:41:23.000Z",
+          "wordCount": 168,
+          "title": "因 PC 需求放缓英特尔计划裁员数千人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73027",
+          "author": null,
+          "description": "在 Meta Connect 活动上，Meta 宣布了售价 1500 美元的 VR 头显 Quest Pro，而微软同时宣布将 Teams、Office、Windows 和 Xbox 带到 VR 设备上。Quest Pro 是 Meta 至今推出的最先进 VR 头显设备，它从今天开始向 22 个国家开放预购，10 月 25 日上市。Quest Pro 使用了高通的 Snapdragon XR2 Plus，性能比 Quest 2 的 XR2 强 50% 以上，内存 12 GB， 存储空间 256GB，两个 LCD 面板提供每眼分辨率 1800 x 1920，对比度比 Quest 2 高四分之三，每英寸像素高 37%，每度像素多 10%。",
+          "link": "https://www.solidot.org/story?sid=73027",
+          "publishedOn": "2022-10-12T03:31:40.000Z",
+          "wordCount": 216,
+          "title": "Meta 发布 1500 美元的 VR 头显",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73026",
           "author": null,
@@ -3343,126 +3463,6 @@
           "wordCount": 159,
           "title": "今年的大西洋飓风季很安静",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72752",
-          "author": null,
-          "description": "Retbleed 是最近公布的 CPU 预测执行漏洞攻击，影响 ARM、英特尔和 AMD CPU。Linux 内核最近开始加入相关的修复补丁。VMware 工程师在 Linux 5.19 上测试了补丁，结果显示它导致了巨大的性能开销。在 ESX 上运行 Linux 虚拟机，使用单个 vCPU 时，计算性能下降最高 70% ，网络性能下降 30%，存储性能下降最高 13%。关闭补丁之后性能恢复到 Linux 5.18 的水平。如此巨大的性能开销会对应用性能产生影响。VMware 工程师是在英特尔 Skylake CPU 上进行的测试，较新的 CPU 解决了大部分相关问题。",
-          "link": "https://www.solidot.org/story?sid=72752",
-          "publishedOn": "2022-09-13T11:54:00.000Z",
-          "wordCount": 187,
-          "title": "测试显示 Retbleed 补丁造成性能下降高达 70%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72751",
-          "author": null,
-          "description": "华尔街公司多年来一直在努力吸引计算机工程师——他们更愿意为大型科技集团或加密技术初创企业工作。如今这些公司表示，随着裁员和招聘冻结在整个硅谷蔓延，它们正在夺回在人才争夺战中失去的阵地。随着交易所、银行和做市商在最近的市场低迷中继续扩张，高管们表示，它们的相对稳定性使它们更具吸引力。根据 Layoffs.fyi 的数据，科技行业今年已宣布裁员逾 7.5 万人，包括苹果和 Google 在内的公司都冻结或暂缓招聘。相比之下，华尔街公司如 Intercontinental Exchange 和 Cboe Global Market 的技术团队规模今年增长了四分之一以上。",
-          "link": "https://www.solidot.org/story?sid=72751",
-          "publishedOn": "2022-09-13T11:21:09.000Z",
-          "wordCount": 157,
-          "title": "科技业裁员华尔街再次吸引人才",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72750",
-          "author": null,
-          "description": "Google 取消了下一代 Pixelbook 笔记本电脑，开发团队被解散并分配到其它部门。Pixelbook 运行 Chrome OS，但针对的是中高端市场，其零售价格高达 1000 美元。The Verge 援引知情人士的消息报道称，新 Pixelbook 的开发一切顺利，原计划明年发布，但作为公司内部削减成本措施的一部分，该项目遭到关闭，成为公司产品整合的牺牲品。Google 杀死旗下产品对大多数人而言早已是司空见惯。",
-          "link": "https://www.solidot.org/story?sid=72750",
-          "publishedOn": "2022-09-13T11:06:18.000Z",
-          "wordCount": 169,
-          "title": "Google 取消下一代 Pixelbook 解散团队",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72749",
-          "author": null,
-          "description": "今年七月，美国指控加密货币交易所 Coinbase 前产品经理 Ishan Wahi 及其兄弟和密友从事内幕交易，他们在 Coinbase 上市新代币前买入从而在之后的上涨中获利。Wahi 拒绝认罪，但他的兄弟 Ishan Wahi 本周一在法庭听证会上承认了指控。他根据  Coinbase 机密的商业信息交易加密货币资产。美国纽约检察官办公室发表声明，称这是首次在加密货币内幕交易案件中有被告人认罪。Nikhil 的判决将在 12 月宣布，他面临最长 20 年徒刑。他还被勒令归还内幕交易的非法所得。美国司法部称，Nikhil 在获得内部信息之后使用了化名利用不同的钱包匿名化加密货币交易。",
-          "link": "https://www.solidot.org/story?sid=72749",
-          "publishedOn": "2022-09-13T09:34:33.000Z",
-          "wordCount": 167,
-          "title": "Coinbase 前高管的兄弟认罪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72748",
-          "author": null,
-          "description": "每一本书某种意义上说都带有时代的印记。因战争和疫情等因素所致，过去 12 个月英国图书出版商使用的纸张成本上涨了 70%。供应不稳定且价格昂贵，而造纸厂会在电价过高时关闭。整个图书行业陷入了困境，但不是每一位作者都受到影响。Robert Galbraith aka J.K. Rowling 的新惊悚小说本周进入了英国图书畅销榜。但其他较小的出版商明显改变了图书的出版方式。部分图书使用了更廉价更轻的纸张；部分出版商缩小了字母的间距减少空白，文字更靠近纸张的边缘。",
-          "link": "https://www.solidot.org/story?sid=72748",
-          "publishedOn": "2022-09-13T09:00:40.000Z",
-          "wordCount": 152,
-          "title": "因纸价格上涨英国实体书以改变应对",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72747",
-          "author": null,
-          "description": "Google 内部代号为 Minkowski 的高速电信项目被分拆为独立公司 Aalyria。该公司开发了名为 Tightbeam 的激光通信技术，其软件平台被 Google 用于多个航空网络项目。Google 表示它今年早些时候将近十年知识产权、专利和包括办公场所的实物资产，转让给了 Aalyria。它将保留少数股权，但没有透露更多细节。Aalyria 的 CEO 为 Chris Taylor，公司顾问包括了 TCP/IP 之父 Vint Cerf。",
-          "link": "https://www.solidot.org/story?sid=72747",
-          "publishedOn": "2022-09-13T08:00:00.000Z",
-          "wordCount": 173,
-          "title": "Google 分拆高速电信网络项目 Aalyria",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72746",
-          "author": null,
-          "description": "印度政府在未来几个月里预计会出台以下法规：一项新的隐私法案；一项新的《数字印度法》，取代过时的《信息技术法》；一项经过全面修订的竞争法，通过扩大对全球科技公司收购交易的监管权限来加强对这些企业的控制。印度对美国科技公司的态度与其它几个国家类似，但该国新获得的信心源于它是世界上按用户数量衡量仅次于中国的第二大互联网市场。近年来，得益于低廉的数据成本和智能手机的日益普及，印度数字市场取得爆炸式增长，使其成为全球科技巨头的一个关键市场。而且，即使在新法规出台后，印度互联网市场仍将比中国的更加开放，与全球的连接也更加紧密。",
-          "link": "https://www.solidot.org/story?sid=72746",
-          "publishedOn": "2022-09-13T07:19:48.000Z",
-          "wordCount": 144,
-          "title": "印度将加强对科技公司的监管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72745",
-          "author": null,
-          "description": "开源 Python 机器学习库 PyTorch 成为 Linux 基金会托管的顶级项目。Linux 基金会的核心使命是协作开发开源软件。PyTorch 项目同时宣布成立基金会，其理事会的核心成员包括 AMD、Amazon Web Services (AWS)、Google Cloud、Meta、Microsoft Azure 和 NVIDIA。PyTorch 最早由 Meta/Facebook 创建，也主要由 Meta AI 开发。自 2017 年以来逾 2400 名开发者在 PyTorch 基础上创建了 54000 个项目，PyTorch 成为了 AI 研究的主要平台之一。",
-          "link": "https://www.solidot.org/story?sid=72745",
-          "publishedOn": "2022-09-13T04:53:37.000Z",
-          "wordCount": 189,
-          "title": "PyTorch 成为 Linux 基金会的顶级项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72744",
-          "author": null,
-          "description": "流媒体巨头 Netflix 寻求加强其游戏业务，它宣布与欧洲游戏发行商育碧合作开发手游，计划在明年推出三款育碧手游，其中一款基于刺客信条（育碧最近宣布和腾讯天美合作开发秦朝背景的刺客手游），另一个基于城堡建造和怪物掠夺游戏 Mighty Quest，以及基于 Valiant Hearts 的历史解密冒险游戏。这三款专门提供给 Netflix 客户的手游将不会含有广告或应用内购。Netflix 的流媒体业务增长放缓，用户订阅数出现下降，市值也出现暴跌，它寻求加速游戏业务增长，目前提供了 28 款游戏，收购了三家游戏工作室，其中包括《Oxenfree》的开发商  Night School Studio 以及 Boss Fight Entertainment，计划到年底将游戏数量增加到 50 款。",
-          "link": "https://www.solidot.org/story?sid=72744",
-          "publishedOn": "2022-09-13T03:17:57.000Z",
-          "wordCount": 169,
-          "title": "Netflix 与育碧合作开发手游",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72743",
-          "author": null,
-          "description": "在 Hot Chips 34 会议上，英特尔介绍了 Meteor Lake 将采用的 Chiplet 封装结构。和 AMD 类似，英特尔寻求通过采用 Chiplet 实现模块化和降低成本。与 AMD 不同的是，英特尔做出了不同的实现选择集，让  Meteor Lake 适合不同的客户群。 AMD 的 Chiplet 方法允许在服务器和桌面 CPU 中重复利用晶块（die），但目前桌面和移动 CPU 中的重复利用较低。Meteor Lake 的封装方法更昂贵，放大更困难，但好处是能实现更高的  IO 密度功耗更低。",
-          "link": "https://www.solidot.org/story?sid=72743",
-          "publishedOn": "2022-09-13T02:32:42.000Z",
-          "wordCount": 190,
-          "title": "英特尔 Chiplet 封装和 AMD 的差异",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72742",
-          "author": null,
-          "description": "Twitter 的股东准备批准马斯克(Elon Musk)现在想退出的以 440 亿美元收购该公司的交易，这使得该笔交易的命运掌握在一位特拉华州法官的手中，目前这家社交媒体公司正试图在法庭上迫使这位亿万富翁完成收购交易。作为持有该公司约 10% 股份的最大股东，马斯克截至周一下午尚未进行投票，并可能不会投票，因为他指称 Twitter 违反了合并协议。如果获得足够的其他投资者支持，马斯克的支持并不重要。",
-          "link": "https://www.solidot.org/story?sid=72742",
-          "publishedOn": "2022-09-13T01:32:39.000Z",
-          "wordCount": 156,
-          "title": "Twitter 股东准备批准马斯克的收购交易",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72741",
-          "author": null,
-          "description": "全球旅行快速通关（Global Entry）不再需要游客扫描护照只根据人脸就能识别身份。今天的人脸识别准确度已经足够精确到人脸就能成为你的护照。但身份只是人脸识别的一部分功能，它还可能会关联你的更多信息，如兴趣爱好等等等等。纽约大学的计算机科学教授 Ken Perlin 认为这不是好事，但这就是我们即将进入的未来。他认为我们需要权衡利弊，为了便利而放弃隐私是否值得。Ken Perlin 曾因其发明的 Perlin 噪声（Perlin noise）而在 1996 年获得奥斯卡科技成果奖。",
-          "link": "https://www.solidot.org/story?sid=72741",
-          "publishedOn": "2022-09-13T01:26:42.000Z",
-          "wordCount": 155,
-          "title": "当脸是你的护照",
-          "imageUrl": null
         }
       ]
     },
@@ -3471,6 +3471,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/729716/",
+          "author": null,
+          "description": "美团又会直面京东超市、京东到家、天猫超市、饿了么准时达等产品竞争。 财联社新消费日报 10 月 12 日讯（记者李丹昱）社区团购迎来大震动，美团优选单飞要做“电商零售”了。 10 月 12 日，据美团优选官方公众号发布文章称，其社区团购品牌美团优选将品牌定位调整为“明日达超市”。 这一定位与美团闪购\n本文链接",
+          "link": "https://news.cnblogs.com/n/729716/",
+          "publishedOn": "2022-10-13T00:33:00.000Z",
+          "wordCount": 161,
+          "title": "王兴继续“电商零售梦”：告别社区团购 美团优选变身明日达超市",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729715/",
+          "author": null,
+          "description": "与一众科技巨头类似，微软也赶在圣诞购物季前更新了主要的硬件产品线，迎接全球经济逆风的考验。 财联社 10 月 13 日讯（编辑史正丞）当地时间周三，微软举行秋季新品发布会，按照惯例更新了两款 Surface 笔记本以及 28 英寸 Surface Studio，同时披露了 Windows 11 操作\n本文链接",
+          "link": "https://news.cnblogs.com/n/729715/",
+          "publishedOn": "2022-10-13T00:28:00.000Z",
+          "wordCount": 161,
+          "title": "微软秋季发布会：5G版Surface Pro亮相 加深与苹果生态融合",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729714/",
+          "author": null,
+          "description": "10 月 13 日消息，本周二 Facebook 母公司 Meta 首席执行官马克·扎克伯格（Mark Zuckerberg）在接受采访时谈到公司最新发布的 Quest Pro 新 VR 头显价格，说 1499.99 美元的定价只是“保本”，为的是让更多人通过购买硬件体验元宇宙。 扎克伯格还不忘借此\n本文链接",
+          "link": "https://news.cnblogs.com/n/729714/",
+          "publishedOn": "2022-10-13T00:22:00.000Z",
+          "wordCount": 161,
+          "title": "扎克伯格谈新款万元VR头显：成本价，我们不像苹果那样定高价",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729713/",
+          "author": null,
+          "description": "驶入夕阳，吹吹晚风；滑过湖水，花香树影；躺在草坪，小曲荡漾——低头郊外野餐，抬头秋光无限。 这，就是我此刻只能怀念的假期。 不过特别之处在于，这次我是坐着一辆备受热议的新车去的：腾势 D9。 ▲ 我们体验的版本为「腾势 D9 DM-i 超级混动版 970 四驱旗舰型」 时隔三年，比亚迪再次成为全球新\n本文链接",
+          "link": "https://news.cnblogs.com/n/729713/",
+          "publishedOn": "2022-10-13T00:18:00.000Z",
+          "wordCount": 161,
+          "title": "比亚迪×奔驰的火爆新车，让我开到半夜不回家",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729712/",
+          "author": null,
+          "description": "10 月 12 日，抖音集团上线新 logo，目前抖音集团的抖音号、微信公众号都已经换上新头像。 今年 5 月，字节跳动已更名为「抖音集团」，旗下业务包括抖音、今日头条、西瓜视频、番茄小说、懂车帝、剪映、巨量引擎等。 新 logo 由字母「d」和「y 」作为主要设计元素，保留音符形状，色调更加明亮轻\n本文链接",
+          "link": "https://news.cnblogs.com/n/729712/",
+          "publishedOn": "2022-10-13T00:10:00.000Z",
+          "wordCount": 161,
+          "title": "抖音集团上线新 Logo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729711/",
+          "author": null,
+          "description": "近日，有消息称腾讯视频将在双十一前接入淘宝「88VIP」，且该计划已经在内部灰测阶段，将会由阿里巴巴采购腾讯视频的会员卡，用于给用户兑换。 但据每日经济新闻，腾讯视频方面昨日对此回应表示：暂无接入计划，具体信息以官方公布为准。 88VIP 是阿里巴巴旗下淘宝和天猫的付费会员项目，目前已集合了优酷、网\n本文链接",
+          "link": "https://news.cnblogs.com/n/729711/",
+          "publishedOn": "2022-10-13T00:07:00.000Z",
+          "wordCount": 161,
+          "title": "腾讯视频否认将接入 88VIP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729710/",
+          "author": null,
+          "description": "文邓思邈 来源：智能车参考 终于，等了一年多时间，特斯拉 Model S/X即将在中国开启交付。 极具科幻感的太空飞船式——方形方向盘、更加直观方便的液晶仪表、为游戏娱乐而进一步优化的横向中控大屏，统统成为了现实。 伴随着工信部数据披露，国内新款 Model X 续航最大可达到 700 公里，而新款\n本文链接",
+          "link": "https://news.cnblogs.com/n/729710/",
+          "publishedOn": "2022-10-13T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "飞船方向盘版特斯拉中国交付在即！百万起步，免购置税，不装任何雷达",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729709/",
+          "author": null,
+          "description": "GameLook 报道/要论过去一个月最火爆的小游戏，相信不少玩家都会脱口而出《羊了个羊》。多次登顶微博热搜榜、微信指数破亿、推出 APP 后空降免费榜第一，这“只”魔性的羊在几周内迅速成为玩家们纷纷讨论的话题与谈资。 也正得益于游戏的火爆，《羊了个羊》的制作人、开发商北京简游科技等信息一并被网友们\n本文链接",
+          "link": "https://news.cnblogs.com/n/729709/",
+          "publishedOn": "2022-10-12T09:02:00.000Z",
+          "wordCount": 161,
+          "title": "火爆之后，雷霆增持《羊了个羊》开发商10%份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729708/",
+          "author": null,
+          "description": "10 月 11 日消息，近日，根据企查查信息显示，网易投资了一家美术内容制作及开发商武汉渲奇数字科技有限公司，持股比例约为 9.74%。 据悉，渲奇科技成立于 2008 年，位于武汉中国光谷，办公总面积 3000 平米以上，团队在职员工已经超过 300 人，目前是华中地区规模最大的游戏美术内容制作公\n本文链接",
+          "link": "https://news.cnblogs.com/n/729708/",
+          "publishedOn": "2022-10-12T08:55:00.000Z",
+          "wordCount": 161,
+          "title": "网易投资渲奇科技，后者曾参与《阴阳师》《哈利波特》开发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729707/",
+          "author": null,
+          "description": "继呼吁停用 C/C++ 开发新项目并使用 Rust 之后，Microsoft Azure CTO、Sysinternals 的主要开发者 Mark Russinovich 的一条吐槽 Git 的新社交动态又引起了广泛讨论。他表示： Git 又一次让我想拔掉我的头发。这是我使用过的所有软件中最不直观、\n本文链接",
+          "link": "https://news.cnblogs.com/n/729707/",
+          "publishedOn": "2022-10-12T08:48:00.000Z",
+          "wordCount": 161,
+          "title": "建议弃用C/C++后，Azure CTO再怼Git：最不直观、最笨重",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729706/",
+          "author": null,
+          "description": "据 SerenityOS 博客介绍：自 2018 年 10 月 10 日 SerenityOS 存储库迎来第一次提交 ，距今已满四周年。 SerenityOS 是一个类似 Unix 的操作系统，但是带有图形化界面，适合 x86 计算机。SerenityOS 结合了类 Unix 内核和 1990 年代\n本文链接",
+          "link": "https://news.cnblogs.com/n/729706/",
+          "publishedOn": "2022-10-12T08:40:00.000Z",
+          "wordCount": 161,
+          "title": "SerenityOS 系统四周年：拥有自己的编程语言和浏览器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729705/",
+          "author": null,
+          "description": "Qt 宣布推出教育版 License，专门面向教育机构的学生和教师（以及其他工作人员）提供，仅用于学习用途，禁止任何商业用途或分发。 根据官方的介绍，学生和教师可免费申请教育版 License，获得教育版 License 后即可使用 Qt 的商业功能，并能够： 创建功能丰富和具有视觉吸引力的用户界面\n本文链接",
+          "link": "https://news.cnblogs.com/n/729705/",
+          "publishedOn": "2022-10-12T08:32:00.000Z",
+          "wordCount": 161,
+          "title": "Qt 推出教育版 License，学生和教师可免费申请",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729704/",
+          "author": null,
+          "description": "全球最大的汽车制造商丰田近日承认，他们意外地将能够访问近 30 万用户资料的访问密钥公开在了 GitHub 上，并且长达 5 年时间，用户的部分个人信息可能已经发生了泄漏。 丰田在发布的道歉声明中表示，一个负责构建 T-Connect 的外包开发商于 2017 年 12 月将 T-Connect 网\n本文链接",
+          "link": "https://news.cnblogs.com/n/729704/",
+          "publishedOn": "2022-10-12T08:25:00.000Z",
+          "wordCount": 161,
+          "title": "丰田将访问密钥公开在GitHub上长达5年之久",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729703/",
+          "author": null,
+          "description": "10 月 12 日消息，据国外媒体报道，此前曾有报道称，由于柔性 OLED 面板的皱缩现象，在大尺寸的产品上看起来会更明显，苹果的首款 OLED 屏 iPad，有望通过采用了混合技术的 OLED 面板，来避免这一问题。 而最新的报道显示，苹果 2024 年推出的 iPad，就有望采用混合技术的 OL\n本文链接",
+          "link": "https://news.cnblogs.com/n/729703/",
+          "publishedOn": "2022-10-12T08:18:00.000Z",
+          "wordCount": 161,
+          "title": "苹果2024年款iPad有望采用混合技术OLED面板 屏幕更薄成本也更低",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729702/",
+          "author": null,
+          "description": "10 月 12 日消息，据国外媒体报道，在当地时间周二举行的年度 VR 大会 Meta Connect 上，Meta 宣布与微软建立合作关系，即微软将把 Xbox 云游戏引入到 Meta 的 Quest VR 头戴设备中，这样玩家就可以在 Quest 头显中玩热门游戏。 除此之外，Meta 和微软也\n本文链接",
+          "link": "https://news.cnblogs.com/n/729702/",
+          "publishedOn": "2022-10-12T08:11:00.000Z",
+          "wordCount": 161,
+          "title": "Meta Quest VR头戴设备将引入微软Xbox云游戏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729701/",
+          "author": null,
+          "description": "10 月 11 日消息，腾讯地图 PC 端将于 11 月 11 日停止服务，用户可以下载腾讯地图手机 APP 版继续使用。\n本文链接",
+          "link": "https://news.cnblogs.com/n/729701/",
+          "publishedOn": "2022-10-12T08:10:00.000Z",
+          "wordCount": 161,
+          "title": "腾讯地图PC端11月11日停止服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729700/",
+          "author": null,
+          "description": "图文、视频、电商都有了的小红书，又瞄上了语音社交。10 月 11 日，北京商报记者登录小红书发现，小红书正在内测新功能“语音现场”，主打音频社交，话题包括旅行、职场、艺术潮流等。就在小红书“上新”前不久，抖音启动的“图文伙伴计划”被认为是攻入小红书腹地之举，小红书 CFO 杨若的离职则被解读为小红书\n本文链接",
+          "link": "https://news.cnblogs.com/n/729700/",
+          "publishedOn": "2022-10-12T08:05:00.000Z",
+          "wordCount": 161,
+          "title": "小红书探路“语音社交”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729699/",
+          "author": null,
+          "description": "科技日报北京 10 月 11 日电 （记者张梦然）德国帕德博恩大学和乌尔姆大学研究人员合作，开发出首个可编程光学量子存储器。新技术的工作原理类似于纠缠“装配线”，其中纠缠的光子对会按顺序创建并与存储的光子结合。该研究作为“编辑推荐”发表在最新一期《物理评论快报》杂志上。 今年，诺贝尔物理学奖颁发给在\n本文链接",
+          "link": "https://news.cnblogs.com/n/729699/",
+          "publishedOn": "2022-10-12T08:00:00.000Z",
+          "wordCount": 161,
+          "title": "首个可编程光学量子存储器问世 技术原理类似纠缠“装配线”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729698/",
+          "author": null,
+          "description": "北京时间 10 月 11 日晚间消息，谷歌今日宣布，通过与数字加密货币交易平台 Coinbase 合作，从明年年初开始，将允许一些客户使用数字加密货币来支付云服务。作为合作的一部分，Coinbase 将把部分应用转移到谷歌云平台上。 这笔交易是在谷歌的 Cloud Next 大会上宣布的，分析人士称\n本文链接",
+          "link": "https://news.cnblogs.com/n/729698/",
+          "publishedOn": "2022-10-12T07:50:00.000Z",
+          "wordCount": 161,
+          "title": "谷歌宣布与Coinbase合作：允许用户使用加密货币支付云服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/729697/",
+          "author": null,
+          "description": "◎本报记者 符晓波 来源：科技日报 黑洞是存在于宇宙空间中的一类大质量天体，因引力极大，所有进入其视界内的光和粒子都无法逃逸。受黑洞能够完美吸收视界内物质这一特性启发，研究人员一直希望能够设计一些“人工黑洞”结构，以实现能量收集的最大化。近日，来自厦门大学的陈焕阳教授和陈锦辉副教授研究团队，利用变换\n本文链接",
+          "link": "https://news.cnblogs.com/n/729697/",
+          "publishedOn": "2022-10-12T07:42:00.000Z",
+          "wordCount": 161,
+          "title": "用变换光学原理造出“人工黑洞”",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/729655/",
           "author": null,
@@ -8429,126 +8629,6 @@
           "publishedOn": "2022-09-14T00:07:00.000Z",
           "wordCount": 161,
           "title": "开发者力挺苹果“灵动岛”设计，为 iPhone 14 Pro 开发相关游戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728113/",
-          "author": null,
-          "description": "新智元报道 编辑：Aeneas 好困 这个 AI 算法竟然可以听声辨新冠，而且准确率高达 89%！ 新冠病毒的出现，真算是打开了潘多拉的魔盒。 如今不断新出现的变种，打乱了整个地球人的生活。新冠之前那种不戴口罩的生活，也许再也回不去了。 最近，科学家们有了一个新发现，或许未来可以让我们告别捅嗓子眼儿\n本文链接",
-          "link": "https://news.cnblogs.com/n/728113/",
-          "publishedOn": "2022-09-13T00:33:04.000Z",
-          "wordCount": 161,
-          "title": "对着手机咳嗽一声，就能检测新冠了？还是剑桥大学出品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728112/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 聊天机器人也得分场合说话！ 语言是人类独有的技能，也是我们交流思想、意图和感受等信息的主要方式。 借助 NLP 领域大规模语言模型的东风，AI 研究者在大量文本材料上训练、统计预测和生成文本，开发了许多对话智能体（conversational agents）来和人类进行交流\n本文链接",
-          "link": "https://news.cnblogs.com/n/728112/",
-          "publishedOn": "2022-09-13T00:20:20.000Z",
-          "wordCount": 161,
-          "title": "DeepMind发30页长文：我们要给聊天机器人不同的「三观」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728114/",
-          "author": null,
-          "description": "新智元报道 编辑：拉燕桃子 在位 70 年，伊丽莎白二世不仅是一位高科技爱好者，还将各种荣誉授予了 12 位科学家。 9 月 8 日，英国在位最长的君主伊丽莎白二世去世，标志着一个时代的落幕。 同时，这也暗示着科技界一个时代的结束。 在位 70 年，伊丽莎白二世不仅是一位高科技爱好者，还将各种荣誉授\n本文链接",
-          "link": "https://news.cnblogs.com/n/728114/",
-          "publishedOn": "2022-09-13T00:11:59.000Z",
-          "wordCount": 161,
-          "title": "唯有霍金拒绝！英国女王70年给这12位大科学家封爵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728115/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 近日，ResNeXt 一作谢赛宁宣布将从 Meta 离职加入纽约大学。 CV 大佬谢赛宁将要从 Meta 离职加入纽约大学。 他表示，自己将要结束 4 年在 FAIR 的研究生活，2023 年 1 月将在纽约大学担任助理教授。 他即将于图灵奖得主 Yann LeCun 成为新\n本文链接",
-          "link": "https://news.cnblogs.com/n/728115/",
-          "publishedOn": "2022-09-13T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "CV大神谢赛宁离职Meta加入纽约大学，与何恺明共著ResNeXt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728111/",
-          "author": null,
-          "description": "新智元报道 编辑：武穆 导读】中国的互联网行业经历「寒冬」，美国的互联网公司，日子也不好过。最近，老牌的互联网媒体公司宣布裁员，估计也要上演「千人毕业」了。 上周，Snap 进行一轮大裁员。 据 Insider 的消息，这家社交消息和媒体公司裁员近 1300 名员工，约占员工总数的 20%。 裁员前\n本文链接",
-          "link": "https://news.cnblogs.com/n/728111/",
-          "publishedOn": "2022-09-12T17:25:00.000Z",
-          "wordCount": 161,
-          "title": "副总裁集体跑路！Snap上演美国版「千人毕业」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728110/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS GitHub 上榜项目靠谱，拿来就能用！ 看完一篇 AI 论文，要是发现代码没公开，心就得凉半截，瞬间对实验结果都要开始怀疑。 最近有网友收集了八月份发表的 10642 篇 AI 论文，发现其中 90.9% 的论文都没有公开代码。 在公开的一千份代码中，根据其在 GitHu\n本文链接",
-          "link": "https://news.cnblogs.com/n/728110/",
-          "publishedOn": "2022-09-12T17:11:00.000Z",
-          "wordCount": 161,
-          "title": "8月AI论文GitHub十强榜出炉！语言-图像模型连斩Top2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728109/",
-          "author": null,
-          "description": "新智元报道 编辑：武穆 【新智元导读】NVIDIA H100 Tensor Core GPU 在 MLPerf 行业标准 AI 基准测试中首次亮相，创下了所有工作负载推理的世界纪录，提供的性能比上一代 GPU 高 4.5 倍。 不久前，英伟达公布了旗下的芯片，在 MLPerf 行业标准 AI 基准测\n本文链接",
-          "link": "https://news.cnblogs.com/n/728109/",
-          "publishedOn": "2022-09-12T17:00:00.000Z",
-          "wordCount": 161,
-          "title": "比A100性能高4.5倍！英伟达H100横扫AI推理基准测试",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728108/",
-          "author": null,
-          "description": "金磊转载整理自知乎 量子位公众号 QbitAI 这是一篇由 UCLA 应用数学副教授蒋陈凡夫所撰写的万字长文，回顾了他在图形学物理模拟领域里十二年来的点点滴滴。 于人，于事，于学术，字里行间无不在透露着蒋陈凡夫对图形学的热爱与浪漫，感动了无数的网友。 在文中被他称为“少年英雄”的胡渊鸣，在看完后甚至\n本文链接",
-          "link": "https://news.cnblogs.com/n/728108/",
-          "publishedOn": "2022-09-12T16:45:00.000Z",
-          "wordCount": 161,
-          "title": "“荡气回肠”！UCLA蒋陈凡夫万字长文回顾：从转系生到终身教授",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728104/",
-          "author": null,
-          "description": "明敏发自凹非寺 量子位公众号 QbitAI 在 Stable Diffusion 以“免费开源”爆火 AI 画画圈后，背后公司的估值快速攀升到了10 亿美元（约合人民币 69 亿）。 知情人士透露，Stability AI 正在筹备一轮融资，金额为1 亿美元（约合人民币 6.9 亿元）。 在此之前，\n本文链接",
-          "link": "https://news.cnblogs.com/n/728104/",
-          "publishedOn": "2022-09-12T16:37:00.000Z",
-          "wordCount": 161,
-          "title": "Stable Diffusion背后公司估值达69亿，距项目发布仅过去一个月",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728107/",
-          "author": null,
-          "description": "明敏衡宇发自凹非寺 量子位公众号 QbitAI “怎么培养数学逻辑思维？来点编程试试？” 大概这是很多人的既有认知，毕竟感觉程序员们的数学都挺好的。 巴特，反转来了。 来自巴黎大学的研究人员发现，小学生改用编程课学数学后，对成绩不仅没有明显帮助，甚至会产生一些负面影响。 在欧几里得除法、加法分解、分\n本文链接",
-          "link": "https://news.cnblogs.com/n/728107/",
-          "publishedOn": "2022-09-12T16:25:00.000Z",
-          "wordCount": 161,
-          "title": "学编程会拉低数学成绩，巴黎大学跟踪1500个小学生得出结论",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728106/",
-          "author": null,
-          "description": "Pine 发自凹非寺 量子位公众号 QbitAI 看上去都是液态的水，遇上低温，可能就算不上是同一种液体了。 怎么说？ 现在，有项新的研究表明，在低温的状态下，水会有两种状态，它们在排列方式上有很大的不同。 目前，这项已经发表在 Nature 子刊——《自然物理学》杂志上。 作为不遵守热胀冷缩原理的\n本文链接",
-          "link": "https://news.cnblogs.com/n/728106/",
-          "publishedOn": "2022-09-12T16:11:00.000Z",
-          "wordCount": 161,
-          "title": "水在低温下分离成两种液体，是分子网络中的“结”在作祟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728105/",
-          "author": null,
-          "description": "萧箫鱼羊发自凹非寺 量子位公众号 QbitAI “每年收 100 个（不用高考的）学生，从大学开始一路念到博士。我希望这批学生里，能产生中国第一批菲尔兹奖得主。” 丘成桐和沈向洋对谈 20 分钟，让清华“不用高考”的求真数院又火了一把。 对，就是那个让丘成桐离开哈佛全职加入，专门培养“顶尖数学人才”\n本文链接",
-          "link": "https://news.cnblogs.com/n/728105/",
-          "publishedOn": "2022-09-12T16:01:00.000Z",
-          "wordCount": 161,
-          "title": "谁是下一个丘成桐？产业界也开始关心这事儿了",
           "imageUrl": null
         }
       ]
