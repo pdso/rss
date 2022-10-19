@@ -49,6 +49,26 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/76233",
+          "author": "车不能快",
+          "description": "本文仅代表个人观点。\n欢迎评论区友好讨论。虽然都是些浅短的认识，但是分享出来也算是一种体验，非常感谢大家的观看和意见。\n\n大家好我是车不能快，一个有点闲的键盘爱好者，很高兴和大家再次见面。这次开启了一个新栏目《键微知著》，这个栏目主要是分享一些我自己对于跟键盘有关的想法和看法，比较主观，所以观看的时候还望大家海涵 ，不过这个栏目的更新频率不会太高，因为确实比较需要时间去沉淀，也算是我玩键盘留下的一些痕迹。\n切入正题，今天就来讲讲前段时间异军突起的小众配列——Alice。\n\nFOFO拍摄\n想必这把键盘大家都不会陌生，Spring这把键盘在今年可谓是「声名远扬」，凭借优秀的手感表现成功突围，同时也带动了Alice这个小众配列再次火了一把，连量产环境都受到了一定的影响，出现了许多量产的Alice键盘以供玩家选择。\n例如：akko Alice、 Keychron Alice、FEKER Alice等\n\nSnVittarius 拍摄 akkoAlice\n\nfeker Alice\n第一眼看到Alice键盘的感觉是「怪异」，对于变形的抗拒、对于传统的坚守，是的，说来惭愧，作为一个客制化的玩家，很多时候我还是秉持着传统的观念去看待这些新奇的产品，不过我觉得这也是客制化对我最大的意义所在，有机会去尝试这些新鲜事物，思想上也能从传统保守的观念束缚中得以抽身。都什么年代，还在玩传统键盘？\n然而在经过将近一年的使用之后，我对于Alice配列的疑惑不减反增。这个配列好在哪？为什么会有这么多的玩家能接受和使用它？\n回头看，那些曾经贴在它身上的标签「人体工学键盘」、\"裂开的键盘\"、「独具美感的键盘」，究竟哪些词汇形容这把键盘最为贴切？\n为了寻找答案，我开始了漫长的搜寻之旅，敲击着手上的Alice配列，答案仿佛就在指尖。\n\n当我们介绍Alice配列时，印象最为深刻的点是什么？\n人体工学键盘\n在讨论如今的A…",
+          "link": "https://sspai.com/post/76233",
+          "publishedOn": "2022-10-18T07:14:17.000Z",
+          "wordCount": 551,
+          "title": "【键微知著】当我们使用Alice配列时我们在追求什么？",
+          "imageUrl": "https://cdn.sspai.com/2022/10/17/a637f662295e7492f63cc18c80b27df9.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/76228",
+          "author": "siyu",
+          "description": "1年多前，由于工作原因，主力开发机换成了 Windows，还入了 Office 365 全家桶。于是在时隔多年后，再次用起了 OneNote。不得不说，都2022年了，OneNote 的码字体验还停留在十多年前，一堆大大小小的遗留问题。但我实在懒得折腾什么 Notion、 Obsidian（没有复杂的知识管理需求），只想找个本地/靠谱/大厂出品/开箱即用的笔记软件，简单记录下工作相关内容。 毕竟人一旦习惯了 markdown 的符号 # 和 -，就真的回不去了。于是研究了下 OneNote 的 api，决定自己动手，丰衣足食。OneMark 由此诞生。\n实时渲染\n废话不多说，直接上动图。\n\n简单来说，OneMark 实现了基于行的实时渲染，每次按回车时会触发渲染当前行。当然，这个实时 跟新世代编辑器字符级别的没法比，但已经足够好用了。\n不仅如此，终于在 OneNote 上实现了可用级别的代码高亮，输入```创建代码块后，每敲一行自动着色。用过 OneNote 的都懂，之前插入代码需要诸多操作，繁琐到想摔键盘。\n\n以及 LaTex 转换到 OneNote 原生的数学公式（不是图片）。\n\n除此之外，还支持TOC / todo / 水平线 / 脚注 等常见的语法，直接拿已有的 markdown 内容粘贴到 OneNote 中， 然后按 F5 渲染，大概率是可以完美还原的。\n\n \n没有美美的样式主题，怎么能算一个合格的笔记软件呢？众所周知，OneNote 本身的样式功能十分鸡肋，用户很难自定义主题，只能默默忍受一成不变的素面朝天。于是我花了好大力气，实现了解析 css 样式的功能，从此 OneNote 的笔记颜值终于能打了。\n\n双向编辑\n你可能会问：这种转换是单向的吗？我如果有一天想导出 markdown 纯文本怎么办？在我看来，原始 markdown 丢失是绝对不能接受的，所以我花了很大力气来解决这个问题：笔记中每个段落的 markdown 原文都以某种格式隐藏存储在自身之中，可以随时读取，不依赖外部文件，任意编辑也不会破坏。而且这种格式是公开透明的，只需要用 OneNote api 拿到 XML 格式的笔记内容，所有秘密一览无余。\n更重要的是，渲染后的内容可以原地随意增删修改，不必再重新切换回 markdown 形态编辑； 而且在导出 markdown 时，内容也会相应更新——是的，实现了双向更新。当然，如果由于某些原因，你想切换回 markdown 形态编辑，也是支持的。按 ctrl + , ，即可在编辑和预览之间切换。\n\n结语\nOneMark 目前只支持 OneNote Windows 桌面版，不支持 UWP 版本以及 Mac 版本（好消息是微软正着手将 UWP 版本的功能迁移到桌面版，以后会只保留桌面版，最近的更新频率也让广大 OneNote 使用者倍感惊喜）。官网 https://onemark.neuxlab.cn/， 欢迎大家试用反馈。\n后记：我为什么选择 OneNote\n有人会问：不是有很多专业的 markdown 笔记软件吗，为什么还要用 OneNote？\n我个人的感悟是：我首先需要的是一个自由轻松的笔记软件，其次是 markdown。我是一个懒人，无论是日常生活，还是工作学习，都没有那么 organized，十分不擅长把东西整理并保持得井井有条。我的笔记中，有一些认真记录和思考产出的内容，但更多时候，是很随意、很碎片、很当下的信息记录。我试过，当面对一个专业的 markdown 笔记软件时，我会变得十分紧张不自在，不知道该把这些零碎、混乱的信息放到哪里。一旦产生了这种情绪，想要记录的念头也随即不了了之。\n而 OneNote 简单直接的界面、清晰的笔记结构、自由的无限画布，让我使用起来没有任何心理压力。唯一的缺点就是当需要认真输出内容时，没有 markdown 这件趁手的兵器，确实有点力不从心。补齐了这点之后，对于我个人而言就别无他求了。\n其实十多年前，OneNote 刚推出的时候也曾惊艳四座， 那时的设计理念和体验还是很超前的，有了现在流行的 block level 编辑器的雏形，无论是列表、段落、表格，书写和调整起来都非常得心应手。也多亏了这些设计，结合 markdown 之后居然毫不违和，整体体验下来有点现代编辑器的味道了。个中玄妙，就待各位亲自上手把玩了。",
+          "link": "https://sspai.com/post/76228",
+          "publishedOn": "2022-10-17T07:22:15.000Z",
+          "wordCount": 549,
+          "title": "忍不了了，做了个插件让 OneNote 支持 markdown",
+          "imageUrl": "https://cdn.sspai.com/2022/10/17/38efb9435db83b2220f9dce53dd5cdb1.png"
+        },
+        {
           "id": "https://sspai.com/post/76193",
           "author": "车不能快",
           "description": "本专栏所使用资料来源于网络以及群友和个人的一些看法，欢迎友好讨论。虽然都是些浅短的认识，但是分享出来也算是一种体验，非常感谢大家的观看和意见。（该专栏写于2022.6，最新的dmk热升华水平请参考wob评测）\n\n切入正题，本篇专栏来讲讲我最近自己入手的一套的键帽——\n《繁文生肖》\n\n来自IC\n说实话这套键帽一开始并没有引起我的注意，因为热升华的PBT键帽在色彩表现力上是远不如二色成型工艺的键帽。但在我往下翻阅的时候，渲染图直接抓住了我的心。\n\nIC\n毫无疑问，这是第一套有繁体中文字根设计的键帽，并且确实是超出常规的设计，可以说手套哥的设计水准确实不是盖的。\n\n打样\n但随之而来的就是几个问题在我心头萦绕。\n\n1·工艺问题\n本次代工是高端键帽大厂DOMIKEY。对于dmk的实力和做工，我是非常认可的，但问题在于，这是dmk的第一套pbt热升华键帽，此前他们从未有生产过热升华键帽，虽然在我的前一篇科普关于热升华工艺键帽我个人的一些理解 - 哔哩哔哩 (bilibili.com)已经简略介绍了一些有关于PBT热升华的知识，但是这些只是纸上谈兵罢了，高端热升华键帽之所以是高端热升华，是因为随着价格的提升，消费者的要求也随之提升——遮光性、字符清晰度、手感、键帽弯曲等等瑕疵不能出现。如果价格来到了这个价位，那么这些要求我认为也是合情合理的。\n2·价格问题\n厂虎的价格是499小全套，个性纹样129。这个价格，真心不算低了，即便是目前所谓的顶级热升华键帽CRP,价格也是600目前涨价之后。DOMIKEY第一次做热升华键帽，便开出如此顶级的价格，虽然是比二色要便宜一些，但热升华的成本并不算高，这么看来dmk应该是对于自己工艺非常有信心，并且有着对这套键帽设计极高的预期。事实证明，他的确押对宝了。\n这套限时不限量的键帽在三天的开车预售时间内卖出了800+的惊人成绩。同时再一次证明了我的观点，买…",
@@ -537,36 +557,6 @@
           "wordCount": 748,
           "title": "写在 Xperia 5 IV 到手前，我的 Xperia 5 III 体验",
           "imageUrl": "https://cdn.sspai.com/2022/09/20/1528338ded5332b25ded04ff431aa921.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/75799",
-          "author": "Journey",
-          "description": "我是一个拥有七年工龄的年过三十的打工人，base在北京。\n工作的前五年，我任职于一家外企。凭借着年轻和朝九晚六，工作的大多数时候我都能轻松应付，并没有把运动当回事儿。工作五年后我跳槽到了互联网行业，工作强度和工作时长陡增，对体力和精力都有了新的考验，因此运动也不得不提上了日程。\n但是运动这件事只有想法是没办法做成的，我花了一年多的时间断断续续走了很多弯路。三天打鱼两天晒网经常发生，一下子荒废半个月的情况也并不少见。而最终让我养成运动习惯的是我狠下心氪金，配齐了各种运动辅助工具，并在各种工具的综合作用下，让运动成为了我生活习惯。\n此文写作时间为2022年9月19日，我刚刚收到了Apple Watch发送给我的“最坚持奖-22天”的奖章。一个习惯的养成需要21天，这个奖章也让我动了念头，想把这个过程分享出来，于是就有了这篇文章。\n2022年9月19日 收到最坚持奖 22天\n我的典型一天-工作日运动\n【时间选择】\n工作日大家都疲于奔命，很难抽出大块时间来专门运动。所以选择适合自己的运动时间很重要。\n我首先尝试的是下班后跟着Keep App来做一些运动。但是遇到了两个阻碍：一个是下班时间不固定，有时候到家已经九点多了，不方便再做剧烈运动，会直接影响睡眠质量；另一个是有时候晚饭吃了比较多的主食，所以整个人头昏脑胀的，大多数时候只想躺着刷剧，并没有意志力再爬起来。\n然后我尝试了在中午的时间运动。我会早十五分钟锁定电脑屏幕赶去健身房，并点好一个定时派送的外卖（运动完后食堂已经关门）。这样实行了快半年时间，也遇到了两个小问题：有时候上午会有会议拖堂，导致整个运动计划没办法按时执行；长期以来点外卖，的确不如食堂吃饭营养健康，而且还花钱更多。\n最后我选择了更早起床，把运动时间放在了吃饭前的早上。这样做有如下三个原因：一是互联网公司相对上班时间较晚，因此早上运动属于错峰，健身房人少，且不会影响到…",
-          "link": "https://sspai.com/post/75799",
-          "publishedOn": "2022-09-19T06:47:21.000Z",
-          "wordCount": 667,
-          "title": "我是如何用工具组合养成运动习惯的",
-          "imageUrl": "https://cdn.sspai.com/2022/09/19/d0362c2ee19bc83bee8387af52e98e2e.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/75789",
-          "author": "酱紫表",
-          "description": "前几天看到时间线上 latter21 有晒 Elgato 的 Stream Deck，感觉很炫酷自定义程度也很高就想买一个。我一查价格居然要一千多一个，太贵了买不起。然后我又看到「爱运动的数码君」有将小爱触屏音箱安装 Macro Deck 的视频，这就是我想要的：一百多能实现 Stream Deck「贫替」。我折腾完用了几天感觉还不错，今天就写个教程和使用体验给大家分享下。\n准备工作\n\n小爱触屏音箱。\nWindows 电脑\nMicro USB 数据线\n下载需要的文件（包含了驱动、刷机包、搞机工具箱、和安卓端的 App）\n\n安装改版固件\n小爱触屏音箱的官方系统是不能安装第三方 app 的，而是需要刷入改版固件才行。安装改版固件不影响小爱同学的正常功能， 也不影响保修。\n安装驱动\n安装驱动\n将文章开头的工具包下载解压，打开 FlashTool - Driver 文件夹里的 Mediatek-Drivers-Install.bat（需要管理员权限），跟随提示完成驱动安装。\n进行刷机\n设置刷机\n打开 FlashTool 文件夹里的 _SPFT.exe 刷机工具，如果弹出报错提示，直接确认忽略即可。\n\n下载 DA 框选择：FlashTool 下 Hikaru_resign-Xiaomi 文件夹里的 DA_Mi_Hikaru-resign.bin\n配置文件选择 Image 文件夹里的 MT8167_Android_scatter.txt\n验证文件选择 FlashTool 下 Hikaru_resign-Xiaomi 文件夹里的 auth_sv5.auth\n\n然后我们将下方的选框从下载改到固件升级。\n刷机过程\n点击下载按钮后，通过数据线连接小爱触屏音箱就会开始刷机。刷机的过程可能需要几分钟到十几分钟，在此期间小爱同学触屏音箱会始终处于黑屏状态，只要能在设备管理器中找到其 com 端口即连…",
-          "link": "https://sspai.com/post/75789",
-          "publishedOn": "2022-09-19T06:31:44.000Z",
-          "wordCount": 622,
-          "title": "Stream Deck 太贵了？触屏音箱也能成为你的直播助手",
-          "imageUrl": "https://cdn.sspai.com/2022/09/18/fa3f0f3250ff6c3da5a2635eccb52e04.JPG"
-        },
-        {
-          "id": "https://sspai.com/post/75786",
-          "author": "商隐商隐商商隐",
-          "description": "起初，我从未感受到我妈对于衰老的恐惧。直到大概五六年前我家重新装修房子的时候，我妈坚持要在他们卧室的厕所里装一个马桶，后来问了原因才知道，她大概是觉得以后自己老了，万一腿脚不方便了，用马桶会轻松很多。从那一刻起，我才猛然发觉这种隐秘的恐惧。\n第七次全国人口普查的的数据显示，目前中国60岁及以上的人口数量已超2.6亿，这个人数占总人数的18.7%。这就意味着，有相当一部分老人正在经历着这种关于衰老的隐秘恐惧，还会有越来越多的人陷入这种关于衰老的恐惧。\n为了回应这些恐惧，很多人可能最先想到的是“适老化改造”。当然，适老化改造是一个相当大的问题域，本文目前所要探讨的仅仅是房屋的适老化改造，特别是对现有的城镇房屋进行一些“修补性”的适老化改造。\n为什么要进行房屋适老化改造？\n我们需要先回答一个问题：为什么我们要率先对“房屋”这样一个区域进行适老化改造呢？这个问题的答案有很多。\n首先是出于目前国内养老格局的考虑。国内养老事业呈现出一种所谓的“9073”的格局。也就是说，90%左右的老年人居家养老，大约7%的老年人需要依托社区进行养老，最后3%左右的老年人将入住养老院。这意味着大多数老人会在自己的家中度过大部分的晚年时光。这几乎是最适合老人，同时也是最经济的养老方式。\n其次是出于老人活动范围的考虑。随着年龄的增长，老人的社会活动范围会逐渐缩小，老人对于居住空间的依赖程度也会越来越高。这意味着，居住环境成为老人晚年生活最重要的空间载体，居住条件的好坏将会直接影响老人的生活质量。[1]\n再次是出于老年人人体工学的考虑。据老年人人体工学的研究，在衰老过程中人体的尺寸也会发生变化。医学研究资料显示：人在28-30岁时身高最高，35-40岁之后逐渐出现衰减，70岁时身高会比年轻时减少2.5%-3%。[2]这就意味着，随着居住者年龄的增长，房屋也应该发生一些改变。\n所以，出于上述的种种原因，除了大…",
-          "link": "https://sspai.com/post/75786",
-          "publishedOn": "2022-09-19T02:44:24.000Z",
-          "wordCount": 479,
-          "title": "房屋适老化改造，为了那场终将到来的落幕",
-          "imageUrl": ""
         }
       ]
     },
@@ -611,16 +601,6 @@
           "wordCount": 449,
           "title": "老司机 iOS 周报 #218 | 2022-09-26",
           "imageUrl": "https://opengraph.githubassets.com/483677864f22802f5f9745bcc2bfc385f74a8096eb9302d441995107cf492761/SwiftOldDriver/iOS-Weekly/releases/tag/%23218"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23217",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🐢 字节跳动 DanceCC 工具链系列之 Xcode LLDB 耗时监控统计方案\n@含笑饮砒霜：在 字节跳动 DanceCC 工具链系列之 Swift 调试性能的优化方案 一文中，介绍了如何使用自定义的工具链，来针对性优化调试器的性能，解决大型 Swift 项目的调试痛点。为了精确测量经过优化后的 LLDB 调试 Xcode 项目效率提升效果，衡量项目收益，需要开发一套能够同时获取 Xcode 官方工具链与 DanceCC 工具链调试耗时的耗时监控方案。本文详述了 DanceCC 提出了一套专门的方案，方案原理基于 LLDB Plugin，利用 Fishhook，从 LLDB 的 Script Bridge API 层面拦截 Xcode 对 LLDB 调用，以此来进行耗时监控统计。\n🐢 这一年，我对终端组织与技术架构的思考【专家讲技术】\n@莲叔：闲鱼是国内较早进行 Flutter 业务尝试，也是较早的全面拥抱 Flutter 的 App。本篇文章里，闲鱼的技术负责人宗心分享了他对于移动开发行业从软件架构和组织形式两个视角的变迁，之后提出了未来可能的一种岗位分工：应用研发工程师和基础设施开发工程师，并且发布了闲鱼围绕这样的岗位分工开发的一套基于 Flutter 的 UI 开发渲染引擎 KUN。移动开发到如今已经发展的超过十年的时间，研发团队相比最开的 iOS/Android 开发已经演化出了更复杂的形式，这篇文章是对这些趋势一个比较不错的归纳，对自己技术栈觉得迷茫的同学也可以看看。\n🐎 基于 React Native 的动态列表方案探索\n@Damien：动态渲染框架大家一定不陌生，比如阿…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23217",
-          "publishedOn": "2022-09-19T02:13:00.000Z",
-          "wordCount": 584,
-          "title": "老司机 iOS 周报 #217 | 2022-09-19",
-          "imageUrl": "https://opengraph.githubassets.com/9da776b72bcb7ea9648aa5633b8c0b19abd9bca3fe9128c513a3b086c79ff889/SwiftOldDriver/iOS-Weekly/releases/tag/%23217"
         }
       ]
     },
@@ -635,6 +615,186 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73097",
+          "author": null,
+          "description": "因为难以预测的疫情相关因素，CCC（德国混沌计算机俱乐部）宣布取消今年的年度会议 37C3。CCC 称如果要举办大型会议，将需要遵守严格的卫生要求，复杂化后勤挑战，从而影响到整个活动的氛围。在与团队讨论之后 CCC 决定取消会议。取而代之的是 CCC 计划于 2023 年 8 月 15 日到 19 日在德国柏林附近的 Mildenberg 举办 Chaos Communication Camp。CCC 同时呼吁社区成员在年底举办本地的小型会议。",
+          "link": "https://www.solidot.org/story?sid=73097",
+          "publishedOn": "2022-10-18T13:11:15.000Z",
+          "wordCount": 171,
+          "title": "CCC 取消 37C3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73096",
+          "author": null,
+          "description": "赛门铁克的研究人员披露黑客组织 Winnti 入侵香港政府机构的网络长达一年时间。黑客使用了 Spyder Loader 后门的不同变种攻击目标，在感染的早期阶段 Spyder Loader 会加载 AES 加密的数据块创造下一阶段的有效负荷 wlbsctrl.dll。攻击者渗透之后还会部署窃取密码的恶意程序  Mimikatz 以更深入挖掘受害者的网络。研究人员认为攻击者的主要目标是收集情报。",
+          "link": "https://www.solidot.org/story?sid=73096",
+          "publishedOn": "2022-10-18T11:14:52.000Z",
+          "wordCount": 160,
+          "title": "黑客入侵香港政府机构网络",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73095",
+          "author": null,
+          "description": "德国总理朔尔茨(Olaf Scholz)令执政联盟中持对立意见的合作伙伴达成妥协，下令该国剩余的三座核电站将继续运行至 2023 年 4 月中旬。德国政府正努力避免今年冬天出现能源危机。这一举动表明朔尔茨实际上是在平息争论，以结束他在政府中的合作伙伴——绿党和自由民主党(FDP)——之间的冲突，这种冲突威胁到执政联盟的团结。德国原计划在今年 12 月 31 日前关闭剩余的三座核电站。自由民主党认为为避免能源危及应暂缓关闭，绿党则坚持要求按计划关闭。绿党的经济部长 Robert Habeck 后来在自由民主党的压力下退缩，宣布其中两座将暂缓关闭。但自由民主党仍然想要进一步延长三座核电站的使用寿命。总理现在介入以结束争吵。",
+          "link": "https://www.solidot.org/story?sid=73095",
+          "publishedOn": "2022-10-18T10:35:38.000Z",
+          "wordCount": 155,
+          "title": "德国三座核电站的运营时间将延长到明年四月",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73094",
+          "author": null,
+          "description": "根据彭博社亿万富翁指数，以路易威登等奢侈品牌闻名的法国公司 LVMH CEO Bernard Arnault 超过贝佐斯（Jeff Bezos）成为世界第二大富豪，他的净资产目前为 1330 亿美元，而贝佐斯为 1300 亿美元。他还因为经常使用私人飞机而受到批评，法国 Twitter 用户利用公开信息跟踪了他的私人飞机使用情况。但在上个月 Arnault 的飞机在法国取消了注册，他被认为在躲避。周一 Arnault 通过公司播客证实了此事，称 LVMH 卖掉了私人飞机，以后不会有人知道他去了哪里，他以后会租飞机出行。Arnault 家族的二少爷 Antoine Arnault 还表示让其他人知道公司飞机的位置可能会给竞争对手带来优势。",
+          "link": "https://www.solidot.org/story?sid=73094",
+          "publishedOn": "2022-10-18T10:19:41.000Z",
+          "wordCount": 165,
+          "title": "世界第二大富豪卖掉私人飞机以避开跟踪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73093",
+          "author": null,
+          "description": "九月份的芯片交付周期缩短了四天，显示供应紧张局面缓解了。从芯片订购到交货的交付周期在九月份为 26.3周，相比下之前一个月为 27 周。所有芯片产品类别的交付周期都在缩短，其中电源管理芯片和模拟芯片缩短幅度最大。过去一年的全球芯片短缺困扰着各行各业，汽车制造商等都在努力获得足够的半导体。但今天的芯片厂商担心的是相反的问题：库存过高。",
+          "link": "https://www.solidot.org/story?sid=73093",
+          "publishedOn": "2022-10-18T08:59:10.000Z",
+          "wordCount": 146,
+          "title": "芯片交付周期缩短显示供应紧张缓解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73092",
+          "author": null,
+          "description": "Ugur Sahin a和 Özlem Türeci 夫妇共同创办了 BioNTech，该公司研发的 mRNA 疫苗是最成功的新冠疫苗之一。他们在接受 BBC 采访时对未来几年癌症疫苗上市持乐观态度。当被问及基于 mRNA 的癌症疫苗何时可以用于患者时，Sahin 表示，它们可能会在“2030 年之前”上市。mRNA 新冠疫苗通过将冠状病毒上无害的刺突蛋白的遗传指令输送到体内来发挥作用。这些遗传指令被大量产生刺突蛋白的细胞所接受，然后这些蛋白质或抗原能够告诉免疫系统的抗体和其他防御系统要搜索和攻击什么。Türeci 认为，可以采取同样的方法让免疫系统寻找和摧毁癌细胞。在新冠疫情暴发之前，BioNTech一直在研究 mRNA 癌症疫苗。但在疫情全球蔓延之后，该公司转而研发新冠疫苗。BioNTech 现在有几种癌症疫苗处于临床试验阶段。BioNTech 希望开发针对肠癌、黑色素瘤和其他癌症类型的治疗方法，但目前仍面临重大障碍。因为构成肿瘤的癌细胞中可能含有多种不同的蛋白质，使得制造针对所有癌细胞而不针对健康组织的疫苗变得极其困难。",
+          "link": "https://www.solidot.org/story?sid=73092",
+          "publishedOn": "2022-10-18T08:06:16.000Z",
+          "wordCount": 175,
+          "title": "BioNTech 创始人预测到 2030 年疫苗可能治疗癌症",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73091",
+          "author": null,
+          "description": "超加工食品（UPF）对健康有不利影响，可能会导致肥胖。但根据发表在《Nature Reviews Clinical Oncology》期刊上的一项研究，消费超加工食品带来的不利影响可能比以前认为的更多，会增加心血管疾病、痴呆症和结肠癌的风险。研究发现，1990 年后出生的人比 1970 年以前出生的人更有可能在 50 岁之前患上癌症，超加工食品可能是导致这一结果的风险因素。除新鲜水果和蔬菜外，几乎所有食品都经过某种程度的加工。超加工食品中的蛋白质和纤维含量较低，盐、糖和脂肪含量较高，经过挤压、成型和研磨等程序。",
+          "link": "https://www.solidot.org/story?sid=73091",
+          "publishedOn": "2022-10-18T07:56:03.000Z",
+          "wordCount": 151,
+          "title": "超加工食品可能比以前认为的更不健康",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73089",
+          "author": null,
+          "description": "在 Meta 等公司之后，微软确认因 PC 销售放缓而裁员。Axios 报道称微软在多个部门裁员近千人。受影响的部门包括 Xbox 和 Edge，涉及到多个地区。微软发言人称，和所有公司一样，我们会定期评估业务重点，并据此做出相应的结构调整。",
+          "link": "https://www.solidot.org/story?sid=73089",
+          "publishedOn": "2022-10-18T06:04:36.000Z",
+          "wordCount": 151,
+          "title": "微软裁员近千人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73088",
+          "author": null,
+          "description": "在一个内核版本发布之后，下一个版本会经历两周的补丁合并周期，之后关闭合并窗口进入预发布测试阶段。Linux 作者 Linus Torvalds 刚刚释出了 Linux 6.1 的首个 RC 版本，他同时呼吁内核开发者不要赶在截止日期前递交补丁。他说合并周期为两周是为了给他更多时间检查，不是让他们在第二周的周五匆忙把补丁发给他。在截止日期前通宵达旦写论文是高中生才会做的，从高中毕业之后就应该淘汰这种做法了。",
+          "link": "https://www.solidot.org/story?sid=73088",
+          "publishedOn": "2022-10-18T05:44:04.000Z",
+          "wordCount": 160,
+          "title": "Linus Torvalds 呼吁内核开发者不要在截止日期前递交补丁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73087",
+          "author": null,
+          "description": "周一开采一个比特币区块的时间花费了逾一个小时，导致上万笔交易停留在未确认状态。Foundry USA 和 Luxor 开采出的两个比特币区块之间的时间间隔为 85 分钟，期间逾 1.3 万笔交易等待确认。比特币上周经历了一次难度调整，确保区块确认每十分钟一次。随着开采难度的提升，比特币挖矿也变得愈加昂贵，给面对能源价格飙升和熊市的加密货币挖矿行业带来了压力。Lightning Network 创始人 Tadge Dryja 认为，如果不考虑难度变化，比特币区块 85 分钟间隔预计会每 34 天发生一次。",
+          "link": "https://www.solidot.org/story?sid=73087",
+          "publishedOn": "2022-10-18T05:25:57.000Z",
+          "wordCount": 160,
+          "title": "比特币单个区块开采时间超过一小时",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73086",
+          "author": null,
+          "description": "说唱歌手 Kanye West 与保守派社交媒体 Parler 达成了收购协议。West 现在的名字叫 Ye。双方在周一发表的一份声明中表示，此举将有助于个人自由发表保守派观点。收购协议没有披露财务方面的条款，Parler 将完整出售给 Kanye West，而 Parler 服务商 Parlement Technologies 将会继续提供技术支持，包括使用其私有云服务和数据中心设施。收购预计会在今年晚些时候完成。West 在一份声明中表示，“在一个保守观点被认为是有争议的世界里，我们必须确保有自由表达的权利。”",
+          "link": "https://www.solidot.org/story?sid=73086",
+          "publishedOn": "2022-10-18T03:51:13.000Z",
+          "wordCount": 171,
+          "title": "Kanye West 将收购保守派社媒 Parler",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73085",
+          "author": null,
+          "description": "在数据中心周六发生火灾之后，韩国两大互联网巨头 Naver 和 Kakao 的服务遭遇了大规模宕机事故。发生火灾的数据中心由 SK C&C 运营，位于首尔南部的板桥，始建于 2014 年，占地 66,942 平方米。SK C&C 没有披露起火原因和火灾的严重程度。Kakao 和 Naver 的大部分服务从周六下午开始就无法访问，影响广泛。Kakao 通过官方博客对服务中断表示歉意，称该公司成立了多个委员会去调查事故、制定应急对策和安排赔偿。Naver 表示其搜索、新闻、购物、博客等服务出现错误。截至周一，大部分服务已经恢复。",
+          "link": "https://www.solidot.org/story?sid=73085",
+          "publishedOn": "2022-10-18T03:28:14.000Z",
+          "wordCount": 161,
+          "title": "数据中心火灾导致韩国网络巨头下线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73084",
+          "author": null,
+          "description": "匿名读者 写道 \"凹语言™（凹读音 “Wa”, 主页 https://github.com/wa-lang/wa ）是 国内 Gopher 针对 WASM 平台设计的的通用编程语言，支持 Linux、macOS 和 Windows 等主流操作系统和 Chrome 等浏览器环境，同时也支持作为独立 Shell 脚本和被嵌入脚本模式执行。近日 JetBrains 宣布首次公共预览 Fleet，凹语言在第一时间增加了对 Fleet 的语法高亮支持。\n\n\n细节请参考 https://wa-lang.org/smalltalk/st0015.html\"",
+          "link": "https://www.solidot.org/story?sid=73084",
+          "publishedOn": "2022-10-18T02:09:06.000Z",
+          "wordCount": 208,
+          "title": "凹语言支持 JetBrains Fleet 语法高亮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73083",
+          "author": null,
+          "description": "房地产代理公司 Redfin 的报告显示，愈来愈多的美国购房者在考虑迁居他处时会关切是否存在气候变化风险。数据显示，未来一年有购房或换房计划的买家当中，约 62% 的人担心搬到可能出现海平面上升或极端温度等气候变化进而导致自然灾害频发的地方。该报告是基于今年 8 月对大约 1000 名受访者的问卷调查结果。数据显示，在支持民主党和共和党的受访者中，分别有 69 %和 58% 的人表示不太愿意搬到自然灾害高风险地区。",
+          "link": "https://www.solidot.org/story?sid=73083",
+          "publishedOn": "2022-10-17T11:24:00.000Z",
+          "wordCount": 155,
+          "title": "美国购房者在选房时开始考虑气候风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73082",
+          "author": null,
+          "description": "新冠奥密克戎亚型毒株 BA.5 过去几个月一直是新冠的主流毒株，但新的亚型 BQ.1 和 BQ.1.1 开始挑战 BA.5 的统治地位。美国疾控中心上周五公布的数据显示，BQ.1 和 BQ.1.1 占到了美国新冠新增病例的 11.4%，是一周前的两倍，BA.5 则从一周前的 75% 降至 68%。BQ.1 和 BQ.1.1 以其能逃避免疫反应的能力而引人注目，它们在 SARS-CoV-2 刺突蛋白上有几个突变，初步数据显示这些突变能帮助逃避针对新冠病毒的抗体。现有的疫苗仍然能有效降低重症和死亡，但降低感染的能力随着新亚型的出现而不断削弱。",
+          "link": "https://www.solidot.org/story?sid=73082",
+          "publishedOn": "2022-10-17T11:16:23.000Z",
+          "wordCount": 180,
+          "title": "新冠奥密克戎亚型 BQ.1 和 BQ.1.1 逐渐走向主流",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73081",
+          "author": null,
+          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 6.1-rc1，这标志着合并窗口的关闭，正式版预计会在 12 月发布。Linux 6.1 的补丁规模要比前一个版本小，但包含了部分期待已久的新功能，如 Rust 语言的基础设施，替代页回收 Multi-Gen LRU（缩写 MGLRU，Chrome OS 和 Android 的内核已包含该功能），英特尔 Arc 和 AMD RDNA3 显卡支持，Kernel Memory Sanitizer，AMD Platform Management Framework，等等。",
+          "link": "https://www.solidot.org/story?sid=73081",
+          "publishedOn": "2022-10-17T10:54:08.000Z",
+          "wordCount": 178,
+          "title": "Linux 6.1-rc1 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73080",
+          "author": null,
+          "description": "Google 宣布了新操作系统 KataOS 及其参考实现 Sparrow，搜索巨人旨在创造一种安全的嵌入式系统。项目源代码托管在 GitHub 上，采用 Apache License 2.0 许可证。Google 称我们身边的智能设备愈来愈多，因此需要一种简单的方案为嵌入式硬件构建可验证的安全系统。它的新操作系统 KataOS 使用了 seL4 微内核，它已经在数学上被证明是安全的。系统几乎完全用 Rust 语言实现，核心部分包括包括提供系统调用 API 的 sel4-sys crate，替代 rootserver 等。Google 还与 Antmicro 合作开发了模拟器 Renode。",
+          "link": "https://www.solidot.org/story?sid=73080",
+          "publishedOn": "2022-10-17T10:08:23.000Z",
+          "wordCount": 190,
+          "title": "Google 宣布安全操作系统 KataOS 及其实现 Sparrow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73079",
+          "author": null,
+          "description": "马斯克(Elon Musk)收回了他对资助乌克兰 Starlink 互联网终端费用的抱怨，并表示他的公司将继续支付这些费用。他承诺继续为乌克兰的 Starlink 服务提供资金，而一天前他刚刚表示，SpaceX 无法靠自己的力量无限期地资助这项服务。马斯克在推文中没有提供进一步的细节。乌克兰 Starlink 终端的绝大部分硬件是不同国家和组织捐赠，这些国家和组织也同时资助了部分服务费用。",
+          "link": "https://www.solidot.org/story?sid=73079",
+          "publishedOn": "2022-10-17T08:19:46.000Z",
+          "wordCount": 167,
+          "title": "马斯克称 SpaceX 将继续承担 Starlink 服务费",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73078",
           "author": null,
@@ -3264,136 +3424,6 @@
           "wordCount": 150,
           "title": "研究显示纳米塑料如何损伤人类肝脏和肺细胞",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72809",
-          "author": null,
-          "description": "中国疾控中心公布了国内首例输入性猴痘病例的细节：一名 29 岁中国籍销售于 9 月 2–8 日访问德国，期间发生了 MSM 行为（男男性行为）。他随后到西班牙旅行，9 月 14 日返回重庆。这名男子 9 月 9 日出现喉咙干痒和发烧症状，右腿出现红色皮疹和脓疱。9 月 11 日他去了一家私人诊所就诊，服用了抗炎药物。9 月 14 日在重庆的一个新冠隔离点隔离。采集的样本显示他猴痘病毒阳性，后续检测确诊为猴痘西非系 B.1 分支。",
-          "link": "https://www.solidot.org/story?sid=72809",
-          "publishedOn": "2022-09-19T11:43:16.000Z",
-          "wordCount": 166,
-          "title": "重庆出现首例输入性猴痘病例",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72808",
-          "author": null,
-          "description": "Alphabet 的 Google 和 Meta 的 Facebook 的广告帝国正面临越来越多竞争对手的挑战（存档）。Google 和 Facebook 的今年的广告收入预计将达到 3000 亿美元，但它的四大竞争对手的收入预计将接近这一数字的四分之一。随着数字广告的转型，两大巨头的竞争对手更可能从转型中获益。其中最瞩目的新秀是 TikTok，字节跳动旗下的短视频服务过去五年从 Meta 旗下的 Facebook 和 Instagram 这两大摇钱树吸走了大量广告费，以至于两大服务都在向 TikTok 学习。亚马逊预计将占到全球广告收入的近 7%，而六年前还不到 1%。电商巨头今年 2 月披露 2021 年的广告销售额为 310 亿美元，广告与零售和云计算成为亚马逊三大收入来源。微软今年的广告收入预计将占到全球的 2% 以上，搜索引擎必应以及职业社交平台 LinkedIn 为软件巨头贡献了大量广告收入。曾经抨击侵入式广告的苹果公司如今也在销售大量广告。",
-          "link": "https://www.solidot.org/story?sid=72808",
-          "publishedOn": "2022-09-19T11:32:26.000Z",
-          "wordCount": 188,
-          "title": "Google 和 Meta 的广告帝国正面临挑战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72807",
-          "author": null,
-          "description": "随着 AI 翻译工具的进步，曾经因为语言问题而很少受到攻击的地区如日本开始成为勒索软件黑帮的攻击目标。日本警察厅的数据显示，2022 年上半年接到 30 个都道府县共 114 起报告，较上年同期 61 起增加 87%，其中中小企业为 59 起，大企业为 36 起，团体等为 19 起。从行业来看，制造业与服务业居多，但各种规模和行业的企业均有遭受损失的情况。对受害企业等实施的问卷调查显示，调查与恢复费用总额达到 1000 万日元以上的占到 55%。在受害数据留有备份的 48 起中，至少 36 起无法恢复。",
-          "link": "https://www.solidot.org/story?sid=72807",
-          "publishedOn": "2022-09-19T10:29:31.000Z",
-          "wordCount": 166,
-          "title": "日本勒索软件攻击数量大幅增长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72806",
-          "author": null,
-          "description": "入侵 《侠盗猎车手6（GTA6）》开发商 Rockstar Games 泄露了数十个视频的黑客宣布以逾 1 万美元的价格出售 GTA V 源代码和素材，GTA6 测试版暂时不出售。黑客声称在入侵期间窃取到了 GTA 5 和 GTA 6 的源代码，以及 GTA 6 的一个测试版本。泄露的视频被证实是真实的，但是否窃取到源代码许多人不太相信，黑客随后公开了源代码截图作为证据。",
-          "link": "https://www.solidot.org/story?sid=72806",
-          "publishedOn": "2022-09-19T10:12:42.000Z",
-          "wordCount": 184,
-          "title": "黑客以 1 万美元出售 GTA V 源代码和素材",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72805",
-          "author": null,
-          "description": "从网站上移除恼人但强制性的 cookies 弹出窗的扩展  I don't care about cookies 的开发者宣布安全公司 Avast 以未披露的价格收购了该扩展。该扩展支持主流浏览器，仅在 Chrome 上就有逾百万用户。这一收购消息在用户中间引发了担忧，因为 Avast 并不是一家备受尊敬的企业，一位用户说，Avast 是这个星球上的癌症。另一位用户称，Avast 是弹出窗鼻祖。",
-          "link": "https://www.solidot.org/story?sid=72805",
-          "publishedOn": "2022-09-19T10:00:46.000Z",
-          "wordCount": 185,
-          "title": "Avast 收购流行扩展 I don't care about cookies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72804",
-          "author": null,
-          "description": "洗劫货物的犯罪分子正利用 GPS 干扰器干扰货运卡车和货轮使用的 GPS 定位导航。GPS 导航使用的卫星信号非常弱，干扰器就是基于这一原理发送频率相同但更强的信号去压制 GPS 信号。典型的 GPS 干扰器能在五公里外干扰信号，使得 GPS 装置完全失效。在墨西哥，大约 85% 的货运卡车盗窃案使用了干扰器。俄罗斯目前正利用干扰器干扰乌克兰上空的商业飞机。商业无人机也日益成为 GPS 干扰器的目标，2018 年香港的一次无人机灯光秀中，46 架无人机因干扰器从空中坠落。企业也日益加固其设备以抵御干扰。",
-          "link": "https://www.solidot.org/story?sid=72804",
-          "publishedOn": "2022-09-19T09:50:44.000Z",
-          "wordCount": 164,
-          "title": "GPS 干扰器被用于劫持卡车和干扰无人机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72803",
-          "author": null,
-          "description": "为了在中国亟需人才的半导体行业找一份工作，土木工程专业的大学毕业生 Frank Jiang 参加了为期半年的技能培训班。自 7 月以来，他向 20 多家芯片公司投了简历。目前没有收到任何录取通知。半导体这个获得优待的行业也受到了经济衰退的影响。一家知名上海芯片公司的 HR 高管称今年计划招聘的人数只有去年的一半，但却收到了更多的简历。Qichacha 的数据显示，今年至今逾 3400 家芯片相关公司倒闭，超过了 2021 年全年的数字。半导体行业的人才仍然短缺，但大部分求职者只能做简单的初级工作，通过几个月的速成班去转变职业越来越难了。",
-          "link": "https://www.solidot.org/story?sid=72803",
-          "publishedOn": "2022-09-19T08:01:25.000Z",
-          "wordCount": 157,
-          "title": "中国半导体市场受到经济衰退的影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72802",
-          "author": null,
-          "description": "国际机器人联合会的数据显示，2021 年面向中国的工业机器人发货量较上一年增长了 45%，超过 24.3 万台。去年中国占全球重型工业机器人安装总量的近一半。快速自动化进程反映出中国越来越认识到，随着中国廉价劳动力供应减少和工资上涨，国内工厂需要作出调整。通过运用更多的机器人，中国的工厂可以弥补日益扩大的劳动力市场缺口，并降低成本，从而削弱西方公司将生产转至其他新兴市场或其母国的优势。",
-          "link": "https://www.solidot.org/story?sid=72802",
-          "publishedOn": "2022-09-19T07:34:45.000Z",
-          "wordCount": 148,
-          "title": "中国工厂加快自动化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72801",
-          "author": null,
-          "description": "哈佛大学科学家开发出一种新型固态锂金属电池，有望实现 3 分钟内完全充电，可持续使用 20 年。科学家创办的初创公司 Adden Energy 已获得哈佛大学技术发展办公室授予的独家技术许可，用于推进该技术的商业化。这款电池使用的是纯金属形式的锂而不是锂离子。“固态”是指使用固体电极和固体电解质，而不是锂离子电池中的液体或聚合物凝胶电解质。在实验室中，该团队的电池原型实现了充电速度快至 3 分钟的，并且在生命周期内可循环超过 1 万次。研究人员表示，即使是同类中最好的电池也只有 2000—3000 次充电循环，这项技术可能会“改变游戏规则”。",
-          "link": "https://www.solidot.org/story?sid=72801",
-          "publishedOn": "2022-09-19T07:31:28.000Z",
-          "wordCount": 164,
-          "title": "新锂金属电池在实验室中能 3 分钟充满电",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72800",
-          "author": null,
-          "description": "在周六 6.4 级地震之后，台湾周日又发生了 6.8 级地震。周日的地震导致建筑损毁，一列列车脱轨。截至周一早上 6 点，地震已造成至少一人死亡，受伤人数增至 146 人。台湾的半导体设施似乎没有受到影响。全球最大芯片代工商台积电发言人表示，地震似乎没有造成任何重大影响。台湾消防署表示，在花莲玉里镇，一名 69 岁的水泥工人在工作时因石材倒塌而被压身亡，经证实是此次地震中的第一位遇难者。",
-          "link": "https://www.solidot.org/story?sid=72800",
-          "publishedOn": "2022-09-19T03:47:36.000Z",
-          "wordCount": 161,
-          "title": "台湾连续两天发生 6 级以上地震",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72799",
-          "author": null,
-          "description": "名叫 teapotuberhacker 黑客在 GTAForums 论坛（已删除）泄露了数十个《侠盗猎车手6（GTA6）》测试视频，总长度约 50 分钟。视频被证实是真实的，相关帖子已经删除，大部分视频也被开发商 Rockstar Games 的母公司 Take-Two Interactive 以侵权为由下架。GTA6 正在开发之中，预计还要数年时间才会发布，故事发生在虚构的迈阿密及周边地区，男女主角的塑造受到了著名雌雄大盗 Bonnie 和 Clyde 的启发。黑客声称是通过 Rockstar 内部 Slack 服务器访问到这些视频的，他们还访问到了游戏源代码，考虑公开 GTA 5 和 GTA 6 的源代码，以及 GTA 6 的一个测试版本。黑客同时表示愿意与 Rockstar 或 Take-Two 达成不公开源代码的交易。这起事件被认为是游戏史上最大的泄露事件之一。",
-          "link": "https://www.solidot.org/story?sid=72799",
-          "publishedOn": "2022-09-19T03:40:30.000Z",
-          "wordCount": 185,
-          "title": "黑客泄露 GTA6 测试视频",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72798",
-          "author": null,
-          "description": "国家统计局周五公布的 8 月经济数据显示，集成电路产量为 247 亿块，同比下跌 24.7%，创下了 1997 年以来的最大单月跌幅。这也是半导体行业连续第二个月萎缩，7 月产量下跌了 16.6% 至 272 亿块。今年前八个月，集成电路产量同比下跌 10% 至 2181 亿块。",
-          "link": "https://www.solidot.org/story?sid=72798",
-          "publishedOn": "2022-09-18T15:59:58.000Z",
-          "wordCount": 159,
-          "title": "上月集成电路产量大幅下挫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72797",
-          "author": null,
-          "description": "Floppydisk.com 创始人 Tom Persky 自称是行业最后一人。他的网站专注于销售和回收软盘，早期的生意是软盘复制，在 1980 年代到 1990 年代初复制磁盘就像印钞一样，利润令人难以置信。但随着软盘的使用下降，绝大部分商店开始停售或退出软盘业务，他才开始销售空白软盘，Floppydisk.com 如今是全球软盘的供应商。为什么他还从事软盘生意？他说原因是他忘记退出这个行业了。软盘使用者的人数在下降，但销售软盘的人数下降更快，他成为软盘行业的最后一人掌握着最大的份额。他买下了数百万张空白软盘，然后靠着销售软盘库存为生。他透露目前软盘库存数量大约还有 50 万张，包括 3.5 英寸、5.25 英寸 和 8 英寸。",
-          "link": "https://www.solidot.org/story?sid=72797",
-          "publishedOn": "2022-09-18T14:55:07.000Z",
-          "wordCount": 161,
-          "title": "仍在销售软盘的商人",
-          "imageUrl": null
         }
       ]
     },
@@ -3402,6 +3432,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/730040/",
+          "author": null,
+          "description": "如果你没有接触过 Meta 的元宇宙平台，或许很难想象上面的用户们最迫切的需求，只是为他们的建模添上一双腿。 没人知道“元宇宙”这个诞生自 1992 年的科幻小说中的概念，为何会在 30 年后突然开始流行。不过当我们站在 2022 年回望近来的“元宇宙热”时，不难发现如此奢侈的虚拟世界似乎离我们还有\n本文链接",
+          "link": "https://news.cnblogs.com/n/730040/",
+          "publishedOn": "2022-10-19T00:57:00.000Z",
+          "wordCount": 161,
+          "title": "死磕元宇宙的扎克伯格，真的快把自家公司磕死了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730039/",
+          "author": null,
+          "description": "10 月 19 日消息，随着与特斯拉首席执行官埃隆·马斯克（Elon Musk）达成收购协议的最后期限临近，推特周二冻结了员工的股权奖励账户。这一迹象表明，推特希望交易能够完成。 推特本周更新了员工常见问题页面，提醒员工他们将无法访问或交易股票奖励中心（Equity Award Center）的股票\n本文链接",
+          "link": "https://news.cnblogs.com/n/730039/",
+          "publishedOn": "2022-10-19T00:51:00.000Z",
+          "wordCount": 161,
+          "title": "与马斯克交易最后期限临近 推特锁定员工股权账户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730038/",
+          "author": null,
+          "description": "从第四季度开始，奈飞将不再提供付费用户数据指引。 财联社 10 月 19 日讯（编辑牛占林）美股周二盘后，奈飞(Netflix)公布了三季度业绩。财报显示，奈飞不但扭转了付费订阅用户流失的局面，而且还提供了高于华尔街预期的乐观前景。奈飞股价盘后大幅飙升，涨幅一度超过 15%。 财报显示，奈飞三季度营\n本文链接",
+          "link": "https://news.cnblogs.com/n/730038/",
+          "publishedOn": "2022-10-19T00:46:00.000Z",
+          "wordCount": 161,
+          "title": "奈飞Q3扭转用户流失局面 新增240多万付费用户 股价盘后大涨逾14%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730037/",
+          "author": null,
+          "description": "10 月 19 日消息，富士康董事长兼首席执行官刘扬伟本周二在公司年度科技日上表示，希望有朝一日能为特斯拉生产电动汽车。 作为苹果 iPhone 的组装商，富士康计划将旗下业务拓展到交通运输领域。刘扬伟在发布两款富士康电动汽车原型 Model B 跨界 SUV 和 Model V 皮卡时发表了上述评\n本文链接",
+          "link": "https://news.cnblogs.com/n/730037/",
+          "publishedOn": "2022-10-19T00:41:00.000Z",
+          "wordCount": 161,
+          "title": "富士康CEO：不会销售自家品牌的电动汽车 希望能为特斯拉代工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730036/",
+          "author": null,
+          "description": "网易数码讯 10 月 18 日消息，苹果通过线上更新的方式正式发布了 M2 芯片版 iPad Pro 以及新版的 iPad（第十代）。 M2 芯片版 iPad Pro 外观设计上没有「大变化」，依然是两个尺寸可选，分别是 11 英寸与 12.9 英寸；显示屏规格上，11 英寸版 iPad Pro 采\n本文链接",
+          "link": "https://news.cnblogs.com/n/730036/",
+          "publishedOn": "2022-10-19T00:37:00.000Z",
+          "wordCount": 161,
+          "title": "M2芯片版iPad Pro发布：6799元起 最高2TB存储",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730035/",
+          "author": null,
+          "description": "文｜深燃，作者邹帅，编辑唐亚华 闲鱼也支持七天无理由退货了？ 据闲鱼官方通知，10 月 8 日起，闲鱼规范要求从事商业经营活动的经营性卖家应按法律法规及规范要求提供“七天无理由退货”服务，买家退回商品应当保持完好。具体而言，完成亮证亮照或个人声明，闲鱼个人主页展示“商”标识的卖家须执行上述服务。 认\n本文链接",
+          "link": "https://news.cnblogs.com/n/730035/",
+          "publishedOn": "2022-10-19T00:30:00.000Z",
+          "wordCount": 161,
+          "title": "闲鱼这碗饭，不好吃了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730034/",
+          "author": null,
+          "description": "文最话 FunTalk，作者孙颖莹，编辑王芳洁 大概一个月以前，抖音正式推出了开放平台，并公布了开放平台的业务载体——抖音小程序。 原本，小程序这件事没什么可说的，从微信到支付宝，再到百度，很多平台都在做，做起来也不复杂，细分市场上恰饭的第三方服务公司有不少。 但抖音做这件事，其实折射了一个非常明显\n本文链接",
+          "link": "https://news.cnblogs.com/n/730034/",
+          "publishedOn": "2022-10-19T00:20:00.000Z",
+          "wordCount": 161,
+          "title": "抖音为什么要做私域",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730033/",
+          "author": null,
+          "description": "文新摘商业评论，作者赫里 九天前，闲鱼正式施行“七天无理由退货” 服务，要求从事商业经营活动的经营性卖家须按照法律法规及规范履行该规定。 规定背后，是大量“鱼目混珠”的职业卖家涌入平台制造的又一轮信任危机，\"职业闲置骗子\" 俨然成为用户心中的一根刺，也让闲鱼如芒在背。 与将“真货正品”奉为圭臬、重拳\n本文链接",
+          "link": "https://news.cnblogs.com/n/730033/",
+          "publishedOn": "2022-10-19T00:10:00.000Z",
+          "wordCount": 161,
+          "title": "闲鱼终成假淘宝？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730032/",
+          "author": null,
+          "description": "文刺猬公社，作者｜园长，编辑｜李乐蜀 如果说 2022 年还有什么互联网大厂集体投入的业务的话，那么视频云一定可以算一个。 绝大多数用户并不知道什么叫视频云，但视频云早已是互联网音视频行业的空气和水，在线直播、视频会议、主播连麦等用户早已习惯使用的产品，都是以视频云为技术底座；而在越来越多的产品整合\n本文链接",
+          "link": "https://news.cnblogs.com/n/730032/",
+          "publishedOn": "2022-10-19T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "为什么每个大厂，都在押注视频云？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730031/",
+          "author": null,
+          "description": "梦晨 Pine 发自凹非寺 量子位公众号 QbitAI 机器人，首次成为英国上议院的座上宾。 她名叫Ai-Da，自称是世界上第一位超写实机器人艺术家，并介绍了自己的双眼是摄像头，用机械臂执笔，靠 AI 算法画画。 这是英国议会对未来创意产业的一场调查听证会，一位男爵夫人向机器人提问：你的作品和人类艺\n本文链接",
+          "link": "https://news.cnblogs.com/n/730031/",
+          "publishedOn": "2022-10-18T15:20:00.000Z",
+          "wordCount": 161,
+          "title": "第一位在英国议会发言的机器人，曾被怀疑是间谍，遭埃及海关拘留",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730030/",
+          "author": null,
+          "description": "丰色发自凹非寺 量子位公众号 QbitAI 家人们，要爬虫——现在用一个电子表格就行了。 一行代码也别写，第三方软件也甭安。 只需在表格里点几下就 ok。 不信，你瞧： 就这么两下，网页上的商品信息都有了。 网友看完都惊呆了，码个不停。 一看到这是来自谷歌的产品（Google Sheet，谷歌的“E\n本文链接",
+          "link": "https://news.cnblogs.com/n/730030/",
+          "publishedOn": "2022-10-18T15:00:00.000Z",
+          "wordCount": 161,
+          "title": "谷歌“Excel”好强：不用自己写代码就能爬虫，网友问微软慌不慌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730029/",
+          "author": null,
+          "description": "丰色詹士发自凹非寺 量子位公众号 QbitAI 河南一村庄引来 16 位博士建研究院。 这两天，这样一则新闻在网上引发不小关注。 据河南媒体「大参考」消息，这 16 位博士放弃北上广研究所、高校工作，甚至打掉铁饭碗，在巩义胡坡村扎根建研究院。 目前，研究团队不仅吸纳了 16 位博士，还有硕士百余人，\n本文链接",
+          "link": "https://news.cnblogs.com/n/730029/",
+          "publishedOn": "2022-10-18T14:45:00.000Z",
+          "wordCount": 161,
+          "title": "16个博士回河南乡村创业，现在披露上市计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730028/",
+          "author": null,
+          "description": "萧箫羿阁发自凹非寺 量子位公众号 QbitAI 只凭 DNA 就还原出罪犯的长相，还是 3D 版的？ 没错，只需要一个 AI 模型，就能还原出这人的年龄、肤色、瞳色、甚至整个 3D 头像…… 即使在此之前，没有任何人目击过这个嫌疑犯也没关系，用它合成的照片直接就能发布通缉令。 据提供这项技术的公司介\n本文链接",
+          "link": "https://news.cnblogs.com/n/730028/",
+          "publishedOn": "2022-10-18T14:35:00.000Z",
+          "wordCount": 161,
+          "title": "仅凭DNA还原嫌疑犯3D人脸，加拿大警方一通操作却被网友骂惨了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730027/",
+          "author": null,
+          "description": "文/金磊丰色 来源/量子位（ID:QbitAI） 机器人搞花活，还得是波士顿动力—— 自家的 Spot 和 Atlas 机器人联动跳起了男团 BTS 的舞蹈。 开场，先是派出 7 只 Spot 站好队形，大跳齐舞： 动作可以说是整齐划一，不论是蹦跳、走位，队形丝毫没有偏差。 不仅如此，Atlas 还\n本文链接",
+          "link": "https://news.cnblogs.com/n/730027/",
+          "publishedOn": "2022-10-18T14:20:00.000Z",
+          "wordCount": 161,
+          "title": "波士顿动力再惊艳！机器人大秀男团舞，举手投足人味满满，多次转卖后展示新标签",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730026/",
+          "author": null,
+          "description": "文/小卢鱼 来源：巨潮 WAVE（ID:WAVE-BIZ) 在全球范围内，曾经被认为具备强大网络效应和巨大资本号召力的社交网络公司，其价值似乎正在被重新评估。 老牌社交媒体龙头们今年的日子过得一点都不平静： Facebook 的母公司 Meta，被多名员工曝光正在通过将员工列入绩效改进计划（PIP）\n本文链接",
+          "link": "https://news.cnblogs.com/n/730026/",
+          "publishedOn": "2022-10-18T14:10:00.000Z",
+          "wordCount": 161,
+          "title": "2022，社交网络危局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730025/",
+          "author": null,
+          "description": "文/曹原 来源/智能车参考（ID:AI4Auto） 好嘛，斌哥又 high 了。 这不蔚来刚在柏林开了一场进军德国的发布会，用租赁的方式开启德国落地，在车企巨头之乡秀肌肉。 斌言斌语自然也不能少，果然被老外摆了一道，随口就要李斌评价一下汽车友商们。 对德国车企，斌哥完全 respect，认为奔驰和大\n本文链接",
+          "link": "https://news.cnblogs.com/n/730025/",
+          "publishedOn": "2022-10-18T13:55:00.000Z",
+          "wordCount": 161,
+          "title": "蔚来李斌：特斯拉如果不改进产品和服务，很快会被市场淘汰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730024/",
+          "author": null,
+          "description": "编/好困 Aeneas 来源：新智元（ID:AI_era) Meta 头显才买 6 个月，就放在家里吃灰，很多用户还会头晕呕吐。小扎的元宇宙似乎困难重重。 就在上周，小扎总算在 Horizon Worlds 里完成一个划时代的创举——元宇宙里的人终于长出腿了！ 然而…… 你有没有感觉，台上这两位的动\n本文链接",
+          "link": "https://news.cnblogs.com/n/730024/",
+          "publishedOn": "2022-10-18T13:40:00.000Z",
+          "wordCount": 161,
+          "title": "头显戴上就吐， 小扎长腿竟是“诈骗”！烧完100亿美元，元宇宙大翻车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730023/",
+          "author": null,
+          "description": "来源：字母榜 在比亚迪、蔚来等一众车企携带新能源车型在欧洲市场狂刷存在感的时刻，曾经作为首个向欧洲消费者直接交付中国智能汽车品牌的小鹏汽车，却在有意放缓出海节奏。今年 5 月份，任职不到一年半、负责小鹏出海业务的副总裁何利扬被爆离职。 遭遇节奏放缓的不只是海外市场。国内市场，9 月份造车新势力销量数\n本文链接",
+          "link": "https://news.cnblogs.com/n/730023/",
+          "publishedOn": "2022-10-18T13:26:00.000Z",
+          "wordCount": 161,
+          "title": "华为大疆入场，小鹏骑虎难下？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730022/",
+          "author": null,
+          "description": "文｜科技新知，作者丨樟稻，编辑丨伊页 “我希望阿里巴巴有三样东西可以传承下去，有一天阿里巴巴不在了，这三样就是我们留给世界最好的东西。” 2017 年杭州的云栖大会上，马云表达了上述期许。这三样最好的东西，分别是阿里成立的全球研究院达摩院、由马云担任校长的湖畔大学，以及阿里巴巴的公益基金会。 转眼到\n本文链接",
+          "link": "https://news.cnblogs.com/n/730022/",
+          "publishedOn": "2022-10-18T11:20:00.000Z",
+          "wordCount": 161,
+          "title": "达摩院留不住“扫地僧”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/730021/",
+          "author": null,
+          "description": "近日，“支付宝上线新功能，支持转账给微信好友”的传闻引发了广泛关注，相关话题也冲上微博热搜。 对此，钛媒体 APP 从知情人士处了解到，“这是支付宝内部为响应部分用户需求，于 9 月中旬推出的一项小范围测试服务。用户发起转账后，可通过这项服务在微信渠道通知好友接收转账。目前该服务仍在收集各方反馈和进\n本文链接",
+          "link": "https://news.cnblogs.com/n/730021/",
+          "publishedOn": "2022-10-18T09:23:00.000Z",
+          "wordCount": 161,
+          "title": "支付宝支持转账给微信好友？这只是个误会",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/729963/",
           "author": null,
@@ -8201,126 +8431,6 @@
           "wordCount": 161,
           "title": "这AI保熟吗？大谷Stable Diffusion巨制：《华强买瓜》好莱坞巨星版来了！",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728464/",
-          "author": null,
-          "description": "前段时间，刘畊宏直播跳健身操，掀起了一波全民健身的热潮，一时间涌现出大量的“刘畊宏女孩”。跟着熟悉且有节奏的音乐，跳着相对简单的舞步姿势，而且还有刘畊宏直播陪同，让很多想减肥但没毅力的朋友一时间有了坚持下去的信心。正是这种参与感、氛围感，让越来越多人加入到直播健身热潮中，有的甚至把全家人一起拉上，通\n本文链接",
-          "link": "https://news.cnblogs.com/n/728464/",
-          "publishedOn": "2022-09-19T01:40:00.000Z",
-          "wordCount": 161,
-          "title": "刘畊宏是大屏电视的“贵人”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728461/",
-          "author": null,
-          "description": "来源：远川研究所 以前的汽车三大件是发动机、底盘和变速箱，现在却成了冰箱、沙发和彩电，车里没几块屏幕都不好意思说自己是电动爹。 短短十年时间，车载大屏的尺寸已经从 10 寸卷到了 20 寸乃至 40 寸，7 座 SUV 甚至可以实现人均一屏，而且连打开的姿势也变得五花八门，有升降的，有旋转的，有滑动\n本文链接",
-          "link": "https://news.cnblogs.com/n/728461/",
-          "publishedOn": "2022-09-19T01:32:01.000Z",
-          "wordCount": 161,
-          "title": "有多少人在被迫为车载大屏买单？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728469/",
-          "author": null,
-          "description": "新智元报道 编辑：Aeneas 好困 利用 AI，我们现在可以在几秒之内设计出自然界中全新的蛋白质了。最近，来自华盛顿大学的科学家在 Science 上连发两篇论文，介绍了 ProteinMPNN 算法工具。 过去两年，机器学习彻底改变了蛋白质结构预测。 而现在，人工智能又在蛋白质设计领域引发了新一\n本文链接",
-          "link": "https://news.cnblogs.com/n/728469/",
-          "publishedOn": "2022-09-19T01:08:00.000Z",
-          "wordCount": 161,
-          "title": "秒杀AlphaFold！Science：用AI一秒设计自然界全新蛋白质",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728468/",
-          "author": null,
-          "description": "新智元报道 编辑：好困 、桃子 前阿里副总裁、达摩院城市大脑实验室负责人华先胜现已出任特斯联 CTO 。 近日，特斯联宣布，华先胜博士正式出任集团首席技术官（CTO）。 华先胜是国际电气与电子工程师协会会士（IEEE Fellow）；美国计算机协会杰出科学家（ACM Distinguished Sc\n本文链接",
-          "link": "https://news.cnblogs.com/n/728468/",
-          "publishedOn": "2022-09-19T01:00:00.000Z",
-          "wordCount": 161,
-          "title": "前阿里副总裁华先胜履新，加盟特斯联任CTO！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728467/",
-          "author": null,
-          "description": "软银集团视觉中国资料图 软银再次“割肉”。 9 月 16 日，挪威在线游戏教学初创企业 Kahoot 宣布，其股东软银集团（SoftBank Group Corp.）已与美国泛大西洋投资集团（General Atlantic FT BV）达成协议，将旗下基金 SB Northstar LP 持有 K\n本文链接",
-          "link": "https://news.cnblogs.com/n/728467/",
-          "publishedOn": "2022-09-19T00:51:00.000Z",
-          "wordCount": 161,
-          "title": "又是一笔高买低卖，软银半价清仓挪威在线教学公司15%股份",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728466/",
-          "author": null,
-          "description": "【环球时报综合报道】为扭转全球变暖趋势，美国耶鲁大学研究人员提出了高空播撒二氧化硫微颗粒的新招。 英国《镜报》17 日报道称，根据科学家提出的这项“平流层气溶胶注入”建议，100 多架飞机将于每年春夏季在地球南北纬 60 度地区持续作业，在距离地面 8 英里的高空播撒二氧化硫微颗粒，这些微颗粒会被高\n本文链接",
-          "link": "https://news.cnblogs.com/n/728466/",
-          "publishedOn": "2022-09-19T00:47:00.000Z",
-          "wordCount": 161,
-          "title": "“气溶胶注入”能给南北极降温？美研究人员出新招！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728465/",
-          "author": null,
-          "description": "IT 之家 9 月 19 日消息，综合外媒 9To5Mac 和 Apple Insider 报道，有部分苹果 iPhone 14 Pro 用户称，第三方 App 使用相机时出现了画面模糊和抖动问题，同时伴随着物理的嗡嗡声。 用户报告称，Snapchat、TikTok 和 Instagram 等流行的\n本文链接",
-          "link": "https://news.cnblogs.com/n/728465/",
-          "publishedOn": "2022-09-19T00:42:00.000Z",
-          "wordCount": 161,
-          "title": "苹果 iPhone 14 Pro 相机在第三方 App 中出现画面模糊和抖动问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728463/",
-          "author": null,
-          "description": "9 月 19 日消息，美国国家航空航天局(NASA)计划于当地时间本周三对阿尔忒弥斯 1 号任务的太空发射系统（SLS）登月火箭进行加注燃料的关键测试，验证任务团队解决氢燃料泄露的方法是否起效。如果一切顺利，SLS 火箭可能会于 9 月 27 日按计划发射升空。但测试工作进展遇阻的话，阿尔忒弥斯 1\n本文链接",
-          "link": "https://news.cnblogs.com/n/728463/",
-          "publishedOn": "2022-09-19T00:38:00.000Z",
-          "wordCount": 161,
-          "title": "NASA计划周三对登月火箭进行燃料加注测试",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728462/",
-          "author": null,
-          "description": "文/王新喜 “在今天，还以为囤苹果手机能发财，黄牛的思维无疑还停留在5~6 年前。”有业内人士向笔者这样说到。 早在今年6~7 月，iPhone 高端版涨价的新闻层出不穷，彼时大量黄牛在蠢蠢欲动，不少黄牛认为，一年中最好赚的日子到了。天风国际分析师郭明錤此前通过海外社交平台表示，以他对中国经销商、零\n本文链接",
-          "link": "https://news.cnblogs.com/n/728462/",
-          "publishedOn": "2022-09-19T00:30:00.000Z",
-          "wordCount": 161,
-          "title": "囤iPhone 14亏惨：时代变了，黄牛还活在过去",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728460/",
-          "author": null,
-          "description": "【环球时报报道记者倪浩】根据中美在 8 月底就中概股审计达成的协议，中国证监会将安排在美上市的中国公司及其会计师事务所将其审计底稿和其他数据从内地转移到香港，在 9 月中旬接受美方检查。美国 2020 年年底出台的《外国公司问责法》规定，在美上市的中概股如果连续三年未能提交美国公众公司会计监督委员会\n本文链接",
-          "link": "https://news.cnblogs.com/n/728460/",
-          "publishedOn": "2022-09-19T00:20:00.000Z",
-          "wordCount": 161,
-          "title": "美方将审计中概股，互联网巨头将首批接受审计底稿检查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728459/",
-          "author": null,
-          "description": "撰文 / 陈畅 编辑 / 杨洁 新东方直播带货业务“东方甄选”在成长为“抖音一哥”后，日前又被传可能选择“入淘直播”。在几个月前，东方甄选自建独立电商 App 的消息传出后，也一度在业界掀起了其是否要“自立门户”、离开抖音的猜测。 于 2021 年年底诞生的“东方甄选”，用了半年多时间，才终于走红到\n本文链接",
-          "link": "https://news.cnblogs.com/n/728459/",
-          "publishedOn": "2022-09-19T00:10:00.000Z",
-          "wordCount": 161,
-          "title": "3个月带货20亿，抖音留不住俞敏洪？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/728458/",
-          "author": null,
-          "description": "本文来自微信公众号：判官老司机（ID：panguansays），作者：判官，题图来自：视觉中国 iPhone 有摆烂的资本了？ 今年至少有三个产品，特别需要罗永浩的参与：交个朋友的直播带货，笑果文化的脱口秀大会，苹果公司的 iPhone。随着 iPhone 14 到货，有网友表示：老罗，你那美国的子\n本文链接",
-          "link": "https://news.cnblogs.com/n/728458/",
-          "publishedOn": "2022-09-19T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "iPhone摆烂，只因在座的安卓全是垃圾？",
-          "imageUrl": null
         }
       ]
     },
@@ -8348,16 +8458,6 @@
           "wordCount": 449,
           "title": "老司机 iOS 周报 #218 | 2022-09-26",
           "imageUrl": "https://opengraph.githubassets.com/483677864f22802f5f9745bcc2bfc385f74a8096eb9302d441995107cf492761/SwiftOldDriver/iOS-Weekly/releases/tag/%23218"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23217",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🐢 字节跳动 DanceCC 工具链系列之 Xcode LLDB 耗时监控统计方案\n@含笑饮砒霜：在 字节跳动 DanceCC 工具链系列之 Swift 调试性能的优化方案 一文中，介绍了如何使用自定义的工具链，来针对性优化调试器的性能，解决大型 Swift 项目的调试痛点。为了精确测量经过优化后的 LLDB 调试 Xcode 项目效率提升效果，衡量项目收益，需要开发一套能够同时获取 Xcode 官方工具链与 DanceCC 工具链调试耗时的耗时监控方案。本文详述了 DanceCC 提出了一套专门的方案，方案原理基于 LLDB Plugin，利用 Fishhook，从 LLDB 的 Script Bridge API 层面拦截 Xcode 对 LLDB 调用，以此来进行耗时监控统计。\n🐢 这一年，我对终端组织与技术架构的思考【专家讲技术】\n@莲叔：闲鱼是国内较早进行 Flutter 业务尝试，也是较早的全面拥抱 Flutter 的 App。本篇文章里，闲鱼的技术负责人宗心分享了他对于移动开发行业从软件架构和组织形式两个视角的变迁，之后提出了未来可能的一种岗位分工：应用研发工程师和基础设施开发工程师，并且发布了闲鱼围绕这样的岗位分工开发的一套基于 Flutter 的 UI 开发渲染引擎 KUN。移动开发到如今已经发展的超过十年的时间，研发团队相比最开的 iOS/Android 开发已经演化出了更复杂的形式，这篇文章是对这些趋势一个比较不错的归纳，对自己技术栈觉得迷茫的同学也可以看看。\n🐎 基于 React Native 的动态列表方案探索\n@Damien：动态渲染框架大家一定不陌生，比如阿…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23217",
-          "publishedOn": "2022-09-19T02:13:00.000Z",
-          "wordCount": 584,
-          "title": "老司机 iOS 周报 #217 | 2022-09-19",
-          "imageUrl": "https://opengraph.githubassets.com/9da776b72bcb7ea9648aa5633b8c0b19abd9bca3fe9128c513a3b086c79ff889/SwiftOldDriver/iOS-Weekly/releases/tag/%23217"
         }
       ]
     }
