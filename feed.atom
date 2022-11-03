@@ -2,10 +2,373 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T01:59:55.159Z</updated>
+    <updated>2022-11-03T01:46:30.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[百度发布自动驾驶数据闭环合规方案 驱动自动驾驶产业安全发展]]></title>
+        <id>https://news.cnblogs.com/n/730971/</id>
+        <link href="https://news.cnblogs.com/n/730971/"/>
+        <updated>2022-11-03T00:28:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 2 日，百度 Apollo“自动驾驶云 2.0 预发布沟通会”在北京亦庄举办。会上披露，百度将为车企提供自动驾驶研发全栈的数据闭环合规解决方案，满足智能汽车、自动驾驶数据采集安全合规要求，助力车企研发、运营、商业化等全场景闭环，为汽车产业注入数据驱动力，赋能车企打造创新的智驾应用，推动自动
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海康威视前三季度业绩增速创新低，年内股价跌超四成]]></title>
+        <id>https://news.cnblogs.com/n/730970/</id>
+        <link href="https://news.cnblogs.com/n/730970/"/>
+        <updated>2022-11-03T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，海康威视（002415.SZ）公布三季度业绩。财报显示，海康威视第三季度营收虽稳住增长势头，但是归属净利润大减。对于业绩增长失速，海康威视这样解释道，2022 年三季度，国内防疫抗疫形势仍然非常严峻，经济下行、需求疲软；国际冲突加剧，整体经营环境充满了挑战和不确定性。 钛媒体 APP 注意到，
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧拉闪电猫：换个姿势，再来一次？]]></title>
+        <id>https://news.cnblogs.com/n/730969/</id>
+        <link href="https://news.cnblogs.com/n/730969/"/>
+        <updated>2022-11-03T00:16:00.000Z</updated>
+        <summary type="html"><![CDATA[“欧拉更爱女人的汽车品牌（定位）从未改变，但是我们从来没有说拒绝男性。”欧拉 CEO 董玉东在闪电猫上市发布会上将“男女通吃”作为了品牌新的定位。 一年前，时任欧拉品牌营销总经理的余飞还在强调：“男司机、男用户可不可以买（欧拉）？可以买，但是不好意思，我们关注的可能不在你这儿。” 从黑猫白猫到闪电猫
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆发布DJI Mavic 3 Classic航拍无人机，售价9288元起]]></title>
+        <id>https://news.cnblogs.com/n/730968/</id>
+        <link href="https://news.cnblogs.com/n/730968/"/>
+        <updated>2022-11-03T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[品玩 11 月 2 日讯，今日，大疆正式发布了 DJI Mavic 3 Classic，售价 9288 元（仅飞行器）起。 Mavic 3 Classic 搭载与哈苏合作定制的 L2D-20c 航拍相机，具备 4/3 CMOS 传感器，可实现 12.8 档原生动态范围，f / 2.8-f / 11 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌街景独立 App 将于 2023 年停止运营]]></title>
+        <id>https://news.cnblogs.com/n/730967/</id>
+        <link href="https://news.cnblogs.com/n/730967/"/>
+        <updated>2022-11-03T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[据 9to5Google，安卓和 iOS 版谷歌街景 App 将于明年初停止运营，并将在未来几周从应用商店中删除。一位 Google 发言人证实，该应用将从 2023 年 3 月起停用。 这是安卓和 iPhone 上的专用街景应用程序，允许用户使用谷歌公司的服务来获得世界各地的 360 度视图。需要
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是时候重新思考浏览器了]]></title>
+        <id>https://news.cnblogs.com/n/730966/</id>
+        <link href="https://news.cnblogs.com/n/730966/"/>
+        <updated>2022-11-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Darin Fisher 参与构建了多种浏览器，在职业生涯的早期他在网景从事软件工程师的工作，开发了 Navigator，帮助它变成开源的 Firefox。随后他去 Google 工作了 16 年，帮助构建了 Chrome 和 ChromeOS。去年他离开 Google 去了 Neeva，今年他又离
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克真的不想要推特]]></title>
+        <id>https://news.cnblogs.com/n/730965/</id>
+        <link href="https://news.cnblogs.com/n/730965/"/>
+        <updated>2022-11-02T17:24:34.000Z</updated>
+        <summary type="html"><![CDATA[文｜老铁 在推特正式被马斯克收购时候，市场中传出了许多“溢美之词”，诸如赞赏马斯克还是懂推特，兜兜转转历经曲折还是要“好资产”收归囊中，甚至有人开始给马斯克测算，且为当事人计算这是一笔如何如何划算的生意，又或是在不久之后重新上市，总之这是一个让马斯克赚得盆满钵满的交易。 在对相关信息和市场进行研究之
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这届大学生，开始卷HR实习]]></title>
+        <id>https://news.cnblogs.com/n/730964/</id>
+        <link href="https://news.cnblogs.com/n/730964/"/>
+        <updated>2022-11-02T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜新周刊，作者｜陈碗几 到了大三的暑假，小D才意识到，是时候找一份大厂实习，充实下自己的履历了。连夜制作个人简历后，她投递了一家世界 500 强公司的 HR 岗位。 看到手机显示陌生来电的时候，她正躺在沙发床上等漫画更新，“我好像没点外卖呀”。对方表明自己是某某大厂的 HR，她猛地一下坐起来。 电
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta AI 模型预测蛋白质结构的速度 60 倍于 AlphaFold]]></title>
+        <id>https://www.solidot.org/story?sid=73246</id>
+        <link href="https://www.solidot.org/story?sid=73246"/>
+        <updated>2022-11-02T15:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Google 旗下的 AI 子公司 DeepMind 今年早些时候宣布了预测蛋白质结构的 AI 系统 AlphaFold。现在社交网络巨头 Meta/Facebook 的研究人员完成了类似的工作，他们利用了一种语言模型，用已知的蛋白质结构序列进行训练，然后再用它去预测其它蛋白质的结构。研究人员将他们的 AI 模型称为 ESMFold，它没有 AlphaFold 精确，但预测蛋白质结构的速度是 AlphaFold 的 60 倍。研究人员用了两周时间预测了逾 6.17 亿蛋白质的结构，相比之下 AlphaFold 需要用数分钟才能完成一个蛋白质结构的预测。在 6.17 亿结构中，逾三分之一被认为是高质量的，被认为是正确的。其中有数百万是全新的，与已知蛋白质结构数据库都不同。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钓鱼网站在 Google 上伪装成 GIMP 打广告]]></title>
+        <id>https://www.solidot.org/story?sid=73245</id>
+        <link href="https://www.solidot.org/story?sid=73245"/>
+        <updated>2022-11-02T15:38:31.000Z</updated>
+        <summary type="html"><![CDATA[上周如果你在 Google 搜索知名开源图像编辑软件 GIMP，会显示自称 GIMP.org 的广告，但点击该广告会进入伪装成 GIMP 的钓鱼网站，而不是真正的官网，它提供下载的当然不是真正的 GIMP 而是恶意程序。攻击者使用了域名 gilimp.org 和 gimp.monster，与真正的官网域名 GIMP.org 存在明显区别。对其托管的恶意程序样本的调查发现它是窃取信息的恶意程序 VIDAR，设计窃取浏览器上储存的密码、cookies、历史和信用卡数据，以及加密货币钱包，Telegram 登陆凭证，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 的 AI 驱动音频编解码器压缩率十倍于 MP3]]></title>
+        <id>https://www.solidot.org/story?sid=73244</id>
+        <link href="https://www.solidot.org/story?sid=73244"/>
+        <updated>2022-11-02T15:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Meta/Facebook 宣布了 AI 驱动的新音频编解码器 EnCodec，压缩后的大小仅为 MP3 文件格式的十分之一。Meta 表示这项技术能显著改善低带宽下的语音声音质量。Meta 同时在预印本平台 arxiv 上发表了论文《High Fidelity Neural Audio Compression》。新的方法由三部分组成，首先编码器将未压缩数据转换成低帧率的潜在空间（latent space）表示；量化器 quantizer 随后压缩表示到目标大小，同时跟踪最重要信息以用于未来重建原始信号；解码器最后用单 CPU 上的神经网络将压缩后的数据实时转变成音频。研究人员表示他们是第一个实现将神经网络技术应用于压缩  48 kHz 立体声。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联通与腾讯合作设立混改新公司]]></title>
+        <id>https://www.solidot.org/story?sid=73243</id>
+        <link href="https://www.solidot.org/story?sid=73243"/>
+        <updated>2022-11-02T12:49:49.000Z</updated>
+        <summary type="html"><![CDATA[联通创投与腾讯产投合作成立了一家混合所有制公司。该合营企业拟主要从事内容分发网络（CDN）和边缘计算业务。交易完成后，联通创投、腾讯产投、有关员工持股平台将分别持有合营企业48%、42%、10%的股权，联通创投、腾讯产投共同控制合营企业。业内人士表示，“此次合作或许重点集中在腾讯和联通的云计算业务合作，有了联通背书后，将极大促进腾讯旗下云计算业务的发展。从合营企业的经营范围来看，目前涵盖业务并不广泛，预计是将腾讯和联通旗下部分现有业务剥离出来，打包进新公司，而不是开辟新业务。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TomTom 宣布与 OpenStreetMap 合作]]></title>
+        <id>https://www.solidot.org/story?sid=73242</id>
+        <link href="https://www.solidot.org/story?sid=73242"/>
+        <updated>2022-11-02T12:46:23.000Z</updated>
+        <summary type="html"><![CDATA[知名汽车 GPS 导航系统制造商 TomTom 宣布与开源地图项目 OpenStreetMap 合作，它们将推出名为 TomTom Maps Platform 的新地图平台，将为地图制图设定新的标准。通过与  OpenStreetMap 合作，新地图将能覆盖更大的范围，提供更多的细节和新鲜度。TomTom 预计将在 2023 年第二季度开始推出新地图。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle 将 GraalVM 贡献给 OpenJDK，以解决“采用障碍”]]></title>
+        <id>https://news.cnblogs.com/n/730963/</id>
+        <link href="https://news.cnblogs.com/n/730963/"/>
+        <updated>2022-11-02T10:35:10.000Z</updated>
+        <summary type="html"><![CDATA[根据公告，Oracle 正在将 GraalVM 社区版（Java 的本机代码编译器）贡献给 OpenJDK ，但不包括 JavaScript、Python、Ruby、R 和 WebAssembly 等语言的“多语言技术”。 目前，GraalVM 社区版已经是开源的，但该公司表示，迁移到 OpenJD
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被“唱衰”的激光雷达，其实正在转型]]></title>
+        <id>https://news.cnblogs.com/n/730962/</id>
+        <link href="https://news.cnblogs.com/n/730962/"/>
+        <updated>2022-11-02T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[激光雷达正在经历一场从“L4 走向 L2”的变革。 去年开始，特斯拉正式拿掉了车上的毫米波雷达。而从今年 10 月起，在部分地区的特斯拉 Model Y 甚至直接去掉了超声波雷达。一贯“抵触雷达”的特斯拉成为“唱衰”激光雷达论调的主要“论据”。特别是在最近，老牌激光雷达企业 Ibeo 的破产再次引发
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯科研实力获国际权威认可，8名科学家“全球前2%顶尖科学家榜单”]]></title>
+        <id>https://news.cnblogs.com/n/730961/</id>
+        <link href="https://news.cnblogs.com/n/730961/"/>
+        <updated>2022-11-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 1 日，记者获悉美国斯坦福大学（Stanford University）于 10 月 10 日发布了 2022 年度“全球前2% 顶尖科学家榜单”(World's Top 2% Scientists 2022)。腾讯共 8 名科学家入选 “终身科学影响力排行榜”，30 名科学家及专家入围“
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米烧屏修复专利公布]]></title>
+        <id>https://news.cnblogs.com/n/730960/</id>
+        <link href="https://news.cnblogs.com/n/730960/"/>
+        <updated>2022-11-02T09:52:00.000Z</updated>
+        <summary type="html"><![CDATA[公开信息显示，近日，北京小米移动软件有限公司“烧屏修复方法、烧屏修复装置及存储介质”专利公布。 专利摘要显示，烧屏修复方法包括：响应于终端被触发进行烧屏修复，在显示屏上显示纯色画面，从而显示有待修复烧屏区域，确定匹配的烧屏修复类型；基于修复类型与修复参数之间的对应关系，确定匹配的烧屏修复参数；根据烧
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯TIM“云文件”功能将停止服务]]></title>
+        <id>https://news.cnblogs.com/n/730959/</id>
+        <link href="https://news.cnblogs.com/n/730959/"/>
+        <updated>2022-11-02T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 2 日消息，腾讯 TIM App 发布 TIM“云文件”停止服务公告。公告显示，由于业务调整，TIM“云文件”功能将于 2022 年 12 月 5 日停止服务。 腾讯方面建议用户尽快备份云文件中的重要文件，避免功能停止服务后带来的影响。手机文件、腾讯文档和微云云盘功能不受本次业务调整影响，
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东方甄选3个月带货超22亿元，推出42款自营农产品]]></title>
+        <id>https://news.cnblogs.com/n/730958/</id>
+        <link href="https://news.cnblogs.com/n/730958/"/>
+        <updated>2022-11-02T09:42:00.000Z</updated>
+        <summary type="html"><![CDATA[图片来源：Unsplash 芥末堆文近日，新东方（09901.HK, EDU.US）发布季度财报显示，2022 年 6 月 1 日至 8 月 31 日，子公司新东方在线（01979.HK）实现超预期的盈利，其核心业务就是东方甄选。据悉，今年6-8 月，东方甄选 3 个月累计销售额约 22.49 亿元
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯副总裁已担任中国联通董事]]></title>
+        <id>https://news.cnblogs.com/n/730957/</id>
+        <link href="https://news.cnblogs.com/n/730957/"/>
+        <updated>2022-11-02T09:38:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 2 日消息，今日，中国联通和腾讯设立混改新公司一事引发热议，据了解，在此之前中国联通与腾讯公司已有诸多交集，企查查 APP 显示，腾讯控股有限公司高级执行副总裁卢山同时担任中国联合网络通信股份有限公司董事职务。 此外，成立于 2021 年的深圳市前海新型互联网交换中心有限公司，联通创新创业
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla 公布它的 Manifest V3 扩展方案]]></title>
+        <id>https://news.cnblogs.com/n/730955/</id>
+        <link href="https://news.cnblogs.com/n/730955/"/>
+        <updated>2022-11-02T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 建议 Firefox 扩展开发者开始从 Manifest V2 迁移到 Manifest V3。Manifest V3 是 Google Chrome 的新扩展系统，Chrome Web Store 将从明年 1 月开始逐步淘汰 Manifest V2 扩展。 Mozilla 的 M
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星预计苹果2024年推出可折叠屏设备 但并不是智能手机]]></title>
+        <id>https://news.cnblogs.com/n/730956/</id>
+        <link href="https://news.cnblogs.com/n/730956/"/>
+        <updated>2022-11-02T09:27:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 2 日消息，据国外媒体报道，在三星、华为、小米等厂商相继推出可折叠屏智能手机之后，也传出了苹果研发折叠屏 iPhone 的消息，2020 年 11 月份就有报道称，苹果已将两款可折叠屏 iPhone 的样品，送往富士康进行测试，要求进行超过 10 万次的折叠测试。 对于苹果的可折叠屏 iP
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[节食者会高估饮食健康程度]]></title>
+        <id>https://news.cnblogs.com/n/730954/</id>
+        <link href="https://news.cnblogs.com/n/730954/"/>
+        <updated>2022-11-02T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[美国疾病控制与预防中心的数据显示，美国每年有近一半的成年人试图减肥，其中大多数人试图多吃水果、蔬菜和沙拉。健康的饮食对心脏、身体健康和长寿都是必不可少的。 美国心脏协会在 2021 年发布的膳食指南建议成年人吃各种水果和蔬菜；选择全谷物而不是精制谷物；选择健康的蛋白质来源；用脱脂和低脂乳制品代替全脂
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 3 漏洞补丁释出，漏洞等级略降]]></title>
+        <id>https://news.cnblogs.com/n/730953/</id>
+        <link href="https://news.cnblogs.com/n/730953/"/>
+        <updated>2022-11-02T09:16:00.000Z</updated>
+        <summary type="html"><![CDATA[备受瞩目的 OpenSSL 3 漏洞补丁释出，漏洞等级从之前被认为与 Heartbleed 漏洞相当的“高危”降为“高”。最新释出的 OpenSSL version 3.0.7 修复了两个缓冲溢出漏洞 CVE-2022-37786 和 CVE-2022-3602，两个漏洞影响所有 OpenSSL 3
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Hangouts 正式死亡]]></title>
+        <id>https://news.cnblogs.com/n/730952/</id>
+        <link href="https://news.cnblogs.com/n/730952/"/>
+        <updated>2022-11-02T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Google 尝试的众多消息应用中的一种 Hangouts 于 11 月 1 日正式死亡。之后 Hangouts 用户将被重定向到替代它的 Google Chat，在明年 1 月 1 日之前，用户仍然可以使用“Google 导出”下载自己的数据。Google 目前有两大不兼容的消息产品：Google
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一只小鸟打破不间断飞行纪录：11天零1小时]]></title>
+        <id>https://www.solidot.org/story?sid=73241</id>
+        <link href="https://www.solidot.org/story?sid=73241"/>
+        <updated>2022-11-02T08:39:39.000Z</updated>
+        <summary type="html"><![CDATA[诸葛恐民 写道 "据英国《泰晤士报》网站10月28日报道，一只刚刚脱离父母保护的阿拉斯加西部冻原上5个月大的小鸟，从世界的一端直飞另一端，打破了世界纪录。 超轻卫星跟踪技术技术显示这只斑尾塍鹬周二午夜在澳大利亚塔斯马尼亚东北部一个寂静的渔村附近着陆。监测报告显示，这只小鸟不间断地飞行了11天零1小时，飞行里程达8425英里（约合13500公里），打破鸟类不间断飞行纪录，即使在艰难的飞越太平洋的过程中，它也没有中途停下来休息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现亚特兰大禁止电滑板和电动自行车后拥堵增加]]></title>
+        <id>https://www.solidot.org/story?sid=73240</id>
+        <link href="https://www.solidot.org/story?sid=73240"/>
+        <updated>2022-11-02T08:37:13.000Z</updated>
+        <summary type="html"><![CDATA[美国亚特兰大市从 2019 年 8 月 9 日起禁止在晚上 9 点到凌晨 4 点之间使用共享电滑板和电动自行车后。这一突发禁令让研究人员有机会比较禁止微型交通工具前后的城市交通水平和通勤时间。研究人员利用了 Uber Movement 从 2019 年 6 月 25 日到 2019 年 9 月 22 日之间收集的数据去测量政策实施前后夜间的通勤时间变化。结果显示，禁止微型交通工具迫使居民使用汽车出行，由此导致了出行时间和交通拥堵的增加。研究发现，禁止共享电滑板和自行车后，亚特兰大的汽车出行时间立即增加了 9.9-10.7%，对普通通勤者而言这意味着每晚出行时间要多花费 2-5 分钟。拥堵和通勤时间增加给亚特兰大市产生的经济影响计算为 490 万美元。如果放大到全美，经济影响可能会达到 4.08 亿-5.73 亿美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国监管机构准备废除传真机相关立法]]></title>
+        <id>https://www.solidot.org/story?sid=73239</id>
+        <link href="https://www.solidot.org/story?sid=73239"/>
+        <updated>2022-11-02T08:06:36.000Z</updated>
+        <summary type="html"><![CDATA[英国监管机构 Ofcom 敲响了传真机的丧钟，它开始废除使用传真机的相关立法。传真机由施乐公司在 1964 年商业化，1980 年代起被世界各地的企业广泛使用，如今已被电子邮件、扫描仪、云端传真和即时通讯服务所取代。Ofcom 称，随着数字技术和宽带的发展，传真机已被能提供更好或相同功能的电邮和文件共享软件所取代。Ofcom 表示它准备修订电信规则淘汰传真机。虽然传真机早已过时，但英国卫生保健部门仍然在使用，该部门的数字化进展缓慢。英国国家医疗服务系统（NHS）还有数百台传真机。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[节食者会高估饮食健康程度]]></title>
+        <id>https://www.solidot.org/story?sid=73238</id>
+        <link href="https://www.solidot.org/story?sid=73238"/>
+        <updated>2022-11-02T07:10:50.000Z</updated>
+        <summary type="html"><![CDATA[美国疾病控制与预防中心的数据显示，美国每年有近一半的成年人试图减肥，其中大多数人试图多吃水果、蔬菜和沙拉。健康的饮食对心脏、身体健康和长寿都是必不可少的。美国心脏协会在 2021 年发布的膳食指南建议成年人吃各种水果和蔬菜；选择全谷物而不是精制谷物；选择健康的蛋白质来源；用脱脂和低脂乳制品代替全脂乳制品；选择瘦肉(给那些吃肉的人)；用液体植物油代替热带油和动物油；选择最少加工的食物而不是超加工的食物；尽量减少添加糖的食物和饮料；选择添加盐很少或不添加盐的食物；限制或避免饮酒。研究人员评估了 116 名 35-58 岁的成年人的饮食，这些人都在试图减肥。研究参与者与营养师一对一地讨论他们的营养状况，然后在一年中通过 Fitbit 应用记录每天吃喝。他们还每天称体重，并佩戴 Fitbit 设备来跟踪身体活动。结果显示多数寻求人高估了他们饮食的健康程度。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iA Presenter 初体验]]></title>
+        <id>https://sspai.com/post/76540</id>
+        <link href="https://sspai.com/post/76540"/>
+        <updated>2022-11-02T06:20:42.000Z</updated>
+        <summary type="html"><![CDATA[iA Writer 是一款非常著名的，以简洁优美的界面和不错的使用体验著称的 Markdown 写作软件（虽然我没用过）。而最近，iA Writer 的开发商 iA.net 发布了一款名为 iA Presenter 的幻灯片制作软件，旨在通过简单的 Markdown 创作出精美的幻灯片。
+市面上制作幻灯片的软件已经是数不胜数，除了常见的 PowerPoint、Keynote，还有基于 HTML5 技术的 Prezi、reveal.js、Canva 等，基于文档生成幻灯片的软件也有不少，比如双链笔记软件 Obsidian、文档工具语雀、飞书文档、石墨文档都有演示模式。
+在这么多软件之中，iA Presenter 又有哪些优势，值得我们从繁杂的工作中抬起头来呢。
+首先说明一下，目前 iA Presenter 还处于一个非常早期的阶段，文中提到的一些内容随时可能会因为软件的版本更新而发生变更。
+另外，下文中会将 iA Presenter 简称为 iA Pre。
+在此，也感谢 @南山居氪 提供的 iA Presenter 的邀请码。
+PowerPoint 发生了什么
+似乎现在很多软件都在以一种革命性的姿态来发布——认为自己的诞生能够颠覆一个行业，至少在发布时会伴随着一些阐述自己设计哲学的文章。Roam 和 Arc 是如此，iA Pre 也有些这样的味道。
+iA 在其新闻页面上发了两篇文章，主要在说 PowerPoint 等传统幻灯片工具有什么问题，和 iA Pre 怎样使幻灯片更好？。
+在第一篇文章1中，iA 认为，以 PPT 为代表的传统幻灯片工具有着入门难、耗时长、会让演讲者忘记他想说的东西、以及搭配 PPT 的演讲大多很无聊，这种无聊是我们的职业杀手以及事业杀手。
+iA 怎样使幻灯片更好？
+而在第二篇文章2中，iA 提出了他们认为的让演讲和幻灯片制作变得更好的方法：
+内容上
+…]]></summary>
+        <author>
+            <name>aiokr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Hangouts 正式死亡]]></title>
+        <id>https://www.solidot.org/story?sid=73237</id>
+        <link href="https://www.solidot.org/story?sid=73237"/>
+        <updated>2022-11-02T03:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Google 尝试的众多消息应用中的一种 Hangouts 于 11 月 1 日正式死亡。之后 Hangouts 用户将被重定向到替代它的 Google Chat，在明年 1 月 1 日之前，用户仍然可以使用“Google 导出”下载自己的数据。Google 目前有两大不兼容的消息产品：Google Chat 和 Google Messages，此外还有多种支持消息服务的产品如 Google Voice、Google Photos 和 Google Pay。Hangouts 最初是 Google+ 的一部分，名字叫 Google+ Hangouts，在 Google+ 死亡之后 Hangouts 也变得半死不活，尽管它被视为是搜索巨人最优秀最完整的消息服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 3 漏洞补丁释出，漏洞等级略降]]></title>
+        <id>https://www.solidot.org/story?sid=73236</id>
+        <link href="https://www.solidot.org/story?sid=73236"/>
+        <updated>2022-11-02T03:16:01.000Z</updated>
+        <summary type="html"><![CDATA[备受瞩目的 OpenSSL 3 漏洞补丁释出，漏洞等级从之前被认为与 Heartbleed 漏洞相当的“高危”降为“高”。最新释出的 OpenSSL version 3.0.7 修复了两个缓冲溢出漏洞 CVE-2022-37786 和 CVE-2022-3602，两个漏洞影响所有 OpenSSL 3.x 系列版本，但不太可能导致远程代码执行。包括 Fedora 在内的 Linux 发行版因该漏洞而推迟发布。在所有 OpenSSL 版本中，OpenSSL 1.1.1 仍然处于长期支持阶段，OpenSSL 3.x 的普及度还不高。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克计划将 Twitter 订阅费用上涨至每月 8 美元]]></title>
+        <id>https://www.solidot.org/story?sid=73235</id>
+        <link href="https://www.solidot.org/story?sid=73235"/>
+        <updated>2022-11-02T02:42:34.000Z</updated>
+        <summary type="html"><![CDATA[马斯克(Elon Musk)在 Twitter 上表示，他考虑将 Twitter 的订阅费用从原来的每月 5 美元上涨至 8 美元。他最初据称是考虑上涨至每月 20 美元，并要求认证用户必须购买订阅服务，这一消息立即引发了激烈反弹，认证用户以及名人如作家斯蒂芬·金纷纷表示拒绝。马斯克称，订阅服务将有助于减少 Twitter 对广告的依赖。本周，两家大型广告公司建议其客户暂时停止在 Twitter 上投放广告，增加了马斯克寻找其他收入来源的紧迫性。目前还不知道 Twitter Blue 订阅服务有多少客户。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊股价连续5日走跌 市值两年半来首次跌破1万亿美元]]></title>
         <id>https://news.cnblogs.com/n/730886/</id>
@@ -10042,144 +10405,6 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，
         <link href="https://www.solidot.org/story?sid=72960"/>
         <updated>2022-10-04T14:17:24.000Z</updated>
         <summary type="html"><![CDATA[Valve 的 Linux 掌机 Steam Deck 于今年 2 月 25 日上市，将近 8 个月后它的销量几何？我们不知道官方的数据，但据 KDE 开发者在最近举行的 Akademy 2022 会议上透露的消息，Steam Deck 掌机出货量已逾一百万部，而 Valve 仍然在处理预登记的订单。Steam Deck 采用预售制，玩家先支付 5 美元预定一个版本，然后排队等待 Valve 发送补交尾款的邮件通知，玩家看到通知后有 48 小时决定是否付款。Steam Deck 有三个版本，64GB 版本从预定到收到通知的时间非常短，可能是因为库存充足，而 512 GB 版本则需要等待较长时间。为何 KDE 开发者会知道销量？原因是 Steam Deck 包含了一个完整的 KDE Plasma 桌面模式，因此 KDE 开发团队在与 Valve 合作改进桌面用户体验。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诺贝尔物理学奖授予了三名研究纠缠量子态的科学家]]></title>
-        <id>https://www.solidot.org/story?sid=72959</id>
-        <link href="https://www.solidot.org/story?sid=72959"/>
-        <updated>2022-10-04T11:13:09.000Z</updated>
-        <summary type="html"><![CDATA[2022 年度诺贝尔物理学奖授予了法国科学家 Alain Aspect、美国科学家 John F.Clauser 和奥地利科学家 Anton Zeilinger ，以表彰他们“用纠缠光子进行的实验，建立了贝尔不等式的违反，并开创了量子信息科学”。John Clauser 发展了 John Bell 在 1960 年代提出的不等式，开展了一个实际的量子实验。Alain Aspect 发展了这个设置，能在一个纠缠对离开它的源后切换测量设置，所以当它们被发射时存在的设置不会影响结果。通过精密的工具和一系列的实验，Anton Zeilinger 开始使用纠缠量子态。他的小组还展示了一种被称为量子隐形传态的现象，这种现象使得量子态在一定距离内从一个粒子移动到另一个粒子成为可能。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美最高法院同意审理挑战科技公司免责的案件]]></title>
-        <id>https://www.solidot.org/story?sid=72958</id>
-        <link href="https://www.solidot.org/story?sid=72958"/>
-        <updated>2022-10-04T10:55:03.000Z</updated>
-        <summary type="html"><![CDATA[美国最高法院将考虑网站何时对其用户发布的内容负责，受理一系列恐怖主义受害者家属指控Twitter、Facebook 和 YouTube 等社交媒体平台对极端组织伊斯兰国组织(ISIS)的袭击负有部分责任的案件。最高法院同意受理 Gonzalez 诉 Google 案，这是 2015 年在巴黎 ISIS 袭击中丧生的年轻女子 Nohemi Gonzalez 家人提出的上诉。Gonzalez的 家人指控 Alphabet 子公司 YouTube 向用户推荐 ISIS 的视频，从而帮助了该恐怖组织。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度火星探测器 Mangalyaan 停止工作]]></title>
-        <id>https://www.solidot.org/story?sid=72957</id>
-        <link href="https://www.solidot.org/story?sid=72957"/>
-        <updated>2022-10-04T10:45:47.000Z</updated>
-        <summary type="html"><![CDATA[印度空间研究组织（Indian Space Research Organisation，ISRO） 10 月 3 日证实，其火星轨道飞行器 Mangalyaan 已失去了联络，且无法恢复，任务结束。Mangalyaan 于 2013 年 11 月发射，2014 年  9 月抵达火星轨道，它主要是用作技术演示，设计寿命 6 个月，但在火星轨道上工作了约 8 年，获得一系列火星研究成果。ISRO 表示 Mangalyaan 是在 2022 年 4 月的一次日食期间与地球地面站失去联络，它猜测燃料已经耗尽，飞行器已经达到使用寿命。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯人试图购买不适合服兵役的证明躲避动员令]]></title>
-        <id>https://www.solidot.org/story?sid=72956</id>
-        <link href="https://www.solidot.org/story?sid=72956"/>
-        <updated>2022-10-04T10:07:22.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯总统普京前不久下达了部分动员令，征召有军事经验的公民入伍。部分俄罗斯公民的回应是逃避，一部分人通过边境逃离，还有人则诉诸于非法手段，尝试购买不适合服兵役的证明文件，这为欺骗敞开了大门。欺骗者通过暗网、Telegram 等渠道兜售帮助逃避入伍的证明文件。他们还承诺能更新地区征兵办公室的数据库，让征兵者永远找不到客户。客户则需要提供护照复印件和 27,000 卢布。但在钱支付之后，欺骗者会拉黑客户，不再联系，他们还可能利用护照进行欺诈或出售。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉一夜蒸发710亿美元市值 市场需求引发担忧]]></title>
-        <id>https://news.cnblogs.com/n/729303/</id>
-        <link href="https://news.cnblogs.com/n/729303/"/>
-        <updated>2022-10-03T23:42:00.000Z</updated>
-        <summary type="html"><![CDATA[10 月 4 日消息，特斯拉股价周一收跌 8.6%，创下四个月来最大单日跌幅。此前，由于物流障碍，该公司第三季度汽车交付量低于华尔街预期，经济增长前景放缓也引发了对其汽车需求的疑虑。 这场暴跌促使特斯拉市值蒸发了 710 多亿美元，并拖累了其他电动汽车制造商的股价。 尽管特斯拉第三季度交付量再创纪录
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中科大校友一次意外事故，造就了让3000万人摘掉眼镜的手术]]></title>
-        <id>https://news.cnblogs.com/n/729302/</id>
-        <link href="https://news.cnblogs.com/n/729302/"/>
-        <updated>2022-10-03T23:38:00.000Z</updated>
-        <summary type="html"><![CDATA[衡宇发自凹非寺 量子位公众号 QbitAI 密歇根大学一次意外的实验室事故，导致中国博士生视网膜中心烧伤（嘶，好痛）。 但也就是这么一次意外，后来造福了 3000 多万近视患者—— 飞秒激光 LASIK 手术就此萌芽。 今年的金鹅奖，就颁给了该实验室的五人组，以表彰他们在近视手术领域所做出的突出贡献
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022全球程序员薪资排行：中国倒数，美国写Go最挣钱]]></title>
-        <id>https://news.cnblogs.com/n/729301/</id>
-        <link href="https://news.cnblogs.com/n/729301/"/>
-        <updated>2022-10-03T23:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Pine 发自凹非寺 量子位公众号 QbitAI 2022 年全球程序员薪资排行榜单来了： 中国上榜全球薪酬最低国家名单，排名倒9。 并且，榜单上程序员全球最高年薪和最低年薪之间相差102885 美元 （约合人民币 70 万元）。 what？？？差距有这么大？ 其实，程序员的年薪不只在不同国家之间有
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十一假期我在特斯拉工厂上班：工资按3倍计算，1天能领约1200元]]></title>
-        <id>https://news.cnblogs.com/n/729300/</id>
-        <link href="https://news.cnblogs.com/n/729300/"/>
-        <updated>2022-10-03T23:25:00.000Z</updated>
-        <summary type="html"><![CDATA[本文来源：时代周报作者：齐鑫 对特斯拉而言，交付一直是横亘在眼前的关键问题。 据媒体报道，特斯拉预计在本季度末汽车交付量会“非常高”，并要求所有员工协助完成季末交付任务，甚至包括非销售和交付部门的员工。 根据特斯拉此前公布的生产交付数据，今年一季度，特斯拉全球生产了超 30.5 万辆汽车，交付超 3
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最后一天！Intel彻底告别SSD]]></title>
-        <id>https://news.cnblogs.com/n/729299/</id>
-        <link href="https://news.cnblogs.com/n/729299/"/>
-        <updated>2022-10-03T23:20:00.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 10 月 3 日起，Intel 将和 SSD 彻底说再见，所有的技术支持、售后服务都转交给新的 Solidigm。 两年前，Intel 宣布以 90 亿美元的价格，将旗下 NAND 闪存与固态存储业务卖给韩国 SK 海力士，同时移交位于中国大连的 Fab 68 晶圆厂。 就在一个月前，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[库克：AR是一项深刻的技术 它将影响一切]]></title>
-        <id>https://news.cnblogs.com/n/729296/</id>
-        <link href="https://news.cnblogs.com/n/729296/"/>
-        <updated>2022-10-03T23:16:00.000Z</updated>
-        <summary type="html"><![CDATA[苹果首席执行官蒂姆·库克最近一直在欧洲各地旅行，谈到了他对增强现实的看法，他表示，这将是深远的，而虚拟现实只有一些特定的用途。 库克最近在接受荷兰新闻媒体 Bright 采访时谈到了增强现实，并表示它在未来将变得多么重要。 “我认为 AR 是一项深刻的技术，它将影响一切，”他说。“想象一下，我们突然
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克3小时治好车圈内耗：机器人价格不到14万，FSD测试版年底推全球]]></title>
-        <id>https://news.cnblogs.com/n/729298/</id>
-        <link href="https://news.cnblogs.com/n/729298/"/>
-        <updated>2022-10-03T23:10:00.000Z</updated>
-        <summary type="html"><![CDATA[刚刚，科技春晚——特斯拉人工智能日落幕。 这场持续 3 个小时的全球直播，吸引数百万人的关注，特斯拉也没有辜负期望，发布了人形机器人(行情 300024,诊股) Tesla Bot，内部代号擎天柱 Optimus，还公布了 Dojo 超级计算机的最新进展。 这次原型机和去年展出的有很大不同，大部分的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传苹果年底将重组Apple Car团队]]></title>
-        <id>https://news.cnblogs.com/n/729297/</id>
-        <link href="https://news.cnblogs.com/n/729297/"/>
-        <updated>2022-10-03T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[集微网消息根据经济日报报道，苹果传将在今年底重组 Apple Car 团队，重启尘封已久、打造电动车的“泰坦计划（Project Titan）”，预计 2025 年量产。 据悉，苹果自 2014 年启动“泰坦计划”后，开发电动车的历程并不顺遂，经过多次战略改变及高层换血，团队甚至一度解散，让 App
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 释出]]></title>
-        <id>https://www.solidot.org/story?sid=72955</id>
-        <link href="https://www.solidot.org/story?sid=72955"/>
-        <updated>2022-10-03T15:59:17.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds 在内核邮件列表上宣布释出  Linux 6.0。主要新特性包括：改进 ACPI 处理和电源管理；一系列 io_uring 改进，支持 XFS 文件系统缓冲写入，Zero-copy 网络传输，基于 io_uring 的块驱动机制，运行时验证子系统；等等。更多可浏览 LWN 概况一 和 二。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
