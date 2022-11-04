@@ -6,6 +6,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n封面图\n\n日前，北京航空航天大学研发的\"双关节大鸟型扑翼飞行器\"（即机器鸟），创造了拍打翅膀式飞行器的单次飞行时间的世界纪录，达到1小时31分04秒98。（via）\n本周话题：手机充电问题的解决\n手机充电，大家每天要花多少时间，会不会觉得很烦人？\n不过，这个问题最近好像解决了。\n\n上周，小米发布了 Redmi Note 12 手机的探索版。\n它的最大亮点是，号称具有世界最快的快充，可以9分钟充满一块 4300mAh 的电池。\n你没有看错，真的是9分钟，也就是一杯茶的时间，就能把电池从0充到100%。\n那样的话，手机充电完全不成问题了。早晨起床洗漱的时候，随便充一下电，就能坚持到晚上回家了。\n\n为什么它的充电这么快？\n原因很简单，因为它配了一个前所未有的 210w 充电器。\n\n\n这个真的是惊到我了。我的印象中，手机充电器的功率前不久才突破 100W，居然一转眼就来到了 210W！\n210w 是什么概念？我来给大家解释一下，为什么达到这个功率，手机充电问题就基本解决了。\n充电快不快，最根本的一点，就是要看配套的充电器支持的输出电压和输出电流，最大是多少。\n\n这些参数都印在充电器上，字体比较小，需要耐心找一下。以小米的这个 210w 充电器为例，它最大的输出电压/电流是 20V/10.5A。这两个参数相乘，就得到了充电功率为 210W。\n一般的手机慢充都是 5V/2A，甚至是 5V/1A。这样的话，充电功率就只有 10W 和 5W。\n\n接着，再看手机的电池容量，小米这台手机是主流的 4300mAh。也就是说，这块电池可以用 4300mA 电流持续供电1个小时（1h）。\n我们知道，锂电池的输出电压统一为 3.7V，因此这块电池包含的能量，就是\"电流 * 电压 * 持续时间\"。\n4300mAh * 3.7V = 15910mWh  \n所以，…",
+          "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html",
+          "publishedOn": "2022-11-04T00:14:25.000Z",
+          "wordCount": 863,
+          "title": "科技爱好者周刊（第 229 期）：手机充电问题的解决",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n封面图\n\n今年中秋，敦煌月牙泉旁出现了一个人造的月圆装置，通过水面反射，映照出一轮人间圆月，象征团圆。（via）\n本周话题：人类和人生的意义\n这几天睡觉前，我在读《季羡林文集》。\n\n季羡林先生2009年就去世了，出版社请了他儿子季承写序言。\n\n季承（1935-2018），中国科学院高能物理所高级工程师，曾任李政道先生主持的中国高等科学技术中心顾问，与李政道有着长达三十年的紧密合作。（摘自百度百科）\n网上一查就知道了，季承跟他老爹关系不太好，十多年不相往来。\n这种情况下，他其实不想写他老爹，但是出版社一定要他写。万般无奈之下，他找了一篇自己不相干的文章作为序言。\n\"我并不敢为先父的著作写序，但青岛出版社的盛情难却，只好写点不是序的序，以应所求。正好前些时，我胡乱写了一篇短文《也谈人生》，这篇短文抄在下面，就算交卷了吧。\"\n他用作序言的这篇《也谈人生》很短，只有600字，但是谈了一个终极问题：人生的意义是什么？\n我惊奇地发现，这篇序言写得很好，解开了我一直没有想通的一个疑惑。读完整本书，最难忘的还是这篇不相干的文章。\n\n我把这篇短文的主要部分贴在下面。\n人生有没有意义？人类又有什么意义？\n我说，人生是有意义的，而人类则是没有意义的。 \n询问人类的存在有没有意义，就等于询问地球或宇宙的存在有没有意义一样，是得不到答案的。\n人生的意义是什么呢？它的意义就在于为没有意义的人类工作、服务等等，其目的不外乎是使人类生活得更好并得以延续。\n反正人类是现实的存在，你又是其中一员，你有义务使它发展延续。你只要这样做了，你的人生就具有了意义，或者说价值，并不一定要去理会人类存在的意义。\n大家看明白，他的意思吗？\n他的意思是，要想通人生的意义，就要先想通人类的意义。但是他认为，人类作为一个物种，是没有意义的，就像你问恐龙的意义是什么一样。\n但是，人类既然…",
@@ -635,6 +645,146 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73260",
+          "author": null,
+          "description": "TikTok 更新了其隐私政策，通知欧洲用户包括中国在内的非欧盟国家的员工能访问用户数据，此举旨在确保用户在其平台上的体验是一致的、愉快的和安全的。TikTok 在其它国家的员工能访问欧盟用户数据还包括巴西、加拿大、以色列，美国和新加坡，TikTok 欧洲用户数据储存在这些国家。新隐私政策适用于英国、欧洲经济区和瑞士，将于 12 月 2 日生效。",
+          "link": "https://www.solidot.org/story?sid=73260",
+          "publishedOn": "2022-11-03T15:59:27.000Z",
+          "wordCount": 154,
+          "title": "TikTok 告诉欧洲用户其它国家的员工能访问用户数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73259",
+          "author": null,
+          "description": "HardenedVault 写道 \"中国，德国和美国的政府部门在关键基础设施供应链安全的推进的方式还是有所不同，美国自从EO \n14028以来都是以技术指南为中心，这为企业在技术评估和操作层面提供了参考。欧洲设定了最低的技术要求作为强制性合规，但考虑到其他的合规比如GDPR基于风险合规的因素，企业不达到行业最佳实践的水平下实际上会带来更高的合规风险。中国的策略不同于美国和欧洲，关键信息基础设施安全保护要求中包含了技术范围和目标，具体的实际操作层面应该有其他的技术指南进行参考。在全球高级威胁防护的大趋势下，基础架构及平台固件属于整体防御中核心的环节之一，从上面的公开信息来看也是未来合规的一部分，CISO应该在繁杂的应用安全和边界安全中抽身花一点时间去考虑如何应对未来的各国合规要求，一些不依赖合规驱动的行业比如crypto\n custody/exchange则需要基于下一代数据中心安全方案这类更激进的策略去面对现在和未来的风险和威胁。\"",
+          "link": "https://www.solidot.org/story?sid=73259",
+          "publishedOn": "2022-11-03T15:05:25.000Z",
+          "wordCount": 148,
+          "title": "关键基础设施供应链安全合规之VBOS篇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73258",
+          "author": null,
+          "description": "Google 开始通过其 AI Test Kitchen 应用公测其文本图像 AI 系统，收集反馈。Google 在今年早些时候宣布了它的文本图像 AI 模型 Imagen，其生成效果与 OpenAI 的 DALL-E 2 或 Stability AI 的 Stable Diffusion 相当，OpenAI 已经向公众开放 DALL-E 2 使用，而 Stable Diffusion 更是通过开源吸引了大量开发者和用户。Imagen 在这之前一直未提供给公众。与 DALL-E 2 和 Stable Diffusion 不同的是，Google 对用户与 Imagen 之间的互动实施了严格的限制，用户不能随心所欲的创造文本图像，只能在选定的主题上添加不同的风格。Google 产品高管表示这是有意为之，是为了收集公众对 AI 系统的反馈，发现用户如何突破其限制。",
+          "link": "https://www.solidot.org/story?sid=73258",
+          "publishedOn": "2022-11-03T14:32:21.000Z",
+          "wordCount": 198,
+          "title": "Google 开始公测其文本图像 AI 系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73257",
+          "author": null,
+          "description": "在多年抵制之后，美国几所顶尖的商学院开始提供网上 MBA 课程。从明年开始，宾夕法尼亚大学沃顿商学院为高中级管理人员和兼职 MBA 学生提供的 MBA 学位可选择在网上完成大部分课程。纽约大学斯特恩商学院和加州大学伯克利分校哈斯商学院的兼职 MBA 学生从今年秋天开始可选择通过网课完成学业。线上课程和线下课程的学费相同，读网课的学生将能获得与去学校学习的学生相同的学位和证书。美国国际商学院促进协会（Association to Advance Collegiate Schools of Business，缩写 AACSB）的数据显示，过去两年在线 MBA 课程招收的学生多于线下 MBA 课程。",
+          "link": "https://www.solidot.org/story?sid=73257",
+          "publishedOn": "2022-11-03T14:08:08.000Z",
+          "wordCount": 170,
+          "title": "沃顿商学院、伯克利和纽约大学首次提供网上 MBA 课程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73256",
+          "author": null,
+          "description": "Alpha from FydeOS 写道 \"Fydetab Duo (https://fydetabduo.com) 是一款比较不一样的平板二合一电脑，由操作系统厂商燧炻创新倾力打造。\n\nFydetab Duo 由瑞芯微新一代旗舰级高端处理器 RK3588S 强力驱动：采用 8nm 工艺设计，搭载四核 A76 + 四核 A55 的八核 CPU 和 ARM 高性能 GPU：外接扩展显示器最高支持 4k@60Hz。内置 6T 算力的 NPU；是目前首款携带 RK3588 芯片的消费级平板电脑。设备的屏幕是一块 12.35 英寸的 QHD 16:10 IPS 面板，分辨率为 2560*1600，500nit亮度、DCI-P3 广色域覆盖。这块屏幕不仅支持触控，还能够使用手写笔，基于 Wacom 技术实现。\nFydetab Duo 默认携带由燧炻创新发行维护的 FydeOS 操作系统。FydeOS 基于 Chromium OS 二次开发，融合自主创新技术，在使用体验上无限接近于 Google Chrome OS 但可以不依赖于 Google 服务；为用户提供更多选项的同时也给企业客户提供更灵活的部署方案。FydeOS 使用容器技术兼容安卓运行环境，所以在 Fydetab Duo 上运行安卓程序和游戏的体验是很不错的。FydeOS 还通过虚拟机和容器混合的技术支持加载「Linux 子系统」，可以启动一个纯净的 Debian 11 环境，并且兼容在主系统内以窗口模式加载子系统内的应用程序，包括带有 GUI 的 Linux 程序。\nFydetab Duo 将以开源硬件的形式发售，所有设计稿件、工程图纸、厂商驱动程序源码及固件和启动加载器（bootloader）均会开放。这意味着用户可以在该设备上启动其它开源操作系统，比如 openFyde（FydeOS 的开源版本）、Debian、Ubuntu 或者 AOSP。\nFydetab Duo 是目前市面上为数不多的专门为 Linux 和开放生态打造的高端硬件产品，也是全球唯一一款专门为第三方 Chromium OS 发行版打造的的消费级电子产品。\"",
+          "link": "https://www.solidot.org/story?sid=73256",
+          "publishedOn": "2022-11-03T12:56:53.000Z",
+          "wordCount": 242,
+          "title": "开源 Linux 平板电脑，预装 FydeOS 出货",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73255",
+          "author": null,
+          "description": "过去一个月苹果的股价要比它的竞争对手坚挺的多，结果是如今它的市值超过了亚马逊、Alphabet 和 Meta 的总和。苹果周三收盘时市值 2.307 万亿美元，亚马逊、Alphabet 和 Meta 市值总和为  2.306 万亿美元。苹果市值在 2021 年一度达到 2.913 万亿美元，而亚马逊、Alphabet 和 Meta 在那个时候的总市值更是高达 4.41 万亿美元。苹果在 2022 年的表现要远胜于这三家科技巨头。",
+          "link": "https://www.solidot.org/story?sid=73255",
+          "publishedOn": "2022-11-03T12:42:50.000Z",
+          "wordCount": 184,
+          "title": "苹果市值超过 Amazon、Alphabet 和 Meta 之和",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73254",
+          "author": null,
+          "description": "开源游戏引擎项目 Godot 成立了自己的基金会，此前它是与 Software Freedom Conservancy（SFC） 合作去处理赞助相关的事宜。Godot 引擎开发商和 Software Freedom Conservancy 都同意将该开源引擎项目转移到新的 Godot 基金会。基金会是在荷兰注册的，将为游戏引擎的未来开发提供财务等支持，目前转移还在进行之中，暂时资金和合同工还是由 SFC 管理，它将会慢慢退出。",
+          "link": "https://www.solidot.org/story?sid=73254",
+          "publishedOn": "2022-11-03T10:39:13.000Z",
+          "wordCount": 166,
+          "title": "开源游戏引擎 Godot 成立了自己的基金会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73253",
+          "author": null,
+          "description": "在马斯克掌控 Twitter 的第二天有逾七万新用户加入了 Mastodon。Mastodon 是去中心化、分布式微博社交网络，采用联邦式架构。Mastodon 是在 2016 年发布的，提供类似于 Twitter 的功能，但允许用户加入各种社区，这些社区托管在不同的服务器上。在 Mastodon 上发推被称为 toots，不同的服务器被称为实例，由不同实体运行，但可以互通，不需要经过一个中心系统。它们被统称为 fediverse。注册 Mastodon 后，用户首先是选择服务器，有通用服务器如 mastodon.social，还有特定兴趣的服务器如 kpop.social 或 linuxrocks.line，服务器将成为用户名的一部分，比如 wilfred@kpop.social，你的消息流中的 toots 来自于同一个服务器，而不是整个 fediverse，但你可以和其它服务器上的用户聊天，并将该服务器上的公开 toots 加入到你的消息流。使用 Mastodon 的风险是如果你加入的服务器关闭了，你可能会失去一切。这类似于邮件服务器，如果其中一个关闭了，你也就失去了上面的账号。逾七万新用户相对于 Twitter 的数亿日活用户当然相去甚远。",
+          "link": "https://www.solidot.org/story?sid=73253",
+          "publishedOn": "2022-11-03T09:58:01.000Z",
+          "wordCount": 189,
+          "title": "在马斯克掌控 Twitter 之后 Mastodon 吸引了逾七万新用户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73252",
+          "author": null,
+          "description": "变温动物或冷血动物的地理分布与其对环境温度条件的耐受性之间存在相关性。它们只能生活在温度允许它们生长和繁殖的地方，而且冬季和夏季的极端温度在很长一段时间内不会太冷或太热。如果温度超过它们所能忍受的阈值，动物就会受伤。这些伤害随着时间积累，最终决定了物种能否在当前的温度条件下生存。研究人员分析了112种变温植物对热胁迫的温度敏感性。分析表明，温度仅升高 1℃，热损伤累积率就会增加一倍以上，由于这是一个指数增长，温度升高 2℃ 将使热伤害积累的速度增加 4 倍以上，而温度升高 3℃，伤害的速度将增加 8 倍多。数据表明，在全球范围内，变温动物的热伤害率可能平均增加 700%，而在陆地上的许多环境中，热伤害率可能增加 2000 %以上。对于水生变温动物，相应的数字是 180% 和 500%。",
+          "link": "https://www.solidot.org/story?sid=73252",
+          "publishedOn": "2022-11-03T09:14:22.000Z",
+          "wordCount": 158,
+          "title": "全球暖化增加冷血动物热衰竭风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73251",
+          "author": null,
+          "description": "英特尔下一代基于 Sapphire Rapids 的数据中心处理器终于有了发布时间。芯片巨人宣布将在 2023 年 1 月 10 日举行数据中心发布会，其中包括基于 Sapphire Rapids 的第四代至强处理器。Sapphire Rapids CPU 最早是定在 2021 年中发布的，之后推迟到 2022 年第一季度和上半年，现在则延期到了 2023 年初，新处理器的确切交付日期未知。英特尔 CEO Pat Gelsinger 上个月接受采访时谈及了 Sapphire Rapids 的不断延期，他将责任归咎于上一任领导层，表示未来的产品不会再这样了。Sapphire Rapids 和十二代酷睿处理器相近，使用 Intel 7 工艺，但只有大核心，没有效能 E 核心，预计会包含最多 60 个核心。Sapphire Rapids 支持 DDR5 内存，PCI Express 5.0 和 Compute Express Link (CXL) 1.1。",
+          "link": "https://www.solidot.org/story?sid=73251",
+          "publishedOn": "2022-11-03T08:24:14.000Z",
+          "wordCount": 200,
+          "title": "英特尔下一代志强处理器将在明年 1 月发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73250",
+          "author": null,
+          "description": "Python 软件包仓库 PyPI 的自动化风险检测平台发现了数十个新发布的恶意软件包。攻击者拷贝了现有的合法软件包，然后注入恶意的 __import__ 声明，试图植入恶意程序 W4SP Stealer。拷贝合法软件包的好处是因为 PyPI 软件包的登录页是根据 setup.py 和 README.md 生成的，除非仔细检查，恶意软件包的登录页乍一看会被认为是合法的。攻击者使用了有意思的策略防止开发者在阅读代码时发现注入的恶意声明，方法是在代码中留了大量的空格，在编辑器的显示窗口上你需要拉到最右边才可能发现恶意注入。正常声明和恶意声明之间留了 318 个空格。",
+          "link": "https://www.solidot.org/story?sid=73250",
+          "publishedOn": "2022-11-03T08:03:24.000Z",
+          "wordCount": 165,
+          "title": "PyPI 发现数十个恶意软件包",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73249",
+          "author": null,
+          "description": "加拿大人口普查机构的最新数据显示，逾五分之一人口是移民。加拿大目前还有大量的职位空缺，该国为未来三年制定了破纪录的移民引入目标——在 2023 年至 2025 年期间吸引 145 万移民。加拿大政府对移民的态度与瑞典和意大利等西方国家政府截然不同，后者的新当选政党均主张限制移民，并指责移民造成犯罪和混乱。长期以来，加拿大一直推行招募移民的战略，来弥补本国人口的老龄化和低出生率，这得到了公众的广泛支持。该国更优先考虑在劳动力严重短缺的领域——包括医疗保健、制造业、工程和贸易——招收技术工人移民。加拿大的大部分新移民都来自亚非国家，人口普查机构预计，到 2041 年，四分之一的加拿大人都是出生于这些大陆的人。",
+          "link": "https://www.solidot.org/story?sid=73249",
+          "publishedOn": "2022-11-03T07:01:30.000Z",
+          "wordCount": 151,
+          "title": "加拿大逾五分之一人口是移民",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73248",
+          "author": null,
+          "description": "Statcounter 十月份的统计数据显示，在发布一年之后 Windows 11 的普及度依旧远落后于 Windows 10。目前 Windows 11 的市场占有率为 15.44%，比前一个月增加 1.83%，相比之下 Windows 10 的市场份额为 71.29%，只比前一个月的 71.88% 略下降 0.59%。Windows 7 仍然有 9.61%，Windows 8.1 以 2.45% 位居第四，Windows 8 为 0.69%，Windows XP 为 0.39%。Windows 占据全球桌面操作系统的 76%，其次是 OS X 的 15.7%，Linux 的 2.6%。如果包括移动操作系统，Android 最多占 42.37%、Windows 30.11%、iOS 17.6%、OS X 6.24%、Linux 占 1.04%。",
+          "link": "https://www.solidot.org/story?sid=73248",
+          "publishedOn": "2022-11-03T06:18:20.000Z",
+          "wordCount": 207,
+          "title": "Windows 11 的普及度仍然远落后于 Windows 10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73247",
+          "author": null,
+          "description": "匿名读者 写道 \"智利时间十月 29 日早晨 6:14，阿塔卡马亚毫米波干涉阵望远镜遭受严重网络攻击。阿塔卡马大型毫米波/亚毫米波干涉阵望远镜（ALMA）是世界上规模最大，海拔最高，最灵敏的毫米波/亚毫米波干涉阵，位于智利的阿塔卡马沙漠。ALMA 也是目前国际上投入最多的地面望远镜，由 66 个观测天线组成。攻击造成 ALMA 停止科学观测，位于智利的网站全部下线。攻击并为造成天线或观测数据库受损，且目前网络威胁已得到控制。但 ALMA 仍未恢复正常运行。\"",
+          "link": "https://www.solidot.org/story?sid=73247",
+          "publishedOn": "2022-11-03T02:29:02.000Z",
+          "wordCount": 159,
+          "title": "阿塔卡马亚毫米波干涉阵望远镜遭受严重网络攻击",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73246",
           "author": null,
@@ -3384,76 +3534,6 @@
           "wordCount": 209,
           "title": "卡巴斯基发现通过 YouTube 频道传播的恶意 Tor 浏览器",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72966",
-          "author": null,
-          "description": "美国白宫周二发布了旨在保护个人数据不被人工智能算法滥用的指导方针。它不具约束力，也不包括执行措施。指导方针确定了“应指导设计、使用和部署自动化系统的五项原则，从而在人工智能时代保护美国公众”。这五项原则是：保护人们免受不安全或无效的自动化系统的影响；防止通过算法发生歧视；保护人们不受滥用数据行为的影响，并让他们有权决定自己的数据如何被使用；告知人们一个自动化系统正在被使用；让用户可选择退出自动化系统。",
-          "link": "https://www.solidot.org/story?sid=72966",
-          "publishedOn": "2022-10-05T13:49:38.000Z",
-          "wordCount": 151,
-          "title": "美国政府发布 AI 指导方针",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72965",
-          "author": null,
-          "description": "开发 VLC 播放器的法国非盈利组织 VideoLAN 基金会主席 Jean-Baptiste Kempf 正式致函印度电子信息技术部，要求对封杀其域名 https://www.videolan.org/ 做出解释给出合理理由和举行虚拟听证会，如果印度政府拒绝这一要求它准备采取法律行动。VideoLAN 的域名是从  2022 年 2 月 13 日起遭到印度政府的屏蔽，印度网民访问该域名会显示“根据电子信息技术部在 2000 年 IT 法下的命令，网站已被屏蔽”的信息。印度政府没有对屏蔽域名做出解释，印度媒体称背后的原因是该平台被中国黑客组织 Cicada 发动网络攻击，安全专家发现 Cicada 利用 VLC 播放器部署恶意程序加载器。Kempf 指出，中国黑客活动是在 4 月份披露的，而对  VideoLAN 域名的封杀发生在这之前的几周，且中国黑客使用的是修改版的旧 VLC 播放器。Kempf 在给印度政府的信中称，VLC 在印度有 8000 万用户，年均下载量 2500 万次。",
-          "link": "https://www.solidot.org/story?sid=72965",
-          "publishedOn": "2022-10-05T13:37:41.000Z",
-          "wordCount": 186,
-          "title": "VideoLAN 威胁起诉印度政府",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72964",
-          "author": null,
-          "description": "2022 年度诺贝尔化学奖授予了美国科学家 Carolyn R. Bertozzi、丹麦科学家 Morten Meldal 和美国科学家 K. Barry Sharpless，以表彰他们“在点击化学和生物正交化学方面的发展”。Barry Sharpless 和 Morten Meldal 为一种功能形式的化学——点击化学奠定了基础。在这种化学中，分子构建块快速而有效地结合在一起。而 Carolyn Bertozzi 则将咔哒声化学带到了一个新的维度，并开始在生物体中使用它。这是 Barry Sharpless 的第二个诺贝尔化学奖。正是他开始了这一过程。大约在 2000 年左右，他创造了“点击化学”的概念，这是一种简单而可靠的化学形式，在这种化学中，反应快速发生，避免了不必要的副产品。",
-          "link": "https://www.solidot.org/story?sid=72964",
-          "publishedOn": "2022-10-05T11:48:06.000Z",
-          "wordCount": 166,
-          "title": "三位化学家获诺贝尔化学奖，其中一位第二次获奖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72963",
-          "author": null,
-          "description": "马斯克(Elon Musk)已提议按其最初同意的条款完成对 Twitter 的收购，这是一个突如其来的撤退，可能会结束他为退出这项 440 亿美元的交易而展开的长达数月的斗争。根据周二下午提交给 SEC 的一封两句话的信函的副本，马斯克的一名律师周一向 Twitter 的律师传达了这一提议。Twitter 证实收到了这封信，并表示打算以每股 54.20 美元的最初价格完成交易。如果双方同意该提议，便能避免即将开始的高风险审判，并有可能在几天内敲定交易。这将是这家社交媒体公司的一个重大胜利。目前不保证善变的马斯克会坚持自己的提议并完成交易。",
-          "link": "https://www.solidot.org/story?sid=72963",
-          "publishedOn": "2022-10-05T11:37:58.000Z",
-          "wordCount": 159,
-          "title": "马斯克提议按原提议收购 Twitter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72962",
-          "author": null,
-          "description": "天文学家制作了第一幅银河系死亡恒星墓场地图。研究报告发表在《Monthly Notices of the Royal Astronomical Society》期刊上。大型恒星会在生命末期坍缩成黑洞和中子星，它们会产生强烈的爆发，而这种爆发是不对称的，部分残余物甚至会直接甩出银河系。天文学家发现，银河系墓场的高度是其本身高度的三倍，约三分之一的天体甩出了银河系，它们不减速的在星际空间中飞行。",
-          "link": "https://www.solidot.org/story?sid=72962",
-          "publishedOn": "2022-10-04T16:02:51.000Z",
-          "wordCount": 149,
-          "title": "天文学家发现银河系死亡恒星墓场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72961",
-          "author": null,
-          "description": "树木能通过吸收大气中的二氧化碳减缓气候变化的影响。大气层中二氧化碳含量在不断增长，而树木在吸收了更多的二氧化碳之后体积也在不断变化，一两年也许不明显，但今天的树木与几十年的树木相对比则能发现变化显著。根据发表在《Nature Communications》期刊上的一项研究，美国 10 个不同温带森林组的木材体积在增加。过去二十年，美国森林每年封存约 700-800 亿吨二氧化碳，相当于年排放量的 10%-11%。研究发现增加的体积相当于额外的一个树轮。今天的树木比 30 年前体积大了 20%-30%。研究人员还发现，随着二氧化碳浓度的提高，即使是历史悠久的大树也在增加体积。",
-          "link": "https://www.solidot.org/story?sid=72961",
-          "publishedOn": "2022-10-04T15:35:22.000Z",
-          "wordCount": 152,
-          "title": "气候变化让树木变“胖”了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72960",
-          "author": null,
-          "description": "Valve 的 Linux 掌机 Steam Deck 于今年 2 月 25 日上市，将近 8 个月后它的销量几何？我们不知道官方的数据，但据 KDE 开发者在最近举行的 Akademy 2022 会议上透露的消息，Steam Deck 掌机出货量已逾一百万部，而 Valve 仍然在处理预登记的订单。Steam Deck 采用预售制，玩家先支付 5 美元预定一个版本，然后排队等待 Valve 发送补交尾款的邮件通知，玩家看到通知后有 48 小时决定是否付款。Steam Deck 有三个版本，64GB 版本从预定到收到通知的时间非常短，可能是因为库存充足，而 512 GB 版本则需要等待较长时间。为何 KDE 开发者会知道销量？原因是 Steam Deck 包含了一个完整的 KDE Plasma 桌面模式，因此 KDE 开发团队在与 Valve 合作改进桌面用户体验。",
-          "link": "https://www.solidot.org/story?sid=72960",
-          "publishedOn": "2022-10-04T14:17:24.000Z",
-          "wordCount": 198,
-          "title": "Steam Deck 掌机出货量逾一百万部",
-          "imageUrl": null
         }
       ]
     },
@@ -3462,6 +3542,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/731041/",
+          "author": null,
+          "description": "文穆胜 万万没想到，进入互联网行业的第一道门槛居然是“起花名”。 什么是花名呢？早期，外企员工为了方便与同事、老板间的沟通交流，会给自己起一个很酷的昵称，如 IBM 员工自称数据侦探等。进入国内互联网企业，花名也开始呈现出一些本土化特征，比如阿里喜欢以武侠小说人物来取花名，拼多多前身是拼好货，早期团\n本文链接",
+          "link": "https://news.cnblogs.com/n/731041/",
+          "publishedOn": "2022-11-04T00:30:00.000Z",
+          "wordCount": 161,
+          "title": "大厂花名俱乐部，约吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731040/",
+          "author": null,
+          "description": "文摩根频道 除了双十一第一天闪电出货不给剁手党留退款后路的商家，近期最吸引眼球的，莫过于腾讯和抖音对簿公堂的吃瓜大戏。 这场旷日时久的“长短之争”，在 10 月 26 日终于迎来了法院的一审判决。自 2021 年 9 月 22 日，因抖音平台存在大量用户上传的腾讯视频独播剧《云南虫谷》剪辑片段，腾讯\n本文链接",
+          "link": "https://news.cnblogs.com/n/731040/",
+          "publishedOn": "2022-11-04T00:20:00.000Z",
+          "wordCount": 161,
+          "title": "抖音腾讯纠纷方休，网络水军再起波澜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731039/",
+          "author": null,
+          "description": "文元宇宙少女 2022 年，国内电商正面临多重巨变：618、双 11 失灵降温，互联网脱虚向实涌向卖货——B站、今日头条等内容平台，俞敏洪、刘润等知识博主纷纷入局。在电商热战的边角处，国内外元宇宙电商几乎同时萌芽。Web3 已润，但元宇宙电商必将发生在中国。 元宇宙电商，从重塑产销关系开始 我们先来\n本文链接",
+          "link": "https://news.cnblogs.com/n/731039/",
+          "publishedOn": "2022-11-04T00:10:00.000Z",
+          "wordCount": 161,
+          "title": "Web3已润，但元宇宙电商必将发生在中国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731038/",
+          "author": null,
+          "description": "文剁椒 TMT，作者西西弗、廿四 “挺胸夹背跟我练，腰酸背痛都不见。” 今晚（11 月 2 日），刘畊宏的太太 ViVi 王婉霏登陆淘宝开播，截至发稿，淘宝直播账号“ViVi 肥油咔咔掉”的粉丝突破 1.7 万，单场直播已收获 2.7 万场观。 10 月 31 日以前，刘畊宏和太太 ViVi 还以抖\n本文链接",
+          "link": "https://news.cnblogs.com/n/731038/",
+          "publishedOn": "2022-11-04T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "刘畊宏入淘，小杨哥进视频号：为何“超头”与平台松绑？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731035/",
+          "author": null,
+          "description": "文红餐网 最后一家喜小茶关店了！ 11 月 2 日，红餐网获悉， 喜小茶已关闭其位于广州城投大厦的最后一家门店。 从 2020 年 4 月开业至今，满打满算，喜小茶也才历经两年多的发展，作为喜茶子品牌，其开业之初的轰动彷佛还犹如眼前，现在却悄然退场。 喜茶为什么要放弃好不容易培养出的“亲儿子”？是撑\n本文链接",
+          "link": "https://news.cnblogs.com/n/731035/",
+          "publishedOn": "2022-11-03T10:41:03.000Z",
+          "wordCount": 161,
+          "title": "喜小茶全面退出市场，降价后的喜茶抢了“亲儿子”生意",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731036/",
+          "author": null,
+          "description": "文一刻商业，作者天宇，编辑周烨 一年一度的双十一又来了，与往年相同的是，各大电商平台又早早地开启了预售，不同的是，今年电商直播继续发力，大有成为双十一“主卖场”之势。 淘宝数据显示，10 月 31 日晚开卖一小时，淘宝直播场观同比增长 600%。除此之外，东方甄选、罗永浩以及刘畊宏夫妇等大主播也纷纷\n本文链接",
+          "link": "https://news.cnblogs.com/n/731036/",
+          "publishedOn": "2022-11-03T10:20:00.000Z",
+          "wordCount": 161,
+          "title": "京东打不动价格战了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731037/",
+          "author": null,
+          "description": "声网 Agora 创始人、CEO 赵斌 钛媒体 App 11 月 3 日消息，全球实时互动云服务商声网 Agora（NASDAQ：API）主办的 RTE2022 第八届实时互联网大会正在线上举行。 相比往年，今年 RTE 大会更加聚焦实时互联网技术、人工智能（AI）降噪算法技术突破、安全合规和标准制\n本文链接",
+          "link": "https://news.cnblogs.com/n/731037/",
+          "publishedOn": "2022-11-03T10:12:00.000Z",
+          "wordCount": 161,
+          "title": "声网赵斌：AI算法在音频领域有巨大进化，能抑制超过100个突发噪声",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731034/",
+          "author": null,
+          "description": "就在一年前的这个时间段，我第一次使用运动相机去了环球影城，当时用的大疆 DJI Action 2“形态”和传统意义上的并不一样，这也给我留下了非常深刻印象，感兴趣的用户可以查看品玩这篇文章《一个人去北京环球影城，是个什么体验？》。 记得当时大疆工程师对这款产品评价是，大疆 DJI Action 2 \n本文链接",
+          "link": "https://news.cnblogs.com/n/731034/",
+          "publishedOn": "2022-11-03T10:00:00.000Z",
+          "wordCount": 161,
+          "title": "回归“原始”形态的大疆Osmo Action 3，体验后我真服了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731033/",
+          "author": null,
+          "description": "11 月 3 日，InfoQ2022 云栖大会杭州现场报道，阿里达摩院联手 CCF 开源发展委员会共同推出 AI 模型社区“魔搭”ModelScope，旨在降低 AI 的应用门槛。 达摩院率先向魔搭社区贡献 300 多个经过验证的优质 AI 模型，超过 1/3 为中文模型，全面开源开放，并且把模型变\n本文链接",
+          "link": "https://news.cnblogs.com/n/731033/",
+          "publishedOn": "2022-11-03T09:50:00.000Z",
+          "wordCount": 161,
+          "title": "阿里达摩院一口气开源了300+AI模型，还推出了AI模型社区“魔搭”，直击AI应用难题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731031/",
+          "author": null,
+          "description": "文读娱，作者蒜香啫啫角 今年的“双十一”年终大促，迎来了新的“玩家”。 在经过了去年底的内侧后，近日B站正式在直播分区上线购物专区，并在这一专区内的直播间全量开放了“小黄车”功能，“小黄车”功能即允许用户边看直播边下单购物，也就是让带货直播这一类型终于进入了B站。 在各家内容平台对直播带货兴致渐长的\n本文链接",
+          "link": "https://news.cnblogs.com/n/731031/",
+          "publishedOn": "2022-11-03T09:40:00.000Z",
+          "wordCount": 161,
+          "title": "B站“双十一”动起来了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731030/",
+          "author": null,
+          "description": "文雷科技 Ieitech 今年 3 月，索尼正式发布了全新的 PlayStation Plus（以下简称 PS+）会员服务，融合原有的 PS+ 和 PS Now 并划分为「基本」、「升级」、「尊享」三个等级，提供了一个包括 700 多款游戏的游戏库——有 PS4 和 PS5 游戏，有第一方和第三方游\n本文链接",
+          "link": "https://news.cnblogs.com/n/731030/",
+          "publishedOn": "2022-11-03T09:30:00.000Z",
+          "wordCount": 161,
+          "title": "索尼PS游戏销量「滑坡」，责任全在微软？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731029/",
+          "author": null,
+          "description": "文雷科技 Ieitech 疫情期间，国内外许多行业的发展止步不前，但也有一些行业进入高峰期，比如说平板电脑、PC，以及视频会议等与远程办公、学习相关的软硬件行业。以远程办公软件为例，腾讯会议 2020 年上线 245 天活跃用户突破 1 亿，钉钉 2020 年用户数量增长 100%，年底总用户突破 \n本文链接",
+          "link": "https://news.cnblogs.com/n/731029/",
+          "publishedOn": "2022-11-03T09:22:00.000Z",
+          "wordCount": 161,
+          "title": "视频会议软件不想再做“烂好人”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731028/",
+          "author": null,
+          "description": "文开菠萝财经，作者苏琦，编辑金玙璠 “应届生试用期被辞退，哥哥姐姐们我该怎么办啊？” “大冤种就是我，马上要转正结果被裁，我能要赔偿吗？” 今年下半年以来，在社交平台上，总能看到类似的“求助贴”。 他们中，有的是错过春招、秋招的 22 届应届生，有的是上半年被裁、空窗至今的 21 届毕业生。他们面临\n本文链接",
+          "link": "https://news.cnblogs.com/n/731028/",
+          "publishedOn": "2022-11-03T09:10:00.000Z",
+          "wordCount": 161,
+          "title": "被试用期“坑惨”的应届生",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731027/",
+          "author": null,
+          "description": "Polyoxometalates（《多金属氧簇（英文）》，ISSN 2957-9821）是清华大学主办的国际首个多金属氧簇领域跨学科学术期刊，旨在传播多金属氧簇领域前沿基础研究和创新性应用研究最新进展，致力于为国内外多金属氧簇领域的学者搭建一流的国际学术交流平台，促进多金属氧簇领域学术交流和发展。该\n本文链接",
+          "link": "https://news.cnblogs.com/n/731027/",
+          "publishedOn": "2022-11-03T09:00:00.000Z",
+          "wordCount": 161,
+          "title": "清华大学主办国际期刊《Polyoxometalates》首期正式出版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731032/",
+          "author": null,
+          "description": "随着共享单车融入人们日常生活中，在方便市民骑行的另一面，也存在用户破坏私占、闯红灯、逆向行驶等不文明骑行行为，这类不文明行为也给城市管理者带来了不少麻烦。哈啰骑行推出新一代驾照分（信用分）可以对用户骑行行为进行一定的约束，通过技术化手段进行骑行安全、路面整洁、交通安全等方面的城市管理。 今年开始，全\n本文链接",
+          "link": "https://news.cnblogs.com/n/731032/",
+          "publishedOn": "2022-11-03T08:55:00.000Z",
+          "wordCount": 161,
+          "title": "哈啰驾照分2.0系统已多地上线 或成出行新风向",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731026/",
+          "author": null,
+          "description": "维生素D是我们从太阳中获取的维生素，尽管供应充足，但三分之一的澳大利亚成年人仍然患有轻度、中度或严重的维生素D缺乏。 近日，澳大利亚南澳大学的一项新研究提供了强有力的证据，证明维生素D缺乏与过早死亡有关，这促使人们遵守健康的维生素D水平指南。相关研究结果发表于《内科医学年鉴》。 维生素D是一种重要的\n本文链接",
+          "link": "https://news.cnblogs.com/n/731026/",
+          "publishedOn": "2022-11-03T08:50:00.000Z",
+          "wordCount": 161,
+          "title": "维生素D缺乏与过早死亡有关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731025/",
+          "author": null,
+          "description": "11 月 3 日消息，据国外媒体报道，周三，索尼表示，将于明年 2 月 22 日推出 PlayStation VR2（PS VR2）VR（虚拟现实）头显。 PS VR2 头显搭载有 OLED 屏幕，提供了 4K HDR 和 110 度视野，刷新率为 90/120Hz，旨在创造更沉浸式的体验。 索尼在\n本文链接",
+          "link": "https://news.cnblogs.com/n/731025/",
+          "publishedOn": "2022-11-03T08:45:00.000Z",
+          "wordCount": 161,
+          "title": "索尼将于明年2月22日推出PlayStation VR2虚拟现实头显",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731024/",
+          "author": null,
+          "description": "11 月 3 日消息，据国外媒体报道，知情人士透露，美国司法部正在调查 Adobe 公司 200 亿美元收购设计软件公司 Figma 的交易。 知情人士表示，司法部已开始与 Figma 的客户和竞争对手进行谈判，以确定这笔交易是否会损害竞争。Adobe 表示，“正与监管机构进行讨论，使其充分了解合并\n本文链接",
+          "link": "https://news.cnblogs.com/n/731024/",
+          "publishedOn": "2022-11-03T08:40:00.000Z",
+          "wordCount": 161,
+          "title": "美国司法部对Adobe收购Figma交易展开反垄断调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731023/",
+          "author": null,
+          "description": "Statcounter 十月份的统计数据显示，在发布一年之后 Windows 11 的普及度依旧远落后于 Windows 10。目前 Windows 11 的市场占有率为 15.44%，比前一个月增加 1.83%，相比之下 Windows 10 的市场份额为 71.29%，只比前一个月的 71.88\n本文链接",
+          "link": "https://news.cnblogs.com/n/731023/",
+          "publishedOn": "2022-11-03T08:33:00.000Z",
+          "wordCount": 161,
+          "title": "Windows 11 的普及度仍然远落后于 Windows 10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731022/",
+          "author": null,
+          "description": "11 月 3 日消息，信息显示，近日天涯社区网络科技股份有限公司新增多项被执行信息，被执行总金额已达 1.39 亿元。同时，天涯社区法定代表人、创始人邢明已被限制高消费。 天涯社区网络科技股份有限公司成立于 1999 年，注册资本为 9300 万元，对外投资有 14 家企业，其中 4 家已成被执行人\n本文链接",
+          "link": "https://news.cnblogs.com/n/731022/",
+          "publishedOn": "2022-11-03T08:29:00.000Z",
+          "wordCount": 161,
+          "title": "天涯社区被执行超亿元，创始人邢明被限制高消费",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/730971/",
           "author": null,
@@ -8550,206 +8830,6 @@
           "publishedOn": "2022-10-07T08:20:00.000Z",
           "wordCount": 161,
           "title": "马斯克把超声波雷达也扔掉了！特斯拉再度减配：8摄像头终极传感器方案面世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729331/",
-          "author": null,
-          "description": "今年国庆佳节，中国航天员首次在太空度过。神十四航天员发回国旗同框照 此外，中国载人航天工程办公室官方还发布了，神舟十四号乘组航天员在轨拍摄的摄影作品 一起祝福中国航天！ 祝福伟大祖国！你被哪张惊艳到了？来源：中国载人航天、新华社责任编辑：于帅监审：穆好强 相关阅读 “出差”满四个月一图看懂神十四太空\n本文链接",
-          "link": "https://news.cnblogs.com/n/729331/",
-          "publishedOn": "2022-10-05T10:14:09.000Z",
-          "wordCount": 161,
-          "title": "中国人首次！惊艳照片公布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729333/",
-          "author": null,
-          "description": "IT 之家 10 月 4 日消息，近日，二手交易平台闲鱼发布了关于新增《闲鱼社区七天无理由退货规范》的公示通知，规范要求经营性卖家提供“七天无理由退货”服务，买家退回商品应当保持完好。 通知显示，此规则于 2022 年 9 月 30 日至 2022 年 10 月 7 日进行公示通知，于 2022 年\n本文链接",
-          "link": "https://news.cnblogs.com/n/729333/",
-          "publishedOn": "2022-10-05T10:10:00.000Z",
-          "wordCount": 161,
-          "title": "闲鱼：10月8日起经营性卖家需提供 7 天无理由退货",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729332/",
-          "author": null,
-          "description": "集微网消息，软银集团董事长孙正义本月初已前往韩国与三星、SK 两大集团会面，三星集团副会长李在镕更透露，将针对收购 Arm 提出报价。 据 BusinessKorea 报道，Arm 一直是三星潜在并购标的，若成功收购可望显著带动三星 SoC 业务成长。业内人士分析，三星可能通过股权投资参与 Arm \n本文链接",
-          "link": "https://news.cnblogs.com/n/729332/",
-          "publishedOn": "2022-10-05T10:05:00.000Z",
-          "wordCount": 161,
-          "title": "孙正义亲赴韩国，三星、SK财团或竞购Arm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729330/",
-          "author": null,
-          "description": "撰文/ 周享玥 编辑/ 陈芳 不久前，随着一条黑色牛仔裤被意外翻出，90 后姜卉陷入了一波“回忆杀”——这是一个历史“悠久”的老物件，最初源于姜卉的第一次网购，后来一直被她以“纪念品”的形式保留着。 “算年份应该有 12 年了。”姜卉记得，那时候网购还不发达，买东西得用“电脑淘宝 +U 盾”，而且“\n本文链接",
-          "link": "https://news.cnblogs.com/n/729330/",
-          "publishedOn": "2022-10-05T10:01:00.000Z",
-          "wordCount": 161,
-          "title": "十年涨十倍，电商改变生活",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729329/",
-          "author": null,
-          "description": "羿阁丰色发自凹非寺 量子位公众号 QbitAI 天天一身白衬衣+牛仔裤、为了专心想题走路不戴眼镜…… 但又非常擅长社交、3 岁就会“整蛊”大人、不止研究搞得好还特别会摄影。 ——这样的数学家你见过吗？ 他就是今年七月刚刚摘下菲尔兹奖的牛津大学教授詹姆斯·梅纳德 （James Maynard）。 此前\n本文链接",
-          "link": "https://news.cnblogs.com/n/729329/",
-          "publishedOn": "2022-10-05T09:55:00.000Z",
-          "wordCount": 161,
-          "title": "天才社牛数学家连续拿下菲尔兹奖新视野奖，专攻\"最难的简单问题\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729328/",
-          "author": null,
-          "description": "10 月 5 日消息，多位员工透露，Facebook 母公司 Meta 公司正在通过改变业绩预期来悄悄进行裁员，这可能会影响到该公司多达 15%（或 1.2 万名）员工。 上周参加每周问答活动时，Meta 首席执行官马克·扎克伯格（Mark Zuckerberg）明确表示，该公司将延长自 5 月份以\n本文链接",
-          "link": "https://news.cnblogs.com/n/729328/",
-          "publishedOn": "2022-10-05T09:46:00.000Z",
-          "wordCount": 161,
-          "title": "Meta被曝正悄悄裁员，或波及1.2万名员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729327/",
-          "author": null,
-          "description": "我国量子通信领军人物、中国科学院院士潘建伟的导师安东·塞林格刚刚获得了 2022 年诺贝尔物理学奖。在诺贝尔奖的官方介绍中，大量引用了潘建伟团队的成果与贡献。在接受本报记者采访时，潘建伟院士表示，包括他的导师在内的三位科学家获得诺奖是实至名归的，“甚至还有些晚了”。 回望量子领域 70 年发展，三位\n本文链接",
-          "link": "https://news.cnblogs.com/n/729327/",
-          "publishedOn": "2022-10-05T09:40:00.000Z",
-          "wordCount": 161,
-          "title": "潘建伟院士：塞林格与我，是师生，又是竞争者，也是合作者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729326/",
-          "author": null,
-          "description": "极目新闻记者宋清影 据美联社 10 月 4 日报道，美国宇航局航天器撞击小行星后，小行星表面喷出大量尘埃和碎片。天文学家观测到，碎片形成一道长达 6000 多英里（约 10000 公里）的彗星状尾巴。 当地时间 9 月 26 日晚，美国国家航空航天局（NASA）宇宙飞船成功撞击了一颗名为“迪莫弗斯”\n本文链接",
-          "link": "https://news.cnblogs.com/n/729326/",
-          "publishedOn": "2022-10-05T09:32:00.000Z",
-          "wordCount": 161,
-          "title": "美国撞击的小行星留下超长碎片轨道，约1万公里",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729325/",
-          "author": null,
-          "description": "【环球网报道记者索炎琦】“马斯克的万能应用程序‘X’听起来很像中国的微信。”美国彭博社当地时间 4 日以此为题对马斯克收购推特事件进行了报道，并提到了中国手机应用程序——微信。 当地时间 4 日晚些时候，马斯克在推特发文：“收购推特是创建万能应用程序‘X’的加速剂。”↓ 关于万能应用程序“X”，彭博\n本文链接",
-          "link": "https://news.cnblogs.com/n/729325/",
-          "publishedOn": "2022-10-05T09:28:00.000Z",
-          "wordCount": 161,
-          "title": "宣布收购推特后马斯克提到一款“万能应用”，美媒：听起来很像微信",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729324/",
-          "author": null,
-          "description": "10 月 5 日消息，当地时间周二欧洲议会通过一项新规，要求从 2024 年开始，所有手机和平板电脑等新出厂的便携智能设备都要采用 USB-C 充电接口。这意味着从 2024 年秋季开始，苹果在欧洲市场销售的所有 iPhone 都要带有 USB-C 接口。 欧洲议会周二以压倒性多数通过通过统一便携智\n本文链接",
-          "link": "https://news.cnblogs.com/n/729324/",
-          "publishedOn": "2022-10-05T09:23:00.000Z",
-          "wordCount": 161,
-          "title": "欧洲新法通过，苹果2024年新机在欧必须用USB-C接口",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729323/",
-          "author": null,
-          "description": "作为一个十万亿级的市场，智能电动汽车产业正引得群雄逐鹿。比亚迪、特斯拉、“蔚小理”之下，赛力斯、哪吒等已成“新势力第二军团”，华为、百度借自身科技基因频频发力，丰田等传统车企则极力据守。在这场激烈的竞争中，谁会折戟沉沙，谁又将成为秦楚？又有哪些值得关注的投资机会？为此，市界推出《群雄争霸新能源》特别\n本文链接",
-          "link": "https://news.cnblogs.com/n/729323/",
-          "publishedOn": "2022-10-05T09:18:00.000Z",
-          "wordCount": 161,
-          "title": "霸主丰田停在“旧”车时代",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729322/",
-          "author": null,
-          "description": "新智元报道 编辑：David 在世界范围内，大学教职都越来越难拿了。Nature 研究显示，美国的大学教职一看毕业学校，二看家庭出身。 知名高校的教职，对于每位励志学术的研究人员来说都是个不小的阶段性目标。 尤其是最近这些年，高学历人才越来越多，有限的终身教职在「僧多粥少」大背景下，更成了万人追捧的\n本文链接",
-          "link": "https://news.cnblogs.com/n/729322/",
-          "publishedOn": "2022-10-05T09:10:00.000Z",
-          "wordCount": 161,
-          "title": "Nature：大学教职有多难拿？要名校毕业，还要家里有人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729321/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 手机摄影近几年的发展神速，未来该走向何方？高通副总裁给出了他的预测：人工智能算法和专用芯片。 从最开始的一无所有，到人生第一个 30 万，后来慢慢到 120 万，500 万，800 万，2000 万再到现在的一个亿，真的很不容易。 啊，我说的是手机像素。 智能机时代，各大厂\n本文链接",
-          "link": "https://news.cnblogs.com/n/729321/",
-          "publishedOn": "2022-10-05T09:00:00.000Z",
-          "wordCount": 161,
-          "title": "手机摄影三年超越单反？高通副总裁预测：想进步还得靠AI算法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729320/",
-          "author": null,
-          "description": "詹士发自凹非寺 量子位公众号 QbitAI 一个胚胎，带着三个人的 DNA。 你见过么？ 近日，Nature 上就报道了这么一项成果—— 来自中国的研究者们不仅实现了将三个人 DNA 放入一个胚胎，且首次证明了这项操作本身的安全性。 文章主导者之一的解放军总医院妇产科商微医生补充：他们所使用的线粒体\n本文链接",
-          "link": "https://news.cnblogs.com/n/729320/",
-          "publishedOn": "2022-10-05T08:50:00.000Z",
-          "wordCount": 161,
-          "title": "一个胚胎带三人DNA，中国研究者首次证明其发育安全性|Nature报道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729318/",
-          "author": null,
-          "description": "Alex 发自凹非寺 量子位公众号 QbitAI 人人都可以免费在线试玩的“脑补”画面神器来了！ 它可以打破画框的桎梏，“想象”（Outpainting）出《戴珍珠耳环的少女》的背景： 这个工具名为 Stable Diffusion Infinity，是大火的 AI 绘图新星 Stable Diff\n本文链接",
-          "link": "https://news.cnblogs.com/n/729318/",
-          "publishedOn": "2022-10-05T08:43:00.000Z",
-          "wordCount": 161,
-          "title": "免费用Stable Diffusion「脑补」名画画框外世界，网友：白嫖真香",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729319/",
-          "author": null,
-          "description": "Pine 发自凹非寺 量子位公众号 QbitAI 用 2D 数据训练出来的模型，也能生成 3D 图像了。 输入简单的文本提示，就能生成 3D 模型，这个“AI 画师”的技术如何？ 直接看效果。 它生成的 3D 模型还具有密度、颜色。 并且能够在不同的光照条件进行渲染。 不仅如此，它甚至可以把生成的多\n本文链接",
-          "link": "https://news.cnblogs.com/n/729319/",
-          "publishedOn": "2022-10-05T08:30:00.000Z",
-          "wordCount": 161,
-          "title": "一句话生成3D模型，但只需2D数据训练｜谷歌&UC Berkeley",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729317/",
-          "author": null,
-          "description": "杨净衡宇发自凹非寺 量子位公众号 QbitAI 夺冠全球数学竞赛，本科期间却一度勉强及格？ 刚刚落下帷幕的阿里数学竞赛中，金奖名单中出现了一位北大数学在读学生的身影。 他叫陈泽坤，北大数学院直博生，师承“黄金一代”，现在是刘若川的亲传弟子。 据称，工位还是在韦神的隔壁。 也许还有人知道的，是他在最强\n本文链接",
-          "link": "https://news.cnblogs.com/n/729317/",
-          "publishedOn": "2022-10-05T02:58:26.000Z",
-          "wordCount": 161,
-          "title": "马桶上解题夺冠全球竞赛，北大博士数分一度勉强及格，现韦神隔壁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729316/",
-          "author": null,
-          "description": "杨净 Pine 发自凹非寺 量子位公众号 QbitAI 刚刚，2022 年诺贝尔物理学奖揭晓！ 今年的物理学奖颁向量子纠缠的三位科学家，他们分别是阿兰·阿斯佩 Alain Aspect，约翰·克劳泽 John F. Clauser 以及安东·塞林格 Anton Zeilinger，以表彰他们用纠缠光\n本文链接",
-          "link": "https://news.cnblogs.com/n/729316/",
-          "publishedOn": "2022-10-05T02:51:00.000Z",
-          "wordCount": 161,
-          "title": "证明爱因斯坦错了！诺贝尔物理学奖颁给量子纠缠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729315/",
-          "author": null,
-          "description": "新智元报道 作者：学术头条 编辑：桃子 无限猴子定理认为，让一只猴子在打字机上随机地按键，当按键时间达到无穷时，几乎必然能够打出任何给定的文字，比如莎士比亚的全套著作。 在「无限猴子」定理中，「几乎必然」是一个有特定含义的数学术语，「猴子」也不是指一只真正意义上的猴子，而是被用来比喻成一台可以产生无\n本文链接",
-          "link": "https://news.cnblogs.com/n/729315/",
-          "publishedOn": "2022-10-05T02:45:00.000Z",
-          "wordCount": 161,
-          "title": "「AI世界」还缺点啥？牛津大学教授：现实世界",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729314/",
-          "author": null,
-          "description": "新智元报道 编辑：拉燕桃子 2022 年诺奖公布了！今年的诺贝尔生理学或医学奖颁给了瑞典遗传学家 Svante Pääbo，以表彰他在灭绝的古人类基因组和人类进化方面的发现。 今年的诺贝尔生理学或医学奖颁给了这个人—— Svante Pääbo 获奖理由：以表彰他在灭绝的古人类基因组和人类进化方面的\n本文链接",
-          "link": "https://news.cnblogs.com/n/729314/",
-          "publishedOn": "2022-10-05T02:38:00.000Z",
-          "wordCount": 161,
-          "title": "古人类DNA与重症新冠有关？2022诺奖得主Pääbo，竟是前诺奖得主私生子",
           "imageUrl": null
         }
       ]
