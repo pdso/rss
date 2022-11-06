@@ -676,6 +676,66 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=73278",
+          "author": null,
+          "description": "越南信息部长周五宣布收紧处理社媒平台虚假内容的规定，要求社媒必须在 24 小时内删除虚假内容，而不是以前的 48 小时。新规定让越南成为对社媒控制最严厉的国家之一。信息和通信部长 Nguyen Manh Hung 告诉议会存在“虚假新闻，如果处理缓慢将会广泛传播”的风险。Hung 表示目前政府对于发布和传播虚假信息的惩罚程度不足以震慑公众，建议加大处罚。越南过去几年制定了网络安全法和国家社交媒体行为指南。",
+          "link": "https://www.solidot.org/story?sid=73278",
+          "publishedOn": "2022-11-05T14:51:59.000Z",
+          "wordCount": 160,
+          "title": "越南要求社媒平台在 24 小时内删除“虚假信息”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73277",
+          "author": null,
+          "description": "国产语言爱好者 写道 \"开源3个月以来，凹语言 项目取得了很多进展，包括：1. 构建了一套在线编译凹源代码并并执行的环境：https://wa-lang.org/playground/。该环境的编译、执行没有调用后端服务，完全在页面中运行；是一个非常便捷的体验、测试凹语言的入口；2. 项目组采用 AGPLv3 协议开源凹语言；3. WASM后端原型如期发布，已支持数值/字符串基本类型、结构体、方法、数组、切片等常用特性，项目组开始着手以此为基础开发贪吃蛇等带有交互功能的网页小游戏；4. 原定于2023年春节后启动的LLVM后端，提前启动；5. 发布了新版（第三版）官网；6. 制定并部署了凹语言贡献者协议。\n\n具体操作请参考：https://wa-lang.org/daily/smalltalk/st0011.html\n\"",
+          "link": "https://www.solidot.org/story?sid=73277",
+          "publishedOn": "2022-11-05T14:08:33.000Z",
+          "wordCount": 157,
+          "title": "凹语言开源季度总结",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73276",
+          "author": null,
+          "description": "在 1989 年发明 World Wide Web 的蒂姆·伯纳斯-李认为 Web3 根本不是 Web，我们应该忽略它。在里斯本举行的 Web 峰会上，这位英国计算机科学家说，讨论新技术的影响首先需要澄清其意义，必须理解正在讨论的术语的实际含义。他说令人遗憾的是真正的 Web3 被以太坊贩子拿去描述区块链相关的东西，而 Web3 根本不是 Web。今天大部分人所说的 Web3 与区块链、加密货币和 NFT 相关。他不认为区块链是构建下一代互联网的可行方案。伯纳斯-李正在领导一个去中心化 Web 项目 Solid，Web3 不是 Web 3.0，他认为区块链对 Solid 没有好处，它太慢太昂贵太公开，而旨在让用户掌控个人数据的 Solid 需要快、便宜且私有。",
+          "link": "https://www.solidot.org/story?sid=73276",
+          "publishedOn": "2022-11-05T14:07:45.000Z",
+          "wordCount": 189,
+          "title": "蒂姆·伯纳斯-李称 Web3 根本不是 Web",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73275",
+          "author": null,
+          "description": "HBO 砍掉了以人造人反抗人类为背景的电视剧《西部世界》，该剧将在第四季后结束，不会有第五季。这一决定并不出人意料，事实上和观众感知相同，《西部世界》第一季广受称赞，第二季用户平均评价开始下降，第三季进一步下降，第四季虽然有惊喜但已经挽回不了颓势。《西部世界》获得了 54 项艾美奖提名，该剧的联合创作人 Jonathan Nolan 曾希望 HBO 能续订第五季，以给故事划上一个句号。他的妻子、该剧的另一位联合创作人 Lisa Joy 也表达了类似的愿望。尽管不会再制作第五季，但据 Deadline 援引知情人士的消息称该剧的核心演员仍然会拿到第五季片酬。此举并不罕见，为了确保演员出演大制作剧集电视网有时会提前支付片酬。",
+          "link": "https://www.solidot.org/story?sid=73275",
+          "publishedOn": "2022-11-05T03:49:47.000Z",
+          "wordCount": 161,
+          "title": "HBO 砍掉了《西部世界》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73274",
+          "author": null,
+          "description": "AMD 新发布的 Ryzen 7000 系列处理器在性价比上明显落后于竞争对手英特尔的 13 代酷睿处理器，而且  7000 系列处理器还需要新一代的主板和 DDR5 内存条，13 代酷睿可以沿用上一代的主板和 DDR4 内存条。在电商平台京东上，Ryzen 7000 系列大幅降价，其中最高端的 7950X 最高降价 1500 元，从原来的 5499 元降至 3999 元，暂时不清楚是永久性降价还只是双 11 购物节活动。如果用户此前在京东上以原价购买 7000 系列处理器，可以获得保价，获得退款。这一保价可能不适用于其它渠道购买的消费者。",
+          "link": "https://www.solidot.org/story?sid=73274",
+          "publishedOn": "2022-11-04T15:13:38.000Z",
+          "wordCount": 183,
+          "title": "AMD Ryzen 7000 系列处理器大幅降价",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73273",
+          "author": null,
+          "description": "这可能是第一次透明裁员。Twitter 向全体员工发去了邮件通知，通知他们将在周五 PST 时间上午九点（北京时间 24 时）收到是否被裁员的邮件。通知称，如果工作不受影响，员工将会从个人的 Twitter 电邮收到通知；如果工作受到影响，员工将会从个人的私人邮箱收到下一步通知。如果员工在 PST 时间下午五点之前没有收到 twitter-hr@ 的邮件，请发送邮件给 xxxxxxxx。为了确保员工以及 Twitter 系统和客户数据的安全，公司办公室将暂时关闭，所有进门令牌将暂停使用。如果你在办公室或去办公室的路上，请回家。",
+          "link": "https://www.solidot.org/story?sid=73273",
+          "publishedOn": "2022-11-04T15:00:08.000Z",
+          "wordCount": 161,
+          "title": "Twitter 开始发裁员通知",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=73272",
           "author": null,
           "description": "11 月 4 日来华访问的德国总理朔尔茨出席了中德两国总理的联合记者会。这是现年64岁的朔尔茨上任德国总理以来的首次对华访问，此前，他也曾在汉堡市市长和德国财长任内到访过中国。于今，担任德国总理已近一年的朔尔茨，也成为新冠疫情以来和中共二十大召开之后，首位来华的西方国家领导人。朔尔茨在两国总理联合记者会上宣布，由德国企业拜恩泰科（BioNTech）研发的mRNA 新冠疫苗，将可在中国为在华的德国侨民接种。朔尔茨说，当然，这只是“第一步”。他期待未来拜恩泰科疫苗的在华受惠者范围，能够进一步扩大。",
@@ -3614,36 +3674,6 @@
           "wordCount": 160,
           "title": "政治立场如何影响新冠死亡率",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72974",
-          "author": null,
-          "description": "匿名读者 写道 \"9 月 29 日凤凰卫视记者卢宇光在其抖音 makcim19781987 发布「海马死零部件」CAM14060575 MADE IN CHINA 视频， 实际片段来源于 Jump Boost Garage 频道，是被烧毁科尔维特(Corvette)跑车的收音机。由于视频被用作战争宣传，Jump Boost Garage 被迫发布视频回应。\"",
-          "link": "https://www.solidot.org/story?sid=72974",
-          "publishedOn": "2022-10-07T12:44:10.000Z",
-          "wordCount": 162,
-          "title": "记者卢宇光被指发布虚假信息",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72973",
-          "author": null,
-          "description": "使用英特尔 CPU 以及集显的笔记本电脑用户最好不要升级到最新的稳定内核 Linux 5.19.12，因为 LCD 显示器可能会受损。有使用 Linux 5.19.12 的英特尔用户报告了白色闪烁的显示问题，一位用户形容显示屏的闪烁就像 1990 年代的派对舞会灯光。英特尔内核工程师 Ville Syrjal 在检查日志后发现问题与英特尔 GPU 的显示驱动有关。稳定版内核维护者 Greg Kroah-Hartman 已经释出了 Linux 5.19.13，修复了有问题的显示驱动。Greg 称如果用户在使用中没有遇到问题那么就没必要升级。",
-          "link": "https://www.solidot.org/story?sid=72973",
-          "publishedOn": "2022-10-06T14:38:14.000Z",
-          "wordCount": 177,
-          "title": "运行在 Linux 5.19.12 之上的英特尔集显可能会破坏显示器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72972",
-          "author": null,
-          "description": "初步支持 Rust 语言的首批补丁合并到了 Linux 6.1 中。Linux 6.0 发布之后 Linux 6.1 合并窗口开启，持续两周。Rust-for-Linux 的初步支持大致来自四个领域：Kernel 内部(kallsyms expansion for Rust symbols, %pA format)；Kbuild 基础设施 (Rust 构建规则和支持脚本)；支持初步最简可行构建所需的 Rust crates 和绑定；Rust kernel 文档和示例。",
-          "link": "https://www.solidot.org/story?sid=72972",
-          "publishedOn": "2022-10-06T14:18:39.000Z",
-          "wordCount": 186,
-          "title": "Linux 6.1 合并补丁加入对 Rust 的初步支持",
-          "imageUrl": null
         }
       ]
     },
@@ -3652,6 +3682,146 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/731119/",
+          "author": null,
+          "description": "文/毕安娣 来源：字母榜（ID:wujicaijing) 凌晨三点打开电脑，发现自己被公司“抹去”了，内部论坛进不去，办公系统无法登录——这是一些推特英国员工刚刚经历的。 裁员，是马斯克接手推特之前就已经悬在员工头上的剑，如今，以一种迅猛且惨烈的方式，这把剑终于落下。 美国时间 11 月 3 日周四\n本文链接",
+          "link": "https://news.cnblogs.com/n/731119/",
+          "publishedOn": "2022-11-06T01:00:00.000Z",
+          "wordCount": 161,
+          "title": "大裁员开始，马斯克与推特的“血色婚礼”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731121/",
+          "author": null,
+          "description": "文/张宇 来源：DoNews（ID:ilovedonews) 01. G9 被吐槽，组织架构被调整 因为销量低迷、股价疲软，小鹏汽车掀起了自创办以来规模最大的组织架构与人员调整。 10 月 21 日，小鹏汽车董事长兼 CEO 何小鹏发布全员邮件，宣布建立五大虚拟委员会组织和三个产品矩阵组织，前者目的\n本文链接",
+          "link": "https://news.cnblogs.com/n/731121/",
+          "publishedOn": "2022-11-06T00:20:00.000Z",
+          "wordCount": 161,
+          "title": "何小鹏该怎么拯救小鹏？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731120/",
+          "author": null,
+          "description": "文/机器之心 来源：机器之心（ID:almosthuman2014) 剩下的 50% 推特员工：这是我离失业最近的一次。 据报道，伊隆·马斯克收购推特后大幅裁员，原有的 7500 名员工现在已经被裁了约一半，整个推特原有团队几乎完全被摧毁。 受马斯克裁员影响最大的有推特的产品信任和安全、政策、通信、\n本文链接",
+          "link": "https://news.cnblogs.com/n/731120/",
+          "publishedOn": "2022-11-06T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "马斯克裁撤推特一半员工，赔3个月工资赶人，传机器学习团队90%成员失业",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731118/",
+          "author": null,
+          "description": "NASA James Webb Space Telescope has found the oldest star cluster ever. (Representative image) (via REUTERS) 科技日报北京 11 月 4 日电 （记者刘霞）加拿大天文学家领导的一个国际科研团队\n本文链接",
+          "link": "https://news.cnblogs.com/n/731118/",
+          "publishedOn": "2022-11-05T13:15:18.000Z",
+          "wordCount": 161,
+          "title": "韦布确定迄今最遥远球状星团",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731117/",
+          "author": null,
+          "description": "本报记者贾丽 11 月 4 日，贾跃亭债务处理小组微博账号就媒体报道“《老板与自家公司对簿公堂？贾跃亭起诉乐视》”一事回应，表示此事系部分网站公告内容刊登有误。 日前，山西法院诉讼服务网公告“11 月 29 日 09 时 00 分依法公开审理贾跃亭等诉乐视控股（北京）有限公司借款合同纠纷一案”相关内\n本文链接",
+          "link": "https://news.cnblogs.com/n/731117/",
+          "publishedOn": "2022-11-05T08:18:00.000Z",
+          "wordCount": 161,
+          "title": "起诉乐视控股？贾跃亭债务处理小组回应：不属实",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731116/",
+          "author": null,
+          "description": "伯克希尔哈撒韦对于比亚迪的减持还在继续。 11 月 4 日周五，根据港交所披露文件，伯克希尔哈撒韦公司已于 11 月 1 日出售 329.7 万股比亚迪股份H股，平均出售价格为 169.86 港元/股，套现 5.6 亿港元。本次减持后，巴菲特仍持有 1.967 亿股，相较于此前 2.25 亿股，已经\n本文链接",
+          "link": "https://news.cnblogs.com/n/731116/",
+          "publishedOn": "2022-11-05T08:11:00.000Z",
+          "wordCount": 161,
+          "title": "巴菲特又双叒减持比亚迪！ 再卖5.6亿港元 持股比例降至17.92%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731115/",
+          "author": null,
+          "description": "京东创始人刘强东转出所持多家京东系公司 45% 股权。 据国家企业信用信息公示系统和天眼查 APP 显示，近日，京东图书关联公司江苏圆周电子商务有限公司发生工商变更，刘强东将其持有该公司 45% 的股份转让给京东集团副总裁缪钦。 此前 10 月 27 日，刘强东将所持有的江苏京东邦能投资管理有限公司\n本文链接",
+          "link": "https://news.cnblogs.com/n/731115/",
+          "publishedOn": "2022-11-05T01:45:00.000Z",
+          "wordCount": 161,
+          "title": "刘强东再转让两家京东系公司股权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731113/",
+          "author": null,
+          "description": "近期连续下跌的港股终见暴力反弹行情，市场做多情绪高涨。恒生科技指数一度涨至 11%，午后虽有回落仍大幅收涨 7.54%，重上 3200 点，恒指涨 5.36% 上扬超 800 点，收复 16000 点关口。恒指本周累涨 8.73%，创 2011 年 10 月底以来最大单周涨幅；恒生科技指数本周累涨 \n本文链接",
+          "link": "https://news.cnblogs.com/n/731113/",
+          "publishedOn": "2022-11-05T01:41:00.000Z",
+          "wordCount": 161,
+          "title": "港股收评：恒科指大涨7.54%重上3200点，汽车股大幅走高，“蔚小理”领衔上涨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731114/",
+          "author": null,
+          "description": "新京报讯（记者陈琳）11 月 4 日，国新办举行新闻发布会，发布《新时代的中国北斗》白皮书。中国卫星导航系统管理办公室主任、北斗卫星导航系统新闻发言人冉承其介绍，目前北斗系统一共有 45 颗卫星在轨提供服务，明年计划发射3-5 颗卫星。 冉承其介绍，北斗三号在轨卫星，加上原来超期服役的北斗二号，一共\n本文链接",
+          "link": "https://news.cnblogs.com/n/731114/",
+          "publishedOn": "2022-11-05T01:38:00.000Z",
+          "wordCount": 161,
+          "title": "北斗系统45颗卫星在轨提供服务，明年计划发射3-5颗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731112/",
+          "author": null,
+          "description": "IT 之家 11 月 4 日消息，据 2022 华为开发者大会披露，华为正在和支付宝探索基于 HarmonyOS 原子化服务的更多可能。 用户将能通过手机桌面智慧搜索，一步直达支付宝原子化服务卡片，如生活服务卡片、智能位置卡片等，需要交电费、水费时，点击卡片就能跳转，直接完成在线支付，操作上更便捷。\n本文链接",
+          "link": "https://news.cnblogs.com/n/731112/",
+          "publishedOn": "2022-11-05T01:36:00.000Z",
+          "wordCount": 161,
+          "title": "支付宝接入华为鸿蒙 HarmonyOS 生态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731111/",
+          "author": null,
+          "description": "IT 之家 11 月 5 日消息，被誉为“iPod 之父”的苹果公司前副总裁托尼・法德尔（Tony Fadell）似乎并没有在近期退休的打算。 在将自己创建的公司卖给谷歌之后，法德尔现在加入了半导体公司 Arm 的董事会。 据 CNET 报道，托尼・法德尔 (Tony Fadell) 周四已正式加入\n本文链接",
+          "link": "https://news.cnblogs.com/n/731111/",
+          "publishedOn": "2022-11-05T01:31:00.000Z",
+          "wordCount": 161,
+          "title": "苹果iPod之父Tony Fadell加入Arm董事会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731110/",
+          "author": null,
+          "description": "IT 之家 11 月 5 日消息，当英特尔在 2021 年初成立代工部门时，各大晶圆厂生产节点的成本已经推高到了一种非常高的程度，甚至还会越来越高，而英特尔相对来说也有足以跟三星、台积电硬碰硬的实力。 实际上，英特尔一开始就表示想要让该部门成为在规模上与三星、台积电持平的代工厂。现在看来，该公司目前\n本文链接",
+          "link": "https://news.cnblogs.com/n/731110/",
+          "publishedOn": "2022-11-05T01:27:00.000Z",
+          "wordCount": 161,
+          "title": "英特尔：我们的目标是到 2030 年成为第二大代工厂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731108/",
+          "author": null,
+          "description": "出品虎嗅科技组 作者丸都山 编辑陈伊凡 头图视觉中国 在硅周期下行的影响下，半导体行业的冬天来得早了一些。 近期，半导体巨头纷纷发布 2022 年第三季度财报。整体来看，以超威半导体（NASDAQ:AMD）、英特尔（NASDAQ:INTC）为代表的芯片设计厂商业绩几乎都不及预期。 即便是台积电(NY\n本文链接",
+          "link": "https://news.cnblogs.com/n/731108/",
+          "publishedOn": "2022-11-05T01:22:00.000Z",
+          "wordCount": 161,
+          "title": "全球半导体的寒冬要来了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731109/",
+          "author": null,
+          "description": "11 月 5 日消息，苹果已就针对前设计师西蒙·兰开斯特（Simon Lancaster）的诉讼达成和解，该公司指控后者窃取商业机密，并将其分享给记者。苹果于 2021 年 3 月提起诉讼，本周法官批准了双方的和解协议。 苹果在最初的起诉书中写道：“尽管兰开斯特在苹果工作了十多年，但他滥用自己的职权\n本文链接",
+          "link": "https://news.cnblogs.com/n/731109/",
+          "publishedOn": "2022-11-05T01:20:00.000Z",
+          "wordCount": 161,
+          "title": "苹果与被控窃取商业机密前员工达成和解 后者支付赔偿",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/731107/",
           "author": null,
@@ -9130,16 +9300,6 @@
           "publishedOn": "2022-10-07T23:13:00.000Z",
           "wordCount": 161,
           "title": "6999~9699 元，苹果 iPhone 14 Plus 今日上市：比 Pro Max 更轻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/729341/",
-          "author": null,
-          "description": "文雷刚 来源：智能车参考 纯、纯、纯视觉！ 现在的特斯拉传感器和自动驾驶方案，真正 100% 纯视觉了。 按照最新发布的公告，继毫米波雷达后，连超声波雷达也被马斯克扔进了汽车工业垃圾堆。 特斯拉声称，利用 AI 摄像头的软硬件能力，就能实现更深空间、更远距离和更清晰物体的区分，超声波雷达提供的能力，\n本文链接",
-          "link": "https://news.cnblogs.com/n/729341/",
-          "publishedOn": "2022-10-07T08:20:00.000Z",
-          "wordCount": 161,
-          "title": "马斯克把超声波雷达也扔掉了！特斯拉再度减配：8摄像头终极传感器方案面世",
           "imageUrl": null
         }
       ]
