@@ -6,6 +6,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n封面图\n\n卡塔尔正在建造的 Qetaifan 人工岛，上面有一个世界最大的滑水道，高达86米。（via）\n本周话题：互联网公司需要多少员工？\n马斯克收购推特之前，放话要解雇75%的员工。\n\n等到真的入主推特，他大刀一挥，第一个周末解雇了3700人。推特的员工总数现在是7500人，所以实际解雇了50%。\n这就引出了一个有点残酷的问题：互联网公司到底需要多少员工？\n如果推特少了50%、甚至75%的员工，还能正常运作，那些员工原来是在干什么呢？或者有没有另外一种可能，一半的岗位已经没人了，推特这个公司还能正常运作吗，会不会完蛋？\n\n今天，我就想谈这件事。我觉得，50%和75%这两个解雇比例，不是马斯克随意设定的，而是经过计算的，他相信公司少了这些员工，还能正常运作。\n我查了推特的每月活跃用户数（MAU），就是下面这张柱状图。\n\n可以看到，活跃用户的增长速度，明显分成两个阶段，以2014年底的3亿为界。此前是高速增长，此后是平缓增长。\n推特现在不公布活跃用户数量了，但是外界估计依然是3亿多人，有的资料说接近4亿。\n也就是说，2014年底的推特员工可以支持的用户数量，跟现在基本是同一个数量级。\n可以查到，2014年底的推特员工有3638人（下图的红圈），接近本次裁员后的员工数量。\n\n因此我猜想，马斯克决定裁一半人，是参考了高速增长结束前的员工规模。这也意味着，即使推特少了一半员工，肯定还能正常运作，因为以前就是这么多人。\n如果再往前推，2010年初，推特只有130个员工，活跃用户是3000万。现在，用户数是那时的十多倍，而130个员工的十多倍，正好接近7500人裁员75%。这是巧合吗？\n事实上，即使裁员75%，跟其他一些公司相比，推特的员工还是偏多的。一个极端的例子是，脸书收购 Instagram 时，后者的用户数量已经到了3亿，但只有13…",
+          "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html",
+          "publishedOn": "2022-11-18T00:17:53.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 231 期）：互联网公司需要多少员工？",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n封面图\n\n浙江大学附属第一医院的自动发药机，医生一开完处方，机器手就自动开始抓药，然后通过管道\"投送\"到药师窗口，等患者取药。（via）\n本周话题：电子产品的用电量\n上周提到，手机充电器的功率已经超过 200W 了。\n\n这个功率相当大。大家可能不知道，你家冰箱大概都不如它。普通的家用冰箱，功率就在 100W～200W 之间。\n\n（图片说明：200升家用冰箱，功率一般是 140W，每天耗电1度左右。）\n这是最近的一个趋势：电子产品的功率和用电量快速上升，已经接近或超过了家用电器。 我说两件事。\n第一件事。我最近买了一个智能插座，可以手机读取当前的功率输出。\n\n我就把一台27寸 4K 显示器插在上面。它的月度用电统计（下图）显示，这台 30W 的显示器，上个月用掉了13.8度电。\n\n我倒吸了一口冷气，没想到 4K 显示器这么耗电。我的桌上同时开着三台这样的显示器，那岂不是显示器这一项，每个月就要用掉40度电！\n第二件事。最近有一条新闻，Nvidia 公司的最新显卡 RTX 4090，接连有用户报告，供电接口烧掉了。\n\n如果你了解这张显卡的功率，这种事故是一点不奇怪的。它是耗电怪兽，功率达到 600W，但是机箱的供电电压是 12V，导致总电流会达到疯狂的 50A（600W/12V）。\n为了分散电流，它采用12口供电（下图）。即使如此，接口处稍有接触不良，就会严重发热，导致烧毁。\n\n这还只是显卡的功率，如果配上目前最顶级的桌面 CPU 英特尔 i9-13900K（功率 360W），再加上其他外设，整台桌面电脑就接近1000瓦了，跟空调功率差不多了。\n所以，使用顶级电脑玩大型电脑游戏，属于非常耗电的行为。街上那些游戏网吧，一天24小时开机，电费一定非常可观吧。\n总之，上面两件事说明了一点：随着计算能力的提高，计算机正在成为一种非常耗电的设备…",
@@ -78,6 +88,26 @@
       "feedUrl": "https://rsshub.app/sspai/matrix",
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
+        {
+          "id": "https://sspai.com/post/76830",
+          "author": "littleiron",
+          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n本文提供了一个使用 iPad 进行数字阅读的低成本实用方案。\n使用数字工具建立工作流基本上都遵循「收集-整理-阅读-输出」这样一个基本流程。在少数派上已经有很多文章关注了获取信息、收集整理、笔记输出等方面的方法论，但似乎比较少有人专门关注「阅读」这件事情。\n阅读好像是一项不言自明、人人具备的技能，但是在数字时代，如何打造自己的数字阅读方案仍然是一个值得讨论的问题。虽然数字设备摆脱了纸质材料笨重的束缚，提供了更多的内容信息来源，但是也带来了新的难题。电脑、平板、手机……什么才是更好的阅读设备？书籍、报刊杂志、网页、社交媒体信息，如何更好的整合多源信息？\n我认为，一个好的数字阅读方案应当满足以下要求：\n\n简洁实用、舒适方便，专注于阅读本身；\n提供一体化的阅读平台，既能广泛容纳各类来源、形式的内容，又能方便地记录标注笔记，对接后续内容输出；\n成本较低，能够为更多人所用。\n\n围绕这些目标，这篇文章介绍了我是如何从自己的需求出发，尝试用 iPad 打造适合自己的阅读工具的，希望能够给大家提供一些参考。\n关于数字阅读：我需要什么样的工具\n选择有效的工具必须先明确自己的需求。作为一个社科博士研究生以及数字工具的爱好者，我的日常阅读内容与来源大致包括这几个方面：\n\n与个人研究议题相关的中英学术书籍、论文以及报告；\n其他书籍，包括人文社科经典、人物传记、非虚构类作品、小说等；\n专业媒体与官方资讯，个人关注的信源如财新、晚点、联合早报、澎湃、各类官媒等；\n其他互联网信息，来自微信、微博等社交媒体以及其他网站。\n\n在过去，我的阅读方式大致是这样的：…",
+          "link": "https://sspai.com/post/76830",
+          "publishedOn": "2022-11-17T02:58:55.000Z",
+          "wordCount": 671,
+          "title": "1800 元打造 iPad 阅读器，这是我的低成本数字阅读实践",
+          "imageUrl": "https://cdn.sspai.com/2022/11/16/83e144b8ff9b2e716c350ef245675104.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/76841",
+          "author": "Not_your_user",
+          "description": "虽然现在多屏用户逐渐变多，但仍是小众，Windows 也并没过对多屏使用进行太多的优化。所以只好自己动手，于是有了以下一些个人自用的优化设置。\n窗口出现位置优化\nWindows 系统仅对多屏用户提供了简单主显示器的设置，默认情况下所有新打开的窗口都只会出现在主显示器上，即使你在使用另一个的显示器。而「基于显示器连接记住窗口位置」只能记住上次关闭时所在的屏幕，实用性并不高。\n\n这时微软自家的 Power Toys 里的 FancyZones 就可以派上用场了，除了我们熟知的窗口布局设置外，它还可以调整窗口行为，在这里我们可以通过启用「将新创建的窗口移动到当前 活动的监视器（实验性）」来达到这一效果，美中不足的是动画不够优雅。\n\n内容显示优化\n现在 Windows 下大部分的应用都适配高 DPI 的，少部分不支持的，也可以通过 Windows 自带的属性 - 兼容性选项来调整。\n\n但对于我们网上冲浪必备的浏览器，它的缩放是固定的，且只有一个设置选项。不知道有没有人跟我一样两个屏幕的缩放比例是不一样的，在两个屏幕间移动浏览器时，网页内容并不会根据 DPI 而变化，导致观感割裂。在这里我推荐一个 FireFox 浏览器插件：ffreszoom，它可以实时感知屏幕宽度的变化，当宽度超过指定值时，自动调整到指定缩放比例。设置前先通过这个网站查看自己的屏幕宽度：http://whatismyscreenresolution.net/，需要将 Firefox 浏览器移动到不同显示器上刷新。\n\n如图所示我的外屏宽度是 1728 px，笔记本内屏为 1024，所以我在两者之间随意取了一个值用于判断，若当前屏幕宽度超过 1600 px，就自动设置缩放为 1.5，也即 150%。若小于 1600 px，则使用浏览器设置里的值。两种缩放无缝切换，只会多了一个缩放的动画。由于本人没使用 Chromium 类浏览器，并没有对应的插件推荐，不过其用户这么多，应该会有类似的插件。\n\n利用「闲置的」触摸板\n不知有没有跟我一样喜欢使用笔记本键盘的，且平时一些简单的操作直接用触摸板直接操作。现在 Windows 11 已经支持自定义触摸板多指手势了，但其不能根据不同应用设置不同的手势，例如：A 软件可以用 Ctrl  + W 关闭，但 B 软件只能用 Alt + F4，同一个操作有不同的快捷键。\n\n这时就需要第三方软件了，这里我推荐 GestureSign，界面虽然是 Windows 10 风格，但不影响使用，毕竟设置完就不用再看了。它可以为不同应用的不同快捷键键设置相同的触控手势，手势类型也不再仅限于横平竖直，可以自由发挥。同时软件也内置了一些常用的命令供选择。\n\n上图是我的一些设置，双指一般使用系统默认就不添加上去了。其中个人最爱的是三指滑动切换标签，体验比鼠标点击更加符合人的直觉。对于频繁使用搜索启动器的我，把三指上滑指定为搜索启动器的快捷键，方便呼出。\n \n对了，设置前记得把系统自带的相关手势取消掉，不然会冲突。若你仍不习惯使用触摸板，该软件也支持鼠标手势，具体可以自行下载体验。\n结尾\n以上便是我在使用多屏时遇到的问题，及相关解决方法，希望对多屏用户有帮助。",
+          "link": "https://sspai.com/post/76841",
+          "publishedOn": "2022-11-16T10:16:20.000Z",
+          "wordCount": 508,
+          "title": "优化 Windows 下的多屏体验",
+          "imageUrl": "https://cdn.sspai.com/2022/11/16/bd490c481c8251bac02671d11a3cf78d.png"
+        },
         {
           "id": "https://sspai.com/post/76813",
           "author": "吃饭Bu洗碗",
@@ -517,36 +547,6 @@
           "wordCount": 714,
           "title": "Memos 一个开源且免费的自托管知识库",
           "imageUrl": "https://cdn.sspai.com/2022/10/17/17c60eb7bb617bd1042887786120a92f.png"
-        },
-        {
-          "id": "https://sspai.com/post/76261",
-          "author": "Sholmes",
-          "description": "法兰克福是欧洲的金融中心之一，地理位置也在中部，有着非常繁忙的机场。无论是金融还是空港，都扮演着欧洲门户的角色。九月底，时隔多年再次来到这座城市，终于弥补了之前匆匆而过的遗憾。\n住宿&交通🚌\n市区住宿：Best Western Plus Welcome Hotel Frankfurt\n\n📍 Leonardo-da-Vinci-Allee 2, 60486 Frankfurt am Main, Germany\n⏳ 入住：下午3点，退房：上午11点\n🔗 https://www.bestwestern.de/\n\n这家宾馆距离机场十几分钟的车程，和市中心罗马广场也是差不多的距离。宾馆的旁边有超市，可以购买水果和零食。宾馆的马路对面就是轻轨车站，可以乘坐17路去往市区，换乘地铁可以到达罗马广场，交通还算便利。如果是在入住时间前到达的宾馆，可以先把行李寄存在一楼。运气好的话，有房间空出来的时候，也可以在早晨就办理入住。\n和宾馆相隔一个街区，就是一个公园。公园的入口处有几家小餐馆。公园里有篮球场，能看到很多青少年在玩儿街头篮球，也有不少推着婴儿的家庭来这里活动。\n从房间往外看，能看到金融区的高楼大厦\n小镇住宿：PK Parkhotel Kurhaus\n\n📍 Kurhausstraße 28, 55543 Bad Kreuznach, Germany\n⏳ 入住：下午3点，退房：上午11点\n🔗 http://www.parkhotelkurhaus.com/\n\nBad Kreuznach是距离法兰克福约一小时车程的一个温泉镇，也是很多人们来度假的地方，所以宾馆不少。PK Parkhotel Kurhaus是一家四星级宾馆，但不巧的是入住的时候宾馆正在翻新，遇到了暖气不热等问题。这家宾馆毗邻一条河，附近有一座建于中世纪的桥，是个散步的好去处。\n德语里有些词汇和英语拼写一样，但意思不同…",
-          "link": "https://sspai.com/post/76261",
-          "publishedOn": "2022-10-19T05:44:22.000Z",
-          "wordCount": 513,
-          "title": "城市收藏夹 | 法兰克福：在欧洲门户吃喝玩乐",
-          "imageUrl": "https://cdn.sspai.com/2022/10/18/15e5aa513db09896f2319100c7e2e26d.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/76201",
-          "author": "Jiaozi",
-          "description": "十一长假结束后，我打算使用 Surface Laptop 3  剪辑旅途中拍摄的视频素材。由于素材不多，分辨率也不高，我想它应该能够胜任简单的剪辑任务，结果不遂我愿。剪辑过程中这台电脑多次出现视频预览卡顿、Pr 莫名闪退等问题。在忍受了 7 年 Surface 系列笔记本的大小毛病后，我在苹果官网下单了一台 14 英寸 MacBook Pro。\n这篇文章阐述了我认为以 Surface 为代表的 Windows 平台笔记本的通病，提供了一些不成功的解决方案，并展示更换到 MacBook 后的使用体验。\n\n如果你和我一样是一名研究生，日常工作内容主要是阅读文献、写论文（撰写 Latex 代码）、写代码以及做 PPT。读完这篇文章，也许你想试试使用 MacBook Pro 继续你的工作\n如果你被近期新发布的 Surface 系列笔记本吸引，正在持币观望，不妨读完这篇文章再决定是否入手最新的 Surface 系列\n\n为什么倒戈来得这么晚\n我的软粉生涯开始于 2015 年，彼时 Surface Pro 4 发布。全新的二合一形态笔记本让我觉得手里的 MacBook Air 瞬间不香了。2016 年，拿到大学录取通知书的那天晚上，我下单了一台 Surface Pro 4，从此开始了我的 7 年 Surface 使用生涯。在这期间有无数理由让我不再使用 Surface 系列， 而让我留下的理由只有一个——迷人的外观。\n最开始购买了一台丐版 Surface Pro 4，在我大二转入计算机专业后，这台 Surface Pro 4 的性能就捉襟见肘了。 于是我将它换成了一台顶配的 Surface Book 1。这台 Surface Book 1 伴随了我 5 年多的时间，更换过一次屏幕，两次底座（均为内部电池发生鼓包）。在日常使用时，这台电脑经常发热（有时候合上盖子风扇也不停），时不时还会出现…",
-          "link": "https://sspai.com/post/76201",
-          "publishedOn": "2022-10-19T05:31:49.000Z",
-          "wordCount": 758,
-          "title": "7 年软粉，为何重新用回 MacBook Pro",
-          "imageUrl": "https://cdn.sspai.com/2022/10/18/c6c8bc9c27fd30cbb722ef3c35c937ab.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/76216",
-          "author": "EricYoung",
-          "description": "作为在大城市工作的年轻人，租房是一个永远都绕不开的“时髦”话题。能够拥有一个舒适的小窝，让自己在忙碌一天之后彻底放松和沉静下来，对我来说应该是每天最触手可及的快乐。但是，租来的房子总有各种不尽如人意的地方，而且受限于房东的要求、时间、财力等问题，也不可能像小红书家居博主的租房视频一样进行大改，所以，我将我的小屋改造计划关键词定为：小改小造。当然，所谓的修补也不可能是一步到位的，经过了小半年的边住边搞，到现在才基本完成了一开始的大部分设想。如果你和我一样也有想要小改小造的想法，那么我希望这篇文章可以对你有一些帮助。\n（本文有可能巨长，请耐心地看这篇流水账~）\n租来的基本状况\n本着不在路上花过多时间，并且要最大化个人生活空间的原则，我选择租公司附近两公里范围内的一室户，这不可避免地限制了我的很多租房想法。除去价格不菲的商用公寓和城中村，几乎就已经没有其他的选项，所以选来选去，只能做出妥协，定了一个小区里的公寓楼。\n户型状况\n我租到的是一室一厅的户型，但这栋公寓都有一个致命的缺点——客厅不见光。没有办法，租房不可能样样完美，考虑到白天几乎都在工作，周末和假期也尽可能逼迫自己出门浪而不是在家里发霉，所以也就勉强接受了这个缺陷。总的来说，这个户型面积相对可观，除了一些无法改动的分区（例如卫生间和厨房），其余还是有很多空间可以利用。\n我家的简单户型图\n室内状况\n这栋公寓大多数房源，都归属于几个来深圳避寒的东北大姐，难得我这间的房东是一个系那个对年轻的国企深二代。但房东自己并不是一个乐于布置的人，房间里大多数的设施都是为了方便他做铲屎官，所以除了还算认真地定制了柜子、装了电视以及摆了一个还能用的沙发。\n总的来说，租来的状况仅仅是个凑活，对我而言还远远不能达到拎包入住的状态。好在我个人也有一些从上一个家带来的“资产”，和一些软装的小计划，因此这个水平也刚好给了我一些发挥的空间。于是，漫漫“…",
-          "link": "https://sspai.com/post/76216",
-          "publishedOn": "2022-10-18T15:22:54.000Z",
-          "wordCount": 468,
-          "title": "租房也努力精致一点：房屋小改小造计划",
-          "imageUrl": "https://cdn.sspai.com/2022/10/18/a3c8f5469e97f2b8fb59c68cda811d6c.jpeg"
         }
       ]
     },
@@ -625,6 +625,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73401",
+          "author": null,
+          "description": "Z-Library 的两位创始人  Anton Napolsky 和 Valeriia Ermakova 于 11 月 3 日在阿根廷被捕，大概同一时间网站的域名被美国政府机构扣押。现在美国政府正式对两人提起诉讼，指控他们犯有版权侵犯、电信欺诈和洗钱的罪行。Z-Library 是世界最大的盗版电子书网站，书籍数量多达 1200 万。美国政府正寻求将两人引渡到美国受审。Z-Library 的主站已经下线，但其服务仍然通过电邮回应用户的要求，其暗网网站仍然能通过 Tor 浏览器访问，这意味着 Z-Library 的团队规模要大得多，不只完全依靠两位创始人。",
+          "link": "https://www.solidot.org/story?sid=73401",
+          "publishedOn": "2022-11-17T15:06:02.000Z",
+          "wordCount": 167,
+          "title": "Z-Library 两位创始人在阿根廷被捕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73400",
+          "author": null,
+          "description": "为什么儿童学习速度更快？一项新研究提供了一个原因：儿童和成人在一种名为 GABA 的大脑信使上表现出差异，这种信使可以稳定新学习的材料。这项研究使用行为和最先进的神经成像技术对小学学龄儿童和成人的视觉学习进行了检查。研究发现，视觉学习引发了儿童视觉皮层(处理视觉信息的大脑区域) GABA 的增加。在训练结束后，GABA 的增加也持续了几分钟。在成人中，GABA 没有任何变化。这一发现预测，对新项目的训练会迅速增加儿童体内 GABA 的浓度，并使学习迅速稳定下来。进一步的实验也证实了这一点。",
+          "link": "https://www.solidot.org/story?sid=73400",
+          "publishedOn": "2022-11-17T10:36:39.000Z",
+          "wordCount": 152,
+          "title": "为什么儿童学习速度更快",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73399",
+          "author": null,
+          "description": "在英伟达发布其高端显卡 RTX 4090 之后，多位用户报告显卡的 16-pin 电源连接器（即 12VHPWR）烧毁或融化。英伟达本周表示它仍然在调查这一问题，暂时还无法提供更多信息。Gamers Nexus 的测试发现，如果连接器比较松的话，很容易在短短几分钟内产生逾 250 度的热量，导致其融化并产生烟雾。它认为问题是用户错误和设计疏忽共同导致的。相比旧的 6-pin 和 8-pin PCIe 电源连接器，12VHPWR 连接器更容易发生未固定好的错误，因为它缺乏能让人感知确认固定的机制。刚刚上市的 RTX 4080 显卡使用了相同的 12VHPWR 连接器，被认为存在相同的隐患。已有美国用户就此问题对英伟达提起了集体诉讼。",
+          "link": "https://www.solidot.org/story?sid=73399",
+          "publishedOn": "2022-11-17T10:17:58.000Z",
+          "wordCount": 178,
+          "title": "英伟达因 RTX 4090 电源连接器问题面临集体诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73398",
+          "author": null,
+          "description": "新加坡国有投资机构淡马锡减记了所持加密货币公司 FTX 的 2.75 亿美元股份，它表示对该公司前 CEO Sam Bankman-Fried 的信任似乎是“错付了”。淡马锡在两轮融资中分别向 FTX International 和 FTX 美国子公司投资 2.1 亿美元和 6500 万美元。该公司周四表示，这笔投资的总成本为其 4030 亿新元(合 2930 亿美元)投资组合的 0.09%。淡马锡是 Bankman-Fried 破产的加密货币交易所的蓝筹投资者之一。软银和红杉资本已将自己对 FTX 的投资减记为零。淡马锡在决定投资前展开了 8 个月的尽职调查，该机构为此辩护说，消除所有风险是不切实际的。",
+          "link": "https://www.solidot.org/story?sid=73398",
+          "publishedOn": "2022-11-17T09:16:25.000Z",
+          "wordCount": 187,
+          "title": "淡马锡减记对 FTX 的 2.75 亿美元投资",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73397",
+          "author": null,
+          "description": "Git 是广泛使用的源码管理系统，但它在处理规模庞大的源代码库时速度比较慢。微软几年前发布了一个解决方案叫 GVFS（Git 虚拟文件系统）。现在另一家巨型公司 Meta/Facebook 宣布了它的内部解决方案 Sapling。Meta 称，Sapling 项目始于 10 年前，旨在解决现有源代码管理系统难以处理庞大代码库的难题，一开始是作为 Mercurial 的扩展，后来快速成长为有着自己的存储格式、线程协议、算法和行为的独立系统。Meta 目前只开源了兼容 Git 的 Sapling 系统客户端，未来将会开源其它部分。",
+          "link": "https://www.solidot.org/story?sid=73397",
+          "publishedOn": "2022-11-17T08:45:06.000Z",
+          "wordCount": 170,
+          "title": "Meta 开源其内部源码管理系统 Sapling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73396",
+          "author": null,
+          "description": "《自然》发表一篇流行病学研究论文警告称，科研人员开展的一项研究显示，气候与土地利用的变化或促进了病原体从蝙蝠溢出到其他动物。这项研究中，科研人员对采集自澳大利亚的数据开展的一项分析显示，食物短缺和自然生境丧失使得蝙蝠在人类居住地区持续存在，导致亨德拉(Hendra)病毒(一种新的人畜共患病)溢出到中间宿主——马。该研究表明，理解生境丧失、气候变化和溢出风险之间的关联，或有助于制定预防未来大流行的措施。据论文介绍，人畜共患病外溢是指一种病原体从动物传播至人类，一般需要通过某种中间宿主。亨德拉病毒便是其中一种，这是一种通过蝙蝠传播的病毒，主要感染大型果蝠(澳大利亚狐蝠)。亨德拉病毒不会导致蝙蝠死亡，但能传播给马，然后从马这个中间宿主再传给人类，导致严重或致命的疾病。之前有研究发现，土地利用变化或许与病毒从野生动物溢出到人类有关，但这项新研究为阐明其背后机制提供了翔实证据。",
+          "link": "https://www.solidot.org/story?sid=73396",
+          "publishedOn": "2022-11-17T08:01:13.000Z",
+          "wordCount": 145,
+          "title": "蝙蝠生境变化或促使人畜共患病毒出现",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73395",
+          "author": null,
+          "description": "腾讯终于证实了过去几个月的传言，它将减持其持有的大部分美团股份。腾讯在美团的持股比例目前为 17%，通过出售大部分股份其持股比例将下降到 1.5%，这部分股票价值约 200 亿美元。腾讯在公告中表示，美团已经发展成为一家拥有强大财务实力和行业地位的公司。腾讯和美团表示，腾讯总裁刘炽平已辞去美团的非执行董事职务，并表示两家公司将维持商业合作关系。腾讯的公告还显示，员工人数过去一个季度减少约 2%，少了大约 1900 人。",
+          "link": "https://www.solidot.org/story?sid=73395",
+          "publishedOn": "2022-11-17T07:14:14.000Z",
+          "wordCount": 150,
+          "title": "腾讯将减持大部分美团股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73394",
+          "author": null,
+          "description": "Top 500 项目公布了最新的超算榜单，美国田纳西州橡树岭国家实验室（ORNL）的 Frontier 超算今年初成为第一个真正突破 Exascale 大关的超算，它依旧高居第一。Frontier 由 HPE Cray EX 制造，使用 AMD EPYC 64C 2GHz 处理器，共 8,730,112 个核心，性能 1.102 Exaflop/s。四次登顶的日本 ARM 超算富岳排在第二位，性能 442 petaflops。芬兰欧洲超算中心的新超算 UMI 排在第三位，同样使用第三代 AMD EPYC 处理器，共 2,220,288 个核心，性能 309 petaflops。第四是新晋进入前十的意大利超算 Leonardo，性能 174 petaflops，第五 IBM Summit（148.6 petaflops），之后是 Sierra，神威太湖之光， Perlmutter，英伟达超算 Selen，天河二号 A。排名前十的超算有四台使用了 AMD EPYC 处理器，两台使用 IBM Power 处理器，ARM 处理器一台，申威处理器一台，两台使用了英特尔的至强处理器。在 Top 500 中，中国有 162 台，美国 126 台，欧洲 131 台。",
+          "link": "https://www.solidot.org/story?sid=73394",
+          "publishedOn": "2022-11-17T07:07:09.000Z",
+          "wordCount": 212,
+          "title": "Frontier 仍然是最快的超算",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73393",
+          "author": null,
+          "description": "亚马逊证实将裁约万名员工以控制成本，裁员涉及到零售、设备和人力资源部门，最终数字可能会有变动。此次裁员将影响大约 3% 的员工，可能不会影响电商巨头数十万名仓库工人。亚马逊负责设备和服务的高级副总裁 Dave Limp 在给员工的信息中说，周二通知了受影响的员工，并正在努力帮助员工寻找新工作。Limp 表示，对于那些无法在内部找到新工作的员工，亚马逊将提供遣散费，包括离职金、过渡性福利和外部求职支持。被裁员工将获得最少四周工资、最多 20 周工资的遣散费。",
+          "link": "https://www.solidot.org/story?sid=73393",
+          "publishedOn": "2022-11-17T05:45:56.000Z",
+          "wordCount": 151,
+          "title": "亚马逊证实将裁约万名员工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73392",
+          "author": null,
+          "description": "暴雪宣布终止与网易长达近二十年的合作。暴雪和网易在 2008 年签署了授权协议，由网易负责暴雪游戏在中国大陆的运营。双方的授权协议将于 2023 年 1 月 23 日到期，之后将暂停在中国大陆的大部分暴雪游戏服务，包括《魔兽世界》、《炉石传说》、《魔兽争霸III：重制版》、《守望先锋》、《星际争霸》、《暗黑破坏神III》和《风暴英雄》。停止合作暂时不影响最近发布的手游《暗黑破坏神：不朽》。消息传出之后网易的股价大跌，网易是目前次于腾讯的中国第二大游戏公司。",
+          "link": "https://www.solidot.org/story?sid=73392",
+          "publishedOn": "2022-11-17T03:36:03.000Z",
+          "wordCount": 152,
+          "title": "暴雪宣布与网易停止合作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73391",
+          "author": null,
+          "description": "马斯克(Elon Musk)给 Twitter 员工下达最后通牒，他在电子邮件中告诉员工或者接受高强度长时间工作，或者接受离职补偿。Twitter 已经解雇了一半员工。在马斯克完成收购前，Twitter 有大约 7500 名员工，之后裁掉了大约 3700 人，并移除了远程工作的选项，要求员工回办公室工作，除非得到马斯克本人的批准。马斯克在电子邮件中称要打造 Twitter 2.0，在竞争激烈的世界中取得成功，需要硬核的工作态度，能高强度长时间工作。",
+          "link": "https://www.solidot.org/story?sid=73391",
+          "publishedOn": "2022-11-17T03:26:27.000Z",
+          "wordCount": 163,
+          "title": "马斯克给 Twitter 员工下达最后通牒",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73390",
           "author": null,
@@ -3434,106 +3544,6 @@
           "wordCount": 145,
           "title": "台积电考虑扩大日本产能",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73107",
-          "author": null,
-          "description": "匿名发行版 Tail OS 发布了 5.5 版本，主要新特性为更新到 Thunderbird 102，其中包括 OpenPGP 功能的可用性改进，密钥助手将帮助用户解决密钥相关问题；Tor Browser 11.5.4，Linux kernel 5.10.140，wget 命令行工具每次都会使用不同 Tor 回路，等等。Tail OS 设计作为 Live CD 或 Live USB 使用，不在主系统留下使用痕迹。",
-          "link": "https://www.solidot.org/story?sid=73107",
-          "publishedOn": "2022-10-19T10:12:58.000Z",
-          "wordCount": 175,
-          "title": "Tails 5.5 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73106",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 106。主要新特性包括：支持 PDF 编辑，包括输入文本、绘图和签名；在 Windows 下设置 Firefox 为默认浏览器也将设置 Firefox 为默认 PDF 浏览器；支持在 Windows 任务栏固定新建隐私窗口，简化隐私模式访问；Linux 下的滑动导航支持 Wayland；Firefox View 允许用户寻找和打开最近关闭的标签；一组新的配色方案，等等。",
-          "link": "https://www.solidot.org/story?sid=73106",
-          "publishedOn": "2022-10-19T09:44:02.000Z",
-          "wordCount": 170,
-          "title": "Firefox 106 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73105",
-          "author": null,
-          "description": "AMD 宣布了实时全局光照技术 GI-1.0，宣称相比其它全局光照实现在质量相当的情况下速度更快。GI-1.0 的技术白皮书发表在 GPUOpen 上，将公开源代码但目前还没有发布。GI-1.0 利用了两种缓存机制，旨在为实时渲染管道提供高效的全局光照，无需任何内容预处理，仍然能提供高光照保真度。",
-          "link": "https://www.solidot.org/story?sid=73105",
-          "publishedOn": "2022-10-19T09:28:51.000Z",
-          "wordCount": 158,
-          "title": "AMD 宣布开源全局光照技术 GI-1.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73104",
-          "author": null,
-          "description": "研究人员认为每晚至少睡五小时有助于减少 50 岁以上人群的健康风险。研究报告发表在《PLoS Medicine》期刊上。这项研究跟踪了大约 8000 名英国公务员的睡眠和健康，部分参与者还佩戴了睡眠跟踪器。在长达 20 年的跟踪调查中，他们患上了糖尿病、癌症和心脏病等慢性疾病。睡眠时间五小时或不足的 50 岁以上人群比睡眠七小时的人群患疾病的风险高 30%，因慢性疾病风险增加死亡的可能性也增加。专家通常建议每晚睡七或八小时。",
-          "link": "https://www.solidot.org/story?sid=73104",
-          "publishedOn": "2022-10-19T08:49:11.000Z",
-          "wordCount": 153,
-          "title": "五小时睡眠是健康恶化的临界点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73103",
-          "author": null,
-          "description": "Windows Terminal 项目经理 Kayla Cinnamon 宣布，从  Windows 11 22H2 开始所有命令行应用将默认用 Windows Terminal 打开。Windows Terminal 是微软在 2019 年宣布的新命令行终端，源代码发布在 GitHub 上。Windows Terminal 支持多标签、Unicode 和 UTF-8 字符、GPU 加速 DirectWrite/DirectX 文本渲染引擎，定制主题、样式和配置。",
-          "link": "https://www.solidot.org/story?sid=73103",
-          "publishedOn": "2022-10-19T07:36:56.000Z",
-          "wordCount": 185,
-          "title": "Windows 11 默认使用开源的 Windows Terminal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73102",
-          "author": null,
-          "description": "Google CEO Sundar Pichai 削减预算的计划对公司不同部门有不同的影响。Google 为了确保搜索市场的统治地位而与苹果达成了数十亿美元的搜索合作协议，让 Google 成为 iPhone 上的默认搜索引擎，但美国监管机构可能会终止这一协议，Google 可能会失去 iPhone 这一平台。对这一局面 Google 的应对之策是加大对 Pixel 智能手机硬件的投资，将更多开发人员转移到该硬件部门专注于 Pixel。遭到削减的业务包括了 Google TV 和  Google Assistant。",
-          "link": "https://www.solidot.org/story?sid=73102",
-          "publishedOn": "2022-10-19T06:51:27.000Z",
-          "wordCount": 177,
-          "title": "Google 加大对 Pixel 硬件的投资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73101",
-          "author": null,
-          "description": "支付宝 App 转账页面新增“转微信好友”功能。该功能并非全新上线，9 月中旬已有用户进行了体验。从公开平台上的用户反馈来看，仍有部分用户支付宝账户无法使用这一功能。该功能的原理类似红包码，并非双方支付线下二维码互扫互认的“互联互通”动作。分析师表示，“按照现有监管要求，支付机构之间不能不经过银行和清算机构直接进行账户互转。上述功能并不是支付互联互通动作，而是支付宝希望通过产品创新，以实现更大范围的场景辐射，提升用户使用体验。从便捷度上来看，打开支付宝后不用发起人再操作转账，更多价值还是在满足用户对转账的便捷化需求上。”",
-          "link": "https://www.solidot.org/story?sid=73101",
-          "publishedOn": "2022-10-19T03:34:12.000Z",
-          "wordCount": 150,
-          "title": "支付宝上线微信好友转账功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73100",
-          "author": null,
-          "description": "Tiktok 母公司北京字节跳动内部人士透露，Tiktok 全球日活跃用户数（DAU）突破10亿。此举一度触发在线用户登录警报，开发人员临时扩容才允许新用户访问。目前全球日活突破 10 亿的 App 有 Facebook、WhatsApp、Instagram 和 YouTube，微信日活在 9 亿左右。",
-          "link": "https://www.solidot.org/story?sid=73100",
-          "publishedOn": "2022-10-19T03:25:49.000Z",
-          "wordCount": 166,
-          "title": "Tiktok 日活突破 10 亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73099",
-          "author": null,
-          "description": "印度媒体 The Wire 上周爆料，援引内部人士泄露的文件报道 Meta 允许执政党的一位有影响力的高官审查 Instagram 上的内容。Meta 坚决否认了这一报道，认为 The Wire 引用的文件很可能是伪造的。The Wire 本周宣布对文件的真伪展开调查，承认发现了一些可疑的迹象，它同时宣布撤下相关报道。The Wire 是一家印度有知名度的独立媒体，一直批评政府，其创始编辑 Siddharth Varadarajan 可能因此遭到政府的监视，他的手机被发现了感染了以色列的间谍软件 Pegasus，而 Pegasus 只出售给政府客户。",
-          "link": "https://www.solidot.org/story?sid=73099",
-          "publishedOn": "2022-10-19T03:10:48.000Z",
-          "wordCount": 176,
-          "title": "印媒称 Meta 允许执政党高官审查内容，Meta 否认",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73098",
-          "author": null,
-          "description": "从 9 月开始，Ubuntu 用户在执行 apt 更新时注意到终端窗口添加了一条广告文字，推广 Ubuntu 自家产品 Ubuntu Pro。有人为 Canonical 辩护，认为这不是广告，理由是 Ubuntu Pro 对普通用户是免费的（限于最多五台设备），不太可能会增加 Canonical 的收入，因此更多是一种提高产品知名度的公告。但宣传自家产品的信息和广告并没有本质上的区别。",
-          "link": "https://www.solidot.org/story?sid=73098",
-          "publishedOn": "2022-10-19T01:57:54.000Z",
-          "wordCount": 163,
-          "title": "Ubuntu 终端广告惹恼用户",
-          "imageUrl": null
         }
       ]
     },
@@ -3542,6 +3552,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/731843/",
+          "author": null,
+          "description": "对于全球第二大汽车生产商来说，对自动驾驶汽车项目的潜在调整，也展现出新 CEO 的思路转变。 财联社 11 月 18 日讯（编辑史正丞）综合媒体报道，刚刚履新不久的大众汽车集团 CEO 奥利弗·布鲁默 (Oliver Blume)正在评估自动驾驶汽车项目，这是他上任两个月来首次出现调整公司战略方向的\n本文链接",
+          "link": "https://news.cnblogs.com/n/731843/",
+          "publishedOn": "2022-11-18T00:06:00.000Z",
+          "wordCount": 161,
+          "title": "自动驾驶汽车又遇寒流 大众新CEO可能推迟或取消相关计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731842/",
+          "author": null,
+          "description": "本文来源：时代周报作者：王贺 2022 年 11 月 17 日下午，时代周报记者走访了北京朝阳区某威马 4S 店，该门店正常营业，但前来看车的顾客仅有四五个人。一位威马销售人员关注到记者驻足在样车旁，立刻热情推荐，“由于临近年底，W6 全能版车型最近在清库存，现车优惠达到了 5.5 万。” 与这家威\n本文链接",
+          "link": "https://news.cnblogs.com/n/731842/",
+          "publishedOn": "2022-11-18T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "三年亏170多亿，还给员工降薪，威马扛不住了？员工：架构天天变，也不造车了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731841/",
+          "author": null,
+          "description": "“中国女首富”身价一年缩水 600 亿。 撰文 刘星志 编辑 赵晋杰 来源：盒饭财经 电子烟即将加征消费税消息传出后半个多月，国内最大的电子烟品牌悦刻身上发生了两件事。 第一件是 10 月底，雾芯科技（悦刻母公司）在烟草行业年度环境、社会及管治（ESG）评分结果中位列全球电子烟企业首位，该结果由标普\n本文链接",
+          "link": "https://news.cnblogs.com/n/731841/",
+          "publishedOn": "2022-11-17T15:06:53.000Z",
+          "wordCount": 161,
+          "title": "电子烟没有“女王”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731840/",
+          "author": null,
+          "description": "文 怪盗团团长裴培 来源：互联网怪盗团 今天，暴雪突然宣布，由于与网易的合作协议即将到期且难以续签，双方合作在中国运营的《魔兽世界》《炉石传说》《守望先锋》《风暴英雄》《暗黑破坏神3》……等多款游戏，预计将暂停运营。 紧接着，网易回应“在付出巨大的努力和诚意之后”，与暴雪仍然无法在关键的条款上达成一\n本文链接",
+          "link": "https://news.cnblogs.com/n/731840/",
+          "publishedOn": "2022-11-17T15:06:20.000Z",
+          "wordCount": 161,
+          "title": "这一波我站网易：关于网易与暴雪中止合作的思考",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731839/",
+          "author": null,
+          "description": "原标题：网易痛失战略锚点 撰文 文烨豪 编辑 吴先之 来源：光子星球 北京时间 11 月 17 日，网易公布 2022 年第三季度财报。财报显示，网易第三季度营收为 244 亿元，同比增长 10.1%；归属于公司股东的净利润为 67 亿元。 众多业务板块中，网易游戏业务向来是营收的绝对主力。第三季度\n本文链接",
+          "link": "https://news.cnblogs.com/n/731839/",
+          "publishedOn": "2022-11-17T15:04:20.000Z",
+          "wordCount": 161,
+          "title": "痛失战略锚点！与暴雪走到尽头，网易游戏出海学“鹅”步？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731838/",
+          "author": null,
+          "description": "文｜罗莉编｜派公子 来源：派财经 近日，多家造车新势力公布了 10 月份车辆交付情况，曾经创造了单轮融资记录的威马汽车，却已经不在榜单之上。 正处于赴港上市前夕的威马，在销量掉队之外，还面临着更大的财务危机。有消息称，威马汽车将实行包括“高管主动降薪 50%”、“基层员工降薪 30%”在内的一系列财\n本文链接",
+          "link": "https://news.cnblogs.com/n/731838/",
+          "publishedOn": "2022-11-17T15:03:40.000Z",
+          "wordCount": 161,
+          "title": "全员降薪30%，威马等待新生",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731837/",
+          "author": null,
+          "description": "作者若楠 秀一 来源：不二研究 直播风口“冷却期”，花房集团能否撑起一个 IPO 梦？ 11 月 14 日，直播界“元老”花房集团（下称“花房”）第三次向港交所递表、继续闯关港股 IPO。 花房是一家中国互联网公司，为用户提供提供音视频直播娱乐及社交网络服务，运营在线娱乐的直播平台。 据其新版招股书\n本文链接",
+          "link": "https://news.cnblogs.com/n/731837/",
+          "publishedOn": "2022-11-17T14:50:00.000Z",
+          "wordCount": 161,
+          "title": "周鸿祎上市执念，花房三闯IPO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731836/",
+          "author": null,
+          "description": "销量为何掉队？ 毛利率为何上不去？ 出海有哪些挑战？ 作者｜陈清 编辑｜魅影 来源：市值榜 2021 年底的“NIO DAY”上，蔚来汽车的创始人李斌提到行业竞争格局时，曾说过这么一段话： “蔚来的竞争对手不是特斯拉，也不是小鹏和理想，而是代表新能源汽车与传统燃油车进行竞争。新能源汽车品牌之间‘你进\n本文链接",
+          "link": "https://news.cnblogs.com/n/731836/",
+          "publishedOn": "2022-11-17T14:40:00.000Z",
+          "wordCount": 161,
+          "title": "才刚刚起跑，蔚来就卷不动了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731835/",
+          "author": null,
+          "description": "（图片来自 UNsplash） 文 Hernanderz 来源：价值研究所 被看衰的虎牙，很想打一场翻身仗，但现实总是不如梦想那么美好。 11 月 15 日公布的三季度报里，虎牙费尽九牛二虎之力成功让净利润转正，但营收继续下滑，咸鱼最终只翻了半个身。而在财报出炉后，虎牙股价连续下挫，11 月 16 \n本文链接",
+          "link": "https://news.cnblogs.com/n/731835/",
+          "publishedOn": "2022-11-17T14:32:00.000Z",
+          "wordCount": 161,
+          "title": "虎牙终于爬出亏损泥淖，游戏直播却未熬过寒冬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731834/",
+          "author": null,
+          "description": "2020 年，火遍游戏圈的《原神》上线。同一年，B站的“去游戏化”初见成效，增值业务反超游戏收入，成为B站最大的收入来源。“错失”《原神》770 天后，陈睿选择亲自负责B站游戏业务。当游戏重回战略中心，B站能逆风翻盘吗？ 作者 赵若慈 编辑 刘杨 来源：豹变 陈睿“错失”《原神》的 770 天里，B\n本文链接",
+          "link": "https://news.cnblogs.com/n/731834/",
+          "publishedOn": "2022-11-17T14:25:00.000Z",
+          "wordCount": 161,
+          "title": "陈睿错失《原神》的770天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731833/",
+          "author": null,
+          "description": "一个时代的落幕。 文/任雪芸 编辑/王芳洁 来源：最话 FunTalk 在《价值》一书中，张磊曾写道：在每一次投资决策中，他都会思考，一些项目虽然可以在短期内拿到回报，但难点在于选择投入和退出的时间点，“时间到底是我的朋友还是敌人？” 虽然包括张磊自己在内，很多人都相信，是可以和时间做朋友的，但现在\n本文链接",
+          "link": "https://news.cnblogs.com/n/731833/",
+          "publishedOn": "2022-11-17T14:18:00.000Z",
+          "wordCount": 161,
+          "title": "高瓴大迁徙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731830/",
+          "author": null,
+          "description": "真我 10 Pro+ 一直以来， realme 一直是以立足海外的国产手机为人所熟知。随着品牌力的不断增长，realme 先是回归了国内市场，随后伴随着精品战略的实施，终于将其在海外市场颇为成功的数字系列拿回了中国市场。 这一次，真我 10 Pro+ 的产品似乎与以往有很多思路上的不同，不再主打高性\n本文链接",
+          "link": "https://news.cnblogs.com/n/731830/",
+          "publishedOn": "2022-11-17T14:10:00.000Z",
+          "wordCount": 161,
+          "title": "真我10 Pro+评测：一亿像素+曲面屏，强调观感的差异化之作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731829/",
+          "author": null,
+          "description": "文侃见财经 因为一份超 3900 亿的薪酬，马斯克惹上了官司。 当地时间 11 月 14 日，特斯拉股东们将马斯克告上了法庭。诉讼的核心争议是，一份 560 亿美元（约合人民币 3920 亿元）的天价薪酬，是否要求马斯克全职在特斯拉工作。股东质疑，马斯克正在将大部分精力花在了 SpaceX、推特等其\n本文链接",
+          "link": "https://news.cnblogs.com/n/731829/",
+          "publishedOn": "2022-11-17T14:00:00.000Z",
+          "wordCount": 161,
+          "title": "超3900亿，史上最疯狂的薪酬，马斯克惹上大麻烦",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731832/",
+          "author": null,
+          "description": "图片来源：M Stand 官方公众号 中式早餐会成为各大咖啡馆的标配？ 撰文/黎炫岐 编辑/李觐麟 来源：锌刻度 “油条烧饼配咖啡，你吃过吗！” “什么？！还有这种 CP ” …… 近日，连锁咖啡品牌 M Stand 官方公众号发布新推文，推出了牛肉烧饼、油条可颂搭配咸咖啡的早餐套餐。 这倒也并非什\n本文链接",
+          "link": "https://news.cnblogs.com/n/731832/",
+          "publishedOn": "2022-11-17T12:30:00.000Z",
+          "wordCount": 161,
+          "title": "售价56元的拿铁配油条，潮牌咖啡懂早餐吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731831/",
+          "author": null,
+          "description": "题图 IC Photo 撰文曹双涛 编辑 杨博丞 来源：DoNews 喜茶，最终还是向现实低了头。 日前，据某招聘网站信息显示，喜茶发布了名为“事业合伙管理经理”的岗位，专门负责招商及客户管理工作的对接和跟进，以及跟进合作人开店速度，完成事业合伙好伙伴的陪伴等工作。 另据相关媒体报道，喜茶也确认已开\n本文链接",
+          "link": "https://news.cnblogs.com/n/731831/",
+          "publishedOn": "2022-11-17T12:20:00.000Z",
+          "wordCount": 161,
+          "title": "喜茶，靠加盟续命？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731828/",
+          "author": null,
+          "description": "编辑：好困 Aeneas 【新智元导读】知道吗？你的每一次点击，背后都发生了一场「世界大战」。 在网络世界，假相和骗局防不胜防。 看看这段澳洲课堂上老师播放的特朗普和蓬莱奥合唱《我爱你中国》的视频就知道，技术就是工具，它可以造假，也可能「失控」。 原视频：UFO 上的书虫 技术虽然成就了互联网，但它\n本文链接",
+          "link": "https://news.cnblogs.com/n/731828/",
+          "publishedOn": "2022-11-17T09:00:00.000Z",
+          "wordCount": 161,
+          "title": "这一仗，互联网大厂和他们打了18年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731827/",
+          "author": null,
+          "description": "文超源力，作者王新，编辑悟能 广东潮州特斯拉 Model Y 突然加速失控，狂奔 2.6 公里后，连续撞上 4 车，致 2 死 3 伤。 最新的消息是：第三方数据鉴定机构工作人员已经抵达潮州，而今天就做数据检测。同时，车主亲属不认同数据检测机构，并且要求共享包括车辆黑匣子（EDR）和后台数据。 此时\n本文链接",
+          "link": "https://news.cnblogs.com/n/731827/",
+          "publishedOn": "2022-11-17T08:50:00.000Z",
+          "wordCount": 161,
+          "title": "再谈特斯拉失控：从事故原因到数据平权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731826/",
+          "author": null,
+          "description": "文雷科技 Ieitech 2020 年可谓是网络飞速发展的一年，在这一年我们见到大量手机厂商纷纷发布了自家的 5G 手机，让手机的移动网络进入到一个新的时代。当然除了 5G 网络外，Wi-Fi 6 的诞生也让更多的消费者体验到高速无线网络所带来的便捷性。 在厂商的加速推动下，Wi-Fi 6 路由器的\n本文链接",
+          "link": "https://news.cnblogs.com/n/731826/",
+          "publishedOn": "2022-11-17T08:40:00.000Z",
+          "wordCount": 161,
+          "title": "谁会为Wi-Fi 7技术买单？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731825/",
+          "author": null,
+          "description": "文/彦飞 来源/字母榜（ID:wujicaijing） 通过进一步收缩外部持股，腾讯正在舍弃打磨了六年之久的体外循环“半条命”。 11 月 16 日，腾讯发布截至 9 月 30 日的 2022 年第三季度业绩。与去年同期相比，腾讯的营收和利润原地踏步，仍未进入新的增长轨道。 上季度，腾讯总营收达 1\n本文链接",
+          "link": "https://news.cnblogs.com/n/731825/",
+          "publishedOn": "2022-11-17T08:28:00.000Z",
+          "wordCount": 161,
+          "title": "腾讯无友一身轻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/731824/",
+          "author": null,
+          "description": "文/Ann 来源：DataEye（ID:DataEye) 最近，一款名为《Survivor！．io》（国内名：《弹壳特攻队》）的“割草”游戏，连续 3 个月位居大陆、港台、美国、韩国等地区手游榜单前列，在全球市场表现持续亮眼。 这款似乎是从端游玩法“借鉴”（你也可以说是“抄”）而来的游戏，凭什么？ \n本文链接",
+          "link": "https://news.cnblogs.com/n/731824/",
+          "publishedOn": "2022-11-17T08:15:00.000Z",
+          "wordCount": 161,
+          "title": "短短几个月，割草割来2亿美元？《弹壳特工队》出海观察：今年最猛黑马？",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/731762/",
           "author": null,
@@ -8860,176 +9070,6 @@
           "publishedOn": "2022-10-19T14:00:00.000Z",
           "wordCount": 161,
           "title": "拼多多跨境电商平台Temu在非洲上线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730040/",
-          "author": null,
-          "description": "如果你没有接触过 Meta 的元宇宙平台，或许很难想象上面的用户们最迫切的需求，只是为他们的建模添上一双腿。 没人知道“元宇宙”这个诞生自 1992 年的科幻小说中的概念，为何会在 30 年后突然开始流行。不过当我们站在 2022 年回望近来的“元宇宙热”时，不难发现如此奢侈的虚拟世界似乎离我们还有\n本文链接",
-          "link": "https://news.cnblogs.com/n/730040/",
-          "publishedOn": "2022-10-19T00:57:00.000Z",
-          "wordCount": 161,
-          "title": "死磕元宇宙的扎克伯格，真的快把自家公司磕死了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730039/",
-          "author": null,
-          "description": "10 月 19 日消息，随着与特斯拉首席执行官埃隆·马斯克（Elon Musk）达成收购协议的最后期限临近，推特周二冻结了员工的股权奖励账户。这一迹象表明，推特希望交易能够完成。 推特本周更新了员工常见问题页面，提醒员工他们将无法访问或交易股票奖励中心（Equity Award Center）的股票\n本文链接",
-          "link": "https://news.cnblogs.com/n/730039/",
-          "publishedOn": "2022-10-19T00:51:00.000Z",
-          "wordCount": 161,
-          "title": "与马斯克交易最后期限临近 推特锁定员工股权账户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730038/",
-          "author": null,
-          "description": "从第四季度开始，奈飞将不再提供付费用户数据指引。 财联社 10 月 19 日讯（编辑牛占林）美股周二盘后，奈飞(Netflix)公布了三季度业绩。财报显示，奈飞不但扭转了付费订阅用户流失的局面，而且还提供了高于华尔街预期的乐观前景。奈飞股价盘后大幅飙升，涨幅一度超过 15%。 财报显示，奈飞三季度营\n本文链接",
-          "link": "https://news.cnblogs.com/n/730038/",
-          "publishedOn": "2022-10-19T00:46:00.000Z",
-          "wordCount": 161,
-          "title": "奈飞Q3扭转用户流失局面 新增240多万付费用户 股价盘后大涨逾14%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730037/",
-          "author": null,
-          "description": "10 月 19 日消息，富士康董事长兼首席执行官刘扬伟本周二在公司年度科技日上表示，希望有朝一日能为特斯拉生产电动汽车。 作为苹果 iPhone 的组装商，富士康计划将旗下业务拓展到交通运输领域。刘扬伟在发布两款富士康电动汽车原型 Model B 跨界 SUV 和 Model V 皮卡时发表了上述评\n本文链接",
-          "link": "https://news.cnblogs.com/n/730037/",
-          "publishedOn": "2022-10-19T00:41:00.000Z",
-          "wordCount": 161,
-          "title": "富士康CEO：不会销售自家品牌的电动汽车 希望能为特斯拉代工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730036/",
-          "author": null,
-          "description": "网易数码讯 10 月 18 日消息，苹果通过线上更新的方式正式发布了 M2 芯片版 iPad Pro 以及新版的 iPad（第十代）。 M2 芯片版 iPad Pro 外观设计上没有「大变化」，依然是两个尺寸可选，分别是 11 英寸与 12.9 英寸；显示屏规格上，11 英寸版 iPad Pro 采\n本文链接",
-          "link": "https://news.cnblogs.com/n/730036/",
-          "publishedOn": "2022-10-19T00:37:00.000Z",
-          "wordCount": 161,
-          "title": "M2芯片版iPad Pro发布：6799元起 最高2TB存储",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730035/",
-          "author": null,
-          "description": "文｜深燃，作者邹帅，编辑唐亚华 闲鱼也支持七天无理由退货了？ 据闲鱼官方通知，10 月 8 日起，闲鱼规范要求从事商业经营活动的经营性卖家应按法律法规及规范要求提供“七天无理由退货”服务，买家退回商品应当保持完好。具体而言，完成亮证亮照或个人声明，闲鱼个人主页展示“商”标识的卖家须执行上述服务。 认\n本文链接",
-          "link": "https://news.cnblogs.com/n/730035/",
-          "publishedOn": "2022-10-19T00:30:00.000Z",
-          "wordCount": 161,
-          "title": "闲鱼这碗饭，不好吃了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730034/",
-          "author": null,
-          "description": "文最话 FunTalk，作者孙颖莹，编辑王芳洁 大概一个月以前，抖音正式推出了开放平台，并公布了开放平台的业务载体——抖音小程序。 原本，小程序这件事没什么可说的，从微信到支付宝，再到百度，很多平台都在做，做起来也不复杂，细分市场上恰饭的第三方服务公司有不少。 但抖音做这件事，其实折射了一个非常明显\n本文链接",
-          "link": "https://news.cnblogs.com/n/730034/",
-          "publishedOn": "2022-10-19T00:20:00.000Z",
-          "wordCount": 161,
-          "title": "抖音为什么要做私域",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730033/",
-          "author": null,
-          "description": "文新摘商业评论，作者赫里 九天前，闲鱼正式施行“七天无理由退货” 服务，要求从事商业经营活动的经营性卖家须按照法律法规及规范履行该规定。 规定背后，是大量“鱼目混珠”的职业卖家涌入平台制造的又一轮信任危机，\"职业闲置骗子\" 俨然成为用户心中的一根刺，也让闲鱼如芒在背。 与将“真货正品”奉为圭臬、重拳\n本文链接",
-          "link": "https://news.cnblogs.com/n/730033/",
-          "publishedOn": "2022-10-19T00:10:00.000Z",
-          "wordCount": 161,
-          "title": "闲鱼终成假淘宝？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730032/",
-          "author": null,
-          "description": "文刺猬公社，作者｜园长，编辑｜李乐蜀 如果说 2022 年还有什么互联网大厂集体投入的业务的话，那么视频云一定可以算一个。 绝大多数用户并不知道什么叫视频云，但视频云早已是互联网音视频行业的空气和水，在线直播、视频会议、主播连麦等用户早已习惯使用的产品，都是以视频云为技术底座；而在越来越多的产品整合\n本文链接",
-          "link": "https://news.cnblogs.com/n/730032/",
-          "publishedOn": "2022-10-19T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "为什么每个大厂，都在押注视频云？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730031/",
-          "author": null,
-          "description": "梦晨 Pine 发自凹非寺 量子位公众号 QbitAI 机器人，首次成为英国上议院的座上宾。 她名叫Ai-Da，自称是世界上第一位超写实机器人艺术家，并介绍了自己的双眼是摄像头，用机械臂执笔，靠 AI 算法画画。 这是英国议会对未来创意产业的一场调查听证会，一位男爵夫人向机器人提问：你的作品和人类艺\n本文链接",
-          "link": "https://news.cnblogs.com/n/730031/",
-          "publishedOn": "2022-10-18T15:20:00.000Z",
-          "wordCount": 161,
-          "title": "第一位在英国议会发言的机器人，曾被怀疑是间谍，遭埃及海关拘留",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730030/",
-          "author": null,
-          "description": "丰色发自凹非寺 量子位公众号 QbitAI 家人们，要爬虫——现在用一个电子表格就行了。 一行代码也别写，第三方软件也甭安。 只需在表格里点几下就 ok。 不信，你瞧： 就这么两下，网页上的商品信息都有了。 网友看完都惊呆了，码个不停。 一看到这是来自谷歌的产品（Google Sheet，谷歌的“E\n本文链接",
-          "link": "https://news.cnblogs.com/n/730030/",
-          "publishedOn": "2022-10-18T15:00:00.000Z",
-          "wordCount": 161,
-          "title": "谷歌“Excel”好强：不用自己写代码就能爬虫，网友问微软慌不慌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730029/",
-          "author": null,
-          "description": "丰色詹士发自凹非寺 量子位公众号 QbitAI 河南一村庄引来 16 位博士建研究院。 这两天，这样一则新闻在网上引发不小关注。 据河南媒体「大参考」消息，这 16 位博士放弃北上广研究所、高校工作，甚至打掉铁饭碗，在巩义胡坡村扎根建研究院。 目前，研究团队不仅吸纳了 16 位博士，还有硕士百余人，\n本文链接",
-          "link": "https://news.cnblogs.com/n/730029/",
-          "publishedOn": "2022-10-18T14:45:00.000Z",
-          "wordCount": 161,
-          "title": "16个博士回河南乡村创业，现在披露上市计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730028/",
-          "author": null,
-          "description": "萧箫羿阁发自凹非寺 量子位公众号 QbitAI 只凭 DNA 就还原出罪犯的长相，还是 3D 版的？ 没错，只需要一个 AI 模型，就能还原出这人的年龄、肤色、瞳色、甚至整个 3D 头像…… 即使在此之前，没有任何人目击过这个嫌疑犯也没关系，用它合成的照片直接就能发布通缉令。 据提供这项技术的公司介\n本文链接",
-          "link": "https://news.cnblogs.com/n/730028/",
-          "publishedOn": "2022-10-18T14:35:00.000Z",
-          "wordCount": 161,
-          "title": "仅凭DNA还原嫌疑犯3D人脸，加拿大警方一通操作却被网友骂惨了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730027/",
-          "author": null,
-          "description": "文/金磊丰色 来源/量子位（ID:QbitAI） 机器人搞花活，还得是波士顿动力—— 自家的 Spot 和 Atlas 机器人联动跳起了男团 BTS 的舞蹈。 开场，先是派出 7 只 Spot 站好队形，大跳齐舞： 动作可以说是整齐划一，不论是蹦跳、走位，队形丝毫没有偏差。 不仅如此，Atlas 还\n本文链接",
-          "link": "https://news.cnblogs.com/n/730027/",
-          "publishedOn": "2022-10-18T14:20:00.000Z",
-          "wordCount": 161,
-          "title": "波士顿动力再惊艳！机器人大秀男团舞，举手投足人味满满，多次转卖后展示新标签",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730026/",
-          "author": null,
-          "description": "文/小卢鱼 来源：巨潮 WAVE（ID:WAVE-BIZ) 在全球范围内，曾经被认为具备强大网络效应和巨大资本号召力的社交网络公司，其价值似乎正在被重新评估。 老牌社交媒体龙头们今年的日子过得一点都不平静： Facebook 的母公司 Meta，被多名员工曝光正在通过将员工列入绩效改进计划（PIP）\n本文链接",
-          "link": "https://news.cnblogs.com/n/730026/",
-          "publishedOn": "2022-10-18T14:10:00.000Z",
-          "wordCount": 161,
-          "title": "2022，社交网络危局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730025/",
-          "author": null,
-          "description": "文/曹原 来源/智能车参考（ID:AI4Auto） 好嘛，斌哥又 high 了。 这不蔚来刚在柏林开了一场进军德国的发布会，用租赁的方式开启德国落地，在车企巨头之乡秀肌肉。 斌言斌语自然也不能少，果然被老外摆了一道，随口就要李斌评价一下汽车友商们。 对德国车企，斌哥完全 respect，认为奔驰和大\n本文链接",
-          "link": "https://news.cnblogs.com/n/730025/",
-          "publishedOn": "2022-10-18T13:55:00.000Z",
-          "wordCount": 161,
-          "title": "蔚来李斌：特斯拉如果不改进产品和服务，很快会被市场淘汰",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730024/",
-          "author": null,
-          "description": "编/好困 Aeneas 来源：新智元（ID:AI_era) Meta 头显才买 6 个月，就放在家里吃灰，很多用户还会头晕呕吐。小扎的元宇宙似乎困难重重。 就在上周，小扎总算在 Horizon Worlds 里完成一个划时代的创举——元宇宙里的人终于长出腿了！ 然而…… 你有没有感觉，台上这两位的动\n本文链接",
-          "link": "https://news.cnblogs.com/n/730024/",
-          "publishedOn": "2022-10-18T13:40:00.000Z",
-          "wordCount": 161,
-          "title": "头显戴上就吐， 小扎长腿竟是“诈骗”！烧完100亿美元，元宇宙大翻车",
           "imageUrl": null
         }
       ]
