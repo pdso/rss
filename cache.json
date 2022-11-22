@@ -54,16 +54,6 @@
           "wordCount": 532,
           "title": "羊了个羊，如何自己实现（暨\"码上掘金\"编程挑战赛介绍）",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/10/git-server.html",
-          "author": null,
-          "description": "程序员的代码仓库，总是需要托管一份在服务器，这样才保险，也方便使用。\n今天就来谈谈 Git 服务器。\n\n一、代码托管服务\n一般情况下，都不建议自己搭建 Git 服务器，而要使用现成的服务，也就是代码托管服务。它们都是免费的。\nGitHub\nGitlab\nBitbucket\nCodeberg\nsourcehut\nGitee\n其中，除了最后一家 Gitee 是国内的服务，其他都是国外的服务。\n这些外部服务，就不多做介绍了。本文的重点不是它们，而是想谈如果不得不自己搭建 Git 服务器，那该怎么做。\n二、Git 服务器软件\n自己搭建 Git 服务器的原因，无非就是不方便访问外网，不愿意代码放在别人的服务器，或者有一些定制化的需求。\n这时，你可以选择开源的 Git 服务器软件。\nGitlab CE\nGitea\nGogs\nOnedev\n这些软件里面，Gogs 的安装是最简单的，但是功能相对比较弱。功能越强的软件，安装越复杂。\n如果你只是想远程保存一份代码，并不在意有没有 Web 界面，或者其他功能，那么根本不用安装上面这些软件，一行命令就够了。\n三、Git 仓库的 SSH 传输\n熟悉 Git 的同学可能知道，Git 默认支持两种传输协议：SSH 和 HTTP/HTTPS。\n服务器一般都自带 SSH，这意味着，我们可以什么都不安装，只通过 SSH 就把仓库推到远程服务器。\n所以，一条命令就够了。我们只要在远程服务器上，建立同名的 Git 仓库，服务器就搭建好了。\n\n$ git init --bare [仓库名].git\n\n\n\n上面命令中，各个部分的含义如下。\n（1）git init：初始化一个 Git 仓库。\n（2）--bare：表示新仓库不需要工作目录，只建立 Git 数据目录。\n（3）[仓库名].git：指定仓库名，比如仓库名是example，那么就要建立一个叫做example.g…",
-          "link": "http://www.ruanyifeng.com/blog/2022/10/git-server.html",
-          "publishedOn": "2022-10-23T12:19:57.000Z",
-          "wordCount": 691,
-          "title": "最简单的 Git 服务器",
-          "imageUrl": null
         }
       ]
     },
@@ -467,16 +457,6 @@
           "wordCount": 483,
           "title": "iPad与外接键盘，这样设置可以更好用",
           "imageUrl": "https://cdn.sspai.com/editor/u_hkoch24/16663599322052.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/76376",
-          "author": "克莱尔爱吃甜食",
-          "description": "你好，我是马上要上第 700 节 CrossFit 团课的克莱尔。（但今天是我的休息日。所以我来写稿了。\n如果你想减脂增肌，或者厌倦了在普通健身房对着满屋子器械不知从何下手，CrossFit 训练也许是一个最简单粗暴的健身方案。\n\n融合有氧器械、哑铃壶铃、药球、奥林匹克举重与单杠和吊环体操动作， CrossFit 以社区感、团课、每天不重样的训练内容闻名。对，我们每天练的项目都不一样，它要求你什么都懂（一点），对心肺、力量、柔韧性等各方面都有要求。\n换句话说， CrossFit 花样丰富，有趣，强度大，但作为一个相对小众的运动，准入门槛也不低。如果你在一二线城市，找到好馆子的可能性会比较大。如果你经常出差—— CrossFit 就像健身界的星巴克，无论到哪个城市，都能找到以相似模式运行的 Box ，能结识不同的朋友。\n全球 CF 馆分布\n今年是我练 CF 的第三年。根据三年的观察，许多来 CF 新客体验的人常被这项运动的强度或者“对新人不友好”震慑，觉得这是一馆子又壮又爱拼命的疯子。但其实 CF 并没有想象中这么吓人。在进行你的第一次 CF 训练之前，提前知道这些事情可以降低你在馆里低血糖、呕吐或者被吓得从此听到 CF 就绕道走的概率。\n离你最近的 CrossFit 训练馆在哪里？\n首先，如何找到离你最近的 CF 训练馆？如果你在国内一线城市，在点评 app 里输入 CrossFit 就是最快的方法，如果搜索结果中出现【综合训练】字样，它很有可能也是一个 CF 馆。只是未经 CF 官方认证。这不代表它是山寨——近几年有越来越多场馆认为自己不需要每年缴会费做这个认证，但大家训练的系统是一样的。\n如果你在国外，除了谷歌，另一个方法是点进 crossfit.com 网页，在右上角 Find a gym 这里找到经过官方认证的场馆（对国内场馆同样适用，但也许网速会众所周知地慢一点）…",
-          "link": "https://sspai.com/post/76376",
-          "publishedOn": "2022-10-23T04:35:39.000Z",
-          "wordCount": 588,
-          "title": "第一次 CrossFit 训练之前，你需要知道的几件小事",
-          "imageUrl": "https://cdn.sspai.com/2022/10/23/693ad56f389e40c600b629f81c8b08cc.jpg"
         }
       ]
     },
@@ -502,6 +482,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23224",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nSwift project in 2023\nSwift 团队发布明年的开发路线图，今年新增了工作组机制：\n语言组：负责编译器和标准库的开发\n网站组：管理 swift.org 的网站内容\n文档组：负责文档工具的开发\nC++ 交互组：提高与 C++ 的可交互性，孵化相关提案\n这里节选了一些亮点内容：\n宏系统开始进行设计和实现，最快可能明年 WWDC 就能看到\n添加语法层面的功能让我们可以控制值的所有权，减少不必要的拷贝和引用计数\n优化编译系统和编译器的交互逻辑，让编译过程变得可靠\n编译器一部分使用 Swift 进行重写\n文章\n🐕 云音乐 iOS 端代码静态检测实践\n@水水: 随着项目的扩大，依靠纯人工 Code Review 来保障代码质量、防止代码劣化变得”力不从心“。此时有必要借助代码静态分析能力，提升项目可持续发展所需要的自动化水平。针对 C、Objective-C 主流的静态分析开源项目包括：Clang Static Analyzer、Infer、OCLint 等。\nOCLint 环境部署、编译和分析。\n自定义规则实现。\n静态检测耗时优化。\n利用静态检测能力持续对启动性能防劣化控制。\n🐕 三代终端容器 KUN 的首次大考【架构演进】\n咸鱼自研的 KUN 容器框架，是一套用前端编写代码，用 Flutter 来做渲染，目前已经在闲鱼号上应用。本文同时对 KUN 框架、Weex、WebView 渲染做了对比，KUN 框架在体验、性能等方面均表现不错，同时，KUN 框架对双端渲染一致性问题也做了一定的优化，避免代码中大量 if-else 判断。\n🐕 HOME ARTICLES BOOK AB…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23224",
+          "publishedOn": "2022-11-21T04:48:11.000Z",
+          "wordCount": 658,
+          "title": "老司机 iOS 周报 #224 | 2022-11-21",
+          "imageUrl": "https://opengraph.githubassets.com/79d0f856ce7b7e5cd7301dd8fff18e5ddd52d9db2a39ead2601609073d2606a2/SwiftOldDriver/iOS-Weekly/releases/tag/%23224"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23223",
           "author": null,
@@ -555,6 +545,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73434",
+          "author": null,
+          "description": "马斯克(Elon Musk)解雇了 Twitter 多达八成的软件工程师，但看起来 Twitter 没有瘫痪或者立即瘫痪。这意味着什么？帕累托法则（或 80/20 法则）认为，80% 的结果来自 20% 的原因。如果将这一法则应用于大企业，那么就是八成的结果是二成的工程师完成的。但这并不意味着其余八成的工程师不做事，而是因为他们从事着没有直接影响的工作，如半途而废的项目，展望未来的工作，改进维护的内部工作，等等。如果只剩下二成的工程师，那么即使这些工程师是最好的，这意味着企业深深陷入了生存模式。剩余的工程师只能保证服务在目前的情况下还能运行，没法再应付突发的情况，不要再妄想新产品，不要再想改进现有的产品，不要再想优化基础设施或降低成本，忘掉数据泄露或修复严重安全漏洞吧。马斯克正在戏剧性的实验 80/20 法则。",
+          "link": "https://www.solidot.org/story?sid=73434",
+          "publishedOn": "2022-11-21T14:52:54.000Z",
+          "wordCount": 156,
+          "title": "解雇八成工程师后公司仍然能生存下来？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73433",
+          "author": null,
+          "description": "在马斯克(Elon Musk)接管之后，Twitter 可能解雇了多达八成的员工，部分工程师所在团队可能全部被裁。对于这一情况，博客服务 WordPress 和轻博客服务 Tumblr 的母公司 Automattic 发表公开声明，表示愿意招募被解雇的工程师甚至整个团队。Automattic 目前正致力于改进 Tumblr，它表示能帮助身在美国的外籍工程师转让签证。",
+          "link": "https://www.solidot.org/story?sid=73433",
+          "publishedOn": "2022-11-21T14:18:53.000Z",
+          "wordCount": 174,
+          "title": "WordPress 和 Tumblr 母公司向 Twitter 前雇员公开示爱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73432",
+          "author": null,
+          "description": "仅仅退休不到一年，迪士尼公司宣布重新聘用 Robert Iger 接替包正博(Bob Chapek)担任 CEO。Iger 去年底从迪士尼退休，此前长期担任该公司的董事长和 CEO，他是在 2020 年 2 月新冠疫情尚未在全世界爆发时将 CEO 一职交给包正博，之后担任执行董事长至 2021 年底。他在一份声明中对重新被选为 CEO 表示深感荣幸。迪士尼董事长 Susan Arnold 在一份声明中表示，随着迪士尼开始进入一个日益复杂的行业转型期，Robert Iger 具有独一无二的优势，能领导公司走过这一关键时期。”她对包正博的贡献表示感谢。",
+          "link": "https://www.solidot.org/story?sid=73432",
+          "publishedOn": "2022-11-21T14:10:00.000Z",
+          "wordCount": 182,
+          "title": "退休的 Bob Iger 重新担任迪士尼 CEO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73431",
+          "author": null,
+          "description": "在新冠疫情前，工作在美国已经披上了世俗宗教的色彩，是寻找世界意义的主要方式和自我身份的重要组成部分，即使是底薪水工作也被认为代表着劳动自由。但在疫情之后，人们对待工作的方式发生了改变。在 2022 年秋季，辞职的人数虽然低于峰值，但处于美国几十年来最高的水平。白领工人不愿意放弃远程工作，而低薪行业如酒店则招不到足够的人。疫情期间的封锁打破了美国极度不平等的工作关系，促使人们重新审视我们与劳动的关系。在工作中寻找意义是一回事，但看到生活被工作吞噬则是另一回事。人们开始想要对工作的条件具有更大的控制权，而工作其实比我们想象的要灵活的多。",
+          "link": "https://www.solidot.org/story?sid=73431",
+          "publishedOn": "2022-11-21T13:47:07.000Z",
+          "wordCount": 146,
+          "title": "疫情改变美国人对待工作的态度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73430",
+          "author": null,
+          "description": "上汽大众宣布将停产手动挡车型，此举不涉及裁员，受影响的工人将被重新分配到不同的生产线上。此举有助于大众加快向电动汽车转型，该公司计划到 2030 年，纯电将占其全球汽车销量的一半。中国市场对手动挡汽车的需求已在下降。据中国汽车工业协会的数据，今年前三季度，手动挡车辆占中国市场内燃机汽车总销量的 10%，这一比例低于 2017 年的 40%。",
+          "link": "https://www.solidot.org/story?sid=73430",
+          "publishedOn": "2022-11-21T10:19:24.000Z",
+          "wordCount": 149,
+          "title": "上汽大众停产手动挡车型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73429",
+          "author": null,
+          "description": "法国将禁止学校和公共机构使用免费版 Office 365 和 Google Docs，原因是它们缺乏遵守欧洲数据监管法律的机制。Office 365 和 Google Docs 只有付费版本才提供此类数据保护功能。法国教育部门的预算仅次于医保/社保，他们并不缺乏购买付费版本所需的资金。",
+          "link": "https://www.solidot.org/story?sid=73429",
+          "publishedOn": "2022-11-21T07:53:19.000Z",
+          "wordCount": 174,
+          "title": "法国禁止学校和公共机构使用免费版 Office 365 和 Google Docs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73428",
+          "author": null,
+          "description": "相比微软的 AI 编程助手 GitHub Copilot，AI 辅助编程公司 Kite 起步更早，但很遗憾的是未能建立起一个盈利机制。Copilot 在辅助编程上还有局限，比如在非局部语境下生成代码，Kite 称它在这方面取得了进展，但需要更多投资。虽然它有 50 万月活跃开发者，但他们的支付意愿很低，仅仅提高程序员的编程速度 18% 并不能说服工程经理们掏钱。Kite 宣布停止运作，公开大部分源代码，项目托管在 GitHub 上。",
+          "link": "https://www.solidot.org/story?sid=73428",
+          "publishedOn": "2022-11-21T07:29:29.000Z",
+          "wordCount": 174,
+          "title": "AI 辅助编程公司 Kite 关闭和宣布开源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73427",
+          "author": null,
+          "description": "联合国气候大会 COP27 达成里程碑协议，近 200 个国家同意设立基金，向贫困国家支付因气候变化造成的损失。30 多年来，发展中国家一直向富裕国家施压，要求他们为极端天气的应对成本进行赔偿。长期以来，发达国家一直抵制创建此类基金，担心同意付款会使本国政府和公司面临诉讼风险。周六，最后一个拒不让步的大国美国同意加入该基金，实现了决定性的突破。拜登政府的官员员表示协议不会产生法律责任。关于这个损失和损害基金如何运作，以及它是否能够迅速采取行动帮助那些多数科学家称已经受到气候变化影响的国家，仍有很多问题需要解决。",
+          "link": "https://www.solidot.org/story?sid=73427",
+          "publishedOn": "2022-11-21T07:17:08.000Z",
+          "wordCount": 148,
+          "title": "联合国大会同意设立气候补偿基金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73426",
+          "author": null,
+          "description": "英伟达回应了其高端显卡 RTX 4090 的 16-pin 电源连接器（12VHPWR）烧毁问题，称主要原因是未插实导致的。这与 Gamers Nexus 的测试结论一致，测试发现，如果连接器插的不紧容易在短短几分钟内产生逾 250 度的热量。它认为问题是用户错误和设计疏忽共同导致的。相比旧的 6-pin 和 8-pin PCIe 电源连接器，12VHPWR 连接器更容易发生未插紧的错误，因为它缺乏能让人感知确认插实的机制，比如某种咔嚓声音。英伟达称 RTX 4090 显卡发生了大约 50 起烧毁事故，该公司会为所有故障显卡提供替换。",
+          "link": "https://www.solidot.org/story?sid=73426",
+          "publishedOn": "2022-11-21T06:58:21.000Z",
+          "wordCount": 178,
+          "title": "英伟达称 RTX 4090 电源连接器熔化主要是未插好导致的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73425",
+          "author": null,
+          "description": "在马斯克(Elon Musk)发起的一项民意调查中，特朗普的回归获得了 51.8% 的支持和 48.2% 的反对。马斯克上周六晚上发推称，人民已经发声了，特朗普账号将被恢复。目前还不清楚这位前美国总统是否会再次发推，他的最后一条推文停留在 2021 年 1 月 8 日。他告诉福克斯新闻，他将继续使用自己的社交平台 Truth Social。在 2021 年 1 月 6 日国会暴动后，Twitter 封禁了特朗普，称其帐号存在煽动暴力的风险。在他开始 2024 年总统竞选之际，重返 Twitter 可能会让他获得更大影响力，也可能放大分歧。",
+          "link": "https://www.solidot.org/story?sid=73425",
+          "publishedOn": "2022-11-21T03:19:33.000Z",
+          "wordCount": 176,
+          "title": "马斯克恢复特朗普 Twitter 帐号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73424",
+          "author": null,
+          "description": "小C同学的粉丝 写道 \"凹语言是国内 Gopher 发起的纯社区构建的开源国产编程语言项目（没有公司背景、没有任何赞助）。同时凹语言也是国内第一个实现纯浏览器内编译、执行全链路的自研静态类型的编译型通用编程语言。目前官方的“凹语言、图灵机和 BF 语言”文章，给出了一个简化版本的 BrainFuck 语言虚拟机实现。官方表示“既然可以通过凹语言实行一个 BF 虚拟机那么凹语言必然也是图灵完备的，下一次希望通过凹语言构建更为复杂有趣的程序。”希望国产凹语言能够带来更多的惊喜，让我们拭目而待。\"",
+          "link": "https://www.solidot.org/story?sid=73424",
+          "publishedOn": "2022-11-21T03:09:37.000Z",
+          "wordCount": 177,
+          "title": "国产凹语言实现",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73423",
           "author": null,
@@ -3354,16 +3454,6 @@
           "wordCount": 158,
           "title": "没有屏幕的智能手机",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73141",
-          "author": null,
-          "description": "腻糯 写道 \"《科学美国人》2022年11月刊（提前出版）介绍了研究者创建的“全球受新冠感染物种事件数据库”，它的原始数据托管在 GitHub 上，可视化界面可访问 https://vis.csh.ac.at/sars-ani/ 查看。截至 2022 年 9 月 27 日，该数据库已经收集了 39 个国家 31 个物种 735 次动物感染事件。负责这个项目的维也纳流行病学家 Amélie Desvars-Larrive 说，“我们不能以人类为中心看待这种流行病。”新冠在许多哺乳动物中也有高度传染性，包括圈养的水獗（养殖者不得不杀死它们来阻止感染），鹿似乎特别容易感染这种病毒，许多猫科动物（不分体型）。纽约州的疾病生态学家 Barbara Han（她没有参与该项目）说，这种集中分类的数据库能够让她的团队更快更容易地预测病毒的行为方式，这种病原体存在于如此多的动物中，这可能意味着什么，如果没有这些信息，我们就无法得到答案。\"",
-          "link": "https://www.solidot.org/story?sid=73141",
-          "publishedOn": "2022-10-23T13:02:01.000Z",
-          "wordCount": 166,
-          "title": "哪些动物会感染新冠？",
-          "imageUrl": null
         }
       ]
     },
@@ -3372,6 +3462,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/732028/",
+          "author": null,
+          "description": "文/孙鹏越 来源/锌财经（ID:xincaijing） 猪八戒网作为国内最早的一批互联网玩家，经历 16 年的长跑后，开始冲刺上市了。 近日，被外界称为“企服界的淘宝”的猪八戒网，正式向港交所提交上市申请材料，拟在港交所主板上市。而中信证券、建银国际为联席保荐人。 来源：港交所 据公开信息显示，猪八\n本文链接",
+          "link": "https://news.cnblogs.com/n/732028/",
+          "publishedOn": "2022-11-22T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "小老板生意亏了10亿，猪八戒网IPO求自救",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732024/",
+          "author": null,
+          "description": "近日，吉林省长春市一名特斯拉汽车销售带顾客试驾 Model Y 时冲上山坡，引发关注。11 月 21 日，当事顾客董先生告诉南都记者，当时车子刚开出 4S 店不到 600 米，销售专员可能没观察好路况，右转时反应不及冲到了坡上，前挡风玻璃当场裂开。当日，特斯拉客服表示，“车辆的安全性能请大家放心，如\n本文链接",
+          "link": "https://news.cnblogs.com/n/732024/",
+          "publishedOn": "2022-11-21T18:46:03.000Z",
+          "wordCount": 161,
+          "title": "特斯拉销售开车带客户试驾发生事故，顾客称不买了！客服回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732027/",
+          "author": null,
+          "description": "Tech 星球 11 月 21 日消息，今日，知名打假人王海发文称小杨哥质检报告是假的。他表示，@疯狂小杨哥送检的金正牌 300w 电机规格破壁机也不合格，检测报告是假的。对此，金正电器所在的中山市市场监督管理局南头分局回复表示，11 月 15 日，我局执法人员依法对中山市金正生活电器有限公司进行检\n本文链接",
+          "link": "https://news.cnblogs.com/n/732027/",
+          "publishedOn": "2022-11-21T18:20:00.000Z",
+          "wordCount": 161,
+          "title": "中山市监局回应疯狂小杨哥被打假：抽检金正破壁机合格，不予立案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732023/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 好困 「人脸复原」技术首篇综述！ 近年来，随着深度学习的发展和大规模数据集的出现，深度学习在很多领域也取得了进展，但其中 「人脸复原」（Face Restoration）任务仍然缺乏系统性的综述。 最近，来自南京大学、澳大利亚国立大学、中山大学、帝国理工学院和腾讯的研究者们\n本文链接",
+          "link": "https://news.cnblogs.com/n/732023/",
+          "publishedOn": "2022-11-21T18:15:08.000Z",
+          "wordCount": 161,
+          "title": "万字解读首篇「人脸复原」综述！南大、中山、澳国立、帝国理工等联合发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732026/",
+          "author": null,
+          "description": "本文来源：时代周报 作者：陈玖阳 郑州富士康仍在“重金招人”。 作为苹果 iPhone 14 Pro 与 iPhone 14 Pro Max 的主要组装工厂，郑州富士康此前因疫情和员工返乡陷入缺工困境。 面对生产旺季，郑州富士康选择不断增高的薪资来吸引临时员工，酬金不断加码。此次招募政策显示，工人们\n本文链接",
+          "link": "https://news.cnblogs.com/n/732026/",
+          "publishedOn": "2022-11-21T18:06:00.000Z",
+          "wordCount": 161,
+          "title": "郑州富士康还没招满人，内部员工：床位不够了，招聘电话接到“头发麻”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732025/",
+          "author": null,
+          "description": "派财经消息 11 月 21 日威马汽车发布内部信宣布，为了应对资金压力，公司管理层带头主动降薪一半，同时对公司整体运营费用进行精简，将通过一系列财务措施降低运营成本。 具体措施为：从 2022 年 10 月开始，M4 及以上级别管理者主动降薪，发放 50% 的基本工资；其他员工发放 70% 的基本工\n本文链接",
+          "link": "https://news.cnblogs.com/n/732025/",
+          "publishedOn": "2022-11-21T18:00:00.000Z",
+          "wordCount": 161,
+          "title": "威马沈晖发布内部信：10月起全员降薪，停发年终奖和补贴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732022/",
+          "author": null,
+          "description": "如果每一个人都有马斯克在特斯拉「打工」的工资，那大家应该都会是一个热爱工作、善良乐观的好人。 毕竟那可是 560 亿美元（近 4000 亿人民币）的薪酬。别的不说，马斯克单靠给特斯拉做 CEO 的收入，都能在中国内地富豪榜中冲到第二位，力压马化腾、马云、张一鸣等一众互联网人士，甚至还能在 51 岁全\n本文链接",
+          "link": "https://news.cnblogs.com/n/732022/",
+          "publishedOn": "2022-11-21T14:30:00.000Z",
+          "wordCount": 161,
+          "title": "马斯克不做 CEO，世界会变得更好吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732021/",
+          "author": null,
+          "description": "看多了李国庆抢公章，哈啰单车经理划破 70 辆美团单车拒不承认，Soul 运营合伙人在竞争平台 Uki 上发色情内容这样的离谱新闻后，人们会对「商业战争」这个词有些许怀疑。 没有对薄公堂，没有股权计算，有的都是简单粗暴的碰撞。它们朴实无华，但有效。 正当一众吃瓜群众为商业公司的「新时代商战」忧心不已\n本文链接",
+          "link": "https://news.cnblogs.com/n/732021/",
+          "publishedOn": "2022-11-21T14:19:00.000Z",
+          "wordCount": 161,
+          "title": "不用卖鞋，耐克已经成了 NFT 最赚钱的品牌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732020/",
+          "author": null,
+          "description": "最近半个月，抖音网红@疯狂小杨哥很忙，还总和 1 个亿扯上关系。 11 月 2 日，小杨哥抖音粉丝破 1 亿，成为短视频领域第一个单平台粉丝破亿的个人网红。相比之下，李佳琦在淘宝直播的粉丝数为 7171.6 万。 11 月 3 日，一家前身是光学企业的厂房以 1.03 亿元完成拍卖，网传购楼者为小杨\n本文链接",
+          "link": "https://news.cnblogs.com/n/732020/",
+          "publishedOn": "2022-11-21T14:13:00.000Z",
+          "wordCount": 161,
+          "title": "花一亿元买楼的抖音顶级流量被打假，会步辛巴后尘吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732019/",
+          "author": null,
+          "description": "如果把萨姆·班克曼-弗里德 ( Sam Bankman-Fried ) 的人生做一个抖音电影解说式的切片，那么大概会是这样。 注意看，画面中的这个男子叫小帅，他正一边玩他最喜欢的游戏英雄联盟，一边和全球著名的风险投资公司开投资会议。小帅是个拥有数十亿美金身家的超级富豪，但他不知道的是，他从亿万富豪到\n本文链接",
+          "link": "https://news.cnblogs.com/n/732019/",
+          "publishedOn": "2022-11-21T14:00:00.000Z",
+          "wordCount": 161,
+          "title": "从30岁首富到破产，「币圈马斯克」只花了 5 天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732018/",
+          "author": null,
+          "description": "人们爱把江豚称为「微笑天使」，因为它唇线的特殊弧线看起来就像亲和的「微笑」。 但在这「微笑」背后却是江豚生存所面临的严峻挑战。 作为一种在地球上生存了 2500 万年的物种，江豚近年来因长江水域生态环境遭到破坏，种群数量大幅下降。据 2017 年科考估算，江豚种群数量大约只有 1012 头，因此也被\n本文链接",
+          "link": "https://news.cnblogs.com/n/732018/",
+          "publishedOn": "2022-11-21T13:48:00.000Z",
+          "wordCount": 161,
+          "title": "保护江豚，科技可以做什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732017/",
+          "author": null,
+          "description": "Mozilla 基金会近日公布了 2021（2020 年 12 月 31 日 —— 2021 年 12 月 31 日）年的财务报告，根据财报数据显示，Mozilla 在 2021 年的收入为 6 亿美元。 对比 2020 年的 4.96 亿美元收入，2021 年 Mozilla 增加了 1 亿多美元\n本文链接",
+          "link": "https://news.cnblogs.com/n/732017/",
+          "publishedOn": "2022-11-21T13:40:00.000Z",
+          "wordCount": 161,
+          "title": "Mozilla 公布 2021 年财报：收入增长一亿美元，蒸蒸日上！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732016/",
+          "author": null,
+          "description": "在去年 5 月，Mozilla 就曾发文表示 Firefox 将支持 Google 的 Manifest V3（MV3）规范，以保持兼容性并支持扩展跨浏览器开发。在今年 5 月，Mozilla 则是宣布已在 Firefox 浏览器的开发版本中引入了 Manifest V3 的预览版本，并计划在 20\n本文链接",
+          "link": "https://news.cnblogs.com/n/732016/",
+          "publishedOn": "2022-11-21T13:32:00.000Z",
+          "wordCount": 161,
+          "title": "Firefox 开启 Manifest V3 扩展测试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732015/",
+          "author": null,
+          "description": "今年 Kotlin 团队进行了第一次 Kotlin 开发者调查，通过设计这个调查，可以帮助 Kotlin 团队识别和优先处理最严重影响 Kotlin 用户满意度的痛点。 近日 Kotlin 团队公布了此次调查的最终报告，让大家可以了解到目前开发者们对 Kotlin 现状的评价，以及团队打算做出的改进\n本文链接",
+          "link": "https://news.cnblogs.com/n/732015/",
+          "publishedOn": "2022-11-21T13:28:00.000Z",
+          "wordCount": 161,
+          "title": "Kotlin 调查报告，近一半用户不满 IDE 性能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732014/",
+          "author": null,
+          "description": "文一号财经 转折点绝不是一份财报，而是一场战役。但，腾讯无心恋战。 11 月 17 日，国家新闻出版署公示 70 个新发游戏版号，腾讯名列其中。 终于等到了姗姗来迟的游戏“准生证”，腾讯这个游戏股，似乎度过了股价承压的拐点。 但对于腾讯（0700.HK）本身来说，早就急于抛开游戏股的定位，在此前的财\n本文链接",
+          "link": "https://news.cnblogs.com/n/732014/",
+          "publishedOn": "2022-11-21T13:21:00.000Z",
+          "wordCount": 161,
+          "title": "腾讯不是游戏股，但赚钱还是得靠它",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732013/",
+          "author": null,
+          "description": "文老铁 2022 年 Q3 财报发布后（2023 财年 Q2)，舆论场中对阿里阿里评判越发分裂： 乐观，经营利润率转好，在减负增效中既然“增效”不易，先抓住“减负”也未尝不可，该季度阿里以“稳”为主，获得市场好感； 悲观，尽管菜鸟为代表的非电商业务保持了较快的同比增长（26%），但阿里云近乎于停滞的\n本文链接",
+          "link": "https://news.cnblogs.com/n/732013/",
+          "publishedOn": "2022-11-21T13:12:00.000Z",
+          "wordCount": 161,
+          "title": "阿里：触底靠命，反弹靠势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732012/",
+          "author": null,
+          "description": "文天下网商，作者丁洁，编辑吴羚玮 最近，常熟的“云爸爸”接下了“全网最火男团”的称号。 过去一年里，这个男团在直播间释放着他们的顶级邪魅——他们用深蹲、扫堂腿、扎马步成为直播间最硬核的穿衣模特，用大量的肢体语言和丰富的面部表情吸引了 160 万粉丝。在他们卖力的带货下，天猫上，云爸爸一款“穿上会跳舞\n本文链接",
+          "link": "https://news.cnblogs.com/n/732012/",
+          "publishedOn": "2022-11-21T13:00:00.000Z",
+          "wordCount": 161,
+          "title": "揭秘全网最火“爸爸团”：90后小镇青年操盘，从抖音入淘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732011/",
+          "author": null,
+          "description": "据知乎官方消息，知乎圈子将于 2023 年 3 月 27 日正式停止服务。将以知乎想法、话题的形式，继续为大家分享兴趣爱好、生活感触等提供服务和支持。 图源：知乎 知乎表示，2022 年 12 月 26 日，圈子的推荐页访问、发帖等功能关闭，届时用户可依照提示保存/备份历史发帖内容；2023 年 1\n本文链接",
+          "link": "https://news.cnblogs.com/n/732011/",
+          "publishedOn": "2022-11-21T12:45:00.000Z",
+          "wordCount": 161,
+          "title": "知乎圈子宣布下线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732010/",
+          "author": null,
+          "description": "文王新喜 日前，电声巨头歌尔股份遭境外大客户（苹果） \"砍单\" ，营收减少 33 亿元，引发业内关注。 虽然歌尔没透露是哪个客户，但市场分析普遍认为是苹果公司。知名苹果产业链分析师郭明錤称，此产品可能是 Apple 的 AirPods Pro2，歌尔股份暂停生产较可能是因为生产问题，而非需求问题。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/732010/",
+          "publishedOn": "2022-11-21T12:35:00.000Z",
+          "wordCount": 161,
+          "title": "歌尔丢单，苹果转移供应链：国内手机供应链要有危机感",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732009/",
+          "author": null,
+          "description": "11 月 19 日消息，网易本周与暴雪双方宣布将结束合作，旗下游戏将于明年 1 月 24 日终止服务，包括《魔兽世界》《炉石传说》《守望先锋》《星际争霸》《魔兽争霸 III：重置版》《暗黑破坏神 III》和《风暴英雄》。 同时，网易也表示将逐步为玩家举行退款相关事宜。现在，网易已经为游戏《炉石传说》\n本文链接",
+          "link": "https://news.cnblogs.com/n/732009/",
+          "publishedOn": "2022-11-21T12:24:00.000Z",
+          "wordCount": 161,
+          "title": "网易暴雪分手后，现已开启《炉石传说》新扩展内容预购退款通道",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/731948/",
           "author": null,
@@ -8661,116 +8951,6 @@
           "wordCount": 161,
           "title": "除了电热毯，光伏也在欧洲卖爆了",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730300/",
-          "author": null,
-          "description": "朋友多了路好走，罗永浩又交了个新朋友——淘宝直播。 10 月 20 日，交个朋友官宣，罗永浩和交个朋友团队已入驻淘宝直播。罗永浩本人将在天猫双 11 预售日——10 月 24 日晚 8 点进行淘宝直播首秀。据悉，交个朋友淘宝直播间名称确定为“罗永浩”。 “罗永浩”淘宝直播间页面截图。 罗永浩创业的路\n本文链接",
-          "link": "https://news.cnblogs.com/n/730300/",
-          "publishedOn": "2022-10-23T08:10:00.000Z",
-          "wordCount": 161,
-          "title": "罗永浩“退网”，一步三回头",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730299/",
-          "author": null,
-          "description": "10 月 22 日消息，微软联合创始人比尔·盖茨（Bill Gates）创立的投资基金最近向一家初创公司提供了 5000 万美元资金，用于帮助建设将酒精转化为可持续航空燃料（SAF）的大型工厂。 这家初创公司名为 LanzaJet，该公司证实已经收到盖茨旗下突破能源基金（Breakthrough E\n本文链接",
-          "link": "https://news.cnblogs.com/n/730299/",
-          "publishedOn": "2022-10-23T07:55:00.000Z",
-          "wordCount": 161,
-          "title": "比尔·盖茨再押注清洁能源：投资5000万美元建设清洁航空燃料工厂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730298/",
-          "author": null,
-          "description": "10 月 22 日消息，当地时间周五苹果公司证实，公司的工业设计副总裁埃文斯·汉基(Evans Hankey)即将离任。 三年前，前苹果首席设计官乔尼·艾维（Jony Ive）离职并创立了自己的独立公司，汉基就此接替艾维的职位。自那以来，汉基一直负责从硬件外观和体验到用于批量生产的制造方法等苹果大部\n本文链接",
-          "link": "https://news.cnblogs.com/n/730298/",
-          "publishedOn": "2022-10-23T07:42:00.000Z",
-          "wordCount": 161,
-          "title": "苹果公司高层再现人事变动：首席产品设计师宣布离职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730297/",
-          "author": null,
-          "description": "【环球时报综合报道】韩国的一场大火越烧越凶！15 日，韩国 SK C&C板桥数据中心发生火灾，导致包括该国“国民聊天工具”Kakao Talk 在内的多个网络平台服务中断，给数以千万计的用户带来“灾难”，引发舆论汹涌。16 日，韩国总统尹锡悦下令彻查原因；18 日，韩国科学技术信息通信部长官李宗昊就\n本文链接",
-          "link": "https://news.cnblogs.com/n/730297/",
-          "publishedOn": "2022-10-23T07:30:00.000Z",
-          "wordCount": 161,
-          "title": "风口浪尖！韩媒：Kakao创始人，韩国首富金范洙将被传唤",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730296/",
-          "author": null,
-          "description": "有段时间没发微博的小米创始人雷军这两天恢复了正常的发博频率，刚刚雷军又在微博上晒了小米的黑灯工厂，又上央视报道了。 小米的黑灯工厂位于北京亦庄，这是小米打造的第一个智能工厂。 据了解，小米智能工厂位于亦庄，占地 18600 平方米，它不仅仅是工厂，还是小米的实验室，担任新工艺、新材料、新技术，以及突\n本文链接",
-          "link": "https://news.cnblogs.com/n/730296/",
-          "publishedOn": "2022-10-23T07:20:00.000Z",
-          "wordCount": 161,
-          "title": "再登央视 雷军晒小米黑灯工厂：24小时熄灯生产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730295/",
-          "author": null,
-          "description": "撰文/ 曾广 编辑/ 董雨晴 大降价开启了 双十一还没到，手机厂商们已经杀疯了，从国产品牌到苹果，各家手机厂商提前开启了大降价，同时纷纷推出“性价比”新品，为冲刺双十一手机销量做准备。 最近准备购入 iPhone 14 的修文就发现，这款苹果刚发售不到一个月的手机，在各大电商平台，最高降价幅度已经超\n本文链接",
-          "link": "https://news.cnblogs.com/n/730295/",
-          "publishedOn": "2022-10-23T07:10:00.000Z",
-          "wordCount": 161,
-          "title": "安卓苹果集体降价，手机厂商血拼双11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730294/",
-          "author": null,
-          "description": "过去屠龙的勇士，现在也成了新的「勇士」想屠杀的恶龙。 瑞幸当年起家疯狂用星巴克做类比的时候，估计怎么也想不到，仅仅五年自己就能从「碰瓷品牌」变成「被碰瓷品牌」。 身份的调转令人唏嘘。从某种程度上来说，这是一种成功。如果瑞幸在用户心中没有足够多的认知度，那别的品牌也不会像它当年贴贴星巴克那样靠近贴贴。\n本文链接",
-          "link": "https://news.cnblogs.com/n/730294/",
-          "publishedOn": "2022-10-23T07:01:00.000Z",
-          "wordCount": 161,
-          "title": "号称要干掉瑞幸星巴克，在抖音爆红的 T97 咖啡，有股韭菜味",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730293/",
-          "author": null,
-          "description": "丰色发自凹非寺 量子位公众号 QbitAI 跟着生物钟吃，就没那么容易胖。 Science 最新研究（来自西北大学），证实了这一点。 实验中，三组小白鼠，作为夜行动物，一组只在活跃的晚上进食，一组在白天，最后一组则随意想吃就吃。 结果 7 天以后，第一组体重增长明显比后两者慢（下图蓝条），而它们吃的\n本文链接",
-          "link": "https://news.cnblogs.com/n/730293/",
-          "publishedOn": "2022-10-23T06:53:00.000Z",
-          "wordCount": 161,
-          "title": "Science：只要跟着生物钟吃，就没那么容易胖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730292/",
-          "author": null,
-          "description": "IT 之家 10 月 22 日消息，三年之前，苹果宣布斥资 10 亿美元在奥斯汀新建一个新园区，该项目的第一阶段似乎已经完成。 苹果 CEO 蒂姆・库克今日视察了苹果奥斯汀园区，并向大家展示了苹果奥斯汀工程团队正在努力开发的产品 —— 苹果下一代 Apple Silicon，目前无法确认新一代芯片是\n本文链接",
-          "link": "https://news.cnblogs.com/n/730292/",
-          "publishedOn": "2022-10-23T06:40:00.000Z",
-          "wordCount": 161,
-          "title": "苹果M3准备登场，库克展示奥斯汀Apple Silicon 工程团队努力成果",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730291/",
-          "author": null,
-          "description": "杨净丰色发自凹非寺 量子位公众号 QbitAI 震惊国际象棋界的戏剧性丑闻，现在出现反转了？！ 被指用智能肛珠作弊的 19 岁小将，竟然一纸诉讼将世界冠军告上法庭： 与他人恶意勾结、诽谤，毁了他的职业生涯，至少赔偿 1 亿美元。 △ 比赛情形，图源：圣路易斯国际象棋俱乐部 此前在知名赛事上，有着“国\n本文链接",
-          "link": "https://news.cnblogs.com/n/730291/",
-          "publishedOn": "2022-10-23T06:30:00.000Z",
-          "wordCount": 161,
-          "title": "智能肛珠作弊案反转：19岁小将告世界冠军诽谤索赔7亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730290/",
-          "author": null,
-          "description": "雷达财经文孟帅编深海 一手打造了瑞幸咖啡的陆正耀，要重新杀回咖啡赛道了。 10 月 22 日，前瑞幸咖啡的创始人陆正耀及前瑞幸咖啡的 CEO 钱治亚同时在朋友圈官宣了一则重磅消息，库迪咖啡（COTTI COFFEE）首店落地福州 IFC，并配文“咖啡梦想家团队再启征程”，“集结号吹响”。 据了解，库\n本文链接",
-          "link": "https://news.cnblogs.com/n/730290/",
-          "publishedOn": "2022-10-23T06:22:00.000Z",
-          "wordCount": 161,
-          "title": "瑞幸前创始人陆正耀重回咖啡赛道，库迪咖啡首店亮相福州",
-          "imageUrl": null
         }
       ]
     },
@@ -8779,6 +8959,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23224",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nSwift project in 2023\nSwift 团队发布明年的开发路线图，今年新增了工作组机制：\n语言组：负责编译器和标准库的开发\n网站组：管理 swift.org 的网站内容\n文档组：负责文档工具的开发\nC++ 交互组：提高与 C++ 的可交互性，孵化相关提案\n这里节选了一些亮点内容：\n宏系统开始进行设计和实现，最快可能明年 WWDC 就能看到\n添加语法层面的功能让我们可以控制值的所有权，减少不必要的拷贝和引用计数\n优化编译系统和编译器的交互逻辑，让编译过程变得可靠\n编译器一部分使用 Swift 进行重写\n文章\n🐕 云音乐 iOS 端代码静态检测实践\n@水水: 随着项目的扩大，依靠纯人工 Code Review 来保障代码质量、防止代码劣化变得”力不从心“。此时有必要借助代码静态分析能力，提升项目可持续发展所需要的自动化水平。针对 C、Objective-C 主流的静态分析开源项目包括：Clang Static Analyzer、Infer、OCLint 等。\nOCLint 环境部署、编译和分析。\n自定义规则实现。\n静态检测耗时优化。\n利用静态检测能力持续对启动性能防劣化控制。\n🐕 三代终端容器 KUN 的首次大考【架构演进】\n咸鱼自研的 KUN 容器框架，是一套用前端编写代码，用 Flutter 来做渲染，目前已经在闲鱼号上应用。本文同时对 KUN 框架、Weex、WebView 渲染做了对比，KUN 框架在体验、性能等方面均表现不错，同时，KUN 框架对双端渲染一致性问题也做了一定的优化，避免代码中大量 if-else 判断。\n🐕 HOME ARTICLES BOOK AB…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23224",
+          "publishedOn": "2022-11-21T04:48:11.000Z",
+          "wordCount": 658,
+          "title": "老司机 iOS 周报 #224 | 2022-11-21",
+          "imageUrl": "https://opengraph.githubassets.com/79d0f856ce7b7e5cd7301dd8fff18e5ddd52d9db2a39ead2601609073d2606a2/SwiftOldDriver/iOS-Weekly/releases/tag/%23224"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23223",
           "author": null,
