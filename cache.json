@@ -59,6 +59,26 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/76919",
+          "author": "SiriYang",
+          "description": "21 年的时候曾写过 一篇文章 分享了自己的知识管理方案，其中我将个人数据都存储在了第三方服务上。虽然第三方的服务很好用，但终究存在关服或无法访问导致的数据丢失风险，始终让我感到不放心；同时数据散落在各处，也没法进行统一备份管理、数据应用和数据可视化。\n本着数据拿在自己手上才算安全的原则，同时也期望将数据汇聚在一起进行统一的访问存取使用，我动手构建了一套自己的数据中心解决方案，实现了对现有使用中的第三方数据服务的采集，以及数据采集以后的应用和可视化功能。在此基础上我还开发了一些属于我自己的数据产品，将某些不方便采集的第三方服务替代掉。\n\n系统架构\n本文将以阅读记录数据为例，分享系统的架构设计和技术选型，为大家提供一种方案思路，具体的实现方案可以参考文末的开发文档，关键的系统代码也都将开源，以供大家进行复现。\n\n我首先将服务划分为第三方服务和部署在自己系统上的私有服务两类，系统架构的后端主要包括数据存储、定时任务调度、后端接口和报表系统四个模块。客户端的话使用微信机器人和 Web 服务，保证手机端和 PC 端都能直接访问。\n对于数据中心来说最核心的部分就是数据存储了。在最开始的时候只是单纯的想备份各个平台上的数据，所以直接简单粗暴的存储为 CSV 文件，使用 Pandas 来进行数据处理。但到后来我又想进一步增加可视化和即席查询的需求时就感到很不方便了，最终还是上了 MySQL。\n为了便于未来服务器到期时数据库环境的迁移，我将 MySQL 安装在一个 docker 容器里，缺点就是对我那台已经部署了多个服务的 1 核 2G 的服务器来说跑起来略显吃力。不过好在只是个人使用，没有数据量和并发方面的压力。\n当 MySQL 搭建起来以后，就已经具备了数据的存储和读写查询能力了，但是数据中心的搭建就只是搭建一个 MySQL 环境这么简单吗。我想对个人用户来说，如何减少开发成本，同时高…",
+          "link": "https://sspai.com/post/76919",
+          "publishedOn": "2022-11-29T12:12:25.000Z",
+          "wordCount": 515,
+          "title": "我的数据我做主：动手搭建一套自己的数据中心",
+          "imageUrl": "https://cdn.sspai.com/2022/11/29/ed801e0b925e4c4acea7e0a713effe1c.png"
+        },
+        {
+          "id": "https://sspai.com/post/76904",
+          "author": "写小黑文的Alex",
+          "description": "OPTION-O Lagom mini 是一群澳洲的咖啡爱好者工程师在 2016 年决定结合自己的工作技能和爱好技能打造的产品，是近年来比较流行的创业故事。\nLagom mini 首先在外形上就和传统磨豆机大相径庭，许多网红磨豆机是把磨豆机的颜值提升到了极致，但你还是能一眼看出来这是个磨豆机，调节转盘、豆仓、方方正正的造型，该有的都有。而 Lagom mini 则是三个有着浓郁 「苹果范」 的铝合金圆柱体，不管是银色的铝合金光泽还是 CNC 痕迹都像极了 Mac 电脑，圆柱体中集成了刀盘调节装置 —— 圆柱中裂出的一条缝，如果不仔细看，就是三个矗立在那的银色圆柱。\n\n同时也得益于高度集成的设计，Lagom mini 体积极小，抛开大的不和谐的电源，Lagom mini 的机身比手摇磨豆机大不了多少，或者说这就是一个有着电机驱动和更稳定结构的手摇磨豆机，就像 Mac mini，比 MacBook / 手摇磨豆机大一点，你还需要外接电源工作，但你确实可以将它们带出房间，而不是像传统台式机和电动磨豆机那样局限在房屋里，在 Glamping 火热的当下，这个优点极其突出。\n\n致敬苹果的不仅是外观设计，还有对磁铁的运用，接粉罐和底座通过磁吸连接，只要放过去就能自动归位，让出粉口对准罐子，避免撒漏。还有豆仓盖也是嵌入了磁铁，放进豆子，盖子也是自动归位，非常巧妙的设计。\n\n还是因为出色的结构设计，Lagom mini 调节简单，最大的圆柱体其实是由两部分组成，拧动调节间距挤压上下刀盘的距离就能调节磨豆的粗细，从意式到手冲到法压壶都能胜任，不过不推荐意式，为啥放缺点那讲。\n\n作为一台磨豆机，其核心当然是高精度、稳定、均匀的研磨，和所有定量设备一样，只要想做到稳定的高精度，其难度和成本必然是成几何级增长的，这也是比 200 块的磨豆机优秀的地方。Lagom mini 的 48mm 锥刀粒径分布均匀，我大概的用筛网筛了一下，极细粉少多了，最多的中间粉颗粒分布也均匀，能让做出的咖啡风味更稳定，不会一次酸一次苦的。\n冲煮前后的咖啡粉\nLagom mini 的一大特色是 「零残粉」，它的出粉通道设计的很巧妙，在锥刀下有三扇摆动叶片，随着锥刀一同旋转将磨碎掉落下的咖啡粉扫到出粉口掉出，将出粉通道缩减到最小，这样就几乎没有残粉了，根据我的试验，正常情况下进豆和出粉的重量差一般都在 0.1 克内。\n如果你还不满意，可以和我一样购置一个 3D 打印的吹粉豆仓盖，用按压吹一吹，不过由于接粉罐很小，30 克豆子就有溢出的风险了，如果再一吹，就很容易吹的到处都是，如果 Lagom mini 能把接粉罐的直径做大一圈，同时让出粉口内插进去而不是像现在这样出粉口悬浮在接粉罐上沿 2mm 的位置，完全杜绝散落就完美了。\n\n目前看，吹气豆仓在吹残粉有咖啡粉漫天飞舞的隐患，而小拨片和老式的敲打都不够优雅，可能泰摩那扭一扭的机关扳手才是完美形态吧。\n除开以上，Lagom mini 最大的问题是静电消除不够好，大概是全金属机身的天生缺陷吧，每次磨完豆子，豆仓内一定会遗留大量的银皮粉屑混合物，丢失的 0.1 克大概就在这吧。如果用喷水老办法能缓解一部分，不过会带来新问题 —— 豆子粘在豆仓壁上下不去，甚至是直接卡在颈口，就很尴尬，每次磨完都得打开瞅一瞅。\n\n再吹毛求疵点，一是硕大的电源能不能小型化一点，不知道的还以为是老款 MacBook Pro 的电源呢，如果能改成 C 口支持移动电源直驱就更完美了。二是磨豆速度有点慢，磨 20 克豆子能要个小一分钟，如果是磨 Espresso 的细度，那得到地老天荒。\n\n满分的话，我能给 Lagom mini 打上个 86 分，足够跨入优秀磨豆机的行列，只是优秀如鲠在喉的小问题让你用的没那么顺畅，作为初创团队的首款作品还是值得赞扬的，希望二代能保留优点改进不足，让家用磨豆机市场更卷一点。",
+          "link": "https://sspai.com/post/76904",
+          "publishedOn": "2022-11-29T07:12:51.000Z",
+          "wordCount": 531,
+          "title": "颜值性能两开花的 OPTION-O lagom mini 磨豆机",
+          "imageUrl": "https://cdn.sspai.com/2022/11/20/29f9e84c353e9d5a3edd48a0e225ebd1.jpg"
+        },
+        {
           "id": "https://sspai.com/post/77000",
           "author": "MrCoffeeTalker",
           "description": "「就大多数事情而言，最好的学习方式是自己动手去做、去练习。」\n在宣传片制作课的最后一个视频，老师留下了这段让我印象深刻的话，以此为契机，我也写出了自己在宣传片主题的第一篇 教程文章。\n在此之前，因为对宣传片的设计感兴趣，我注册学习了资深宣传片制作人 Derek Lieu 的 宣传片制作课，在过往养成的知识管理习惯的帮助下，课程中的所学也顺利进入了我的知识库，变成了一篇篇的笔记。\n成堆的笔记令人安心，我甚至用一个周末重新梳理了这些笔记，将它们分门别类、放在了目录索引中，但直到某一刻，我突然感觉这样下去是不行的，我想起了 Derek Lieu 在课程结尾说过的话，意识到自己依然停留在「持续学习」的舒适圈中，没有最终的实践，我就还算不上掌握自己所学的东西。\n我在笔记软件 Obsidian 里攒上了一堆宣传片的笔记\n显然，我需要创造实践的机会，但具体应该做些什么？我的脑海中蹦出了两个选择，一个是制作宣传片，另一个是写文章。\n我最终选择了后者，因为我清楚自己学宣传片并不是为了制作、而是为了借此帮更多人做好宣传片，让好的游戏被更多人看到，而且文章是我更熟悉的创作形式，可以更快的启动、预期的产出速度也更快，这意味着我可以更快的获取反馈，从而学得更快。\n但当我真的开始做这件事，我才发现这比想象得要难，有 3 个问题摆在了我的面前：\n\n有太多想写的文章主题，每一个都想写\n在宣传片这一主题下，我此前从未写过原创的教程文章，很担心表达会太硬核、劝退读者\n我并没有实际的宣传片制作经验，很难不怀疑仅靠这种半吊子自学，能写出多少有价值的内容\n\n不过这篇文章能发出来，也说明我最终或多或少解决了这些问题、写完了文章，至于我是怎么做的，这就来说一说。\n选题\n正如开头所说，在动笔之前，我面临的第一个问题是潜在选题太多。\n我日常会在效率软件 Notion 里管理自己的创作选题，每当有想写的文章选题时，我就会临时…",
@@ -545,6 +565,86 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73523",
+          "author": null,
+          "description": "在马斯克（Elon Musk）控制 Twitter 之后，大量用户涌向了它的去中心化替代 Mastodon。仅在两周内，它就增加了 100 万新用户，月活跃用户达到 350 万，总用户达到 870 万。Mastodon 采用联邦式架构，每个人都可以创建自己的服务器或实例，像电子邮件那样互相通信。由志愿者运营的实例数量也在此期间超过了 1.7 万。如此多的实例它们是否安全？安全行业的从业者 Mike Lendvay 对此表达担忧，他指出管理这些服务器的人的技术水平存在巨大差异。配置错误的服务器很容易成为安全隐患。研究人员已经发现了多个存在安全漏洞的 Mastodon 实例。Mastodon 项目缺乏专门的安全团队，甚至软件也没有自动更新或更新可用的功能。管理员必须每隔一段时间去 GitHub 检查是否有新版本发布。好的方面是 Mastodon 收集的用户数据非常少，不保存电话号码，也没有跟踪用户兴趣的算法。服务器主要收集用户的公开和私有信息，注册的电邮地址和哈希密码。对攻击者而言 Mastodon 并不是高价值的目标，何况每个实例的用户数也很少，不像 Twitter 动辄数亿用户。",
+          "link": "https://www.solidot.org/story?sid=73523",
+          "publishedOn": "2022-11-30T15:14:57.000Z",
+          "wordCount": 174,
+          "title": "Mastodon 的安全性如何？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73522",
+          "author": null,
+          "description": "Snapchat 母公司 Snap 要求从明年初开始员工每周回办公室工作四天，成为最新一家削减远程办公政策的科技公司。有继续推行远程办公政策的企业表示他们突然收到了一波来自 Snap 的求职简历。Snap 的一位发言人在一份声明中表示，在远程办公如此长时间之后，很高兴明年采用新的 80/20 混合办公模式让大家重新聚集在一起。新政策将于明年 2 月底生效。Snap CEO Evan Spiegel 此前在一份内部备忘录中表示为了集体的成功员工将不得不牺牲一些个人便利。",
+          "link": "https://www.solidot.org/story?sid=73522",
+          "publishedOn": "2022-11-30T14:36:10.000Z",
+          "wordCount": 161,
+          "title": "Snapchat 要求从明年开始员工每周回办公室工作四天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73521",
+          "author": null,
+          "description": "全球第二大飞机发动机生产商罗尔斯·罗伊斯宣布成功测试了使用氢气燃料的飞机引擎，标志着航空业去碳化可能迈出了关键一步。航空业是一个重要的排放来源，行业的目标是在 2050 年前实现净零排放。罗尔斯·罗伊斯的地面测试使用的是一台修改过的 AE 2100-A 支线飞机引擎。罗罗和合作伙伴试图证明氢气可以安全有效的为民用航空发动机提供动力。他们的未来目标是在飞行测试中测试氢气。",
+          "link": "https://www.solidot.org/story?sid=73521",
+          "publishedOn": "2022-11-30T13:52:59.000Z",
+          "wordCount": 147,
+          "title": "罗尔斯·罗伊斯成功测试氢气为燃料的飞机引擎",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73520",
+          "author": null,
+          "description": "Let’s Encrypt 项目背后的非盈利组织 Internet Security Research Group (ISRG)宣布它在今年签发了逾三十亿证书。Let’s Encrypt 项目旨在让每一个网站都启用 HTTPS 加密，它颁发的免费证书用于加密设备与互联网之间的连接，确保无人能拦截及窃取传输数据。目前全球有数以百万计的网站依赖 Let’s Encrypt 作为安全保障。ISRG 在其 2022 年年度报告中称，截至 2022 年 11 月 1 日，Let’s Encrypt 为逾 3.09 亿个域名提供了 TLS，2022 年增加了逾 3300 万个域名。Let's Encrypt 是在 2017 年 6 月签发了第一亿个证书。三年后的 2020 年 2 月签发了第 10 亿个证书。",
+          "link": "https://www.solidot.org/story?sid=73520",
+          "publishedOn": "2022-11-30T12:43:43.000Z",
+          "wordCount": 194,
+          "title": "Let’s Encrypt 签发了逾三十亿证书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73518",
+          "author": null,
+          "description": "Anker 旗下 Eufy 安全监控探头被发现会在未启用云服务的情况下将用户信息和人脸的缩略图上传到云端服务器。安全顾问 Paul Moore 购买了一个 Eufy Doorbell Dual，发现在未启用云服务时用户信息的缩略图会被上传。他发布了一则视频，演示了拍摄自己脸部视频，相关信息被上传到云端。即使没有注册云服务，从 Eufy  应用中删除视频，缩略图仍然能从网站访问。Eufy 没有上传完整视频，只是上传了缩略图。对于 Moore 的询问，Eufy 回应承认向其 AWS 服务上传了缩略图，表示数据不会向外泄露，因为 URL 是受限的，时间也有限制，而且需要账号登陆。Moore 还发现未加密的 Eufy 探头内容可以在没有身份认证的情况下访问。",
+          "link": "https://www.solidot.org/story?sid=73518",
+          "publishedOn": "2022-11-30T09:58:24.000Z",
+          "wordCount": 169,
+          "title": "Anker 未经用户同意向云端上传信息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73517",
+          "author": null,
+          "description": "Emacs 29 的开发基本完成，不再增加新功能，未来主要集中在修复 bug 上面。Emacs 29 的新特性包括：Eglot 成为核心的一部分不再需要安装；解析器生成器工具 TreeSitter 成为核心的一部分；使用 package.el 可以直接从 Git 安装软件包；以前 Emacs 在 GUI 模式下依赖于 Xorg，随着 Wayland 的日益流行，Emacs 现在能原生支持 Wayland；原生支持  SQLite，HaikuOS 支持，csharp-mode，等等。",
+          "link": "https://www.solidot.org/story?sid=73517",
+          "publishedOn": "2022-11-30T07:32:55.000Z",
+          "wordCount": 176,
+          "title": "Emacs 29 开发基本完成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73516",
+          "author": null,
+          "description": "2022 年 11 月 29 日 23 时 08 分，搭载神舟十五号载人飞船的长征二号F遥十五运载火箭在酒泉卫星发射中心点火发射，约 10 分钟后，神舟十五号载人飞船与火箭成功分离，进入预定轨道。这是我国载人航天工程立项实施以来的第 27 次飞行任务，也是进入空间站阶段后的第 4 次载人飞行任务。11 月 30 日 5 时 42 分飞船成功对接于空间站天和核心舱前向端口，7 时 33 分，神舟十五号航天员乘组进入空间站，天宫空间站有了 6 名航天员，他们将共同生活五天，之后神舟十四号的三名航天员将搭乘飞船返回地面。",
+          "link": "https://www.solidot.org/story?sid=73516",
+          "publishedOn": "2022-11-30T04:48:07.000Z",
+          "wordCount": 171,
+          "title": "神舟十五号发射与空间站对接",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73515",
+          "author": null,
+          "description": "最近申请破产的 FTX 交易平台前  CEO Sam Bankman-Fried（SBF） 接受了加密货币视频博主 Tiffany Fong 的两次电话采访。第一次采访是在 11 月 6 日，11 月 29 日发布。在采访中他被问道了一些尖锐的问题，如 FTX 的系统是否存在后门，允许 SBF 在不惊动其他人的情况下执行命令改变公司财务记录。SBF 对此表示惊讶，称他完全不懂编程，从未打开过 FTX 的任何代码。SBF 广泛参与了政治活动，曾向美国民主党捐款，他表示其实他给民主党和共和党的捐款金额基本相同，只是给共和党的捐款没有摆在明处。对于公司倒闭及围绕他的丑闻，SBF 称他每天醒来都会花几小时反思。",
+          "link": "https://www.solidot.org/story?sid=73515",
+          "publishedOn": "2022-11-30T03:35:32.000Z",
+          "wordCount": 177,
+          "title": "Sam Bankman-Fried 称他完全不懂编程",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73514",
           "author": null,
@@ -3274,126 +3374,6 @@
           "wordCount": 174,
           "title": "是时候重新思考浏览器了",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73232",
-          "author": null,
-          "description": "Mozilla 建议 Firefox 扩展开发者开始从 Manifest V2 迁移到 Manifest V3。Manifest V3 是  Google Chrome 的新扩展系统，Chrome Web Store 将从明年 1 月开始逐步淘汰 Manifest V2 扩展。Mozilla 的 Manifest V3 与 Chrome 的 Manifest V3 有所区别，其中包括：Services Workers 尚未提供，Firefox 使用 Event Pages 作为后台脚本，根据功能两者之间或可替换使用；declarativeNetRequest（DNR）未提供，Firefox 将保留被 DNR 取代的 WebRequest API——这是新扩展系统引发广泛争议的地方，广告屏蔽扩展如 uBlock Origin 使用 WebRequest 在广告下载前屏蔽其请求；storage.session API 尚未提供。",
-          "link": "https://www.solidot.org/story?sid=73232",
-          "publishedOn": "2022-11-01T11:32:19.000Z",
-          "wordCount": 208,
-          "title": "Mozilla 公布它的 Manifest V3 扩展方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73231",
-          "author": null,
-          "description": "索尼在最新季度财报中披露当季 PS5 游戏机销量为 330 万台，总销量突破了 2500 万台。今年的销量与去年差别不大，但收入增长了 12%，原因是索尼前不久上调了 PS5 的价格。但由于收购 Bungie 和游戏开发商成本增加，利润下降了 49%。索尼今年的  PS5 游戏机销量预计和去年相差不大，去年的销量为 1150 万台，今年的销量将很大程度上取决于即将到来的年底假期。索尼此前表示 PS5 供应链的问题已经缓解。",
-          "link": "https://www.solidot.org/story?sid=73231",
-          "publishedOn": "2022-11-01T09:46:57.000Z",
-          "wordCount": 173,
-          "title": "PS5 游戏机销量突破 2500 万台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73230",
-          "author": null,
-          "description": "美国劳工统计局的数据显示，美国工人今年上半年的生产力出现大幅下降，为 1947 年以来的最高下降速度。此前，美国出现了被称为安静辞职(quiet quitting)的现象，工人的工作热情不高，但还想继续领工资——只不过要把精力放在工作之外的事情上。所谓安静辞职就是只做完预期要做的工作，不会去干更多工作。达特茅斯学院的经济学教授 Diego Comin 表示，制造行业的生产力仍然很强劲，但其他部门的生产力都出现了下降。他指出，知识工作者的生产力是很难衡量的。他表示现在的情况很难解释。",
-          "link": "https://www.solidot.org/story?sid=73230",
-          "publishedOn": "2022-11-01T08:54:35.000Z",
-          "wordCount": 149,
-          "title": "美国工人今年上半年的生产力大幅下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73229",
-          "author": null,
-          "description": "科学界一直在争论火星低海拔的北半球是否曾经存在海洋，最新研究给出了肯定答案。在最新研究中，研究人员通过美国地质调查局开发的软件，利用由美国国家航空航天局和火星轨道器激光高度计提供的数据，绘制了新的地形图，发现了超过 6500 公里长的河流脊。分析表明，这些河流脊很可能是受到侵蚀的河流三角洲或海底通道带，这是火星古代海岸线的遗迹。研究人员解释说，长期以来，科学界一直在争论火星低海拔的北半球是否存在海洋。利用地形数据，他们画出了一条已经 35 亿岁的海岸线，该海岸线有大量沉积物，至少 900 米厚，覆盖数十万平方公里。",
-          "link": "https://www.solidot.org/story?sid=73229",
-          "publishedOn": "2022-11-01T08:09:13.000Z",
-          "wordCount": 150,
-          "title": "火星上存在古代海洋的新证据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73228",
-          "author": null,
-          "description": "Mozilla 释出了  Firefox 106.0.3，修复了与最新版本 Windows 11 22H2 的兼容性问题。Windows 11 22H2 默认启用的剪切板功能 Suggested Actions 在拷贝文本时会导致浏览器挂起停止响应一段时间，时间长短似乎与加载的扩展数量有关，从几十秒到几分钟不等。Firefox 106.0.3 修复了导致该问题的 bug，它还同时修复了一个启动崩溃问题。",
-          "link": "https://www.solidot.org/story?sid=73228",
-          "publishedOn": "2022-11-01T07:59:02.000Z",
-          "wordCount": 180,
-          "title": "Firefox 释出更新修复与 Windows 11 22H2 的兼容性问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73227",
-          "author": null,
-          "description": "天宫空间站最后一个模块舱梦天实验舱完成了与空间站的对接。该实验舱长 17.88 米，重 23 吨，于 10 月 31 日 15 时 37 分在海南文昌航天发射场升空，约 8 分钟后，梦天实验舱与火箭成功分离并准确进入预定轨道。11 月 1 日 4 时 27 分，成功对接于天和核心舱前向端口，整个交会对接过程历时约 13 小时。梦天是空间站第三个舱段，也是第二个科学实验舱，由工作舱、载荷舱、货物气闸舱和资源舱组成，主要用于开展空间科学与应用实验，参与空间站组合体管理，货物气闸舱可支持货物自动进出舱，为舱内外科学实验提供支持。",
-          "link": "https://www.solidot.org/story?sid=73227",
-          "publishedOn": "2022-11-01T07:34:56.000Z",
-          "wordCount": 167,
-          "title": "梦天舱与天宫完成对接",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73226",
-          "author": null,
-          "description": "马斯克(Elon Musk)此前曾告诉投资人，在完成收购 Twitter 的交易之后将裁掉多达四分之三的员工。后来他公开表示这个数字不真实。但根据多方消息，可能会有多达五成的 Twitter 员工被裁。马斯克已经解散了 Twitter 董事会，成为公司唯一董事。他准备大刀阔斧的改造 Twitter，其中一项计划是将 Twitter Blue 订阅服务的费用从每月 $4.99 上涨到 $19.99，并要求账号认证过的用户订阅该服务否则将会失去认证标记。很多认证用户已经公开表示拒绝这一提议。这可能更有利于骗子，因为骗子更有意愿和动机付钱，结果可能是你不再是你，而骗子成为了你。",
-          "link": "https://www.solidot.org/story?sid=73226",
-          "publishedOn": "2022-11-01T06:43:49.000Z",
-          "wordCount": 165,
-          "title": "五成的 Twitter 员工可能被裁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73225",
-          "author": null,
-          "description": "《星期日邮报》报道称，英国前首相 Liz Truss 在担任外交部长期间其手机遭黑客入侵，而黑客被认为是俄罗斯特工，窃取了长达一年的信息，其中包括与乌克兰战争有关的敏感情报。英国保守党在夏天举行的领导人选举期间发现了黑客入侵的痕迹，但这一发现被当时的首相 Boris Johnson 和内阁大臣 Simon Case 压制了。英国政府发言人拒绝置评。英国政客则呼吁对此展开调查。反对党工党的影子内阁大臣 Yvette Cooper 呼吁展开紧急调查。根据几年前公开的照片，Truss 使用过三星 Galaxy Note8 手机，但不清楚在黑客入侵期间使用了哪种手机。",
-          "link": "https://www.solidot.org/story?sid=73225",
-          "publishedOn": "2022-11-01T03:37:40.000Z",
-          "wordCount": 171,
-          "title": "英国前首相 Liz Truss 的手机据报道遭黑客入侵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73224",
-          "author": null,
-          "description": "部分可能是为了说服英国监管机构批准收购动视暴雪的交易，微软 Xbox 业务负责人 Phil Spencer 承诺，只要索尼的 PlayStation 平台还存在动视的《使命召唤》系列都会支持它。英国反垄断监管机构对微软以 687 亿美元收购动视暴雪的交易的调查进入了第二阶段，调查的一个焦点是索尼对动视游戏《使命召唤》系列的异议，索尼认为微软会让《使命召唤》退出 PS 平台，现有协议再延长三年还不够充分。Spencer 在接受采访时表示，微软对《使命召唤》的计划类似于《我的世界（Minecraft）》，玩家可以在任何地方玩《使命召唤》和《我的世界》。",
-          "link": "https://www.solidot.org/story?sid=73224",
-          "publishedOn": "2022-11-01T02:48:23.000Z",
-          "wordCount": 164,
-          "title": "微软承诺《使命召唤》永久支持索尼 PS 平台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73223",
-          "author": null,
-          "description": "印度央行周一宣布将从 11 月 1 日起在批发市场试点数字卢比。央行声称使用数字卢比进行结算将能减少交易成本。有九家印度银行参与试点，其中包括印度国家银行。印度央行还表示，它计划在一个月内在选定地点的零售部门试点数字卢比。它仍然坚决反对加密货币。",
-          "link": "https://www.solidot.org/story?sid=73223",
-          "publishedOn": "2022-10-31T15:34:01.000Z",
-          "wordCount": 147,
-          "title": "印度央行试点数字卢比",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73222",
-          "author": null,
-          "description": "Elisabeth Bik 博士是一位微生物学家，曾在斯坦福大学和荷兰国家卫生研究所工作，她的一大强项是有着高于平均水平的重复模式识别能力。2014 年她发现同一幅照片被用于两篇不同的论文，用于代表三个完全不同的实验结果。她对此类的造假非常生气，因为科学家必须依赖和基于另一名科学家的工作，而造假是对科学所应有的一切的背叛，会让其他研究人员将时间和金钱浪费在错误的结果之上。她不认为这是孤例，因此开始将空闲时间全部投入在识别可疑图像上。2016 年她报告在分析了 20621 篇同行评审论文后，发现每 25 篇论文中至少有一篇存在图像问题。2019 年她辞去了全职工作，专心于打假。自 2014 年以来，在分析了逾 10 万篇论文之后，她发现 4800 篇存在明显的图像重复，1700 篇存在其他问题。她向期刊编辑报告了其中 2500 篇，在发现期刊通常不会做出回应之后将结果公布在 PubPeer 网站上。学术出版行业对论文问题反应迟钝，至今她的工作只导致 956 次修订和 923 次撤稿，报告的大部分论文尚未得到处理。她认为科学需要认真对待造假问题，AI 可用于识别重复数据，也能用于生成假数据。",
-          "link": "https://www.solidot.org/story?sid=73222",
-          "publishedOn": "2022-10-31T15:13:11.000Z",
-          "wordCount": 169,
-          "title": "科学领域的图像造假问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73221",
-          "author": null,
-          "description": "维基媒体基金会的资金拨款问题本月初再次引发了争议。基金会的资金主要来自于捐款。最新的争议与知识平权基金有关，它于 2020 年设立，规模为 450 万美元，旨在为外部组织提供赠款，以解决阻碍获取和参与自由知识的种族不平等问题，支持知识平权。当年这笔赠款就转移给了 Tides Advocacy，直到 2020 年 12 月的审计报告中披露出来之后维基社区才获悉此事。2021 年逾百万美元赠予了美国、西非、巴西和约旦的 6 位受让人，其余数百万美元仍然留在 Tides Advocacy 至今没有赠出。基金会的办公室主任 Nadee Gunasena 回应社区成员询问时表示，这是一个试点项目，没有指派专门的工作人员，因此进展比较缓慢。此事的讨论促使一名每月捐赠的成员宣布撤回捐款。而维基基金会对此的回应又一次产生了争议，基金会称它在全世界逾 90 个国家分发赠款。根据最新的 990 纳税申报表，维基基金会逾 95% 的支出是投入在北美和欧洲，其它非洲、拉美以及亚洲大部分地区仅仅只有 1.2%。社区是让维基百科壮大的核心，而基金会的赠款很少提供给社区。",
-          "link": "https://www.solidot.org/story?sid=73221",
-          "publishedOn": "2022-10-31T14:25:15.000Z",
-          "wordCount": 171,
-          "title": "维基人质疑基金会的拨款",
-          "imageUrl": null
         }
       ]
     },
@@ -3402,6 +3382,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/732603/",
+          "author": null,
+          "description": "国美在错误的时间，选择了错误的平台，和错误的人。 撰文 薛亚萍 编辑 赵晋杰 来源：盒饭财经 国美宣布升级直播计划三天后，李国庆在社交平台上回应对张兰直播看法时Q了黄光裕，“张兰姐是我尊重的企业家，我们都经历了从高峰到低谷，仍能在废墟中跳舞，希望下一个逆风飞扬的人是国美的黄光裕”。 近日，国美电器宣\n本文链接",
+          "link": "https://news.cnblogs.com/n/732603/",
+          "publishedOn": "2022-11-30T16:33:00.000Z",
+          "wordCount": 161,
+          "title": "国美直播三宗错",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732602/",
+          "author": null,
+          "description": "文道总 来源：道总有理 2019 年 4 月，北京长安商场宣布闭店改造，八个月后，重新开张的商场，已经向“社区生活中心”转型，从前的百货柜台，如今被一张张餐桌占据。 以餐饮带动商场人气，是近几年来商场运营的一个趋势，这也促使餐饮业务在商场中的比重逐步提高。数据显示，杭州银泰城，餐饮配套比例高达 58\n本文链接",
+          "link": "https://news.cnblogs.com/n/732602/",
+          "publishedOn": "2022-11-30T16:20:00.000Z",
+          "wordCount": 161,
+          "title": "商场里的连锁餐饮，正掀起一场“逃离”风暴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732601/",
+          "author": null,
+          "description": "（图片来自 UNsplash） 原标题：天下苦“苹果税”久矣 文 Hernanderz 来源：价值研究所 11 月 29 日，马斯克的“戏瘾”又发作了，连续发布多条推特怒喷苹果。 先是爆料苹果基本停止在推特投放广告，并主动@苹果 CEO 库克索要解释，后又抨击苹果威胁言论自由并恐吓要下架推特，随后更\n本文链接",
+          "link": "https://news.cnblogs.com/n/732601/",
+          "publishedOn": "2022-11-30T16:11:00.000Z",
+          "wordCount": 161,
+          "title": "天下苦“苹果税”久矣，马斯克加入战局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732600/",
+          "author": null,
+          "description": "题图 IC Photo 撰文张宇 编辑 杨博丞 来源：DoNews 11 月 16 日晚，UGC 音频社区荔枝发布了 2022 年第三季度财报。 整体来看，荔枝的营收为 5.65 亿元，同比增长 12%；净利润为 1980 万元，较 2021 年同期的-3710 万元扭亏为盈，基于非美国通用会计准则\n本文链接",
+          "link": "https://news.cnblogs.com/n/732600/",
+          "publishedOn": "2022-11-30T16:02:00.000Z",
+          "wordCount": 161,
+          "title": "荔枝尚能战否？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732599/",
+          "author": null,
+          "description": "摘要 一手「订阅」、一手「买断」，两条腿走路。 如果给今年中国汽车行业发展总结两个关键词，一个估计是「内卷」，另一个则是「出海」。 根据中汽协数据，2021 年中国汽车出口突破 200 万辆大关，刷新了汽车出口纪录。2022 年，近上半年汽车出口已经超过 130 万辆。截至 8 月，中国汽车出口数量\n本文链接",
+          "link": "https://news.cnblogs.com/n/732599/",
+          "publishedOn": "2022-11-30T14:01:00.000Z",
+          "wordCount": 161,
+          "title": "BBA 的故乡，中国汽车如何拿下欧洲父老乡亲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732598/",
+          "author": null,
+          "description": "波士顿科学公司宣布已达成最终协议，将以每股 10 美元的现金价格，收购 Apollo Endosurgery 公司，该价格反映出约 6.15 亿美元的企业价值。 Apollo Endosurgery 公司的产品组合包括内镜腔内手术（ELS）的各种医疗器械，可用于闭合胃肠道缺陷、管理胃肠道并发症及帮助\n本文链接",
+          "link": "https://news.cnblogs.com/n/732598/",
+          "publishedOn": "2022-11-30T09:20:00.000Z",
+          "wordCount": 161,
+          "title": "波士顿科学宣布收购内镜腔内手术医疗器械公司 Apollo Endosurgery",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732597/",
+          "author": null,
+          "description": "意大利阿尔卑斯山南麓，自然风物如鬼斧神工，倒映在 360 度环绕的巨大镜面玻璃上——壮阔的多洛米蒂群山，远方上千亩苹果树农场，云卷云舒，无边无际。 知名设计工作室 Peter Pichler 建造了这座恍若隐形的镜子屋，房东 Sabina 已经居住于此三十多年，她在爱彼迎（Airbnb）上向更多人分\n本文链接",
+          "link": "https://news.cnblogs.com/n/732597/",
+          "publishedOn": "2022-11-30T09:13:00.000Z",
+          "wordCount": 161,
+          "title": "Airbnb大改版，400万新奇房屋来了，这才叫旅行！｜专访爱彼迎中国设计团队负责人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732596/",
+          "author": null,
+          "description": "11 月 30 日消息，京东方A发布公告称，董事会，同意公司通过下属子公司京东方智慧零售（香港）有限公司（以下简称“SPV”）以不低于 70 欧元/股价格，出售不超过 150 万股所持有 SES imagotag S.A.（以下简称“SES”）股份，总对价不超过 1.8 亿欧元。 公告显示，本次交易\n本文链接",
+          "link": "https://news.cnblogs.com/n/732596/",
+          "publishedOn": "2022-11-30T09:00:00.000Z",
+          "wordCount": 161,
+          "title": "京东方A：出售不超过150万股所持有SES股份 总对价不超1.8亿欧元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732595/",
+          "author": null,
+          "description": "文/冯羽 来源：创业最前线（ID:chuangyezuiqianxian) 闲鱼再无新故事。 当年，谌伟业在阿里茶水间头脑风暴，淘宝二手更名为闲鱼，将闲置经济、社区文化和互动社交织成一个美梦。 如今快十年过去，这个曾经被养了 5 年的“富二代创业”项目，正在从阿里的“亲儿子”变成“干儿子”。 个人闲\n本文链接",
+          "link": "https://news.cnblogs.com/n/732595/",
+          "publishedOn": "2022-11-30T08:50:00.000Z",
+          "wordCount": 161,
+          "title": "闲鱼卖二手，破财难消灾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732594/",
+          "author": null,
+          "description": "11 月 29 日消息，ESET 恶意软件研究员 Martin Smolar 报告，宏碁某些笔记本电脑设备的驱动程序存在高危漏洞，可停用 UEFI 安全启动功能，导致攻击者在启动过程中部署恶意软件。 受影响的宏碁笔记本电脑型号共计有五款，包括宏碁 Aspire A315-22、A115-21、A31\n本文链接",
+          "link": "https://news.cnblogs.com/n/732594/",
+          "publishedOn": "2022-11-30T08:42:00.000Z",
+          "wordCount": 161,
+          "title": "宏碁五款电脑驱动程序存在漏洞，可导致恶意软件入侵",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732593/",
+          "author": null,
+          "description": "11 月 30 日消息，据懂车帝报道，极氪汽车将于 2023 年 1 月 1 日起取消极氪 001 全系车型终身质保权益，但在 2022 年内下定的用户依旧可以享受终身质保。 根据极氪官网的信息，极氪车主自购车之日起，便可享受终身质保、终身道路救援以及终身数据流量的权益。根据目前的报道称，从明年起终\n本文链接",
+          "link": "https://news.cnblogs.com/n/732593/",
+          "publishedOn": "2022-11-30T08:37:00.000Z",
+          "wordCount": 161,
+          "title": "车主权益缩水 消息称极氪001将从2023年起取消终身质保",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732592/",
+          "author": null,
+          "description": "Firefox Translations 是一个 Mozilla 开发的浏览器扩展程序，可为浏览器启用网页翻译功能，目前仅支持 Firefox 浏览器。与谷歌等浏览器的翻译服务不同，Firefox Translations 无需联网，在本地客户端上即可自动翻译网页内容。 目前 Firefox Tra\n本文链接",
+          "link": "https://news.cnblogs.com/n/732592/",
+          "publishedOn": "2022-11-30T08:30:00.000Z",
+          "wordCount": 161,
+          "title": "Firefox Translations 1.2 发布，Firefox本地翻译扩展程序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732591/",
+          "author": null,
+          "description": "GameLook 报道/又一部 Supercell 相关作品惨遭停运！前日，《海岛奇兵:前线》官方账号在 Reddit 论坛发文宣布了将停止该作品后续开发的消息，并在昨日暂停了游戏内购功能。游戏将于 29 日从 App Store 和 Google Play 下架，游戏服务器则将在 2023 年 1\n本文链接",
+          "link": "https://news.cnblogs.com/n/732591/",
+          "publishedOn": "2022-11-30T08:22:00.000Z",
+          "wordCount": 161,
+          "title": "Supercell IP改编游戏《海岛奇兵：前线》被砍！开发商：长留未达预期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732590/",
+          "author": null,
+          "description": "数据库是 Serverless 化难度极高的应用。阿里云数据库已全面向 Serverless 演进，进一步实现了完全自动化的扩容，为用户带来更经济的计费模式和更无感的扩容体验，让业务根据请求的繁忙程度实现平滑的全自动响应，无需人工介入......近日，InfoQ 采访到了阿里云数据库团队，深入了解阿\n本文链接",
+          "link": "https://news.cnblogs.com/n/732590/",
+          "publishedOn": "2022-11-30T08:11:00.000Z",
+          "wordCount": 161,
+          "title": "阿里云已将Serverless数据库大规模落地，这是否代表着数据库的新风向？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732589/",
+          "author": null,
+          "description": "11 月 30 日消息，QQ 游戏官微发布消息称，北京时间 11 月 29 日，QQ 游戏大厅正式上架微软应用商店，并获得首页推荐。 QQ 游戏是腾讯自主研发的游戏平台产品，2003 年面市。伴随着 Windows 11 发布，2021 年 10 月微软应用商店全新改版发布，QQ 游戏上架全球最新的\n本文链接",
+          "link": "https://news.cnblogs.com/n/732589/",
+          "publishedOn": "2022-11-30T08:02:00.000Z",
+          "wordCount": 161,
+          "title": "QQ游戏大厅正式上架微软应用商店",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732588/",
+          "author": null,
+          "description": "整理/刘燕，核子可乐 来源：AI 前线（ID:ai-front) 马斯克不怕得罪推特最大的广告主—苹果。 就在马斯克接手 Twitter、准备推动业务改造的同时，苹果公司据称放出狠话，打算在自家平台上下架 Twitter。 马斯克表示，苹果一直在对 AppStore 上各软件产品的应用内购抽取 30\n本文链接",
+          "link": "https://news.cnblogs.com/n/732588/",
+          "publishedOn": "2022-11-30T07:55:00.000Z",
+          "wordCount": 161,
+          "title": "大砍广告投放，还威胁要下架Twitter，马斯克怒向苹果开炮：宁可开战也不付30%“过路费”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732587/",
+          "author": null,
+          "description": "文/周雄飞 来源：连线出行（ID:lianxianchuxing) 编者按： 2022 年，出行领域发生了太多变化。 新能源汽车赛道，“蔚小理”此前的优势在减弱，新的玩家涌现，市场百花齐放；自动驾驶领域，在多年追逐 L4 自动驾驶未果后，有玩家倒下、也有玩家改变战略；网约车领域，水面之下暗流涌动。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/732587/",
+          "publishedOn": "2022-11-30T07:44:00.000Z",
+          "wordCount": 161,
+          "title": "雅迪带头、小牛九号押注，两轮电动车高端化的追逐和迷局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732586/",
+          "author": null,
+          "description": "文/归去来 来源/价值星球 Planet（ID:ValuePlanet） 云服务市场的尖子生阿里云，正迎来一场大考。 诞生于 2009 年的阿里云，由于具有市场先发优势，目前在云服务市场中已处在领先地位。据 IDC 发布的《中国公有云服务市场（2022 上半年）跟踪》报告显示，阿里云在 IaaS 领\n本文链接",
+          "link": "https://news.cnblogs.com/n/732586/",
+          "publishedOn": "2022-11-30T07:33:00.000Z",
+          "wordCount": 161,
+          "title": "拆解阿里云：看懂云企业的尴尬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732585/",
+          "author": null,
+          "description": "文/沙拉酱 来源：霞光社（ID:Globalinsights) 最近，星巴克闹了一出不小的乌龙。 11 月 23 日，很多网友反映星巴克活动中 0.01 元两杯馥芮白的优惠券无法兑换。事情迅速被顶上微博热搜后，星巴克出面回应称：“今天上午我们错误激活了一条内部测试链接，当前，我们已经完成了系统设置的\n本文链接",
+          "link": "https://news.cnblogs.com/n/732585/",
+          "publishedOn": "2022-11-30T07:22:00.000Z",
+          "wordCount": 161,
+          "title": "我，星巴克店员，偷偷买Manner咖啡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/732584/",
+          "author": null,
+          "description": "11 月 30 日消息，据财联援引外媒今日报道，法拉第未来产品执行负责人 Robert Kruse 已经辞职，这是这家陷入困境的电动汽车制造商两天来第二位离职的高管。 11 月 29 日，法拉第未来宣布公司董事会已解除了毕福康（Carsten Breitfeld）全球 CEO 的职务，任命 FF 中\n本文链接",
+          "link": "https://news.cnblogs.com/n/732584/",
+          "publishedOn": "2022-11-30T07:10:00.000Z",
+          "wordCount": 161,
+          "title": "贾跃亭就FF管理层调整一事表态 FF 91距交付仅剩一步之遥",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/732529/",
           "author": null,
@@ -8660,296 +8840,6 @@
           "publishedOn": "2022-11-01T15:10:00.000Z",
           "wordCount": 161,
           "title": "L4出身如何做好辅助驾驶系统，轻舟智航：好用，能用，爱用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730875/",
-          "author": null,
-          "description": "新智元报道 编辑：昕朋 近日，特斯拉前人工智能总监 Andrej Karpathy 参加播客大佬 Lex Fridman 的节目，不仅解释了特斯拉为什么取消超声波雷达，还提到了自己离职的原因。 特斯拉前人工智能总监，新晋 AI 网红老师 Andrej Karpathy 近日参加了 MIT 人工智能专\n本文链接",
-          "link": "https://news.cnblogs.com/n/730875/",
-          "publishedOn": "2022-11-01T13:00:00.000Z",
-          "wordCount": 161,
-          "title": "干掉雷达！特斯拉前AI总监Karpathy解密离职和纯视觉方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730874/",
-          "author": null,
-          "description": "（图片来自海尔官方微博） 文 Hernanderz 来源：价值研究所 上半年还为增收不增利烦恼的海尔智家，三季度打了个翻身仗，利润增速远超营收增速，且超过老对头美的一大截。 白电三巨头中，美的产品线最丰富，营收、市值都是最高的，一直稳坐霸主宝座。格力聚焦空调品类的策略也带来了较高的净利率，唯独营收增\n本文链接",
-          "link": "https://news.cnblogs.com/n/730874/",
-          "publishedOn": "2022-11-01T12:45:00.000Z",
-          "wordCount": 161,
-          "title": "家电三巨头鏖战全屋智能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730873/",
-          "author": null,
-          "description": "今年“双 11”期间，除了各大主流电商平台贴身肉搏，在直播带货方面始终声量不高的B站也参与进来分蛋糕。不过，从目前的情况来看，B站的 UP 主们带货热情不高，用户对于B站的“双 11”氛围感知也不大。对B站来说，直播带货还有机会吗？ 作者 陈法善 编辑 刘杨 来源：豹变 主播跨界、大厂“拆墙”是今年\n本文链接",
-          "link": "https://news.cnblogs.com/n/730873/",
-          "publishedOn": "2022-11-01T12:30:00.000Z",
-          "wordCount": 161,
-          "title": "B站离抖音还差个“罗永浩”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730872/",
-          "author": null,
-          "description": "作为全球平衡车龙头，九号公司 2020 年登陆科创板后，市值一度猛涨至 800 亿。但平衡车始终未能摆脱“高价玩具”的宿命，市场过于小众。为此，九号公司不得不寻求通过市场更为大众的电动车来开启第二增长曲线，而这并不容易。 作者 董温淑 编辑 韩忠强 来源：市界 有这样一个产品，它由李嘉诚“唯一的偶像\n本文链接",
-          "link": "https://news.cnblogs.com/n/730872/",
-          "publishedOn": "2022-11-01T12:18:00.000Z",
-          "wordCount": 161,
-          "title": "雅迪爱玛的新对手，比小牛还着急",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730871/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 谷歌基于「自然语言评估」任务还开发了一个网站 Interview Warmup，免费当你的「面试陪练员」！ 「刷题」可以说是贯穿人生的始终了，有些题目可以独自解决，比如考试题；但诸如面试类需要互动的题目时，一个人就很难刷动了。 这种互动不同于一般的问答，通常需要「陪练方」在\n本文链接",
-          "link": "https://news.cnblogs.com/n/730871/",
-          "publishedOn": "2022-11-01T12:11:00.000Z",
-          "wordCount": 161,
-          "title": "Google探索全新NLU任务「自然语言评估」，正式面试前让AI帮你热个身！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730870/",
-          "author": null,
-          "description": "Alex Pine 韩智发自凹非寺 量子位公众号 QbitAI 颜宁再次全职回国，这一次坐标深圳。 就在今天，颜宁亮相深圳，亲自官宣： 将辞去普林斯顿的教职，回到深圳协助创建深圳医学科学院，出任创始院长。 消息一出，迅速引发各界关注，登顶微博热搜。 不少教授学者都第一时间转发消息： 还有广东网友恍然\n本文链接",
-          "link": "https://news.cnblogs.com/n/730870/",
-          "publishedOn": "2022-11-01T12:00:00.000Z",
-          "wordCount": 161,
-          "title": "颜宁宣布离美归国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730869/",
-          "author": null,
-          "description": "PS 里的一些颜色要付费了！ 据 Vice 消息，从 11 月开始，潘通（Pantone）将在 Adobe 产品中为用户设置 1.5 万种颜色的付费墙。 潘通是一家专门开发和研究色彩的机构，也是色彩系统的供应商，每年发布的年度流行色都能引起热议。 对于这次事件，设计师伊恩·安德森（Iain Ande\n本文链接",
-          "link": "https://news.cnblogs.com/n/730869/",
-          "publishedOn": "2022-11-01T09:25:00.000Z",
-          "wordCount": 161,
-          "title": "PS要对1.5万种颜色收费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730868/",
-          "author": null,
-          "description": "文/王慧莹 编辑/周晓奇 来源：连线 Insight 泡泡玛特，寒冰难解。 近期，泡泡玛特披露 2022 年第三季度未经审核业绩状况。数据显示，本季度较 2021 年第三季度同比下滑 5%-10%，其中中国大陆地区收益同比下 10%-15%。 图源泡泡玛特公告 拉长时间线来看，泡泡玛特在国内市场的日\n本文链接",
-          "link": "https://news.cnblogs.com/n/730868/",
-          "publishedOn": "2022-11-01T09:10:00.000Z",
-          "wordCount": 161,
-          "title": "泡泡玛特回不了暖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730867/",
-          "author": null,
-          "description": "本文最初发布于 Airbyte 官方博客。 当前，数据工程是一个令人兴奋的主题，这是有原因的。自出现以来，数据工程领域的发展脚步就从未放缓。新技术和新概念最近出现得特别快。2022 年年底就快到了，现在是时候回过头来评估下数据工程当前的状态了。 如今的数据工程角色未来会是什么样子？还会存在吗？在这篇\n本文链接",
-          "link": "https://news.cnblogs.com/n/730867/",
-          "publishedOn": "2022-11-01T08:45:00.000Z",
-          "wordCount": 161,
-          "title": "数据工程师的演变：过去、现在和未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730815/",
-          "author": null,
-          "description": "近日，特斯拉起诉蔡甲侵犯其名誉权并索赔 500 万元一案，法院判决结果出炉：蔡甲向特斯拉公开道歉，并赔偿特斯拉 10 万元。 据悉，今年 5 月 30 日，特斯拉（上海）有限公司与蔡甲相关名誉权纠纷新增开庭公告，原告为特斯拉（上海）有限公司，相关案件于 6 月 1 日在浙江省宁波市中级人民法院开庭。\n本文链接",
-          "link": "https://news.cnblogs.com/n/730815/",
-          "publishedOn": "2022-11-01T01:22:00.000Z",
-          "wordCount": 161,
-          "title": "特斯拉起诉“蔡老板”胜诉：公开道歉 赔偿10万元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730814/",
-          "author": null,
-          "description": "抖音电商 2024 年冲刺 3 万亿元 GMV。 文丨时娴 编辑丨高洪浩 抖音电商部门正式成立两年多，平台商品交易额突破了万亿元。达到同样的数字，拼多多花了 4 年。 抖音电商的成功借助国内成熟的物流、支付体系，依赖算法和明星主播推荐爆品。但可能更重要的是，抖音 7 亿的日活跃用户。直播电商接下来的\n本文链接",
-          "link": "https://news.cnblogs.com/n/730814/",
-          "publishedOn": "2022-11-01T01:17:00.000Z",
-          "wordCount": 161,
-          "title": "直播电商的天花板快到了，抖音找了条新出路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730813/",
-          "author": null,
-          "description": "记者肖芳 近日，长短视频版权之争有了新进展。 10 月 26 日，西安市中级人民法院就《云南虫谷》案作出一审判决。法院认为，抖音平台上有大量用户对涉案作品实施了侵权行为，虽然抖音采取措施减少了侵权作品的数量，但侵权行为仍未得到有效遏制。抖音因此属于帮助侵权，应立即采取有效措施删除、过滤、拦截相关视频\n本文链接",
-          "link": "https://news.cnblogs.com/n/730813/",
-          "publishedOn": "2022-11-01T01:10:00.000Z",
-          "wordCount": 161,
-          "title": "因用户发布《云南虫谷》剪辑片段，抖音被判赔偿腾讯超3200万元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730812/",
-          "author": null,
-          "description": "《逐梦星空》是网易科技记录航天逐梦人和航天里程碑事件的新栏目，“逐梦星空，向上探索”，让我们向着星辰大海不断挺进。 文御柳 出品网易科技《逐梦星空》栏目组 2022 年 10 月 31 日，梦天实验舱发射升空。入轨之后，梦天实验舱将与核心舱完成对接、转位，我国空间站将从“两舱”变成“三舱”，形成“T\n本文链接",
-          "link": "https://news.cnblogs.com/n/730812/",
-          "publishedOn": "2022-11-01T01:03:00.000Z",
-          "wordCount": 161,
-          "title": "梦天实验舱升空 国家太空实验室即将建造完成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730811/",
-          "author": null,
-          "description": "随着新能源汽车保有量越来越高，国内汽车市场格局也发生了巨大的改变。各家新能源车企都在谋取上市的机会，以求在汽车市场中获得更大的突破。近日，吉利汽车在向港交所提交一份议案中表示，建议分拆极氪让其独立上市，引起了很多人的关注。 针对这一消息，目前极氪已经向媒体回应，会先以业务为主，确保完成今年 7 万的\n本文链接",
-          "link": "https://news.cnblogs.com/n/730811/",
-          "publishedOn": "2022-11-01T00:58:00.000Z",
-          "wordCount": 161,
-          "title": "“自立门户”？极氪回应将独立上市：目前以业务为先",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730810/",
-          "author": null,
-          "description": "记者张勇毅 编辑高宇雷 无论外界对富士康有多少「血汗工厂」的质疑，苹果与富士康都仍然离不开郑州，尤其是在当前 iPhone 14 供应链已经紧绷的当下。 从 10 月 28 日开始，抖音上便开始出现各种郑州富士康员工沿高速公路、国道路边徒步离开厂区的短视频，随着相关的视频越来越多，微信朋友圈、微博中\n本文链接",
-          "link": "https://news.cnblogs.com/n/730810/",
-          "publishedOn": "2022-11-01T00:52:00.000Z",
-          "wordCount": 161,
-          "title": "iPhone 和苹果，都离不开郑州富士",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730809/",
-          "author": null,
-          "description": "尽管全力挺进的元宇宙领域还面临巨亏，宏观经济打击公司主要收入源数字广告业务，Meta 仍要大力投资构建元宇宙。这种一意孤行令 Meta 的一些大股东对 CEO 扎克伯格为首的管理层感到愤怒。 上周三盘后，Meta 公布的三季度收入连续两季下降，EPS 盈利超预期大幅下降近 50%，当季元宇宙核心项目\n本文链接",
-          "link": "https://news.cnblogs.com/n/730809/",
-          "publishedOn": "2022-11-01T00:46:00.000Z",
-          "wordCount": 161,
-          "title": "元宇宙巨亏 扎克伯克仍一意孤行大力支出 彻底点燃了股东怒火",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730808/",
-          "author": null,
-          "description": "11 月 1 日消息，据外媒报道，火箭制造商萤火虫航天（Firefly Aerospace）公司计划进行新一轮融资，拟筹集不超过 3 亿美元的资金。 今年 10 月初，萤火虫航天的阿尔法火箭成功进入太空，加入 SpaceX 和火箭实验室等公司的行列。 消息人士称，萤火虫航天计划在今年年底前完成融资，\n本文链接",
-          "link": "https://news.cnblogs.com/n/730808/",
-          "publishedOn": "2022-11-01T00:40:00.000Z",
-          "wordCount": 161,
-          "title": "消息称萤火虫航天计划融资3亿美元 此前估值超10亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730807/",
-          "author": null,
-          "description": "本文来自微信公众号：Tech 对角线（ID：gh_a2aad43a8244），作者：金河溪，编辑：霏霏， 属于房地产的辉煌时代过去后，新能源汽车开始接力。 据不完全统计，中国新能源汽车独立品牌最高峰时超过 200 个，庞大的产业链条以及利益背后，各方势力竞相角逐，都想从中分一杯羹。 各地政府在其中扮\n本文链接",
-          "link": "https://news.cnblogs.com/n/730807/",
-          "publishedOn": "2022-11-01T00:35:00.000Z",
-          "wordCount": 161,
-          "title": "新能源造车地图：除了上海合肥，还可以看哪？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730806/",
-          "author": null,
-          "description": "美国时间周一，美股收盘主要股指全线下跌，但道指创有记录以来最佳的 10 月表现。投资者期待美联储本周就基准利率做出决定。 道琼斯指数收于 32732.95 点，下跌 128.85 点，跌幅 0.39%；标准普尔 500 指数收于 3871.98 点，跌幅 0.75%；纳斯达克指数收于 10988.1\n本文链接",
-          "link": "https://news.cnblogs.com/n/730806/",
-          "publishedOn": "2022-11-01T00:28:00.000Z",
-          "wordCount": 161,
-          "title": "美股周一：三大股指全线下跌，热门中概股多数下跌，拼多多逆势涨超5%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730805/",
-          "author": null,
-          "description": "11 月 1 日消息，据外媒援引知情人士消息，由于微软尚未向欧盟反垄断监管机构提出任何补救措施，以帮助审查其斥资 690 亿美元收购游戏开发商动视暴雪的交易，欧盟准备启动全面调查。 按计划，微软必须在 10 月 31 日午夜之前提交承诺，以平息欧盟反垄断监管部门的担忧。同时，欧盟委员会将在 11 月\n本文链接",
-          "link": "https://news.cnblogs.com/n/730805/",
-          "publishedOn": "2022-11-01T00:22:00.000Z",
-          "wordCount": 161,
-          "title": "不愿让步 传欧盟将对微软收购动视暴雪交易展开全面调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730804/",
-          "author": null,
-          "description": "当地时间 10 月 31 日，美国特斯拉公司首席执行官埃隆·马斯克表示，他将成为自己刚刚收购的社交媒体公司推特的首席执行官。（央视记者顾乡刘旭） 延伸阅读： 马斯克成推特唯一董事，将担任 CEO，推特将全额偿还所有未偿债务 10 月 31 日周一，推特称马斯克成为该公司唯一董事。 备案文件显示，周一\n本文链接",
-          "link": "https://news.cnblogs.com/n/730804/",
-          "publishedOn": "2022-11-01T00:18:00.000Z",
-          "wordCount": 161,
-          "title": "马斯克称自己将担任推特首席执行官",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730803/",
-          "author": null,
-          "description": "10 月 31 日晚 8 点，天猫双 11 第一波售卖正式开启。销售 1 小时，102 个品牌成交额过亿元。 在 102 个首小时成交额过亿的品牌中，国货品牌占比过半，成为今年天猫双 11 一大亮点。黑鹿、挪客、牧高笛、森宝、未及、佳奇等国货品牌首小时成交额均超过去年 11 月 1 日全天。积木品牌\n本文链接",
-          "link": "https://news.cnblogs.com/n/730803/",
-          "publishedOn": "2022-11-01T00:13:00.000Z",
-          "wordCount": 161,
-          "title": "天猫双11：开卖1小时102个品牌成交额过亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730802/",
-          "author": null,
-          "description": "11 月 1 日消息，据外媒报道，苹果公司负责在线零售商店和信息系统部门的两位高管即将离职，这将给这家科技巨头的两个关键运营部分带来变化。 知情人士表示，苹果在线零售业务副总裁安娜·马蒂亚森(Anna Matthiasson)即将离职。与此同时，苹果首席信息官玛丽·邓比（Mary Demby）将在任\n本文链接",
-          "link": "https://news.cnblogs.com/n/730802/",
-          "publishedOn": "2022-11-01T00:05:00.000Z",
-          "wordCount": 161,
-          "title": "苹果再失两位高管：在线商店主管即将离职 首席信息官退休",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730801/",
-          "author": null,
-          "description": "11 月 1 日消息，特斯拉首席执行官埃隆·马斯克(Elon Musk)在收购社交媒体推特后，已经将 50 多名特斯拉员工带入新公司工作，其中大多数人员来自特斯拉自动驾驶团队的软件工程师。但推特老员工表示，这些人在开发驾驶辅助系统或其他特斯拉软硬件方面的工作技能与用于开发维护社交网络的语言和系统并没\n本文链接",
-          "link": "https://news.cnblogs.com/n/730801/",
-          "publishedOn": "2022-11-01T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "推特特斯拉化？马斯克从旗下公司调来50多名员工接管推特",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730800/",
-          "author": null,
-          "description": "作者黎明 编辑艾小佳 来源：深途 一家车企的新能源子公司，要分拆出来在A股上市，这是以前少有的事情。 这在业内俗称“A拆A”，国企是最积极的行动者，过去两年已有十多家A拆A企业上市。不过在汽车行业，至今鲜有成功案例。广汽埃安，想要成为第一个“吃螃蟹的人”。 作为广汽集团旗下子公司，埃安原本只是一个车\n本文链接",
-          "link": "https://news.cnblogs.com/n/730800/",
-          "publishedOn": "2022-10-31T15:37:33.000Z",
-          "wordCount": 161,
-          "title": "拆解埃安：千亿估值的光环与泡沫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730799/",
-          "author": null,
-          "description": "撰文 吴依涵 编辑 吴先之 来源：光子出行 近日，大众汽车与福特汽车决定撤出共同投资的自动驾驶初创公司 Argo AI ，后者将面临倒闭。从 2016 年创立，Argo AI 公司已走过了 7 个年头。 Argo AI 是由两名来自谷歌与 Uber 的工程师 Bryan Salesky 与 Pete\n本文链接",
-          "link": "https://news.cnblogs.com/n/730799/",
-          "publishedOn": "2022-10-31T15:10:00.000Z",
-          "wordCount": 161,
-          "title": "70亿美元巨头Argo AI倒下，会殃及国内自动驾驶企业吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730798/",
-          "author": null,
-          "description": "美国五大科技巨头大缩减：利润大跌、产品削减、大幅裁员。 作者 李水青 编辑 心缘 来源：智东西 在最近的财报周中，美国一众科技巨头集体“扑街”。 先是互联网云巨头，亚马逊、微软、谷歌三大厂的最新季度净利润分别同比下降9%、14%、27%，股价大跌。其中，亚马逊当日股价一度下跌 18%，市值蒸发超 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/730798/",
-          "publishedOn": "2022-10-31T15:01:00.000Z",
-          "wordCount": 161,
-          "title": "灾难时刻！硅谷科技巨头集体崩塌，市值暴跌逾23万亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730797/",
-          "author": null,
-          "description": "百里之行半九十，千尺竿头须再攀。 作者丨沙拉酱 编辑丨伊页 来源：科技新知 Facebook（现更名 Meta）、苹果、蔚来、字节...... 你方唱罢我登场的 VR 界，最近很是热闹。 刚刚过去的 Connect 大会上，Meta 发布了第一代高端 VR 设备 Quest Pro，售价 1500 \n本文链接",
-          "link": "https://news.cnblogs.com/n/730797/",
-          "publishedOn": "2022-10-31T14:50:00.000Z",
-          "wordCount": 161,
-          "title": "VR当不了互联网的“救世主”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/730796/",
-          "author": null,
-          "description": "（图片来自科沃斯官方微博） 文 Hernanderz 来源：价值研究所 北京时间 10 月 28 日，科沃斯公布 2022 财年三季度财报。 根据奥维云网的统计，今年上半年国内扫地机器人出货量骤降，不少投资者都为科沃斯的 Q3 财报捏一把汗，同时也寄希望于这家龙头企业的业绩能给市场提供一些信心。 最\n本文链接",
-          "link": "https://news.cnblogs.com/n/730796/",
-          "publishedOn": "2022-10-31T14:50:00.000Z",
-          "wordCount": 161,
-          "title": "扫地机器人，卷不动了？",
           "imageUrl": null
         }
       ]
