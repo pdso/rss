@@ -69,6 +69,26 @@
           "imageUrl": "https://cdn.sspai.com/2022/12/06/02296cd71b2cd34cb4da63a5e2c6c2e5.png"
         },
         {
+          "id": "https://sspai.com/post/77154",
+          "author": "Geek7even",
+          "description": "爽玩NAS的最后一步，Unraid和群晖共用UPS不间断电源的方法分享\n前言\n笔者所在的小区是零几年开发的，大楼说不上破旧，但20年过去了，线路管道都已经老化，这段时间甚至整个辖区都在更换自来水管，水管入户所要做的工程也是不少，几个星期过去还没弄好。在大深圳，几乎无时无刻都有施工队在挖地、修路、装修，机器声吵杂不说，动不动给你跳个闸更是难受▽▼\n\n▲△虚拟群晖本来硬盘休眠就不太好用，而我平时也喜欢挂挂下载，近半年来了两三次无缘无故的跳闸，让我不由得担心起了自己的数据安全\n而解决的方法也很简单，只要加少许钱，购置一款UPS不间断电源就行了。这不，这个双十一的第一笔消费，就是心心念念已久的UPS\n\nUPS选购\n在这之前，是真没想到UPS不间断电源还有点学问在里面，比如说电池容量、体积大小、插口数量、功能多少，其中关系最大、最需要认真做功课的的就是设备兼容性。因为我使用的是Unraid作为主系统，然后虚拟了一个黑群晖做NAS使用，如果UPS只兼容Unraid或群晖都会有问题，不能正常工作的UPS不间断电源就等于浪费钱的垃圾，只能防防那些几分钟的跳闸事件，不能应对无人在家时的长时间停电\n逛了下Unraid的官方论坛，在UPS讨论帖中都推荐了APC这个品牌的UPS，根据前人的经验，我也打算买这个品牌的产品▽▼\n\n▲△APC的后备式电源有四个系列，BP、BK、BX、BR PRO，BX和BR PRO系列比较高端，电池容量也大，是最为推荐的配置；BP和BK的功能少一些，但性价比较高，在我的预算范围内\n在综合预算和产品形态后，我选择了这款体积较小、横放支持的“APC BK650M2-CH”这款UPS不间断电源▽▼\n\n其实也没什么特别复杂的原因，因为只有它能放进我这个丐版的家用机柜里。其他的不仅太贵，而且个头太大塞不进去，以后有专门的弱电房后再考虑更贵的型号▽▼\n\nUPS设置\n虽然UPS支持一…",
+          "link": "https://sspai.com/post/77154",
+          "publishedOn": "2022-12-07T08:31:29.000Z",
+          "wordCount": 469,
+          "title": "爽玩NAS的最后一步，Unraid和群晖共用UPS不间断电源的方法分享",
+          "imageUrl": "https://cdn.sspai.com/2022/12/07/8c82cf13f0ddb3974e7efd3ebf78f9e6.png"
+        },
+        {
+          "id": "https://sspai.com/post/77149",
+          "author": "windchaos",
+          "description": "工欲善其事，必先利其器。之前一直有人问我每年都能读完50本以上书的秘诀，我的回答是——墨水屏阅读器。\n\nAPP推送造成的注意力分散与信息茧房。而我在双十一入手的文石tab10则是让手中的墨水屏从阅读器升级到办公平板，成为未来一段时间我主力的创作工具。\n磁吸键盘保护套让文石tab10化身为一站式文字工作站\n对于文石tab10的喜爱，我可以说是一见钟情式的。原本发布会式想围观一下Leaf2，结果看到tab10磁吸键盘保护套的那一刻，我就知道这就是我心中最理想的创作工具。\n\n作为多年的Surface用户，对于磁吸键盘喜爱苏菲用户一定都懂，而对于文石tab10来说，磁吸键盘+支架+保护套的设计，让tab10能够胜任不同的应用场景，让这台机子成为ALL IN ONE的水桶机。\n\n背部磁吸的设计可以用使用者很容易的从保护套中取出tab10，不戴套单独拿在手上，tab10就是一台大尺寸墨水屏阅读器，看书、看漫画、看PDF都不在话下，归功于全新升级的盖板技术，tab10的盖板更薄能明显感觉文字更近更有跃然纸上的感觉。\n10寸墨水屏阅读上最大的缺点就是重量带来的握持不便，加了保护套之后拿在手上更感沉重。磁吸式保护套可分离的特点则是能让使用者在阅读的时候减少保护套的重量，更加沉浸在阅读中。当然tab10纯拿来阅读的话，我还是更喜欢用键盘翻页或者接上一个蓝牙翻页器看漫画。\n\n文石tab10键盘同时也是保护套，纯黑外观拿在手上旁边吸附一只笔颇有商务范儿，我也很喜欢文石tab10这个笔的侧边吸附式设计，平时突然想到什么灵感或者开会记一些东西很都很方便，关于手写的体验先按下不表放在打字体验后面去讲。\n \n而当加入连接上键盘之后，tab10就仿佛升级为了一台办公用的护眼笔记本电脑！得益于文石在tab系列中下放了墨水屏显示器里才有的高刷芯片，tab10的刷新速度快到让人忘了这是一台墨水屏设备！在装了大量办…",
+          "link": "https://sspai.com/post/77149",
+          "publishedOn": "2022-12-07T06:54:04.000Z",
+          "wordCount": 474,
+          "title": "后 Kindle 时代墨水屏阅读平板文石Tab10：专注＋全能＋互通",
+          "imageUrl": "https://cdn.sspai.com/2022/12/07/571a947e0ce9879b6ffddb3e5df185f5.jpg"
+        },
+        {
           "id": "https://sspai.com/post/77142",
           "author": "老木曾雪菜",
           "description": "前言\n这两年出于个人兴趣，分享过7篇文具横评对比，具体包括木铅笔、日系自动铅、学生橡皮、卷笔刀、中性笔、钢笔、复印纸等品类。横评因为产品多、分析的指标杂，虽然有产品推荐，但基本是忽略了价格，重于品质的选择。\n\n本篇旨在根据我个人的对比结果，以给小学生使用，注重环保与实用，兼顾经济因素的前提下，整理一份小学生书写文具清单！\n一· 木铅笔\n首先说明，给小朋友用的木铅笔主要指灰度为HB的书写铅笔，很多铅笔的定位是制图绘画铅笔，买HB的来书写完全是大材小用。\n木铅笔使用寿命不短，单支价格相对不高，搭配橡皮可以擦除，时至今日，也是最适合儿童习字的书写工具。\n\n市面上的木铅笔主要分为经典六角和更易于抓握三角设计，全圆木铅笔基本已经被淘汰了。对于这两种结构，低年级小朋友更推荐三角款，确实接触面积更大，握持感更好。\n参数配置方面，木铅笔的差距我认为主要是铅芯手感、木材原料、笔杆漆面三方面带来的体验差异，以及给小朋友要忽略的品牌效应和外观设计。\n先来说铅芯手感，所谓HB其实是对铅芯硬度的范围要求加上对书写浓度的最低要求，HB要求硬度在176~225Mpa之间，吸光度大于等于0.30。所以不同品牌HB铅芯在硬度手感和书写灰度上是有差异的，对于小朋友而言，HB范围硬度加上尽可能浓度更高的铅芯是最为理想的选择。HB铅芯的书写方面，国产大牌中得力、马可的HB铅芯相对浓郁，看着更舒服，晨光和中华书写的铅芯明显偏淡，中华101制图铅笔的经典HB表现相对更好，属于适中的灰度。常用HB书写最为浓郁的是日本品牌，uni三菱铅笔和TOMBOW蜻蜓铅笔。\n\n再来说笔杆原料，木铅笔是木杆为主体的，木杆材质造成的使用体验并不明显，我国经典工艺是使用东北椴木和拟赤扬来制作铅笔。椴木颜色偏黄、拟赤扬偏红，我们看老款中华铅笔，都能看到这两种不同色调。欧洲和日本品牌因为本国木原料匮乏，多选择印尼和美国这两个林业大国的木原料，…",
@@ -457,26 +477,6 @@
           "wordCount": 668,
           "title": "透过信息架构 看各笔记软件",
           "imageUrl": "https://cdn.sspai.com/2022/11/09/cb54ca6ea78952a4bdc5864338939285.png"
-        },
-        {
-          "id": "https://sspai.com/post/76686",
-          "author": "Not_your_user",
-          "description": "使用了一年多，也算是初期用户了。Fluent Search 在开发者的疯狂更新下，距离 1.0 还是遥遥无期。\n\nFluent Search 是什么\n没错，又是一款搜索软件。但它有着比同类软件更好的颜值，更丰富的功能，同时也带来更多的不稳定性。\n\nFluent Search 官网，不建议安装微软商店版，功能会受限\n仅支持 Windows 10/11\n\n优缺点（个人观点）\n优点：\n\n颜值（ Windows 下应该没有对手 ）\n任务：低配版插件\n多屏支持，让搜索窗口出现在你想要的地方\n快捷键支持 Win  Ctrl + Ctrl Alt + Alt\nnightly 的更新频率接近 nightly ，最近降频了\n预览：\n文件、目录：部分文档可以直接编辑，图片、音视频\n网页：方便临时打开网页，可以指定 PC 样式或移动端样式\n\n辅助功能：虽然个人用不上，但有还有挺好的，特殊人群也需要提高效率\n\n缺点：\n\n选择搜索结果不太方便，不支持通过 Ctrl\\Alt + 数字 来选择，键盘导航 这种替代品也不太好用\n没有 使用管理员权限运行 的开关，需要手动操作一波\n稳定性仍有欠缺，但基本可用\n插件不多，虽然部分可由任务流代替\n\n始于颜值\n\n颜值就是生产力，但在 Windows 上讲动画还是算了。\n\n热衷于新事物的我在 Windows 11 刚出来时就冲了，使用一段时间后发现 Listary 有兼容性问题，作者断更，无法正常使用，于是开始寻找解决方案。期间尝试使用过 uTools、Wox、ueli、Flow launch , 发现还是 Listary 顺手，只能先凑合着。直到某一天我在一个犄角旮旯中发现了 Fluent Search ，虽然同样不如 Listary 顺滑，但颜值在一众软件中脱颖而出，就它了。\n外观、动画、自定义\n设置位置：外观、特效、设置、主页\n从颜色到窗口，从字体到信息，都可…",
-          "link": "https://sspai.com/post/76686",
-          "publishedOn": "2022-11-09T06:18:17.000Z",
-          "wordCount": 612,
-          "title": "遥遥无期的 Fluent Search 1.0，又一款搜索软件",
-          "imageUrl": "https://cdn.sspai.com/2022/11/08/081a2c83595fca1a0b35b94f875ad50e.png"
-        },
-        {
-          "id": "https://sspai.com/post/76706",
-          "author": "吃饭Bu洗碗",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n又到双十一购物节，说来有趣，每年双十一我都会关注羽绒服这一品类，原因大概是冬天即将到来，我隐约有添购衣服的担忧，可又因为此时我还身穿短袖，买羽绒服有种错季购物的感觉，在将羽绒服加入购物车后往往又放弃下单。于是这些年，每到双十一，我的购物车里的羽绒服更新一次，羽绒服照片成了淘宝的皮肤挂件，年年换新。\n我当然是有买羽绒服，但往往不是购物车里那件，我在淘宝上浏览的是万元左右的始祖鸟、Moncler、加拿大鹅，加入购物车里的是两千元左右的北面，但最终购买的是千元以内的波司登和优衣库轻薄款，哦对了，还有老家线下店铺的以纯羽绒服。\n不过长期以往，我倒是对羽绒服有了足够多的了解，足以写下这篇有参考价值的文章，帮助人们选购羽绒服。\n羽绒服的历史\n人类自古以来就有利用动物皮毛御寒的历史，早在原始社会时期，人类祖先就已经初步掌握了将兽皮制作成衣物的方法，用兽皮和树叶蔽体防寒，后来逐渐出现麻、棉、丝等纺织物，人类衣物变得丰富。相对来说，人类利用禽类羽毛御寒的历史要短得多，在唐朝，人们用鹅绒和布混合填充在被子中，在十三四世纪的欧洲，人们用鸭和鹅的羽毛填充进被套中。\n直到 1940 年，现代羽绒服才被发明出来，主角是美国的艾迪·鲍尔，作为一名狂热户外运动爱好者，他在一次户外钓鱼过程中差点冻死，于是决心制作一件真正保暖的外套。鲍尔找到了鹅毛的羽绒，又恰逢杜邦实验室在 1938 年发明了尼龙，尼龙织物质地紧密，与棉布相比，尼龙面料可以防止羽绒「钻绒」，于是，他将二者结合，把羽绒填充进尼龙面料的衣服，绗缝锁绒，并将第一件羽绒外套命名为「Skyliner」，申…",
-          "link": "https://sspai.com/post/76706",
-          "publishedOn": "2022-11-09T03:23:33.000Z",
-          "wordCount": 580,
-          "title": "凛冬将至，你准备好买羽绒服了吗",
-          "imageUrl": "https://cdn.sspai.com/2022/11/09/8f442a2b7aef26198dc1e83bdece7cc6.jpg"
         }
       ]
     },
@@ -555,6 +555,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73601",
+          "author": null,
+          "description": "丹麦研究人员从格陵兰岛冻土中提取到约 200 万年前的生物 DNA，为迄今已知最古老 DNA。对它们的分析显示，这片荒凉的冰雪世界曾树木繁茂，栖息着多种动物。研究报告发表在《自然》期刊上。研究人员 2006 年从格陵兰岛北部皮里地半岛厚达 100 米、有约 200 万年历史的冻土中收集沉积物。最初受技术所限，他们没能从其中提取到远古 DNA。情况在过去几年发生改变。随着技术进步，研究人员从这些沉积物中提取到 160 多亿个 DNA 片段，其中大量属于现代微生物。对这些 DNA 片段的分析显示，200 万年前的格陵兰岛生活着乳齿象、驯鹿、野兔和大雁等动物。此外，这里不仅有如今还在当地能见到的苔藓、灌木、桦树等植物，还生长着白杨、杉树等如今通常生长在纬度较低地区的树木。研究人员说，格陵兰岛当时的平均气温比如今高 11 至 19 摄氏度。",
+          "link": "https://www.solidot.org/story?sid=73601",
+          "publishedOn": "2022-12-08T15:51:49.000Z",
+          "wordCount": 170,
+          "title": "研究人员从格陵兰岛提取出最古老 DNA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73600",
+          "author": null,
+          "description": "开源 3D 图形设计软件 Blender 释出了v3.4。主要新特性包括：集成了英特尔的 Open Path Guiding Library，帮助渲染含有复杂焦散线的场景；Sculpt 模式下的自动遮蔽设置；基于几何的放松刷法；等等。",
+          "link": "https://www.solidot.org/story?sid=73600",
+          "publishedOn": "2022-12-08T15:46:06.000Z",
+          "wordCount": 160,
+          "title": "Blender 3.4 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73598",
+          "author": null,
+          "description": "上周旧金山市理事会以 8 票对 3 票通过了致命机器人政策，允许警方在避免更多伤亡的情况下使用遥控机器人携带炸弹移动到枪手或自杀式炸弹袭击者面前，瘫痪或杀死嫌疑人。这一政策引发了广泛争议和抗议，本周旧金山市理事会在第二次投票中以 8 票对 3 票明确禁止警方使用遥控机器人发动致命打击。这是一次 180 度的转弯。理事会的第二次投票通常是仪式性质的，不会改变第一次投票结果。制定该政策的委员会可以对条款进行重新修订，或者完全撤回。如果有新版本，理事会预计会在下周再次对此进行投票。",
+          "link": "https://www.solidot.org/story?sid=73598",
+          "publishedOn": "2022-12-08T10:02:58.000Z",
+          "wordCount": 153,
+          "title": "因为抗议旧金山撤回了受争议的致命机器人政策",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73597",
+          "author": null,
+          "description": "尼日利亚大幅削减了企业和个人从 ATM 机器上每日提取的现金金额，以增加央行数字货币使用，从而推动创造一个无现金的尼日利亚。根据尼日利亚央行发布的通知，个人和企业被限制每天从 ATM 取款机上取出最多 45 美元（20,000 尼日利亚奈拉），每周提取 225 美元（100,000 奈拉）。个人和企业每周在银行的取款额度也分别限制在 225 美元（10 万奈拉）和 1,125 美元（50 万奈拉），如果超过限额，个人将被收取 5% 的费用，企业被收取 10% 的费用。此举旨在鼓励个人和企业通过网上银行、手机银行等进行交易。在这之前，每日取款限额是个人 338 美元（15 万奈拉），企业 1128 美元（50 万奈拉）。",
+          "link": "https://www.solidot.org/story?sid=73597",
+          "publishedOn": "2022-12-08T09:26:19.000Z",
+          "wordCount": 169,
+          "title": "尼日利亚减少现金取款金额以增加央行数字货币使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73596",
+          "author": null,
+          "description": "台积电创始人张忠谋认为全球化和自由贸易几乎已死。他在周二出席了台积电亚利桑那州凤凰城工厂的活动，这是台积电在美国建造的第一座先进芯片工厂，预计 2024 年投产，加上第二座工厂，项目总投资高达 400 亿美元。张忠谋称，半导体行业过去 27 年见证了世界的巨大转变和世界地缘政治格局的巨大转变。全球化和自由贸易几乎已死，而且不太可能会回来。",
+          "link": "https://www.solidot.org/story?sid=73596",
+          "publishedOn": "2022-12-08T09:08:44.000Z",
+          "wordCount": 148,
+          "title": "台积电创始人认为全球化几乎已死",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73595",
+          "author": null,
+          "description": "2020 年 Red Hat 决定停止将 CentOS Linux 作为独立发行版，改为推出滚动更新发行版 CentOS Stream，把它作为企业发行版 RHEL 的上游 beta 版本。社区立即推出了多个项目替代 CentOS，其中最为突出的是两个项目：Rocky Enterprise Software Foundation 赞助的 Rocky Linux；另一个是 AlmaLinux OS Foundation 的 AlmaLinux。现在，著名的科学研究机构费米实验室和欧洲粒子物理研究所（CERN）发表联合声明，宣布将在其研究设施中采用 AlmaLinux。声明称，AlmaLinux 的优点包括每个大版本支持寿命长，支持扩展架构，快速的发布周期，上游社区贡献，支持 security advisory metadata，完美兼容 Red Hat Enterprise Linux 及其它重构版本。",
+          "link": "https://www.solidot.org/story?sid=73595",
+          "publishedOn": "2022-12-08T07:29:32.000Z",
+          "wordCount": 190,
+          "title": "费米实验室和 CERN 选择 AlmaLinux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73594",
+          "author": null,
+          "description": "英特尔 Arc GPU 独显在 DX 9 游戏下的性能相当差，它最近对 Arc 的 DX 9 驱动进行了大更新，结果发现新 DX 9 驱动使用了开源代码 DXVK，而英特尔的官方博客根本没有提到 DXVK，只有查看 readme 文件才发现是 DXVK。DXVK 是 Steam Play Proton 的一部分，而 Proton 是 Windows 兼容层项目 Wine 的分支，它能将 Direct3D 9、Direct3D 10 和 Direct3D 11 翻译到 Vulkan，它有 Linux 的原生实现，也支持 Windows。英特尔使用 DXVK 并不太意外，英伟达也在 RTX Remix 中使用了 DXVK。",
+          "link": "https://www.solidot.org/story?sid=73594",
+          "publishedOn": "2022-12-08T06:56:12.000Z",
+          "wordCount": 215,
+          "title": "英特尔 Arc GPU DX 9 驱动使用了开源代码 DXVK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73593",
+          "author": null,
+          "description": "Tor 项目释出了 Tor Browser 12.0，基于  Firefox Extended Support Release 102。主要变化包括：以前桌面版用户使用英语之外的其它语言需要选择相应的语言版本下载安装，现在不再需要了；原生支持 Apple Silicon；Android 版默认启用 HTTPS-Only，提供了一个选项优先访问 .onion 域名（如果一个网站配置了 Onion-Location，用户将会自动重定向到相应的 .onion 域名）；等等。",
+          "link": "https://www.solidot.org/story?sid=73593",
+          "publishedOn": "2022-12-08T06:17:41.000Z",
+          "wordCount": 172,
+          "title": "Tor Browser 12.0 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73592",
+          "author": null,
+          "description": "苹果宣布从 iOS 16.2、iPadOS 16.2 和 macOS 13.1 开始，用户可选择启用“高级数据保护（Advanced Data Protection）” 功能，iCloud Backup、Photos、Notes 等都将使用端对端加密，这意味着如果你丢失了账号，苹果没有加密密钥帮助你恢复——用户需要通过设备密码、帐户恢复联系人或个人的恢复密钥去恢复账号。用户可以在任何时候关闭高级数据保护功能。这一声明发布在英文版的支持文档上，中文版没有更新，暂时不清楚苹果是否向中国区用户提供该功能。",
+          "link": "https://www.solidot.org/story?sid=73592",
+          "publishedOn": "2022-12-08T05:59:45.000Z",
+          "wordCount": 166,
+          "title": "苹果 iCloud 备份将支持端对端加密",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73591",
+          "author": null,
+          "description": "去年八月，苹果宣布了一项受争议的决定：它将扫描美国用户 iPhone 手机上的已知儿童色情照片，利用来自 National Center for Missing and Exploited Children (NCMEC)的 CSAM（Child Sexual Abuse Material）图像哈希值去匹配用户手机上的图像哈希，如果发现至少 30 次匹配成功它将会在审核之后报告给相关机构。在引发广泛批评和反对之后，苹果暂停了该计划。现在它放弃了扫描手机上儿童色情的计划，改为加强“Communication Safety”功能，允许父母和看护者通过家庭 iCloud 账号选择加入保护功能，以确保儿童的通信安全，在儿童试图发送或接收含有裸体的照片时发出警告，阻止和减少新 CSAM 的产生。",
+          "link": "https://www.solidot.org/story?sid=73591",
+          "publishedOn": "2022-12-08T05:31:38.000Z",
+          "wordCount": 172,
+          "title": "苹果放弃了扫描手机上儿童色情的 CSAM 计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73590",
+          "author": null,
+          "description": "波音公司第 1574 架同时也是最后一架 747 飞机出厂，它将在试飞之后交付给 Atlas Air Worldwide 控股公司。波音 747 停产并不意味着它将会立即从天空中消失，最后交付的飞机能飞行数十年。但波音 747 在商业航班中正越来越罕见。美国联合航空和达美航空在新冠疫情前停飞了 747，澳洲航空和英国航空在 2020 年全球旅行衰退期间告别了 747。首架波音 747 是在 1968 年出厂的，1969 年首飞，1970 年投入服役。在空客 A380 投入服务之前，波音 747 保持全世界载客量最高飞机的纪录长达 37 年。",
+          "link": "https://www.solidot.org/story?sid=73590",
+          "publishedOn": "2022-12-07T15:30:26.000Z",
+          "wordCount": 179,
+          "title": "波音最后一架 747 出厂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73589",
+          "author": null,
+          "description": "甲龙以其覆盖身躯的装甲和尾巴棒槌著称。它的尾槌由几块大型皮内成骨组成，与最末几节尾椎愈合形成一支坚硬的棒子。大部分科学家认为甲龙的尾槌是用于防御捕食。但根据发表在《Biology Letters》期刊上的最新研究，尾槌可能主要是用于抽打彼此。论文主要作者 Victoria Arbour 博士多年来一直研究甲龙，她发现部分甲龙物种有尾槌，部分没有，后者又被称为结节龙。所以尾槌究竟用来做什么？她测量了现有的尾槌化石，估算其打击力量，发现小的尾槌太小而无法用作抵御捕食者。进一步研究认为尾槌可能是用于在种群内部打斗，可能会在对手的侧翼造成伤口。研究人员在名为 Zuul crurivastator 物种的一具保存良好的化石上找到了被认为通过反复抽打而形成然后愈合的创口。",
+          "link": "https://www.solidot.org/story?sid=73589",
+          "publishedOn": "2022-12-07T15:07:30.000Z",
+          "wordCount": 150,
+          "title": "甲龙的尾槌可能是用来互相捶打",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73588",
           "author": null,
@@ -3134,126 +3254,6 @@
           "wordCount": 166,
           "title": "Meta 裁员 1.1 万",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73316",
-          "author": null,
-          "description": "美国科学家在物质起源和星系演化国际研讨会上表示，他们开展的计算机模拟显示，两颗中子星碰撞产生的引力波中可能包含以前从未见过的夸克物质的证据。圣母大学研究人员模拟了两颗中子星碰撞，以了解在不同温度和密度下所产生的引力波的频率。他们发现，当夸克物质形成时，引力波频率会出现峰值——约 3000 赫兹左右。\n2017 年，美国激光干涉仪引力波天文台（LIGO）探测到两颗中子星并合产生的引力波。一些理论认为，中子星内部夸克物质的行为类似于完美的电导体；而另一些理论则认为，夸克物质变成了一种奇异的流体，能毫无阻滞地在中子星内部运动。研究团队的模拟解释了其中一些场景，他们希望未来能将最新研究与 LIGO 和其他探测器即将开展的测量进行比较，以进一步揭示中子星的秘密。",
-          "link": "https://www.solidot.org/story?sid=73316",
-          "publishedOn": "2022-11-09T09:48:49.000Z",
-          "wordCount": 150,
-          "title": "中子星碰撞可能产生夸克物质",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73315",
-          "author": null,
-          "description": "群居动物通常会形成统治等级，以避免身体上的竞争和伤害。这些等级制度可以从群体成员之间激烈互动的结果中推导出来。在许多物种中，雄性和雌性会为争夺资源而竞争，并频繁地相互作用，但科学家经常为每种性别创建单独的等级制度，并使用性别特有的理论框架来研究社会支配地位。这是因为人们通常认为优势是由身体力量驱动的，而男性和女性通常在体型和力量上有所不同。这种传统的方法忽略了一个事实：主导地位可能是由一些与身体属性(如社会支持)无关的特征驱动的，这些特征与性别无关。研究人员分析了 9 种哺乳动物，用五种不同的指数计算了雌性对雄性的支配程度。他们研究了一个物种中雌性的优势程度与优势的建立和维持之间是否存在关系，特别是动物对攻击性行为和顺从信号的依赖程度有多强。研究小组发现，无论使用何种方法，个体在层级中的等级顺序都是相同的，所有女性优势的指标之间都有很好的相关性。该研究还揭示了男性和女性主导的社会在统治风格上的显著差异。在一个物种中，雌性的优势程度越高，动物就越不频繁地使用攻击来建立和维持它们的优势关系。",
-          "link": "https://www.solidot.org/story?sid=73315",
-          "publishedOn": "2022-11-09T09:44:31.000Z",
-          "wordCount": 146,
-          "title": "研究揭示哺乳动物两性之间的支配行为模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73314",
-          "author": null,
-          "description": "人们的睡眠模式在青少年时期会发生变化。许多青少年从早起的“百灵鸟”变成了“夜猫子”。这种向“夜猫子”作息的转变可能会与青少年的学习和工作发生冲突。由于这种不匹配的睡眠时间表而导致的长期睡眠不足，可以解释为什么这类青少年比早起的青少年更容易出现情绪和行为问题。研究人员要求 200 多名青少年及其父母完成一系列关于青少年睡眠偏好、情绪和行为健康的问卷调查。在接下来的 7 年里，参与者多次重复这些问卷。他们还接受了两次大脑扫描，期间相隔几年，以检查他们的大脑发育。研究发现，在青春期早期（大约12—13岁）转变为“夜猫子”的青少年更有可能在几年后出现行为问题，包括更大的攻击性、违反规则和反社会行为，但他们发生情绪问题的风险并没有增加，比如焦虑或情绪低落。新研究还表明，早起的“百灵鸟”和晚睡的“夜猫子”的大脑结构和发育速度不同，包括灰质和白质的差异，这与记忆、情绪健康、注意力和同理心的差异有关。",
-          "link": "https://www.solidot.org/story?sid=73314",
-          "publishedOn": "2022-11-09T08:02:51.000Z",
-          "wordCount": 148,
-          "title": "作息时间影响青少年大脑发育",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73313",
-          "author": null,
-          "description": "微软以 690 亿美元收购动视暴雪的交易面临欧盟监管机构的深入调查。欧盟委员会表示担心微软可能会阻止其它游戏发行商获得动视的《使命召唤》系列游戏。欧盟委员会表示，将在 90 个工作日做出决定，到明年 3 月 23 日截至，这被称为第二阶段的调查。动视暴雪旗下拥有很多备受欢迎的游戏，其中包括《魔兽世界》和《使命召唤》，收购动视暴雪将使得微软成为第三大游戏公司，扩大 Game Pass 订阅服务的阵容。这项交易面临来自世界各地监管机构的审查。",
-          "link": "https://www.solidot.org/story?sid=73313",
-          "publishedOn": "2022-11-09T07:56:37.000Z",
-          "wordCount": 154,
-          "title": "欧盟调查微软收购动视暴雪的交易",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73312",
-          "author": null,
-          "description": "希腊政府表示将立法禁止销售间谍软件。在这之前，总理 Kyriakos Mitsotakis 的政府被指使用 Cytrox 公司开发的间谍软件 Predator 对数十名知名政治家、记者和商人进行监控。Mitsotakis 周一称这一指控是“最不可信的谎言”，他表示希腊将成为首个制定立法，明确禁止在国内销售此类软件的国家。社会主义反对派领导人 Nikos Androulakis 在今年七月向最高检察官提起诉讼，指控有人尝试用间谍软件入侵其手机。Mitsotakis 否认对黑客攻击知情，表示永远不会批准此类行动。",
-          "link": "https://www.solidot.org/story?sid=73312",
-          "publishedOn": "2022-11-09T07:21:36.000Z",
-          "wordCount": 156,
-          "title": "希腊将立法禁止销售间谍软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73311",
-          "author": null,
-          "description": "英伟达开始向中国客户提供 A100 替代品 A800。A100 是基于安培架构，被广泛用于 AI、数据分析和 HPC。美国上个月出台了出口限制的新政策，A100 被包含在出口限制清单中。A800 的计算性能与 A100 相同，但互连带宽较窄，数据传输率低于出口限制。英伟达称，A800 符合美国政府的出口管制规定，且无法通过编程方式使传输速度超过出口管制的限制。英伟达预计市场对 A800 芯片的需求很高；该公司最快将于周三开始在中国给出报价。预计将在未来几周开始发货。A100 的传输率达到 800 GB/s，A800 降至了 600 GB/s，对于超算等会产生巨大性能影响。",
-          "link": "https://www.solidot.org/story?sid=73311",
-          "publishedOn": "2022-11-09T05:17:33.000Z",
-          "wordCount": 167,
-          "title": "英伟达向中国出口降低数据传输率的新 GPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73310",
-          "author": null,
-          "description": "全球最大的加密货币交易所币安的 CEO 赵长鹏周二宣布签署了收购竞争对手 FTX 的意向书。在收购消息公布前，两家交易所关系紧张，赵长鹏称币安将开始清算其账面上持有的 FTT 代币。币安持有约 2300 万个 FTT 代币，价值逾 5 亿美元。FTX 请求币安以固定价格将其代币出售给它，以避免代币币值崩溃。币安拒绝了这一要求。随后 FTT 代币的币值崩盘了，币安通过收购 FTX 来帮助它解决“流动性不足”。",
-          "link": "https://www.solidot.org/story?sid=73310",
-          "publishedOn": "2022-11-09T03:42:21.000Z",
-          "wordCount": 164,
-          "title": "币安收购竞争对手 FTX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73309",
-          "author": null,
-          "description": "匿名读者 写道 \"在马斯克成为推特新主人后，一些用户迁往长毛象（一个基于 ActivityPub 协议的分布式社交网络）。对此，马斯克发表了至少三条推贬低长毛象。其中一条已经被删除，但被人使用互联网档案馆时光机存档下来，马斯克在推中说，“如果你不再喜欢推特，那么有个叫‘笨蛋大师’（Masterbatedone）的好网站。”附图是国经济学家、纽约时报专栏评论员保罗·克鲁格曼在长毛象里不停的发送测试“嘟文”，“好像长毛象服务器昨天过载了，好吧伙计们”\"",
-          "link": "https://www.solidot.org/story?sid=73309",
-          "publishedOn": "2022-11-09T03:23:43.000Z",
-          "wordCount": 149,
-          "title": "马斯克发推贬低长毛象，但随后删除",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73308",
-          "author": null,
-          "description": "Windows 11 用户发现微软开始在退出登陆菜单上展示广告。以前用户点击开始菜单的用户图标会显示三个选项：更改帐户设置、锁定和注销。现在微软在这三个选项之上展示了自家产品的文字广告，比如建议用户通过 OneDrive 备份文件，建议用户使用 Microsoft accounts 登陆，等等。微软在 Windows 11 中加入愈来愈多的广告并不出乎大部分用户的意料。",
-          "link": "https://www.solidot.org/story?sid=73308",
-          "publishedOn": "2022-11-09T03:21:37.000Z",
-          "wordCount": 167,
-          "title": "微软开始在 Windows 11 退出登陆菜单上展示广告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73307",
-          "author": null,
-          "description": "微软本周二释出了 11 月的例行安全更新，修复了 6 个正被利用的 0day。其中两个  CVE-2022-41040 和 CVE-2022-41082 位于 Exchange 服务器中，属于高危漏洞，黑客组合利用这两个漏洞能在服务器上执行恶意代码。漏洞被统称为 ProxyNotShell，Shodan 搜索显示在漏洞公开之际有大约 22 万个服务器存在该漏洞，微软上个月称使用简体中文的黑客正在利用该漏洞。第三个  0day 是 Windows 高危漏洞 CVE-2022-41128，能被攻击者远程执行恶意代码，它是 Google 的 Threat Analysis Group 安全研究人员发现的。另外两个 0day 属于提权漏洞，其中 CVE-2022-41073 位于微软的打印后台服务中，CVE-2022-41125 位于 Windows CNG Key Isolation Service 中。最后一个 0day CVE-2022-41091 允许黑客创建恶意文件躲避 Mark of the Web。微软本月的安全更新共修复了 68 个漏洞，11 个为高危漏洞。",
-          "link": "https://www.solidot.org/story?sid=73307",
-          "publishedOn": "2022-11-09T02:44:23.000Z",
-          "wordCount": 211,
-          "title": "微软 11 月安全更新修复 6 个 0day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73306",
-          "author": null,
-          "description": "2016 年前顶尖的人类围棋棋手仍然能打败顶尖的围棋 AI。但在使用神经网络通过自我对弈精通围棋的 DeepMind AlphaGo 之后，人类就一败涂地了。最近 KataGo 作为一种开源围棋 AI 而风行一时。上周一组研究人员发表论文，描述了利用 KataGo 盲点的对抗性技术去挫败 KataGo 的方法。通过 KataGo 训练集之外出乎意料的落子，一个会输给业余棋手的对抗性围棋程序能击败 KataGo。KataGo 使用数百万次自我对弈学习围棋，但这仍然不足以覆盖所有可能的情况，留下了可利用的漏洞。研究人员的对抗性围棋程序发现 KataGo 容易受 off-distribution 等策略的影响。研究显示，达到人类水平的 AI 往往会犯一些非常奇怪的错误，以让人类感到惊讶的方式失败。如果 AI 在安全关键系统中犯下类似的错误，可能会导致严重后果。",
-          "link": "https://www.solidot.org/story?sid=73306",
-          "publishedOn": "2022-11-08T15:41:04.000Z",
-          "wordCount": 177,
-          "title": "新技巧能打败最顶尖的围棋 AI 但会输给业余选手",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73305",
-          "author": null,
-          "description": "GNU 项目的文档系统排版软件包 Texinfo 释出了一个大更新版本 v7.0。主要新特性是支持输出格式 LaTeX 和 EPUB 3，以及大量其它变化如改进 HTML 输出格式支持，修正了字符编码问题，加强了 DocBook 输出。LaTeX 是基于 TeX 的排版系统，以生成高印刷质量的科技和数学、物理文档著称。EPUB 3 是 EPUB 电子书格式的最新一代。",
-          "link": "https://www.solidot.org/story?sid=73305",
-          "publishedOn": "2022-11-08T14:08:13.000Z",
-          "wordCount": 175,
-          "title": "GNU Texinfo 7.0 发布",
-          "imageUrl": null
         }
       ]
     },
@@ -3262,6 +3262,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/733097/",
+          "author": null,
+          "description": "12 月 9 日消息，当地时间周四美国联邦贸易委员会（FTC）正式提起诉讼，阻止微软斥资 687 亿美元收购游戏开发商动视暴雪的交易。这无疑是给微软迅速扩大游戏组合、追赶更大竞争对手的计划扔了一块绊脚石。 微软拥有 Xbox 游戏机和游戏网络平台等业务。公司在今年 1 月份表示，将斥资 687 亿美\n本文链接",
+          "link": "https://news.cnblogs.com/n/733097/",
+          "publishedOn": "2022-12-09T00:26:00.000Z",
+          "wordCount": 161,
+          "title": "FTC正式起诉微软 阻止其收购动视暴雪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733096/",
+          "author": null,
+          "description": "这令人匪夷所思的一幕发生在上市公司越博动力（300742.SZ）。 12 月 8 日晚，越博动力连发 12 条公告。其中一条公告披露，12 月 7 日上午 8 点 45 分左右，刚遭罢免的前董事长李占江及其配偶李莹，召集社会人员 50 余人，试图阻止公司正常召开董事会。 公告披露，其间，社会人员（其\n本文链接",
+          "link": "https://news.cnblogs.com/n/733096/",
+          "publishedOn": "2022-12-09T00:20:00.000Z",
+          "wordCount": 161,
+          "title": "遭免董事长率50余人大闹董事会，致3名员工受伤！警方介入",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733095/",
+          "author": null,
+          "description": "12 月 8 日晚间，第一财经记者从国美电器内部了解到，目前人资部门已建立了与员工的沟通机制，近日将正式出台解决方案以妥善解决员工薪资问题。 当晚，国美电器母公司国美零售（00493.HK）发布公告称，已与 Shinning Crown Holdings Inc.（为一家由公司控股股东黄光裕全资拥有\n本文链接",
+          "link": "https://news.cnblogs.com/n/733095/",
+          "publishedOn": "2022-12-09T00:12:00.000Z",
+          "wordCount": 161,
+          "title": "接近国美高层人士：国美电器展开自救，砍掉30个区域不盈利门店",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733094/",
+          "author": null,
+          "description": "12 月 9 日消息，今日，华为与 OPPO 广东移动通信有限公司宣布签订全球专利交叉许可协议，该协议覆盖了包括 5G 标准在内的蜂窝通信标准基本专利。 OPPO 付费获得了华为先进 5G 技术许可 据透露，华为与 OPPO 达成的交叉许可协议，对双方 5G 等标准必要专利技术以及相关产品都做出了专\n本文链接",
+          "link": "https://news.cnblogs.com/n/733094/",
+          "publishedOn": "2022-12-09T00:07:00.000Z",
+          "wordCount": 161,
+          "title": "华为与OPPO签订全球专利交叉许可协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733093/",
+          "author": null,
+          "description": "文互联网怪盗团 重复性的我试用 ChatGPT 到现在已经有两天了。当然，因为时间关系，我用的不多，跟朋友圈里的那些“ChatGPT 调试大师”（数量可达上百人）不可同日而语。在我目力所及之处，如同雨后春笋一般冒出了几百个专门的“ChatGPT 讨论群”，24 小时不间断地分享着各种聊天截图。根据我\n本文链接",
+          "link": "https://news.cnblogs.com/n/733093/",
+          "publishedOn": "2022-12-09T00:00:00.000Z",
+          "wordCount": 161,
+          "title": "对于ChatGPT，我有很多种感情，但唯独不包括害怕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733092/",
+          "author": null,
+          "description": "2016 年 10 月 19 日，杭州小雨，楼天城第一次以非技术者的身份出席了一个交际场合。 当时，他有自立门户的想法，似乎做好了从一个「技术宅」转变为「创业者」的心理准备，见了很多人，形形色色。这一次，他要去参加的是红杉中国在杭州举办的一年一度 CEO 峰会。 香格里拉觥筹交错，人声喧哗。楼天城坐\n本文链接",
+          "link": "https://news.cnblogs.com/n/733092/",
+          "publishedOn": "2022-12-08T15:26:00.000Z",
+          "wordCount": 161,
+          "title": "楼天城 理想不死",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733091/",
+          "author": null,
+          "description": "文 新立场 NewPosition，作者 B 哥，编辑李凡 淘特最近一次在阿里财报中被 highlight，还是今年 Q1。 当时，阿里巴巴在新闻稿中着重提及了淘特超 3 亿的 AAC 数量，以及相比上个季度新增的 2000 万活跃用户。从那以后，后续的财报稿件里就不再提及淘特 AAC 数量，以及季\n本文链接",
+          "link": "https://news.cnblogs.com/n/733091/",
+          "publishedOn": "2022-12-08T13:24:00.000Z",
+          "wordCount": 161,
+          "title": "淘特“撕裂”阿里",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733090/",
+          "author": null,
+          "description": "12 月 8 日消息，联发科发布天玑 8200 5G 移动芯片，新品采用 4nm 制程，八核 CPU 架构包含 4 个 Cortex-A78 大核以及 4 个 Cortex-A55 小核，最高主频最高达 3.1GHz，搭载 Mali-G610 六核 GPU。 天玑 8200 搭载联发科 HyperE\n本文链接",
+          "link": "https://news.cnblogs.com/n/733090/",
+          "publishedOn": "2022-12-08T13:07:00.000Z",
+          "wordCount": 161,
+          "title": "联发科发布天玑8200芯片，4nm制程加持，支持移动光追",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733089/",
+          "author": null,
+          "description": "芥末堆文 近日，叮咚买菜与战略合作品牌元气绿洲在福建省古田县包下 70 个菇棚，成立首个叮咚买菜银耳订单农业基地。该基地预计每年产出约 800 万朵有机和无公害银耳，年订单金额超 5000 万元。 据了解，古田银耳早在 2004 年就已经是国家地理标志产品。作为世界闻名的“银耳之乡”，古田溪谷相间、\n本文链接",
+          "link": "https://news.cnblogs.com/n/733089/",
+          "publishedOn": "2022-12-08T12:55:00.000Z",
+          "wordCount": 161,
+          "title": "叮咚买菜成立首个银耳订单农业基地，预计年订单超5000万元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733088/",
+          "author": null,
+          "description": "摘要 基本达到了地面上 AI 80% 的功能，但面对的挑战可是大很多。 在库布里克的经典科幻影片《2001 太空漫游》中，除了开头的「骨头变飞船」和「黑石」是经典中的经典，飞船上的人工智能助手哈尔（HAL 9000），也给人们留下了深刻印象。 在 50 多年后的现在，导演当年的超前设想，例如平板电脑\n本文链接",
+          "link": "https://news.cnblogs.com/n/733088/",
+          "publishedOn": "2022-12-08T12:24:00.000Z",
+          "wordCount": 161,
+          "title": "把人工智能送上太空，总共分几步？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733087/",
+          "author": null,
+          "description": "明敏发自凹非寺 量子位公众号 QbitAI ChatGPT 太火爆谁不想上手试试？ 但注册复杂、服务器拥挤……着实有点麻烦。 不过很快就有极客网友指路，说国内其实已经有类似的 APP 上线了，也是上知天文下知地理的那种。 比如聊聊《三体》，还会说自己喜欢的角色是罗辑。 提到量子纠缠、超距作用，都能解\n本文链接",
+          "link": "https://news.cnblogs.com/n/733087/",
+          "publishedOn": "2022-12-08T12:10:00.000Z",
+          "wordCount": 161,
+          "title": "ChatGPT国产平替Glow出现了：APP商店就能下载，还可给AI加人设",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733086/",
+          "author": null,
+          "description": "文/李贤焕 来源/市界（ID:ishijie2018） 12 月 7 日晚，品玩发布报道称，特斯拉 CEO 埃隆·马斯克（Elon Musk）已确认了接替他担任特斯拉 CEO 的人选：特斯拉现任全球副总裁、大中华区 CEO 朱晓彤（Tom Zhu）。 报道中提到，朱晓彤的“CEO”一职是全球性职位，\n本文链接",
+          "link": "https://news.cnblogs.com/n/733086/",
+          "publishedOn": "2022-12-08T10:50:00.000Z",
+          "wordCount": 161,
+          "title": "中国人要当特斯拉的家了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733085/",
+          "author": null,
+          "description": "新智元报道 作者：AI 科技评论（李梅、黄楠） 编辑：好困 在未来万亿参数网络只消耗几瓦特的新型硬件上，FF 是最优算法。 过去十年，深度学习取得了惊人的胜利，用大量参数和数据做随机梯度下降的方法已经被证明是有效的。而梯度下降使用的通常是反向传播算法，所以一直以来，大脑是否遵循反向传播、是否有其它方\n本文链接",
+          "link": "https://news.cnblogs.com/n/733085/",
+          "publishedOn": "2022-12-08T10:32:00.000Z",
+          "wordCount": 161,
+          "title": "Hinton最新研究：神经网络的未来是前向-前向算法｜NeurIPS 2022特邀演讲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733084/",
+          "author": null,
+          "description": "据消息人士称，推特公司将对 Twitter Blue 验证服务进行调整，如果用户通过 iOS 系统进行购买，每月的订阅价格将从 7.99 美元上涨至 11 美元，幅度为 37.6%。 财联社 12 月 8 日讯（编辑马兰）据媒体周三报道，推特计划将其 Blue 验证服务的定价进行更改。 根据此前推特\n本文链接",
+          "link": "https://news.cnblogs.com/n/733084/",
+          "publishedOn": "2022-12-08T10:18:00.000Z",
+          "wordCount": 161,
+          "title": "马斯克是妥协还是反击？IOS推特用户验证费用要涨价近四成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733083/",
+          "author": null,
+          "description": "在经历恒大汽车总部将解散、员工停薪留职、停工停产等传言后，恒大汽车对外发声了。 “目前，恒驰汽车天津工厂生产正常，供应商也在全力配合，恒驰 5 交付工作基本按计划推进。”12 月 8 日，恒驰汽车执行总裁高景深在接受《每日经济新闻》记者采访时表示，公司并不存在如个别媒体所渲染的所谓“受到外部因素影响\n本文链接",
+          "link": "https://news.cnblogs.com/n/733083/",
+          "publishedOn": "2022-12-08T10:10:00.000Z",
+          "wordCount": 161,
+          "title": "恒驰汽车高景深回应“停工、停产传闻”：恒驰5交付工作按计划推进",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733082/",
+          "author": null,
+          "description": "Pine 明敏发自凹非寺 量子位公众号 QbitAI 陈丹琦新论文来了！ 研究团队全员女将，这是她在普林斯顿的第一篇 all-female author 论文。 论文主题也和女性议题有关。 论文提出了 MABEL，一种使用限定标签来让 AI 减少性别偏见的方法。 通过这一方法，团队证明如果上游预训练\n本文链接",
+          "link": "https://news.cnblogs.com/n/733082/",
+          "publishedOn": "2022-12-08T10:05:00.000Z",
+          "wordCount": 161,
+          "title": "陈丹琦带队全员女将发新论文！提出AI消除性别偏见方法|EMNLP2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733081/",
+          "author": null,
+          "description": "杨净萧箫发自凹非寺 量子位公众号 QbitAI 这几天，工作和上课等事情开始有回归线下的迹象，腾讯会议、钉钉似乎也可以松口气了。 毕竟云会议的这两大 APP，前段时间一直在被网友找平替。 一来，它们要收费了；二来，网络流量太大还会造成部分用户进不去，这段时间腾讯会议、钉钉就相继“崩”上热搜。 还有很\n本文链接",
+          "link": "https://news.cnblogs.com/n/733081/",
+          "publishedOn": "2022-12-08T09:52:00.000Z",
+          "wordCount": 161,
+          "title": "是时候给钉钉和腾讯会议算算账了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733080/",
+          "author": null,
+          "description": "苹果公司将升级其设备的安全保护措施，包括首次增加 iCloud 数据备份的加密功能，以及针对 iMessage 信息和账户登录的新保护措施。 其中“iCloud 的高级数据保护”意味着，它将对 iCloud 备份的存储、以及备忘录、照片、文件、语音备忘录和信息进行端对端加密。 端到端加密表示加密密钥\n本文链接",
+          "link": "https://news.cnblogs.com/n/733080/",
+          "publishedOn": "2022-12-08T09:41:00.000Z",
+          "wordCount": 161,
+          "title": "苹果升级安全保护功能：首次对iCloud备份端对端加密",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733079/",
+          "author": null,
+          "description": "新智元报道 编辑：Joey 如何延缓细胞衰老退化是科学家们一直以来的梦想，最近浙大医学院的研究团队想出了个新点子——给细胞插上电池，让动物细胞也能光合作用，还登上了 Nature。 你有没有想过，人的细胞也能像植物一样光合作用？ 从菠菜中提取「生物电池」类囊体，让动物细胞也通过光合作用获取能量，从而\n本文链接",
+          "link": "https://news.cnblogs.com/n/733079/",
+          "publishedOn": "2022-12-08T09:34:00.000Z",
+          "wordCount": 161,
+          "title": "浙大重磅研究登Nature：人类也能「光合作用」，让衰老细胞返老还童",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733078/",
+          "author": null,
+          "description": "文/刘煜荷 来源/电厂（ID:wonder-capsule） 12 月 5 日，新茶饮今年最大的一笔投资落幕。奈雪的茶宣布以 5.25 亿元收购乐乐茶 43.64％ 股本权益，成为乐乐茶第一大股东。 至此，这个几经起伏的公司，在餐饮业寒冬之中终于找到买家。 不过，业内人士认为，乐乐茶一开始的“大店茶\n本文链接",
+          "link": "https://news.cnblogs.com/n/733078/",
+          "publishedOn": "2022-12-08T09:22:00.000Z",
+          "wordCount": 161,
+          "title": "奈雪5.25亿“捡漏” 收购，乐乐茶真值12亿？",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/733011/",
           "author": null,
@@ -8510,376 +8710,6 @@
           "publishedOn": "2022-11-10T08:53:00.000Z",
           "wordCount": 161,
           "title": "拆分平头哥，阿里在犹豫什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731370/",
-          "author": null,
-          "description": "新智元报道 编辑：David 两位人美歌甜的宝岛妹子主播，街头直播唱歌偶遇黄仁勋，老黄还过来点了歌，全程欢乐互动，而且，她们其实并不知道老黄是谁。 小主播户外直播唱歌，竟偶遇「皮衣刀客」黄仁勋，对面还过来点了首歌，这是什么体验？ 而且看起来她们并不知道黄仁勋是谁，不过照样全程欢乐互动。 事情是这样的\n本文链接",
-          "link": "https://news.cnblogs.com/n/731370/",
-          "publishedOn": "2022-11-09T10:41:14.000Z",
-          "wordCount": 161,
-          "title": "笑死！俩美女路边直播拉路人点歌，结果拉来了黄仁勋，全程魔性互动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731369/",
-          "author": null,
-          "description": "文/裴培 来源/互联网怪盗团（ID:TMTphantom） 以苹果、谷歌、亚马逊、Meta、微软五巨头为代表的美国科技公司（包括但不限于互联网公司）已经全部公布了 2022 年第三季度财报。在中文互联网，你能看到很多关于“美国科技行业不行了”的言论；今天我在微博上还看到了“扎克伯格承认 Meta 判\n本文链接",
-          "link": "https://news.cnblogs.com/n/731369/",
-          "publishedOn": "2022-11-09T10:30:00.000Z",
-          "wordCount": 161,
-          "title": "美国科技巨头有“危机”吗？好像没有",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731368/",
-          "author": null,
-          "description": "明敏发自凹非寺 量子位公众号 QbitAI 火爆全球的 Stable Diffusion，预训练和微调成本，正式被打下来了！ 现在，预训练的速度被提升到 6. 5 倍，成本直降 85%； 微调只需 RTX 2070/3050 即可搞定，硬件成本直降近九成。 这就是国产项目 Colossal-AI 最\n本文链接",
-          "link": "https://news.cnblogs.com/n/731368/",
-          "publishedOn": "2022-11-09T10:18:00.000Z",
-          "wordCount": 161,
-          "title": "AI画画模型成本打下来了！预训练成本降85%，单张RTX 2070可微调",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731367/",
-          "author": null,
-          "description": "羿阁发自凹非寺 量子位公众号 QbitAI 自称“业余 up 主”的 AI 大神李沐，刚刚搞了个造福剪辑圈的神器。 如果你还在犯愁每次剪视频都要反复听才能下手，不妨试试它： 连 pr 都不用打开，只需对照字幕就能轻松切掉空白停顿、反复重来的地方，简直分分钟出片！ 而且目前已在 GitHub 上开源。\n本文链接",
-          "link": "https://news.cnblogs.com/n/731367/",
-          "publishedOn": "2022-11-09T10:10:00.000Z",
-          "wordCount": 161,
-          "title": "AI大神李沐开源新手剪辑神器！只看字幕就剪，卡壳片段一键删除",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731366/",
-          "author": null,
-          "description": "丰色发自凹非寺 量子位公众号 QbitAI “不管你开不开这个选项，苹果都会对你的数据照收不误！” 这两天，有两位技术人员做了个实验，发现一向宣称最注重用户隐私的苹果居然说一套做一套？！ 事情是这样的，iPhone 手机“设置-隐私”里面有个“共享 iPhone 分析”选项。 按照官方解释，只要不打\n本文链接",
-          "link": "https://news.cnblogs.com/n/731366/",
-          "publishedOn": "2022-11-09T10:03:00.000Z",
-          "wordCount": 161,
-          "title": "原来iPhone的隐私追踪设置都是摆设！关了还在收集数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731365/",
-          "author": null,
-          "description": "文/神乐 来源/懂懂笔记（ID:dongdong_note） 如今，很多年轻人手中的智能手机，即可满足办公、游戏、听歌及煲剧的需求，又可以通过强大的拍摄功能，让每个人成为摄影达人。 因此，很多人都已经彻底忘记数码相机的模样了。不过，这一段时间，销声匿迹多年的 CCD 卡片机又再度翻红，甚至在一些短视\n本文链接",
-          "link": "https://news.cnblogs.com/n/731365/",
-          "publishedOn": "2022-11-09T09:55:00.000Z",
-          "wordCount": 161,
-          "title": "CCD卡片机又火了：情怀的背后，电子古董还是电子废品？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731364/",
-          "author": null,
-          "description": "杨净 Pine 发自凹非寺 量子位公众号 QbitAI 咋，我不就接个电话，怎么手机秒秒钟变了八百个样？！ 就在你眼前，苹果手机直接变成了复古电脑。要说这种魔法，特效根本学不来。 最近，这样一则短视频在社交平台上爆火，揭秘视频 20+ 万观看，5400+ 点赞。 视频里的这位是一名华人导演。所谓的魔\n本文链接",
-          "link": "https://news.cnblogs.com/n/731364/",
-          "publishedOn": "2022-11-09T09:48:00.000Z",
-          "wordCount": 161,
-          "title": "Stable Diffusion入侵短视频，华人导演玩得太6，小扎都来请她",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731363/",
-          "author": null,
-          "description": "新智元报道 编辑：Cris 苹果的 AR 眼镜和电动汽车，究竟哪个会先来到… 你敢相信吗？令全球「果粉」望眼欲穿的 AR 眼镜，发布时间竟然又又又又推迟了！ 知名分析师 Jeff Pu 表示：由于设计问题，苹果的第一款 AR 眼镜已被推迟至 2025，最晚则可能在 2026 年问世。 要知道，今年 \n本文链接",
-          "link": "https://news.cnblogs.com/n/731363/",
-          "publishedOn": "2022-11-09T09:40:00.000Z",
-          "wordCount": 161,
-          "title": "最晚2026！苹果研发的AR眼镜，又放鸽子了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731362/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 美国大学又迎来一位华裔女校长！ 近日，材料科学家王劲柳博士，已经当选伍斯特理工学院（WPI）第 17 任校长。 2023 年 4 月 3 日，她将正式接任校长一职。 个人成就：横跨政府、产业、学术三界 王劲柳在北京化工大学获得了高分子材料的学士和硕士学位，在美国西北大学获得\n本文链接",
-          "link": "https://news.cnblogs.com/n/731362/",
-          "publishedOn": "2022-11-09T09:30:00.000Z",
-          "wordCount": 161,
-          "title": "又一位华裔女性当选美大学校长！横跨产学政的她还是北化校友",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731361/",
-          "author": null,
-          "description": "新智元报道 编辑：David 是时候还债了！美国法庭驳回硅谷最大女骗子伊丽莎白·霍姆斯的重审请求，她将于下周被宣判，面临最高 20 年牢狱生活。 硅谷最大的女骗子、有「女版乔布斯」之称的伊丽莎白·霍姆斯（Elizabeth Holmes）距离入狱服刑可能没剩几天了。 近日，美国法庭驳回了她关于案件重\n本文链接",
-          "link": "https://news.cnblogs.com/n/731361/",
-          "publishedOn": "2022-11-09T09:23:00.000Z",
-          "wordCount": 161,
-          "title": "20年铁窗！硅谷最大女骗子、「女版乔布斯」即将入狱服刑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731360/",
-          "author": null,
-          "description": "文/汤一涛 来源/电厂（ID:wonder-capsule） 马斯克已经开始后悔胡乱开除员工了。 上周的裁员可以称得上是混乱，大约有 3700 人被裁，是 Twitter 员工总数的一半。许多员工都是在收到电子邮件或者发现自己的 Slack 账户无法使用后，才知道自己被裁了。 但是两天后，反转出现，\n本文链接",
-          "link": "https://news.cnblogs.com/n/731360/",
-          "publishedOn": "2022-11-09T09:16:00.000Z",
-          "wordCount": 161,
-          "title": "崩坏的马斯克，崩坏的Twitter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731359/",
-          "author": null,
-          "description": "2022 年 8 月，一场小规模的开发者评测局悄悄展开，评测的对象是一个连中文名都还没有，只有英文代号的新平台。 不到三周的时间，这个没做什么传播的评测，却迅速吸引来了四五十万的浏览量。 这些开发者的“水平”参差不齐，但都被一个事吸引而来： 在这个新上线的平台上，曾经遥不可及或被牢牢锁在黑箱子里的数\n本文链接",
-          "link": "https://news.cnblogs.com/n/731359/",
-          "publishedOn": "2022-11-09T09:08:00.000Z",
-          "wordCount": 161,
-          "title": "达摩院决定交出家底儿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731358/",
-          "author": null,
-          "description": "文/白羊 来源：TopKlout 克劳锐（ID:TopKlout) 历经了 14 年，今年的双 11 有些不一般。 显而易见的一点是，本届双 11 与往年比起来似乎显得“稀松平常”了不少，这一方面是因为平台间火热的“战报”、“补贴”之争消失不见，导致大促的空气中缺了“火药味”；另一方面则因消费者们普\n本文链接",
-          "link": "https://news.cnblogs.com/n/731358/",
-          "publishedOn": "2022-11-09T09:00:00.000Z",
-          "wordCount": 161,
-          "title": "没了“火药味”的双十一，C位主播们选择“多栖”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731357/",
-          "author": null,
-          "description": "文/刘星志 来源/盒饭财经（ID：daxiongfan） 一则传闻让国内两大“果链”行业龙头呈现出截然不同的股价走势。11 月 9 日早盘，歌尔股份开盘一字跌停，报 20.72 元/股；立讯精密则开盘大涨 4.62%。 事情起于 11 月 8 日晚 7 时左右股吧社区流传的一则消息。根据网传截图，该\n本文链接",
-          "link": "https://news.cnblogs.com/n/731357/",
-          "publishedOn": "2022-11-09T08:45:00.000Z",
-          "wordCount": 161,
-          "title": "苹果“砍单”，代工厂数万人离职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731356/",
-          "author": null,
-          "description": "文/高心驰 来源：众面（ID:ZhongMian_ZM) 你很难想象一个人身穿西服打耳钉，但如果这个人是徐雷，一切似乎又都变得合理化。 01 二号人物文艺史 2021 年 9 月，徐雷出任京东总裁；半年后，徐雷出任京东 CEO，成为京东真正意义上的二号人物。 互联网的一众高管中，徐雷是一个特殊的存在\n本文链接",
-          "link": "https://news.cnblogs.com/n/731356/",
-          "publishedOn": "2022-11-09T08:35:00.000Z",
-          "wordCount": 161,
-          "title": "京东“二代目”徐雷急了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731355/",
-          "author": null,
-          "description": "原标题：谁在搞垮B站 文小卢鱼 编辑 杨旭然 来源：巨潮 WAVE 最近，当各大平台和商家都在备战双十一的时候，B站也低调加入战场，在直播分区正式上线了购物专区。该区的直播间会全量放开购物“小黄车”功能，UP 主也会添加相关链接。 此举被视作B站在直播带货领域的开荒、商业化征程中的又一次尝试。 当然\n本文链接",
-          "link": "https://news.cnblogs.com/n/731355/",
-          "publishedOn": "2022-11-09T08:25:00.000Z",
-          "wordCount": 161,
-          "title": "转型举步维艰，B站商业化如何破局？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731354/",
-          "author": null,
-          "description": "毋庸置疑，从微信到 GoJek，超级应用（super app）正在成为一股新的东方巨浪，颇有席卷全球互联网之势。最近，互联网顶流 Elon Musk 也在推特表示，收购推特是为了加速创建 X 全能应用（everything app）。什么是超级应用或者 everything app，为什么它这么火？\n本文链接",
-          "link": "https://news.cnblogs.com/n/731354/",
-          "publishedOn": "2022-11-09T08:13:00.000Z",
-          "wordCount": 161,
-          "title": "宇宙的尽头是超级应用吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731353/",
-          "author": null,
-          "description": "Zoom 正在发布新的邮件和日历客户端和服务，作为其在年度 Zoomtopia 活动中宣布的最新一轮商业功能的一部分。作为测试版，类似 Outlook 的邮件和日历将被纳入该公司统一的 Zoom One 界面，与其他工具如团队聊天、白板、电话和会议一起使用。 随着最近 Zoom Team Chat \n本文链接",
-          "link": "https://news.cnblogs.com/n/731353/",
-          "publishedOn": "2022-11-09T08:00:00.000Z",
-          "wordCount": 161,
-          "title": "Zoom正通过上线电子邮件和日历服务来争夺微软的地盘",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731352/",
-          "author": null,
-          "description": "文｜雷科技 上周五，哔哩哔哩公司发布了一封内部邮件，宣告游戏业务的汇报线将从公司高级副总裁张峰，调整至公司 CEO 陈睿。 一言以蔽之，陈睿要亲自接管B站游戏业务了。 据邮件称，此次汇报线及人事调整，目的在于进一步加强游戏业务，落实「自研精品、全球发行」的游戏业务战略。 公司 CEO 亲自出来接管一\n本文链接",
-          "link": "https://news.cnblogs.com/n/731352/",
-          "publishedOn": "2022-11-09T07:53:00.000Z",
-          "wordCount": 161,
-          "title": "B站游戏的下半场，陈睿替补上场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731351/",
-          "author": null,
-          "description": "品玩 11 月 9 日讯，《炉石传说》开发商动视暴雪今天宣布，将会在《炉石传说》中加入无障碍模式，为更多玩家服务。 暴雪已经在官方论坛公布此事，该模式将会为盲人和低视力玩家服务，为他们提供语音辅助功能。不过暴雪表示，这个功能短时间内无法完成，需要等待一段时间。 图源：暴雪官网 此前，有语音插件开发者\n本文链接",
-          "link": "https://news.cnblogs.com/n/731351/",
-          "publishedOn": "2022-11-09T07:45:00.000Z",
-          "wordCount": 161,
-          "title": "暴雪回应盲人玩家 将为《炉石传说》增加无障碍功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731296/",
-          "author": null,
-          "description": "图源：东方 IC 文/沈毅斌 来源/IT 时报（ID:vittimes） 一月一政策，电子烟被扼住了咽喉。 10 月 1 日，由国家市场监管总局和国家烟草专卖局制定的《电子烟强制性国家标准》（以下简称《电子烟国标》）正式实施。其中明确规定，电子烟生产企业、零售店等市场主体必须取得烟草专卖许可证；零售\n本文链接",
-          "link": "https://news.cnblogs.com/n/731296/",
-          "publishedOn": "2022-11-09T00:40:00.000Z",
-          "wordCount": 161,
-          "title": "水果味“地下交易” 电子烟“风雨时刻”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731295/",
-          "author": null,
-          "description": "漫画来源视觉中国 作者/赵丽梅 编辑/宁迪 今年 9 月，00 后姑娘李雯雯（化名）在上网课时，线上课堂遭遇了两次入侵，第一次被入侵时，是在一天下午的英语课上，第二次是在次日上午的语文课上。 第一次入侵时间长达 10 分钟，入侵者准备离开课堂时报出了李雯雯的名字，这触动了李雯雯的神经，让她十分迷惑，\n本文链接",
-          "link": "https://news.cnblogs.com/n/731295/",
-          "publishedOn": "2022-11-09T00:30:00.000Z",
-          "wordCount": 161,
-          "title": "年轻人卧底“网课爆破群”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731294/",
-          "author": null,
-          "description": "With Love From Apple。 原标题：Jony Ive on Life After Apple 原作者：Elisa Lipsky-Karasz 链接：https://www.wsj.com/articles/jony-ive-apple-design-interview-profile\n本文链接",
-          "link": "https://news.cnblogs.com/n/731294/",
-          "publishedOn": "2022-11-09T00:25:00.000Z",
-          "wordCount": 161,
-          "title": "Jony Ive，离开苹果之后",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731293/",
-          "author": null,
-          "description": "北京时间 11 月 8 日上午消息，据报道，特斯拉 CEO 埃隆·马斯克考虑对推特所有用户开启“付费墙”。对此，推特尚未置评。 在掌管了推特之后，马斯克已对 Twitter Blue（“蓝V认证”）征收每月 8 美元的订阅费。 此外，除了炒掉推特原 CEO、CFO 等一系列高管外，马斯克还对推特进行\n本文链接",
-          "link": "https://news.cnblogs.com/n/731293/",
-          "publishedOn": "2022-11-09T00:19:00.000Z",
-          "wordCount": 161,
-          "title": "“蓝V”付钱还不够？马斯克考虑对推特所有用户收费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731292/",
-          "author": null,
-          "description": "每经记者杨昕怡 每经编辑刘雪梅 “五年后的转转，一定不会是现在的样子。因为转转要做的是服务，这需要一个很慢的过程。”11 月 7 日，在转转集团的品牌焕新暨战略升级发布会上，转转集团 CEO 黄炜对《每日经济新闻》记者谈及对转转未来的想象。 在他的展望里，转转是一个不停升级的产品。也正是如此，发布会\n本文链接",
-          "link": "https://news.cnblogs.com/n/731292/",
-          "publishedOn": "2022-11-09T00:13:00.000Z",
-          "wordCount": 161,
-          "title": "战投红布林，转转集团转型循环经济公司，二手交易还是一门好生意吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731291/",
-          "author": null,
-          "description": "出品/三言财经 乐视又上热搜了。 天眼查显示，近日，乐视控股（北京）有限公司新增一则开庭公告，原告为贾跃亭等，案由为借款合同纠纷，案件将于 11 月 29 日在山西省高级人民法院开庭。 随后，#贾跃亭因借款纠纷起诉乐视#话题登上热搜。 今日，乐视视频官方微博发文澄清此事称，贾跃亭从未起诉乐视(包含乐\n本文链接",
-          "link": "https://news.cnblogs.com/n/731291/",
-          "publishedOn": "2022-11-09T00:08:00.000Z",
-          "wordCount": 161,
-          "title": "到底谁是“乐视”？宣布学新东方2个月后，带货成绩咋样了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731290/",
-          "author": null,
-          "description": "来源：福布斯 文/Joanne Chen 近日，Susan Li 正式成为了 Meta 的新任 CFO，虽然 36 岁的她是在大型上市公司中担任这一职位的最年轻的人之一，但其早已经习惯了与众不同——2 岁时从中国移居美国，在俄勒冈州长大，11 岁就进入高中，15 岁就上了大学。 Susan Li 把\n本文链接",
-          "link": "https://news.cnblogs.com/n/731290/",
-          "publishedOn": "2022-11-09T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "作为Meta的新任华裔CFO，Susan Li如何拥抱“与众不同”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731289/",
-          "author": null,
-          "description": "求职学生查看招聘岗位信息。 中新社记者陈骥旻/视觉中国图 文/范佳来 互联网大厂发展渐入平台期之际，一些追求长期成长性的应届毕业生，开始将目光投向了中厂。 所谓中厂，指的是规模没那么庞大但在业内也拥有相当知名度和口碑的公司，它们的产品在竞争激烈的市场中也获得了一席之地，甚至让一些大厂为之警惕，是行业\n本文链接",
-          "link": "https://news.cnblogs.com/n/731289/",
-          "publishedOn": "2022-11-08T15:20:00.000Z",
-          "wordCount": 161,
-          "title": "不再是大厂备胎，互联网中厂开抢人才",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731288/",
-          "author": null,
-          "description": "记者/丁舟洋杜蔚可杨 编辑/魏官红 打开寺库 App，“双 11”热促开屏广告占据着首页，一眼看去其与一家如火如荼的消费电商无异。 图片来源：寺库 App 开屏截图 可实际上，这家顶着“中国奢侈品电商第一股”光环的平台，在经营危机的漩涡中反复拉扯已长达两年。 社交网站上充斥着消费者们对寺库的“声讨”\n本文链接",
-          "link": "https://news.cnblogs.com/n/731288/",
-          "publishedOn": "2022-11-08T15:10:00.000Z",
-          "wordCount": 161,
-          "title": "退市边缘的寺库 拿什么再融13亿？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731287/",
-          "author": null,
-          "description": "新浪科技讯，北京时间 11 月 8 日晚间消息，据报道，为了应对潜在的经济衰退，美国科技公司纷纷加紧裁员，目前已接近新冠肺炎疫情爆发初期的水平。 人力资源机构 Challenger, Gray & Christmas Inc. 数据显示，在刚刚过去的 10 月份，随着科技高管对经济前景越来越悲观，美\n本文链接",
-          "link": "https://news.cnblogs.com/n/731287/",
-          "publishedOn": "2022-11-08T15:00:00.000Z",
-          "wordCount": 161,
-          "title": "机构数据：美国科技公司10月裁员9587人 创两年来新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731286/",
-          "author": null,
-          "description": "图片来源：ZOE PRINDS-FLASH 来源：财富中文网 作者/艾米·内特菲尔德 译者/刘进龙 审校/汪皓 每次看到“躺平”（quiet quitting）这种词汇，我都会心跳加速。Z世代在 TikTok 上让这个词流行起来。它鼓励员工做最低限度的工作。它令我变得像少年时一样恐慌。那时候，哪怕偷\n本文链接",
-          "link": "https://news.cnblogs.com/n/731286/",
-          "publishedOn": "2022-11-08T14:22:00.000Z",
-          "wordCount": 161,
-          "title": "前谷歌工程师：为了六位数工资，我无法躺平",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731285/",
-          "author": null,
-          "description": "文/夏天 来源/银杏科技（ID:yinxingcj） 3C 有两个标志，一个是京东，一个是罗永浩，这么多年二者从未合流。 无论你喜欢或不喜欢，承认或否认，流量数据和关注度都摆在那里：有罗永浩的地方，注定不会冷清。 相同的道理，这么多年无论苏宁还是天猫的猛攻，抑或是从外卖介入即时零售的美团，都没能撼动\n本文链接",
-          "link": "https://news.cnblogs.com/n/731285/",
-          "publishedOn": "2022-11-08T14:11:00.000Z",
-          "wordCount": 161,
-          "title": "淘宝、美团借“刀”，京东3C更需要罗永浩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731284/",
-          "author": null,
-          "description": "欢迎关注“新浪科技”的微信订阅号：techsina 文/严张攀 来源/有数 DataVision（ID:ycsypl） 11 月 7 日，雪湖资本创始人发布了一篇瑞幸咖啡的研报，全篇重点就一句话： 瑞幸目标价 46 美元。（现在 18 美元） 雪湖上一次出名，还是 2020 年浑水做空瑞幸时，市场广\n本文链接",
-          "link": "https://news.cnblogs.com/n/731284/",
-          "publishedOn": "2022-11-08T14:00:00.000Z",
-          "wordCount": 161,
-          "title": "两年前做空瑞幸的雪湖资本：我为什么旗帜鲜明的看好瑞幸？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731283/",
-          "author": null,
-          "description": "文/彦飞 来源/字母榜（ID:wujicaijing） 国美陷入资金链断裂的空前危机，黄光裕正在四处寻找“白衣骑士”。 上周五传出消息，国资背景的厦门建发集团有意出手，向国美提供 100 亿元人民币融资。但这一传闻来自“接近国美的业内人士”，且在国美停发工资冲上热搜后突兀释放，可信度存疑。 对于这笔\n本文链接",
-          "link": "https://news.cnblogs.com/n/731283/",
-          "publishedOn": "2022-11-08T13:50:00.000Z",
-          "wordCount": 161,
-          "title": "黄光裕没有真朋友",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731282/",
-          "author": null,
-          "description": "文/花子健 来源/电厂（ID:wonder-capsule） 2022 年 10 月下旬，北京侨福芳草地商场（以下简称芳草地）送走了它的首位电动车朋友——特斯拉，这家公司宣布关闭了其在华的首个门店。但这家商场并不用担心空置的门店位置，毕竟，它已经习惯了电动车的“驾进驶出”。 2013 年特斯拉进入芳\n本文链接",
-          "link": "https://news.cnblogs.com/n/731282/",
-          "publishedOn": "2022-11-08T13:42:00.000Z",
-          "wordCount": 161,
-          "title": "特斯拉“逃离”芳草地，但造车新势力还在涌入商场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731281/",
-          "author": null,
-          "description": "编辑/卞纯 多年来，日本消费者一直热衷于购买最新的电子产品，而现在日元持续暴跌，令当地消费降级：由于买不起新款 iPhone，日本人纷纷开始淘二手货。 日元兑美元汇率已跌至 32 年低点，严重打击了日本消费者的购买力，并改变了他们的消费偏好。 行业观察人士表示，日本消费者对购买二手物品变得更加开放，\n本文链接",
-          "link": "https://news.cnblogs.com/n/731281/",
-          "publishedOn": "2022-11-08T13:30:00.000Z",
-          "wordCount": 161,
-          "title": "苹果需求缩水？日元贬值催生消费降级：日本人掀起二手iPhone热",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/731280/",
-          "author": null,
-          "description": "作者/远洋 动视暴雪今日公布了该公司的 2022 财年第三季度财报，财报还提到了暴雪在中国国内的业务未来可能会出现的一些问题。 暴雪和网易的协议将于 2023 年 1 月到期，暴雪官方称正在讨论续签这些协议，但最终可能无法达成令双方都满意的协议。不过，玩家不用担心《暗黑破坏神：不朽》的国服问题，因为\n本文链接",
-          "link": "https://news.cnblogs.com/n/731280/",
-          "publishedOn": "2022-11-08T13:22:00.000Z",
-          "wordCount": 161,
-          "title": "动视暴雪：与网易的协议即将到期，可能无法续签",
           "imageUrl": null
         }
       ]
