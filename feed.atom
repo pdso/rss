@@ -2,10 +2,216 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T01:13:37.382Z</updated>
+    <updated>2022-12-19T01:11:06.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Let's Encrypt 支持 ACME-CAA]]></title>
+        <id>https://www.solidot.org/story?sid=73685</id>
+        <link href="https://www.solidot.org/story?sid=73685"/>
+        <updated>2022-12-18T14:58:26.000Z</updated>
+        <summary type="html"><![CDATA[Let's Encrypt 宣布支持 ACME-CAA(Certification Authority Authorization)——它是 DNS CAA 记录的一个扩展，旨在堵上 Domain Validation（域名验证）的漏洞。SSL 证书的一个主要目的是限制中间人攻击。而当你从 CA 如 Let's Encrypt 为一个域名申请证书，Let's Encrypt 必须采取措施确认你是域名的合法所有者。域名验证的方法通常是 CA 生成随机的质询字符串，要求你将其托管在自己的域名上。如果你成功的完成了这一要求，那么意味着你控制着该域名，因此是域名的合法运营者。问题是在执行域名验证时你还没有 SSL 证书，也就是说 CA 验证你的域名是通过 HTTP 而不是 HTTPS，这意味着整个域名验证过程容易遭到中间人攻击。ACME-CAA 就是设计堵上漏洞，要求 CAA 记录指向 Let’s Encrypt 的一个特定帐户名。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯联盟飞船可能遭微陨石撞击]]></title>
+        <id>https://www.solidot.org/story?sid=73684</id>
+        <link href="https://www.solidot.org/story?sid=73684"/>
+        <updated>2022-12-18T13:43:20.000Z</updated>
+        <summary type="html"><![CDATA[与国际空间站对接的俄罗斯联盟号飞船 MS-22 本周早些时候发生冷却剂泄露事故，俄罗斯宇航员 Sergey Prokopyev 和 Dmitri Petelin 原计划进行的太空行走被取消。俄罗斯宇航官员表示，事故很有可能是微陨石撞击导致的，空间站的宇航员没有任何安全危险。俄罗斯载人航天任务负责人 Sergei Krikalev 称，陨石撞击了 MS-22 的一个散热器，可能导致冷却剂泄漏。这一事故可能会影响飞船冷却系统性能和设备部分温度，但不会危及乘员。NASA 和俄罗斯航天局将在评估之后决定空间站未来的运作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gmail 开始向部分用户提供端对端加密]]></title>
+        <id>https://www.solidot.org/story?sid=73683</id>
+        <link href="https://www.solidot.org/story?sid=73683"/>
+        <updated>2022-12-18T13:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Google 周五宣布向部分 Gmail 用户提供端对端加密——Google 称其为 Gmail CSE。一旦启用，邮件主体、附件和内嵌图像都将在传输和储存在网盘前由客户端的浏览器进行加密，Google 服务器将无法获得加密密钥，因此也无法对其进行解密。邮件的标题、时间戳和收件人名单不加密。目前该功能提供给 Google Workspace Enterprise Plus、Education Plus 或 Education Standard 客户，他们都可以申请 Gmail CSE beta。该功能暂时不会提供给普通用户。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“软件开发”的世界变了]]></title>
+        <id>https://news.cnblogs.com/n/733610/</id>
+        <link href="https://news.cnblogs.com/n/733610/"/>
+        <updated>2022-12-18T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[在软件发展的几十年历程中，人们一直在追求更高效地交付更高质量的软件。无论是革新软件工程思想，还是创造高效好用的开发工具、测试框架等等，都是为了提高整个软件开发的效率。 然而，如今云计算、人工智能等技术高速发展，软件服务市场竞争已经变得异常激烈，人们对于软件交付的周期已经从原来的季度、年度单位缩短到了
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称 Twitter 解雇了部分基础设施部门的工程师]]></title>
+        <id>https://news.cnblogs.com/n/733609/</id>
+        <link href="https://news.cnblogs.com/n/733609/"/>
+        <updated>2022-12-18T03:42:00.000Z</updated>
+        <summary type="html"><![CDATA[12 月 18 日消息，据 The Information 报道，一位消息人士称，Twitter 周五晚间解雇了其部分基础设施组织的工程师，减少了该公司维持社交媒体服务运行的部分人员。这次裁员是在该部门的一些领导人被解雇几天后进行的，是马斯克在 Twitter 进行的一系列裁员中的最新一次，在过去六
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李想的“Tim Cook”离职了，现在他说理想必须变阵把航向瞄准华为]]></title>
+        <id>https://news.cnblogs.com/n/733608/</id>
+        <link href="https://news.cnblogs.com/n/733608/"/>
+        <updated>2022-12-18T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[李想背后的男人 创业伊始，李斌与李想干的第一件事就是为自己物色合作伙伴。李想选了理科生，从联想挖来了善于做供应链管理的沈亚楠，李斌则偏爱文科生，从当时在龙湖地产，有快消品行业和咨询公司经验，擅于做营销的秦力洪。 李斌与李想对于二把手的选择，都是基于他们对企业未来发展设想的倾向：李斌希望打造独一无二的
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国空间站将于 12 月 18 日部署立方体卫星]]></title>
+        <id>https://news.cnblogs.com/n/733607/</id>
+        <link href="https://news.cnblogs.com/n/733607/"/>
+        <updated>2022-12-18T03:22:00.000Z</updated>
+        <summary type="html"><![CDATA[品玩 12 月 17 日讯，据 IT 之家援引业余无线电新闻称，中国业余卫星组织 CAS-10 (希望 4 号) 卫星将于 12 月 18 日与中国空间站分离并进入运行轨道。 图源：IT 之家 据介绍，CAS-10 是一颗 8U 立方体卫星，体积约 228x455x100mm，重量约 12 公斤。C
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic假日特卖正式开启， 除了折扣还有每日免费游戏和优惠券]]></title>
+        <id>https://news.cnblogs.com/n/733606/</id>
+        <link href="https://news.cnblogs.com/n/733606/"/>
+        <updated>2022-12-18T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[随着圣诞节还有新年的到来，Epic 游戏商城正式开启了假日特卖。特卖时间将会从 12 月 17 日，也就是今天，一直持续到明年的 1 月 6 日。就算你暂时想不到应该买什么，总共三周的特卖时间也足以让你仔细斟酌后再做决定。 在折扣方面，更是多款游戏拥有 2.5 折甚至更低的优惠。比如《巫师3：狂猎-
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加获OPPO百亿资金投入 为做好产品硬件综合净利润率可以为0]]></title>
+        <id>https://news.cnblogs.com/n/733605/</id>
+        <link href="https://news.cnblogs.com/n/733605/"/>
+        <updated>2022-12-18T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[12 月 17 日消息，一加 9 周年庆上，OPPO 首席产品官、一加创始人刘作虎在活动上宣布 OPPO 正式开启双品牌时代，OPPO 线上就是一加。同时，OPPO 为一加开启「护航计划」，未来三年将单独为一加投入 100 亿，并在技术、渠道、服务等方面提供全方位支持。一加中国区总裁李杰表示，为了做
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“点淘”APP推荐页现“赌石”直播，淘宝：若赌博会处罚]]></title>
+        <id>https://news.cnblogs.com/n/733604/</id>
+        <link href="https://news.cnblogs.com/n/733604/"/>
+        <updated>2022-12-18T02:55:00.000Z</updated>
+        <summary type="html"><![CDATA[“投 500 元买个机会，满绿现场转账 40 万。明天就能买三亚海景房，美女香车大别墅，走向人生巅峰。” 12 月 15 日凌晨 1 时许，澎湃新闻（www.thepaper.cn）记者在淘宝推出的直播 APP“点淘”的推荐页发现，一个拥有 4 万多观看人数、名为“玉石辉煌”（备注：现已改名为“大展
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼高管暗示将推出新版 PS5，称 2023 将是非常重要的一年]]></title>
+        <id>https://news.cnblogs.com/n/733603/</id>
+        <link href="https://news.cnblogs.com/n/733603/"/>
+        <updated>2022-12-18T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 12 月 18 日消息，索尼 PlayStation 5 发布已有两年多的时间，虽然看起来外观没什么不一样的地方，但实际上每年都会有一个小小的改版机型，主要是优化内部散热设计，降低机身重量。 现在，形势逐渐明朗，主机的销售也趋于稳定。一些关于升级款 PlayStation 5（Pro）的
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米平板 6/6 Pro 现身：后者采用骁龙 8 + 处理器、OLED 屏]]></title>
+        <id>https://news.cnblogs.com/n/733602/</id>
+        <link href="https://news.cnblogs.com/n/733602/"/>
+        <updated>2022-12-18T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 12 月 18 日消息，据 Xiaomiui 报道，日前小米代码库中出现了小米平板 6 和小米平板 6 Pro 的身影。 其中，小米平板 6 的代号是“pipa（琵琶）”，型号为“M82”，搭载了骁龙 870 芯片组，上一代小米平板 5 采用的是骁龙 860，性能方面有了一定提升，新的芯
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022，AIGC元年？]]></title>
+        <id>https://news.cnblogs.com/n/733601/</id>
+        <link href="https://news.cnblogs.com/n/733601/"/>
+        <updated>2022-12-18T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[AIGC，进入爆发期。 文｜世昕 编｜石灿 2022 年 12 月 16 日，Science 杂志发布了 2022 年度科学十大突破，韦伯望远镜当选为年度最大科学突破，可谓实至名归。而在其他入选的科学突破中，AIGC 也赫然在列。 这或许是当下最炙手可热的概念了。无论是火遍全网的 AI 绘画，还是震
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传奇程序员约翰・卡马克宣布从 Meta 离职]]></title>
+        <id>https://news.cnblogs.com/n/733600/</id>
+        <link href="https://news.cnblogs.com/n/733600/"/>
+        <updated>2022-12-18T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 12 月 18 日消息，传奇程序员、《德军总部 3D》《雷神之锤》等游戏的制作人，以及 id Software 的创始人 —— 约翰・卡马克，今天宣布他将从 Meta 辞职。卡马克于 2013 年加入 Oculus，担任首席技术官，之后该公司于 2014 年被 Meta（当时还叫 Fac
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疑似奇瑞、华为、宁德时代合作打造的首款车型谍照曝光]]></title>
+        <id>https://news.cnblogs.com/n/733599/</id>
+        <link href="https://news.cnblogs.com/n/733599/"/>
+        <updated>2022-12-18T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 12 月 18 日消息，据易车报道，日前从相关渠道获得了疑似奇瑞、华为、宁德时代三方合作打造的首款车型谍照。 从谍照来看，这是一款轿车，采用溜背造型。预计新车将会集成三家的造车、智能驾驶系统、电池等方面的技术优势，猜测可能会在 2023-2024 年之间上市。 12 月 14 日，宁德时
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔拟推迟德国芯片厂建设 希望获得更多政府补贴]]></title>
+        <id>https://news.cnblogs.com/n/733598/</id>
+        <link href="https://news.cnblogs.com/n/733598/"/>
+        <updated>2022-12-18T02:20:00.000Z</updated>
+        <summary type="html"><![CDATA[12 月 18 日消息，德国当地媒体 Volksstimme 报道称，美国芯片巨头英特尔将推迟在德国建设巨型芯片工厂的计划，并在寻求获得更多政府补贴。 今年早些时候，英特尔宣布将在德国马格德堡投资 170 亿欧元（约合 190 亿美元），建设其在欧洲的大型芯片制造厂。施工计划于 2023 年中期开始
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士康母公司突然撤回对紫光投资，不低于53.8亿元转让！背后有何隐情？]]></title>
+        <id>https://news.cnblogs.com/n/733597/</id>
+        <link href="https://news.cnblogs.com/n/733597/"/>
+        <updated>2022-12-18T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[经历 5 个多月的波折后，鸿海集团最终决定撤回对紫光集团的投资。 12 月 16 日晚，鸿海集团公告，工业富联（601138.SH）旗下兴微基金，以不低于人民币 53.8 亿元将所持有 48.91% 的晟粤广州有限合伙（简称“晟粤广州”）份额全数处分予烟台海秀积体电路产业投资中心(有限合伙)(简称“
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析师：特斯拉积压订单减少至20万以下，全球产量已明显高于销量]]></title>
+        <id>https://news.cnblogs.com/n/733596/</id>
+        <link href="https://news.cnblogs.com/n/733596/"/>
+        <updated>2022-12-18T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 12 月 17 日消息，自从柏林超级工厂、得州超级工厂开工之后特斯拉产能迅速上升，再算上加州超级工厂以及上海超级工厂完成产能升级，特斯拉目前挤压订单量正在迅速减少。 根据分析师 Troy Teslike 的说法，特斯拉全球电动汽车订单积压量近月来一直在迅速减少，截至 2022 年 11 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币圈“难以承受之痛”？重演FTX崩盘前一幕：币安币BNB暴跌]]></title>
+        <id>https://news.cnblogs.com/n/733595/</id>
+        <link href="https://news.cnblogs.com/n/733595/"/>
+        <updated>2022-12-18T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[距离 FTX 的崩盘危机已发生一个月，正当许多人以为其昔日的竞争对手币安可以在加密货币市场“独占鳌头”时，另一场危机似乎正在酝酿之中。 数据显示，截至目前，加密货币交易所币安的原生代币 BNB 在过去一天下跌了近 15%，过去一周下跌近 21%，是自 7 月以来的最低水平。 根据 CoinMarke
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[院士称抑郁症正成为负担最大的疾病]]></title>
         <id>https://www.solidot.org/story?sid=73682</id>
@@ -10016,373 +10222,6 @@ brew install pass
         <link href="https://www.solidot.org/story?sid=73417"/>
         <updated>2022-11-19T15:06:39.000Z</updated>
         <summary type="html"><![CDATA[Theranos 创始人霍姆斯(Elizabeth Holmes)周五被判处入狱 135 个月（11.25 年），终结了这位昔日硅谷神童非同一般的陨落。她被判犯有四项刑事欺诈罪，在 Theranos 血液测试技术的功效上欺骗投资者，其中包括新闻集团的 Rupert Murdoch 等名人。霍姆斯在法庭上落泪，表示非常抱歉，称她为公司付出了一切。法庭文件显示，她的辩护团队寻求判处不超过 18 个月的监禁。她将从 2023 年 4 月 27 日开始服刑。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic 称 Google 为防止动视暴雪推出应用商店而支付了 3.6 亿美元，动视否认]]></title>
-        <id>https://www.solidot.org/story?sid=73416</id>
-        <link href="https://www.solidot.org/story?sid=73416"/>
-        <updated>2022-11-19T10:04:23.000Z</updated>
-        <summary type="html"><![CDATA[《堡垒之夜》开发商 Epic Games 称，作为一项广泛协议的一部分，Google 向《使命召唤》开发商动视暴雪支付了 3.6 亿美元，动视在其中承诺不会创建一个应用商店与 Google 竞争。Epic 认为此举巩固了 Google 在 Android 生态系统的地位。Epic 还在递交到法庭的文件中称，Google 还以类似的方式向其它开发商支付费用，其中包括《英雄联盟》开发商 Riot Games 母公司腾讯，Google 每年向腾讯提供了 3000 万年美元。Google 和 动视暴雪都否认了 Epic 的指控。Google 表示它与开发商达成的协议是旨在鼓励为 Google Play 创建应用，Epic 对其商业对话的描述是错误的。动视暴雪表示 Google 从未要求、施压或让其同意不与 Google Play 展开竞争。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴哈马政府扣押了 FTX 4.77 亿美元资产]]></title>
-        <id>https://www.solidot.org/story?sid=73415</id>
-        <link href="https://www.solidot.org/story?sid=73415"/>
-        <updated>2022-11-19T09:31:38.000Z</updated>
-        <summary type="html"><![CDATA[本月早些时候 FTX 交易所申请破产的同时，有近 5 亿美元的加密货币资产从 FTX 的钱包转出，当时 FTX 的官员自称是黑客攻击。现在 FTX 公司总部所在地巴哈马政府承认，这是一次资产扣押行动。巴哈马证券委员会在一份声明中表示，该机构行使其监管权力，为妥善保管而采取行动将 FTX Digital Markets Ltd.的所有资产全部转移到委员会控制的钱包。巴哈马政府是直接通过 FTX 创始人 Sam Bankman-Fried 访问系统扣押了 4.77 亿美元数字资产。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴雪之后，网易入春？]]></title>
-        <id>https://news.cnblogs.com/n/731935/</id>
-        <link href="https://news.cnblogs.com/n/731935/"/>
-        <updated>2022-11-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[与三季度财报的喜忧参半类似，暴雪与网易的这场分手，也是如此。 作者杨知潮 编辑原野 来源：略大参考 在网易发布三季度财报的当天，合作 15 年的搭档暴雪游戏送上了一份“礼物”。一则终止合作的声明，让网易的股价一度大跌 10%。 事实上，暴雪能为网易提供的实际收入有限，因其旗下多数游戏都已年迈，空有情
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虎牙乱“啃”元宇宙]]></title>
-        <id>https://news.cnblogs.com/n/731934/</id>
-        <link href="https://news.cnblogs.com/n/731934/"/>
-        <updated>2022-11-19T04:35:00.000Z</updated>
-        <summary type="html"><![CDATA[撰文 文烨豪 编辑 吴先之 来源：光子星球 从陆续倒下的熊猫 TV、龙珠直播，再到今年关停的企鹅电竞，自千播大战停息以来，直播赛道陷入了大逃杀的局面。其中，虎牙作为幸存者，近些年一直在同亏损抗争。 北京时间 11 月 15 日，虎牙公布了 2022 年第三季度财报。财报显示，虎牙第三季度营收 23.
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被明星“围殴”的新氧，日子越来越难]]></title>
-        <id>https://news.cnblogs.com/n/731933/</id>
-        <link href="https://news.cnblogs.com/n/731933/"/>
-        <updated>2022-11-19T04:21:00.000Z</updated>
-        <summary type="html"><![CDATA[作者苏琦 编辑金玙璠 来源：开菠萝财经 在蹭明星这件事上，新氧可以说是“惯犯”了。 11 月 13 日，法院公告了一则新氧的致歉声明，内容显示新氧未经杨幂许可，使用其肖像用于“新氧”微信公众号，发布了不实信息和贬损杨幂的内容。新氧澄清，杨幂没有向其授权使用，两者亦不存在任何合作关系。 起诉新氧医美的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网易暴雪“分手往事”]]></title>
-        <id>https://news.cnblogs.com/n/731932/</id>
-        <link href="https://news.cnblogs.com/n/731932/"/>
-        <updated>2022-11-19T04:12:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜玛丽亚 编｜派公子 来源：派财经 11 月 17 日的游戏圈，哀鸿遍野。网易与暴雪双双官宣即将结束十四年合作长跑，双方合作将与 2023 年 1 月终止，意味着包括《魔兽世界》《炉石传说》等多个热门游戏即将暂停服务，且仍未找到接盘侠。 受此影响，截至 11 月 17 日收盘，网易股价跌超9% 至
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想不到，潮州特斯拉“失控”事故，在国外也吵翻了天]]></title>
-        <id>https://news.cnblogs.com/n/731931/</id>
-        <link href="https://news.cnblogs.com/n/731931/"/>
-        <updated>2022-11-19T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[广东潮州特斯拉事故已经过去 12 天。 11 月 15 日，微博认证广东潮州特斯拉事件车主家属的詹先生的最新一条微博停留在向特斯拉相关人员索要后台行车数据无果的内容上。 毫无疑问的，社交媒体上就这起事故吵开了锅，有网友认为，这起事故与 2018 年的奔驰失控事故一样，最终会证明是车主操作失误，还有一
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯向6600位员工发"红包"，人均38万！股价17天反弹48%，开启"腾讯时刻"？]]></title>
-        <id>https://news.cnblogs.com/n/731930/</id>
-        <link href="https://news.cnblogs.com/n/731930/"/>
-        <updated>2022-11-19T03:48:00.000Z</updated>
-        <summary type="html"><![CDATA[腾讯前脚豪气将美团股票分给股东，后脚发“红包”给自家员工。 11 月 17 日，腾讯公告称，董事会已决议根据 2019 年计划于 2022 年 3 月向不少于 6600 位奖励人士，授予的奖励发行合共 935.09 万股奖励股份。 11 月 17 日，腾讯控股收盘股价为 292 港元/股，自上月最低
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高通发布4nm新旗舰，小米联想们为何不抢“首发”了？]]></title>
-        <id>https://news.cnblogs.com/n/731929/</id>
-        <link href="https://news.cnblogs.com/n/731929/"/>
-        <updated>2022-11-19T03:40:00.000Z</updated>
-        <summary type="html"><![CDATA[【文/观察者网吕栋】 “先发才是真首发，敢卖才是真首发，有货才是真首发......”去年这个时候，小米和联想争夺高通芯片首发的情景还历历在目，转眼间这家美国芯片巨头又推出了新一代旗舰芯片。 11 月 16 日-17 日，高通像往常一样，在每年一度的骁龙峰会上发布新旗舰手机处理器——第二代骁龙8。 与
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东集团三季度净收入2435亿元，员工总数近50万人]]></title>
-        <id>https://news.cnblogs.com/n/731928/</id>
-        <link href="https://news.cnblogs.com/n/731928/"/>
-        <updated>2022-11-19T03:32:00.000Z</updated>
-        <summary type="html"><![CDATA[11 月 18 日消息，京东集团（纳斯达克股票代码：JD，港交所股票代号：9618）发布了 2022 年三季度业绩，三季度净收入为 2435 亿元人民币，同比增长 11.4%，高于同期社会消费品零售总额同比 3.5% 的增速。其中，净服务收入为 465 亿元人民币，同比增长 42.2%，占净收入的比
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股周五：三大股指小幅上涨，热门中概股普跌，新东方涨近10%]]></title>
-        <id>https://news.cnblogs.com/n/731927/</id>
-        <link href="https://news.cnblogs.com/n/731927/"/>
-        <updated>2022-11-19T03:26:00.000Z</updated>
-        <summary type="html"><![CDATA[美国时间周五，美股收盘主要股指全线上涨，结束了连续两天的下跌。尽管如此，三大股指本周均累计下跌，原因是投资者担心美联储收紧货币政策的路径。 道琼斯指数收于 33745.69 点，上涨 199.37 点，涨幅 0.59%；标准普尔 500 指数收于 3965.34 点，涨幅 0.48%；纳斯达克指数收
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“滴血验癌”欺诈投资者，“女版乔布斯”获刑11年3个月]]></title>
-        <id>https://news.cnblogs.com/n/731926/</id>
-        <link href="https://news.cnblogs.com/n/731926/"/>
-        <updated>2022-11-19T03:20:00.000Z</updated>
-        <summary type="html"><![CDATA[据美国有线电视新闻网（CNN）11 月 18 日报道，美国血液检测公司 Theranos 创始人、现年 38 岁的伊丽莎白·霍姆斯（Elizabeth Holmes）因欺诈投资者罪名获刑 11 年零 3 个月。在始于 2003 年的“滴血验癌”公司的创业阶段，她一度被称为“女版乔布斯”，公司市值一度
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韦伯太空望远镜捕捉到正在形成的恒星影像 宛如太空沙漏]]></title>
-        <id>https://news.cnblogs.com/n/731925/</id>
-        <link href="https://news.cnblogs.com/n/731925/"/>
-        <updated>2022-11-19T03:16:00.000Z</updated>
-        <summary type="html"><![CDATA[来源：中国新闻网 近日，詹姆斯·韦伯太空望远镜拍摄到了一颗正在形成的恒星影像。据介绍，这颗恒星一直隐藏在一个为其生长提供物质的 L1527 沙漏状云中。恒星的喷射物清除了其上方和下方的空洞，其边界在这张红外图中发出橙色和蓝色的光。美国宇航局通过韦伯太空远镜揭示了 L1527 星云中原恒星曾经隐藏的特
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波士顿动力机器狗被抄袭！起底7项专利]]></title>
-        <id>https://news.cnblogs.com/n/731924/</id>
-        <link href="https://news.cnblogs.com/n/731924/"/>
-        <updated>2022-11-19T03:11:00.000Z</updated>
-        <summary type="html"><![CDATA[智东西（公众号：zhidxcom） 作者程茜 编辑心缘 智东西 11 月 18 日报道，最近，一件专利诉讼案颇受关注。主角是机器人领域声名赫赫的先进机器人设计公司波士顿动力，它状告竞争对手 Ghost Robotics 抄袭了自家的机器狗技术。 波士顿动力在提交给美国特拉华联邦地区法院长达 110 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比亚迪回应海豚空调吹白色粉末：对人体无害 可免费检测]]></title>
-        <id>https://news.cnblogs.com/n/731923/</id>
-        <link href="https://news.cnblogs.com/n/731923/"/>
-        <updated>2022-11-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近，有很多比亚迪海豚（参数丨图片）车主反映，车内空调开大以后会吹出白色粉末，车主担忧自己的健康受到威胁，需要比亚迪站出来给个说法。 比亚迪海豚 11 月 18 日，比亚迪汽车官博发布正式声明，称该粉末的主要成分为氢氧化铝（常用于胃药），对身体无害。如果用户仍有疑虑，可进店免费检测。 比亚迪官方声明
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东徐雷：物流受到的疫情影响为三年以来最大]]></title>
-        <id>https://news.cnblogs.com/n/731922/</id>
-        <link href="https://news.cnblogs.com/n/731922/"/>
-        <updated>2022-11-19T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[京东集团 CEO 徐雷认为，行业正在复苏。 11 月 18 日，京东发布了 2022 年第三季度财报。财报显示，京东三季度净收入为 2435 亿元，同比增长 11.4%。其中，净服务收入为 465 亿元，同比增长 42.2%，占净收入的比例达到 19.1%，创历史新高。商品收入为 1970 亿元，同
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达发布电源线熔断官方声明：用户未正确插入，全球已知仅50例]]></title>
-        <id>https://news.cnblogs.com/n/731921/</id>
-        <link href="https://news.cnblogs.com/n/731921/"/>
-        <updated>2022-11-19T02:44:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 11 月 19 日消息，在研究了数周涉及 GeForce RTX 4090 显卡的 12VHPWR 电源适配器熔化和过热引起的多起事件后，Nvidia 终于发布了官方声明。 英伟达确认他们基于全球 50 个案例得出的初步调查结果是，电源线未正确插入时可能会引发熔断问题。该公司建议用户在将
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为产能扩张做准备?小鹏P7/P5/G3部分配置车型正式停售]]></title>
-        <id>https://news.cnblogs.com/n/731919/</id>
-        <link href="https://news.cnblogs.com/n/731919/"/>
-        <updated>2022-11-19T02:38:00.000Z</updated>
-        <summary type="html"><![CDATA[【智车派新闻】作为造车新势力的一员，小鹏汽车的销量一直都名列前茅。不过，在多种因素的影响之下，小鹏汽车的产量也受到了一定影响。今日，小鹏汽车官博发文称将对旗下部分车型进行停售处理。据智车派了解，此次进行停售的车型为小鹏 G3、小鹏 P5 以及小鹏 P7 部分车型。具体停售情况如下: 小鹏 P7 定位
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[问界撞折了，关华为什么事]]></title>
-        <id>https://news.cnblogs.com/n/731918/</id>
-        <link href="https://news.cnblogs.com/n/731918/"/>
-        <updated>2022-11-19T02:33:00.000Z</updated>
-        <summary type="html"><![CDATA[出品｜虎嗅汽车组 作者｜李文博 编辑｜周到 头图｜中保研 如果一台家用车，在一场行业天花板级水准的碰撞测试中，以 60 多公里时速正面撞上一个大铁墩，结果本该用来保护乘员的大粗钢条吧嗒一声折了，硕大的车轮哐当一声戳进座舱了，但最终还能砍瓜切菜般地喜提“优秀”的安全等级评定。 您猜，这是台什么车？ 答
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒂姆・库克：从乔布斯身上学到最重要的是要保持冷静]]></title>
-        <id>https://news.cnblogs.com/n/731917/</id>
-        <link href="https://news.cnblogs.com/n/731917/"/>
-        <updated>2022-11-19T02:26:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 11 月 19 日消息，在 FIRST Inspire 2022 晚会上，苹果 CEO 蒂姆・库克（Tim Cook）接受了知名油管主播 Brian Tong 的采访。在访谈期间，库克谈到从史蒂夫・乔布斯（Steve Jobs）身上学到的最重要事情就是保持冷静。 IT 之家了解到，在 T
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宁波低调大佬身家565亿，傍上新能源一年翻倍，称特斯拉领先5年]]></title>
-        <id>https://news.cnblogs.com/n/731916/</id>
-        <link href="https://news.cnblogs.com/n/731916/"/>
-        <updated>2022-11-19T02:22:00.000Z</updated>
-        <summary type="html"><![CDATA[宁波，从来不缺少闷声发大财的企业家。 在前不久发布的胡润 2022 富豪榜上，不少富豪资产纷纷下滑之际，有一位大佬的财富却一年翻了一倍多，达到 565 亿元，不仅将排名从 159 名提高至 76 名，还与立讯精密的王来春兄妹、鸿海的郭台铭等知名企业家几乎齐名，他就是来自浙江宁波的邬建树。 如果你仔细
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[员工大量离职将导致推特关闭？马斯克：我不担心，最优秀的人才会留下来]]></title>
-        <id>https://news.cnblogs.com/n/731915/</id>
-        <link href="https://news.cnblogs.com/n/731915/"/>
-        <updated>2022-11-19T02:18:00.000Z</updated>
-        <summary type="html"><![CDATA[11 月 19 日消息，推特新老板埃隆·马斯克（Elon Musk）发出的最后通牒又导致数百名员工离职，但他对此似乎并不担心。马斯克在周五的推文上称，“最优秀的人才会留下来”。 当天，Barstool Sports 创始人戴夫·波特诺伊（Dave Portnoy）发文称：“人们说推特要关闭是什么意思
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「键盘观望」来看看最近有趣的键帽 2022.11（2）]]></title>
-        <id>https://sspai.com/post/76814</id>
-        <link href="https://sspai.com/post/76814"/>
-        <updated>2022-11-19T01:05:21.000Z</updated>
-        <summary type="html"><![CDATA[本文仅代表个人观点，用于记录和观望一些键帽。
-个人评分部分为主观部分，会根据厂家状态、设计、以及个人喜好权重评分，仅供参考。
-键帽
-
-GMK
-老牌德国键帽厂，不过工期越拖越长，品质也有些不太稳定，但仍旧是铁王座
-Tenshi 天使 「misotsu」
-来自 IC 信息贴
-这款键帽是由设计师misotsu（或许我们可以叫他味增酱）设计，这款键帽是他设计的第一款键帽，也是一款我认为设计得很不错的二创作品，原型是麻枝准的名作Angel Beats（天使的脉动）！
-原作宣传图
-这套键帽的灵感来自于剧中高人气女角色——立华奏
-立华奏角色图
-配色：
-
-配色方面，选择了珠宝白、紫罗兰宝石色、豆奶白，取自角色发色和服饰颜色。以珠宝白和紫罗兰宝石色作为基调，复古点缀其中，整体观感偏冷色系。比较契合角色给人的印象，很少有表情变化，同时也非常寡言，「无心」和「冰冷」。
-个性部分：
-
-在个性键帽部分，我个人认为是中规中矩，忠于原作的设计。天使登场的羽毛和翅膀，学生服饰的领结，代表战斗能力的Hand sonic（音速手刃），七字回车设计则是Hand sonic 五代形似莲花，是因为可爱而制造的武器。而贯穿作品的暗线，跳动的心脏——女主角与男主角的羁绊，来自于男主角生前捐赠的心脏跳动在女主角的身体里，正如作品标题所示——Angel Beats（天使的脉动）！
-渲染展示（仅供参考）：
-
-金属个性：
-
-这枚金属键帽的个性图案，是来自于角色最喜爱的食物——麻婆豆腐。
-桌垫：
-
-桌垫 Angel's Down
-
-桌垫 Fallen from grace
-键帽信息：
-材质：ABS材质
-高度：原厂高度
-工艺：二次成型
-个人评分：5—10
-对于二次创作键帽会有更高要求，这款键帽忠于原作的设计，是优点也是限制，根本上来说二次创作的作品都会出现这个问题，不过仍旧有厉害的作者能够做出超越原作的改编，这款键帽的颜色设计我觉…]]></summary>
-        <author>
-            <name>车不能快</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla 思考它的下一章]]></title>
-        <id>https://news.cnblogs.com/n/731911/</id>
-        <link href="https://news.cnblogs.com/n/731911/"/>
-        <updated>2022-11-18T18:48:14.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla 公布了它在 2021 年度的收入——Mozilla 公司从搜索引擎合作、订阅和广告收入中获得 5.85 亿美元，比前一年增长了 25%。虽然搜索合作仍然是主要的收入来源，但来自 Mozilla VPN、Mozilla Developer Network (MDN) Plus、Pock
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 开源其内部源码管理系统 Sapling]]></title>
-        <id>https://news.cnblogs.com/n/731910/</id>
-        <link href="https://news.cnblogs.com/n/731910/"/>
-        <updated>2022-11-18T18:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Git 是广泛使用的源码管理系统，但它在处理规模庞大的源代码库时速度比较慢。微软几年前发布了一个解决方案叫 GVFS（Git 虚拟文件系统）。现在另一家巨型公司 Meta/Facebook 宣布了它的内部解决方案 Sapling。Meta 称，Sapling 项目始于 10 年前，旨在解决现有源代码
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孩子比大人学得快]]></title>
-        <id>https://news.cnblogs.com/n/731909/</id>
-        <link href="https://news.cnblogs.com/n/731909/"/>
-        <updated>2022-11-18T18:42:59.000Z</updated>
-        <summary type="html"><![CDATA[很多父母觉得上小学的孩子比自己“聪明”，或者至少能更快地接受新信息和技能。一项新研究证明这种感觉是正确的。这项近日发表于《当代生物学》的研究发现：儿童和成人在一种名为 GABA 的大脑信使上表现出差异，这种信使可以稳固新学习的内容。 “我们的研究结果表明，小学学龄儿童在一定时间内比成年人能学到更多的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo 展示其下一代全自动无人驾驶原型车]]></title>
-        <id>https://news.cnblogs.com/n/731912/</id>
-        <link href="https://news.cnblogs.com/n/731912/"/>
-        <updated>2022-11-18T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Waymo 展示了其下一代全自动无人驾驶原型车。Waymo 目前在美国部分地区试运行无人驾驶出租车业务，使用的车型是基于 Chrysler Pacifica 和 Jaguar I-Pace，都是为有人驾驶设计的。它的下一代无人驾驶出租车由吉利公司制造，属于高端电子车品牌 Zeekr，为全电全自动化无
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全研究人员悄悄破解勒索软件 Zeppelin]]></title>
-        <id>https://www.solidot.org/story?sid=73414</id>
-        <link href="https://www.solidot.org/story?sid=73414"/>
-        <updated>2022-11-18T15:51:56.000Z</updated>
-        <summary type="html"><![CDATA[2020 年 5 月，一家公司感染了新勒索软件 Zeppelin，更糟糕的是备份数据也被加密了。在两周之后，老板准备屈服按要求支付赎金。这时候他们收到了一个意想不到的电话，一位 FBI 特工告诉他们不要支付赎金，可以联络一家网络安全咨询公司 Unit 221B，他们能破解密码。这家公司的创始人 Lance James 在 Zeppelin 的加密程序中发现了多个漏洞，允许他使用大约 100 台云端服务器在几个小时内暴力破解密钥。Unit 221B 不愿意声张他们的破解能力，因为如果被 Zeppelin 作者知道的话，漏洞会被堵上，破解也就失效了。Unit 221B 帮助数十名受害者避免支付赎金，而结果是 Zeppelin 勒索软件黑帮逐渐停止了活动。现在他们能公开自己的破解方法了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[体长近 4 米的海龟新化石现世]]></title>
-        <id>https://www.solidot.org/story?sid=73413</id>
-        <link href="https://www.solidot.org/story?sid=73413"/>
-        <updated>2022-11-18T13:50:34.000Z</updated>
-        <summary type="html"><![CDATA[一个在西班牙发现的古代龟类新物种可能是有史以来最大的海洋龟类之一。它体长估计达 3.74 米，是欧洲迄今发现过的最大海洋龟类。已知最大的海洋龟类，如已灭绝的古巨龟属（Archelon），可以长到 4.6 米长重达 3.2 吨，至白垩纪末期生活在北美大陆周围的海洋中。相比之下，没有已知的欧洲海洋龟类（已灭绝或现存）壳长能超过 1.5 米。西班牙研究人员报告了一种新的海洋龟类物种，命名为 Leviathanochelys aenigmatica，发现于西班牙东北部  Cal Torrades地区，其大小接近古巨龟属。这些遗骸发掘于 2016 和 2021 年间，由破碎但几乎完整的骨盆和部分上盖（壳）组成，可追溯至坎潘阶（Campanian Age，约 8310-7210 万年前）。基于骨盆大小，研究者计算出 Leviathanochelys 体长可能达到 3.74 米。这些发现表明，海洋龟类的巨大体型在北美和欧洲不同支系里独立发展。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《人月神话》作者、图灵奖得主 Frederick Brooks 去世]]></title>
-        <id>https://www.solidot.org/story?sid=73412</id>
-        <link href="https://www.solidot.org/story?sid=73412"/>
-        <updated>2022-11-18T13:38:15.000Z</updated>
-        <summary type="html"><![CDATA[计算机架构师、软件工程师、计算机科学家、《人月神话》作者、图灵奖得主 Frederick Brooks 于 11 月 17 日去世，享年 91 岁。他于 1956 年在哈佛获得博士学位，之后加入 IBM，1961 年成为 System/360 开发项目和 OS/360 软件的项目经理，在此期间创造了术语计算机系统架构。1965 年他离开 IBM 任教于北卡罗莱纳大学教堂山分校，在此创立计算机工程学系。1975 年出版《人月神话》。1999 年获得图灵奖。其家人在一份声明中称，他上周六从医院回家后进入临终护理，大部分时间都在睡觉，没什么反应，似乎没有什么痛苦，护士称他只能活数天时间。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近半数 macOS 恶意程序来自一个应用]]></title>
-        <id>https://www.solidot.org/story?sid=73411</id>
-        <link href="https://www.solidot.org/story?sid=73411"/>
-        <updated>2022-11-18T13:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Elastic Security Labs 发布了其报告《2022 Global Threat Report》，只有 6.2% 的恶意程序是针对 macOS 设备，而针对  Windows 和 Linux 的恶意程序分别占 54.4% 和 39.4%。其中令人意外的是近半数 macOS 恶意程序来自一个应用 MacKeeper，讽刺的是该应用自称零努力就能保护 Mac 干净且安全。但因为该应用拥有广泛的权限，能访问进程和文件，攻击者能滥用它，保护系统安全的应用变成了一种安全风险。MacKeeper 还被指对新手而言难以卸载，很多用户还将其标记为恶意杀毒软件。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
