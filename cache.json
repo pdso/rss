@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 233 期）：生活就像一个鱼缸",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n封面图\n\n一个英国钓鱼爱好者在法国，钓到了世界最大的金鱼，重达30公斤，已经活了20年。拍完照后，他就把金鱼放生了。（via）\n本周话题：好用的平面设计软件\n我不是设计师，但是经常有一些设计需求。\n举例来说，照片加几个美术字，当作视频封面，或者发到朋友圈。再比如，对图片进行编辑，做成简单的海报或者幻灯片，放到文章和文档里面。\n有一天晚上，我心血来潮，重新听了以前的校园民谣，那些学生时代听烂的歌曲。里面有一首艾敬的《那天》，多年以后再次听到，感触良多，忍不住想做成图片分享出来。\n下面就是那天晚上使用设计软件，做出来的结果。大家不要见笑，对于我这样的非专业用户，这样的效果就基本满足需求了。\n\n\n今天就想谈谈，个人开发者或者小企业，没有设计资源，怎么选择设计软件，自己动手搞定一些简单的插图和图片设计。\n我用过的平面设计软件里面，最好用的大概非 Canva 莫属。它有中文版 canva.cn，中文译名叫做\"可画\"。\n\n它的好用体现在，内置了无数本土化的模板，请柬、通知、喜报、简历等等，无一不包。只要选中一个模板，改一下里面的内容，就有一个可用的作品了。它还提供很多素材和中英文字体，让你添加。\n\n而且，它免费使用，专业用户才需要付费版。它还是一个网页应用，打开浏览器就能用，不必下载安装。\n我查了一下，它早就是国际上的行业第一了，估值达到400亿美元，排在全世界未上市的独角兽的第5位。\n根据报道，它也是大型互联网公司里面唯一一家女性创办和主管的公司。\n\nMelanie Perkins 并不是技术出身，她曾就读于西澳大利亚大学，主修传播、心理和商业。她大学期间兼职教平面设计的过程中，发现处于\"垄断\"地位的 Adobe 使用起来门槛很高，同时对于学生党来说价格昂贵。于是，做一个不需要技术经验、人人都可用的设计平台的想法开始在她脑中萌生。\n刚满19…",
-          "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html",
-          "publishedOn": "2022-11-25T00:18:23.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 232 期）：好用的平面设计软件",
-          "imageUrl": null
         }
       ]
     },
@@ -548,36 +538,6 @@
           "wordCount": 707,
           "title": "AI数字绘画：何时从AIGC迈向AIAD？",
           "imageUrl": "https://cdn.sspai.com/2022/11/26/f6bf0afef75ee17d321572da4de29ce9.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/76995",
-          "author": "VeryJack",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n家有一猫，叫咪咪。傻乎乎的，每天除了吃饭就是睡觉，好吃懒做也不学习，甚至连猫叫都不会。可能正是因为它不会猫叫，有强烈的自卑情绪，生活态度非常消极，日渐肥胖。为了让一只不会喵喵叫的小猫咪积极面对生活，我们决定用宠物交流按钮来代替猫叫，让咪咪学会「说话」。\n教学理念\n受启发于 狗狗Bunny 和 B 站的一只猫咪叫 福福 ，他们能用不同的按钮发声去表达自己的需求。我们也打算采用同样的方法，训练小猫咪通过按压不同按钮后发出的「吃饭」、「开门」、「贴贴」等不同声音来表达自己当下的需求。\n整个学习过程的基本原理是条件反射，条件反射分为经典条件反射和操作性条件反射。经典条件反射，最有名的例子便是巴浦洛夫的狗。在每次给予食物前，先播放一段铃声，反复多次后，狗狗便学会了将铃声（条件刺激）和奖励（食物）之间建立联系。操作性条件反射，最早是由新行为主义代表人物斯金纳提出，在斯金纳箱（一个带有操作杆的箱子）中探索的实验小鼠需要将主动按压操作杆（动作）和获得奖励（食物）之间建立联系。操作性条件反射是将主动行为与奖励建立联系，而经典条件反射是将被动听到的铃声刺激与奖励建立联系，学习过程更为简单。另外，条件刺激（按压操作杆/铃声）与非条件刺激（获得食物）之间的间隔时间颇为重要，间隔越短越容易建立联系。\n当前案例下，需要让小猫咪建立不同按钮和不同反馈之间的联系，这本身是一个操作性条件反射。但在过去生活经历中，小猫咪已经将其他行为（例如踢饭盘）与获得猫粮相绑定，所以需要考虑消退该联系。另外，猫咪的生活环境和斯金纳箱中的小鼠不同，盒中环境简单，探索到操作杆非常…",
-          "link": "https://sspai.com/post/76995",
-          "publishedOn": "2022-11-25T09:43:24.000Z",
-          "wordCount": 495,
-          "title": "九天教会小猫咪「说话」——我家咪咪的求学之旅",
-          "imageUrl": "https://cdn.sspai.com/2022/11/25/bb6d6902f826d8f049aef84de3b94f25.JPEG"
-        },
-        {
-          "id": "https://sspai.com/post/76971",
-          "author": "Amos_Wu",
-          "description": "早早的在官网预订，结果大半年才轮到我，又在转运中心呆了一个月。拿到手之后没多久京东自营店就开始卖了，而且是价格差不多的现货。感觉就像当年买了特斯拉没多久就频繁降价的吃瘪心理。不过现在这些都过去了，深度体验了一段时间之后，我想聊聊机器本身。和横空出世的特斯拉Model 3类似，这台机器有太多可以聊的内容了。\n注意文章很长，且没什么可以跳过的地方。\n\n为什么没有必要用续航和性能评价SteamDeck\n在等待到货的日子里面看了很多测评，但当我实际拿到手里之后，发现测评的方向有偏差，或者说人们对这款机器的期待陷入了思维定势。\n产品测评不好做\n虽然我们现在习惯在购买电子产品之前先看评测，但是评测的最大问题是使用时间极短，常规升级的新产品还能简单梳理下升级点，但对于有突破性的新产品，评价往往会非常片面且不客观。更何况许多做测评的年轻人本身能力有限，无法做到面面俱到。例如以豪华内饰的汽油车为标准来评价Model3，这辆车将会是一无是处。这同样适用于SteamDeck，它的参照物并不是NS。\nSteamDeck的产品定位是让人可以随时随地流畅地玩PC上的各种类型游戏，从独立小作品到年货3A大作，这个定位非常重要，后文会反复出现。拆解这个定位来看，“随时随地”意味着便携性，“流畅”意味着软硬件基础，“各种类型”则意味着整合的能力。\n这算是一篇夹杂了许许多多主观想法的个人产品评价报告。\n人们习惯于使用评价手机和电脑的标准去评价SteamDeck，首先是续航，接着是性能，然而对于什么是“好”的定义都差别巨大。由于母公司Valve另一款产品Steam在世界范围内的成功，所以这台主机理论上不缺乏“护航大作”。他们要做的就是把自家平台上数不清的游戏汇聚到这方寸之地，让玩家可以随时随地沉浸在各种性能需求不同、操作方式不同、对应平台不同的游戏中。讲真，但凡了解Steam的人都该清楚，这是个初见会让人茫然至…",
-          "link": "https://sspai.com/post/76971",
-          "publishedOn": "2022-11-25T05:52:39.000Z",
-          "wordCount": 471,
-          "title": "性能？续航？大家都关注错了SteamDeck的重点",
-          "imageUrl": "https://cdn.sspai.com/2022/11/24/a3b70a68249c71863e55b5467e22fd14.png"
-        },
-        {
-          "id": "https://sspai.com/post/76956",
-          "author": "大盗",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n作为在智能家居领域耕耘十余年的专业设计师特别想和大家分享我的一些关于智能生活的体验和心得，趁着这次自己家里装修，根据自己的技术经验及实际需求设计了全屋智能家居系统，经过我一年时间的实际生活体验，也总结了一些经验和使用感受，我将分成几个系统单独介绍和分享。\n智能暖通系统\n暖通系统主要就是空调系统和地暖系统；由于我家的建筑结构和层高等问题，无法使用更方便智能控制的中央空调，所以客厅采用的是海尔的一拖一风管机空调，其他房间采用了米家的壁挂空调，海尔的空调可以使用海尔智家 app 控制，米家的空调可以使用米家 app 控制；地暖系统由于是在南方没有集中供暖，所以都是采用烧天然气的壁挂炉提供热量，各个房间有独立的温控器。\n地暖系统\n系统介绍\n很多人不明白为什么要费劲整个智能的暖通系统，普通的暖通系统不是一样加热工作吗？其实这是很多人的误区，装智能温控系统的最大好处就是帮你省钱！很多朋友家里使用地暖的都知道，每个冬季的取暖费用是一笔很大的开支，平均的燃气费用在 1000-2000 / 月，根据不同的供暖面积以及设置的温度不同，有些甚至可能都超过 2000 的费用，导致有些家庭即使安装了地暖冬季都不敢开启使用，高昂的燃气费用阻碍了人们享受舒适生活的权利。\n我自己是一个比较怕冷的人，特别是在杭州这种冬天湿冷的环境下，所以我在装修设计的时候就把地暖作为必选项，也为了让家人能生活在一个舒适的家中。之前给客户设计智能温控系统更多的是考虑方便管理控制，现在自己家里使用更多的也需要考虑使用成本等费用问题。\n地暖控制系统\n这张地暖控制系统图就是我设计使用…",
-          "link": "https://sspai.com/post/76956",
-          "publishedOn": "2022-11-25T03:38:58.000Z",
-          "wordCount": 699,
-          "title": "智能家居设计师如何打造全屋智能-智能暖通系统",
-          "imageUrl": "https://cdn.sspai.com/2022/11/24/a6609389e74591557e51706a0331c013.png"
         }
       ]
     },
@@ -645,6 +605,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73750",
+          "author": null,
+          "description": "本月早些时候 FTC 提起诉讼，寻求阻止微软收购动视暴雪。FTC 认为这笔交易潜在可能会伤害消费者和游戏行业的竞争。FTC 在起诉书中提到了微软在 2020 年收购 Bethesda 的母公司 ZeniMax Media。微软回应称对 ZeniMax 收购与当前交易无关，它证实 Bethesda 即将发布的三款作品将是 PC 和 Xbox 独占。太空背景的角色扮演游戏《Starfield（星空）》和吸血鬼背景的动作游戏《Redfall》已经确认为独占，第三款可能是《上古卷轴6》。 微软在声明中否认会在收购动视暴雪之后将其游戏变成 PC 和 Xbox 独占，表示放弃一个有数百万玩家的平台（索尼 PS）在财务上毫无意义的。索尼和微软都有自己的第一方工作室，其中索尼有 19 家工作室，微软有 23 家，而动视暴雪旗下有 15 家工作室，这笔交易将大幅扩充微软的第一方阵容。",
+          "link": "https://www.solidot.org/story?sid=73750",
+          "publishedOn": "2022-12-24T12:52:17.000Z",
+          "wordCount": 197,
+          "title": "微软证实 Bethesda 即将发布的三款作品将是 PC 和 Xbox 独占",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73749",
+          "author": null,
+          "description": "美国国会通过了拨款法案，其中包括禁止政府设备安装 TikTok，法案将在总统拜登签署之后生效。拨款法案未能包含针对科技行业的更多激进政策，比如要求苹果和 Google 的应用商店允许开发者使用第三方支付选项。禁止政府设备安装 TikTok 可能会让 Snap 等竞争平台受益。Facebook 和 Instagram 也都在争夺年轻消费者的注意力。TikTok 的母公司是北京字节跳动，美国两党议员以及 FBI 局长都表示担心美国用户数据的访问问题，TikTok 则一再表示美国用户的数据没有储存在中国。TikTok 发言人对美国国会的决定表达了失望。",
+          "link": "https://www.solidot.org/story?sid=73749",
+          "publishedOn": "2022-12-24T12:25:00.000Z",
+          "wordCount": 162,
+          "title": "美国国会通过拨款法案禁止政府设备安装 TikTok",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73748",
+          "author": null,
+          "description": "腾讯今年至少关停、下架 App 应用 16 款，包括幻核、QQ影音、看点快报、搜狗地图、腾讯WiFi管家等一众知名产品。倘若再加上 29 款被裁撤的游戏，则至少关停 45 个项目。在上周四举行的线上员工大会上，CEO 马化腾马化腾批评了那些盲目跟进竞争对手的项目。腾讯曾以拷贝竞品著称。如曾经要对标今日头条，在头腾大战中被寄予厚望的看点快报（原天天快报）。在腾讯的扶持下，看点快报曾一度坐拥 2.8 亿的月活用户。然而看点的火热并未长久，一旦失去腾讯的扶持，看点快报迅速陨落，失去关注，最终于 7 月 18 日宣告停运。与之类似的，还有对标拼多多的小鹅拼拼、曾经想做中国 Steam 的掌上 Wegame 等，也都在今年消失。",
+          "link": "https://www.solidot.org/story?sid=73748",
+          "publishedOn": "2022-12-24T05:50:04.000Z",
+          "wordCount": 170,
+          "title": "腾讯今年关闭逾 40 个项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73747",
+          "author": null,
+          "description": "在与 OPPO 达成 5G 技术授权协议之后，华为与诺基亚延长了 5 年前签署的专利授权协议，互相授权对方使用智能手机和网络相关技术。在手机业务遭受打击之后，华为正努力开辟新的收入来源。华为庞大的专利组合超过 10 万项，是 5G 技术的最大专利持有者之一。",
+          "link": "https://www.solidot.org/story?sid=73747",
+          "publishedOn": "2022-12-24T03:21:20.000Z",
+          "wordCount": 152,
+          "title": "华为与诺基亚延长技术授权协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73746",
+          "author": null,
+          "description": "Rodti MacLeary 在 2019 年创建了一个 Mastodon 实例，到 2022 年 11 月初，它积累了大约 3.5 万用户。但自马斯克（Elon Musk）收购 Twitter 做出一个又一个受争议决策后，数以百万计的用户涌向了各个 Mastodon 实例，流量之大导致部分实例短暂下线。MacLeary 的实例也吸引了 13 万用户和 6.7 万活跃用户。这个规模相比 Twitter 是微不足道的，但对个人而言是一个承重的负担。MacLeary 是出于热爱将时间和金钱投入其中的。作为一个去中心化社交平台，Mastodon 与 Twitter 等中心化平台有着明显的不同。这是其吸引力的一部分，它正从小众走向主流：Mastodon 现在有 9000 多个实例和近 250 万月活跃用户。Mastodon 正奔向一个临界点：是继续成为乌托邦式的早期 Twitter 还是成为一个乱七八糟但无所不在的社交平台，这还有待观察。随着政客、名人和记者的加入，它复制部分 Twitter 的潜力日益增长。随着社群转入其它应用，很多 Twitter 用户现在会在个人介绍里添加 Mastodon 地址。但 Mastodon 的用户之间存在明显的分歧：部分新用户想要 Mastodon 成为 Twitter，但部分 Mastodon 用户留在那里是因为厌倦了 Twitter。随着用户数量的增加，实例服务器管理员们的责任也随之增加。他们面临不喜欢其决定的用户的攻击，面临越来越多的法律问题。这是新社交网络的成长烦恼，但 Mastodon 一个显著的不同之处是它没有将盈利作为目标。",
+          "link": "https://www.solidot.org/story?sid=73746",
+          "publishedOn": "2022-12-23T15:40:39.000Z",
+          "wordCount": 199,
+          "title": "Mastodon 正奔向一个临界点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73745",
+          "author": null,
+          "description": "隐私搜索引擎 DuckDuckGo 宣布将默认启用名为 Google Sign-in Pop-up Protection 的功能，将屏蔽 Google 烦人的登陆提示。用户仍然可以随时登陆 Google，但不再需要应付 Google 的提示。DuckDuckGo 产品总监 Peter Dolanjski 认为 Google 的登陆提示窗口是侵入性的，对用户隐私造成了破坏。通过在未登陆的情况下督促用户登陆，Google 跟踪用户在不同网站的行为，并将其与用户身份关联起来。如果能让更多用户登陆，Google 和出版商能收集更多的数据，能更好的投放定向广告，每个人能获得更多的钱，但用户除外。",
+          "link": "https://www.solidot.org/story?sid=73745",
+          "publishedOn": "2022-12-23T14:58:29.000Z",
+          "wordCount": 175,
+          "title": "DuckDuckGo 将屏蔽 Google 烦人的登陆提示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73744",
+          "author": null,
+          "description": "因 2018 年 3 月爆出的数据挖掘公司 Cambridge Analytica 未经同意收集数千万 Facebook 用户信息的丑闻，Meta/Facebook 遭遇了集体诉讼，本周五双方宣布达成了和解协议，和解金额高达 7.25 亿美元，为美国至今金额最高的与隐私相关的集体诉讼和解案。Cambridge Analytica 已在 2018 年 5 月停止运营。",
+          "link": "https://www.solidot.org/story?sid=73744",
+          "publishedOn": "2022-12-23T14:35:21.000Z",
+          "wordCount": 172,
+          "title": "Meta 以 7.25 亿美元和解隐私集体诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73743",
+          "author": null,
+          "description": "你的扫地机器人在看着你。它可能会拍摄你的私密照片，而照片可能会被泄露到网上。iRobot 公司的扫地机器人 Roomba 会使用摄像头拍摄房间照片用于数据注释目的——由人类零工确认或否定 AI 是否正确标记。这个过程对 AI 扫地机器人是必不可少的，但大部分人并不知道。iRobot 证实有美国之外的零工在社交网络上泄露了机器人拍摄的照片，其中包括有女性在厕所。iRobot 称泄露的照片来自开发机器人，上面有明显的标记显示“视频在录制中”。",
+          "link": "https://www.solidot.org/story?sid=73743",
+          "publishedOn": "2022-12-23T14:14:12.000Z",
+          "wordCount": 152,
+          "title": "扫地机器人拍摄的私密照片被泄露到网上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73742",
+          "author": null,
+          "description": "OpenAI 的新通用聊天机器人原型 ChatGPT 能在某种程度上替代搜索引擎回答用户的提问，它也能组合利用训练的语料帮助用户生成看起来通顺的文章。过去三十年，Netscape 的浏览器、 Google 搜索引擎和苹果的 iPhone 被公认是科技行业的颠覆性产品，而 OpenAI 的 ChatGPT 被部分人认为有望成为下一个颠覆性科技产品，它将对 Google 的搜索业务产生冲击。Google 统治了搜索市场二十余年，充当了网民访问互联网的主要门户。它也依靠搜索广告成为世界上最富有的公司之一。ChatGPT 仍然有很大的改进余地，但它让用户无需通过搜索引擎就能找到答案，有了它你为什么还要去使用搜索引擎或者维基百科呢？Google 是否正面临一个可能颠覆企业的技术变革？其搜索业务的第一个严重威胁？可能对其未来产生决定性影响？",
+          "link": "https://www.solidot.org/story?sid=73742",
+          "publishedOn": "2022-12-23T13:25:37.000Z",
+          "wordCount": 172,
+          "title": "ChatGPT 可能会冲击 Google 的搜索业务",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73741",
           "author": null,
@@ -3124,86 +3174,6 @@
           "wordCount": 192,
           "title": "Google 秘密项目教 AI 写代码和修代码",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73483",
-          "author": null,
-          "description": "最近一段时间，因马斯克(Elon Musk)收购 Twitter 所带来的冲击，大量用户涌入了去中心化微博服务 Mastodon。Mastodon 短时间内增加了逾五十万新用户，活跃用户突破百万。Mastodon 是欧盟下一代互联网倡议支持的项目之一， 该倡议旨在创造一个不同的未来互联网。这些替代服务的共同点是：基于开放标准、开源软硬件和开放数据。其中社交服务的一个核心开放标准是 ActivityPub。ActivityPub 是一个 W3C 标准，允许人人都加入到一个联邦宇宙中，你可以设立自己的域名、制定自己的政策和社区规则，确定自己的隐私设置，使用自己的账号与其他人互动。Mastodon 是最知名的 ActivityPub 项目，欧盟下一代互联网倡议支持的 ActivityPub 项目还有 PeerTube、Pixelfed、GoToSocial、Lemmy 和 Owncast。联邦宇宙的强大就在于其多元化。",
-          "link": "https://www.solidot.org/story?sid=73483",
-          "publishedOn": "2022-11-25T13:00:20.000Z",
-          "wordCount": 166,
-          "title": "欧盟下一代互联网倡议支持 ActivityPub",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73482",
-          "author": null,
-          "description": "美国食品药品管理局 FDA 批准了针对血友病的第一种基因疗法，它也是至今最昂贵的药物：每剂量 350 万美元。Hemgenix 是一种治疗成人 B 型血友病的一次性静脉注射疗法。血友病有三种，A 型最流行，约占八成以上，B 型次之，主要影响男性，C 型最罕见。目前血友病的治疗方法是频繁注射一种帮助血液凝固和防止出血的蛋白质。Hemgenix 由药厂 CSL Behring 供应，对于 350 万美元的价格该公司表示它的药能最终减少医疗费用，因为患者的出血事件会减少，凝血治疗也会减少。Hemgenix 的价格超过了诺华治疗脊髓性肌肉萎缩症的基因疗法 Zolgensma，其每剂价格大约为 200 万美元，也是一次性注射。药物的大部分费用将由保险公司支付。经过数十年的研究，基因疗法正在改变癌症和罕见遗传病的治疗。有多家药厂正在研究针对 A 型血友病的基因疗法。",
-          "link": "https://www.solidot.org/story?sid=73482",
-          "publishedOn": "2022-11-25T10:25:13.000Z",
-          "wordCount": 182,
-          "title": "美国 FDA 批准至今最昂贵的药：每剂 350 万美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73481",
-          "author": null,
-          "description": "今年 9 月，巴西下令停售不提供充电器的苹果 iPhone 手机。苹果是在 2020 年以环保的理由宣布 iPhone 和 EarPod 等产品不再提供充电器，但巴西政府认为苹果所做的是把负担转嫁给消费者。巴西还认为，如果苹果真的注重环保，它可以支持更通用的 USB-C 充电器。尽管被罚款数百万美元，但苹果并没有改变做法，它仍然在巴西销售不提供充电器的 iPhone 手机。巴西监管机构下令在首都巴西利亚的多家零售店扣押了数百部 iPhone。这一行动被冠名为 Operation Discharge，此举旨在强迫苹果遵守巴西法律，在手机包装盒内提供充电器。这些 iPhone 是在当地运营商的商店和苹果授权零售店没收的。",
-          "link": "https://www.solidot.org/story?sid=73481",
-          "publishedOn": "2022-11-25T07:52:17.000Z",
-          "wordCount": 169,
-          "title": "巴西下令扣押商店里的 iPhone 手机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73480",
-          "author": null,
-          "description": "根据发表在《自然》期刊上的一项研究，科学家发现一种保护癌细胞的蛋白质 MYC。在正常生长的细胞中，它们均匀分布在细胞核中。当它们发生在癌细胞中时，它们会重新排列自己，形成球状结构，从而包围基因组中特别脆弱的部分。MYC 基因及其蛋白质在几乎所有癌症的发生和发展中起着核心作用。它们驱动着肿瘤细胞不受控制的生长和代谢的改变。它们还帮助肿瘤躲避免疫系统。MYC 为癌症研究打开了新的大门：它们形成空心球体，保护基因组中特别敏感的部分。如果这些 MYC 球被破坏，癌细胞就会死亡。研究人员成立了一家公司推动研究的实用化。",
-          "link": "https://www.solidot.org/story?sid=73480",
-          "publishedOn": "2022-11-25T07:20:14.000Z",
-          "wordCount": 149,
-          "title": "科学家发现一种保护癌细胞的蛋白质",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73479",
-          "author": null,
-          "description": "英国小报 The Daily Star 发表独家报道称，苹果有意收购曼联。控制着英超曼联队的 Glazers 家族本周表示考虑出售球队。苹果是世界最富有的科技公司，市值超过 2 万亿美元，拥有足够收购几十个曼联队的现金，但问题是它为什么要收购一支球队？报道称，苹果 CEO 库克(Tim Cook)有兴趣以 58 亿英镑收购曼联。如果被苹果收购，曼联将成为世界上最富有的俱乐部。潜在收购曼联的还有前球星贝克汉姆(David Beckham)牵头一个买家财团，英国亿万富翁 Jim Ratcliffe 等。",
-          "link": "https://www.solidot.org/story?sid=73479",
-          "publishedOn": "2022-11-25T06:38:24.000Z",
-          "wordCount": 160,
-          "title": "报道称苹果考虑收购曼联",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73478",
-          "author": null,
-          "description": "ESA 挑选了有史以来第一位残疾人候选宇航员，朝着允许身体有残疾的人进入太空工作和生活迈出了重要一步。31 岁的前英国残奥会短跑远动员 John McFall 将参加一个 17 人的宇航员训练项目。他将参加一项可行性研究，帮助 ESA 评估残疾人参加未来太空任务所需的硬件条件。McFall 在 19 岁时因一次摩托车事故导致右腿截肢，他在 2008 年的北京残奥会上赢得了 100 米跑步项目的铜牌。他在一份声明中表示，他想要留给后代的一条信息是，科学服务于每个人，太空旅行也有希望服务于每个人。",
-          "link": "https://www.solidot.org/story?sid=73478",
-          "publishedOn": "2022-11-25T05:35:39.000Z",
-          "wordCount": 162,
-          "title": "ESA 挑选了一名残疾人宇航员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73477",
-          "author": null,
-          "description": "天涯论坛停止更新，最后更新时间停留在 11 月 22 日，暂时不清楚它最终是否会关闭，用户过去几天报告网站出现访问异常。天涯是继猫扑，西祠胡同之后最后一个曾经风靡一时但最终沉寂的网络社区。天涯成立于 1999 年，创始人为现任董事长邢明，曾经与谷歌合作创办天涯问答，它的主要收入来源为广告，但随着微博和移动应用的流行，天涯社区的流行度逐渐下降，没有了巅峰期的荣耀，连年亏损。天眼查的数据显示，天涯公司累计被执行超 1.39 亿元。",
-          "link": "https://www.solidot.org/story?sid=73477",
-          "publishedOn": "2022-11-25T04:59:16.000Z",
-          "wordCount": 151,
-          "title": "天涯论坛停止更新",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73476",
-          "author": null,
-          "description": "英特尔正式披露了按照客户需求通过软件激活特定功能和加速器的 Intel On Demand 程序。即将推出的第四代至强处理器 Xeon Scalable Sapphire Rapids 将支持这一机制，帮助芯片巨人减少 SKU 的数量降低成本。英特尔称它即将推出的 Xeon Scalable Sapphire Rapids 加入了各种特定用途的加速器和安全技术，客户不是在任何时候都需要。为了给终端客户提供投资方面的灵活性，英特尔将在客户购买时禁用他们不需要的功能，如果需要则再额外付费通过软件激活。这一机制就是所谓的软件定义硅晶片（Software Defined Silicon 或 SDSi）。Intel On Demand 程序提供的按需激活技术清单包括：Software Guard Extensions、Dynamic Load Balancer (DLB)、Intel Data Streaming Accelerator (DSA)、Intel In-Memory Analytics Accelerator (IAA)、Intel In-Memory Analytics Accelerator 和 Intel QuickAssist Technology (QAT)。",
-          "link": "https://www.solidot.org/story?sid=73476",
-          "publishedOn": "2022-11-25T03:35:24.000Z",
-          "wordCount": 187,
-          "title": "英特尔披露软件定义硅的细节",
-          "imageUrl": null
         }
       ]
     },
@@ -3212,6 +3182,126 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/733932/",
+          "author": null,
+          "description": "在北京送外卖日入一千？我试了试，假的！ 文｜园长 编｜石灿 “整个外卖站点都‘羊’了。” “这几天还能送餐的外卖员，日入一千、月入三万。” “餐厅老板说，外卖全部爆单了，想吃外卖可以，自己来拿。” 社交媒体上的消息难分真假，但一份外卖要等上两三个小时才能送到，是最近两周很多大城市生活的人们能够真真切\n本文链接",
+          "link": "https://news.cnblogs.com/n/733932/",
+          "publishedOn": "2022-12-24T05:33:00.000Z",
+          "wordCount": 163,
+          "title": "“阳康”之后，我在北京送外卖，日入一百二",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733931/",
+          "author": null,
+          "description": "《华尔街日报》12 月 23 日消息，美国中佛罗里达大学大二学生 Jack Sweeney 在他追踪马斯克私人飞机的推特账号被冻结后，重新在该社交媒体平台开设了一个新的飞机追踪账号。 Sweeney 表示，他周四晚间创建了名为@ElonJetNextDay 的账号。该账号的设置与其原来账户@Elon\n本文链接",
+          "link": "https://news.cnblogs.com/n/733931/",
+          "publishedOn": "2022-12-24T05:22:00.000Z",
+          "wordCount": 163,
+          "title": "追踪马斯克私人飞机动向的大学生新开推特账号，将延迟24小时发布位置信息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733930/",
+          "author": null,
+          "description": "燃次元（ID:chaintruth）原创 作者丨侯燕婷 编辑丨饶霞飞 埃隆·马斯克（Elon Musk）豪掷 440 亿美元收购推特一事，已是满城风雨大半年，没料到尘埃落定后，又迎来 60 天荒诞戏剧的上演。 在任不到两个月时间，马斯克就准备辞去推特 CEO 一职，还得到大众一致支持。 12 月 1\n本文链接",
+          "link": "https://news.cnblogs.com/n/733930/",
+          "publishedOn": "2022-12-24T05:16:00.000Z",
+          "wordCount": 163,
+          "title": "60天，马斯克“玩坏”推特",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733929/",
+          "author": null,
+          "description": "极目新闻记者汪亮亮黄佳琦 据路透社 12 月 23 日报道，两名知情人士透露，推特在过去几天里删除了一项预防用户自杀的功能，该功能向查找某些内容的用户推广预防自杀热线和其他安全资源等。知情人士表示，这是推特新主人埃隆·马斯克下达的命令。 （图片来源：路透社） 这一功能被称为“这里提供帮助（There\n本文链接",
+          "link": "https://news.cnblogs.com/n/733929/",
+          "publishedOn": "2022-12-24T05:06:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克下令推特删除自杀预防功能？推特回应称正在改造中",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733928/",
+          "author": null,
+          "description": "记者白帆 随着春节临近，消费者纷纷开始计划购置年货。近日，京东、天猫、抖音、快手等各大平台也陆续发布“年货节”的促销活动。面对“年货节”即将到来的又一波配送高峰，各家快递公司开始想办法招人，以期缓解人力不足的压力。 春节继续不打烊 双十二刚过，“年货节”将至，多家快递公司便陆续发布“春节不打烊”的服\n本文链接",
+          "link": "https://news.cnblogs.com/n/733928/",
+          "publishedOn": "2022-12-24T04:58:00.000Z",
+          "wordCount": 163,
+          "title": "春节继续不打烊，快递小哥够吗?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733927/",
+          "author": null,
+          "description": "雷递网乐天 12 月 24 日 小米官宣总裁王翔月底卸任集团总裁职务退休后，小米进行了一系列调整。 小米任命潘九堂担任集团 CEO 特别助理，继续兼任集团参谋部参谋长，分管集团信息技术部、集团法务部、集团战略合作部，向集团 CEO 雷军汇报； 小米任命刘伟担任集团 CEO 特别助理，继续兼任集团总办\n本文链接",
+          "link": "https://news.cnblogs.com/n/733927/",
+          "publishedOn": "2022-12-24T04:50:00.000Z",
+          "wordCount": 163,
+          "title": "小米任命多位CEO特别助理 均向雷军汇报工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733926/",
+          "author": null,
+          "description": "财联社 12 月 24 日电，据中国民航网，东航接收的全球首架 C919 飞机，将从 12 月 26 日开始 100 小时的验证飞行。验证飞行将全面检验东航各系统为迎接 C919 商业运行所开展的准备是否可靠，能否向旅客提供安全舒适的国产大飞机航程，以此为即将开启的商业运行完成最后冲刺。在 C919\n本文链接",
+          "link": "https://news.cnblogs.com/n/733926/",
+          "publishedOn": "2022-12-24T04:43:00.000Z",
+          "wordCount": 163,
+          "title": "全球首架C919自12月26日起开始100小时的验证飞行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733925/",
+          "author": null,
+          "description": "12 月 24 日消息，据报道，埃隆·马斯克（Elon Musk）的一名忠实助手史蒂夫·戴维斯（Steve Davis）在妻子刚生完孩子几天后，全家就一起睡到社交媒体推特位于旧金山的总部工作。 现年 43 岁的戴维斯曾是马斯克旗下隧道挖掘公司 Boring Company 的首席执行官，如今他和他的\n本文链接",
+          "link": "https://news.cnblogs.com/n/733925/",
+          "publishedOn": "2022-12-24T04:38:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克助手带着老婆和刚出生孩子睡在推特总部，他会当下任推特CEO？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733924/",
+          "author": null,
+          "description": "文｜贾小凡 编辑｜董雨晴 “以后不要跟我说什么买量的故事，我已经不信这个了”；“不要跟我讲你有什么机会，整个业务砍掉都可以”；“活都活不下去了，周末还休闲地打球”；“内部贪腐触目惊心，看完之后吓死人”。 多年来，马化腾在腾讯公司内多以温文、鼓励的姿态出现、被员工昵称为“小马哥”。但这一次，他是真的急\n本文链接",
+          "link": "https://news.cnblogs.com/n/733924/",
+          "publishedOn": "2022-12-24T04:30:00.000Z",
+          "wordCount": 163,
+          "title": "马化腾在急什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733923/",
+          "author": null,
+          "description": "12 月 24 日消息，十多年来，苹果的芯片工程团队帮助该公司在智能手机和笔记本电脑领域获得了巨大竞争优势。该公司自主设计的定制芯片使其产品更易于使用，或帮助维持更长的使用时间。不过，苹果芯片部门在 2021 年遭遇了重大挫折。 付费科技媒体 The Information 披露称，苹果原本计划在其\n本文链接",
+          "link": "https://news.cnblogs.com/n/733923/",
+          "publishedOn": "2022-12-24T04:20:00.000Z",
+          "wordCount": 163,
+          "title": "苹果原本想在iPhone 14 Pro上采用全新GPU，难度太大被迫取消",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733922/",
+          "author": null,
+          "description": "视觉中国资料图 微博拟 15 亿元买下新浪网技术（中国）有限公司 100% 股权。 12 月 23 日晚间，微博股份有限公司（NASDAQ：WB，HKEX：9898）发布公告称，公司的全资子公司 Weibo Hong Kong Limited 与新浪公司的全资子公司新浪香港有限公司就买卖新浪网技术（\n本文链接",
+          "link": "https://news.cnblogs.com/n/733922/",
+          "publishedOn": "2022-12-24T04:10:00.000Z",
+          "wordCount": 163,
+          "title": "微博：拟以15亿元收购新浪总部大厦持有人全部股权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/733921/",
+          "author": null,
+          "description": "文｜节点财经，作者｜零度 “不谋全局者，缺乏谋一域。不谋万世者，缺乏谋一时。”阿里影业的成长，可谓一斑。 背靠阿里巴巴集团的阿里影业作为阿里大文娱赛道的重要支点，已经起跑多年，但业绩却一直不如人意。一直以来困扰阿里影业的一个问题，就是如何做一个平台化的互联网影视公司，而非传统的内容制造电影公司。 在\n本文链接",
+          "link": "https://news.cnblogs.com/n/733921/",
+          "publishedOn": "2022-12-24T04:02:00.000Z",
+          "wordCount": 163,
+          "title": "阿里影业的好日子，要来了吗？",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/733920/",
           "author": null,
@@ -8580,276 +8670,6 @@
           "publishedOn": "2022-11-26T05:26:00.000Z",
           "wordCount": 161,
           "title": "加盟商曾亏30万退场，社区团购卷土重来？申通快递入局，“招商电话被打爆了”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732324/",
-          "author": null,
-          "description": "文/古廿 来源/科技新知（ID:kejixinzhi） 造车，是小米的救命稻草，还是压死骆驼的最后一根稻草？ 在第三季度财报的电话会议上，小米集团合伙人王翔作为发言人，没有带来清晰的答案。面对参会者关于造车业务进展的提问，基本都以“未来仍将持续投入”“内部考量中”这类字眼搪塞。 当然，对于目前主营业\n本文链接",
-          "link": "https://news.cnblogs.com/n/732324/",
-          "publishedOn": "2022-11-25T12:30:00.000Z",
-          "wordCount": 161,
-          "title": "业绩下滑，造车未成，雷军分身乏术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732323/",
-          "author": null,
-          "description": "大家小学时代应该有写过 “ 未来的生活 ” 这类命题作文吧？ 不知道当时各位假想的未来世界是什么样的？ 世超依稀记得那个时候，自己特别喜欢看科幻，写起作文来什么脑洞都敢开，从星际旅行到人类把意识传输到计算机里。 当然，现在我也很喜欢科幻，《 黑镜 》的里 “ 克隆男友 ” 和 “ 方舟天使 ” ，《\n本文链接",
-          "link": "https://news.cnblogs.com/n/732323/",
-          "publishedOn": "2022-11-25T12:23:00.000Z",
-          "wordCount": 161,
-          "title": "在豆瓣上有34000人，假装自己生活在2050年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732322/",
-          "author": null,
-          "description": "文/花子健 来源/电厂（ID:wonder-capsule） 11 月 24 日，电厂获知小米汽车的开发项目进度不如预期，最终可能导致产品竞争力下降，至少有两位小米汽车内部人士确认了这一消息。 11 月 2 日，小米汽车否认了项目停摆的传闻，称项目正在顺利推进。按照计划，小米汽车首款产品预计在 20\n本文链接",
-          "link": "https://news.cnblogs.com/n/732322/",
-          "publishedOn": "2022-11-25T12:12:00.000Z",
-          "wordCount": 161,
-          "title": "小米汽车项目进展延迟，自动驾驶测试不及预期，员工担忧产品竞争力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732321/",
-          "author": null,
-          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 最早关注到 AI 绘画是在去年 6 月。 当时有人突然发现，在提示词中加上“虚幻引擎”就能让画质飙升，简直像咒语一样。 但受限于当时算法的性能和效率，画出来的内容还不够完整，只是在 AI 研究者内部小范围被津津乐道。 现在回想一下，这可能就是最早的“提示工\n本文链接",
-          "link": "https://news.cnblogs.com/n/732321/",
-          "publishedOn": "2022-11-25T12:00:00.000Z",
-          "wordCount": 161,
-          "title": "AIGC改变世界？拉斯维加斯给出答案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732320/",
-          "author": null,
-          "description": "来源：有数 DataVision 2012 年的一天，李诞和王建国拿着一个牛皮纸包走进上海的一家汉庭酒店，里面装的是给《今晚 80 后脱口秀》编了几个段子，拿到的 7000 块现金稿费。两人心里想的都是同一件事： “这样都能赚到钱，这辈子还能饿死？” 而如今，跟着李诞的脱口秀演员们确实很难饿死了，中\n本文链接",
-          "link": "https://news.cnblogs.com/n/732320/",
-          "publishedOn": "2022-11-25T09:21:00.000Z",
-          "wordCount": 161,
-          "title": "我们需要流水线上的脱口秀吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732319/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 大模型背后的基础设施该怎么建设才最划算？ 想要性能强，模型除了「大」，还是「大」。 无论是自然语言处理、计算机视觉或是其他领域的研究，当下的深度学习研究范式通常采用非常大的模型架构，对海量的数据进行训练，然后将其用于一个特定的任务上，从而取得更佳的结果。 这种范式的好处是可\n本文链接",
-          "link": "https://news.cnblogs.com/n/732319/",
-          "publishedOn": "2022-11-25T09:08:00.000Z",
-          "wordCount": 161,
-          "title": "如何实现2000万QPS？Meta揭秘背后的AI平台MultiRay：日均处理8000亿次请求！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732318/",
-          "author": null,
-          "description": "新智元报道 编辑：Cris 谷歌的这项研究，很可能是我们迈向 AGI 的一大步。 由于可以做一些没训练过的事情，大型语言模型似乎具有某种魔力，也因此成为了媒体和研究员炒作和关注的焦点。 当扩展大型语言模型时，偶尔会出现一些较小模型没有的新能力，这种类似于「创造力」的属性被称作「突现」能力，代表我们向\n本文链接",
-          "link": "https://news.cnblogs.com/n/732318/",
-          "publishedOn": "2022-11-25T08:55:00.000Z",
-          "wordCount": 161,
-          "title": "参数少量提升，性能指数爆发！谷歌：大语言模型暗藏「神秘技能」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732317/",
-          "author": null,
-          "description": "新智元报道 编辑：好困 David 卡塔尔太热、天台太冷，这届世界杯，还是在元宇宙里看吧。 四年一届的世界杯，又轮到亚洲举办了。 可能是有亚洲主场 buff 加持，小组赛第一轮还没打完，到目前已经有两场「惊天大冷」出现了，获胜的都是亚洲球队。 不仅比分一样，连比分变化过程，甚至进球方式都一样。 点球\n本文链接",
-          "link": "https://news.cnblogs.com/n/732317/",
-          "publishedOn": "2022-11-25T08:42:00.000Z",
-          "wordCount": 161,
-          "title": "昨夜，见证37岁C罗的疯狂！世界杯带火元宇宙，元宇宙智算中心出线了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732316/",
-          "author": null,
-          "description": "丰色发自凹非寺 量子位公众号 QbitAI 最新中文语言理解领域权威榜单 CLUE，诞生了一项新的纪录： 来自阿里达摩院的大模型，获得了超越人类成绩的 86. 685 高分。 这是该榜单诞生近三年以来，首次有 AI 超过人类得分。 这也意味着 AI 理解中文的水平又达到了一个新的高度。 那么，创下这\n本文链接",
-          "link": "https://news.cnblogs.com/n/732316/",
-          "publishedOn": "2022-11-25T08:30:00.000Z",
-          "wordCount": 161,
-          "title": "AI中文语言理解得分首超人类，达摩院创造新纪录，大模型又立功了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732315/",
-          "author": null,
-          "description": "詹士发自凹非寺 量子位公众号 QbitAI 晶体管是如何工作的？ 发明者自己也不清楚…… 这真的没开玩笑。 这两天 IEEE Spectrum 发布一篇文章，关于晶体管诞生始末，其中披露：当年科学家确实仅仅实现电路定向导通效果，就对外公布了成果。 甚至十年过去，相关贡献者已凭此拿下诺贝尔物理奖，圈内\n本文链接",
-          "link": "https://news.cnblogs.com/n/732315/",
-          "publishedOn": "2022-11-25T08:23:00.000Z",
-          "wordCount": 161,
-          "title": "晶体管发明往事：误打误撞，反目成仇，共享诺贝尔奖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732314/",
-          "author": null,
-          "description": "鱼羊萧箫发自凹非寺 量子位公众号 QbitAI 盆友们，骁龙，已经不再是以前那个骁龙了。 就在大家吃瓜安卓新旗舰芯片谁家首发之际，骁龙峰会的绝对主角，却只差没把“时代变了”写在脸上： 先是第一天直接挤爆 AI 牙膏管，第二代骁龙 8 连 ISP、5G 调制解调器都武装上了神经网络。 紧接着第二天，干\n本文链接",
-          "link": "https://news.cnblogs.com/n/732314/",
-          "publishedOn": "2022-11-25T08:15:00.000Z",
-          "wordCount": 161,
-          "title": "骁龙咣咣咣三脚，再次改写格局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732313/",
-          "author": null,
-          "description": "文/墨白 编辑/周雄飞 来源：连线出行 动力电池领域，又有了新动态。 近日，据上交所官网披露，蜂巢能源科技股份有限公司（以下称为“蜂巢能源”）的科创板 IPO 已被受理，保荐机构为中信证券。据连线出行获悉，蜂巢能源目前已有 600 亿元的估值，本次 IPO 其计划募资 150 亿元。 截图自蜂巢能源\n本文链接",
-          "link": "https://news.cnblogs.com/n/732313/",
-          "publishedOn": "2022-11-25T08:08:00.000Z",
-          "wordCount": 161,
-          "title": "激进上攻“宁王”、流血冲击上市，蜂巢能源赢了面子，输了里子？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732312/",
-          "author": null,
-          "description": "文｜黄小艺 来源：商业数据派 这个冬天，咖啡市场有点热。 高傲如星爸爸，近期也开始在抖音、饿了么、美团等平台打起价格战，直接半价，15 元一杯，挑战瑞幸客单价；刚刚上市的 Tims 中国，原本主打 20~30 元的精品咖啡，现在却在抖音玩起低价套路，从 19 元砍到 9 块9，狂卖 30 万份，价格\n本文链接",
-          "link": "https://news.cnblogs.com/n/732312/",
-          "publishedOn": "2022-11-25T07:55:00.000Z",
-          "wordCount": 161,
-          "title": "瑞幸活了，但把咖啡市场往死里卷",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732311/",
-          "author": null,
-          "description": "文/神乐 来源/懂懂笔记（ID:dongdong_note） 日前，某国产新能源车品牌宣布对旗下部分车型涨价 2000~6000 元不等，引发市场关注。此举，与近期特斯拉在中国市场对两款车型降价超过一万元形成鲜明对比。但是，更让消费者关注的，是传统豪华汽车品牌奔驰不得不“放下身段”——下调旗下纯电动\n本文链接",
-          "link": "https://news.cnblogs.com/n/732311/",
-          "publishedOn": "2022-11-25T07:42:00.000Z",
-          "wordCount": 161,
-          "title": "新能源车涨价、降价声中，你是否听到BBA的呜咽？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732310/",
-          "author": null,
-          "description": "编/David 好困 来源：新智元（ID:AI_era) 在马斯克的指示下，推特一纸邮件，以后员工需要写周报了，而且光吹水不行，还要附上写的代码。 入主推特之后，马院士的骚操作还在继续。 报道称，马斯克已经在公司内部邮件中要求，员工必须每周向他汇报工作上的进展。 这个要求，大洋彼岸的打工人再熟悉不过\n本文链接",
-          "link": "https://news.cnblogs.com/n/732310/",
-          "publishedOn": "2022-11-25T07:34:00.000Z",
-          "wordCount": 161,
-          "title": "给我发代码！马斯克强制要求推特员工写周报，还招来黑客大佬改程序",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732309/",
-          "author": null,
-          "description": "最近，差评君被刘强东发布的京东全员信，给刷屏了。 信里大概讲了四个点，每一个点都让差评君不由地竖起大拇哥，让人想叫东子一声东哥。 首先就是从明年开始，京东会逐步给十几万的德邦兄弟们，缴齐五险一金，确保让每个德邦的员工都能 “ 老有所依，病有所养 ”。 同时，京东准备投入 100 亿设立 “ 住房保障\n本文链接",
-          "link": "https://news.cnblogs.com/n/732309/",
-          "publishedOn": "2022-11-25T07:22:00.000Z",
-          "wordCount": 161,
-          "title": "拿高管的钱给员工交五险一金，被“架空”的东哥凭什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732308/",
-          "author": null,
-          "description": "文/刘冬雪 、华宇 、李贤焕 来源：市界（ID:ishijie2018) 《阿凡达2》定档的消息发出后，其在各大平台的搜索量暴增。在灯塔平台、猫眼、微博等平台均登上热搜榜。截至 11 月 23 日下午 7 点，猫眼上《阿凡达2》想看人数已接近 64 万，高于《流浪地球2》40 万的想看人数。“如果说\n本文链接",
-          "link": "https://news.cnblogs.com/n/732308/",
-          "publishedOn": "2022-11-25T07:10:00.000Z",
-          "wordCount": 161,
-          "title": "我们比12年前更需要一部《阿凡达》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732307/",
-          "author": null,
-          "description": "文/王新宇 来源：解码 Decode（ID:kankeji001) 今年 10 月，一起主播遭到公会起诉索赔违约金的案件被媒体曝光。本来这条新闻没什么特别，但媒体把‘千万违约金’和‘陌陌’两个元素放到一起，就格外引人注目。 事件起因是主播‘秦七七’在与陌陌签订独家协议期间，又在抖音上开号直播。因此被\n本文链接",
-          "link": "https://news.cnblogs.com/n/732307/",
-          "publishedOn": "2022-11-25T07:00:00.000Z",
-          "wordCount": 161,
-          "title": "将主播送上被告席，治不好陌陌的直播依赖症",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732306/",
-          "author": null,
-          "description": "文/麻吉 来源：霞光社（ID:Globalinsights) 一年一度的黑五大促已经启幕，对多年占据美国黑五榜首的亚马逊来说，对手正在悄悄变多。 今年 9 月，拼多多 Temu 登陆美国，半个月时间即拿下安卓商店和 Google Play 商店单日下载量第一；11 月，TikTok 美国小店正式上线\n本文链接",
-          "link": "https://news.cnblogs.com/n/732306/",
-          "publishedOn": "2022-11-25T06:45:00.000Z",
-          "wordCount": 161,
-          "title": "这个“黑五”，亚马逊被中国大厂围攻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732305/",
-          "author": null,
-          "description": "Meta 旗下通讯软件 WhatsApp“失窃”，近 5 亿用户的信息或被泄露。 近日，一名用户在知名黑客论坛发帖，称其正在出售超 4.87 亿通讯软件 WhatsApp 用户的信息数据。数字安全调查媒体 Cybernews 于 11 月 24 日报道称，已从卖家处获得样本，并确认在售数据确实来自 \n本文链接",
-          "link": "https://news.cnblogs.com/n/732305/",
-          "publishedOn": "2022-11-25T06:30:00.000Z",
-          "wordCount": 161,
-          "title": "WhatsApp被曝数据大泄露：黑客叫卖近5亿用户信息",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732270/",
-          "author": null,
-          "description": "文大数跨境 从马斯克收购 Twitter 的那一刻起，就职于 Twitter 的员工们就已经把心提到了嗓子眼。因为很早就有消息传出：马斯克将裁掉 Twitter 75% 的员工。但是在收购 Twitter 后，马斯克造访公司时跟周围的员工表示：“（裁员 75%）不知道谁说的，没有这事儿”。事实上，马\n本文链接",
-          "link": "https://news.cnblogs.com/n/732270/",
-          "publishedOn": "2022-11-25T00:38:00.000Z",
-          "wordCount": 161,
-          "title": "马斯克在Twitter裁员50%，Meta借坡下驴，焦虑的互联网人决定进厂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732269/",
-          "author": null,
-          "description": "文一刻商业，作者天宇，编辑周烨 新氧终于实现了盈利。 财报显示，2022 年 Q3，新氧净利润为 230 万元。虽然去年同期，新氧也实现了盈利，但不能忽视的是，这很大程度上源于并表武汉奇致激光公司带来的利好。因此，2022 年 Q3 的盈利，对于新氧来说，拥有更关键的意义，这预示着新氧靠自身业务可以\n本文链接",
-          "link": "https://news.cnblogs.com/n/732269/",
-          "publishedOn": "2022-11-25T00:30:00.000Z",
-          "wordCount": 161,
-          "title": "“容貌焦虑”的生意，新氧快做不下去了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732268/",
-          "author": null,
-          "description": "文老铁 财报季市场总会津津乐道于企业基本面的种种变化，再由此预判股价的走势情况，如果此后股价如预测那般，则会归因于“基本面投射”，一旦走势与预测不符，就会退回财务分析起点，查找自己遗漏什么，又常常懊恼自己评判错了企业财报。 令人吊诡的是，无论是舆论界还是市场操作人士，虽然都会将“长期价值投资”挂在嘴\n本文链接",
-          "link": "https://news.cnblogs.com/n/732268/",
-          "publishedOn": "2022-11-25T00:24:00.000Z",
-          "wordCount": 161,
-          "title": "基本面短期让位流动性偏好，快手如何定性？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732267/",
-          "author": null,
-          "description": "文商隐社，作者散人，编辑甄幸运 B站能打的牌还有多少？ 兜兜转转，陈睿最终还是狠抓起了他一向“看轻”的游戏业务。 本月 4 号，B站内部发布了一则名为《关于游戏业务汇报线调整的通知》的公告。公告称，B站游戏业务汇报线，由高级副总裁张峰调整至 CEO 陈睿。 B 站今年第二季度财报显示，B站当前的净亏\n本文链接",
-          "link": "https://news.cnblogs.com/n/732267/",
-          "publishedOn": "2022-11-25T00:18:00.000Z",
-          "wordCount": 161,
-          "title": "B站能打的牌还有多少？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732266/",
-          "author": null,
-          "description": "文价值研究所 经济大环境的下行，让消费潮流发生了变化，理性消费取代消费升级成为年轻人的首选。这种变化，也带动了一系列相关产业的发展——比如二手回收交易平台。 日前，全国最大二手消费电子产品交易平台爱回收的母公司万物新生集团公布最新财报，单季度营收再创新高。作为业内标杆之一，爱回收的优异业绩展现了二手\n本文链接",
-          "link": "https://news.cnblogs.com/n/732266/",
-          "publishedOn": "2022-11-25T00:12:00.000Z",
-          "wordCount": 161,
-          "title": "爱回收难盈利，二手手机行业苦等春天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732265/",
-          "author": null,
-          "description": "在旅游业政策利好不断而现实疫情多点多发的大背景下，OTA 们迎来了又一财报季。 11 月 22 日，同程旅行率先交表。财报显示，2022 年第三季度，同程旅行实现收入 20.48 亿元，同比增长 5.6%；净亏损 9394 万元，而去年同期为净利润 2.26 亿元；经调整净利润达 2.52 亿元，同\n本文链接",
-          "link": "https://news.cnblogs.com/n/732265/",
-          "publishedOn": "2022-11-25T00:06:00.000Z",
-          "wordCount": 161,
-          "title": "同程旅行Q3触底反弹，住宿“夺位”交通票务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/732264/",
-          "author": null,
-          "description": "图片来源：视觉中国 受益于《苍兰诀》等暑期大爆的自制剧，爱奇艺今年三季度在订阅会员规模上，终于止住了颓势提了一口气。但是，该板块贡献的收入却不是那么乐观。 财报显示，爱奇艺第三季度总营收为 75 亿元（约合 11 亿美元），同比下滑2%；归属于爱奇艺的净亏损为 3.956 亿元（约合 5560 万美\n本文链接",
-          "link": "https://news.cnblogs.com/n/732264/",
-          "publishedOn": "2022-11-25T00:00:00.000Z",
-          "wordCount": 161,
-          "title": "爱奇艺Q3会员净增千万，但会员收入却减少了",
           "imageUrl": null
         }
       ]
