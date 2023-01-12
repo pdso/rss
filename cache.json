@@ -51,24 +51,23 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed/",
       "siteUrl": "https://coolshell.cn",
-      "articles": [
-        {
-          "id": "https://coolshell.cn/?p=22341",
-          "author": "陈皓",
-          "description": "写一篇与技术无关的文章，供大家参考。我住北京朝阳，从上周三开始我家一家三口陆续发烧生病，自测抗原后，都是阳性。好消息是，这个奥密克戎跟一般的病毒性感冒差不多，没...\n Read More  Read More\n感染新冠的经历 first appeared on 酷 壳 - CoolShell.",
-          "link": "https://coolshell.cn/articles/22341.html",
-          "publishedOn": "2022-12-13T07:39:39.000Z",
-          "wordCount": 1652,
-          "title": "感染新冠的经历",
-          "imageUrl": "https://coolshell.cn/wp-content/uploads/2022/12/covid19.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "少数派 -- Matrix",
       "feedUrl": "https://rsshub.app/sspai/matrix",
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
+        {
+          "id": "https://sspai.com/post/77685",
+          "author": "花生酱先生",
+          "description": "编注： 本文是少数派 2022 年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。\n今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排名与稿酬倍率。如果你喜欢这篇文章或内容对你帮助，请尽量通过充电、收藏或评论等方式表达你的支持与赞赏。\n\n人生由诸多随机事件组成。\n虽然随机性不可预测，但还是要尽量坚守属于自己的主线。\n因为，只有主动持续向着某些方向做事，才能连点成线。\n主线的寻找，需要感知自我，根据当下状态进行方向管理。\n如果你对这个话题感兴趣，不妨读下去，我会分享我的探究结论。\n\n写在前面\n大家好，我是喜欢 「用产品思维解构生活」 的花生酱，你也可以叫我 Jeff。\n作为一名 8 岁的一线产品经理，我喜欢用产品思维将做事效率优化到极致，但这一年来，极致的效率却并未带给我极致的满足感和幸福感。\n我开始变得顾此失彼，忙于做事，失去了个人爱好和休息的时间：过去一年，我一直在研究产品领域的方法论，但随着研究的深入，价值感和边际收益递减，投入越多越疲惫，每天控制不住在休息时间也焦虑、思考，这让我感到很累。\n\n当多年坚持的方向不再给我们惊喜，是该死守这个主线？还是开新线路，多线并行？\n若多线并行，又该如何分配多主线之间的精力？\n何时该走？何时该休息？何时该放弃？\n\n带着这些疑问，我从「效率生活」领域，进阶到了「人生管理」领域。探索的路上发现了「8+1 system」等有趣的理论，实践后一点点摸索出了适合我自己的方法。\n一、效率是好答案，但不是唯一解\n去年向少数派年度征文投稿了《放弃工具和方法后，我收获了效率生活》，讲的是如何高效做出精品，而非做出更多平庸的作品。这一年来，我不断精进，逐步构建了一些深度的内容和产品，我的小报童专栏《产品经理基本功手册》付费订阅数逼近 700，纵然欣喜，却仍有一朵乌云在我脑海中挥散不…",
+          "link": "https://sspai.com/post/77685",
+          "publishedOn": "2023-01-11T03:29:04.000Z",
+          "wordCount": 565,
+          "title": "年度征文｜把人生活成旷野，我的「焦虑盒子」笔记系统",
+          "imageUrl": "https://cdn.sspai.com/2023/01/07/28a871604a549175d4d7a5988bac7585.jpg"
+        },
         {
           "id": "https://sspai.com/post/77733",
           "author": "JuniperPhoton",
@@ -118,6 +117,16 @@
           "wordCount": 480,
           "title": "特斯拉 2023 年度大降价：车主告诉你开一年特斯拉还要花多少钱",
           "imageUrl": "https://cdn.sspai.com/2023/01/08/73f9625698f01ec87ab035b58b911ec4.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/77682",
+          "author": "唐夕洲",
+          "description": "「自由物语」周刊初介绍\nHi，「自由物语」是一个关于生活、效率、工作的以文字为主的周刊。\n我将我在生活中的所思所想，以及从书影音中收获到的有趣的观点，写成每一篇短文，每一期包含 7 篇这样的小短文。\n\n目录\n1 什么是性同意\n2 我在动森里学会早睡早起\n3 怎样改掉坏习惯\n4 如何忘却你的前任\n5 学会左手吃饭需要多久\n6 乞丐的马\n7 兴趣要在青年时培养\n\n1 什么是性同意\n来自英国官方的性教育短片，这是 b 站转载链接\n如果你还在纠结「同意」的意思，那就先抛开「性」的概念\n先给他们泡上一杯茶，然后问「你想喝杯茶吗」，如果他们说「我就想喝一杯茶，谢谢你」，那你就知道他们想要一杯茶了。\n\n如果他们说「额......我不太确定」，那么你可以给他们沏杯茶，但他们可能不会喝，如果他们不喝，那么重点就来了——别逼他们喝，你给别人泡了一杯茶，不代表你可以强迫别人喝。\n如果他们说「不用了，谢谢你」，那就不用给他们泡茶了，不用泡茶，不要强迫别人喝，不要因为他们不喝茶而生他们的气，他们只是不想喝茶。\n有的可能会说「好的，谢谢你」，但当茶端上来的时候，他们其实根本不想喝茶，这确实有些烦人，因为你花了心思去泡茶，但他们仍然没有义务去喝这杯茶，他们之前确实想要一杯茶，但现在不想了，有人会在泡茶的时间里就改变了主意，改变主意很正常，不过你仍然没有权利逼迫他们喝掉。\n如果他们不省人事了，那就别给他们泡茶，失去意识的人不想喝茶，他们也回答不了「要不要喝一杯茶」这个问题，因为他们已经不省人事了。\n也许当你问的时候，他们还是清醒的，他们说「好的」，但当你烧水、沏茶、加牛奶的时候，他们就神智不清了，你应该把茶放下，确保昏迷的人安全，这是最重要的，再次来到重要的部分，别强迫他们喝茶，当然他们之前是答应了要喝茶，但失去知觉的人是不会想喝茶的。\n如果有人答应喝茶，但还没喝完就晕倒了，那就别往他们喉咙里灌了，把茶拿…",
+          "link": "https://sspai.com/post/77682",
+          "publishedOn": "2023-01-07T07:19:09.000Z",
+          "wordCount": 516,
+          "title": "「自由物语」周刊第 1 期",
+          "imageUrl": "https://cdn.sspai.com/2023/01/07/a28d04fd5f958387b906a281bdc5d4fd.png"
         },
         {
           "id": "https://sspai.com/post/77642",
@@ -478,46 +487,6 @@
           "wordCount": 735,
           "title": "流水超百万闲鱼佬交易策略指北",
           "imageUrl": "https://cdn.sspai.com/article/311b506d-3354-3cd8-31ab-67f0043d3f78.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/77259",
-          "author": "5ilh0uette",
-          "description": "出于工作习惯，我会建立多个虚拟桌面，在每个虚拟桌面内处理不同的工作任务，也方便把工作和生活相关内容区分开。\n日常工作需要大量使用到Excel表格，但一直有一个觉得麻烦的事情，在已有Excel表格打开的情况下，在另一个虚拟桌面再次新建/打开Excel表格时，虚拟桌面会自动跳转到上一个Excel表格所在的桌面，因此我需要手动把新的Excel表格拖到另一个虚拟桌面。\nGoogle寻找了一番，发现与下述链接描述的问题相同，也得到了一个解决方案：windows 10 - Avoid automatically switching to other virtual desktop when opening a file - Super User\n但该方案在最新版Windows 11中并不可用，怀疑主要是ftype命令支持的问题，由于ftype\n命令对应修改注册表中HKEY_CLASSES_ROOT\\xxxfile\\shell\\Open\\command键值，因此可直接通过修改注册表的方式解决问题。参考上述链接，可用的解决方案如下：\n通过开始菜单、任务栏等Excel快捷方式新建文档\n右键打开Excel快捷方式属性，在「目标」项内，添加/X，/X前为Excel程序所在位置。如把\"C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE\"修改为\"C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE\" /X即可。\nExcel快捷方式属性\n打开已存在的Excel文档\n使用Windows+R快捷键，运行regedit命令打开注册表，对于.xlsx格式，定位至HKEY_CLASSES_ROOT\\Excel.Sheet.12\\shell\\Open\\command，在(默认)键值中\"%1\"前添加/X。如修改\"C:\\Program Files\\Microsoft Office\\Root\\Office16\\EXCEL.EXE\" \"%1\"为\"C:\\Program Files\\Microsoft Office\\Root\\Office16\\EXCEL.EXE\" /X \"%1\"。\n注册表\n对于其他格式，可以在命令提示符中使用assoc命令判断对应的注册表位置。首先使用Windows+R快捷键，运行cmd命令（不能使用PowerShell）。在命令提示符窗口内，例如，对于.xls格式，键入assoc .xls，返回值Excel.Sheet.8，则在注册表内对应定位至HKEY_CLASSES_ROOT\\Excel.Sheet.8\\shell\\Open\\command即可。\n命令提示符\n在注册表内修改完成后，也可通过ftype命令检验是否修改生效，如键入ftype Excel.Sheet.8，返回Excel.Sheet.8=\"C:\\Program Files\\Microsoft Office\\Root\\Office16\\EXCEL.EXE\" /X \"%1\"含有/X代表已生效。",
-          "link": "https://sspai.com/post/77259",
-          "publishedOn": "2022-12-13T10:16:19.000Z",
-          "wordCount": 488,
-          "title": "一日一技｜如何解决Windows下使用Excel打开文件时自动跳转虚拟桌面的问题",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://sspai.com/post/77242",
-          "author": "luozhiyun",
-          "description": "不知道从什么时候开始，再也没有了玩游戏的兴致。纵使我的 steam 库里面有很多游戏，xgpu 里面有几百款游戏，但是我一点没有想要体验的欲望。去年6月的时候我买了我的第一台 xbox，开通了 xgpu，兴致勃勃的玩了一阵，还专门写了篇文章来称赞它有多模的哇塞，详情可以看这篇：国行 Xbox Series X 体验，但是过了一年半，玩它的时间估计不超过20小时，下了一堆游戏，玩了个开头再也没有打开的欲望。\n我知道我患上了电子ed，玩游戏进入了只买不玩的地步，库里这么多有游戏我近些年一个都没有通关过，上一个通关的游戏是在2017年。\n\n每次打开每次当我坐在电脑面前即使打开了游戏也无法深入下去，总感觉有什么东西没有完成，对未来的担忧和生活的压力让我大大降低了对游戏的热情。有点时间宁愿打开 B 站刷点垃圾视频，也不想打开一个 3A 大作体验一下奇幻的游戏世界。视频刷多了之后，不仅会让我感觉空虚，更会让我失去耐心。\n\n直到前段时间，我被拉去酒店隔离，当时只带了一台 switch 作为我的娱乐设备。在被隔离的时候恰好有一个国产独立游戏《风来之国》打折，然后就玩了几天，感觉意外的不错，除了剧情稀烂以外。在那时我就想掌机实在太适合玩这种独立游戏了，正好 steam deck 最近降价，就下单买了一台。\nsteam deck 到手之后我才逐渐理解，游戏的真正快乐是什么。\n\n操控与握持感一流的体验\n简单的对比一下大家就直到这玩意大概有多大了，长度大约有我的小臂这么长，比我的 switch 大上好几圈。所以这么大的机器为什么会有很好的握持感呢？\n\n它在机器上提供维持感非常强的手把，以至于填充了整个手掌，加上后面有 4 个背键，实际上也增加了很多游玩性。所以多亏了它的握把，机器虽然大和重，但是实际上玩下来并不会觉得很累，不需要像 switch 一样通过手指借力。\n\n然后 steam deck 把…",
-          "link": "https://sspai.com/post/77242",
-          "publishedOn": "2022-12-13T08:47:16.000Z",
-          "wordCount": 644,
-          "title": "Steam Deck治好了我的电子ED",
-          "imageUrl": "https://cdn.sspai.com/2022/12/12/6b4f1ad5150c4b8e840e3a922006eb46.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/77245",
-          "author": "王禹效",
-          "description": "文本 AI - ChatGPT 和绘画 AI - Stable Diffusion，平地惊雷，突然进入寻常百姓家。\n如果时间可以快进，未来的人们对于我们这段时光的历史评价，大概会说：\n当时的人们在短时间连续经历了这几种情感。从不信，去试试看；到远超预期，后怕；到释然钦佩感慨，进步来得太快。人们原以为 AI 是远方的灯塔，转眼，才发现在后面的是人类。再望向 AI，惊觉已望尘莫及。\n作为一名开发者，我在想如果让 AI 代替我工作，是个什么感受呢？本文我想和你分享我在过去两天的探索。\n前情回顾\n倘若你十分幸运，暂时还没有体验这波 AI，以下是简短回顾。\n比如下面这张截图，一个人在和一个另一个似乎全知全能的生物对话，这便是隶属于机器学习 NLP 自然语言处理分支的 ChatGPT。这个文本聊天 AI 是一个基于 RLHF，也就是带人工反馈的强化学习技术的超大语言模型。\n这里面有两个关键点：RLHF，人工干预带奖励机制的训练过程，使它能向人类一样判断；超大语言模型，是将人类文明以文字的方式全盘托出，来赋予它智慧。\n\n如果你最近在朋友圈看到雨后春笋般地艺术作品，或玩过各类文字画图小程序。这些极大可能是另一个 AI，即用来将文本转为图片，隶属于机器学习 CV 计算机视觉分支的 Stable Diffusion，在后台为你默默工作。\n比如下面这张图，就是在向 Stable Diffusion 描述「一种会发光的外星菌菇」这段文字后，AI 生成的作品。\n\n脑洞来源\n刚巧最近 Apple 在 iOS 16.2 和 macOS 13.1 中对 Apple 芯片在 Core ML 大模型的表现作出更新，发论文如下，首次加入了对于 Stable Diffusion 的优化。现如今芯片技术，和手机电脑中神经网络引擎，终于在当下能支持此类推演。\n\n我就在想，能不能写个 iOS 程序，这个程序能用上 St…",
-          "link": "https://sspai.com/post/77245",
-          "publishedOn": "2022-12-13T08:45:11.000Z",
-          "wordCount": 617,
-          "title": "2 天：我用文字 AI-ChatGPT 写了绘画 AI-Stable Diffusion 跨平台绘画应用",
-          "imageUrl": "https://cdn.sspai.com/2022/12/12/c90c3a910ff01332b3ba39cbacb8d7d2.png"
-        },
-        {
-          "id": "https://sspai.com/post/73026",
-          "author": "Mirtle",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n我在午休期间无聊把玩 PowerShell 的行为被同事们观察到后，「某某某技术力高」的不实印象便逐渐建立起来。于是，偶尔有和我走得较近的同事会以咖啡为报酬请我帮忙完成一些冗杂的文本或文件操作。凭借着对 PowerShell 脚本的熟悉，我意外获得了「咖啡自由」。因此，当同事 X 发消息求助时，我毫不犹豫地答应了。\n他想让我批量重命名大概三百个视频文件，根据他提供的截图，原始的文件名大概像下面这样：\nVID20221005110210.mp4\nVID_20170812061211.mp4\nVideo_20180111171112.mp4\n团建视频（2）.mp4\nVID20130104150926.MOV\n团建视频（1）.mp4\n他的需求是把所有的视频文件全部重新命名为 年年年年-月月-日日.mp4 的形式，即完成几百次 VID20221005110210.mp4 到 2022-10-05.mp4 的转换。此外，由于视频库还在不断扩充，他希望我不光授之以鱼，还能把方法教给他。\n「写一个脚本，然后告诉他怎么用脚本」是我的第一反应。经过十几分钟的复制粘贴、调整以及测试，符合其预期的 PowerShell 脚本便出炉了。大家可以在 此链接 看到，加起来有一百多行，核心思路是：对于文件名不规则视频，用 此脚本 读取其最早的创建日期；其他情况下用正则提取文件名中的日期：\n$BaseName = $Leaf -replace '(VID_|VID|video_)(\\d{4})(\\d{2})(\\d{2}).*', '$2-$3-$4'\n但真正困…",
-          "link": "https://sspai.com/post/73026",
-          "publishedOn": "2022-12-13T03:27:49.000Z",
-          "wordCount": 673,
-          "title": "一日一技 | 动手做个 Windows 快捷方式，拖拽搞定批量重命名",
-          "imageUrl": "https://cdn.sspai.com/2022/12/12/4ae66078453331f32d991268d560b5c8.png"
         }
       ]
     },
@@ -576,6 +545,156 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73871",
+          "author": null,
+          "description": "美国时尚健身的最新趋势是用电刺激肌肉。被称为全身肌肉电刺激（EMS）的技术要求用户穿上连上机器布满电极的衣服进行锻炼。衣服提供了电脉冲，因为肌肉需要对抗电脉冲，每项锻炼的难度会增加。支持者称它是一种更有效的构建肌肉质量和力量的方式，声称 20 分钟的全身电刺激训练能达到两个半小时传统力量训练相同的效果。美国有大约 400 家健身中心和水疗中心等机构提供了这种电刺激健身，网上也有各种自助式家庭训练套装出售。科学家则泼冷水指出 EMS 并不是一种获得超级英雄体质的捷径。监管机构警告这种设备可能会导致肌肉损伤或烧伤。不过有研究者也通过实验报告，全身肌肉电刺激可能有益于心脏。但研究结果尚未在同行审议的科学期刊上发表。",
+          "link": "https://www.solidot.org/story?sid=73871",
+          "publishedOn": "2023-01-11T15:13:33.000Z",
+          "wordCount": 149,
+          "title": "愿意通过电刺激肌肉来健身吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73870",
+          "author": null,
+          "description": "Paramount+ 预定了 8 集《龙与地下城》改编剧集。Paramount+ 是派拉蒙旗下的流媒体服务，《龙与地下城》是孩之宝旗下奇幻背景的角色扮演游戏，风靡世界。《Red Notice》制作人 Rawson Marshall Thurber 撰写了《龙与地下城》先导片剧本，将执导该剧的第一集。真人改编剧集将由 eOne 和派拉蒙影业联合制作。《龙与地下城》成为 Paramount+ 最新一部游戏改编剧集，加入了《光环》改编剧集的阵营。这部真人剧是 eOne 工作室至今规模最大的电视项目，可能会打造出一个龙与地下城宇宙，包含多个剧本和非剧本节目。",
+          "link": "https://www.solidot.org/story?sid=73870",
+          "publishedOn": "2023-01-11T14:34:50.000Z",
+          "wordCount": 166,
+          "title": "Paramount+ 预定龙与地下城真人剧集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73869",
+          "author": null,
+          "description": "梅赛德斯奔驰成为第一家在美国提供认证过的 L3 级自动驾驶技术的汽车厂商。梅赛德斯表示其自动驾驶系统 Drive Pilot 已经获得内华达州的批准，正等待州政府签发的正式合格证明书，这预计会在两周内发生。它在加州也递交了申请，预计也会很快通过。梅赛德斯的 L3 自动驾驶系统可以在合适的高速公路路段和高交通密度地段接管驾驶，让司机做其它事情，如看电影或参加会议。它还支持自动变道，超越行驶速度较慢的车辆。",
+          "link": "https://www.solidot.org/story?sid=73869",
+          "publishedOn": "2023-01-11T13:42:32.000Z",
+          "wordCount": 161,
+          "title": "梅赛德斯奔驰成为第一家在美国提供 L3 级自动驾驶的汽车厂商",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73868",
+          "author": null,
+          "description": "如果不能自己制定规则，那么拥有一座岛的意义何在？这是甲骨文董事长拉里·埃里森（Larry Ellison）面临的问题。他在 2012 年以 3 亿美元购买了夏威夷群岛中的第六大岛拉奈岛 98% 的土地所有权，但在该岛上他因为因闯红灯和超速被交警拦了下来。拉奈岛有逾三千居民，有一所学校和一所医院。警官的随身摄像机视频显示这位亿万富翁去年 10 月被拦下，他驾驶的汽车冲过了停车标志，并且还超速了。文字记录显示埃里森很配合，表示了歉意，称他如此急着赶路是为了回家和孩子共进晚餐，他承认这不是好的借口。",
+          "link": "https://www.solidot.org/story?sid=73868",
+          "publishedOn": "2023-01-11T13:14:05.000Z",
+          "wordCount": 160,
+          "title": "Larry Ellison 在自己的岛上因闯红灯超速被拦下",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73867",
+          "author": null,
+          "description": "微软本周二释出了一月份例行安全更新，共修复了 98 个漏洞，其中之一是正被利用的 0day。CVE-2023-21674- Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability  是安全公司 Avast 研究人员报告的，是一个沙盒逃逸漏洞，能导致提权。成功利用该漏洞的攻击者能获得系统级权限，暂时不清楚攻击者如何利用该漏洞。98 个漏洞中有 39 个属于提权漏洞，33 个远程代码执行漏洞，10 个信息泄露和 10 个拒绝服务漏洞。",
+          "link": "https://www.solidot.org/story?sid=73867",
+          "publishedOn": "2023-01-11T12:44:47.000Z",
+          "wordCount": 170,
+          "title": "微软一月安全更新修复了一个正被利用的 0day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73866",
+          "author": null,
+          "description": "根据发表在《Nature Cell Biolog》期刊上的一项研究，研究人员识别出一种帮助恶性黑色素瘤细胞扩散的蛋白质。这些恶性黑色素瘤细胞含有高水平的 LAP1 蛋白质，它的增加与皮肤癌患者预后不佳有关。黑色素瘤是一种能扩散到身体其它器官的皮肤癌。癌症的扩散是癌症相关死亡的主因，其发生机制仍然有很多谜团尚未解开。这项研究可能有助于开发出遏制黑色素瘤扩散的新方法。",
+          "link": "https://www.solidot.org/story?sid=73866",
+          "publishedOn": "2023-01-11T11:54:22.000Z",
+          "wordCount": 147,
+          "title": "研究人员识别帮助皮肤癌扩散的蛋白质",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73865",
+          "author": null,
+          "description": "美国内政部在安全审计中发现，逾五分之一的密码可以用标准方法破解。审计人员获得了 85,944 名联邦雇员账户密码的哈希值，然后用包含 15 亿单词的字典进行暴力破解。结果成功破解了其中 18,174 个哈希值，占到了总数的 21%。其中 288 个账户具有高权限，362 个账户属于政府高级雇员。审计人员仅仅在 90 分钟内就破解了 16% 的哈希值。最常见的密码是 Password-1234，有 478 人使用；Br0nc0$2012，有 389 人使用；Password123$ | 318；Password1234 | 274；Summ3rSun2020! | 191；0rlando_0000 | 160；Password1234! | 150...",
+          "link": "https://www.solidot.org/story?sid=73865",
+          "publishedOn": "2023-01-11T09:30:25.000Z",
+          "wordCount": 172,
+          "title": "美国联邦机构使用的密码有五分之一在安全审计中破解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73864",
+          "author": null,
+          "description": "生物科技创业公司 Rejuvenate Bio 称使用基因重编程技术延长了年长鼠的寿命，表示未来有一天老年人可以逆转生物钟，变得更年轻。研究报告发表在预印本平台 BioRxiv，尚未通过同行审议。Rejuvenate 的首席科学官 Noah Davidsohn 称，该公司在相当于人类年龄 77 岁的年长鼠体内加入了三个重编程基因，之后它们的寿命延长了一倍。接受治疗的年长鼠平均多活了 18 周，对照组则只有多活了 9 周。接受治疗的小鼠寿命延长了约 7%。虽然不太显著，但该公司表示研究提供了动物逆转年龄的证据。其他科学家对基因疗法的衰老治疗表达了谨慎乐观，认为其中的风险还是未知的，还有可能会导致癌症。",
+          "link": "https://www.solidot.org/story?sid=73864",
+          "publishedOn": "2023-01-11T09:02:58.000Z",
+          "wordCount": 159,
+          "title": "创业公司称使用基因重编程技术延长了年长鼠的寿命",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73863",
+          "author": null,
+          "description": "为丹麦央行以及该国金融业提供 IT 解决方案的 Bankdata 公司遭到了 DDoS 攻击，央行以及七家私人银行网站的访问受到干扰。DDoS 攻击通过将流量引导到目标网站以迫使其下线。丹麦央行的发言人表示，其网站周二下午访问正常，攻击没有影响到银行的其它系统或日常运作。Bankdata 的一位发言人表示，在受到 DDoS 攻击后，七家私人银行的网站访问周二短暂受限。受影响的银行包括丹麦最大的两家银行—— Jyske Bank 和 Sydbank。",
+          "link": "https://www.solidot.org/story?sid=73863",
+          "publishedOn": "2023-01-11T07:41:43.000Z",
+          "wordCount": 164,
+          "title": "丹麦央行网站遭 DDoS 攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73862",
+          "author": null,
+          "description": "微星的显卡超频工具 MSI Afterburner 被用于显卡的监控、超频和降压。但它的开发者本月早些时候在该应用的 Guru3D 讨论论坛上表示微星已经近一年时间没有付钱，其开发已处于半放弃状态。MSI Afterburner 由俄罗斯开发者 Alexey 'Unwinder' Nicolaychuk 开发，他还开发了 RivaTuner Statistics Server——它是 MSI Afterburner 基础软件层的一部分。Unwinder 在论坛上表示，因为战争和政治原因，项目半放弃了，微星已经近一年时间没有履行软件的许可协议——即支付开发费用。他说，过去 11 个月 MSI Afterburner 的开发还在继续，但他个人感觉是在一个微星公司不需要的东西上浪费时间，如果有空闲时间他可能会继续支持它，但为了支付账单他需要做其它事情。RivaTuner Statistics Server 的开发还会继续下去。微星证实，由于俄罗斯对乌克兰的战争，它停止了付款。但对于是否将放弃 MSI Afterburner，微星有不同观点，它有意继续支持该工具，正在研究解决方案。",
+          "link": "https://www.solidot.org/story?sid=73862",
+          "publishedOn": "2023-01-11T07:08:19.000Z",
+          "wordCount": 184,
+          "title": "因俄罗斯开发者拿不到钱 MSI Afterburner 开发停滞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73861",
+          "author": null,
+          "description": "根据 IDC 的报告，2022 年第四季度全球 PC 出货量同比下跌 28.1% 至 6720万台，除苹果之外的主要 PC 制造商的出货量都出现双位数的下降。联想去年第四季度的出货量为 1550 万，同比下降 28.5%，市场占有率 23.0%，与 2021 年同期基本持平。惠普出货量 1320 万台，同比下降 29.0%；戴尔出货量 1080 万台，同比下降 37.2%。苹果则罕见的基本没有下跌，出货量 750 万台，同比下降 2.1%。华硕出货量 480 万台，同比下降 20.9%。IDC 研究经理 Jitesh Ubrani 称，因库存过剩许多渠道的平均售价也出现了下降。2023 年 PC 市场的前景也不乐观。",
+          "link": "https://www.solidot.org/story?sid=73861",
+          "publishedOn": "2023-01-11T06:23:13.000Z",
+          "wordCount": 194,
+          "title": "2022 年 Q4 PC 出货量大幅下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73860",
+          "author": null,
+          "description": "去年 7 月，美国指控加密货币交易所 Coinbase 前产品经理 Ishan Wahi 及其兄弟 Nikhil Wahi 和密友 Sameer Ramani 从事内幕交易，他们在 Coinbase 上市新代币前买入从而在之后的上涨中获利。Ishan 拒绝认罪，但他的兄弟 Nikhil 去年 9 月承认了指控，Ramani 则仍然在逃。本周二，法庭判处 Nikhil 10 个月监禁。检方称，Nikhil Wahi 通过内幕交易获利近 90 万美元，他们建议的刑期为 10 到 16 个月。曼哈顿检察官 Damian Williams 在一份声明中称，周二的判决表明，加密货币市场并非是没有法律的地方。",
+          "link": "https://www.solidot.org/story?sid=73860",
+          "publishedOn": "2023-01-11T05:18:11.000Z",
+          "wordCount": 178,
+          "title": "首例加密货币内幕交易案宣判",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73859",
+          "author": null,
+          "description": "Mastodon 的活跃用户数比其近期的峰值下降了 30%。Mastodon 是一个去中心化微博客服务， 采用联邦式架构，每个人都可以创建自己的服务器或实例，像电子邮件那样互相通信。在马斯克（Elon Musk）收购 Twitter 前，Mastodon 有大约 50 万活跃用户。在马斯克一系列受争议的操作之后，Mastodon 在 11 月份涌入了大量用户，高峰时每天新增逾 13 万用户。到 12 月初它的活跃用户数达到了 250 万，但进入 1 月后活跃用户数下降到 180 万。许多从 Twitter 转移到 Mastodon 的用户可能觉得它太难用或不适合自己，他们可能重新回到了 Twitter，或者干脆退出了社交网络。但仍然有很多用户留了下来。",
+          "link": "https://www.solidot.org/story?sid=73859",
+          "publishedOn": "2023-01-11T05:03:23.000Z",
+          "wordCount": 175,
+          "title": "Mastodon 用户活跃度下降三成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73858",
+          "author": null,
+          "description": "新的蛋白质编码基因能从对现有基因的复制和修改中产生。而部分蛋白质基因也能从编码无目的 RNA 链的基因组中产生，但如何以此种方式诞生新基因仍然是一个谜团。现在一项研究识别了将看似无用的 DNA 序列转变为潜在基因的突变，这些突变赋予其编码的 RNA 逃离细胞核的能力——这是转变为蛋白质的关键一步。研究人员确定了 74 个以这种方式形成的新人类蛋白质基因，逾半数发生在人类祖先与黑猩猩分离之后。部分新基因可能在形成人类更大的大脑上起到了作用。研究人员在小鼠身上做了实验，引入的一个新基因使得小鼠的大脑变大了。科学家表示，新基因可能在人类大脑演化中扮演了某种角色。",
+          "link": "https://www.solidot.org/story?sid=73858",
+          "publishedOn": "2023-01-10T15:42:11.000Z",
+          "wordCount": 155,
+          "title": "与更大大脑相关的基因可能源自看似无用的 DNA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73857",
+          "author": null,
+          "description": "Virgin Orbit 周一晚上在大西洋上空使用波音 747 飞机发射火箭，但火箭未能进入预定轨道。英国本土进行首次轨道发射的尝试以失败告终。被称为 Cosmic Girl 的波音 747 飞机从英格兰西南部 Newquay 机场的Cornwall 太空港起飞。飞机在空中发射了 LauncherOne 火箭，火箭第一级引擎工作正常，但第二级出现了异常。Virgin Orbit 一度通过其 Twitter 账号宣布发射成功，但之后承认发射失败，删除了声称成功的旧帖子。在本周一的发射前，Virgin Orbit 的前五次发射尝试有 4 次抵达了轨道。对一家火箭创业公司来说是一个不错的记录。",
+          "link": "https://www.solidot.org/story?sid=73857",
+          "publishedOn": "2023-01-10T15:08:13.000Z",
+          "wordCount": 165,
+          "title": "英国的首次轨道发射以失败告终",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73856",
           "author": null,
@@ -2725,96 +2844,6 @@
           "wordCount": 179,
           "title": "开源框架 SkyPilot 帮助你减少云计算费用",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73639",
-          "author": null,
-          "description": "美国空军成功测试了它的第一种高超音速导弹原型。导弹原型被称为 AGM-183A Air-launched Rapid Response Weapon 或 ARRW (Arrow)，预计可能成为第一种投入服役的高超音速导弹。AGM-183A 的确切速度未知，传言说最大速度有 20 马赫，或每小时 24,000 公里。美国空军是在上周五 12 月 9 日的加州海岸训练靶场测试的，测试中速度超过 5 马赫，它设计击毁高价值目标。",
-          "link": "https://www.solidot.org/story?sid=73639",
-          "publishedOn": "2022-12-13T13:17:03.000Z",
-          "wordCount": 163,
-          "title": "美国成功测试高超音速导弹原型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73638",
-          "author": null,
-          "description": "一项新西兰研究发现，每年有 74 吨的微塑料从空气中沉降到奥克兰，相当于300多万个塑料瓶从天而降。这些空气中的微塑料，可能成为人体健康的“隐形杀手”。微塑料这一概念由英国普利茅斯大学的 Richard Thompson 在《科学》首次提出，后来定义为直径小于5毫米的塑料颗粒。如今，新西兰研究人员借助复杂的化学方法，发现和分析了城市中直径小至 0.01 毫米的微塑料颗粒，并首次测算了城市空气中微塑料的总质量。研究人员通过在校园屋顶、空中花园的容器来收集空气中的微塑料。由于微塑料肉眼不可见，他们通过发光有色染料来识别微塑料，并借助热处理方法分析其质量。在为期 9 周的研究中，研究人员平均每天在奥克兰每平方米的空气中发现 4885 个微塑料，远高于英国伦敦、德国汉堡和法国巴黎的空气微塑料水平。这可能与风向和附近的海洋有关。过去 70 年全球共生产了 83 亿吨塑料。而全世界塑料回收再利用的平均比例只有 10%，剩余的 90% 则通过焚烧、掩埋或直接丢弃进入自然环境中。",
-          "link": "https://www.solidot.org/story?sid=73638",
-          "publishedOn": "2022-12-13T10:19:37.000Z",
-          "wordCount": 162,
-          "title": "空气中的微塑料",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73637",
-          "author": null,
-          "description": "对于不喜欢运动或去健身房的人来说，一个好消息是，一项新的研究发现，在日常工作中，只需三到四次一分钟的呼吸急促运动就能大大降低过早死亡的风险，尤其是心血管疾病导致的过早死亡。这是第一个准确衡量研究人员所谓的“剧烈间歇性生活方式体育活动”(VILPA)对健康益处的研究。VILPA 是指我们每天进行的短时间的剧烈运动(最多一到两分钟)。研究人员发现，每天只需三到四次一分钟的 VILPA 运动，就可以将全因和癌症相关的死亡率降低 40%，并将心血管疾病相关的死亡率降低 49%。大多数 40 岁以上的成年人没有定期锻炼或运动，这项研究揭示了偶尔的体育活动可以带来巨大益处。",
-          "link": "https://www.solidot.org/story?sid=73637",
-          "publishedOn": "2022-12-13T09:59:40.000Z",
-          "wordCount": 151,
-          "title": "研究认为每天一分钟的剧烈活动有助于延寿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73636",
-          "author": null,
-          "description": "越南庆祝连接互联网 25 周年，对网络广告实施了新的限制措施，认为 YouTube 和 Facebook 等平台需要对驱动其广告收入的内容负责。越南信息通信部副部长 Pham Duc 称赞互联网是基础设施的重要组成，是数字转型的支柱。信息通信部称，越南网民比例达到了总人口的七成，宽带基础设施覆盖 99.73% 的农村地区，越南人口有 \n9817 万，智能手机用户 9420 万，移动宽带用户 8220 万，越南国家域名 .vn 网站数在东盟国家中位列第二，有 564,000 个。越南互联网网络信息中心（VNNIC）副主任 Tran Thi Thu Hien 表示，下一阶段的互联网发展将包括数据保护和社会经济发展活动。",
-          "link": "https://www.solidot.org/story?sid=73636",
-          "publishedOn": "2022-12-13T09:55:25.000Z",
-          "wordCount": 177,
-          "title": "越南庆祝连接国际互联网 25 周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73635",
-          "author": null,
-          "description": "美国能源部将在美东时间周二上午 10 点宣布核聚变研究的一项重大突破。核聚变被认为能提供无限的清洁能源。这一突破由劳伦斯利弗莫尔国家实验室（LLNL）的研究人员完成，参与新闻发布会的包括能源部长 Jennifer M. Granholm、核安全副部长兼国家核安全局局长 Jill Hruby、白宫科技政策办公室主任 Arati Prabhakar 博士、国家核安全局负责国防项目的副局长 Marvin “Marv”Adams 博士，LLNL 实验室主任 Kim Budil 博士。美国从事激光核聚变研究的国家点火设施就位于 LLNL，该设施使用 192 台巨型激光发射器通过加热氢原子模拟恒星内部的聚变过程。",
-          "link": "https://www.solidot.org/story?sid=73635",
-          "publishedOn": "2022-12-13T07:38:23.000Z",
-          "wordCount": 163,
-          "title": "美国将宣布核聚变研究的一项重大突破",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73633",
-          "author": null,
-          "description": "开源视频编辑器项目 OpenShot 释出了 3.0 版本。新版本最显著的变化是改进了视频预览，预览现在能更流畅，减少了预览期间的假死和卡顿。为了改进视频预览，开发者重构了解码器，对丢包和丢失时间戳有更强的适应性，能更好的理解何时丢失视频或音频数据，因此能继续而不会卡顿。除此之外，OpenShot 3.0 包含了逾千项改进和修正，更新了翻译，支持 Blender 3.3，支持 4K 显示器 (High DPI)，改进了稳定性，减少了内存占用，等等。",
-          "link": "https://www.solidot.org/story?sid=73633",
-          "publishedOn": "2022-12-13T07:07:44.000Z",
-          "wordCount": 163,
-          "title": "OpenShot 3.0 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73632",
-          "author": null,
-          "description": "国家网信办等三部门联合发布了《互联网信息服务深度合成管理规定》，对过去几年流行的 deepfakes（深度合成）技术进行限制。该规定将于 2023 年 1 月 10 日起施行。《管理规定》：\n第六条 任何组织和个人不得利用深度合成服务制作、复制、发布、传播法律、行政法规禁止的信息，不得利用深度合成服务从事危害国家安全和利益、损害国家形象、侵害社会公共利益、扰乱经济和社会秩序、侵犯他人合法权益等法律、行政法规禁止的活动。深度合成服务提供者和使用者不得利用深度合成服务制作、复制、发布、传播虚假新闻信息。转载基于深度合成服务制作发布的新闻信息的，应当依法转载互联网新闻信息稿源单位发布的新闻信息。",
-          "link": "https://www.solidot.org/story?sid=73632",
-          "publishedOn": "2022-12-13T06:04:45.000Z",
-          "wordCount": 165,
-          "title": "网信办发布深度合成管理规定",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73631",
-          "author": null,
-          "description": "FTX 创始人 Sam Bankman-Fried 在巴哈马被捕，美国已对他提起了刑事指控，巴哈马政府预计美国会在很快递交引渡要求。FTX 是最大的比特币交易所之一，它的突然倒闭可能给其客户造成了数十亿美元的损失。美国检方预计会在当地时间周二上午解封起诉书。巴哈马司法部长 Ryan Pinder 在一份声明中表示，根据收到的通知和材料而决定逮捕拘留 Sam Bankman-Fried。如果收到正式引渡请求，巴哈马将根据其法律和美国的协定进行处理。",
-          "link": "https://www.solidot.org/story?sid=73631",
-          "publishedOn": "2022-12-13T04:55:57.000Z",
-          "wordCount": 168,
-          "title": "FTX 创始人 Sam Bankman-Fried 被捕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73630",
-          "author": null,
-          "description": "美国司法部自 2018 年起就开始对世界最大的加密货币交易所币安展开调查，但至今检察官们对是否起诉币安存在分歧。在参与调查的检察官中，部分人认为已经收集到了足够的证据可以采取行动，对包括币安创始人赵长鹏在内的高管提出刑事指控。但另一部分人认为还需要时间去评估更多证据。在竞争对手交易平台 FTX 倒闭之后，币安在加密货币市场的地位得到了加强。币安的律师与美国司法部展开了讨论，他们的一个主张是刑事指控会对低迷的加密货币市场造成沉重打击。美国司法部的调查主要包括无证转账、合谋洗钱和违反刑事制裁。赵长鹏等高管是调查对象，美司法部尚未决定是否起诉，它也可能通过谈判达成和解，或者可能会不采取任何行动。",
-          "link": "https://www.solidot.org/story?sid=73630",
-          "publishedOn": "2022-12-12T15:31:18.000Z",
-          "wordCount": 146,
-          "title": "美国司法部在指控币安上存在分歧",
-          "imageUrl": null
         }
       ]
     },
@@ -2823,6 +2852,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/734954/",
+          "author": null,
+          "description": "F 出品虎嗅青年文化组 作者木子童 编辑、制图丨渣渣郡 欠债还钱，天经地义。 岁末年关，正是一年一度收账要钱的好时节。 但讨债这件事，并非对每个人来说都轻松写意。比如我，因为脸皮薄，每到这时候，都会为如何向朋友优雅地开口而绞尽脑汁。 不过今年，感谢最近大热的 ChatGPT，终于有人替我张嘴了——经\n本文链接",
+          "link": "https://news.cnblogs.com/n/734954/",
+          "publishedOn": "2023-01-12T01:06:13.000Z",
+          "wordCount": 163,
+          "title": "我用AI去讨债：一顿操作猛如虎，3000要回350",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734953/",
+          "author": null,
+          "description": "作者 ｜ Tim Romero 翻译 ｜ 核子可乐 编辑 ｜ Tina 如今，似乎人人都在吐槽日本的软件质量不行，但究竟出了什么问题？近日，Google for Startups Japan 负责人 Tim Romero 撰写了一篇文章，带大家一同回顾整个时代脉络，特别是日本迷失方向的特定时刻，并希\n本文链接",
+          "link": "https://news.cnblogs.com/n/734953/",
+          "publishedOn": "2023-01-11T13:50:00.000Z",
+          "wordCount": 163,
+          "title": "谷歌高管说日本软件行业烂透了，发生了什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734952/",
+          "author": null,
+          "description": "文馆长 Zero 对于手机而言，芯片就是心脏，不仅是手机性能和寿命的基础，更是为每一个功能提供能量的关键。 而华为海思麒麟作为国内手机厂商唯一的自研 Soc，历经十几年才从一无所有到站稳高端，它的地位和意义是毋庸置疑的。虽然当下由于众所周知的原因而暂时退出市场，但相信在巨大的研发投入、以及国产芯片厂\n本文链接",
+          "link": "https://news.cnblogs.com/n/734952/",
+          "publishedOn": "2023-01-11T13:38:00.000Z",
+          "wordCount": 163,
+          "title": "从一无所有到世界顶尖，华为麒麟芯片凭什么获得国人尊重？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734951/",
+          "author": null,
+          "description": "这几天，在社交平台上，一篇关于小米裁员的帖子火了。 楼主 36 岁，他称几乎投遍了 boss 上所有公司，基本上都是已读不回。只有一个小公司的 HR 看了简历后回了句：加油…… 他介绍了自己的学历和工作经历，在被小米裁员之前，也称得上是星光熠熠： 2010 年河北农大本科毕业，2013 年北邮硕士毕\n本文链接",
+          "link": "https://news.cnblogs.com/n/734951/",
+          "publishedOn": "2023-01-11T13:00:00.000Z",
+          "wordCount": 163,
+          "title": "36岁被小米裁员，投简历石沉大海，还省掉孩子新衣服",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734950/",
+          "author": null,
+          "description": "文价值研究所 近段时间，快手、抖音两个短视频巨头都很活跃，公布了一系列活动和成绩单。 快手这边，先是宣布在 1 月 13-1 月 29 日推出“春节不打烊”活动，拿出 70 亿流量和 1 亿元红包激励平台商家，希望能抓住春节期间的电商红利；随后又出炉了《2022 快手直播生态报告》，并启动“新春超级\n本文链接",
+          "link": "https://news.cnblogs.com/n/734950/",
+          "publishedOn": "2023-01-11T12:40:00.000Z",
+          "wordCount": 163,
+          "title": "短视频请回答2022：依然是全场的希望，也有神话在破灭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734949/",
+          "author": null,
+          "description": "1 月 11 日讯，《鹅鸭杀》（Goose Goose Duck）开发者“herbert”1 月 11 日在社区发布公告称，有关腾讯将拥有《鹅鸭杀》独家版权并运营该游戏的传闻不实，《鹅鸭杀》没有计划离开 Steam 平台和在 WeGame 平台上推出。服务器维护进度“到目前为止，一切都在轨道上”。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/734949/",
+          "publishedOn": "2023-01-11T12:28:00.000Z",
+          "wordCount": 163,
+          "title": "《鹅鸭杀》否认将由腾讯代理，没有计划离开Steam平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734948/",
+          "author": null,
+          "description": "文王智远 苹果 CEO 蒂姆库克（Tim Cook）、百事可乐 CEO 卢英德（Indra K. Nooyi）每天 4 点半起床，Twitter 创始人杰克・多西（Jack Dorsey）5:30 起床，张朝阳说，自己每天晚上 12 点睡觉，凌晨 3 点起。 连睡觉，都如此内卷？ 我每次看到这种新闻\n本文链接",
+          "link": "https://news.cnblogs.com/n/734948/",
+          "publishedOn": "2023-01-11T12:20:00.000Z",
+          "wordCount": 163,
+          "title": "老板们的时间管理原则",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734947/",
+          "author": null,
+          "description": "文 偲睿洞察 作者 Renee，编辑 Emma 美团怎么也没有想到在“老本营”本地生活赛道，自己要向“后辈”抖音学习。 自抖音 2020 入局本地生活以来，美团一次又一次地向抖音“立命之本”短视频冲击，大力拓展“视频种草”模式： 2020 年在微信平台推出“美团 Mlive 直播”、2022 年鼓励\n本文链接",
+          "link": "https://news.cnblogs.com/n/734947/",
+          "publishedOn": "2023-01-11T12:00:00.000Z",
+          "wordCount": 163,
+          "title": "腰部help腰部，美团短视频种草成了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734946/",
+          "author": null,
+          "description": "文市值榜，作者祝彰，编辑嘉辛 2022 年，直播电商的终局还没到来，甚至充满了变数。 1 月 10 日举办的微信公开课 Pro 上，微信视频号团队公布了其 2022 年的成绩：总用户使用时长超过朋友圈总用户使用时长的 80%，直播看播规模增长 300%，看播时长增长 156%，直播带货销售额增长 8\n本文链接",
+          "link": "https://news.cnblogs.com/n/734946/",
+          "publishedOn": "2023-01-11T11:46:00.000Z",
+          "wordCount": 163,
+          "title": "2023年，关于直播带货的三个思考",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734945/",
+          "author": null,
+          "description": "文电厂，记者刘煜荷，编辑高宇雷 星巴克 50 元的早餐在抖音卖 19 元，奈雪 9.9 元一杯，喜茶 10 元一杯……新茶饮正在抖音上血拼价格。 2022 年，抖音茶饮业务交易金额对比上一年增长了 30 多倍。抖音生活服务餐饮行业负责人王美程曾牵头一家家拜访茶饮企业，将喜茶、瑞幸、奈雪、茶百道等茶饮\n本文链接",
+          "link": "https://news.cnblogs.com/n/734945/",
+          "publishedOn": "2023-01-11T11:32:00.000Z",
+          "wordCount": 163,
+          "title": "喜茶、瑞幸在抖音开始“团购”，美团满足不了新茶饮的野心？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734944/",
+          "author": null,
+          "description": "文商隐社，作者第二人生，编辑齐马‍‍‍ 近日，锤子科技的早期投资人郑刚深夜发朋友圈炮轰罗永浩，除了谴责罗永浩种种“不地道”行为，向罗永浩发起回购外，还道出了些许当年锤子科技崩塌的故事。 “你何德何能做千元机？你融资能力强了？你有很多钱？你伤害了买你 3000 元机的用户，然后去做跟随策略，被人拖死。\n本文链接",
+          "link": "https://news.cnblogs.com/n/734944/",
+          "publishedOn": "2023-01-11T11:15:00.000Z",
+          "wordCount": 163,
+          "title": "锤子手机崩塌始末",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734943/",
+          "author": null,
+          "description": "文一号企业家，作者朱虚侯 “吾善度材；视栋宇之制，高深、圆方、短长之宜，吾指使而群工役焉。” 柳宗元曾经借“梓人之道”喻相国之道。其实这“梓人”何尝不像企业家，或许很多具体事务，他们也如梓人一样“其床缺足而不能理”，为外人视作“无能而贪禄嗜货者”。 但一家企业之存亡绝续，还是得依赖这些企业家擘划，“\n本文链接",
+          "link": "https://news.cnblogs.com/n/734943/",
+          "publishedOn": "2023-01-11T11:00:00.000Z",
+          "wordCount": 163,
+          "title": "九位顶级商业大佬的2022，在变局中寻机、潜隐、重上巅峰？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734942/",
+          "author": null,
+          "description": "萧箫发自凹非寺 量子位公众号 QbitAI 只需 3 秒钟，一个根本没听过你说话的 AI，就能完美模仿出你的声音。 是不是细思极恐？ 这是微软最新 AI 成果——语音合成模型 VALL·E，只需 3 秒语音，就能随意复制任何人的声音。 它脱胎于 DALL·E，但专攻音频领域，语音合成效果在网上放出后\n本文链接",
+          "link": "https://news.cnblogs.com/n/734942/",
+          "publishedOn": "2023-01-11T10:40:00.000Z",
+          "wordCount": 163,
+          "title": "3秒复制任何嗓音！微软音频版DALL·E细思极恐，环境噪音也能模仿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734941/",
+          "author": null,
+          "description": "杨净整理自 MEET2023 量子位公众号 QbitAI 算力的需求，远比以往来得更为猛烈。甚至有人直呼：得算力者得未来。 元宇宙、AIGC、AI for Science 的涌现，又给高性能计算（HPC）平添了好几把火。 在诸多挑战与机遇共存交织的当下，这一领域泰斗中国工程院院士、清华大学计算机科学\n本文链接",
+          "link": "https://news.cnblogs.com/n/734941/",
+          "publishedOn": "2023-01-11T10:23:00.000Z",
+          "wordCount": 163,
+          "title": "郑纬民院士：AI for Science的出现，高性能计算与AI融合成为刚需",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734940/",
+          "author": null,
+          "description": "1 月 11 日消息，当地时间周二，苹果公司发布旗下苹果应用商店业务数据。苹果公司表示，截至 2022 年底，累计向开发者支付 3200 亿美元，较截至 2021 年底的 2600 亿美元增长 600 亿美元，增长似乎已经触顶。 每年 1 月份，苹果都会公布苹果应用商店开发者自 2008 年以来的总\n本文链接",
+          "link": "https://news.cnblogs.com/n/734940/",
+          "publishedOn": "2023-01-11T10:10:00.000Z",
+          "wordCount": 163,
+          "title": "苹果2022年向开发者支付600亿美元 持平2021年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734939/",
+          "author": null,
+          "description": "允中发自凹非寺 量子位公众号 QbitAI 人工智能的技术创新和产业发展，进入“深度学习+”阶段。 这是来自百度 CTO 王海峰的最新判断。 没错，不是很多人已熟知的“人工智能+”或是“智能+”。 而是把范围直接缩小到了它们的子集：深度学习。 有何区别？ 类似于此前更早的“互联网+交通”催生打车软件\n本文链接",
+          "link": "https://news.cnblogs.com/n/734939/",
+          "publishedOn": "2023-01-11T10:00:00.000Z",
+          "wordCount": 163,
+          "title": "「深度学习+」阶段来了！百度王海峰：深度学习多维度逐渐成熟",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734938/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 ChatGPT 终于要崩不住了，服务器直接被挤爆，两天宕机五次怎么办？OpenAI 免费 ChatGPT 一个月 300 万美元还能撑几天？ 自 2022 年 11 月 30 日开放注册以来，ChatGPT 已收获了超过 100 万用户，日峰值请求数也已达到数亿级别。 终于\n本文链接",
+          "link": "https://news.cnblogs.com/n/734938/",
+          "publishedOn": "2023-01-11T09:45:00.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT服务器被挤爆，两天宕机五次，免费版还能撑几天？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734937/",
+          "author": null,
+          "description": "新智元报道 编辑：昕朋 面对 GPT 公司疯狂营销的乱象，谷歌研究员发长文怒怼其商业化模式：炒作救不了 GPT！但投资人表示：无所谓，好玩就行 在 AI 领域，去年的流量王者，非生成式 AI 莫属。 从 DALL-E 2 到 ChatGPT，从 Stable Diffusion 到 Midjourn\n本文链接",
+          "link": "https://news.cnblogs.com/n/734937/",
+          "publishedOn": "2023-01-11T09:30:00.000Z",
+          "wordCount": 163,
+          "title": "谷歌研究员炮轰GPT初创公司瞎炒作，连发18条推文怒怼！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734936/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 AI 领域群雄激战，到了 2023 年，微软逐渐显出了「赢家」的势头。 2023 年刚开始，微软就显示出了 AI 领域「大赢家」的派头。 最近，大火的 ChatGPT 和微软之间，不断擦出火花。 微软先是宣布将 ChatGPT 整合入自家搜索引擎 Bing，没过几天，又宣布\n本文链接",
+          "link": "https://news.cnblogs.com/n/734936/",
+          "publishedOn": "2023-01-11T09:15:00.000Z",
+          "wordCount": 163,
+          "title": "微软又向OpenAI狂砸100亿美元！巨头AI大棋下4年，谁是最大赢家？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/734935/",
+          "author": null,
+          "description": "抖音电商很可能完成了 2022 年两档销售额目标中较低的一档。 硅谷资讯平台 The Information 援引两位了解抖音内部数据人士的话说，2022 年抖音电商销售额（GMV）达到 1.41 万亿元、同比增长 76%。抖音回复 “消息不实”。 《晚点财经》了解到的未经证实的信息是抖音电商 GM\n本文链接",
+          "link": "https://news.cnblogs.com/n/734935/",
+          "publishedOn": "2023-01-11T09:07:00.000Z",
+          "wordCount": 163,
+          "title": "抖音电商销售额 “达标”",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/734880/",
           "author": null,
@@ -7821,236 +8050,6 @@
           "publishedOn": "2022-12-13T15:08:00.000Z",
           "wordCount": 161,
           "title": "知情人士：博通610亿美元收购VMware交易面临欧盟全面反垄断调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733346/",
-          "author": null,
-          "description": "文｜锌刻度，作者｜孟会缘，编辑｜陈邓新 在即将过去的 2022 年，成人技能速成培训课的吸引力丝毫不减。 一边是被媒体频繁曝光的“割韭菜”老套路，另一边却是让人们不断奔赴的新项目，可见只要能精准击溃学员的心防，培训班的生命力到底有多强。 从紧随低碳风潮推出的碳排放管理师报考培训班，到伴随直播带货兴起\n本文链接",
-          "link": "https://news.cnblogs.com/n/733346/",
-          "publishedOn": "2022-12-13T13:11:00.000Z",
-          "wordCount": 161,
-          "title": "2022年，培训班加速“收割”成年人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733344/",
-          "author": null,
-          "description": "12 月 13 日消息，据暴雪中国官方微博消息，暴雪中国发布魔兽制作组总经理 John Hight 致所有《魔兽世界》国服玩家的一封信。信中指出，魔兽团队目前正在与一些国服地区新的潜在发行合作伙伴进行洽谈。 《魔兽世界》团队正在努力工作，寻求开发出一项功能使得各位能在 1 月 23 日游戏停服之前，\n本文链接",
-          "link": "https://news.cnblogs.com/n/733344/",
-          "publishedOn": "2022-12-13T13:00:00.000Z",
-          "wordCount": 161,
-          "title": "暴雪中国：魔兽团队与潜在发行商展开洽谈 正开发保存数据的新功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733343/",
-          "author": null,
-          "description": "每经记者：可杨每经编辑：董兴生 从吟诗作赋，到写代码，再到写剧本、做高数，OpenAI 发布的免费机器人对话模型 ChatGPT 回答处理多领域问题的能力之强悍，引发全球关注。 尽管该模型目前仍处于测试阶段，但面世仅一周，便有超过一百万用户使用。“明天 ChatGPT 就要抢走人类饭碗”的调侃也不绝\n本文链接",
-          "link": "https://news.cnblogs.com/n/733343/",
-          "publishedOn": "2022-12-13T12:41:00.000Z",
-          "wordCount": 161,
-          "title": "内容不可信与交互成本高，是ChatGPT商业化最大阻碍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733341/",
-          "author": null,
-          "description": "IT 之家 12 月 13 日消息，12 月 12 日晚间，格力电器发布公告称，2022 年上半年，母公司实现净利润 101.34 亿元，可供股东分配的利润为 59.55 亿元。格力电器拟向全体股东每 10 股派发现金股利 10 元 (含税)，也就是每股分红 1 元，共计将派发现金股利约 55.37\n本文链接",
-          "link": "https://news.cnblogs.com/n/733341/",
-          "publishedOn": "2022-12-13T09:02:00.000Z",
-          "wordCount": 161,
-          "title": "格力电器要发 55 亿现金“红包”，董明珠将获得超 4000 万元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733340/",
-          "author": null,
-          "description": "“一打开 APP 就是已经约满。”“换了多个软件，配送都约满了。”“每天起床打开买菜软件，就显示运力不足。”最近北京不少居民表示，线上多个买菜软件无法正常配送。 每经小编的外卖订单也是长时间没有骑手接单，等下订单两个小时后，商家自行配送，小编才吃到了午饭...... 图片来源：摄图网 5012655\n本文链接",
-          "link": "https://news.cnblogs.com/n/733340/",
-          "publishedOn": "2022-12-13T08:54:00.000Z",
-          "wordCount": 161,
-          "title": "你的外卖按时送到了吗？我等了2小时，还是商家自己送来的！关于快递派送问题，国家邮政局回应",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733339/",
-          "author": null,
-          "description": "他曾领导开发了 AI 作诗系统“九歌”、学堂在线。 作者 李梅 编辑 陈彩娴 近日，国际计算语言学协会（ACL）官方公布了 2022 年度 ACL Fellow 名单，共有 8 名知名的自然语言处理学者入选。 其中，清华大学孙茂松教授作为唯一华人学者入选。入选理由为：为中国 NLP 做出重大贡献，并\n本文链接",
-          "link": "https://news.cnblogs.com/n/733339/",
-          "publishedOn": "2022-12-13T08:40:00.000Z",
-          "wordCount": 161,
-          "title": "清华大学孙茂松当选 2022 年度 ACL Fellow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733338/",
-          "author": null,
-          "description": "后深度学习时代，整体思维成为 AI 发展的关键。 作者｜老石 编辑陈彩娴 众所周知，数据、算法与算力是人工智能发展的三驾马车。 过去的十年，是基于深度学习的「AI 大飞跃」，各类创新算法的迸发不断带来新的焦点，算法突破成为 AI 研究者的集中攻坚地。 然而，与时俱进，人们不断发现：随着深度学习的日新\n本文链接",
-          "link": "https://news.cnblogs.com/n/733338/",
-          "publishedOn": "2022-12-13T08:30:00.000Z",
-          "wordCount": 161,
-          "title": "大数据十问：落地、效率与开发，如何齐头并进？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733337/",
-          "author": null,
-          "description": "文/王红霞 来源/财经故事荟（ID:cjgshui） 在瑞幸“浴火重生”的故事里，总被拿来对标的是星巴克。 今年以来，瑞幸三个季度的财报一个比一个漂亮：营收从一季度的 24 亿元增长到二季度的 33 亿元，再到三季度的 38.9 亿元，其中第三季度营收同比增长 65%。 而星巴克中国却是“愁云惨淡”\n本文链接",
-          "link": "https://news.cnblogs.com/n/733337/",
-          "publishedOn": "2022-12-13T08:20:00.000Z",
-          "wordCount": 161,
-          "title": "瑞幸摘“星”，“雪王”在后",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733342/",
-          "author": null,
-          "description": "雷递网乐天 12 月 13 日 Faraday Future（FF）受公司 16 日全球投资人业务更新利好，股价涨 55%，创下自公司上市以来单日最大涨幅。 FF 创始人贾跃亭在朋友圈表示，将从新出发，任重道远，脚踏实地，全力交付。 FF 股价在盘前就有征兆暗示大涨。盘前，FF 股价即上涨 22%。\n本文链接",
-          "link": "https://news.cnblogs.com/n/733342/",
-          "publishedOn": "2022-12-13T08:10:00.000Z",
-          "wordCount": 161,
-          "title": "FF上涨55%创单日最大涨幅 贾跃亭：脚踏实地全力交付",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733336/",
-          "author": null,
-          "description": "品玩 12 月 13 日讯，据微软官方消息，极狐 GitLab 与微软、神州数码达成合作，三方携手推出基于微软智能云 Azure 部署的极狐 GitLab DevOps 开发运维平台“极狐 GitLab on Azure”SaaS 解决方案。 图源：极狐官网 据悉，该平台将会由神州数码负责在中国市场\n本文链接",
-          "link": "https://news.cnblogs.com/n/733336/",
-          "publishedOn": "2022-12-13T08:10:00.000Z",
-          "wordCount": 161,
-          "title": "极狐 GitLab 与微软、神州数码达成合作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733335/",
-          "author": null,
-          "description": "12 月 13 日消息，据国外媒体报道，电动车初创公司 Rivian 宣布，为了改善现金流，公司已搁置与梅赛德斯-奔驰在欧洲生产电动箱式货车合作的计划。 据此前报道，今年 9 月，两家公司正就成立合资公司进行谈判，计划在波兰一家奔驰工厂合作生产电动货车，这些货车计划于 2025 年上市。 不过，由于\n本文链接",
-          "link": "https://news.cnblogs.com/n/733335/",
-          "publishedOn": "2022-12-13T08:03:00.000Z",
-          "wordCount": 161,
-          "title": "Rivian搁置与奔驰合作生产电动箱式货车的计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733334/",
-          "author": null,
-          "description": "文｜新立场 京东最近的几次热度，都来源于“垂帘听政”的刘强东。 一次是最近还“阳”，提醒大家多喝水，一次是稍久前发内部信，对高管与员工一降一升，还有就是双十一前痛批管理层“夜郎自大”，导致京东内部连夜整的那场“守护京东低价心智专项行动”，要求狂欢节期间厂家给某主播直播间商品要与京东的一致。 紧密出手\n本文链接",
-          "link": "https://news.cnblogs.com/n/733334/",
-          "publishedOn": "2022-12-13T07:55:00.000Z",
-          "wordCount": 161,
-          "title": "京东直播，交不到朋友",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733333/",
-          "author": null,
-          "description": "文｜ 商业秀，作者｜ 罗媚佳，编辑 ｜ 张弘一 疫情三年，是快手商业化的瓶颈期，也是加速调整期。 尤其是 2022 年下半年以来，其一系列调整动作无不体现出：相比前几年，快手商业化的节奏在加速度前进。 先是 8 月，快手商业化原负责人马宏斌被调到了国际化部，随后由此前负责人事和组织领域的刘峰接过了商\n本文链接",
-          "link": "https://news.cnblogs.com/n/733333/",
-          "publishedOn": "2022-12-13T07:42:00.000Z",
-          "wordCount": 161,
-          "title": "快手商业化渐入深水区",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733281/",
-          "author": null,
-          "description": "作者 Juxtaposed Ideas 编译 美股研究社 01 摘要 经历了 62.88% 的反弹后，Shopify（NYSE：SHOP）的估值来到了高位。 虽然 Shopify 的估值最终可能会超过亚马逊，但 Shopify 需要先通过提供持续的盈利能力来证明自己。 由于 11 月 CPI 报告可\n本文链接",
-          "link": "https://news.cnblogs.com/n/733281/",
-          "publishedOn": "2022-12-13T00:29:00.000Z",
-          "wordCount": 161,
-          "title": "Shopify：卖过亚马逊，指日可待？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733280/",
-          "author": null,
-          "description": "文/陈杨园 来源：豹变（ID:baobiannews) ‘核心提示’ 随着丰趣海淘被申请破产审查，顺丰电商的又一次试水变成一潭死水。顺丰已为电商梦努力了十多年，仍没有开花结果的迹象。阿里、京东们纷纷建起物流体系时，顺丰们为何没能成功“袭击”电商？ 顺丰曾在物流界留下了许多堪称“神话”的故事。 十年前\n本文链接",
-          "link": "https://news.cnblogs.com/n/733280/",
-          "publishedOn": "2022-12-13T00:22:00.000Z",
-          "wordCount": 161,
-          "title": "还要做黄几个APP，顺丰才肯放弃电商",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733279/",
-          "author": null,
-          "description": "IT 之家 12 月 12 日消息，苹果公司 CEO 蒂姆・库克和市场营销高级副总裁 Greg Joswiak 前往日本熊本县立大学，参观学生和地标建筑。 库克和其他高管往往会到不同国家 / 地区进行公关考察，以加强苹果对某一项目或企业的承诺。最近的日本之行标志着库克自疫情大流行开始以来的第二次重大\n本文链接",
-          "link": "https://news.cnblogs.com/n/733279/",
-          "publishedOn": "2022-12-13T00:17:00.000Z",
-          "wordCount": 161,
-          "title": "苹果CEO库克和市场营销高级副总裁 Greg Joswiak 访问日本熊本",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733278/",
-          "author": null,
-          "description": "12 月 12 日消息，近日，据国外媒体 Teslarati 报道，特斯拉柏林超级工厂正在准备交付 Model Y 车型。据悉，柏林超级工厂是特斯拉的第四座超级工厂，在今年 3 月 22 日举行开业典礼，目前只生产 Model Y 车型。 （图片来源：特斯拉中国官方网站） 小雷了解到，该工厂主要是负\n本文链接",
-          "link": "https://news.cnblogs.com/n/733278/",
-          "publishedOn": "2022-12-13T00:12:00.000Z",
-          "wordCount": 161,
-          "title": "产能提升巨大！特斯拉柏林工厂交付Model Y：一周产三千辆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733277/",
-          "author": null,
-          "description": "12 月 13 日消息，自从去年 10 月份收购社交媒体推特以来，SpaceX 首席执行官埃隆·马斯克（Elon Musk）大部分时间都呆在位于旧金山的推特公司总部。这让美国国家航空航天局（NASA）也很担心马斯克能否顾得过来这么多家公司。当地时间周日 NASA 局长比尔·尼尔森（Bill Nels\n本文链接",
-          "link": "https://news.cnblogs.com/n/733277/",
-          "publishedOn": "2022-12-13T00:07:00.000Z",
-          "wordCount": 161,
-          "title": "NASA局长担心接管推特会分散马斯克精力 SpaceX总裁：没有什么可担心的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733276/",
-          "author": null,
-          "description": "12 月 13 日消息，2021 年底，埃隆·马斯克（Elon Musk）曾将价值 57 亿美元的特斯拉股票捐赠给某慈善组织，从而引发关注。最新税务申报文件显示，这笔捐赠的目标原来是其自家基金会，使其立即成为美国最大的基金会之一。 文件显示，截至 2021 年底，马斯克基金会共持有 94 亿美元资产\n本文链接",
-          "link": "https://news.cnblogs.com/n/733276/",
-          "publishedOn": "2022-12-13T00:02:00.000Z",
-          "wordCount": 161,
-          "title": "马斯克57亿美元的“慈善秘密”曝光：资金流向自家慈善基金会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733275/",
-          "author": null,
-          "description": "12 月 13 日消息，当地时间上周五，一家私人飞机公司起诉埃隆·马斯克（Elon Musk）领导的社交媒体推特，称公司违反合同，一直拖着未支付两次航班的费用，总额近 20 万美元。 私人飞机服务集团(PJS)表示，推特前首席营销官莱斯利·伯兰(Leslie Berland)于今年 10 月 26 \n本文链接",
-          "link": "https://news.cnblogs.com/n/733275/",
-          "publishedOn": "2022-12-12T23:57:00.000Z",
-          "wordCount": 161,
-          "title": "因拒付近20万美元包机款 私人飞机公司起诉推特",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733274/",
-          "author": null,
-          "description": "12 月 13 日消息，据外媒援引两名 Meta 员工透露，为了节省运营成本，公司最近又取消了一项福利，即每月为员工提供最高 200 美元的 Lyft 打车费。这项福利专门针对 Lyft 服务，基本上就像拼车服务的优惠券一样。 Meta 的一位发言人表示：“我们已经调整了某些通勤服务。”他补充说，虽\n本文链接",
-          "link": "https://news.cnblogs.com/n/733274/",
-          "publishedOn": "2022-12-12T23:51:00.000Z",
-          "wordCount": 161,
-          "title": "Meta又削减员工福利 7.6万名员工每月200美元打车费没了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733273/",
-          "author": null,
-          "description": "【文/观察者网周毅，编辑张广凯】 美国科技股，正身处黑夜。 今年以来，为了应对狂飙的物价问题，美联储转入激进加息通道，希望借此平抑通胀。棘手的是，通胀依然顽固，市场却先嗅到了衰退信号，美股大跌。甚至可以说，美股已经告别了十几年的“大牛市”。 以科技股为主的纳斯达克指数年内跌超 30%，亚马逊等巨头出\n本文链接",
-          "link": "https://news.cnblogs.com/n/733273/",
-          "publishedOn": "2022-12-12T23:47:00.000Z",
-          "wordCount": 161,
-          "title": "美国科技股下跌背后，是否潜藏又一次世纪大危机？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733272/",
-          "author": null,
-          "description": "21 世纪经济报道记者江月上海报道 看到从南印度漂洋过海而来的 iPhone 14 Pro Max，令一些人惊呼“苹果将产业链向南亚转移”已成事实。与中国迄今已长达 15 年的代工关系，似乎发展到剧变的前夜。 近期，苹果代工问题再次引发了市场关注。消费者问，转移出去的代工产线是否会影响产品质量？求职\n本文链接",
-          "link": "https://news.cnblogs.com/n/733272/",
-          "publishedOn": "2022-12-12T23:40:00.000Z",
-          "wordCount": 161,
-          "title": "iPhone漂流记：厂房撤出，价值留下",
           "imageUrl": null
         }
       ]
