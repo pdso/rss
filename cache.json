@@ -547,16 +547,6 @@
           "wordCount": 494,
           "title": "城市收藏夹｜北京鼓楼喝酒不完全指南",
           "imageUrl": "https://cdn.sspai.com/2022/12/17/9b91baab171d543c0ad38d627fc730f2.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/77326",
-          "author": "JamesHopbourn",
-          "description": "需求背景：需要学习数学建模相关知识，每天的学习进度以小时计算，需要计算视频分段时间，用来安排学习进度。\n问题：网上没有现成的 Bilibili 视频合集信息提取工具\n思路：从 HTML 代码入手解决获取视频合集信息\nJavaScript 代码实现\n使用元素检查器可以看出分集的信息存在的 ul 标签中，ul 标签的上级是 cur-list class，所以写一个 for 循环可以解决。\n\n使用 document.getElementsByClassName('list-box')[0] 获取到 list-box 中的内容。由于 getElementsByClassName 返回的是一个数组，所以此处需要使用 [0] 来获取第一个结果。从下图可以看出实际的分集内容在 li 内，目前最外面还只是 ul。\n\n所以可以再配合一个 querySelectorAll 选中所有的 li 标签，效果如下图所示，将内容赋值给变量，写一个 for 循环即可。\n\n具体代码如下，由于稍后需要将数据放到 Excel 里求和，所以对于 12:34 这样的时间数据，需要在后面加上 .00 防止被 Excel 错误理解为 12 小时 34 分钟。中间的分割符使用 \\t，让 Excel 可以识别到两个不同的列。\nvar result = '';\nvar content = document.getElementsByClassName('list-box')[0].querySelectorAll('li');\nfor (var i = 0; i< content.length; i++){\n  temp = content[i].innerText.split('\\n');\n  if (temp[temp.length-1].length < 6){\n    temp[temp.length-1] += \".00\"\n  }\n  temp.join('\\t')\n  result += temp;\n  result += '\\n';\n}\nconsole.log(result.replace(/,/g, '\\t'))\n效果如下图所示，将输出结果复制到剪切板。\n\nExcel 处理\n新建 Excel 粘贴剪切板内容，由于标题长度不一，选中标题单元格，点击「开始 → 单元格 → 自动调整列宽」\n\n使用 Excel 公式统计分集总时间，在 D2 单元格右下角点击 ➕ 自动填充所有总时间。\n\n但是 Excel 默认的时间是 24 小时制，超过 24 小时的部分会被取余，所以需要对单元格的格式进行调整。选中 D 列单元格调整格式，输入自定义的 [hh]:mm:ss 格式应用即可。\n\n最后效果如下图所示：\n\n小技巧\n上面的配图中，可以看到标题前面有集数序号，但是这是没有用的信息，可以考虑去除掉。可以使用正则表达式工具替换。此处给一个比较简便的解决方法，使用 perl 命令配合正则表达式解决，从 Excel 中复制标题列，在终端中运行该命令，运行完成后剪切板就是处理后的标题列，重新粘贴替换原来的标题列即可。\npbpaste|perl -pE 's/^\\d+ //'|pbcopy",
-          "link": "https://sspai.com/post/77326",
-          "publishedOn": "2022-12-17T04:14:49.000Z",
-          "wordCount": 557,
-          "title": "一日一技 | Bilibili 视频合集信息提取",
-          "imageUrl": "https://cdn.sspai.com/2022/12/17/f4388182f17b1a3f744704c6163b0cad.jpg"
         }
       ]
     },
@@ -615,6 +605,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73893",
+          "author": null,
+          "description": "NASA 报告显示，2022 年为有气象记录以来全球第五热的年份。去年全球平均气温较 1951 至 1980 年基准期平均气温上升了 0.89 摄氏度。报告指出，2022 年与 2015 年并列为自 1880 年有气象记录以来的第五热年份，过去 9 年也是有记录以来最热的 9 年。2022年全球气温比 19 世纪末的平均气温高约 1.11 摄氏度。地球持续变暖主要是由人类活动大量排放温室气体所致。报告说，全球各地正在受到大气和海洋变暖的影响。气候变化使降雨和热带风暴强度增加，干旱程度更为严重，风暴潮的影响加剧。",
+          "link": "https://www.solidot.org/story?sid=73893",
+          "publishedOn": "2023-01-15T11:03:19.000Z",
+          "wordCount": 169,
+          "title": "2022 年全球气温为史上第五热",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73892",
+          "author": null,
+          "description": "在侏罗纪时代之后，地球与一颗较大的小行星相遇只是时间问题。但与恐龙不同，人类有能力去改变小行星的轨道。去年九月 NASA 执行双小行星重定向测试(DART)任务的飞船成功撞击了名为 Dimorphos 的小行星。这是世界首次行星防御技术演示，测试撞击是否可能偏转小行星轨道。在最近举行的会议上，研究人员披露了 DART 的最新结果。Dimorphos 是一个双小行星系统之一，其直径不到 200 米，它的伴星 Didymos 直径大约 800 米，Didymos 是在 1990 年代中期发现的，到 2003 年科学家才注意到还有较小的伴星。Dimorphos 围绕 Didymos 一周需要 11 小时 55 分钟，在撞击后缩短到 11 小时 22 分钟，减少了 33 分钟。研究人员估计撞击导致至少 100 万公斤的物质溅射出去。对这个双星系统的研究远未结束，ESA 的 Hera 任务计划在 2024 年发射飞船进一步研究该双小行星系统，精确测量 Dimorphos 的质量以及撞击产生的陨石坑。",
+          "link": "https://www.solidot.org/story?sid=73892",
+          "publishedOn": "2023-01-15T10:28:15.000Z",
+          "wordCount": 192,
+          "title": "飞行器成功撞击小行星将轨道周转时间缩短 33 分钟",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73891",
           "author": null,
@@ -2704,66 +2714,6 @@
           "wordCount": 164,
           "title": "隐士托马斯·品钦出售了他的个人档案集",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73680",
-          "author": null,
-          "description": "WordPress 是至今最流行的内容管理系统，被广泛用于从个人到电商在内的各种类型的网站。W3Techs 的统计显示，它的市场占有率一直高居 43% 左右，而距离它最近的竞争对手是 Shopify 只有 4%。至今为止 WordPress  一直是基于 PHP 和 MySQL/MariaDB 数据库，但不是所有网站都需要功能全面的 MySQL。WordPress 现在开始测试对 SQLite 数据库的支持。SQLite 是一大优势是直接集成在 PHP 中，WordPress 网站可以不需要额外的数据库服务器，有助于降低托管费用，减少能耗。",
-          "link": "https://www.solidot.org/story?sid=73680",
-          "publishedOn": "2022-12-17T10:05:52.000Z",
-          "wordCount": 173,
-          "title": "WordPress 测试支持 SQLite",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73679",
-          "author": null,
-          "description": "著名游戏程序员、Meta/Facebook VR 子公司 Oculus 的咨询 CTO 卡马克（John Carmack）周五离开了公司。Carmack 曾公开批评 Meta 在 AR 和 VR 方面的进展，他在公司内部的 Workplace 论坛上发表了离职声明。他说，“我们构建了非常接近正确的东西，问题是效率。”卡马克说他厌倦了与 Meta 的斗争，他有自己的创业公司要经营，“这场战斗仍然可以赢。”Oculus 由 Palmer Luckey 于 2012 年创立，卡马克在 2013 年成为其 CTO，2014 年 Facebook 收购了 Oculus，2019 年卡马克的职务从 CTO 变成咨询 CTO，今年初他创办了一家专注于发展 AI 技术的公司 Keen Technologies。",
-          "link": "https://www.solidot.org/story?sid=73679",
-          "publishedOn": "2022-12-17T09:37:49.000Z",
-          "wordCount": 194,
-          "title": "John Carmack 离开 Meta",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73678",
-          "author": null,
-          "description": "根据发表在《自然》期刊上针对小鼠的一项研究，一些肠道细菌可以激活肠道神经，促进运动的欲望。这项研究揭示了肠道到大脑的通路，解释了为什么一些细菌能提高运动表现。在这项研究中，研究人员发现，在一大群实验室小鼠中，跑步表现的差异很大程度上是由于表现较好的动物体内存在某种肠道细菌。研究人员将这种影响追溯到细菌产生的代谢物小分子，这种代谢物刺激肠道中的感觉神经，在运动时增强控制动机的大脑区域的活动。\n与更好的性能密切相关的两种细菌：Eubacterium rectale（真/优杆菌属）和Coprococcus eutactus（粪球菌属），产生了被称为脂肪酸酰胺(FAAs)的代谢物。后者刺激肠内感觉神经上被称为 CB1 内源性大麻素受体的受体，这些受体通过脊柱连接到大脑。在运动中，这些布满 CB1 受体的神经受到刺激，会导致大脑腹侧纹状体区域的神经递质多巴胺水平增加。",
-          "link": "https://www.solidot.org/story?sid=73678",
-          "publishedOn": "2022-12-16T15:48:37.000Z",
-          "wordCount": 152,
-          "title": "研究称锻炼欲望与某种肠道细菌相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73677",
-          "author": null,
-          "description": "2021 年内核维护者峰会讨论的一个主题是招募内核维护者以及维护者继任上所面临的挑战。讨论得出的部分结论是作为 Linux 社区的一部分，企业需要允许从事内核开发的工程师成为维护者，工程师能逐渐成长为受人尊敬的项目领导者，最终成为内核维护者。曹子德（Theodore Y. Ts'o）以及 Linux 基金会技术咨询委员会发布了名叫 Linux 内核贡献成熟度模型的文档，帮助企业改进在内核开发流程中的参与。",
-          "link": "https://www.solidot.org/story?sid=73677",
-          "publishedOn": "2022-12-16T15:13:04.000Z",
-          "wordCount": 156,
-          "title": "Linux 内核贡献成熟度模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73676",
-          "author": null,
-          "description": "OCaml 语言释出了 5.0.0，引入了全新的运行时环境，支持共享的内存并行性和效果处理程序。OCaml 5.0.0 兼容 OCaml 4，能与  OCaml 4 工作的代码应该也能与 OCaml 5 工作，例外是移除了很多早已废弃的函数和模块，改变了内部运行时 API。OCaml 是一个函数式、指令式、模块化、面向对象的通用的编程语言，源自 ML（Meta Language）语言家族。",
-          "link": "https://www.solidot.org/story?sid=73676",
-          "publishedOn": "2022-12-16T14:59:24.000Z",
-          "wordCount": 167,
-          "title": "OCaml 5.0.0 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73675",
-          "author": null,
-          "description": "今年早些时候，最大代码托管平台 GitHub 宣布到 2023 年底所有上传代码的用户都必须使用双因素认证（2FA）。此举旨在预防开发者的账号被劫持，防止攻击者劫持账号后上传恶意代码对下游项目发动供应链攻击。现在 GitHub 官方博客详述了逐步推广 2FA 的流程：从 3 月开始要求不同组的开发者逐渐启用 2FA，这些开发者或者发布了 GitHub 或 OAuth 应用或软件包，或者创建了一个发布，或者是企业和机构的管理员，向重要的 npm、OpenSSF、PyPI 或 RubyGems 软件包贡献了代码，向前 400 万公开和私有的软件包贡献代码。相关开发者将会收到邮件通知，要求在截止期限前完成启用 2FA，这个期限通常是间隔 45 天。在这期间开发者将会每天收到警告提示。",
-          "link": "https://www.solidot.org/story?sid=73675",
-          "publishedOn": "2022-12-16T14:42:12.000Z",
-          "wordCount": 179,
-          "title": "GitHub 详述逐步推广 2FA 的流程",
-          "imageUrl": null
         }
       ]
     },
@@ -2772,6 +2722,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/735157/",
+          "author": null,
+          "description": "明敏丰色发自凹非寺 量子位公众号 QbitAI 现在，只用 WiFi 就能“看”到你在房间里干啥了…… （你…干…嘛……啊啊啊啊） 多人追踪也是 so easy： 过程中完全不需要拍下图像、不需要摄像头。 输入的仅是 WiFi 一维信号，输出则是三维人体姿态。 两台路由器即可搞定！换算成本都不到 5\n本文链接",
+          "link": "https://news.cnblogs.com/n/735157/",
+          "publishedOn": "2023-01-16T00:20:00.000Z",
+          "wordCount": 163,
+          "title": "千万别在有WiFi的房间里摆这种姿势，只因……",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735156/",
+          "author": null,
+          "description": "萧箫发自凹非寺 量子位公众号 QbitAI 先搭个模型，效果好就试着解释它，是我们常见的 AI 设计套路。 但，有人已经受够了这样“莫名其妙”的流程—— 既然人类总是试图解释 AI 模型，那为什么不能反过来，直接用看得懂的程序来设计 AI 模型权重呢？ 这样做出来的模型，既提升了它的可解释性，又降低\n本文链接",
+          "link": "https://news.cnblogs.com/n/735156/",
+          "publishedOn": "2023-01-16T00:10:00.000Z",
+          "wordCount": 163,
+          "title": "DeepMind“反向”搭建Transformer方法火了：由可解释程序设计AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735155/",
+          "author": null,
+          "description": "詹士萧箫发自凹非寺 量子位公众号 QbitAI 困扰学界几十年的集合难题，竟被圈外人一个月搞定？？？ 是的，你没看错。 当事人 Justin Gilmer，毕业已 7 年，目前是谷歌研究员，于数学界并无名头，连其导师也并不看好他所做的研究，以至于成果发表后—— 牛津、普林斯顿等高等学研机构数学家们看\n本文链接",
+          "link": "https://news.cnblogs.com/n/735155/",
+          "publishedOn": "2023-01-16T00:01:00.000Z",
+          "wordCount": 163,
+          "title": "几十年数学难题被谷歌研究员意外突破！曾因不想搞数学自学编程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735154/",
+          "author": null,
+          "description": "文｜好看商业，作者｜周一围，编辑｜安心 2023 年新年伊始，马斯克就火力全开，大杀四方。 1 月 13 日，特斯拉宣布在欧美多国市场大幅降价，包括美国、德国、加拿大、法国、西班牙、葡萄牙、德国、荷兰、英国、挪威，降价幅度1%-20% 不等。 在美国市场，所有车型售价下调。其中 Model Y 降幅\n本文链接",
+          "link": "https://news.cnblogs.com/n/735154/",
+          "publishedOn": "2023-01-15T13:29:24.000Z",
+          "wordCount": 163,
+          "title": "马斯克向同行“扔炸弹”：新能源车血战开始了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735153/",
+          "author": null,
+          "description": "文｜新摘商业评论，作者｜何必 故事往往蕴含着变化。 对于 2022 年的直播电商界来说，故事一直都在发生。 不仅有新的主播涌现，也有平台的战略转型，更有行业的悄然演进。2022 年，直播电商行业的新变化带来了更多的新玩法、新生态，同时也在形成新格局。 据淘宝直播此前发布的《2022 直播电商白皮书》\n本文链接",
+          "link": "https://news.cnblogs.com/n/735153/",
+          "publishedOn": "2023-01-15T13:20:00.000Z",
+          "wordCount": 163,
+          "title": "2022直播电商：落幕与新生",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735152/",
+          "author": null,
+          "description": "文｜深燃，作者唐亚华，编辑黎明 临近岁末，年终奖成了互联网人牵挂的问题。 多年以来，互联网行业几乎人人都有年终奖，多则数十个月、少则两三个月的月薪。几万到几十万的年终奖，是打工人最大的盼头。这也让互联网人逐渐默认为，年终奖年年都会有，可以算作是自己年薪的一部分。 而在老板心目中，年终奖是激励机制和管\n本文链接",
+          "link": "https://news.cnblogs.com/n/735152/",
+          "publishedOn": "2023-01-15T13:10:00.000Z",
+          "wordCount": 163,
+          "title": "消失的年终奖，无奈的打工人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735151/",
+          "author": null,
+          "description": "1 月 15 日消息，比亚迪官方消息，304 台比亚迪电动重卡 Q1R 向印度阿达尼集团的四个港口发运，预计二月份全部到达，并将作为港口牵引车运营。 据了解，阿达尼集团是印度一家跨国企业，也是印度最大的港口开发商和运营商。根据计划，Q1R 已分批次发运到阿达尼集团旗下 Ennore,Katupall\n本文链接",
+          "link": "https://news.cnblogs.com/n/735151/",
+          "publishedOn": "2023-01-15T12:56:00.000Z",
+          "wordCount": 163,
+          "title": "比亚迪向印度发运304台电动重卡Q1R 将作为港口牵引车运营",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735150/",
+          "author": null,
+          "description": "备受书迷、科幻迷期待的《三体》电视剧将在今晚 21:30 全网首播，上线 CCTV-8、腾讯视频等平台。今天上午，“三体电视剧”官微率先公布了该剧的追剧日历。 据了解，1 月 15 日起，CCTV-8 每周日至周五 21:30 播出 1 集，1 月 15 日腾讯视频等平台全网首播，会员每周日到周五 \n本文链接",
+          "link": "https://news.cnblogs.com/n/735150/",
+          "publishedOn": "2023-01-15T12:50:00.000Z",
+          "wordCount": 163,
+          "title": "《三体》剧版今日CCTV8、腾讯视频全网首播：会员提前看三集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735149/",
+          "author": null,
+          "description": "近日，特斯拉全球大降价，美国版 Model Y 更是降价 8.8 万元；这也让刚提车的车主损失惨重，毕竟早买一天亏了大几万。一时间，全球各地的车主都在网上声讨特斯拉的降价行为，并且自发组织维权。 不过，对于特斯拉刚提车老车主们的反应，马斯克倒不是很在意，至今特斯拉仍没有出台任何对提车车主的补偿措施。\n本文链接",
+          "link": "https://news.cnblogs.com/n/735149/",
+          "publishedOn": "2023-01-15T12:42:00.000Z",
+          "wordCount": 163,
+          "title": "特斯拉全球大降价引维权 马斯克回应：涨价时没人补差价",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735148/",
+          "author": null,
+          "description": "1 月 15 日讯，据微信派官方消息，微信最新版本中对红包功能进行更新，增加全新百年红包，新版本正在逐步覆盖中。 据悉，拜年红包会随机选择一些吉利数字。比如：1.66、2.88、6.66、8.88、9.99 等。每个数字配套带有不同的祝福语和不同的动态效果。新版拜年红包可添加语音祝福，用户可以在发红\n本文链接",
+          "link": "https://news.cnblogs.com/n/735148/",
+          "publishedOn": "2023-01-15T12:35:00.000Z",
+          "wordCount": 163,
+          "title": "微信拜年红包升级 添加多种特效",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735147/",
+          "author": null,
+          "description": "韦伯太空望远镜观察到的宇宙第一批星系的数量超过了天文学家的预测。这可能意味着宇宙第一批星系形成的时间早于预期。这一结果可能会改变科学家对于最早星系如何形成的理解。韦伯望远镜具有强大的红外观测能力，因此能观测到更早期的星系。天文学家利用新数据识别了 850 个早期星系，测量其距离，标记形状标记如圆盘形\n本文链接",
+          "link": "https://news.cnblogs.com/n/735147/",
+          "publishedOn": "2023-01-15T12:26:00.000Z",
+          "wordCount": 163,
+          "title": "韦伯望远镜发现了太多早期星系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735146/",
+          "author": null,
+          "description": "自加密货币交易所 FTX 去年 11 月申请破产以来，比特币币值本周六重新回到 2 万美元以上。比特币币值上个月一直在 1.6 万美元左右徘徊，本周开始上升到 1.7 万美元，最终突破 2 万美元，今年的两周内币值上涨了 20%。 当然今天这个币值距离比特币在 2021 年 11 月创下的 6.5 \n本文链接",
+          "link": "https://news.cnblogs.com/n/735146/",
+          "publishedOn": "2023-01-15T12:20:00.000Z",
+          "wordCount": 163,
+          "title": "比特币币值重新回到 2 万美元以上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735145/",
+          "author": null,
+          "description": "根据发表在《科学》上的一项研究，肥胖等生活压力因素会重新编程免疫系统细胞，并随着年龄的增长对眼睛造成损害。老年性黄斑变性(AMD)是全球不可逆失明的主要原因，截至 2020 年有约 1.96 亿人受到影响。它有两种形式:干性黄斑变性，其特征是眼后部脂肪堆积和眼内神经细胞死亡；湿性黄斑变性，其特征是在\n本文链接",
+          "link": "https://news.cnblogs.com/n/735145/",
+          "publishedOn": "2023-01-15T12:12:00.000Z",
+          "wordCount": 163,
+          "title": "研究显示肥胖也可能影响到眼睛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735144/",
+          "author": null,
+          "description": "Google 安全博客宣布，Chromium 项目开始支持使用 Rust 语言。Rust 是一种高性能、内存安全语言，而软件项目发现的大部分漏洞都属于内存安全 bug。它最早是 Mozilla 为 Firefox 浏览器开发的，现在它开始帮助 Chromium 项目变得更安全。Google 开发者对\n本文链接",
+          "link": "https://news.cnblogs.com/n/735144/",
+          "publishedOn": "2023-01-15T09:55:00.000Z",
+          "wordCount": 163,
+          "title": "Chromium开始支持使用Rust语言",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735143/",
+          "author": null,
+          "description": "Raspberry Pi（树莓派）首席执行官 Eben Upton 近日在接受采访时透露，自 2021 年以来他们已经生产了 1000 多万颗 RP2040 芯片，未来可能还会开设更多的 Raspberry Pi 商店。 根据 Upton 的计算，一片晶圆可以生产约 2000 个 30mm 裸片，而\n本文链接",
+          "link": "https://news.cnblogs.com/n/735143/",
+          "publishedOn": "2023-01-15T09:46:00.000Z",
+          "wordCount": 163,
+          "title": "树莓派两年内生产了1000多万颗RP2040芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735142/",
+          "author": null,
+          "description": "快手上有超过 60 万人在写诗。 Up 主“有山先生”发起的“B站诗词大会”，六期收获了 10+ 投稿作品。 小红书举办“小红书斗诗大会”等线上活动，吸引了上万条诗歌投稿。 保守估计，仅仅在这三个平台写诗的人，就超过百万。这即使不是一种值得探讨的文化现象，起码也是一种有趣的倾向。 这种倾向最初多为网\n本文链接",
+          "link": "https://news.cnblogs.com/n/735142/",
+          "publishedOn": "2023-01-15T07:11:00.000Z",
+          "wordCount": 163,
+          "title": "百万互联网“野生诗人”，以诗撬开规定性人生的气口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735141/",
+          "author": null,
+          "description": "新智元报道 编辑：Joey 最近，一位来自洛桑联邦理工学院（École polytechnique fédérale de Lausanne (EPFL)）的女物理学家 Lenka Zdeborova 在推特上吐槽顶会的审稿人筛选机制，引发了众多学术圈大佬共鸣。 你以为的学术顶级会议期刊审稿人，都是\n本文链接",
+          "link": "https://news.cnblogs.com/n/735141/",
+          "publishedOn": "2023-01-15T06:55:00.000Z",
+          "wordCount": 163,
+          "title": "AI顶会审稿人竟是本科生？女物理学家发推吐槽，圈内大佬纷纷点赞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735140/",
+          "author": null,
+          "description": "出品虎嗅科技组 作者齐健 编辑陈伊凡 头图视觉中国 1 月 12 日晚间，有媒体爆出腾讯会议取消免费模式的传言，次日虎嗅从腾讯公关部门得到回应：这则消息不属实。目前相关媒体已经做了删帖处理，然而这个传闻却引发了行业对B端 SaaS 软件收费问题的一些思考：SaaS 软件为什么就非得免费呢？ “因为行\n本文链接",
+          "link": "https://news.cnblogs.com/n/735140/",
+          "publishedOn": "2023-01-15T06:40:00.000Z",
+          "wordCount": 163,
+          "title": "腾讯会议们为什么就非要免费？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735139/",
+          "author": null,
+          "description": "台积电已经宣布 3nm 工艺量产，不过该工艺目前仅有苹果采用，并且苹果很可能会在今年 6 月份之后才用于 A17 处理器，而且仅有半数 iPhone15 采用 A17 处理器，其他芯片企业则还在犹豫不决，这就意味着台积电的 3nm 订单将相当有限。 其实苹果在去年的 iPhone14Pro 上的 A\n本文链接",
+          "link": "https://news.cnblogs.com/n/735139/",
+          "publishedOn": "2023-01-15T06:28:00.000Z",
+          "wordCount": 163,
+          "title": "台积电3nm量产遇阻，仅有苹果下单，外媒：失去华为的后果显现",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735138/",
+          "author": null,
+          "description": "羿阁萧箫发自凹非寺 量子位公众号 QbitAI 最早提出量子计算机的人，离世了。 85 岁的俄罗斯数学家尤里·曼宁（Yuri Manin）的人生故事，永远终止在了 2023 年 1 月 7 日这天。 这一消息震动数学界。罗格斯大学教授 Alex Kontorovich 表示悲痛：“他是 20~21 \n本文链接",
+          "link": "https://news.cnblogs.com/n/735138/",
+          "publishedOn": "2023-01-15T06:22:00.000Z",
+          "wordCount": 163,
+          "title": "提出量子计算机的数学家去世了，享年85岁，门下2位菲尔兹奖得主",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/735124/",
           "author": null,
@@ -7750,196 +7900,6 @@
           "publishedOn": "2022-12-18T02:00:00.000Z",
           "wordCount": 163,
           "title": "币圈“难以承受之痛”？重演FTX崩盘前一幕：币安币BNB暴跌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733594/",
-          "author": null,
-          "description": "IT 之家 12 月 17 日消息，微软宣布将对其 IE 终结计划进行一点小小的调整，从而为这款浏览器的棺材板钉上最后一颗钉子。 根据今天更新的官方文档，微软将通过 Edge 更新来杀死 IE，而不是之前以为的 Windows Update。这款“软件炸弹补丁”将于 2023 年 2 月 14 日发\n本文链接",
-          "link": "https://news.cnblogs.com/n/733594/",
-          "publishedOn": "2022-12-17T05:46:00.000Z",
-          "wordCount": 163,
-          "title": "微软 Edge 将于 2023 年 2 月 14 日后永久禁用Internet Explorer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733593/",
-          "author": null,
-          "description": "IT 之家 12 月 17 日消息，百事可乐公司的供应链高管在当地时间周五告诉路透社，该公司计划在 2023 年向全美部署 100 辆特斯拉 Semi 重型卡车，届时将开始向沃尔玛和克罗格等客户发货。 百事公司副总裁迈克・奥康奈尔在接受采访时表示，该公司正在“直接”购买大型卡车，并对工厂进行升级，包\n本文链接",
-          "link": "https://news.cnblogs.com/n/733593/",
-          "publishedOn": "2022-12-17T05:38:00.000Z",
-          "wordCount": 163,
-          "title": "百事可乐计划到明年年底部署 100 辆特斯拉 Semi 纯电卡车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733592/",
-          "author": null,
-          "description": "FTX 遭遇挤兑后破产带给币圈的冲击还在发酵，加密货币交易所的龙头币安又让市场绷紧了神经。 12 月 16 日周五，币安公布，本周一到周三，该平台净流出资金约 60 亿美元。虽然并未披露这一金额占客户在币安存入币值的百分比，但已经证实了币安客户提币规模猛增。 华尔街见闻此前文章提到，本周一媒体称，美\n本文链接",
-          "link": "https://news.cnblogs.com/n/733592/",
-          "publishedOn": "2022-12-17T05:32:00.000Z",
-          "wordCount": 163,
-          "title": "币安也有挤兑风险？客户三日提币60亿美元，会计师事务所暂停服务、撤回储备证明报告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733591/",
-          "author": null,
-          "description": "IT 之家 12 月 17 日消息，苹果首席执行官蒂姆・库克的日本之行仍在继续。在造访了索尼位于熊本的研发基地，感谢其在 iPhone 摄像头方面十多年的合作之后，下一站在访问了日本福井市拥有 70 年历史的家族企业 Inoue。 库克在推文中表示：“非常荣幸能和团队访问 Inoue，这是一家位于日\n本文链接",
-          "link": "https://news.cnblogs.com/n/733591/",
-          "publishedOn": "2022-12-17T05:27:00.000Z",
-          "wordCount": 163,
-          "title": "库克访日本家族企业 Inoue，后者为Apple Watch生产表带",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733590/",
-          "author": null,
-          "description": "12 月 17 日消息，据知情人士于美国当地时间周五透露，埃隆·马斯克(Elon Musk)家族理财室的董事总经理正在为推特寻找新的股权投资者，希望以 54.2 美元的收购价格出售推特股票。 知情人士表示，马斯克的基金经理贾里德·伯查尔（Jared Birchall）本周接触了多位潜在投资者，以马斯\n本文链接",
-          "link": "https://news.cnblogs.com/n/733590/",
-          "publishedOn": "2022-12-17T05:20:00.000Z",
-          "wordCount": 163,
-          "title": "传马斯克正为推特寻找新投资者 以收购原价出售推特股票",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733589/",
-          "author": null,
-          "description": "记者刘煜荷 编辑高宇雷 12 月 16 日的北京，室外最低温度已达零下 12 度，而“援京”快递员蓝文金前一天还在零上 16 度的厦门。尽管他带了最厚的衣服过来，但“难以想象的寒冷”依然是他对首都的最初印象。 同样是在北京，从下午5：48 点开始等外卖，等到 9 点后外卖竟然自动取消，北京消费者小何\n本文链接",
-          "link": "https://news.cnblogs.com/n/733589/",
-          "publishedOn": "2022-12-17T05:12:00.000Z",
-          "wordCount": 163,
-          "title": "电厂｜众“阳”之下，北京等不到的骑手和快递",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733588/",
-          "author": null,
-          "description": "出品虎嗅汽车组 作者王笑渔 编辑周到 头图 Teslarati 这个冬天，瑞士的“电动爹”很可能要被禁止上路了。 事情是这样的。据《每日电讯报》报道称，瑞士官员已经起草了一项限制电力使用的提案，以防该国出现能源短缺。其中一项关于电动汽车的禁令称，“私人使用电动汽车只允许用于绝对必要的旅行（例如，上班\n本文链接",
-          "link": "https://news.cnblogs.com/n/733588/",
-          "publishedOn": "2022-12-17T05:00:00.000Z",
-          "wordCount": 163,
-          "title": "冬天一到，电动车又成你爹了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733587/",
-          "author": null,
-          "description": "IT 之家 12 月 17 日消息，当地时间周五（12 月 16 日），SpaceX 实现了具有里程碑意义的第 200 次轨道飞行任务，为卢森堡-法国卫星电信网络公司 SES 发射了一对新型通信卫星，名为 O3b mPower 1 号和 2 号。 美国东部时间下午 5 点 48 分（北京时间今天6:\n本文链接",
-          "link": "https://news.cnblogs.com/n/733587/",
-          "publishedOn": "2022-12-17T04:45:00.000Z",
-          "wordCount": 163,
-          "title": "SpaceX第200次发射任务完成，将 O3b mPower 1/2 卫星送入轨道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733584/",
-          "author": null,
-          "description": "文｜道总有理 近来，惨淡的中概股终于迎来了些许信心。 自 11 月底起，多支中概股尤其是互联网电商公司的股价出现了明显反弹，阿里和京东的美股股价，在 10 天内完成了近 15% 的涨幅，如今两者的市值分别达到了 2374 亿美元和 910 亿美元。 然而和拼多多相比，这一涨幅就有些小巫见大巫。从 1\n本文链接",
-          "link": "https://news.cnblogs.com/n/733584/",
-          "publishedOn": "2022-12-17T04:38:00.000Z",
-          "wordCount": 163,
-          "title": "拼多多发展越好，问题越大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733586/",
-          "author": null,
-          "description": "文｜零售公园，作者｜苏黎 12 月 7 日，疫情防控新十条发布，包括不再对跨地区流动人员查验健康码、不再开展落地检等。上海直接宣布从明天开始对密闭的娱乐场所、餐饮服务场所都不再查验核酸。 随着国内防疫政策优化，“互联网+医药零售”为特色的线上医药平台成为近期买入主题，互联网医疗板块持续受益，以京东健\n本文链接",
-          "link": "https://news.cnblogs.com/n/733586/",
-          "publishedOn": "2022-12-17T04:20:00.000Z",
-          "wordCount": 163,
-          "title": "京东、阿里健康扭亏，却难改“卖药”底色",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733585/",
-          "author": null,
-          "description": "文｜新摘商业评论，作者｜何必 今年下半年以来，夸克的风评似乎被“蒙上一层阴影”。 在各大社交媒体上，关于夸克会员自动扣费的吐槽高频率出现，甚至在微博上输入“夸克自动扣费”关键词，排在前面的不乏谩骂，以及带有大量感叹号的情绪宣泄。 在黑猫投诉上，从 11 月底开始，就密集出现关于夸克乱收费的投诉，包括\n本文链接",
-          "link": "https://news.cnblogs.com/n/733585/",
-          "publishedOn": "2022-12-17T04:00:00.000Z",
-          "wordCount": 163,
-          "title": "夸克，搜索和商业化的两难困境",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733583/",
-          "author": null,
-          "description": "文｜硅谷 101，作者｜何源清，编辑｜泓君 OpenAI，是一个人工智能研究的实验室，它是由非营利组织 Open AI inc 的母公司与一个盈利的子公司 OpenAI LP 组成。它的目标是实现通用人工智能，在实现这个目标的过程中，搞出了几个模型，一个是我们之前的播客讨论过的 GPT3，还有一个是\n本文链接",
-          "link": "https://news.cnblogs.com/n/733583/",
-          "publishedOn": "2022-12-16T14:50:00.000Z",
-          "wordCount": 161,
-          "title": "赛跑开始：中国能长出自己的OpenAI吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733582/",
-          "author": null,
-          "description": "品玩 12 月 16 日讯，据财联社引用 The Washington Service 的数据，蔡崇信拥有的一家控股公司本月提交了文件，计划通过摩根士丹利出售 300 万份阿里巴巴美国存托凭证(ADR)，约占蔡崇信所持有阿里巴巴股权的8% 左右。按周四收盘价计算，这部分股权价值约 2.6 亿美元。根\n本文链接",
-          "link": "https://news.cnblogs.com/n/733582/",
-          "publishedOn": "2022-12-16T14:38:00.000Z",
-          "wordCount": 161,
-          "title": "蔡崇信计划通过摩根士丹利出售价值2.6亿美元的阿里巴巴股份",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733581/",
-          "author": null,
-          "description": "12 月 16 日，腾讯健康发布新版“新冠疫苗接种点地图”，为 21 省市居民提供疫苗接种点查询服务，助力第二剂次加强免疫接种。同时，覆盖全国 100 个城市的发热门诊地图也同步发布。 国务院联防联控机制日前提出现阶段可在第一剂次加强免疫接种基础上，在感染高风险人群、免疫力低下人群等群体中开展第二剂\n本文链接",
-          "link": "https://news.cnblogs.com/n/733581/",
-          "publishedOn": "2022-12-16T14:31:00.000Z",
-          "wordCount": 161,
-          "title": "腾讯健康发布新版疫苗接种地图 发热门诊可一键查询",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733580/",
-          "author": null,
-          "description": "苹果公司宣布，它已经与谷歌和 Mozilla 合作开发了最新版本的 Speedometer，这是测试浏览器效率的基准。 其实，苹果在 Speedometer 和 Speedometer 2 的开发过程中发挥了重要作用。 周四，该公司宣布将与 Firefox 和 Chrome 的创建者合作开发下一代基\n本文链接",
-          "link": "https://news.cnblogs.com/n/733580/",
-          "publishedOn": "2022-12-16T14:20:00.000Z",
-          "wordCount": 161,
-          "title": "苹果与谷歌和Mozilla合作开发了最新版本的Speedometer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733579/",
-          "author": null,
-          "description": "文｜文娱 Talk，作者｜何容正 爱奇艺又双叒叕涨价了。 11 月 16 日零时起，爱奇艺对黄金 VIP 会员及星钻 VIP 会员订阅价格进行更新，其中黄金 VIP 会员连续包月涨至 25 元，普通月付费 30，星钻 VIP 会员连续包月涨至 45 元，普通月付费涨至 60。 涨价 3 块，得到的赠\n本文链接",
-          "link": "https://news.cnblogs.com/n/733579/",
-          "publishedOn": "2022-12-16T14:08:00.000Z",
-          "wordCount": 161,
-          "title": "爱奇艺，谁教你这么涨价的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733578/",
-          "author": null,
-          "description": "12 月 16 日消息，自从收购推特以来，埃隆·马斯克（Elon Musk）对特斯拉的关注越来越少，投资者开始怀疑他是否仍是领导该公司的合适人选。美国当地时间周四，特斯拉第三大个人股东、华裔企业家廖凯原(KoGuan Leo)在推特上发文，呼吁这家电动汽车制造商找人替换马斯克。 在过去几个月中，特斯\n本文链接",
-          "link": "https://news.cnblogs.com/n/733578/",
-          "publishedOn": "2022-12-16T13:50:00.000Z",
-          "wordCount": 161,
-          "title": "特斯拉第三大个人股东廖凯原：马斯克抛弃了特斯拉，应拥有一名全职CEO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733577/",
-          "author": null,
-          "description": "出品｜虎嗅商业消费组 作者｜黄青春 题图｜视觉中国 “不可否认，Web3 对新加坡‘投资热’起到极大助推作用，但对游戏行业而言，新加坡确实是国内游戏厂商从亚太地区走向全球化的跳板。”一位游戏发行商向虎嗅表示，国内游戏厂商碍于版号的严峻形势不得不走向国际化，投资新加坡正是为了产能备份。 尤其 2022\n本文链接",
-          "link": "https://news.cnblogs.com/n/733577/",
-          "publishedOn": "2022-12-16T13:43:00.000Z",
-          "wordCount": 161,
-          "title": "腾讯追米哈游，一路追到新加坡？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733576/",
-          "author": null,
-          "description": "12 月 16 日，电动汽车初创公司法拉第未来（Faraday Future，下文简称法拉第）召开全球投资者业务沟通会。刚于上月末上任的法拉第全球 CEO 陈雪峰现身沟通会，宣布了备受外界关注的 FF91 上市时间表。 法拉第全球 CEO 陈雪峰图片截自：法拉第 按照法拉第的计划，FF91 Futu\n本文链接",
-          "link": "https://news.cnblogs.com/n/733576/",
-          "publishedOn": "2022-12-16T13:30:00.000Z",
-          "wordCount": 161,
-          "title": "FF再次更新量产时间表，年内已跳票三次的贾跃亭还能如期交车吗？",
           "imageUrl": null
         }
       ]
