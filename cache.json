@@ -537,26 +537,6 @@
           "wordCount": 625,
           "title": "2022 值得推荐的软件&服务推荐",
           "imageUrl": "https://cdn.sspai.com/2022/12/26/e53076c33e4204ed92263a8a5e18e1c9.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/77464",
-          "author": "玉树芝兰",
-          "description": "需求\n这些日子，很多小伙伴儿玩儿 ChatGPT 不亦乐乎，甚至陷入了沉迷。\n他们尝试了各种 ChatGPT 的功能。不少功能强悍到不可思议；当然，也有些功能尝试因遇到障碍无法完成。于是很多用户非常失望，觉得 ChatGPT 好像啥都干不了。\n其实很多时候，任务完成与否以及结果质量高低，和你使用什么样的输入文本（prompts）与ChatGPT来对话高度相关。不少人尝试了诸多方式，才引导ChatGPT执行了某项具体的功能。\n为了完成某个目标，从头开始一一试用不同 prompts 可能会耗费你很多的时间。而利用这些时间，你原本可以做更有意义的创造工作。\n我们常说一句话：\n\n不要重复发明轮子。\n\n在社会科学领域，研究者做问卷调查时，一般不会从头开始设计调查问卷，而是会参考已有的问卷，在其基础上进行适当修改，以更好地反映当前研究主题；在数据科学领域，研究者也往往会在别人的模型上进行修改调整，或者利用独特的数据集进行「微调」，而不是从无到有设计架构，然后从头开始训练模型。这些「复用」的实践，节约了大量的时间和经济成本。\n同样的道理，在使用 ChatGPT 的时候，自己从头尝试编写合适的 prompt 来让人工智能完成特定任务，效率也不够高。他山之石可以攻玉，我们不妨借鉴别人已经测试过的优质 prompts。\n我给你推荐 这个 Github 仓库，叫做 awesome-chatgpt-prompts：\n\n在项目的介绍区域，你可以看到许许多多的 ChatGPT 功能，以及开启激活这些功能对应的 prompt 。\n\n通过浏览，你可以发现，ChatGPT 真是能干不少事儿啊。\n\n你可以在自己的 ChatGPT 对话里面直接尝试这些 prompts ，看看结果如何。但是这样尝试起来，还得来回切换不断翻找，比较麻烦。\n其实你可以把这个项目里面的所有 prompts ，作为基本模块一股脑导入到自…",
-          "link": "https://sspai.com/post/77464",
-          "publishedOn": "2022-12-26T01:58:33.000Z",
-          "wordCount": 857,
-          "title": "如何用乐高积木式操作让 ChatGPT 变得更强大？",
-          "imageUrl": "https://cdn.sspai.com/2022/12/26/25c0fbb3698e6bc83bca2c852fd475c1.png"
-        },
-        {
-          "id": "https://sspai.com/post/77463",
-          "author": "清单控沙牛",
-          "description": "沙牛提示\n\n阅读本文需要 3 分钟，Obsidian 白板功能来了！\n如果你喜欢本文，就分享给你的小伙伴！\n\n01 白板\n继双链笔记之后，这一年，白板类工具开始火了起来。\n顾名思义，白板类工具，它给了你一张无限尺寸的空白画布，而作为用户的你，可以画布上，对你所需要的内容进行放置和整理。\n所以，对用户而言，白板工具提供了两点巨大的价值：\n\n将各类信息可视化。\n让各类信息的呈现，更具逻辑性、条理性。\n\n而最近，随着新版本的发布，双链笔记的先驱——Obsidian，也有了白板功能的加持。\n这篇文章，就来向你详细介绍一下 Obsidian 的白板功能，以及我们可以用它来干什么。\n02 开启 Obsidian 白板功能\nObsidian 中的白板功能，是在最近一次更新中加入的，所以，请确认你的 Obsidian 版本为 1.1.0 或更高。\n\n在 Obsidian 新版本中，白板功能以核心插件的方式呈现。所以，你需要在核心插件中，开启Cavans 功能。\n\n03 使用 Obsidian 白板\n1. 创建 Canvas 文件\n在 Obsidian 中使用白板，你需要先创建一个 Canvas 文件。\n你可以在文件列表中，通过右键菜单创建：\n\n也可以直接通过命令面板（快捷键 Ctrl/Command+P）创建：\n\n创建之后，你会看到一个空白的白板界面：\n\n2. 添加元素\n在这里，你能够添加自己需要的元素，并按需进行组织。\n目前，Obsidian 的白板功能支持添加这些类型的元素：\n\nObsidian 笔记\n图片\n自建卡片\n网页\n\n所有的元素，均可手动调整大小、位置及边框颜色。\n其中，笔记元素，可以将展示定位到标题：\n\n点击之后，Obsidian 会自动过滤出笔记中的所有标题：\n\n选择需要的标题，完成定位：\n\n3. 组织流程\n将需要的元素添加到白板之后，你便可以为元素之间，建立流程。\n在 Obsidian 中，这一步的体验非常好，直接点击和拖动即可添加上连接线。\n\n并且，连接线的颜色，也可以随意更改。\n这里留下一个疑问：\n\n建立好链接的笔记之间，会形成双链的关系吗？\n\n4. 笔记中插入白板\n一个白板创建完毕后，借力于 Obsidian 引用的特性，你可以在一条笔记中，引用白板文件：\n\n之后，被引用的白板会以缩略图的形式展现出来：\n\n04 我们可以用白板来干什么？\nObsidian 中的白板功能，简洁好用，作为 Obsidian 用户，你一定能够轻松上手使用它。\n但是，问题来了：\n\n对于用户而言，我能够使用白板干什么呢？\n\n这里，我为你列举了一些我自己的使用场景：\n1. 让信息条理化\n作为知识工作者，我们所面临的困惑，不是信息太少，而是信息太多。\n所以，如何过滤掉无用的信息，便成了一项重要的能力。\n\n这其中的秘诀就在于：抓住主线、理清逻辑。 这时，可视化的白板，就成了绝佳的辅助工具。\n你可以把关键的元素，或笔记、或图片、或卡片，直接扔到白板中，然后再来厘清它们的逻辑关系。\n2. 让知识结构可视化\n作为深度知识管理工具，我的 Obsidian 中有数百条、总字数超过 100 万字的笔记。\n即便我的知识管理做得井井有条，也很难通过直观的方式，来表达它们之间的逻辑关系或重要程度。\n这一点，在白板功能出现之后，会有所改变：\n我可以以整个知识结构，或某一个文件夹为主的分支为单位，建立一个白板，以更加直观的可视化方式，来画出整个结构，并展示出重要的笔记。\n这样一来，整个知识结构的关系和流程，便会一览无遗。\n所以，未来的一段时间，我会尝试以这样的方式，来让自己的知识结构可视化。",
-          "link": "https://sspai.com/post/77463",
-          "publishedOn": "2022-12-26T01:02:08.000Z",
-          "wordCount": 491,
-          "title": "知识管理神器 Obsidian，终于有了白板功能！",
-          "imageUrl": "https://cdn.sspai.com/2022/12/26/c9b23983ac7b3de99a93564c804940f8.jpg"
         }
       ]
     },
@@ -615,6 +595,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73951",
+          "author": null,
+          "description": "1998 年 1 月 20 日 Netscape 开始了大裁员。两天后的上午八点，Netscape 发表新闻稿宣布将在 3 月底公开其浏览器的源代码。这个消息连 Netscape 剩余的员工都倍感意外。1998 年 1 月 23 日晚上九点 Jamie \"jwz\" Zawinski 注册了 Mozilla.org 的域名。剩下的就是历史了。根据 mozilla.org 的 CVS 记录，网站最早上线是在 2 月 27 日，3 月 6 日发布了 Netscape Public License 的 0.90 草案，3 月 31 日源代码正式公开。",
+          "link": "https://www.solidot.org/story?sid=73951",
+          "publishedOn": "2023-01-24T15:30:24.000Z",
+          "wordCount": 198,
+          "title": "Mozilla.org 诞生 25 周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73950",
+          "author": null,
+          "description": "日本首相岸田文雄警告，由于出生率下降国家正处于无法正常运作的边缘。日本人口大约 1.25 亿，2022 年的新生儿人数不足 80 万，而在 1970 年代每年的新生儿人数超过 200 万。日本 65 岁以上人口占到了总人口的 28%，仅次于摩纳哥为世界第二高。岸田文雄指出，低出生率和人口老龄化构成了紧迫危机，他希望政府将儿童相关项目的支出增加一倍，计划在 4 月成立一个新政府机构专注于该问题。按照目前的趋势，日本人口到本世纪末将减少到不足 5300 万。",
+          "link": "https://www.solidot.org/story?sid=73950",
+          "publishedOn": "2023-01-24T15:13:31.000Z",
+          "wordCount": 159,
+          "title": "日本首相警告因生育率下降国家处于无法正常运作的边缘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73949",
+          "author": null,
+          "description": "借助于引力透镜，天文学家探测到至今最遥远星系的射电信号。引力透镜能放大来自遥远星系的信号，从而让地球上的望远镜能探测到。信号来自于正在形成恒星的星系 SDSSJ0826+5630，在我们的宇宙年龄只有 49 亿年时发出的，距今 88 亿年。印度的 Giant Metrewave 射电望远镜在氢谱线这一波长探测到了该信号。研究报告发表在《Monthly Notices of the Royal Astronomical Society》期刊上。",
+          "link": "https://www.solidot.org/story?sid=73949",
+          "publishedOn": "2023-01-24T14:47:09.000Z",
+          "wordCount": 159,
+          "title": "天文学家探测到来自最遥远星系的射电信号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73948",
+          "author": null,
+          "description": "GitHub 官方博客发表简短声明，宣布从 2023 年 2月 23 日起 GitHub Sponsors 将不再支持 PayPal 作为支付处理器。因此赞助人将无法再通过 PayPal 赞助开发者或组织。GitHub 建议赞助人更新支付方式，使用信用卡或借记卡。GitHub 官方对此没有给出更多解释。PayPal 是最流行的第三方支付服务之一，其优点是保护付款方，避免直接暴露信用卡或借记卡。",
+          "link": "https://www.solidot.org/story?sid=73948",
+          "publishedOn": "2023-01-24T14:30:40.000Z",
+          "wordCount": 170,
+          "title": "GitHub 赞助人将不再能使用 PayPal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73947",
+          "author": null,
+          "description": "微软和 OpenAI 宣布扩大合作关系，在投资了 10 亿美元之后微软将在未来几年再次向 OpenAI 投资数十亿美元。早些时候有传言称微软有意向 OpenAI 投资百亿美元，最新的声明只是笼统的称为数十亿美元。OpenAI 表示它将会继续使用基于 Azure 的超算训练其模型，而 Azure 将始终是其所有产品和服务的唯一云服务商。OpenAI 称微软的产品和服务将整合其技术，其中包括 GitHub Copilot 和 Microsoft Designer。",
+          "link": "https://www.solidot.org/story?sid=73947",
+          "publishedOn": "2023-01-24T09:12:07.000Z",
+          "wordCount": 170,
+          "title": "微软向 OpenAI 投资数十亿美元",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73946",
           "author": null,
@@ -2532,6 +2562,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/735517/",
+          "author": null,
+          "description": "撰文 熊星 编辑 吴先之 独立显卡市场仍然不属于买方。 去年三季度，全球独立显卡出货量仅为 1400 万块，同比大跌 42%，创二十年最低记录。 市场龙头英伟达股价暴跌六成，AMD 市场份额创几十年新低，行业新玩家 Intel 趁乱而入快速占领4% 的市场份额，随着基数增加增速放缓，在市场萧条的氛围\n本文链接",
+          "link": "https://news.cnblogs.com/n/735517/",
+          "publishedOn": "2023-01-25T01:06:00.000Z",
+          "wordCount": 163,
+          "title": "独显用户渴求春天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735516/",
+          "author": null,
+          "description": "1 月 25 日消息，美国当地时间周二美股收盘后，微软发布了截至 2022 年 12 月 31 日的 2023 财年第二财季财报。财报显示，微软第二财季营收为 527 亿美元，同比增长2%；净利润为 164 亿美元，同比下滑 12%；每股摊薄收益为 2.2 美元，同比下滑 11%。财报发布后，微软股\n本文链接",
+          "link": "https://news.cnblogs.com/n/735516/",
+          "publishedOn": "2023-01-25T01:04:00.000Z",
+          "wordCount": 163,
+          "title": "微软第二财季营收527亿美元 净利润164亿同比下滑12%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735515/",
+          "author": null,
+          "description": "在大幅度下调全系车型美国售价不到两周后，特斯拉于 1 月 24 日将 Model Y 双电机全驱车型的售价小幅上调 500 美元，上调后起售价为 53490 美元。 本月稍早，特斯拉将该车型的起售价下调 13000 美元，至 52990 美元。尽管此次小幅加价，Model Y 的售价仍比去年的 65\n本文链接",
+          "link": "https://news.cnblogs.com/n/735515/",
+          "publishedOn": "2023-01-25T01:00:00.000Z",
+          "wordCount": 163,
+          "title": "Model Y美国售价意外上调500美元，仍低于美国补贴上限55000美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735514/",
+          "author": null,
+          "description": "詹士发自凹非寺量子位公众号 QbitAI 训练/微调中型 GPT，最简单最快的库来了！ 其名为：NanoGPT。 从名字就能看出是个“纳米武器”，据作者介绍，该库代码简单易读，2 个仅 300 行代码的文件。 现已基于 OpenWebText 重现 GPT-2 (124M)，在单个 8XA100 4\n本文链接",
+          "link": "https://news.cnblogs.com/n/735514/",
+          "publishedOn": "2023-01-24T12:13:00.000Z",
+          "wordCount": 163,
+          "title": "小破本也能炼GPT！300行代码搞定，来自特斯拉前AI总监",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735513/",
+          "author": null,
+          "description": "微软将向 OpenAI 进行一项为期多年、价值数十亿美元的投资，以加速其在人工智能（AI）领域的技术突破。 财联社 1 月 24 日讯（编辑赵昊）当地时间周一（1 月 23 日），美国科技巨头微软公司在官方博客宣布，已与 OpenAI 扩大合作伙伴关系。 声明称，作为两家公司合作伙伴关系的第三阶段，\n本文链接",
+          "link": "https://news.cnblogs.com/n/735513/",
+          "publishedOn": "2023-01-24T11:00:00.000Z",
+          "wordCount": 163,
+          "title": "加码豪赌人工智能！微软官宣向大火的OpenAI追加数十亿投资",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735511/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 好困 经过两个月的漫长等待，ChatGPT 的后续计划终于初见端倪：免费的「基础版」和付费的「专业版」。 这几个月，全世界人民把 ChatGPT 玩疯了！ 自 2022 年 11 月 30 日开放注册以来，ChatGPT 已收获了超过 100 万用户，日峰值请求数也已\n本文链接",
+          "link": "https://news.cnblogs.com/n/735511/",
+          "publishedOn": "2023-01-24T10:46:00.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT推出收费版！每月285元，「白嫖党」 还能happy多久？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735510/",
+          "author": null,
+          "description": "大约 7 年前，美国艾伦细胞科学研究所（Allen Institute for Cell Science）刚成立不久。那时，该研究所试图找出用荧光蛋白标记细胞内结构的最佳方法，以便既能“看到”它们，同时又尽可能地维持细胞的正常状态。 通过上述努力，该团队创建了人类诱导多能干细胞系的“艾伦细胞集”（A\n本文链接",
+          "link": "https://news.cnblogs.com/n/735510/",
+          "publishedOn": "2023-01-24T10:33:00.000Z",
+          "wordCount": 163,
+          "title": "累计84位论文作者，科学家解开人类细胞真实面貌的秘密",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735509/",
+          "author": null,
+          "description": "衡宇梦晨发自凹非寺 量子位公众号 QbitAI 朋友，追剧版《三体》了吗？ 没有的话春节期间可以浅追一下，测试你体内的物理 DNA 有没有兴奋狂动。 △某物理专业同学朋友圈（节选） “还原度极高”的科学仪器在剧中随处可见—— 比如杨冬做粒子对撞实验的良湘加速器，取景正儿八经用了中科院高能物理研究所的\n本文链接",
+          "link": "https://news.cnblogs.com/n/735509/",
+          "publishedOn": "2023-01-24T10:00:00.000Z",
+          "wordCount": 163,
+          "title": "三体剧组是懂物理的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735512/",
+          "author": null,
+          "description": "IT 之家 1 月 22 日消息，据 TechPowerUp 报道，部分用于英特尔第 12 代和第 13 代 CPU 的 700 系列主板的 I226-V 以太网 LAN 控制器出现了故障。从一些英特尔、微软、华硕和一些 Reddit 社区用户的反馈来看，主要表现为随机的网络掉线问题。 英特尔尚未就\n本文链接",
+          "link": "https://news.cnblogs.com/n/735512/",
+          "publishedOn": "2023-01-24T09:50:00.000Z",
+          "wordCount": 163,
+          "title": "英特尔 700 系列主板存在缺陷，表现为网络随机中断",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735508/",
+          "author": null,
+          "description": "IT 之家 1 月 23 日消息，国外科技媒体 Vgchartz 分享了索尼 PlayStation 5、微软 Xbox Series XS 和任天堂 Switch 游戏主机在 2022 年的销量情况，并将其和 2021 年、2020 年和 2019 年的销量进行了对比，此外还分享了市场占有率方面的\n本文链接",
+          "link": "https://news.cnblogs.com/n/735508/",
+          "publishedOn": "2023-01-24T09:22:00.000Z",
+          "wordCount": 163,
+          "title": "索尼、微软、任天堂三家游戏主机2022年销量情况对比",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735507/",
+          "author": null,
+          "description": "本文来源：时代财经作者：王婷 大年初一的郑州富士康图源：受访者 这是程可进郑州富士康后的第 7 个春节，也是最短的一个。 大年三十早上，她坐最早一班大巴车回乡，正月初一下午返程，初二上班。“这么多年，就数今年过年奖金多，机会只有一次，大家都要回来加班挣钱。” 程可属于 iPEBG 事业群，1 月若上\n本文链接",
+          "link": "https://news.cnblogs.com/n/735507/",
+          "publishedOn": "2023-01-24T09:11:00.000Z",
+          "wordCount": 163,
+          "title": "富士康最“壕”春节，办公室人员集体支援生产线，留守最高奖金1.3万元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735506/",
+          "author": null,
+          "description": "2022 年， 公司开始了一项 CRISPR 基因编辑疗法的首次人体试验，该疗法有望使大多数人从中受益，基因编辑也可能已准备好走向大众。 （来源：Pixabay） 我们知道许多关于健康的基本常识：均衡饮食、规律运动和减轻压力，可以帮助我们减少心脏病发作的风险。但如果你可以选择接种“疫苗”呢？这里说的\n本文链接",
+          "link": "https://news.cnblogs.com/n/735506/",
+          "publishedOn": "2023-01-24T09:03:00.000Z",
+          "wordCount": 163,
+          "title": "CRISPR也能降低胆固醇？Verve公司已顺利完成猴子实验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735505/",
+          "author": null,
+          "description": "据外媒报道，其社交平台 AltSpaceVR、MR 头显 HoloLens 和混合现实工具包 MRTK 背后的团队已被全部解散。 《科创板日报》1 月 23 日讯 在最近的几次公开演讲中，微软 CEO 萨蒂亚·纳德拉一直热衷于强调“元宇宙”对 IT 行业以及未来时代的消费者和工作生活的重要性。 现实\n本文链接",
+          "link": "https://news.cnblogs.com/n/735505/",
+          "publishedOn": "2023-01-24T08:55:00.000Z",
+          "wordCount": 163,
+          "title": "微软上演“敦刻尔克撤退”？大刀砍向元宇宙团队 豪赌人工智能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735504/",
+          "author": null,
+          "description": "本周早些时候，微软低调发布新补丁 KB5021751。部分用户反馈，Windows 10/11 系统均收到相关推送。 微软并没有避讳补丁作用，直言目的就是寻找过期的 Office 版本，包括 Office 2013/2010/2007 等，但目的何在则没有明确。 有猜测认为，微软可能是为了确定 Of\n本文链接",
+          "link": "https://news.cnblogs.com/n/735504/",
+          "publishedOn": "2023-01-24T08:48:00.000Z",
+          "wordCount": 163,
+          "title": "追杀盗版？微软出手：Office 2007/2010/2013集体遭殃了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735503/",
+          "author": null,
+          "description": "来源：央视新闻客户端 1 月 22 日，“探索一号”科考船搭载“奋斗者”号全海深载人潜水器，在位于东南印度洋蒂阿蔓蒂那海沟最深点完成深潜作业后，成功回收。这是人类历史上首次抵达该海沟的最深点，由此拉开了对该海沟系统科学考察的序幕，对全球深渊科学的发展具有十分重要的意义。 2022 年 10 月 6 \n本文链接",
+          "link": "https://news.cnblogs.com/n/735503/",
+          "publishedOn": "2023-01-24T08:40:00.000Z",
+          "wordCount": 163,
+          "title": "“奋斗者”号再探底！首次抵达蒂阿蔓蒂那海沟最深点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735502/",
+          "author": null,
+          "description": "IT 之家 1 月 22 日消息，微软 Gaming 业务负责人、Xbox 掌舵者菲尔・斯宾塞（Phil Spencer）发出内部信，表示裁员是“非常痛苦”的决定，当前公司游戏业务存在“巨大挑战”。 国外科技媒体 Kotaku 获取的这份电子邮件（感兴趣的 IT 之家网友可以访问这里）中，斯宾塞表示\n本文链接",
+          "link": "https://news.cnblogs.com/n/735502/",
+          "publishedOn": "2023-01-24T08:30:00.000Z",
+          "wordCount": 163,
+          "title": "Xbox掌舵者：游戏业务面临巨大挑战，裁员是“非常痛苦”的决定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735501/",
+          "author": null,
+          "description": "据参考消息网 1 月 22 日报道，有媒体报道称，推特公司 1300 名员工中，约有 75 人正在休假，其中包括约 40 名工程师。对此，推特 CEO 马斯克 21 日在推特发文说，推特公司约有 2300 名活跃员工。 推特仅剩下 1300 名员工？马斯克回应 据参考消息网 1 月 22 日援引路透\n本文链接",
+          "link": "https://news.cnblogs.com/n/735501/",
+          "publishedOn": "2023-01-24T08:20:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克怕被绑架，雇了100名保镖！推特只剩1300人？最新回应：不对",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735500/",
+          "author": null,
+          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 这个游戏里的 NPC，活了！ 不是傻傻重复几句固定台词，而是你问什么就答什么。 玩家也不是从几个固定选项中选，而是打字对话，想说什么就说什么。 在游戏中，玩家扮演一个中世纪的骑士（左），在路上遇到一个 NPC 村民（右）介绍自己的职业是铁匠。 村民的自我介\n本文链接",
+          "link": "https://news.cnblogs.com/n/735500/",
+          "publishedOn": "2023-01-24T08:10:00.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT让游戏NPC活了！交流直接打字不再靠选项，童年梦想成真",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735499/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 强化学习也要进入预训练时代了！ 基础模型（foundation models） 在监督和自监督学习问题上展现出强大的领域适应性（adaption）和可扩展性（scalability），但强化学习领域仍然没有基础模型。 最近 DeepMind 的 Adaptive Agent\n本文链接",
+          "link": "https://news.cnblogs.com/n/735499/",
+          "publishedOn": "2023-01-24T08:00:00.000Z",
+          "wordCount": 163,
+          "title": "强化学习也有基础模型了！DeepMind重磅发布AdA，堪比人类的新环境适应能力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/735498/",
+          "author": null,
+          "description": "古往今来，人们对雪花的痴迷始终未减。或许因它形状各异，片片图案精美；也或许因它洁白无瑕，象征纯洁和浪漫。不管是唐朝诗人韩愈的“白雪却嫌春色晚，故穿庭树作飞花”，还是明代诗人杨基的“水晶帘外娟娟月，梨花枝上层层雪”，亦或是孩童看到雪花时的欣喜激动，雪花常常引发人们的无限好奇和遐思。 而且人们很早就发现\n本文链接",
+          "link": "https://news.cnblogs.com/n/735498/",
+          "publishedOn": "2023-01-24T07:45:00.000Z",
+          "wordCount": 163,
+          "title": "科学家使用液态金属溶剂成功生长并分离得到金属“雪花”",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/735474/",
           "author": null,
@@ -7460,236 +7690,6 @@
           "publishedOn": "2022-12-27T00:00:00.000Z",
           "wordCount": 163,
           "title": "潞晨科技尤洋：中小企业同样追求大模型，但最先进AI训练成本太高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734019/",
-          "author": null,
-          "description": "杨净发自凹非寺 量子位公众号 QbitAI 元宇宙，正在野蛮生长，比以往任何时候更甚。 一面是持续看好的市场表现。据麦肯锡数据显示，今年上半年有超过 1200 亿美元投向元宇宙，已是去年 570 亿美元投资额的两倍多。 而 DIffusion、ChatGPT 等新技术、新进展，更是不断点燃着元宇宙的\n本文链接",
-          "link": "https://news.cnblogs.com/n/734019/",
-          "publishedOn": "2022-12-26T10:43:22.000Z",
-          "wordCount": 163,
-          "title": "商汤给元宇宙理了理“三观”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734018/",
-          "author": null,
-          "description": "Alex 发自凹非寺 量子位公众号 QbitAI 世人苦蚊子久矣。 但一群中科院的科学家却脑洞大开，竟然把人人喊打的蚊子变成了行走的疫苗。 他们的相关论文已成功登上了 Nature Communications。 想亲测一下效果？ Nope，这可不行——因为这种“蚊子疫苗” 不是给人打的，而是用于野\n本文链接",
-          "link": "https://news.cnblogs.com/n/734018/",
-          "publishedOn": "2022-12-26T10:42:49.000Z",
-          "wordCount": 163,
-          "title": "蚊子变「疫苗」：中科院新研究可以从源头抑制新发传染病",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734017/",
-          "author": null,
-          "description": "丰色发自凹非寺 量子位公众号 QbitAI 上线 5 天就挤进超 100 万用户，全能到被认为可以取代搜索引擎—— 2022 年年末 AI 届的顶流选手，当 ChatGPT 莫属。 不过无敌的它，其实并不“寂寞”。 有网友发现，短短两周，至少有 4 个和 ChatGPT 差不多的问答 AI 在它前后\n本文链接",
-          "link": "https://news.cnblogs.com/n/734017/",
-          "publishedOn": "2022-12-26T10:30:00.000Z",
-          "wordCount": 163,
-          "title": "注册不了ChatGPT？没关系，这里还有8个“平替”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734016/",
-          "author": null,
-          "description": "2022 年 8 月的重庆，因极端高温天气，多地发生山火，山中连日火光冲天、浓烟滚滚。那段时间，有关重庆山火的信息常常以新闻报道的形式为人所知，而即便是社交网络如此发达的当下，互联网上关于各种救援行动的第一视角记录，往往是少之又少。 “等到自己上山才明白，在这种情况下真正站在一线的人，是根本没有心思\n本文链接",
-          "link": "https://news.cnblogs.com/n/734016/",
-          "publishedOn": "2022-12-26T10:20:00.000Z",
-          "wordCount": 163,
-          "title": "知乎的年度视频治好了我的精神焦虑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734015/",
-          "author": null,
-          "description": "作者刘燕，核子可乐 来源 AI 前线 以 ChatGPT 为代表的新一代聊天机器人开始广泛应用人工智能，这波浪潮有望重塑甚至取代传统互联网搜索引擎。 内部发布“红色代码”、重组业务 谷歌及其母公司 Alphabet 的首席执行官 Sundar Pichai 显然对最近爆火的 ChatGPT 很感兴趣\n本文链接",
-          "link": "https://news.cnblogs.com/n/734015/",
-          "publishedOn": "2022-12-26T10:10:00.000Z",
-          "wordCount": 163,
-          "title": "ChatGPT爆红让谷歌慌了？内部发“红色代码”警告，CEO亲自部署重组AI业务以应对威胁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734014/",
-          "author": null,
-          "description": "邓思邈发自副驾寺 智能车参考公众号 AI4Auto 造车领域的二当家，今年不好当。 威马汽车二当家杜立刚，被曝离职。 杜立刚是公司联合创始人、执行副董事长，陪伴威马走过 7 年，堪称“威马的元老级人物”。 但遭遇变动的“二当家”，不止威马一家。 在此之前，小鹏汽车二当家让出了董事会席位，理想汽车二当\n本文链接",
-          "link": "https://news.cnblogs.com/n/734014/",
-          "publishedOn": "2022-12-26T09:55:00.000Z",
-          "wordCount": 163,
-          "title": "威马二当家被曝离职！今年理想小鹏爱驰的二号位都遭水逆，甚至贾跃亭也难逃魔咒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734013/",
-          "author": null,
-          "description": "要说 2022 年科技最热的领域方向，生成式 AI（AIGC）绝对是绕不开的一个词。 《科创板日报》12 月 25 日讯（记者黄心怡） 要说 2022 年科技最热的领域方向，生成式 AI（AIGC）绝对是绕不开的一个词。多名互联网大厂员工对《科创板日报》记者表示，已经开始尝试用 ChatGPT 自动\n本文链接",
-          "link": "https://news.cnblogs.com/n/734013/",
-          "publishedOn": "2022-12-26T09:42:00.000Z",
-          "wordCount": 163,
-          "title": "当大厂程序员已开始用AI写代码 人类会被AIGC淘汰吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734012/",
-          "author": null,
-          "description": "文价值星球 Planet，作者易生，编辑唐飞 2018 年 290 万，2019 年 240 万，2020 年 160 万，2021 年 100 万……四年时间，流失了三分之二广告主的微博，终于坐不住了。 继今年 4 月被曝出，注册了“微博电商”、“微博小店”等多项电商商标后，10 月 13 日，微\n本文链接",
-          "link": "https://news.cnblogs.com/n/734012/",
-          "publishedOn": "2022-12-26T09:30:00.000Z",
-          "wordCount": 163,
-          "title": "微博难圆电商梦",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734011/",
-          "author": null,
-          "description": "2022 年 12 月 9 日，研究人员在 PyPI 中发现又一个供应链攻击。2022 年 12 月 6 日名为 aioconsol 的 Python 包发布，同一天发布了三个版本。与此前披露的名为 shaderz 的 Python 包类似，并没有相关的描述信息。 项目描述 版本发布 该 Pytho\n本文链接",
-          "link": "https://news.cnblogs.com/n/734011/",
-          "publishedOn": "2022-12-26T09:17:00.000Z",
-          "wordCount": 163,
-          "title": "Python 供应链攻击层出不穷，研究人员又发现一例",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734010/",
-          "author": null,
-          "description": "GameLook 报道/最近，王者营地迎来了四周年庆典。 可能不少人已经注意到，在四岁生日到来之际，王者营地发布了周年庆的 slogan——“想上分，来营地”，凸显其助力玩家上分的产品能力与实用价值。 诚然，社交是近年来的大趋势，但王者营地这次突出工具价值，并不意味着轻视了社交。要知道，游戏社区并不\n本文链接",
-          "link": "https://news.cnblogs.com/n/734010/",
-          "publishedOn": "2022-12-26T09:10:00.000Z",
-          "wordCount": 163,
-          "title": "四岁的王者营地，在工具与社区的选择中给出了自己的答案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734009/",
-          "author": null,
-          "description": "早在 1935 年，科幻小说家斯坦利·温鲍姆的小说《皮格马利翁的眼镜》中，就构想了一款实现虚拟现实（VR）的眼镜。近年来，除游戏、娱乐等大众熟知的应用场景外，VR 逐渐涉足医疗、教育、生产制造等各种领域。 以医疗为例，VR 可能帮助减轻医疗资源有限且分布不均、诊断方式单一等问题，实现远程诊疗、远程医\n本文链接",
-          "link": "https://news.cnblogs.com/n/734009/",
-          "publishedOn": "2022-12-26T08:55:00.000Z",
-          "wordCount": 163,
-          "title": "火山引擎支持的这套VR医疗培训系统，给智慧医疗画好了「一个样板」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734008/",
-          "author": null,
-          "description": "文巨潮 WAVE，作者老鱼儿，编辑杨旭然 12 月 23 日晚间，港股微博发布公告称，微博全资子公司 Weibo Hong Kong Limited 与新浪公司的全资子公司新浪香港有限公司就买卖新浪网技术（中国）有限公司的 100% 股权订立若干协议。 据协议，Weibo Hong Kong Lim\n本文链接",
-          "link": "https://news.cnblogs.com/n/734008/",
-          "publishedOn": "2022-12-26T08:40:00.000Z",
-          "wordCount": 163,
-          "title": "微博赡养新浪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734006/",
-          "author": null,
-          "description": "品玩 12 月 26 日讯，据 36 氪报道，淘宝正在为首场元宇宙直播做上线前的最后测试。 图源：淘宝 如果进展顺利，项目有望在年货节期间上线。相关画面显示，届时用户可直接在淘宝 App 进入虚拟空间，通过虚拟城市广场大屏观看直播，下单后将和正常直播间购物一样收到快递包裹。\n本文链接",
-          "link": "https://news.cnblogs.com/n/734006/",
-          "publishedOn": "2022-12-26T08:34:00.000Z",
-          "wordCount": 163,
-          "title": "淘宝推出首个元宇宙直播间项目 有望在春节前上线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734005/",
-          "author": null,
-          "description": "品玩 12 月 26 日讯，据“CNKI 知网微信公众号”消息：自 5 月 13 日国家市场监督管理总局对知网涉嫌垄断立案调查以来，我们全力配合，深刻反省，全面自查。今天，我们收到《国家市场监督管理总局行政处罚决定书》，对此处罚，我们诚恳接受，坚决服从。在广泛征求意见的基础上，制定了彻底整改独家合作\n本文链接",
-          "link": "https://news.cnblogs.com/n/734005/",
-          "publishedOn": "2022-12-26T08:28:00.000Z",
-          "wordCount": 163,
-          "title": "知网回应被罚，并发布15项整改措施",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734004/",
-          "author": null,
-          "description": "品玩 12 月 26 日讯，根据国家知识产权局中国专利公布公告（申请公布号：CN115512608A）显示，比亚迪股份有限公司申请的“一种折叠装置及柔性屏移动终端”专利获授权公布。 图源：源于网络 图源：源于网络 摘要显示，该发明提出了一种折叠装置及柔性屏移动终端： 该折叠装置包括第一壳体、第二壳体\n本文链接",
-          "link": "https://news.cnblogs.com/n/734004/",
-          "publishedOn": "2022-12-26T08:21:00.000Z",
-          "wordCount": 163,
-          "title": "比亚迪公开折叠显示屏专利：可为显示屏提供稳定支撑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/734003/",
-          "author": null,
-          "description": "网上一直有个段子，如果美国关闭 GPS，世界会怎样？ 1993 年 7 月 23 日，波斯湾晴空万里。我国银河号货轮正在执行运输任务，其导航系统正是美国的 GPS。美国以船上有违禁品为由，要求银河号停航并接受美国登船检查货物。 而后，美国单方面关闭了银河号的 GPS。银河号在公海上迷航，顶着五十度的\n本文链接",
-          "link": "https://news.cnblogs.com/n/734003/",
-          "publishedOn": "2022-12-26T08:12:00.000Z",
-          "wordCount": 163,
-          "title": "北斗导航二十八年：封锁、突围、全面主导",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733950/",
-          "author": null,
-          "description": "近期，小米裁员的消息在互联网圈迅速发酵，此前，有爆料人在脉脉平台透露，在小米 13 发布当天就有员工接到了裁员通知，规模预计人数 6000 人左右，占到小米总雇员人数的 17% 左右。 对此，小米集团内部人士对外回应称：“年底裁员的事情确实有，履行合法合规的流程。补偿政策为N+2，未休完的法定年假按\n本文链接",
-          "link": "https://news.cnblogs.com/n/733950/",
-          "publishedOn": "2022-12-25T14:10:00.000Z",
-          "wordCount": 163,
-          "title": "手握18个月全集团工资现金的小米，怎么也要裁员了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733948/",
-          "author": null,
-          "description": "App 是否可能通过技术“暗箱操作”，在后台偷偷获取用户个人信息？App 监听、擅自读取用户照片等迷思多年来无法破除，往往处于用户深信不疑、企业又无法自证的尴尬境地。 12 月 22 日，南都个人信息保护研究中心联合清华大学人工智能国际治理研究院、人工智能治理研究中心（清华大学）在北京举办 2022\n本文链接",
-          "link": "https://news.cnblogs.com/n/733948/",
-          "publishedOn": "2022-12-25T13:56:00.000Z",
-          "wordCount": 163,
-          "title": "App暗箱操作获取用户信息？技术专家详解关联启动的秘密",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733949/",
-          "author": null,
-          "description": "雷递网乐天 12 月 24 日 “阳过”后，人的脑子是否还和以前一样聪明？12 月 23 日，在《张朝阳的物理课》第 110 期暨线下第十一课上，搜狐创始人、董事局主席兼 CEO 张朝阳坐镇搜狐视频直播间，以身体力行回答网友：感染新冠病毒对人的智商是没有影响。 近来，张朝阳多次分享了自己感染新冠后的\n本文链接",
-          "link": "https://news.cnblogs.com/n/733949/",
-          "publishedOn": "2022-12-25T13:47:00.000Z",
-          "wordCount": 163,
-          "title": "张朝阳分享感染新冠病毒后体会 称喉咙痛喝“盐水”非常有效",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733947/",
-          "author": null,
-          "description": "羿阁萧箫发自凹非寺 量子位公众号 QbitAI 以“天才少年”身份加入华为的稚晖君，被曝已经离职，将开启创业！ 虽然本人还没公开确认这一消息，但据华为员工爆料，目前华为内部已经搜不到对应的工号。 要知道，这两年稚晖君即使人在华为，也依旧保持着自己“野生钢铁侠”的 UP 主身份，更新了不少大项目—— \n本文链接",
-          "link": "https://news.cnblogs.com/n/733947/",
-          "publishedOn": "2022-12-25T13:40:00.000Z",
-          "wordCount": 163,
-          "title": "稚晖君被曝离职华为！曾加入天才少年计划，将开启机器人方向创业",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733946/",
-          "author": null,
-          "description": "Alex 发自凹非寺 量子位公众号 QbitAI 今年都快年末了，蹦出来一个 ChatGPT，然后光速走红，服务器都被挤爆好几回。 而往前一看，这样的火爆场面，在 4 月份 DALL·E 2 发布时也出现过。 不同圈子的人纷纷下场搞起了 AI 创作，而且现在仍在继续。 在 AIGC（AI 生成内容）\n本文链接",
-          "link": "https://news.cnblogs.com/n/733946/",
-          "publishedOn": "2022-12-25T13:33:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI CEO谈AI画图明星DALL·E 2：技术突破不多，地气接了不少",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733945/",
-          "author": null,
-          "description": "龙芯中科近日宣布，其面向服务器市场研发的 32 核处理器——龙芯 3D5000，初样验证成功。 龙芯 3D5000 由两块龙芯 3C5000 硅片通过 Chiplet 技术封装组成。龙芯 3C5000 于今年 6 月发布，十六核心设计，主频为 2.0-2.2GHz，配备 4MB 二级缓存与 32MB\n本文链接",
-          "link": "https://news.cnblogs.com/n/733945/",
-          "publishedOn": "2022-12-25T13:26:00.000Z",
-          "wordCount": 163,
-          "title": "龙芯中科32核服务器芯片3D5000初样验证成功：芯片内封装两颗龙芯3C5000",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/733944/",
-          "author": null,
-          "description": "12 月 24 日消息，自从特斯拉首席执行官埃隆·马斯克（Elon Musk）收购推特以来，美国宇航局（NASA）就开始担心其是否会将更多时间和精力从 SpaceX 抽走，因为 SpaceX 的星际飞船已经成为 NASA 登月计划的顶梁柱，马斯克“不务正业”会直接影响该计划。但从过去几周的情况来看，\n本文链接",
-          "link": "https://news.cnblogs.com/n/733944/",
-          "publishedOn": "2022-12-25T13:20:00.000Z",
-          "wordCount": 163,
-          "title": "SpaceX成NASA登月计划顶梁柱 马斯克“不务正业”也不影响",
           "imageUrl": null
         }
       ]
