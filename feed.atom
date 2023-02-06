@@ -2,10 +2,260 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-05T01:22:24.173Z</updated>
+    <updated>2023-02-06T01:15:15.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[47亿美元遣散费！Meta、谷歌、微软、亚马逊四大厂裁员下血本]]></title>
+        <id>https://news.cnblogs.com/n/736009/</id>
+        <link href="https://news.cnblogs.com/n/736009/"/>
+        <updated>2023-02-05T17:41:44.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：David 硅谷大裁员，大厂给多少遣散费？财报显示，谷歌、Meta、亚马逊、微软四大巨头一共花了 47 亿美元「分手费」。 旷日持久的「硅谷大裁员」，几个月来几乎席卷了科技界的每个领域。 在被裁员工纷纷慨叹「人生无常」的同时，也有人表示，这些人其实并没有他们自己说得那么凄惨，不要说
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超越诺奖？生物界ChatGPT首次实现从零合成全新蛋白，登Nature子刊！喂了2.8亿种氨基酸序列]]></title>
+        <id>https://news.cnblogs.com/n/736008/</id>
+        <link href="https://news.cnblogs.com/n/736008/"/>
+        <updated>2023-02-05T17:40:32.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：好困 Aeneas 这家成立三年的小初创公司，首次利用深度学习语言模型合成出了自然界中不存在的全新蛋白质，引爆蛋白质设计革命。 人工智能的应用，已经极大地加速了蛋白质工程的研究。 最近，加州伯克利的一家初出茅庐的初创公司再次取得了惊人的进步。 科学家们采用类似 ChatGPT 的蛋
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌Jeff Dean万字总结火热出炉！图解AIGC、LLM、CV、多模态四大领域成就！]]></title>
+        <id>https://news.cnblogs.com/n/736007/</id>
+        <link href="https://news.cnblogs.com/n/736007/"/>
+        <updated>2023-02-05T17:34:29.000Z</updated>
+        <summary type="html"><![CDATA[2022 年，谷歌在 ML 领域取得了哪些新进展？Jeff Dean 发万字长文总结。 2022 年，谷歌在机器学习方面有什么进展？Google Research 高级研究员兼高级副总裁 Jeff Dean 一文帮你总结！昨天，Jeff Dean 代表 Google Research 社区发布一篇干
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再不能用ChatGPT写作业了！新算法给AI文本加水印，置信度99.99%]]></title>
+        <id>https://news.cnblogs.com/n/736006/</id>
+        <link href="https://news.cnblogs.com/n/736006/"/>
+        <updated>2023-02-05T17:17:19.000Z</updated>
+        <summary type="html"><![CDATA[明敏 Alex 发自凹非寺 量子位公众号 QbitAI AI 生成文本，又遇新对手！ 凭借识别 AI 生成文本中的“水印”，一种新算法能够准确判断文本到底是谁写的。 无需访问模型参数、API，结果置信度高达 99. 999999999994%。 方法一经发布就引来大量网友围观。这回拿 ChatGPT
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18万美元offer！ChatGPT通过谷歌L3入职测试，人类码农危？]]></title>
+        <id>https://news.cnblogs.com/n/736001/</id>
+        <link href="https://news.cnblogs.com/n/736001/"/>
+        <updated>2023-02-05T17:06:10.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT 已经通过谷歌面试，拿下 offer 了。看来，替代全部码农它还做不到，但替代一部分，已经是绰绰有余了。 打不过就加入？最近，ChatGPT 成功通过了谷歌的面试，拿到了年薪 18 万美元的 L3 工程师 offer！又能替代人类码农，又能给科学论文当共同作者，还能给总统讲话写稿子，这
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI创始人拿微软100亿，是在下一步大棋]]></title>
+        <id>https://news.cnblogs.com/n/736005/</id>
+        <link href="https://news.cnblogs.com/n/736005/"/>
+        <updated>2023-02-05T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[丰色编译自凹非寺 量子位公众号 QbitAI OpenAI 获得微软 100 亿美元投资的消息出来后，一些人的想法有些沮丧： 一方面，摆脱了经济压力的 OpenAI 可能将不再那么“open”、顺而放弃“开发造福每个人的 AI 技术”的精神； 另一方面，大家也担心它的模型将落为 MS Office 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT杀疯了，两个月引爆千亿美金新赛道]]></title>
+        <id>https://news.cnblogs.com/n/736004/</id>
+        <link href="https://news.cnblogs.com/n/736004/"/>
+        <updated>2023-02-05T16:32:00.000Z</updated>
+        <summary type="html"><![CDATA[（图片来源：Ascannio/Shutterstock） 爆火的人工智能（AI）会话式语言模型 ChatGPT 终于要付费了。 北京时间 2 月 2 日，美国 OpenAI 公司宣布推出付费试点订阅计划 ChatGPT Plus，定价每月 20 美元。付费版功能包括高峰时段免排队、快速响应以及优先获
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙中第一批恒星存在被证实！中科院新成果，数据来自韦布望远镜]]></title>
+        <id>https://news.cnblogs.com/n/736003/</id>
+        <link href="https://news.cnblogs.com/n/736003/"/>
+        <updated>2023-02-05T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[羿阁发自凹非寺 量子位公众号 QbitAI 还记得韦布望远镜（JWST）发布时立下的 flag 吗？ 观测宇宙大爆炸后出现的第一批天体、观测星系随时间如何生长、寻找太阳系外宜居行星…… 现在有一点它真的做到了！背后的团队竟然还来自中国科学院。 具体来说，研究者们对韦布望远镜传回的2000 多个光谱数
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌急投20亿押注ChatGPT「最强竞品」，GPT-3核心成员出走打造]]></title>
+        <id>https://news.cnblogs.com/n/736002/</id>
+        <link href="https://news.cnblogs.com/n/736002/"/>
+        <updated>2023-02-05T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[衡宇发自凹非寺 量子位公众号 QbitAI 谷歌应对 ChatGPT 的招数，出得越来越急了。 最新消息：劈柴哥重磅宣布，斥资 3 亿美元，投的就是 ChatGPT 的竞品—— 还是由 GPT-3 核心成员出走创办的 AI 初创公司。 这家公司名叫Anthropic，眼下和 OpenAI 同样将重心
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲警方破解加密消息应用 Exclu 逮捕 42 人]]></title>
+        <id>https://www.solidot.org/story?sid=74047</id>
+        <link href="https://www.solidot.org/story?sid=74047"/>
+        <updated>2023-02-05T14:20:52.000Z</updated>
+        <summary type="html"><![CDATA[在破解了犯罪分子使用的加密消息应用 Exclu 后欧洲警方逮捕 42 名嫌疑人，缴获了枪支、毒品和数百万欧元现金。Exclu 是最新一个被警方破解的加密消息应用，在欧洲多地发起联合突击搜查前，警方和检方在 Exclu 系统中潜伏了五个月，阅读了犯罪分子之间的通信。有大约 3000 人使用 Exclu 系统，其半年订阅费用高达 800 欧元。调查始于 2020 年 9 月，警方在比利时、德国和荷兰的 79 处地点展开了搜查，关闭了 Exclu 消息服务。被捕者包括了该应用的使用者和控制者，以及所有者。荷兰警方称其突击搜查行动至少发现了两个毒品实验室、一个可卡因加工厂、数公斤毒品、400 万欧元现金、奢侈品和枪支。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vinton Cerf 被授予 IEEE 荣誉勋章]]></title>
+        <id>https://www.solidot.org/story?sid=74046</id>
+        <link href="https://www.solidot.org/story?sid=74046"/>
+        <updated>2023-02-05T13:43:46.000Z</updated>
+        <summary type="html"><![CDATA[被誉为互联网之父的 TCP/IP 合作者 Vinton Cerf 授予了 2023 年度的 IEEE 荣誉勋章，以表彰他在开发互联网架构上的贡献，以及在互联网发展成为社会关键基础设施中的领导作用。1974 年美国国防部高级研究计划署（DARPA）信息处理技术办公室任项目经理的 Vinton Cerf 与 Robert Kahn 一起设计了 TCP 和 IP 协议。TCP 管理通过互联网发送的数据包，确保不会丢包，能以正确的次序接收，在正确的目的地重新组装。IP 管理地址，在正确的目的地转发和发送数据。两者共同构成了互联网的核心架构，让计算机能连接和交换流量。自 2005 年以来，Cerf 一直担任 Google 的副总裁和首席互联网布道官。IEEE 称 Cerf 在互联网的发展上对世界产生了不可磨灭的影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法官使用 ChatGPT 做出法庭裁决]]></title>
+        <id>https://www.solidot.org/story?sid=74045</id>
+        <link href="https://www.solidot.org/story?sid=74045"/>
+        <updated>2023-02-05T09:31:58.000Z</updated>
+        <summary type="html"><![CDATA[哥伦比亚的一名法官使用 ChatGPT 做出法庭裁决，这是已知第一次在 AI 文本生成器帮助下做出的法庭判决。根据日期为 2023 年 1 月 30 日的法庭文件，哥伦比亚海港城市卡塔赫纳（Cartagena）第一巡回法庭的主审法官 Juan Manuel Padilla Garcia 称他向 AI 提出了与审理案件相关的法律问题，并将 AI 的答案包含在裁决中。他表示此举并非是让 AI 取代法官做决定，而是节省起草判决书的时间。他审理的案件涉及与医保公司的纠纷，问题与自闭症儿童是否应该获得医疗保障有关。法官在法庭文件中称，他询问了 ChatGPT 多个法律问题，包括自闭症未成年人是否可免除支付治疗费用？宪法法院判例是否在类似案件中做出有利裁决？他在判决中包含了 AI 给出的答案。法官表示 AI 帮助提供了判决的更多依据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基因编辑、3D生物打印将如何改变“移植器官荒”？]]></title>
+        <id>https://news.cnblogs.com/n/736000/</id>
+        <link href="https://news.cnblogs.com/n/736000/"/>
+        <updated>2023-02-05T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[2022 年初，一场在美国马里兰大学医学中心完成的心脏移植手术引起了全球关注，因为移植到这名 57 岁患者大卫·贝内特体内的，是一颗接受过“基因修饰”的猪心脏。根据马里兰大学医学中心的介绍，他们对这颗心脏原来的猪主人进行了 10 处基因修改，同时结合创新药物的使用，以预防移植后排异反应的发生，最终使
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI CEO：ChatGPT比想象的更有用 但不会取代传统搜索]]></title>
+        <id>https://news.cnblogs.com/n/735999/</id>
+        <link href="https://news.cnblogs.com/n/735999/"/>
+        <updated>2023-02-05T02:42:00.000Z</updated>
+        <summary type="html"><![CDATA[雷递网乐天 2 月 4 日 ChatGPT 激发了全世界的想象力，从教授到广告商、黑客和法官，每个人都在思考如何最好地利用其功能。但是这一切背后的人是怎么想的呢？ 对开发人工智能聊天机器人的公司 OpenAI 的首席执行官 Sam Altman 来说，ChatGPT 可节省时间，特别是在阅读长篇文章
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又一颗类地行星被发现，距地球仅31光年，或存在液态水]]></title>
+        <id>https://news.cnblogs.com/n/735998/</id>
+        <link href="https://news.cnblogs.com/n/735998/"/>
+        <updated>2023-02-05T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[极目新闻记者满达 尽管天文学家已经发现了 5200 多颗系外行星，但其中只有不到 200 颗是岩石行星，因此每发现一颗新的类地系外行星总是令人兴奋。2 月 3 日，发表在《天文学与天体物理学》上的一篇论文显示，一个由来自世界各地的 50 名天文学家组成的团队证实了系外行星 Wolf 1069 b 的
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[继台积电之后 台达电将于4月1日起试行弹性上班制度]]></title>
+        <id>https://news.cnblogs.com/n/735997/</id>
+        <link href="https://news.cnblogs.com/n/735997/"/>
+        <updated>2023-02-05T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[集微网消息近日，据中国台湾省媒体联合报消息，近期台积电发布弹性上班制度后引发关注热潮，电源管理及散热解决方案大厂台达电也于日前宣布，将于 4 月 1 日起试行弹性上下班机制。 台达电体恤员工通勤塞车之苦，让员工灵活掌握个人时间安排，将自 4 月 1 日起试行弹性上下班，弹性上班时间为 7 时 30 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚂蚁集团旗下招财宝公司注销]]></title>
+        <id>https://news.cnblogs.com/n/735996/</id>
+        <link href="https://news.cnblogs.com/n/735996/"/>
+        <updated>2023-02-05T02:20:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 2 月 4 日消息，招财宝关联公司上海招财宝金融信息服务有限公司近日注销。 上海招财宝金融信息服务有限公司成立于 2013 年 12 月，法定代表人宋畅，注册资本 1000 万人民币，经营范围包括金融信息服务，金融产品的研究开发、组合设计、咨询服务等，由蚂蚁集团旗下上海云进信息技术有限公
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19岁患者患阿尔兹海默症，研究参与者：一度不敢相信检查结果]]></title>
+        <id>https://news.cnblogs.com/n/735995/</id>
+        <link href="https://news.cnblogs.com/n/735995/"/>
+        <updated>2023-02-05T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[“这是目前已知最年轻的临床诊断为阿尔兹海默症的患者。”近日，一篇由首都医科大学宣武医院贾建平团队撰写的论文，发布在了国际知名阿尔兹海默病研究刊物上，文中介绍，一名来医院就诊的 19 岁男孩被临床诊断为阿尔兹海默症患者。 论文的作者之一、宣武医院神经内科主任医师贾龙飞告诉记者，该病例的情况非常罕见，以
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT之父传奇：8岁会编程，16岁出柜，2个月做到月活过亿]]></title>
+        <id>https://news.cnblogs.com/n/735994/</id>
+        <link href="https://news.cnblogs.com/n/735994/"/>
+        <updated>2023-02-05T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[雷递网雷建平 2 月 4 日 聊天机器人 ChatGPT 的爆火，推出仅仅 2 个月，就达到月活过亿，成为历史上增长最快的消费者应用程序。 根据 Sensor Tower 数据，TikTok 在全球推出后用约 9 个月时间达到 1 亿用户，Instagram 用了 30 个月才达到同样的基准。 毫无
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDC：2022年平板电脑销量略有下降，Chromebook断崖式下跌]]></title>
+        <id>https://news.cnblogs.com/n/735993/</id>
+        <link href="https://news.cnblogs.com/n/735993/"/>
+        <updated>2023-02-05T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 2 月 5 日消息，IDC 关于平板电脑和 Chromebook 的 2022 年全年和 2022 年第四季度市场报告已经出炉，结果并不理想。总体而言，2022 年全年平板电脑市场萎缩了 3.3%，但同年第四季度却出现了 0.3% 的平缓增长。然而，在经历了 2021 年疯狂的 180.
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福特汽车 CFO：对 2022 年业绩感到“失望”，不排除进一步裁员]]></title>
+        <id>https://news.cnblogs.com/n/735992/</id>
+        <link href="https://news.cnblogs.com/n/735992/"/>
+        <updated>2023-02-05T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 2 月 5 日消息，福特汽车第四季度没有达到华尔街的盈利预期，比自己的全年指导目标少了 11 亿美元。福特汽车第四季度的净收入为 13 亿美元，比上年同期低 110 亿美元。全年来看，福特公司亏损 20 亿美元，与 2021 年的利润相差近 200 亿美元。 “我们去年应该做得更好，”福
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人人视频遭到海外出版方集体起诉，包括奈飞、索尼等]]></title>
+        <id>https://news.cnblogs.com/n/735991/</id>
+        <link href="https://news.cnblogs.com/n/735991/"/>
+        <updated>2023-02-05T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 2 月 5 日消息，近期，人人视频关联主体公司上海众多美网络科技有限公司新增多个开庭公告，案由涉及“著作权权属、侵权纠纷，侵害作品信息网络传播权纠纷”，原告方包括：环球内容制作公司、索尼影视电视公司、华纳兄弟娱乐公司、二十世纪福克斯电影公司、奈飞全球娱乐公司、迪士尼企业公司等多家海外影视
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“杀死”光刻机全球第一，比造一台光刻机容易多了（万字长文）]]></title>
+        <id>https://news.cnblogs.com/n/735989/</id>
+        <link href="https://news.cnblogs.com/n/735989/"/>
+        <updated>2023-02-05T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[最近几天，从海外传来了一则坏消息。 荷兰、日本和美国达成了新的协议，要向中国限制出口先进芯片制造设备，说白了，就是光刻机。 拜登甚至亲自会见日本、荷兰领导人，讨论了相关措施。 而就在短短半个月前，事情还不是这样。1 月 15 日，荷兰外贸与发展合作大臣施赖纳马赫尔表示，荷兰不会草率接受美国对向中国出
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最新观测再次预示标准模型可能存在缺失]]></title>
         <id>https://www.solidot.org/story?sid=74044</id>
@@ -9109,257 +9359,6 @@ Success is going from failure to failure without losing your enthusiasm.
         <link href="https://www.solidot.org/story?sid=73831"/>
         <updated>2023-01-07T13:37:23.000Z</updated>
         <summary type="html"><![CDATA[中科院动物所的小鼠研究显示，长期运动可延缓全身多器官衰老。研究人员将年轻小鼠（2 月龄，相当于人类 18 岁）和年老小鼠（16 月龄，相当于人类 55 岁）随机分为运动组和对照组，并借助自动化运动装置“引导”年轻和年老动物进行了长达 12 个月（相当于人类的 35 年）的自主运动锻炼。通过行为学评估发现，长期有氧运动不仅增加了小鼠的肌肉耐力，还增强了小鼠的学习及记忆能力。此外，经过运动后，小鼠血液中炎性因子的含量相较对照组小鼠明显降低。为了进一步揭示运动对机体不同器官和细胞类型的影响，研究人员分离获得了各组动物的大脑、小脑、脊髓、肺、心脏、骨骼肌、肝、肾、小肠、睾丸、脾脏、骨髓、主动脉、外周血共 14 种组织器官，基于高分辨率的单细胞或单细胞核转录组测序，系统绘制了运动组和对照组小鼠的泛组织单细胞基因表达全景图谱。结果表明，运动可以诱导全身多种细胞类型基因表达的显著改变。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[垂直放置 PS5 可能会导致硬件故障]]></title>
-        <id>https://www.solidot.org/story?sid=73830</id>
-        <link href="https://www.solidot.org/story?sid=73830"/>
-        <updated>2023-01-07T10:27:22.000Z</updated>
-        <summary type="html"><![CDATA[PS5 存在一个几个月时间才会显现的设计缺陷，与垂直放置游戏机有关。PS5 维修专家发现，问题的根源与索尼游戏机所采用的定制 AMD Zen 2 CPU 使用的液态金属热介面有关。当游戏机以垂直方向放置时，随着时间液态金属会移动并溢出到 CPU 周围的元件上，意味着液态金属不再均匀分布在所要冷却的芯片上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[康希诺开始试产 mRNA 疫苗]]></title>
-        <id>https://www.solidot.org/story?sid=73829</id>
-        <link href="https://www.solidot.org/story?sid=73829"/>
-        <updated>2023-01-07T09:49:18.000Z</updated>
-        <summary type="html"><![CDATA[康希诺生物开始试产 mRNA 疫苗，针对奥密克戎毒株的疫苗一期生产项目设计产能 1 亿剂。康希诺在新闻稿中称，它的 mRNA疫苗 CS-2034 是针对现有新冠病毒变异株有更好保护效果的新一代疫苗，可以诱导出针对多种世界卫生组织认定的奥密克戎等重要变异株的高滴度中和抗体，具有更强的广谱性，可以更有效地保护机体免受现有变异株的感染。研究表明，已接种 3 剂灭活疫苗的 18 岁及以上人群，采用康希诺生物新型冠状病毒 mRNA 疫苗进行序贯加强具有良好的耐受性，针对奥密克戎 BA.5 变异株的中和抗体水平是灭活疫苗同源加强的 29 倍。60 岁及以上的老年人群接种安全性更佳，可获得较强的免疫保护。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学校封杀，大厂禁用，ChatGPT引发大面积恐慌！]]></title>
-        <id>https://news.cnblogs.com/n/734691/</id>
-        <link href="https://news.cnblogs.com/n/734691/"/>
-        <updated>2023-01-07T08:05:40.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：好困 Aeneas ChatGPT 的诞生，改写了很多领域的游戏规则。现在，在很多地方，学校和大厂都下了 ChatGPT 封杀令。 12 月，ChatGPT 大红大紫之际，就有诸多学者和研究人员发出警告：ChatGPT 很可能「杀死」大学论文。最近，纽约市教育局就正式对 ChatG
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纳德拉：科技行业未来2年仍存在巨大挑战]]></title>
-        <id>https://news.cnblogs.com/n/734690/</id>
-        <link href="https://news.cnblogs.com/n/734690/"/>
-        <updated>2023-01-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 7 日消息，微软首席执行官萨蒂亚・纳德拉（Satya Nadella）近日在接受 CNBC 采访时表示，科技行业在未来 2 年时间里仍笼罩在阴霾之下。 纳德拉认为随着人工智能等新兴技术的发展，科技公司的长期增长前景强劲，但这种回升之前科技行业仍需经历较长时间的一段痛苦期。 他表示：“接下来两
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王传福的仰望，谁会买单]]></title>
-        <id>https://news.cnblogs.com/n/734689/</id>
-        <link href="https://news.cnblogs.com/n/734689/"/>
-        <updated>2023-01-07T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[王传福的高端品牌梦想，开始接受现实的检验。 文｜《中国企业家》记者魏帅 编辑｜马吉英 头图来源｜仰望汽车微博截图 作为比亚迪股份有限公司董事长兼总裁王传福，王传福在发布会上亮相过无数次，但 1 月 5 日的亮相最为特别。 1 月 5 日，比亚迪旗下全新高端品牌——仰望，正式发布。发布会现场，王传福驾
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软的AI赌局，谷歌为何没敢接]]></title>
-        <id>https://news.cnblogs.com/n/734688/</id>
-        <link href="https://news.cnblogs.com/n/734688/"/>
-        <updated>2023-01-07T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[出品虎嗅科技组 作者齐健 编辑陈伊凡 头图视觉中国 ChatGPT 加入搜索后，会颠覆 Google 吗？ 这是过去几周里，在科技产业圈里热议的话题。 1 月 3 日，科技媒体 The Information 爆料了人工智能研究实验室 OpenAI 与微软 Bing 最新的合作计划。两位直接参与该计
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[显卡出货量现20年最大跌幅！华强北背包客做副业等回暖，产线已在加大招工]]></title>
-        <id>https://news.cnblogs.com/n/734687/</id>
-        <link href="https://news.cnblogs.com/n/734687/"/>
-        <updated>2023-01-07T07:37:00.000Z</updated>
-        <summary type="html"><![CDATA[本文来源：时代财经 作者：王婷 显卡商家聚集的华强电子世界图源：时代财经 岁末年初，冰封的显卡市场，散发出一丝暖意。 “2022 年，我买卖显卡亏了两三万元，有同行亏了十几万元。”廖元在深圳华强北做背包客，他对时代财经表示，自己暂时退出显卡市场，靠副业谋生，很多背包客同样如此。 廖元说，一张能用于比
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[部分苹果iPhone 14 Pro用户遭遇灵动岛“烧屏”问题]]></title>
-        <id>https://news.cnblogs.com/n/734686/</id>
-        <link href="https://news.cnblogs.com/n/734686/"/>
-        <updated>2023-01-07T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 1 月 7 日消息，在 iPhone 14 系列于去年 9 月推出后，苹果因 Pro 新机型采用灵动岛设计而备受争议。现在，一些用户的投诉表明 iPhone 14 Pro 系列屏幕灵动岛部分出现了烧屏现象。 Dynamic Island （灵动岛）是 iPhone 14 Pro 和 Pr
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为造车“登顶”之后：问界首年交付7.6万辆仍不够，赛力斯装不下华为野心]]></title>
-        <id>https://news.cnblogs.com/n/734685/</id>
-        <link href="https://news.cnblogs.com/n/734685/"/>
-        <updated>2023-01-07T07:25:00.000Z</updated>
-        <summary type="html"><![CDATA[本文来源：时代周报 作者：杨玲玲 新能源车市场的竞争远未结束，格局变化频繁发生。 2022 年，华为与赛力斯合作的 AITO 品牌，接连发布问界 M5、问界 M7 以及问界 M5 EV 三款车型，累计交付量超过 7.6 万辆，让行业竞争格局再添变数。 品牌发布首年便取得如此交付量，华为汽车业务发展速
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM去年在美申请专利锐减44%，回应：申请耗时，不再追求数量]]></title>
-        <id>https://news.cnblogs.com/n/734684/</id>
-        <link href="https://news.cnblogs.com/n/734684/"/>
-        <updated>2023-01-07T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 7 日消息，专利分析服务公司 Harrity LLP 最新发布的“专利 300 榜单”（Patent 300）显示，2022 年 IBM 专利数量下降 44% 至 4743 项，公司失去在美国专利申请领域维持几十年的领先地位。而同期字节跳动等中国科技公司的专利数量增幅最大。 根据“专利 30
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「自由物语」周刊第 1 期]]></title>
-        <id>https://sspai.com/post/77682</id>
-        <link href="https://sspai.com/post/77682"/>
-        <updated>2023-01-07T07:19:09.000Z</updated>
-        <summary type="html"><![CDATA[「自由物语」周刊初介绍
-Hi，「自由物语」是一个关于生活、效率、工作的以文字为主的周刊。
-我将我在生活中的所思所想，以及从书影音中收获到的有趣的观点，写成每一篇短文，每一期包含 7 篇这样的小短文。
-
-目录
-1 什么是性同意
-2 我在动森里学会早睡早起
-3 怎样改掉坏习惯
-4 如何忘却你的前任
-5 学会左手吃饭需要多久
-6 乞丐的马
-7 兴趣要在青年时培养
-
-1 什么是性同意
-来自英国官方的性教育短片，这是 b 站转载链接
-如果你还在纠结「同意」的意思，那就先抛开「性」的概念
-先给他们泡上一杯茶，然后问「你想喝杯茶吗」，如果他们说「我就想喝一杯茶，谢谢你」，那你就知道他们想要一杯茶了。
-
-如果他们说「额......我不太确定」，那么你可以给他们沏杯茶，但他们可能不会喝，如果他们不喝，那么重点就来了——别逼他们喝，你给别人泡了一杯茶，不代表你可以强迫别人喝。
-如果他们说「不用了，谢谢你」，那就不用给他们泡茶了，不用泡茶，不要强迫别人喝，不要因为他们不喝茶而生他们的气，他们只是不想喝茶。
-有的可能会说「好的，谢谢你」，但当茶端上来的时候，他们其实根本不想喝茶，这确实有些烦人，因为你花了心思去泡茶，但他们仍然没有义务去喝这杯茶，他们之前确实想要一杯茶，但现在不想了，有人会在泡茶的时间里就改变了主意，改变主意很正常，不过你仍然没有权利逼迫他们喝掉。
-如果他们不省人事了，那就别给他们泡茶，失去意识的人不想喝茶，他们也回答不了「要不要喝一杯茶」这个问题，因为他们已经不省人事了。
-也许当你问的时候，他们还是清醒的，他们说「好的」，但当你烧水、沏茶、加牛奶的时候，他们就神智不清了，你应该把茶放下，确保昏迷的人安全，这是最重要的，再次来到重要的部分，别强迫他们喝茶，当然他们之前是答应了要喝茶，但失去知觉的人是不会想喝茶的。
-如果有人答应喝茶，但还没喝完就晕倒了，那就别往他们喉咙里灌了，把茶拿…]]></summary>
-        <author>
-            <name>唐夕洲</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年美国电动汽车销量飙升2/3，特斯拉领先优势缩小]]></title>
-        <id>https://news.cnblogs.com/n/734683/</id>
-        <link href="https://news.cnblogs.com/n/734683/"/>
-        <updated>2023-01-07T07:12:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 7 日消息，市场研究公司 Motor Intelligence 发布的最新报告显示，尽管 2022 年美国整体汽车市场出现萎缩，但电动汽车销量飙升了三分之二。同时，传统汽车制造商推出大量混合动力车型，这帮助缩小了电动汽车巨头特斯拉的领先优势。 Motor Intelligence 的数据显示
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C919为什么要进行100小时验证飞行?]]></title>
-        <id>https://news.cnblogs.com/n/734682/</id>
-        <link href="https://news.cnblogs.com/n/734682/"/>
-        <updated>2023-01-07T07:07:00.000Z</updated>
-        <summary type="html"><![CDATA[首架交付东方航空公司的 C919 国产干线大客机，最近大家看到正不断穿梭在全国 9 省市大机场，进行 100 小时的验证飞行，之后将于今年 3 月投入商业载客运营。 为什么要进行这 100 小时验证飞行呢？是不是国产飞机才这样做呢？ 其实，这是中国民航局按照国际惯例和运行规范而进行的一项必要工作，任
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗永浩回应郑刚“炮轰”：毫无事实基础的恶意揣测]]></title>
-        <id>https://news.cnblogs.com/n/734681/</id>
-        <link href="https://news.cnblogs.com/n/734681/"/>
-        <updated>2023-01-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 7 日消息，今日午间罗永浩发布《对“郑刚炮轰罗永浩”的事实澄清》。 今日凌晨，紫辉创投郑刚在朋友圈发文炮轰罗永浩，称将联合几十位投资人坚决对其发起回购。并细数罗永浩“不地道” ，包括三年了不开股东会、董事会；特别势利眼；不懂得感恩等。 对此，罗永浩在澄清声明中表示，“郑先生批评我三年没开股东
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁集团股东上层结构调整：不再受直接或间接股东单一或共同控制]]></title>
-        <id>https://news.cnblogs.com/n/734680/</id>
-        <link href="https://news.cnblogs.com/n/734680/"/>
-        <updated>2023-01-07T06:52:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 7 日消息，蚂蚁集团发布的一份公告显示，为持续完善公司治理，实现长期可持续发展，蚂蚁集团拟在董事会和股东层面采取一系列升级举措，包括引入第五名独立董事，股东上层结构调整、推动股东投票权与经济利益相匹配等。 公告称，2021 年以来，蚂蚁集团持续提升公司治理水平，目前董事会八名董事中包含四名独
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉降价了，最先慌的是这些竞争对手]]></title>
-        <id>https://news.cnblogs.com/n/734679/</id>
-        <link href="https://news.cnblogs.com/n/734679/"/>
-        <updated>2023-01-07T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 6 日，特斯拉中国通过官方渠道发布了价格调整公告，Model S/X两款车型迎来全新定价，最低起售价 78.99 万，可免费选配 Yoke 方向盘与标准方向盘。除了 Model S/X之外，热门车型 Model 3 和 Model Y 也迎来了 2023 年的首次降价，最低起售价来到 22.
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 2022 年，在记录中感受混乱与秩序之美]]></title>
-        <id>https://sspai.com/post/77642</id>
-        <link href="https://sspai.com/post/77642"/>
-        <updated>2023-01-07T03:32:03.000Z</updated>
-        <summary type="html"><![CDATA[编注： 本文是少数派 2022 年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。
-今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排名与稿酬倍率。如果你喜欢这篇文章或内容对你帮助，请尽量通过充电、收藏或评论等方式表达你的支持与赞赏。
-
-2022 年已经结束，端坐在电脑前做总结的我，比往年多了一分自在，也拥有了更深层的宁静和安定。持续记录的一整年，我切身感受到了写作和输出的好处。更难能可贵的是，我从中感受到了混乱与秩序之美。
-热情中走向混乱
-今年初，由于阅读量的增加，我对写笔记有了更多的要求。我从充满热情出发，逐渐走向难以收拾的混乱。
-闪念和混乱
-机缘巧合，我了解并尝试了 Logseq 这款笔记应用。Logseq 记录笔记的方式更低阻力，与传统的笔记软件相比，更加自由和灵活，不需要提前考虑分类。未曾想过，记录想法到了每天停不下来的地步。
-
-当时也说不清是对 Logseq 的热情，还是真的喜欢记录，每天我都会在笔记里面写下大量的想法和思考。低阻力的记录，让我充分享受了记录的快乐和纯粹。那时候，可以说是我在记录笔记的初期，最单纯最快乐的时光。
-快乐的时光很短暂，在我想要从笔记里面找灵感的时候，我发现笔记已经走向混乱。最初，我还抱着一丝侥幸心理，想着有记录总比没有好，慢慢翻阅和搜索，一定可以找到我想要的内容。过了几天，我终于承认，笔记系统已经失控。
-
-整理和混乱
-由于尝到了低阻力记录的甜头，面对混乱的笔记，我想，要不自己简单整理一下吧。打败混乱，不就是整理吗？简单，说干就干，我开始梳理笔记。我尝试写出更方便查找的分类目录。
-梳理过程的难受，在非常短的时间里，抵消了我低阻力记录的快乐。面对每一页笔记，我都要问问自己，这个应该放在什么分类之下呢？如果适合两个分类，我是要只放在一个分类之下，还是不同分类下都有呢？…]]></summary>
-        <author>
-            <name>Skyline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salesforce宣布大规模裁员，硅谷至暗时刻尚未到来]]></title>
-        <id>https://news.cnblogs.com/n/734678/</id>
-        <link href="https://news.cnblogs.com/n/734678/"/>
-        <updated>2023-01-07T02:34:48.000Z</updated>
-        <summary type="html"><![CDATA[出品 / 新浪科技（ID:techsina） 2022 年，投资者突然开始担心，在大规模衰退的情况下硅谷科技巨头是否还有机会获得蓬勃发展，这导致科技公司大幅下调了公开和非公开估值。目前，噩梦正在变成现实：当地时间周三，软件服务提供商 Salesforce 宣布将裁员 10%，涉及约 7000 个岗位
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究建议减少氮的使用]]></title>
-        <id>https://www.solidot.org/story?sid=73828</id>
-        <link href="https://www.solidot.org/story?sid=73828"/>
-        <updated>2023-01-06T15:09:00.000Z</updated>
-        <summary type="html"><![CDATA[一个国际研究小组在《自然》期刊上发表报告，指出全球面临减少农田氮污染这一巨大挑战。氮肥的大量使用推动上个世纪人口增长四倍，对于到 2050 年养活百亿人口也是至关重要。但这是有巨大代价的。氮肥中逾半数氮渗入空气和水中，导致致命污染、土壤酸化、气候变化、臭氧层耗竭和生物多元化丧失。报告主要作者、浙江大学的谷保静教授称，活性氮对健康、气候和环境具有多重影响，因此必须减少空气和水等介质中的活性氮。谷领导的研究人员分析了逾 1500 份野外观测，确定了 11 项减少氮损失同时仍能提高农作物产量的关键措施。其中一个方法是轮流耕作，在同一块土地上种植各种作物，优化土壤养分流动。因化肥的广泛使用中国和印度是世界上最大的氮污染国。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack 和 CircleCI 先后披露安全事故]]></title>
-        <id>https://www.solidot.org/story?sid=73827</id>
-        <link href="https://www.solidot.org/story?sid=73827"/>
-        <updated>2023-01-06T13:56:46.000Z</updated>
-        <summary type="html"><![CDATA[在 LastPass 披露用户加密库被盗两周之后，消息应用 Slack 和软件测试和交付公司 CircleCI 先后披露了安全事故。Slack 称员工令牌凭证被盗，而 CircleCI 的事故可能更严重，其储存的客户秘密可能暴露，它建议客户轮换储存在其服务上的所有秘密。CircleCI 同时通知客户其 Project API 令牌失效需要更换。CircleCI 的服务被逾百万开发者使用，登录凭证、访问令牌等秘密暴露可能会对整个互联网的安全造成严重影响。CircleCI  建议客户检查下 12 月 21 日到 1 月 4 日期间的内部日志，看看是否有未经授权的访问。这可能意味着黑客在 CircleCI 的系统中可能潜伏了两周时间，如此长的时间足够收集行业最敏感的数据。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
