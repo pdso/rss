@@ -70,6 +70,16 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/78394",
+          "author": "Pirate_Neko",
+          "description": "笔者在使用Spotify的时候，常常感觉到 Spotify 自带歌词服务的羸弱，Spotify 软件提供的歌词覆盖率甚至不能说差强人意，遑论桌面歌词和滚动歌词这样更高级的功能了。市面上提升 Spotify 歌词体验的的产品有不少，比如轻量化的歌词匹配工具 Versefy ，再比如利用客户端自定义工具 Spicetify 配合内置的插件市场来获取第三方歌词，但是今天我要推荐的工具是 Lyricify 。\n什么是 Lyricify ？\nLyricify的开发者是高中生（现在应该大一了）@WXRIW  。在 Github 的页面上 Lyricify 给自己的描述是歌词滚动显示工具，但实际上它能做的不止于此。2023 年 1 月 22 日 Lyricify 正式发布了最新版本也就是 Lyricify 4 ，前面的版本支持包括网易云和 Apple Music 在内的多款音乐软件，但是 Lyricify 4 专注于 Spotify 。附上 Lyricify 的 Github 项目链接：Lyricify 4 。\n后生可畏\n为什么是 Lyricify ？\n在 Lyricify 4 发布的第一时间我就进行了安装，这一个月下来给我的使用体验还是非常不错的，接下来笔者将介绍 Lyricify 给我印象最深的几个特色，或者说我心中 Lyricify 相比于相似工具的核心竞争力。\n设计\n如果说 Lyricify 的 UI 有多么高的原创性和设计性多少有些言过其实，但是平心而论，整个软件的风格非常简洁明了，笔者个人还是非常欣赏这样的界面风格的，没有特别多花哨的特效，视觉体验比较柔和，通俗一点讲就是比较耐看。\nLyricify主界面\nLyricify 最核心的功能就是歌词显示，软件提供桌面歌词，灵动词岛，Spotify 风格，Apple Music 风格，以及移动端UI全屏等选择。软件的使用逻辑是当你在…",
+          "link": "https://sspai.com/post/78394",
+          "publishedOn": "2023-02-19T09:30:38.000Z",
+          "wordCount": 619,
+          "title": "「短评」Lyricify 4 : 不止是歌词",
+          "imageUrl": "https://cdn.sspai.com/2023/02/19/c58103960d5c104e258c5ffc1c7739f9.jpg"
+        },
+        {
           "id": "https://sspai.com/post/78127",
           "author": "Hermanchannn",
           "description": "编注： \n本文是少数派 2022 年度征文活动 的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。\n今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排名与稿酬倍率。如果你喜欢这篇文章或内容对你有帮助，请尽量通过充电、收藏或评论等方式表达你的支持与赞赏。\n\n前言\n作为一个摄影爱好者，我非常享受拍摄带来的记录乐趣。通过趁手的机器拍摄图片，然后发到朋友圈或者小红书上，看看能收获多少赞；或者在 Lightroom 上调整完在家里的电视上观看；又或者选出自己最喜欢的图片印刷输出拿到手里触摸相纸的纹理……都是能够获得成就感的方式。\n在快十年的使用相机生涯里面，我使用了过各种各样的相机和镜头，我曾经也很乐于在二手平台上倒腾各种器材，从胶片相机到数码相机，从单反到无反，从变焦镜头到定焦镜头，不知疲倦地去体验各种各样的器材。这些年我最深刻的感受是，随着技术进步，相机的性能越来越强大先进，镜头的素质也越来越高。但是最近一两年，我却发现我对于相机慢慢地有点「摸」不动了。\n陪了我三个年的 D750，送走时给他拍了照\n一方面，虽然机器性能依旧不断发展，但我却越来越难感知到进步之处。从个人使用习惯和后期出流程来说，我基本感受不到从 4k 到 8k，从4000 万分辨率到 6000 万分辨率的差异。这种感觉让人苦恼且内耗，我慢慢意识到，如果把钱浪费在我并不作为主要受众的相机性能提升上，只会把购买相机从「拔高创作底线」变成无聊的「军备竞赛」，越来越昂贵的产品最终并不能帮我提升多少照片质量，但会让我带出去的时候担惊受怕，害怕这个角有没有磕到，那个漆面有没有露白，少了从容和快乐，多了担惊受怕。\n为什么选择它\n于是，我慢慢琢磨出心目中理想相机的样子：\n\n因为我很喜欢夜晚拍照，所以它的高感要相对不错，至少 6400 感光度的画质要可用。我有一部分拍摄风…",
@@ -593,6 +603,16 @@
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
         {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23233",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nXcode 14.3 Beta Release Notes\n包含 Swift 5.8 以及 iOS/iPad OS 16.4 的 SDK。其中 Swift 5.8 的改动中包含了 SE-0370 等新特性。\nclass ViewController {\n  let button: Button\n\n  func setup() {\n      button.tapHandler = { [weak self] in\n          guard let self else { return }\n          dismiss() // refers to `self.dismiss()`\n      }\n  }\n\n  func dismiss() { ... }\n}\n\n Developer - 设计开发加速器\n探索增强现实\n现在就是开始在 Apple 平台上使用增强现实的最佳时机，加入我们了解如何为数亿台支持 AR 的活跃设备构建 App。通过本次活动，您可以全方位的了解 Apple 提供的 AR 技术栈，包括 ARKit 和 RealityKit 等功能强大的框架，以及 Reality Composer 和 Reality Converter 等创意工具，从而在 AR 中将您的想法变为现实。报名截止 2 月 22 日。\n新手推荐\n🌟 🐕 每天都在用，也没整明白的 React Hook\n@CrazyCoderShi: 日常开发中不少同学也在做前端相关开发，本文小编和大家一起学习一下 React Hooks 的用法，重新认识常用的 useState、useCallback、useCon…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23233",
+          "publishedOn": "2023-02-20T02:48:17.000Z",
+          "wordCount": 615,
+          "title": "老司机 iOS 周报 #233 | 2023-02-20",
+          "imageUrl": "https://opengraph.githubassets.com/eed36645fdb02e36e272b2e4f78eabaefefe0f98281ad6a58dd18a3a22c255bd/SwiftOldDriver/iOS-Weekly/releases/tag/%23233"
+        },
+        {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23232",
           "author": null,
           "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nSwift 5.7 在 iOS 16 以下的系统创建 Task 时可能会发生 Bad access\nSwift 团队在迭代的过程中删去了 Concurrency 相关代码的一个字段，内存布局产生变化，导致 iOS 16 以下的系统在创建 Task 时，部分情况下内存访问会出错，导致崩溃。\n目前已经在主线分支完成修复，按照去年的发布节奏，可能会在三月份发布的 Xcode 里带上这个修复。遇到这个问题的同学如果着急的话，可以先回退到 Xcode 13.x 版本。\n Developer - 设计开发加速器\n在 App 或游戏内创造无障碍体验\n通过 Apple 操作系统内置的辅助功能、辅助功能 API 和开发者工具，开发者们可以为每个用户创建绝佳的无障碍体验。了解如何通过视觉设计和辅助功能技术适配，让你的 App 或游戏对每个人可用。报名截止 2 月 20 日。\n新手推荐\n🐎 如何实现 iOS 16 带来的 Depth Effect 图片效果\n@zoeGuo: iOS 16 系统为我们带来了比较惊艳的桌面锁屏效果：Depth Effect。它可以使用一张普通图片当背景，同时可以在适当的地方遮拦住部分桌面组件，形成一种景深的效果。那么我们可以在自己的 App 实现类似的效果吗？文章介绍了如何使用苹果机器学习官网提供的机器学习模型 DeeplabV3 一步步实现 Depth Effect 效果的。虽然 DeeplabV3 模型在具体应用中还有一定的局限性，但作为尝鲜体验也是非常不错的～\n文章\n🐕 🌟 夸克 iOS Top1 JSC 崩溃攻克之旅\n@Leo：Top Crash 的排查一直是 iOS …",
@@ -625,6 +645,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74185",
+          "author": null,
+          "description": "2005 年推出的 Ruby on Rails（或 Rails）Web 应用框架诞生于互联网发展的黄金时期，它一度被视为将接替 Java 语言，然而今天无处不在的 Web 语言是 JavaScript，它为何失败了？资深 Ruby 开发者 Matthew Boeh 说，Rails 诞生于 Web 转型和发展的关键时期，它同时受益和推动了 Web 的发展。它也可以说是自己成功的受害者。它在 2000 年代初期向从未听过 Lisp 语言的人引荐了 REPL（交互式命令行）驱动开发，向被 Perl 软件包库 CPAN 吓跑的人引荐了包管理器，向非企业开发者引荐了测试驱动的开发，诸如此类。所有这些今天已被视为理所当然。它们并不是 Rails 开创的，但它推广和普及了这些概念。今天的 JavaScript 的生态是早期无法想象的。从 1999 年到 2009 年只发布了一个 JavaScript 新标准，如今的 JavaScript 标准每年发布一个新版本。今天的全栈开发者必须掌握 JavaScript，而 Rails 是在 JavaScript 未流行前夕全栈开发者所需要掌握的东西。JavaScript 有着科技巨头如 Google 的支持，而 Rails 缺乏同等规模的企业赞助商，它在性能上被认为已经落后了。",
+          "link": "https://www.solidot.org/story?sid=74185",
+          "publishedOn": "2023-02-20T15:43:30.000Z",
+          "wordCount": 197,
+          "title": "Ruby 语言为何没有成功",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74184",
+          "author": null,
+          "description": "长时间低着头盯着手机或平板屏幕可能会导致颈椎问题。德克萨斯大学西南医学研究中心脊柱科副主任 Kavita Trivedi 博士称，人类是直立的生物，身体不习惯于长时间低头，这种习惯会给颈椎带来额外压力。她称美国人每天在手机上花大约 5 小时时间，在笔记本或台式机上面花更长时间，此类的习惯会导致人出现肌肉僵硬、关节发炎、神经受压、关节炎，甚至骨刺或椎间盘突出等问题。好消息是大部分颈椎病患者不需要手术。她建议将手机的位置放置到与眼睛平视的高度可以避免颈椎问题。",
+          "link": "https://www.solidot.org/story?sid=74184",
+          "publishedOn": "2023-02-20T11:57:20.000Z",
+          "wordCount": 146,
+          "title": "长时间盯着手机屏幕可能会导致颈椎问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74183",
+          "author": null,
+          "description": "微软最近开始测试的新必应（New Bing）招致了一些人的批评，测试人员发现在长时间互动之后新必应的 AI 变得越来越古怪，甚至还会向人类对话者示爱或建议其离婚。微软的回应是限制了新必应的使用。软件巨人称，长时间的聊天会话可能混淆新必应的基础聊天模式。该公司开始限制测试者与新必应的互动，每次会话只能问五个问题，一天最多只能提出 50 个问题。微软称，只有极少数人每天问 50 个以上的问题。",
+          "link": "https://www.solidot.org/story?sid=74183",
+          "publishedOn": "2023-02-20T11:42:40.000Z",
+          "wordCount": 147,
+          "title": "微软对新必应使用设置上限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74182",
+          "author": null,
+          "description": "抗生素耐药是全球一个日益紧迫的公共卫生威胁。根据发表在《柳叶刀》旗下《eBioMedicine》的一篇论文，加州圣巴巴拉的科学家报告发现了一种不会引起抗药性的广谱抗生素。被称为 COE2-2hexyl 的抗生素表现出广谱抗菌活性，在实验中治愈了感染菌血症临床分离株的小鼠，且没有出现抗药性。COE2-2hexyl 对多种膜相关功能有特定影响，可能因此抵消了细菌细胞活性和耐药性的演化。",
+          "link": "https://www.solidot.org/story?sid=74182",
+          "publishedOn": "2023-02-20T09:05:33.000Z",
+          "wordCount": 144,
+          "title": "科学家发现一种不会引起抗药性的广谱抗生素",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74181",
+          "author": null,
+          "description": "一名人类棋手在围棋比赛中多次击败顶级 AI 系统，在 2016 年 AI 战胜人类围棋高手——此事被视为 AI 崛起里程碑——之后意外为人类翻盘。美国棋手 Kellin Pelrine 的段位比业余段位的最高级低一级。他利用另一台计算机发现的一个先前未知的缺陷击败了 AI。但他在没有计算机直接支持的情况下赢得了 15 场围棋人机对决中的 14 场。加州 AI 研究公司 FAR AI 设计了发现人类棋手可利用弱点的程序。该软件与顶级 AI 系统 KataGo 下了逾一百万局。Pelrine 称利用弱点并不十分困难，他运用了同样的策略打败了另一个顶级围棋 AI 系统 Leela Zero。加州伯克利的计算机科学 Stuart Russell 认为在顶级的围棋 AI 系统中发现弱点，证明这些系统使用的深度学习模型存在根本性缺陷。",
+          "link": "https://www.solidot.org/story?sid=74181",
+          "publishedOn": "2023-02-20T07:37:18.000Z",
+          "wordCount": 180,
+          "title": "业余棋手利用软件弱点击败围棋 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74180",
+          "author": null,
+          "description": "美国国家冰雪数据中心（NSIDC）表示，南极洲的海冰面积降至 191 万平方公里，为1979年有记录以来的最低水平。此前的历史最低纪录是 2022 年创下的。NSIDC 在一份声明中说：“由于融化季节可能还剩几周时间，预计在达到年度最低水平之前，还会进一步下降。”海冰融化对海平面没有明显的影响，因为冰已经在海水中了。但是，海冰环抱着南极洲的巨大冰架，这些冰架是淡水冰川的延伸，如果它们随着全球气温的上升继续融化，将在几个世纪内导致灾难性的海平面上升。NSIDC 表示，大部分南极海岸的水现在没有冰，使冰盖边缘的冰架暴露在波浪作用和变暖的条件下。",
+          "link": "https://www.solidot.org/story?sid=74180",
+          "publishedOn": "2023-02-20T06:26:39.000Z",
+          "wordCount": 148,
+          "title": "南极海冰面积创新低",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74179",
+          "author": null,
+          "description": "根据 Silicon Valley Institute for Regional Studies 的年度报告，硅谷地区前 10% 的住户持有当地三分之二的可投资资产，前 1% 住户的总财富是后 50% 的 48 倍以上——相比下这一数据在全美和全球是 23 倍。该智库的 CEO Russell Hancock 表示，我们生活在一个以市场为基础的资本主义体系中，游戏有规则，而规则是公平的，硅谷有着世界上最成功的赢家。报告估计，硅谷的总家庭财富接近 1.1 万亿美元。硅谷的圣克拉拉和圣马特奥有 16.3 万百万富翁住户——百万富翁的定义是可投资资产超过百万美元，8300 千万富翁住户，还有  22 万住户总资产不足 5000 美元。收入不平等在 2021 年上升了 5%。",
+          "link": "https://www.solidot.org/story?sid=74179",
+          "publishedOn": "2023-02-20T06:02:19.000Z",
+          "wordCount": 174,
+          "title": "硅谷财富严重两级分化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74178",
+          "author": null,
+          "description": "Steam 宣布了局域网游戏转移功能，允许从本地网络中的一台设备向另外一台设备传输和更新游戏文件，无需经过互联网和 Steam 的内容服务器，可以减少网络流量，加快下载和更新。该功能目前提供给 Steam 的 Beta 客户端。其工作原理是：在下载或更新游戏前客户端会检查本地网络上的其它设备是否已经有了所需要的游戏文件。如果有，你的客户端会联系对应设备上的客户端，然后尝试文件传输。",
+          "link": "https://www.solidot.org/story?sid=74178",
+          "publishedOn": "2023-02-20T05:36:09.000Z",
+          "wordCount": 152,
+          "title": "Steam 允许从本地网络中的一台设备向另一台设备传输游戏文件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74177",
+          "author": null,
+          "description": "Facebook 母公司 Meta 推出了付费订阅服务 Meta Verified，以寻找广告之外的其它收入来源。Meta Verified Web 端每月 11.99 美元，iOS 和 Android 端每月 14.99 美元，将首先在澳大利亚和新西兰推出，之后再逐渐推广到美国等地区。Meta CEO 扎克伯格(Mark Zuckerberg)声称，Meta Verified 可以让用户“获得一个蓝色徽章，获得额外的冒充保护，防止别的账户声称是你，并直接获得客户支持”。暂时还难以知道会有多少人愿意每月付费获得认证。",
+          "link": "https://www.solidot.org/story?sid=74177",
+          "publishedOn": "2023-02-20T03:25:24.000Z",
+          "wordCount": 173,
+          "title": "Facebook 推出付费订阅服务 Meta Verified",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74176",
+          "author": null,
+          "description": "Debian 发行版项目正在开发代号为 Bookworm 的新版本，开发者上周五在邮件列表上宣布了软冻结（soft freeze），意味着除了修正不会再添加或移除新的软件包。Debian 发行版大约每两年发布一个大版本，Debian 11 Bullseye 是在 2021 年 8 月发布的，正在开发的 Debian 12 Bookworm 预计在今年晚些时候发布。它的软件包括了 GNOME 43、KDE Plasma 5.26.90、Linux 6.1 LTS kernel、Mesa 22.3、LLVM 15 等等。",
+          "link": "https://www.solidot.org/story?sid=74176",
+          "publishedOn": "2023-02-20T03:07:23.000Z",
+          "wordCount": 180,
+          "title": "Debian 12 Bookworm 进入软冻结",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74175",
           "author": null,
@@ -2654,26 +2774,6 @@
           "wordCount": 146,
           "title": "英国食品监管机构主管警告带蛋糕去办公室是在害同事",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73941",
-          "author": null,
-          "description": "Goolge 从周五开始裁员 1.2 万人，占员工总数的 6%。最早一批受到影响的是美国雇员。根据目前的信息，400 人的 Fuchsia 操作系统开发团队至少有 12% 的人被裁，因为现阶段只有美国雇员收到裁员通知，最终受影响人数可能会更多。Fuchsia OS 是 Google 开发的实验性操作系统，使用名叫 Zircon 的微内核。新操作系统引发过很多猜测，曾被认为将取代 Android 和 Chrome OS，至今为止它主要被用于 Nest Hub 设备。Google 内部研发部门 Area 120 被裁到只剩下三个核心项目，其它项目的所有员工基本上都被解雇。去年九月 Area 120 就经历过一次大规模裁员，此次裁员将 Area 120 的研究重心集中在 AI 优先的项目的上。",
-          "link": "https://www.solidot.org/story?sid=73941",
-          "publishedOn": "2023-01-22T12:30:06.000Z",
-          "wordCount": 185,
-          "title": "Goolge Fuchsia 开发团队裁员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73940",
-          "author": null,
-          "description": "微软最新一波的大规模裁员砍掉了虚拟现实和混合现实项目的整个团队，事实上结束了在元宇宙领域的努力。微软在 2017 年收购了社交虚拟现实平台 AltSpaceVR，现在它砍掉了整个团队，AltSpaceVR 将于 3 月 10 日关闭。微软裁掉了开发混合现实框架 MRTK 的团队，MRTK 目前的重心是混合现实头戴式设备 HoloLens。MRTK 被砍让人对 HoloLens 的未来感到担忧。在首席架构师 Alex Kipman 离职之后，HoloLens 已经缩小了规模。微软一直寻求与军方签订 HoloLens 合同，但因相关问题美国国会调低了合同规模。",
-          "link": "https://www.solidot.org/story?sid=73940",
-          "publishedOn": "2023-01-22T11:34:33.000Z",
-          "wordCount": 164,
-          "title": "微软砍掉了虚拟现实和混合现实团队",
-          "imageUrl": null
         }
       ]
     },
@@ -2682,6 +2782,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/736926/",
+          "author": null,
+          "description": "Bleeping Computer 网站披露， 3 月 20 日开始，不再支持普通用户基于短信的双因素身份验证（2FA）方式，只有购买 Twitter Blue 服务的订阅用户才能继续使用。 从 Twitter 发布的安全报告来看，2021 年 7 月至 2021 年 12 月，只有 2.6% 的用\n本文链接",
+          "link": "https://news.cnblogs.com/n/736926/",
+          "publishedOn": "2023-02-20T16:08:00.000Z",
+          "wordCount": 163,
+          "title": "只有付费才可使用？马斯克取消普通用户短信2FA保护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736925/",
+          "author": null,
+          "description": "据 BleepingCompuer 2 月 17 日消息，欧洲刑警组织日前捣毁了一个在法国及以色列活动的网络诈骗集团，该集团冒充企业 CEO，利用商业电子邮件泄露（BEC）攻击，从受害企业组织中获利。 此次行动由欧洲刑警组织、法国、克罗地亚、匈牙利、葡萄牙和西班牙警察部队联合执行，期间共进行了 8 \n本文链接",
+          "link": "https://news.cnblogs.com/n/736925/",
+          "publishedOn": "2023-02-20T15:58:00.000Z",
+          "wordCount": 163,
+          "title": "做财务的要当心，让转账的可能并不是你老板",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736924/",
+          "author": null,
+          "description": "网络托管巨头 GoDaddy 近日表示，在长期的攻击中，不明来源的攻击者在攻破其 cPanel 共享托管环境后，在其服务器上盗取了源代码并安装了恶意软件。 虽然 GoDaddy 在 2022 年 12 月初发现被随机跳转到其他域名的安全漏洞，但攻击者多年来一直可以进入该公司的网络。 根据我们的调查，\n本文链接",
+          "link": "https://news.cnblogs.com/n/736924/",
+          "publishedOn": "2023-02-20T15:52:00.000Z",
+          "wordCount": 163,
+          "title": "GoDaddy 源代码失窃，服务器被安装恶意程序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736923/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 好困 注意看，这是一篇「神预言」——谷歌、Meta 等大厂，发展 AI 时一向谨慎，但现在，OpenAI 这种小公司的飞速发展，逼得大厂们是不得不改换思路了。 这篇 1 月 27 日的分析文章， 发出之后不到一周，谷歌和微软就相继官宣，要把 AI 聊天机器人整合进搜索\n本文链接",
+          "link": "https://news.cnblogs.com/n/736923/",
+          "publishedOn": "2023-02-20T15:48:00.000Z",
+          "wordCount": 163,
+          "title": "大佬跳槽，微软谷歌大战！近一个月前的文章竟是篇「神预言」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736922/",
+          "author": null,
+          "description": "新智元报道 编辑：好困昕朋 时隔 7 年，人类围棋选手首次「大胜」顶尖 AI 棋手！是什么策略，让李世石都甘拜下风的人工智能铩羽而归呢？ 2016 年，是人工智能的崛起之年。 自从 AlphaGo 完胜围棋世界冠军李世石之后，代表围棋顶尖水平的玩家再也不是人类。 然而，今天金融时报的一篇文章让围棋重\n本文链接",
+          "link": "https://news.cnblogs.com/n/736922/",
+          "publishedOn": "2023-02-20T15:40:00.000Z",
+          "wordCount": 163,
+          "title": "人类竟能再度击败顶级围棋AI？一招逆风翻盘，这个业余四段棋手完胜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736921/",
+          "author": null,
+          "description": "“低价是京东过去成功最重要的武器，以后也是唯一基础性武器。”2022 年底，刘强东重申“低价”的重要性，这在一定程度上可以视为他“回归”台前最强有力的信号。 十年前，2012 年 8 月 16 日，刘强东在微博喊话：“没有耐心陪着苏宁 10 元 10 元的降价了，今日上午直接发放满 2000 减 3\n本文链接",
+          "link": "https://news.cnblogs.com/n/736921/",
+          "publishedOn": "2023-02-20T15:30:00.000Z",
+          "wordCount": 163,
+          "title": "刘强东的一句狠话 京东砸出“百亿补贴”：2023，低过拼多多？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736920/",
+          "author": null,
+          "description": "作者丨邱晓芬、周鑫雨 编辑丨苏建勋 2 月 16 日，36 氪独家报道了腾讯 XR（拓展现实）部门大撤退，但这不代表着腾讯完全放弃对 XR 计划的探索。 有多位行业人士告诉 36 氪，腾讯 XR 这一部门仅留存了少量员工，未来将推进引入 Meta 旗下的 Qculus Quest 2（VR 设备）。\n本文链接",
+          "link": "https://news.cnblogs.com/n/736920/",
+          "publishedOn": "2023-02-20T15:22:00.000Z",
+          "wordCount": 163,
+          "title": "腾讯XR战场换打法，计划引进Meta Quest 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736919/",
+          "author": null,
+          "description": "新智元报道 编辑：好困 Aeneas AI 在我们的生活中，越来越不可或缺。显然，谁能更好地掌握提示工程，就能比别人多掌握一个强大的利器。 ChatGPT 的爆火，也让提示工程师的薪水水涨船高。 现在，已经有人拿到 25 万到 33 万美元的年薪了。 21 世纪的重要技能：提示工程 以迅雷不及掩耳之\n本文链接",
+          "link": "https://news.cnblogs.com/n/736919/",
+          "publishedOn": "2023-02-20T15:10:00.000Z",
+          "wordCount": 163,
+          "title": "跟AI唠嗑，年入33万美元！prompt成核心竞争力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736918/",
+          "author": null,
+          "description": "豪赌一场 AI 弯道超车赛。 作者刘景丰 编辑栗子 ChatGPT 爆火之后，看 AI 的猎头已经忙疯了。 2 月 14 日，当「甲子光年」试图联系一位长期关注 AI 领域的猎头时，她一整个下午都排满了面试：“最早也得晚上 6 点后。” 另一位关注互联网及医疗健康的猎头也提到，她今年已接到 40 多\n本文链接",
+          "link": "https://news.cnblogs.com/n/736918/",
+          "publishedOn": "2023-02-20T15:08:00.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT引发AI人才战 大厂点名“就要OpenAI的华人，薪资不设限”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736916/",
+          "author": null,
+          "description": "来源：远川研究所 新加坡电商巨头虾皮（Shopee），一度成为中国互联网人的幸福终点站。 2020 年，虾皮大举扩张，把“抢人”两个字写在了脸上，开出的条件让打工人热泪盈眶：不仅可以摆脱 996 的宿命，还保证待遇不打折，甚至传出了校招生每月涨薪 5000 元的职场神话。 前一年还是鹅厂拥趸的同学们\n本文链接",
+          "link": "https://news.cnblogs.com/n/736916/",
+          "publishedOn": "2023-02-20T14:59:00.000Z",
+          "wordCount": 163,
+          "title": "东南亚塞不下小腾讯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736917/",
+          "author": null,
+          "description": "2022 年 2 月，第一辆 FF 91 准量产车打造完成。图/法拉第未来 当“蔚小理”等造车新势力时不时出现在街头巷尾，并拥有属于自己的粉丝圈时，回望 2014 年，人们不知还能否记起贾跃亭站在镁光灯下描述自己造车梦的模样。 如今，这个梦或许就要成真。贾跃亭宣布法拉第未来最新车型已抵达上海进行测试\n本文链接",
+          "link": "https://news.cnblogs.com/n/736917/",
+          "publishedOn": "2023-02-20T14:57:00.000Z",
+          "wordCount": 163,
+          "title": "贾跃亭迟到九年的造车梦：又一次倒计时2个月",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736914/",
+          "author": null,
+          "description": "一万人之后，这家公司依然保持着灵活与极端。 文丨张钦 编辑丨管艺雯、黄俊杰 人们习惯以一个公司成名后的样子，去推断它会以怎样的姿态进入新的世界。半年前，《晚点 LatePost》发布拼多多即将出海的报道后，收到的数十条读者评论里，出现频率最高的词是 “砍一刀在美国行不通” 和 “另一个 Wish”。\n本文链接",
+          "link": "https://news.cnblogs.com/n/736914/",
+          "publishedOn": "2023-02-20T14:51:00.000Z",
+          "wordCount": 163,
+          "title": "TEMU上线170天：拼多多依然是一家创业公司",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736912/",
+          "author": null,
+          "description": "《香港经济日报》2 月 20 日消息，美团正式进军香港市场，据招聘数据显示，美团已在多个渠道投放招聘广告，正式开启送递员招募。据消息人士透露，相信美团会于数月内正式推出外卖服务。 据官方招聘文件显示，美团同时招募摩托车车手、单车骑手及“步兵”三种送递员。送递员收入由配送服务费、活动奖励及组别额外服务\n本文链接",
+          "link": "https://news.cnblogs.com/n/736912/",
+          "publishedOn": "2023-02-20T14:42:00.000Z",
+          "wordCount": 163,
+          "title": "美团在香港启动骑手招聘，据悉拟于数月内正式推出外卖服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736911/",
+          "author": null,
+          "description": "Tech 星球 2 月 20 日消息，抖音发现部分直播中存在代打电话行为，涉及展示他人电话号码、通话内容等侵犯隐私内容，干扰了他人正常生活，对直播生态健康造成了破坏。抖音直播已通过警告、停播等手段对此类行为进行整治，截至目前，抖音共计处罚违规直播间 5469 场，对违规情形严重的 585 个主播实行\n本文链接",
+          "link": "https://news.cnblogs.com/n/736911/",
+          "publishedOn": "2023-02-20T14:38:00.000Z",
+          "wordCount": 163,
+          "title": "抖音治理直播间代打电话行为：共计处罚违规直播间5469场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736910/",
+          "author": null,
+          "description": "本月初，有媒体报道，广东一名用户因限制投屏将爱奇艺告上法庭，北京市互联网法院已于近日立案。该用户是爱奇艺平台的 7 年“老粉”。此前，使用投屏可以选择任意清晰度，而 2023 年 1 月 11 日他发现爱奇艺将黄金 VIP 会员投屏清晰度限制在 480P，如需更高清晰度则必须升级至更高级别会员。 今\n本文链接",
+          "link": "https://news.cnblogs.com/n/736910/",
+          "publishedOn": "2023-02-20T14:32:00.000Z",
+          "wordCount": 163,
+          "title": "爱奇艺“限制投屏”后续：恢复高清投屏和5台设备登录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736909/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 你有没有感觉期刊的审稿速度越来越慢了？同行评审制度有何缺陷？未来的评审制度又该如何变化？ 2022 年 11 月，健康经济学家 Chris Sampson 遇到了一个难题。 作为《卫生服务前沿》（Frontiers in Health Services）期刊的副主编，他手里\n本文链接",
+          "link": "https://news.cnblogs.com/n/736909/",
+          "publishedOn": "2023-02-20T14:26:00.000Z",
+          "wordCount": 163,
+          "title": "不能再白嫖评审意见了！Nature：审稿效率太低，同行评审制度急需改革",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736908/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 在浮躁的机器学习领域，仍然有人致力于研究基础算法。 由 Jeff Dean 领衔的 Google Research 年终总结系列「Google Research, 2022 & beyond」第五期，本期的主题是算法上的进步（algorithmic advances），撰写\n本文链接",
+          "link": "https://news.cnblogs.com/n/736908/",
+          "publishedOn": "2023-02-20T14:17:00.000Z",
+          "wordCount": 163,
+          "title": "基础算法才是王道！谷歌2022年终总结第五弹：真正的「算法工程师」都在研究啥？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736906/",
+          "author": null,
+          "description": "财联社 2 月 20 日电，记者从复旦大学自然语言处理实验室获悉，国内第一个对话式大型语言模型 MOSS 已由邱锡鹏教授团队发布至公开平台（https://moss.fastnlp.top/），邀公众参与内测。 MOSS 可执行对话生成、编程、事实问答等一系列任务，打通了让生成式语言模型理解人类意图\n本文链接",
+          "link": "https://news.cnblogs.com/n/736906/",
+          "publishedOn": "2023-02-20T14:05:13.000Z",
+          "wordCount": 163,
+          "title": "复旦邱锡鹏团队发布国内首个类ChatGPT模型MOSS 邀公众参与内测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736907/",
+          "author": null,
+          "description": "文｜彭倩、董洁 编辑｜乔芊、杨轩 36 氪独家获悉，近日，阿里巴巴生活服务板块下饿了么到店业务（原“口碑”）将与高德合并，原到店业务负责人张亮将由向阿里本地生活服务公司 CEO 俞永福汇报，改为向高德 CEO 刘振飞汇报。 自 2008 年收购口碑以来，阿里巴巴到店业务经历了口碑与淘宝融合、口碑融资\n本文链接",
+          "link": "https://news.cnblogs.com/n/736907/",
+          "publishedOn": "2023-02-20T14:00:00.000Z",
+          "wordCount": 163,
+          "title": "Long China 50 独家丨饿了么到店业务将与高德合并",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/736905/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 斯坦福校长涉嫌「学术造假」的悬案，依然疑点重重，《斯坦福日报》发万字长文狂黑校长，当事人怒发全校邮件自证清白。 一桩 14 年的悬案，至今仍然疑云重重。 故事的主人公 Marc Tessier-Lavigne，如今斯坦福大学的校长，被自家日报「The Stanford Da\n本文链接",
+          "link": "https://news.cnblogs.com/n/736905/",
+          "publishedOn": "2023-02-20T09:05:00.000Z",
+          "wordCount": 163,
+          "title": "斯坦福校长学术不端指控再升级！校报万字长文质疑造假，校长怒发全校邮件自证清白",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/736841/",
           "author": null,
@@ -6971,126 +7271,6 @@
           "wordCount": 163,
           "title": "西部数据与铠侠合并谈判据悉取得进展，拟在美日双重上市",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735469/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 关于 ChatGPT 的种种传闻和争议，正主亲自来回应了。 最近，借着 ChatGPT 的火爆，OpenAI 身价大涨，估值一度达到 290 亿美元。 在 2019 年就给 OpenAI 投了 10 亿美‍元的「金主爸爸」微软， 没错，OpenAI 现在可是微软手中的「香饽\n本文链接",
-          "link": "https://news.cnblogs.com/n/735469/",
-          "publishedOn": "2023-01-22T03:30:00.000Z",
-          "wordCount": 163,
-          "title": "GPT-4参数过100万亿？OpenAI CEO辟谣：知道你急，但你先别急！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735468/",
-          "author": null,
-          "description": "近日，初创公司 ZeroAvia 完成了一次部分由氢燃料电池驱动的试飞，标志着低碳航空的可行性。ZeroAvia 是开发飞机氢电系统的领导者，在英国和美国均设有办公室，此次任务由一架 19 座飞机完成，是该公司迄今为止在空中测试的最大的飞机。 这架飞机从英国科茨沃尔德机场起飞，总飞行时长约 10 分\n本文链接",
-          "link": "https://news.cnblogs.com/n/735468/",
-          "publishedOn": "2023-01-22T03:20:00.000Z",
-          "wordCount": 163,
-          "title": "比尔·盖茨所投氢动力飞机商成功试飞10分钟，迈出低碳航空商业化重要一步",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735467/",
-          "author": null,
-          "description": "IT 之家 1 月 22 日消息，微软于 1 月 19 日宣布，2023 财年第 3 财季将裁员 1 万人。最新消息指出微软解雇了 AltSpaceVR 和 Mixed Reality Tool Kit（MRTK）整个开发团队。 IT 之家小课堂：AltSpaceVR 于 2017 年被微软收购。A\n本文链接",
-          "link": "https://news.cnblogs.com/n/735467/",
-          "publishedOn": "2023-01-22T03:12:00.000Z",
-          "wordCount": 163,
-          "title": "微软裁掉整个AltSpaceVR 和 MRTK开发团队",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735466/",
-          "author": null,
-          "description": "据央视新闻消息，今年是中国传统的兔年，在国人的心目中，最著名的一只兔子一定是那只来自中国古代神话故事的“玉兔”。 玉兔寓意着美好。中国航天就有这样一只“玉兔”，同样居住在月亮上，它就是我国探月工程中的“玉兔二号”月球车。兔年新春之际，它从 38 万公里之外的月球发回了最新的摄影作品，送来了一份新春祝\n本文链接",
-          "link": "https://news.cnblogs.com/n/735466/",
-          "publishedOn": "2023-01-22T03:07:00.000Z",
-          "wordCount": 163,
-          "title": "兔年送祝福 玉兔二号照片上新了！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735465/",
-          "author": null,
-          "description": "1 月 22 日消息，作为免费的在线 AI 聊天工具，ChatGPT 和 Dall-E 2 等 AIGC（生成式人工智能）正迅速走红，任何人都可以用它们来生成文本或艺术图像。现在，微软正在 AI 领域押下重注，这可能有助于 ChatGPT 等聊天机器人更快普及。 多年来，微软始终在 AI 竞赛中追赶\n本文链接",
-          "link": "https://news.cnblogs.com/n/735465/",
-          "publishedOn": "2023-01-22T03:00:00.000Z",
-          "wordCount": 163,
-          "title": "微软豪赌AI，能让ChatGPT等AIGC工具普及给大众？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735464/",
-          "author": null,
-          "description": "埃隆·马斯克 1 月 22 日发布推文表示，针对推特用户的付费无广告模式很快就会推出，但订阅价格更高。马斯克称，推特上的广告太频繁、规模太大，将在未来几周采取措施解决这两个问题。\n本文链接",
-          "link": "https://news.cnblogs.com/n/735464/",
-          "publishedOn": "2023-01-22T02:52:00.000Z",
-          "wordCount": 163,
-          "title": "马斯克：推特将推出高价零广告订阅模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735463/",
-          "author": null,
-          "description": "经过漫长的竞标后，玻利维亚政府最终选择了一个由中国动力电池龙头宁德时代牵头的企业联合体，以帮助开发这个南美国家储藏量巨大但尚未利用的锂矿。 据路透社 2023 年 1 月 20 日报道，在玻利维亚首都拉巴斯的一次活动中，玻利维亚总统路易斯. 阿尔塞（Luis Arce）宣布了这项合作，该企业联合体将\n本文链接",
-          "link": "https://news.cnblogs.com/n/735463/",
-          "publishedOn": "2023-01-22T02:47:00.000Z",
-          "wordCount": 163,
-          "title": "宁德时代将牵头玻利维亚锂矿开采项目，一期投资超10亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735462/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 看来，微软今年决定重仓 AI 了。为给 OpenAI 投 100 亿美元，微软不得不开「猿」节流？ 去年 11 月开始，我们见证了硅谷大厂的一次次「血腥屠杀」。； 谁能想到，这还只是前奏。硅谷的泡沫一戳破，就没有要停下来的意思。 2023 一开年，微软和亚马逊都宣布了新一轮\n本文链接",
-          "link": "https://news.cnblogs.com/n/735462/",
-          "publishedOn": "2023-01-22T02:40:00.000Z",
-          "wordCount": 163,
-          "title": "两年裁员30万！硅谷寒冬大屠杀，苹果却能挺进决赛圈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735461/",
-          "author": null,
-          "description": "新智元报道 编辑：Joey 1 月 18 日，哥大在官网宣布曾担任伦敦经济学院院长的经济学家内马特·沙菲克（Nemat Shafik）将成为新任校长，她将于 2023 年 7 月 1 日上任。 哥伦比亚大学的新校长将是曾担任伦敦经济学院院长的经济学家内马特·沙菲克（Nemat Shafik）。 昨天\n本文链接",
-          "link": "https://news.cnblogs.com/n/735461/",
-          "publishedOn": "2023-01-22T02:30:00.000Z",
-          "wordCount": 163,
-          "title": "哥大迎来建校268年首位女校长，刚聘任前国务卿希拉里当教授",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735460/",
-          "author": null,
-          "description": "Pine 发自凹非寺 量子位公众号 QbitAI 真正零门槛！小白都能轻松看懂的 Transformer 教程来了。 在自然语言处理和计算机视觉领域，Transformer 先后替代了 RNN、CNN 的地位成为首选模型，最近爆火的 ChatGPT 也都是基于这个模型。 换言之，想进入机器学习的领域\n本文链接",
-          "link": "https://news.cnblogs.com/n/735460/",
-          "publishedOn": "2023-01-22T02:20:00.000Z",
-          "wordCount": 163,
-          "title": "学完这个教程，小白也能构建Transformer，DeepMind科学家推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735459/",
-          "author": null,
-          "description": "丰色 Pine 发自凹非寺 量子位公众号 QbitAI 各位炼丹 er 们，调参是你们最头疼的环节吗？ 现在，一份上线不到一天就狂揽 1200+ 星的《深度学习调优手册》来了。 △数字还在飞速上涨，估计马上就要登热榜了 这可能是市面上首个如此全面的炼丹宝典，由5 位谷歌工程师大佬合作总结。 这些大佬\n本文链接",
-          "link": "https://news.cnblogs.com/n/735459/",
-          "publishedOn": "2023-01-22T02:10:00.000Z",
-          "wordCount": 163,
-          "title": "谷歌推出深度学习调优手册，不到一天狂揽1200星，Hinton转发",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735458/",
-          "author": null,
-          "description": "据 36 氪消息，Danilo Teobaldi 离任蔚来整车工程副总裁，转任欧洲整车总工程师。 蔚来执行副总裁及产品委员会主席周欣，将全面接管蔚来整车工程业务。 Danilo Teobaldi，意大利都灵人，2015 年从观致加入蔚来，2019 年升任整车工程副总裁，此后三年一直负责动态性能、安全\n本文链接",
-          "link": "https://news.cnblogs.com/n/735458/",
-          "publishedOn": "2023-01-22T02:00:00.000Z",
-          "wordCount": 163,
-          "title": "蔚来元老周欣接管整车工程",
-          "imageUrl": null
         }
       ]
     },
@@ -7099,6 +7279,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23233",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nXcode 14.3 Beta Release Notes\n包含 Swift 5.8 以及 iOS/iPad OS 16.4 的 SDK。其中 Swift 5.8 的改动中包含了 SE-0370 等新特性。\nclass ViewController {\n  let button: Button\n\n  func setup() {\n      button.tapHandler = { [weak self] in\n          guard let self else { return }\n          dismiss() // refers to `self.dismiss()`\n      }\n  }\n\n  func dismiss() { ... }\n}\n\n Developer - 设计开发加速器\n探索增强现实\n现在就是开始在 Apple 平台上使用增强现实的最佳时机，加入我们了解如何为数亿台支持 AR 的活跃设备构建 App。通过本次活动，您可以全方位的了解 Apple 提供的 AR 技术栈，包括 ARKit 和 RealityKit 等功能强大的框架，以及 Reality Composer 和 Reality Converter 等创意工具，从而在 AR 中将您的想法变为现实。报名截止 2 月 22 日。\n新手推荐\n🌟 🐕 每天都在用，也没整明白的 React Hook\n@CrazyCoderShi: 日常开发中不少同学也在做前端相关开发，本文小编和大家一起学习一下 React Hooks 的用法，重新认识常用的 useState、useCallback、useCon…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23233",
+          "publishedOn": "2023-02-20T02:48:17.000Z",
+          "wordCount": 615,
+          "title": "老司机 iOS 周报 #233 | 2023-02-20",
+          "imageUrl": "https://opengraph.githubassets.com/eed36645fdb02e36e272b2e4f78eabaefefe0f98281ad6a58dd18a3a22c255bd/SwiftOldDriver/iOS-Weekly/releases/tag/%23233"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23232",
           "author": null,
