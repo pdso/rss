@@ -673,6 +673,16 @@
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
         {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23235",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nT 沙龙新官网（www.tsalon.tech）上线啦，欢迎大家关注！\n@EyreFree: T沙龙，全称为 T 技术沙龙，是一个以促进开发者之间技术交流为目的的技术沙龙组织，成立后一直在定期举办各种面向开发者的线上 & 线下沙龙活动。从 2016 年 3 月份开始，在北京、上海、成都、杭州和深圳等地相继举办了 30 多场线下沙龙活动，同时也举办了多场线上活动。本次 T 沙龙官网更新，感兴趣的朋友可以关注，获取第一手活动资讯，🎉\n文章\n🌟 🐕 淘宝 APP 网络架构演进与弱网破障实践\n@JonyFang: 本文主要介绍手淘终端统一网络库 AWCN (Ali Wireless Connection Network) 演进的过程。讲述如何围绕体验持续构建南北向从监测到加速一体化的终端网络架构，通过构建 NPM 弱网诊断感知能力，落地原生多通道技术/多协议择优调度手段，贴合厂商附能网络请求加速，实现去 SPDY 及规模化 IPv6/H3 协议簇的平滑过渡，为用户提供弱网更好、好网更优的 APP 加载浏览体验，支撑业务创造更多的可能性。\n文中针对网络库设计的理念及方案演进介绍的比较全，思路可做参考学习。\n🐕 QQ音乐高可用架构体系\n@莲叔: 这是一篇服务端视角的高可用架构的介绍文章。如何处理故障是几乎所有分布式系统的最关键的一环。文章分享了 QQ 音乐在面向故障处理的思考以及演进出的一套行之有效的技术体系，从架构、工具链和可观测性三个角度来实现了优雅的处理故障的能力。虽然是服务端视角偏多，但整体行文比较浅显易懂，相信客户端同学也能够有所收获，尤其是在当下很多技术都是端到端的，所以具备一定的服务…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23235",
+          "publishedOn": "2023-03-06T04:01:04.000Z",
+          "wordCount": 531,
+          "title": "老司机 iOS 周报 #235 | 2023-03-06",
+          "imageUrl": "https://opengraph.githubassets.com/b46bc5d4364f86e2e3b719df3085f92946ed55ae1c7bc3cfb1f6102d609b0ddb/SwiftOldDriver/iOS-Weekly/releases/tag/%23235"
+        },
+        {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23234",
           "author": null,
           "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n Developer - 设计开发加速器\n设计挑战（亚太） 演讲：探索卓越的导航流程设计\n与 Apple 设计布道师一起学习重要设计原理的实践方式，并在两项设计挑战当中展示您的设计技能。探索如何运用优秀的导航设计模式来创建更符合直觉的 App，并注册一对一咨询来和 Apple 设计布道师讨论您的设计概念与想法。\n在挑战活动的最后，您还有机会和其他参与挑战的开发者进行交流，并与 Apple 设计布道师一起分享各自的想法、设计案例和洞见。\n文章\n🌟 🐕 云音乐 iOS 跨端缓存库 - NEMichelinCache\n@JonyFang: 跨端缓存方案类似操作系统缓存模式中的回写模式，在缓存库方案设计过程中需要着重解决回写的缺点，如保证内存缓存、引擎、磁盘缓存数据一致性。基于目标做对应的方案设计，侧重如下几点：\n业务接口层。减少接入的难度，还需使接口可控，不让业务方随意访问磁盘等；\n责任链模块。为后续日志模块、错误模块设计做准备；\n责任链 Runner。支持优先级队列能力、支持优先级高的链插队；\n解压 / 合并模块。可自定义配置解压缩库能力，同时减少对三方库依赖（可替换）；\n数据库升级；\n多版本并存；\n本地 Bundle 缓存清理机制；\n新缓存框架设计整体的切入点和侧重关注点可供参考，也期待网易云后续放出 NEMichelinCache 对应的开源。\n🐕 Safely pinning SPM dependencies to exact versions\n@kemchenj：使用 Cocoapods 集成依赖时，我们通常会将 Podfile.lock 也加入到 Git 的文件追踪列表里，保证在每次运…",
@@ -725,6 +735,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74314",
+          "author": null,
+          "description": "过去两百年的大部分时间里，如果你问一位天文学家太阳系内地球之外最有可能找到生命的地方，那么答案是火星。但现在人们的想法变了。天文学家过去几十年日益被木星和土星的冰冻卫星所吸引，这些卫星的表层下有液态海洋。地球上的水是支持生命的先决条件，那么冰冻卫星是否也可能存在生命？欧洲航天局（ESA）将在 4 月发射一艘探测器去寻找答案。Jupiter Icy Moons Explorer (Juice) 探测器已经送到了法属圭亚那库鲁的太空港进行最后的测试，它将使用 ESA 的阿丽亚娜5 火箭进行发射。木星的卫星 Europa、Io、Ganymede 和 Callisto，以及土星的卫星 Enceladus 和 Titan 被认为都可能存在液态海洋，相比之下火星即使有水也是非常少的。",
+          "link": "https://www.solidot.org/story?sid=74314",
+          "publishedOn": "2023-03-06T15:01:26.000Z",
+          "wordCount": 158,
+          "title": "探测木星卫星是否支持生命的探测器即将发射",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74313",
+          "author": null,
+          "description": "1986 年乌克兰切尔诺贝利核电站发生灾难性的核事故后，当地居民被迫永久撤离，留下了他们的家，部分情况下还有宠物。由于担心被遗弃的动物可能会传播疾病或污染人类，官员试图将其灭绝。但有部分犬活了下来。它们还与清理切尔诺贝利核电站的工作人员建立了关系，他们偶尔会提供食物。有冒险精神的游客也会施舍食物。今天有数百只流浪犬生活在被称为禁区的事故区域附近，它们在废弃的 Pripyat 城流浪，睡在高度污染的 Semikhody 火车站。科学家分析了 302 只犬的 DNA，它们代表了生活在禁区、距离现场数十公里的不同狗群。结果显示，生活在切尔诺贝利的犬的基因有显著差异。但现在下结论说辐射环境促成了这一切还为时过早，还需要进一步的研究。研究报告发表在《Science Advances》期刊上。",
+          "link": "https://www.solidot.org/story?sid=74313",
+          "publishedOn": "2023-03-06T14:32:19.000Z",
+          "wordCount": 150,
+          "title": "科学家调查切尔诺贝利核辐射对流浪犬的影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74312",
+          "author": null,
+          "description": "LastPass 的严重安全事故本可可以避免。攻击者利用了该公司一高级工程师家用电脑上安装的 Plex 软件的一个已知漏洞，而该漏洞早在 2020 年 5 月 7 日就修复了，但不知道出于什么原因，这位工程师从未更新软件打上补丁。该漏洞允许能访问服务器管理员 Plex 账号的人通过 Camera Upload 功能上传恶意文件，利用服务器数据目录位置与 Camera Upload 允许上传的库重叠，让 Plex 媒体服务器执行该恶意文件。Plex Media Server v1.19.3 修复了该漏洞，而到攻击者利用漏洞入侵工程师的电脑时 Plex 都发布了 75 个版本。",
+          "link": "https://www.solidot.org/story?sid=74312",
+          "publishedOn": "2023-03-06T13:43:04.000Z",
+          "wordCount": 172,
+          "title": "LastPass 工程师被利用的软件漏洞有近三年历史",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74311",
+          "author": null,
+          "description": "得州拟议中的一项法律将强迫 ISP 屏蔽包含如何获得堕胎或堕胎药等相关信息的网站。该法案由该州共和党众议员 Steve Toth 提出。得州已经制定了多项严格限制堕胎的法律，但最新法案因试图控制 ISP 如何提供 Web 访问而引人注目。该法案列出了六个必须被屏蔽的网站：aidaccess.org、heyjane.co、plancpills.org、mychoix.co、justthepill.com 和 carafem.org。法案还表示任何知道网站含有被禁止的堕胎信息的人都可以向 ISP 举报。它还试图将法律的适用范围扩大到得州之外，称堕胎药物如果是来自得州之外，那么销售者或提供者将会面临民事责任。",
+          "link": "https://www.solidot.org/story?sid=74311",
+          "publishedOn": "2023-03-06T09:58:04.000Z",
+          "wordCount": 162,
+          "title": "得州法案想要 ISP 屏蔽堕胎网站",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74310",
+          "author": null,
+          "description": "币安高管之间的私人聊天记录披露了该公司如何躲避美国监管的计划。币安是目前世界最大的加密货币交易平台。一位币安高管在聊天中警告同事，美国监管机构的任何诉讼对币安的业务及其管理人员都相当于一场“核辐射”。它因此制定了躲避美国监管的方案，其核心是建立了一个服务于美国市场的平台 Binance.US，该平台授权使用了币安的品牌和技术，但其它方面被认为独立于币安，以避免美国当局对规模更大的币安的监管，而币安则将美国用户排除在外。然而内部通信和文件显示，币安和 Binance.US 之间的关系非常密切，员工和财务基本混在一起，共享一个交易加密货币的实体。币安在中国的开发者维护了 Binance.US 用户钱包使用的代码。至少在 2021 年夏天前上海开发者维护了 Binance.US 的关键软件功能，而上海开发商的合同是与币安而不是 Binance.US 签署的。如果美国监管机构认定币安控制了一家美国公司，那么它有可能声称对币安的整个业务拥有监管权。币安创始人赵长鹏及其财务状况可能将面临更严格的审查。",
+          "link": "https://www.solidot.org/story?sid=74310",
+          "publishedOn": "2023-03-06T09:39:42.000Z",
+          "wordCount": 152,
+          "title": "币安躲避美国监管的计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74309",
+          "author": null,
+          "description": "Linus Torvalds 释出了 Linux Kernel 6.3-rc1，关闭了合并窗口。主要新特性包括：改进了 EXT4 文件系统 direct I/O 速度，AMD-Xilinx XDMA 驱动，通过 Automatic IBRS 优化 AMD Zen4 性能，8BitDo Pro 2 有线手柄支持，Intel TPMI 驱动，英特尔 TDX、CXL 和 LKGS 指令支持，Ath12k 无线驱动，IPv4 BIG TCP 支持，Btrfs 性能优化，移除 Intel ICC 编译器支持，等等。Linux 6.3 正式版预计会在 4 月底或 5 月初发布。",
+          "link": "https://www.solidot.org/story?sid=74309",
+          "publishedOn": "2023-03-06T08:01:14.000Z",
+          "wordCount": 195,
+          "title": "Linux Kernel 6.3-rc1 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74308",
+          "author": null,
+          "description": "记者 Richard Lewis 援引匿名消息来源报道，Valve 正在开发中的《反恐精英 2（CS2）》可能会在本月进入 beta 测试。此前英伟达的最新驱动被发现包含了两个可执行文件：csgos2.exe 和 cs2.exe。《反恐精英 2》是暂定的名字，将使用 Source 2 引擎，它目前是 Valve 的工作重心，这可以部分解释为什么 CSGO（反恐精英全球攻势）中的部分问题无人处理。消息来源称新作的服务器将使用 128 tick（服务器每秒接收并运算的次数，128 tick 代表每秒 128 次），与 Riot Games 开发的竞品《Valorant》相同。游戏还将改进配对系统，让玩家获得与其竞技水平更一致的体验。",
+          "link": "https://www.solidot.org/story?sid=74308",
+          "publishedOn": "2023-03-06T06:57:10.000Z",
+          "wordCount": 174,
+          "title": "Valve 在开发《反恐精英 2》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74307",
+          "author": null,
+          "description": "2003 年 3 月 7 日，苦苦挣扎的 SCO Group 公司对 IBM 提起诉讼，声称 Linux 的成功是窃取其技术的结果。20 年后回顾这起诉讼，很容易将其视为 Linux 发展过程中的一个好笑的插曲。但在当时，它震撼了整个 Linux 社区。SCO 声称是 UNIX 操作系统的拥有者，它出售了一款在 x86 硬件上运行的私有 Unix 系统。当时私有 UNIX 系统的黄金时代已经过去，SCO 的 UNIX 产品销量也不行。它推断背后原因是 Linux 的增长，但它同时认为靠 Linux 本身是不可能威胁到 Unix。它认为 Linux 窃取了 UNIX 的技术，盗用了 UNIX 代码、方法或概念，它提起了 10 亿美元的索赔，之后进一步提高到 50 亿美元。虽然没有确认，当时人们普遍认为 SCO 诉 IBM 是为了迫使 IBM 收购 SCO，这可以解决该公司的业务问题，所需资金也低于索赔金额。但 IBM 拒绝玩这个游戏。",
+          "link": "https://www.solidot.org/story?sid=74307",
+          "publishedOn": "2023-03-06T06:09:04.000Z",
+          "wordCount": 210,
+          "title": "SCO 诉 IBM 20 年后",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74306",
+          "author": null,
+          "description": "Alphabet 的裁员在继续。它在今年 1 月宣布裁员 1.2 万人，进入 3 月后不断传出更多的裁员消息。它关闭了子公司 Everyday Robots，所有员工都被解雇。它的自动驾驶子公司 Waymo 宣布了第二轮裁员共 137 人，今年内的两次裁员共裁掉员工总数的 8% 合计 209 人。Waymo 表示要将精力集中到在商业上取得成功。它已经有 14 年历史了，是自动驾驶汽车领域的领导者，但仍然距离商业成功还很遥远，甚至还看不到尽头。它刚刚宣布其自动驾驶出租车只搭载乘客（即没有人类司机在旁监督）的行驶里程已超过了百万英里。但它扩大自动驾驶出租车业务还面临着成本和安全方面的挑战。",
+          "link": "https://www.solidot.org/story?sid=74306",
+          "publishedOn": "2023-03-06T04:58:54.000Z",
+          "wordCount": 172,
+          "title": "Waymo 今年内裁员了 8%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74305",
+          "author": null,
+          "description": "ChatGPT等AIGC背后的智能是个黑盒子，所以用户-使用者是同等的创新者。鉴于爱因斯坦曾经说，提出一个问题往往比解决一个问题更重要。在黑客，闪客和博客、奇客（极客）等等之后，应该有“问客”。",
+          "link": "https://www.solidot.org/story?sid=74305",
+          "publishedOn": "2023-03-06T03:55:21.000Z",
+          "wordCount": 167,
+          "title": "“问客”诞生，第四次工业革命才算石锤了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74304",
+          "author": null,
+          "description": "Zen 2 对于 AMD 而言具有重要意义，它代表着十几年来其 CPU 的单线程性能首次能与英特尔最好的产品不相上下。Zen 2 也开创了桌面 CPU 能最高有 16 个核心的潮流，消费者无需购买 HEDT 平台就能拥有强大的多线程性能。Zen 2 也非常灵活，能满足低功耗需求，以至于 AMD 在发布 Zen 3 后的 2021 年还推出了使用 Zen 2 核心的产品如 Ryzen 7 5700U。梵高 APU 是另一个例子，它是一款独一无二的产品，集成了四个 Zen 2 核心和  RDNA 2 GPU。梵高 APU 不是通用的笔记本芯片，它只用于 Valve 的掌机 Steam Deck，它也没有专有名字，而是自称 AMD Custom APU 0405。Chipsandcheese 发表文章详解了梵高 APU，解释了为什么它的 CPU 性能显著低于同类产品——为了在有限的功率范围内最大化 RDNA 2 GPU 的性能而牺牲了 CPU 性能。",
+          "link": "https://www.solidot.org/story?sid=74304",
+          "publishedOn": "2023-03-06T03:11:43.000Z",
+          "wordCount": 215,
+          "title": "详解 Steam Deck 的梵高 APU",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74303",
           "author": null,
@@ -2944,36 +3064,6 @@
           "wordCount": 189,
           "title": "Vinton Cerf 被授予 IEEE 荣誉勋章",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74045",
-          "author": null,
-          "description": "哥伦比亚的一名法官使用 ChatGPT 做出法庭裁决，这是已知第一次在 AI 文本生成器帮助下做出的法庭判决。根据日期为 2023 年 1 月 30 日的法庭文件，哥伦比亚海港城市卡塔赫纳（Cartagena）第一巡回法庭的主审法官 Juan Manuel Padilla Garcia 称他向 AI 提出了与审理案件相关的法律问题，并将 AI 的答案包含在裁决中。他表示此举并非是让 AI 取代法官做决定，而是节省起草判决书的时间。他审理的案件涉及与医保公司的纠纷，问题与自闭症儿童是否应该获得医疗保障有关。法官在法庭文件中称，他询问了 ChatGPT 多个法律问题，包括自闭症未成年人是否可免除支付治疗费用？宪法法院判例是否在类似案件中做出有利裁决？他在判决中包含了 AI 给出的答案。法官表示 AI 帮助提供了判决的更多依据。",
-          "link": "https://www.solidot.org/story?sid=74045",
-          "publishedOn": "2023-02-05T09:31:58.000Z",
-          "wordCount": 179,
-          "title": "法官使用 ChatGPT 做出法庭裁决",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74044",
-          "author": null,
-          "description": "Dark Energy Survey 和 South Pole Telescope 对宇宙结构的精确测量再次表明物理学标准模型可能存在缺失。最新观测发现当前宇宙的团块结构（clumpiness）比标准宇宙学模型预测的少。观测结果没有达到科学家认为称得上发现的统计阈值（5 sigma），但这些发现一次又一次出现暗示理论预测和宇宙实际之间存在的缝隙。论文主要作者 Chihway Chang 博士说，如果发现站得住脚将是非常令人兴奋的。物理学的全部意义在于测试模型和挑战模型。最好情况是它帮助我们更多了解暗物质和暗能量的性质。没有参与研究的宇宙学家认为，最新结果可能有三种解释：数据中的噪声或望远镜的系统误差，未知天文现象，以及需要新物理学去解释。",
-          "link": "https://www.solidot.org/story?sid=74044",
-          "publishedOn": "2023-02-04T14:45:41.000Z",
-          "wordCount": 158,
-          "title": "最新观测再次预示标准模型可能存在缺失",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74043",
-          "author": null,
-          "description": "2020 年 8 月 Mozilla 在裁员时砍掉了 Servo 引擎团队的大部分成员。Servo 是用 Rust 语言开发的实验性浏览器引擎项目。Servo 项目之后脱离 Mozilla 成为一个独立项目，由 Linux 基金会托管，旨在为其它项目提供一个嵌入的高性能的、安全的渲染引擎。本周五，Servo 官方博客公布了 2023 年的计划：更新主要依赖如 WebRender 和 Stylo，分析两个布局引擎选择其一继续开发，实现基本的 CSS2 一致性，探索支持 Android 平台，等等。",
-          "link": "https://www.solidot.org/story?sid=74043",
-          "publishedOn": "2023-02-04T14:02:06.000Z",
-          "wordCount": 172,
-          "title": "Servo 项目公布未来计划",
-          "imageUrl": null
         }
       ]
     },
@@ -2982,6 +3072,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/737757/",
+          "author": null,
+          "description": "本文来自微信公众号：判官老司机（ID：panguansays），作者：判官，头图来自：视觉中国 前几天B站发财报，四季度月活用户、付费用户环比下跌，引发对其创作者生态、商业化能力、社区氛围等话题的讨论。 社区产品商业化艰难这件事，从之前的豆瓣知乎，到后来的B站小红书，被反复印证。即使后两者已成功破圈\n本文链接",
+          "link": "https://news.cnblogs.com/n/737757/",
+          "publishedOn": "2023-03-06T14:10:00.000Z",
+          "wordCount": 163,
+          "title": "B站成“视频版知乎”，社区产品难挣钱？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737755/",
+          "author": null,
+          "description": "Tech 星球 3 月 6 日消息，据北京商报，针对媒体报道的“目前淘特团队大部分人员合并到大淘宝”“淘特 App 处于半放弃、半维护状态”，淘特相关负责人回应称，淘特一直坚持做源头直供，培育 M2C 模式。今年正在继续加码产业带，会有更多小二直接工作在产业带，由此带来一些业务调整，不是什么战略变化\n本文链接",
+          "link": "https://news.cnblogs.com/n/737755/",
+          "publishedOn": "2023-03-06T14:00:00.000Z",
+          "wordCount": 163,
+          "title": "淘特回应团队大部分人员合并到淘宝：业务有调整，不会并入淘宝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737756/",
+          "author": null,
+          "description": "【XX 银行】根据综合评估给予你一笔 XXXXXX 元储备金； 【XX 金融】恭喜你成为特邀用户，可申请借款额度最高 XXXXXX 元； 尊敬的 XXXX 机主，你获赠的积分将于X月X日失效，点击 XXXX 兑换商品。 打开手机，看看有多少人的短信里充斥着上述类型的垃圾、诈骗短信？不知道大家有没有发\n本文链接",
+          "link": "https://news.cnblogs.com/n/737756/",
+          "publishedOn": "2023-03-06T13:16:00.000Z",
+          "wordCount": 163,
+          "title": "为何垃圾短信大多都是106短信？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737754/",
+          "author": null,
+          "description": "2023 年 2 月尾声，飞书悄悄发布了新收费标准。 如果不掏更多钱，飞书文档的存储空间会从 50G 变 10G，妙记存储空间变为 2G，多维表格中甘特图功能也不再免费使用。聊天记录的储存从永久免费，变成也只有 180 天。 “很明显的，对中小企业和个人用户非常不友好。”不止一位个人用户对此感到无奈\n本文链接",
+          "link": "https://news.cnblogs.com/n/737754/",
+          "publishedOn": "2023-03-06T08:50:00.000Z",
+          "wordCount": 163,
+          "title": "狂飙1000天后，飞书陷入两难",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737753/",
+          "author": null,
+          "description": "【GameLook 专稿，未经授权不得转载！】 GameLook 报道/3 月 2 日，据中国版权保护中心网站查询，《黑神话：悟空》软件著作权登记已经获批通过。 信息显示，《黑神话：悟空》著作权人为杭州游科互动科技有限公司（游戏科学），版本号 V1.0。时间一栏指出，《黑神话：悟空》软件开发完成日期\n本文链接",
+          "link": "https://news.cnblogs.com/n/737753/",
+          "publishedOn": "2023-03-06T08:40:00.000Z",
+          "wordCount": 163,
+          "title": "取经临门一脚：《黑神话：悟空》获著作权证，版号申请考验才刚开始",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737752/",
+          "author": null,
+          "description": "GameLook 报道/iPhone 的诞生一手造就了智能手机时代的到来。移动游戏也借助这一性能优势，在智能机时代取得飞速增长，超越主机和 PC 成为全球份额最大的游戏市场。 而一手塑造这一游戏帝国的苹果，如今却有些负面新闻缠身。Epic Games、Meta 这样的科技巨头多次公开抱怨苹果的高抽成\n本文链接",
+          "link": "https://news.cnblogs.com/n/737752/",
+          "publishedOn": "2023-03-06T08:32:00.000Z",
+          "wordCount": 163,
+          "title": "七年App Store编辑发文吐槽：苹果根本不在乎游戏！?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737751/",
+          "author": null,
+          "description": "品玩 3 月 6 日讯，企查查 APP 显示，近日，理想汽车关联公司北京车和家信息技术有限公司“锂电池内阻调整方法、装置、存储介质、电子设备及车辆”专利公布。 企查查专利摘要显示，本公开属于电池管理领域，该锂电池的电解液中包括用于溶解所述锂电池的固体电解质界面膜的添加剂，所述方法包括：确定所述锂电池\n本文链接",
+          "link": "https://news.cnblogs.com/n/737751/",
+          "publishedOn": "2023-03-06T08:26:00.000Z",
+          "wordCount": 163,
+          "title": "理想汽车电池新专利可降低内阻保证动力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737750/",
+          "author": null,
+          "description": "品玩 3 月 6 日讯，据 IT 之家报道，TCL 近日发布真无线耳机 Moveaudio 系列最新作品 Moveaudio Neo 。 据 TCL 表示，Moveaudio Neo 具备主动降噪功能，可降低 28dB 噪音，同时耳机带有通透模式。Moveaudio Neo 具有 10mm 驱动器和\n本文链接",
+          "link": "https://news.cnblogs.com/n/737750/",
+          "publishedOn": "2023-03-06T08:21:00.000Z",
+          "wordCount": 163,
+          "title": "TCL发布新款Moveaudio Neo无线耳机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737749/",
+          "author": null,
+          "description": "如果在 1 到 10 的范围内，给软件供应链的风险打分，Snap 首席信息安全官 Jim Higgins 将其评为了“ 9.9 分”，而 10 分是最高风险。 由此可见，看来我们离“避免下一个 SolarWinds 攻击”还有很长的路要走。软件供应链正处于高风险之中，而且这个安全问题还很难解决，因为\n本文链接",
+          "link": "https://news.cnblogs.com/n/737749/",
+          "publishedOn": "2023-03-06T08:16:00.000Z",
+          "wordCount": 163,
+          "title": "Snap首席信息安全官：我给软件供应链风险打9.9分（满分10分）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737748/",
+          "author": null,
+          "description": "数字化转型，带动企业软件资产管理需求 随着全球数字化转型进程加快，企业的软件资产逐渐增加，企业也越来越重视软件资产管理。 根据 IDC 的分析，到 2024 年时，全球将会有 5.2 亿个软件应用，约 60% 的企业每天都会发布一个版本，乃至多个版本。与此同时，很多软件都会被发布到边缘节点，发布到手\n本文链接",
+          "link": "https://news.cnblogs.com/n/737748/",
+          "publishedOn": "2023-03-06T08:10:00.000Z",
+          "wordCount": 163,
+          "title": "数字化转型风口之下，JFrog拓展中国DevOps业务背后的思考",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737747/",
+          "author": null,
+          "description": "前脚还在打情骂俏，后脚就没了情和俏，只剩打和骂。真急眼了，甚至要闹到对簿公堂的局面。 你没点错链接，我们也还没有转型做情感类内容的打算。但这个不太恰当的比喻，却很好的概括了最近这场吉利银河与长安之间关于设计的争论。 2 月 27 日，长安汽车给吉利送去了一封律师函，直指吉利银河之光原型车涉嫌抄袭长安\n本文链接",
+          "link": "https://news.cnblogs.com/n/737747/",
+          "publishedOn": "2023-03-06T07:57:00.000Z",
+          "wordCount": 163,
+          "title": "2023 年了，汽车设计能不能体面点？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737746/",
+          "author": null,
+          "description": "Meta 的 LLaMA 代码已经和越来越多的开发者见面了，ChatGPT 正式开源还会远吗？ Meta 全新大语言模型 LLaMA 正通过种子公开发放 2 月 24 日，Meta 公司发布了新的大模型系列 —— LLaMA（Large Language Model Meta AI）。Meta 宣称\n本文链接",
+          "link": "https://news.cnblogs.com/n/737746/",
+          "publishedOn": "2023-03-06T07:45:00.000Z",
+          "wordCount": 163,
+          "title": "Meta版ChatGPT惨遭“开源”？LLaMA被泄露，已在GitHub收获7k+星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737745/",
+          "author": null,
+          "description": "品玩 3 月 6 日讯，据 36 氪报道，钉钉于近日完成对协同办公厂商“我来 wolai”的全资收购工作。 据报道，收购完成后，“我来 wolai”的产研团队将转为钉钉正式员工，而其客服团队将转到阿里外包团队。 钉钉表示，我来 wolai 团队已加入钉钉，将负责智能化协作文档的研发，和个人版文档的产\n本文链接",
+          "link": "https://news.cnblogs.com/n/737745/",
+          "publishedOn": "2023-03-06T07:36:00.000Z",
+          "wordCount": 163,
+          "title": "钉钉收购协同办公厂商”我来wolai“",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737744/",
+          "author": null,
+          "description": "GitLab 宣布，自 2023 年 4 月 3 日起，GitLab Premium 的标价将从每位用户每月 19 美元提高到 29 美元；在 2024 年 4 月 2 日之前，现有的 GitLab Premium 客户将获得每位用户每月 24 美元的一次性过渡价格。 “GitLab Premium\n本文链接",
+          "link": "https://news.cnblogs.com/n/737744/",
+          "publishedOn": "2023-03-06T07:30:00.000Z",
+          "wordCount": 163,
+          "title": "GitLab 将 Premium 方案提价 50% 以上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737743/",
+          "author": null,
+          "description": "品玩 3 月 6 日讯，据微软科技官方消息，微软商业应用将会在今年第二季度落户微软北三数据中心（CN3 数据中心）。 随着这次落户，包含 Microsoft Dynamics 365 和 Power Platform 在内的微软商业应用将迎来在华服务的翻倍扩容，提升面向中国市场的整体服务能力。 微软\n本文链接",
+          "link": "https://news.cnblogs.com/n/737743/",
+          "publishedOn": "2023-03-06T07:24:00.000Z",
+          "wordCount": 163,
+          "title": "微软商业应用将于第二季度落户微软北三数据中心",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737742/",
+          "author": null,
+          "description": "巨头们又开始重新卷起来了。 2 月初，抖音在平台内上线了“抖音外卖”，正式试水外卖业务。此前抖音就与饿了么、宅急送等外卖平台有类似的合作，而这次抖音外卖算是正式成为了大抖音旗下的常驻嘉宾。 除了抖音，微信紧接着也在部分地区上线了“门店快送”等小程序接口服务能力。作为官方主推的功能，“门店快送”直接被\n本文链接",
+          "link": "https://news.cnblogs.com/n/737742/",
+          "publishedOn": "2023-03-06T07:20:00.000Z",
+          "wordCount": 163,
+          "title": "为什么人人都想抢美团的生意",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737741/",
+          "author": null,
+          "description": "机器之心报道 机器之心编辑部 连三位数的混合运算都算不明白，ChatGPT 对数学家来说有用吗？ ChatGPT 不擅长数学，这是大家刚开始测试时就发现的问题。比如你问它一个「鸡兔同笼」问题，它可能写出一个看上去非常有条理的解题过程，但仔细一看，答案却是错的。 为了解决这个问题，OpenAI 也做了\n本文链接",
+          "link": "https://news.cnblogs.com/n/737741/",
+          "publishedOn": "2023-03-06T07:07:00.000Z",
+          "wordCount": 163,
+          "title": "鸡兔同笼都能算错的ChatGPT，陶哲轩发现了它的价值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737740/",
+          "author": null,
+          "description": "机器之心专栏 作者：ByteDance Research 团队 分子表示学习在 AI 辅助药物发现研究中起着至关重要的作用。在传统药物研发中，常用的分子对接模型需要进行大量的构型采样与优化，并筛选出较为稳定的结构。这类策略效率较低，难以应用于高通量的蛋白质对接任务。本文介绍的基于分子表面黎曼流形的深\n本文链接",
+          "link": "https://news.cnblogs.com/n/737740/",
+          "publishedOn": "2023-03-06T07:00:00.000Z",
+          "wordCount": 163,
+          "title": "ICLR 2023｜初探AI拼图模型预测蛋白质复合物结构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737739/",
+          "author": null,
+          "description": "机器之心专栏 机器之心编辑部 近年来，清华大学计算机系孙茂松团队深入探索语言大模型参数高效微调方法的机理与特性，与校内其他相关团队合作完成的研究成果 “面向大规模预训练语言模型的参数高效微调”（Parameter-efficient Fine-tuning of Large-scale Pre-tr\n本文链接",
+          "link": "https://news.cnblogs.com/n/737739/",
+          "publishedOn": "2023-03-06T06:48:00.000Z",
+          "wordCount": 163,
+          "title": "全方位分析大模型参数高效微调，清华研究登Nature子刊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/737738/",
+          "author": null,
+          "description": "机器之心编辑部 本文介绍被机器学习顶级国际会议 AAAI 2023 接收的论文 《Improving Training and Inference of Face Recognition Models via Random Temperature Scaling》。论文创新性地从概率视角出发，对分类\n本文链接",
+          "link": "https://news.cnblogs.com/n/737738/",
+          "publishedOn": "2023-03-06T06:36:00.000Z",
+          "wordCount": 163,
+          "title": "AAAI 2023 Oral | 图像质量堪忧干扰视觉识别，达摩院更鲁棒框架",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/737696/",
           "author": null,
@@ -7511,116 +7801,6 @@
           "wordCount": 163,
           "title": "谷歌急投20亿押注ChatGPT「最强竞品」，GPT-3核心成员出走打造",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736000/",
-          "author": null,
-          "description": "2022 年初，一场在美国马里兰大学医学中心完成的心脏移植手术引起了全球关注，因为移植到这名 57 岁患者大卫·贝内特体内的，是一颗接受过“基因修饰”的猪心脏。根据马里兰大学医学中心的介绍，他们对这颗心脏原来的猪主人进行了 10 处基因修改，同时结合创新药物的使用，以预防移植后排异反应的发生，最终使\n本文链接",
-          "link": "https://news.cnblogs.com/n/736000/",
-          "publishedOn": "2023-02-05T02:50:00.000Z",
-          "wordCount": 163,
-          "title": "基因编辑、3D生物打印将如何改变“移植器官荒”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735999/",
-          "author": null,
-          "description": "雷递网乐天 2 月 4 日 ChatGPT 激发了全世界的想象力，从教授到广告商、黑客和法官，每个人都在思考如何最好地利用其功能。但是这一切背后的人是怎么想的呢？ 对开发人工智能聊天机器人的公司 OpenAI 的首席执行官 Sam Altman 来说，ChatGPT 可节省时间，特别是在阅读长篇文章\n本文链接",
-          "link": "https://news.cnblogs.com/n/735999/",
-          "publishedOn": "2023-02-05T02:42:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI CEO：ChatGPT比想象的更有用 但不会取代传统搜索",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735998/",
-          "author": null,
-          "description": "极目新闻记者满达 尽管天文学家已经发现了 5200 多颗系外行星，但其中只有不到 200 颗是岩石行星，因此每发现一颗新的类地系外行星总是令人兴奋。2 月 3 日，发表在《天文学与天体物理学》上的一篇论文显示，一个由来自世界各地的 50 名天文学家组成的团队证实了系外行星 Wolf 1069 b 的\n本文链接",
-          "link": "https://news.cnblogs.com/n/735998/",
-          "publishedOn": "2023-02-05T02:30:00.000Z",
-          "wordCount": 163,
-          "title": "又一颗类地行星被发现，距地球仅31光年，或存在液态水",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735997/",
-          "author": null,
-          "description": "集微网消息近日，据中国台湾省媒体联合报消息，近期台积电发布弹性上班制度后引发关注热潮，电源管理及散热解决方案大厂台达电也于日前宣布，将于 4 月 1 日起试行弹性上下班机制。 台达电体恤员工通勤塞车之苦，让员工灵活掌握个人时间安排，将自 4 月 1 日起试行弹性上下班，弹性上班时间为 7 时 30 \n本文链接",
-          "link": "https://news.cnblogs.com/n/735997/",
-          "publishedOn": "2023-02-05T02:25:00.000Z",
-          "wordCount": 163,
-          "title": "继台积电之后 台达电将于4月1日起试行弹性上班制度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735996/",
-          "author": null,
-          "description": "IT 之家 2 月 4 日消息，招财宝关联公司上海招财宝金融信息服务有限公司近日注销。 上海招财宝金融信息服务有限公司成立于 2013 年 12 月，法定代表人宋畅，注册资本 1000 万人民币，经营范围包括金融信息服务，金融产品的研究开发、组合设计、咨询服务等，由蚂蚁集团旗下上海云进信息技术有限公\n本文链接",
-          "link": "https://news.cnblogs.com/n/735996/",
-          "publishedOn": "2023-02-05T02:20:00.000Z",
-          "wordCount": 163,
-          "title": "蚂蚁集团旗下招财宝公司注销",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735995/",
-          "author": null,
-          "description": "“这是目前已知最年轻的临床诊断为阿尔兹海默症的患者。”近日，一篇由首都医科大学宣武医院贾建平团队撰写的论文，发布在了国际知名阿尔兹海默病研究刊物上，文中介绍，一名来医院就诊的 19 岁男孩被临床诊断为阿尔兹海默症患者。 论文的作者之一、宣武医院神经内科主任医师贾龙飞告诉记者，该病例的情况非常罕见，以\n本文链接",
-          "link": "https://news.cnblogs.com/n/735995/",
-          "publishedOn": "2023-02-05T02:15:00.000Z",
-          "wordCount": 163,
-          "title": "19岁患者患阿尔兹海默症，研究参与者：一度不敢相信检查结果",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735994/",
-          "author": null,
-          "description": "雷递网雷建平 2 月 4 日 聊天机器人 ChatGPT 的爆火，推出仅仅 2 个月，就达到月活过亿，成为历史上增长最快的消费者应用程序。 根据 Sensor Tower 数据，TikTok 在全球推出后用约 9 个月时间达到 1 亿用户，Instagram 用了 30 个月才达到同样的基准。 毫无\n本文链接",
-          "link": "https://news.cnblogs.com/n/735994/",
-          "publishedOn": "2023-02-05T02:08:00.000Z",
-          "wordCount": 163,
-          "title": "ChatGPT之父传奇：8岁会编程，16岁出柜，2个月做到月活过亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735993/",
-          "author": null,
-          "description": "IT 之家 2 月 5 日消息，IDC 关于平板电脑和 Chromebook 的 2022 年全年和 2022 年第四季度市场报告已经出炉，结果并不理想。总体而言，2022 年全年平板电脑市场萎缩了 3.3%，但同年第四季度却出现了 0.3% 的平缓增长。然而，在经历了 2021 年疯狂的 180.\n本文链接",
-          "link": "https://news.cnblogs.com/n/735993/",
-          "publishedOn": "2023-02-05T02:00:00.000Z",
-          "wordCount": 163,
-          "title": "IDC：2022年平板电脑销量略有下降，Chromebook断崖式下跌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735992/",
-          "author": null,
-          "description": "IT 之家 2 月 5 日消息，福特汽车第四季度没有达到华尔街的盈利预期，比自己的全年指导目标少了 11 亿美元。福特汽车第四季度的净收入为 13 亿美元，比上年同期低 110 亿美元。全年来看，福特公司亏损 20 亿美元，与 2021 年的利润相差近 200 亿美元。 “我们去年应该做得更好，”福\n本文链接",
-          "link": "https://news.cnblogs.com/n/735992/",
-          "publishedOn": "2023-02-05T01:50:00.000Z",
-          "wordCount": 163,
-          "title": "福特汽车 CFO：对 2022 年业绩感到“失望”，不排除进一步裁员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735991/",
-          "author": null,
-          "description": "IT 之家 2 月 5 日消息，近期，人人视频关联主体公司上海众多美网络科技有限公司新增多个开庭公告，案由涉及“著作权权属、侵权纠纷，侵害作品信息网络传播权纠纷”，原告方包括：环球内容制作公司、索尼影视电视公司、华纳兄弟娱乐公司、二十世纪福克斯电影公司、奈飞全球娱乐公司、迪士尼企业公司等多家海外影视\n本文链接",
-          "link": "https://news.cnblogs.com/n/735991/",
-          "publishedOn": "2023-02-05T01:40:00.000Z",
-          "wordCount": 163,
-          "title": "人人视频遭到海外出版方集体起诉，包括奈飞、索尼等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/735989/",
-          "author": null,
-          "description": "最近几天，从海外传来了一则坏消息。 荷兰、日本和美国达成了新的协议，要向中国限制出口先进芯片制造设备，说白了，就是光刻机。 拜登甚至亲自会见日本、荷兰领导人，讨论了相关措施。 而就在短短半个月前，事情还不是这样。1 月 15 日，荷兰外贸与发展合作大臣施赖纳马赫尔表示，荷兰不会草率接受美国对向中国出\n本文链接",
-          "link": "https://news.cnblogs.com/n/735989/",
-          "publishedOn": "2023-02-05T01:30:00.000Z",
-          "wordCount": 163,
-          "title": "“杀死”光刻机全球第一，比造一台光刻机容易多了（万字长文）",
-          "imageUrl": null
         }
       ]
     },
@@ -7629,6 +7809,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23235",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nT 沙龙新官网（www.tsalon.tech）上线啦，欢迎大家关注！\n@EyreFree: T沙龙，全称为 T 技术沙龙，是一个以促进开发者之间技术交流为目的的技术沙龙组织，成立后一直在定期举办各种面向开发者的线上 & 线下沙龙活动。从 2016 年 3 月份开始，在北京、上海、成都、杭州和深圳等地相继举办了 30 多场线下沙龙活动，同时也举办了多场线上活动。本次 T 沙龙官网更新，感兴趣的朋友可以关注，获取第一手活动资讯，🎉\n文章\n🌟 🐕 淘宝 APP 网络架构演进与弱网破障实践\n@JonyFang: 本文主要介绍手淘终端统一网络库 AWCN (Ali Wireless Connection Network) 演进的过程。讲述如何围绕体验持续构建南北向从监测到加速一体化的终端网络架构，通过构建 NPM 弱网诊断感知能力，落地原生多通道技术/多协议择优调度手段，贴合厂商附能网络请求加速，实现去 SPDY 及规模化 IPv6/H3 协议簇的平滑过渡，为用户提供弱网更好、好网更优的 APP 加载浏览体验，支撑业务创造更多的可能性。\n文中针对网络库设计的理念及方案演进介绍的比较全，思路可做参考学习。\n🐕 QQ音乐高可用架构体系\n@莲叔: 这是一篇服务端视角的高可用架构的介绍文章。如何处理故障是几乎所有分布式系统的最关键的一环。文章分享了 QQ 音乐在面向故障处理的思考以及演进出的一套行之有效的技术体系，从架构、工具链和可观测性三个角度来实现了优雅的处理故障的能力。虽然是服务端视角偏多，但整体行文比较浅显易懂，相信客户端同学也能够有所收获，尤其是在当下很多技术都是端到端的，所以具备一定的服务…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23235",
+          "publishedOn": "2023-03-06T04:01:04.000Z",
+          "wordCount": 531,
+          "title": "老司机 iOS 周报 #235 | 2023-03-06",
+          "imageUrl": "https://opengraph.githubassets.com/b46bc5d4364f86e2e3b719df3085f92946ed55ae1c7bc3cfb1f6102d609b0ddb/SwiftOldDriver/iOS-Weekly/releases/tag/%23235"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23234",
           "author": null,
