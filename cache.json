@@ -59,6 +59,36 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/78842",
+          "author": "XiNGRZ",
+          "description": "计划好的事情一拖再拖，一时兴起的想法光速出片 —— 我对我的自我评价\n\n最近准备搬家，收拾房子的时候发现了柜子里的两盒 DV 磁带，陷入了沉思…\n十几年前，那个闪存技术、视频编码技术都没有那么成熟的年代，磁带是一种广泛使用的存储介质。而在家用摄像机领域，最广泛使用的规格就是 MiniDV。\n以目前的眼光看，MiniDV 自然没有什么 4K、HDR 之类高大上的规格。但稍微把时间线往前拖一点，MiniDV 的录制规格其实也不差（以 PAL 指示举例）：\n\n标清：720 x 576 (显示比例 4:3 或 16:9)，25 fps，隔行扫描，DVSD 编码\n高清（HDV）：1440 x 1080 (显示比例 16:9)，25 fps，隔行扫描，MPEG-2 编码\n\n具体的规格参数什么的，这里就不详细说了（主要是我懒得准备资料）。下面进入正题：\n3202年了，如何正确处理磁带式DV拍摄的素材？\n硬件准备\n嗯？硬件有啥准备？不是直接 USB 插上就完了吗？还真不是。\n那个年代，即便 USB 2.0 都不一定普及。那个年代，支持热插拔、速度足够快的技术，就是 FireWire，或者它的标准名字：IEEE 1394。\n以 Mac 平台举例（不用 Windows 是因为我确实十多年没用 Windows 了，脱节了）\n\n一台 DV（废话）\n一根买 DV 通常会附送的 IEEE 1394 6-pin 转 4-pin（后者通常又称为 i.LINK）数据线\n一个淘宝随便买的 IEEE 1394 9-pin 转 6-pin 转接头\n一个苹果官网买的 Thunderbolt 2 转 IEEE 1394 9-pin 转接头\n一个苹果官网买的 Thunderbolt 3 (USB-C) 转 Thunderbolt 2 转接头\n一台 Intel 平台的 Mac\nApple Cables, Inc. 名不虚…",
+          "link": "https://sspai.com/post/78842",
+          "publishedOn": "2023-03-14T08:40:26.000Z",
+          "wordCount": 776,
+          "title": "3202 年了，如何正确处理磁带式 DV 拍摄的素材？",
+          "imageUrl": "https://cdn.sspai.com/2023/03/13/22ab63d674c0c849c148f9b32c5794dc.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/78798",
+          "author": "Aftertech",
+          "description": "去年疫情期间，我患上了严重的失眠。\n我每天晚上狂刷手机，直到3、4点钟累到不行，才会睡去。\n我尝试了很多助眠app，但没有一款真正起到作用。\n\n一方面，助眠app里的内容太复杂，我只是想赶紧睡着觉，不想从头开始学习冥想和禅修，更没有兴趣做睡眠监测和管理。\n另一方面，我的失眠本质上是心理问题，我不敢面对丢掉手机后的不安和空虚感，这不是听个海浪声，或者一段冥想音频就能解决的。\n\n因此真正的问题在于，与社交媒体和短视频相比，助眠app太无聊了！只要它没有有趣到可以把我的注意力从焦虑中拽出来，我就没法持续使用，三天热度后我会再次陷入玩手机到昏厥的状态中。\n \n因此我决定做一款足够有效、又足够有趣的助眠app\n半年之后，Dreamo诞生了~\n\n在游戏的帮助下轻松入睡\n睡眠引导，帮你快速入睡\n在Dreamo中，你将跟随梦灵的声音引导，进入梦乡。\n你将循序渐进，每天解锁一段新的引导，这些引导全都基于现代生活中最困扰我们的问题：\n突然袭来的尴尬回忆、社交网络带来的焦虑、手机成瘾、对未来的不安和对自我的怀疑......\n\n \nDreamo的助眠音频结合了心理动力学治疗和行为训练中的技术、以及冥想大佬Andy Puddicombi的正念冥想技巧，经过测试，筛选出了一系列切实有效的技巧，加以简化、去掉了所有的名词和复杂的操作，循序渐进地安排进每天的旅程中。你只需要每天跟着梦灵的引导，就能自然而然地学会越来越复杂的技巧，解决越来越深层的睡前心理问题。\n助眠的效果非常明显，在前期的内部测试中，超过40%的人没听完就睡着了。\n \n游戏化设计，帮你养成习惯\n\n 只有魔鬼才能战胜魔鬼。\n\n在早睡这件事上，最难的步骤是关掉社交媒体和短视频、打开助眠app。而能帮助Dreamo做到这点的，是利用游戏的酬赏机制。\n随着每天的使用，你将逐步探索梦境地，发现更多场景，并解锁道具来装饰它们。\n\n \n你也可以装扮自己的梦灵，邀请或拜访好友、和他们一起合照。\n\n \n一切的装扮和场景都是免费的，只需要每天使用就能解锁所有场景；装扮则可以通过与好友互动、以及在梦境地寻找隐藏的彩蛋来获得。\n你每天能获得的东西相当有限、但也足够有趣；这确保了你既愿意每天使用、又不会兴奋到难以入睡。\n在游戏机制的帮助下，你不需要有钢铁般的意志力，也能养成早睡的习惯。\n \n \n\nDreamo从22年八月开始开发，历经大半年，终于完成了全部的内容。目前在IOS平台进行公测，预计3月末到4月初正式上线，感兴趣的朋友可以通过苹果Testflight进行体验。\nTestflight链接：\nhttps://testflight.apple.com/join/PGw1HdPi",
+          "link": "https://sspai.com/post/78798",
+          "publishedOn": "2023-03-14T02:50:27.000Z",
+          "wordCount": 638,
+          "title": "Dreamo 入梦 | 在游戏的帮助下轻松入睡",
+          "imageUrl": "https://cdn.sspai.com/2023/03/10/f7dbd76ca9f2cd7432eeec2a41967679.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/78825",
+          "author": "宛潼",
+          "description": "假设要在家里做一个「人来灯亮，人走灯灭」的智能家居自动化，可能很多人觉得用一个红外人体传感器就行。但实际上，红外人体传感器只能感知你动，却不能知晓你静：例如你在书房安静读书，或是在马桶上刷手机一段时间后，红外人体传感器就会「看不见你」，而将所有的灯关掉。\n要解决这个问题，则需要一种可以持续感知人体存在的设备，刚好汽车上做自动驾驶用的毫米波雷达就是个不错的玩意。无论你安静坐着还是手舞足蹈，它都能清楚地知道你的存在。\n汽车上的毫米波雷达长这样\n刚好，最近收到了 Aqara 新推出且讨论热度蛮高的人体场景传感器 FP2，也就是之前那个人体存在传感器 FP1 的升级版。又很巧合的是，两个我都有🌝，所以刚好来做一个对比体验。\n\n差别在哪里？\nFP1 和 FP2 在外观上就有非常明显的差别。FP1 是类似于鹅卵石一样的造型，用的是 Aqara G2H 摄像机通用的底座；而 FP2 则全方位「长胖」，变成了大圆脸，但身高相比 FP1 大大缩小。相对于家居的布局来说，FP2 在我看来是显得更加无感的。\n值得一提的是，FP2 将电源设置成了 USB-C 接口，可以与电源线分离。如果在硬装前就布局电源线路，就能完全隐藏掉裸露的电线了。\n\n不过比起外观这种直观的改变来说，看不见的变化才是这一次的重点。\n从 Zigbee 到 Wi-Fi\nFP2 的通讯协议发生了重大变化，由 FP1 的 Zigbee 转向了 Wi-Fi，无需网关的同时也大大提升了响应速度和数据吞吐。旧款的 FP1 虽然也支持人体的空间定位，但定位的面积、准确度和响应速度都不甚理想，单纯当人体存在检测或许更加合适；而 FP2 由于摆脱了 Zigbee 的束缚，无论是人体移动时的响应速度还是准确度，都比 FP1 有质的飞跃。\n此外，FP2 的感知面积大大提升，进一步细分了空间区域，甚至还能在同一空间中定位三个人，这些都是让 FP1 …",
+          "link": "https://sspai.com/post/78825",
+          "publishedOn": "2023-03-13T07:30:41.000Z",
+          "wordCount": 763,
+          "title": "Aqara 人体场景传感器 FP2 体验：相比前代是质的飞跃",
+          "imageUrl": "https://cdn.sspai.com/2023/03/13/ac3533f3e95eec73919d04b5cd4747f6.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/78805",
           "author": "Jaden",
           "description": "「二舅没有治好的精神内耗，21 天冥想帮我搞定了」\n在这篇文章中，我将介绍自己如何从一个对冥想一无所知的小白变成如今几乎每天坚持的冥想练习者。如果你也和曾经的我一样时常被焦虑、精神内耗等负面情绪裹挟，或是忙于工作、学习 DDL 而逐渐失去对生活的掌控力，或许我这篇文章介绍的冥想方法可以帮助你。\n在阅读下面的文字前，先花 10 秒钟问自己一个问题「我有多久没有认真放松过了」。你可能会说「放松还需要认真吗？」又或是「我每天都有放松啊，玩手机、看书、健身、跑步……」。\n可如果我说的是安静的、彻底的、回归当下的放松呢。你可能会认为我在装神弄鬼，先不要急着下定论，看完本文再评价也不迟。\n写在前面\n全文开始前有必要先对冥想祛媚，对我而言，冥想并不是高深莫测的修行，只有遁入空门才能得道。恰恰相反，冥想只是增强心智、放松自我的训练。\n「每个人都会爱上冥想，只要你找到适合自己的方式」。\n值得一提的是，本文所提到的冥想主要是「正念冥想」和「内观禅修」，或是二者的结合。本文的重点是分享我如何开始并坚持练习冥想的感悟，因此不会在本文大谈特谈冥想的好处或是与冥想有关的当代研究如何证实了冥想的效果，如前面所述，我和你一样也是个初学者。\n闲言碎语不要讲，let's get started!\n缘起\n截止到今天为止，我练习冥想已经一年多时间了。\n\n在2022 年的寒假，我持续被疫情和学校的事情折磨，因为被困在家里，整个世界充斥着互联网传播的负面情绪，逐渐失去了现实生活的感受。一个偶然的机会，我第一次在少数派的公众号上看到「潮汐 app 」的推广，怀着好奇的心态使用了一段时间。不得不说，APP 本身并没有给我留下太深刻的印象，不过它所宣传的冥想功效就像是《悉达多》中的乔达文遇到了佛陀那般，深深地吸引了我。\n在这里简单替大家总结一下网上广泛传播的冥想的功效：\n\n静心凝神：改善身体内环境，抑制交感神经，让脑电图相…",
@@ -84,7 +114,7 @@
           "description": "1983 年年底，一个会议室里，两个年轻人正在大呼小叫，一个年轻人咆哮着说道：“你在盗用我们的东西！”\n而对面坐着的年轻人则回应道：\n\n我觉得现在的情况更接近于这样——我们都有个有钱的邻居，叫施乐，我闯进他们家准备偷电视机的时候，发现你已经把它盗走了。\n\n施乐是谁？\n这俩年轻人又是谁？\n他们在争夺什么呢？\n施乐\n厚实的拼色地板上人来人往，米黄色的电话铃声不断，穿着背带裤的白领在聒噪的环境中开着头脑风暴，此时还有一份文件正在被复写中，因为这份文档即将要被分发给 30 个人。\n20 世纪 50 年代美国办公室\n这是 20 世纪 50 年代，美国办公室常见的一角。一份文件想要分发给公司所有的人，就要靠打字机一件件手打，或是拿着脏了吧唧的碳素复写纸来复写。我们如今习以为常的，新鲜出炉摸着还烫手的打印文档，在 20 世纪 50 年代的办公室里并不存在。那时的人们既没有打印机，也没有复印机，更没有「电子文档」中的电子这一概念，一切都是如此朴实无华。唯一带着点电的东西，恐怕是头上挂着的日光灯，和收发室里唯二的两台有线电报机。\n这样的工作环境恐怕难以想象，桌面上只有一台电话和一摞纸，你能做的只有写写画画和不断接起挂断。什么？电脑？不存在的，去冲杯咖啡醒醒脑子吧。\n不过不要担心，那个被誉为“20世纪最伟大的发明之一”要来拯救大家了。\n1959 年的入秋，一家名叫 Xerox （施乐）的公司在电视直播中推出了一台耗费巨大资金，名为 Xerox 914 的大家伙，并彻底改变了文件复印行业。\nXerox 914\n它看起来像是一台行李安检机，不过其实这是一台静电复印机，将 9 英寸乘 14 英寸的原稿放在玻璃板上，使用感光感光器上的静电荷首先吸引墨粉颗粒，然后以图像的形式将墨粉颗粒转移到纸张上。然后使用加热、压力将墨粉融合到纸张上。\n静电复印机比复印的效率要高出不少：先前提到的复写纸还需要有一个母版…",
           "link": "https://sspai.com/post/78801",
           "publishedOn": "2023-03-11T15:23:37.000Z",
-          "wordCount": 1413,
+          "wordCount": 1415,
           "title": "施乐和他的两个小偷邻居",
           "imageUrl": "https://cdn.sspai.com/2023/03/11/eab6f8e0b0e6a0e8518500a00557dbfe.png"
         },
@@ -657,36 +687,6 @@
           "wordCount": 534,
           "title": "小红书能让小众爱好走向大众消费吗？",
           "imageUrl": "https://cdn.sspai.com/2023/02/14/161d9642fec962b183949d940a8d7dfe.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/78262",
-          "author": "宴息",
-          "description": "题图：Photo by Kelly Sikkema on Unsplash\n一、前文\n自账单数据日益庞大、亟待节流，我决心再次开始记账。\n在思索应当取用何种记账工具时，考量过去曾使用过的 Money Pro、MoneyWiz 等软件，以及命令行复式簿记工具 Beancount 。我希望在 Excel 上以「复式记账法」（Double-entry bookkeeping）管理账单，主要出于以下三个理由：\n\n复式记账法的优点。如：可以完整地记录一笔财务数据的流向，以及其对资产、负债、权益、收支的影响；会计恒等式的设计可以提供充分的检验完整性；日记账可以用来生成财务报表（包括预算报表），并进一步满足投资收益的分析等特定需求。\n数据的隐私性与便利性。无论是采用 Beancount 或是 Excel，都可以在本地创建并管理数据，自由选择存放方式，不必受限于第三方软件。Excel 则能更方便地对数据进行计算、分析。\n资产的有效管理。复式簿记，相比一般的个人记账，可以更有效地「计算」资产（包括净资产）在任一时点的状态价值。特定资产，如固定资产，可以在 Notion 等工具中建立「固定资产卡片」双向勾稽。举例详见本文「二、复式簿记举例」。也能更好地处理 AA 制就餐、个人借款等情况，详见本文「三、复式簿记处理」「（五）快速整理年度账单」。\n\n二、复式簿记举例\n本段个人经济活动的记账举例中，我尽量参照会计准则的要求定义科目名称及进行会计处理。实际可以按个人需求在会计恒等式的基础上灵活地更改。\n（一）购置资产\n2017 年 12 月，我以 2,300 元购入 Nintendo Switch 一台，即：\n\n\n一级科目二级科目借方贷方\n\n固定资产※1数码产品2,300.00 \n短期借款※2招行信用卡 2,300.00\n\n\n※1 固定资产在本文中的定义为使用一年以上、达到一定金额的资产。\n※2 短期…",
-          "link": "https://sspai.com/post/78262",
-          "publishedOn": "2023-02-13T09:47:56.000Z",
-          "wordCount": 632,
-          "title": "使用「复式记账法」快速整理 2022 年度个人财务账单",
-          "imageUrl": "https://cdn.sspai.com/2023/02/13/f4bb69f035aae62a6984abf4a9cc211e.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/78279",
-          "author": "kokdemo",
-          "description": "在这篇文章中，你将可以立体的了解 “第一性原理” 这一思考工具的使用方法、局限，也会与我一起探究从古希腊到近现代的几位哲学家对于 “我们认识这个世界的方式”，“知识从何而来” 的思考和研究。\n“第一性原理”在这几年逐渐流行起来，我不止一次的在工作和阅读中听到它，总是被要求带着第一性原理来思考问题、设计方案。这让我对它产生了极大的好奇心——它真的就是工作中的“杀手锏”吗？\n第一性原理的介绍\n先看个视频\n在中文互联网上搜索“第一性原理”，绝大部分都举了马斯克的案例。大家可以先看这个采访视频，其中第一段只节选了第一性原理的这一部分。\n \n \n如果你对其他的部分感兴趣，也可以看完整版。在这个采访视频中，马斯克分享了自己的分析思路：\n在特斯拉设计汽车的时候，马斯克发现电动车的成本中，电池是最贵的，但分析了电池的组成之后，按照期货市场的原料成本交易价格，算上加工组装成本之后，电池的实际价格并没有成品电池那么贵，因此决定自己生产电池，最终大大的降低了特斯拉的整车成本1。\n什么是第一性原理？\n在采访中，马斯克提到了一个重要的词，叫做 “第一性原理（first principles）”，这并不是一个新鲜概念，而是古希腊哲学家亚里士多德在《形而上学》2一书中提出的：\n\nIn every systematic inquiry (methodos) where there are first principles, or causes, or elements, knowledge and science result from acquiring knowledge of these; for we think we know something just in case we acquire knowledge of the primary causes, the primary first …",
-          "link": "https://sspai.com/post/78279",
-          "publishedOn": "2023-02-13T07:14:19.000Z",
-          "wordCount": 646,
-          "title": "从第一性原理开始，了解归纳与演绎的前世今生",
-          "imageUrl": "https://cdn.sspai.com/2023/02/13/3533acd41c7985a2cf5621128daf4de0.PNG"
-        },
-        {
-          "id": "https://sspai.com/post/78278",
-          "author": "欢喜",
-          "description": "看了这篇文章，你也可以一年跑 1000KM。\n本文有一点标题党的感觉，不过我相信，看完后你多少会有些收获，你的 10 分钟会有所值得。\n\n「有朋友问我是如何一年跑下 1000KM 的，以下是我的答案」。\n坦率地讲，并没有朋友问我这个问题，而且大部分朋友也不知道我在 2022 年跑了 1000KM，就算知道了也不会好奇，这并非是什么了不起的成就。\n以这样的问题开头，纯粹是为了避免尴尬，免得一上来就分享经验显得高傲自大。尽管说过我是为自己写作，但还是希望读者们能有个好的阅读体验。\n\n在回顾 2022 年的运动历程时，我发现我的运动经历其实蛮典型的，我经历了大部分人可能都会经历的阶段，只不过最后我坚持了下来，并最终完成了目标。\n\n扯远了，我承认我喜欢说一些废话，就像日常聊天一样。\n接下来就以「一年跑下 1000KM」作为主题，展开说说要实现这个目标，都要做些什么，本文会从「个人背景」「运动动机」「制定计划」「运动与恢复」「坚持与妥协」「跑步哲学」6 个部分与大家分享。\n个人背景\n年龄：30+\n职业：互联网公司软件开发工程师（程序员）\n家庭成员：母亲（白天帮忙带娃及处理日常家务）、妻子（上班族）、女儿（即将三岁）、我\n工作时间：早 9 晚 19-21 点（不定时），双休，上下班通勤时间总和约 80 分钟\n跑龄：2016-2018 连续三年跑过半马，2019-2021 几乎没有运动，2022.02 开始跑步 11 个月，满打满算跑龄 1 年，从跑步至今累计跑步 1256KM，其中 2022 年就跑了 1000KM 。\n\n简单介绍了下我的个人情况，谁都能看出来我并非是专业运动员，家庭也是上有老下有小，工作虽不是 996 但身处互联网行业压力也可想而知。\n总之我想说的是，我和大部分人一样，就是一个普普通通的人，从时间的自由度或者经济层面来讲，我的运动条件都不是很好。\n正因为普通，才觉得自…",
-          "link": "https://sspai.com/post/78278",
-          "publishedOn": "2023-02-13T05:33:24.000Z",
-          "wordCount": 681,
-          "title": "我是如何一年跑下 1000KM 的？",
-          "imageUrl": "https://cdn.sspai.com/2023/02/13/7cc01c4f5e9587f4074bbc4f02a02ba7.png"
         }
       ]
     },
@@ -740,16 +740,6 @@
           "wordCount": 615,
           "title": "老司机 iOS 周报 #233 | 2023-02-20",
           "imageUrl": "https://opengraph.githubassets.com/eed36645fdb02e36e272b2e4f78eabaefefe0f98281ad6a58dd18a3a22c255bd/SwiftOldDriver/iOS-Weekly/releases/tag/%23233"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23232",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nSwift 5.7 在 iOS 16 以下的系统创建 Task 时可能会发生 Bad access\nSwift 团队在迭代的过程中删去了 Concurrency 相关代码的一个字段，内存布局产生变化，导致 iOS 16 以下的系统在创建 Task 时，部分情况下内存访问会出错，导致崩溃。\n目前已经在主线分支完成修复，按照去年的发布节奏，可能会在三月份发布的 Xcode 里带上这个修复。遇到这个问题的同学如果着急的话，可以先回退到 Xcode 13.x 版本。\n Developer - 设计开发加速器\n在 App 或游戏内创造无障碍体验\n通过 Apple 操作系统内置的辅助功能、辅助功能 API 和开发者工具，开发者们可以为每个用户创建绝佳的无障碍体验。了解如何通过视觉设计和辅助功能技术适配，让你的 App 或游戏对每个人可用。报名截止 2 月 20 日。\n新手推荐\n🐎 如何实现 iOS 16 带来的 Depth Effect 图片效果\n@zoeGuo: iOS 16 系统为我们带来了比较惊艳的桌面锁屏效果：Depth Effect。它可以使用一张普通图片当背景，同时可以在适当的地方遮拦住部分桌面组件，形成一种景深的效果。那么我们可以在自己的 App 实现类似的效果吗？文章介绍了如何使用苹果机器学习官网提供的机器学习模型 DeeplabV3 一步步实现 Depth Effect 效果的。虽然 DeeplabV3 模型在具体应用中还有一定的局限性，但作为尝鲜体验也是非常不错的～\n文章\n🐕 🌟 夸克 iOS Top1 JSC 崩溃攻克之旅\n@Leo：Top Crash 的排查一直是 iOS …",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23232",
-          "publishedOn": "2023-02-13T02:17:37.000Z",
-          "wordCount": 541,
-          "title": "老司机 iOS 周报 #232 | 2023-02-13",
-          "imageUrl": "https://opengraph.githubassets.com/e47aa92f8205a9473e586ac5674944559818101e4c057b56020e865fb6b6e502/SwiftOldDriver/iOS-Weekly/releases/tag/%23232"
         }
       ]
     },
@@ -764,6 +754,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74392",
+          "author": null,
+          "description": "皮尤研究中心（Pew Research Center）调查了 11,004 名美国成年人对周围产品使用 AI 的认识。这次调查是在去年 12 月进行的，当时 ChatGPT 还没有成为最热门的科技话题。调查发现，一个人受教育程度越高，或家庭收入越高，那么更有可能识别 AI。一个人使用互联网的次数越多，也越可能认识到 AI 的使用。在被调查的人中，约四分之一听过 AI，15% 从未听过。对于 AI 可能带来的隐患，38% 的人担忧多于兴奋，15% 的人兴奋多于担忧。人们对 AI 的了解越深入，那么他们就越可能兴奋不已。",
+          "link": "https://www.solidot.org/story?sid=74392",
+          "publishedOn": "2023-03-14T15:18:40.000Z",
+          "wordCount": 170,
+          "title": "皮尤调查显示人们对 AI 更可能感到担忧而不是兴奋",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74390",
+          "author": null,
+          "description": "在美国证交会（SEC）指控总部位于新加坡的加密货币公司 Terraform 及其 CEO Do Kwon 欺骗投资者数十亿美元之后，美国司法部也对 Terraform 的算法稳定币 TerraUSD（UST）的崩溃展开了调查，Do Kwon 有可能在美国面临刑事指控。去年 5 月 UST 币值崩溃关联代币 LUNA 几乎跌至一文不值，客户为此损失了数十亿美元。FBI 最近询问了 Terraform 的前成员，其调查范围与 SEC 的指控类似。",
+          "link": "https://www.solidot.org/story?sid=74390",
+          "publishedOn": "2023-03-14T14:34:14.000Z",
+          "wordCount": 172,
+          "title": "美国司法部调查 TerraUSD 稳定币的崩溃",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74389",
+          "author": null,
+          "description": "提供机器人律师服务的创业公司DoNotPay 被芝加哥律师事务所 Edelson 起诉无证执业。DoNotPa 的服务被认为将减少客户聘请律师的机会，对律所的生存构成了挑战。Edelson 在诉状中称，对客户来说，DoNotPay 不是一个机器人，不是律师，也不是一个律所。DoNotPay 没有法学学位，不受任何司法管辖，也没有任何律师的监督。DoNotPay 成立于 2015 年，最初是一款帮助客户处理停车罚单的应用，后来扩大了业务范围，使用 AI 帮助客户处理一系列法律服务。DoNotPay 否认了指控，表示将会积极为自己辩护。",
+          "link": "https://www.solidot.org/story?sid=74389",
+          "publishedOn": "2023-03-14T13:22:28.000Z",
+          "wordCount": 157,
+          "title": "机器人律师公司被律所起诉无证执业",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74388",
+          "author": null,
+          "description": "微软斥资数亿美元建造驱动 AI 聊天机器人 ChatGPT 的超算。微软称它在其 Azure 云计算平台使用了数以千计的英伟达 GPU，以为 OpenAI 的项目提供强大的运算能力，帮助 OpenAI 训练愈来愈强大的模型，解锁 ChatGPT 和 Bing 等工具的 AI 能力。微软使用了英伟达的 H100 和 A100 Tensor Core GPU，以及 Quantum-2 InfiniBand 网络。这能为 OpenAI 以及其它公司训练更大更复杂的 AI 模型。",
+          "link": "https://www.solidot.org/story?sid=74388",
+          "publishedOn": "2023-03-14T10:56:57.000Z",
+          "wordCount": 179,
+          "title": "微软投资数亿美元建造驱动 ChatGPT 的超算",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74387",
+          "author": null,
+          "description": "根据发表在《Nature Water》期刊上的一项研究，极端干旱和降雨的强度过去二十年急剧增加。恶劣气候会带来严重后果，包括农作物歉收、基础设施破坏，人道主义危机和冲突。研究人员表示，数据证实，由于人类活动释放的温室气体，降雨和干旱的频率和强度都在增加。研究人员利用算法分析了 2002-2021 年的 1,056 起事件，发现最极端的降雨在撒哈拉以南非洲持续发生，2018-2021 年北美中部和东部以及 2011-2012 年澳大利亚也发生极端降雨。2015-2016 年南美洲东北部发生了创纪录的最严重干旱。干旱事件比暴雨事件多 10%。其地理范围和持续时间相似。联合国表示，索马里正经历最漫长和最严重的干旱，已导致数百万牲畜死亡和广泛的饥饿。",
+          "link": "https://www.solidot.org/story?sid=74387",
+          "publishedOn": "2023-03-14T10:49:13.000Z",
+          "wordCount": 151,
+          "title": "研究显示极端气候强度过去二十年急剧增加",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74386",
+          "author": null,
+          "description": "Opera 和 Vivaldi 的联合创始人谭咏文（Jon Stephenson von Tetzchner）对互联网的现状感到悲观，尤其是对于广告，他认为广告商从我们手中偷走了互联网。Google 准备在 Android 系统引入名为 Privacy Sandbox 的功能，在保护用户隐私的名义下实现个性化广告。Privacy Sandbox 将在设备上创建一个离线的用户画像，在此基础上展示个性化广告。谭咏文认为这种技术和标准的跟踪技术之间并无差别。它仍然是一种跟踪技术，仍然可以实现对用户的监控和操纵。这位从 1992 年起就从事互联网相关工作的资深从业者表示，互联网应该是开放和自由的，你本不应该担心被监控。今天基于跟踪的广告在有利可图上并没有高于以前的广告，以前的网站广告和电视刊物上的广告类似，人们不需要去屏蔽广告，网站也不会去跟踪你。如今付费墙已经相当普遍，15 年前的互联网并非如此。",
+          "link": "https://www.solidot.org/story?sid=74386",
+          "publishedOn": "2023-03-14T09:53:08.000Z",
+          "wordCount": 158,
+          "title": "谭咏文认为广告商偷走了互联网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74385",
+          "author": null,
+          "description": "加州上诉法庭本周一裁决，Uber 和 Lyft 等零工巨头可以继续将其工人视为独立合同工。在 2020 年 11 月的投票中，加州选民通过了 Proposition 22。该法案让零工免于受到该州劳动法的约束，对 Uber 和 Lyft 等零工公司来说这是一大胜利，它们一直致力于保持零工为独立合同工的地位，无需提供额外的福利。但在 2021 年加州 Alameda 县高等法院法官 Frank Roesch 裁决 Proposition 22 违宪，理由是它限制了未来立法机关定义基于应用程序的司机为工人受工人赔偿法约束的权力。支持 Proposition 22 的组织立即提起上诉。加州上诉法庭的最新裁决推翻了 2021 年的违宪判决，但它同时也从 Proposition 22 移除了一个条款，该条款限制了工人的劳资谈判协议。",
+          "link": "https://www.solidot.org/story?sid=74385",
+          "publishedOn": "2023-03-14T07:32:21.000Z",
+          "wordCount": 172,
+          "title": "加州上诉法庭裁决零工是独立合同工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74384",
+          "author": null,
+          "description": "根据发表在《Intelligence》期刊上的一项研究，美国的一组心理学家通过分析在线测试发现，美国人的 IQ 得分近一个世纪以来首次下滑。研究人员分析了过去 12 年成年人参与 Synthetic Aperture Personality Assessment Project 项目的 IQ 测试结果，发现不管性别所有成年组的 IQ 得分都在下降，其中年轻人下降幅度最大。当代人在空间推理等少数技能上比前几代有进步，但在解决问题、数列评估和语言推理等方面则变差了。研究人员未做任何研究尝试解释这种现象，推测可能与教育系统的变化有关。他们也没有回答 IQ 是否能准确衡量一个人智力这一争议问题。",
+          "link": "https://www.solidot.org/story?sid=74384",
+          "publishedOn": "2023-03-14T06:59:16.000Z",
+          "wordCount": 166,
+          "title": "研究称美国人的 IQ 得分近一个世纪以来首次下滑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74383",
+          "author": null,
+          "description": "WordPress.com 网站将有更简单的方法整合到联邦平台。WordPress.com 和 Tumblr 等服务的母公司 Automattic 收购了 ActivityPub for WordPress 插件，招募了该插件的开发者。ActivityPub 是一个开放去中心化社交网络协议，被 Mastodon、Pixelfed 和 PeerTube 等应用使用。ActivityPub 插件允许其他联邦平台的用户订阅 WordPress 博客。该插件目前支持 Mastodon、Pleroma、Friendica、HubZilla、Pixelfed、SocialHome 和 Misskey。Automattic CEO Matt Mullenweg 去年曾表示 Tumblr 将加入对 ActivityPub 的支持，他还没有公布任何 WordPress 相关的计划。",
+          "link": "https://www.solidot.org/story?sid=74383",
+          "publishedOn": "2023-03-14T06:05:01.000Z",
+          "wordCount": 192,
+          "title": "Automattic 收购 ActivityPub 插件 WordPress 加入联邦平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74382",
+          "author": null,
+          "description": "单机版大语言模型正快速向我们走来。自 ChatGPT 发布以来，一些人就对 AI 模型内置的对敏感话题的限制以及需要为使用 API 向 OpenAI 付费而感到沮丧。大语言模型的开源方案也存在，但距离普通人很遥远，它们或者需要大量的 GPU 显存和存储空间，或者在消费级硬件上达不到 GPT-3 级别的性能。但 Meta 的 LLaMA 改变了这一现状。2 月 24 日 Meta 宣布了它的大语言模型 LLaMA，参数规模在 70 亿到 650 亿之间，它还没有开源，只是提供给一部分研究人员预览。但在 3 月 2 日有人通过 BT 泄露了 LLaMA。随后开源社区迅速围绕 LLaMA 进行优化和开发，使其能运行在普通人能访问的硬件上。3 月 11 日 Georgi Gerganov 创建了能运行在 M1 Mac 的 llama.cpp；12 日 Artem Andreenko 在 4GB 内存的树莓派 4 上运行 LLaMA 7B（生成速度 10 sec/token）；13 日有人设法在 Pixel 6 手机上运行 llama.cpp；同一天斯坦福研究人员发布了 LLaMA 7B 的优化版 Alpaca 7B，性能接近 OpenAI 的 text-davinci-003 但硬件需求低得多。",
+          "link": "https://www.solidot.org/story?sid=74382",
+          "publishedOn": "2023-03-14T05:34:08.000Z",
+          "wordCount": 227,
+          "title": "你现在可以在笔记本电脑、手机和树莓派上运行 AI 模型 LLaMA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74381",
+          "author": null,
+          "description": "两年前，两名 Google 研究员开始力促公司发布一款聊天机器人，它依托的技术在当时是所向披靡的。他们开发的那款对话式应用可以自信地进行哲学辩论，拿它最喜欢的电视节目打趣，还能即兴创作有关牛和马的谐音梗。\n据知情人士说，两名研究员告诉同事们，像他们开发的这种由最新 AI 驱动的聊天机器人将彻底改变网络搜索和人机交互方式。他们催促 Google 允许外部研究人员使用该聊天机器人，尝试将其整合到虚拟助手 Google Assistant 中，随后还要求 Google 进行公开演示。Google 高管多次回绝了他们，至少有一次说这个项目不符合公司关于 AI 系统安全性和公平性的标准。两人在 2021 年辞职创业从事于类似技术。Google 帮助开创了现代人工智能时代，而如今，它对这项技术的谨慎做法在一位宿敌的挺进下面临考验。",
+          "link": "https://www.solidot.org/story?sid=74381",
+          "publishedOn": "2023-03-13T15:05:00.000Z",
+          "wordCount": 171,
+          "title": "Google 对 AI 的谨慎导致其落在微软后面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74380",
+          "author": null,
+          "description": "2013 年 3 月 13 日 Google 宣布，作为第二个春季大扫除计划之一，Google Reader 因用户数量逐年下降，于 2013 年 7  月 1 日终止服务。10 年之后，Google 杀死 Reader 的主要动机——为其社交服务 Google+ 吸引用户——也早就不复存在。当时的 Google 执行官将社交网络 Facebook 视为对其构成了存在性威胁，因而全力推广和整合 Google+，而集成了简约社交功能的 Google Reader 被视为一大障碍，须将其除掉而后快。Google Reader 被杀死了，而 Google+ 也在几年后步入后尘。社交网络没有成为 Google 的存在性威胁，AI 聊天机器人会不会还是未知数。但 Google Reader 作为一个成功的产品，对许多人具有重要意义，Google 冒然将其杀死造成了巨大冲击，对所有其它 Google 产品都产生了负面影响——今天每当 Google 推出一个新产品，用户心中都会涌出疑问——它会不会被杀死？Google 产品成为了不可靠的代名词。",
+          "link": "https://www.solidot.org/story?sid=74380",
+          "publishedOn": "2023-03-13T14:19:17.000Z",
+          "wordCount": 198,
+          "title": "Google 杀死 Reader 十周年",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74379",
           "author": null,
@@ -790,7 +900,7 @@
           "description": "Twitter 的衰落给其它平台带来了机会，现在社交领域最大的玩家也参与进来。Facebook 和 Instagram 的母公司 Meta 据报道正在构建一个去中心化的、基于文本的社交网络应用。该应用的代号为 P92，允许用户通过 Instagram 账号登陆。该产品处于早期阶段，没有发布时间表。作为最大的围墙花园中心化社交网络运营者，新应用最引人瞩目的地方是去中心化，也就是和联邦架构的 Mastodon 类似，用户可以构建自己的服务器，为该服务器上的内容审核制定自己的规则。去中心化允许该应用与其它应用互通，这对 Meta 而言是闻所未闻的。",
           "link": "https://www.solidot.org/story?sid=74377",
           "publishedOn": "2023-03-13T12:54:41.000Z",
-          "wordCount": 162,
+          "wordCount": 163,
           "title": "Meta 探索构建去中心化微博服务挑战 Twitter",
           "imageUrl": null
         },
@@ -800,7 +910,7 @@
           "description": "《潜行者》系列的乌克兰游戏工作室 GSC Game World 通过官方 Twitter 账号发表声明，证实员工共同使用的图像应用账号遭到入侵，正在开发中的《潜行者2（STALKER 2）》图像素材库遭窃取。此前，自称 Vestnik TSS 的俄罗斯黑客组织在社交网站 VK 上公布了一系列游戏图像和原画，提出了一系列要求，如果得不到满足它将泄露数十 GB 的游戏材料。俄罗斯黑客要求 GSC Game World 改变对待俄罗斯和白俄玩家的态度并为此道歉，要求游戏支持俄语本地化，以及解除工作室 Discord 频道对 NF Star 的禁令。如果条件在 3 月 15 日前得不到满足，黑客将公开数十 GB 的素材，包括完整故事、过场、世界地图等。工作室发表声明拒绝了所有要求，请求玩家不要观看泄露的信息，耐心等待游戏的正式发布。",
           "link": "https://www.solidot.org/story?sid=74376",
           "publishedOn": "2023-03-13T10:34:11.000Z",
-          "wordCount": 172,
+          "wordCount": 171,
           "title": "俄罗斯黑客威胁泄露开发中的《潜行者2》游戏素材",
           "imageUrl": null
         },
@@ -842,36 +952,6 @@
           "publishedOn": "2023-03-13T07:00:51.000Z",
           "wordCount": 141,
           "title": "网信办启动自媒体专项整治行动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74371",
-          "author": null,
-          "description": "苹果及其合作伙伴富士康说服印度卡纳塔克邦放松了劳工法律，允许实行两班倒，类似在中国生产基地的做法。卡纳塔克邦是印度科技业的中心，上周通过了一项劳动法修正案，允许 12 小时轮班，此前轮班被限制在 9 小时。它还放宽了女性夜间工作的规定，女性在中国大陆、台湾和越南的电子生产线上占绝对多数，但在印度劳动人口中人数不足。该立法将每周最长工作时间定为 48 小时，将三个月内允许的加班时间从 75 小时增加到 145 小时。印度预计将在今年超过中国成为世界人口最多的国家，而印度也在努力成为替代中国的一个制造基地，新的劳动法让卡纳塔克邦成为印度工作制度最灵活的邦之一。",
-          "link": "https://www.solidot.org/story?sid=74371",
-          "publishedOn": "2023-03-13T06:31:03.000Z",
-          "wordCount": 151,
-          "title": "苹果富士康说服印度邦放松劳工法律",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74370",
-          "author": null,
-          "description": "在第 95 届奥斯卡金像奖颁奖典礼上，杨紫琼主演的《瞬息全宇宙（Everything Everywhere All at Once）》赢得了奥斯卡最佳影片。《瞬息全宇宙》共获得 11 项提名，赢得 7 个奖项，除最佳影片外，还有最佳导演、最佳女主角、最佳男配角、最佳女配角、最佳原创剧本和最佳影片剪辑。《阿凡达:水之道》赢得最佳视觉特特效，《西线无战事》最佳摄影，《壮志凌云：独行侠》最佳音效，《吉尔莫·德尔·托罗的匹诺曹》最佳动画。",
-          "link": "https://www.solidot.org/story?sid=74370",
-          "publishedOn": "2023-03-13T05:54:41.000Z",
-          "wordCount": 151,
-          "title": "《瞬息全宇宙》赢得奥斯卡最佳影片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74369",
-          "author": null,
-          "description": "美联储、美国财政部长和 FDIC 的负责人发表联合声明，宣布为了加强公众对银行系统的信心保护美国经济，上周五破产的硅谷银行的所有储户都能从本周一开始取回所有存款，而不是标准情况下的 25 万美元。美国联邦监管机构称，政府基金的任何损失都将在对银行的一项特别评估中得到补偿，美国纳税人不会承担任何损失。 美联储表示，“正在密切关注整个金融系统的状况，并准备使用其全部工具来支持家庭和企业，并将酌情采取更多措施”。美联储称，将通过一个新的“银行定期融资项目”向银行提供额外的资金，以确保它们有“能力满足所有储户的需求”；该项目将向以美国国债、抵押贷款支持证券等作为抵押品的银行提供最长一年的贷款。",
-          "link": "https://www.solidot.org/story?sid=74369",
-          "publishedOn": "2023-03-13T01:51:54.000Z",
-          "wordCount": 148,
-          "title": "美国监管机构表示硅谷银行的所有储户能取回所有存款",
           "imageUrl": null
         },
         {
@@ -3103,26 +3183,6 @@
           "wordCount": 176,
           "title": "GitHub Copilot 推出企业版",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74111",
-          "author": null,
-          "description": "研究实验性抗衰老疗法的科学家称，名叫 Sima 的实验鼠打破了寿命记录。Sima 在印度语中代表边界的意思，它在 2019 年 2 月 28 日出生，至今活了 47 个月，打破了科学文献中雌性 Sprague-Dawley 鼠 45.5 个月的最长寿命记录。在实验中，对照组的八只鼠输入了生理盐水，它们生活了 34-38 个月，输入提纯浓缩年轻鼠血浆的八只鼠活了 38-47 个月，它们的握力也有显著改善。鼠的寿命通常为 2-3 年，有一只褐鼠在严格限制热量摄入的情况下活了 4.6 年，有资格竞争最年长鼠的记录。已经有多项研究显示输入年轻血液能改善器官和组织，但至今还没有证据表明这种类似吸血鬼的方法能帮助人类躲避时间的流逝。加州创业公司 Yuvan Research 的首席科学官 Harold Katcher 博士表示，如果这种方法能在人类身上显示出效果——需要大量的动物实验——血浆可以从屠宰场的猪身上采集。",
-          "link": "https://www.solidot.org/story?sid=74111",
-          "publishedOn": "2023-02-12T15:18:51.000Z",
-          "wordCount": 171,
-          "title": "科学家称年轻血液延长了实验鼠的寿命",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74110",
-          "author": null,
-          "description": "摩根大通的分析师认为，生成式 AI 模型如 ChatGPT 将在短期内冲击印度 IT 外包公司。随着生成式 AI 应用更广泛，咨询公司如 Accenture 和 Deloitte 将在短期内获得比印度 IT 外包公司 Infosys 和 Wipro 更多的市场份额。ChatGPT 对传统服务冲击最大，应用服务冲击最小。OpenAI 的聊天机器人让业务爱好者和行业专家都感到目眩神迷，它能模仿人类语言，创造俳句、调试代码和回答问题，这些成就帮助 OpenAI 吸引了来自微软的百亿美元投资。",
-          "link": "https://www.solidot.org/story?sid=74110",
-          "publishedOn": "2023-02-12T14:01:54.000Z",
-          "wordCount": 185,
-          "title": "ChatGPT 等 AI 模型将冲击印度 IT 外包公司",
-          "imageUrl": null
         }
       ]
     },
@@ -3132,203 +3192,203 @@
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
         {
-          "id": "https://news.cnblogs.com/n/738175/",
+          "id": "https://news.cnblogs.com/n/738257/",
           "author": null,
-          "description": "文｜深瞳商业，作者楚青舟 3 月 10 日，网易 LOFTER 正式发布给创作者的致歉信；据了解，近日备受争议的“头像生成器”功能也已下架。 对这家平台而言，持续发酵数日的“AI 绘画”舆情风波热度正在慢慢下降。但对整个互联网内容社区而言，真正值得讨论的话题才刚刚开始。 事实上，AIGC 远非今天开\n本文链接",
-          "link": "https://news.cnblogs.com/n/738175/",
-          "publishedOn": "2023-03-13T09:00:00.000Z",
+          "description": "作为花了 200 大洋和陌生人组成家庭的纯正 Apple one 用户，苹果这项“多合一”订阅模式确实要比单买单项服务要划算不少，尤其是对于手游爱好者和音乐爱好者的我来说，苹果自家 Arcade 游戏订阅是非常吸引我的一项功能，而 Apple music、Apple TV+ 和 iCloud，只是顺\n本文链接",
+          "link": "https://news.cnblogs.com/n/738257/",
+          "publishedOn": "2023-03-14T22:36:51.000Z",
           "wordCount": 163,
-          "title": "网易LOFTER“AI绘画”风波，给内容社区两个重要启示",
+          "title": "苹果Arcade成不了微软XGP",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738174/",
+          "id": "https://news.cnblogs.com/n/738256/",
           "author": null,
-          "description": "文｜雷科技 leitech 3 月 8 日，微软在英国老牌报纸《金融时报》刊登了一则整版广告，针对监管机构「伤害玩家利益」的质疑正式对外发表了回应，声称动视暴雪收购案的成功将： 为 1.5 亿全球玩家提供《使命召唤》。 微软所称的 1.5 亿玩家，包括任天堂 Switch 上的 1.25 亿玩家，以\n本文链接",
-          "link": "https://news.cnblogs.com/n/738174/",
-          "publishedOn": "2023-03-13T08:48:00.000Z",
+          "description": "品玩 3 月 14 日讯，据日产中国官方消息，由日产出行服务有限公司推出的无人驾驶出租车项目近日于苏州正式开启测试运营。 据悉，此次测试将基于日产旗下日产聆风推出，由文远知行 WeRide 提供自动驾驶技术支持。在首阶段测试运营中，日产无人驾驶出租车将覆盖苏州高铁新城核心地区及公开道路。苏州当地市民\n本文链接",
+          "link": "https://news.cnblogs.com/n/738256/",
+          "publishedOn": "2023-03-14T22:34:48.000Z",
           "wordCount": 163,
-          "title": "微软一路向北，离开索尼的战场",
+          "title": "日产出行无人驾驶Robotaxi开启试运营，文远知行提供技术支持",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738173/",
+          "id": "https://news.cnblogs.com/n/738255/",
           "author": null,
-          "description": "文盒饭财经，作者 尹磊，编辑 赵晋杰 从巨人网络退居二线整整十年，史玉柱苦心经营着闲人大嘴巴的无害形象。 近期在宣布回归巨人网络的讲话中，精于营销的史玉柱，委屈巴巴地说，这些年交了一百个男性朋友，帮人又是借钱又是担保，十几年损失惨重。 2021 年，史玉柱帮人担保而屡遭股权冻结的消息就频现媒体报道，\n本文链接",
-          "link": "https://news.cnblogs.com/n/738173/",
-          "publishedOn": "2023-03-13T08:36:00.000Z",
+          "description": "‘核心提示’ “一人上班，没有东西，正在制作”“你去投诉吧，我不怕”，摆烂式营业在便利蜂越来越常见，人手紧缺的背后是公司引以为傲的算法驱动与员工之间的矛盾越来越突出。 作者 佘伟航、张梦依 编辑 邢昀 底部安装着移动滑轮，上身装着监控，一个接近两米高的冰冷机器在店铺里面四处游荡。当我站在便利蜂的点餐\n本文链接",
+          "link": "https://news.cnblogs.com/n/738255/",
+          "publishedOn": "2023-03-14T13:31:00.000Z",
           "wordCount": 163,
-          "title": "史玉柱迷失朋友圈",
+          "title": "店员困在算法里，便利蜂不“便利”",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738172/",
+          "id": "https://news.cnblogs.com/n/738254/",
           "author": null,
-          "description": "3 月 12 日消息，从哪吒汽车官方获悉，哪吒汽车泰国生态智慧工厂于 3 月 10 日奠基，将成为哪吒汽车打造右舵电动汽车、出口东盟的主要制造基地。 ▲ 哪吒 V 右舵版 同时，哪吒汽车与泰国 BGAC 公司签署合作协议，协议包括双方将共同投资建设现代化电动汽车组装基地，以及强化人员技能的可持续发展\n本文链接",
-          "link": "https://news.cnblogs.com/n/738172/",
-          "publishedOn": "2023-03-13T08:28:00.000Z",
+          "description": "作者木俞 编辑白露 来源惊蛰研究所 一颗话梅 25.6 元；两碗麻辣烫 175 元；6 块巴掌大的手工牛轧糖，总价 466 元……最近一段时间，年轻人被称重商品“刺”到的新闻频繁登上网络热搜。 不同于“雪糕刺客”和“文具刺客”们单纯因为售价超出预期，而使消费者身心大受震撼，“称重刺客”往往都是明码标\n本文链接",
+          "link": "https://news.cnblogs.com/n/738254/",
+          "publishedOn": "2023-03-14T13:24:00.000Z",
           "wordCount": 163,
-          "title": "哪吒汽车泰国工厂奠基，将打造右舵电动汽车并出口东盟",
+          "title": "315洞察丨称重刺客盯上年轻人",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738171/",
+          "id": "https://news.cnblogs.com/n/738253/",
           "author": null,
-          "description": "文玩世代 近日乐高“90 周年”成绩单出炉，乐高集团保持了两位数增长。乐高集团首席执行官尼尔斯·B·克里斯蒂安森（Niels B.Christiansen）称其为“里程碑式的一年”，“强劲的业绩表明，乐高比以往任何时候都更具价值和吸引力”。 正如引言所言，从财报数据看，乐高的增长并非依靠提高产品售价\n本文链接",
-          "link": "https://news.cnblogs.com/n/738171/",
-          "publishedOn": "2023-03-13T08:21:00.000Z",
+          "description": "欧洲不一定是摇钱树，东南亚也不意味着掘不到金。 作者张超 编辑罗丽娟 出海，是国内车企讲了十多年的旧题，始终难有突破。直到新能源汽车的火爆，才给海外市场注入了新故事。 根据泰国近日公布的 2 月纯电车型上牌量名单，排名前四的车型中，除特斯拉 Model Y 一款美系车外，剩余三席均被中国品牌占据。其\n本文链接",
+          "link": "https://news.cnblogs.com/n/738253/",
+          "publishedOn": "2023-03-14T10:00:00.000Z",
           "wordCount": 163,
-          "title": "亚洲增速26%滑至5%，乐高持续加码中国",
+          "title": "被低估的战场：比亚迪、哪吒卷过了日系车",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738170/",
+          "id": "https://news.cnblogs.com/n/738252/",
           "author": null,
-          "description": "多多视频入口位置及首页，图/拼多多 APP 文一刻商业，作者扣子，编辑 周烨 令很多人感到意外的是，多多视频的日活正在飙升。 据 36 氪报道，拼多多旗下短视频业务“多多视频”DAU 已于去年底至 2023 年初突破 1.5 亿，目前稳定在1-1.2 亿，用户时长峰值超过 40 分钟，目前稳定在 3\n本文链接",
-          "link": "https://news.cnblogs.com/n/738170/",
-          "publishedOn": "2023-03-13T08:12:00.000Z",
+          "description": "3 月 14 日消息，抖音集团发布了 2022 年企业社会责任报告（下称“报告”）。其中，乡村发展、公益平台建设、古籍保护是工作重点。 报告显示，抖音集团持续助力乡村发展。2022 年，抖音集团以农民增收、产业增效为核心目标，聚焦乡村“人、货、景”，重点打造“山里 DOU 是好风光”“山货上头条”“\n本文链接",
+          "link": "https://news.cnblogs.com/n/738252/",
+          "publishedOn": "2023-03-14T09:45:00.000Z",
           "wordCount": 163,
-          "title": "多多视频DAU破亿：内容生态不及抖快，却足够让阿里、京东警惕？",
+          "title": "抖音：2022年发布公益视频48.9万条，播放量达112亿次",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738169/",
+          "id": "https://news.cnblogs.com/n/738251/",
           "author": null,
-          "description": "文 金角财经，作者塞尔达 瑞幸咖啡创始人陆正耀，在连续搞黄几个项目后，又重回咖啡行业。 2022 年 10 月，陆正耀正式宣布启动库迪咖啡项目，彼时离其创立的“舌尖英雄”陷入关店潮刚过去两个月。 目前，库迪咖啡已经把门店开出一千多家，并且新店数量还在不断上升。 野蛮生长的味道依然熟悉，不管是低价促销\n本文链接",
-          "link": "https://news.cnblogs.com/n/738169/",
-          "publishedOn": "2023-03-13T08:00:00.000Z",
+          "description": "茅台，想必大家都不陌生。。。 这货是酒席上的硬通货，交易市场上的超级战士。 所以，如果现在告诉你，有个平价买茅台的机会，你会心动么？ 反正世超立马就去 App Store 下了这个能平价买茅台的 App。 这是 App 么？这是我发家致富的机会。。。 很有趣的是，世超下 App 的时候特地留意了一下\n本文链接",
+          "link": "https://news.cnblogs.com/n/738251/",
+          "publishedOn": "2023-03-14T09:40:00.000Z",
           "wordCount": 163,
-          "title": "加盟商33年回本，陆正耀提着镰刀重做咖啡？",
+          "title": "一百万人下载的茅台APP，真能让我原价买到茅台么？",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738168/",
+          "id": "https://news.cnblogs.com/n/738249/",
           "author": null,
-          "description": "随着人工智能技术的不断发展，越来越多的企业开始将人工智能应用于业务中，以提高效率、增强客户体验、优化业务决策等。在这场人工智能的革命中，微软 Azure 推出了一个新的产品—— OneAI，它由 ChatGPT AI 驱动，旨在为企业提供强大的人工智能能力，以帮助企业实现业务的数字化转型。 什么是 \n本文链接",
-          "link": "https://news.cnblogs.com/n/738168/",
-          "publishedOn": "2023-03-13T07:50:00.000Z",
+          "description": "“ 硅谷银行（ Silicon Valley Bank ，以下简称 SVB ）的破产，就是精准狙击华人的存款，这是对中国科技行业的定向打击！” “ SVB 的破产，其实只是美国收割的中国富豪的开始！” 前面这些话可不是差评君说的，而是最近两天各大营销号最火的阴谋论台词。 这两天，硅谷银行的那些事儿，\n本文链接",
+          "link": "https://news.cnblogs.com/n/738249/",
+          "publishedOn": "2023-03-14T09:30:00.000Z",
           "wordCount": 163,
-          "title": "微软Azure推出OneAI，由ChatGPT AI驱动",
+          "title": "不是，硅谷银行破产，咋在营销号那儿又成美国赢了?",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738167/",
+          "id": "https://news.cnblogs.com/n/738250/",
           "author": null,
-          "description": "谷歌宣布，网页版的谷歌翻译现在已能直接处理图片中的文字。 该功能使用的是跟 Google Lens 一样的 AR Translate 技术，目前支持 113 种源语言和 133 种目标语言。 在最新的谷歌翻译网页版中，用户可以找到新的图片翻译选项。点击后就能上传照片或屏幕截图，翻译出来的文字可以复制\n本文链接",
-          "link": "https://news.cnblogs.com/n/738167/",
-          "publishedOn": "2023-03-13T07:40:00.000Z",
+          "description": "Tech 星球 3 月 14 日消息，腾讯会议发布调整说明：4 月 4 日起逐步取消免费用户「300 人不限时会议」使用权限，单场会议最高人数和时长调整为 100 人/60 分钟。相关升级功能移入会员体系。 据悉，腾讯会议是腾讯云旗下的一款音视频会议软件，于 2019 年 12 月底上线。具有 30\n本文链接",
+          "link": "https://news.cnblogs.com/n/738250/",
+          "publishedOn": "2023-03-14T09:25:00.000Z",
           "wordCount": 163,
-          "title": "谷歌翻译网页版升级 可直接翻译图片中文字",
+          "title": "腾讯会议将取消免费300人不限时会议使用权限",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738166/",
+          "id": "https://news.cnblogs.com/n/738248/",
           "author": null,
-          "description": "图片来源@视觉中国 文｜巨潮 WAVE，作者｜荆玉 最近一段时间，生成式 AI 赛道受关注的程度，用“烈火烹油”来形容都不过分。 2022 年 11 月 ChatGPT 诞生。凭借背后强大的技术，ChatGPT 可以完成流畅对答、写脚本、写方案、写代码等各项功能，更展现出了此前 AI 无法实现的“创\n本文链接",
-          "link": "https://news.cnblogs.com/n/738166/",
-          "publishedOn": "2023-03-13T07:32:00.000Z",
+          "description": "界面新闻记者李彪 界面新闻编辑文姝琪 “大家可以放心了，美联储出手托底。 ” \"得救了！！！” 硅谷银行（SVB）倒闭被紧急接管后，周末两天连续加班的美国财政部终于赶在周日下午六点左右，联合美联储宣布出手救市。 美国东部时间 3 月 12 日晚，美国财政部、美联储美国联邦存款保险公司三家联合发布公告\n本文链接",
+          "link": "https://news.cnblogs.com/n/738248/",
+          "publishedOn": "2023-03-14T09:19:00.000Z",
           "wordCount": 163,
-          "title": "李彦宏，不能输的一战",
+          "title": "硅谷银行可以取钱了，创投圈的人还是睡不着",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738165/",
+          "id": "https://news.cnblogs.com/n/738247/",
           "author": null,
-          "description": "图片来源@视觉中国 文｜巴比特资讯 自 2022 年末 OpenAI 面向公众推出 ChatGPT 以来，人工智能（AI）的热度一直居高不下。圣诞老人来得很早，他给人类带来了一台能回答大多数问题的机器！ ChatGPT 是增长到一亿用户用时最快的应用，就像许多由 VC 投资的初创公司一样，它每天都在\n本文链接",
-          "link": "https://news.cnblogs.com/n/738165/",
-          "publishedOn": "2023-03-13T07:24:00.000Z",
+          "description": "面对 Temu 的快速崛起，SHEIN 需要给投资人一个交代。 文｜《中国企业家》记者闫俊文 编辑｜李薇 图片来源｜视觉中国 一份来自大洋彼岸的诉状，将两家明星跨境公司放在了聚光灯下。 2022 年 12 月，SHEIN 在美国伊利诺伊州北区地方法院对拼多多旗下 Temu 提起诉讼，距离 Temu \n本文链接",
+          "link": "https://news.cnblogs.com/n/738247/",
+          "publishedOn": "2023-03-14T09:13:00.000Z",
           "wordCount": 163,
-          "title": "万字详解生成式 AI 与 Web3",
+          "title": "拼多多海外突进，SHEIN打响反击第一枪",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738164/",
+          "id": "https://news.cnblogs.com/n/738246/",
           "author": null,
-          "description": "3 月 13 日上午消息，近日，有网友反馈在使用小红书时，手机系统会提示称“小红书正在删除照片”，小红书官方回应到，其并未删除用户手机中的原图片，而是清理了用户在使用 App 时生成的临时缓存。 具体而言，用户在使用某些版本小红书 App 的部分功能时，系统可能会生成临时缓存文件以便于使用。用户完成\n本文链接",
-          "link": "https://news.cnblogs.com/n/738164/",
-          "publishedOn": "2023-03-13T07:15:00.000Z",
+          "description": "原市场负责人离职，副总裁张宁代管 「市界」独家获悉，知乎市场负责人宋晓曦已离职两周，她在知乎的任职时间还不到两个月。2022 年 4 月，原市场负责人、老知乎人来原离职后，市场中心由知乎公关负责人张欢接手。当时，内部人士认为这是一个过渡方案。 2023 年初，张欢也从知乎离开。知情人士认为，过去一年\n本文链接",
+          "link": "https://news.cnblogs.com/n/738246/",
+          "publishedOn": "2023-03-14T09:06:00.000Z",
           "wordCount": 163,
-          "title": "小红书正在删除照片？官方回应：只是在清理临时缓存",
+          "title": "独家｜知乎市场负责人离职，教育业务或将分拆",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738163/",
+          "id": "https://news.cnblogs.com/n/738245/",
           "author": null,
-          "description": "造谣一张嘴，辟谣跑断腿 。 近日，计算机科学家、隐私技术专家 Alexander Hanff 在 The Register 发帖控诉称，ChatGPT 不仅到处宣扬他死了，还试图给他伪造一份讣告。 Hanff 表示，在过去几个月，他接受了多位记者的采访，探讨 ChatGPT 可能带来哪些风险 —— \n本文链接",
-          "link": "https://news.cnblogs.com/n/738163/",
-          "publishedOn": "2023-03-13T07:10:00.000Z",
+          "description": "机器之心报道 成本虽然高昂，但巨头们更不愿错过这次机会。 近几个月，ChatGPT 爆火出圈，风头无两。人们大多把关注重点放在了 ChatGPT 强大的生成功能和应用场景上，却很少关心模型的应用成本。 虽然 ChatGPT API 开放之后，使用成本降低了九成，但对于 OpenAI 和集成 Chat\n本文链接",
+          "link": "https://news.cnblogs.com/n/738245/",
+          "publishedOn": "2023-03-14T09:00:00.000Z",
           "wordCount": 163,
-          "title": "技术专家控诉 ChatGPT：到处宣扬我死了，还伪造了一份讣告",
+          "title": "科技巨头血拼：微软豪掷数亿造ChatGPT超算，谷歌加急测试Big Bard",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738162/",
+          "id": "https://news.cnblogs.com/n/738244/",
           "author": null,
-          "description": "文财经故事荟 冕宁县，隶属于四川凉山彝族自治州，贫穷是大凉山挥之难去的标签，州内 17 个县中，有 11 个曾是深度贫困县，一些外地人甚至觉得这里还处在解放前的状态。 在冕宁，特色小吃是炸土豆，而 95 后益宝和妹妹想开一家轻食店。 除了开明的父母支持外，没人看好，\"在凉山卖这些，会有人买吗？\"\"不\n本文链接",
-          "link": "https://news.cnblogs.com/n/738162/",
-          "publishedOn": "2023-03-13T07:00:00.000Z",
+          "description": "Tech 星球 3 月 14 日消息，针对“学而思大规模重启线下招生”的相关报道，学而思总部客服回应称：幼儿园小学初中都是素养课，只有高中涉及学科。素养课学习的知识可能跟课内有重叠的地方，但上课讲的内容都是从课外拓展的角度来进行学习的。 此前据财联社报道，近日记者赴多地调查了解到，正重启大规模线下招\n本文链接",
+          "link": "https://news.cnblogs.com/n/738244/",
+          "publishedOn": "2023-03-14T08:53:00.000Z",
           "wordCount": 163,
-          "title": "逃离字节，我回县城开店",
+          "title": "学而思回应重启线下招生：幼儿园小学初中是素养课，高中涉及学科",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738161/",
+          "id": "https://news.cnblogs.com/n/738243/",
           "author": null,
-          "description": "Tech 星球 3 月 13 日消息，企查查 APP 显示，3 月 9 日，陆正耀新增一项被执行信息，执行标的 10.85 亿元，执行法院为福建省厦门市中级人民法院，所属司法案件为厦门金圆投资集团有限公司与神州优车股份有限公司，陆正耀合同纠纷的案件。风险信息显示，目前，陆正耀共关联 3 项被执行信息\n本文链接",
-          "link": "https://news.cnblogs.com/n/738161/",
-          "publishedOn": "2023-03-13T06:50:00.000Z",
+          "description": "本文来源：时代财经 作者：徐晓倩 图源： 入职字节跳动的第一天，研发人员梁爽就感受到了一种无形的压力。 浏览了几小时的文档后，他在毫无征兆的情况下，被拉入数个项目群。这是一次跨城市的复杂沟通，群里冒出无数个陌生的头像，刷屏式地汇报项目进度……等手头工作告一段落，时钟已经指向凌晨 12 点。 此后，梁\n本文链接",
+          "link": "https://news.cnblogs.com/n/738243/",
+          "publishedOn": "2023-03-14T08:49:00.000Z",
           "wordCount": 163,
-          "title": "陆正耀新增被执行10.85亿元",
+          "title": "算法巨轮驶入迷雾：字节跳动十万员工困在数据里，半年面临一次生存考验",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738160/",
+          "id": "https://news.cnblogs.com/n/738242/",
           "author": null,
-          "description": "错误可以通过监管避免，但犯错的动机不会消失。 采访丨宋玮管艺雯程曼祺高洪浩 文丨龚方毅黄俊杰 编辑丨黄俊杰 北京时间周五（3 月 10 日）晚上，硅谷银行（Silicon Valley Bank）因资不抵债，被美国金融监管机构接管，其所有服务暂停。这是美国历史上第二大银行倒闭案，1000 多亿美元的\n本文链接",
-          "link": "https://news.cnblogs.com/n/738160/",
-          "publishedOn": "2023-03-13T06:42:00.000Z",
+          "description": "新智元报道 来源：学术头条 编辑：好困 机器能像人类一样思考吗？如果可以，人类应该如何教育机器？ 1950 年，Alan Turing 提出，我们应该「以教育孩子的方式来教育机器」「为机器提供金钱可以买到的最好的感觉器官，然后再教育它……」；1959 年，John McCarthy 提出了一个如此系\n本文链接",
+          "link": "https://news.cnblogs.com/n/738242/",
+          "publishedOn": "2023-03-14T08:41:00.000Z",
           "wordCount": 163,
-          "title": "一间银行的独特倒闭，一场风险的必然发生",
+          "title": "ChatGPT破圈的「秘密武器」：详解RLHF如何影响人类社会！",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738159/",
+          "id": "https://news.cnblogs.com/n/738241/",
           "author": null,
-          "description": "Pine 萧箫发自凹非寺 量子位公众号 QbitAI 高考仅 262 分，却发了 5 篇数学期刊论文。 这是一位脑瘫小伙的真实经历。 不仅如此，他还修完了从本科到博士的所有课程，甚至达到 985 高校申请博士学位的要求：至少发两篇 SCI。 消息一出，迅速火上热搜，当事人谢炎廷也再一次被大众所关注。\n本文链接",
-          "link": "https://news.cnblogs.com/n/738159/",
-          "publishedOn": "2023-03-13T06:30:00.000Z",
+          "description": "新智元报道 编辑：Aeneas 好困 ChatGPT 背后，是微软超级昂贵的超级计算机，耗资数亿美元，用了英伟达数万颗芯片。 ChatGPT 能成为如今火遍全球的顶流模型，少不了背后超强的算力。 数据显示，ChatGPT 的总算力消耗约为 3640PF-days（即假如每秒计算一千万亿次，需要计算 \n本文链接",
+          "link": "https://news.cnblogs.com/n/738241/",
+          "publishedOn": "2023-03-14T08:33:00.000Z",
           "wordCount": 163,
-          "title": "高考262分却发4篇SCI论文，脑瘫小伙旁听12年修完本科到博士课程",
+          "title": "揭秘ChatGPT背后天价超算！上万颗英伟达A100，烧光微软数亿美元",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738158/",
+          "id": "https://news.cnblogs.com/n/738240/",
           "author": null,
-          "description": "导语：在“守、定”方面做得不错的戴珊，如何在未来带领大淘宝全面反攻，将是公众对她最大的期待。 周董石 作者 砺石商业评论出品 1 防守的阿里 中国电商领域里最擅长进攻的阿里巴巴集团，近年做起了防守。放在三年前，这是完全不可想象的。 2019 年 11 月 15 日，阿里巴巴第二次赴港上市，张勇在就任\n本文链接",
-          "link": "https://news.cnblogs.com/n/738158/",
-          "publishedOn": "2023-03-13T06:18:00.000Z",
+          "description": "新智元报道 编辑：LRS 再也不用担心图像生成的位置错乱了! ‍随着 Stable Diffusion 的开源，用自然语言进行图像生成也逐渐普及，许多 AIGC 的问题也暴露了出来，比如 AI 不会画手、无法理解动作关系、很难控制物体的位置等。 其主要原因还是在于「输入接口」只有自然语言，无法做到对\n本文链接",
+          "link": "https://news.cnblogs.com/n/738240/",
+          "publishedOn": "2023-03-14T08:22:00.000Z",
           "wordCount": 163,
-          "title": "掌舵大淘宝460天，戴珊的守、定、进",
+          "title": "Diffusion+目标检测=可控图像生成！华人团队提出GLIGEN，完美控制对象的空间位置",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738157/",
+          "id": "https://news.cnblogs.com/n/738239/",
           "author": null,
-          "description": "一款原本无人问津的法系车就在这几天突然爆火，不用多说大家也知道是啥事了吧。 最近，湖北省对东风车系搞了一波政企综合补贴，指导价 21.19 万的雪铁龙 C6 共创版降价 9 万，直接掉到 12.19 万。 要知道这款车长近 5 米，轴距 2.9 米的 C6 ，可是和凯美瑞、帕萨特并列的 B 级轿车。\n本文链接",
-          "link": "https://news.cnblogs.com/n/738157/",
-          "publishedOn": "2023-03-13T06:05:00.000Z",
+          "description": "新智元报道 编辑：编辑部 Meta 的 LLaMA 模型开源，让文本大模型迎来了 Stable Diffustion 时刻。今天，斯坦福发布了一个由 LLaMA 7B 微调的模型 Alpaca，训练 3 小时，性能比肩 GPT-3.5。 一觉醒来，斯坦福大模型 Alpaca（草泥马）火了。 没错，A\n本文链接",
+          "link": "https://news.cnblogs.com/n/738239/",
+          "publishedOn": "2023-03-14T08:14:00.000Z",
           "wordCount": 163,
-          "title": "湖北30多家车企集体降价，已经没人看得上油车了吗？",
+          "title": "LeCun狂赞：600刀GPT-3.5平替！ 斯坦福70亿参数「羊驼」爆火，LLaMA杀疯了",
           "imageUrl": null
         },
         {
-          "id": "https://news.cnblogs.com/n/738156/",
+          "id": "https://news.cnblogs.com/n/738238/",
           "author": null,
-          "description": "界面新闻记者程璐 3 月 13 日消息，就在澳洲站点正式上线的当天，界面新闻获悉，拼多多跨境电商 Temu 计划于 3 月 25 日上线英国站点，继续向欧洲扩张版图。 一位 Temu 内部人士向界面新闻证实了上述消息，并表示其他的欧洲国家也在筹备中，未来非洲、拉美等地区同样是 Temu 的拓展目标。\n本文链接",
-          "link": "https://news.cnblogs.com/n/738156/",
-          "publishedOn": "2023-03-13T05:52:00.000Z",
+          "description": "新智元报道 编辑：Britta Anthropic 对于人工智能发展的安全性研究以及推论表明，人工智能系统的计算量将呈指数型增长，预计未来 5 年训练 AI 模型的计算量将增加 1000 倍。 自从发现缩放定律以来，人们认为人工智能的发展会像坐火箭一样迅速。 2019 年的时候，多模态、逻辑推理、学\n本文链接",
+          "link": "https://news.cnblogs.com/n/738238/",
+          "publishedOn": "2023-03-14T08:05:00.000Z",
           "wordCount": 163,
-          "title": "拼多多海外狂奔：3月25日上线英国站点，非洲、拉美等地紧随其后",
+          "title": "谷歌砸了4亿刀的Anthrophic：AI模型训练计算量5年增加1000倍！",
           "imageUrl": null
         },
         {
@@ -7950,16 +8010,6 @@
           "wordCount": 163,
           "title": "Zoom断臂，腾讯会议心焦",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736411/",
-          "author": null,
-          "description": "是人，就会死。 这个事实听起来或许很悲哀，但电影《流浪地球2》在一开始，就给出了另一种可能性——疯狂科学家进行数字生命实验，通过连接大脑的电极片，将思维意识上传到计算机，从而让人永生。 电影开头的这位印度裔科学家，看起来精神不太稳定的样子，但他这个想法，以数字化的形式把人留在世界上，还真挺务实的。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/736411/",
-          "publishedOn": "2023-02-12T16:01:00.000Z",
-          "wordCount": 163,
-          "title": "《流浪地球2》的现实倒影（三）：从脑机接口到数字永生",
-          "imageUrl": null
         }
       ]
     },
@@ -8007,16 +8057,6 @@
           "wordCount": 615,
           "title": "老司机 iOS 周报 #233 | 2023-02-20",
           "imageUrl": "https://opengraph.githubassets.com/eed36645fdb02e36e272b2e4f78eabaefefe0f98281ad6a58dd18a3a22c255bd/SwiftOldDriver/iOS-Weekly/releases/tag/%23233"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23232",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nSwift 5.7 在 iOS 16 以下的系统创建 Task 时可能会发生 Bad access\nSwift 团队在迭代的过程中删去了 Concurrency 相关代码的一个字段，内存布局产生变化，导致 iOS 16 以下的系统在创建 Task 时，部分情况下内存访问会出错，导致崩溃。\n目前已经在主线分支完成修复，按照去年的发布节奏，可能会在三月份发布的 Xcode 里带上这个修复。遇到这个问题的同学如果着急的话，可以先回退到 Xcode 13.x 版本。\n Developer - 设计开发加速器\n在 App 或游戏内创造无障碍体验\n通过 Apple 操作系统内置的辅助功能、辅助功能 API 和开发者工具，开发者们可以为每个用户创建绝佳的无障碍体验。了解如何通过视觉设计和辅助功能技术适配，让你的 App 或游戏对每个人可用。报名截止 2 月 20 日。\n新手推荐\n🐎 如何实现 iOS 16 带来的 Depth Effect 图片效果\n@zoeGuo: iOS 16 系统为我们带来了比较惊艳的桌面锁屏效果：Depth Effect。它可以使用一张普通图片当背景，同时可以在适当的地方遮拦住部分桌面组件，形成一种景深的效果。那么我们可以在自己的 App 实现类似的效果吗？文章介绍了如何使用苹果机器学习官网提供的机器学习模型 DeeplabV3 一步步实现 Depth Effect 效果的。虽然 DeeplabV3 模型在具体应用中还有一定的局限性，但作为尝鲜体验也是非常不错的～\n文章\n🐕 🌟 夸克 iOS Top1 JSC 崩溃攻克之旅\n@Leo：Top Crash 的排查一直是 iOS …",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23232",
-          "publishedOn": "2023-02-13T02:17:37.000Z",
-          "wordCount": 541,
-          "title": "老司机 iOS 周报 #232 | 2023-02-13",
-          "imageUrl": "https://opengraph.githubassets.com/e47aa92f8205a9473e586ac5674944559818101e4c057b56020e865fb6b6e502/SwiftOldDriver/iOS-Weekly/releases/tag/%23232"
         }
       ]
     }
