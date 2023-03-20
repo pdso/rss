@@ -705,6 +705,46 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=74430",
+          "author": null,
+          "description": "在硅谷银行的倒闭过程中保守派亿万富翁 Peter Thiel 的作用引起了人们的注意。硅谷银行死于银行挤兑，它手中的资产其实是充足的。有调查记者认为，硅谷银行没有妥善防范两大威胁：其一是 Peter Thiel 的影响其二是利率上升。Peter Thiel 的风投基金 Founders Fund 从硅谷银行转移出了全部资金，并建议其投资组合公司也从硅谷银行撤资。在硅谷银行的倒闭过程中 Peter Thiel 和另一位亿万富翁、对冲基金经理 Bill Ackman 就像是一个拥挤的剧院大喊着火了。包括 Coatue Management、Union Square Ventures 和 Founder Collective 在内的风投基金都被认为在事件中散播了恐慌，但这些公司坚称它们提供了最符合客户利益的金融建议。Thiel 则告诉《金融时报》他本人有 5000 万美元的资金留在硅谷银行，因其倒闭而短暂冻结。",
+          "link": "https://www.solidot.org/story?sid=74430",
+          "publishedOn": "2023-03-19T15:50:58.000Z",
+          "wordCount": 177,
+          "title": "硅谷银行和 Peter Thiel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74429",
+          "author": null,
+          "description": "美国 FBI 周三逮捕了一名纽约男子，他被控运营了暗网网络犯罪论坛 BreachForums，该论坛是世界最大的出售被盗数据的网站之一。FBI 于周三下午 4:30 左右逮捕了名叫 Conor Brian Fitzpatrick 的男子，他被认为就是 BreachForums 的管理员 Pompompurin。记录显示，他最后一次访问 BreachForums 是在周三下午 3:53，也就是被捕前不久。BreachForums 托管了近千家企业的被盗数据库。数据库通常包括有个人信息，如姓名、电子邮件和密码。Fitzpatrick 以 30 万美元保释金获释，他将于 3 月 24 日出庭。",
+          "link": "https://www.solidot.org/story?sid=74429",
+          "publishedOn": "2023-03-19T15:05:51.000Z",
+          "wordCount": 173,
+          "title": "暗网数据泄密网站 BreachForums 站长被捕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74428",
+          "author": null,
+          "description": "Twitter CEO 马斯克（Elon Musk）上个月表示将在二月底公开社交网站使用的推荐算法源代码。但这一承诺并未兑现。本周末马斯克给出了更明确的时间，宣布将在 3 月 31 日公开 Twitter 推荐算法源代码。马斯克并非是一位一诺千金的亿万富翁，所以他的最新承诺需要时间去检验。",
+          "link": "https://www.solidot.org/story?sid=74428",
+          "publishedOn": "2023-03-19T14:43:39.000Z",
+          "wordCount": 176,
+          "title": "马斯克宣布将在 3 月 31 日公开 Twitter 推荐算法源代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74427",
+          "author": null,
+          "description": "俗话说，好事不出门坏事传千里。新闻记者们也都知道，带有悲剧、犯罪等负面色彩的故事更能吸引读者。随着愈来愈多的人通过网络消费新闻，网络新闻媒体为了吸引读者也越来越多的使用标题党之类提高点击率的方法。研究人员利用 Upworthy.com 收集的各种标题党新闻故事进行分析，发现虽然标题中的正面词汇比负面词汇略微普遍，但负面词汇增加了点击率。对于一个平均长度的标题，每增加 1 个负面词汇，点击率增加 2.3%。研究报告发表在《Nature Human Behaviour》期刊。",
+          "link": "https://www.solidot.org/story?sid=74427",
+          "publishedOn": "2023-03-18T15:53:43.000Z",
+          "wordCount": 148,
+          "title": "负面情绪驱动了在线新闻消费",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=74426",
           "author": null,
           "description": "根据发表在《Journal of Allergy and Clinical Immunology》上的一项研究，科学家发现给 4-6 个月大的婴儿食用平滑的花生酱能减少 77% 的花生过敏症。政府建议在婴儿 6 个月大时开始食用固体食物，研究人员认为这一建议需要修改。食物过敏是免疫系统将食物视为严重威胁的结果。引起过敏的常见食物有麦、牛奶、花生、坚果等等。其中花生过敏已经变得相当普遍，以至于部分学校禁止在食物中包含花生。诸多研究显示，在婴儿发育早期食用与过敏相关的食物可以大幅减少过敏。最新研究发现，婴儿 4-6 个月之间食用花生可将过敏症减少 77%，如果推迟到 1 岁之后过敏症病例只能减少 33%。",
@@ -3143,46 +3183,6 @@
           "wordCount": 188,
           "title": "Google 与苹果分享 Chrome iOS 搜索广告收入",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74171",
-          "author": null,
-          "description": "Twitter 宣布了一项安全政策改动，从即日起基于短信的 2FA 身份验证仅限于付费订阅用户 Twitter Blue。Twitter 的理由是基于短信的 2FA 遭到了恶意用户的滥用，但真实理由很可能是为了省掉一点钱。Twitter 表示将给非 Twitter Blue 30 天时间迁移到另一种 2FA 方法，3 月 20 日之后将不再允许非订阅用户使用基于短信的 2FA。",
-          "link": "https://www.solidot.org/story?sid=74171",
-          "publishedOn": "2023-02-18T12:44:26.000Z",
-          "wordCount": 172,
-          "title": "Twitter 宣布基于短信的 2FA 身份验证仅限于付费用户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74170",
-          "author": null,
-          "description": "Web 托管巨头 GoDaddy 证实它遭到了持续多年的入侵，源代码失窃服务器也被安装恶意程序。GoDaddy 是在去年 12 月初收到客户报告其网站被重定向到随机域名后发现未知攻击者入侵了它的 cPanel 共享托管环境。它的调查显示攻击者在它的服务器上活跃了多年，近几年披露的多起安全事故都与此相关。黑客在它的服务器上安装了恶意程序，还窃取到部分服务相关的源代码。它在 2021 年 11 月和 2020 年 3 月披露的安全事件都与此相关。其中 2021 年 11 月的事件影响到了它管理的 120 万 WordPress 客户，攻击者利用一个窃取的密码入侵了它的 WordPress 托管环境，窃取到了客户的邮件地址、管理员密码、sFTP 和数据库凭证，以及部分 SSL 私钥。",
-          "link": "https://www.solidot.org/story?sid=74170",
-          "publishedOn": "2023-02-18T09:06:18.000Z",
-          "wordCount": 174,
-          "title": "GoDaddy 源代码失窃服务器被安装恶意程序",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74169",
-          "author": null,
-          "description": "联想报告受 PC 行业不景气的影响其第三财季净利润下降 32%，对裁员发出警告。截至 2022 年 12 月的财季净利润 4.37 亿美元，同比下降 32%，为 2020 年以来季度净利润首次下降。该季度收入 152.7 亿美元，同比下降 24%。联想 CEO 杨元庆表示，他相信市场还在消化新冠疫情期间的库存，认为市场没有人们想象的那么糟糕，随着需求的恢复和库存过剩的缓解，预测从今年下半年开始 PC 市场将会恢复增长。",
-          "link": "https://www.solidot.org/story?sid=74169",
-          "publishedOn": "2023-02-17T15:33:14.000Z",
-          "wordCount": 160,
-          "title": "联想利润下降警告可能裁员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74168",
-          "author": null,
-          "description": "冬季很多人都不愿意早起，这也许不是因为懒。最新研究显示，在寒冷的季节我们可能需要更长时间的睡眠。REM（快速眼动）睡眠与生物钟直接相关，而生物钟受光照变化影响。研究人员发现，REM 睡眠在冬季比夏季长 30 分钟。即使城市人口睡眠经常受到干扰，冬季的 REM 睡眠仍然比夏季长。研究人员表示，如果研究发现在有健康睡眠的人身上复现，这将首次证明我们需要根据季节调整睡眠习惯。",
-          "link": "https://www.solidot.org/story?sid=74168",
-          "publishedOn": "2023-02-17T14:12:34.000Z",
-          "wordCount": 146,
-          "title": "研究显示冬季我们可能需要更长的睡眠时间",
-          "imageUrl": null
         }
       ]
     },
@@ -3191,6 +3191,66 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/738532/",
+          "author": null,
+          "description": "编辑部发自凹非寺 量子位公众号 QbitAI GPT-4 发布一天之后，压力全部给到百度这边。就在刚刚，百度交卷。 文心一言，百度全新一代知识增强大语言模型，正式在百度总部“挥手点江山”会议室里发布。 在一片静寂的氛围里，李彦宏小步登场，语气里带着点紧张：大家的期望值，是我们对标 ChatGPT，对\n本文链接",
+          "link": "https://news.cnblogs.com/n/738532/",
+          "publishedOn": "2023-03-19T04:30:00.000Z",
+          "wordCount": 163,
+          "title": "文心一言 vs GPT-4实测！百度背水一战交卷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/738531/",
+          "author": null,
+          "description": "允中发自凹非寺 量子位公众号 QbitAI 腾讯人狠话不多，大模型技术刚拿下两项世界冠军！ 最近，信息检索领域国际顶级学术会议 WSDM（Web Search and Data Mining）宣布了 WSDM CUP 2023 竞赛成绩。 来自腾讯研究团队在无偏排序学习和互联网搜索预训练模型赛道上的\n本文链接",
+          "link": "https://news.cnblogs.com/n/738531/",
+          "publishedOn": "2023-03-19T04:23:00.000Z",
+          "wordCount": 163,
+          "title": "腾讯大模型技术斩获两项世界冠军，已落地微信搜索",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/738530/",
+          "author": null,
+          "description": "允中发自凹非寺 量子位公众号 QbitAI 又一款搭载骁龙 XR2+ 的 AR 设备来了！ 但这回不是眼镜。 最新消息，Rokid 将发布新款 AR 主机Station Pro，将采用高通全新扩展现实平台第一代骁龙 XR2+。 相较于骁龙 XR2 平台，该平台在散热方面可提升 30%，续航能力可提升\n本文链接",
+          "link": "https://news.cnblogs.com/n/738530/",
+          "publishedOn": "2023-03-19T04:17:00.000Z",
+          "wordCount": 163,
+          "title": "可量产AR主机来了！搭载骁龙XR2+，续航是手机方案2倍以上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/738529/",
+          "author": null,
+          "description": "明敏发自凹非寺 量子位公众号 QbitAI 百度版 ChatGPT 底层算力支持，李彦宏老家阳泉助一臂之力！ 量子位获悉，百度阳泉智算中心从 2 月底开始就布设了两个新机房，专门为自家大模型产品文心一言提供计算推理的算力需求。 同样功能的机房，在百度保定计算集群，还有两个。 北京、华南的云计算资源也\n本文链接",
+          "link": "https://news.cnblogs.com/n/738529/",
+          "publishedOn": "2023-03-19T04:12:00.000Z",
+          "wordCount": 163,
+          "title": "文心一言算力从哪来？自家最大智算中心：算力规模4EFLOPS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/738528/",
+          "author": null,
+          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 一个让物理学家狂喜的 AI 工具，在 GitHub 上开源了！ 它名叫Φ-SO，能直接从数据中找到隐藏的规律，而且一步到位，直接给出对应公式。 整个过程也不需要动用超算，一台笔记本大概 4 个小时就能搞定爱因斯坦的质能方程。 这项成果来自德国斯特拉斯堡大学\n本文链接",
+          "link": "https://news.cnblogs.com/n/738528/",
+          "publishedOn": "2023-03-19T04:04:00.000Z",
+          "wordCount": 163,
+          "title": "物理学家狂喜的AI开源！从实验数据中发现物理公式，笔记本就能跑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/738527/",
+          "author": null,
+          "description": "文表外表里，作者赫晋一、陈子儒，编辑付晓玲、曹宾玲 关于阅文的投资逻辑，正在改变。 本次阅文电话会议上，问答环节近乎变成 IP 开发专场，分析师们关心的问题，从 IP 衍生规划、IP 可视化进展到《庆余年2》《赘婿2》等系列化开发情况，事无巨细。 雪球球友更甚，有投资人直言：“阅读没啥好看的，定价很\n本文链接",
+          "link": "https://news.cnblogs.com/n/738527/",
+          "publishedOn": "2023-03-19T03:58:00.000Z",
+          "wordCount": 163,
+          "title": "阅文的早春",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/738526/",
           "author": null,
@@ -8309,106 +8369,6 @@
           "publishedOn": "2023-02-19T01:00:00.000Z",
           "wordCount": 163,
           "title": "科大讯飞研究院万字解读ChatGPT，透露三大积累和产业机会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736820/",
-          "author": null,
-          "description": "图片来源@视觉中国 文｜零售公园，作者｜苏黎 “闽”是福建省的简称，当地人奉行“爱拼才会赢”，觉得困在家里只能是虫，走出门外见识世界才能成龙。几百年来，闽商遍布全球，创办的企业在各行各业有着举足轻重的位置。 时间一晃而过，2007 年，出生于福建龙岩的两个年轻人，因为对互联网的热爱，命运产生了交汇：\n本文链接",
-          "link": "https://news.cnblogs.com/n/736820/",
-          "publishedOn": "2023-02-18T12:00:00.000Z",
-          "wordCount": 163,
-          "title": "抖音杠上外卖，美团笑不出来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736819/",
-          "author": null,
-          "description": "2 月 17 日消息，据外媒报道，近期全球科技领域最受瞩目的，莫过于 OpenAI 训练的人工智能聊天机器人 ChatGPT。这一人工智能驱动的模型，在去年 11 月 30 日发布之后仅 5 天的时间里，就收获了 100 万用户；第一个月的用户就超过 5700 万；在 1 月份时，用户迈过 1 亿大\n本文链接",
-          "link": "https://news.cnblogs.com/n/736819/",
-          "publishedOn": "2023-02-18T02:00:00.000Z",
-          "wordCount": 163,
-          "title": "从GPU到高带宽存储器 ChatGPT等有望为半导体多领域带来新契机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736818/",
-          "author": null,
-          "description": "文｜解码 Decode 被视为激光雷达量产元年的 2022 年，我国乘用车搭载的激光雷达出货量约为 16 万颗。其中，禾赛科技、图达通和速腾聚创三家合计份额就占了 96.9%。 这与海外市场疲于破产和并购的同行，对比简直不要太鲜明。 刚刚登陆纳斯达克的禾赛科技，从递交招股书到敲钟上市只用了短短 23\n本文链接",
-          "link": "https://news.cnblogs.com/n/736818/",
-          "publishedOn": "2023-02-18T01:45:00.000Z",
-          "wordCount": 163,
-          "title": "一文梳理国产激光雷达：上市并非终局，前路依旧漫长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736817/",
-          "author": null,
-          "description": "文｜赛博汽车 L4 级自动驾驶玩家小马智行，向量产智能驾驶转身的速度，快的让人有点意外。 就在最近，小马智行正式向外界宣布，成立智能驾驶业务部门 POV，同时公布该业务部门旗下的三款产品：智能驾驶解决方案“小马识途”、硬件域控制器“方载”、以及数据闭环工具链“苍穹”。 从软件到硬件再到数据处理，小马\n本文链接",
-          "link": "https://news.cnblogs.com/n/736817/",
-          "publishedOn": "2023-02-18T01:30:00.000Z",
-          "wordCount": 163,
-          "title": "小马智行智能驾驶业务，一条预谋2年的“后路”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736816/",
-          "author": null,
-          "description": "文｜盒饭财经，作者 赵晋杰，编辑 王靖 上线四年后，飞书近期首次对外披露核心业务指标，其 2022 年 ARR（年度经常性收入）达到 1 亿美元，据 36 氪报道，飞书 CEO 谢欣将其称为里程碑时刻。 但考虑到这一成绩是靠飞书逾 8000 人的规模出大力打下来的，所谓“里程碑时刻”的奇迹光环可能要\n本文链接",
-          "link": "https://news.cnblogs.com/n/736816/",
-          "publishedOn": "2023-02-18T01:22:00.000Z",
-          "wordCount": 163,
-          "title": "月活不到0.1 亿，飞书没有奇迹",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736815/",
-          "author": null,
-          "description": "文｜犀牛娱乐，作者｜小福，编辑｜朴芳 在复盘今年春节档电影的过程中，犀牛君意识到了一个新问题：在重要宣发平台抖音上，这些影片的宣传动作与实际的出圈效果，似乎显得有些雷声大雨点小。 这些头部影片依旧在按部就班地推进着营销动作，但却没能换来过去几年春节档同期那样声势浩大的抖音热度。自然，也没看到太多围绕\n本文链接",
-          "link": "https://news.cnblogs.com/n/736815/",
-          "publishedOn": "2023-02-18T01:10:00.000Z",
-          "wordCount": 163,
-          "title": "抖音爆款电影变少了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736814/",
-          "author": null,
-          "description": "文｜雷科技 leitech 上周召开的任天堂直面会上，最受关注的作品仍然是《塞尔达传说：王国之泪》。除了新的预告片外，这款游戏还开放了预购，这意味着 5 月 12 日的发售日期应该是确定下来了。同时，这场直面会还带来了意外之喜，《密特罗德究极复刻版》正式公布，卡带版将于 2 月 24 日发售。 （图\n本文链接",
-          "link": "https://news.cnblogs.com/n/736814/",
-          "publishedOn": "2023-02-18T00:56:00.000Z",
-          "wordCount": 163,
-          "title": "模拟器，Switch们的一生之敌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736813/",
-          "author": null,
-          "description": "文数字力场，作者佘宗明 这年头，宇宙的尽头多得连宇宙自己都不清楚。 最新的“尽头”，是外卖。 搁 5 年前，很多人都想不到，外卖市场还能上演“风云再起”的一幕。 那时候，饿了么收购百度外卖，“631”格局成型，诸侯争雄时代彻底终结。 即便是 1 年前，很多人也想不到，外卖市场会引得这么多巨头竞折腰。\n本文链接",
-          "link": "https://news.cnblogs.com/n/736813/",
-          "publishedOn": "2023-02-18T00:42:00.000Z",
-          "wordCount": 163,
-          "title": "抖音看向美团，微信看向抖音",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736811/",
-          "author": null,
-          "description": "图片来源@视觉中国 文｜雷科技 leitech 轿车与 SUV 是全球两大主流车型，在国内年销量均接近千万辆，相比之下，MPV 车型落寞很多，2022 年总销量仅 94.3 万辆，同比下滑 12.6%。更关键的是，MPV 排行上的车型，基本不怎么会发生变化，五菱宏光、五菱佳辰、传祺 M8、传祺 M6\n本文链接",
-          "link": "https://news.cnblogs.com/n/736811/",
-          "publishedOn": "2023-02-18T00:30:00.000Z",
-          "wordCount": 163,
-          "title": "新能源车企的MPV梦，是白日梦？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/736812/",
-          "author": null,
-          "description": "AIGC 是继 PGC、UGC 后新的内容生产形态。当下，AIGC 应用持续升温，AI 在内容生成的渗透率也快速提升，输入自然语言就可自动生成图像、视频、代码以及 3D 模型等。AIGC 作为生产力工具，正不断推动智能聊天机器人（ChatGPT）、智能编程机器人（aiXcoder）、数字人等领域发展\n本文链接",
-          "link": "https://news.cnblogs.com/n/736812/",
-          "publishedOn": "2023-02-18T00:00:00.000Z",
-          "wordCount": 163,
-          "title": "AIGC应用持续升温！aiXcoder代码生成大模型正式开放 API 接口，开发者可共建智能编程工具",
           "imageUrl": null
         }
       ]
