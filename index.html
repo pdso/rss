@@ -22,6 +22,983 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-03-20 datetime="2023-03-20T23:47:13.000Z">2023-03-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-03-20 datetime="2023-03-20T23:47:13.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >阮一峰的网络日志</button>
+                  <a class="source-heading__link" href="http://www.ruanyifeng.com/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html"
+                        open
+                      >
+                        <summary class="article-expander__title">运维的未来是平台工程</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>互联网公司有一个重要工种，叫做&quot;运维&quot;。
+
+&quot;运维&quot;的英文是 Operations，简写为 Ops，直译就是&quot;操作&quot;，指的是各种服务器操作。
+简单说，运维工程师就是管理服务器、保障代码运行环境的人。
+这是很重要的工作，公司理应非常重视。但是实际上这几年，运维岗位一直在缩减，Ops 工程师被要求转型 DevOps 工程师。据我知道，很多运维工程师其实很苦恼。
+应该怎么看待这种变化？运维有没有前途？将来会怎么发展？
+
+最近，我读到一篇老外的文章，标题就叫《运维的未来是平台工程》。
+&quot;The future of Ops is platform engineering.&quot;
+
+作者系统地回答了上面这些问题，认为运维最终将会消失，演变成一种新的工种----&quot;平台工程&quot;（platform engineering）。
+我觉得他的文章很有启发，让我对运维的看法清晰了很多，分享给大家。
+一、运维的由来
+最早的时候，并没有运维，程序员同时负责编写和运行软件。
+但是，编写软件和运行软件，其实是两种不同的技能：前者需要熟悉代码，后者需要熟悉服务器。
+互联网软件发展起来以后，这两种技能就逐渐分家了。
+开发工程师负责编写代码，运维工程师负责运行代码（即保障服务器运行环境）。
+二、运维的衰落
+事实证明，开发和运维分家是一个巨大的错误。
+写代码的人不了解服务器环境，管理服务器的人不了解代码在干什么，这样不利于做出优秀的产品，也不利于排查问题。
+因此，有些公司就推动，开发与运维重新合在一起：编写软件的人也要负责运行软件。
+这就是 DevOps 的由来，它等于 Dev（开发）+ Ops（运维）。
+
+另一方面，互联网公司的核心资产和竞争力，更多的是代码，而不是运维。所以，公司也有意愿，把更多的力量投入在开发上，逐步压缩专门的运维团队，积极外包尽可能多的基础设施。
+这两方面因素决定了，运维作为一个单独的工种，正在逐渐消失。
+三、DevOps 的问题
+但是，DevOps 实际上没有办法取代运维。
+越来越复杂的业务，注定了系统和基础设施也越来越复杂，同时还必须稳定可靠。
+普通的开发工程师，根本不可能做到这一点。他既不了解所有基础设施，也达不到专业运维的系统管理水平。
+这种情况下，公司就会选择外包，采购外部的云服务，把基础设施外包给专业的云服务商， 最大化压缩自身成本。
+四、运维的职责
+虽然总体上，运维是管理服务器，但是可以细分成两方面的职责：构建基础架构 + 管理运行环境。
+&quot;构建基础架构&quot;指的是硬件的采购、安装、上架、联网这些工作。
+&quot;管理运行环境&quot;指的是保障业务软件的运行。
+DevOps 出现后，&quot;构建基础架构&quot;这一职责逐渐消失，变成了采购云服务，&quot;管理运行环境&quot;这一职责则是转给了 DevOps 工程师。
+于是，新的问题出现了：谁负责采购和整合云服务？
+五、平台工程是什么
+采购合适的云服务，并不是一件简单的事情。
+云服务纷繁复杂，各种 API、SDK 和配套工具令人眼花缭乱，即使经验丰富的运维工程师也不容易说清楚。
+因此，需要有专职人员来做出正确决策，选择一套满足需要的云服务，并且负责编写工具，整合所有采购来的云服务，供业务开发使用。
+这种角色就叫做平台工程，他负责评估、采购、整合各种云服务，作为自身的基础设施，并在外部云服务基础上构建自己的平台，让开发工程师能够在其上自助服务，将自己的代码投入生产。
+上面的定义有几个要点。
+（1）基础设施是外包的，以求成本和开发周期最小化。
+（2）平台工程师负责整合外包的基础设施，构建成一个平台。
+（3）开发工程师在该平台上，自主搭建和管理运行环境，自己运行代码。
+六、平台工程与运维的区别
+平台工程与运维，存在几个显著区别。
+（1）平台工程需要开发软件，包括编写测试和代码审核，团队的运作方式很像开发团队，有产品经理、甚至设计师和前端工程师。
+运维一般不开发应用软件，最多就是写一些自动化脚本。
+以前，有的工程师写代码，有的工程师跑代码。今后，所有工程师都编写代码，并且运行自己的代码，不管你是开发工程师、DevOps 工程师或者平台工程师，不同之处只在于按层或功能划分的职责范围不同。
+（2）平台工程是云原生的，所有工作都存在于云上。
+运维不是云原生的，需要自己管理硬件，只能说是支持云的。
+（3）平台工程采购云服务，运维采购的是硬件。
+七、运维工程师的出路
+随着传统的运维角色的消失，现有的运维工程师必然面临着转型，不外乎有三种出路可以选择。
+（1）如果喜欢开发业务软件，可以选择成为 DevOps 工程师。
+（2）如果喜欢开发平台软件，可以选择做平台工程，专注于基础设施的整合。
+（3）如果更喜欢硬件和底层，可以选择加入&quot;基础设施即服务&quot;（IaaS）的云公司，深入研究基础设施。
+（完）
+文档信息
+版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）
+发表日期： 2023年3月21日</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >博客园_新闻</button>
+                  <a class="source-heading__link" href="https://news.cnblogs.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738598/"
+                        open
+                      >
+                        <summary class="article-expander__title">巴奴40元1斤的“富硒土豆”，刺痛了谁？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738598/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>来源伯虎财经（bohuFN） 作者东篱 食品安全问题一直是 315 晚会的常客，这不，继去年轰动一时的“土坑酸菜”之后，今年 315 又曝光了“香精大米”这一“科技与狠活”。 而在晚会之外，还有一家火锅店因为一颗土豆站上了风口浪尖。这边刚澄清完“18 元 5 片土豆”为乌龙事件，3 月 15 日当天
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738597/"
+                        open
+                      >
+                        <summary class="article-expander__title">年度销量跌落榜尾 小鹏汽车迫降</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738597/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>不论是销量、营收，还是成本、售价。 撰文 赵晋杰 编辑 王靖 来源 盒饭财经（ID：daxiongfan） 一年时间，小鹏汽车从“蔚小理”年度销量榜首跌落到了榜尾。 2021 年全年，小鹏汽车曾凭借 98155 辆交付量，超过了蔚来的 9.1 万辆和理想汽车的 9 万辆。来到 2022 年，小鹏汽车
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738596/"
+                        open
+                      >
+                        <summary class="article-expander__title">家电巨头们的“冲高”之战，打到哪儿了？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738596/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文/周雄飞 编辑/叶丽丽 “我国制造业应该要向高端化、智能化和绿色化发展。” 在今年“两会”期间，格力电器董事长兼总裁董明珠如此说道。在董明珠谏言的同时，格力空调旗下的金贝第三代产品也在北京、上海、南京等地，通过“快闪”的形式对公众亮相。 无独有偶，同为家电巨头的美的和海尔，近期也在高端化领域动作频
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738595/"
+                        open
+                      >
+                        <summary class="article-expander__title">小鹏大变：开放专有超充网络，下沉搞4S店，创始总裁名存实离</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738595/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>曹原发自副驾寺 智能车参考公众号 AI4Auto 小鹏汽车，变动还在继续。 智能车参考最新获悉，小鹏汽车不仅明确了通过加盟经销商搞 4S 店抓下沉市场，还已经悄然开放专有超充网络。 另外，联合创始人夏珩继续从小鹏汽车相关注册实体中退出，接近名存实离。 在小鹏交出了最惨年报后，何小鹏承诺在今年三季报中
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738594/"
+                        open
+                      >
+                        <summary class="article-expander__title">TikTok反扑腾讯</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738594/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>作者吴狄 编辑胡展嘉 运营陈佳慧 出品零态 LT（ID：LingTai_LT） TikTok 正在成为一家游戏公司？ 上个月，动视 CEO Bobby Kotick 接受媒体采访，提到世界“最顶级的游戏公司”时，他只说了两个名字：腾讯和 TikTok。几天后，TikTok 母公司字节跳动游戏全球总部
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738593/"
+                        open
+                      >
+                        <summary class="article-expander__title">联想跨界造车，是跟风还是搅局？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738593/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>来源：于见专栏 在消费升级时代，新品牌层出不穷，每一个新生事物的出现，都会遭到怀疑和质疑，联想造车自然也不例外。据媒体报道称，曾声称不造车的华为，已经联合至少三家车企品牌，累计超 5 款车型在全国各地展厅对外销售。如今，它也迎来了一个新对手，那就是此前同样并无造车打算的联想。 直到 2022 年 1
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738592/"
+                        open
+                      >
+                        <summary class="article-expander__title">走入迷途的盲盒市场，转向IP塑造</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738592/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>撰文大可 编辑纪南 盲盒，下到几十，上到过万，吸引了无数年轻群体的关注与追捧。看似平平无奇的小盒子，却满足了年轻人对于未知的求知欲与社交需求，逐渐发展成了百亿规模的市场，诞生了泡泡玛特在内的诸多知名品牌。 然而，在快速崛起的同时，盲盒市场也出现了明显的“双刃效应”，负面舆论和不正当的市场行为逐渐出现
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738591/"
+                        open
+                      >
+                        <summary class="article-expander__title">持续亏损的纵目科技，恐难抓住上市这根救命稻草</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738591/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>来源：于见专栏 还未上市就在招股书中提示退市风险的公司并不多见，纵目科技就是这样一个特例。纵目科技专注汽车智能驾驶系统研发、生产和销售，在去年 11 月递表上交所，向科创板发起冲刺。这次 IPO 申请，也从侧面反映出一向豪放烧钱搞研发的纵目科技已经严重缺钱了。近日，其上市审核状态变更为“已问询”。 
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738590/"
+                        open
+                      >
+                        <summary class="article-expander__title">GPT-4火热之下，汉王科技或难抢占技术前沿</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738590/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>来源：于见专栏 自 ChatGPT 问世伊始，用户数量便如同火箭般飙升，短短两个月时间就突破亿大关，创下了有史以来增长最迅速的消费者应用程序纪录。在这期间，汉王科技自 1 月 30 日起接连斩获 7 个涨停板，即便在收到关注函的第 8 个交易日（2 月 8 日）仍继续攀升，几近触及涨停。 在 2 月
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738589/"
+                        open
+                      >
+                        <summary class="article-expander__title">“强大”的宁德时代与持续下滑的毛利率</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738589/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文翠鸟资本 “宁王”交卷。 然而，在三千亿元营收和三百亿元净利润光环之下，宁德时代（300750.SZ）的股价却“跌跌不休”。 根据宁德时代日前披露的 2022 年年报，公司营业总收入达 3285.94 亿元，同比 2021 年的 2103.4 亿元增长 152.07%，净利润由 2021 年的 1
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738588/"
+                        open
+                      >
+                        <summary class="article-expander__title">用蘑菇就能搞出计算机主板？？？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738588/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>丰色发自凹非寺 量子位公众号 QbitAI “嘿，你的主板长蘑菇了！” “你才长蘑菇呢，这就是专门用它做的……” 瓦特？我没听错吧。 蘑菇，也能做电子设备了？？ 仔细看了一下，这事好像还真是真的…… 来自英国非常规计算实验室（UCL）的科学家，就以这种生物为主要材料开发出了一款“PC 原型”。 如上
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738587/"
+                        open
+                      >
+                        <summary class="article-expander__title">能为国挣航母的顶流女明星，大熊猫花花日迎7万粉狂飙，全靠这个AI？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738587/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：Aeneas 好困 是什么让熊猫界顶流一天接待 7 万粉丝？是什么让一家工厂单日产值突破百万？这都要归功于它们背后的这个 AI。 最近，这位顶流女明星的视频刷爆了全网。 早上 8 点半，成都大熊猫繁育研究基地就挤满了人，都是为了来看花花如何被夺笋。 围观群众太多，让保安大哥都无奈了
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738586/"
+                        open
+                      >
+                        <summary class="article-expander__title">AI画手会画手了！Stable Diffusion学会想象，卷趴人类提示工程师</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738586/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：Aeneas 好困 趁我们不注意，AI 画手一直在悄悄迭代，最近新推出的 Stable Diffusion Reimagine 和 Midjourney v5 功能如此强大，不仅要淘汰人类画师，连提示工程师的饭碗怕是都要丢了。 这次，人类画手是真要失业了。 你敢相信，这张电影剧照一
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738585/"
+                        open
+                      >
+                        <summary class="article-expander__title">南大人工智能学院包揽华为「难题揭榜」9项火花奖！多位学者灵魂提问，任正非万字长文解答</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738585/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：好困 近日，华为「难题揭榜」火花奖正式颁奖。南京大学多位学者斩获 10 项，计算机系与人工智能学院包揽其中 9 项。 习近平总书记在中共中央政治局第三次集体学习时强调，应对国际科技竞争、实现高水平自立自强，推动构建新发展格局、实现高质量发展，迫切需要我们加强基础研究，从源头和底层解
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738584/"
+                        open
+                      >
+                        <summary class="article-expander__title">谷歌推出多模态Vid2Seq，理解视频IQ在线，字幕君不会下线了｜CVPR 2023</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738584/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：编辑部 华人博士和谷歌科学家最新提出了预训练视觉语言模型 Vid2Seq，可以分辨和描述一段视频中的多个事件。这篇论文已被 CVPR 2023 接收。 最近，来自谷歌的研究员提出了一种用于描述多事件视频的预训练视觉语言模型——Vid2Seq，目前已被 CVPR23 接收。 在以前，
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738583/"
+                        open
+                      >
+                        <summary class="article-expander__title">Claude生不逢时！谷歌想扶持自己的OpenAI实在太难了</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738583/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：LRS 赢家通吃，GPT-4 之后的语言模型还有出路吗？ 近期的 AI 大热门毫无疑问就是 OpenAI 发布的 GPT-4 了，与此同时，另一个竞争对手也结束了 alpha 测试。 由前 OpenAI 员工创办的新公司 Anthropic 打造的 Claude 正式宣布开放申请，
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738582/"
+                        open
+                      >
+                        <summary class="article-expander__title">AI顶会IJCAI 2023改在中国澳门举办！三位中国学者任本地主席</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738582/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 来源：AI 科技评论 作者： 陈彩娴 编辑：好困 IJCAl 2023 将改在中国澳门举办，时间不变。 AI 科技评论最新消息：国际人工智能联合会（IJCAl）在官网上发布了一则重要通知（如下），宣布原定于 2023 年 8 月 19 日至 25 日在南非开普敦举办的 IJCAl 202
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738581/"
+                        open
+                      >
+                        <summary class="article-expander__title">GPT-4发现LeCun「小秘密」，一大波测评来袭：别问我是谁，我是GPT-3！</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738581/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：好困桃子 GPT-4 又被网友玩坏了！现在 GPT-4 最大的问题是竟不知道自己是谁.... GPT-4 来了！ 虽然之前就早有预兆，但周二的突然发布还是让人有些意外。 很快，几个小时之后，第一波用户的尝鲜结果就出来了！ GPT-4：我能取代这 20 个工作 比如，问问 GPT-4
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738580/"
+                        open
+                      >
+                        <summary class="article-expander__title">逼真到颤抖！Midjourney画出完美中国情侣，画师、演员、模特一键淘汰</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738580/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：编辑部 继 GPT-4 之后，Midjourney V5 上线。网友纷纷试玩，画出了一对中国情侣，视觉炸裂，碾压人类画师。 昨天，由 Midjourney V5 画的一对中国情侣在网上引起轩然大波。 许多人纷纷惊呼：人类画师别活了。 有人不相信这是 Midjourney 之作，也亲
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/738579/"
+                        open
+                      >
+                        <summary class="article-expander__title">GPT-3解数学题准确率升至92.5%！微软提出MathPrompter，无需微调即可打造「理科」语言模型</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/738579/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>新智元报道 编辑：LRS ChatGPT 的文科脑有救了！ 大型语言模型最为人诟病的缺点，除了一本正经地胡言乱语以外，估计就是「不会算数」了。 比如一个需要多步推理的复杂数学问题，语言模型通常都无法给出正确答案，即便有「思维链」技术的加持，往往中间步骤也会出错。 与文科类的自然语言理解任务不同，数学
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >奇客Solidot–传递最新科技情报</button>
+                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74444"
+                        open
+                      >
+                        <summary class="article-expander__title">褐寡妇打败黑寡妇</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74444">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>在蜘蛛物种中，没有比黑寡妇更知名更令人畏惧的了。然而它们在与外来物种褐寡妇的竞争中逐渐失利。凡是有褐寡妇的地方，黑寡妇消失殆尽。黑寡妇原产于北美洲，通常会避开人类，美国每年发生的被黑寡妇蜘蛛叮咬的病例只有逾千例，死亡极其罕见。黑寡妇在受到骚扰时一般不会咬人，只有人类尝试去捏它们才会咬你。褐寡妇是一种外来物种，最早可能是在 1935 年登陆美国，它的毒液比其美洲的近亲要少，但攻击性更强。研究人员发现褐寡妇会追逐并杀死黑寡妇。将褐寡妇与黑寡妇等动物关在一起，褐寡妇杀死黑寡妇的可能性是其它物种的 6.6 倍，年轻的褐寡妇有五分之四的时间是在吃黑寡妇。成年褐寡妇攻击性没有这么强。褐寡妇喜欢住在城市和郊区，而黑寡妇喜欢沙漠和林地也喜欢郊区，它们可能最终会被赶到更偏僻的地方。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74443"
+                        open
+                      >
+                        <summary class="article-expander__title">新基因编辑技术成功逆转小鼠视力损失</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74443">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>视网膜色素变性症是人类失明的主要原因之一。中国研究人员成功地恢复了患有视网膜色素变性症的小鼠的视力。研究发表在《实验医学杂志》上。该研究使用一种新型的、高度通用的 CRISPR 基因组编辑技术，有潜力纠正各种导致疾病的遗传突变。视网膜色素变性症可以由 100 多个不同基因的突变引起，估计每 4000 人中就有一人受到影响。它始于感知暗光的视杆神经元的功能障碍和死亡，然后发展到感知色彩所需的视锥神经元的死亡，最终导致严重且不可逆的视力损失。武汉科技大学的姚凯教授和他的同事尝试恢复因编码关键酶 PDE6β 的基因突变引起的视网膜色素变性小鼠的视力。为了做到这一点，姚凯的团队开发了一种新的、更加通用的 CRISPR 系统，称为PESpRY。这种系统可以编程纠正多种不同类型的基因突变，并且不受其突变位置的限制。PESpRY 系统能够有效地靶向纠正突变的 PDE6β 基因，并在小鼠的视网膜中恢复该酶的活性，从而防止了视杆和视锥神经元的死亡，并恢复了它们对光的正常电反应。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74442"
+                        open
+                      >
+                        <summary class="article-expander__title">科学家找到方法控制雄蚊的精子</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74442">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>根据发表在《PLOS ONE》期刊上的论文，加州大学河滨分校的一项新研究表明，负责激活蚊子精子的蛋白质可能会被关闭，从而阻止它们游动到卵子中或使卵子受精。这项研究可以帮助控制库蚊的数量，库蚊是一种常见的家蚊，会传播脑肿胀性脑炎和西尼罗河病毒。研究小组此前确定，精子在进入生殖道时需要钙来推动运动，钙通道蛋白质的分析为控制蚊子提供了一条途径，比其他可能产生意想不到的毒性作用的方法更环保。关键字是控制，而不是根除。即使固定精子对经过处理的蚊子是 100% 有效的，但杀死所有蚊子是不可能的，也是不可取的。这项技术将改变特定蚊子种群中可育雄性与不育雄性的比例，而不是将它们全部消灭。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74441"
+                        open
+                      >
+                        <summary class="article-expander__title">Curl 8.0.0 释出</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74441">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>庆祝项目诞生 25 周年，curl 作者 Daniel Stenberg 宣布释出 v8.0.0 ，称该版本没有 API 或 ABI 破坏，也就是不会造成向后兼容性问题。该版本修复了 6 个新漏洞，其中 5 个危险等级低，另外一个为中等。它的另一个主要变化是构建系统不再支持缺乏可工作 64 位数据类型的系统，其它主要是 bug 修复。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74440"
+                        open
+                      >
+                        <summary class="article-expander__title">鸟儿搭乘海上船只的便车</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74440">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>鸟儿是海洋船舶意想不到的偷渡者。这种现象是如此普遍，以至于出现了一个专有名词——船舶辅助的迁徙（ship-assisted migration）。意大利动物学家 Maurizio Sarà 是最早系统性研究鸟儿搭海上便车现象的科学家。2021 年 Sarà 在地中海开展了为期一个月的研究航行，他旨在调查海豚、海龟等海洋物种，但在航行过程中不断注意到鸟儿降落在船上。他开始了记录。平均每天有 3 只鸟在船上逗留，停留的中位数时间是 42 分钟，还有鸟儿会在船上过夜。地中海上航行的船只每天有数千艘，有数十亿只鸟在迁徙过程中穿越大海。它们会在岛屿上停留，但岛屿远没有船只常见，Sarà 估计可能有多达 400 万只鸟会在迁徙中搭乘地中海上船舶的便车。每年有大约 9 万艘商业船只定期在世界水域中航行。Sarà 推测鸟儿因此发展出一种新的迁徙策略，借助船只度过迁徙中最累人的部分，以及从疲劳中恢复过来。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74439"
+                        open
+                      >
+                        <summary class="article-expander__title">北海鳕鱼在变小</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74439">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>海洋捕鱼行业驱动了鱼类的演化，因为捕鱼船更可能捕捉成熟晚体型大的鱼，成熟更早体型更小的鱼具有了生存优势。这意味着鱼群向着更小体型演化。根据发表在《nature sustainability》期刊上的一项研究，研究人员以北海鳕鱼为研究对象，探讨了这种体型变小的趋势是否可能逆转。研究人员认为，如果渔业管理以百年为周期，减少鳕鱼的捕捞，那么逆转体型变小的趋势是可能的，因为鱼的演化本身就很缓慢。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74438"
+                        open
+                      >
+                        <summary class="article-expander__title">转基因水稻可能能在火星上生长</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74438">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>火星土壤一般不适合种植植物，但美国科学家利用 CRISPR 基因编辑技术，使水稻的 OsSnRK1 基因发生突变，经过基因编辑的水稻能在恶劣的环境下发芽生长。研究人员称，这种水稻或许能在火星上生长。火星土壤的营养物质比地球土壤少，且含有一些对植物有毒的化合物。为了解新水稻品种在这种土壤条件下的生存能力，研究人员在一系列常规盆栽土壤、人造火星土壤 MMS-1，以及两者各种比例组成的混合土壤中种植水稻种子。结果发现，经过基因编辑的水稻能在只有 25% 盆栽土壤的混合土壤中生长，长势几乎与在 100% 盆栽土壤中生长的水稻一样。此外，在人造火星土壤中种植的水稻与在盆栽土壤中种植的水稻相比，芽更短且根部更长。研究人员还发现，即使在人造火星土壤中添加少量高氯酸盐（火星表面发现的有毒化学物质），经过基因编辑的水稻种子也能发芽。他们计划测试拥有更多突变的水稻种子，以获得能适应火星土壤及火星稀薄大气层的水稻。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74437"
+                        open
+                      >
+                        <summary class="article-expander__title">Ken Thompson 称他正从 Mac 切换到 Linux</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74437">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>图灵奖得主、Unix、Plan9、UTF8 和 Go 语言等项目的联合创始人 Ken Thompson 在 SCALE 20x 会议上谈论了他正在使用的操作系统。Thompson 说在他的大部分人生中一直用的是苹果的操作系统，但过去五年苹果的做法令他越来越感到沮丧，苹果对用户能做什么不能做什么越来越令人感到无法容忍。他说自己正从 Mac 切换到 Linux——特别是设计运行在树莓派上的 Debian 操作系统 Raspbian。80 岁的 Thompson 可能是在开玩笑。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74436"
+                        open
+                      >
+                        <summary class="article-expander__title">Web3 基础设施基金会于香港成立：欢迎来到真实的荒漠</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74436">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Shawn the R0ck 写道：Web3 技術和哲學的源起可以追溯到1990年代的密碼朋克社區。該社區由一群關注個人隱私、自由和開放的技術人員組成，他們反對集中式的權威機構對個人數據的掌控和濫用。Web3 基礎設施中所採用的去中心化、開源、隱私保護、数据既资产等理念正是源於密碼朋克社區的理念。Web3 基礎設施的技術涉及共識算法（PoW/PoS）、聯邦化、零知識證明（SNARKs 以及環籤名）、Relay Based Protocol、DID（去中心化身份認證）、可信計算、機密計算、操作系統運行時安全、軟件和硬件供應鏈安全、分布式賬本（區塊鏈）等多個領域。這些技術的發展也受到了密碼朋克社區的啟發，旨在讓個人和企業用戶擁有更多的數據所有權和控制權，讓網絡變得更加開放、自由和安全。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74435"
+                        open
+                      >
+                        <summary class="article-expander__title">2022 年度的自由软件奖宣布</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74435">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>自由软件基金会（FSF）宣布了 2022 年度的自由软件奖得主。社会公益项目奖授予了软件电话项目 GNU Jami，此前获得该奖的项目包括了 OpenStreetMap、Public Lab 和 Let&#x27;s Encryp。杰出新自由软件贡献者奖授予了 DivestOS 项目的 Tad (SkewedZeppelin)，DivestOS 是 LineageOS 的分支，主要是移除了其中的私有软件包。自由软件进步奖授予了 Eli Zaretskii，他是 GNU Emacs 项目的共同维护者。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74434"
+                        open
+                      >
+                        <summary class="article-expander__title">curl 作者回顾过去二十五年</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74434">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>curl 作者 Daniel Stenberg 回顾了项目经历的二十五年。发布 curl 首个版本时是他只有 27 岁，当时是 Frontec Tekniksystem 的软件工程师，主要是为瑞典产品开发公司从事嵌入式系统的合同开发工作。他当时养成了一个习惯，每天晚上会熬夜花一两个小时从事个人项目的开发。curl 背后的开发理念是逐步迭代在所有方面进行改进，它也并不是突然流行起来的，用户数是逐步增长的，在 1998 年只有少数用户，到 2010 年增加到数亿用户。很难估计现在 curl 有多少用户，但估计远超 100 亿，URL 的 API 库 libcurl 几乎被每一个联网的设备和系统使用。他的 curl 之路始于 1996 年底，他下载了 Rafael Sagula 开发的工具 httpget，每天自动下载货币汇率，确保他的货币兑换器能正常工作。httpget 有些漏洞，他向作者递交了补丁。Rafael 认为他可以接手维护该项目，所以他接手了。他逐步加入了对 GOPHER 的支持，改变项目名称，增加对 FTP 的支持，在 1998 年初增加了对 FTP 上传的支持...后面就是历史。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74433"
+                        open
+                      >
+                        <summary class="article-expander__title">LLVM 编辑器套件释出 v16.0.0</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74433">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>LLVM 编辑器套件释出了 v16.0.0，主要新变化包括：默认用 C++17 构建，工具链的软要求现在变成硬要求——构建需要 GCC 版本&gt;&#x3D; 7.1，Clang &gt;&#x3D; 5.0，Apple Clang &gt;&#x3D; 10.0，Visual Studio 2019 &gt;&#x3D; 16.7，CMake &gt;&#x3D; 3.20.0；Clang 默认的 C++/ObjC++ 标准是 gnu++17 而不是 gnu++14，等等，更多可浏览详细的发布公告。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74432"
+                        open
+                      >
+                        <summary class="article-expander__title">中国二手市场出现假冒的三星 980 Pro SSD</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74432">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>三星 980 Pro SSD 虽然已被 990 Pro 所取代，但它仍然是市场上最出色的 SSD 产品之一，因此市场上出现假冒的 980 Pro 并不令人感到意外。中国用户报告在二手产品市场闲鱼买到了假冒的三星 980 Pro SSD，该产品甚至能愚弄三星的 Magician 软件。假冒的产品使用了联芸科技 MAP1602A PCIe 4.0 SSD 控制器和长江存储的  128 层 TLC 3D NAND (X2-9060)芯片，三星的正品 980 Pro 都是使用自家的控制器和 NAND 芯片。假冒产品的读写速度在 4.8 GBps 和 4.5 GBps 左右，而三星产品在 7 GBps 和 5 Gbps 左右。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74431"
+                        open
+                      >
+                        <summary class="article-expander__title">Mastodon 用户数突破一千万</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74431">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>去中心化微博客平台 Mastodon 公布的统计数据显示，它的用户数突破了一千万。在马斯克（Elon Musk）收购 Twitter 前，Mastodon 有大约 50 万活跃用户。在马斯克一系列受争议的操作之后，Mastodon 在 11 月份涌入了大量用户，高峰时每天新增逾 13 万用户。如今 Mastodon 的活跃度略有下降，每小时大约增加 2000 左右的用户，每天增加 4.5 万左右的用户，它的用户数目前达到了 1001 万。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from iOS-Weekly</button>
+                  <a class="source-heading__link" href="https://github.com/SwiftOldDriver/iOS-Weekly/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23237"
+                        open
+                      >
+                        <summary class="article-expander__title">老司机 iOS 周报 #237 | 2023-03-20</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23237">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/0493a6d334945cc82df4f6cf1b9b0a033051e8ce103b7cffabf0ac77bf50251d/SwiftOldDriver/iOS-Weekly/releases/tag/%23237" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
+文章
+🐕 How to make an interactive picker for a Swift command-line tool
+@Cooper Chen：Swift 相较于 Javascript 等语言，处理用户输入的库总是不足，本文主要介绍了作者受 Javascript 工具 Nate Moore 的 clack 启发，如何为 Swift 命令行工具制作交互式选择器工具的思路和过程，另外作者将继续记录迁移该工具的过程，为有意向向 Swift 命令行增加更多能力的同学提供参考。
+🐎 淘宝 widget 链路方案总结
+@Damien：widget 是 Apple 推出的小组件功能，其意在希望 App 能一目了然地显示重要的内容，让用户可以快速访问你的 App 以获取更多详情，本文来自淘宝技术团队，阐述了从静态 widget -&gt; 动态 widget -&gt; 用户自定义布局完整的一套生态的演进过程，和各阶段的思考。
+手工打造 HTML 解析器的那些事
+@红纸：ZMarkupParser 是作者开发的 HTML 转 NSAttributedString 仓库。本篇介绍了其实现过程，其中包括代码解析、语法标准化、转换抽象树、MarkupComponent 转换、解析 MarkupSyle、转换 NSAttributedString 等。文章提供了详细的代码实现和实例演示，对于 HTML 解析器实现由兴趣的读者来说，该篇文章可以作为入门参考资料。
+推荐人：ZhgChgLi
+🐕 What&#x27;s new in Swift 5.8
+@zoeGuo：文章对 Swift 5.8 更新的每个 proposal…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from iOS-Weekly</button>
+                  <a class="source-heading__link" href="https://github.com/SwiftOldDriver/iOS-Weekly/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23237"
+                        open
+                      >
+                        <summary class="article-expander__title">老司机 iOS 周报 #237 | 2023-03-20</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23237">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/0493a6d334945cc82df4f6cf1b9b0a033051e8ce103b7cffabf0ac77bf50251d/SwiftOldDriver/iOS-Weekly/releases/tag/%23237" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
+文章
+🐕 How to make an interactive picker for a Swift command-line tool
+@Cooper Chen：Swift 相较于 Javascript 等语言，处理用户输入的库总是不足，本文主要介绍了作者受 Javascript 工具 Nate Moore 的 clack 启发，如何为 Swift 命令行工具制作交互式选择器工具的思路和过程，另外作者将继续记录迁移该工具的过程，为有意向向 Swift 命令行增加更多能力的同学提供参考。
+🐎 淘宝 widget 链路方案总结
+@Damien：widget 是 Apple 推出的小组件功能，其意在希望 App 能一目了然地显示重要的内容，让用户可以快速访问你的 App 以获取更多详情，本文来自淘宝技术团队，阐述了从静态 widget -&gt; 动态 widget -&gt; 用户自定义布局完整的一套生态的演进过程，和各阶段的思考。
+手工打造 HTML 解析器的那些事
+@红纸：ZMarkupParser 是作者开发的 HTML 转 NSAttributedString 仓库。本篇介绍了其实现过程，其中包括代码解析、语法标准化、转换抽象树、MarkupComponent 转换、解析 MarkupSyle、转换 NSAttributedString 等。文章提供了详细的代码实现和实例演示，对于 HTML 解析器实现由兴趣的读者来说，该篇文章可以作为入门参考资料。
+推荐人：ZhgChgLi
+🐕 What&#x27;s new in Swift 5.8
+@zoeGuo：文章对 Swift 5.8 更新的每个 proposal…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >少数派 -- Matrix</button>
+                  <a class="source-heading__link" href="https://sspai.com/matrix">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://sspai.com/post/78922"
+                        open
+                      >
+                        <summary class="article-expander__title">PixStory AI：一款超越阅读的电子书阅读器</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/78922">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sspai.com/2023/03/19/a76ee9f7862649c0f2b05d22aa79e672.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>在这个信息爆炸的时代，电子书成为了人们获取知识和娱乐的重要途径。然而，一般的电子书阅读器只是提供简单的阅读功能，缺乏创新和实用性。而PixStory AI则是一款不同寻常的电子书阅读器，它不仅可以导入各种格式的电子书，还具有图片超分辨率和翻译功能，以及文本相似度分析算法，能够帮助用户更好地阅读和整理电子书。
+ 
+ 
+ 超分辨率功能 
+PixStory AI的超分辨率功能是其最大的特色之一。许多用户可能都遇到过图片分辨率较低导致无法清晰查看的问题。而PixStory AI利用先进的AI技术，将图片的清晰度提高到一个新的水平，让用户能够更加清晰地查看图片中的细节。无需进行任何操作，用户只需要导入图片，PixStory AI就会自动进行优化处理，让用户畅快阅读。
+
+ 
+ 翻译功能
+ 除了超分辨率功能外，PixStory AI还具有翻译功能。当用户阅读电子书时，如果遇到不懂的单词或者句子，只需在顶部开启翻译功能，PixStory AI就能帮助用户翻译。这项功能尤其适合阅读外文书籍（暂时只支持日语、会陆续更新更多语种）的用户，让他们能够更快地理解内容，享受阅读的乐趣。 
+*翻译功能由微软翻译、百度翻译提供支持
+
+ 
+文件自动归类
+另外，PixStory AI还具有文本相似度分析算法。当用户导入电子书时，PixStory AI会自动对文本进行分析和整理，将相似的章节归类到同一个文件夹内，帮助用户更好地整理和查找电子书内容。这样，用户就能更高效地阅读和管理电子书了。
+iOS原生UI设计
+PixStory AI还使用了SwiftUI技术，这使得它的界面更加现代化和易于操作，让用户能够更加愉悦地阅读电子书。
+
+Wi-Fi文件传输、多格式支持
+
+下载地址
+ 
+ 
+总结
+感兴趣的朋友可以观看完整视频介绍
+ 
+ 
+PixStory AI是一款功能强大的本地电子书阅读器，它不仅具有传统阅读器的基本功能，还融合了AI技术和iOS原生的界面体验，为用户提供了更好的阅读体验和管理方式。如果你是一位喜欢阅读电子书的用户，那么PixStory AI绝对是你不可错过的好选择。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://sspai.com/post/78913"
+                        open
+                      >
+                        <summary class="article-expander__title">养狗家庭家务分配一团糟？看我们是如何实现家庭大和谐的</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/78913">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sspai.com/2023/03/18/73a20e14481d02b948d12da9aafe3f34.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>在我的记忆里，自打记事以来，一直都是母亲在操持家务，小时候还经常被母亲叫去帮着扫地洗碗喂猪，每次我都是拖拖拉拉应付了事，为此没少挨揍。
+一提到家务，相信很多人都很排斥，都不想做。然而做家务是家庭生活的重要组成部分，又不得不做。以前一个人生活的时候可以一个星期扫一次地，衣服袜子脏了往墙角一堆等周末了一起洗。但结婚以后就不一样了，做家务就成了家庭事务，必须要重视起来。
+如果男女主人在做家务上能够分工合作，不仅能够提升家务的完成效率，还可以极大增强夫妻感情、促进家庭关系和谐。
+然而不出意外的话，很多家庭是做不到这一点的，经常会出现以下几种情景： 
+
+男主人的大男子主义作祟，天然的认为女主人应该多承担家务，自己很少做家务；
+女主人认为自己承担的家务太多了，男主人又不够体谅自己，自己很委屈；
+男女主人对于家务分配意见不一致，都认为对方应该多干点，谁都不肯让步；
+
+不得不承认，女性在家庭生活中承担的家务普遍会多于男性。在父母那一辈这种矛盾还没那么突出，但在当今社会。在一个家庭中，夫妻两个人都需要工作，双方在家庭中的角色地位也越来越平等，女性对于多承担家务这件事已经不那么认可了。
+但是我认为，如何合理分配家务从来都不应该成为一个家庭中需要拿出来讨论的话题，而是应该在彼此的默契中动态达成。下面就以我与罗斯小姐为例，分享一下我们在家务分配上是如何做的。
+
+先交代一下我们的生活背景：
+在罗斯小姐的原生家庭里，妈妈擅长做生意、管账目，家务做得一般，做饭尤其难吃，平时在家都是爸爸做家务和做饭。从小没有人教育她说女孩子一定要承担家务，要学做饭。
+她小时候第一次正儿八经地学习炒菜，是因为要写作文，学习炒菜心，炒了三次，写了一篇优秀作文，之后就再也没有正儿八经地做过饭了。长大后她对于家务的态度就是糊弄了事或者直接请人。
+而胖叔的原生家庭，因为爸爸是医生，平时工作比较忙，很少做家务；妈妈平时做家务比较多，…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-03-19 datetime="2023-03-19T15:50:58.000Z">2023-03-19</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-03-19 datetime="2023-03-19T15:50:58.000Z"></time>
           </button>
@@ -89,6 +1066,48 @@
                             <span class="media-object__text">
                               <span>Twitter CEO 马斯克（Elon Musk）上个月表示将在二月底公开社交网站使用的推荐算法源代码。但这一承诺并未兑现。本周末马斯克给出了更明确的时间，宣布将在 3 月 31 日公开 Twitter 推荐算法源代码。马斯克并非是一位一诺千金的亿万富翁，所以他的最新承诺需要时间去检验。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >少数派 -- Matrix</button>
+                  <a class="source-heading__link" href="https://sspai.com/matrix">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://sspai.com/post/78916"
+                        open
+                      >
+                        <summary class="article-expander__title">现代化的 Archlinux 安装，Btrfs、快照、休眠以及更多。</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/78916">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sspai.com/2023/03/19/aec71f4970c7eda8e4adbd51f243506f.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>前言
+在我曾经的文章中，我提到我的 Archlinux 系统已经连续使用两年了，期间一直没有出现过什么大问题。然我事实上我对这个系统安装一直有些不满意：
+首先是不满意磁盘分区，我当时只给根目录分了 30G 空间，并且 /var 目录没有单独挂载分区，导致根目录的使用空间一直都挺捉襟见肘的，/home 目录也只分了 100G 空间，后期也不太够用。那可能会有人问，500G 的硬盘剩下的三百多 G 那里去了？其实剩下的空间又被我单独挂载在了 /home/$USER/data 目录下，用来放一些不常用的大文件。现在想一想这个分区方式是真的不太好。
+其次是磁盘分区使用的文件系统是「good old」的 ext4 文件系统，虽然 ext4 使用起来很可靠稳定，但在特性上多少有些无聊，我想尝试一下新的文件系统 Btrfs，支持写时复制（CoW）、快照以及压缩等高级特性。
+秉承着“没有坏就不要动它”的原则，虽然对系统安装有些不满意，但又不是不能用，也就这么用下来了。然而就在前些日子某次系统更新后，我突然发现鼠标不能用了，直到最后我发现其实是 keyd 的一个 bug，不知是否是奥米克戎后遗症导致我注意力变差，还是因为前一天晚上睡眠不足，我排查了好一会也没有找到故障原因，最后脑袋一热，决定重装系统。
+
+由于 Arch linux 官方有着十分详尽的 wiki，同时 ArchlinuxCN 社区也维护了一版中文 wiki，国内外互联网上也有很多安装与配置教程，只要善用搜索引擎，安装 Archlinux 不是什么难事，所以本文为了篇幅考虑，不会将所有安装步骤列出来，只记录下我个人安装过程中遇到的需要注意的一些特殊配置，权当是个备忘录吧。
+重装前的备份
+因为我打算使用 btrfs 文件系统，虽然将 ext4 文件系统转换为 btrfs 文件系统是可行的，但是毕竟存在风险，保险起见还是备份数据，然…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1472,6 +2491,78 @@
                               <span>文文娱 Talk，作者郑容和 由宋慧乔主演的 Netflix 原创剧《黑暗荣耀》2 于上周五如期回归。横扫网飞，在国内也引起了巨大的讨论，更新当日一度挤崩了人人视频和韩剧 tv，仅一日就在豆瓣拿下了 9.3 的开分高分，目前评分 9.2。（评分人数 180435）。 《黑暗荣耀》有多热？ 韩联社 3
 本文链接</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >少数派 -- Matrix</button>
+                  <a class="source-heading__link" href="https://sspai.com/matrix">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://sspai.com/post/78906"
+                        open
+                      >
+                        <summary class="article-expander__title">给自己写一个案件项目管理工具</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/78906">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sspai.com/" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>我是一个从事争议解决业务的律师，随着工作时间的增长，我接触到的案件项目数量越来越多。诉讼、仲裁案件通常时间跨度很大，我的记忆力又差，因此需要有一个方案来管理这些项目，让我能够回顾案件基本信息、确认日程安排和找到相关人士的联系方法。当然，有许多现成的软件可以实现这个目标。
+可惜的是，尽管律所有线上系统，市面上也有各种优秀的笔记、代办事项和数据库应用，我始终没有找到符合要求的工具。它们或者功能不足，或者过于庞杂，又或者不能离线使用。更多时候，我还在用 Excel / Numbers 表格存放案件条目，用 Word / Pages 文档记载每个案件的详情，再结合记事本或者日历工具提醒日程。但这种方案下信息存放得过于分散，案件条目和详情的修改也无法相互反映。
+为了减少在工作中的烦躁情绪，我决定自己写一个工具来实现目标。作为法学生，我的计算机知识只来源于中学的竞赛，时隔多年，连基本的 if 语句怎么写都需要现查。好在虽有挑战，我还是在三、四个周末加上工作变动间隙的几天时间里，完成了最初的版本，并在实际使用大半年后做了一点改进，目前已基本能够满足我日常的工作需求。于是，我打算同大家分享这个小工具。
+写这篇文章，一来是聊聊小工具的设计思路和使用方法，包括法律工作者在内有项目管理需求的打工人，可以直接下载使用这个工具（链接位于文末），也可以参照这一思路在任意带有数据库的软件中实现。二来也想鼓舞那些日常工作中不得不去适应难用的办公软件、完成枯燥重复的任务，却没有代码写作基础的朋友们，或许花上一些时间和精力，就能够为自己定制一个小工具来解决问题，这也会是颇有成就感的事情。
+一、整体思路
+在开始前，我得确定自己想要什么。
+如前所述，我需要一个离线的项目管理工具。这个工具最基础的功能，应当是能够记录和显示每个案件的信息，这包括案件名称、案号、法院、当事人等。当然，对于每个案件项目，我还需要能够记录…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://sspai.com/post/78900"
+                        open
+                      >
+                        <summary class="article-expander__title">路漫漫其修远兮 —— 文心一言体验小记</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/78900">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sspai.com/2023/03/17/05f08f0481eac88a544cc5449efe0085.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Matrix 精选
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+在昨天文心一言发布后，我第一时间拿到了体验的资格，但第一次使用后却不禁有些失望。他的逻辑能力极度缺乏、创造力也差点意思。不过，今天再次高强度使用后，却又让我对这款产品的想法有了些许改变。
+前言
+将 2023 年称为 AI 纪元在我看来也没什么不合适的：虽说 ChatGPT 在去年就已推出，但真正在国内大火还是在今年的事情；而在这个月，OpenAI 又接连推出了 GPT-3.5-Turbo 的 API 和 GPT-4 模型，又让一大波基于 OpenAI 的二次开发的工具类软件大火；在今天，微软在发布会上再度宣布将把 ChatGPT 整合进 Microsoft Office 套件中。一时间，AI 仿佛成为了最近最「潮流」的词语。
+而如果我们将时间倒回两年之前，就能看到其实百度早在 2021 年就已经入局 AI：文心大模型的第一个版本早在 2019 年就已发布，此后的每一年都会发布一个新版本。不过直到 ChatGPT 在国内大火后，百度才推出了自己面向公众的自然语言处理工具——文心一言。
+2021 年「百度世界」上，李彦宏和撒贝宁交流百度关于 AI 的探索
+「文心一言」是什么？
+根据百度自己的介绍：
+
+文心一言是百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。文心一言是知识增强的大语言模型，基于飞桨深度学习平台和文心知识增强大模型，持续从海量数据和大规模知识中融合学习具备知识增强、检索增强和对话增强的技术特色。 文心一言有五大能力，文学创作、商业文案创作、…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -18803,535 +19894,12 @@ class ViewController {
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >少数派 -- Matrix</button>
-                  <a class="source-heading__link" href="https://sspai.com/matrix">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://sspai.com/post/78394"
-                        open
-                      >
-                        <summary class="article-expander__title">「短评」Lyricify 4 : 不止是歌词</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/78394">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sspai.com/2023/02/19/c58103960d5c104e258c5ffc1c7739f9.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>笔者在使用Spotify的时候，常常感觉到 Spotify 自带歌词服务的羸弱，Spotify 软件提供的歌词覆盖率甚至不能说差强人意，遑论桌面歌词和滚动歌词这样更高级的功能了。市面上提升 Spotify 歌词体验的的产品有不少，比如轻量化的歌词匹配工具 Versefy ，再比如利用客户端自定义工具 Spicetify 配合内置的插件市场来获取第三方歌词，但是今天我要推荐的工具是 Lyricify 。
-什么是 Lyricify ？
-Lyricify的开发者是高中生（现在应该大一了）@WXRIW  。在 Github 的页面上 Lyricify 给自己的描述是歌词滚动显示工具，但实际上它能做的不止于此。2023 年 1 月 22 日 Lyricify 正式发布了最新版本也就是 Lyricify 4 ，前面的版本支持包括网易云和 Apple Music 在内的多款音乐软件，但是 Lyricify 4 专注于 Spotify 。附上 Lyricify 的 Github 项目链接：Lyricify 4 。
-后生可畏
-为什么是 Lyricify ？
-在 Lyricify 4 发布的第一时间我就进行了安装，这一个月下来给我的使用体验还是非常不错的，接下来笔者将介绍 Lyricify 给我印象最深的几个特色，或者说我心中 Lyricify 相比于相似工具的核心竞争力。
-设计
-如果说 Lyricify 的 UI 有多么高的原创性和设计性多少有些言过其实，但是平心而论，整个软件的风格非常简洁明了，笔者个人还是非常欣赏这样的界面风格的，没有特别多花哨的特效，视觉体验比较柔和，通俗一点讲就是比较耐看。
-Lyricify主界面
-Lyricify 最核心的功能就是歌词显示，软件提供桌面歌词，灵动词岛，Spotify 风格，Apple Music 风格，以及移动端UI全屏等选择。软件的使用逻辑是当你在…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >博客园_新闻</button>
-                  <a class="source-heading__link" href="https://news.cnblogs.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736841/"
-                        open
-                      >
-                        <summary class="article-expander__title">开放充电桩成“双刃剑”：特斯拉车主哀叹痛失充电特权</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736841/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>一些特斯拉车主感到担忧，因为向其他车辆开放将令他们本就不足的充电桩更加紧张，届时可能会出现长时间排队等充电的情形。 财联社 2 月 18 日讯（编辑赵昊）近日，美国白宫公布的一项新计划称，电动汽车巨头特斯拉公司的部分充电桩将在明年年底前首次向所有美国电动汽车开放。 对于美国电动汽车行业来说，这自然是
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736840/"
-                        open
-                      >
-                        <summary class="article-expander__title">Meta据悉在绩效评估中给数千员工“不合格”评级，酝酿新一轮裁员</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736840/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>《华尔街日报》2 月 17 日消息，知情人士称，在最近结束的一轮绩效评估中，Meta Platforms 给数千名员工打出“不合格”评级，表明更多裁员可能即将到来。 据悉，Meta 还削减了奖金指标。这是在该公司 CEO 扎克伯格宣布 2023 年将是“效率之年”（year of efficienc
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736839/"
-                        open
-                      >
-                        <summary class="article-expander__title">未及时提交发射数据 SpaceX或收17.5万美元罚单</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736839/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>2 月 18 日消息，由于 SpaceX 未及时向美国联邦航空管理局（FAA）提交火箭发射数据，FAA 建议对 SpaceX 处以 17.5 万美元的罚款。但 SpaceX 有 30 天时间对 FAA 发送的执法函告作出回应。 据悉，在去年 8 月份从佛罗里达州向近地轨道发射 53 颗星链卫星之前，
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736838/"
-                        open
-                      >
-                        <summary class="article-expander__title">IBM CEO：人工智能正迅速接管文员工作</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736838/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>2 月 18 日消息，IBM 董事长兼首席执行官阿温德·克里希纳（Arvind Krishna）在接受采访时表示，人工智能正以迅猛的步伐接管文员工作。 克里希纳在接受采访时表示，随着人工智能 ChatGPT 爆炸式增长，这是一个“不可思议的时刻”。他还预测了这项技术可能会取代哪些工作。 克里希纳表示
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736837/"
-                        open
-                      >
-                        <summary class="article-expander__title">威马沈晖：威马确实遇到一些困难，正进行调整全力保障复工复产</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736837/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>威马汽车视觉中国资料图 身陷舆论漩涡多日，威马汽车终于现身。 2 月 17 日晚间，威马汽车 CEO 沈晖发布微博称，“过去一年因为疫情和市场环境的客观影响，威马确实遇到一些困难。我们正在通过一系列降本增效的措施进行调整，全力保障复工复产，保障终端用户的体验。痛定思痛，才能整装再出发！感谢大家的关心
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736836/"
-                        open
-                      >
-                        <summary class="article-expander__title">马云澳洲见老朋友，43年前曾在西湖边合影</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736836/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>三言科技 2 月 18 日消息，近日，马云现身澳大利亚，与当地友人合影的照片在网上流传。 据悉，与马云合影的外国友人是莫利一家，是与马云相识四十多年的朋友。 1980 年 7 月，还在读中学的马云在杭州西湖边练习外语时，偶然与来自澳大利亚的莫利一家相识。 此后，马云与莫利一家发展成为笔友，双方经常通
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736835/"
-                        open
-                      >
-                        <summary class="article-expander__title">微软必应计划在AI搜索中引入广告模式 或于3月公布细节</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736835/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>2 月 18 日消息，据外媒援引知情人士消息，微软已开始与广告公司讨论如何利用改版后的新必应搜索引擎赚钱。新必应由生成式人工智能（AIGC）驱动，微软正寻求与在搜索领域所占主导地位的谷歌抗衡。 一位不愿透露姓名的广告高管表示，在本周与一家大型广告公司的会议上，微软展示了新必应的演示，并表示计划在搜索
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736834/"
-                        open
-                      >
-                        <summary class="article-expander__title">中国工程院院士王坚：我国已具备支撑ChatGPT发展的算力基础</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736834/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>21 世纪经济报道记者郭美婷广州报道 “解好电力行业的关键问题，有可能会引领下一波 AI 浪潮。”中国工程院院士、阿里云创始人王坚 2 月 17 日在南方电网总部参加第四届电力调度 AI 应用大赛时表示。 在会上，王坚接受了 21 世纪经济报道记者的采访，对于近期热度不减的 ChatGPT，他表示，
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736833/"
-                        open
-                      >
-                        <summary class="article-expander__title">微软将把必应聊天回复限制在 5 条以内，以防人工智能越界</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736833/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>IT 之家 2 月 18 日消息，微软表示，在必应聊天机器人多次失控几天后，公司将对其人工智能聊天机器人实施一些对话限制。 在发现必应存在侮辱用户、欺骗用户，甚至操纵用户情感等行为之后，微软决定将其其聊天回复限制在每天 50 个问题、每个问题 5 条回复以内。 “我们的数据表明，绝大多数人都能在 5
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736832/"
-                        open
-                      >
-                        <summary class="article-expander__title">设计师编辑成ChatGPT用户主力！程序员仅占4.4%</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736832/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Alex 发自凹非寺 量子位公众号 QbitAI 最近，量子位编辑天天见的除了同事，就是 ChatGPT 了...... 那么问题来了：除了小编（bushi），还有谁爱跟 ChatGPT 打交道？ Measurable AI 最新统计数据显示，用这个 AI 的设计师居然比程序员多 5 倍。 为了了解
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736831/"
-                        open
-                      >
-                        <summary class="article-expander__title">顺丰无人机完成跨琼州海峡首飞，将进入常态化运营</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736831/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>2 月 19 日，顺丰集团官微发布消息称，顺丰无人机首次开创以省会城市辐射周边县的跨海快件运输业务，新增航线湛江市徐闻县至海口市秀英区，并顺利完成测试飞行，迎来首飞，即将进入常态化运营阶段，将两地运输时效由隔日达提升至半日达。 图片来源：顺丰集团官微
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736830/"
-                        open
-                      >
-                        <summary class="article-expander__title">香港大学宣布禁用 ChatGPT 等 AI 工具</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736830/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>IT 之家 2 月 18 日消息，香港大学禁止师生使用人工智能机器人 ChatGPT 或其他人工智能工具完成课程作业、评估等，为全港大学中首例。 港大副校长何立仁向教职员及学生发内部信，称 ChatGPT 是令全球教育界震荡的语言模型，将采取短期措施，禁止校内所有课堂课程作业和评估等使用 ChatG
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736829/"
-                        open
-                      >
-                        <summary class="article-expander__title">马斯克否认推特修改算法推荐自己账号：错误报道，将追责说谎员工</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736829/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Tech 星球 2 月 19 日消息，此前，媒体报道马斯克命令推特公司工程师加班修改算法，令他本人的推文优先级人为提高了 1000 倍的消息引发热议， 对此，马斯克回应表示，虚假稿件的“信源”是一名心怀不满的员工。他已经休了几个月的带薪假，接受了来自谷歌的工作，并觉得有必要在离职时传播虚假信息损害声
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736827/"
-                        open
-                      >
-                        <summary class="article-expander__title">驶上AI快车道，Testin云测仍有隐忧</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736827/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>撰文张 宇编辑 杨博丞 ChatGPT 在一夜之间火爆全球互联网，引来了无数人的关注。截至目前，ChatGPT 的月活跃用户数已经超过了 1 亿，成为历史上增长最快的消费者应用程序。 通过 AI 技术驱动的自然语言处理工具，ChatGPT 能够通过学习和理解人类的语言来进行对话、互动，甚至能完成撰写
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736826/"
-                        open
-                      >
-                        <summary class="article-expander__title">外卖大战，抖音微信也来了</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736826/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>深燃（shenrancaijing）原创 作者唐亚华 编辑黎明 外卖领域风云再起。 近日，有消息称“抖音将于 3 月 1 日在全国上线外卖服务”。对此，抖音相关负责人称，“团购配送”项目目前仍在北京、上海、成都试点当中，近期已开放该三城的商家自助入驻，后续将视试点情况，考虑逐步拓展试点城市，目前无具
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736825/"
-                        open
-                      >
-                        <summary class="article-expander__title">包下中国互联网大买卖的人，失联！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736825/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>作者丨华商韬略 华商韬略出品丨 ID：hstl8888 昨日晚间，华兴资本创始人、董事长包凡失联的消息，在财经界，尤其是金融界与互联网新经济领域引起广泛关注，甚至是强烈震动。 他，有什么特别的？他的失联，为什么值得特别关注？ 2015 年情人节，中国商界传出大消息：滴滴与快的共同宣布，两家企业将实现
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736828/"
-                        open
-                      >
-                        <summary class="article-expander__title">字节PICO裁员，大厂集体撤退元宇宙</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736828/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/赵若慈 来源/豹变（ID：baobiannews） “全能网友”ChatGPT 疯狂出圈，互联网大厂纷纷入局，公开相关业务。然而，如今 ChatGPT 有多火爆，上一任科技“网红”元宇宙就显得有多落寞。 2 月 13 日，字节旗下虚拟现实品牌 PICO 进行新一轮人员优化。PICO 员工陆清（化
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736824/"
-                        open
-                      >
-                        <summary class="article-expander__title">李彦宏、雷军、程维等出席中国互联网协会新春茶话会</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736824/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>2 月 17 日，2023 中国互联网发展座谈会暨中国互联网协会新春茶话会在京召开。工业和信息化部党组成员、副部长张云明出席会议并讲话。座谈会由中国互联网协会理事长尚冰主持。 与会嘉宾重点围绕数实融合、科技创新、网络安全、平台发展等方面进行交流，探讨互联网行业发展中面临的热点、难点问题，提出企业发展
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736823/"
-                        open
-                      >
-                        <summary class="article-expander__title">特斯拉追尾后续：直播间网友聚焦刹车问题 体验店称销售受影响</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736823/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>2 月 17 日，浙江温州一辆特斯拉高速行驶追尾公交车的消息持续发酵。2 月 18 日下午，上游新闻（报料邮箱 baoliaosy@163.com）记者在特斯拉福建体验中心网络直播间看到，不断有网友提出有关特斯拉刹车的问题。18 日，温州特斯拉两个体验中心均回应上游新闻记者称：“事件已影响到销售，在
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/736822/"
-                        open
-                      >
-                        <summary class="article-expander__title">科大讯飞研究院万字解读ChatGPT，透露三大积累和产业机会</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/736822/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>智东西（公众号：zhidxcom） 作者程茜 编辑漠影 当下，聊天机器人 ChatGPT 当之无愧已经成为科技圈“顶流”，国内各赛道龙头也已站在资本聚光灯下。 海外前有微软新版 Bing，后有谷歌对话式 AI 服务 Bard，都助推着生成式 AI 发展走向高潮。反观国内，百度、腾讯、阿里、京东、科大
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-18 datetime="2023-02-18T15:35:26.000Z">2023-02-18</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-18 datetime="2023-02-18T15:35:26.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >奇客Solidot–传递最新科技情报</button>
-                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74173"
-                        open
-                      >
-                        <summary class="article-expander__title">NASA 和开源软件</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74173">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>NASA 在不同项目中大量使用开源软件，它同时也贡献和发布了很多开源软件。刚刚举行的 FOSDEM 2023 会议上，Steve Crawford 发表了 NASA 和开源软件的主题演讲。2021 年登陆火星的毅力号探测器搭载了一架名叫机灵号（Ingenuity）小型无人直升机，它使用了名叫 F Prime 的开源飞控框架，NASA 的 JPL 在 2017 年 Apache 2.0 许可证下开源了该框架。与此同时，毅力号项目使用了大量开源软件库，为了庆祝机灵号的首次飞行，代码托管平台 GitHub 给 12000 位向这些开源库贡献代码的开发者发布特别的徽章。另一个引人注目的项目是韦伯太空望远镜，该望远镜是 NASA 和 ESA、CSA（加拿大宇航局）联合建造的，它的 JWST Calibration 软件是在 GitHub 上开发的，编程语言是 Python，使用了 Astropy 去处理常见天文任务。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74172"
-                        open
-                      >
-                        <summary class="article-expander__title">Google 与苹果分享 Chrome iOS 搜索广告收入</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74172">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Google 向苹果和三星等设备厂商支付了数十亿美元以将其设为默认搜索引擎，现在 Google 还被发现与苹果分享了用户在 iOS 上使用 Chrome 浏览器搜索时产生的广告收入。英国竞争监管机构竞争市场管理局（CMA）担心，如此丰厚的条件让苹果不愿意与 Google 竞争。这或许解释了虽然苹果财力雄厚却没有推出与 Google 竞争的搜索引擎，也没有加大投资 Safari 浏览器以成为 Chrome 的强有力挑战者。根据 2021 年 12 月 27 日提起的反垄断诉讼，苹果不需要付出什么代价就获得了与 Google 展开竞争可能带来的利润。Google 一半的搜索流量是通过苹果设备完成的，因此苹果公司是搜索巨人的一个潜在威胁，Google 通过向苹果支付数十亿美元并分享搜索广告收入，从而消除了这一潜在威胁。Google 向苹果支付的费用从早期的10 亿美元增加到了 2021 年的 150 亿美元。根据反垄断法，这种市场划分的做法是非法的。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/pdso/rss/actions/runs/4463716666">
-        <time id="build-timestamp" datetime="2023-03-20T01:18:12.471Z">2023-03-20T01:18:12.471Z</time>
+      <a class="footer-link" href="https://github.com/pdso/rss/actions/runs/4474500014">
+        <time id="build-timestamp" datetime="2023-03-21T01:12:08.570Z">2023-03-21T01:12:08.570Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
