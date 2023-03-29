@@ -69,6 +69,46 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/79047",
+          "author": "碎瓜",
+          "description": "上一份工作的公司，内网有个「圈子」功能，每个人都可以创建圈子，也可以订阅别人的圈子，在圈子里你可以发文章。我当时创建了一个叫「知新」的圈子，简介这样写：\n\n「知新」旨在共享大脑——我们都有自己熟知和关注、但其他人完全不了解的领域，当这些领域有新事件时，你可以共享出来让别人看到。知新**不鼓励**你对这些新事物有足够的了解：分享出来，让别人知道有这个东西，就已经足够了。\n\n我觉得自己当时的图标选得棒极了：\n\n作为圈子的主人，我几乎每周都会分享自己觉得有意思的新事物(当时是：DALL·E 2, Web 3.0)，圈子人数也冲上了活跃榜前十，但很奇怪：没有其他人分享自己看到的新事物。我坚持了一个月放弃了，因为我只在输出自己的“新知”，而没有获得任何输入。\n# 缘起\n既然共享大脑失败，我就在想去哪里获得新知，我找到了Newsletter和播客。我从自己订阅的Newsletter里受益良多，例如：刻意体会、地心引力 等。与Newsletter由一个人写作不同的是，播客通常在两人及以上之间进行，这也给观点碰撞、话题的延伸探讨提供了可能性，有些时候甚至能听到完全相反观点之间的辩论。\n于是我萌生了「让播客可搜索」的念头，简单说就是：\n\n获取最近一周的播客，把音频转文字，当有新的热点时间发生时，我就能用关键字快速定位到KOL们对这件事的看法，从而形成一个概览式的观点群像。\n\n例如最近的GPT-4、Tik Tok质询，我们很难得知当下发生的东西会对未来产生怎样的影响，但当你看过了很多观点碰撞之后，也许你会产生自己的看法。\n# GPT-4助力\n这个想法萌生后，我就想尝试做一个demo出来——但我完全不懂前端。直到上上周我用上了GPT-4，不断告诉它需求，我完成了第一版几乎没有后端的demo：\n\n你可以搜任何自己感兴趣的关键词，这个网站会调用iTunes API返回搜索结果，GPT-4帮我完成了全部的页面布局、搜索、结果展示代码。\n本文无意显示GPT-4有多么强大，否则文章标题就会是「不写一行代码：我用GPT-4做了这个网站」，这两周看到的海量相关信息已经让我对这几个单词产生了PTSD，但我那时就有种朦胧的感觉：\n\n在GPT时代，不要给自己的技能设限——也许很快，我会用上由设计师、产品经理、律师或电子工程师开发的产品。\n\n# 音频文字化\n最初的想法是每天获取全量最新的播客音频，在后端使用OpenAI的Whisper模型从音频提取文字和时间戳，这样用户可以快速找到关键词对应的段落，有重点地听。但很快我就意识到这么做的后端成本远比想象中大得多。\n如果改为按需使用——用户点击\"Transcribe\"按钮时提取文字，Whisper的处理速度也并不快：在没有GPU的情况下，使用最小模型为30分钟的音频提取文字，耗时也超过1分钟，而租用一台GPU的单月成本预计2000元，并且大多数时间可能闲置。同时，我注意到部分播客的RSS描述里其实有制作者自己整理的时间线，因此在不增加成本的情况下，我选择了一个折中方案：\n\n解析制作者提供的时间线，并默认展示有时间戳的搜索结果。\n\n结果如下图所示：\n搜索“杨紫琼”的结果\n当然，我还是没有放弃将全文文本化的念头，因此增加了一个“Transcribe”按钮当作未来TODO，也许未来时间、精力、金钱允许的情况下会把这个坑填完。\n# 使用\npodfind.xyz\n使用这个网站完全免费且开源，Github：mazzzystar/PodFind\n我不会将它定义为「一个播客搜索网站」(当然你也可以这么定位它)，我希望它可以帮助你快速获知不同人对同一件事的反应(Reaction)，观察(Observation) 和对未来的判断(Prediction)。\n这个网站靠捐赠活下去，当然也可能活不下去，不过并不重要！它每多存在一天，就对认为它有用的人产生价值。\n# 有趣的花絮\n第一个是网站的捐赠按钮上方，我增加了实时展示了服务器费用，从心理学上讲，应该会有正向效果？哈哈哈虽然不指望捐赠但蛮好玩的。\n\n第二个是我为这个开源项目编造了一个GPT-4.0 Licence，里面的内容基本上是模仿MIT协议，但代码的确是GPT-4写的，但图一乐。\n# 结尾\n虽然PodFind并不能完全充当我的「共享大脑」，但它在一定程度上让我共享了其他人的观点和思维方式，算是给推荐算法的信息茧房制造一点裂缝吧。",
+          "link": "https://sspai.com/post/79047",
+          "publishedOn": "2023-03-28T09:34:48.000Z",
+          "wordCount": 604,
+          "title": "PodFind: 获取新知的一种方式",
+          "imageUrl": "https://cdn.sspai.com/2023/03/27/120d4bbd2f9c1fa8f163e9cf941562d6.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/79059",
+          "author": "PostMeridy",
+          "description": "除了对于比如 iPhone 13 mini 之类「小尺寸手机」的热爱之外，自从 2020 年摩托罗拉在几年的沉寂之后用一台复刻经典的 RAZR 再次点燃了所谓新的「翻盖手机」1的市场，买一台这样的竖折手机体验一下就成为了我心中一个隐隐的期待。而在整整三年之后，我终于为这个期待打上了勾。\n为什么要折叠\n关于折叠屏，自始至终都绕不开的一个争论就是手机到底应该怎样折。\n而在经过三四年的市场发展和用户群体培养之后，几年前还抱着坚定信念认为「手机就应该往小了折」的我现在反而没有一个明确的立场了：一方面是我虽然极少在手机上做内容消费——比如看视频玩游戏之类的，但我确实经常需要用手机处理很多大段的文字内容，在这种情况下，更大的屏幕面积有着毫无争议的优势。而以 Galaxy Fold、Mate Xs 和其他厂商的横折手机系列为代表的「把手机折大」派自然也是合理的。\n图｜MrMobile\n然而另一方面，虽然我会在手机上处理文本内容，但是手机从来都不是我的文字处理真正的生产力所在：主要是因为无论手机的屏幕再怎么大，受制于移动端软件生态的困扰，在创作之后的排版、校对和发布流程上依然没有任何可以与桌面端工具相提并论的软件；同时还是因为我在刻意的简化对于手机的依赖场景，现在的手机对于我来说只有四个主要功能：通讯、拍照、音乐和支付，我并不需要为了满足内容消费而弄一块更大的手机屏幕——因为手机叠得再大，能叠得过我 16 寸 MacBook Pro 的 XDR 显示屏吗——既然手机对于我来说只是工具，我自然是希望它的「侵入性」可以越小越好。\n主屏幕首页仅有的 6 个软件（桌面启动器是 Niagara ）\n因此，形如 Z Flip 系列这样的竖折屏手机对于我来说，似乎就是一个很完美的解决方案了。它们既满足了类似 iPhone 13 mini 这样体积小所带来的低侵入感，同时也相比已经完全成熟的直板手机可以带…",
+          "link": "https://sspai.com/post/79059",
+          "publishedOn": "2023-03-28T09:34:27.000Z",
+          "wordCount": 1053,
+          "title": "从 Z Flip3 开始的折叠屏初尝：很苦，很酷",
+          "imageUrl": "https://cdn.sspai.com/2023/03/28/2c076bee3718a8ba4db835beb1881b0a.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/78974",
+          "author": "KeNNY",
+          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n就人气与普及率而言，3DS 在国内绝对算不上是一台冷门的掌机；但和 PS、Xbox 系主机不同的是，面向港台地区发售的繁体中文版 Nintendo 3DS，却通常会被国内玩家们所忽略。\n\n这种情况并不让人意外。尽管有着更接地气的繁中系统界面，以及一批官中大作游戏；但 3DS 上严格的锁区政策，无疑是让繁中版 3DS 一出生便被判下了死刑。\n雪上加霜的是，虽说任天堂一开始推出中文游戏的频率不可谓不高，但这种积极也不过维持了一年有余。\n在随后近乎三年的时间中，不仅任天堂第一方的中文化工作完全停滞，就连实体版游戏的推出频率都大幅下滑。\n一个数据是，从 2014 年至 2016 年，任天堂只为繁中版 3DS 推出了 9 款实体卡带游戏；其中除了《精灵宝可梦 太阳/月亮》均未中文化，属于纯粹为了应对锁区而生的产物。\n\n我们至今仍未可知的是，任天堂为何会在 2013 年后踩下中文化工作的急刹车，甚至于对整个大中华区市场呈半放弃状态，在各路厂商的中文化工作搞得如火如荼的三年间完全「躺平」。一说是因为盗版（Gateway 烧录卡恰好就是在任天堂暂停第一方汉化工作的时间节点发售的），另一说是因为游戏和机器的销量都上不去；无论如何，最终的结果都演变成了一种恶性循环，就连港台地区的玩家也纷纷投奔到了日版、美版的怀抱中。\n当然，在这个时间段里，任天堂 —— 尤其是 2014 年后统管港台地区的任天堂香港 —— 总归要给支持了繁中版 3DS 的玩家们一些交代。\n这时候就轮到 eShop 登场了。\n\n必须要说的是，和日美欧等地区相比，繁中版 3DS 上的…",
+          "link": "https://sspai.com/post/78974",
+          "publishedOn": "2023-03-28T06:53:42.000Z",
+          "wordCount": 928,
+          "title": "在 3DS eShop 正式关闭前，我用这种方法保留了关于它的记忆",
+          "imageUrl": "https://cdn.sspai.com/2023/03/22/88c84c2bc5615a7fea0f1c58ea301b4b.png"
+        },
+        {
+          "id": "https://sspai.com/post/79044",
+          "author": "Not_your_user",
+          "description": "如今新出的浏览器基本都支持分屏，火狐浏览器官方却迟迟未有跟进，作为普通用户也只好默默等待，而喜欢折腾的用户就可以另辟蹊径来变相实现，以下就是我最近的折腾记录，最终效果虽有不足，但折腾享受的是过程。\nSide View：一个被官方遗弃的实验性扩展\n在某天的摸鱼中，我偶然发现了 Side View 这款被官方遗弃的实验性扩展，它可以实现在侧边栏打开网页。于是立马安装使用，但很快便发现侧边栏宽度有限制，只好尝试寻找其它替代品，在试用了几个同类扩展后，发现原来是火狐浏览器自身的限制，最终我保留了功能最多且仍在维护的 Open in Sidebar。\n \n丰富的选项火狐浏览器隐秘的扩展快捷键设置入口\nuserChrome.css：火狐自定义神器\n经过一段时间漫无目的的搜寻后，忽然想起之前用过的自定义神器 userChroem.css，加上关键词，果然有发现，具体代码如下：\n/*\n解除宽度限制\n*/\n#sidebar-box {\n  max-width: none !important;\n}\n\n在使用 userChroem.css 前需要完成以下步骤：\n\n在地址栏中输入 about:config，设置 toolkit.legacyUserProfileCustomizations.stylesheets 为 true。\n在地址栏中输入 about:support，打开配置文件夹，在该目录新建 chrome 目录，并在 chrome 目录下创建 userChroem.css 文件。\n复制代码到 userChroem.css，并保存。\n重启火狐浏览器\n\nChatGPT：牛刀杀鸡\n限制解除后，可用性提升了一大截，但界面仍有点不协调，一是：侧边栏上有个标题，它让两边页面高度不一样，二是：我两台显示器缩放不一样，之前使用的 ffreszoom 自动缩放插件对侧边栏无效。\n既然 userChrome.css 自由度那么高，应该有解决方法。由于无相关编程经验，在经过一番搜索后，空手而归。而最近 ChatGPT 风头正盛，就搞了个号来试试，不得不说还挺好用的，虽无法直接给出合适答案，但提供了思路，只要顺着它的思路来基本上就差不多。\n这是我最终得出的解决代码，修改后添加到  userChrome.css 即可：\n/*\n隐藏指定插件的侧边栏顶栏\n先在地址栏输入 about:debugging#/runtime/this-firefox 查看插件 ID\n然后替换 23d6021a-cb48-47c8-bb14-980a69b6ea17\n*/\n#sidebar-box[sidebarcommand=\"_23d6021a-cb48-47c8-bb14-980a69b6ea17_-sidebar-action\"] > #sidebar-header{\n  display: none\n}\n\n/*\n受限于技术，只搞了一个缩放 1.5 配合我的外接显示器使用，若只有一个显示器那就不用了\n*/\n#webext-panels-stack > browser {\n  transform: scale(1.5);\n  transform-origin: top left;\n  height: calc(100%/1.5) !important;\n  width: calc(100%/1.5) !important;\n  z-index: 2147483647;\n}\n \n最终效果\n这里不得不夸一下少数派，网站可以跟随宽度自动调整。\n8：2对半开\n优点&缺点\n\n优点：\n支持所有网站\nOpen in Sidebar 选项丰富，支持快捷键开关\n在侧边栏中，大部分网站支持拖拽链接到区域外触发打开\n\n缺点：\n触发方式不够便捷，只能通过右键菜单选择\n侧边栏无法自动收起\n受限于侧边栏，侧边栏内很多功能无法提供，如：\n无法前进后退\n插件在侧边栏内不生效\n不能选中文本\n当 Open in Sidebar 中的 Placement 设置为 Tab 时，切换标签会重新加载侧边栏",
+          "link": "https://sspai.com/post/79044",
+          "publishedOn": "2023-03-28T06:46:00.000Z",
+          "wordCount": 671,
+          "title": "火狐官方支持分屏之前的不完美实现",
+          "imageUrl": "https://cdn.sspai.com/2023/03/26/daf80cc880603548c6559dea50a304d5.png"
+        },
+        {
           "id": "https://sspai.com/post/79029",
           "author": "万千十一",
           "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n2022 年初，我的 iPhone 8 在勤恳服役三年后，以一次落地坠入不可挽救的冷寂1，使其继任者 iPhone 13 mini 面临数据缺失造成的起步困难，于是数日前的 iTunes 备份有了用武之地，应用列表、聊天记录等除少量损失外，基本如数恢复。不久，手持新机的喜悦占领高地，新的折腾又已开启。\n既然这些数据能够被 iTunes 备份及恢复，数据内容必然就存放在备份文件中，但应用千奇百怪，iTunes 又是如何组织备份数据结构的呢？不如同我一道，打开备份瞧瞧。\n准备\n首先，我们需要准备一个备份以供后续分析。使用 USB 将 iPhone 或 iPad 连接电脑，然后根据自己的电脑系统进行备份操作。可参考官方文档：\n\n如何使用 Mac 备份你的 iPhone、iPad 和 iPod touch\n如何通过 PC 上 的 iTunes 备份 iPhone、iPad 或 iPod touch\n\n对于 macOS，自 Catalina 起，原本的 iTunes 已不复存在，其核心的音乐媒体功能变更为 Music，移动设备备份功能则交棒给了 Finder。为表述一致，本文仍将 Mac 和 PC 两平台的 Apple 移动设备备份统称为 iTunes 备份。\n出于方便分析的目的，备份时请不要勾选加密备份。\n定位初窥\n完成备份后，我们可以通过文件系统定位到备份所在路径：\n\nmacOS 为 ~/Library/Application Support/MobileSync/Backup\nWindows 为 %APPDATA%\\\\Apple …",
@@ -617,46 +657,6 @@
           "wordCount": 866,
           "title": "短评 Refind：英文阅读何必是RSS ？",
           "imageUrl": "https://cdn.sspai.com/2023/02/25/bf6342df4ae4dbab923c51091118306e.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/78539",
-          "author": "去梦老婆",
-          "description": "背景\n我们很容易发现，现在小米等厂商支持高刷新率120Hz的手机，在系统设置中都隐藏了90Hz这个档位，只有60和120两种选项。对很多人来说，60虽然省电但是太不流畅，影响体验，120虽然流畅但太耗电，出门会有电量焦虑，折中的90其实才是最合适的选择（至少在心理上）。\n\n我一直试图搞清楚为什么厂商不愿意开放90Hz这个选项，对系统来说，刷新率无非就是一个可以修改的数值。是什么原因不让用户多一个选择呢？\n调查\n经过一些简单的查询，我发现网络上的解释一般都是硬件本身不支持，芯片功能较弱，不足以驱动多种刷新率，强制修改为90Hz长时间可能造成屏幕损坏等。\n当然，我也不忘去问一问无所不知的ChatGPT，他还是一如既往地说了一些车轱辘话。他这个“技术退步”论倒是有点意思。\n\n其实“硬件不支持”这个说法我并不是很赞同。如果你在Android系统的开发者选项中打开“显示屏幕刷新率”的开关，就会发现在不同的使用场景下，不只有60Hz和120Hz两种刷新率，比如息屏AOD为了降低功耗，就只有30Hz；很多手游最高也只支持90Hz，即便开启120Hz也没用。因此，要是说强制修改为其他隐藏刷新率会导致屏幕损坏，我觉得是不太可能的，对那种本身就支持LTPO的设备就更不可能了。\n此外，Android系统也给开发者提供了查询所支持刷新率的接口，通过接口返回的Mode数组得知具体的刷新率参数：\ngetSystemService(Context.WINDOW_SERVICE) as WindowManager).defaultDisplay.supportedModes.map {\n    it.refreshRate.toInt()\n}\n在我的小米13上，通过上述接口获取到的刷新率为[60, 90, 120]，说明在系统看来是支持90Hz的。\n开发\n于是乎，我想开发一个小工具，既可以解锁90Hz刷新率，也可以在通知中心快捷地切换高低刷新率，免去每次都要去系统设置操作老半天的烦恼。\n经过一番搜索，我发现在MIUI当中，要修改刷新率其实就是一行ADB命令的事情：\nadb shell settings put secure miui_refresh_rate 90\n此命令会修改系统Secure设置数据库，对非系统应用的开发者来说，通过官方SDK是没有办法直接修改的。但是，自从Android引入了无线ADB调试的功能之后，我们就可以配合Shizuku在应用内部执行adb shell命令了，相当于进行了免ROOT越权。\n最终小工具的形态也很简单，一个快捷开关，一个简单的配置页面：\n\n当然，我不会忘了开源：FpsSwitcher，你也可以在酷安下载到成品：MIUI 帧率开关",
-          "link": "https://sspai.com/post/78539",
-          "publishedOn": "2023-02-27T13:16:40.000Z",
-          "wordCount": 599,
-          "title": "给MIUI开发一个刷新率开关",
-          "imageUrl": "https://cdn.sspai.com/2023/02/27/a5c4ddf550a540407039d223b1de24ce.png"
-        },
-        {
-          "id": "https://sspai.com/post/77016",
-          "author": "陈勇_Dennis",
-          "description": "大纲笔记使用历史\n我是一个互联网产品经理，入行已经有十余年，作为一个产品经理，要跟紧时代的步伐，同时要把各种思考结果落实到具体的产品当中，吸收知识与输出文档就必不可少，因此对各种方便记录与撰写的笔记工具，就不会太陌生了。\n大纲这个概念最早是从word里面认识到的，word里面有个专门的视图就是大纲视图，但是没有怎么使用过，操作也是比较繁琐，让人没有使用的冲动。\n\n我真正开始使用大纲笔记，最早是从Workflowy开始，这让原来一直使用思维导图的我找到了另外一种类似的工具 ，但是由于输出的方式过于简单，没办法在里面做到思考与输出一体，同时又没有思维导图的直观性，所以试用了一段时间就放弃了。\n\n后来国内也有幕布这样思维导图跟大纲视图自由切换的工具，这个也是思考输出一体化工具的一种尝试，但是幕布目前还是止步于大纲笔记。\n2020年横空出世的roam research以及后面免费开源的logseq，结合双链，大纲笔记终于参与到知识管理这一领域，可以与notion、evernote这类工具开始一教高下，自己用还可以，但是输出依旧还是差强人意。\n\n假设输出这个问题被解决，那大纲笔记会有什么样的优势呢？\n大纲笔记作为思考与输出的优势\n大纲笔记很好的结合了思维导图跟笔记，不需要先使用思维导图先发散思维，然后再找一个其他工具依据提纲进行创作。即有思维导图类似的总分结构，而且还具有一定的可阅读性，当然这种可阅读性也是牺牲了思维导图所具有更加视觉化的发散过程。没有使用过思维导图的同学，还是建议从思维导图开始，如果已经使用思维导图一段时间了，熟悉了思维导图发散思维的方式，大纲笔记会是从思考到便捷输出一体化工具的很好尝试。\n从思考的角度来说\n学习成本低\n工具的第一要求是学习不麻烦，最好从0到1能够流畅的像是气闷呼吸一样自然。大纲笔记相比较markdown和各种卡片笔记工具来说，无疑是更加简单的，与思…",
-          "link": "https://sspai.com/post/77016",
-          "publishedOn": "2023-02-27T05:53:16.000Z",
-          "wordCount": 621,
-          "title": "多年实践：让大纲笔记成为文字内容输出的工具",
-          "imageUrl": "https://cdn.sspai.com/2022/11/28/1410cde39c434952de3a8e956e79fb8b.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/78521",
-          "author": "纵浪大化",
-          "description": "关于我的办公工作流与学术工作流，我已经在系列文章的第一篇有过介绍。在第二篇文章，我希望对「分类法」进行比较详细的梳理与介绍，私认为这是工作流的基础，也是我们每个人梳理逻辑体系的必要过程。\n \n一、信息「困境」\n关于「分类法」，在生活中颇为常见。例如「中图分类法」，是图书馆为方便整理图书资料所采取的分类方法，也有一些朋友运用中图分类法来规划自己的藏书。对于大多数人来说，他们的目标往往是摄取信息，了解资讯，并且把一些值得反复思考的信息加入自己的数据库，分类法是他们归纳信息的一种手段。当他们看到一些信息与内容，会根据信息的不同而建立不同的群组以存储归类。例如少数派的文章，有的朋友分享笔记方法，还有一些朋友会分享生活的心得体会，还有的朋友会讨论电子产品。关于这些信息，总要归纳到不同的群组以作出识别。\n我很能理解这种心情，但当我实际参与到信息的归纳整理过程中，我发现了一些颇为棘手又亟待解决的问题，这主要体现在两个方面。其一，信息的数量与来源容易导致类别群组的泛滥。其二，信息的再思考变得十分困难。\n（1）信息的数量与来源容易导致类别群组的泛滥\n关于第一点，主要体现在信息的数量与来源，相信少数派的一些朋友往往会涉猎多个信息媒体源，而这些媒体源都会有值得参考的信息以存储归纳，并且题材也不尽相同。如果我们武断地将其按照「来源」以归纳，就会产生这样的结果——「少数派群组」、「人民日报群组」、「IT之家群组」、「国家地理群组」等。即是说，你的信息媒体源的数量会决定你的群组数量。\n如果你有较少数量的信息媒体源，这样分组确实比较方便。但是当信息媒体源越来越多时，分组就会变得愈加繁冗。我个人认为，当群组数量大于十个，其管理便会显得臃肿。想来每个朋友都会关注一些感兴趣题材的微信公众号，固然可以用「公众号」群组归纳所有从微信公众号存储的信息，但当信息积攒得愈来愈多，「公众号」群组就会变成一个大号的垃圾桶。…",
-          "link": "https://sspai.com/post/78521",
-          "publishedOn": "2023-02-27T02:50:00.000Z",
-          "wordCount": 522,
-          "title": "「生产力祛魅」——一位社科工作者如何重塑工作流（2）-分类法",
-          "imageUrl": "https://cdn.sspai.com/2023/02/27/a7ffdc8178c36811f393c2a338cd171c.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/78519",
-          "author": "本征喵函数",
-          "description": "焰火十二卷是一款免费且实用的色彩编辑器。它可以帮助你从色轮或者其他地方生成一组和谐的色彩。你可以将这些色彩分享给其他人，或者应用到你自己的创作当中。你可以将喜欢的色彩组和色板储存在本软件中，并在下次需要时再取出来。此外，你也可以将色彩组或者色彩仓库导出为单独的色彩文档，存放在任意地方，分享给你的好友，或者导入其他软件中（如 Adobe Photoshop、GIMP、Krita、Pencil 2D 以及优动漫 Paint 等）。焰火十二卷使用 PyQt5 编写，可以在 Windows 和 Linux 等主流操作系统上正常运行。\n最新的焰火十二卷 v2.7.23 版本修复了一些已知的问题，并添加了一些新的功能，快来看看吧。\n更新 1、色彩不够用？创建更多的色彩\n在之前的版本中，色轮上只允许同时创建五种色彩。新版的焰火十二卷允许使用这五种色彩衍生出更多的色彩，以解决色彩不够用的情况。按住 Ctrl 键的同时在色轮上点击任意位置即可创建衍生色彩。\n在色轮上根据主色彩创建衍生色彩。\n衍生色彩会随着主色彩的变化而变化，即保持相对位置不变。\n修改主色彩，衍生色彩会随之发生变化。\n也可将衍生色彩转变为参考色彩，即保持绝对位置不变。双击衍生色彩标签即可将衍生色彩转变为参考色彩。\n双击衍生色彩标签，将衍生色彩转变为参考色彩。\n我可以像这样创建无限多衍生色彩吗？\n错误用法示例，不推荐创建过多衍生色彩。\n可以，但是不推荐。创建过多的衍生色彩会使色彩凌乱难以管理。推荐使用渐变色板创建更多的色彩。\n推荐用法示例，使用渐变色板创建更多的色彩。\n更新 2、修改色彩后不满意？撤回上一步\n在之前的版本中，对色彩的修改是无法撤回的。新版的焰火十二卷允许撤回修改（快捷键 Ctrl+Z），最多可保留 20 步修改。\n撤回色彩修改。\n也可以重做修改（快捷键 Z）。\n重做色彩修改。\n更新 3、记不住快捷键？使用右键菜单\n在之前的版本中，很多操作都是通过快捷键实现的，没有按钮，不方便查找和记忆。新版的焰火十二卷添加了右键菜单，将很多快捷操作都放进了菜单里，同时保留快捷键。例如，切换渐变色板与固定色板（快捷键 Shift+Tab）。\n切换渐变色板与固定色板。\n切换渐变色板与参考色板（快捷键 Ctrl+Tab）。\n切换渐变色板与参考色板。\n更新 4、界面的色彩主题不好看？更多的色彩主题\n新版的焰火十二卷添加了更多的色彩主题可供选择。\n切换色彩主题。\n如何获取焰火十二卷\n软件主页：\n \nGithub：",
-          "link": "https://sspai.com/post/78519",
-          "publishedOn": "2023-02-26T14:58:32.000Z",
-          "wordCount": 519,
-          "title": "焰火十二卷 v2.7.23 新版发布，看看更新了什么",
-          "imageUrl": "https://cdn.sspai.com/2023/02/27/05cca4772e64b45cba0b338c495704b9.jpg"
         }
       ]
     },
@@ -710,16 +710,6 @@
           "wordCount": 531,
           "title": "老司机 iOS 周报 #235 | 2023-03-06",
           "imageUrl": "https://opengraph.githubassets.com/b46bc5d4364f86e2e3b719df3085f92946ed55ae1c7bc3cfb1f6102d609b0ddb/SwiftOldDriver/iOS-Weekly/releases/tag/%23235"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23234",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n Developer - 设计开发加速器\n设计挑战（亚太） 演讲：探索卓越的导航流程设计\n与 Apple 设计布道师一起学习重要设计原理的实践方式，并在两项设计挑战当中展示您的设计技能。探索如何运用优秀的导航设计模式来创建更符合直觉的 App，并注册一对一咨询来和 Apple 设计布道师讨论您的设计概念与想法。\n在挑战活动的最后，您还有机会和其他参与挑战的开发者进行交流，并与 Apple 设计布道师一起分享各自的想法、设计案例和洞见。\n文章\n🌟 🐕 云音乐 iOS 跨端缓存库 - NEMichelinCache\n@JonyFang: 跨端缓存方案类似操作系统缓存模式中的回写模式，在缓存库方案设计过程中需要着重解决回写的缺点，如保证内存缓存、引擎、磁盘缓存数据一致性。基于目标做对应的方案设计，侧重如下几点：\n业务接口层。减少接入的难度，还需使接口可控，不让业务方随意访问磁盘等；\n责任链模块。为后续日志模块、错误模块设计做准备；\n责任链 Runner。支持优先级队列能力、支持优先级高的链插队；\n解压 / 合并模块。可自定义配置解压缩库能力，同时减少对三方库依赖（可替换）；\n数据库升级；\n多版本并存；\n本地 Bundle 缓存清理机制；\n新缓存框架设计整体的切入点和侧重关注点可供参考，也期待网易云后续放出 NEMichelinCache 对应的开源。\n🐕 Safely pinning SPM dependencies to exact versions\n@kemchenj：使用 Cocoapods 集成依赖时，我们通常会将 Podfile.lock 也加入到 Git 的文件追踪列表里，保证在每次运…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23234",
-          "publishedOn": "2023-02-27T06:42:41.000Z",
-          "wordCount": 557,
-          "title": "老司机 iOS 周报 #234 | 2023-02-27",
-          "imageUrl": "https://opengraph.githubassets.com/e07b8b7d82b55d2304974feebd847971237de1646fac9e4ba5e5c1935ab611e8/SwiftOldDriver/iOS-Weekly/releases/tag/%23234"
         }
       ]
     },
@@ -734,6 +724,86 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74514",
+          "author": null,
+          "description": "Valve 通过其支持文档宣布它的 Steam 客户端从明年 1 月 1 日起将停止支持 Windows 7、8 和 8.1。之后  Steam 客户端将停止在这些操作系统上运行。为了继续运行 Steam 以及运行通过 Steam 购买的游戏，用户需要更新到新版本的 Windows。Valve 解释说，Steam 客户端是基于 Google Chrome 的嵌入式版本，而 Chrome 在旧版本的 Windows 上不再工作。未来版本的 Steam 将需要 Windows 10 及以上版本。Google 今年初发布的 Chrome 109 是最后一个支持 Windows 7 和 Windows 8/8.1 的版本。",
+          "link": "https://www.solidot.org/story?sid=74514",
+          "publishedOn": "2023-03-28T13:33:25.000Z",
+          "wordCount": 203,
+          "title": "Steam 从明年起将停止支持 Windows 7、8 和 8.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74513",
+          "author": null,
+          "description": "苏黎世大学的研究人员在预印本平台 arXiv 上发表论文，报告 OpenAI 的 AI 聊天机器人 ChatGPT 在文本标注任务中的表现超过了众包工人。大量的自然语言处理（NLP）应用需要高质量的标注数据，此类任务可根据复杂程度和规模交给亚马逊众包平台 MTurk 上的众包工人或专业的标注者去完成。研究人员使用了包含 2,382 则推文的样本，对比了 ChatGPT 和众包工人以及专业标注者的表现。结果显示， ChatGPT 在五项任务中有四项超过了众包工人，在评估一致性（intercoder agreement）上超过了众包工人以及专业标注者。更重要的是 ChatGPT 的标注成本每条不到 0.003 美元，是众包工人二十分之一。研究显示大语言模型可显著提高文本分类的效率。",
+          "link": "https://www.solidot.org/story?sid=74513",
+          "publishedOn": "2023-03-28T11:05:07.000Z",
+          "wordCount": 166,
+          "title": "ChatGPT 在文本标注任务中的表现超过了众包工人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74512",
+          "author": null,
+          "description": "2021 年，Google 研究人员在《自然》期刊上报告利用 AI 加速芯片设计。研究人员使用了 1 万张芯片设计图去训练他们的软件，基于强化学习的 AI 学习了如何在有限空间、布线和功耗下完成设计图。Google 已将这一方法应用于自己的芯片 TPU（tensor processing uni）。现在，UCSD（加州圣迭戈）计算机科学和工程学教授 Andrew Kahng 领导的一个团队尝试了重现 Google 的研究。由于 Google 以商业敏感性为由未披露模型内部工作的部分细节，研究人员花了几个月时间进行逆向工程，他们最终的模型 circuit training (CT)比使用传统方法差得多。为什么差异如此显著？一种原因被认为是 Google 利用 EDA 软件巨头 Synopsys 开发的商业软件去创造芯片逻辑门的起始布局，然后用强化学习系统优化。UCSD 团队指出 Google 没有在论文中进行披露。Google 论文的主要作者表示没有披露是因为这并不重要。他们认为 UCSD 团队的结果糟糕一则是模型没有预先训练，另一个原因是没有像 Google 那样有充足的计算能力。UCSD 团队表示没有预训练是因为无法获得 Google 使用的私有数据。",
+          "link": "https://www.solidot.org/story?sid=74512",
+          "publishedOn": "2023-03-28T09:40:39.000Z",
+          "wordCount": 192,
+          "title": "Google 的 AI 加速芯片设计论文引发质疑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74511",
+          "author": null,
+          "description": "人们在节食瘦身之后常常会在短时间内体重出现反弹。发表在《Cell Metabolism》期刊上针对小鼠的研究揭示了背后的神经机制。研究人员检查了小鼠下丘脑中的一组 AgRP神经元，这些神经元已知可以控制饥饿感。当小鼠节食时，刺激 AgRP 神经元的神经元通路发送了更多的信号。在节食后的很长一段时间内，大脑中这种深刻的变化都能被检测到。研究人员还成功地选择性地抑制了激活 AgRP 神经元的小鼠神经通路。这导致节食后体重增加明显减少。",
+          "link": "https://www.solidot.org/story?sid=74511",
+          "publishedOn": "2023-03-28T08:32:58.000Z",
+          "wordCount": 148,
+          "title": "节食后大脑会放大饥饿信号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74510",
+          "author": null,
+          "description": "在加密货币火热无比的时期，英伟达曾推出过专门的挖矿用显卡（主要是挖掘以太坊，但以太坊最近切换到了 POS 权益证明机制，不再需要专门的矿机了），同时也释出过驱动限制消费者用显卡的挖矿能力。它曾从加密货币行业获得了大笔收入，但如今该公司的 CTO Michael Kagan 表示加密货币没有给社会带来任何有用的东西。英伟达强调了自己对于 AI 行业的作用，Kagan 说，加密货币行业购买了大量挖矿用显卡，但它最终崩溃了，因为它们没有带来任何有用的东西。而AI 做到了。第一个版本的 ChatGPT 使用了一台包含 1 万台英伟达显卡的超算训练。他说，“有了 ChatGPT，每个人都能打造自己的机器，自己的程序：你只需告诉它做什么。如果它没有按照你想要的方式工作，你就告诉它'我想要不同的'。”",
+          "link": "https://www.solidot.org/story?sid=74510",
+          "publishedOn": "2023-03-28T07:59:25.000Z",
+          "wordCount": 156,
+          "title": "英伟达表示加密货币没有给社会带来任何有用的东西",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74509",
+          "author": null,
+          "description": "百度领投了一家 RISC-V 数据中心芯片创业公司赛昉科技。赛昉科技自称是国内“为数不多能提供高性能大小核及多核架构方案的 RISC-V 厂商”。除了投资外，“双方还将进一步在业务上展开合作。\"RISC-V 是一种开源指令集架构，目前不清楚这是否意味着百度对 RISC-V 处理器感兴趣，还是出于在基础设施中采用 RISC-V 的愿望。美国对中国的技术产品出口限制没有影响到百度，不过该公司官员表示它有计划开发美国禁止出口产品的替代品。百度最近公布了它的 AI 聊天机器人文心一言，此类的 AI 平台背后需要庞大的数据中心支持。",
+          "link": "https://www.solidot.org/story?sid=74509",
+          "publishedOn": "2023-03-28T06:42:32.000Z",
+          "wordCount": 162,
+          "title": "百度投资 RISC-V 数据中心芯片创业公司",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74508",
+          "author": null,
+          "description": "美国拜登政府周一宣布了一项行政令，禁止联邦机构——包括执法、国防和情报部门——采购商业间谍软件。此前以色列 NSO 集团的商业间谍软件 Pegasus 在出售之后被用于监视数十名美国政府官员的手机。私营公司开发的间谍软件通常只出售给国家和政府机构，而这些政府虽然声称间谍软件只用于调查严重犯罪活动，但在实际中它们经常被用于监视政府的批评者。滥用间谍软件并不仅限于专制国家，民主国家如希腊、西班牙和波兰等也都曾经依赖过商业间谍软件。上周持有美国和希腊护照的前 Meta 高管 Artemis Seaford 确认遭到 Predator 间谍软件的入侵，她表示不知道自己为何成为目标。她是最新一位成为商业间谍软件目标的美国受害者。",
+          "link": "https://www.solidot.org/story?sid=74508",
+          "publishedOn": "2023-03-28T06:21:42.000Z",
+          "wordCount": 153,
+          "title": "美国禁止联邦机构采购商业间谍软件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74507",
+          "author": null,
+          "description": "美国商品期货交易委员会(CFTC)周一起诉币安，指控这家全球最大的加密货币交易所运营商违反了美国要求期货和其他衍生品在受监管平台上交易的规定。CFTC 的诉讼还将币安创始人赵长鹏与该机构认为是币安首位首席合规官的 Samuel Lim 列为被告。这起诉讼请求做出赔偿和罚款的裁决，以及发布命令阻止该公司继续从事任何违反美国规则的行为。CFTC 在民事诉讼中称，尽管币安公开表示限制美国人使用其平台，但该公司仍采取了有计划、分阶段的作法来增加其在美国的影响力。币安在没有注册的情况下同时招揽了散户和机构客户。",
+          "link": "https://www.solidot.org/story?sid=74507",
+          "publishedOn": "2023-03-28T04:13:55.000Z",
+          "wordCount": 153,
+          "title": "美国监管机构起诉币安及其CEO 赵长鹏",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74506",
           "author": null,
@@ -3203,116 +3273,6 @@
           "wordCount": 187,
           "title": "Steam Deck 发售一周年",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74248",
-          "author": null,
-          "description": "Meta 上周宣布了一个新的大语言模型 LLaMA-13B，称其参数规模更小但性能强于 OpenAI 的 GPT-3 模型，且它能运行在单张显卡上。LLaMA 语言模型的规模在从 70 亿到 650 亿参数，而 OpenAI GPT-3 模型有 1750 亿个参数。Meta 使用 Common Crawl、维基百科和 C4 等公开数据集训练其模型，它有可能公开其源代码和权重。今天绝大部分最先进的语言模型都没有公开源代码。Meta 称 LLaMA 为其基础模型，它将是未来该公司更先进模型的基础。它的 LLaMA-13B 模型在 BoolQ、PIQA、SIQA、HellaSwag、WinoGrande、ARC 和 OpenBookQA 等标准测试中的表现超过了 GPT-3。GPT-3 等衍生模型需要数据中心规模的计算能力进行处理，而 LLaMA-13B 能运行在单张显卡上，为在消费者硬件上实现类似 ChatGPT 的性能打开了大门。",
-          "link": "https://www.solidot.org/story?sid=74248",
-          "publishedOn": "2023-02-27T13:01:47.000Z",
-          "wordCount": 182,
-          "title": "Meta 新语言模型能运行在单张显卡上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74247",
-          "author": null,
-          "description": "苹果去年发售 iPhone 14 时推出了基于卫星的紧急呼救功能，该功能目前仅对部分国家开放。此后 Android 手机厂商也在尝试推出类似的功能。预计今年下半年发布的 Android 14 也将内置部分卫星支持功能。但到目前为止，还没有企业真正开始将卫星消息服务带给普通大众。现在，英国公司 Bullitt 与摩托罗拉合作，将推出一整套端到端解决方案，为 Android 用户提供卫星通信功能。它将发布 Bullitt Satellite Connect 服务，Bullitt Satellite Messenger 应用，以及支持卫星连接的 Cat S75 智能手机，另一款摩托罗拉品牌的卫星消息手机 Motorola Defy 2，卫星消息服务热点 Motorola Defy Satellite Link。卫星消息服务的起售价为每月 5 美元。Motorola Defy 2 售价 599 美元，预计二季度上市。",
-          "link": "https://www.solidot.org/story?sid=74247",
-          "publishedOn": "2023-02-27T12:26:17.000Z",
-          "wordCount": 185,
-          "title": "摩托罗拉将月费 5 美元的卫星消息服务带给所有用户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74246",
-          "author": null,
-          "description": "根据最新分析，若日美欧和中国等二十国集团（G20）不采取新措施，2050 年塑料消费量将达到 2019 年的 1.7 倍，可能导致严重的海洋污染。结果还显示，即便加强禁用部分塑料制品或征税等措施，2050 年消费量也将增至 2019 年的 1.2 倍。研究团队以 G20 各国塑料消费量和人口等数据为基础，通过计算机建模对 3 项政策的效果进行估算。分别为（1）禁用部分一次性塑料制品（2）向以石油为原料的塑料制品征税（3）彻底做好要求制品厂商负担废弃物处理等费用的“扩大生产者责任”。若不采取新措施，2019 年 2.61 亿吨的消费量到 2050 年将增至 4.51 亿吨。即便考虑各种限制措施，到 2050 年消费量也将达到 3.25 亿吨，增势或难以停歇。",
-          "link": "https://www.solidot.org/story?sid=74246",
-          "publishedOn": "2023-02-27T11:40:34.000Z",
-          "wordCount": 170,
-          "title": "2050 年全球塑料消费量预计将增加七成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74245",
-          "author": null,
-          "description": "当今社会中，不孕不育是一个日益严重的问题，由多种复杂因素介导。大约 40% 的不孕不育案例根源在于男性精子数量、质量以及性功能等方面的问题。其中精子数量和质量被认为是男性不育率不断上升的主要驱动因素。旨在探讨环境化学物质暴露和不同生活方式如何影响生殖健康的大型研究——环境与生殖健康研究（EARTH）的一项分析发现，在 2000 年至 2017 年间接受不育治疗的男性中，精子数量与质量下降了 42% 之多。在最新研究中，研究人员分析了 377 名在生育中心寻求治疗的不育男性，发现与体力工作较少的男性相比，经常在工作中举起或移动重物的男性精子浓度高 46%、精子总数高 44%。进行更多体力活动的男性还具有较高水平的男性性激素睾酮以及雌激素。",
-          "link": "https://www.solidot.org/story?sid=74245",
-          "publishedOn": "2023-02-27T10:02:22.000Z",
-          "wordCount": 154,
-          "title": "研究称男性体力劳动者的精子数更多",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74244",
-          "author": null,
-          "description": "根据 Google 子公司 Mandiant 的报告，勒索软件黑帮在过去的一年里不太成功。Mandiant 响应的勒索软件事件减少了 15%。而勒索软件组织索要的赎金平均金额下降了 28%，从一年前的 570 万美元减少到 410 万美元。另一家安全公司 CrowdStrike 认为原因包括勒索软件黑帮的成员遭到逮捕，比特币等加密货币的币值下降，等等。根据 Chainalysis 的分析，2022 年勒索软件组织的总收入从 2021 年的 7.656 亿美元下降到 2022 年的大约 4.568 亿美元，下降了 40.3%。受害者支付赎金的概率也在下降。这种情况导致了勒索软件组织也发生了裁员事件，有报道称前勒索软件组织 Conti 的成员解雇了 45 名客服。这些客服是实施网络骗局的一部分。",
-          "link": "https://www.solidot.org/story?sid=74244",
-          "publishedOn": "2023-02-27T09:55:41.000Z",
-          "wordCount": 175,
-          "title": "2022 年勒索软件攻击频率和勒索金额下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74243",
-          "author": null,
-          "description": "龙芯最初是基于 MIPS 指令集架构，但最近切换到了名为 LoongArch 的自研架构。新的指令集架构保留了大量 MIPS 的语义，但使用了不兼容的编码，它的扩展支持也更好。LoongArch 的 LSX 和 LASX 向量扩展就是其中的典型例子。LSX 类似 x86 架构的 SSE，有 128 位向量寄存器和相应指令。LASX 类似 AVX2，都是 256 位向量扩展。与 SSE 和 AVX2 不同的是，LSX 和 LASX 没有公开的文档。但龙芯的 Linux 系统 Loongnix 提供了 LSX/LASX 工具链，让外界有机会更深入的了解这些向量扩展。",
-          "link": "https://www.solidot.org/story?sid=74243",
-          "publishedOn": "2023-02-27T08:04:53.000Z",
-          "wordCount": 191,
-          "title": "龙芯的 LSX 和 LASX 向量扩展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74242",
-          "author": null,
-          "description": "Resumebuilder.com 调查了 1000 名计划使用或已经使用 ChatGPT 的企业领导人，发现近半数企业部署了 ChatGPT，部分企业还表示已经开始用 ChatGPT 取代员工。企业高管谈论了 ChatGPT 的用途，其中 66% 用于写代码，58% 用于文案和内容创作，57% 用于客户支持，52% 用于写会议摘要和其它文档。在招聘过程中，使用 ChatGPT 的企业还有 77% 用它撰写工作职位描述、66% 用它起草面试申请书，65% 回应求职书。大部分企业领导人对 ChatGPT 的表现印象深刻，55% 的人认为工作质量“出色”，34% 的人认为“非常好”。几乎所有使用 ChatGPT 的公司表示节省了资金，48% 表示节省逾 50,000 美元，11% 表示节省逾 100,000 美元。这些企业中 93% 还计划扩大对 ChatGPT 的使用。",
-          "link": "https://www.solidot.org/story?sid=74242",
-          "publishedOn": "2023-02-27T07:05:08.000Z",
-          "wordCount": 186,
-          "title": "调查称部分企业开始用 ChatGPT 取代员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74241",
-          "author": null,
-          "description": "开源云数据平台公司 Aiven 分析了 GitHub 代码项目，发现最主要的代码贡献者来自于 AWS、英特尔、Red Hat、Google 和微软等科技公司。Aiven 根据贡献者的数量、贡献者的项目以及递交数量三个指标进行分析，结果是微软和 Google 并列第一，Red Hat 第三，英特尔第四，之后是 AWS 和 IBM。在 2022 年第四季度，微软开发者递交的代码数量最多为 128,247，Red Hat 第二 125,012，Google 只有 94,961。而 Google 参与开源项目的人数最多有 5,757 人，微软 5,513 人，Red Hat 3,656 人。对 Linux Kernel 5.16 到 6.1 时代码作者的分析有类似的发现，开发者主要来自 AMD（主要是驱动代码多）、英特尔、Google、Linaro、主要的 Arm Linux 开发组织，Meta 和 Red Hat 等企业，只有 7.5% 的内核开发来自个人开发者。",
-          "link": "https://www.solidot.org/story?sid=74241",
-          "publishedOn": "2023-02-27T06:11:54.000Z",
-          "wordCount": 193,
-          "title": "Linux 和开源软件由谁开发",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74240",
-          "author": null,
-          "description": "Twitter 上周三突然关闭了内部使用的 Slack 频道，员工失去了 Slack 访问。一时传闻四起，有 Twitter 员工在 Blind 上匿名发帖时猜测是因为公司停止向 Slack 付钱。Twitter 员工也失去了跟踪软件 Jira 的访问。Twitter 告诉员工 Slack 频道关闭是“例行维护”，然而 Slack 员工反驳说“胡扯”，不存在所谓的“例行维护”。Slack 发言人证实该公司与 Twitter 频道关闭无关。为什么 Slack 频道被关闭？可能是  Twitter CEO Elon Musk 寻找更多削减成本的方法或测试其它内部沟通工具。",
-          "link": "https://www.solidot.org/story?sid=74240",
-          "publishedOn": "2023-02-27T05:33:03.000Z",
-          "wordCount": 182,
-          "title": "Twitter 突然关闭内部使用的 Slack 频道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74239",
-          "author": null,
-          "description": "日本研究团队发表研究成果称，探测器“隼鸟2号”在小行星“龙宫”采集的沙粒样本中含有约 2 万种有机化合物。其中至少有 20 种是氨基酸，以及蛋白质构成材料。有学说认为氨基酸是被太空飞来的陨石带到地球，此次成果有利于佐证该学说。样本中的氨基酸与地球上的氨基酸特点不同。氨基酸存在两种构型，其关系如同人的左右手。地球的生命几乎只利用了其中之一，但样本中的 20 种氨基酸中约有 5 种以两种构型 1 比 1 的比例存在。",
-          "link": "https://www.solidot.org/story?sid=74239",
-          "publishedOn": "2023-02-27T04:28:35.000Z",
-          "wordCount": 154,
-          "title": "龙宫沙粒样本富含数万种有机化合物",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74238",
-          "author": null,
-          "description": "Mozilla 基金会的研究发现，八成 Google Play 应用的安全标签是不精确的。Mozilla 隐私研究团队检查了 Google Play 商店里的 40 款最受欢迎的应用（基于下载量）， 对比了它们的隐私政策和报告给 Google 的 Data Safety Form 的信息，发现其中 16 款即 40% 的应用在隐私政策和自我报告的信息之间存在巨大差异，获得了差的评分，15 款应用获得了需要改进的评分，只有 6 款应用获得了 OK 的评分，其中包括 Stickman Legends Offline Games、Power Amp Full Version Unlocker、League of Stickman: 2020 Ninja、Google Play Games、 Subway Surfers 和 Candy Crush Saga。Mozilla 发现 Google 的 Data Safety Form 报告有漏洞，没有要求应用披露与服务提供商共享数据，使用了收集和共享的狭窄定义。",
-          "link": "https://www.solidot.org/story?sid=74238",
-          "publishedOn": "2023-02-26T15:05:32.000Z",
-          "wordCount": 211,
-          "title": "Mozilla 发现八成的 Google Play 应用安全标签是不精确的",
-          "imageUrl": null
         }
       ]
     },
@@ -3321,6 +3281,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/739136/",
+          "author": null,
+          "description": "文｜螺旋实验室，作者丨牧歌，编辑丨坚果 回首向来萧瑟处，归去，也无风雨也无晴。 神隐国外半年多的马云，终于在 3 月底回了国，虽然并没有出席任何公众活动，但是对于整个商界而言，“马云回国”这四个字的影响不亚于一声春雷。 股市的反应可以说明一切，3 月 27 日当天，阿里巴巴的港股上午低开低走，午后马\n本文链接",
+          "link": "https://news.cnblogs.com/n/739136/",
+          "publishedOn": "2023-03-29T01:08:12.000Z",
+          "wordCount": 163,
+          "title": "马云回首萧瑟处，也无风雨也无晴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739133/",
+          "author": null,
+          "description": "文｜ECO 新势，作者｜不二，编辑｜站长 3 月 27 日，社交平台 Soul 再次向港交所递交上市申请。 去年 6 月，Soul 撤销了赴美上市计划，转战港交所，但其此前提交的上市材料已于年初失效。此次 Soul 最新的招股书显示，2020 年-2022 年，Soul 的收入分别为 4.98 亿元\n本文链接",
+          "link": "https://news.cnblogs.com/n/739133/",
+          "publishedOn": "2023-03-29T01:00:00.000Z",
+          "wordCount": 163,
+          "title": "Soul再度冲关港交所，这次打起“科技牌”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739130/",
+          "author": null,
+          "description": "你知道麦当劳的红，麦当劳之歌能朗朗上口，麦门文学可以倒背如流。 你熟悉麦当劳的黄，在每个饥饿的午间和寂寞的夜晚，你的脑海里都隐隐浮现出一个大写的黄色字母——M。 但谈起麦当劳的「绿」，你可能就知之甚少了。 最近麦当劳在 2023 年「麦麦全席」活动上正式宣布，要花 5 年为这片新的「绿」开个好头：它\n本文链接",
+          "link": "https://news.cnblogs.com/n/739130/",
+          "publishedOn": "2023-03-29T00:50:00.000Z",
+          "wordCount": 163,
+          "title": "麦当劳公布一个 5 年大计划，绿光闪闪！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739131/",
+          "author": null,
+          "description": "3 月 28 日消息，据外媒报道，当地时间周一，多家外媒在报道中称，由于原本计划为 iPhone 15 系列中的标准版供应部分 OLED 面板的京东方，在生产上遇到了问题，主要面板供应商三星显示将从 5 月份开始为苹果生产，较最初计划的 6 月份提前了近一个月。 从外媒的报道来看，京东方遇到的是顶部\n本文链接",
+          "link": "https://news.cnblogs.com/n/739131/",
+          "publishedOn": "2023-03-29T00:40:00.000Z",
+          "wordCount": 163,
+          "title": "消息称京东方正解决漏光问题 有望重回iPhone 15面板供应链",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739129/",
+          "author": null,
+          "description": "TRAPPIST-1 系统中七颗行星的示意图，TRAPPIST-1b（最左边）离恒星最近。图片来源：NASA/JPL-Caltech 近日，天文学家利用詹姆斯·韦布空间望远镜（JWST）证实，TRAPPIST-1b 行星可能没有大气层。研究结果近日发表于《自然》，它开启了理解行星演化的新时代。 研究\n本文链接",
+          "link": "https://news.cnblogs.com/n/739129/",
+          "publishedOn": "2023-03-29T00:30:00.000Z",
+          "wordCount": 163,
+          "title": "韦布望远镜证实，TRAPPIST-1b行星没有大气层",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739134/",
+          "author": null,
+          "description": "中国已经拥有全球最大的健身市场，数据显示，2026 年国内健身市场规模有望增长至 14793 亿元，预计 2021-2026 年复合年增长率为 13.5%。与此同时，物联网、AI 技术的快速迭代发展，让健身不再受到空间的制约，家庭健身在过去三年也成为风潮。 日前，Keep 推出了全新智能硬件体感运动\n本文链接",
+          "link": "https://news.cnblogs.com/n/739134/",
+          "publishedOn": "2023-03-29T00:20:00.000Z",
+          "wordCount": 163,
+          "title": "Keep Station，不只是要做「健身版Switch」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739135/",
+          "author": null,
+          "description": "文｜穆胜 3 月 15 日，多家权威媒体报道，小鹏汽车营销体系已完成组织变革。此次的组织变革可以视为去年年末小鹏组织架构调整的延续。2022 年 10 月 21 日，何小鹏曾主持召开公司管理层会议，并发布全员邮件，宣布进行全面组织架构调整。短短半年时间，小鹏汽车频频进行组织调整，实在让人玩味。 通过\n本文链接",
+          "link": "https://news.cnblogs.com/n/739135/",
+          "publishedOn": "2023-03-29T00:10:00.000Z",
+          "wordCount": 163,
+          "title": "小鹏炮轰小鹏，把组织拆了重建是认真的？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739124/",
+          "author": null,
+          "description": "剑拔弩张为哪般，金钱理想一锅端？ 编译 蔓蔓周毕昊天 来源：硅兔赛跑 OpenAI 成立于 2015 年，由马斯克（Elon Musk）和里德·霍夫曼（Reid Hoffman）等科技界的亿万富翁共同出资创办。 但在 2018 年初，马斯克断然撤销了一笔巨额资金后拂袖而去。 至今，马斯克和 Open\n本文链接",
+          "link": "https://news.cnblogs.com/n/739124/",
+          "publishedOn": "2023-03-28T23:58:00.000Z",
+          "wordCount": 163,
+          "title": "OpenAI秘史公开：马斯克和奥特曼的战争，与钱无关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739117/",
+          "author": null,
+          "description": "时隔两个多月，第二场微信公开课，视频号再站上 C 位，这就是马化腾口中「全场希望」拥有的待遇。 尽管没等来张小龙亮相，但通过「微信之夜」视频号发布的新功能，我们也能瞥见微信对于视频号未来的布局。 在 2021 年的微信公开课上，张小龙谈到了许多关于视频号的思考和畅想，在介绍今晚微信公开课的内容前，有\n本文链接",
+          "link": "https://news.cnblogs.com/n/739117/",
+          "publishedOn": "2023-03-28T23:52:56.000Z",
+          "wordCount": 163,
+          "title": "微信发布重磅功能！刷掌支付来了，视频号将支持付费订阅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739123/",
+          "author": null,
+          "description": "3 月 28 日，苹果公司官网宣布正式推出独立音乐流媒体应用 Apple Music Classical。这款古典音乐应用已在 App Store 上架，Apple Music 订阅者无需额外付费即可下载使用。\n本文链接",
+          "link": "https://news.cnblogs.com/n/739123/",
+          "publishedOn": "2023-03-28T23:41:28.000Z",
+          "wordCount": 163,
+          "title": "苹果正式推出古典音乐应用Apple Music Classical",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739122/",
+          "author": null,
+          "description": "Facebook 母公司 Meta 正在降本增效的路上越走越远，继本月宣布第二轮大规模裁员后，该公司现在计划降低部分员工的奖金。 财联社 3 月 28 日讯（编辑卞纯）Facebook 母公司 Meta 正在降本增效的路上越走越远，继本月宣布第二轮大规模裁员后，该公司现在计划降低部分员工的奖金。 据\n本文链接",
+          "link": "https://news.cnblogs.com/n/739122/",
+          "publishedOn": "2023-03-28T23:40:24.000Z",
+          "wordCount": 163,
+          "title": "硅谷“寒风瑟瑟”！科技巨头继续过紧日子 Meta拟降低部分员工奖金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739118/",
+          "author": null,
+          "description": "本文来源：时代周报作者：梁春富 国美危难之际，黄光裕再一次出手“救急”。 3 月 27 日晚，国美零售（00493.HK）公告称，公司债转股（即债务资本化）方案经股东大会表决通过。此次债转股方案实施后，国美零售的借贷总额将减少约 9.18 亿港元，而黄光裕及其关联方在国美零售的持股比例将增至 25.\n本文链接",
+          "link": "https://news.cnblogs.com/n/739118/",
+          "publishedOn": "2023-03-28T23:36:54.000Z",
+          "wordCount": 163,
+          "title": "黄光裕秀财技，欠款换股票，变相输血国美超9亿港元！预亏170亿何解？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739116/",
+          "author": null,
+          "description": "3 月 29 日凌晨，@腾讯客服官方微博发布消息称，由于系统故障，部分用户使用微信支付相关功能出现异常，目前正在紧急修复中。用户资金安全不受影响。故障修复后，相关功能使用将恢复正常。不过，截至发稿前，该微博已删除这条消息。\n本文链接",
+          "link": "https://news.cnblogs.com/n/739116/",
+          "publishedOn": "2023-03-28T23:30:39.000Z",
+          "wordCount": 163,
+          "title": "腾讯回应微信支付功能异常：系统故障，用户资金安全不受影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739115/",
+          "author": null,
+          "description": "都是 AI 文生图，为何差别这么大。 文丨贺乾明 编辑丨龚方毅 在电脑上输入几个词，等着在屏幕上看到它们被转化成图片，比如山川湖海、鸟兽鱼虫、楼宇院落、人物肖像。不管效果如何，都不是容易的事。 因为实现这些前，需要解决计算机视觉和自然语言处理中那些最难的问题：电脑要学会听懂我们说的话，知道我们想表达\n本文链接",
+          "link": "https://news.cnblogs.com/n/739115/",
+          "publishedOn": "2023-03-28T23:29:52.000Z",
+          "wordCount": 163,
+          "title": "一位 AI 画家的成长历程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739113/",
+          "author": null,
+          "description": "选自 arstechnica 作者：BENJ EDWARDS 机器之心编译 机器之心编辑部 当 ChatGPT 遇到 MS-DOS 系统，你可以会有一种穿越的感觉。 近日，新加坡的复古计算机爱好者 Yeo Kheng Meng 发布了一个 MS-DOS 的 ChatGPT 客户端，可以在 4.77M\n本文链接",
+          "link": "https://news.cnblogs.com/n/739113/",
+          "publishedOn": "2023-03-28T16:03:36.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT复古玩法：39年前老电脑+DOS系统也能玩转",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739111/",
+          "author": null,
+          "description": "机器之心报道 编辑：蛋酱 有人删库跑路，有人发帖控诉，还有人决定替老东家「提前曝光」源代码。 大型科技公司开放源代码不是新鲜事，但推特的一次「被动开源」，却成为了科技圈的热门话题。 最近，推特公司的部分源代码，「意外」出现在了 GitHub 上。 「目前还不清楚泄露的代码在网上发布了多长时间，但它似\n本文链接",
+          "link": "https://news.cnblogs.com/n/739111/",
+          "publishedOn": "2023-03-28T16:01:23.000Z",
+          "wordCount": 163,
+          "title": "推特源代码「意外曝光」，GitHub连夜下架：泄露者疑似被解雇员工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739109/",
+          "author": null,
+          "description": "每经记者：蔡鼎每经编辑：兰素英 在全球加密货币的每一个角落，都会有一个交易平台的身影：币安（Binance）。 这家全球最大的加密货币交易所由赵长鹏（CZ）创办并经营，从比特币交易、数字艺术到风险投资的各个领域，币安都是主导平台。去年，在 Sam Bankman-Fried 的 FTX 帝国轰然倒塌\n本文链接",
+          "link": "https://news.cnblogs.com/n/739109/",
+          "publishedOn": "2023-03-28T15:54:20.000Z",
+          "wordCount": 163,
+          "title": "独占加密货币现货市场成交量70%！全球最大交易所币安及赵长鹏被美国当局起诉影响有多大？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739108/",
+          "author": null,
+          "description": "时隔 3 年半，苹果公司 CEO 蒂姆·库克 (Tim Cook) 又来中国了！ 商务部网站显示，3 月 27 日商务部部长王文涛会见苹果公司首席执行官库克。双方就苹果在华发展、稳定产业链供应链等议题进行交流。王文涛还表示，愿为包括苹果公司在内的外资企业提供良好的环境和服务。 图片来源：商务部官网 \n本文链接",
+          "link": "https://news.cnblogs.com/n/739108/",
+          "publishedOn": "2023-03-28T15:51:13.000Z",
+          "wordCount": 163,
+          "title": "库克这次来中国，做了哪些事，见了哪些人？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739107/",
+          "author": null,
+          "description": "3 月 28 日消息，追觅科技于今日在上海召开新品发布会。发布会上，追觅科技推出了两款机器人产品——通用人形机器人和仿生四足机器狗 Eame One 二代。 此次发布两款机器人新品之前，追觅科技在 2021 年下半年、2023 年初就分别推出过仿生四足机器狗 Eame One 和工业级四足机器人。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/739107/",
+          "publishedOn": "2023-03-28T15:49:16.000Z",
+          "wordCount": 163,
+          "title": "追觅科技发布两款机器人产品：通用人形机器人和仿生四足机器狗Eame One二代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739105/",
+          "author": null,
+          "description": "遭遇美国五大政府部门围剿后又被起诉，全球最大加密货币交易所币安到底触犯了哪些美国法规？ 美东时间 3 月 27 日周一，美国商品期货交易委员会（CFTC）宣布对币安 CEO 赵长鹏提起诉讼，指控币安在违反美国法规的情况下“竭尽全力”与美国客户开展业务。 CFTC 在起诉书中列举了币安涉嫌的一系列罪行\n本文链接",
+          "link": "https://news.cnblogs.com/n/739105/",
+          "publishedOn": "2023-03-28T13:49:00.000Z",
+          "wordCount": 163,
+          "title": "对币安的指控中，这9项令人瞠目结舌！",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/739032/",
           "author": null,
@@ -8020,166 +8180,6 @@
           "wordCount": 163,
           "title": "传音推出变色龙着色技术 可一键更改手机后盖颜色",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737351/",
-          "author": null,
-          "description": "InfoQ 获悉，日前，网易伏羲中文预训练大模型“玉言”登顶中文语言理解权威测评基准 CLUE 分类任务榜单，在多项任务上超过人类水平。其具备的自然语言处理能力，可应用于语言助手文本创作、新闻传媒、智能客服等领域。 据悉，“玉言”大模型参数达到 110 亿，结构由深层 Encoder 和浅层 Dec\n本文链接",
-          "link": "https://news.cnblogs.com/n/737351/",
-          "publishedOn": "2023-02-27T13:18:00.000Z",
-          "wordCount": 163,
-          "title": "网易伏羲中文预训练大模型“玉言”问鼎中文语言评测分类冠军：参数达 110 亿，浪潮提供 AI 算力支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737350/",
-          "author": null,
-          "description": "2 月 27 日消息，据外媒报道，继德国和美国后，梅赛德斯-奔驰首席技术官（CTO）Markus Schaefer 证实，该公司的自动驾驶系统 DRIVE Pilot 将进入中国市场，挑战特斯拉的全自动驾驶（FSD）系统。 据悉，梅赛德斯-奔驰的 DRIVE Pilot 系统于 2022 年 5 月\n本文链接",
-          "link": "https://news.cnblogs.com/n/737350/",
-          "publishedOn": "2023-02-27T13:10:00.000Z",
-          "wordCount": 163,
-          "title": "奔驰CTO证实：自动驾驶系统DRIVE Pilot将进入中国市场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737349/",
-          "author": null,
-          "description": "上手 SwiftUI 才几个小时，我们就爱上它了，甚至立刻就决定放弃跨平台代码库，并在 iOS 上改成完全原生的架构。1 月份上架 AppStore 的 timing.is 这个应用完全是用 SwiftUI 构建的。它的开发过程历时数月，要不是 SwiftUI 除了优点外还有很多缺点的话，这个时间还\n本文链接",
-          "link": "https://news.cnblogs.com/n/737349/",
-          "publishedOn": "2023-02-27T12:58:00.000Z",
-          "wordCount": 163,
-          "title": "写了3万行Swift UI生产代码后的经验：凡事皆有利弊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737348/",
-          "author": null,
-          "description": "2 月 27 日晚间消息，百度集团在港交所发布公告称，余正钧已因个人原因辞任公司的首席战略官职位，于 2023 年 3 月 1 日生效。余正钧将协助公司完成其工作职责的平稳过渡。余正钧辞任并非因与公司产生任何纠纷或分歧。\n本文链接",
-          "link": "https://news.cnblogs.com/n/737348/",
-          "publishedOn": "2023-02-27T11:34:00.000Z",
-          "wordCount": 163,
-          "title": "百度集团：余正钧辞任首席战略官",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737347/",
-          "author": null,
-          "description": "2 月 27 日上午消息，巨人网络移动端《原始征途》将于近期上线。近日，该公司在内部召开启动会，公司创始人史玉柱出席会议。 史玉柱在内部讲话中聊到这次回归研发一线修改游戏的幕后故事，称自己退休那些年不务正业，交了 100 多个男性朋友，经常给人借钱、帮朋友做担保，损失了好多钱。公司 CEO 刘伟看不\n本文链接",
-          "link": "https://news.cnblogs.com/n/737347/",
-          "publishedOn": "2023-02-27T10:52:00.000Z",
-          "wordCount": 163,
-          "title": "史玉柱新内部讲话：退休后我交了100多个男性朋友，损失了好多钱",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737346/",
-          "author": null,
-          "description": "衡宇发自凹非寺 量子位公众号 QbitAI AI 又达成了一个新成就！ 只用 6 个小时，发现新的纳米结构。如果使用传统方法，完成这个任务至少需要 1 个月。 这一结果发表在 Science 子刊 Advance 上。 △扫描电子显微镜图像描绘了 AI 发现的新型纳米结构 实验来自美国能源部（DOE\n本文链接",
-          "link": "https://news.cnblogs.com/n/737346/",
-          "publishedOn": "2023-02-27T10:40:00.000Z",
-          "wordCount": 163,
-          "title": "AI算法发现3种新纳米结构，研究时间从1个月压缩到6小时",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737345/",
-          "author": null,
-          "description": "文电商在线，作者｜王崭，编辑｜斯问 当中国的消费者在直播间疯狂下单，为直播间诱人的折扣精打细算时，美国的图片社交分享平台 Instagram 却计划关停直播购物功能。 Instagram 官方网站的消息显示，从 2023 年 3 月 16 日开始，商家将无法在 Instagram 的直播中标记产品，\n本文链接",
-          "link": "https://news.cnblogs.com/n/737345/",
-          "publishedOn": "2023-02-27T10:30:00.000Z",
-          "wordCount": 163,
-          "title": "最年轻的百亿富豪，“扶不起”直播电商",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737344/",
-          "author": null,
-          "description": "IT 之家 2 月 27 日消息，小米今日公布小米无线 AR 眼镜探索版。官方称其拥有三大创新，将加速虚实世界融合，开启 AR 无线时代。 据介绍，小米无线 AR 眼镜探索版支持低延迟无线连接，摆脱束缚；支持超清视网膜级显示，虚实难分；采用自研微手势交互，直觉易用。 小米无线 AR 眼镜探索版通体轻\n本文链接",
-          "link": "https://news.cnblogs.com/n/737344/",
-          "publishedOn": "2023-02-27T10:18:00.000Z",
-          "wordCount": 163,
-          "title": "小米无线AR眼镜探索版官宣：超清视网膜级显示",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737343/",
-          "author": null,
-          "description": "Tech 星球 2 月 27 日消息，据共富财经，有网友拍下了顺丰快递分拣员暴力分拣的全过程。从现场视频来看，有工作人员正在卸货的车厢内向外扔包裹，而接货的快递员则直接随手扔到了身后的地上。 据拍摄者表示，顺丰一直是行业中的老大，不应该出现这种行为；当时处于卸车状态，车厢有十米左右，卸货扔的声音很大\n本文链接",
-          "link": "https://news.cnblogs.com/n/737343/",
-          "publishedOn": "2023-02-27T10:11:00.000Z",
-          "wordCount": 163,
-          "title": "顺丰回应快递员暴力分拣：确系违规，会处罚个人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737342/",
-          "author": null,
-          "description": "杨净 Pine 发自凹非寺 量子位公众号 QbitAI 两年时间，一个 90 后体制内小哥下班之后只干三件私务，那就是： 手搓 CPU！手搓 CPU！还是***手搓 CPU！ 纯手工制作、全自主研发，于是一个名叫“初芯”的 CPU 终极形态终于诞生。 据 UP 主估计，整个 CPU 共计两万多个器件\n本文链接",
-          "link": "https://news.cnblogs.com/n/737342/",
-          "publishedOn": "2023-02-27T10:00:00.000Z",
-          "wordCount": 163,
-          "title": "「B站焊武帝」再出圈！孤身造CPU，软硬件全自研，可玩游戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737341/",
-          "author": null,
-          "description": "萧箫衡宇发自凹非寺 量子位公众号 QbitAI 微软必应接入 GPT 大模型后，效果并没有大家想象中那么好——它发疯了。 如今官方紧急出面，更（砍）新（掉）了必应上面最受欢迎的功能，也就是发表观点的能力。 大伙儿显然很不买账，认为新必应失去了最有意思的部分，现在版本的体验感甚至不如 siri 1.0\n本文链接",
-          "link": "https://news.cnblogs.com/n/737341/",
-          "publishedOn": "2023-02-27T09:45:00.000Z",
-          "wordCount": 163,
-          "title": "ChatGPT发疯怎么办？小冰李笛：两个关键，我可破之",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737340/",
-          "author": null,
-          "description": "IT 之家 2 月 27 日消息，高通公司在 MWC2023 期间又公布了 Snapdragon Satellite 卫星通信的一些消息，小米、OPPO、荣耀等成为首批计划支持的厂商，高通公司在今年 1 月首次公布了 Snapdragon Satellite。 在 MWC 2023 上，高通公司宣布\n本文链接",
-          "link": "https://news.cnblogs.com/n/737340/",
-          "publishedOn": "2023-02-27T09:35:00.000Z",
-          "wordCount": 163,
-          "title": "高通公布 Snapdragon Satellite 卫星通信新消息，小米等首批支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737339/",
-          "author": null,
-          "description": "一场时隔三年之余的正面价格战虽迟但到。 在 2019 年的 618、这个由京东首创的国民购物节期间，拼多多的加入让原本由京东和淘宝主导的电商争夺战变得更加激烈。这场剑拔弩张的博弈中，新入场的拼多多首次面向消费者启动了百亿补贴计划，不仅巩固了其在中小城市的地位，还颇有成效的伸到至一二线城市之中。 据拼\n本文链接",
-          "link": "https://news.cnblogs.com/n/737339/",
-          "publishedOn": "2023-02-27T09:30:00.000Z",
-          "wordCount": 163,
-          "title": "刘强东痴迷的“百亿补贴”还适合今天的京东么",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737338/",
-          "author": null,
-          "description": "出品｜虎嗅商业消费组 作者｜周月明 编辑｜苗正卿 题图｜视觉中国 “TikTok 用一年的时间，走完了抖音 5 年的商业化之路。”近日，TikTok 宣布在东南亚推出 TikTok 商城，再次印证了业内流传的这句话。 TikTok 商业化的步子确实迈得很大。去年 5 月，TikTok 才陆续开放东南\n本文链接",
-          "link": "https://news.cnblogs.com/n/737338/",
-          "publishedOn": "2023-02-27T09:20:00.000Z",
-          "wordCount": 163,
-          "title": "在欧美TikTok赔了钱，我“逃”回了东南亚",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737337/",
-          "author": null,
-          "description": "阿里最新财报披露了蚂蚁集团第二次分红的具体情况。 根据阿里巴巴（09988.HK）2 月 23 日披露的 2023 财年第三季度（自然年 2022 年第四季度）业绩报告，蚂蚁集团经股东大会批准，已于 2022 年 12 月向股东派发股息。30 多家机构股东和持有股权激励的员工将分享到此次分红计划。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/737337/",
-          "publishedOn": "2023-02-27T09:13:00.000Z",
-          "wordCount": 163,
-          "title": "蚂蚁集团第二次分红派息319亿元，两次累计超438亿元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737336/",
-          "author": null,
-          "description": "财联社 2 月 27 日电，理想汽车 2022 年第四季度营收 176.5 亿元，市场预期 176.22 亿元，上年同期 106.2 亿元；第四季度净利润 2.65 亿元，上年同期 2.96 亿元。理想汽车 2022 年全年净亏损 20.32 亿元，2021 年净亏损 3.2 亿元。理想汽车预计 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/737336/",
-          "publishedOn": "2023-02-27T09:07:00.000Z",
-          "wordCount": 163,
-          "title": "理想汽车四季度营收176.5亿元，净利润2.65亿元",
-          "imageUrl": null
         }
       ]
     },
@@ -8227,16 +8227,6 @@
           "wordCount": 531,
           "title": "老司机 iOS 周报 #235 | 2023-03-06",
           "imageUrl": "https://opengraph.githubassets.com/b46bc5d4364f86e2e3b719df3085f92946ed55ae1c7bc3cfb1f6102d609b0ddb/SwiftOldDriver/iOS-Weekly/releases/tag/%23235"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23234",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n Developer - 设计开发加速器\n设计挑战（亚太） 演讲：探索卓越的导航流程设计\n与 Apple 设计布道师一起学习重要设计原理的实践方式，并在两项设计挑战当中展示您的设计技能。探索如何运用优秀的导航设计模式来创建更符合直觉的 App，并注册一对一咨询来和 Apple 设计布道师讨论您的设计概念与想法。\n在挑战活动的最后，您还有机会和其他参与挑战的开发者进行交流，并与 Apple 设计布道师一起分享各自的想法、设计案例和洞见。\n文章\n🌟 🐕 云音乐 iOS 跨端缓存库 - NEMichelinCache\n@JonyFang: 跨端缓存方案类似操作系统缓存模式中的回写模式，在缓存库方案设计过程中需要着重解决回写的缺点，如保证内存缓存、引擎、磁盘缓存数据一致性。基于目标做对应的方案设计，侧重如下几点：\n业务接口层。减少接入的难度，还需使接口可控，不让业务方随意访问磁盘等；\n责任链模块。为后续日志模块、错误模块设计做准备；\n责任链 Runner。支持优先级队列能力、支持优先级高的链插队；\n解压 / 合并模块。可自定义配置解压缩库能力，同时减少对三方库依赖（可替换）；\n数据库升级；\n多版本并存；\n本地 Bundle 缓存清理机制；\n新缓存框架设计整体的切入点和侧重关注点可供参考，也期待网易云后续放出 NEMichelinCache 对应的开源。\n🐕 Safely pinning SPM dependencies to exact versions\n@kemchenj：使用 Cocoapods 集成依赖时，我们通常会将 Podfile.lock 也加入到 Git 的文件追踪列表里，保证在每次运…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23234",
-          "publishedOn": "2023-02-27T06:42:41.000Z",
-          "wordCount": 557,
-          "title": "老司机 iOS 周报 #234 | 2023-02-27",
-          "imageUrl": "https://opengraph.githubassets.com/e07b8b7d82b55d2304974feebd847971237de1646fac9e4ba5e5c1935ab611e8/SwiftOldDriver/iOS-Weekly/releases/tag/%23234"
         }
       ]
     }
