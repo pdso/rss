@@ -6,6 +6,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n上图是2022年世界自然摄影奖的获奖作品，保加利亚中部城市旧扎戈拉的一只红隼，在一盏生锈的路灯里安家，彷佛很多人在大都市的处境。（via）\n本周话题：不要夸大 ChatGPT\nChatGPT 问世只有几个月，大家有没有发现，舆论的调门越来越高。\n人们最初的震惊和赞叹，逐渐变成了非理性的鼓吹，很多人言之凿凿，断定 ChatGPT 将重塑人类社会。\n\n举例来说，《经济学人》杂志称它会\"翻天覆地\"。\n\"GPT 也完全可以是 general-purpose technology（通用技术）的缩写：一种翻天覆地的创新，可以像汽机、电力和计算机一样提升各行各业的生产率。\"\n一个国内的作者则说，它会\"席卷一切\"。\n\"ChatGPT 带来的这场风暴，正在席卷一切。\n随着不断的技术提升，可以预见，GPT类型的 AI，未来能替代的，也许是全行业！\"\n还有人担心它会淘汰人类，有的文章标题堪称惊悚，《AI 狂飙的时代，人还有价值吗？》。\n\n微博的\"热门文章\"列表，也是满满的生存焦虑。\n\n这种情绪反映在金融市场，就是\"ChatGPT 概念股\"被狂炒。一直微利 + 亏损的\"汉王科技\"，就在 ChatGPT 问世后，股价从11元炒到了40元。\n\n我有一种感觉，ChatGPT 已经神化了，仿佛无所不能。\n今天就来谈谈这件事，我要说，ChatGPT 确实很神奇，是划时代的技术创新，但是不应该无限夸大。\nChatGPT 有其局限，很多事情它做不到。有人说，ChatGPT 标志着机器取代人类的\"奇点时刻\"，这是不对的。\n他们忽略了最关键的一点：ChatGPT 不是\"通用人工智能\"，而是一个语言模型。\n\"通用人类智能\"（art…",
+          "link": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html",
+          "publishedOn": "2023-03-30T23:57:21.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 248 期）：不要夸大 ChatGPT",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n2019年建成的陕西宝鸡\"太白山之眼\"，是一个巨型的钢结构，高度达到20层楼（含底部钢架）。它不仅能喷水，还能喷火，集合了声光电表演，将音乐喷泉推向了一个新高度。（via）\n本周话题：扎克伯格的裁员信\n去年11月，Meta 公司宣布大裁员，解雇13%的员工，大约11,000人。\n过了四个月，上周二（3月14日），该公司突然宣布，还有第二轮，再解雇大约10,000人。\n\n今天，我们不讨论裁员这件事本身，只说说扎克伯克的裁员信。\n裁员信公开发在 Meta 官网，我建议大家读一下，里面有一些有意思的内容。\n\n大部分的裁员信，都是假惺惺的例行公事，\"由于市场形势的变化，我们不得不做出一个艰难的决定......\"。但是，这封信不一样。\n扎克伯克详细解释了，他对公司管理的想法，以及下一步的打算。如果你想了解硅谷巨头的内部情况，这封信可以提供不少信息。\n首先，他直言不讳地说，上一次裁员的效果很好， 公司效率提高了。\n\"自从我们去年裁员以来，一个令人惊讶的结果是许多事情进展得更快了。回想起来，我低估了优先级较低的项目的间接成本。\"\n为什么员工少了，项目反而进展快了？\n扎克伯格的解释是，裁员使得公司大量取消低优先级的项目，集中资源到最重要的事情上面。\n下面这段话，我认为非常精彩。\n\"人们很容易认为，只要一个项目产生的价值超过其直接成本，它就是正收益的。\n但是，任何项目都需要一个主管，我们要么提拔一个工程师，要么从另一个项目挑选一个人，让其负责该项目。这两种情况都分散了人才，并且创造出了更多的管理层。\n如果项目继续发展，整个团队也许分散到多个楼层或多个办公室，这让沟通变得更加困难。\n我们还需要为项目配备更多…",
@@ -68,6 +78,36 @@
       "feedUrl": "https://rsshub.app/sspai/matrix",
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
+        {
+          "id": "https://sspai.com/post/79074",
+          "author": "朱近野",
+          "description": "1，前缘\n当「游牧教室」这个词第一次出现在我脑中的时候，我对它的未来形态一无所知。那时候的我，尚且准备着在不同城市之间往返移动，期望着每周都遇到不同的学生。至于这个教室本身应当如何工作——有了一个教师，有了至少一个学生，那应该就能够自然寻找到路径吧，我想着。\n第一次在少数派正式提及「游牧教室」这个词，是在 《一个游牧教室的诞生》 这篇文章当中。用大屏幕电视机、麦克风、录屏工具「芦笋」、自编的临时卡片工具、Discord国产仿品「开黑啦」、组成的简易工具包，给线上、线下的孩子们略微讲了几个话题。\n\n如果说那时候的实验有所成效，则其中最主要的成效是令我发现了一个事实——工具在挑战孩子们，孩子们也在随时挑战着工具。也许我应该更像游牧民一样，在不同的地域灵活采用各种技术、方法，而不是拘泥于特定的模式。\n其后一年，名为「游牧教室」的小小实验从不定期变为定期，从临时召集变为固定组合，目标、工具、方法，均有了长长的更新记录。在这篇文章（以及可能的续篇）当中，我将会用「复原场景」+「画外音」的方式，来与诸位一同回顾这段历程，并继续探索更多「学习的可能」。\n那么，本次就从一节「历史阅读课」记录开始讲起。\n \n2，历史阅读从董卓开始\n这是3月27日晚上将近七点，我坐在电脑前。进入固定的腾讯会议链接，周一阅读课的学徒们已经到场。\n「妙妙，我们来确认一下声音」，「听得很清楚」，「佳亿来确认一下」，「能听见」……逐个和孩子们确认过音量大小、网络卡顿之后，时间已到，我催促大家在各自的平板电脑上打开白板分享链接，长度1小时的阅读训练课就此开始。\n「我们一共有三张卡片，第一张卡片是上周一起读过的内容，故事很简单，讲的是东汉末年，在朝廷的核心区域，也就是首都洛阳城发生了一次很激烈的政治事件。这个事件的经过，几句话就能讲清楚：外戚何进——他的官职是大将军，被手下鼓动要消灭皇宫中的宦官势力。结果宦官们先下手为强…",
+          "link": "https://sspai.com/post/79074",
+          "publishedOn": "2023-03-29T15:03:39.000Z",
+          "wordCount": 598,
+          "title": "棋钟·卡片·问题：进化中的游牧教室",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/79077",
+          "author": "一柳繁",
+          "description": "注意事项\n\n不构成任何医疗建议。因为懒得做 fact check 所以处于「作者说什么我信什么」的阶段，而且除了频繁改写原句还加入了自己的理解和展开。因此本文的可靠程度约等于一个没受过什么教育就出来招摇撞骗的神棍，而且像 chatGPT 一样擅长瞎编和牵强附会。如果我意识到了不同来源总结出了相悖的结论会单独拿出来讨论，但我的想法与讨论后得出的结论都不应作为任何决策的参考。\n当然如果文中说的任何内容有科学错误，欢迎指正，非常感谢！\n需要了解前置知识：不同睡眠人格（早鸟/夜鸮）、快速眼动睡眠和非快速眼动睡眠、90 分钟的睡眠周期、腺苷和皮质醇在睡眠中起的作用。\n\nDisclaimer：原作：我；翻译：Notion AI + chatGPT + DeepL；润色：我。\n信息来源\n\n池田千恵：「朝１時間」ですべてが変わる　モーニングルーティン（中译：《起床后的黄金 1 小时》）\nBenjamin Spall & Michael Xander: My Morning Routine: How Successful People Start Every Day Inspired（中译：《一日之计：精英们的清晨日课》）\nMatthew Walker: Why We Sleep（中译：《我们为什么要睡觉？》）\nNick Littlehales: Sleep（中译：《睡眠革命》）\nAndrew Huberman: Master Your Sleep & Be More Alert When Awake\nAndrew Huberman & Matthew Walker: The Science & Practice of Perfecting Your Sleep (not finished)\nAndrew Huberman: Find Your Temperature Minimum to …",
+          "link": "https://sspai.com/post/79077",
+          "publishedOn": "2023-03-29T05:33:45.000Z",
+          "wordCount": 960,
+          "title": "Snooze Like a Pro: A Brief Research on Sleep",
+          "imageUrl": "https://cdn.sspai.com/2023/03/29/607e64828a0319b17781cdea037d3b28.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/79072",
+          "author": "Humanitech",
+          "description": "早在 2021 年 8 月 30 日，Apple 便 宣布 收购古典音乐流媒体服务 Primephonic，并计划于 2022 年发布一款为古典音乐量身定制的 app，在保留 Primephonic 备受乐迷喜爱的界面设计的同时加入新增功能。然而去年我们并没有如期看到 Apple Music Classical 的身影，就在我以为 Apple 会无限期推迟或彻底放弃推出之时，它却于本月上旬忽然宣布 Apple Music Classical 将于 3 月 28 日推出。\nApple Music Classical 有什么特色？Apple 为何要推出一个独立于 Apple Music 的古典音乐程序？跟 Apple Music 相比，它有哪些变与不变？使用 Apple Music Classical 又需要满足哪些条件？如果你对 Apple Music Classical 仍有疑问，不妨往下看看。\n什么是 Apple Music Classical？它又有哪些特色？\nApple Music Classical 是 Apple 在收购古典音乐流媒体服务 Primephonic 后推出的一款古典音乐程序。跟其他古典音乐 app 相比，Apple Music Classical 具有以下特色：\n\n曲库丰富：作为世界上古典音乐曲库最丰富的平台，Apple Music Classical 包含 500 万首以上古典乐曲，从新近发布的作品到倍受赞扬的名作，再到数千张独家专辑，应有尽有。\n搜索精准：Apple Music Classical 专门为古典音乐优化了搜索功能。无论是按作曲家、指挥家还是目录编号搜索都能找到特定的古典曲目。\n音质卓越：Apple Music Classical 保留 Apple Music 一贯的高音质表现。通过高达 192 kHz/24 位高解析度无损音质，以及…",
+          "link": "https://sspai.com/post/79072",
+          "publishedOn": "2023-03-29T03:12:29.000Z",
+          "wordCount": 905,
+          "title": "关于 Apple Music Classical，了解这些就够了",
+          "imageUrl": "https://cdn.sspai.com/2023/03/28/4d75a1503fffeb484255206adf876dd6.png"
+        },
         {
           "id": "https://sspai.com/post/79047",
           "author": "碎瓜",
@@ -607,46 +647,6 @@
           "wordCount": 627,
           "title": "ChatGPT 的基本功：13 种 Prompt 用法",
           "imageUrl": "https://cdn.sspai.com/2023/03/01/5faf3191f0dd52ea048ff4aa6e0b4764.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/78590",
-          "author": "Jiang",
-          "description": "我们每个人都有许多标签，例如高中生、成绩中等、文科，根据这些标签我和其他拥有相同标签的人分配了相同的教程、班级和老师，这可以带来效率上的提升，因为同一份教程、老师就可以服务几十上百人，而无须为每个人定制，但也正是这样造成了忽略个性的问题。\n而 ChatGPT 的强大是在于对个人需求的定制化回复。在过往遇到问题时通常使用 Google 搜索答案，在接受答案之前需要花上一点时间阅读答案所针对的问题细节、背景是否与自己的相同，否则答案可能对自己无效。例如同样是学习编程，不同的人、不同的目标所采用的学习方法都会不同，使用 ChatGPT 就可以得到更加个性化的答案。利用这一特性 ChatGPT 对我的学习产生了很大的帮助，下面从学习的不同阶段展开分享。\n获取学习材料\n知其然也要知其所以然，我喜欢研究某个技巧、方法之所以有效的底层原理，例如下面这个例子，在阅读学习方法的文章时了解到「人们更容易理解和记住直接相关的知识」但不明白原理是什么，于是向 ChatGPT 咨询并获得相关的实验、论文信息。通过获取新的学习材料加深自己的理解深度。\n\n最近想找一些教程继续提升一下自己的编程能力，但大多数资源都是视频教程让我觉得很枯燥，我喜欢边学边做的课程，通过拉近理论和实践的距离我可以更快获得反馈和成就感。于是我向 ChatGPT 提交了自己的需求，最终选择了 Codewars 这个通过解题来学习和评估编程能力的网站，它不但可以反馈我的编程质量，还可以通过社区看到其他人对问题的解答方式从而学到更多。\n\n处理学习材料\n在阅读前对内容具备整体认知有助于大脑完成知识的理解。就像拼图前如果不知道最终成品的样子很难从一大堆碎片中找到头绪。我在阅读文章时会使用 ChatGPT 获取文章的概要，在正式阅读前先在大脑中建立一个知识地图。\n\nCodewars 是一个编程学习网站，它会提供许多试题要求用户编程解答，代码…",
-          "link": "https://sspai.com/post/78590",
-          "publishedOn": "2023-03-01T09:30:05.000Z",
-          "wordCount": 643,
-          "title": "使用 ChatGPT 辅助学习——为自己找一个老师",
-          "imageUrl": "https://cdn.sspai.com/2023/03/01/7fda4bbfe4451a2d508273ec7d9fe7d0.png"
-        },
-        {
-          "id": "https://sspai.com/post/78542",
-          "author": "南壹",
-          "description": "大家好，我是「写点啥」app 的开发者南壹，今天给大家分享一下，我是如何用 ChatGPT 打造出一套简易的推荐系统的。\n \n背景\n「写点啥」的用户可以在 app 中随机获取到一个题目，来帮助自己找寻一些写作灵感。最初当用户打开 app 后，会从数据库中所有的题目中，完全随机的获取到一条题目。\n底部显示的题目\n我当时设计成这样的目的是希望用户能最大可能的接触各种类型的题目，从不同类型的题目中找创作灵感，但是经过一段时间后，有用户反馈对有些题目产生了不适，例如「一只乌鸦向你飞来，嘴里衔着一根断指，指头上文着你的名字……」，一开始我还跟用户解释题目获取是完全随机，以及我为什么要这么设计，结合当时自己玩「艾尔登法环」的经历，表示这个题目中的指头其实可以有很多想象力等等。\n被用户吐槽题目产生了不适\n但是在几次的用户反馈后，我意识到我没法说服每一个人，作为开发者，应该考虑用户的诉求，为用户提供一个更舒适的 app 使用体验，那么一个推荐系统就迫在眉睫。\n开发准备\n作为一个 iOS 开发者，画界面，写交互这些工作可以，但是涉及到推荐系统，在一开始则有些无从下手，最早我找到一个做后端的朋友，咨询如何去搭建一套推荐系统，他跟我说的方法比较笼统，并没有具体的实现方式，后来也就搁置了。\n最近 ChatGPT 大火，听说很多人已经用它来提升生产力，但我平时只是调戏一下它，让它回答一些我觉得好玩的问题，可是，又一次的用户反馈一些题目并不喜欢之后，我尝试用 ChatGPT 来帮我去打造这套推荐系统。\n当一个用户不喜欢当前的题目时，可以点「换一个」按钮，这个题目就会被加入不喜欢列表，再从服务器请求一个新题目时，会连带已写过的题目列表一起，上传到服务器，进行一个去重的操作，这个不喜欢列表，最多包含 20 条题目，当超过 20 条，就会删除掉最早的一条不喜欢题目。\n在最早的题目数据库搭建时，每一个题目都有…",
-          "link": "https://sspai.com/post/78542",
-          "publishedOn": "2023-03-01T09:25:03.000Z",
-          "wordCount": 718,
-          "title": "我是如何用 ChatGPT 打造出一套简易推荐系统的",
-          "imageUrl": "https://cdn.sspai.com/2023/02/28/c110a9f4ece7bbc09d223ff61873c9df.png"
-        },
-        {
-          "id": "https://sspai.com/post/78581",
-          "author": "清顺",
-          "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n最近，关于 ChatGPT 的讨论越来越多，但大多数人仅仅将其视为一款聊天机器人，并从猎奇的角度去测试其人工智能的回答。然而，ChatGPT 不仅仅是一个猎奇的 AI 玩具，未来它将会成为必备生产工具。ChatGPT 之类的 AI 工具将用它巨大的语言知识库，为我们创造更多的价值。\n为了能让 ChatGPT 成为生产力工具，我花大量时间逐个研究提示词的规则和范例，如 ChatGPT Prompt Examples、Awesome ChatGPT Prompts、Learn Prompting 等。我筛选出了 163 个 Prompts（提示词），仅记录它们的功能而非内容，这就让我的笔记超过了 5000 字。提示词目录也变得越来越长，即使将浏览器全屏，也无法完整显示。起初，我制作提示词目录是为了方便自己，但每次需要查找提示词时，我不得不依靠记忆。这些笔记反而成为了负担，拖累 ChatGPT 的工作效率。\n为了更好地使用 ChatGPT，我将精选的提示词编入索引，根据领域和功能对其进行分类，添加针对提示词的标签筛选、关键词搜索、一键复制和中英文切换功能，创建了 ChatGPT Shortcut 页面。即使是初学者，你只需复制提示词，稍加修改后发送给 ChatGPT，就能获得指定输出，让你的生产力加倍！\n使用说明\nChatGPT Shortcut 页面默认显示全部的提示词，页面分为标签区、搜索区和提示词展示区。\n\n标签筛选\n标签区按提示词的领域和功能进行划分，可根据不同场景和需求进行选择。与标签区右上方的「标签筛选规则切换」按钮配合使用…",
-          "link": "https://sspai.com/post/78581",
-          "publishedOn": "2023-03-01T03:33:11.000Z",
-          "wordCount": 754,
-          "title": "我做了一个「咒语库」，帮你从提示词入手用好 ChatGPT",
-          "imageUrl": "https://cdn.sspai.com/2023/3/1/article/df9a8485-f74e-c4d2-b666-aa8730d8a334.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/78530",
-          "author": "Burgess",
-          "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\nApple 生态中的跨设备剪贴板同步很实用，比如你可以在 iPhone 上复制文本、然后在 Mac 上直接粘贴。\n所以从 Mac 切换到 Windows 后我就一直在寻找一种可以实现 Windows 与 iOS 剪贴板同步的方法，前前后后尝试了快贴、clipboard-online 等工具但效果都不理想，直到使用了 Quicker 这款应用才逐渐摸索出一套可行的方案。\n虽然体验不如 Apple 生态那样流畅且只支持文本内容，但用起来也还算方便。关于 Quicker 的基本使用，请参看官方的「软件使用教程」。\n接下来，我将分别从 iOS 和 Windows 两个平台介绍该方案。\niOS to Windows\n在进行操作前，请确保你已通过邮箱注册并登录了 Quicker，然后进入 Quicker 的动作页，按照下图所示步骤打开推送服务，接着点击推送工具进入会员中心，即可看到与你的账号绑定的推送验证码，请妥善保管。\n打开推送服务推送验证码\n接下来在 iOS 设备中安装「发送到电脑」这个快捷指令，进入编辑界面后，根据提示填写 Quicker 账号的邮箱和前文获取的推送验证码，这样你就可以就可以在 iPhone 上直接复制文本运行该快捷指令，或者选中文本通过共享表单运行、将内容发送到 Windows 设备。\n如果你的 Windows 处于输入状态，接收后系统会直接将内容粘贴到光标处。需要注意的是，在连续运行多次后 Quicker 推送服务器的原因可能会出现运行错误，若出现此类错误请等待几秒钟后再尝试。\n为了获得更流畅的使用体验，我们可以将上文的快捷指令添加到「辅助触控」中，具体方法是进入 iPhone 设置，然后依次点击「辅助功能 > 触控 > 辅助触控 > 自定义顶层菜单」添加该快捷指令。添加完成后，就可以在需要同步剪贴板时点击屏幕上的辅助触控球，快速运行快捷指令发送内容了。\n另外建议在 Windows 端安装一个剪贴板管理工具，推荐使用「剪贴板」这个 Quicker 动作，它非常好用而且不需要额外安装应用，你可以查看、搜索、收藏历史剪贴板，同时当剪贴板内容有变化时它会显示通知。在动作安装完成后，记得进入 Quicker 设置界面，在「辅助功能」模块中设置自动运行该动作，防止忘记启动导致剪贴板数据丢失。\n设置自动运行动作\nWindows to iOS\n要想从 Windows 发送剪贴板到 iOS，除了前文提到的 Quicker，还需要借助 Bark 这款应用。\n首先，从 App Store 下载 Bark 并授予它通知权限，接着进入设置页面，可以看到 Device Token（这是你当前设备的真实 Token，请妥善保管），复制 Token 后可以现学现用，按上文的操作直接发送到 Windows 的剪贴板中，最后在 Quicker 中安装「发送到 iPhone」这个动作，在其编辑界面右侧的「变量定义」中找到 token 变量，在变量的默认值中填入刚刚获得的 Device Token，保存并退出。\n填入 Device Token\n同步剪贴板时，选中要发送的内容（如果没有选中则使用剪贴板中的内容）然后点击运行该动作，即可将内容发送到你的 iPhone 上。当收到 Bark 的通知时，长按它就可以直接复制内容。如果内容是 URL 还会自动打开。同时你可以在 Bark 中查看历史消息，不必担心不小心清除了通知。\n总结\n通过以上两部分的内容，我们就实现了 Windows 与 iOS 的剪贴板同步，虽然无法与 Apple 全家桶的跨设备体验媲美，有些人也可能难以理解这么麻烦为什么不直接用 Apple 全家桶——也许你是对的，但还是希望大家都能够不被某个品牌的生态所绑架，成为自己设备的主人。\n参考资料\n\n推送服务(长连接功能) - Quicker (getquicker.net)\n剪贴板 (wolai.com)\n\n> 下载 少数派 2.0 客户端、关注 少数派公众号，解锁全新阅读体验 📰\n> 实用、好用的 正版软件，少数派为你呈现 🚀",
-          "link": "https://sspai.com/post/78530",
-          "publishedOn": "2023-03-01T01:35:20.000Z",
-          "wordCount": 744,
-          "title": "Windows 与 iOS 剪贴板同步方案",
-          "imageUrl": "https://cdn.sspai.com/2023/3/3/article/250285c3-05a9-5d3c-dea7-f1fcd06204a0.jpg"
         }
       ]
     },
@@ -714,6 +714,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74540",
+          "author": null,
+          "description": "curl 项目作者 Daniel Stenberg 称收到了彭博社开源项目办公室的来函，curl 项目成为彭博社 FOSS Contributor Fund 基金的首个赞助对象，它通过 Open Source Collective 向其资助 1 万美元。 curl 项目不是法人，不能自己持有资金或任何资产，它的所有资金都由  Open Source Collective 托管。",
+          "link": "https://www.solidot.org/story?sid=74540",
+          "publishedOn": "2023-03-30T15:23:35.000Z",
+          "wordCount": 170,
+          "title": "彭博社向 curl 项目捐赠一万美金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74539",
+          "author": null,
+          "description": "苹果 CEO 库克（Tim Cook）最近在中国访问，在与国家发改委官员的见面中，发改委主任郑栅洁\n督促苹果加强数据安全和个人隐私保护，称“中国的产业数字化和数字产业化进程、超大规模市场、庞大的中等收入群体等都将为包括苹果公司在内的跨国企业带来广阔市场。希望苹果公司继续积极承担企业社会责任，加强数据安全和个人隐私保护。”苹果年收入的 19%——约 742 亿美元——来自大中华区市场。",
+          "link": "https://www.solidot.org/story?sid=74539",
+          "publishedOn": "2023-03-30T13:31:24.000Z",
+          "wordCount": 149,
+          "title": "发改委督促苹果加强数据安全和个人隐私保护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74538",
+          "author": null,
+          "description": "电影《星球大战》系列主角天行者卢克的扮演者 Mark Hamill 将他的声音借给了乌克兰空袭警报应用 Air Alert 使用。Air Alert 连接国家防空系统，一旦发现空袭来临，Mark Hamill 的声音会响起：“注意。空袭警报。请前往最近的庇护所。”当威胁过去之后，他会说，“警报结束。愿原力与你同在。”Hamill 还会引用部分《星球大战》中的著名台词，比如“别大意，过度自信是你的弱点”。Hamill 提供的台词向用户警告导弹袭击、炮轰、巷战、辐射和化学威胁。Hamill 是乌克兰的支持者，为乌克兰展开过筹款活动。",
+          "link": "https://www.solidot.org/story?sid=74538",
+          "publishedOn": "2023-03-30T13:23:11.000Z",
+          "wordCount": 166,
+          "title": "乌克兰空袭警报应用使用 Mark Hamill 的声音",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74537",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，到了 21 世纪，历史上曾存在于大多数国家、生活在城市的儿童和青少年相对于乡村地区同龄人的生长发育优势或已消失，但对生活在非洲和亚洲一些地区的男孩，城市优势有所放大。研究人员整理了 200 个国家在 1990-2020 年间生活在城市和乡村地区的 7100 万年轻人( 5-19 岁)的身高和体重数据。他们发现，在 1990 年，除少数国家外，几乎所有城市儿童和青少年都比乡村的同龄人高。但到 2020 年，城市身高优势在大多数国家都变小了，而在许多富裕西方国家(如英国、美国和法国)，城市反而有了轻微劣势。上述情况的例外出现在撒哈拉以南非洲的大多数国家，以及一些太平洋、南亚和中东国家的男孩身上。在这些国家，连续队列的乡村男孩身高都没有增加，甚至可能更矮了。",
+          "link": "https://www.solidot.org/story?sid=74537",
+          "publishedOn": "2023-03-30T12:55:08.000Z",
+          "wordCount": 156,
+          "title": "城市青少年和儿童的生长发育优势可能已经消失",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74536",
+          "author": null,
+          "description": "天文学家发现了可能是已知质量最大的黑洞，其质量大约为太阳质量的 300 亿倍。研究报告发表在《Royal Astronomical Society》期刊上。天文学家是利用引力透镜和超级计算机模拟发现这个巨无霸黑洞的。该黑洞位于星系团 Abell 1201 中的一个星系，虽然巨大无比但并不活跃，也就是它没有吞噬太多周围的物质而释放出巨大的能量。论文主要作者 James Nightingale 博士称，此前发现的绝大多数超大质量黑洞都处于活跃状态，引力透镜让研究此类不活跃巨型黑洞成为可能。",
+          "link": "https://www.solidot.org/story?sid=74536",
+          "publishedOn": "2023-03-30T12:46:37.000Z",
+          "wordCount": 151,
+          "title": "天文学家发现已知质量最大的黑洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74535",
+          "author": null,
+          "description": "Twitter 上周披露它的部分源代码被人在今年初上传到 GitHub。上周五 Twitter 向北加州地区法院递交申请，要求法庭签发传票强迫 GitHub 披露源代码上传者 FreeSpeechEnthusiast 的身份。本周二法庭书记员签署了传票，GitHub 需要在 4 月 3 日前提供上传者所有的身份信息，包括 FreeSpeechEnthusiast 相关的姓名、地址、电话号码、电邮地址、社媒档案数据和 IP 地址。GitHub 还被要求提供 FreeSpeechEnthusiast 所上传代码仓库中发布、上传、下载或修改数据的用户的相同类型的信息。",
+          "link": "https://www.solidot.org/story?sid=74535",
+          "publishedOn": "2023-03-30T10:26:35.000Z",
+          "wordCount": 173,
+          "title": "Twitter 获得法庭传票要求 GitHub 披露其源代码上传者的身份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74534",
+          "author": null,
+          "description": "Google Threat Analysis Group (TAG) 安全团队多年来一直跟踪间谍软件供应商的活动。它跟踪了逾三十家公司，认为这些间谍软件的开发商推动了黑客工具的扩散，让内部缺乏技术能力的政府能利用先进的黑客工具去监视持不同政见者、记者、人权活动人士和反对党政客。间谍软件供应商组合利用 0day 和 Nday 漏洞去攻击流行平台，它们囤积了已知和未知的漏洞，利用了已知漏洞及其修复补丁推送到终端用户的时间差。Google 安全研究人员根据其活动认为，间谍软件开发商之间在分享漏洞和技术，加速了危险黑客工具的扩散。",
+          "link": "https://www.solidot.org/story?sid=74534",
+          "publishedOn": "2023-03-30T10:03:40.000Z",
+          "wordCount": 167,
+          "title": "间谍软件供应商利用 0day 和 Nday 漏洞攻击流行平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74533",
+          "author": null,
+          "description": "美国共和党参议员 Rand Paul 反对针对 TikTok 的禁令。TikTok 是美国最受欢迎的社交应用之一，有 1.5 亿用户，主要是年轻人。Rand Paul 认为应该小心提防以恐惧之名诱骗美国人民放弃自由的人，对 TikTok 的每一项指控都适用于美国的科技巨头。如果美国要禁止 TikTok 那么这实际上是效仿中国。因为中国已经禁止了  TikTok。如果你不喜欢 TikTok 或 Facebook 或 YouTube，那么就不要使用它们。但不要以为对宪法的任何诠释赋予了你禁止它们的权利。",
+          "link": "https://www.solidot.org/story?sid=74533",
+          "publishedOn": "2023-03-30T08:42:33.000Z",
+          "wordCount": 181,
+          "title": "美国共和党参议员 Rand Paul 反对 TikTok 禁令",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74532",
+          "author": null,
+          "description": "我们生活在一个信息即时传递的时代，但在印度东部的奥里萨邦（Odisha），警方仍然保留信鸽作为一种传递信息的手段。警方使用信鸽与偏远的分局保持联络，在 1982 年的灾难性洪水和 1999 年的超级飓风面前，信鸽被证明是唯一可靠的通信方法，它们被认为拯救了很多人的生命。警用信鸽服务是在 1946 年启用的，当时奥里萨邦没有无线电也没有电话，军方因此向其提供了 200 只比利时信鸽。如今奥里萨邦保留了世界唯一现存的信鸽通信服务。使用比利时信鸽是因为它们能在 15-25 分钟内飞行最远 24 公里，寿命长达 20 年。警方目前保留了大约 155 只信鸽。",
+          "link": "https://www.solidot.org/story?sid=74532",
+          "publishedOn": "2023-03-30T07:17:22.000Z",
+          "wordCount": 157,
+          "title": "印度奥里萨邦警方仍然在用信鸽传递信息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74531",
+          "author": null,
+          "description": "Sam Bankman-Fried(SBF)在担任 FTX CEO 期间曾向他的父亲转移了数百万美元，其中部分款项正被用于资助他不断增加的辩护费用。SBF 是在2021 年送给他的父亲、斯坦福法学教授 Joseph Bankman 一笔大额礼金。这笔资金来自于他旗下对冲基金 Alameda Research 的贷款。这笔赠与款使用了美国的终身免税额——根据美国的税法，一个人被赠与和继承的价值不超过 1170 万美元不需要缴纳相应的税款。他的父亲曾恳求儿子存钱，但 SBF 拒绝了。",
+          "link": "https://www.solidot.org/story?sid=74531",
+          "publishedOn": "2023-03-30T06:11:56.000Z",
+          "wordCount": 162,
+          "title": "SBF 的辩护费用部分来自于他送给父亲的钱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74530",
+          "author": null,
+          "description": "包括马斯克(Elon Musk)和图灵奖得主 Yoshua Bengio 在内的科技行业高管和顶级 AI 研究人员正呼吁暂停对强大的新 AI 工具的快速开发。主张暂停的这些人士表示，六个月或更长时间的暂停，将使该行业有时间制定 AI 设计方面的安全标准，从而防止风险最高的一些 AI 技术的潜在危害。《暂停巨型 AI 实验：一封公开信》并非呼吁暂停所有 AI 开发，但敦促各公司暂时停止训练比 GPT-4 更强大的系统。OpenAI 的管理人员说他们还没有开始训练 GPT-5。OpenAI 首席执行官 Sam Altman 在接受采访时表示，公司长期以来在开发时将安全作为重点，并在 GPT-4 发布前花了六个多月的时间对其进行安全测试。",
+          "link": "https://www.solidot.org/story?sid=74530",
+          "publishedOn": "2023-03-30T05:28:02.000Z",
+          "wordCount": 176,
+          "title": "马斯克等呼吁暂停开发更强大的 AI 系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74529",
+          "author": null,
+          "description": "微软官方博客宣布它的 AI 聊天机器人 Bing chat 引入广告。Bing 的日活用户逾一亿，其中三分之一用户首次使用 Bing，与 AI 的聊天也超过了一亿。微软称这些都给内容出版商带来了新的机遇。互联网的生态系统是如此运作的：出版商提供优质内容，驱动流量，吸引广告商，出版商通过广告为内容获得报酬，用户则能免费访问内容。微软表示它希望新 Bing 为出版商增加流量，增加广告收入，继续促进健康的互联网生态系统。 微软目前探索的 Bing chat 广告方式是当用户鼠标悬浮在一个链接时将会展示该内容出版商的更多链接；在聊天答案旁边放置内容驱动用户点击。",
+          "link": "https://www.solidot.org/story?sid=74529",
+          "publishedOn": "2023-03-30T05:20:58.000Z",
+          "wordCount": 164,
+          "title": "Bing chat 引入广告",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74528",
           "author": null,
@@ -3193,136 +3313,6 @@
           "wordCount": 169,
           "title": "OpenAI 走向了它所承诺的反面",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74269",
-          "author": null,
-          "description": "新闻集团以及旗下的媒体 WSJ 披露，疑似中国黑客在其网络中活动了近两年时间。新闻集团是在 2022 年 2 月首次披露它遭到了黑客入侵，Google 旗下的安全子公司  Mandiant 协助它进行调查。调查显示，在 2020 年 2 月到 2022 年 1 月之间，未授权方从受影响系统的个人账号内访问了企业文档和邮件，其中包含有个人信息。黑客的目的主要不是为了个人信息，而是情报收集。新闻集团没有发现与数据泄露相关的身份盗窃或欺诈。黑客窃取到的个人信息包括员工姓名、出生日期、社会安全号码、驾驶执照号码、护照号码、金融账户信息、医疗信息和健康保险信息等等。",
-          "link": "https://www.solidot.org/story?sid=74269",
-          "publishedOn": "2023-03-01T12:37:54.000Z",
-          "wordCount": 162,
-          "title": "新闻集团称黑客入侵其网络长达两年时间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74268",
-          "author": null,
-          "description": "微软官方博客宣布了 Windows 11 在 2023 年的首个大更新，Windows 11 v22H2 用户现在可以通过手动检查 Windows Update 下载，或者等待 3 月的例行安全更新（第二个星期二）。其中最引入瞩目的功能是整合了 AI 的新必应和基于 OpenAI ChatGPT 技术的 Bing Chat。其它更新包括记事本应用加入了暗模式支持，多标签支持——可以在单一窗口打开多个标签；设置应用包含了能耗推荐部分，优化电池续航；等等。",
-          "link": "https://www.solidot.org/story?sid=74268",
-          "publishedOn": "2023-03-01T12:10:35.000Z",
-          "wordCount": 185,
-          "title": "Windows 11 在 2023 年的首个重大更新将包含 Bing Chat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74267",
-          "author": null,
-          "description": "美国政府正在考虑撤销向美国供应商发放的向华为销售所需的出口许可证。美国政府此前曾表示，正在考虑不向高通和英特尔等公司发放任何新的出口许可证。这一行动将涵盖使用先进的 5G 技术的产品以及旧有技术的 4G 产品。高通和英特尔等公司生产智能手机和其他设备所需的芯片。新举措将更进一步，撤销现有的许可证。一位前高级安全官员称：“尽管存在实体名单，但美国的政策仍允许向华为出口，现在这项政策正逐步结束。”",
-          "link": "https://www.solidot.org/story?sid=74267",
-          "publishedOn": "2023-03-01T10:29:25.000Z",
-          "wordCount": 145,
-          "title": "美国考虑撤销对华为的出口许可证",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74266",
-          "author": null,
-          "description": "能够飞行的现代鸟类都有一种特殊的翅膀结构，称为前膜，没有它鸟就无法飞行。这种结构的进化起源仍然是一个谜，但新研究表明，它可能是从非鸟类恐龙身上进化出来的。这一发现来自对化石中保存的关节的统计分析，有助于填补有关鸟类飞行起源的部分知识空白。在现代鸟类中，由于前膜的存在，翅膀不能完全伸展，这限制了连接部分的角度范围。如果能在恐龙标本中找到一组类似的特定关节，就可确定它们也有前膜。通过对鸟类和非鸟类恐龙化石姿势的定量分析，研究人员找到了所期望的关节角度范围。根据这一线索，研究小组发现，前膜很可能是从一群被称为手盗龙类的兽脚类恐龙身上进化出来的。",
-          "link": "https://www.solidot.org/story?sid=74266",
-          "publishedOn": "2023-03-01T10:02:39.000Z",
-          "wordCount": 143,
-          "title": "现代鸟类的翅膀如何演化而来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74265",
-          "author": null,
-          "description": "还记得《午夜凶铃》吗？它和一盒神秘的录像带有关，传说凡是看过这盘录像带的人，会在七天之后死亡。现在， Google 在某种意义上创造了 YouTube 版本的《午夜凶铃》：观看一则 1979 年《异形》电影片段的  Google Pixel 手机会立即重启。一位叫 OGPixel5 的用户报告称在 Google Pixel 6、6a 或 Pixel 7 上观看该视频会导致手机重启。部分用户还报告重启之后手机的移动服务停止工作，需要再次重启才能恢复正常。最可能的猜测是该视频的 4K HDR 格式与手机崩溃相关，所有使用 Tensor SoC 的 Google 手机都受到影响，其它非  Google 产 Android 手机未看到崩溃报道。Google 据称将在 3 月释出修复该问题的补丁。",
-          "link": "https://www.solidot.org/story?sid=74265",
-          "publishedOn": "2023-03-01T08:21:22.000Z",
-          "wordCount": 188,
-          "title": "YouTube 视频导致 Pixel 手机立即重启",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74264",
-          "author": null,
-          "description": "Google 开始向部分 Gmail 和 Calendar 用户提供客户端加密，让用户能更好的控制谁能看到敏感的通信和日程表。客户端加密是指数据在本地加密然后才发送到服务器，相比之下服务器端加密是指客户端设备向中心服务器发送数据，然后在储存时使用其持有的密钥加密。从周二开始，Google 开始向 Gmail 和 Calendar Workspace 客户推送客户端加密。",
-          "link": "https://www.solidot.org/story?sid=74264",
-          "publishedOn": "2023-03-01T07:18:24.000Z",
-          "wordCount": 172,
-          "title": "Google 开始向部分 Gmail 和 Calendar 用户提供客户端加密",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74263",
-          "author": null,
-          "description": "根据 Access Now 的报告，2022 年政府断网次数创新记录：35 个国家的政府断网至少 187 次，近半数断网发生在印度。印度连续五年成为 Access Now 记录到的断网次数最多的国家。Access Now 根据新闻报道、技术评估和个人报告汇集断网数据，其中涵盖了完全断网，特定移动网络被切断或特定社交应用被屏蔽，以及网络降速。触发断网的原因可能包括大规模抗议、冲突、选举，甚至是考试。无论何种情况，断网都会增加人们通信和接收最新信息的难度，产生巨大的经济成本，联合国去年呼吁各国避免使用断网这种策略。",
-          "link": "https://www.solidot.org/story?sid=74263",
-          "publishedOn": "2023-03-01T06:55:32.000Z",
-          "wordCount": 157,
-          "title": "2022 年政府断网次数创新记录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74262",
-          "author": null,
-          "description": "俄罗斯法庭周二以传播虚假军事信息为由对维基媒体基金会罚款 200 万卢布（约 2.7 万美元），俄罗斯当局指控基金会未能从在线百科全书上删除有关俄军方的虚假信息。去年入侵乌克兰不久，俄罗斯政府就出台了新的法律，限制对这场战争的报道，对传播与克里姆林宫官方说法不一致信息的网站进行罚款或封锁。维基媒体基金会去年已经罚款了一次，维基俄罗斯称最新的罚款与俄罗斯军事单位的文章有关，俄罗斯指控这些文章传播了虚假信息。",
-          "link": "https://www.solidot.org/story?sid=74262",
-          "publishedOn": "2023-03-01T05:57:04.000Z",
-          "wordCount": 153,
-          "title": "俄罗斯以传播虚假军事信息对维基百科罚款 200 万卢布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74261",
-          "author": null,
-          "description": "英伟达释出最新版驱动，为 RTX 30 和 40 系列显卡加入了视频超分辨率（RTX Video Super Resolution）功能，类似游戏使用的深度学习超级采样（Deep Learning Super Sampling，DLSS），RTX VSR 利用 AI 技术将 360p 到 1440p 分辨率的视频放大到最高 4K 分辨率。RTX VSR 此前只支持英伟达的 Shield TV，现在扩大到支持最新版本的 Chrome 和 Edge 浏览器。英伟达称，近八成的互联网带宽被用于串流视频，而九成的视频是用 1080p 或更低分辨率串流。当用户在高于 1080p 的显示屏上观看视频，浏览器使用简单的放大技术让视频分辨率匹配显示屏的分辨率，导致的结果是视频经常有模糊。",
-          "link": "https://www.solidot.org/story?sid=74261",
-          "publishedOn": "2023-03-01T02:52:50.000Z",
-          "wordCount": 174,
-          "title": "英伟达释出驱动支持视频超分辨率",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74260",
-          "author": null,
-          "description": "脸盲症可能比此前认为的更普遍。一项最新研究显示，受脸盲症影响的人远比此前研究认为的要多——每 33 人中就有 1 人符合脸盲症的患病标准；每 108 人中有1人患重度脸盲症、每 47 人中有 1 人患轻度脸盲症。脸盲症是一种神秘的疾病，患者通常看不清别人的脸或者对别人的脸失去辨认能力。研究人员通过网络问卷和对 3341 人的实际测试展开研究。首先，研究人员会询问参与者日常生活中是否存在人脸辨认困难。然后研究人员对参与者进行两项测试，以确定他们在认识新面孔或识别非常熟悉的名人面孔方面是否存在问题。",
-          "link": "https://www.solidot.org/story?sid=74260",
-          "publishedOn": "2023-02-28T15:32:44.000Z",
-          "wordCount": 154,
-          "title": "脸盲症可能比此前认为的更普遍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74259",
-          "author": null,
-          "description": "Twitter 继续裁员。在马斯克(Elon Musk)收购之后，Twitter 裁掉了超过半数的员工，上周末又裁掉了大约 200 人，目前员工总数在 2000 人左右。它在收购之前有大约 7500 名员工。马斯克致力于减少 Twitter 的亏损，而 Twitter 最主要的收入来源是广告，但他受争议的行为导致了广告商们纷纷退出。根据 Media Matters for America 的报告，去年 Twitter 前 100 广告商花费了逾 7.5 亿美元，但其中半数已经撤离该平台。Twitter Blue 订阅服务的产品经理 Esther Crawford 据报道在最新一轮裁员中被裁掉。",
-          "link": "https://www.solidot.org/story?sid=74259",
-          "publishedOn": "2023-02-28T15:11:00.000Z",
-          "wordCount": 183,
-          "title": "Twitter 裁员大约 200 人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74258",
-          "author": null,
-          "description": "韦伯太空望远镜（JWST）公布的首批数据为早期星系形成提供了新的认知。红移是测量天体寿命的指标：由于宇宙扩张，遥远天体发出的光的波长会朝光谱的红端移动，图像颜色越红，天体的距离就越远。科学家曾在红移 z~6 的范围里发现了恒星质量有太阳 1 千亿倍的大质量星系，形成时间为大爆炸后 10 亿年左右，但比这更早的大质量星系一直很难发现。天文学家从韦伯望远镜的观测结果中筛选高红移（z = 6.5和z = 9.1）的候选体，寻找宇宙历史上最初 7.5 亿年里的大质量星系。他们发现了 6个候选大质量星系，质量最高达太阳的 100 亿倍，其中一个星系可能存在一个质量为太阳 1 千亿倍的恒星。观测到的星系质量超过了预期值。如果能得到光谱学验证，研究结果将证明在宇宙历史的早期，星系质量的增长比预期的要快很多。",
-          "link": "https://www.solidot.org/story?sid=74258",
-          "publishedOn": "2023-02-28T14:10:02.000Z",
-          "wordCount": 159,
-          "title": "宇宙最早的星系比预期的质量更大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74257",
-          "author": null,
-          "description": "在 Jocelyn Bell 于 1967 年发现第一颗脉冲星或中子星近六十年后，天体物理学家仍然不知道其内部物质构成。去年夏天，他们报告了至今观测到的最重的中子星——其质量相当于 2.35 倍太阳质量，此前最重的中子星为 2.08 倍于太阳质量。太阳的直径有 140 万公里长，而中子星只有 20 公里，将数倍的太阳质量塞入如此小的体积内，可以想象其密度有多高内部压力有多强。而仅银河系内可能就有数亿颗中子星。中子星的核心比原子核还要致密，理论学家不知道在核心中子是否能保持完整，或者还是分解成更小的粒子夸克。中子星的内部可能经历了新的物质状态变化，将夸克变成了更奇怪的东西如超子（hyperons）。",
-          "link": "https://www.solidot.org/story?sid=74257",
-          "publishedOn": "2023-02-28T13:20:57.000Z",
-          "wordCount": 155,
-          "title": "中子星的内部仍然是一个谜团",
-          "imageUrl": null
         }
       ]
     },
@@ -3331,6 +3321,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/739250/",
+          "author": null,
+          "description": "机器之心报道 机器之心编辑部 隐语开源首个工业级多方安全数据分析系统 SCQL，填补了产业空白，将进一步延展数据安全协同的链路、拓展数据价值流通的场景。 大模型的兴起，让数据作为新型生产要素的重要性被再一次深刻认知，而隐私计算作为平衡数据利用和数据安全的重要路径，学术价值和应用价值进一步凸显。近年来\n本文链接",
+          "link": "https://news.cnblogs.com/n/739250/",
+          "publishedOn": "2023-03-30T11:58:59.000Z",
+          "wordCount": 163,
+          "title": "隐语开源首个工业级多方安全数据分析系统，高易用破局大规模应用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739248/",
+          "author": null,
+          "description": "3 月 30 日消息，针对隧道内定位不准确这一行业顽疾，高德地图宣布已于近日推出全新的智能手机隧道导航解决方案，基于自主研发的 VDR 惯性导航增强定位（以下简称 VDR 惯导增强）技术，可大幅提升长隧道内的定位精度和成功率，确保用户在这一复杂场景内的导航可靠性和体验。 据介绍，过往由于卫星信号遮蔽\n本文链接",
+          "link": "https://news.cnblogs.com/n/739248/",
+          "publishedOn": "2023-03-30T10:00:00.000Z",
+          "wordCount": 163,
+          "title": "高德自研惯导增强定位技术，推出智能手机隧道导航解决方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739249/",
+          "author": null,
+          "description": "3 月 30 日消息，曹操出行正式发布了全球首个共享定制车品牌曹操汽车，同时推出了品牌旗下首款定制车曹操 60。 “共享出行已经由增量市场转为存量市场，行业内产品同质化严重，行业亟需探索发展新方向。”曹操出行 CEO 龚昕表示，乘用车市场已经进入智能网联时代，智能汽车渗透率不断上升，产业融合数智化转\n本文链接",
+          "link": "https://news.cnblogs.com/n/739249/",
+          "publishedOn": "2023-03-30T09:55:00.000Z",
+          "wordCount": 163,
+          "title": "曹操出行发布新车曹操60：续航可达415公里，可60秒极速换电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739247/",
+          "author": null,
+          "description": "3 月 30 日消息，中国二手车在线经销商优信集团宣布，由于公司正在完成一些能够显著改善公司财务状况的事项，故决定将原定于 2023 年 3 月 31 日发布的 2023 财年第三季度财报（2022 年 10 月 1 日到 2022 年 12 月 31 日）重新安排在 2023 年 4 月 11 日\n本文链接",
+          "link": "https://news.cnblogs.com/n/739247/",
+          "publishedOn": "2023-03-30T09:50:00.000Z",
+          "wordCount": 163,
+          "title": "优信宣布推迟最新财报发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739246/",
+          "author": null,
+          "description": "3 月 30 日消息，近期，网上部分剧情演绎类视频作品网络传播过程中，因为前后语境缺失，被误以为是真实事件，造成了不良影响。此外，还有极个别创作者试图利用虚假人设、情节等编造不实信息，凸显对立或冲突效果，骗取流量和钱财。 针对这一现象，3 月 30 日，抖音官方账号发布了关于“演绎”类作品的内容创作\n本文链接",
+          "link": "https://news.cnblogs.com/n/739246/",
+          "publishedOn": "2023-03-30T09:46:00.000Z",
+          "wordCount": 163,
+          "title": "抖音严打虚假摆拍，伪造故事误导公众将被无限期封禁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739245/",
+          "author": null,
+          "description": "2. 1s 破百，号称是“ 全球最快量产车 ”的特斯拉全新 Model S ，昨天开始了国内首批交付。 而提前两天，我们也是想办法搞到了第一批动态测试的资格，把新出的 Model S / X 两款车都爽了个遍，还是最快的 Plaid 版本。 爽完的感受用一句话总结：特斯拉不光让我领略到了它的狂暴，还\n本文链接",
+          "link": "https://news.cnblogs.com/n/739245/",
+          "publishedOn": "2023-03-30T09:40:00.000Z",
+          "wordCount": 163,
+          "title": "首测丨100万的新款特斯拉，快得我差点吐了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739244/",
+          "author": null,
+          "description": "界面新闻记者程璐 3 月 30 日消息，在拼多多平台数十家品牌店遭遇有组织的“炸店”事件后，有拼多多小二发布朋友圈称，这是从业以来经历过的最夸张的恶意打砸店铺事件，平台已固定相关证据，并将坚决诉诸司法机关。 据界面新闻了解，事件起源于 3 月 25 日拼多多上线的自营店“拼多多福利社”，但仅仅 4 \n本文链接",
+          "link": "https://news.cnblogs.com/n/739244/",
+          "publishedOn": "2023-03-30T09:30:00.000Z",
+          "wordCount": 163,
+          "title": "拼多多数十家品牌店遭遇“炸店”：商家积怨已久，小二称要斗争到底",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739243/",
+          "author": null,
+          "description": "Pine 发自凹非寺量子位公众号 QbitAI 千人联名要求“暂停巨型 AI 实验”在网上经过一天的发酵，各方声音都已经涌现出来。 继 LeCun 之后，吴恩达、田渊栋等一众 AI 大牛也发文公开反对“千人联名”。 吴恩达表示，在 GPT-4 出现之后要求 AI 训练暂停 6 个月是很可怕的事情：它\n本文链接",
+          "link": "https://news.cnblogs.com/n/739243/",
+          "publishedOn": "2023-03-30T09:24:00.000Z",
+          "wordCount": 163,
+          "title": "GPT-5不能停！吴恩达田渊栋反对千人联名，OpenAI CEO也发声了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739242/",
+          "author": null,
+          "description": "萧箫发自凹非寺 量子位公众号 QbitAI 抛给 ChatGPT 一个需求，它只能给你一堆运行效果未知的代码？ 现在，只需一个小改动，ChatGPT 不仅能直接把你的文字需求变成代码，还能帮你跑一遍，把输出结果返还给你！ 这个秘诀就是代码解释器插件。 作家 Andrew Mayne（现已加入 Ope\n本文链接",
+          "link": "https://news.cnblogs.com/n/739242/",
+          "publishedOn": "2023-03-30T09:12:00.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT能自己跑代码了：提需求输出运行结果，网友直呼“魔法”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739241/",
+          "author": null,
+          "description": "芯东西（公众号：aichip001） 编译段祎 编辑 Panken 芯东西 3 月 30 日消息，3 月 25 日，据 Tom’s Hardware 报道，一位名叫 Les Pounder 的技术人员修改了软件开发者 Georgi Gerganov 写的C/C++模型 llama.cpp。Les P\n本文链接",
+          "link": "https://news.cnblogs.com/n/739241/",
+          "publishedOn": "2023-03-30T09:00:00.000Z",
+          "wordCount": 163,
+          "title": "如何用树莓派跑AI聊天机器人？详细教程来了！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739240/",
+          "author": null,
+          "description": "文｜市值榜，作者｜连禾，编辑｜嘉辛 阿里巴巴启动了 24 年来最重要的一次组织变革。 3 月 28 日，阿里巴巴集团董事会主席兼首席执行官张勇宣布启动“1+6+N”组织变革，主要内容包括： 在阿里巴巴集团之下，设立阿里云智能、淘宝天猫商业、本地生活、国际数字商业、菜鸟、大文娱等六大业务集团和多家业务\n本文链接",
+          "link": "https://news.cnblogs.com/n/739240/",
+          "publishedOn": "2023-03-30T08:50:00.000Z",
+          "wordCount": 163,
+          "title": "阿里组织变革，对估值影响几何？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739239/",
+          "author": null,
+          "description": "图片来源@视觉中国 文｜价值研究所 “未来，我们将乘势而上，加速为我们生态系统的参与者和股东创造长期价值。” 在 3 月 29 日晚间召开的财报电话会上，快手 CEO 程一笑如此描述快手下一阶段的战略。和之前几个季度最大的区别是，除了降本增效外探索新业务、优化营收结构被提到了更重要的位置。这变化背后\n本文链接",
+          "link": "https://news.cnblogs.com/n/739239/",
+          "publishedOn": "2023-03-30T08:38:00.000Z",
+          "wordCount": 163,
+          "title": "快手，“抠”出了奇迹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739238/",
+          "author": null,
+          "description": "文｜明晰野望 互联网行业正在集体以一个平稳过渡的四季报，为“降本增效”的 2022 年划上句号，始自 2021 年 Q3 财报季的各种业绩“天雷”也终于消停。 一个更为积极的信号是，已经发布财报的阿里、腾讯、百度、京东、美团、拼多多等 6 家中国大型互联网科技公司，今年以来都释放了积极追求高质量增长\n本文链接",
+          "link": "https://news.cnblogs.com/n/739238/",
+          "publishedOn": "2023-03-30T08:29:00.000Z",
+          "wordCount": 163,
+          "title": "互联网新十年：底气与未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739237/",
+          "author": null,
+          "description": "汽车销量增长 1.5 倍，营收增长近乎翻倍，净利润增长超过 4 倍，这就是比亚迪 2022 年交出的成绩单。 3 月 28 日晚间，比亚迪正式公布了 2022 年业绩报告。营业收入 4240.61 亿元，同比增长 96.2%，平均每天收入 11.6 亿元；净利润 166.22 亿元，同比增长 445\n本文链接",
+          "link": "https://news.cnblogs.com/n/739237/",
+          "publishedOn": "2023-03-30T08:22:00.000Z",
+          "wordCount": 163,
+          "title": "比亚迪一路狂飙 今年要成中国第一！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739236/",
+          "author": null,
+          "description": "文｜蓝字计划，作者｜林石 全世界都在谈论 ChatGPT 将带来颠覆性的技术革命，但人工智能训练师李杰却一点也激动不起来。 为了完成单价 4 分钱的计件工作，李杰和几十个人坐在一间摆设如同初代网吧的屋子里，每天对着电脑划拉鼠标几千次。 他的职责是为训练人工智能模型准备“饲料”，将大量的文字、语音、图\n本文链接",
+          "link": "https://news.cnblogs.com/n/739236/",
+          "publishedOn": "2023-03-30T08:10:00.000Z",
+          "wordCount": 163,
+          "title": "训练人工智能的中国县城工人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739235/",
+          "author": null,
+          "description": "图片来源@视觉中国 文 Tech 星球，作者｜翟元元 作为腾讯“全村的希望”，视频号最近多次高调亮相。先是腾讯发布最新财报时被多次提及，再是在 3 月 28 日的“2023 微信公开课”活动再次站上C位。 视频号上线 3 年，已经成为使用时长超越朋友圈、2022 年直播带货销售额增长超 8 倍的存在\n本文链接",
+          "link": "https://news.cnblogs.com/n/739235/",
+          "publishedOn": "2023-03-30T08:00:00.000Z",
+          "wordCount": 163,
+          "title": "视频号暗推5大动作，商业化摸着“抖快淘”过河",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739234/",
+          "author": null,
+          "description": "上周，AIGC 的变化让世界变得疯狂，每天醒来都可能是一个「新世界」。 但从另一个角度上来说，无论 AIGC 如何智能和颠覆，我们仍然处于「旧世界」，或者准确的说，应该是「候补」世界。 不止是新 Bing，Github Copilot X，ChatGPT 的插件，Midjourney V5，以及 A\n本文链接",
+          "link": "https://news.cnblogs.com/n/739234/",
+          "publishedOn": "2023-03-30T07:50:00.000Z",
+          "wordCount": 163,
+          "title": "申请 ChatGPT 和新 Bing 们的账号，为什么都要等这么久？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739233/",
+          "author": null,
+          "description": "3 月 30 日 10:08，华为全新一代半入耳旗舰 TWS 耳机华为 FreeBuds 5 正式迎来首销。该款旗舰新品采用颠覆传统的全曲面流线设计，被用户昵称为“水滴耳机”，并带来佩戴、澎湃音质、舒适降噪、性能等方面的升级，满足了用户时尚搭配、舒适佩戴、高品质音乐等使用需求。 水滴造型，科技与美学\n本文链接",
+          "link": "https://news.cnblogs.com/n/739233/",
+          "publishedOn": "2023-03-30T07:40:00.000Z",
+          "wordCount": 163,
+          "title": "华为FreeBuds 5水滴耳机首销开启，外观与性能全面升级！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739232/",
+          "author": null,
+          "description": "品玩 3 月 30 日讯，据毫末智行官方消息，第八届 HAOMO AI DAY 正式定档 4 月 11 日，当天毫末智行将发布全球首个自动驾驶生成式大模型 DriveGPT。 据悉，本届 HAOMO AI DAY 主题为“ HAOMO SPEED，AI SPEED ”。举办地设在北京中德产业园。今年\n本文链接",
+          "link": "https://news.cnblogs.com/n/739232/",
+          "publishedOn": "2023-03-30T07:32:00.000Z",
+          "wordCount": 163,
+          "title": "毫末智行宣布HAOMO AI DAY 活动定档4月11日",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/739231/",
+          "author": null,
+          "description": "今天早上 7 点半，法拉第未来在美国加州的汉福德工厂人潮涌动，包括法拉第未来全球 CEO 陈雪峰、法拉第未来创始人贾跃亭、法拉第未来全球产品执行高级副总裁 Matthias Aydt 等人均汇集到了这间工厂中，一起见证法拉利未来旗下首款车型 FF 91 Futurist 的量产仪式。 而在此不久前，\n本文链接",
+          "link": "https://news.cnblogs.com/n/739231/",
+          "publishedOn": "2023-03-30T07:28:00.000Z",
+          "wordCount": 163,
+          "title": "FF91量产了，不过市场里已经没了贾老板的位置",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/739178/",
           "author": null,
@@ -8099,96 +8289,6 @@
           "publishedOn": "2023-03-01T16:01:25.000Z",
           "wordCount": 163,
           "title": "资产全捐，硬刚篮协……新疆首富掀桌而起？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737487/",
-          "author": null,
-          "description": "汽车圈造型外观、商标、LOGO、技术等侵权官司，屡见不鲜，是业内常态。几年前，吉利也曾控告威马汽车涉嫌“侵害商业秘密”，并要求威马赔偿 21 亿元并承担相关诉讼费用，最终威马汽车败诉，赔偿吉利 700 万元。 作者 杨俏 编辑 孙春芳 费了老劲搞了个豪华至极的发布会，没想到被友商的一纸“廉价”律师函\n本文链接",
-          "link": "https://news.cnblogs.com/n/737487/",
-          "publishedOn": "2023-03-01T08:06:00.000Z",
-          "wordCount": 163,
-          "title": "告人抄袭的吉利，也被人“警告”了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737486/",
-          "author": null,
-          "description": "苹果应用自研芯片的深度，又被其 CEO 库克往前推进了一步。 作为当前苹果硬件设备中 5G 芯片的独家供应商，近期，高通总裁兼 CEO 克里斯蒂亚诺·安蒙在 MWC 2023 大会上表示：“我们预计苹果将在 2024 年生产其 5G 芯片”。 经历两年全球专利大战后，苹果与高通在 2019 年 4 \n本文链接",
-          "link": "https://news.cnblogs.com/n/737486/",
-          "publishedOn": "2023-03-01T08:00:00.000Z",
-          "wordCount": 163,
-          "title": "面和心不和4年后，苹果终于敢跟高通分手了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737485/",
-          "author": null,
-          "description": "作者/陈兵 随着 DMA 的正式施行，需更加明确的是反垄断并不等于反垄断法，反垄断法仅是反垄断的工具之一。 2 月 21 日，微软(Microsoft)在布鲁塞尔与欧盟(EU)举行了一场闭门听证会，为其陷入困境的动视暴雪(Activision Blizzard)的 690 亿美元交易进行辩护。自 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/737485/",
-          "publishedOn": "2023-03-01T07:55:00.000Z",
-          "wordCount": 163,
-          "title": "微软过招欧盟，胜率几何",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737484/",
-          "author": null,
-          "description": "记者/张洺瑞潘涛 威马欠薪风波传出最新进展。2 月 27 日，据黄冈市人社局所属单位劳动保障监察局工作人员称，目前市劳动保障监察局与市人社部门已成立专班介入此事，正在受理威马员工维权事宜。 日前，由于威马大幅降薪、社保资金去向不明以及延迟薪资发放日期，部分员工前往威马黄冈工厂门口拉横幅维权。 据网传\n本文链接",
-          "link": "https://news.cnblogs.com/n/737484/",
-          "publishedOn": "2023-03-01T07:50:00.000Z",
-          "wordCount": 163,
-          "title": "劳动监察部门介入调查威马欠薪，知情人士称经销模式与急于IPO或成威马告急重要原因",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737483/",
-          "author": null,
-          "description": "北京时间 3 月 1 日早间消息，据报道，美国生鲜配送独角兽 Instacart 公司告知投资人，该公司 2022 年的营收 25 亿美元，同比增长 39%。对于这家渴望在今年上市的公司来说，这是个积极信号。 Instacart 的销售数字是另外一个良好的指标，证明该公司有了广告这条第二曲线，而不仅\n本文链接",
-          "link": "https://news.cnblogs.com/n/737483/",
-          "publishedOn": "2023-03-01T07:45:00.000Z",
-          "wordCount": 163,
-          "title": "Instacart去年营收25亿美元，同比增长39%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737482/",
-          "author": null,
-          "description": "文 新浪科技 张俊 新能源车企善于“背刺”老车主，但刺得最深的，要属华为的“干儿子”阿维塔…… 在首批车主们的购车喜悦尚未退却时，阿维塔便开始了降价促销政策。车主们很是心寒，在阿维塔官方发起的“提车日记”活动中，他们发出的竟是“维权日记”。 更让大家感到无奈的是，一边要忍受降价之痛，另一边还有感受 \n本文链接",
-          "link": "https://news.cnblogs.com/n/737482/",
-          "publishedOn": "2023-03-01T07:40:00.000Z",
-          "wordCount": 163,
-          "title": "品牌与口碑双重承压，降价后的阿维塔能实现10万辆目标吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737481/",
-          "author": null,
-          "description": "北京时间 3 月 1 日早间消息，据报道，当地时间周二，美国按揭贷款公司 Better.com 在声明中表示，亚马逊将允许员工在购房过程中使用已经获得的股票作为抵押品来申请贷款。 “我们深知背负助学贷款且缺乏储蓄的年轻专业人士买房有多么困难。”Better CEO Vishal Garg 在声明中说\n本文链接",
-          "link": "https://news.cnblogs.com/n/737481/",
-          "publishedOn": "2023-03-01T07:32:00.000Z",
-          "wordCount": 163,
-          "title": "亚马逊允许员工抵押股票购房",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737480/",
-          "author": null,
-          "description": "中新网 3 月 1 日电 (中新财经葛成)面对特斯拉主动挑起的“价格战”，比亚迪也按奈不住了？ 据媒体报道，比亚迪于近日启动了年内首次降价。对此中新财经向比亚迪相关负责人核实此事，对方表示，此次并非官方降价，系个别经销商促销行为。另据北京的一家比亚迪经销商透露，目前，店内不同车型的优惠幅度自千元至万\n本文链接",
-          "link": "https://news.cnblogs.com/n/737480/",
-          "publishedOn": "2023-03-01T07:26:00.000Z",
-          "wordCount": 163,
-          "title": "新能源汽车“价格战”，将会波及燃油车？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/737479/",
-          "author": null,
-          "description": "2 月 27 日，2023 世界移动通信大会（Mobile World Congress，以下简称 MWC）在西班牙巴塞罗那举办。期间，九号公司现场发布了包括成人电动滑板车、儿童电动滑板车和电动踏板摩托车三大品类的多款新品。 “1999 年，Segway 是第一个提出最后一公里解决方案的品牌。现在，\n本文链接",
-          "link": "https://news.cnblogs.com/n/737479/",
-          "publishedOn": "2023-03-01T07:20:00.000Z",
-          "wordCount": 163,
-          "title": "九号公司展示多项短交通行业科技创新，并发布多款电动滑板新品 | MWC 2023",
           "imageUrl": null
         }
       ]
