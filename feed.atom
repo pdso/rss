@@ -2,10 +2,260 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T01:14:23.419Z</updated>
+    <updated>2023-04-03T01:09:04.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LMFlow开源，3090单卡5小时可训练]]></title>
+        <id>https://news.cnblogs.com/n/739378/</id>
+        <link href="https://news.cnblogs.com/n/739378/"/>
+        <updated>2023-04-02T16:48:04.000Z</updated>
+        <summary type="html"><![CDATA[用于微调和推理大型基础模型的可扩展工具包 LMFlow 一个可扩展、方便且高效的工具箱，用于微调大型机器学习模型，旨在用户友好、快速可靠，并且可供整个社区访问。 凭借 LMFlow 的加持，即使计算资源有限，用户也能够根据自己领域的需求进行个性化训练。有了 70 亿参数的 LLaMA，只需要一张 3
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费可商用开源GPT模型问世，50G权重直接下载，性能不输GPT-3]]></title>
+        <id>https://news.cnblogs.com/n/739376/</id>
+        <link href="https://news.cnblogs.com/n/739376/"/>
+        <updated>2023-04-02T16:44:05.000Z</updated>
+        <summary type="html"><![CDATA[萧箫发自凹非寺 量子位公众号 QbitAI 真·开源 GPT 模型，终于来了。 参数量级 130 亿，大小比肩最近 Meta 开放的 LLaMA-13B，但从数据集、模型权重到计算优化训练，全部开源。最关键的是，可商用。没错，虽然就 GPT-3 而言，之前 DeepMind、Meta 等组织陆陆续续
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人车传感器全部「失效」还能畅行城市道路，背后黑科技火出海外]]></title>
+        <id>https://news.cnblogs.com/n/739375/</id>
+        <link href="https://news.cnblogs.com/n/739375/"/>
+        <updated>2023-04-02T16:41:42.000Z</updated>
+        <summary type="html"><![CDATA[贾浩楠发自凹非寺 量子位公众号 QbitAI “马斯克，你相信 V2X+AI 能让自动驾驶更容易落地吗？” 这两天，海外很多科技知名 UP 主，如 Karl Conrad、Dom Esposito、Shane starnes、Jonathan Casey，不断在一则自动驾驶路侧技术视频下@马斯克、w
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比利时男子与AI聊天后，自杀身亡：Eliza，替我保护地球，我先走了！]]></title>
+        <id>https://news.cnblogs.com/n/739374/</id>
+        <link href="https://news.cnblogs.com/n/739374/"/>
+        <updated>2023-04-02T16:39:17.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：Britta 比利时一男子与聊天机器人 Eliza 聊天后，加剧了自身的焦虑，而后自杀身亡。 一名比利时男子，在与一个名为 Eliza 的人工智能聊天机器人进行了数周交流后自杀身亡。 该男子的妻子说在他死前六周，她的丈夫开始与「Eliza」聊天，这是一家美国初创公司使用 GPT-J
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文，HuggingGPT项目已开源]]></title>
+        <id>https://news.cnblogs.com/n/739373/</id>
+        <link href="https://news.cnblogs.com/n/739373/"/>
+        <updated>2023-04-02T16:37:44.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：桃子 Britta 「贾维斯」已来！微软亚研院联手浙大推出了一个大模型协作系统 HuggingGPT，让 ChatGPT 协调 HF 社区模型，处理各种多模态任务能力超强。 ChatGPT 引爆的 AI 热潮也「烧到了」金融圈。 近来，彭博社的研究人员也开发了一个金融领域的 GPT
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球TOP 1000计算机科学家公布：中国96位学者上榜！港理工张磊居大陆科学家之首]]></title>
+        <id>https://news.cnblogs.com/n/739372/</id>
+        <link href="https://news.cnblogs.com/n/739372/"/>
+        <updated>2023-04-02T16:33:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：桃子 Research 刚刚出炉了 2023 年世界顶尖 1000 名计算机科学家排名。美国 583 名科学家实力霸榜。吴恩达、李飞飞等入选的华人学者过百。中国科学家 96 人上榜，港理工张磊居大陆科学家之首。 近日，Research（Guide2Research）发布了 2023
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他们开源了GitHub最火的双语对话模型，还说AI胡说八道不需被纠正]]></title>
+        <id>https://news.cnblogs.com/n/739371/</id>
+        <link href="https://news.cnblogs.com/n/739371/"/>
+        <updated>2023-04-02T16:31:39.000Z</updated>
+        <summary type="html"><![CDATA[衡宇发自凹非寺 量子位公众号 QbitAI 国产对话机器人 ChatGLM，和 GPT-4 诞生于同一天。 由智谱 AI 和清华大学 KEG 实验室联合推出，开启 alpha 内测版。 这个巧合让智谱 AI 创始人兼 CEO 张鹏有一种说不清的复杂感觉。但看到技术被 OpenAI 做到这么牛，这名被
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星被曝因ChatGPT泄露芯片机密！韩媒：数据「原封不动」传美国]]></title>
+        <id>https://news.cnblogs.com/n/739369/</id>
+        <link href="https://news.cnblogs.com/n/739369/"/>
+        <updated>2023-04-02T16:23:03.000Z</updated>
+        <summary type="html"><![CDATA[明敏萧箫发自凹非寺 量子位公众号 QbitAI 三星引入 ChatGPT 不到 20 天，就发生 3 起数据外泄事件？！ 其中 2 次和半导体设备有关，1 次和内部会议有关。 消息一经释出马上引发各界热议，尤其是韩国方面。韩版《经济学人》的文章中直接写道：这导致半导体设备测量资料、产品良率原封不动传
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稚晖君自制全新机器人「哪吒」，预告创业发布会！]]></title>
+        <id>https://news.cnblogs.com/n/739368/</id>
+        <link href="https://news.cnblogs.com/n/739368/"/>
+        <updated>2023-04-02T16:20:34.000Z</updated>
+        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 他来了，他来了！ B 站野生钢铁侠（稚晖君），带着他全新双足机器人——哪吒，终于露面了！ 用稚晖君自己的话来评价，就是“赛博机械”和“国风神话”的组合。 例如大家熟悉的“火尖枪”、“混天绫”和“风火轮”： 而不同于大家已经看过的波士顿动力双足机器人、各式轮
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东也一拆多！“京东系”有望收获8家上市公司]]></title>
+        <id>https://news.cnblogs.com/n/739367/</id>
+        <link href="https://news.cnblogs.com/n/739367/"/>
+        <updated>2023-04-02T16:10:30.000Z</updated>
+        <summary type="html"><![CDATA[巨头们纷纷拆分自己为哪般？ 作者武丽娟、刘钦文 编辑丨武丽娟 来源野马财经 互联网巨头们近日可谓动作不断。 这边阿里刚刚分拆六大部门，计划“成熟一个、上市一个”，另一边的京东已经付诸行动，3 月 30 日晚上，京东集团发公告表示，计划分拆旗下京东产发、京东工业上市。随后便火速向港交所递交了《招股书》
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[营收缩水，连亏多年，奈雪的茶不Nice]]></title>
+        <id>https://news.cnblogs.com/n/739366/</id>
+        <link href="https://news.cnblogs.com/n/739366/"/>
+        <updated>2023-04-02T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[雷达财经出品文孟帅编深海 身为国内首家也是目前唯一一家登陆资本市场的新式茶饮品牌，奈雪的茶于 3 月 30 日交出了自己过去一年的成绩单。 然而，登陆资本市场尚不足两年，奈雪的茶便已遇上营收下滑的情况。若与还未登陆资本市场的蜜雪冰城百亿级别以上的营收规模相比，奈雪的茶更是存在着不小的差距。 营收规模
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[细胞衰老可能与基因表达错误率上升有关]]></title>
+        <id>https://www.solidot.org/story?sid=74560</id>
+        <link href="https://www.solidot.org/story?sid=74560"/>
+        <updated>2023-04-02T15:17:43.000Z</updated>
+        <summary type="html"><![CDATA[美国研究人员发现，细胞内部基因表达的错误率越来越高，无法正常合成蛋白质，可能是细胞停止分裂、陷入衰老状态的原因。这项成果有望为研发抗衰老药物提供新靶点。在基因表达的过程中，DNA 序列转录产生 RNA，随后以 RNA 为模板合成蛋白质，执行具体生理功能。此前对酵母和蠕虫的研究显示，衰老细胞里基因表达的保真度严重下降。为了确定人类细胞是否有同样特征，研究小组用来自人类胚胎的肺部细胞进行体外培养，促使它们快速分裂以模拟衰老过程，使这些细胞在三个月后就陷入衰老。基因测序显示，这些衰老细胞里基因转录为 RNA 的错误率很高，大量转录产物的长度过短，它们很可能无法正常翻译成蛋白质，或者合成的蛋白质不正常。研究还发现，老龄小鼠的肝细胞也存在类似的状况。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音乐家坂本龙一去世]]></title>
+        <id>https://www.solidot.org/story?sid=74559</id>
+        <link href="https://www.solidot.org/story?sid=74559"/>
+        <updated>2023-04-02T15:02:43.000Z</updated>
+        <summary type="html"><![CDATA[著名音乐家坂本龙一因病去世，享年 71 岁。坂本龙一于 3 月 28 日在医院去世，他逝世的消息 4 月 2 日才传出。他曾先后诊断罹患咽喉癌和直肠癌。他在 1987 年因在《末代皇帝》中的配乐而获得奥斯卡最佳原创配乐奖，他最成功的电影作曲作品包括《末代皇帝》（1987）、《遮蔽的天空》（1990）、《小活佛》（1993）和《神鬼猎人》（2015）等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧金山面临税收大幅减少的困境]]></title>
+        <id>https://www.solidot.org/story?sid=74558</id>
+        <link href="https://www.solidot.org/story?sid=74558"/>
+        <updated>2023-04-02T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[旧金山曾以房价高昂著称，在新冠前市区是该市生金蛋的鹅。七成的工作岗位来自在市区租办公室的企业，它们创造了近八成的经济产出。但在新冠之后，企业员工并没有全都回来。2023 年一季度旧金山写字楼空置率创下了 29.4% 的历史新高。这一趋势短时间内不会结束。旧金山近 30% 的新增就业职位是混合办公或远程办公，在美国 50 大城市中高居第一。员工们多在家里办公而不是乘坐交通工具或驾车前往市区，这意味着税收的大幅减少。旧金山政府估计未来两个财年将出现 7.28 亿美元的财政赤字。怎么办？一种解决方法是将闲置的写字楼改造成住宅楼，希望员工们尽可能住在市区而不是郊外。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为为什么要守住“不造车”底线？]]></title>
+        <id>https://news.cnblogs.com/n/739365/</id>
+        <link href="https://news.cnblogs.com/n/739365/"/>
+        <updated>2023-04-02T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[智选车模式被认为是华为亲自下场造车的信号，这影响了华为作为汽车增量零部件供应商的定位 文顾翎羽 编辑谢丽容 3 月 31 日，华为再次就汽车业务发出董事会决策公告，公告由华为创始人、董事长任正非署名发出，再次强调“华为不造车”，“有效期 5 年”。并表示将严格管理华为品牌滥用。理解华为此时重申不造车
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔚来李斌：蔚来手机将于三季度发布和交付]]></title>
+        <id>https://news.cnblogs.com/n/739364/</id>
+        <link href="https://news.cnblogs.com/n/739364/"/>
+        <updated>2023-04-02T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Tech 星球 4 月 1 日消息，蔚来汽车创始人、董事长李斌今日透露，蔚来手机将于今年三季度发布，并实现交付。 值得一提的是，此前网上流传一组图片，疑似蔚来手机外观曝光，从图片上看有两种设计方案，一种是居中竖排三摄镜头模组。 另一种是环形六摄镜头模组，机身看起来比较细长，左上角有三个金属触点，感觉
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电商价格战：淘宝舞剑，意在何处？]]></title>
+        <id>https://news.cnblogs.com/n/739363/</id>
+        <link href="https://news.cnblogs.com/n/739363/"/>
+        <updated>2023-04-02T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[「核心提示」 “补贴”是赢得电商价格战的好策略吗？各大平台到底在拼什么？ 作者 周可 编辑 刘杨 假设有这样一个行业，竞争者不多，差不多一只手就能数过来，身处其中的企业最常见的互动方式是什么？美国经济学家布鲁斯·格林沃尔德给出的答案是：价格竞争。 他认为，数量有限的企业之间价格竞争的核心是：尽管合作
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT科研神器：论文翻译润色一键搞定，还能帮你读代码]]></title>
+        <id>https://news.cnblogs.com/n/739362/</id>
+        <link href="https://news.cnblogs.com/n/739362/"/>
+        <updated>2023-04-02T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[鱼羊发自凹非寺 量子位公众号 QbitAI 用 ChatGPT 正经搞科研，现在有更方便的工具啦。 不仅自带中英文翻译能力，能一键帮你写摘要。 一键分析润色文章。 甚至一整个项目的代码，都能直接扔进去让 ChatGPT 帮你读，再也不怕老哥们不写注释了…… 这个全新科研神器，名叫 ChatGPT 学
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一夜蹿红！又一款中国出海App冲进美国下载榜前10]]></title>
+        <id>https://news.cnblogs.com/n/739361/</id>
+        <link href="https://news.cnblogs.com/n/739361/"/>
+        <updated>2023-04-02T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[本周，一款叫“Lemon8”的软件突然闯入了美国网友的视野。这款此前似乎默默无闻的 App 现在排在美国区下载榜 TOP10，甚至超过了 Facebook 和 YouTube 等老牌应用。 ↑图片来源：Lemon8 官网 从图文展现形式看，Lemon8 很像美国人熟悉的 Instagram，但从内容
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里再无“百年阿里”！]]></title>
+        <id>https://news.cnblogs.com/n/739360/</id>
+        <link href="https://news.cnblogs.com/n/739360/"/>
+        <updated>2023-04-02T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[引：阿里 P8 及以下新员工入职会集体出差到杭州总部参加一个为期 10 天的“百年阿里”培训，简称“百阿”。 互联网坊间八卦从阿里多位员工处获悉。举办了 2145 期的“百年阿里”培训将于今日正式终止，从此阿里再无“百年阿里”业务。 今天，借一位阿里同学的经历，给大家带来一些不一样视角下的“百年阿里
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35岁，MIT终身教授，36岁，当选院士！四院院士，再发Nature！]]></title>
+        <id>https://news.cnblogs.com/n/739359/</id>
+        <link href="https://news.cnblogs.com/n/739359/"/>
+        <updated>2023-04-02T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[人工智能 AlphaFold 重塑细菌注射器，助力蛋白质递送 想象一下，如果能将特定蛋白质输送到特定细胞类型，例如将 DNA 切割酶和一条短 RNA 链递送到基因组的特定区域，将为基因治疗、癌症治疗以及生命科学研究提供巨大潜力。但是如何实现这一功能呢? 内生细菌已经进化出复杂的传递系统，使这些生物体
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[收益减少，B站UP主发起停更潮]]></title>
+        <id>https://news.cnblogs.com/n/739357/</id>
+        <link href="https://news.cnblogs.com/n/739357/"/>
+        <updated>2023-04-02T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，不少B站用户发现很多自己关注许久的 UP 主，发布了暂时停止更新的视频，表示短期内不会再上传新的内容。多位 UP 主密集地公开宣布暂停更新并不多见。停更原因方面，大部分 UP 主均表示，平台收益减少、收支难以平衡是停止更新的主要原因。“B站的奖励机制今年进行了很大调整。”一位在B站拥有数万粉丝
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛力斯许林：赛力斯与华为的合作模式与“华为造车”是两回事]]></title>
+        <id>https://news.cnblogs.com/n/739356/</id>
+        <link href="https://news.cnblogs.com/n/739356/"/>
+        <updated>2023-04-02T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[财联社 4 月 2 日电，赛力斯集团 CTO，赛力斯汽车（轮值）总裁许林今日在 2023 中国电动汽车百人会上表示，赛力斯与华为的合作，双方的品牌叫做“AITO 问界”，合作模式是真正由赛力斯主导，华为高度赋能的联合设计、联合开发、联合质量控制、联合营销，这一模式与“华为造车”是两回事，华为确实“没
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[意大利因隐私问题禁用 ChatGPT]]></title>
         <id>https://news.cnblogs.com/n/739346/</id>
@@ -9876,256 +10126,6 @@ T 沙龙新官网（www.tsalon.tech）上线啦，欢迎大家关注！
         <link href="https://www.solidot.org/story?sid=74298"/>
         <updated>2023-03-04T13:13:39.000Z</updated>
         <summary type="html"><![CDATA[WSJ 援引知情人士的消息报道，富士康计划扩大印度投资，在印的现有工厂扩大生产 iPhone。富士康的目标是到 2024 年将当地 iPhone 年产量提高到约 2,000 万部，并将工人的数量增加两倍，达到 10 万人。富士康还计划在印度其它城市建造新的生产设施，用于生产包括 iPhone 在内的产品。此举旨在寻求在中国之外进一步实现多元化。富士康目前最大的生产基地位于郑州，雇佣了逾二十万名员工。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌开源 Service Weaver，编写分布式应用程序的框架]]></title>
-        <id>https://news.cnblogs.com/n/737667/</id>
-        <link href="https://news.cnblogs.com/n/737667/"/>
-        <updated>2023-03-04T08:06:00.000Z</updated>
-        <summary type="html"><![CDATA[谷歌宣布在 Apache 2.0 许可下开源 Service Weaver，一个用于构建和部署分布式应用程序的框架；允许用户将应用程序编写为模块化单体，并将其部署为一组微服务。目前，该项目尚处于早期开发阶段。 Service Weaver 由两个核心部分组成： 一组编程库，可让用户将应用程序编写为单
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“二李”分道扬镳，理想和蔚来正驶向不同的终点]]></title>
-        <id>https://news.cnblogs.com/n/737666/</id>
-        <link href="https://news.cnblogs.com/n/737666/"/>
-        <updated>2023-03-04T04:12:00.000Z</updated>
-        <summary type="html"><![CDATA[李想说，在他还是蔚来董事的时候，他也认可，换电是最接近加油的体验。蔚来先到先得，当李想准备决定造车时，他是不会选择再去复制昔日队友的路线。 李斌与李想造车初期，都聚焦一个问题：解决里程焦虑。 最终理想选择了增程，通过大电池+加油的方式，解决不同场景的里程焦虑。 李想当时不做换电的原因还有一个：换电太
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理想汽车李想：降价可能不会带来销量，但可以打击对手]]></title>
-        <id>https://news.cnblogs.com/n/737665/</id>
-        <link href="https://news.cnblogs.com/n/737665/"/>
-        <updated>2023-03-04T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[作者/武子晔 300 多家造车新势力中可能只有1% 在品牌上是合格的。 “降价可能不能带来销量，但可以打击对手。”3 月 2 日，理想汽车 CEO 李想对记者表示，头部两家企业（特斯拉和比亚迪）都在打价格战，今年整个行业压力很大。 今年初，特斯拉开始大幅降价，随后多家车企跟随降价。理想汽车 CFO 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉未来要狂暴降价，而且还想靠降价改变世界？]]></title>
-        <id>https://news.cnblogs.com/n/737664/</id>
-        <link href="https://news.cnblogs.com/n/737664/"/>
-        <updated>2023-03-04T03:50:00.000Z</updated>
-        <summary type="html"><![CDATA[今天，准确的说是昨天的凌晨，特斯拉在德州的超级工厂举办了第一届投资者日（ Investor Day ）。 五点开始，快九点结束，脖子哥也是起了个大早看完了。 此前炒的沸沸扬扬的，说会在活动上亮相的入门级车型 Model Q/2 、 HW4.0 硬件上车和特斯拉手机，果然毫无例外，大伙想要的一个都没出
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浪潮信息跌停，封单近90万，股民热议！最近一个月市值暴涨215亿]]></title>
-        <id>https://news.cnblogs.com/n/737663/</id>
-        <link href="https://news.cnblogs.com/n/737663/"/>
-        <updated>2023-03-04T03:42:00.000Z</updated>
-        <summary type="html"><![CDATA[3 月 3 日，身为山东计算机领域“扛把子”的浪潮信息迎来跌停，且消息登上热搜后引发热议。对此，有股民表示，“我一个同事昨天刚追进去，不到一天亏损 3 万，难受的中午没吃饭”、“小浪这是把船都打翻了，鱼呢”、“看这架势，得几个跌停板才能恢复正常啊”。 截至当日收盘，浪潮信息依旧未能打开跌停板，报 3
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克再送俄罗斯人上太空，SpaceX完成空间站对接]]></title>
-        <id>https://news.cnblogs.com/n/737662/</id>
-        <link href="https://news.cnblogs.com/n/737662/"/>
-        <updated>2023-03-04T03:38:00.000Z</updated>
-        <summary type="html"><![CDATA[出品｜虎嗅科技组 作者｜齐健 编辑｜陈伊凡 头图｜NASA 美国东部时间 3 月 2 日凌晨 00:34（北京时间 3 月 2 日 13:34），SpaceX 的猎鹰 9 号（Falcon 9）运载火箭从佛罗里达州 NASA 肯尼迪航天中心的 39A 发射台轰鸣而出，载着同样由 SpaceX 制造的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实探|小鹏汽车欲靠P7“回血”：老款清库再降3.5万、新款车型下周上市]]></title>
-        <id>https://news.cnblogs.com/n/737661/</id>
-        <link href="https://news.cnblogs.com/n/737661/"/>
-        <updated>2023-03-04T03:33:00.000Z</updated>
-        <summary type="html"><![CDATA[以老款小鹏 P7 625E 为例，指导价为 24.99 万元，现在提车可享受 1 万元现金优惠和 7000 元保险补贴。 财联社 3 月 3 日讯（记者张屹鹏）小鹏汽车销量的低迷状态已持续近半年，此时“换新”的小鹏 P7 意义重大。 3 月 1 日，小鹏汽车公布 2 月交付数据，单月完成交付6,01
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股周五：三大股指全线上涨，苹果涨逾3%，新东方涨超6%]]></title>
-        <id>https://news.cnblogs.com/n/737660/</id>
-        <link href="https://news.cnblogs.com/n/737660/"/>
-        <updated>2023-03-04T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[3 月 4 日消息，美国时间周五，美股收盘主要股指全线大幅上涨，本周均录得涨幅。最新数据显示，尽管美联储上调了基准利率，但美国经济仍显示出韧性。 道琼斯指数收于 33390.97 点，上涨 387.40 点，涨幅 1.17%；标准普尔 500 指数收于 4045.64 点，涨幅 1.61%；纳斯达克
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从网约车到“跑腿”，货拉拉甩不掉“差评”]]></title>
-        <id>https://news.cnblogs.com/n/737659/</id>
-        <link href="https://news.cnblogs.com/n/737659/"/>
-        <updated>2023-03-04T03:25:00.000Z</updated>
-        <summary type="html"><![CDATA[想分新蛋糕，不容易 撰文/黎炫岐 编辑/文婕 时值三月，货拉拉再度寻找新的“增长点”。 据界面新闻此前报道，货拉拉将于近日正式入局同城跑腿业务，并将在 3 月正式开放骑手线上注册，届时将根据人气和线上骑手注册情况选择落地城市，于 4 月正式开放服务和骑手接单。 而在首次尝试两轮业务之前，货拉拉也曾在
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用抖音点外卖到底方不方便？我们体验了一下]]></title>
-        <id>https://news.cnblogs.com/n/737658/</id>
-        <link href="https://news.cnblogs.com/n/737658/"/>
-        <updated>2023-03-04T03:18:00.000Z</updated>
-        <summary type="html"><![CDATA[临近饭点想点外卖，除了饿了么和美团，现在消费者多了一个新的渠道--抖音。自从抖音宣布入局外卖开始，就一直备受关注。它像一条鲶鱼搅乱了原先外卖行业相对稳固的局势。 和美团、饿了么相比，抖音拥有惊人的流量和日活粘性，在内容种草的攻势下，越来越多消费者已经认可了抖音消费的形式。于消费者来说，新的入局者意味
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞幸的战火烧向上游]]></title>
-        <id>https://news.cnblogs.com/n/737657/</id>
-        <link href="https://news.cnblogs.com/n/737657/"/>
-        <updated>2023-03-04T03:12:00.000Z</updated>
-        <summary type="html"><![CDATA[出品｜虎嗅商业消费组 作者｜苗正卿 题图｜视觉中国 3 月 2 日晚，瑞幸咖啡（下称“瑞幸”）公布了 2022 年四季度及 2022 年财报。据财报数据，2022 年瑞幸总净收入为 132.93 亿元，同比增长 66.9%；美国会计准则下全年营业利润 11.56 亿元，营业利润率 8.7%。这是瑞幸
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊宣布4月1日关闭8家Amazon Go无人便利店]]></title>
-        <id>https://news.cnblogs.com/n/737656/</id>
-        <link href="https://news.cnblogs.com/n/737656/"/>
-        <updated>2023-03-04T03:05:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 3 月 4 日消息，根据国外科技媒体 GeekWire 报道，亚马逊宣布关闭 8 家 Amazon Go 无人便利店。这些便利店最初于 2016 年面向亚马逊员工开放，并于 2018 年正式商业化。 即将关闭的八家门店位于西雅图、纽约市和旧金山。报道称 2 家位于西雅图的 Amazon 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技公司当集成商，谁赚了ChatGPT商业化的钱]]></title>
-        <id>https://news.cnblogs.com/n/737655/</id>
-        <link href="https://news.cnblogs.com/n/737655/"/>
-        <updated>2023-03-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3 月 4 日消息，美国 AI 研究公司 OpenAI 推出的智能聊天工具 ChatGPT 在全球范围内掀起了所谓的生成式 AI（AIGC）热潮，它已经被集成到社交、电邮以及教育等诸多应用中。那么，在 OpenAI 及其 ChatGPT 客户之间，到底谁从中赚走了大部分收入？ 美国软件服务公司 No
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中通快递回应做空！灰熊称其股价存在50%下行空间，老板身家427亿]]></title>
-        <id>https://news.cnblogs.com/n/737654/</id>
-        <link href="https://news.cnblogs.com/n/737654/"/>
-        <updated>2023-03-04T02:52:00.000Z</updated>
-        <summary type="html"><![CDATA[面对来势汹汹的做空机构灰熊，3 月 3 日午间，中通快递发布公告表态，报告并无依据，不仅包含许多错误、无根据的推测和误导性结论，亦缺乏对中通快递业务模式及财务报告结构的基本了解，以及对公开文件的全面解读。 当地时间 3 月 2 日，灰熊发布了一篇名为《中通快递：中国“一流”的物流公司“最佳表演”：我
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌高管回应员工质疑：Bard不仅仅用于搜索 正探索协作式AI服务]]></title>
-        <id>https://news.cnblogs.com/n/737653/</id>
-        <link href="https://news.cnblogs.com/n/737653/"/>
-        <updated>2023-03-04T02:46:00.000Z</updated>
-        <summary type="html"><![CDATA[3 月 4 日消息，在将聊天机器人 Bard 作为主要用于搜索的 AI 服务推出后，谷歌似乎正在偏离初衷，没有提供任何具体的用例。在最近举行的全体员工会议上，该公司高管辩称，Bard 不仅仅用于搜索，他们正探索构建一种协作式 AI 服务。 在此次全体会议上，高管们回答了员工在公司内部论坛 Dory 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本田CEO称要用新电池技术降低电动汽车成本]]></title>
-        <id>https://news.cnblogs.com/n/737652/</id>
-        <link href="https://news.cnblogs.com/n/737652/"/>
-        <updated>2023-03-04T02:40:00.000Z</updated>
-        <summary type="html"><![CDATA[3 月 4 日消息，本田即将上任的首席执行官三部敏宏表示，计划利用新的电池技术来降低成本，开发更经济的小型电动汽车。 在此之前，本田将继续销售价格更高、体积更大的电动汽车。但三部敏宏承认，由于电动汽车市场不稳定，很难制定计划。 本周，三部敏宏在美国俄亥俄州参加一个耗资 44 亿美元新锂离子电池厂的动
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比ChatGPT更早发布的微信大语言模型，现在什么水平？]]></title>
-        <id>https://news.cnblogs.com/n/737651/</id>
-        <link href="https://news.cnblogs.com/n/737651/"/>
-        <updated>2023-03-04T02:35:00.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT 的出现让 AI 技术一跃成为了科技圈的当红炸子鸡。 几乎万能的 ChatGPT 让写邮件、拟合同等重复性工作失去了意义，对于写代码、写小说、写 PPT 等工作它更是信手拈来。 但讨论 ChatGPT 能做什么、能取代些什么等话题已经过时了，现在人们更想要知道下一个「ChatGPT」在
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克的脑机接口迎人体试验审批关键节点]]></title>
-        <id>https://news.cnblogs.com/n/737650/</id>
-        <link href="https://news.cnblogs.com/n/737650/"/>
-        <updated>2023-03-04T02:27:00.000Z</updated>
-        <summary type="html"><![CDATA[马斯克的脑机接口公司 Neuralink 正在迎来人体试验审批的关键节点。根据该公司去年秋天披露的一份文件，预计美国 FDA 将在 2023 年 3 月 7 日之前对其脑机接口产品能否进入人体试验做出决定。 马斯克曾表示，Neuralink 将可以实现瘫痪者行走、让盲人看见，并最终实现“人机共生体”
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄牛捶地哭！Meta下调VR设备定价 旗舰机售价骤降三分之一]]></title>
-        <id>https://news.cnblogs.com/n/737649/</id>
-        <link href="https://news.cnblogs.com/n/737649/"/>
-        <updated>2023-03-04T02:22:00.000Z</updated>
-        <summary type="html"><![CDATA[相较于进入产品生命周期末段的 Meta Quest 2，上市仅半年的 Quest Pro 便永久大幅下调售价，足以说明产品本身的定位问题。 财联社 3 月 4 日讯（编辑史正丞）当地时间周五，元宇宙概念股 Meta 在官网发布公告称，调整旗下两款 VR 头戴式设备的售价。其中 256GB 版本的 M
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B站亏损75亿背后：分成不光给了UP主，3.4亿元的遣散费结得“很爽快”]]></title>
-        <id>https://news.cnblogs.com/n/737648/</id>
-        <link href="https://news.cnblogs.com/n/737648/"/>
-        <updated>2023-03-04T02:17:00.000Z</updated>
-        <summary type="html"><![CDATA[“对B站来说，今年我们的关注点会是增收减亏和追求健康的用户增长。”在财报电话会上，哔哩哔哩董事长兼 CEO 陈睿表示，“预计 2023 年公司的整体亏损将有更明显的收窄，2024 年达到盈亏平衡的目标。” 至于B站到底要怎样增收减亏，怎样追求用户增长，陈睿如何完成公司目标，从 2022 年的这份财报
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗将视频游戏作为宣传工具]]></title>
-        <id>https://www.solidot.org/story?sid=74297</id>
-        <link href="https://www.solidot.org/story?sid=74297"/>
-        <updated>2023-03-03T15:41:13.000Z</updated>
-        <summary type="html"><![CDATA[伊朗伊斯兰革命卫队准军事组织 Basij 的一个分支 Monadian Media 制作了一款第一人称射击游戏去宣传 2020 年被美国通过无人机杀死的 Qasem Soleimani 将军。《Commander of the Resistance: Amerli Battle》以被伊斯兰国占领的伊拉克城镇为背景，讲述了 2014 年 Soleimani 将军率领部队攻打伊斯兰国武装分子。Soleimani 被伊朗视为英雄，但被美国视为是恐怖分子，被控在伊朗、伊拉克和叙利亚等地有人权侵犯和法外处决行为。伊朗的游戏行业在本世纪初一度相当繁荣，但其黄金时代在 2011 年结束。EA 发行的游戏《战地3》有部分场景是发生在伊朗，且伊朗人是反派，此事恶化了伊朗和西方之间的关系，政府将销售和购买《战地3》视为犯罪行为，此后游戏开发商想要获得游戏发行许可变得日益困难。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客的新后门程序利用了 MQTT 协议]]></title>
-        <id>https://www.solidot.org/story?sid=74296</id>
-        <link href="https://www.solidot.org/story?sid=74296"/>
-        <updated>2023-03-03T15:17:48.000Z</updated>
-        <summary type="html"><![CDATA[安全公司 ESET 报告，黑客组织 Mustang Panda aka TA416 和 Bronze President 部署了一种新的后门程序 MQsTTang。恶意程序主要通过钓鱼邮件传播，通过一个 GitHub 软件库下载负荷，它会在注册表增加一个启动时运行的注册表项去实现持久存在。为了躲避监测它利用了 MQTT 协议去进行指令通信。MQsTTang 还会检查主机上是否存在调试器或监控工具，如果有发现，它会相应的改变行为。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国人文教育的衰落]]></title>
-        <id>https://www.solidot.org/story?sid=74295</id>
-        <link href="https://www.solidot.org/story?sid=74295"/>
-        <updated>2023-03-03T14:44:09.000Z</updated>
-        <summary type="html"><![CDATA[危机以迅雷不及掩耳之势到来，一开始没人辨别出其规模。从 2012 年到新冠疫情之初，亚利桑那州立大学英语专业的学生人数从 953 人减少到 578 人。语言和文学专业毕业生人数减少约一半，历史专业也是如此。女性研究损失八成。一位痴迷于意大利语及其文学的大四学生主修的是商学，一位热爱写作的大四学生也没有主修英文专业而是 STEM 类别中的数据科学。亚利桑那州立大学并非特例。美国艺术与科学学院人文指标项目收集的数据显示，从 2012 到 2020 年俄亥俄州立大学人文专业毕业生减少了 46%，塔夫茨大学减少了近半，波士顿大学减少 42%...过去十年大学水平的英文和历史专业学生人数下降了三分之一，美国人文专业入学率总体下降了 17%。这也是一个世界趋势，经合组织八成的国家报告过去十年人文专业入学率下降。什么导致了这一切？这一代大学生所受到的人文教育比过去任何一代都少，这意味着什么？美国大学人文专业的入学人数通常随着经济繁荣而上升，随着衰退而下降。但过去十年的情况违背了这一趋势，经济繁荣但就读人数持续下降，如今更是自由落体。相比之下，计算机科学等专业的学生人数则在大幅增加。一位英文教授认为，一个原因是技术改变了我们的生活，智能手机让我们可以随时访问信息，以前你可以每月读五本小说，如今可能只有一本，不是因为你对小说失去了兴趣，而是因为注意力被分散到各种事情上，如网站和播客等。另一个原因是美国对人文教育的财政支持减少了。这位教授说，民主和人文教育的资助一同衰落。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
