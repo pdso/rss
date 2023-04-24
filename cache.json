@@ -59,6 +59,46 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/79220",
+          "author": "车不能快",
+          "description": "本文仅代表个人观点，用于记录和观望一些键盘。\n色卡请以实物为主，热升华会产生偏差。\n个人评分部分为主观部分，会根据厂家状态、设计、以及个人喜好权重评分，仅供参考。\n\n键帽\nDomikey\n从去年六月开始预告的CAD，终于在近日成功落地!\n\nRetro: ND REDRAW cad-Ver丨复古：不重画  cad版本 \n\n真不想再画了\n\n这款键帽是由INKY工作室的设计师耳机狐设计的一款软件主题键帽，灵感来源于作图工具CAD。\n「主题表达复古感为主，cad元素为辅，加以画图狗日常工作梗进行调节」\n配色：\n\n使用浅灰色和淡黄白色作为键帽的基底颜色，搭配黑色字符，并辅以深绿色、浅绿色、淡黄色、明黄色、橙黄色和橙色作为字根点缀增添明亮感，整体基调看似复古，实则颇具现代风，清新自然，活力四射，同时整体对比强烈，字根效果突出。\n个性部分：\n\n这套键帽的个性主要集中在键帽的字根位置，做了一些快捷键和玩梗，图案个性中，最为瞩目的非生气猫猫头莫属。\n树脂个性：\n\n树脂个性由榔头制作，趣味横生的生气猫猫头。\n\n实拍展示：\n夏木\n\n青空\n\n狼桃四顾\n\n桭雨JunW\n\n键帽信息：\n材质：PBT材质\n高度：原厂高度\n工艺：热升华键帽\n个人评分：7—9\n复古基调，但不老气，绿色大键的点缀使得整体活力四射，生气猫猫头精髓所在，不过有一点还是比较可惜，如果字体部分也能进行主题适配就更好了，沿用DMK的原生字体在这套键帽上，还是有点出戏。\n购买建议：500套现货已售罄\n基底复古灰白还是很百搭的，搭配奶白、银都是不错的选择。\nGMK\n老团购陆陆续续出货，不知道后续的产品能否加速产出。\nBlot 血祭\n\n歃血为誓\n\n这款键帽是由设计师MANU设计的键帽，灵感来自于北欧的血祭仪式。该设计师此前还设计过DMK橡皮。\n「在血的氤氲中，结下誓言。」\n配色：\n\n这是一套纯色键帽，选用了一种具有明显酒红色特征的红色，可以说…",
+          "link": "https://sspai.com/post/79220",
+          "publishedOn": "2023-04-22T14:39:19.000Z",
+          "wordCount": 693,
+          "title": "「客制化键盘丨购买观望」复古风潮和几款二创以及能定制的侧刻键帽",
+          "imageUrl": "https://cdn.sspai.com/2023/04/22/05649b4cc946358f0a9ec3bbdc668858.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/79413",
+          "author": "奕口大锅天上来",
+          "description": "对于每个DIYer来说，至少都有一段时间会对ITX装机特别发烧，在多方了解后又逐渐退烧的经历。不管是因为价格还是性能释放，ITX装机确实有不少硬伤问题无法解决，而且整体组件的购入成本又比其他设备高了不是一星半点。差不多17年底的时候，笔者就想着能不能搞下紧凑型MATX装机，但当时的那些机箱设计不行、价格又贵、材料还是亚克力，最终就没有下手。到了去年在B站看到不少机械大师C26/28的装机视频。想着后面可以照猫画虎搞一台，年初的时候研究了了机箱的规格，发现都很符合之前的装机想法，空间利用率也基本压到了极限。\n\n说实话之前已经装机装到厌烦了，而这次装机让我获得了久违的快乐和痛苦。要是您以前要是没装过机，之前不熟悉的话，这样环环相扣地选型确实头大。相信这篇文章能帮您解惑，来对紧凑型装机有个完整的认识，欢迎先点个收藏，我们直接开始吧！\n\n本篇文章中您将看到：\n● 机械大师C+Max这类紧凑型机箱装机流程\n● 紧凑型装机的组件选型原则与总结\n● 一些可能会踩的坑\n● 性能与游戏测试\n1.按下葫芦起了瓢的配件选择与装机过程\n确认好机箱之后，得按机箱限制来选择组件。根据侧板限高162mm能够确认风冷的规格，如果是水冷的话则需要注意内存的高度，根据机箱限长来确认显卡长度，进而确认电源深度。按照之前测试i5-13600K拷机情况，基本就确认了需要一个高度162mm以下的六热管双塔（大塔）的风冷散热器。\n\n装机的第一步是拆机，机械大师有个绰号叫螺丝大师，拆解过程发现所言不假。不过整体的螺丝规格都很统一，而且配了单独一套螺丝装盒备用，所以除了手累点之外都还好。如果手里有手电钻或者高扭矩的电动螺丝刀的话，能省不少力气。为了电源与风扇的，得把机箱拆到这么散，得拆一大把螺丝下来。\n\n可以看到前侧全都是螺丝孔：有上侧和前侧外板的固定孔位，有电源支架的固定孔位，有提手的固定孔位。还好螺丝的规格比较少，基本…",
+          "link": "https://sspai.com/post/79413",
+          "publishedOn": "2023-04-22T08:36:32.000Z",
+          "wordCount": 652,
+          "title": "装完两台紧凑型主机，我觉得你也可以尝试一下",
+          "imageUrl": "https://cdn.sspai.com/2023/04/22/ff056d67736346d14ce1a6b15eb9c8c8.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/79400",
+          "author": "lvwzhen",
+          "description": "刚刚把中国法律法规的数据喂给 ChatGPT ，做了一个「中国法律 AI 助手」，欢迎大家来玩👇🏻\nhttps://law-cn-ai.vercel.app",
+          "link": "https://sspai.com/post/79400",
+          "publishedOn": "2023-04-21T12:08:10.000Z",
+          "wordCount": 637,
+          "title": "用 ChatGPT 做了一个 「中国法律 AI 助手」",
+          "imageUrl": "https://cdn.sspai.com/2023/04/21/4c2e3c086498412b691ea244cc171310.png"
+        },
+        {
+          "id": "https://sspai.com/post/79397",
+          "author": "秋阳",
+          "description": "这是一场无实物表演。\n或许没有人想在 2023 年的今天，买一台 6.55 英寸 1080P 鸭排辣眼屏幕的魅族 20；也或许没有人能在 2023 年的今天，踏踏实实安安心心抢到一台魅族 20 Pro。毕竟，比小米 13 Ultra 还难抢，「有种你拿货来卖啊」！\n啊，领克 08 还没开卖啊，那没事了。\n但没事，我还有 Music card (M3)，MX4，PRO 6 和 16。\n其实到了发布会当天，我已经忙到完全忘记了还有魅族的发布会，突然想起来打开直播间之后，我得到了卡到我头疼的直播画面。\n去和朋友聊了聊，他回答我：「去看领克汽车直播间」。\n啊，确实，流畅了，Anyway。\n我熟悉的那一抹「蓝色」消失了\n我熟悉的那一抹蓝色消失了，物理上的。\n那天的我有些失语。\n第一件事是换 Logo 就和新王朝诞生第一件事是换年号一样。魅族 Logo 高度可读的无衬线字体，Flyme 轻盈的气球意象，还有那抹蓝色，那抹梦想的蓝色是魅族最重要的品牌资产。\n那抹蓝色是最重要的。\n在魅族抛弃这抹蓝色之后，它的内核就已经变了。\n感谢热评网友的嘴替，「无魅友，不魅族」\n沈子瑜讲车明显比讲手机清晰且富有激情。\n我不知道有多少魅友忍着无奈与愤怒看完了那场发布会直播。抱歉我并没忍住，无数次出现的卡顿挑战着我的生理极限，所以我是在之后回顾的重播。但是流畅的视频和我如潮水般涌出的困惑不止该去向何处。整场发布会洋溢着的都是对品牌的傲慢和对产品的无知，甚至不知道自己家（现在应该算是自己家了）的智能家居品牌念 Lipro [‘laɪprəʊ]。\n我不想聊 Flyme。\nFlyme 确实吸引我。即使完全没有 Flyme 10 只有 Flyme 9，也依旧是我心中最出色的 Android 定制系统，「因为优雅永不过时」。而事实上，似乎如果 Flyme 10 把 Auto 部分扔出去，确实和只有 Flyme 9 没…",
+          "link": "https://sspai.com/post/79397",
+          "publishedOn": "2023-04-21T08:56:34.000Z",
+          "wordCount": 808,
+          "title": "浅聊魅族 20：「雪上空留马行处」",
+          "imageUrl": "https://cdn.sspai.com/2023/04/21/ad2ba8db4b5bf735d4720de7db12bcd6.png"
+        },
+        {
           "id": "https://sspai.com/post/79388",
           "author": "LOSSES",
           "description": "在过去的几年里，「人工智能」技术可以说是赚足了人们的眼球，它已经从简单的「三七分类」跃然成为了能够匹敌人类的专业画师、文字工作者。由人工智能生成出来的作品，能够在专业的绘画比赛当中拔得头筹，能在摄影比赛中击败「真实的影像」，也能通过甚至人类都很难完成的医师和律师职业能力评定。有些人为此感到兴奋，也有些人为此感到恐慌。我们正在见证另外一个历史的转折点：一个可以像工业革命、印刷机、摄影设备一样，打破社会平衡并带领我们跃入下一个世代的转折点。但我们似乎并没有做好接纳它的准备，毕竟在面对全然未知的事物时，一切的准备都没有「前车」可以用来「借鉴」。\n人工智能技术会让人感到危险和恐慌，其中最重要的原因可能是它「看起来太像人了」。这种相似落入到了恐怖谷曲线当中，尽管在某种程度上它看起来「具有人性」，但又显得有些失真，这种似像非像的形态让许多人感到手足无措。Google 内部曾有数个从事伦理方向的研究人员警告称人工智能似乎「已经具有了意识」，「已经具备直觉能力」，「是有灵魂的」。面对这些警告，工业界和学界则摆出了完全相反的态度，认为它是荒诞的：数学模型怎么可能会具有意识。但数学模型真的没有意识吗？\n当我拿出这个问题与朋友们讨论的时候，在场的工程师们给出的回答非常的一致：「开玩笑，人工智能怎么可能会有意识？」，我又问：「为什么你会觉得它们是没有意识的呢？它们究竟距离产生意识还有多远？」\n人工智能距离成为「硅基生物」究竟还有多远？ \nStable Diffusion 帮我画的一个书签\n我在一年前第一次下载了 Vision of Chaos，打开了 Stable Diffusion 作画工具，并且通过一些看起来模糊不清的描述画出了一些图像。第一次看到那些扭曲的图片时，我产生的第一个想法并不是赞叹，也不是失望，而是一种不寒而栗。它绘制出来的图片虽然没有逻辑但又让我有所共感，那些图像非常像一个处在睡…",
@@ -557,16 +597,6 @@
           "wordCount": 734,
           "title": "我Hack了一个蓝牙墨水屏，还挺好玩",
           "imageUrl": "https://cdn.sspai.com/2023/03/23/bbe8aeee829b1406118a7b2facb3e4bf.png"
-        },
-        {
-          "id": "https://sspai.com/post/79038",
-          "author": "Humanitech",
-          "description": "昨晚，Google 对标 ChatGPT 的竞品 Bard 开放公众预览。得知消息后我连忙申请加入等待名单，跟预想中不同，Google 时隔一个多小时后便发邮件告知我「该试试 Bard 了」，跟前阵子 Bing AI Chat 的内测资格通过速度相比简直一个天上、一个地下。\n\n和 ChatGPT 以及 Bing AI Chat 一样，Bard 的主界面也大致由「输入文本」跟「生成回答」两部分组成，只不过 Bing AI 把清除聊天记录并开启新主题的扫帚按钮放在输入框左栏，而 Google 将其放在了整个左侧栏的子项目上。此外，第一次访问 Bard 时也能看见一段提示：\n\n我是 Bard，您富有创意和和乐于助人的合作者。我有局限性，并不总是对的，但您的反馈将帮助我改进。\n\n简单体验十几分钟后，对我来说，现阶段 Bard 有以下几个优缺点。\n1. 目前并不支持中文指令；\n当我尝试使用中文请求 Bard 帮我介绍一下韩国女子音乐组合 NewJeans 时，Bard 非常快回绝了我，并回复：「作为 LLM 语言模型，我受过训练，目前只能理解和回应一部分语言，无法提供这方面的帮助。如需当前支持的语言列表，请参阅 Bard 帮助中心。」\n\n随后我查看了一下 Bard 的 FAQ 界面，也确认了 Bard 目前只支持英文。也许这也是为什么Bard 只对美国、英国用户率先开放的原因。\n\n值得注意的是，和 Claude 不同，目前 Bard 并不支持将它回复的内容翻译成中文。\n\n2. 提供多个版本的回答\n相比于 ChatGPT 以及 Bing AI 的「言之凿凿」，Bard 就显得谨慎得多。比如当我向它询问 2022 全年 iPhone 的销量并请求它制作成一个表格之后，Bard 给出了几个答案，其中有 2022 年单年销量数据的表格，也有和其他年份的对比。\n\n3. 缺少详细的参考资料标记\n使用过 Bing AI 的朋友应该都对它的参考资料标记印象深刻，与之相比 Bard 就显得有些简陋，只会在页脚标明参考链接，并不会在内容中标记参考部分。根据 The Verge《Google opens early access to its ChatGPT rival Bard — here are our first impressions》报导，目前 Bard 只有直接引用新闻文章等来源时才会出现标记，并且通常在答案上似乎更受限。\n\n简单上手后，我感觉目前 Google 更像是把 Bard 定位成其搜索引擎产品的辅助，比如 Bard 每次生成内容后都会在下方显示「Google It」的按钮，当你点击后便重定向到相关的 Google 搜索界面。——也许是出于对道德隐私指控的担忧，或者只是单纯不想颠覆广告业务的商业模式，无论如何，现阶段的 Bard 给我一种不上不下、蹑手蹑脚的感觉，虽然回复速度比 ChatGPT、Bing AI 略快（恐怕只是因为现阶段用户不多），但在不少时候都出现牛头不对马嘴、一个问题多个答案的情况。\n显然，现阶段的 Bard 处在一个亮点不多、缺陷不少的尴尬处境，相比 ChatGPT、Bing AI 来说也显得食之无味、弃之可惜。希望 Google 能够继续优化 Bard，提高其丰富度和准确性，为 AI Chatbot 领域带来更多令人惊喜的技术突破和产品升级。",
-          "link": "https://sspai.com/post/79038",
-          "publishedOn": "2023-03-24T16:15:56.000Z",
-          "wordCount": 735,
-          "title": "Google Bard 最速上手，这些要点也许是你想了解的",
-          "imageUrl": "https://cdn.sspai.com/2023/03/25/70a99e1e61891b687aac2452190f223b.jpeg"
         }
       ]
     },
@@ -645,6 +675,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74760",
+          "author": null,
+          "description": "微星显卡超频工具 MSI Afterburner 释出了 v4.6.5，上一个版本 v4.6.4 还是在 2021 年 12 月释出的。MSI Afterburner 被用于显卡的监控、超频和降压，新版本加入了对英伟达 RTX 4000 系列和 AMD RX 7000 系列显卡的支持，以及对英特尔 Arc 显卡的部分支持（支持监控不支持超频和调优）。MSI Afterburner 由俄罗斯开发者 Alexey 'Unwinder' Nicolaychuk 开发，今年 1 月他表示因为战争和政治原因，项目半放弃了，微星已经近一年时间没有履行软件的许可协议——即支付开发费用。他说，过去 11 个月 MSI Afterburner 的开发还在继续，但他个人感觉是在一个微星公司不需要的东西上浪费时间，如果有空闲时间他可能会继续支持它，但为了支付账单他需要做其它事情。微星证实，由于俄罗斯对乌克兰的战争，它停止了付款。但对于是否将放弃 MSI Afterburner，微星有不同观点，它有意继续支持该工具，正在研究解决方案。新版本的发布意味着他们找到了解决方案。",
+          "link": "https://www.solidot.org/story?sid=74760",
+          "publishedOn": "2023-04-23T12:44:10.000Z",
+          "wordCount": 185,
+          "title": "MSI Afterburner 时隔一年多发布新版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74759",
+          "author": null,
+          "description": "睡眠障碍可能是阿尔茨海默病的早期征兆。许多最终被诊断为阿尔茨海默氏症的人，在出现记忆力丧失和思维混乱等认知问题之前，就开始出现跌倒和睡眠困难的症状。这是一个恶性循环:阿尔茨海默病涉及到大脑的变化，扰乱睡眠，而睡眠不足会加速大脑的有害变化。圣路易斯华盛顿大学医学院的研究人员已经找到了一种可能的方法来帮助打破这种循环。一项为期两晚的小型研究表明，睡前服用安眠药的人，阿尔茨海默病关键蛋白质的水平有所下降——这是一个好兆头，因为这种蛋白质的水平越高，疾病就越严重。这项研究涉及一种被称为 suvorexant 的助眠药物，这种药物已经被 FDA 批准用于治疗失眠症，它暗示了睡眠药物减缓或阻止阿尔茨海默病进展的潜力，尽管还需要更多的工作来证实这种方法的可行性。",
+          "link": "https://www.solidot.org/story?sid=74759",
+          "publishedOn": "2023-04-23T10:58:40.000Z",
+          "wordCount": 145,
+          "title": "安眠药降低了阿尔茨海默病关键蛋白质水平",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74758",
+          "author": null,
+          "description": "在 Reddit 之后，编程问答社区 Stack Overflow 也将对科技巨头们使用其数据训练 AI 收费。和 Reddit 类似，Stack Overflow 也有着高质量的问答语料库，它有 2000 万注册用户，5000 万问题和答案。Stack Overflow 的内容所有权属于原作者，采用了 CC BY-SA 授权，也就是使用时要求署名。CEO Prashanth Chandrasekar 称，使用该平台数据集训练大语言模型的公司违反了该许可证，在将模型出售给客户时无法为每一个问题和答案归属，违反了 CC 许可证。无论是  Stack Overflow 或 Reddit 都没有公布收费价格。也许 Twitter 的定价可以作为参考：每月 4.2 万美元。",
+          "link": "https://www.solidot.org/story?sid=74758",
+          "publishedOn": "2023-04-23T10:50:31.000Z",
+          "wordCount": 190,
+          "title": "Stack Overflow 将对使用其数据训练 AI 收费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74757",
+          "author": null,
+          "description": "US Public Interest Research Group (PIRG) 发表报告称 Chromebook 不耐用，认为如果学校采购 Chromebook 是为了节省资金的话，那么其长期费用可能会超过短期节省的费用。举例来说，Chromebook 不利用自行维修，制造商提供的零部件价格昂贵，华硕的键盘售价高达 90 美元，惠普的 Chromebook 11a 售价只有 260 美元，但交流适配器售价 74 美元和电源线售价 58 美元。Google 对于 Chromebook 零部件短缺的解决方案就是让学校购买更多 Chromebook。",
+          "link": "https://www.solidot.org/story?sid=74757",
+          "publishedOn": "2023-04-23T10:28:09.000Z",
+          "wordCount": 171,
+          "title": "Chromebook 不耐用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74756",
+          "author": null,
+          "description": "大气中的二氧化碳正处于人类历史上的最高水平，这被认为对植物是好事，它们能将大气中的碳转换成碳水化合物，因此能生长的更大。但研究发现，可被昆虫和动物食用的植物缺少了营养成分。这种现象被称为营养稀释。有科学家认为这是一个简单的比率问题：碳增加了，但其它微量营养元素没有变化。其他科学家认为问题要更复杂。这种营养稀释可能会导致广泛的问题，其中一个结果是食草昆虫的数量出现大幅下降。北美蚱蜢的数量在 20 年里减少了大约三分之一。二氧化碳浓度的上升正以各种方式影响地球。",
+          "link": "https://www.solidot.org/story?sid=74756",
+          "publishedOn": "2023-04-23T08:43:02.000Z",
+          "wordCount": 143,
+          "title": "更温暖的星球，营养物质更少的植物，更少的昆虫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74755",
+          "author": null,
+          "description": "世界气象组织发布了《2022 年全球气候状况报告》。报告指出，由于吸热温室气体达到了创纪录水平，陆地、海洋和大气发生了全球范围的变化。就全球温度而言，尽管在过去三年拉尼娜事件产生了冷却影响，但 2015-2022 年仍是有记录以来最暖的八年。冰川融化和海平面上升在 2022 年再次达到了创纪录的水平，而且这一趋势还将持续数千年之久。\n\n2022 年的全球平均温度比 1850-1900 年的平均值高出了1.15°C。三种主要的温室气体：二氧化碳、甲烷和一氧化二氮的浓度在 2021 年达到了观测到的最高纪录，2021 年是可获得全球综合值（1984-2021 年）的最近一年。从 2020 年到 2021 年，甲烷浓度的年度增长是有记录以来最高的。特定地点的实时数据显示，这三种温室气体的水平在 2022 年都在继续上升。2021 年 10 月至 2022 年 10 月期间，有长期观测数据的基准冰川经历了平均厚度超过−1.3 米的变化。这一损失比过去十年的平均水平大得多。在有记录的 10 个质量平衡负值最大年份（1950-2022）中，有 6 个发生在 2015 年以后。自 1970 年以来，累积的厚度损失达到了近 30 米。",
+          "link": "https://www.solidot.org/story?sid=74755",
+          "publishedOn": "2023-04-23T07:25:01.000Z",
+          "wordCount": 182,
+          "title": "2015-2022 年是有记录以来最暖的八年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74754",
+          "author": null,
+          "description": "根据发表在《Cell Metabolism》期刊上的一项研究，人类和小鼠的生物年龄（根据正常人体生理学和解剖学的发育状态所推断出来的年龄，表明人体的组织结构和生理功能的实际状态）是流动的，即在应对各种压力时它会迅速增加，但在压力缓解后则可以逆转。不过这些变化发生在几天或几个月相对较短的时间内。论文通信作者表示，“研究结果表明，在一定程度上，影响生物年龄的重要因素是压力。严重的压力会增加生物年龄，从而提高死亡率。这表明，降低生物年龄可以降低死亡率，从压力中恢复的能力可能是长寿的重要决定因素。另一方面，生物年龄可能是评估生理压力及其缓解情况的一个有用参数。”",
+          "link": "https://www.solidot.org/story?sid=74754",
+          "publishedOn": "2023-04-23T07:09:52.000Z",
+          "wordCount": 142,
+          "title": "生物年龄在压力下增加也能通过缓解压力恢复",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74753",
+          "author": null,
+          "description": "美国国土安全部将成立一个特别工作组研究如何使用 AI。国土安全部部长 Alejandro Mayorkas 介绍了如何使用 AI 优化该部门的工作，其一在其系统中部署 AI 帮助筛选出使用强迫劳动生产的产品，其二是使用 AI 更好的检测出运到美国的芬太尼，识别和阻止生产该毒品的前体化学品的流动。美国国防部也在加强 AI 的使用，它雇佣了 Google AI 云端服务的前总监，担任首位 AI、机器人、云计算和数据分析顾问。",
+          "link": "https://www.solidot.org/story?sid=74753",
+          "publishedOn": "2023-04-23T06:53:03.000Z",
+          "wordCount": 161,
+          "title": "美国国土安全部研究如何使用 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74752",
+          "author": null,
+          "description": "此前有报道称，为了遵守欧盟的监管规定，苹果公司将在 iOS 17 中支持应用侧载，允许用户从官方网站或第三方平台下载安装应用。最新的传言称，该功能可能只提供给欧盟用户，美国等地区的用户将仍然需要通过官方应用商店下载应用。苹果显然不是真心实意的支持应用侧载，它是迫不得已。除此之外，想要在 iOS App Store 之外提供应用的开发商可能需要支付额外的费用。",
+          "link": "https://www.solidot.org/story?sid=74752",
+          "publishedOn": "2023-04-23T06:17:37.000Z",
+          "wordCount": 156,
+          "title": "iOS 17 的应用侧载支持可能只提供给欧盟用户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74751",
+          "author": null,
+          "description": "21 岁的美国空中国民警卫队队员 Jack Teixeira 因在 Discord 上泄露军事机密而于 4 月 13 日被捕。他从去年 10 月起在有大约 50 名成员的 Discord 私密群组 Thug Shaker Central 上传了机密信息。他在麻省的一个空军基地担任了 IT 专家，拥有最高机密的访问权限。调查发现，Teixeira 泄露机密文件的时间可以追溯到去年 2 月，他在另一个有 600 人的 Discord 群组泄露了俄罗斯备战相关的机密情报。这个群组是可以公开访问的，该群组的一名成员曾督促 Teixeira 不要滥用机密情报的访问权限，他回答说“太晚了...”这起泄密事件引发了对美国军方如何保护机密数据的批评。",
+          "link": "https://www.solidot.org/story?sid=74751",
+          "publishedOn": "2023-04-23T06:09:26.000Z",
+          "wordCount": 188,
+          "title": "美国军方机密文件泄露者去年 2 月就在 Discord 上发布机密情报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74750",
+          "author": null,
+          "description": "瑞典 VPN 服务商 Mullvad 称警方带着搜查令搜查了其办公室，但在被告知它不储存客户数据后就离开了。这是该公司成立 14 年以来首次收到搜查令。公司 CEO 表示不知道警方在搜寻什么。Mullvad VPN 执行了最小化用户信息储存的政策，只记录了支付信息和对应的用户 ID，在确认客户付款之后它不保存任何付款者的信息，它也不记录用户登陆 VPN 的原始 IP 地址。",
+          "link": "https://www.solidot.org/story?sid=74750",
+          "publishedOn": "2023-04-22T15:09:12.000Z",
+          "wordCount": 165,
+          "title": "Mullvad VPN 称警方搜查了其办公室但没找到任何用户数据",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74749",
           "author": null,
@@ -3254,26 +3394,6 @@
           "wordCount": 161,
           "title": "美国犹他州通过法律青少年使用社交媒体需要父母批准",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74488",
-          "author": null,
-          "description": "英特尔联合创始人戈登·摩尔（Gordon Moore）去世，享年 94 岁。他最为人熟知的事迹是提出了与集成电路晶体管数量相关的摩尔定律。Gordon and Betty Moore 基金会在声明中称，“作为一名杰出的科学家、商业领袖和慈善家，戈登共同创立并领导了两家开创性的科技公司——仙童半导体和英特尔，与他的妻子贝蒂一起创办了美国最大的私人捐赠基金会之一——戈登和贝蒂·摩尔基金会。”",
-          "link": "https://www.solidot.org/story?sid=74488",
-          "publishedOn": "2023-03-25T05:14:52.000Z",
-          "wordCount": 148,
-          "title": "英特尔联合创始人戈登·摩尔去世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74487",
-          "author": null,
-          "description": "在游戏开发者大会 GDC 上，虚幻引擎开发商 Epic 演示了其最新的动作捕捉技术 MetaHuman Animator，它利用了机器学习能在几分钟内将 iPhone 视频转变成逼真的 3D 脸部动画。新的自动化动画技术是基于 2021 年推出的 MetaHuman 建模工具。Epic 称逾百万用户创建了数百万 MetaHuman 脸部模型，部分模型只使用了 3 张脸部照片经过数分钟内处理完成。但将脸部模型转变成脸部动画仍然有不小的难度，即使是富有经验的游戏工作室，也需要使用专门的硬件和数周或数个月的处理时间，需要人工调整才能在游戏中使用。MetaHuman Animator 大幅简化了整个流程。Epic 现场演示了《Hellblade: Senua's Sacrifice》中主角 Senua 的脸模 Melina Juergens 的 15 秒表演，使用 iPhone 拍摄脸部视频，然后用一台高端 AMD 电脑花不到 1 分钟处理，创造出与原始视频相差无几的 3D 动画。Epic 称它的机器学习系统使用了大量高精细的脸部数据库进行训练。",
-          "link": "https://www.solidot.org/story?sid=74487",
-          "publishedOn": "2023-03-24T14:35:19.000Z",
-          "wordCount": 201,
-          "title": "Epic 新动作捕捉技术将 iPhone 视频变成高保真 3D 动画",
-          "imageUrl": null
         }
       ]
     },
@@ -3282,6 +3402,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/740646/",
+          "author": null,
+          "description": "科技日报讯 （记者刘霞）科学家迄今已设法让原子或分子同时身处两个位置——所谓“叠加”态，实现了“薛定谔的猫”效应。在一项最新研究中，瑞士苏黎世联邦理工学院（ETH）科学家让一个“体重”为 16 微克（质量为原子或分子的几十亿倍）的微小晶体处于两个振荡状态的叠加态，创建了迄今最重“薛定谔的猫”。该研究\n本文链接",
+          "link": "https://news.cnblogs.com/n/740646/",
+          "publishedOn": "2023-04-24T01:08:22.000Z",
+          "wordCount": 163,
+          "title": "迄今最重“薛定谔的猫”出现，有望催生更大更稳健量子比特",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740645/",
+          "author": null,
+          "description": "科技日报北京 4 月 23 日电 （记者张梦然）美国研究人员使用人工智能（AI）来设计超越自然界的新蛋白质。他们开发的机器学习算法，可生成具有特定结构特征的蛋白质，这些蛋白质可用于制造具有特定机械性能（如刚度或弹性）的材料，从而取代作为原料的石油或陶瓷。研究论文发表在最新一期《化学》杂志上。 麻省理\n本文链接",
+          "link": "https://news.cnblogs.com/n/740645/",
+          "publishedOn": "2023-04-24T01:04:53.000Z",
+          "wordCount": 163,
+          "title": "AI生成超越自然界的新蛋白质",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740644/",
+          "author": null,
+          "description": "丰色明敏发自凹非寺 量子位公众号 QbitAI OpenAI 官方 AutoGPT，要来了！ 就在 AutoGPT 项目破 10 万 Star 之际，OpenAI 也放出重磅炸弹，由联合创始人格雷格·布洛克曼（Greg Brockman）亲自现场演示了 ChatGPT 即将上线的新功能。 比如要一张\n本文链接",
+          "link": "https://news.cnblogs.com/n/740644/",
+          "publishedOn": "2023-04-24T00:20:00.000Z",
+          "wordCount": 163,
+          "title": "OpenAI现场演示官方版AutoGPT，自主调用外部应用完成任务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740643/",
+          "author": null,
+          "description": "明敏发自凹非寺 量子位公众号 QbitAI 现在，强化学习不仅能下围棋，还能设计蛋白质了！ RoseTTAFold 团队独创性方法，利用强化学习、自上而下设计蛋白质复合物结构，登上最新一期 Science。 利用该方法，团队设计出了上百个蛋白质结构。 经电子显微镜等观测证实，这些结构大部分都能在实验\n本文链接",
+          "link": "https://news.cnblogs.com/n/740643/",
+          "publishedOn": "2023-04-24T00:10:00.000Z",
+          "wordCount": 163,
+          "title": "AI设计蛋白质新方法登Science！利用强化学习，根据预想优化结构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740642/",
+          "author": null,
+          "description": "杨净发自凹非寺 量子位公众号 QbitAI 横空出世的 ChatGPT，让全世界关注到了 AIGC 背后的价值，给国内外企业提供了更多机遇与挑战。 可以明显感知到的是，今年 AIGC 不再是空中楼阁，而是随着人才、资本和业务的大力投入，进入到快速产业落地阶段。 其中小冰，作为国内最早开展 AIGC \n本文链接",
+          "link": "https://news.cnblogs.com/n/740642/",
+          "publishedOn": "2023-04-24T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "AIGC能为世界创造什么？小冰徐元春：提效、解决问题、创造场景",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740641/",
+          "author": null,
+          "description": "金磊发自凹非寺 量子位公众号 QbitAI ChatGPT，遭到了一波反向收费。 而管 OpenAI 要钱的，正是全球最大程序员问答网站 StackOverflow。 理由是这样的：你们拿我家的数据去训练 AI 了。 无独有偶，在 StackOverflow 之前，Reddit近日也发出了类似的信号\n本文链接",
+          "link": "https://news.cnblogs.com/n/740641/",
+          "publishedOn": "2023-04-23T18:00:00.000Z",
+          "wordCount": 163,
+          "title": "交钱！StackOverflow：类ChatGPT们用我数据训练得付费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740637/",
+          "author": null,
+          "description": "新智元报道 编辑：好困 Aeneas 复旦 NLP 团队首次上线 MOSS 两个月后，他们遵照承诺，真的把 MOSS 开源了。同时，MOSS 也成为了国内首个搭载插件系统的开源对话语言模型。 国内首个类 ChatGPT 模型 MOSS，开源了！ 这次，复旦团队的模型不仅更加成熟，而且还增加了「搜索引\n本文链接",
+          "link": "https://news.cnblogs.com/n/740637/",
+          "publishedOn": "2023-04-23T17:43:00.000Z",
+          "wordCount": 163,
+          "title": "复旦开源首个「中国版ChatGPT」MOSS！全新插件系统，能上网，会鸡兔同笼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740640/",
+          "author": null,
+          "description": "新智元报道 编辑：拉燕桃子 杜克大学电子和计算机工程系的陈怡然教授荣获 2023 年 Charles A. Desoer，祝贺！ 一觉醒来，陈怡然教授拿了 IEEE 电路与系统分会 Charles A. Desoer 技术成就奖。 去年一月，陈怡然教授就获得了 IEEE 计算机分会的 Edward \n本文链接",
+          "link": "https://news.cnblogs.com/n/740640/",
+          "publishedOn": "2023-04-23T17:30:00.000Z",
+          "wordCount": 163,
+          "title": "3年3位华人！陈怡然荣获2022 Charles A. Desoer技术成就奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740639/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 好困 在试了这个很新的「搞钱 GPT」之后，我们差点进军直播带货。 在全世界掀起狂飙巨变的 ChatGPT、GPT-4、Midjourney v5 等 AI 工具，改变的可不仅仅是码农、文案工作者和画师。 直播、电商、广告……所有这些你能想得到的领域，也都开始用它们来\n本文链接",
+          "link": "https://news.cnblogs.com/n/740639/",
+          "publishedOn": "2023-04-23T17:20:00.000Z",
+          "wordCount": 163,
+          "title": "「MarketingGPT」掀翻全球千亿美金市场！Alivia国内首个带货AI全家桶",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740638/",
+          "author": null,
+          "description": "新智元报道 编辑：桃子拉燕 【新智元导读】陷入被动的谷歌做出了一个重大决定：谷歌大脑和 DeepMind 正式合并，强强联合能否打赢 OpenAI？ 今天，谷歌终于放大招了！ CEO 劈柴正式宣布，Google DeepMind 成立，谷歌大脑和 DeepMind 两个世界级 AI 团队正式合体了。\n本文链接",
+          "link": "https://news.cnblogs.com/n/740638/",
+          "publishedOn": "2023-04-23T17:11:00.000Z",
+          "wordCount": 163,
+          "title": "终极合体！谷歌大脑&DeepMind正式联姻，1+1＞OpenAI？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740636/",
+          "author": null,
+          "description": "图片来源@视觉中国 文偲睿洞察，作者孙越，编辑 Emma 种种迹象表明，2023 年，科大讯飞似乎又要迎来一轮戴维斯双击。 （科大讯飞前三轮戴维斯双击时刻图源：华泰研究） 回顾科大讯飞股价发现，除 2015 年是整体创业板牛市外，之后讯飞的每轮股价上行背后都有 AI 行业催化剂的驱动，同时公司基本面\n本文链接",
+          "link": "https://news.cnblogs.com/n/740636/",
+          "publishedOn": "2023-04-23T17:00:00.000Z",
+          "wordCount": 163,
+          "title": "科大讯飞，2023再度迎来戴维斯双击时刻？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740635/",
+          "author": null,
+          "description": "文电厂，作者张勇毅，编辑高宇雷 4 月 20 日，印度首都孟买迎来了这个国家第二家 Apple Store 直营店的揭幕，仅仅在两天前，印度第一家 Apple Store 也刚在新德里举办了开幕典礼，并且两家店的开幕当天，以苹果 CEO 蒂姆库克为代表的苹果高管都出现在了现场。 在一个国家三天内连开\n本文链接",
+          "link": "https://news.cnblogs.com/n/740635/",
+          "publishedOn": "2023-04-23T16:50:00.000Z",
+          "wordCount": 163,
+          "title": "连开两家 Apple Store，但印度不是苹果想象中的「下一个中国」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740634/",
+          "author": null,
+          "description": "文明晰野望 4 月以来，市场几乎每天都有各种国产大模型的新信息，一众科技大厂、创业公司陆续公布相关进展，加速入场。 争相涌现的国产大模型，特别是科技大厂基于投入、算力、大数据等方面的优势，为中国自主大模型的发展带来了广泛的可能性。 事实上，BTA、华为等大厂在该领域早有研发，并非新入局者。之所以在 \n本文链接",
+          "link": "https://news.cnblogs.com/n/740634/",
+          "publishedOn": "2023-04-23T16:40:00.000Z",
+          "wordCount": 163,
+          "title": "国产大模型的100种可能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740633/",
+          "author": null,
+          "description": "GPT（Generative Pre-trained Transformer）大模型已经成为当前科技领域最为重要的技术突破之一，机器智能以涌现的形式爆发。通过 ChatGPT 和 Midjourney 等应用的快速增长和普及，C 端用户也能低门槛地感受到技术的跃迁。AGI（通用人工智能）初露峥嵘，俨\n本文链接",
+          "link": "https://news.cnblogs.com/n/740633/",
+          "publishedOn": "2023-04-23T16:22:00.000Z",
+          "wordCount": 163,
+          "title": "初心资本：后 GPT 时代的变与不变",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740632/",
+          "author": null,
+          "description": "文探客出行，作者黄燕华，编辑蛋总 在电动汽车发展得如火如荼的今天，电动两轮车行业早已进入烈火烹油般的“高端化比拼”。但在中低端市场厮杀多年的玩家，难免在高端化之路上走得磕磕绊绊，就连“电动两轮车一哥”雅迪也不例外。 缺少与竞品拉开差距的优势、给人“不够高级”的感觉、产品和价格未被大众接受、相关的评测\n本文链接",
+          "link": "https://news.cnblogs.com/n/740632/",
+          "publishedOn": "2023-04-23T16:13:00.000Z",
+          "wordCount": 163,
+          "title": "90后为何不买雅迪高端车？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740631/",
+          "author": null,
+          "description": "对于国产手机厂商而言，印度市场曾一度是各家必争之地。现在，这个曾经全球第二大的智能手机市场正在发生变化。 据媒体日前报道，印度卡纳塔克邦的一家法院驳回小米印度公司对该国执法机构扣押其 555.1 亿卢比（约 6.8 亿美元）资产的申诉。对此，小米集团负责人最新回应表示：“我们正在研究该事项，并等待书\n本文链接",
+          "link": "https://news.cnblogs.com/n/740631/",
+          "publishedOn": "2023-04-23T16:08:00.000Z",
+          "wordCount": 163,
+          "title": "印度手机市场再生变：小米遭到持续打压，苹果收获新的青睐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740630/",
+          "author": null,
+          "description": "AI 热潮，算力概念乘风而上。近日，“我国算力总规模全球第二”的话题热度不断飙升。 工信部 4 月 11 日公布的数据显示，截至去年底，我国算力总规模达到 180 百亿亿次浮点运算/秒，存力总规模超过 1000EB (1 万亿 GB)。国家枢纽节点间的网络单向时延降低到 20 毫秒以内，算力核心产业\n本文链接",
+          "link": "https://news.cnblogs.com/n/740630/",
+          "publishedOn": "2023-04-23T16:00:00.000Z",
+          "wordCount": 163,
+          "title": "超算云服务化，国产工业软件的机会来了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740629/",
+          "author": null,
+          "description": "文新立场 NewPosotion 去年一位中金员工的妻子，在小红书上晒出丈夫月入 8.25 万元的收入证明，引起了舆论的广泛关注和议论。而在这场炫富风波后，根据中金公司的年报，2022 年其员工平均收入骤降了 20 万元。当然，小红书上的这个帖子不一定是金融业限薪令出台的直接原因，但它可能是参与推动\n本文链接",
+          "link": "https://news.cnblogs.com/n/740629/",
+          "publishedOn": "2023-04-23T14:07:00.000Z",
+          "wordCount": 163,
+          "title": "小红书不必舍近求远",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740628/",
+          "author": null,
+          "description": "据 36 氪报道，腾讯联合工信部电子工业标准化研究院、光明日报全媒体、北京国家金融标准化研究院、汉仪字库、OPPO、陕西历史博物馆，共同宣布“汉字守护计划”公益行动的全新升级。据介绍，全国首个“生僻字征集”微信小程序已于 4 月 20 日“联合国中文日”上线，直接面向用户征集无法输入的生僻字。4 月\n本文链接",
+          "link": "https://news.cnblogs.com/n/740628/",
+          "publishedOn": "2023-04-23T10:00:00.000Z",
+          "wordCount": 163,
+          "title": "腾讯搜狗输入法发布生僻字行业解决方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/740627/",
+          "author": null,
+          "description": "品玩 4 月 23 日讯，据中国载人航天工程网官方微博，4 月 24 日是第八个“中国航天日”，中国空间站首次慢直播将在 10 点上线。正在空间站执行任务的神舟十五号航天员乘组已完成四次出舱活动，刷新了中国航天员单个乘组出舱活动纪录。 “天宫对话 —— 神舟十五号航天员乘组与上海合作组织国家青少年问\n本文链接",
+          "link": "https://news.cnblogs.com/n/740627/",
+          "publishedOn": "2023-04-23T09:40:00.000Z",
+          "wordCount": 163,
+          "title": "中国空间站首次慢直播4月24日10点上线",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/740561/",
           "author": null,
@@ -8690,56 +9010,6 @@
           "publishedOn": "2023-03-26T00:00:00.000Z",
           "wordCount": 163,
           "title": "入职2个月晋升TikTok CEO，独扛美国国会猛烈炮火的周受资是谁？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/738935/",
-          "author": null,
-          "description": "近日，阿里影业“淘麦 VIP”正式宣布虚拟偶像厘里 Leah 为品牌代言人，并推出全新品牌 MV《Just Like Dat》。 据悉，淘麦 VIP 由淘票票与大麦于 2021 年 7 月联合发布，致力于打通电影和演出双场景。目前，淘麦 VIP 会员规模已突破 1000 万。 厘里是阿里文娱旗下首个\n本文链接",
-          "link": "https://news.cnblogs.com/n/738935/",
-          "publishedOn": "2023-03-25T03:03:00.000Z",
-          "wordCount": 163,
-          "title": "虚拟偶像厘里担任淘麦VIP品牌代言人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/738934/",
-          "author": null,
-          "description": "编辑/薛致以 3 月 21 日，随着 2022 年在香港交易所成功上市的零跑汽车发布首份年度业绩，国内已经登录资本市场的四家造车新势力财务成绩得以全部展现。 这些伴随着国家政策红利、几乎在同一时间诞生的造车新势力，2022 年年销量均已迈过 10 万大关，在国内汽车市场中各自占据了一方天地。 但面对\n本文链接",
-          "link": "https://news.cnblogs.com/n/738934/",
-          "publishedOn": "2023-03-25T02:58:00.000Z",
-          "wordCount": 163,
-          "title": "两面派理想汽车：一边“出手阔绰”，一边“紧衣缩食”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/738933/",
-          "author": null,
-          "description": "3 月 24 日消息，美国当地时间周四，人工智能研究公司 OpenAI 为其爆火聊天机器人 ChatGPT 发布了多个插件，它们将帮助 ChatGPT 连接网络以实时检索信息或使用第三方应用。 据悉，OpenAI 的插件将允许 ChatGPT 访问第三方知识源和数据库，包括网络，从而大大扩展了聊天机\n本文链接",
-          "link": "https://news.cnblogs.com/n/738933/",
-          "publishedOn": "2023-03-25T02:50:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI发布插件帮助ChatGPT连网 内容质量、安全性引担忧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/738932/",
-          "author": null,
-          "description": "鞭牛士 3 月 24 日消息，据 36 氪报道，自动驾驶公司小马智行首席财务官劳伦斯·斯泰恩（Lawrence Steyn）已经于 3 月初离职。王皓俊先生从即日起担任小马智行 CFO 一职。 王皓俊此前是小马智行 COO、乘用车智能辅助驾驶事业部负责人，目前小马内部已不再设立 COO 一职。 针对\n本文链接",
-          "link": "https://news.cnblogs.com/n/738932/",
-          "publishedOn": "2023-03-25T02:45:00.000Z",
-          "wordCount": 163,
-          "title": "小马智行回应CFO离职：消息属实，职务由业务高管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/738931/",
-          "author": null,
-          "description": "「核心提示」 在国内开店速度放缓的名创优品，持续调低加盟的各项费用，背后是这家“十元店”的增长焦虑。 作者 佘伟航 编辑 邢昀 “100 个国家、1000 亿销售、1 万家店”，这是名创优品创始人叶国富此前制定的“百国千亿万店”计划，这家从“十元店”出发的公司逐渐发展成泛品类零售龙头，不过这个目标在\n本文链接",
-          "link": "https://news.cnblogs.com/n/738931/",
-          "publishedOn": "2023-03-25T02:40:00.000Z",
-          "wordCount": 163,
-          "title": "加盟费持续下降，名创优品没有吸引力了？",
           "imageUrl": null
         }
       ]
