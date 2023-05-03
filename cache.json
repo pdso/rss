@@ -537,16 +537,6 @@
           "wordCount": 609,
           "title": "自建家庭影音系统最优解：NAS+Jellyfin",
           "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/79076",
-          "author": "车不能快",
-          "description": "本文仅代表个人观点，用于记录和观望一些键盘。\n色卡请以实物为主，热升华会产生偏差。\n个人评分部分为主观部分，会根据厂家状态、设计、以及个人喜好权重评分，仅供参考。\n\n值得关注的新轴体\n\nVERTEX（维塔科思）—V1\n\n刻苦钻研，终炼成型\n\n虽然VERTEX曾经早早地传出要涉足轴体领域的传闻，但随着时间的流逝，这件事慢慢地被我遗落在记忆的深海。不过VERTEX自己从来没有放弃过这个项目。\n3月26日，VERTEX在装备前线发布了一条「IC」，介绍他们即将开售的定制轴体——VERTEX V1\n他们的愿景是创造一款遵循经典MX轴型的产品，通过模具定制不断完善轴体的性能，同时以公道的价格回馈广大键盘玩家，以此为契机建立长期运营和销售体系。\n有关「遵循经典」这四个字倒是挺值得回味的，不过我们先看一下具体参数再做讨论。\n材料和参数\n\n材料方面，首先是经典永流传的尼龙材质和POM轴心，经典的cherry轴体搭配。\n关于樱桃轴外壳材质的选择，论坛上众说纷纭。我个人认为，早期键盘大多采用焊接方式，因此樱桃选择尼龙增强材质，以提高外壳的高温耐受性。不过随着技术的进步和热插拔轴座的出现，对于轴体外壳材质的限制已经大大降低，我们也有更多的选择和可能性。\n再看参数\n\n全行程：4.0±0.3mm\n预行程：2.0±0.3mm\n初始力度：35gf(min)\n操作力度：50±10gf\n触底力度：62±10gf\n弹簧：15mm不锈钢非镀金弹簧 \n\n虽然VERTEX的数据与Cherry红轴如出一辙，但采用球面点状轴芯柱触底的设计却完全不同于Cherry的风格。\n现在平台上也有非常多对这款轴体的介绍和打字音测试，或许VERTEX一开始设想做一款现代版的Cherry红轴，但从最终成品来看，好像跟hg也没啥关系。\n\n回到Cherry味的话题，这是一个有趣的问题，因为每个人都可能有不同的看法。当轴体推出后，我曾与 表…",
-          "link": "https://sspai.com/post/79076",
-          "publishedOn": "2023-04-03T03:07:53.000Z",
-          "wordCount": 648,
-          "title": "「客制化键盘丨购买观望」剪叉新结构以及多款套件简评。",
-          "imageUrl": "https://cdn.sspai.com/2023/03/31/0d3827e47ed6b7b538c9f435bdc66cf8.jpg"
         }
       ]
     },
@@ -601,16 +591,6 @@
           "wordCount": 534,
           "title": "老司机 iOS 周报 #240 | 2023-04-10",
           "imageUrl": "https://opengraph.githubassets.com/21a1402d819e3cb715420ae2d6ee5c8f0ab9054147b8e6ddd2dd0b9fdd847f5c/SwiftOldDriver/iOS-Weekly/releases/tag/%23240"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23239",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nXcode 14.3 正式版发布\nXcode 14.3 的正式版来了，除了大家关心的 iOS 16.4 与 Swift 5.8，部分开发者可能在使用 new 创建对象时遇到 new is unavailable 的报错。遇到的话需要检查下对应对象的默认 init 方法是否被标注为了 NS_UNAVAILABLE ，如果是的话进行修改即可(之前版本不会强制报错)。因为 new 本身就等价于 alloc + init ，在 init 被禁用的前提下让 new 也在编译阶段报错能够更好地暴露问题。\n新手推荐\n🐎  Xcode Tip: filter to show modified files only\n@Smallfly：在大型 Xcode 工程中，定位已修改文件的效率会降低。这篇文章介绍了使用过滤器来查找最近修改过的文件，并提供了一些快捷键和技巧来更好的使用 Xcode，开发人员能够更加轻松地管理最近修改的代码文件，提高代码开发和维护效率。\n文章\n🐢 Custom Actor Executors\n@JonyFang：Actor Executors 是 Swift 中用于处理 actor 模型的并发机制。传统的模型在处理大量并发请求时可能会遇到一些问题。Swift 引入了自定义 actor executors，允许开发人员创建自己的 actor executors 对象，更好地管理并发操作。开发人员可以创建多个 actor executors 对象，并将它们分配给不同的线程或协程。此外，自定义 actor executors 还可以动态地创建或销毁 actor executors 对象，以适应…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23239",
-          "publishedOn": "2023-04-03T03:04:00.000Z",
-          "wordCount": 535,
-          "title": "老司机 iOS 周报 #239 | 2023-04-03",
-          "imageUrl": "https://opengraph.githubassets.com/a3cac1c39d1fc3b161471b362ba846aed2551b3e41bb61c200f0b75980821d69/SwiftOldDriver/iOS-Weekly/releases/tag/%23239"
         }
       ]
     },
@@ -625,6 +605,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74842",
+          "author": null,
+          "description": "Debian 项目宣布代号为 Bookworm 的下一个版本将于 6 月 10 日发布。Debian 发行版大约每两年发布一个大版本，上一个版本 Debian 11 Bullseye 在 2021 年 8 月发布。Debian 12 的软冻结是在 2023 年 2 月 17 日 ，意味着除了修正不会再添加或移除新的软件包。完全冻结定在 5 月 24 日，从那时起如果新软件包需要进入 Bookworm 将需要发布团队的批准，在正式发布前将只考虑紧急的 bug 修正。",
+          "link": "https://www.solidot.org/story?sid=74842",
+          "publishedOn": "2023-05-02T14:07:50.000Z",
+          "wordCount": 202,
+          "title": "Debian 12 Bookworm 将于 6 月 10 日发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74841",
+          "author": null,
+          "description": "IBM CEO Arvind Krishna 接受彭博社采访时表示，该公司将暂停招聘未来几年可被 AI 取代的约 7800 个岗位。Krishna 称将放缓或暂停招聘非面向客户的职位如 HR，他表示在五年内 30% 非面向客户的岗位可能被 AI 和自动化取代。OpenAI的 AI 聊天机器人 ChatGPT 自去年 11 月推出之后引发了 AI 能取代白领工作的猜想。",
+          "link": "https://www.solidot.org/story?sid=74841",
+          "publishedOn": "2023-05-02T09:51:58.000Z",
+          "wordCount": 183,
+          "title": "IBM 将暂停招聘可被 AI 取代的 7800 个岗位",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74840",
+          "author": null,
+          "description": "在美国犹他州通过法律要求成人网站验证用户年龄之后，Pornhub 屏蔽了该州居民的访问。从现在起，任何从犹他州 IP 地址访问 Pornhub 的用户会看到一则成人演员 Advocacy Committee 的视频，解释为什么他们无法正常访问网站，称犹他州民选官员的身份验证要求会带来隐私风险，现有的身份验证方案都存在缺陷，在没有找到真正有效的身份验证方法前，Pornhub 只能完全屏蔽犹他州居民的访问。犹他州的成人网站身份验证法案于 5 月 2 日生效。",
+          "link": "https://www.solidot.org/story?sid=74840",
+          "publishedOn": "2023-05-02T09:29:12.000Z",
+          "wordCount": 159,
+          "title": "Pornhub 屏蔽犹他州居民访问网站",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74839",
           "author": null,
@@ -3314,136 +3324,6 @@
           "wordCount": 160,
           "title": "3CX 公司最初以为供应链攻击是误报",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74570",
-          "author": null,
-          "description": "在三维时空下，引力的作用使得行星和恒星的形状都是球形，黑洞也不例外——确切的说黑洞的视界呈球形。那么如果是高维空间呢？它们是否可能呈现其它形状？数学家发表论文证明，五维以上的空间，黑洞可以是任意形状。论文表明爱因斯坦的广义相对论可以产生大量形状奇特的高维黑洞。这项研究是纯理论性的，并没有告诉我们高维黑洞是否存在。但论文作者表示，如果我们能以某种方式探测到形状奇特的黑洞，那么这将证明我们的宇宙是高维的。",
-          "link": "https://www.solidot.org/story?sid=74570",
-          "publishedOn": "2023-04-03T12:38:55.000Z",
-          "wordCount": 141,
-          "title": "数学家证明高维度黑洞形状可以是无限的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74569",
-          "author": null,
-          "description": "维基百科创始人 Jimmy Wales 接受采访讨论了用 AI 写维基文章。Wales 称社区目前的讨论结果对此谨慎，我们到让 ChatGPT 写一个条目还有一段距离，但距离多远难说，不过肯定比两年前认为的更近。AI 聊天机器人的一大问题是胡说八道——业内称之为幻觉（hallucinating）。它会凭空编造内容。这对于在线百科全书来说是非常糟糕的。Wales 认为 AI 技术可以在其它方面帮助维基百科，比如让 AI 对比两个条目是否存在互相矛盾的陈述。但以 ChatGPT 为代表的 AI 还无法识别自身的矛盾。你指出它的错误，它会表示歉意但继续返回胡扯的回应。",
-          "link": "https://www.solidot.org/story?sid=74569",
-          "publishedOn": "2023-04-03T10:26:20.000Z",
-          "wordCount": 167,
-          "title": "维基百科创始人谈用 AI 写文章",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74568",
-          "author": null,
-          "description": "华为公布了 2022 年财报：2022 年收入 6423 亿元，同比增长 0.9%；净利润 355.6 亿元，同比下滑 68.7%。\n华为将净利润下滑归咎于疫情封锁和美国制裁、供应链中断导致的原材料价格以及研发投资的上涨。华为手机业务受制裁影响最大，它出售了旗下的荣耀手机业务，至今只能出售 4G 手机，无法推出 5G 手机，因为美国禁止向华为出售 5G 手机芯片。",
-          "link": "https://www.solidot.org/story?sid=74568",
-          "publishedOn": "2023-04-03T09:45:34.000Z",
-          "wordCount": 157,
-          "title": "华为净利润大幅下滑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74567",
-          "author": null,
-          "description": "美国科学家利用韦伯太空望远镜，发现了迄今已知最古老黑洞，这个黑洞在宇宙大爆炸后 5.7 亿年形成，这一发现可帮助人们理解黑洞这类宇宙“怪兽”的起源及演化历程。该黑洞的质量是太阳的 1000 万倍。研究团队利用望远镜观察了一个星系，哈勃望远镜此前曾将该星系确定为宇宙早期已知最明亮的星系，但哈勃望远镜一直无法分辨出星系里面是什么。使用两台相机和两台分光镜，韦伯望远镜可分辨出星系发出的光信号的不同成分，并据此发现了这个黑洞。",
-          "link": "https://www.solidot.org/story?sid=74567",
-          "publishedOn": "2023-04-03T07:58:42.000Z",
-          "wordCount": 146,
-          "title": "韦伯发现宇宙已知最古老黑洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74566",
-          "author": null,
-          "description": "巴黎周日以压倒性的票数取缔了电动滑板车共享服务，打击了提供电动滑板车的 Lime 等公司。在市长 Anne Hidalgo 组织的一次咨询公众意见的活动中，近九成的市民投票反对电动滑板车。电动滑板车被批评引发了更多交通事故，很多人都有家人被电动滑板车撞到的经历，称他们现在过马路都要左看右看，十分紧张。提供电动滑板车的企业抱怨被当成替罪羔羊，被不公平的挑出来去对巴黎混乱的交通负责。市长继续支持共享单车，赞同禁止共享电动滑板车。",
-          "link": "https://www.solidot.org/story?sid=74566",
-          "publishedOn": "2023-04-03T07:50:10.000Z",
-          "wordCount": 146,
-          "title": "巴黎禁止共享电动滑板车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74565",
-          "author": null,
-          "description": "天文学家相信，银河系的前身是原星系，一个由年轻恒星组成的混乱暴力的地方。在创世大爆炸之后，暗物质凝聚起来，它们吸引了普通物质，第一波恒星随后出现。但没人知道恒星是如何到达那里的。天文学家在本世纪初提出了两种恒星形成理论。其一是原星系内部诞生了银河系的首批恒星，其二是原星系吞噬了其它星系。为了回答这个问题，天文学家需要识别出银河系最早一批的恒星。过去 20 年天文学家在这方面进展缓慢，直到现在他们利用机器学习发现了大量此类恒星。",
-          "link": "https://www.solidot.org/story?sid=74565",
-          "publishedOn": "2023-04-03T06:58:06.000Z",
-          "wordCount": 151,
-          "title": "天文学家利用 AI 挖掘孕育银河系的古老恒星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74564",
-          "author": null,
-          "description": "黑客正在利用一个广泛使用的 WordPress 插件的高危漏洞。Elementor Pro 是 WordPress 页面生成器插件，允许用户在不需要了解代码的情况下构建一个专业级的网站，它的安装量高达 1100 万。NinTechNet 研究员 Jerome Bruandet 在 2023 年 3 月 18 日发现了该漏洞，他在上周公开了漏洞细节。当该插件与电子商务生成器 WooCommerce 一起安装时，网站成员或电商客户可以利用该漏洞改变网站设置，甚至完全接管网站。漏洞影响 v3.11.6 及之前版本。",
-          "link": "https://www.solidot.org/story?sid=74564",
-          "publishedOn": "2023-04-03T05:22:31.000Z",
-          "wordCount": 172,
-          "title": "黑客正在利用一个广泛使用的 WordPress 插件漏洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74563",
-          "author": null,
-          "description": "拼多多在第三方应用商店发行的版本中加入了提权等恶意功能，被曝光之后遭到 Google 的封杀。安全专家表示，他们从未看到过一个主流应用会像拼多多那样做。匿名拼多多员工称，公司在 2020 年组建了一支由大约 100 名工程师和产品经理组成的团队，致力于挖掘 Android 手机漏洞，开发漏洞利用方法，将其转化为利润。\n消息源称，拼多多应用的恶意功能最初只针对农村和小城镇的用户，避开北京上海之类大都市的用户，此举旨在降低被暴露的风险。通过收集用户活动的大量数据，拼多多能全面了解用户习惯、兴趣和偏好，改进其机器学习模型，提供更具有个性化的推送通知和广告，吸引用户打开应用并下单。在被曝光之后该团队于三月初被解散。拼多多是在 3 月 5 日释出 v6.50.0 更新移除了漏洞利用代码。匿名员工称，两天之后开发漏洞利用的团队遭到解散。第三天团队成员发现他们被内部使用的工作通讯应用 Knock 锁定，失去了访问内网文件的权限。工程师访问大数据、数据表和日志系统的权限也被撤销。大部分团队成员被转移到了 Temu，被分配到不同部门，从事营销或开发推送通知的工作。20 名核心的网络安全工程师仍然留在公司。安全专家称，虽然漏洞利用代码移除了，但底层代码仍然留在那里，仍然可以被重新激活去执行攻击。",
-          "link": "https://www.solidot.org/story?sid=74563",
-          "publishedOn": "2023-04-03T04:54:12.000Z",
-          "wordCount": 160,
-          "title": "拼多多解散了在应用中加入恶意功能的团队",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74562",
-          "author": null,
-          "description": "睡眠过少或过长都与寿命较短有关，但科学家们发现，体育活动可以抵消其中一些负面影响。研究包括了英国生物银行 92221 名年龄在 40 岁至 73 岁之间的成年人，他们在 2013 年至 2015 年期间佩戴了一周的加速度计腕带。每晚睡眠时间分为短(少于 6 小时)、正常( 6-8 小时)和长(超过 8 小时)。体育活动的总量被分为低、中、高。参与者的平均年龄为 62 岁，56% 为女性。在平均 7 年的随访中，3080 名参与者死亡，其中 1074 人死于心血管疾病，1871 人死于癌症。研究人员发现，在运动量大的人群中，睡眠时间与死亡风险无关。对于心血管疾病死亡，低运动量睡眠时间短的人有 69% 的风险增加，当运动量增加到中等或高运动量时，这种风险就消失了。就癌症死亡而言，睡眠时间长但运动量少的人的风险增加了 21%，而这种风险在适度或大量运动后消失。",
-          "link": "https://www.solidot.org/story?sid=74562",
-          "publishedOn": "2023-04-03T04:23:59.000Z",
-          "wordCount": 169,
-          "title": "运动或可减少不健康睡眠时间对寿命的负面影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74561",
-          "author": null,
-          "description": "体力劳动会让你精疲力竭，但用脑过度也会让你感到疲劳。这种认知疲劳是如何产生的？一种生物学假说认为施加认知控制会消耗葡萄糖形式的能量，当一天专注的思考结束之后，大脑会因此感到油尽灯枯。但问题是，大脑思考的能耗是非常低的，它消费的额外葡萄糖还不到一次跑酷动作 Tic-Tac 的十分之一。如果认知疲劳不是由于能量不足导致的，那么又是什么原因？巴黎 Pitié-Salpêtrière 医学院的研究人员认为与神经代谢有关。他们推测认知疲劳是某种化学物质在大脑控制区域积累导致的。这种化学物质就是谷氨酸，是一种兴奋性神经递质，在哺乳动物中枢神经系统大量存在，在学习、记忆和睡眠-觉醒周期等活动中扮演重要作用。他们用实验证明了其假说，在认知控制相关的大脑区域外侧前额叶皮层中谷氨酸的浓度更高。",
-          "link": "https://www.solidot.org/story?sid=74561",
-          "publishedOn": "2023-04-03T04:20:28.000Z",
-          "wordCount": 146,
-          "title": "用脑过度如何导致疲劳",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74560",
-          "author": null,
-          "description": "美国研究人员发现，细胞内部基因表达的错误率越来越高，无法正常合成蛋白质，可能是细胞停止分裂、陷入衰老状态的原因。这项成果有望为研发抗衰老药物提供新靶点。在基因表达的过程中，DNA 序列转录产生 RNA，随后以 RNA 为模板合成蛋白质，执行具体生理功能。此前对酵母和蠕虫的研究显示，衰老细胞里基因表达的保真度严重下降。为了确定人类细胞是否有同样特征，研究小组用来自人类胚胎的肺部细胞进行体外培养，促使它们快速分裂以模拟衰老过程，使这些细胞在三个月后就陷入衰老。基因测序显示，这些衰老细胞里基因转录为 RNA 的错误率很高，大量转录产物的长度过短，它们很可能无法正常翻译成蛋白质，或者合成的蛋白质不正常。研究还发现，老龄小鼠的肝细胞也存在类似的状况。",
-          "link": "https://www.solidot.org/story?sid=74560",
-          "publishedOn": "2023-04-02T15:17:43.000Z",
-          "wordCount": 148,
-          "title": "细胞衰老可能与基因表达错误率上升有关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74559",
-          "author": null,
-          "description": "著名音乐家坂本龙一因病去世，享年 71 岁。坂本龙一于 3 月 28 日在医院去世，他逝世的消息 4 月 2 日才传出。他曾先后诊断罹患咽喉癌和直肠癌。他在 1987 年因在《末代皇帝》中的配乐而获得奥斯卡最佳原创配乐奖，他最成功的电影作曲作品包括《末代皇帝》（1987）、《遮蔽的天空》（1990）、《小活佛》（1993）和《神鬼猎人》（2015）等。",
-          "link": "https://www.solidot.org/story?sid=74559",
-          "publishedOn": "2023-04-02T15:02:43.000Z",
-          "wordCount": 153,
-          "title": "音乐家坂本龙一去世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74558",
-          "author": null,
-          "description": "旧金山曾以房价高昂著称，在新冠前市区是该市生金蛋的鹅。七成的工作岗位来自在市区租办公室的企业，它们创造了近八成的经济产出。但在新冠之后，企业员工并没有全都回来。2023 年一季度旧金山写字楼空置率创下了 29.4% 的历史新高。这一趋势短时间内不会结束。旧金山近 30% 的新增就业职位是混合办公或远程办公，在美国 50 大城市中高居第一。员工们多在家里办公而不是乘坐交通工具或驾车前往市区，这意味着税收的大幅减少。旧金山政府估计未来两个财年将出现 7.28 亿美元的财政赤字。怎么办？一种解决方法是将闲置的写字楼改造成住宅楼，希望员工们尽可能住在市区而不是郊外。",
-          "link": "https://www.solidot.org/story?sid=74558",
-          "publishedOn": "2023-04-02T14:54:00.000Z",
-          "wordCount": 150,
-          "title": "旧金山面临税收大幅减少的困境",
-          "imageUrl": null
         }
       ]
     },
@@ -3452,6 +3332,46 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/741061/",
+          "author": null,
+          "description": "「苏州必吃！这家 xxx 店绝对让你回味无穷！」 「南京最好吃的 xxx，这家的 xxx 简直是上天送的美味！」 「好物分享！xxx 扫地机器人真实家务神器！」 「这是广告还是正常的内容啊？」如果你经常在抖音、小红书、B 站甚至是知乎等平台浏览种草内容，一定也会困惑于有些个人用户发布的内容到底是纯粹\n本文链接",
+          "link": "https://news.cnblogs.com/n/741061/",
+          "publishedOn": "2023-05-02T08:44:20.000Z",
+          "wordCount": 163,
+          "title": "抖音、小红书上的种草生意，要凉？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741060/",
+          "author": null,
+          "description": "文海豚投研 北京时间 5 月 1 日晚美股盘前，瑞幸（$瑞幸咖啡(ADR) .USO）公布其 2023 年一季度业绩，去年四季度，瑞幸经历淡旺季切换以及防疫政策调整依旧取得了不错的成绩，而上个季度中，门店经营扭转的趋势看起来仍旧在持续，本次财报的核心要点如下： 1. 直营加盟均创历史新高：总收入增长\n本文链接",
+          "link": "https://news.cnblogs.com/n/741060/",
+          "publishedOn": "2023-05-02T07:00:00.000Z",
+          "wordCount": 163,
+          "title": "瑞幸：开店狂飙，满血回归",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741059/",
+          "author": null,
+          "description": "文侃见财经 今年三月份，董明珠在接受央视财经采访时，对格力电器多元化转型的又一次表态。 虽然董明珠对格力电器的多元化转型抱以肯定的态度，但从财报上的数据来看，格力电器的多元化还是难言成功。 根据最新财报数据显示，2022 年格力电器的第一大营收业务仍来自空调业务，空调业务的营收高达 1348.59 \n本文链接",
+          "link": "https://news.cnblogs.com/n/741059/",
+          "publishedOn": "2023-05-02T06:28:00.000Z",
+          "wordCount": 163,
+          "title": "净利增速仅2.65%，董明珠“难解”格力多元化难题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741058/",
+          "author": null,
+          "description": "终于等到「五一」放假！ 从这段时间的酒店涨价、车票售罄新闻来看，这个「终于」真是名副其实日盼夜盼盼出来的。 然而，也有很多喜欢旅行的人没有选择加入热门假期的出行大军，而是将旅行融入到生活日常里。 数字游民的生活太极端，远程工作的灵活度就刚刚好。 疫情催生并留下的远程办公和混合办公模式，让一群人成为了\n本文链接",
+          "link": "https://news.cnblogs.com/n/741058/",
+          "publishedOn": "2023-05-02T06:03:00.000Z",
+          "wordCount": 163,
+          "title": "那些不在「五一」出游的「笔记本旅客」，找到了新的快乐秘诀",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/741057/",
           "author": null,
@@ -8841,266 +8761,6 @@
           "wordCount": 163,
           "title": "谷歌削减员工办公福利：MacBook没了，改成自家Chromebook",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739456/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 数学考试不及格，让 Bard 考上哈佛，可以说是难上加难。谷歌 CEO 劈柴称，未来几天大家会看到升级版的 Bard，数学逻辑能力大大提升，甚至未来还会编码。 捂了快两个月，谷歌用来跟 ChatGPT 对打的聊天机器人 Bard，前一阵终于被推上了台面。 用户们的测试初体验\n本文链接",
-          "link": "https://news.cnblogs.com/n/739456/",
-          "publishedOn": "2023-04-03T09:49:00.000Z",
-          "wordCount": 163,
-          "title": "Bard还考不上哈佛？谷歌CEO劈柴预告它即将开挂，数学逻辑能力飙升",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739455/",
-          "author": null,
-          "description": "新智元报道 来源：专知 编辑：好困 文本探讨了自然语言处理中新兴的指令学习范式，重点关注任务指令、建模方法、性能影响因素及挑战。 任务语义可以用一组输入到输出的例子或一条文本指令来表示。传统的自然语言处理（NLP）机器学习方法主要依赖于大规模特定任务样本集的可用性。 但这出现了两个问题：首先，收集特\n本文链接",
-          "link": "https://news.cnblogs.com/n/739455/",
-          "publishedOn": "2023-04-03T09:41:00.000Z",
-          "wordCount": 163,
-          "title": "ChatGPT背后的指令学习是什么？PSU发布首篇「指令学习」全面综述",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739454/",
-          "author": null,
-          "description": "据彭博社的 Mark Gurman 消息，watchOS 的设计将在下一版本（watchOS10）迎来重大升级，重点在用户界面的更新上。 至于改革计划的细节 Gurman 并未透露。 △图源：macrumors 不过 watchOS10 的发布时间也很快就到，预计将于 6 月 5 日至 9 日在 W\n本文链接",
-          "link": "https://news.cnblogs.com/n/739454/",
-          "publishedOn": "2023-04-03T09:33:00.000Z",
-          "wordCount": 163,
-          "title": "Gurman：苹果watchOS10用户界面将出现明显变化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739453/",
-          "author": null,
-          "description": "据路透社消息，当地时间上周五，马斯克向美国法官提出请求，希望法院驳回索赔 2580 亿美元的“狗狗币”诉讼案。 在案件中，马斯克被控“以传销欺骗的形式推销加密货币狗狗币”。 此次驳回请求中，代表律师表示： 马斯克就只是针对狗狗币发表了一些无伤大雅的甚至有些愚蠢的推文，他并没有想欺骗谁。 依靠模糊的内\n本文链接",
-          "link": "https://news.cnblogs.com/n/739453/",
-          "publishedOn": "2023-04-03T09:28:00.000Z",
-          "wordCount": 163,
-          "title": "马斯克寻求结束2580亿美元狗狗币诉讼案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739452/",
-          "author": null,
-          "description": "中金员工“月薪超 8 万”事件，曾引起大家对金融行业高薪的讨论。事实上，受投资市场波动、监管趋严等因素影响，多家券商公司 2022 年的业绩及员工薪酬均呈下滑趋势。曾光鲜亮丽、被视为“行业天花板”的证券公司，如今正面临诸多挑战。 作者 周奕航 编辑 韩忠强 券商行业降薪有了实锤。 3 月 31 日晚\n本文链接",
-          "link": "https://news.cnblogs.com/n/739452/",
-          "publishedOn": "2023-04-03T09:20:00.000Z",
-          "wordCount": 163,
-          "title": "“炫富”风波后的中金，人均降薪20万",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739451/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 用 GPT-4 搞科研未来或许成为每个人的标配，但是究竟如何高效利用 LLM 工具，还得需要技巧。近日，一位哈佛博士分享了自己的经验，还获得了 LeCun 的推荐。 GPT-4 的横空出世，让许多人对自己的科研担忧重重，甚至调侃称 NLP 不存在了。 与其担忧，不如将它用到科\n本文链接",
-          "link": "https://news.cnblogs.com/n/739451/",
-          "publishedOn": "2023-04-03T09:04:00.000Z",
-          "wordCount": 163,
-          "title": "LeCun力荐！哈佛博士分享用GPT-4搞科研，细到每个工作流程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739450/",
-          "author": null,
-          "description": "虚拟人转型，到底有没有路可以走？ 面对 GPT-4 的颠覆性技术引发创业赛道和商业逻辑的变化，投资人们既担心汹涌的剧变，又对新机遇感到欣喜和好奇。 不瞒诸位，量子位跟国内最头部 VC 的几位投资人畅聊了 AIGC 创投圈现象，一起来“八卦”一下。 稀缺的公司分分钟独角兽，合适的人才年薪 500 万 \n本文链接",
-          "link": "https://news.cnblogs.com/n/739450/",
-          "publishedOn": "2023-04-03T08:55:00.000Z",
-          "wordCount": 163,
-          "title": "中国AIGC创投现状：稀缺项目分分钟独角兽，能做大模型500万年薪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739449/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 ChatGPT 忽然大范围封号？此次受波及的用户范围之广，可谓前所未有。 一觉醒来，ChatGPT 大面积封号的消息突然炸了。 据传闻，受影响的账户已经达到了数百万，亚洲是重灾区，其中不少都是国内的账号。 社交媒体上哀鸿遍野，网友纷纷表示自己的账号忽然就被封禁了，没有得到任\n本文链接",
-          "link": "https://news.cnblogs.com/n/739449/",
-          "publishedOn": "2023-04-03T08:42:00.000Z",
-          "wordCount": 163,
-          "title": "ChatGPT突遭大面积封号！网友应急出解封教程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739448/",
-          "author": null,
-          "description": "4 月 3 日消息，真我 GT Neo5 SE 今天正式发布，搭载第二代骁龙7+ 旗舰芯，行业首发 5500mAh+100W 续航组合，首发价 1999 元起。 真我 GT Neo5 SE 机身采用全新纳米级光哑熔合工艺，历经 2 个月的精心打磨后，独家定制的光哑同体效果得以呈现。配色有最终幻想、极\n本文链接",
-          "link": "https://news.cnblogs.com/n/739448/",
-          "publishedOn": "2023-04-03T08:36:00.000Z",
-          "wordCount": 163,
-          "title": "真我GT Neo5 SE发布 售价1999元起",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739447/",
-          "author": null,
-          "description": "文丨彭苏平 编辑丨李勤 智能电动汽车已成为行业的确定趋势，这一赛道也迎来最激烈的角逐。 特斯拉、比亚迪逐渐站稳脚跟，造车新势力理想汽车、蔚来也在自己的细分市场占据一席之地，传统车企转型孵化的新品牌跃跃欲试，更不用提华为、小米等一批跨界而来的 ICT 企业。 智能电动汽车的这场战役要怎么打？在 4 月\n本文链接",
-          "link": "https://news.cnblogs.com/n/739447/",
-          "publishedOn": "2023-04-03T08:30:00.000Z",
-          "wordCount": 163,
-          "title": "王传福、余承东、李斌、李想罕见同台：智能电动车的仗怎么打？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739446/",
-          "author": null,
-          "description": "深燃（shenrancaijing）原创 作者王敏唐亚华邹帅李秋涵王璐 编辑唐亚华 现在的考公有多卷，你可能想象不到。 最近，网上流传的“全国巡考团”引发热议，他们“把国考当一模，把上海市考当二模，江苏、浙江省考当三模四模，到了最后才是正式考试”。还有一些人，参加“巡考”并不只是为备考目标城市练手，\n本文链接",
-          "link": "https://news.cnblogs.com/n/739446/",
-          "publishedOn": "2023-04-03T08:20:00.000Z",
-          "wordCount": 163,
-          "title": "3个月考7个岗位，“考公巡考团”为了上岸有多拼？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739445/",
-          "author": null,
-          "description": "“从今天开始，我们要停更了。” 近日，在B站拥有接近 400 万粉丝的 UP 主“靠脸吃饭的徐大王”发布视频称，未来要停更一段时间。而另一位拥有 300 余万粉丝的 UP 主“-LKs-”也公开宣布，要暂时停更。 两位百万粉丝 UP 主接连宣布停更，受到外界关注。4 月 2 日，有消息称，多位 UP\n本文链接",
-          "link": "https://news.cnblogs.com/n/739445/",
-          "publishedOn": "2023-04-03T08:12:00.000Z",
-          "wordCount": 163,
-          "title": "百亿激励留不住？有UP主称收入降逾三成 ！B站UP主停更潮虚实",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739444/",
-          "author": null,
-          "description": "Tech 星球（微信 ID：tech618） 文 杨晓鹤 封面来源 图虫创意 自从 2020 年 12 月官宣退休后，王慧文“神隐”了很长时间。 这段时间，他经常思考一些形而上的东西，迭代自己的思考系统。喜欢折腾的王慧文，在美团内部做完外卖后，又折腾了共享单车、充电宝、闪购等业务，但这些并没有让他过\n本文链接",
-          "link": "https://news.cnblogs.com/n/739444/",
-          "publishedOn": "2023-04-03T08:06:00.000Z",
-          "wordCount": 163,
-          "title": "大佬离开大厂创业，野心、理想和现实",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739378/",
-          "author": null,
-          "description": "用于微调和推理大型基础模型的可扩展工具包 LMFlow 一个可扩展、方便且高效的工具箱，用于微调大型机器学习模型，旨在用户友好、快速可靠，并且可供整个社区访问。 凭借 LMFlow 的加持，即使计算资源有限，用户也能够根据自己领域的需求进行个性化训练。有了 70 亿参数的 LLaMA，只需要一张 3\n本文链接",
-          "link": "https://news.cnblogs.com/n/739378/",
-          "publishedOn": "2023-04-02T16:48:04.000Z",
-          "wordCount": 163,
-          "title": "LMFlow开源，3090单卡5小时可训练",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739376/",
-          "author": null,
-          "description": "萧箫发自凹非寺 量子位公众号 QbitAI 真·开源 GPT 模型，终于来了。 参数量级 130 亿，大小比肩最近 Meta 开放的 LLaMA-13B，但从数据集、模型权重到计算优化训练，全部开源。最关键的是，可商用。没错，虽然就 GPT-3 而言，之前 DeepMind、Meta 等组织陆陆续续\n本文链接",
-          "link": "https://news.cnblogs.com/n/739376/",
-          "publishedOn": "2023-04-02T16:44:05.000Z",
-          "wordCount": 163,
-          "title": "免费可商用开源GPT模型问世，50G权重直接下载，性能不输GPT-3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739375/",
-          "author": null,
-          "description": "贾浩楠发自凹非寺 量子位公众号 QbitAI “马斯克，你相信 V2X+AI 能让自动驾驶更容易落地吗？” 这两天，海外很多科技知名 UP 主，如 Karl Conrad、Dom Esposito、Shane starnes、Jonathan Casey，不断在一则自动驾驶路侧技术视频下@马斯克、w\n本文链接",
-          "link": "https://news.cnblogs.com/n/739375/",
-          "publishedOn": "2023-04-02T16:41:42.000Z",
-          "wordCount": 163,
-          "title": "无人车传感器全部「失效」还能畅行城市道路，背后黑科技火出海外",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739374/",
-          "author": null,
-          "description": "新智元报道 编辑：Britta 比利时一男子与聊天机器人 Eliza 聊天后，加剧了自身的焦虑，而后自杀身亡。 一名比利时男子，在与一个名为 Eliza 的人工智能聊天机器人进行了数周交流后自杀身亡。 该男子的妻子说在他死前六周，她的丈夫开始与「Eliza」聊天，这是一家美国初创公司使用 GPT-J\n本文链接",
-          "link": "https://news.cnblogs.com/n/739374/",
-          "publishedOn": "2023-04-02T16:39:17.000Z",
-          "wordCount": 163,
-          "title": "比利时男子与AI聊天后，自杀身亡：Eliza，替我保护地球，我先走了！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739373/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 Britta 「贾维斯」已来！微软亚研院联手浙大推出了一个大模型协作系统 HuggingGPT，让 ChatGPT 协调 HF 社区模型，处理各种多模态任务能力超强。 ChatGPT 引爆的 AI 热潮也「烧到了」金融圈。 近来，彭博社的研究人员也开发了一个金融领域的 GPT\n本文链接",
-          "link": "https://news.cnblogs.com/n/739373/",
-          "publishedOn": "2023-04-02T16:37:44.000Z",
-          "wordCount": 163,
-          "title": "ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文，HuggingGPT项目已开源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739372/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 Research 刚刚出炉了 2023 年世界顶尖 1000 名计算机科学家排名。美国 583 名科学家实力霸榜。吴恩达、李飞飞等入选的华人学者过百。中国科学家 96 人上榜，港理工张磊居大陆科学家之首。 近日，Research（Guide2Research）发布了 2023\n本文链接",
-          "link": "https://news.cnblogs.com/n/739372/",
-          "publishedOn": "2023-04-02T16:33:00.000Z",
-          "wordCount": 163,
-          "title": "全球TOP 1000计算机科学家公布：中国96位学者上榜！港理工张磊居大陆科学家之首",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739371/",
-          "author": null,
-          "description": "衡宇发自凹非寺 量子位公众号 QbitAI 国产对话机器人 ChatGLM，和 GPT-4 诞生于同一天。 由智谱 AI 和清华大学 KEG 实验室联合推出，开启 alpha 内测版。 这个巧合让智谱 AI 创始人兼 CEO 张鹏有一种说不清的复杂感觉。但看到技术被 OpenAI 做到这么牛，这名被\n本文链接",
-          "link": "https://news.cnblogs.com/n/739371/",
-          "publishedOn": "2023-04-02T16:31:39.000Z",
-          "wordCount": 163,
-          "title": "他们开源了GitHub最火的双语对话模型，还说AI胡说八道不需被纠正",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739369/",
-          "author": null,
-          "description": "明敏萧箫发自凹非寺 量子位公众号 QbitAI 三星引入 ChatGPT 不到 20 天，就发生 3 起数据外泄事件？！ 其中 2 次和半导体设备有关，1 次和内部会议有关。 消息一经释出马上引发各界热议，尤其是韩国方面。韩版《经济学人》的文章中直接写道：这导致半导体设备测量资料、产品良率原封不动传\n本文链接",
-          "link": "https://news.cnblogs.com/n/739369/",
-          "publishedOn": "2023-04-02T16:23:03.000Z",
-          "wordCount": 163,
-          "title": "三星被曝因ChatGPT泄露芯片机密！韩媒：数据「原封不动」传美国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739368/",
-          "author": null,
-          "description": "金磊发自凹非寺 量子位公众号 QbitAI 他来了，他来了！ B 站野生钢铁侠（稚晖君），带着他全新双足机器人——哪吒，终于露面了！ 用稚晖君自己的话来评价，就是“赛博机械”和“国风神话”的组合。 例如大家熟悉的“火尖枪”、“混天绫”和“风火轮”： 而不同于大家已经看过的波士顿动力双足机器人、各式轮\n本文链接",
-          "link": "https://news.cnblogs.com/n/739368/",
-          "publishedOn": "2023-04-02T16:20:34.000Z",
-          "wordCount": 163,
-          "title": "稚晖君自制全新机器人「哪吒」，预告创业发布会！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739367/",
-          "author": null,
-          "description": "巨头们纷纷拆分自己为哪般？ 作者武丽娟、刘钦文 编辑丨武丽娟 来源野马财经 互联网巨头们近日可谓动作不断。 这边阿里刚刚分拆六大部门，计划“成熟一个、上市一个”，另一边的京东已经付诸行动，3 月 30 日晚上，京东集团发公告表示，计划分拆旗下京东产发、京东工业上市。随后便火速向港交所递交了《招股书》\n本文链接",
-          "link": "https://news.cnblogs.com/n/739367/",
-          "publishedOn": "2023-04-02T16:10:30.000Z",
-          "wordCount": 163,
-          "title": "京东也一拆多！“京东系”有望收获8家上市公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739366/",
-          "author": null,
-          "description": "雷达财经出品文孟帅编深海 身为国内首家也是目前唯一一家登陆资本市场的新式茶饮品牌，奈雪的茶于 3 月 30 日交出了自己过去一年的成绩单。 然而，登陆资本市场尚不足两年，奈雪的茶便已遇上营收下滑的情况。若与还未登陆资本市场的蜜雪冰城百亿级别以上的营收规模相比，奈雪的茶更是存在着不小的差距。 营收规模\n本文链接",
-          "link": "https://news.cnblogs.com/n/739366/",
-          "publishedOn": "2023-04-02T16:05:00.000Z",
-          "wordCount": 163,
-          "title": "营收缩水，连亏多年，奈雪的茶不Nice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739365/",
-          "author": null,
-          "description": "智选车模式被认为是华为亲自下场造车的信号，这影响了华为作为汽车增量零部件供应商的定位 文顾翎羽 编辑谢丽容 3 月 31 日，华为再次就汽车业务发出董事会决策公告，公告由华为创始人、董事长任正非署名发出，再次强调“华为不造车”，“有效期 5 年”。并表示将严格管理华为品牌滥用。理解华为此时重申不造车\n本文链接",
-          "link": "https://news.cnblogs.com/n/739365/",
-          "publishedOn": "2023-04-02T13:30:00.000Z",
-          "wordCount": 163,
-          "title": "华为为什么要守住“不造车”底线？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739364/",
-          "author": null,
-          "description": "Tech 星球 4 月 1 日消息，蔚来汽车创始人、董事长李斌今日透露，蔚来手机将于今年三季度发布，并实现交付。 值得一提的是，此前网上流传一组图片，疑似蔚来手机外观曝光，从图片上看有两种设计方案，一种是居中竖排三摄镜头模组。 另一种是环形六摄镜头模组，机身看起来比较细长，左上角有三个金属触点，感觉\n本文链接",
-          "link": "https://news.cnblogs.com/n/739364/",
-          "publishedOn": "2023-04-02T13:20:00.000Z",
-          "wordCount": 163,
-          "title": "蔚来李斌：蔚来手机将于三季度发布和交付",
-          "imageUrl": null
         }
       ]
     },
@@ -9138,16 +8798,6 @@
           "wordCount": 534,
           "title": "老司机 iOS 周报 #240 | 2023-04-10",
           "imageUrl": "https://opengraph.githubassets.com/21a1402d819e3cb715420ae2d6ee5c8f0ab9054147b8e6ddd2dd0b9fdd847f5c/SwiftOldDriver/iOS-Weekly/releases/tag/%23240"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23239",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nXcode 14.3 正式版发布\nXcode 14.3 的正式版来了，除了大家关心的 iOS 16.4 与 Swift 5.8，部分开发者可能在使用 new 创建对象时遇到 new is unavailable 的报错。遇到的话需要检查下对应对象的默认 init 方法是否被标注为了 NS_UNAVAILABLE ，如果是的话进行修改即可(之前版本不会强制报错)。因为 new 本身就等价于 alloc + init ，在 init 被禁用的前提下让 new 也在编译阶段报错能够更好地暴露问题。\n新手推荐\n🐎  Xcode Tip: filter to show modified files only\n@Smallfly：在大型 Xcode 工程中，定位已修改文件的效率会降低。这篇文章介绍了使用过滤器来查找最近修改过的文件，并提供了一些快捷键和技巧来更好的使用 Xcode，开发人员能够更加轻松地管理最近修改的代码文件，提高代码开发和维护效率。\n文章\n🐢 Custom Actor Executors\n@JonyFang：Actor Executors 是 Swift 中用于处理 actor 模型的并发机制。传统的模型在处理大量并发请求时可能会遇到一些问题。Swift 引入了自定义 actor executors，允许开发人员创建自己的 actor executors 对象，更好地管理并发操作。开发人员可以创建多个 actor executors 对象，并将它们分配给不同的线程或协程。此外，自定义 actor executors 还可以动态地创建或销毁 actor executors 对象，以适应…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23239",
-          "publishedOn": "2023-04-03T03:04:00.000Z",
-          "wordCount": 535,
-          "title": "老司机 iOS 周报 #239 | 2023-04-03",
-          "imageUrl": "https://opengraph.githubassets.com/a3cac1c39d1fc3b161471b362ba846aed2551b3e41bb61c200f0b75980821d69/SwiftOldDriver/iOS-Weekly/releases/tag/%23239"
         }
       ]
     }
