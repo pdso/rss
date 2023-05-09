@@ -51,13 +51,44 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed/",
       "siteUrl": "https://coolshell.cn",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://coolshell.cn/?p=22422",
+          "author": "陈皓",
+          "description": "这两天技术圈里热议的一件事就是Amazon的流媒体平台Prime Video在2023年3月22日发布了一篇技术博客《规模化Prime Video的音视频监控服...\n Read More  Read More\n是微服务架构不香还是云不香？ first appeared on 酷 壳 - CoolShell.",
+          "link": "https://coolshell.cn/articles/22422.html",
+          "publishedOn": "2023-05-08T09:52:06.000Z",
+          "wordCount": 1799,
+          "title": "是微服务架构不香还是云不香？",
+          "imageUrl": "https://coolshell.cn/wp-content/uploads/2023/05/monolith.microservices.png"
+        }
+      ]
     },
     {
       "title": "少数派 -- Matrix",
       "feedUrl": "https://rsshub.app/sspai/matrix",
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
+        {
+          "id": "https://sspai.com/post/79600",
+          "author": "w_an_q",
+          "description": "已经是 2023 年 的五月份了，过去的三年由于某些原因，长途旅行变成一种只在记忆中存在的东西，那在这个终于开始明媚起来的春天，你有没有开始你久违的旅行呢？没有的话也没关系，就先收下这 5 本游记解解馋吧。\n《永恒的时光之旅》\n《永恒的时光之旅》作者 是日本知名旅行作家、摄影师 星野道夫 。1971 年 19 岁的星野道夫在东京神田的古书街，发现了一本名为《Alaska（阿拉斯加）》的英文摄影集，被里面记录的阿拉斯加极地风光所深深吸引。书的其中一页是一张爱斯基摩小村落的航拍照片，于是他给这个村庄的村长寄了一封信，半年后他收到了回信，两年后的夏天他踏上了前往寒冷极地的旅程，并献出他之后所有的人生，在阿拉斯加、在极地的旷野中旅行，用镜头记录这地球上最后的那片净土。\n《永恒的时光之旅》是一本文集也是一本画册，里面有大量的作者拍摄的极地摄影作品，不仅有极地的动植物，雪原、旷野，还有生活在那里的原住民，也记录了他参与当地人生活的有趣经历。仅仅是这些可爱的动物、绝美的冰川、湖泊、森林，就已经让这本书超值无比了。可这本书带给我的感动绝不只是如此，当几万只驯鹿在你的眼前迁徙而过，就像它们几千年来一直做的那样；当你同 112 岁的阿萨帕斯卡尔族老人在生起篝火的小屋共同度过圣诞夜；当皮划艇进入峡湾，你看到那些巍巍矗立在海边，任由时间风化的图腾柱。这些刻画在风景上的不易察觉的时间印记，无不在诠释着“永恒”这个离我们这些城市人很远的词。\n1996 年八月，星野道夫在勘察加半岛遭遇棕熊攻击，不幸离世，终年四十三岁。\n\n不断更迭的季节，让我真实地感受到朝无尽远方逝去的时间之流，不禁惊叹大自然运行时分毫不差的精准度。年复一年，无数次的相遇离别，都徒留无限感慨。每当细数这样的经历，彷佛更能体悟如蜉蝣般短暂的人生。\n\n《在中国的大地上》\n第二本《在中国大地上》是美国知名旅行家、小说家保罗·索鲁记录的他在 1…",
+          "link": "https://sspai.com/post/79600",
+          "publishedOn": "2023-05-08T06:02:10.000Z",
+          "wordCount": 623,
+          "title": "5 本游记，为你的远行预热",
+          "imageUrl": "https://cdn.sspai.com/2023/05/07/4a30517974ac966febba87549c5dfabf.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/78086",
+          "author": "NotteStellata",
+          "description": "我想有必要于文首先向读者解释一二：一则，行文中非加粗标出的语句为昊辰老师所言，其余所有（除提问外），包括注释等均为笔者的零星思考，乃后期所加；二则，我们谈「古典音乐」正是在为「自己」说话（求生欲满满的我们），因此，个中话语在某种程度上必然不可避免地指向本位主义，但我不认为我们需要为此辩解。仿昊辰老师在《演奏之外》之序中所言，「文中种种，不过是两位当代古典音乐专业者的偏见与偏爱」。时逢 Apple Music Classical 已于3 月 28 日正式开放下载！虽然国区暂未上架，但关于App的初步评测，读者可移步少数派另一篇相关文章：《Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？ 》。于我们而言，古典音乐就该被「明目张胆」地「区别对待」😏。\n—— 之前读陈丹青老师发表在理想国公众号上的《我遭遇了一位小我两辈的谈话对手》一文，其中提及他曾问过你「欧美钢琴家中有没有著书出版者？」你说读到过一位，写得非常周正。我很好奇：这是哪一位钢琴家的哪本著作？可以谈谈你对这本书的感想吗？如果有机会的话，你会对读者们推荐这本书吗？\n不是一本。那是查尔斯·罗森 (Charles Rosen) 的一系列作品。包括：《古典风格》 (The Classical Style) 、《浪漫一代》1 (The Romantic Generation)、《钢琴笔记》 (Piano Notes)、《意义的边界》 (Frontiers of Meaning) 等。\n\n罗森不仅具有大量理论知识储备，且他又并非一位严格意义上的「学者」，意即没有经过所谓学院派体系化的理论训练。他的著述有其自身作为一位音乐家，尤其是作为一位演奏家的一手经验以及锋芒。与此同时，还包含有一种独特的人文关怀。因此，他所写的一众关于音乐理论或音乐作品的文章都非常值得推荐。\n浙江大学出版社先后推出了一系列查…",
+          "link": "https://sspai.com/post/78086",
+          "publishedOn": "2023-05-06T15:43:40.000Z",
+          "wordCount": 731,
+          "title": "访青年钢琴家张昊辰（一）：阅读与聆赏02",
+          "imageUrl": "https://cdn.sspai.com/2023/05/08/b5ab2763093819960d7b4b0a76b54904.jpg"
+        },
         {
           "id": "https://sspai.com/post/79577",
           "author": "碎瓜",
@@ -67,6 +98,16 @@
           "wordCount": 608,
           "title": "我做了一个电影Her里的虚拟恋人",
           "imageUrl": "https://cdn.sspai.com/2023/05/05/4a279ca2b28e6adcd5d7ef7169b3417a.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/79593",
+          "author": "万千十一",
+          "description": "TL;DR\n\n打开「自动操作」，新建「文件夹操作」\n选择截图文件夹，添加操作「导入文件至照片」，保存即可\n如未成功，打开「文件夹操作设置」手动启用\n\n起因\n当我们在 iPhone 上「完成」一次截图，iOS 会提示存储到「照片」还是存储到「文件」。前者作为默认操作，在开启 iCloud 照片的情况下，会将截图上传云端，同步至其他设备使用。\n事情在 macOS 有些不同，截图的默认操作变成了以文件形式保存，尽管可以通过「在照片中打开」后手动导入 iCloud，但仍显繁琐，且常用的第三方截图软件多无此选项，还需保存后在文件夹中找到截图对应文件另行导入，实在难称优雅。\niOS 与 macOS 截图保存的不同\n之所以存在这种桌面端与移动端截然不同的默认设置，是因为长久以来，个人电脑为胜任多任务场景，向用户提供了统一的文件管理入口（macOS 的「访达」和 Windows 的「文件资源管理器」即是代表），可以对包括图片在内的任意格式文件进行操作；而在移动端，针对小屏的多任务需求弱化，文件开始围绕应用程序重新组织，其原始格式及结构淡化至全屏应用背后，于是忘掉文件并通过「照片」浏览与管理所有图片变成必然选项。\n若想获得桌面与移动两端一致的体验，macOS 截图自动导入「照片」并同步 iCloud 是不二法门。相比通过「访达」以文件形式直接管理硬盘上的图片，通过「照片」之类的应用进行管理具有几个明显优势：\n\n图片组织灵活统一。由于截图文件往往作为素材使用，基于传统文件树的组织形式，较难在集中管理的同时兼顾素材与项目的关联，即在同一文件夹保存所有截图的情况下，需手动拷贝至项目所文件夹再加利用。而在「照片」应用中存在类别及相册的概念，同一张图片可在多处共享，甚至重复导入时还会有提醒，既避免冗余亦节省空间，维护起来也更为灵活。\n浏览搜索便捷高效。在「访达」中对图片文件进行浏览时，需使其文件夹以图…",
+          "link": "https://sspai.com/post/79593",
+          "publishedOn": "2023-05-06T08:58:42.000Z",
+          "wordCount": 662,
+          "title": "一日一技｜自动将 macOS 截图导入 iCloud 相册",
+          "imageUrl": "https://cdn.sspai.com/2023/05/06/e29a16e2237afa58ef33afd15ca0fc89.png"
         },
         {
           "id": "https://sspai.com/post/79588",
@@ -487,16 +528,6 @@
           "wordCount": 819,
           "title": "受够了密码数据泄漏事件？用 Bitwarden 做自己的安全负责人",
           "imageUrl": "https://cdn.sspai.com/2023/04/06/d1cfac200b1e3cb0438f990a2a87ea94.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/79224",
-          "author": "孙彬",
-          "description": "「我们的图书馆已经爆满，知识不断地呈现指数级增长，然而就在这个庞大的知识宝库中，我们仍然在使用马车时代的方法寻找需要的材料。」\n这句话是一个叫做万尼瓦尔·布什的人，在1955年说的。\n它代表了那一代人关于信息传递的朴素梦想——所有信息都可以互相关联，所有信息都可以追溯出处。\n布什是什么人？\n1940年6月12日，他递给总统罗斯福一张纸条，上面用短短四段话表明了目的：建立一个「国防研究委员会」。10分钟之后，罗斯福在纸上批了两个单词：「可以，罗斯福。」\n这张字条改写了美国乃至世界通信的历史。\n科学家卢米斯曾说：「如果说1940年夏天，谁的死亡会对美国造成最大损失的话，第一位是总统，布什博士排在第二。」\nVannevar Bush\n这样一位狠角色，却用了一生的时间，去解决一个大家眼里的「小问题」。\n在那个第三次科技革命到来的前夕，无处不在的技术和理论，正在让世界变成魔法一般的国度，但唯独对于信息，人们还在使用最古老的处理方法。\n万尼瓦尔·布什对此产生了深刻的反思，他后来所有的思想凝聚在一篇传世奇文中，这篇文章影响了未来几代顶尖人才的探索之路，在经历了无数做梦、奋斗、甚至斗争后，最终催生出一个伟大到无处不在的事物：互联网。\n而就在几十年之后，在布什从未了解的新兴行业里，人们使用着让信息四通八达的互联网，用键盘敲下一行行文字，争论着行业中那些处理信息的技术，到底有没有用。\n历史的车轮仿佛转过了整整一圈，那些梦想家、投机者、奋斗者和反对者们，仿佛在轮回中转世投胎，只不过转过一圈的车轮上，已经积累了一层时代的泥土。\n几十年后，有很多人迷失在日常的工作中，不知道自己工作的意义是什么。而几十年前的那几代人，则是先有了一个改变世界的梦想，然后在不可能中创造了奇迹。\n种下这颗梦想的种子的那一年，甚至还不存在键盘和鼠标，世界被金属、齿轮和马达主宰。\n咱们的故事，就从那个时代的万尼瓦尔·布什讲起。…",
-          "link": "https://sspai.com/post/79224",
-          "publishedOn": "2023-04-09T02:43:40.000Z",
-          "wordCount": 643,
-          "title": "互联网前夜的微光：从布什的《如我们所想》，到泰德·尼尔森的上都计划",
-          "imageUrl": "https://cdn.sspai.com/2023/04/09/36b21a935360d6bedf236dbdd6196d0f.jpeg"
         }
       ]
     },
@@ -554,6 +585,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74899",
+          "author": null,
+          "description": "根据发表在《PRX Energy》上的一项研究，科学家发现光合作用和玻色爱因斯坦凝聚态存在关联。玻色爱因斯坦凝聚态（BEC）又被称为物质第五态，是玻色子原子在冷却到接近绝对零度所呈现出的一种气态的、超流性的物质状。芝加哥大学的研究人员发现，光合作用中太阳光子对树叶引发的激子行为在原子水平上与 BEC 存在相似性。光合作用工作在室温下，而  BEC 则是发生在绝对零度附近。这一发现可能为电子产品的设计提供新思路。",
+          "link": "https://www.solidot.org/story?sid=74899",
+          "publishedOn": "2023-05-08T10:17:37.000Z",
+          "wordCount": 146,
+          "title": "科学家发现光合作用和玻色爱因斯坦凝聚态存在关联",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74898",
+          "author": null,
+          "description": "俄罗斯互联网巨头 Mail.ru（现名字 VK）的 iOS 邮件应用 myMail 被发现传输用户明文密码。当客户在其论坛上报告 myMail 客户端发送邮件出现传输错误后 mailbox.org 展开了调查，发现 myMail 存在安全漏洞，没有在建立连接后发送 STARTTLS 指令，而是继续在未加密的情况下传输用户密码和邮件。由于 mailbox.org 服务器拒绝未加密连接，因此出现了传输错误。它建议用户在安全问题解决前停止使用 myMail 客户端。",
+          "link": "https://www.solidot.org/story?sid=74898",
+          "publishedOn": "2023-05-08T09:20:26.000Z",
+          "wordCount": 163,
+          "title": "Mail.ru 的邮件应用被发现传输用户明文密码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74897",
+          "author": null,
+          "description": "玻璃不仅是重要的人造材料，更是自然界中普遍存在的天然物质。即使是在荒凉贫瘠的月球表面，仍然存在着由火山喷发、地质运动、陨石撞击等活动产生的丰富的玻璃物质。许多月球玻璃可以稳定存在亿万年，不仅可以像地球上的琥珀一样保存古老的月球物质，还记录着其形成时的环境信息，就像一帧帧的摄影快照一样记录着月球亿万年间的重要历史演化信息，是探索月球奥秘的重要材料。嫦娥五号实现了我国首次地外天体采样，成功采集返回了迄今为止最高纬度、最为年轻的月壤样品，为揭示月球起源与演化、认识月球表面和空间环境、促进月球资源原位利用等提供了绝佳机遇，也为地外玻璃物质研究提供了宝贵样本。中科院研究团队发现月球表面存在着固、液、气多种转变路径的玻璃起源。月球表面频繁遭受的陨石及微陨石撞击导致的矿物熔化和快速冷却产生了各种形态的玻璃物质，包括旋转形状的玻璃珠（球状、椭球状、哑铃状等）、气孔构造的胶结质、流体形态的溅射物等。这些撞击起源的玻璃物质记录了月球表面从数千米到纳米的多尺度撞击事件，相关凝固玻璃的形态取决于撞击温度主导的玻璃形成液体的粘度，由此可反演陨石的撞击强度。",
+          "link": "https://www.solidot.org/story?sid=74897",
+          "publishedOn": "2023-05-08T08:45:33.000Z",
+          "wordCount": 141,
+          "title": "揭秘月壤中的玻璃物质",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74896",
+          "author": null,
+          "description": "新华社报道，我国在酒泉卫星发射中心成功发射的可重复使用试验航天器，在轨飞行 276 天后，于 5 月 8 日成功返回预定着陆场。此次试验的圆满成功，标志着我国可重复使用航天器技术研究取得重要突破，后续可为和平利用太空提供更加便捷、廉价的往返方式。Nasaspaceflight 此前报道称，这是该航天器的第二次试飞，第一次是在 2020 年 9 月。该航天器被认为源于 2000 年代初的神龙项目。美国类似的飞行器是 X-37B，美国空军在 2010 年4 月22 日发射了第一架 X-37B OTV-1，上一次发射是在 2020 年 5 月 17 日，创下了在轨飞行 908 天的记录。",
+          "link": "https://www.solidot.org/story?sid=74896",
+          "publishedOn": "2023-05-08T07:54:44.000Z",
+          "wordCount": 179,
+          "title": "中国可重复使用试验航天器在轨飞行 276 天后着陆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74895",
+          "author": null,
+          "description": "五一假期的人流密集可能增加新冠二次感染风险。新冠抗体水平通常能保持 3—6 个月，之后会下降，因此可能会有二次感染，尤其是出现了免疫逃逸能力和传染性更强的变种。首都医科大学附属北京佑安医院感染综合科主任医师李侗曾表示，距离上次感染已经超过半年时间左右的老年人、免疫力低下人群，发生二次感染的风险仍会增加，因为这部分人群抵抗力下降得会更快，尤其是面对 XBB.1.16 这种免疫逃逸能力强的毒株。北京大学第一医院感染疾病科主任王贵强表示，同一毒株二次感染的风险相对是比较低的。但老年人以及有基础病者，本身免疫功能较弱，产生的抗体水平较低，无论是面对新的变异株还是二次感染风险，都是需要重点关注的人群，这类人更应该完成疫苗接种，以降低重症感染率的发生。专家们都强调，虽然人员流动增加了病毒的传播风险，但更多的是针对“未阳”人群，这类人群尤其要注意防护。",
+          "link": "https://www.solidot.org/story?sid=74895",
+          "publishedOn": "2023-05-08T07:42:39.000Z",
+          "wordCount": 145,
+          "title": "医生谈新冠二次感染风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74894",
+          "author": null,
+          "description": "西部数据向客户发去邮件警告，证实黑客在 3 月底的网络攻击中窃取到了客户数据。被窃取的数据包括客户姓名、帐单和交付地址、电邮地址和电话号码。西部数据称，其数据库储存的密码和信用卡账号使用了加盐哈希处理。对西部数据的入侵发生在  3 月 26 日前后，参与攻击的黑客窃取到了大约 10 TB 数据，并正在与西部数据谈判赎金。在攻击之后，西部数据关闭了云服务两周，下线了移动、桌面和 Web 应用。它的商店也在调查期间关闭，计划在 5 月 15 日重新上线。西数还对可能的钓鱼攻击发出了警告。",
+          "link": "https://www.solidot.org/story?sid=74894",
+          "publishedOn": "2023-05-08T06:35:48.000Z",
+          "wordCount": 164,
+          "title": "西部数据称黑客在 3 月的网络攻击中窃取了客户数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74893",
+          "author": null,
+          "description": "TCP/IP 合作者 Vint Cerf 赢得了 IEEE 2023 年度的荣誉勋章。他接受 IEEE Spectrum 采访谈论了在 TCP/IP 设计中犯下的三大错误。第一个错误是认为 32 位对于互联网地址而言足够了，当然那时是在 1973 年，128 位地址可能还无法想象；没有认真考虑安全性如引入加密；没有想到 World Wide Web 的出现会带来海量的内容，以至于需要搜索引擎才能找到东西。",
+          "link": "https://www.solidot.org/story?sid=74893",
+          "publishedOn": "2023-05-08T06:09:26.000Z",
+          "wordCount": 178,
+          "title": "Vint Cerf 谈他在 TCP/IP 设计中犯下的三大错误",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74892",
+          "author": null,
+          "description": "5 月 4 日，全球首例非人灵长类动物介入式脑机接口试验在北京取得成功。试验在猴脑内实现了介入式脑机接口脑控机械臂，对推动脑科学领域研究具有重要意义，标志着我国脑机接口技术跻身国际领先行列。此次试验由南开大学教授段峰团队牵头，与中国人民解放军总医院（301医院）、上海心玮医疗科技股份有限公司联合完成。试验是在前期介入式脑机接口动物（羊）试验基础上取得的进一步成果，实现了介入式脑电信号从被动采集到主动控制的技术飞跃，突破了血管内脑电信号采集、介入式脑电信号识别等核心技术。",
+          "link": "https://www.solidot.org/story?sid=74892",
+          "publishedOn": "2023-05-08T05:53:01.000Z",
+          "wordCount": 144,
+          "title": "北京完成首例非人灵长类介入式脑机接口试验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74891",
+          "author": null,
+          "description": "根据 Similarweb 的估计，去年 11 月底发布的 AI 聊天机器人 ChatGPT 的流量增长开始放缓。ChatGPT 在去年 12 月吸引了约 2.66 亿次访问，与 Yahoo News 相近，之后 1 月流量增长 131.6%，2 月 62.5%，3 月 55.8%，到了 4 月增长 12.6% 至 17.6 亿次，指数级增长势头开始消退。它的流量超过了 bing.com、nytimes.com 和 cnn.com，但仍然只有 google.com 的 2%。ChatGPT 在美国地区的访问量为 1.876 亿次，环比增长 17.5%，bing.com 在美国的流量仍然高于 ChatGPT，其 4 月访问量为 3.778 亿，环比下降 5%，bing.com 全球的访问量下降  9.7% 至 13 亿次。",
+          "link": "https://www.solidot.org/story?sid=74891",
+          "publishedOn": "2023-05-08T05:50:38.000Z",
+          "wordCount": 196,
+          "title": "ChatGPT 的流量增长放缓",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74890",
           "author": null,
@@ -3323,36 +3444,6 @@
           "wordCount": 154,
           "title": "女性作者占据了美国图书出版业半壁以上的江山",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74611",
-          "author": null,
-          "description": "在一个勒索软件黑帮声称盗窃到源代码之后，微星承认遭到网络攻击数据被盗，但该公司没有提供更多细节。微星在一份声明中呼吁用户不要从第三方网站下载它的固件/BIOS 更新，只从它的官方网站下载。这一声明显示微星担心黑客会传播恶意版本的固件。此前自称 Money Message 的新勒索软件组织声称从微星窃取到了源代码，其中包括 BIOS 框架。Money Message 要求微星支付 400 万美元赎金，否则将会在下周泄露窃取的数据。",
-          "link": "https://www.solidot.org/story?sid=74611",
-          "publishedOn": "2023-04-08T15:14:10.000Z",
-          "wordCount": 151,
-          "title": "微星承认遭到网络攻击源代码被盗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74610",
-          "author": null,
-          "description": "过去一年俄罗斯政府屏蔽了逾万网站，其中包括知名社交网络 Facebook、Twitter 和 Instagram。俄罗斯人转而通过 VPN 等工具绕过封锁。但俄罗斯政府随后又封锁了流行 VPN 服务使用的 IP 地址。现在一种开源 VPN 客户端 Amnezia 帮助俄罗斯用户挫败新的封锁。不同于商业 VPN 服务通过企业服务器路由用户，Amnezia 允许用户设定自己的服务器，选择自己的 IP，使用难以屏蔽的协议。Amnezia VPN 类似 Google Jigsaw 开发的开源工具 Outline，它是在 2020 年举行的一次黑客马拉松活动中创造出来的，它目前有大约 10 万用户。",
-          "link": "https://www.solidot.org/story?sid=74610",
-          "publishedOn": "2023-04-08T14:32:07.000Z",
-          "wordCount": 177,
-          "title": "开源 VPN 帮助俄罗斯用户绕过封锁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74609",
-          "author": null,
-          "description": "多名三星软件工程师将公司的机密代码输入到 OpenAI 的 ChatGPT 中，让 AI 聊天机器人帮助调试代码和修复错误。一名员工从一个半导体数据库中拷贝存在 bug 的代码到 ChatGPT，要求它找到修正方法。另一名工程师做了同样的事，要求 ChatGPT 优化代码。第三名工程师要求聊天机器人总结会议记录。三星在监测到这些情况之后，采取行动将员工能输入到 ChatGPT 中的提示限制在 1024 个字节。",
-          "link": "https://www.solidot.org/story?sid=74609",
-          "publishedOn": "2023-04-08T13:23:06.000Z",
-          "wordCount": 165,
-          "title": "三星工程师使用 ChatGPT 调试机密代码",
-          "imageUrl": null
         }
       ]
     },
@@ -3361,6 +3452,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/741453/",
+          "author": null,
+          "description": "Google 将在 I/O 上展示其重金投入的 AI 产品进展。 Google 将宣布新大型语言模型 PaLM 2。 Bard 和 Google 搜索也将迎来更新。 据 Google 内部文件，AI 将是本周举行的 I/O 大会重点。 届时，Google 预计将发布最新大型语言模型 PaLM 2。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/741453/",
+          "publishedOn": "2023-05-09T00:49:01.000Z",
+          "wordCount": 163,
+          "title": "Google 将在 I/O 大会上公布一系列重大 AI 更新",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741452/",
+          "author": null,
+          "description": "5 月 8 日，君实生物发布公告，旗下 PD-1 产品特瑞普利单抗（商品名：拓益）联合化疗一线治疗广泛期小细胞肺癌的Ⅲ期临床研究的主要研究终点达到方案预设的优效边界，近期将向监管部门递交该新适应症的上市申请。 该研究是一项随机、双盲、安慰剂对照、多中心的Ⅲ期临床研究，旨在比较特瑞普利单抗或安慰剂联合\n本文链接",
+          "link": "https://news.cnblogs.com/n/741452/",
+          "publishedOn": "2023-05-09T00:47:09.000Z",
+          "wordCount": 163,
+          "title": "君实生物拓益联合治疗小细胞肺癌Ⅲ期临床达主要研究终点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741451/",
+          "author": null,
+          "description": "芯东西（公众号：aichip001） 编译 ZeR0 编辑 漠影 芯东西 5 月 8 日报道，5 月 5 日，美国半导体行业协会（SIA）发布其最新年度报告，通过 20 张图表，分析呈现 2001 年至 2022 年全球半导体产业的关键变化、美国半导体的竞争实力，并为美国半导体相关政策制定提出 4 \n本文链接",
+          "link": "https://news.cnblogs.com/n/741451/",
+          "publishedOn": "2023-05-09T00:46:19.000Z",
+          "wordCount": 163,
+          "title": "真实的美国半导体到底多强？20张图表披露惊人数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741450/",
+          "author": null,
+          "description": "Apple CarPlay 和 Android Auto 有效地垄断了相当一部分车主的信息娱乐系统。随着这两个系统变得越来越普遍，它正在将用户从汽车制造商的专有系统中转移出来，这些系统会收集有关习惯和使用情况的各种数据。虽然通用汽车宣布计划从 2024 年开始逐步淘汰其电动汽车中的 CarPlay，\n本文链接",
+          "link": "https://news.cnblogs.com/n/741450/",
+          "publishedOn": "2023-05-09T00:41:00.000Z",
+          "wordCount": 163,
+          "title": "福特表示将保留 Apple CarPlay 和 Android Auto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741449/",
+          "author": null,
+          "description": "知名投资人李开复，又开始筹办新公司了。 2020 年 9 月 12 日，HICOOL 全球创业者峰会在北京举行，李开复演讲。王海欣摄 “这是一家由技术愿景驱动，拥有卓越中国工程底蕴的创新企业，在全球范围号召世界级的人才，加入我们一起打造这个世界级的公司！”今年 3 月 19 日，创新工场董事长兼首席\n本文链接",
+          "link": "https://news.cnblogs.com/n/741449/",
+          "publishedOn": "2023-05-09T00:38:00.000Z",
+          "wordCount": 163,
+          "title": "李开复：与中国创新时代一同蓬勃生长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741445/",
+          "author": null,
+          "description": "科技日报北京 5 月 8 日电 （记者张梦然）新加坡—麻省理工学院研究与技术联盟的科学家开发了世界上最小的 LED（发光二极管）。这种新型 LED 可用于构建迄今最小的全息显微镜，让现有手机上的摄像头仅通过修改硅芯片和软件即可转换为显微镜。相关研究发表在最近的《光学》杂志上。 这一突破得到了革命性神\n本文链接",
+          "link": "https://news.cnblogs.com/n/741445/",
+          "publishedOn": "2023-05-09T00:31:34.000Z",
+          "wordCount": 163,
+          "title": "科学家造出史上最小发光二极管，可将手机摄像头变成全息显微镜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741448/",
+          "author": null,
+          "description": "「自动驾驶被资本市场裹挟，这些年都是忽悠。」 「高级辅助驾驶的确有市场，但不要期望过高。」 还记得一个月前，在比亚迪 2022 年财报交流会上，王传福公开发表的这些「自动驾驶暴论」吗？ 直接、锐利的观点就像一盆冷水，浇在了过分火热的自动驾驶身上，一阵「嘶啦」声后，翻涌而起的水蒸汽折射出了国内自动驾驶\n本文链接",
+          "link": "https://news.cnblogs.com/n/741448/",
+          "publishedOn": "2023-05-09T00:27:00.000Z",
+          "wordCount": 163,
+          "title": "定了！比亚迪确定联手英伟达，推出旗下最强算力新车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741447/",
+          "author": null,
+          "description": "随着小米 13 Ultra 的正式发布，中国 Top 3 的 Android 手机品牌都已经完成了各自超大杯旗舰手机的布局。 与其说这是 vivo X90 Pro+、小米 13 Ultra、OPPO Find X6 Pro，粉丝用户们似乎更愿意用蔡司、徕卡、哈苏来代称这些影像旗舰。 相机品牌与手机厂\n本文链接",
+          "link": "https://news.cnblogs.com/n/741447/",
+          "publishedOn": "2023-05-09T00:20:00.000Z",
+          "wordCount": 163,
+          "title": "传统的欧洲影像巨头，越来越喜欢中国手机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741446/",
+          "author": null,
+          "description": "谁也没想到，金山办公居然是国内第一个将大语言模型（LLM）应用在办公软件领域，并真正交付了可用产品的公司。 毕竟，比起全方位集成 ChatGPT 的微软 Office，以及宣称开发出自己的类似微软“智能办公副驾”Copilot 功能的钉钉和飞书，金山办公并不是一个通常处在风口上和聚光灯下的玩家，它看\n本文链接",
+          "link": "https://news.cnblogs.com/n/741446/",
+          "publishedOn": "2023-05-09T00:10:00.000Z",
+          "wordCount": 163,
+          "title": "对话金山办公CEO章庆元：相比微软，我们要跑得更快",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741444/",
+          "author": null,
+          "description": "品玩 5 月 8 日讯，据 Gizmochina 报道，摩托罗拉近日在印度推出电视品牌 Envision 新品，包括四款智能电视。 该系列新品搭载四核联发科芯片，HD 和 FHD 型号配备 1 GB 内存，4K 型号配备 2 GB 内存。电视支持 Wi-Fi 和蓝牙，并配有 HDMI、USB 和以太\n本文链接",
+          "link": "https://news.cnblogs.com/n/741444/",
+          "publishedOn": "2023-05-09T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "摩托罗拉 Envision 系列电视新品发布 登陆印度市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741443/",
+          "author": null,
+          "description": "TCP/IP 合作者 Vint Cerf 赢得了 IEEE 2023 年度的荣誉勋章。他接受 IEEE Spectrum 采访谈论了在 TCP/IP 设计中犯下的三大错误。 第一个错误是认为 32 位对于互联网地址而言足够了，当然那时是在 1973 年，128 位地址可能还无法想象；没有认真考虑安全\n本文链接",
+          "link": "https://news.cnblogs.com/n/741443/",
+          "publishedOn": "2023-05-08T23:37:52.000Z",
+          "wordCount": 163,
+          "title": "Vint Cerf 谈他在 TCP/IP 设计中犯下的三大错误",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741442/",
+          "author": null,
+          "description": "根据 Similarweb 的估计，去年 11 月底发布的 AI 聊天机器人 ChatGPT 的流量增长开始放缓。 ChatGPT 在去年 12 月吸引了约 2.66 亿次访问，与 Yahoo News 相近，之后 1 月流量增长 131.6%，2 月 62.5%，3 月 55.8%，到了 4 月增\n本文链接",
+          "link": "https://news.cnblogs.com/n/741442/",
+          "publishedOn": "2023-05-08T23:21:54.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT 的流量增长放缓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741441/",
+          "author": null,
+          "description": "品玩 5 月 8 日讯，近日淘宝推出了“时光机”活动，用户可查看自己近 20 年的消费情况。在淘宝搜索栏“淘宝时光机”即可查看，其中显示了用户首次使用淘宝的日期，共花费的钱数、下单数，全国排名，近五年的消费数据趋势等。\n本文链接",
+          "link": "https://news.cnblogs.com/n/741441/",
+          "publishedOn": "2023-05-08T09:08:00.000Z",
+          "wordCount": 163,
+          "title": "淘宝推出“时光机”活动：可查看近 20 年消费数据，还有机会“报销 20 年账单”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741440/",
+          "author": null,
+          "description": "品玩 5 月 8 日讯，高通官方今日宣布，它将收购以色列车载通讯芯片制造商 Autotalks，通过加快 V2X 技术的采用时间线来加强 Snapdragon Digital Chassis 产品组合，希望以此深化其汽车业务，但没有详细说明这笔交易的财务状况。 Autotalks 目前主要生产自动驾\n本文链接",
+          "link": "https://news.cnblogs.com/n/741440/",
+          "publishedOn": "2023-05-08T09:00:00.000Z",
+          "wordCount": 163,
+          "title": "高通宣布将收购以色列车载通讯芯片制造商 Autotalks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741439/",
+          "author": null,
+          "description": "品玩 5 月 8 日讯，蔚来汽车日前悄然开通了“蔚来法务部”官方微博和抖音账号，目前尚未发布任何内容。 此前，特斯拉、理想汽车等均已注册相关的法务部微博。\n本文链接",
+          "link": "https://news.cnblogs.com/n/741439/",
+          "publishedOn": "2023-05-08T08:50:00.000Z",
+          "wordCount": 163,
+          "title": "蔚来汽车开通法务部官微，跟进特斯拉、理想等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741438/",
+          "author": null,
+          "description": "Swift 的最新版本支持即将到来的新特性，让开发人员可以开始使用将在 Swift 6 中变成稳定版本的特性。此外，它还提供了一种方法，让开发人员可以在早期操作系统中使用新功能。 Swift 5.8 之所以支持即将到来的语言特性，主要是为了让开发人员可以开始为程序迁移做准备。Swift 团队成员 A\n本文链接",
+          "link": "https://news.cnblogs.com/n/741438/",
+          "publishedOn": "2023-05-08T08:45:00.000Z",
+          "wordCount": 163,
+          "title": "Swift 5.8 新特性预览：支持函数向后部署",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741437/",
+          "author": null,
+          "description": "「这个内容，几乎不用改啊」。 当我把印象 AI 写好的会议议程拿给我爸看时，他给出了这样的评价。 或许是短视频平台的信息轰炸，或许是经常看我写的文章，临近退休的老爸，对 AI 工具产生了浓厚的兴趣，不过，我一直没有帮他找到「可以装进手机的」、没有英文页面的 AI 工具，直到最近，集成了印象 AI 的\n本文链接",
+          "link": "https://news.cnblogs.com/n/741437/",
+          "publishedOn": "2023-05-08T08:39:00.000Z",
+          "wordCount": 163,
+          "title": "当AI遇上爹，我用印象AI征服60后",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741436/",
+          "author": null,
+          "description": "36 氪获悉，美图公司创始人兼首席执行官吴欣鸿表示，影像和 AIGC 的创新结合，将带来影像生产力的大爆发，同时会为相关领域带来新的职业和新的创业机会。目前，在影像生产力领域，AIGC 相关产品和服务正持续提升生产效率，大大降低人力成本。\n本文链接",
+          "link": "https://news.cnblogs.com/n/741436/",
+          "publishedOn": "2023-05-08T08:27:00.000Z",
+          "wordCount": 163,
+          "title": "美图公司吴欣鸿：AIGC将带来影像生产力的大爆发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741435/",
+          "author": null,
+          "description": "摘要 要从 CEO 开始、从上到下相信 AI 这件事情，不然做什么都是虚的。 一家 SaaS 软件公司，正处在大模型范式革命的前沿，包括它在内的软件公司最终都有被大模型替代的可能。而它抬头一看，自己追赶了数十年的对手微软，正猛然成为大模型时代的最大「赢家」。后者用 100 亿美元投资了 OpenAI\n本文链接",
+          "link": "https://news.cnblogs.com/n/741435/",
+          "publishedOn": "2023-05-08T08:20:00.000Z",
+          "wordCount": 163,
+          "title": "对话金山办公CEO章庆元：时不我待，All in AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741434/",
+          "author": null,
+          "description": "5 月 8 日下午消息，阿里云宣布正式发布“金融级云原生”，从早期云原生的 12 要素提出金融级云原生的新 10 要素。这是阿里云以经典云原生技术为基础，并针对金融行业需求研发的一整套技术体系，从而支持金融机构建设既符合行业标准和监管要求、又具备云原生技术优势的“新型 IT 架构”。 在过去 40 \n本文链接",
+          "link": "https://news.cnblogs.com/n/741434/",
+          "publishedOn": "2023-05-08T08:10:00.000Z",
+          "wordCount": 163,
+          "title": "阿里云宣布推出“金融级云原生”，提出金融机构“新型IT架构”",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/741381/",
           "author": null,
@@ -8609,146 +8900,6 @@
           "publishedOn": "2023-04-10T07:30:00.000Z",
           "wordCount": 163,
           "title": "米哈游投中一家估值10亿美元的AI公司，海外YC创业营15%项目做AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739750/",
-          "author": null,
-          "description": "作者李水青 编辑心缘 智东西 4 月 8 日杭州报道，今日，在由中国人工智能学会主办的人工智能大模型技术高峰论坛上，华为云 AI 领域首席科学家、国际欧亚科学院院士田奇出席现场，对华为盘古系列大模型的研发与应用落地情况进行了分享。 在论坛上，田奇谈道，华为在 2021 年就立项盘古大模型，目前在 C\n本文链接",
-          "link": "https://news.cnblogs.com/n/739750/",
-          "publishedOn": "2023-04-09T11:30:00.000Z",
-          "wordCount": 163,
-          "title": "华为盘古大模型新进展，华为云AI首席科学家7000字演讲精华",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739749/",
-          "author": null,
-          "description": "Tech 星球 4 月 9 日消息，近日，长安深蓝旗下的首款车型深蓝 SL03，遭到了车主们的集体投诉。 据投诉车主介绍，2 月 17 号提车，订购价格 17 万多，但到了 3 月 10 号，长安深蓝官方发布公告称，长安深蓝直补 2.2 万现金 +2 万元权益礼包。长安深蓝变相降价，提车不到一个月，\n本文链接",
-          "link": "https://news.cnblogs.com/n/739749/",
-          "publishedOn": "2023-04-09T11:23:00.000Z",
-          "wordCount": 163,
-          "title": "深蓝汽车遭车主集体投诉变相降价：提车不到一个月损失2.2万元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739748/",
-          "author": null,
-          "description": "Tech 星球 4 月 9 日消息，近日，特斯拉美国调整了在售车型的售价，现有两款 Model Y 的价格，降幅 2,000 美元；下调两款 Model 3 售价，降幅 1,000 美元；Model S / X 起售价下调 9.5%。 针对特斯拉降价的问题，特斯拉 CEO 马斯克在推特上回应表示，特\n本文链接",
-          "link": "https://news.cnblogs.com/n/739748/",
-          "publishedOn": "2023-04-09T11:18:00.000Z",
-          "wordCount": 163,
-          "title": "马斯克回应特斯拉降价：如果很多人负担不起，那么需求就没有意义",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739747/",
-          "author": null,
-          "description": "图片来源@视觉中国 文｜AI 产业研究中心 在 2023 年一季度的三个月里，美国给全世界送了两份大礼。一份是硅谷银行、签名银行在几天里莫名其妙的倒闭，另一份就是“现象级应用”ChatGPT 在短时间内就全球风靡，成为 AI 界的“顶流”。 如果说两家银行的倒闭，暴露的是美国金融领域的系统性风险，那\n本文链接",
-          "link": "https://news.cnblogs.com/n/739747/",
-          "publishedOn": "2023-04-09T11:12:00.000Z",
-          "wordCount": 163,
-          "title": "面对ChatGPT全球火爆，中国AI应该如何C位出道？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739746/",
-          "author": null,
-          "description": "Tech 星球 4 月 8 日消息，近日，俞敏洪在厦门大学发表演讲时谈到“孔乙己的长衫”，他表示上大学不是为了穿上长衫，也不是为了找一份更好的工作，而是为了有更多朋友，让见识有更高的维度。现在没有工作也没有问题，因为有见识有更高的维度，未来一定能找到自己想要的事业。 董宇辉称俞敏洪活得明白：自己面对\n本文链接",
-          "link": "https://news.cnblogs.com/n/739746/",
-          "publishedOn": "2023-04-09T11:05:00.000Z",
-          "wordCount": 163,
-          "title": "俞敏洪谈孔乙己长衫：上大学不是为了找更好的工作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739745/",
-          "author": null,
-          "description": "4 月 9 日消息，特斯拉储能超级工厂项目签约仪式在上海正式举行。据了解，特斯拉储能超级工厂将规划生产特斯拉超大型商用储能电池（Megapack），初期规划年产商用储能电池可达 1 万台，储能规模近 40GWh，产品提供范围覆盖全球市场。特斯拉储能超级工厂项目计划于 2023 年第三季度开工，202\n本文链接",
-          "link": "https://news.cnblogs.com/n/739745/",
-          "publishedOn": "2023-04-09T11:00:00.000Z",
-          "wordCount": 163,
-          "title": "落户上海，特斯拉储能超级工厂将生产大型商用储能电池，初期规可达1万台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739743/",
-          "author": null,
-          "description": "吴军，毕业于清华大学和约翰霍普金斯大学，计算机专业博士，前 Google 高级资深研究员、原腾讯副总裁、硅谷风险投资人。 【导读】 4 月 3 日晚上，计算机科学家、自然语言模型专家吴军，就人工智能和 ChatGPT 等当下热议的话题作了一次直播分享。 吴军，毕业于清华大学和约翰霍普金斯大学，计算机\n本文链接",
-          "link": "https://news.cnblogs.com/n/739743/",
-          "publishedOn": "2023-04-09T05:17:17.000Z",
-          "wordCount": 163,
-          "title": "吴军：“ChatGPT不算新技术革命”、“它在中国的热度要远远高于美国”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739742/",
-          "author": null,
-          "description": "过去几个月，OpenAI 风头无两，各大科技公司争先恐后地跟进大语言模型（LLM）这一技术路线。 对比之下，OpenAI 的老对手 DeepMind，显得有些低调和沉默。微软靠 OpenAI 打了一场胜仗，而谷歌推出的 Bard 翻了车，和谷歌同属 AlphaBeta 的 DeepMind 却没有出\n本文链接",
-          "link": "https://news.cnblogs.com/n/739742/",
-          "publishedOn": "2023-04-09T03:35:00.000Z",
-          "wordCount": 163,
-          "title": "别只盯着OpenAI，DeepMind也在憋大招",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739741/",
-          "author": null,
-          "description": "“我不喜欢墨守成规地去做事。所说的话可能别人都不太相信，感觉瞎吹牛，但是我们每次都做到了，而且做得比我说的还更好。”在 2012 年消费者 BG 新员工座谈会上，余承东鼓励道：“吹牛者与不谦虚者最大的区别在于：吹牛者说完不用去实现，不谦虚者说到一定要做到，而且做的要比我们说的更好！” 打破成规的处事\n本文链接",
-          "link": "https://news.cnblogs.com/n/739741/",
-          "publishedOn": "2023-04-09T03:28:00.000Z",
-          "wordCount": 163,
-          "title": "余承东不会成为李一男",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739740/",
-          "author": null,
-          "description": "揭秘真正的 ChatGPT 之父：OpenAI 的秘密武器，谷歌没有的天才。 作者李水青 编辑心缘 为什么全球热门应用 ChatGPT 诞生在 OpenAI？ 近日，外媒 The Information 的一篇深度稿件试图道出原因。根据多方采访，一个长达五年的 ChatGPT 产品研发落地故事浮出水\n本文链接",
-          "link": "https://news.cnblogs.com/n/739740/",
-          "publishedOn": "2023-04-09T03:20:00.000Z",
-          "wordCount": 163,
-          "title": "揭开OpenAI创业秘史，ChatGPT的真正推手原来是他",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739739/",
-          "author": null,
-          "description": "作者：普子胥 致力于让全人类都开上电动车的马斯克，再度逼近自己的小梦想：近日，随着宏图计划 3.0 完整版公布，特斯拉小型电动汽车将搭载 53kWh 磷酸铁锂电池的消息引发广泛讨论。 综合多方信息来看，特斯拉低价车售价将落在 10-20 万区间：一旦推出，将直指比亚迪腹地，拳打“蔚小理”腰间。而 1\n本文链接",
-          "link": "https://news.cnblogs.com/n/739739/",
-          "publishedOn": "2023-04-09T03:14:00.000Z",
-          "wordCount": 163,
-          "title": "推出低价特斯拉  马斯克想干掉所有燃油车？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739738/",
-          "author": null,
-          "description": "文 / 六金 出品 / 节点商业组 最近，GPT 赛道上争议不断，先是 GPT-4 的问世，用一些亮眼的功能让人类感叹自己是不是要丢工作？紧接着又有一封联名信刷屏，图灵奖得主、AI 三巨头之一的约书亚·本吉奥、埃隆·马斯克等 123 个业界大佬，呼吁所有人工智能实验室应暂停比 GPT-4 更强大的 \n本文链接",
-          "link": "https://news.cnblogs.com/n/739738/",
-          "publishedOn": "2023-04-09T03:08:00.000Z",
-          "wordCount": 163,
-          "title": "AI大模型突围战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739737/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 呼吁暂停 GPT-5 的公开信发出后，沉默许久的 Bengio 发了长文，解释自己签字的原因，而 LeCun 继续强调，现在的担忧根本是杞人忧天，与 AI 末日论者辩论毫无意义。 呼吁暂停比 GPT-4 更强 AI 训练的公开信，把超强 AI 的种种争议，更加激烈地推到了公\n本文链接",
-          "link": "https://news.cnblogs.com/n/739737/",
-          "publishedOn": "2023-04-09T03:00:00.000Z",
-          "wordCount": 163,
-          "title": "GPT-5停不停？Bengio痛心跳出呼吁，LeCun怒斥AI末日论者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/739735/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 被 AI 冤枉的你，还好吗？ 当你被 AI 无辜扣上「作弊」的帽子，作何感想？ 这件事恰恰发生在了一位高三学生 Lucy Goetz 身上。原本她写的一篇社会主义原创论文得了最高分。 但是，Turnitin 公司的 AI 写作检测器竟说，Goetz 论文结尾是用 ChatGP\n本文链接",
-          "link": "https://news.cnblogs.com/n/739735/",
-          "publishedOn": "2023-04-08T13:49:01.000Z",
-          "wordCount": 163,
-          "title": "AI无法打败AI！ChatGPT检测器频繁冤枉无辜学生，竟有210万教师在用",
           "imageUrl": null
         }
       ]
