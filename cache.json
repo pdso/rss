@@ -508,16 +508,6 @@
           "wordCount": 643,
           "title": "初次经历情感挫折，这是我 30 天里的变化",
           "imageUrl": "https://cdn.sspai.com/2023/04/17/8485b640dec03d88226cd55437ceb50f.JPG"
-        },
-        {
-          "id": "https://sspai.com/post/79319",
-          "author": "委座大人",
-          "description": "Matrix 精选\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n重症监护病房（ICU）应该算整个医院里面除手术室以外最神秘的地方，很少有家属了解 ICU 里面的真实情况。国内 ICU 病房大多数都限制探视策略，每日仅有 20 分钟到 1 小时不等的探视时间；在过去疫情肆虐的两年期间，几乎所有的 ICU 都采用了完全拒绝家属的探视，每日仅与患者家属使用电话沟通。\n到底 ICU 病房限制家属沟通的具体原因是什么呢？简单说来，最主要的原因无非以下几点：\n\n家属探视可能干扰正常的医疗工作；\n家属探视可能会增加院内感染发生；\n患者病情无探视的必要性。\n\n实际上真的如此么？接下来我将分别站在医院、医生和家属的立场，以大家比较关心的一些问题作正反两方的解释，让大家明白不同的决策源自于怎样的考量。而之所以这样做，是因为我希望大家明白我们任何一方与病人及家属都不应该是对立关系，希望大家都能彼此理解互相配合，让我们可以更高效的工作，病人也能得到更好的照顾。\n因为繁重的医疗工作限制家属的探视\n家属可能并不了解 ICU 医护的具体工作内容，可能并不理解我们 ICU 医护人员到底有多忙。不过我们可以从同行的评价中，间接反映出我们的工作强度——「死都不去 ICU 工作」。\n图源 | NHS\n下表大致的描述了 ICU 医护的工作内容：\n\n\n 医生护士\n8:00早交班、学习、传达最新工作内容以及批斗大会\n 医师查房护理查房\n9:00医师查房护理查房、交班、翻身、清洁患者\n10:00开医嘱、处理患者、特殊治疗执行医嘱、治疗患者\n11:00处理患者、外出检查执行医嘱、治疗患者\n12:00炫饭翻身、清洁患者、给患者喂食\n13:00收病…",
-          "link": "https://sspai.com/post/79319",
-          "publishedOn": "2023-04-15T04:24:55.000Z",
-          "wordCount": 1076,
-          "title": "聊聊 ICU 病房限制家属探视的为什么与该不该",
-          "imageUrl": "https://cdn.sspai.com/2023/4/15/article/90022224-8209-f9ec-88e2-df4f354390a1.jpg"
         }
       ]
     },
@@ -565,6 +555,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74958",
+          "author": null,
+          "description": "木星是太阳系最大的行星，但土星将是太阳系拥有最多卫星的行星。国际天文学联合会报告发现土星 62 颗新卫星，使其卫星总数达到 145 颗，超过木星的 95 颗。新发现的卫星形状不规则，像土豆一样，直径不超过一英里或两英里。它们的轨道距离土星很远，在 600 万到 1800 万英里之间。相比之下，土星大卫星如泰坦（Titan）距离土星在 100 万英里内。",
+          "link": "https://www.solidot.org/story?sid=74958",
+          "publishedOn": "2023-05-14T16:02:00.000Z",
+          "wordCount": 161,
+          "title": "天文学家发现土星 62 颗新卫星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74957",
+          "author": null,
+          "description": "微软本周释出了补丁修复了一个被 BlackLotus bootkit 利用的 Secure Boot 绕过漏洞。微软在今年 1 月释出补丁修复了编号为 CVE-2022-21894 的漏洞，但该补丁并不完整，攻击者很快找到了绕过方法。本周释出的补丁修复了新漏洞 CVE-2023-24932。微软称能物理访问系统或拥有管理员权限的攻击者可利用该漏洞。但新补丁不会默认启用，因为它涉及到修改 Windows 启动管理器，一旦更改将是无法撤销的，它会导致现有的启动媒介无法启动。为了避免导致客户的系统无法启动，补丁将会分三个阶段应用，直到 2024 年第一季度补丁才会默认启用，届时旧的启动媒介将会无法使用。",
+          "link": "https://www.solidot.org/story?sid=74957",
+          "publishedOn": "2023-05-14T15:52:10.000Z",
+          "wordCount": 164,
+          "title": "微软将用一年时间完成对一个 0day 漏洞的修补",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74956",
+          "author": null,
+          "description": "AI 公司 Anthropic 宣布它类似 ChatGPT 的语言模型 Claude AI 能在一分钟内分析整本书。它将 Claude 的上下文窗口扩大到了 100,000 tokens，或相当于 7.5 万字。Claude 是类似 OpenAI GPT-4 的大语言模型，tokens 是简化 AI 数据处理的最小文本单元，上下文窗口类似短期记忆——大模型一次能处理的输入数据。更大的上下文窗口意味着大模型能一次性处理图书或持续数小时或数天的漫长对话。Anthropic 称，普通人阅读 7.5 万字需要大约 5 小时，之后还需要时间消化、记忆和分析，Claude 能在不到一分钟内做到。《了不起的盖茨比（The Great Gatsby）》有 72K tokens，他们将其输入 Claude，修改了一行字，将原书中的叙述人 Nick Carraway 的背景改为“在 Anthropic 从事机器学习的软件工程师”，让模型找不同。Claude 花了 22 秒钟找到了差异。",
+          "link": "https://www.solidot.org/story?sid=74956",
+          "publishedOn": "2023-05-14T14:19:32.000Z",
+          "wordCount": 197,
+          "title": "Anthropic 的 Claude AI 能在一分钟内分析整本书",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74955",
           "author": null,
@@ -3324,66 +3344,6 @@
           "wordCount": 215,
           "title": "Linux 的早期历史",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74677",
-          "author": null,
-          "description": "美国蒙大拿州众议院以 54 比 43 批准了一项在全州范围内禁止 TikTok 的法案，法案将提交给州长 Greg Gianforte 签署。该禁令将于 2024 年 1 月 1 日生效。法案将禁止 TikTok 在该州内运营，也将禁止应用商店在该州内提供 TikTok。该法案将对违反的任何实体处以每次 1 万美元的罚款。目前还不清楚该法案将如何执行。法案的起草者表示，如果 Greg Gianforte 签署该法案，他们预计法律挑战可能最终会上诉到美国最高法院。包括美国公民自由联盟(ACLU)在内的批评者说，该法案相当于审查制度，侵犯了受宪法第一修正案保护的言论自由权。",
-          "link": "https://www.solidot.org/story?sid=74677",
-          "publishedOn": "2023-04-15T09:53:23.000Z",
-          "wordCount": 168,
-          "title": "美国蒙大拿州众议院投票全面禁止 TikTok",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74676",
-          "author": null,
-          "description": "从暗网市场丝绸之路窃取价值逾 30 亿美元比特币的男子 James Zhong 被判一年零一天。32 岁的 Zhong 是在 2012 年 9 月从丝绸之路非法获取了 5 万枚比特币。Zhong 窃取的比特币当时只价值 66 万美元，他是利用快存快取的方式欺骗丝绸之路的提款系统，举例来说，他先向一个丝绸之路钱包储存了 500 比特币，然后在不到 5 秒中执行 5 次 500 比特币提款，他从未在丝绸之路购买任何商品。Zhong 是在 2021 年 11 月被捕的，当时比特币的币值正处于高位，扣押的 5 万多比特币价值 34 亿美元，今天它的币值降到了 15.7 亿美元。Zhong 在去年 11 月认罪，承认电信欺诈，其窃取加密货币资产被没收。",
-          "link": "https://www.solidot.org/story?sid=74676",
-          "publishedOn": "2023-04-15T09:46:03.000Z",
-          "wordCount": 191,
-          "title": "盗窃丝绸之路逾 30 亿美元比特币的男子被判一年零一天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74675",
-          "author": null,
-          "description": "根据周五公开的法庭文件，硅谷高管 Bob Lee 遇刺案件牵连到凶手 Nima Momeni 的妹妹，加上 Momeni 来自伊朗，本案被发现带有某种伊斯兰教的荣誉谋杀意味。Momeni 与 Lee 曾在 4 月 3 日在旧金山的一家旅馆房间内对峙，之前 Lee 与 Momeni 的妹妹等人一起喝过酒，Momeni 质问 Lee 他的妹妹是否嗑药或其他任何不得体的行为，Lee 告诉他没有任何不得体的事情发生。监控录像显示 Momeni 当晚去了他妹妹的家，时间是在 8:30 p.m 左右，Lee 在 12:30 a.m 左右抵达，两人于凌晨 2 a.m 左右一起乘坐 Momeni 的宝马汽车离开。汽车开到一个偏僻的地方之后两人一起下车，大约五分钟后 Momeni 突然对 Lee 动手，刺了他三下，随后迅速驾车离开。Momeni 的妹妹已婚，她发信息给 Lee 询问他是否一切还好。",
-          "link": "https://www.solidot.org/story?sid=74675",
-          "publishedOn": "2023-04-15T08:49:17.000Z",
-          "wordCount": 193,
-          "title": "Bob Lee 遇刺与凶手妹妹相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74674",
-          "author": null,
-          "description": "OpenAI 联合创始人兼 CEO Sam Altman 在讨论 AI 带来的威胁时确认该公司目前没有在训练 GPT-5——GPT-5 是 OpenAI 今年 3 月发布的 GPT-4 的下一代系统。OpenAI 尚未开始训练 GPT-5 并不意味着该公司没有在扩展 GPT-4 的功能。他表示 GPT-4 还有各种安全问题需要解决。",
-          "link": "https://www.solidot.org/story?sid=74674",
-          "publishedOn": "2023-04-14T16:05:09.000Z",
-          "wordCount": 175,
-          "title": "OpenAI CEO 确认该公司目前没有在训练 GPT-5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74673",
-          "author": null,
-          "description": "4 月 14 日 14:14 CEST，ESA 在法属圭亚那的航天港使用 Ariane 5 火箭成功发射木星卫星探测器 Juice。探测器旨在确定木星三颗存在地下海洋的卫星 Ganymede（木卫三）、Callisto（木卫四） 和 Europa（木卫二） 是否能维持生命。Juice 代表 Jupiter Icy Moons Explorer，它将于 2031 年 7 月抵达木星轨道，2034 年 12 月进入木卫三 Ganymede 的轨道，成为第一艘环绕地球以外卫星的飞船。Ganymede 是木星最大的卫星，也是太阳系最大的卫星，是唯一有磁圈的卫星。Juice 将利用其搭载的探测器获取卫星地下海洋的信息。",
-          "link": "https://www.solidot.org/story?sid=74673",
-          "publishedOn": "2023-04-14T15:24:44.000Z",
-          "wordCount": 179,
-          "title": "ESA 成功发射木星卫星探测器 Juice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74672",
-          "author": null,
-          "description": "中国计划大幅削减火箭发射费用以迎接 SpaceX 可复用火箭带来的挑战。长征火箭目前将载荷发射到地球轨道的费用大约为每公斤 3000 美元。相比下 NASA 航天飞机发射每公斤载荷的费用超过 6 万美元。但 SpaceX 的 Falcon 9 火箭通过重复利用第一级已经将发射费用降低到与长征火箭相似的水平。SpaceX 的新火箭 Starship Super Heavy 预计还将会进一步降低发射费用。马斯克（Elon Musk）声称 Starship 能将发射费用降至每公斤 10 美元，许多人相信这是夸大之词，但认为它能将发射费用降至每公斤数百美元。中国正在开发新型可复用发射载具，当局希望能重复使用百次以上，每千次飞行的失败率低于 3 次，将有效载荷发射费用降至每公斤 150 美元，保持对 SpaceX 的价格竞争力。",
-          "link": "https://www.solidot.org/story?sid=74672",
-          "publishedOn": "2023-04-14T14:57:46.000Z",
-          "wordCount": 184,
-          "title": "中国计划大幅削减火箭发射费用以迎接 SpaceX 的挑战",
-          "imageUrl": null
         }
       ]
     },
@@ -3392,6 +3352,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/741777/",
+          "author": null,
+          "description": "新浪科技讯，北京时间 5 月 15 日早间消息，据报道，苹果公司还要再过几周才能发布下一代搭载 M2 芯片的 Mac 电脑，但这并不妨碍它为后续的 M3 处理器做准备。 该公司已经开始测试搭载 M3 芯片的下一代 Mac，并通过测试第三方应用来确保这些设备与其软件生态系统的兼容性。这并非外界首次得以\n本文链接",
+          "link": "https://news.cnblogs.com/n/741777/",
+          "publishedOn": "2023-05-15T01:10:15.000Z",
+          "wordCount": 163,
+          "title": "苹果已开始测试新芯片？消息称首批搭载M3芯片的Mac或在今年底上市",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741776/",
+          "author": null,
+          "description": "品玩 5 月 13 日讯，科大讯飞在投资者活动中，就“星火大模型在发布会后持续的规划和目标”这一问题给出了详细的答案。 附星火大模型里程碑规划： 6 月 9 日：突破开放式问答（即实时问答），通过类搜索插件获取知识，以更人性化的方式呈现。此外，升级多轮对话能力，数学能力还会再上一个新的台阶。 8 月\n本文链接",
+          "link": "https://news.cnblogs.com/n/741776/",
+          "publishedOn": "2023-05-15T00:52:00.000Z",
+          "wordCount": 163,
+          "title": "讯飞星火大模型规划：今年10月24日在通用认知大模型能力上对标ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741775/",
+          "author": null,
+          "description": "“魔角”石墨烯自旋结构艺术图。图片来源：物理学家组织网 科技日报讯 （记者刘霞）美国桑迪亚国家实验室综合纳米技术中心和奥地利因斯布鲁克大学的科学家在最新一期《自然·物理学》杂志上发表论文称，他们首次观测到了二维（2D）材料内的自旋结构。这一进展为直接研究电子在 2D 量子材料内的自旋特性奠定了基础，\n本文链接",
+          "link": "https://news.cnblogs.com/n/741775/",
+          "publishedOn": "2023-05-15T00:49:29.000Z",
+          "wordCount": 163,
+          "title": "二维材料内首次探测到自旋结构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741774/",
+          "author": null,
+          "description": "拓扑量子计算是通过缠绕非阿贝尔任意子的“世界线”来完成的。 图片来源：谷歌量子人工智能 科技日报讯 （记者张佳欣）在去年 10 月发布在预印服务器 arXiv 上并于今年 5 月 11 日发表在《自然》杂志上的一篇论文中，谷歌“量子人工智能”团队宣布，他们首次使用超导量子处理器观察到了非阿贝尔任意子\n本文链接",
+          "link": "https://news.cnblogs.com/n/741774/",
+          "publishedOn": "2023-05-15T00:38:06.000Z",
+          "wordCount": 163,
+          "title": "超导量子芯片成功编织非阿贝尔任意子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741773/",
+          "author": null,
+          "description": "IT 之家 5 月 14 日消息，普林斯顿大学、斯坦福大学和谷歌的一组研究人员，利用 OpenAI 的 GPT-3 Davinci 模型，研发出了一款能听懂英语指令并执行家务的机器人，名为 TidyBot。这款机器人可以根据用户的喜好，自动完成如分类洗衣服、捡起地上的垃圾、收拾玩具等任务。 GPT-\n本文链接",
+          "link": "https://news.cnblogs.com/n/741773/",
+          "publishedOn": "2023-05-15T00:24:41.000Z",
+          "wordCount": 163,
+          "title": "使用GPT-3模型，研究人员研发出能听懂英语指令并执行家务的机器人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741772/",
+          "author": null,
+          "description": "规模化之后无法逃避研发效能问题 在 上篇文章 中提到，研发效能是在一定的规模下才会出现的话题。这在我过往的经历中也得到了验证。 在我经历的项目中，有些小型项目预算较少，团队规模小，架构复杂度较低，沟通链路很短，遇到的问题也相对简单，研发效能这个词在这样的项目上显得有些大，有些远。从根本上来说，团队并\n本文链接",
+          "link": "https://news.cnblogs.com/n/741772/",
+          "publishedOn": "2023-05-14T23:07:00.000Z",
+          "wordCount": 163,
+          "title": "研发效能治理：复杂性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741771/",
+          "author": null,
+          "description": "18 个月后，GitHub 终于宣布向所有用户开放全新的代码搜索引擎。 在软件开发的过程中，阅读和理解代码是一项基础工作。无论是实现新功能，还是查找 bug，开发人员首先要阅读和理解代码，这个时间甚至多于编写代码。如果能够像搜索引擎一样，快速找到开发需要的上下文代码，那么软件开发的效率将会大幅提升。\n本文链接",
+          "link": "https://news.cnblogs.com/n/741771/",
+          "publishedOn": "2023-05-14T23:00:00.000Z",
+          "wordCount": 163,
+          "title": "GitHub 全新代码搜索引擎正式上线，但用户对新产品“不买账”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741770/",
+          "author": null,
+          "description": "AI 公司 Anthropic 宣布它类似 ChatGPT 的语言模型 Claude AI 能在一分钟内分析整本书。它将 Claude 的上下文窗口扩大到了 100,000 tokens，或相当于 7.5 万字。 Claude 是类似 OpenAI GPT-4 的大语言模型，tokens 是简化 A\n本文链接",
+          "link": "https://news.cnblogs.com/n/741770/",
+          "publishedOn": "2023-05-14T22:02:43.000Z",
+          "wordCount": 163,
+          "title": "Anthropic 的 Claude AI 能在一分钟内分析整本书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741769/",
+          "author": null,
+          "description": "微软本周释出了补丁修复了一个被 BlackLotus bootkit 利用的 Secure Boot 绕过漏洞。微软在今年 1 月释出补丁修复了编号为 CVE-2022-21894 的漏洞，但该补丁并不完整，攻击者很快找到了绕过方法。 本周释出的补丁修复了新漏洞 CVE-2023-24932。微软称\n本文链接",
+          "link": "https://news.cnblogs.com/n/741769/",
+          "publishedOn": "2023-05-14T22:00:13.000Z",
+          "wordCount": 163,
+          "title": "微软将用一年时间完成对一个 0day 漏洞的修补",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741768/",
+          "author": null,
+          "description": "IT 之家 5 月 14 日消息，暑期实习是美国硅谷的传统之一，为期 3 个月左右的时间。但随着今年以来美国大型科技公司裁员潮的持续蔓延，绝大多数科技公司近日都表示要削减今年暑期的实习生规模。 据《财富》杂志报道，谷歌、Meta、英伟达等公司都表示，今年夏天招收的实习生数量将比往年少。其中，谷歌曾经\n本文链接",
+          "link": "https://news.cnblogs.com/n/741768/",
+          "publishedOn": "2023-05-14T11:42:56.000Z",
+          "wordCount": 163,
+          "title": "硅谷暑期实习生遭遇寒冬，科技公司大幅缩减招聘规模",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741767/",
+          "author": null,
+          "description": "让科技创新更有价值地驱动平台和内容发展，爱奇艺是怎么做到的？ 文｜园长 编｜陈梅希 爱奇艺创始人、CEO 龚宇 “我们已经有两部剧尝试了虚拟拍摄，用一块 8 米高的屏幕虚拟呈现拍摄场景。”2023 的爱奇艺世界大会上，CEO 龚宇特别提到了“虚拟拍摄”技术——爱奇艺推进影视工业化的两大抓手之一，“应\n本文链接",
+          "link": "https://news.cnblogs.com/n/741767/",
+          "publishedOn": "2023-05-14T08:25:00.000Z",
+          "wordCount": 163,
+          "title": "造浪者爱奇艺",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741766/",
+          "author": null,
+          "description": "手机厂商纷纷加码折叠屏领域，新机型密集发布；显示材料、技术不断改进，产业链整合重塑……不过，和普通智能手机相比，折叠屏手机的屏幕既是它的优点，也是它的缺点。小编注意到，5 月 13 日上午，华为终端 BG CTO 李小龙发文恳请用户不要在折叠屏手机上贴保护膜。 图片来源：@李小龙 Bruce_Lee\n本文链接",
+          "link": "https://news.cnblogs.com/n/741766/",
+          "publishedOn": "2023-05-14T08:15:00.000Z",
+          "wordCount": 163,
+          "title": "华为高管紧急提醒！这件事恳请千万别做，小心失去保修",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741765/",
+          "author": null,
+          "description": "出品虎嗅汽车组 作者王笑渔 头图视觉中国 这两年，特斯拉的傲慢，肉眼可见。 2021 年 5 月，特斯拉全球副总裁陶琳的一句话，传遍了整个中国社交媒体。她的原话是这样说的：“在车辆的使用环节，可能要加强消费者的教育。” 当时陶琳认为：“我们需要去跟驾校、交通部门去合作，让大家了解新型汽车的使用方法，\n本文链接",
+          "link": "https://news.cnblogs.com/n/741765/",
+          "publishedOn": "2023-05-14T08:08:54.000Z",
+          "wordCount": 163,
+          "title": "傲慢的特斯拉屈服了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741764/",
+          "author": null,
+          "description": "你知道你家里有多少联网设备吗 ？如今，它几乎可以是任何东西：恒温器、电视、灯泡、空调或冰箱。我在过去几周跟一些专家聊了聊，现在我知道它们生成了多少数据，以及如果可以，有多少人能够访问这些数据。简而言之，有很多人。 与我讨论的是物联网取证领域的工作人员。物联网取证本质上是窥探这些设备，以寻找重要数据并\n本文链接",
+          "link": "https://news.cnblogs.com/n/741764/",
+          "publishedOn": "2023-05-14T08:00:00.000Z",
+          "wordCount": 163,
+          "title": "心率和步数都有可能是犯罪证据？智能家居信息已被用于助力破案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741763/",
+          "author": null,
+          "description": "萧箫发自凹非寺，量子位公众号 QbitAI 用 ChatGPT 写代码，已经是不少程序员的常规操作了。 △ “至少提速3~5 倍” 但你有没有想过，ChatGPT 生成的代码，有不少只是“看起来准确”而已？ 来自伊利诺伊大学香槟分校和南京大学的一项最新研究表明： ChatGPT 和 GPT-4 生成\n本文链接",
+          "link": "https://news.cnblogs.com/n/741763/",
+          "publishedOn": "2023-05-14T07:04:56.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT编程准确率暴降13%！UIUC&南大新基准让AI代码现原形了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741762/",
+          "author": null,
+          "description": "进入 2023 年，芯片市场依旧大幅下滑，特别是 PC、手机、存储领域，随着经济逆风持续，疲软的终端市场电子产品需求正从消费者蔓延至企业，造成不确定的投资环境。在本文截稿前，OPPO 造芯团队哲库三千人大军一夜解散的消息更是在朋友圈刷屏，其中对未来市场的悲观不言自明。 此外，芯片供过于求导致库存增加\n本文链接",
+          "link": "https://news.cnblogs.com/n/741762/",
+          "publishedOn": "2023-05-14T05:16:30.000Z",
+          "wordCount": 163,
+          "title": "汽车芯片，寒意来袭！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741761/",
+          "author": null,
+          "description": "Google 发布了实验性的 AI 文本音乐生成工具 MusicLM。用户现在可通过 AI Test Kitchen 应用试用。 Google 是在今年初宣布了 MusicLM，该模型使用了 28 万小时的音乐数据集进行训练，学习从复杂的文本描述中生成连贯的歌曲。当时 Google 没有公开测试，原\n本文链接",
+          "link": "https://news.cnblogs.com/n/741761/",
+          "publishedOn": "2023-05-14T04:59:39.000Z",
+          "wordCount": 163,
+          "title": "Google 发布 AI 文本音乐生成工具 MusicLM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741760/",
+          "author": null,
+          "description": "「核心提示」 徐雷交棒，京东迎来首位女性 CEO 许冉。如何贯彻刘强东的战略，使得京东重回高速增长期，许冉压力不小。除了许冉，淘宝天猫集团的戴珊、拼多多的阿布，电商江湖一超多强里的“一号位”都被女性掌控。即将到来的 618 大促，成为检验几位女掌门的关键战场。 作者 朱晓宇 编辑 邢昀 5 月 11\n本文链接",
+          "link": "https://news.cnblogs.com/n/741760/",
+          "publishedOn": "2023-05-14T02:25:00.000Z",
+          "wordCount": 163,
+          "title": "刘强东挑了位女CEO 电商江湖流行女掌门",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741759/",
+          "author": null,
+          "description": "OPPO 旗下芯片设计公司哲库（ZEKU）的突然关停，给手机公司下场自研芯片关上了一扇门。 当前手机公司自研芯片主要有两条路径，其一是芯片设计工作完全依靠自己；其二是自己仅做定义和部分设计，其他交由合作伙伴协同完成。 前者典型是苹果、华为海思、三星和刚刚宣布止步的哲库，后者则主要是 vivo。 苹果\n本文链接",
+          "link": "https://news.cnblogs.com/n/741759/",
+          "publishedOn": "2023-05-14T02:17:00.000Z",
+          "wordCount": 163,
+          "title": "自研芯片成“吞金兽”，手机厂商该如何抉择？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741758/",
+          "author": null,
+          "description": "深燃（shenrancaijing）原创 作者唐亚华 编辑黎明 京东再一次发生人事大地震，二号位易主。 5 月 11 日，京东宣布，公司现任 CFO 许冉将接替徐雷担任 CEO，向刘强东汇报。 徐雷加入京东十余年来，先后在京东商城、CMO 体系、京东零售、京东集团等多个岗位任职。此前在 2022 年\n本文链接",
+          "link": "https://news.cnblogs.com/n/741758/",
+          "publishedOn": "2023-05-14T02:11:00.000Z",
+          "wordCount": 163,
+          "title": "京东换帅，革自己的命？",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/741756/",
           "author": null,
@@ -8640,226 +8800,6 @@
           "publishedOn": "2023-04-16T10:35:00.000Z",
           "wordCount": 163,
           "title": "科学家发现一颗新的「准月球」正围绕地球运转",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740123/",
-          "author": null,
-          "description": "图片来源：Unsplash 论文标题：Sleep cycle-dependent vascular dynamics in male mice and the predicted effects on perivascular cerebrospinal fluid flow and solute \n本文链接",
-          "link": "https://news.cnblogs.com/n/740123/",
-          "publishedOn": "2023-04-15T11:41:01.000Z",
-          "wordCount": 163,
-          "title": "睡觉太关键了！科学家发现睡眠时的奇特模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740124/",
-          "author": null,
-          "description": "出品｜虎嗅商业消费组 作者｜苗正卿 题图｜视觉中国 “这次变化，意味着淘宝天猫商业集团和阿里巴巴集团的分拆彻底完成。”一位阿里相关人士向虎嗅表示，“对淘宝天猫员工而言调整已经结束，不必再猜测，可以安心工作。” 4 月 12 日，淘宝天猫商业集团完成新一轮组织架构调整：2022 年维持一年的三大中心模\n本文链接",
-          "link": "https://news.cnblogs.com/n/740124/",
-          "publishedOn": "2023-04-15T07:11:00.000Z",
-          "wordCount": 163,
-          "title": "淘宝天猫独立背后的变与不变",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740122/",
-          "author": null,
-          "description": "随着聊天机器人 ChatGPT 风靡全球，人们在对 AI 技术实现突破性进展欢欣鼓舞的同时，也开始深思这项技术可能会对社会产生的负面影响，例如，AI 是否可能会加剧社会不平等？ 财联社 4 月 14 日讯（编辑卞纯）随着聊天机器人 ChatGPT 风靡全球，人们在对 AI 技术实现突破性进展欢欣鼓舞\n本文链接",
-          "link": "https://news.cnblogs.com/n/740122/",
-          "publishedOn": "2023-04-15T07:07:00.000Z",
-          "wordCount": 163,
-          "title": "AI加剧不平等？美参议员：要确保AI普惠大众 不能只为亿万富翁服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740120/",
-          "author": null,
-          "description": "这不是一个下游获利，上游承压的简单故事。 文丨李梓楠 编辑丨程曼祺 本周四，上海有色金属网的电池级碳酸锂公开市场报价来到 19.5 万元 / 吨，今年以来已跌去 27 万元，下跌 58% 。据《晚点 Auto》了解，行业里的实际成交价已来到约 16 万元 / 吨。 锂价超预期下跌牵动着万亿新能源车市\n本文链接",
-          "link": "https://news.cnblogs.com/n/740120/",
-          "publishedOn": "2023-04-15T07:00:00.000Z",
-          "wordCount": 163,
-          "title": "成交价来到16万元，锂价暴跌的连锁反应",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740121/",
-          "author": null,
-          "description": "Tech 星球 4 月 14 日消息，据 36 氪报道，华为与江淮汽车合作的智选车，将定位超高端豪华纯电市场，价位区间约在 80 万-100 万元。 报道称，在此次与华为的合作中，江淮明显有意学习华为的工程开发体系，因此向华为开放了更灵活的合作空间。 “这次包括整车研发、电子电气架构、三电，华为也会\n本文链接",
-          "link": "https://news.cnblogs.com/n/740121/",
-          "publishedOn": "2023-04-15T06:57:00.000Z",
-          "wordCount": 163,
-          "title": "消息称华为与江淮合作推智选车：售价80万-100万元，定位豪华纯电",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740119/",
-          "author": null,
-          "description": "·欧洲木星探测器 2023 年 4 月发射，2031 年 7 月抵达木星，将解开五大谜团，探讨两个核心主题：太阳系是如何工作的？行星形成和生命出现的条件是什么？JUICE 的核心目标之一是确定木星的卫星是否是可能的生命栖息地。 哈勃望远镜 2021 年对木星的观测。 4 月 14 日，欧洲航天局成功\n本文链接",
-          "link": "https://news.cnblogs.com/n/740119/",
-          "publishedOn": "2023-04-15T06:50:00.000Z",
-          "wordCount": 163,
-          "title": "成功发射！欧洲探测器飞向木星，将探索木星卫星是否存在生命",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740118/",
-          "author": null,
-          "description": "作者 ZeR0 编辑漠影 微软和 Meta 就像两列势不可挡的列车，以惊人的速度驶向前方。 智东西 4 月 14 日报道，继释放一系列大模型开源大招后，Meta AI 的基础人工智能研究（FAIR）团队发布了首个 AI 动画绘图（Animated Drawings）开源项目，用 AI 技术轻松让各种\n本文链接",
-          "link": "https://news.cnblogs.com/n/740118/",
-          "publishedOn": "2023-04-15T06:44:00.000Z",
-          "wordCount": 163,
-          "title": "Meta又甩出AI开源大作！将涂鸦变动画，还公开了新数据集",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740117/",
-          "author": null,
-          "description": "4 月 14 日，今日雷军表示，小米在 AI 领域已经耕耘多年，对于大模型，小米当然会全力以赴，坚决拥抱。公司们正在研发一些有趣的技术和产品，等打磨好了，再给大家展示。 以下是雷军微博原文： @雷军：经常有朋友问我，小米对大模型和 AIGC 怎么看？我统一回复如下：小米在 AI 领域已经耕耘多年，有\n本文链接",
-          "link": "https://news.cnblogs.com/n/740117/",
-          "publishedOn": "2023-04-15T06:35:00.000Z",
-          "wordCount": 163,
-          "title": "雷军：小米坚决拥抱大模型，一些产品等打磨好了再展示",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740116/",
-          "author": null,
-          "description": "根据三方数据服务商的数据，今年 3 月平均每天有近 3.8 亿人用手机刷淘宝，比用拼多多的人多 2600 余万人。这是自 2022 年 2 月以来，手淘的月均每日活跃用户数（DAU）首次超过拼多多。 拼多多 3 月 DAU 环比下跌 9%，促成了手淘的反超。后者当月 DAU 环比微增 2.4%。此消\n本文链接",
-          "link": "https://news.cnblogs.com/n/740116/",
-          "publishedOn": "2023-04-15T06:30:00.000Z",
-          "wordCount": 163,
-          "title": "淘宝 DAU 终于反超拼多多",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740115/",
-          "author": null,
-          "description": "·基于机器学习的分支字典学习方法，美国国家科学基金会国家光学红外天文研究实验室研究人员提供了一种弥补被观测物体信息缺失的方法，让人类首张黑洞照片更清晰。这一技术还可以应用于银河系中心黑洞人马座A*的观测。 人类首张黑洞照片被 AI 提升至高清画质。 4 年前，人类史上首张黑洞照片问世；4 年后，AI\n本文链接",
-          "link": "https://news.cnblogs.com/n/740115/",
-          "publishedOn": "2023-04-15T06:07:00.000Z",
-          "wordCount": 163,
-          "title": "AI技术重构人类第一张黑洞照片：更清晰、高保真",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740114/",
-          "author": null,
-          "description": "·“我真的很惊讶，这个模型能知道我们谁是谁，而不仅仅是模仿我们说话的方式。它知道我们在和谁约会，我们在哪里上的学，我们的住址是什么，等等。” ·这引发了一定程度的担忧。在过去，创建六个不同个性的成员参与且令人信服的 AI 群聊，可能需要一个大学团队几个月完成，现在只需要一点专业知识和很少的预算，而且\n本文链接",
-          "link": "https://news.cnblogs.com/n/740114/",
-          "publishedOn": "2023-04-15T00:30:00.000Z",
-          "wordCount": 163,
-          "title": "AI群聊出现！用50万条真人聊天记录训练，个性十足年代感稍弱",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740113/",
-          "author": null,
-          "description": "三言科技 4 月 14 日消息，今日王小川回怼了百度副总裁、搜索平台负责人肖阳“王小川脱离一线太久，确实和我们不在一个宇宙”的言论。 王小川表示，“什么样的平行宇宙里，才能做到让一个脱离一线 15 年的人，去怼一个脱离一线 1.5 年的人。 ” 据此前报道，这场论战最开始是王小川对于李彦宏关于“百度\n本文链接",
-          "link": "https://news.cnblogs.com/n/740113/",
-          "publishedOn": "2023-04-15T00:20:00.000Z",
-          "wordCount": 163,
-          "title": "王小川回怼百度副总裁：脱离一线15年的人，去怼离开1.5年的人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740112/",
-          "author": null,
-          "description": "“新物种”的诞生之路果然总是充满意外，贾跃亭的超豪华汽车“FF 91 Futurist”交付时间再次跳票，供应商能力和资金紧缺的问题再次暴露。 图片源自贾跃亭微博 交付延期还是缺钱！ 根据 FARADAY FUTURE（简称“FF 公司”，中文为“法拉第未来”）在美国新闻稿发布网站 Business\n本文链接",
-          "link": "https://news.cnblogs.com/n/740112/",
-          "publishedOn": "2023-04-15T00:12:00.000Z",
-          "wordCount": 163,
-          "title": "突发！贾跃亭，又“跳票”了！用户：还有未来吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740111/",
-          "author": null,
-          "description": "4 月 14 日消息，OpenAI CEO 萨姆·奥尔特曼(Sam Altman)最近确认，公司目前没有在训练 GPT-5，而且“短期内也不会训练”。 OpenAI 今年三月发布的大语言模型 GPT-4，GPT-5 被认为是其继任者。 最近在科技界流传的一封公开信，要求像 OpenAI 这样的实验室\n本文链接",
-          "link": "https://news.cnblogs.com/n/740111/",
-          "publishedOn": "2023-04-15T00:06:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI CEO：公司目前没有训练GPT-5，短期内也不会训练",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740110/",
-          "author": null,
-          "description": "到 2025 年，实现在所有苹果设计的电池中使用 100% 再生钴；产品设备中的磁铁将完全使用再生稀土元素；设计的所有印刷电路板将使用 100% 再生锡焊料和 100% 再生镀金。 财联社 4 月 14 日讯（编辑赵昊）当地时间周四（4 月 13 日），科技巨头苹果在官网宣布，将在公司产品中推动使用\n本文链接",
-          "link": "https://news.cnblogs.com/n/740110/",
-          "publishedOn": "2023-04-15T00:00:00.000Z",
-          "wordCount": 163,
-          "title": "苹果官宣重磅环保举措：2025年起全面采用再生钴和再生稀土",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740109/",
-          "author": null,
-          "description": "近日，丰田汽车新任社长佐藤恒治在媒体交流会上表示，“我们在纯电汽车的开发上失败了，且在实践中发现了很多问题。通过 bZ4X 车型的开发，丰田汽车将重新思考业务结构，并在中国建立全新的研发体制以扭转在中国电动汽车市场的颓势。 丰田计划从今年开始建立一个在中国可以完成自循环的研发体系。换言之，未来的产品\n本文链接",
-          "link": "https://news.cnblogs.com/n/740109/",
-          "publishedOn": "2023-04-14T23:52:00.000Z",
-          "wordCount": 163,
-          "title": "丰田承认纯电车型开发失败，计划在中国建立本地自循环研发体系",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740108/",
-          "author": null,
-          "description": "天有不测风云（参数丨图片），据报道，法拉第未来的 FF 91 新车似乎“又”要推迟交付了。原本这里不该用“又”这个字，因为之前人家法拉第未来都是在推迟新车量产。其实，这本质上是一件事情：新车推迟交付，大概率又是量产出现了问题。 法拉第未来的解释是：某些供应商通知公司，他们无法让 FF 91 在 4 \n本文链接",
-          "link": "https://news.cnblogs.com/n/740108/",
-          "publishedOn": "2023-04-14T23:49:00.000Z",
-          "wordCount": 163,
-          "title": "法拉第未来推迟交付FF 91新车 这次又是哪出了问题？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740107/",
-          "author": null,
-          "description": "4 月 14 日消息，美国当地时间周四，飞机制造商波音公司警告称，由于供应商提供的零部件存在质量问题，短期内将影响 737 Max 的产量和交付量。 波音表示，其供应商 Spirit AeroSystems 告知该公司，机身后部的两个配件使用了“非标准”制造工艺。这个问题影响了波音最受欢迎的机型 7\n本文链接",
-          "link": "https://news.cnblogs.com/n/740107/",
-          "publishedOn": "2023-04-14T23:41:00.000Z",
-          "wordCount": 163,
-          "title": "波音警告：因零部件质量问题 737 Max产量和交付量短期内将减少",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740106/",
-          "author": null,
-          "description": "作者｜崔玉贤 出品网易科技《态℃》栏目组 2022 年 8 月 12 日，李明梦开始的日子。 如果说黎万强是李明的亦师亦友的老领导，他的投资决策可能会掺杂些个人的情感，那么随后在不到 2 个月时间内，乐天派再次拿下深圳联泰汇佳 1000 万的天使轮投资，黎万强再次跟投 300 万，这个时候，在网易科\n本文链接",
-          "link": "https://news.cnblogs.com/n/740106/",
-          "publishedOn": "2023-04-14T23:35:00.000Z",
-          "wordCount": 163,
-          "title": "前小米9号员工创业 不到2个月获黎万强两次投资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740105/",
-          "author": null,
-          "description": "文 / 四海 出品 / 节点商业组 如果你现在打开魅族官网，首先映入眼帘的不是魅族手机，而是 Flyme Auto &领克 08 意向调研。当你向下滑动页面时，才能看到前几天刚刚发布的魅族 20 系列。 不管魅友愿不愿意承认，如今的魅族手机，很难说得上是魅族的重点。 去年 7 月，湖北星纪时代收购了\n本文链接",
-          "link": "https://news.cnblogs.com/n/740105/",
-          "publishedOn": "2023-04-14T23:26:00.000Z",
-          "wordCount": 163,
-          "title": "魅族重生，给吉利做嫁衣？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740104/",
-          "author": null,
-          "description": "燃次元（ID：chaintruth）原创 作者马舒叶 编辑 谢中秀 一夜之间，大厂纷纷卷起了 AI 大模型。 继百度文心一言之后，360GPT 大模型、华为“盘古大模型”迅速跟上，仅在 2023 年 4 月 10 日，一天内三个大模型争相“官宣”，包括搜狗创始人王小川的“百川智能”、商汤科技的日日新\n本文链接",
-          "link": "https://news.cnblogs.com/n/740104/",
-          "publishedOn": "2023-04-14T23:15:00.000Z",
-          "wordCount": 163,
-          "title": "谁已经靠AI大模型赚到钱了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740103/",
-          "author": null,
-          "description": "来源：于见专栏 中国新能源车发展的格局如今依旧纷争不断，比亚迪、“蔚小理”、极氪、广汽 aion 等厂商不断争夺头部市场。其中，混动车市场是竞争最为激烈的。各大厂商争相研发自身的混动系统，近些年，我国厂商的混动技术已接近乃至超越日本丰田与本田的混动技术。 然而，一个传统车厂却在近年来研发了一款全新的\n本文链接",
-          "link": "https://news.cnblogs.com/n/740103/",
-          "publishedOn": "2023-04-14T23:07:00.000Z",
-          "wordCount": 163,
-          "title": "研发多年却卖白菜价，柠檬混动亏本难挣吆喝",
           "imageUrl": null
         }
       ]
