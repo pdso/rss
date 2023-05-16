@@ -70,6 +70,56 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/79486",
+          "author": "FreeCultureBoy",
+          "description": "在macOS系统中，我们可以轻松地更换桌面壁纸。但是，如果你每天都想要一张新的壁纸，手动更换就会变得十分繁琐。幸运的是，我们可以使用bash脚本和unsplash API自动更新壁纸。\n步骤1：获取unsplash API密钥\n首先，你需要注册一个unsplash账户，并申请一个API密钥。这个API密钥将允许你通过编程方式访问unsplash图片库。\n步骤2：编写bash脚本\n创建一个新的文本文件，然后在其中添加以下代码：\n#!/bin/bash\n\n# set the unsplash API access key\naccess_key=\"YOUR_UNSPLASH_API_ACCESS_KEY\"\n\n# define the query to search for wallpaper images\nquery=\"nature\"\n\n# search for a random wallpaper image\nresult=$(/usr/bin/curl -s -H \"Authorization: Client-ID $access_key\" \"https://api.unsplash.com/photos/random?query=$query\")\n\n# extract the image URL from the JSON response\nimage_url=$(echo \"$result\" | /opt/homebrew/bin/jq -r '.urls.full')\n\n# download the image\n/usr/bin/curl -s \"$image_url\" > ~/Pictures/wallpaper.jpg\n\n# set the image as the desktop wallpaper\nosascript -e \"tell application \\\"Finder\\\" to set desktop picture to POSIX file \\\"$HOME/Pictures/wallpaper.jpg\\\"\"\n这段代码会使用unsplash API搜索与“nature”相关的随机图片，并将其下载到“~/Pictures/wallpaper.jpg”文件中。然后，它会使用AppleScript将下载的图片设置为桌面壁纸。\n步骤3：运行bash脚本\n将文件保存为“update-wallpaper.sh”，然后打开终端并导航到该文件所在的目录。运行以下命令以使脚本可执行：\nchmod +x update-wallpaper.sh\n现在，你可以通过在终端中输入以下命令来运行脚本：\n./update-wallpaper.sh\n步骤4：设置定时任务\n脚本依赖：curl、jq、bash、unsplash，使用 which 获取路径，然后替换脚本里的curl和jq。\nwhich curl\nwhich jq\n你可以将该脚本设置为定时任务，以便每天自动更新壁纸。打开“终端”并输入以下命令以编辑cron定时任务：\ncrontab -e\n然后，添加以下行：\n0 9 * * * /path/to/update-wallpaper.sh\n这将在每天上午9点运行该脚本。\n壁纸\n现在，你可以坐下来，放松一下，让你的macOS自动更新壁纸。享受吧！",
+          "link": "https://sspai.com/post/79486",
+          "publishedOn": "2023-05-15T02:07:00.000Z",
+          "wordCount": 729,
+          "title": "使用脚本更新 macOS 壁纸，让你每天看到不同的美景🖼️",
+          "imageUrl": "https://cdn.sspai.com/2023/04/27/50355954532ae5bf4fd59fa859bc78bb.png"
+        },
+        {
+          "id": "https://sspai.com/post/79773",
+          "author": "千里之豪",
+          "description": "先说结论：升级失败了，但在升级过程中，我也找到了别的途径来满足我最初的需求。\n一个服务器迁移带来的一系列问题\n现在作为一个程序员，谁还没有一个云服务器了（也就刚买了两年的我说到）。\n但当你真正去使用这个云服务器做一些好玩的事情的时候，你会发现处处都是坑。\n本文旨在分享一个普通人角度下获取公网 IP 的尝试，并非严谨的教程文，请悉知。\n高昂的云服务器续费和升级\n我现在使用的域名指向的是我一年前购买腾讯云服务器赠送的公网 IP，使用挺方便，我也正常走完了备案流程开启了服务器的 443 端口和 80 端口，但就这一年的体验来说并不算特别好，因为当时买的丐版套餐，带宽只有可怜的 10M，换算成我们平时使用的速率，也就是 1.25Mb/s ，再加上 frp 内网穿透导致的宽带打折……，我也查了升级 20M （2.5 Mb/s）的价格后，一年要多交 11000 元（跟云服务配置一起捆绑销售）。\n现在，甚至仅仅是续费这个10M的公网云服务器的价格，都已经比刚开始我购买时要高得多。\n\n刚刚购买时3年才500多块钱，现在仅仅是续费已经是一年一千多了\n个人申请固定 IP 的可能性\n换个思路，云服务器我看中的不就是他的公网 IP 吗，那我干脆直接去弄个公网 IP 不就行了，至于性能比它强的设备，树莓派4、Nas、电脑、甚至装了 Termux 的安卓手机都是可以胜任的。\n这个五一，我提前跟老家县城的宽带公司进行了多次沟通，了解到他们现在有一个优惠政策，可以让我用 2900元/年的价格享受到上下行同为 200M 的宽带，还送我固定 IP 地址，这不比云服务器香多了？\n于是我就安排了出行计划，正好趁这次回老家的机会把我服务器上边的服务也迁移掉。\n宽带公司提供的公网 IP 的问题\n五一当天，我用老家店里的营业执照申请了安装，师傅当天就上门了，速度非常到位。等宽带师傅装好新的光纤后，我测试了一下网络情况，…",
+          "link": "https://sspai.com/post/79773",
+          "publishedOn": "2023-05-15T02:04:26.000Z",
+          "wordCount": 721,
+          "title": "个人家庭宽带公网 IP 升级杂记",
+          "imageUrl": "https://cdn.sspai.com/2023/05/15/9d28f10dcc35e178ccbad63a97d44eac.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/79800",
+          "author": "玉树芝兰",
+          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n误判\n好几天之前，我就在 ChatGPT 选单里看到了 Code Interpreter。它正在灰度测试中 —— 先给一部分用户试用，如果反响不错并做了一定改进，就能推广给更多用户。\n\n可惜当时我没能正确理解它的含义，犯了一个大错误——望文生义。我以为 Code Interpreter 是指「代码解释器」，也就是给代码添加注释进行讲解的。可那不是 ChatGPT 早就有了的功能吗？干嘛还专门弄个新的模式出来呢？\n后来经朋友提醒我才发现，Code Interpreter 的功能不是「解释代码」，而是执行代码。在这个模式下，你可以上传文件作为输入，让 Code Interpreter 编写代码对输入文件做处理，并且在自带的虚拟环境中执行。根据代码内容的不同，它可以利用文本、数字、图形、表格等方式给你展示结果，甚至还可以给你一个下载链接，把你指定的输出以文件形式下载回本地。\n当我意识到这一点时，真可以用「惊讶」和「懊恼」来形容。我迫不及待尝试后，赶紧写作本文，告诉你这个功能。以免你跟我一样望文生义，重蹈覆辙。\n下面我用一个实际的例子给你演示。\n实例\n首先我们需要一个演示数据集。这里我选择了一个名为 loans.csv 的贷款安全数据集。它是一张表格，属于简单结构数据，其中包含若干行，每一行代表一条贷款记录；而每列则代表某一相关属性特征，例如贷款等级，房屋拥有情况，贷款时长等信息。\n最后一列 safe_loans 代表贷款成功或失败，也即这次放款是否安全。其中 -1 代表不安全。1 代表贷款安全回收。\n\n首先我们需要将数据集上传到 C…",
+          "link": "https://sspai.com/post/79800",
+          "publishedOn": "2023-05-14T08:42:02.000Z",
+          "wordCount": 802,
+          "title": "如何用 ChatGPT 帮你自动分析数据？",
+          "imageUrl": "https://cdn.sspai.com/2023/05/14/7e760c34efca3ad8de9fb76be98d07d9.png"
+        },
+        {
+          "id": "https://sspai.com/post/79755",
+          "author": "桃tao",
+          "description": "用过 Notion 都知道它的 Database 很强大，可以用来做很多事，但是有两个问题：\n\nNotion Database 移动端不友好，在手机上查看或是输入都不太方便\n不原生支持图表\n\n我做了一个 APP 叫「数据方舟」，和 Notion Database 原理类似，但它是移动端优先的，而且原生支持多种图表，像用的柱状图，折线图等，也支持热力图，日历等。\n打开 APP 咋看之下可能会觉得不像，这是为移动端优化的UI交互，来对比一下：\n1）Notion 创建表格 ～ 方舟创建模版\n\n \n2）Notion 表格的列 ～ 方舟模版的类型（现在支持 8 种类型）\n\n \n3）Notion 表格一行 ～ 方舟的记录卡片\n\n \n4）支持多种图表：柱状图，折线图，饼图，热力图，日历，散点图，区间图\n\n \n「数据方舟」是一个通用型记录统计工具，自定义空间大，更专擅长于长尾场景下使用，通过“创建/选择模版”->\"添加记录\"->\"配置图表\"这三步可以组合出你自己喜欢的数据记录方式。\niOS, Android 都已上架欢迎下载试用和提出建议！",
+          "link": "https://sspai.com/post/79755",
+          "publishedOn": "2023-05-13T00:33:08.000Z",
+          "wordCount": 661,
+          "title": "把 Notion Database 做成独立APP",
+          "imageUrl": "https://cdn.sspai.com/2023/05/13/a0c13de1acab90076bb0baa40ece7816.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/79775",
+          "author": "Miobowl",
+          "description": "随着时代的发展，人们工作和生活中，开始注重如何更高效地收集信息，我也一直在思考如何用人工智能来帮助我提高效率。前几天，王树义老师介绍了他利用Tana Capture和Tana AI，通过语音转文字在Tana中自动生成书面化，结构化的笔记。这也引起了我的兴趣。\n本文将以flomo为例，介绍如何运用AI实现在快速把语音转成文字，优化表达，并把笔记打上标签，或者转换成自己想要的形式进行储存。\n所用软件\n本文用到的软件里必备的是OpenCat，其他的软件如Whisper Note、Flomo、Drafts等都可以根据自己的实际情况进行替换。\nOpenCat是熊大开发的一款Apple原生ChatGPT客户端，具体介绍可以参见 [OpenCat] https://sspai.com/post/78832 。它最吸引我的功能就是键盘拓展。我只需要提前在app内设置好相应prompt，复制了初始的文字之后，唤出OpenCat键盘拓展，选择所需prompt，即可自动在输入框中得到AI自动生成的内容。\n我常用的一些Prompt\n想要达成的效果\n平常在路上听播客、或者开脑洞的时候，经常会想到有些值得记录下来的内容。虽然 Flomo 本身的微信端提供了快速输入，也有其他多种 API 输入方式，但是语音输入效果总是不尽如人意，后期也需要重新进行整理并打上标签。\n\n我想要实现的就是把后两步交给AI，我只用管说就行了。基于这一目的，我先写一个优化语音转文字，并且在段落后自动加上想要格式的标签的 promt，通过opencat 键盘拓展实现了快速输入。\n具体流程：\n\n通过whisper notes 或者微信语音转文字生成草稿笔记\n复制笔记，\n点开笔记输入框\n切到OpenCat 键盘拓展，选择预设好的Prompt\n书面且带有标签的段落自动生成在输入框里\n\n举个栗子\n原语音转文字：\n在使用flomo这款笔记软…",
+          "link": "https://sspai.com/post/79775",
+          "publishedOn": "2023-05-12T11:15:56.000Z",
+          "wordCount": 768,
+          "title": "用AI增强移动端笔记效率 —— 从语音转文字和打标签说起",
+          "imageUrl": "https://cdn.sspai.com/2023/05/12/54d8881a8707a9e9502a3fad16a2a1fd.jpg"
+        },
+        {
           "id": "https://sspai.com/post/79740",
           "author": "阿斯酉",
           "description": "当你想要通过 AI 技术来改进工作流程、生活或学习时，ChatGPT 如同魔法师一样出现在眼前。魔法虽好，增强技能也必不可少——各类插件如同魔法棒，让你施咒变得更加轻松自在。\n本文为你介绍了一款值得一试的 ChatGPT 插件：Superpower for ChatGPT。这个插件提供了一些强大的功能，可以让聊天体验更上一层楼。\n以下是这款插件的 7 个超能力，让我们一探究竟。\n红色为重点介绍（为什么只有六个？请往下看）\n🗂 文件夹和重新排序\n你有没有试过在淘宝购物车里找一个特定的商品，然后花了好几个小时却毫无结果？这个插件就能帮你解决这个问题。\n该插件可以让你轻松创建文件夹，并将聊天记录组织在文件夹中。\n你可以拖放文件以重新排序或将其添加/移除到文件夹中，还可以为每个文件夹分配不同的颜色。\n文件夹管理对话，有效提高列表的清爽程度，也方便我们更好地管理内容。\n文件夹管理对话\n📜 社区提示语\n如果你正在寻找灵感，那么这个功能就像是一个巨大的灵感库，你可以从社区创建的提示语中获取灵感。\n你可以把这个功能想象成一个友好的邻居，他总是愿意分享，而你也可以把你的提示语分享给他。\n你还可以投票来表达你对某个提示语的喜欢程度，就像在社交媒体上点赞一样。\n\n⭐ 收藏提示语\n你是不是常常在与 ChatGPT 的对话中得到一些有价值的回答或者提示语，但是却找不到地方保存它们？这个功能就像是你的私人图书馆，能够帮助你保存你认为有价值的提示语。\n只需点击“My Prompt History”，历史记录就像从时间隧道中被召唤出来一样，展现在你的面前。\n\n🔎 搜索和高亮\n对于长期使用 ChatGPT 的用户来说，可能会有大量的聊天记录。\n如果你想要找到某个具体的信息，这可能会是一项挑战。而搜索和高亮功能正好可以解决这个问题，它如同一个侦探，可以帮助你在聊天记录中快速查找信息，为你高亮显示结果。\n…",
@@ -555,6 +605,86 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74967",
+          "author": null,
+          "description": "特斯拉在中国召回 110 万辆存在刹车风险的汽车。中国市场监管总局表示，本次召回范围内的车辆，没有允许驾驶员选择能量回收制动策略；同时，对驾驶员长时间深度踩下加速踏板的情况可能没有提供足够提醒。以上因素叠加可能增加长时间误踩加速踏板的概率，可能增加碰撞的风险，存在安全隐患。召回的汽车为生产日期在 2019 年  1月 12 日至 2023 年 4 月 24 日期间的部分进口 Model S、 Model X 、Model 3 及国产 Model 3 、Model Y 汽车，共计 1104622 辆。特斯拉计划通过汽车远程升级（OTA）技术，为召回范围内的车辆推送新开发的功能，以降低因长时间深踩加速踏板导致速度过快引起的碰撞风险。",
+          "link": "https://www.solidot.org/story?sid=74967",
+          "publishedOn": "2023-05-15T10:55:34.000Z",
+          "wordCount": 168,
+          "title": "因刹车风险特斯拉在中国召回逾百万辆汽车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74966",
+          "author": null,
+          "description": "科学家开发出一种由蚕丝制成的食品包装，其在接触腐烂食物时会变色，且能在土壤中迅速降解。研究论文发表在《ACS Nano》杂志上。研究人员称，易腐食品上贴的日期标签不能很好地预测食品何时会变质，这可能导致食物浪费或食物中毒。因此他们决定制作一种可对食物中的变化作出反应的新包装，以更好地指示食物何时变质。\n他们制作了4种类似塑料包装的薄膜，每种由两层组成，其中一层由从蚕丝中提取的蛋白质制成；另一层由一种共价有机框架（COF）制成。研究人员检查了这 4 种薄膜，确认其足够柔韧，可用作包装且无毒。随后，他们测试了这些薄膜是否能生物降解。结果显示，性能最好的薄膜在土壤中静置 30 天后，50% 的薄膜降解，与现有的可生物降解塑料相当。COF 层与液体交换质子和电子，因此新材料在浸入不同pH值溶液中时会变色。由于食物的 pH 值会随着变质而增加，研究人员用一块薄膜作为智能变色标签，贴在一包生鸡肉上。标签一开始是橙色的，在 30℃ 的温度下静置 20 小时后，标签颜色变浅了 17%，表明肉已经开始变质。",
+          "link": "https://www.solidot.org/story?sid=74966",
+          "publishedOn": "2023-05-15T10:45:11.000Z",
+          "wordCount": 157,
+          "title": "新包装材料能通过变色指示食物变质",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74965",
+          "author": null,
+          "description": "根据发表在《科学》期刊上的一项对果蝇的研究，饥饿感本身就足以减缓衰老。研究人员用几种方法诱导果蝇产生饥饿。第一种方法是改变测试零食中支链氨基酸(BCAAs)的含量，然后让果蝇自由地吃酵母或含糖食物。在自助餐中，喂食低支链氨基酸零食的果蝇比喂食高支链氨基酸零食的果蝇消耗更多的酵母而不是糖。这种对酵母的偏好超过了糖，这是基于需求的饥饿的一个指标。研究人员指出，这种行为不是由于低 BCAA 零食的卡路里含量。这些果蝇事实上消耗了更多的食物和更多的总热量。当果蝇终生食用低支链氨基酸食物时，它们的寿命也明显长于食用高支链氨基酸食物的果蝇。研究人员指出，在将研究结果应用于人类之前，应该谨慎使用，但“有充分的理由期待发现的机制可能会调节其他物种的饥饿驱动。”",
+          "link": "https://www.solidot.org/story?sid=74965",
+          "publishedOn": "2023-05-15T10:22:22.000Z",
+          "wordCount": 144,
+          "title": "研究认为饥饿感本身就能减缓衰老",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74964",
+          "author": null,
+          "description": "苹果准备推出混合现实头戴式装置。苹果预测，与迅速成为消费者必备品的 Apple Watch 或 iPhone 相比，这款头戴式装置的采用速度会比较慢。这款头戴式装置在上市前已经过七年的开发，它将是任何公司有史以来销售的最复杂消费品之一。苹果预计会在下个月宣布这款产品，最早要到秋天才能向大多数用户交付。了解该产品研发情况的知情人士说，鉴于将该款头戴式装置与新软件整合起来以及其生产和更广泛市场所面临的挑战，一些苹果员工和供应商对是否会延迟推出该款产品存有疑虑。该产品的售价预计会高达 3,000 美元左右。",
+          "link": "https://www.solidot.org/story?sid=74964",
+          "publishedOn": "2023-05-15T10:01:11.000Z",
+          "wordCount": 149,
+          "title": "苹果准备推出混合现实装置",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74962",
+          "author": null,
+          "description": "Pixel 6 和 7 用户通过社交平台 Reddit 和 Twitter 以及  Google 支持论坛，报告了手机过热和耗电量增加等问题。5 月 12 日释出的更新被认为是导致手机过热和耗电量过多的罪魁祸首，但用户报告回滚到旧版本对减少电池消耗基本没有什么帮助，因此一种可能性是问题发生在服务器端。可能是 Google 应用在持续连接其服务器或陷入某种死循环。",
+          "link": "https://www.solidot.org/story?sid=74962",
+          "publishedOn": "2023-05-15T07:04:20.000Z",
+          "wordCount": 172,
+          "title": "Pixel 6 和 7 用户报告过热和耗电量增加",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74961",
+          "author": null,
+          "description": "旨在将 Linux 移植到使用 Apple Silicon 芯片的 Mac 电脑上的发行版 Asahi Linux 督促用户停止使用 X.Org，因为 Wayland 代表着未来。开发者表示他们没有时间和资源解决 X.Org 上的问题，而 X.Org 也基本上没什么人维护了，主要 Linux 桌面发行版都认为是时候从 Xorg 转向 Wayland。Asahi Linux 将在未来的更新中从默认使用 Xorg 切换到默认使用 Wayland。",
+          "link": "https://www.solidot.org/story?sid=74961",
+          "publishedOn": "2023-05-15T06:23:29.000Z",
+          "wordCount": 180,
+          "title": "Asahi Linux 督促用户停止使用 X.Org",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74960",
+          "author": null,
+          "description": "2021 年初，开发 Elasticsearch 和 Kibana 的公司 Elastic 宣布更改许可证，新版本将不再使用 Apache 2.0 而是使用 Elastic License 和 Server Side Public License，此举旨在禁止云服务商如 AWS 使用它的软件作为一种服务提供给客户。但许可的更改也意味着 Elasticsearch 和 Kibana 不再是开源软件了。亚马逊随后宣布创建 ElasticSearch 开源分支 OpenSearch。两年之后，OpenSearch 从某种意义上成功了：下载量突破 1 亿，496 名贡献值递交了 8760 次 pull requests，Adobe 决定在 Adobe Commerce 套件中用 OpenSearch 取代 Elasticsearch，进入 DB-Engines 数据库流行度排名前五十。对比显示，OpenSearch 和 Elasticsearch 在基本功能和性能上没什么差异，Elasticsearch 有更多的功能，但需要客户额外付费，而某些类似功能 Elasticsearch 收费  OpenSearch 则免费提供。",
+          "link": "https://www.solidot.org/story?sid=74960",
+          "publishedOn": "2023-05-15T05:51:40.000Z",
+          "wordCount": 201,
+          "title": "亚马逊的 ElasticSearch 开源分支成功了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74959",
+          "author": null,
+          "description": "彭博社报道，苹果预计今年推出的下一代 M3 SoC 将有 12 个 CPU 核心和 18 个 GPU 核心。苹果正对此展开测试，报道援引了消息源发送的 App Store 开发者日志，显示一款未发布的 MacBook Pro 配备了 M3 SoC，操作系统是 macOS 14。苹果过去三年推出了 M1 和 M2 系列 SoC，其中 M1 标准版为 8 核 CPU 和 8 核 GPU，M2 标准版为 8核 CPU 和 10 核 GPU，都采用 5 纳米工艺制造。M3 SoC 将采用 3 纳米工艺制造，其 CPU 核心性能比第一代提升 50%。",
+          "link": "https://www.solidot.org/story?sid=74959",
+          "publishedOn": "2023-05-15T05:24:35.000Z",
+          "wordCount": 236,
+          "title": "苹果下一代 M3 SoC 将有 12 个 CPU 核心和 18 个 GPU 核心",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74958",
           "author": null,
@@ -3324,26 +3454,6 @@
           "wordCount": 185,
           "title": "自由软件基金会批评 Google 移除对 JPEG-XL 支持的决定",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74679",
-          "author": null,
-          "description": "据估计 15% 的新冠感染者留下了被称长新冠的长期后遗症。长新冠症状千奇百怪，其产生的机制目前还不清楚，也没有有效的诊断或治疗方法。两位研究人员提出了一种假说，认为长新冠与酸碱失衡相关。新冠会导致多个系统组织损伤、炎症失调和细胞代谢紊乱，组织损伤和炎症会损害微血管循环导致缺氧，增加细胞的无氧呼吸。研究人员认为无氧呼吸会导致影响每一个器官系统的酸碱失衡，这可能是长新冠的根本原因。研究人员称可通过测量长新冠患者体内的酸碱标志物去判断酸碱失衡。",
-          "link": "https://www.solidot.org/story?sid=74679",
-          "publishedOn": "2023-04-16T10:57:45.000Z",
-          "wordCount": 143,
-          "title": "研究人员认为长新冠与酸碱失衡相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74678",
-          "author": null,
-          "description": "亲历 Linux 诞生的芬兰自由软件开发者 Lars Wirzenius 回顾了 Linux 的早期历史。他是在 1988 年秋天进入赫尔辛基大学主修计算机科学专业，与 Linus Torvalds 是同学，学完一年之后去服了一年兵役，重返大学之后开始学 C 和 UNIX，两人热情的讨论了操作系统应该如何正确构建，都是初生牛犊不怕虎。1991 年 1 月 Linus 购买了第一台组装机，配备了 386 CPU，有 4MB 内存，Linus 还买了游戏《波斯王子》，之后疯玩了几个月。游戏通关之后，Linus 开始学 Intel 汇编语言，开始给我们今天所知的 Linux 内核写早期代码，Lars Wirzenius 也帮助实现了一个 sprintf() 函数。Linus 不断给内核加入新功能。到了 1991 年 8 月，Linus 在 comp.os.minix 新闻组里首次公开宣布了新内核，谦虚的表示“仅仅是个人爱好，不会像 GNU 那样完善、专业”。Linus 自己的 PC 被用于开发 Linux，而 Lars 的 PC 则是第一台安装 Linux 的电脑。Linux 的第一个版本使用了禁止商业使用的许可证，部分早期参与者建议改到自由软件许可证。1991 年秋天 RMS 访问了芬兰，Lars 带着 Linus 参加了 RMS 的演讲。这些经历最终说服 Linus 在 1992 年初采用了 GNU GPL 许可证。",
-          "link": "https://www.solidot.org/story?sid=74678",
-          "publishedOn": "2023-04-16T05:40:48.000Z",
-          "wordCount": 215,
-          "title": "Linux 的早期历史",
-          "imageUrl": null
         }
       ]
     },
@@ -3352,6 +3462,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/741839/",
+          "author": null,
+          "description": "科技日报北京 5 月 15 日电 （记者张佳欣）从低碳水化合物到间歇性禁食，从手术到减肥神药，许多人似乎为了减肥而绞尽脑汁。虽然人们早就知道，限制食物摄入量可减缓包括人类在内的多种动物的衰老，但据发表在国际顶级期刊《科学》杂志的最新论文，美国密歇根大学的研究表明，可能饥饿感本身就足以减缓衰老。 以前\n本文链接",
+          "link": "https://news.cnblogs.com/n/741839/",
+          "publishedOn": "2023-05-16T00:55:23.000Z",
+          "wordCount": 163,
+          "title": "保持饥饿感足以延缓衰老",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741838/",
+          "author": null,
+          "description": "IT 之家 5 月 16 日消息，根据彭博社报道，苹果公司的市值已超过罗素 2000 指数（Russell 2000）总和两周时间，这是有记录以来最长的一次。 苹果公司的市值（根据其所有流通股的价值来衡量公司的价值）于今年 4 月 27 日超过罗素 2000 指数，总市值超过 1.19%。 由于苹果\n本文链接",
+          "link": "https://news.cnblogs.com/n/741838/",
+          "publishedOn": "2023-05-16T00:15:29.000Z",
+          "wordCount": 163,
+          "title": "苹果新里程碑：市值超罗素2000指数总和1000亿美元，已持续2周时间",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741837/",
+          "author": null,
+          "description": "新浪科技讯，北京时间 5 月 16 日早间消息，据报道，亚马逊将为电商增加类似 ChatGPT 的产品搜索。据悉，微软与谷歌也在为搜索引擎增加生成式 AI 功能，亚马逊肯定不甘落后。 最近亚马逊公布新招聘信息，当中有一条招募的是高级软件开发工程师，亚马逊想用会话式体验重塑搜索，通过会话式功能回答用户\n本文链接",
+          "link": "https://news.cnblogs.com/n/741837/",
+          "publishedOn": "2023-05-16T00:11:34.000Z",
+          "wordCount": 163,
+          "title": "招聘信息暗藏玄机？亚马逊准备增加类ChatGPT电商搜索",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741836/",
+          "author": null,
+          "description": "新浪科技讯，北京时间 5 月 16 日早间消息，据报道，知情人士透露，埃隆·马斯克已为他的 SpaceX 公司聘请前美国宇航局（NASA）载人航天主管凯西·吕德斯(Kathy Lueders)负责监督“星舰”(Starship)的开发工作。 吕德斯是近年来第二位退休后加入 SpaceX 的前 NAS\n本文链接",
+          "link": "https://news.cnblogs.com/n/741836/",
+          "publishedOn": "2023-05-16T00:10:09.000Z",
+          "wordCount": 163,
+          "title": "SpaceX聘请前NASA载人航天主管：负责监督星舰开发工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741835/",
+          "author": null,
+          "description": "作为国内芯片设计行业最受关注的后起之秀，OPPO 旗下的哲库用一种最决绝的方式和所有人说再见了。 有关哲库解散的原因，过去一个周末已经被讨论太多次了：智能手机市场整体萎缩加重了 OPPO 的经营压力；哲库自研 SoC 流片尚未完成，能否成功尚是未知之数；即便流片成功，也难保会遇到华为海思一样的不可抗\n本文链接",
+          "link": "https://news.cnblogs.com/n/741835/",
+          "publishedOn": "2023-05-15T23:46:55.000Z",
+          "wordCount": 163,
+          "title": "OPPO哲库解散余震未消：小米vivo荣耀们还能撑多久？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741834/",
+          "author": null,
+          "description": "文丨祝颖丽 编辑丨高洪浩 《晚点 LatePost》独家获悉，阿里集团近期对集团的技术、财务、人力资源、市场等中台业务进行了一轮调整分流。 阿里中台分技术中台和组织中台。技术中台主要是用于提升开发效率，降低开发成本；组织中台则将各职能型业务收归集团。 在这次调整中，承担 “技术中台” 作用的 CTO\n本文链接",
+          "link": "https://news.cnblogs.com/n/741834/",
+          "publishedOn": "2023-05-15T23:43:16.000Z",
+          "wordCount": 163,
+          "title": "运行八年后，阿里中台被彻底分拆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741833/",
+          "author": null,
+          "description": "IT 之家 5 月 16 日消息，The Information 援引一位知情人士的话说，OpenAI 正准备向公众发布一款新的开源语言模型。报告称，OpenAI 不太可能发布与 GPT 竞争的模型。该公司没有立即回应置评请求。 图源 Pexels 相信大家或多或少听说过，自从去年年底以来，Open\n本文链接",
+          "link": "https://news.cnblogs.com/n/741833/",
+          "publishedOn": "2023-05-15T23:23:52.000Z",
+          "wordCount": 163,
+          "title": "消息称 OpenAI 正在准备新的开源 AI 模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741832/",
+          "author": null,
+          "description": "IT 之家 5 月 15 日消息，自从华为 Mate 50 系列首次搭载卫星通信技术以来，已有多家厂商和方案商开始实装这一技术。根据最新消息，国内 29 家单位将联合推动制定手机卫星通信的“中国标准”。 据“5G 推进组”今日最新消息，为进一步加强卫星互联网技术和标准研究，提升产品研发和验证水平，推\n本文链接",
+          "link": "https://news.cnblogs.com/n/741832/",
+          "publishedOn": "2023-05-15T13:13:00.000Z",
+          "wordCount": 163,
+          "title": "手机卫星通信要有中国标准：29 家单位参与，华为、联发科等在列",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741831/",
+          "author": null,
+          "description": "5 月 15 日消息，有媒体消息称，阿里达摩院自动驾驶业务线重大调整，整个自动驾驶实验室并入菜鸟集团，达摩院本身不再保留该业务和团队。 对此，阿里集团回应称，因业务调整，达摩院自动驾驶业务将转入菜鸟集团。 3 月 29 日下午，阿里巴巴集团董事会主席兼首席执行官张勇发布全员信，宣布启动“1+6+N”\n本文链接",
+          "link": "https://news.cnblogs.com/n/741831/",
+          "publishedOn": "2023-05-15T13:07:00.000Z",
+          "wordCount": 163,
+          "title": "达摩院自动驾驶业务线重大调整，人员将被并入菜鸟集团",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741830/",
+          "author": null,
+          "description": "Tech 星球 5 月 15 日消息，据电厂报道，来自美团的消息人士透露，美团优选即将开始新一轮调整，主要方向是确立省区制，并给予省区负责人运营决策权，同时弱化业务部门的管理权限。相关人士透露，调整的公告最早会在 15 日公布，因此情况仍可能存在变化。 对此，截至发稿美团方面未有回应。 知情人士预计\n本文链接",
+          "link": "https://news.cnblogs.com/n/741830/",
+          "publishedOn": "2023-05-15T13:00:00.000Z",
+          "wordCount": 163,
+          "title": "美团优选将开始新一轮调整：大区改为省区且自负盈亏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741829/",
+          "author": null,
+          "description": "©自象限原创 作者罗辑 程心 编辑黑豆 排版李帛锦 围绕着京东的所有“谜团”，终于在 5 月 11 日晚，靴子落地。 刘强东回国的强势改革、京东将何去何从、2023 年又将有哪些动作？随着一则“王炸”式的人事任命揭晓了答案：京东集团 CFO 许冉将接任徐雷成为新任 CEO，而徐雷的一句“谢谢大家，请\n本文链接",
+          "link": "https://news.cnblogs.com/n/741829/",
+          "publishedOn": "2023-05-15T09:10:00.000Z",
+          "wordCount": 163,
+          "title": "徐雷卸任，京东保命",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741828/",
+          "author": null,
+          "description": "邓思邈发自副驾寺 智能车参考公众号 AI4Auto 连续两月欠薪后，这家新势力 APP，也已经打不开了。 页面内容全被清空，账号无法登录，且没有任何通告。 甚至在最近，员工还被临时通知居家办公了，据说是因为交不起房租。 一系列反常现象的背后，反映的是爱驰汽车，已身陷困境——而且是四面楚歌的困境。 发\n本文链接",
+          "link": "https://news.cnblogs.com/n/741828/",
+          "publishedOn": "2023-05-15T09:00:00.000Z",
+          "wordCount": 163,
+          "title": "造车新势力爱驰汽车濒临破产：App已清空，工资发不出，被曝连房租都续不上了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741827/",
+          "author": null,
+          "description": "来源：锦缎 提到运营商，不知道各位能想到什么？是 90 年代电信垄断，21 世纪初的七雄争霸，地域优势和业务优势明显，亦或是改制以来的三分天下？ 通信行业作为国家社会重要的基建环节，在不同时期承担了不同的角色。自与邮电分家后，电信一直是普罗百姓密切相关的行业。90 年代的大哥大和寻呼机，21 世纪初\n本文链接",
+          "link": "https://news.cnblogs.com/n/741827/",
+          "publishedOn": "2023-05-15T08:48:00.000Z",
+          "wordCount": 163,
+          "title": "移动、电信与联通：拆解“中特估”典型样本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741826/",
+          "author": null,
+          "description": "来源：远川投资评论 2023 年 4 月 27 日，NBA 东部第八的热火队以大比分4：1 击败了位列东部第一的雄鹿队，成功晋级了季后赛第二轮。 在这场比赛中，热火队三节已经落后了 16 分，就当球迷一度以为这场比赛已经失去悬念时，吉米·巴特勒向我们上演了一场个人秀。先是在最后一节连得 12 分，又\n本文链接",
+          "link": "https://news.cnblogs.com/n/741826/",
+          "publishedOn": "2023-05-15T08:36:00.000Z",
+          "wordCount": 163,
+          "title": "当基金经理们成为一个集体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741825/",
+          "author": null,
+          "description": "西风发自凹非寺 量子位公众号 QbitAI 第一批配备 M3 芯片的 Mac，被曝最快在今年年底上市！ 你没听错，搭载 M2 芯片的 Mac 还没发布呢，苹果就已经开始测试 M3 芯片了。 据彭博社介绍，新芯片将有 12 个 CPU 内核、18 个 GPU 内核、同时提供最高达 36GB 的统一内存\n本文链接",
+          "link": "https://news.cnblogs.com/n/741825/",
+          "publishedOn": "2023-05-15T08:27:00.000Z",
+          "wordCount": 163,
+          "title": "苹果M3芯片架构曝光！台积电3nm制程打底，网友：内存不是2的幂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741824/",
+          "author": null,
+          "description": "梦晨发自凹非寺 量子位公众号 QbitAI GPT-4 最强竞品 Claude 前两天来了个史诗升级，支持十万 token 上下文，可以一次输入一本书，把大模型卷到新高度。 可惜的是，从 Anthropic 官网申请试用要收费，不少感兴趣的读者表示想玩但停在了这一步。 不过现在，白嫖的机会来了。 在\n本文链接",
+          "link": "https://news.cnblogs.com/n/741824/",
+          "publishedOn": "2023-05-15T08:15:00.000Z",
+          "wordCount": 163,
+          "title": "白嫖GPT-4最强竞品！20秒速通92页论文，不怕跟不上技术进展了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741823/",
+          "author": null,
+          "description": "杨净发自凹非寺 量子位公众号 QbitAI 大模型引领的 AI 2.0 时代，远比想象来得更加猛烈—— 它以对话即入口的方式，即将改变着我们生产生活。 那么对于上一波技术浪潮涌现的 AI1.0 公司，到底有何影响？ 在首届中国 AIGC 产业峰会上，商汤科技联合创始人、大装置事业群总裁杨帆在现场给出\n本文链接",
+          "link": "https://news.cnblogs.com/n/741823/",
+          "publishedOn": "2023-05-15T08:08:00.000Z",
+          "wordCount": 163,
+          "title": "商汤杨帆：大模型并非单纯暴力美学，背后是大量软件工程系统问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741822/",
+          "author": null,
+          "description": "明敏杨净发自凹非寺 量子位公众号 QbitAI “自古多情空余恨，好梦由来最易醒。” 当 OPPO 芯片设计公司哲库 CEO 刘君宣布关停业务解散全员后，停顿数秒、深吸一口气，缓缓说出这样一句诗，似乎总结了自己的所有情绪。 3 天前（5 月 12 日），OPPO 造芯业务毫无征兆宣布终止，立即叫停所\n本文链接",
+          "link": "https://news.cnblogs.com/n/741822/",
+          "publishedOn": "2023-05-15T07:55:00.000Z",
+          "wordCount": 163,
+          "title": "OPPO造芯的最后18分钟：CEO数次低头哽咽，3000人团队原地解散",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741821/",
+          "author": null,
+          "description": "克雷西发自凹非寺 量子位公众号 QbitAI 这个 GitHub 开源项目，打算手把手教你成为一名提示工程师。 理论与实例结合，浅显易懂，可以免费学习，关键还是中文！ 如果觉得 GitHub 界面看起来不方便，还可以到搭建好的网站里去学。 即使是纯小白，有了它，学习起来也十分轻松。 ChatGPT、\n本文链接",
+          "link": "https://news.cnblogs.com/n/741821/",
+          "publishedOn": "2023-05-15T07:44:00.000Z",
+          "wordCount": 163,
+          "title": "GitHub项目免费教你提示工程，全中文教学，小白也能懂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/741820/",
+          "author": null,
+          "description": "IT 之家 5 月 15 日消息，法拉第未来今天宣布任命资深财务高管 Edward (Ed) Darwick 为其财务运营负责人，即刻生效。Ed 将在 FF 财务运营中承担重要职责，并负责指导开发、实施和改进整个职能和团队的系统和人员配置。 据法拉第未来称，Ed 向临时首席财务官兼首席会计官韩韵女士\n本文链接",
+          "link": "https://news.cnblogs.com/n/741820/",
+          "publishedOn": "2023-05-15T07:37:00.000Z",
+          "wordCount": 163,
+          "title": "法拉第未来任命财务运营负责人，FF 91 五月底开始交付有前提",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/741777/",
           "author": null,
@@ -8720,86 +9030,6 @@
           "publishedOn": "2023-04-16T23:00:00.000Z",
           "wordCount": 163,
           "title": "三个轮子也能跑，比亚迪“云辇”再度颠覆行业？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740142/",
-          "author": null,
-          "description": "都说高铁是中国交通的一张名片，可见它在中国交通中的分量之重，当然无论是高铁的总里程还是高铁的技术上，中国都是位居前列的，可即便如此中国在高铁上的投入依旧没有停止，在原来高铁技术的基础上，超级高铁的研发项目诞生了。 超级高铁与普通的高铁不一样，它在速度上可以达到超音速，同时运行时十分稳定，如果它正式运\n本文链接",
-          "link": "https://news.cnblogs.com/n/740142/",
-          "publishedOn": "2023-04-16T12:42:00.000Z",
-          "wordCount": 163,
-          "title": "“超级高铁”即将面世？实现时速1000公里，究竟怎么做到这么快？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740141/",
-          "author": null,
-          "description": "IT 之家 4 月 15 日消息，苹果公司申请的“使用手部手势导航用户界面”专利近日正式公布。 IT 之家查询国家知识产权局得知本公开整体涉及使用手部手势导航用户界面。 从专利示意图来看，苹果这项新专利预计用于智能手表之上，佩戴者可在实际使用过程中，通过做出系统可识别的手势来完成隔空控制智能手表的操\n本文链接",
-          "link": "https://news.cnblogs.com/n/740141/",
-          "publishedOn": "2023-04-16T12:38:00.000Z",
-          "wordCount": 163,
-          "title": "苹果“使用手部手势导航用户界面”专利公布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740140/",
-          "author": null,
-          "description": "「核心提示」 阿里试图化整为零，从一头大象变身成一群瞪羚，以灵活机敏的组织形式，再度激发创业精神。率先完成变阵的淘宝天猫集团，在戴珊的领导下，要做怎样的进化？ 作者 周可 编辑 邢昀 为了激发组织活力，谋求进一步增长，电商巨头们最近频频向自己“开刀”。 3 月 28 日，阿里巴巴集团董事会主席兼首席\n本文链接",
-          "link": "https://news.cnblogs.com/n/740140/",
-          "publishedOn": "2023-04-16T12:33:00.000Z",
-          "wordCount": 163,
-          "title": "阿里的决心，戴珊的决断",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740139/",
-          "author": null,
-          "description": "IT 之家 4 月 16 日消息，谷歌最新的安卓系统分布统计显示，自 1 月份以来，安卓 13 的市场份额增加了一倍多。 曾几何时，谷歌每月提供一个网页的更新，告知开发者运行特定版本操作系统的安卓设备的百分比。然而，鉴于安卓设备的领域很广，不只是手机 / 平板电脑，以及一些公司发布更新的速度很慢，与\n本文链接",
-          "link": "https://news.cnblogs.com/n/740139/",
-          "publishedOn": "2023-04-16T12:25:00.000Z",
-          "wordCount": 163,
-          "title": "Android 13 市场份额快速增加，三星功不可没",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740138/",
-          "author": null,
-          "description": "IT 之家 4 月 16 日消息，近日，特斯拉在美国开启了 2023 年第五次降价，引发了外界的广泛关注。有人认为，特斯拉是在发动一场电动汽车和内燃机汽车之间的价格战，有人则好奇，特斯拉为什么要在市场需求旺盛的时候降价。 对此，马斯克在推特上做出了回应。他说：“我们不是在‘发动价格战’，我们只是在降\n本文链接",
-          "link": "https://news.cnblogs.com/n/740138/",
-          "publishedOn": "2023-04-16T12:21:00.000Z",
-          "wordCount": 163,
-          "title": "马斯克否认特斯拉开启价格战：只为覆盖更多消费者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740137/",
-          "author": null,
-          "description": "IT 之家 4 月 16 日消息，据 GIZMOCHINA 报道，vivo Y78 手机目前已经通过了 NCC 认证，产品型号为“V2244”，预计与 vivo Y78 + 一起发布。 NCC 认证页面显示，vivo Y78 内置一枚 5000mAh 电池，支持 44W 快充。 此外，新机实拍图也同\n本文链接",
-          "link": "https://news.cnblogs.com/n/740137/",
-          "publishedOn": "2023-04-16T10:50:00.000Z",
-          "wordCount": 163,
-          "title": "vivo Y78 手机通过 NCC 认证：内置 5000mAh 电池，支持 44W 充电",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740136/",
-          "author": null,
-          "description": "人工智能，在 2023 年席卷互联网。浪潮还未停歇，AI 生成各种图片和美女又席卷了抖音、快手和小红书等平台，一度引发了「网红、模特可能就此失业」的讨论，还有人用 AI 美女做博主吸粉上万，进入直播间开始带货变现。 AI 绘画与数字人主播 / 图片来源：腾讯科技 这些咋一看和真人没太大差异的美女主播\n本文链接",
-          "link": "https://news.cnblogs.com/n/740136/",
-          "publishedOn": "2023-04-16T10:42:00.000Z",
-          "wordCount": 163,
-          "title": "299 元一套，24 小时无休，AI 主播卷进直播间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/740135/",
-          "author": null,
-          "description": "最近发现的一颗名为 2023 FW13 的新小行星不仅仅是一颗路过的小行星。根据新的报告，这颗新发现的小行星实际上是地球的一个古老的伙伴，是一颗最晚在公元前 100 年起就在我们星球附近运行的准月球。 运行轨迹预测 / 图片来源：cnBeta 此外，天文学家认为，这颗新成立的准月球将至少坚持到公元 \n本文链接",
-          "link": "https://news.cnblogs.com/n/740135/",
-          "publishedOn": "2023-04-16T10:35:00.000Z",
-          "wordCount": 163,
-          "title": "科学家发现一颗新的「准月球」正围绕地球运转",
           "imageUrl": null
         }
       ]
