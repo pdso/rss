@@ -2,10 +2,341 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T01:11:34.582Z</updated>
+    <updated>2023-05-19T01:12:02.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta首次披露自研AI芯片：专供内部使用]]></title>
+        <id>https://news.cnblogs.com/n/742086/</id>
+        <link href="https://news.cnblogs.com/n/742086/"/>
+        <updated>2023-05-19T01:10:15.000Z</updated>
+        <summary type="html"><![CDATA[新浪科技讯，北京时间 5 月 19 日早间消息，据报道，Meta 公司开发了一些定制电脑芯片来帮助其执行人工智能和电子游戏任务，该公司本周首次与外界沟通了这些产品。 这家社交媒体巨头在本周早些时候首次披露了该公司的内部芯片项目，此后又在周四晚间的虚拟活动上探讨了他们对人工智能技术基础架构的投资。 M
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14秒开机，国产操作系统进一步缩小差距]]></title>
+        <id>https://news.cnblogs.com/n/742085/</id>
+        <link href="https://news.cnblogs.com/n/742085/"/>
+        <updated>2023-05-19T01:07:25.000Z</updated>
+        <summary type="html"><![CDATA[实现 14 秒开机后两个月，在立足全球三大自主开源社区基础之上，统信发布了中国首个桌面操作系统根社区“深度（deepin）社区”，从“根”出发，掌握开源操作系统的发展权、上游社区主导权，吸引全球爱好者为国产操作系统贡献代码和创意。 尽管国产操作系统已经在技术和市场上取得了一定的进展，但是仍然面临很多
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI火力全开！ChatGPT连夜登陆iOS，免费无广告、还支持语音]]></title>
+        <id>https://news.cnblogs.com/n/742084/</id>
+        <link href="https://news.cnblogs.com/n/742084/"/>
+        <updated>2023-05-19T01:04:26.000Z</updated>
+        <summary type="html"><![CDATA[AI 战火烧到移动端，OpenAI 火力全开。 文：Juny VickyXIao，编辑：VickyXiao 就在谷歌前脚刚开完堪比 AI 峰会的开发者大会、并开放了联网的 Bard 之后，感受到对手提速的 OpenAI 立马开始狂踩油门。 先是本周开始向所有 Plus 用户推出 ChatGPT 的联
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微波和光学光子首次实现纠缠]]></title>
+        <id>https://news.cnblogs.com/n/742083/</id>
+        <link href="https://news.cnblogs.com/n/742083/"/>
+        <updated>2023-05-19T00:55:52.000Z</updated>
+        <summary type="html"><![CDATA[科技日报北京 5 月 18 日电 （记者张梦然）奥地利科学技术研究所、维也纳科技大学和德国慕尼黑工业大学的研究人员在最新一期《科学》杂志发表论文称，他们首次将低能微波与高能光学光子纠缠在一起。两个光子的这种纠缠量子态是通过室温链路连接超导量子计算机的基础，这对扩展现有的量子硬件、实现与其他量子计算平
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里云、菜鸟、盒马明确上市时间表！]]></title>
+        <id>https://news.cnblogs.com/n/742082/</id>
+        <link href="https://news.cnblogs.com/n/742082/"/>
+        <updated>2023-05-19T00:19:00.000Z</updated>
+        <summary type="html"><![CDATA[5 月 18 日晚，阿里巴巴集团公布 2023 财年第四季度（即自然年 2023 年第一季度）及全年业绩。 2023 年 1 月-3 月，阿里巴巴集团实现收入 2082 亿元，同比稳健增长2%，基本符合市场预期；非公认会计准则下的净利润为 273.8 亿元，同比增长 38%。 在发布财报的同时，阿里
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒：苹果限制员工使用ChatGPT等外部AI工具，在开发自家技术之际担心泄密]]></title>
+        <id>https://news.cnblogs.com/n/742081/</id>
+        <link href="https://news.cnblogs.com/n/742081/"/>
+        <updated>2023-05-19T00:14:00.000Z</updated>
+        <summary type="html"><![CDATA[《华尔街日报》5 月 18 日消息，文件显示，苹果已限制在公司内使用 ChatGPT 和其他外部 AI 工具，目前该公司正开发自家的类似技术。 文件指出，苹果担心使用外部程序的员工“可能会泄露机密数据”。据悉，该公司还告知员工不要使用微软的 GitHub Copilot。
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克对微软出手了，推特指责其滥用数据，未来要收钱？]]></title>
+        <id>https://news.cnblogs.com/n/742080/</id>
+        <link href="https://news.cnblogs.com/n/742080/"/>
+        <updated>2023-05-19T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[5 月 19 日消息，美国当地时间周四，社交媒体平台推特致信微软首席执行官萨蒂亚·纳德拉（Satya Nadella），指责微软不当使用推特的数据，违反了数据使用协议，还拒绝付费。推特称，微软使用的推特数据超过了协议中约定的限制，并且未经许可与政府机构分享了其中的部分数据。 推特首席执行官埃隆·马斯
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉被曝申请扩建上海工厂，Model 3改款车型试生产已进入最后准备阶段]]></title>
+        <id>https://news.cnblogs.com/n/742079/</id>
+        <link href="https://news.cnblogs.com/n/742079/"/>
+        <updated>2023-05-19T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，特斯拉上海超级工厂传出最新动向。据外媒报道称，特斯拉已经向相关监管部门提出申请，计划扩建上海工厂，并首次开始生产软包电池。 据此前网络流传截图显示，特斯拉已经就扩建项目进行了环境影响审批。在完成扩建后，特斯拉上海工厂的动力总成年产能将从目前的 125 万台提升至 175 万台。网传公示期为 2
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为发布MatePad Air等十余款新品 同时发布华为全屋智能4.0]]></title>
+        <id>https://news.cnblogs.com/n/742078/</id>
+        <link href="https://news.cnblogs.com/n/742078/"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[5 月 18 日消息，华为今天发布了华为 MatePad Air、华为 MateBook X Pro 及 MateBook 16s、MateBook 14s、MateBook 14、华为 MateBook E 二合一笔记本、华为 WATCH 4、华为儿童手表5、华为畅享 60 Pro、华为 Visi
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度开发用于高性能计算的 Arm 芯片]]></title>
+        <id>https://www.solidot.org/story?sid=74995</id>
+        <link href="https://www.solidot.org/story?sid=74995"/>
+        <updated>2023-05-18T15:47:54.000Z</updated>
+        <summary type="html"><![CDATA[目前最强大的 Arm 芯片是日本富岳超算使用的富士通 48 核 A64FX CPU，英伟达准备发布它的 72 核 Grace Arm CPU，现在印度也准备发布它开发的用于高性能计算的 Arm 芯片。它的芯片被称为 Aum HPC，使用了 “Zeus” Neoverse V1 核心，但芯片架构没有公布，小芯片（chiplet）有 48 个核心，被称为 A48Z。A48Z 支持 DDR5 和 HBM3 内存。Aum 芯片将封装一对 A48Z，用 D2D（die-to-die）互连，共享 96 MB L2 缓存，另外还有 96 MB 缓存在核心之间共享。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WMO 预测未来五年全球温度将创下新纪录]]></title>
+        <id>https://www.solidot.org/story?sid=74994</id>
+        <link href="https://www.solidot.org/story?sid=74994"/>
+        <updated>2023-05-18T14:25:52.000Z</updated>
+        <summary type="html"><![CDATA[根据世界气象组织（WMO）发布的最新通报，在吸热性温室气体和自然发生的厄尔尼诺现象的共同推动下，未来五年全球温度可能会飙升至创纪录的水平。2023 年至 2027 年期间，至少有一年的全球近地表年平均温度比工业化前水平高出 1.5°C以上的可能性为 66%。未来五年中至少有一年以及整个五年期，都将是历史上最暖的，这种可能性为 98%。在过去三年的大部分时间里，拉尼娜条件的冷却影响暂时抑制了较长期的升温趋势。但拉尼娜现象已于 2023 年 3 月结束，预测厄尔尼诺现象将在未来几个月发展。通常情况下，厄尔尼诺现象会在其发展的第二年使全球温度上升，也就是说此次升温会出现在 2024 年。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克又在股东大会上“画饼”了？]]></title>
+        <id>https://news.cnblogs.com/n/742077/</id>
+        <link href="https://news.cnblogs.com/n/742077/"/>
+        <updated>2023-05-18T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[作者 韩 玲 来源市界 在中国召回超 110 万辆汽车的风波没过多久，特斯拉 CEO 埃隆·马斯克继续忙起了他的宏图大业。 北京时间 5 月 17 日凌晨 4 点，特斯拉召开 2023 年股东大会，马斯克对外界关心的诸多问题一一回应。“我们会一年比一年辉煌。”对于公司营收、销量表现，他颇为自信，“虽
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定了！阿里云将完全分拆，独立上市！]]></title>
+        <id>https://news.cnblogs.com/n/742076/</id>
+        <link href="https://news.cnblogs.com/n/742076/"/>
+        <updated>2023-05-18T14:11:41.000Z</updated>
+        <summary type="html"><![CDATA[刚刚，阿里巴巴集团 2023 财年第四季度及全年财报宣布：云智能集团将从阿里巴巴集团完全分拆独立走向上市，菜鸟、盒马启动上市计划，阿里国际数字商业集团启动外部融资，六大业务集团正式成立董事会。 字少事儿大，这其中最惹人关注的，便是「云智能集团」即大家熟知的阿里云将完全分拆，独立上市。 根据财报显示，
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 不是 AI 而是小偷]]></title>
+        <id>https://www.solidot.org/story?sid=74993</id>
+        <link href="https://www.solidot.org/story?sid=74993"/>
+        <updated>2023-05-18T11:40:16.000Z</updated>
+        <summary type="html"><![CDATA[以 ChatGPT 为代表的生成式 AI 被一部分人视为是版权小偷。目前此类的 AI 并不具有意识，它们是 Gmail 或 Google 文档中的预测文本机器人的高级复杂形式。Google 的机器人能在你输入一个单词后预测短语的后续部分，而 ChatGPT 使用了更庞大的数据集训练，它能预测整个句子、段落或文章。没有人说 ChatGPT 是 C-3PO 或者奇点临近。但我们也不能授予它们作者身份。它们训练使用的数据集是人类作者创造的，这些作者没有得到认可也没有付费和使用授权。从某种意义上说，AI 机器人是原材料打成最小的碎片然后重新利用去形成新产品。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Colab 服务将免费支持 AI 辅助编程]]></title>
+        <id>https://www.solidot.org/story?sid=74992</id>
+        <link href="https://www.solidot.org/story?sid=74992"/>
+        <updated>2023-05-18T09:34:46.000Z</updated>
+        <summary type="html"><![CDATA[Google 宣布其免费 Jupyter Notebook 环境 Colaboratory (Colab)将加入 AI 辅助编程功能，包括代码补全，用自然语言去生成代码，辅助编程的聊天机器人。Colab 将使用基于 PaLM 2 的代码模型家族 Codey，而  Codey 利用了从外部来源获得授权的高质量代码数据集进行微调，为 Python 和 Colab 特定用途进行了定制。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6G显存玩转130亿参数大模型，仅需13行命令，RTX2060用户发来贺电]]></title>
+        <id>https://news.cnblogs.com/n/742074/</id>
+        <link href="https://news.cnblogs.com/n/742074/"/>
+        <updated>2023-05-18T09:28:00.000Z</updated>
+        <summary type="html"><![CDATA[克雷西发自凹非寺 量子位公众号 QbitAI Meta 的大语言模型 LLaMA 13B，现在用 2060 就能跑了~ 羊驼家族的 Alpaca 和 Vicuna 也都能运行，显存最低只需要 6G，简直是低 VRAM 用户的福音有木有。 GitHub 上的搭建教程火了之后，网友们纷纷跑来问苹果 M2
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星标破10万！Auto-GPT之后，Transformer越新里程碑]]></title>
+        <id>https://news.cnblogs.com/n/742073/</id>
+        <link href="https://news.cnblogs.com/n/742073/"/>
+        <updated>2023-05-18T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：桃子 问世 6 年来，Transformer 不仅成为 NLP 领域的主流模型，甚至成功向其他领域跨界，一度成为风靡 AI 界的机器学习架构。恰在今天，Transformer 在 GitHub 上星标破 10 万大关！ 2017 年，谷歌团队在论文「Attention Is All
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新玩意 146｜少数派的作者们最近买了啥？]]></title>
+        <id>https://sspai.com/post/79885</id>
+        <link href="https://sspai.com/post/79885"/>
+        <updated>2023-05-18T09:06:16.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目
+为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了 Matrix 作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是作者前进的动力。
+所有内容均遵循 原创、首发、非商务 原则，投稿细则可查看文末。
+
+@MichaelWey：Aviationtag - Lufthansa A320 蒙皮行李牌
+
+入手途径：淘宝
+入手价格：168.00 元
+
+飞行，是人类最高等级的自由之一。
+
+Aviationtag：航空爱好者的收集品
+严格来说，Aviationtag 是一个品牌而不是这类产品的统称，这个品牌源自德国，在淘宝能够找到很多相关的产品。这个直译过来是 「航空标签」，主要是由退役飞机的蒙皮切割加工而来，属于一种文创产品，其本质是一片航空废金属，但在航空爱好者眼里，是飞机的一部分，也就成为了一件值得收藏的小物件。Aviationtag 也是看到了退役飞机的这一价值，让退役飞机在爱好者手里继续发光发热。
+每一片 Aviationtag 均来自飞机上的不同部位，所以厚度、材质、重量、颜色、磨损程度和污渍都不同，真正意义上的独一无二。
+
+事实上，飞机蒙皮行李牌不止 Aviationtag 这一个品牌的产品，只我个人觉得 Aviationtag 的外形更好看且飞机种类和航司数量相对更多。如果你喜欢国内航司的飞机，那么 Aviationtag 可能不是最好的选择，毕竟 Aviationtag 是德国品牌，欧美航司的飞机蒙皮更占主流，偶尔才会发布一款国内航司的蒙皮产品。
+当然这里的重点是 Aviationtag，最新的产品发布可以在 Aviationtag 官方网站进行查看：
+ 
+Tag 的制作过程视频这里也一并奉上：
+ 
+关于这块蒙皮的历史和信息
+Avitationtag 会在产品的包装上写明该蒙皮来自哪…]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVPR 2023最佳论文候选出炉，12篇上榜！武大、港中文、商汤等国内机构多篇入选]]></title>
+        <id>https://news.cnblogs.com/n/742072/</id>
+        <link href="https://news.cnblogs.com/n/742072/"/>
+        <updated>2023-05-18T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：编辑部 刚刚，CVPR 2023 放榜 12 篇获奖论文候选，武大、港中文、港科大、上海人工智能实验室、商汤、华为等国内机构赫然在列。 CVPR 2023 举办在即。 今天，官方公布了 12 篇获奖论文候选。（占接受论文的 0.51%，占提交论文的 0.13%） 根据官网上统计数据
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不用等微软了！实测：全线接入AI的WPS，做PPT就是一句话的事]]></title>
+        <id>https://news.cnblogs.com/n/742071/</id>
+        <link href="https://news.cnblogs.com/n/742071/"/>
+        <updated>2023-05-18T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[金磊梦晨发自凹非寺 量子位公众号 QbitAI 要问现在办公、学习最最最 fashion 的姿势是什么？ 那必然是跟 AI 来一个深度合体。 例如老板丢过来一份纸质合同（还是全英文的），让你快速浏览并做总结。 此时不必惊慌，遇事掏出手机，先“咔咔咔”拍上几张照片： 无论是什么角度，或是纸张有多么褶皱
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泪目！88岁MIT数学泰斗最后一课，任教61载，著作成清华课本]]></title>
+        <id>https://news.cnblogs.com/n/742068/</id>
+        <link href="https://news.cnblogs.com/n/742068/"/>
+        <updated>2023-05-18T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：桃子 Aeneas 昨天，线性代数教授 Gilbert Strang 上完了退休前的最后一节课，瞬间，屏幕前的无数学子热泪盈眶。 昨天，MIT 的线性代数泰斗 Gilbert Strang 教授上完最后一节课，一个时代结束了。 此前，Gilbert Strang 曾在 MIT 度过
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[离谱！美国教授用ChatGPT「证实」论文抄袭，半个班学生惨遭挂科]]></title>
+        <id>https://news.cnblogs.com/n/742069/</id>
+        <link href="https://news.cnblogs.com/n/742069/"/>
+        <updated>2023-05-18T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：Aeneas 好困 天下苦 GPT 检测器久矣！用 AI 的怕被揪出来，没用 AI 的怕被冤枉。最近，又发生了一起被 AI 误判的冤假错案。 离了个大谱！ 辛辛苦苦码出的毕业论文，居然被教授拿去放在 ChatGPT 里检测，然后就被判定为抄袭？ 教授因此挂掉了全班一半的人，然后学校
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极星裁员，“车二代”也没余粮了]]></title>
+        <id>https://news.cnblogs.com/n/742070/</id>
+        <link href="https://news.cnblogs.com/n/742070/"/>
+        <updated>2023-05-18T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[对于很多汽车厂商来说，今年一季度过得比往常更加艰难。 特斯拉掀起的价格战，就像蝴蝶扇动了几下翅膀，接着引起车市一阵恐慌，几轮“掀桌子”降价把燃油车最后的体面都扯了下来。 当然，心里有苦的不仅是传统车企，一些新能源汽车的创业公司不仅要面对强敌环伺，也要面对冷静的融资市场，时刻做好勒紧裤腰带的准备。 据
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT之父舌战国会山！OpenAI欲与政府联手，权力通天]]></title>
+        <id>https://news.cnblogs.com/n/742067/</id>
+        <link href="https://news.cnblogs.com/n/742067/"/>
+        <updated>2023-05-18T08:06:51.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：编辑部 Sam Altman 也迎来「周受资时刻」了，在国会山听证会上，他备受议员尊敬。OpenAI 和政府一联合，他是要成为 rulemaker、登顶硅谷之王了？ 上次是周受资，这次，轮到了 Sam Altman。 不过这一次，国会议员对他的态度截然不同——友好，耐心，做足了功课
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人手一个Midjourney！Stability AI开源旗下生图模型，做图圈炸了]]></title>
+        <id>https://news.cnblogs.com/n/742066/</id>
+        <link href="https://news.cnblogs.com/n/742066/"/>
+        <updated>2023-05-18T08:04:57.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：拉燕 一次开源一次爽，一直开源一直爽。 StabilityAI 又双叒叕放大！ 就在昨天，StabilityAI 在官网上重磅宣布——旗下的文生图应用 DreamStudio 开源了！开源产品更名为 StableStudio。 据官网介绍，此次开源意味着 StabilityAI 的
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[民调显示 61% 的美国人认为 AI 威胁人类的未来]]></title>
+        <id>https://www.solidot.org/story?sid=74991</id>
+        <link href="https://www.solidot.org/story?sid=74991"/>
+        <updated>2023-05-18T08:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Reuters/Ipsos 的民调显示，61% 的美国人认为 AI 威胁人类的未来。调查是在 5 月 9 日-15 日进行的，有 4415 名美国成年人参与。结果显示，61% 的人认为 AI 有风险，22% 的人不同意，17% 的人不确定。民调还显示了对待 AI 上的党派差异和宗教差异：特朗普的投票者中有七成对 AI 有更大的担忧，拜登投票者中的比例则是六成；福音派基督徒中有 32% 的人强烈同意 AI 对人类构成威胁，非福音派基督徒则是 24%。民调凸显的另一个问题是不同人对 AI 有着不同的理解，很多人可能没有意识到 AI 在日常生活中已经非常普遍了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 删除不活跃账号政策将不会删除 YouTube 视频]]></title>
+        <id>https://www.solidot.org/story?sid=74990</id>
+        <link href="https://www.solidot.org/story?sid=74990"/>
+        <updated>2023-05-18T05:43:37.000Z</updated>
+        <summary type="html"><![CDATA[Google 官方博客周二宣布了新的不活跃账号删除政策，声明将删除未登陆时间超过两年的账号，可能还包括相关的 Google Workspace (Gmail、Docs、Drive、Meet、Calendar)，YouTube 和 Google Photos 等内容。此事立即引起了争议，这意味着大量当事人已经去世或停止活动的具有历史保存价值的内容将会全部删除，许多人将此事比喻为数字版的焚书。YouTube 和 Google 发言人先后澄清他们没有计划删除有 YouTube 视频的账号。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国蒙大拿州对 TikTok 实施全面禁令]]></title>
+        <id>https://www.solidot.org/story?sid=74989</id>
+        <link href="https://www.solidot.org/story?sid=74989"/>
+        <updated>2023-05-18T03:39:00.000Z</updated>
+        <summary type="html"><![CDATA[在共和党籍州长 Greg Gianforte 签署法案之后，蒙大拿州成为美国第一个对 TikTok 实施全面禁令的州。但禁令如何推行仍然存在很多疑问。该禁令将于 2024 年 1 月 1 日生效，将禁止 TikTok 在该州运营，禁止 Google 和苹果的应用商店在该州提供 TikTok 应用。违反法律将面临每天 1 万美元罚款，罚款针对的是 TikTok 和相关企业，个人用户不受影响。这一禁令预计将会面临众多法律挑战，它被认为侵犯了美国宪法第一修正案对言论自由权的保护。2020 年美国前总统特朗普就曾下令禁止 TikTok 和微信，但被法院阻止了禁令生效。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skype 用户遭遇无法拨打中国电话号码的问题]]></title>
+        <id>https://www.solidot.org/story?sid=74988</id>
+        <link href="https://www.solidot.org/story?sid=74988"/>
+        <updated>2023-05-18T03:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Skype 用户本月早些时候开始报告在拨打中国电话号码时出现连接问题。Skype 周三在其网站上发布通知说，这个问题始于 5 月 5 日，目前已经确定了原因。5 月 6 日，Skype中国运营商在其网站上发布了通知，将许多人打电话到中国时遇到的连接问题归咎于技术问题。微软发言人周三表示，正在努力恢复一些客户的服务，这些客户可能由于当地电信运营商的变化而无法访问 Skype。声明没有详细说明。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软CEO纳德拉：AI将创造新工作机会，可能出现10亿技术开发者]]></title>
         <id>https://news.cnblogs.com/n/742008/</id>
@@ -48,6 +379,26 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被 Notion 收购的下一代日历 Cron 到底什么来头？]]></title>
+        <id>https://sspai.com/post/79831</id>
+        <link href="https://sspai.com/post/79831"/>
+        <updated>2023-05-18T00:57:09.000Z</updated>
+        <summary type="html"><![CDATA[导语
+号称为专业人士和团队打造的下一代日历 Cron 最近正式开放注册，不再需要申请加入候补。作为 Cron 的不完全粉丝，我觉得是时候写篇文章来安利一下它了！
+Cron 是一款体量不大的免费日历工具，界面类似 Apple Calendar。如果你用过老牌的日历应用 Fantastical，应该不会觉得 Cron 有什么过人之处，但它在去年 6 月份被 Notion 低调收购，且 Figma 的创始人和 LinkedIn 前 CEO 都有参投其种子轮。如今，Notion、GitHub 和 Shopify 等公司的人都已经在使用 Cron 作为默认日历。
+
+那么，一款小工具何以备受硅谷顶流们的青睐？这值得我们来好好探究一番。
+从一场不愿透露细节的收购谈起
+对于 Notion 我们都不陌生，估值超过 100 亿美元的笔记应用，创始人之一 Ivan Zhao 是华人。但这么多年了，不管国内呼声多高，中文版始终难产，国内用户对其可谓又爱又恨！但更扎心的是，这丝毫不会影响其在硅谷炙手可热的明星地位！
+Notion 收购 Cron 的契机，源于用户对日历功能的需求变高。而 Cron 的产品理念和功能形态又正好与 Notion 的调性十分契合。更别说 Cron 和 Notion 的用户还有大量重叠，这些用户也乐于见到二者走到一起。集成 Cron 后，Notion 也将完善并强化其一体化办公的设定，从而进一步刺激用户增长。
+不过 Notion 并没有透露交易细节，Cron 的估值也未知，仅对外公布 Cron 被收购后依旧会作为独立的应用来运营，而 Cron 的创始人 Raphael Schaad 也一并加入，将致力于 Cron 在 Notion 的集成开发。
+Cron 创始人 Raphael Schaad（左）和 Notion 的 CEO Ivan Zhao（右）
+照片来源：INSIDER…]]></summary>
+        <author>
+            <name>Micoxx</name>
         </author>
     </entry>
     <entry>
@@ -241,6 +592,46 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推播助栏｜听中文播客，看懂 NBA 比赛门道]]></title>
+        <id>https://sspai.com/post/79875</id>
+        <link href="https://sspai.com/post/79875"/>
+        <updated>2023-05-17T09:44:55.000Z</updated>
+        <summary type="html"><![CDATA[导语
+NBA 分区半决赛刚刚结束，虽然卫冕冠军金州勇士队黯然出局，但是球队核心追梦格林已凭借自己的副业——播客获得了威比人民之声奖颁发的“最佳体育播客奖项”，成为体育播客领域的“冠军”。不过，对于中国球迷来说，格林的播客毕竟是英文的，理解起来没有那么顺畅，如果想更深入地了解 NBA 比赛的门道，我有 12 档中文播客分享给大家，这些节目都是我常听的，而且一直在持续更新中。
+
+《观篮高手》
+由三位在美国工作和生活的资深球迷制作，他们经常会去实地看球，因此有很多对比赛和球员的第一手观察。节目平时周更，在季后赛期间能做到一天一更，对于比赛的评析非常及时，在常规点评比赛之外，还设置有多个特色栏目，包括：“重返选秀之夜”、“梦幻选秀”、“对症下药”、“三十天三十队”、“十大XX球员”等。
+精彩单集：重返NBA2003选秀之夜（上）（下）
+《Juicy Baskets》
+同样是由三位在美国学习和工作（过）的球迷制作，他们的风格偏插科打诨，聊到支持的球队喜欢互相调侃。节目的特色是会玩一些和NBA相关的小游戏，比如球员冷知识答题和NBA模拟选秀，还会介绍 Fantasy 的玩法。他们创立了节目相关的discord群组，会在比赛日直播聊球。
+精彩单集：EP187 西區季末大亂鬥！回顧NBA例行賽10大頭條！最精彩的故事＆吉祥物
+《小人物上籃》
+于 2017 年上线，是中文世界最早的 NBA 播客，一集节目的时长通常为 2-3 小时，通常一集节目通常会分析多位球员和多支球队，除了 NBA 也会聊台湾的 PLG 和 T1 联赛。
+精彩单集：EP435 我都還在上班他們在練球 Feat. Andy 03/27/2023
+《体坛篮球秀》
+属于知名体育媒体《体坛周报》旗下节目，由资深篮球评论员管维佳和殳海主持，每期会邀请他们的同事或者不同球队的资深球迷做客，节目一周双更，内容非常专业，除了 NBA 也会讨论 CBA，最近两个月以多集节目评析周琦举报新疆队及新疆队退出又重回CBA事件。
+精彩单集：新版劳资协议解析
+
+《篮球季｜NBA球迷电台》、《篮球昕事》、《勇无止境》
+都是由《体坛周报》的记者、篮球评论员主持，节目时长均在10-20分钟之间，非常适合通勤时收听。《NBA球迷电台》广泛地关注 NBA 的所有球队，《篮球昕事》前身是篮网队球迷电台，随着篮网队重建转变为记者孔德昕的个人电台，《勇无止境》是勇士队球迷电台，专注于分析勇士队的比赛和球员动态。
+精彩单集：EP496 听说西部上半区有一个软柿子
+《今夜不NG》
+今年 2 月开播的新节目，由前 CUBA 球员老李和体育记者老徐主持，两人一逗一捧配合十分默契，以篮球话题为主，足球为辅。
+精彩单集：EP21 追梦格林，为什么如此招人恨
+
+《瓦甘達Play One》、《籃球烏托邦》、《大叔篮球魂》、《霍米籃教》
+均为 2020 年上线的台湾中文播客，都更新超过 100 集节目，节目主要由篮球写手、Youtuber 和球迷主持，《瓦甘達Play One》专业性最强，会从篮球技战术的角度分析球赛的胜负，也会邀请篮球训练师、专业球员 、球队总经理、NBA 球队球探上节目分享亲身经历。
+精彩单集：EP101 NBA開季高峰會 Feat.小鐵、AhUtopian、歐文、春少
+東區隊史GOATs：Reggie Miller被高估了嗎、賈霸跟字母哥怎麼比、Wes Unseld讓子彈飛 & more
+
+《運動視界啪》
+由台湾体育媒体《運動視界》的编辑主持，每集节目会邀请体育领域的作者和专业人士讨论最新的体育热点，涵盖台湾和国际的篮球、足球、棒球话题。
+精彩单集：EP144 激戰不斷，這可能會是近年來最好看的季後賽？ feat. 小鐵]]></summary>
+        <author>
+            <name>podcritic恩佐</name>
         </author>
     </entry>
     <entry>
@@ -10218,346 +10609,6 @@ Tunnel 需要通过 Clou…]]></summary>
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix 结束 DVD 邮寄业务]]></title>
-        <id>https://www.solidot.org/story?sid=74716</id>
-        <link href="https://www.solidot.org/story?sid=74716"/>
-        <updated>2023-04-19T13:05:23.000Z</updated>
-        <summary type="html"><![CDATA[流媒体巨头 Netflix 向客户发去邮件通知，宣布将于 2023 年 9 月 29 日结束 DVD 邮寄业务。 Netflix 成立于 1997 年，最初的主业就是以邮寄方式出租 DVD 和蓝光碟片。但物理的碟片容易受损，Netflix 从 2007 年开始转向了流媒体服务，如今它已经成为最大的基于订阅模式的流媒体服务商，投入巨资制作了大量的原创剧集和电影。Netflix 在邮件声明中表示它将于  9 月 29 日寄出最后的标志性红色邮包。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔停产 Blockscale ASIC 矿机]]></title>
-        <id>https://www.solidot.org/story?sid=74715</id>
-        <link href="https://www.solidot.org/story?sid=74715"/>
-        <updated>2023-04-19T12:49:46.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 8 月英特尔宣布了用于挖掘比特币等加密货币的 Blockscale ASIC 矿机。本周英特尔宣布停产 Blockscale 1000 芯片，且无任何替代或后续型号。芯片巨人表示它会继续支持购买相关芯片的企业客户，但 Blockscale ASIC 的寿命结束了。至于它是否完全退出比特币 ASIC 业务，英特尔的回答是它将继续监控市场机会。英特尔进入矿机市场的一个推手是图形业务负责人 Raja Koduri，而他前不久已经离开了公司。比特币过去一年经历了大起大伏，币值一度跌至 2 万美元以内，目前恢复到了 3 万美元左右。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 准备推出其首款可折叠智能手机 Pixel Fold]]></title>
-        <id>https://www.solidot.org/story?sid=74714</id>
-        <link href="https://www.solidot.org/story?sid=74714"/>
-        <updated>2023-04-19T11:06:12.000Z</updated>
-        <summary type="html"><![CDATA[Google 准备在下个月举行的 Google I/O 活动上推出自己的首款可折叠智能手机。内部代号为 Felix 的 Pixel Fold 手机将拥有最耐用的可折叠手机铰链，其 1700 美元的售价也基本与三星 1799 美元的 Galaxy Z Fold 4 看齐。Pixel Fold 能防水，折叠后有口袋大小，外部屏幕为 5.8 英寸，打开后的屏幕大小为 7.6 英寸屏幕。它的重量为 10 盎司，比 Galaxy Z Fold 4 略重，它的电池更大，Google 称可续航 24 小时，在低功率模式下续航长达 72 小时。Pixel Fold 使用 Tensor G2 芯片，与去年上市的 Pixel 7 和 Pixel 7 Pro 相同。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞典公共广播电台退出 Twitter]]></title>
-        <id>https://www.solidot.org/story?sid=74713</id>
-        <link href="https://www.solidot.org/story?sid=74713"/>
-        <updated>2023-04-19T10:34:06.000Z</updated>
-        <summary type="html"><![CDATA[瑞典最大的公共广播电台 Sveriges Radio 宣布退出 Twitter。不同于 NPR、PBS 和 CBC 因马斯克给其官方账号打上政府资助或官方媒体标签而退出，Sveriges Radio 给出的理由是 Twitter 这个平台对瑞典用户不再重要。它的社媒负责人 Christian Gillinge 表示电台将会删除账号。他援引研究显示，只有 7% 的瑞典用户每天在 Twitter 上活动，该平台发生了巨大变化，对他们不再重要。他说，用户去了其他地方，因此 Sveriges Radio 选择停用或删除剩余的账号。Gillinge 认为 Twitter 的大幅裁员削减了该公司处理虚假账号、机器人账号、虚假信息和仇恨消息等的能力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看完钉钉的土味炫技，我的职场恐惧症好多了]]></title>
-        <id>https://news.cnblogs.com/n/740377/</id>
-        <link href="https://news.cnblogs.com/n/740377/"/>
-        <updated>2023-04-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我是一名 2023 年的应届毕业生，经过简历筛选、性格测试、笔试、群面、二面、HR 面……共九九八十一难后，我如愿拿到了这家公司的实习，但我现在高兴不起来。 为了得到这份工作，我很努力得表现像个职场人士，但实际上在来这家公司前，我对职场一无所知。出门面试前我还要对着镜子练习了 10 分钟怎样热情地打
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员发现大脑的社会知觉神经网络]]></title>
-        <id>https://www.solidot.org/story?sid=74712</id>
-        <link href="https://www.solidot.org/story?sid=74712"/>
-        <updated>2023-04-19T09:56:50.000Z</updated>
-        <summary type="html"><![CDATA[社会交互是人类生活的重要组成部分。社会互动需要对于社会环境进行感知，理解及灵活地对他人的行为进行反应。人类大脑能够自动且快速地进行这样的感知和决策，然而目前对于大脑的社会信息处理的机制仍旧知晓地不多。芬兰图尔库PET中心的研究显示，人类大脑中有着处理多样社会信息的广阔的神经网络。研究表明，人类的社会感知由有限的维度组成，如反社会行为，性或亲和性为，以及沟通交流。这些社会维度的处理在大脑的多个区域进行，主要位于大脑后侧，集中在枕叶和颞叶。通过脑成像，研究人员发现，当人们在观看描述社会情境的视频时，大脑区域的活动是同步的。大脑活动的同步指的是就信息处理而言，不同人之间是相似的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现养成健身习惯平均需要半年]]></title>
-        <id>https://www.solidot.org/story?sid=74711</id>
-        <link href="https://www.solidot.org/story?sid=74711"/>
-        <updated>2023-04-19T09:51:04.000Z</updated>
-        <summary type="html"><![CDATA[习惯的养成需要多少天？21 天？根据发表在 PNAS 期刊上的一项研究，养成习惯没有固定的数字，21 天的说法没有任何依据。研究人员采用机器学习来分析成千上万人的大数据集，这些人要么刷卡进入健身房，要么在医院换班时洗手。在健身房的研究中，研究人员与 24 小时健身中心合作，而在洗手的研究中，他们与一家使用射频识别（RFID）技术监测医院洗手情况的公司合作。在四年时间内，他们追踪了 3 万多名健身人士和近 100 个班次的 3000 多名医院工作人员。研究发现，某些变量对健身习惯的形成没有影响，比如一天中的时间。其他因素，比如一个人过去的行为，却会起作用。他们发现，养成健身习惯平均需要 6 个月，医护人员养成洗手习惯大约是几周。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世另我？国外小伙用必应+ChatGPT复刻自己最好的朋友]]></title>
-        <id>https://news.cnblogs.com/n/740376/</id>
-        <link href="https://news.cnblogs.com/n/740376/"/>
-        <updated>2023-04-19T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：拉燕 数据科学家生成朋友间的聊天记录，说话方式、奇闻趣事全学了！ 在如今这个时代，微信等通讯软件已经成为了日常生活必不可少的组成要素。 而数据科学家伊兹-米勒（Izzy Miller）又进一步认为，群组聊天在当今社会是一件「神圣」的事情。 无论是在哪个社交软件上，它都是你和你最好的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为工程师而生的 Linear，为何也是设计师的灵感源泉]]></title>
-        <id>https://sspai.com/post/79347</id>
-        <link href="https://sspai.com/post/79347"/>
-        <updated>2023-04-19T09:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 首页推荐 
-Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-编注：Linear 软件公司是一家提供项目管理和协作工具的公司，它的产品旨在帮助团队更高效地协作，跟踪任务和进度，从而实现项目的顺利进行。但在本文中，Linear 往往指代的是一种设计风格，这是一种风格简洁、直观、以用户体验优先的设计。
-
-​
-什么是 Linear 设计风格？
-Linear 官网局部图
-这是指一种在大面积暗色背景下，使用渐变、模糊、动态流光、极细描边、微噪点、外发光以及庄重的无衬线字体，外加流畅克制的微动效来组织和修饰界面元素的网页设计风格。
-Linear 官网局部图
-其独特又神秘的锋利质感，就是为了体现界面所承载产品的专业感。这种风格早已在国外设计圈流行多时，很多产品也都纷纷推出了 Linear 设计风格的网页。
-大家可能在各种概念设计稿上见过 Linear 设计的影子，只是叫不出它的名字，或者并不知道这种风格源自于同名的一款 SaaS 软件。
-Linear 设计风格源自同名产品
-适当了解一下产品背景，会对掌握 Linear 设计风格更有帮助。
-01. 为谁设计
-
-Linear 的设计风格是为了符合软件工程师对于「专业」的要求。黑色背景、灰色 Inter 无衬线字体、一个紫色渐变圆形 logo，基于大多数工程师都很喜欢的暗色编程环境，最大限度的减少设备能耗和视觉疲劳。
-
-以上出自 Linear 的 CEO （前 Airbnb 的首席设计师） Karri Saarinen 的一段访谈。他很好的解释了 Linear 的设计初衷，也道出了 Linear 其实是一款专门针对软件开发的协同管理的工具，目标用户主要是软件开…]]></summary>
-        <author>
-            <name>Micoxx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华人团队迷你GPT4抢跑看图聊天：OpenAI有的它都有，服务器被挤爆]]></title>
-        <id>https://news.cnblogs.com/n/740375/</id>
-        <link href="https://news.cnblogs.com/n/740375/"/>
-        <updated>2023-04-19T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[梦晨发自凹非寺 量子位公众号 QbitAI GPT-4 识图功能迟迟不开放，终于有人忍不住自己动手做了一个。 MiniGPT-4 来了，Demo 开放在线可玩。 传一张海鲜大餐照片上去，就能直接获得菜谱。 传一张商品效果图，就可以让 AI 写一篇带货文案。 手绘一个网页，可以给出对应的 HTML 代
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI学会上网点披萨，连款都自己付了！外国小哥发布HyperWrite，网友：AI会饿吗？]]></title>
-        <id>https://news.cnblogs.com/n/740374/</id>
-        <link href="https://news.cnblogs.com/n/740374/"/>
-        <updated>2023-04-19T09:27:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：拉燕 继生成式 AI 爆火之后，又出来一个会自己点披萨的 AI？HyperWrite 来了！ 想象一下，在一个阳光明媚的午后，一个 AI 刚刚输出完一大堆用户发来的需求，百无聊赖地打开外卖 APP，打算点个什么吃。 等等，AI？AI 点外卖干什么？ 先别管点外卖干啥，重要的是，能点
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器就能跑大模型了！陈天奇团队发布Web LLM，无需服务器支持]]></title>
-        <id>https://news.cnblogs.com/n/740373/</id>
-        <link href="https://news.cnblogs.com/n/740373/"/>
-        <updated>2023-04-19T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 现在，只需一个浏览器，就能跑通“大力出奇迹”的大语言模型（LLM）了！ 不仅如此，基于 LLM 的类 ChatGPT 也能引进来，而且还是不需要服务器支持、WebGPU 加速的那种。 例如这样： 这就是由陈天奇团队最新发布的项目——Web LLM。 短短数
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 款 AI 老照片修复工具的横向比较]]></title>
-        <id>https://sspai.com/post/79376</id>
-        <link href="https://sspai.com/post/79376"/>
-        <updated>2023-04-19T09:01:05.000Z</updated>
-        <summary type="html"><![CDATA[在大语言模型和各类 AI 应用日新月异的今天，我终于下定决心，趁着老照片们还没有完全发黄褪色、受潮粘连抑或损坏遗失，将上一代人实体相册里的纸质胶卷照片全部数字化，并进行一次彻底的 AI 修复，好让这些珍贵的记忆能更长久地保存下去。
-数字化的方式是使用 Google 相册提供的「照片扫描仪」（Photoscan）应用进行的，它能自动调整角度、裁剪边缘，消除眩光、阴影，并将原件和自动编辑过的图片同时保存在 iCloud 相册中（条件允许的话，更建议使用扫描仪以得到最大的分辨率）。
-接下来遇到的问题是如何挑选一款合适的 AI 修复工具。根据以往经验和近期热门，我挑选了 5 款候选。为了使修复效果达到最好，我把待修复的小几百张老照片，几乎每张都用全部工具试了一遍，也算是对这些工具进行了一次深度使用，因此下面就把体验分享给大家。
-工具列表
-
-
-工具平台价格模型
-
-CodeFormer网页免费（开源）Codebook Lookup TransFormer (CodeFormer), 2022 年
-RestorePhotos.io网页免费（开源）GFP-GAN, 2021 年
-jpgHD.com网页 / iOS / Android / Mac / Windows收费，可免费试用 5 张未公开的 AI 超分模型，2021 年
-你我当年iOS / Android收费，观看 20 秒广告可以处理 1 张未公开
-老照片修复iOS / Android收费未公开
-
-
-CodeFormer
-
-南洋理工大学周尚辰等人的作品，基于 Codebook Lookup TransFormer 模型实现。
-官方网站：https://shangchenzhou.com/projects/CodeFormer/
-Github 项目地址：https://github.com/sczhou/CodeFormer
-Repl…]]></summary>
-        <author>
-            <name>太空小孩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现每周工作四天对健康有益]]></title>
-        <id>https://www.solidot.org/story?sid=74710</id>
-        <link href="https://www.solidot.org/story?sid=74710"/>
-        <updated>2023-04-19T07:52:11.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《国际行为营养与体育活动杂志》的一项研究，南澳大学的研究人员表示，四天工作制对健康有益。
-研究人员在评估假期前、假期时和假期后日常活动的变化时发现，人们在度假时表现出更积极、更健康的行为，即使他们只有 3 天的休息时间。这项研究使用了“成年人生活方式和健康年度节律”研究的数据。在 13 个月内，308 名成年人（平均年龄 40.4 岁）每天 24 小时佩戴健身追踪器。逐分钟运动行为数据被汇总为每日总数，以比较假期前、假期时和假期后的运动行为。“这项研究为越来越多的人每周工作 4 天提供了支持。”南澳大利亚大学教授 Carol Maher 说，“世界各地的公司都在尝试缩短每周工作时间。结果毫不奇怪，员工的压力、倦怠和疲劳程度都有所减轻，心理健康状况、工作与生活间的平衡也有所改善。”这项研究提供了经验证据，表明人们在短暂休息时，比如 3 天的周末，会对身心健康产生积极影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本横须贺市率先在政府工作时使用 ChatGPT]]></title>
-        <id>https://www.solidot.org/story?sid=74709</id>
-        <link href="https://www.solidot.org/story?sid=74709"/>
-        <updated>2023-04-19T07:46:07.000Z</updated>
-        <summary type="html"><![CDATA[日本神奈川县横须贺市周二宣布，将从 20 日起在政府业务中尝试采用 AI 聊天软件 ChatGPT。正式职员和部分非正式职员共约 4000 人可在约 1 个月内使用。这在日本甚至全世界地方政府中可能是首次。ChatGPT 将被用于制作面向市民的宣传文案、总结会议纪要、检查错字漏字、产生新的业务创意等。为彻底做好信息安全管理，设定不让 ChatGPT 记忆输入的内容，并避免其接触到机密信息和个人信息。一个月后如果确认有用，将继续使用。宣布这一声明的文案也是用 ChatGPT 制作的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杨紫琼主演新《星际迷航》电影]]></title>
-        <id>https://www.solidot.org/story?sid=74708</id>
-        <link href="https://www.solidot.org/story?sid=74708"/>
-        <updated>2023-04-19T07:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Paramount+ 宣布了新星际迷航系列电影《星际迷航：31区(Star Trek: Section 31)》，新晋奥斯卡奖影后杨紫琼将再次扮演女皇 Philippa Georgiou。杨紫琼此前出演了 Paramount+ 的剧集《星际迷航：发现号》，扮演联邦星舰神舟号船长 Philippa Georgiou，她在 Battle at the Binary Stars 战役后被克林贡战士 T'Kuvma 杀死。《发现号》第一季后期引入了镜像宇宙 Georgiou，她的头衔是 Mother of the Fatherland, Overlord of Vulcan, Dominus of Qo'nos, Regina Andor, Philippa Georgiou Augustus Iaponius Centaurius，是  Terran 帝国的女皇。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 38 释出]]></title>
-        <id>https://www.solidot.org/story?sid=74707</id>
-        <link href="https://www.solidot.org/story?sid=74707"/>
-        <updated>2023-04-19T06:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Fedora 38 正式版释出，比原定计划的早了一周。主要新特性包括：将超时关机（shutdown timeouts）从 90/120 秒减少到 15 秒，部分开发者认为太激进；启用帧指针构建，可能会导致性能略有下降，但未来的性能优化和调试将会更轻松。软件方面的更新包括：GNOME 44，默认包管理器的轻量级版本 Microdnf 被 dnf5 取代，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 10 万条微信聊天记录和 280 篇博客文章，我克隆了一个数字版自己]]></title>
-        <id>https://sspai.com/post/79230</id>
-        <link href="https://sspai.com/post/79230"/>
-        <updated>2023-04-19T06:21:53.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 精选
-Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-
-除了开飞机，做出完美的烤肋排，获得 6 块腹肌以及让公司赚大钱之外，我一直以来也想做成的一件事，是实现一个聊天机器人。
-和多年前简单通过关键词匹配来回复的小黄鸡，到现在已经堪比人类智慧的 ChatGPT，聊天 AI 一直在进步，但他们和我想的都有一些区别。
-我在微信上和很多人聊天，有的人聊得多，有的人聊的少，我在群里也会说话，我还会写博客和公众号，我会在很多地方留下评论，我也会发微博，这些是我在网络世界留下的痕迹，某种程度上这些东西构成了世界对我的认知，从这个角度上，也就构成了我。将这些数据——我对不同消息的回复，我写的每一篇文章，每一句话，我发过的每一条微博等，全部汇入一个神经网络模型之中，去更新其中的参数，理论上就可以获得一个我的数字拷贝。
-从原理上，这和对 ChatGPT 说「请扮演一个叫小王的人，他的经历是XXX」不同，虽然以 ChatGPT 的智慧，这样的扮演毫不费力且可能以假乱真，但其实 ChatGPT 的参数并没有改变，这更像是「扮演」而非「重塑」，ChatGPT 的上千亿个参数并没有改变一个，它从你之前的文本中获取一些信息，然后用它的智慧来应对你。
-
-我喜欢在文章里写一些没有太大用处的比喻，并喜欢在最后做一些总结，跟人聊天的时候，我喜欢用「可以的」来敷衍，同时用卧槽来表示惊讶，我某些时候少言寡语，另一些时候则滔滔不绝，这是我自己能够感知的一些特点，此外还有更多我自己都无法察觉的固定习惯，但这些微妙又模糊的东西，我无法告诉 ChatGPT，这就像你做自我介绍，可以介绍的很丰富，但和真正的你，依然差之千里，甚至有时候截然相…]]></summary>
-        <author>
-            <name>调皮的王登科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JCRE 中的内存污染：无法修补的 HSM 可能会偷吃您的私钥]]></title>
-        <id>https://www.solidot.org/story?sid=74706</id>
-        <link href="https://www.solidot.org/story?sid=74706"/>
-        <updated>2023-04-19T04:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Shawn the R0ck 写道：
-私钥一直是安全保护的核心目标。由于密钥槽的限制，大多数加密货币硬件钱包使用 MCU 芯片（如 STM32F205RE）进行实现，以便能使用secure element存储和支持更广泛的加密货币种类，然而，那些对保护私钥有更高安全要求的人通常会对 Java 卡感兴趣，因为Java Card基本上是具有加密算法硬件实现的智能卡。私钥或对称密钥无法从中提取。用户只能从 Java 卡获得加密操作的结果，另外一点是已经使用通信参数初始化但尚未加载应用程序（applet）的 Java 卡是可由用户编程的，而且有一些以 Java 卡 applet 形式实现的各种功能的自由开源软件项目。即使Java Card作为HSM（硬件安全模块）的安全性高于常见加密货币硬件钱包的实现，但依然有安全风险，HardenedVault介绍了两个典型的漏洞，这些漏洞位于更底层的JCRE（Java Card运行时环境），虽然不会导致私钥被泄露，但会导致应用程序陷入无法恢复的错误。一旦出现这种问题，卡中的私钥就可能会丢失。智能卡作为 HSM 的实现比基于 MCU 的解决方案（几乎所有硬件钱包都采用了这种方案）更加安全，但仍存在某些安全风险。甚至获得 EAL 5+ 认证的硬件钱包也有被攻击的记录。因此，在系统安全方面，我们仍需要坚持纵深防御的策略。另一方面，透明度很重要，开源是确保 HSM 的整个运行环境能够得到适当审计的唯一途径。对于 Java 卡，我们希望未来能够拥有一个自由开源且可更新的 JCRE。或者某种功能上类似于 Java 卡但可以用 C 语言编程的 HSM（对不起，我们不想使用 Rust，因为我们已经有了现代的缓解和检测器，Rust 对此来说有些生锈了，不是吗？），甚至可以直接使用通用计算（如可信计算、运行时保护、攻击面缩小等）实现。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手3D打印指南-拓竹P1P封箱]]></title>
-        <id>https://sspai.com/post/78835</id>
-        <link href="https://sspai.com/post/78835"/>
-        <updated>2023-04-19T02:06:13.000Z</updated>
-        <summary type="html"><![CDATA[一、概述
-1. 3D打印机介绍
-拓竹(Bambu Lab) 最新出的3D打印机P1P以其卓越的性能,开箱即用的简单操作以及出众的颜值一经推出就受到很多关注,这款机器在国外也有很多爱好者在使用,相关的社区论坛也有很多讨论, X1系列是拓竹的高端产品线,P1P是家用性价比的产品;
-Bambu Lab
-・P1P作为X1的简化版很多实用的核心功能都有保留,我自己总结的几个非常实用的功能特点:
-         1. 打印速度很快,而且质量很高,几乎不需要过多的参数调整,上手非常简单;
-         2. 机器带自动调平功能,能节省很多调试的时间;
-         3. 官方的切片软件BambuStudio可以通过网络云端发送打印文件,而且手机APP端也可以实时查看设备状态以及监控摄像;
-・P1P作为主推性价比的产品,有些地方的成本就被省下来了,比如这个封箱,原厂出厂就是一套金属框架,厂家也是希望用户自己创造,打印个性化的侧板封箱;
-Bambu Lab P1P
-2. 3D打印技术
-现在家用主流的3D打印技术主要有2种: FDM(熔融沉积成型) 和 SLA(立体光刻) :
-1.  FDM技术使用热塑性材料，如ABS、PLA等，将材料通过喷嘴加热融化后，通过控制喷嘴的位置和流量来逐层堆叠形成三维物体。在FDM过程中，打印机将3D模型切割成许多水平层，并从底层开始逐层堆叠。FDM技术通常用于制造原型、模型、工具和部件。它的优点是制造成本低、材料可替换、适用于大批量生产等。缺点是表面质量较差、精度有限，不适用于需要高精度、高质量的应用.
-2.  SLA技术使用液体光敏树脂材料，通过逐层紫外线（UV）光固化来构建三维物体。在SLA过程中，光束被聚焦在液体树脂表面的特定区域上，使其固化成为一个薄层。然后，该平台会向下移动一层，重复该过程直到构建完整的物体。SLA技术可以制造高精度、高质量的…]]></summary>
-        <author>
-            <name>大盗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创作 | 艺术家用 AI 作品赢得世界摄影大赛，但他拒绝了大奖]]></title>
-        <id>https://sspai.com/post/79332</id>
-        <link href="https://sspai.com/post/79332"/>
-        <updated>2023-04-19T01:54:20.000Z</updated>
-        <summary type="html"><![CDATA[导语
-本文是 Design For AI 专题 的专稿，原文发表于 这里。
-AI 代替打工人、操作员已经成为不可逆转的现实，那么以创意、创造、创作见长的艺术家呢…AI 又会以什么样的形式代替艺术家的创作？AI 能否作为一个艺术创作的实体而得到人类的认同？
-这位德国艺术家用挑战世界摄影大赛的方式，敦促摄影界认真地思考这个问题。
-
-获奖作品
-来自德国柏林的“摄影媒体艺术家” Boris Eldagsen，用一幅 AI 作品参加世界最负盛名的索尼世界摄影奖（Sony World Photography Awards），并在 2023 年公开赛中获得了创意类别总冠军。但他拒绝了这个大奖。
-The Electrician / Boris Eldagsen
- 
-这件作品名为 The Electrician，来自 Boris 名为“PSEUDOMNESIA: Fake Memories / 虚假失忆症：虚假记忆”系列。他从 2022 年开始这个系列的创作，使用 1940 年的视觉语言、摄影语言，创造一系列从未存在、也从未被拍摄的图像。
-PSEUDOMNESIA: Fake Memories
-图像还是摄影？获奖 AI 作品的创作过程
-是的，他把自己的作品称为“图像”而不是“照片”。获得索尼摄影大奖之后，他在自己的博客上表示，“我从 1989 年开始摄影，从 2000 年开始成为一名照片媒体艺术家。经过二十年的摄影，我的艺术重心已经转移到探索 AI 生成器的创作可能性上。”
-他使用 AIGC 工具，利用 AI 来创造“PSEUDOMNESIA: Fake Memories”系列作品。新闻报道说他使用“text-image”工具创作和重新编辑，每张图像处理 20-40 次，结合了“text-image”工具的 inpainting、outpainting、prompt whispering 等…]]></summary>
-        <author>
-            <name>倪爽</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳军用直升机坠毁被指原因是未能打软件补丁]]></title>
-        <id>https://www.solidot.org/story?sid=74705</id>
-        <link href="https://www.solidot.org/story?sid=74705"/>
-        <updated>2023-04-18T15:38:19.000Z</updated>
-        <summary type="html"><![CDATA[上个月一架澳大利亚军方的 MRH-90 Taipan 直升机在例行的反恐海上演习中失去动力坠落，直升机迫降在海滩上，有两名士兵在事故中受轻伤。MRH-90 是老旧的欧制直升机，即将退役，被美制黑鹰取代。在调查期间军方停飞了所有 47 架 MRH-90 直升机。据匿名军方消息来源称，事故原因被认为是直升机未能打上重要软件补丁。软件补丁将防止飞行员对发动机热启动——也就是发动机关闭再重启动，MRH-90 的设计不允许这么做，它的安全程序要求在飞行结束时引擎空转直至关闭。防止热启动的软件补丁早就存在许多年，但很多 MRH-90 并没有打上补丁。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩尔线程开发者向 VA-API 和 FFmpeg 项目贡献代码]]></title>
-        <id>https://www.solidot.org/story?sid=74704</id>
-        <link href="https://www.solidot.org/story?sid=74704"/>
-        <updated>2023-04-18T15:01:43.000Z</updated>
-        <summary type="html"><![CDATA[开发国产 GPU 的摩尔线程开发者最近向 Video Acceleration API (VA-API) 库和 FFmpeg 项目贡献了代码，加入了  VAProfileH264High10 支持。摩尔线程的工程师在代码注解中称，该公司最新的产品 TTS80/MTTS2000/MTT3000 都具有在最高 8k 分辨率上编解码 H264High10 的能力。此外还支持 AVS+ 和 AVS2 视频解码，计划未来加入到 VAAPI。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果印度首家自营商店开业]]></title>
-        <id>https://www.solidot.org/story?sid=74703</id>
-        <link href="https://www.solidot.org/story?sid=74703"/>
-        <updated>2023-04-18T14:49:40.000Z</updated>
-        <summary type="html"><![CDATA[苹果在印度的首家自营商店周二开业，CEO 库克（Tim Cook ）出席了开业典礼，并与顾客拥抱合影。苹果最近加大了对印度的投资，计划将大部分原来由中国制造的产品转移到印度生产。苹果相信随着印度中产阶级的壮大它的 iPhone 销售将能每年增长 17%，十年后从今天大约 30 亿美元增长到 600 亿美元。印度的智能手机用户接近 7 亿，其中 iPhone 市场份额只有 4%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国 GS1 将条形码升级为二维码]]></title>
-        <id>https://www.solidot.org/story?sid=74702</id>
-        <link href="https://www.solidot.org/story?sid=74702"/>
-        <updated>2023-04-18T14:27:47.000Z</updated>
-        <summary type="html"><![CDATA[美国 GS1（国际商品编码）准备升级已使用长达五十年的商品条形码，从一维的 12 位数条码升级到二维码。二维码将能提供更多商品的信息。到 2027 年收银台将只接受二维码。条形码使用明暗线来定义数字，而二维码则增加了一个维度的信息，水平和垂直都能编码。它能告诉我们商品的来源地，制造工厂，甚至产品使用说明。二维码将能彻底改变零售商的库存管理。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CBC 暂停在 Twitter 的活动]]></title>
-        <id>https://www.solidot.org/story?sid=74701</id>
-        <link href="https://www.solidot.org/story?sid=74701"/>
-        <updated>2023-04-18T13:27:03.000Z</updated>
-        <summary type="html"><![CDATA[在 NPR 和 PBS 之后，加拿大广播公司 CBC 因其官方 Twitter 账号被马斯克标记为“政府资助媒体”而宣布停止活动。CBC 以及加拿大电台的新闻、体育、娱乐和地区关联账号都停止活动。CBC 新闻主编 Brodie Fenlon 说，需要时间去评估 Twitter 的作为，而新闻的独立性是公共广播公司的基础。CBC 此前表示它获得的政府资助不到总预算的七成，马斯克随后将 CBC 官方账号的标签改为“七成政府资助媒体”，接着又改为“  69% 政府资助媒体”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
