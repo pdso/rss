@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-21T01:16:05.567Z</updated>
+    <updated>2023-05-22T01:15:42.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华硕修复导致路由器故障的远程推送]]></title>
+        <id>https://www.solidot.org/story?sid=75016</id>
+        <link href="https://www.solidot.org/story?sid=75016"/>
+        <updated>2023-05-21T16:07:27.000Z</updated>
+        <summary type="html"><![CDATA[本周三，世界各地的华硕路由器用户报告其设备突然发生故障，无法联网，反复重启之后路由器在数分钟内就因为内存耗尽而停止工作。对日志的分析显示，在发生故障前华硕向内置安全守护程序 ASD 推送了一个损坏的定义文件，路由器自动更新之后就崩溃了。华硕周五承认此次故障是因为服务器配置文件的一个配置错误导致的。它已经修复了故障，大部分用户只需要重启设备。如果重启无法解决问题，华硕建议用户保存当前配置设置，恢复出厂设置。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本警方首次逮捕了一名上传游戏视频的 YouTube 主播]]></title>
+        <id>https://www.solidot.org/story?sid=75015</id>
+        <link href="https://www.solidot.org/story?sid=75015"/>
+        <updated>2023-05-21T15:51:17.000Z</updated>
+        <summary type="html"><![CDATA[52 岁的名古屋居民 Shinobu Yoshida 成为日本第一位因为向 YouTube 上传游戏视频而被捕的主播。他上传了著名视觉小说游戏《命运石之门（Steins;Gate）》系列中《比翼双飞的恋人》的游戏视频，《命运石之门》动漫改编以及《Spy x Family》动漫。《命运石之门》的版权持有人角川书店认为此举是非法的，因为视觉小说和其它类型的游戏不同，它更接近于小说或电影，观看此类的游戏视频类似盗版电影。 日本版权组织 CODA 称，在原则上发布游戏视频需要征得版权所有者的许可。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美光公司的内存芯片被限制在华销售]]></title>
+        <id>https://www.solidot.org/story?sid=75014</id>
+        <link href="https://www.solidot.org/story?sid=75014"/>
+        <updated>2023-05-21T15:30:47.000Z</updated>
+        <summary type="html"><![CDATA[网信办发表声明，美光公司在华销售的产品未通过网络安全审查。声明称：“审查发现，美光公司产品存在较严重网络安全问题隐患，对我国关键信息基础设施供应链造成重大安全风险，影响我国国家安全。为此，网络安全审查办公室依法作出不予通过网络安全审查的结论。按照《网络安全法》等法律法规，我国内关键信息基础设施的运营者应停止采购美光公司产品。此次对美光公司产品进行网络安全审查，目的是防范产品网络安全问题危害国家关键信息基础设施安全，是维护国家安全的必要措施。中国坚定推进高水平对外开放，只要遵守中国法律法规要求，欢迎各国企业、各类平台产品服务进入中国市场。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeWeavers 转变成由员工所有权信托控制的公司]]></title>
+        <id>https://www.solidot.org/story?sid=75013</id>
+        <link href="https://www.solidot.org/story?sid=75013"/>
+        <updated>2023-05-21T15:15:13.000Z</updated>
+        <summary type="html"><![CDATA[如果你在 Linux 上玩 Windows 游戏如使用 Valve 的掌机 Steam Deck，那么你需要感谢 CodeWeavers 公司。该公司是 Wine 程序的最主要贡献者。CodeWeavers 创始人兼 CEO Jeremy White 在领导公司 27 年之后决定“翻开新的一章”，作为公司最大的股东，他决定将 CodeWeavers 转变成一家员工所有权信托（employee ownership trust）控制的公司。公司总裁 James Ramey 担任 CEO，研发总监 Ulrich Czekalla 担任总裁，Jeremy White 继续担任公司董事会主席。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔探索仅 64 位的 x86S 架构]]></title>
+        <id>https://www.solidot.org/story?sid=75012</id>
+        <link href="https://www.solidot.org/story?sid=75012"/>
+        <updated>2023-05-21T14:58:46.000Z</updated>
+        <summary type="html"><![CDATA[自 Windows 7 时代以来，大部分 PC 用户运行的 Windows 操作系统都是 64 位，搭载的内存超过了 4GB，64 位应用和游戏都逐渐成为了主流。对芯片巨人而言，是时候简化 x86 指令集架构了。英特尔发表了一份白皮书，探索了仅 64 位的 x86S 架构，主要包括：用 64 位的简化分段模型分段支持 32 位应用；移除 ring 1 和 2，以及过时的分段功能如门；移除 16 位寻址支持；移除对 ring 3 I/O 端口访问的支持；移除字符串端口 I/O；限制本地中断控制器（APIC）使用 X2APIC，移除 8259 支持；移除未使用操作系统模式位。64 位的 x86S 芯片仍然支持 32 位应用，但不再支持 32 位操作系统。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近 30 年戴镜史，分享我的配镜方法和粗浅经验]]></title>
+        <id>https://sspai.com/post/79573</id>
+        <link href="https://sspai.com/post/79573"/>
+        <updated>2023-05-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+我从小学 3 年级就开始佩戴眼镜，至今已有近 30 年历史。而我所经历的前 20 年，基本是眼镜装配的荒蛮时代。
+我能够清晰地记得：那时候的镜架坏了，原镜片是可以磨一磨重新装到新镜架上的；那时候，想选轻薄的镜片是没有的，全是玻璃片；那时候，没人知道散光是什么，看不清，度数给你再加 100 就好了……
+凡此种种，不胜枚举，直接导致我的近视度数蹭蹭蹭地往上涨。
+那时候，人们对近视了解不深，全校只有我和另外一个同学戴眼镜，和大熊猫没什么两样。现在，眼科视光学已经发展得非常成熟了，我们却发现，戴眼镜的人越来越多，年龄也越来越小。
+时代这样一路走来，究竟是什么在改变？我无从得知。这也不是本篇想要着重探寻的问题。
+我的问题是，为什么眼科视光学发达了、材料科学发达了、机械工业也发达了…… 似乎，和眼镜加工相关的科学，除了物理光学之外，都有了长足的发展。但是为什么，我们在实际的生活中，配镜体验仍旧不太好甚至非常糟糕？
+有收高价低配的；有验光不准，不舒服叫你适应，适应适应度数就涨上去的；有装配不精细，瞳距瞳高轴位都错乱的…… 在这样的环境下，为了得到足够精细的服务，可能需要付出高昂的代价，这里的代价，可能是时间、可能是选择品牌的溢价、也可能是一次又一次的吃亏。
+我就是那个一次又一次吃亏的人。这么多年，换过的眼镜，我自己数不过来，长过的记性也数不过来。
+好在，随着近十年互联网的兴起，我终于得以借助知识大爆炸的时机学到一个高度近视的人应该学到的知识了。而促使我深入学习视光学知识的动力，来自于我 3 岁确诊先天性高度散光的女儿。如今 3 年过去了，女儿的…]]></summary>
+        <author>
+            <name>胡茬扎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抖音杀到了阿里京东家门口]]></title>
         <id>https://news.cnblogs.com/n/742182/</id>
@@ -103,6 +175,16 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram 的微博客服务将支持 Mastodon]]></title>
+        <id>https://www.solidot.org/story?sid=75011</id>
+        <link href="https://www.solidot.org/story?sid=75011"/>
+        <updated>2023-05-20T16:11:14.000Z</updated>
+        <summary type="html"><![CDATA[Meta 旗下的 Instagram 正在开发代号为 P92、Project 92 或 Barcelona 的微博客应用，预计最快将在 6 月下旬推出，其每条微博限制在 500 字以内，可添加链接、照片和视频，某种意义上像是 Instagram 和 Twitter 的杂交。更值得注意是新的微博客服务将有去中心元素，可兼容联邦平台如 Mastodon，Mastodon 等平台的用户可以搜索和关注 Instagram 的微博，如果账号是私有，添加关注需要获得批准。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -10062,26 +10144,6 @@ Blot 血祭
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[通用流感候选疫苗在第一阶段临床表现良好]]></title>
-        <id>https://www.solidot.org/story?sid=74747</id>
-        <link href="https://www.solidot.org/story?sid=74747"/>
-        <updated>2023-04-22T13:00:30.000Z</updated>
-        <summary type="html"><![CDATA[根据美国国家过敏及传染性疾病研究院(NIAID)公布的一份新闻稿，通用流感候选疫苗在第一阶段临床试验中表现良好。在有 52 名志愿者参与的第一阶段临床试验中，VRC 开发的 H1ssF (influenza H1 hemagglutinin stabilized stem ferritin nanoparticle vaccine) 疫苗安全，耐受良好，诱导出对血凝素（HA）茎区——该区域是通用流感疫苗的理想靶标，HA 头部每年都在变化，但茎部区域变化不大——的广泛抗体反应。参与者给了一次 20 微克剂量或两次 60 微克剂量，16 周后给予加强针，他们没有发生任何不良反应，最主要的反应包括轻度头痛、注射位置压疼和暂时性的全身不适。使用 mRNA 递送系统的 H1ssF 疫苗也开始了第一阶段临床试验。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家探测到逾 1.9 万海底山]]></title>
-        <id>https://www.solidot.org/story?sid=74746</id>
-        <link href="https://www.solidot.org/story?sid=74746"/>
-        <updated>2023-04-22T10:56:20.000Z</updated>
-        <summary type="html"><![CDATA[美国潜艇编队的最大对手不是红色十月号，而是海底火山或海底山。2001 年旧金山号核潜艇与一座海底火山高速碰撞导致一名船员死亡，船上大多数人受伤。2021 年康涅狄格号核潜艇在南中国海与海底山相撞，破坏了其声纳阵列。地球至今只有四分之一的海底用声纳测绘过，海底山的确切数量是未知数。通过观察海水表面的微妙信号雷达卫星能发现海平面下隐藏的海底山。2011 年利用该方法探测到了逾 2.4 万海底山，高分辨率雷达数据现在再次增加了逾 1.9 万新的海底山。海底山除了对海上航行构成威胁外，它也可能富含可开采的稀有矿物质，可成为深海采矿业的商业目标。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT 每天的运营成本或超过 480 万元]]></title>
         <id>https://news.cnblogs.com/n/740548/</id>
         <link href="https://news.cnblogs.com/n/740548/"/>
@@ -10101,50 +10163,6 @@ Blot 血祭
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 让肯尼亚的论文枪手失业]]></title>
-        <id>https://www.solidot.org/story?sid=74745</id>
-        <link href="https://www.solidot.org/story?sid=74745"/>
-        <updated>2023-04-22T09:15:17.000Z</updated>
-        <summary type="html"><![CDATA[过去九年，27 岁的肯尼亚人 Collins 靠给美国大学生当论文枪手谋生。他撰写的论文主题包括了心理学、社会学和经济学。他偶尔还被允许直接访问大学网站入口，递交测试和作业，参与小组讨论，使用学生身份与教授交谈。2022 年他每月的收入在 900-1200 美元。如今他的月收入降至了 500–800 美元。他认为原因是生成式 AI 如 ChatGPT 的流行。去年的这个时间他能收到 50-70 份作业，作业比较短通常只需要 150 个字；如今他只收到 30-40 份作业。在线学习平台 Study 在今年 1 月的调查发现，逾 89% 的学生表示曾用 ChatGPT 帮助完成家庭作业。近半数人承认用 ChatGPT 完成家庭测试或测验，53% 的人用它写论文，22% 写论文大纲。Collins 担心 AI 的崛起会大幅降低学生对他们这些枪手的依赖，他自己也同时也用 ChatGPT 去生成以前外包给其他枪手的内容。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装完两台紧凑型主机，我觉得你也可以尝试一下]]></title>
-        <id>https://sspai.com/post/79413</id>
-        <link href="https://sspai.com/post/79413"/>
-        <updated>2023-04-22T08:36:32.000Z</updated>
-        <summary type="html"><![CDATA[对于每个DIYer来说，至少都有一段时间会对ITX装机特别发烧，在多方了解后又逐渐退烧的经历。不管是因为价格还是性能释放，ITX装机确实有不少硬伤问题无法解决，而且整体组件的购入成本又比其他设备高了不是一星半点。差不多17年底的时候，笔者就想着能不能搞下紧凑型MATX装机，但当时的那些机箱设计不行、价格又贵、材料还是亚克力，最终就没有下手。到了去年在B站看到不少机械大师C26/28的装机视频。想着后面可以照猫画虎搞一台，年初的时候研究了了机箱的规格，发现都很符合之前的装机想法，空间利用率也基本压到了极限。
-
-说实话之前已经装机装到厌烦了，而这次装机让我获得了久违的快乐和痛苦。要是您以前要是没装过机，之前不熟悉的话，这样环环相扣地选型确实头大。相信这篇文章能帮您解惑，来对紧凑型装机有个完整的认识，欢迎先点个收藏，我们直接开始吧！
-
-本篇文章中您将看到：
-● 机械大师C+Max这类紧凑型机箱装机流程
-● 紧凑型装机的组件选型原则与总结
-● 一些可能会踩的坑
-● 性能与游戏测试
-1.按下葫芦起了瓢的配件选择与装机过程
-确认好机箱之后，得按机箱限制来选择组件。根据侧板限高162mm能够确认风冷的规格，如果是水冷的话则需要注意内存的高度，根据机箱限长来确认显卡长度，进而确认电源深度。按照之前测试i5-13600K拷机情况，基本就确认了需要一个高度162mm以下的六热管双塔（大塔）的风冷散热器。
-
-装机的第一步是拆机，机械大师有个绰号叫螺丝大师，拆解过程发现所言不假。不过整体的螺丝规格都很统一，而且配了单独一套螺丝装盒备用，所以除了手累点之外都还好。如果手里有手电钻或者高扭矩的电动螺丝刀的话，能省不少力气。为了电源与风扇的，得把机箱拆到这么散，得拆一大把螺丝下来。
-
-可以看到前侧全都是螺丝孔：有上侧和前侧外板的固定孔位，有电源支架的固定孔位，有提手的固定孔位。还好螺丝的规格比较少，基本…]]></summary>
-        <author>
-            <name>奕口大锅天上来</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拼多多商家反击平台的仅退款政策]]></title>
-        <id>https://www.solidot.org/story?sid=74744</id>
-        <link href="https://www.solidot.org/story?sid=74744"/>
-        <updated>2023-04-22T08:04:39.000Z</updated>
-        <summary type="html"><![CDATA[在拼多多平台，消费者在购买之后如果对商品不满意或认为质量有问题，可以要求退款退货或者退款不退货。这一政策被认为有助于鼓励商家提高产品质量。如果产品质量基本没有问题，但商家却面临高比例的退货率（或退款率），那么客户被认为是利用该政策薅羊毛。拼多多的系统偏向羊毛党的做法令商家非常不满，他们开始团结起来发起反击。一种做法是对拼多多官方自营店发起“薅羊毛攻击”，将他们经历的薅羊毛遭遇施加到拼多多身上，希望 “ 用魔法打败魔法 ”。还有一种做法被认为类似“网暴”了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -10211,46 +10229,6 @@ Blot 血祭
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3CX 安全事件是双重供应链攻击]]></title>
-        <id>https://www.solidot.org/story?sid=74743</id>
-        <link href="https://www.solidot.org/story?sid=74743"/>
-        <updated>2023-04-21T15:35:28.000Z</updated>
-        <summary type="html"><![CDATA[VoiP 软件提供商 3CX 上月底遭遇了一次供应链攻击，攻击者篡改了 3CX 的桌面应用，植入了恶意代码，对 3CX 客户发动了供应链攻击。据安全公司 Mandiant 的分析，3CX 自己也是一次供应链攻击的受害者。这起事件是一次双重供应链攻击。Mandiant 将两起事件都归于朝鲜黑客组织 UNC4736。黑客大约在 2021 年入侵了提供交易软件的 Trading Technologies 公司，篡改了 X_Trader 软件的安装程序，植入了 VEILEDSIGNAL 后门。2023 年一名 3CX 员工下载了被植入后门的 X_Trader 软件，攻击者在感染了员工电脑之后渗透进入企业网络，最终篡改了 3CX 的桌面应用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 每日运营成本超过 70 万美元]]></title>
-        <id>https://www.solidot.org/story?sid=74742</id>
-        <link href="https://www.solidot.org/story?sid=74742"/>
-        <updated>2023-04-21T14:49:20.000Z</updated>
-        <summary type="html"><![CDATA[分析师估计基于 GPT-3 的 AI 聊天机器人 ChatGPT 的每日运营成本超过 70 万美元，OpenAI 的最新模型 GPT-4 的运营成本会更高。训练 ChatGPT 之类的大语言模型可能需要花费数千万美元，但运营费用或推理成本将会远远超过训练成本。一家利用 AI 开发生成式文字游戏的创业公司 Latitude 透露， 运行 OpenAI 的语言模型加上 AWS 费用，每月花掉了 20 万美元。CEO Nick Walton 开玩笑的说他们公司有人类员工和 AI 员工，每个人的费用都差不多。为了降低生成式 AI 模型的运营成本，微软正在开发名为雅典娜（Athena）的 AI芯片，有逾 300 名员工参与该项目，最早可能在明年发布。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盗车贼用旧诺基亚手机盗车]]></title>
-        <id>https://www.solidot.org/story?sid=74741</id>
-        <link href="https://www.solidot.org/story?sid=74741"/>
-        <updated>2023-04-21T14:18:51.000Z</updated>
-        <summary type="html"><![CDATA[利用一部诺基亚 3310 手机，没有多少技术经验的小偷可以在 15 秒内盗走一辆丰田陆地巡洋舰。这种新型的汽车盗窃案正在美国各地扩散，导致的一个结果是诺基亚 3310 手机的价格飙升到了 3000-4000 美元。这种攻击技术可用于盗窃豪车如玛莎拉蒂和雷克萨斯。研究人员将其称为 CAN (controller area network 或控制器区域网络)注入攻击，其工作原理是发送伪造的汽车智能钥匙接收器信息，核心原因是汽车没有对信息进行验证。丰田发言人在一份声明中表示正与执法部门和专家合作解决该问题。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克声称他自己掏钱给几位名人订阅了 Twitter Blue]]></title>
-        <id>https://www.solidot.org/story?sid=74740</id>
-        <link href="https://www.solidot.org/story?sid=74740"/>
-        <updated>2023-04-21T13:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 大约 40 万认证用户的旧蓝色勾选标记将从 4 月 20 日起消失，除非他们以每月 8 美元（美国）/9.6 英镑（英国）/13 澳元（澳大利亚）订阅 Twitter Blue 服务。有几位名人公开表示拒绝支付订阅费，其中之一是 NBA 球星 LeBron James 和著名作家 Stephen King。然而到了 4 月 21 日，James 和 King 的蓝色勾选标记仍然保留着，King 明确表示他没有付钱。Twitter 老板马斯克（Elon Musk）则宣称他个人掏钱给几位名人订阅了 Twitter Blue。报道称，一名 Twitter 员工给 James 发邮件说代表马斯克为其账号 @kingjames 免费订阅 Twitter Blue。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
