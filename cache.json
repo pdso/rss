@@ -70,6 +70,46 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/80149",
+          "author": "Echo_Nebula",
+          "description": "我一直在研究个人知识管理，构建自己的第二大脑，我希望我的第二大脑随着时间的推移逐渐成长为一个庞大的知识系统。\n我构建第二大脑流程主要分成4个步骤「🌱收集-🌳整理-🌻创作-🌖分享」。其中包括我在知识管理的过程中遇到的问题，我的解决方案已经我会使用到的工具。\n \n🌱 收集\n第一步收集，这里有两个问题。\n1、信息那么多，把什么样的信息收集进第二大脑？\n2、信息渠道和类型那么多，如何更有效的收集，以便后续的管理和使用？\n1、信息那么多，把什么样的信息收集进第二大脑？\n这里需要了解两个概念，信息与知识。\n信息：泛指人类传播的一切内容\n知识：事物的客观规律总结\n刚开始进行知识管理的时候，我比较注重知识的收集，我收录了很多方法论和干货。那这些方法论和干货确实让我在面对新工作的时候可以快速的上手，但是后续的创意输出的时候，我发现这些方法论是不够用的。\n现在呢，我对信息和知识有了自己的理解，我认为我收集的都是信息，我利用这些信息创造新的东西的时候，这些信息就成为了知识。比如“相对论”是会出现在教科书里知识，但是我不理解也用不上，那“相对论”对我来说只是信息而已。反之爱因斯坦发现“相对论”的故事能带给我启发和思考，这对我来说就是知识。\n我现在收录信息的原则是根据兴趣来收集信息，所有能引发我兴趣和激发我灵感的我就会收集。\n🌱 原则1：根据兴趣来收集信息\n2、信息渠道和类型那么多，如何更有效的收集，以便后续的管理和使用？\n这里经历的一个教训是容易陷到各种生产力工具之中。\n很多生产力工具是根据信息使用场景和信息类型进行设计的。比如flomo和Napkin是用来收集灵感的，对简短的文字比较友好；Cubox和一些浏览器插件对收集网页比较友好；PDF文件有很多专属的阅读器，电子书也有相对应的工具，管理图片和视频也有专门的工具。产生这种现象的原因是工具的设计是从它的“利基”市场出发的，带给我的麻…",
+          "link": "https://sspai.com/post/80149",
+          "publishedOn": "2023-06-05T03:22:34.000Z",
+          "wordCount": 598,
+          "title": "生产力系统工作流程：输入-整理-创造-分享",
+          "imageUrl": "https://cdn.sspai.com/2023/06/04/06800a6216f07a8924dcab2f627363f8.png"
+        },
+        {
+          "id": "https://sspai.com/post/80121",
+          "author": "阿斯酉",
+          "description": "上一篇，我们简要介绍了35个标星上万的github开源项目。\n下面，我将从多维度（摘要、网址、版权、编程语言、简介等）进行介绍。😎开始吧！\n一、用户界面与交互\n聊天机器人界面\nChatbot UI\n\n摘要 开源的 ChatGPT 用户界面。\n网址 https://github.com/mckaywrigley/chatbot-ui\n版权 MIT\n编程语言 TypeScript\n简介\n项目 chatbot-ui 是一个开源的 ChatGPT 用户界面。这个项目的目标是为 AI 模型提供一个聊天界面。\n以下是这个项目的一些主要功能：\n\n一键部署：你可以使用 Vercel 或 Docker 快速部署你自己的聊天机器人用户界面。\n本地运行：你可以在本地运行这个项目，只需要克隆仓库，安装依赖，提供 OpenAI API 密钥，然后运行应用即可。\n配置：你可以配置一些环境变量，比如 OpenAI API 密钥、API 主机、API 类型、API 版本、Azure 部署 ID、OpenAI 组织 ID、默认模型、默认系统提示、默认温度、Google API 密钥和 Google CSE ID 等。\n更新：这个项目会随着时间的推移进行更新，你可以期待频繁的改进。\n\n此外，如果你有任何问题，你可以通过 Twitter 联系项目的创建者 Mckay。\nChatbox\n\n摘要 为 GPT-4 / GPT-3.5（OpenAI API）设计的桌面应用程序\n网址 https://github.com/Bin-Huang/chatbox\n版权 GPL-3.0\n编程语言 TypeScript\n简介\n项目 Chatbox 是一个为 GPT-4 / GPT-3.5（OpenAI API）设计的桌面应用程序，支持 Windows，Mac 和 Linux。这个项目的目标是成为你在桌面上的终极副驾驶员，帮助你更…",
+          "link": "https://sspai.com/post/80121",
+          "publishedOn": "2023-06-05T03:18:56.000Z",
+          "wordCount": 1642,
+          "title": "ChatGPT开源项目手册（01期）：1篇万字长文，35个项目",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/80140",
+          "author": "维城产品花园",
+          "description": "我是一个产品经理，在做产品过程中就会有大量的信息收集需求，有时候是一篇文章，有时候是某个产品，有时候就是某个好看的设计。\n保存文章有很好的文章保存工具，比如 Cubox 这种剪藏产品。\n保存网站、设计参考，用花瓣截图也勉强能用。\n极端的情况要保存网页交互，还可以用 Singlefile 这种扩展把整个网页给离线保存下来，虽然存下来之后基本也不好再去打开了。\n每一个方案都有用，但又不够用。我希望的是，当我做一个项目的时候，我能够把这个项目相关的所有资料都收集到一起，可以是一篇文章、一张图片、一个网站或者就是一个普通的文件。\n有没有这样的产品？本来没有，不过现在有了，就是我和我的小伙伴一起做的 Pixcall 。（ps：作为创造者的好处，就是可以让自己做的产品 100% 得去满足自己的需求）\n\n \nPixcall 是什么？\n简单来说就是 Pixcall 的底层是一个同步网盘，并且在这个同步网盘的基础上有一个功能强大的客户端可以管理同步文件夹里的文件，可以给文件打标签、加链接什么的。更多 Pixcall 可以查看 Pixcall 官网，本文的重点是针对产品经理的收藏需求这个场景 Pixcall 能做什么。\n \n比如最近 AI 能力大爆发，必然地我得关注起来。\n先建个 AI 文件夹，然后在 AI 这个文件夹下面再建一个专门放资料的子文件夹\n\n​\n碰到有价值的资料，比如陆奇演讲的 PPT ，有价值的文章我就都存到资料这个文件夹里，而且可以直接在 Pixcall 里预览，不用打开浏览器或者PowerPoint。\n\n​\n最爽的是用 Pixcall 的浏览器扩展保存网站。作为产品经理，最直观的信息来源还是看各种各样的产品，这个时候就可以用 Pixcall 来一键保存觉得有参考价值的产品对应的网页，这个网页是以单个 mhtml 文件保存在本地的，对大部分网页而言可以完整保留你保存时看到的完整信息，而且可以离线访问，原始网页删除了或者变更了都不影响你的收藏。\n\n​\n \n当然如果只是保存个 mhtml 文件，single-file 这样的浏览器扩展也能做，Pixcall 厉害的是，保存在本地文件夹里的 mhtml 你在 Pixcall 客户端里，你是能看到预览的，而且可以编辑每个网页的标签、描述、评级等信息。比如我，就保存了几百个我觉得有参考价值的 AI 产品。\n\n​\n使用 Pixcall 让我：\n🌈 可以在一个地方管理某个项目相关的所有资料，文档、图片、文章、网页等各种类型的文件，而且能在 Pixcall 里直接预览。\n🌈 可以用 mhtml 完整保存某个产品的相关网页，而且可以预览、搜索，本地完整保留原始信息，还可以方便链接到原始网页。\n\n​\n \n产品经理真得不能错过 Pixcall，不是因为 Pixcall 是我们做的，而是在做 Pixcall 的时候，我让我们团队给我（一个产品经理）开了小灶，让 Pixcall 对产品经理整理信息这个场景做了特别优化。",
+          "link": "https://sspai.com/post/80140",
+          "publishedOn": "2023-06-02T09:09:39.000Z",
+          "wordCount": 740,
+          "title": "产品经理的收藏神器 -- Pixcall",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/80135",
+          "author": "玉树芝兰",
+          "description": "原型系统的开发对很多不会编程的人来说，原本确实是一道门槛，而且看似难以逾越。而现在，障碍突然间就消失了。\n\n插件\nChatGPT 现在有了一个内容比较丰富的插件系统，而且 Plus 用户已经不再需要填表申请后漫长等待，直接就可以使用了。\nChatGPT 插件系统现在已经有一百多款插件。前些日子要想找某个插件，你只能一页一页地翻。每一页上有 8，当时一共 150 多个插件，所以你运气不好的话，可能得翻上十几二十页，才能找到想要的插件。\n\n现在好了，ChatGPT 提供了一个插件搜索框。我今天推荐的这款插件，你直接的在插件商店里面搜索名称就能找着了。\n我给你演示的这个插件，叫做 DeployScript。它是做什么的呢？\n\n它的图标下面介绍言简意赅，说是 DeployScript 可以帮助你来创建 web 应用。可是如果编写 Web 应用代码，ChatGPT 本身就可以啊。不管是 Python，Javascript 还是 HTML，ChatGPT 都认识。为什么还需要一个插件呢？\n我第一次安装 DeployScript 插件后，用邮箱开通帐号。然后 DeployScript 给我发了邮件。\n\n根据官方介绍，它能够让你「通过对话方式来创建 Web 应用」。我看了还是觉得疑惑 ——ChatGPT 本身就是个对话机器人啊，之前编程不也是对话式吗？\n尝试\n一头雾水之下，我干脆尝试一下这个插件的功能。我说：\n\n你给我做一个计算器应用，谢谢\n\n于是，DeployScript 就开始工作了 ——ChatGPT 在调用插件的时候，一般不会显示细节。如果你希望看具体的操作步骤，可以点击上图中调用过程右侧向下箭头。\n你会看到 DeployScript 首先创建资源，然后给咱们的新应用分配了唯一的标识符。\n\n之后 DeployScript 给这个标识符对应的空间创建 index.html` 文件，也…",
+          "link": "https://sspai.com/post/80135",
+          "publishedOn": "2023-06-02T07:39:51.000Z",
+          "wordCount": 727,
+          "title": "如何用 ChatGPT 一句话生成 Web 应用？",
+          "imageUrl": "https://cdn.sspai.com/2023/06/02/0e96c0dc116fe543526a52531ac27618.png"
+        },
+        {
           "id": "https://sspai.com/post/80117",
           "author": "tigerpillow",
           "description": "大家好，这是我的第一篇少数派文章，请多多包涵。\n笔者一直比较喜欢跑步，目前完成了四个马拉松，PR3小时40分。最近看朋友圈，发现很多朋友都开始跑步，甚至跑了自己的第一个10K，第一个半马。我相信很多人都开始对“完成一个全马“这件事蠢蠢欲动。跑全马不是不可及的事情，是稍微跳一跳就够得着的目标。本篇就是作为一份切实的指南，帮助大家实现自己的小目标，拥有一个新的人生体验。\n\n1. 我准备好了吗？\n很多人的第一个问题是：”我能够跑的下来嘛？”，或是 “我什么时候可以挑战全马？”\n我根据（我极其有限的）经验写了以下几种情况。我这里提供的建议，是为”优雅地跑完全程“而准备的，能够对自己负责地跑下来。当然如果你毫无准备，7小时关门的比赛走下来也是有可以的。马拉松还是有一定风险的，经常听到猝死案例，不建议大家毫无准备的去。\n身体条件\n\n首先，就是要有健康的身体，没有大的伤病，韧带，关节，心脏功能等等都正常。这里不做赘述，请咨询医生。\n其次，是要有一定跑步基础：\n如果你上一次跑步是中考800米，或者大学体测，那么你离优雅的跑马拉松大概有1年以上的距离。\n如果你能顺利的跑下一个3K (25min) /5K (40min)，那么你经过较长时间的系统训练（半年到一年左右），是可以优雅的跑下来一个全马的。\n如果你能顺利的跑下来一个10K, 20K, 或者半程，那你是完全可以准备全马啦。\n\n\n时间条件\n很多人在跑马拉松之前会忽略一个问题：我有没有足够的时间训练？备马到中途或顶峰期，会需要70km/周的跑量。如果按照你每小时十公里来算，那就是至少7个小时，加上热身，拉伸，洗澡等时间，会达到十几个小时/周。如果你工作已经是早10晚10，本身睡眠就很不足了，在此之上再训练会很困难。\n经济条件\n\n装备：跑步是一项很便宜的运动，买一双好的鞋，几套能换洗的运动衣足以。如果冬天训练的话要注意加减长袖背心。其他很有帮…",
@@ -78,6 +118,16 @@
           "wordCount": 728,
           "title": "跳一跳够得着：如何跑你的第一个全程马拉松？",
           "imageUrl": "https://cdn.sspai.com/2023/06/01/cd751c5d5acc577f9de69aeb8ea3642a.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/80125",
+          "author": "史圣园",
+          "description": "AI 浪潮来袭，技术和产品的新消息奔涌而来，最兴奋的是年轻极客们。\n他们有好奇之心，也有改变之力。他们大多是互联网从业者，乐于思考的职业习惯早已融入生活。他们相信，未经审视的日子是不值得过的，所以常常打量自己的日常，寻找有哪些可以优化的地方。\nChatGPT 的出现，让问题的解法更有想象力，也让敲下一行代码、发布一款产品变得更容易。\n我找到了三位年轻的开发者，聊了聊 AI 时代的产品想法、独立开发。\n他们身上有许多共同点：都有互联网大厂的背景，熟悉软件产品的设计和开发流程，目前都有自己的本职工作。在他们身上，也有着相似的理想主义。\n他们的团队都不大，一个人就是一个队伍，顶多拉上几个志同道合的朋友，开发了生成式 AI 的应用。他们的产品想法，都源自于自己的需求：「我就是自己产品的重度用户。」\n产品从想法到落地，动作也颇为敏捷，几天到一周的时间便已足够：吕立青自己花了一周时间，做出了第一版本的 BibiGPT 。海松借着即刻举办「黑客马拉松」活动的契机，拉上了同在大厂工作的设计师、程序员，用了一周时间孕育了减压笔记。菜脯有了想法后，第一个版本是付费找人写的，后来开始自己学着上手。现在，他和一个后端开发朋友一起维护产品。\n开发时间短、上手更轻松，当然很好。但同时，这是否意味着，AI 上层应用的开发，是片「卷生卷死」的红海？\n面对竞争，三位开发者的开放态度惊人一致：「没有真正的技术壁垒」，「竞争是好事情」，「一起把蛋糕做大」。\n同时，他们也会畅想，哪一天用户规模足够大了，也许可以辞掉自己的主业工作，all in AI+ 的创业浪潮。\n「AI 能力是乐高积木块」 \n吕立青，8 年软件开发经验，前阿里、Thoughtworks 开发工程师，目前为一个海外团队远程工作，也是一名UP主。身为全栈工程师的他，却一直有颗做产品的心。\n他开发的「BibiGPT」，可以让 AI 帮你一键总结 Bi…",
+          "link": "https://sspai.com/post/80125",
+          "publishedOn": "2023-06-02T02:12:21.000Z",
+          "wordCount": 747,
+          "title": "大模型让AI开发者更佛系？",
+          "imageUrl": "https://cdn.sspai.com/2023/06/02/b800d1efea2b08011b96b3155c4b4a7f.jpg"
         },
         {
           "id": "https://sspai.com/post/80113",
@@ -618,16 +668,6 @@
           "wordCount": 623,
           "title": "5 本游记，为你的远行预热",
           "imageUrl": "https://cdn.sspai.com/2023/05/07/4a30517974ac966febba87549c5dfabf.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/78086",
-          "author": "NotteStellata",
-          "description": "我想有必要于文首先向读者解释一二：一则，行文中非加粗标出的语句为昊辰老师所言，其余所有（除提问外），包括注释等均为笔者的零星思考，乃后期所加；二则，我们谈「古典音乐」正是在为「自己」说话（求生欲满满的我们），因此，个中话语在某种程度上必然不可避免地指向本位主义，但我不认为我们需要为此辩解。仿昊辰老师在《演奏之外》之序中所言，「文中种种，不过是两位当代古典音乐专业者的偏见与偏爱」。时逢 Apple Music Classical 已于3 月 28 日正式开放下载！虽然国区暂未上架，但关于App的初步评测，读者可移步少数派另一篇相关文章：《Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？ 》。于我们而言，古典音乐就该被「明目张胆」地「区别对待」😏。\n—— 之前读陈丹青老师发表在理想国公众号上的《我遭遇了一位小我两辈的谈话对手》一文，其中提及他曾问过你「欧美钢琴家中有没有著书出版者？」你说读到过一位，写得非常周正。我很好奇：这是哪一位钢琴家的哪本著作？可以谈谈你对这本书的感想吗？如果有机会的话，你会对读者们推荐这本书吗？\n不是一本。那是查尔斯·罗森 (Charles Rosen) 的一系列作品。包括：《古典风格》 (The Classical Style) 、《浪漫一代》1 (The Romantic Generation)、《钢琴笔记》 (Piano Notes)、《意义的边界》 (Frontiers of Meaning) 等。\n\n罗森不仅具有大量理论知识储备，且他又并非一位严格意义上的「学者」，意即没有经过所谓学院派体系化的理论训练。他的著述有其自身作为一位音乐家，尤其是作为一位演奏家的一手经验以及锋芒。与此同时，还包含有一种独特的人文关怀。因此，他所写的一众关于音乐理论或音乐作品的文章都非常值得推荐。\n浙江大学出版社先后推出了一系列查…",
-          "link": "https://sspai.com/post/78086",
-          "publishedOn": "2023-05-06T15:43:40.000Z",
-          "wordCount": 731,
-          "title": "访青年钢琴家张昊辰（一）：阅读与聆赏02",
-          "imageUrl": "https://cdn.sspai.com/2023/05/08/b5ab2763093819960d7b4b0a76b54904.jpg"
         }
       ]
     },
@@ -642,6 +682,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23247",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nUpcoming changes to the App Store receipt signing intermediate certificate\n对于 本地 校验支付凭证的 APP 来说，需要适配 SHA-256 校验，对于不支持 SHA-256 的 APP 将在 2023.08.14 之后拒绝提交。这项调整对使用 AppTransaction API 与 verifyReceipt(Web Service Endpoint) 等后端校验的 APP 不受影响。\n同时 2023.06.20 之后，对于新版本的 iOS/iPadOS/macOS 等系统，沙盒环境都将强制切换为 SHA-256 校验。\n文章\n🌟 🐢 百度 APP iOS 端包体积 50M 优化实践（一）总览\n@xuyafei86：本文介绍了百度 APP 包大小优化的完整实践，包括百度 APP 的技术方案和各项优化的详细收益。此系列文章目前包括总览、图片优化和资源优化 3 章，详细讲述了各项优化的技术细节，感兴趣的同学可以持续关注。\n百度 APP iOS 端包体积 50M 优化实践（二）图片优化\n百度 APP iOS 端包体积 50M 优化实践（三）资源优化\n🌟 🐕 How the Raycast API and extensions work\n@kemchenj：Raycast 是 macOS 上新兴的一款快捷启动器软件，开发者友好的插件系统是他们的亮点之一，最近他们也在博客上分享了这个系统的开发经历，亮点很多：\n基于 Node.js 和 React 搭建了插件的接口，React 渲染出 Dom Tree 之后通过 XP…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23247",
+          "publishedOn": "2023-06-05T02:26:56.000Z",
+          "wordCount": 612,
+          "title": "老司机 iOS 周报 #247 | 2023-06-05",
+          "imageUrl": "https://opengraph.githubassets.com/ce6699e3466a4674a67e167d2ad8a6ddb3b14e22946330660c2abf328f2745b5/SwiftOldDriver/iOS-Weekly/releases/tag/%23247"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23246",
           "author": null,
@@ -695,6 +745,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75159",
+          "author": null,
+          "description": "Stanford Internet Observatory 的研究人员称，Twitter 未能防止已知儿童色情图像重新发布在其平台上。他们通知了 Twitter 员工，上周被通知该公司已经改进了其检测系统。斯坦福研究人员是在   3 月 12 日- 5 月 20 日之间从大约 10 万推文的数据集检测出了逾 40 幅已知儿童色情图像。Twitter 最近对其 API 设定了高昂的价格，绝大部分学术项目负担不起。Stanford Internet Observatory 项目上周停止使用  Twitter 的企业级 API，该项目此前不需要为此付费，",
+          "link": "https://www.solidot.org/story?sid=75159",
+          "publishedOn": "2023-06-05T15:29:51.000Z",
+          "wordCount": 172,
+          "title": "已知儿童色情图像重返 Twitter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75158",
+          "author": null,
+          "description": "马斯克（Elon Musk）最近表示 Twitter 广告业务在增长，几乎所有广告商都回归，预计社交网站会很快盈利。但 NYT 获得的内部报告显示，4 月 1 日到 5 月第一周的五周时间内 Twitter 美国广告收入 8800 万美元，同比下降 59%。而且这一情况短期内不太可能得到改善。广告收入对 Twitter 至关重要，它九成的收入来自广告。在马斯克接手之后，他的管理风格让众多广告商远离了 Twitter，公司的估值也从马斯克收购的 440 亿美元，降至 200 亿美元以内，上周富达进一步将估值降至 150 亿美元。",
+          "link": "https://www.solidot.org/story?sid=75158",
+          "publishedOn": "2023-06-05T14:08:03.000Z",
+          "wordCount": 173,
+          "title": "Twitter 美国广告收入下跌 59%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75157",
+          "author": null,
+          "description": "几周前《战争雷霆（War Thunder）》的开发商 Gajin 宣布它准备重新平衡游戏的经济系统，显著增加免费玩家的游戏难度。这一计划引发了争议。他们组建了一个玩家联盟 War Thunder Players Union，寻求组织一次抵制活动，将游戏引导到对玩家更友好的方向。Gajin 让步了，表示将重新思考其计划。但玩家联盟仍然决定组织抵制，时间定在 5 月 26 日，当天他们所有人将抵制玩游戏。结果抵制被证明是灾难性的，5 月 26 日《战争雷霆》的同时在线人数并没有出现减少，甚至组织者被发现在玩游戏。",
+          "link": "https://www.solidot.org/story?sid=75157",
+          "publishedOn": "2023-06-05T12:15:05.000Z",
+          "wordCount": 156,
+          "title": "战雷玩家发起抵制活动，当天组织者被发现在玩游戏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75156",
+          "author": null,
+          "description": "英国首次试点每月 1600 英镑的 UBI（universal basic income）基本收入。30 位参与者将在两年内每月无条件收到一次性付款，他们将被观察 UBI 对其生活的影响。支持该计划的智库 Autonomy 的研究总监 Will Stronge 称，1600 英镑是相当可观的，UBI 通常能满足人的基本需求，但我们想观察这种无条件的一次性付款他们的身心健康有何影响，无论他们选择工作还是不工作。未来气候变化、科技发展巨变和产业转型带来的动荡，社会需要某种形式的 UBI。",
+          "link": "https://www.solidot.org/story?sid=75156",
+          "publishedOn": "2023-06-05T11:19:35.000Z",
+          "wordCount": 169,
+          "title": "英国试点每月 1600 英镑的 UBI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75155",
+          "author": null,
+          "description": "根据发表在 JAMA Network Open 上的一项研究，美国家庭中的新冠传播逾七成源自儿童。波士顿儿童医院研究人员领导的一个团队向 848,591 户家庭的 1,391,095 名成员提供了关联智能手机的温度计。2019 年 10 月-2022 年 10 月之间这些家庭记录了 23,153,925 次测温。发烧通常代表着感染了新冠。在 166,170 户有成人和儿童的家庭中，发生了 38,787 次传播，其中 40.8% 是儿童传播给儿童，29.6% 是儿童传播给成人，20.3% 是成人传播给儿童，9.3% 是成人传播给成人。在所有家庭新冠传播中，70.4% 源自儿童。这与美国学校在 2020 年秋季重新开放相关。",
+          "link": "https://www.solidot.org/story?sid=75155",
+          "publishedOn": "2023-06-05T10:31:03.000Z",
+          "wordCount": 169,
+          "title": "美国家庭中的新冠传播逾七成源自儿童",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75154",
+          "author": null,
+          "description": "健康饮食或有助于减缓大脑衰老。本古里安大学的研究人员研究了 102 名符合肥胖标准的人，调查转向绿色地中海饮食对大脑的影响。参与者在项目开始和结束时接受了脑部扫描，期间还进行了更多的测试和测量，以捕捉受肥胖影响的其他生物过程，如肝脏健康。他们使用研究开始和结束时的脑部扫描来检查生活方式干预对衰老轨迹的影响。结果显示，体重减少 1% 致参与者的大脑年龄在 18 个月后比预期的大脑年龄年轻近 9 个月。这种衰老的减缓与其他生物学指标的变化有关，如肝脂肪和肝酶的减少。肝脏脂肪的增加和特定肝酶的产生先前被证明对阿尔茨海默病的大脑健康有负面影响。",
+          "link": "https://www.solidot.org/story?sid=75154",
+          "publishedOn": "2023-06-05T09:37:52.000Z",
+          "wordCount": 150,
+          "title": "健康饮食或有助于减缓大脑衰老",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75153",
+          "author": null,
+          "description": "日本半导体巨头铠侠控股与美国合作方西部数据公司（WD）就经营合并进入收尾阶段的协调。合并之后的半导体存储器业务规模将为全球最大。由于面向智能手机等的半导体行情恶化、业绩低迷，此举意在提升经营效率提高竞争力。合并有可能影响到对铠侠出资四成的东芝公司的经营重组计划。据英国调查公司 Omdia，用于手机等的 NAND 型闪存根据金额的 2022 年全球市场占有率中，铠侠居第三、WD 居第四位。如果合并，该业务将匹敌全球龙头企业韩国三星电子。",
+          "link": "https://www.solidot.org/story?sid=75153",
+          "publishedOn": "2023-06-05T08:01:21.000Z",
+          "wordCount": 147,
+          "title": "铠侠与西部数据协商合并",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75152",
+          "author": null,
+          "description": "斯坦福大学研究人员首次展示了一种多层薄膜传感器，这种人造电子皮肤可在愈合过程中自动重新排列。这是模仿人类皮肤的关键一步。这一进步预示着一个机器人和假肢新时代或将到来，未来它们将拥有类人触觉的自愈合成材料制造的“皮肤”。人类皮肤有很多层，在愈合过程中分工相当明确有序，每一层都会有选择地自行愈合，以恢复整体功能。而新电子皮肤层可以模仿这一点，它也是由层组成的。它刚刚进化出免疫机制，通过涉及分子识别和信号传递的复杂过程，重建具有原始分层结构的组织。",
+          "link": "https://www.solidot.org/story?sid=75152",
+          "publishedOn": "2023-06-05T07:56:36.000Z",
+          "wordCount": 145,
+          "title": "人造皮肤能自我修复",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75151",
+          "author": null,
+          "description": "各类监测数据显示，全世界的鸟儿数量出现显著下降，这意味着环境遭到破坏。Peter Marra 等人 2019 年在《科学》期刊上报告，自 1970 年以来北美鸟类的数量减少了近 30 亿，丰度损失 29%。研究评估的 529 种鸟类有一半以上数量减少，其中草原鸟类因栖息地丧失和杀虫剂使用而下降幅度最大。欧盟 2021 年对 378 个物种的研究估计，1980-2017 年间鸟类数量减少 19%。其它地方的数据较少，但也对鸟类的减少提出了担忧。哥斯达黎、亚马逊和印度都报告鸟类减少，部分物种数量减少高达五成。与此同时，调查也显示了动物保存上取得了成功案例，部分鸟类免于灭绝。",
+          "link": "https://www.solidot.org/story?sid=75151",
+          "publishedOn": "2023-06-05T07:53:40.000Z",
+          "wordCount": 158,
+          "title": "全世界的鸟儿数量出现显著下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75150",
+          "author": null,
+          "description": "Reddit 正在学习马斯克的 Twitter 杀死第三方客户端，它对 API 请求开出了 5000 万次请求 1.2 万美元的报价，没有一家第三方客户端能承担得起这一报价。此事在 Reddit 社区引发了广泛争议，众多 Subreddit（相当于子论坛）决定在 6 月 12-14 日之间举行抗议活动，参与的 Subreddit 将设为私有 48 小时，也就是这些 Subreddit 将无法对外访问。Reddit 对此的回应是封杀参与抗议的 Subreddit 的 Moderator（子论坛的内容管理者）。有 Moderator 报告其账号被封帖子被删除。",
+          "link": "https://www.solidot.org/story?sid=75150",
+          "publishedOn": "2023-06-05T05:36:50.000Z",
+          "wordCount": 181,
+          "title": "Reddit 封杀参与抗议的 Moderator 账号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75149",
+          "author": null,
+          "description": "美国消费者金融保护局警告 Venmo、PayPal 和 CashApp 等支付应用中的存款不受联邦保险保护。美国联邦存款保险公司为银行账户提供最高 25 万美元的保险，但 Venmo、PayPal 和 CashApp 中的存款不是储存在传统银行账户中，如果这些应用发生了挤兑，那么客户的资金可能得不到保险保护。通常情况下，支付应用中的钱不在存款保险保护范围内。除非客户通过支付应用的合作银行购买了存款保险。",
+          "link": "https://www.solidot.org/story?sid=75149",
+          "publishedOn": "2023-06-05T05:04:39.000Z",
+          "wordCount": 167,
+          "title": "美国消费者金融保护局警告 Venmo、PayPal 和 CashApp 中的存款不受保险保护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75148",
+          "author": null,
+          "description": "印度铁道部长 Ashwini Vaishnaw 周日称，经过初步调查，周六奥迪萨邦列车相撞的惨剧是因信号问题导致，可能与“电子联锁系统的改变”有关。事故原因和责任人已经确定，但他拒绝透露更多细节，表示要等待报告出来。发生在 6 月 2 日晚间 7 时 20 分许三列火车相撞，导致至少 275 人死亡，逾 1175 人受伤。这是 1999 年以来印度最严重的火车事故。这起事故首先是一列客运列车撞上了一列满载铁矿石的货运列车，然后该列车脱轨与另一列客运列车相撞。",
+          "link": "https://www.solidot.org/story?sid=75148",
+          "publishedOn": "2023-06-05T03:50:49.000Z",
+          "wordCount": 167,
+          "title": "印度铁路因信号问题发生导致 275 人死亡的相撞事故",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75147",
+          "author": null,
+          "description": "美国剧作家协会已经举行了大罢工，部分原因是 AI 可能对其工作带来威胁。而 AI 对于好莱坞演员来说同样是一大威胁，今天的 AI 技术允许任何人利用深度伪造（deepfake）在视频中替换成名人的脸孔。演员工会也准备与电影公司进行谈判，而 AI 将是谈判的一个焦点。SAG-AFTRA 的首席谈判代表 Duncan Crabtree-Ireland 称，考虑到 AI 在过去 18 个月取得的巨大进步，难以想象三年后它会变成什么。在致函会员要求授权罢工的信息中，演员工会表示寻求一份合同保护其会员不会因不受监管的使用生成式 AI 而失去收入。如果演员也罢工，这将是 2000 年以来的第一次。",
+          "link": "https://www.solidot.org/story?sid=75147",
+          "publishedOn": "2023-06-04T14:42:51.000Z",
+          "wordCount": 165,
+          "title": "为什么好莱坞担忧生成式 AI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75146",
           "author": null,
@@ -3264,56 +3444,6 @@
           "wordCount": 143,
           "title": "比利时合法化道德黑客行为",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74887",
-          "author": null,
-          "description": "一项新研究发现，蝗虫可通过产生一种气味难闻的名为苯乙腈（PAN）的信息素而避免被其它蝗虫吃掉。蝗虫中存在抗同类相食信号通路的发现可能为蝗虫管控策略提供一个靶点，因为蝗虫间的同类相食性互动与蝗虫集群的生产有关，而蝗虫群具有极大的破坏性。很多物种都有同类相食行为，其主要原因是为了补充营养。这使得动物演变出多种抗同类相食策略，其目的是保护个体不被其同类吃掉。尽管这些动态变化具有重要的生态学意义，但人们对抗同类相食策略的理解仍十分匮乏。",
-          "link": "https://www.solidot.org/story?sid=74887",
-          "publishedOn": "2023-05-07T10:52:40.000Z",
-          "wordCount": 142,
-          "title": "信息素阻止蝗虫同类相食",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74886",
-          "author": null,
-          "description": "根据发表在《American Journal of Public Health》期刊上的一项研究，瑞典研究发现活得更长可能意味着等死的时间也更长。研究人员研究了 2018 年至 2020 年期间瑞典的所有死亡病例，他们首次研究了 70 岁及以上老年人生命的最后一年。利用一种新颖的研究设计，研究小组确定了六种不同类型的死亡轨迹，这取决于生命的最后一年是否需要以及需要多少医疗和老年护理。研究结果显示，瑞典大多数 70 岁以上的人在生命的最后一年接受长期护理。此外，在分析数据后，研究人员认识到，在 83 岁以上(瑞典目前的平均预期寿命)的死亡人群中，先进的医疗护理和护理需求更为普遍。",
-          "link": "https://www.solidot.org/story?sid=74886",
-          "publishedOn": "2023-05-06T16:04:25.000Z",
-          "wordCount": 156,
-          "title": "活得更长可能意味着等死的时间更长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74885",
-          "author": null,
-          "description": "苹果位于马里兰州 Towson 的零售店员工组建了首个工会，而工会正在与苹果公司谈判如何给员工带来更多经济好处的合同。工会提出的建议包括：以店内信用卡交易的 3%、5% 或自定义金额给员工小费，扩大带薪假期，增加兼职全职员工的休假时间，提供健康福祉假（Wellness leave），为每天工作超过 8 小时或每周工作超 40 小时的员工支付双倍工资，周末双倍加班费，增加有急救证书员工的工资，对裁员员工提供最多 34 周的遣散费，等等。工会代表表示这是谈判的初步建议，他们希望最终能给工会成员带回一份可接受的合同。",
-          "link": "https://www.solidot.org/story?sid=74885",
-          "publishedOn": "2023-05-06T15:57:49.000Z",
-          "wordCount": 156,
-          "title": "苹果零售店工会员工想要客户付小费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74884",
-          "author": null,
-          "description": "去年宝马宣布对汽车座椅的加热功能收取 18 美元的月订阅费，现在梅赛德斯考虑要求车主对电动车发动机的额外动力额外付费。这一做法引发了争议，批评者呼吁监管机构采取行动。根据梅赛德斯的计划，梅赛德斯奔驰电动汽车在北美的车主如果想要额外的动力和速度，可以以每月 60 美元的订阅费购买 60 马力，以每月 90 美元的费用购买 80 马力。车主无需去奔驰经销商，也无需离开车道，直接可以通过无线升级软件获得额外的动力。如果车主不想要按月付费，梅赛德斯也将提供一次性付费选项——通常约数千美元——解除对汽车引擎的限制。",
-          "link": "https://www.solidot.org/story?sid=74884",
-          "publishedOn": "2023-05-06T14:29:53.000Z",
-          "wordCount": 152,
-          "title": "梅赛德斯考虑要求对电动车引擎额外动力额外付费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74883",
-          "author": null,
-          "description": "巴西树蛙 Xenohyla truncata 无法抵抗牛奶果（或金星果）树上的果实和富含花蜜的花朵的诱惑。它们会在夜晚爬上树品尝果实和饮用花蜜。在此过程中，它们的身上会沾满花粉。它们无意中充当了类似蜜蜂的授粉角色。这是已知的第一种为植物授粉的两栖动物。研究报告发表在《Food Webs》上。长期以来科学家认为只有昆虫和鸟类充当了授粉者，但研究发现部分爬行动物和哺乳动物能胜任这一任务。现在两栖动物被发现也可能完成授粉的工作。科学家表示还需要进一步研究才能确认。",
-          "link": "https://www.solidot.org/story?sid=74883",
-          "publishedOn": "2023-05-06T13:54:42.000Z",
-          "wordCount": 145,
-          "title": "巴西树蛙可能是已知第一种授粉两栖动物",
-          "imageUrl": null
         }
       ]
     },
@@ -3322,6 +3452,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/743250/",
+          "author": null,
+          "description": "就如同之前的爆料那样，苹果在刚刚结束的 WWDC 上，发布了自家的全新硬件品类：混合现实眼镜 Apple Vision Pro。 售价 3499 美元，2024 年，也就是明年早些时候上市。 按照苹果官方的说法，Apple Vision Pro 是一个“空间计算设备”。苹果并没有给这款新品明确找一个\n本文链接",
+          "link": "https://news.cnblogs.com/n/743250/",
+          "publishedOn": "2023-06-06T01:23:32.000Z",
+          "wordCount": 163,
+          "title": "售价2.5万的赛博眼镜，就是苹果的下个时代？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743249/",
+          "author": null,
+          "description": "燃次元（ID:chaintruth）原创 作者｜曹杨 编辑｜饶霞飞 闲鱼正式开始收费了。 根据此前发布的公告，“6 月 6 日起，闲鱼社区正式对部分商家实行收费。”收费门槛为，当月成交订单数量大于 10 件，且累计成交金额大于 10000 元。而收费标准则是，以超出收费门槛的订单的实际成交额为基数，\n本文链接",
+          "link": "https://news.cnblogs.com/n/743249/",
+          "publishedOn": "2023-06-06T01:17:07.000Z",
+          "wordCount": 163,
+          "title": "闲鱼：赚钱还是攒人气？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743248/",
+          "author": null,
+          "description": "SPT0418-47 的中远红外连续辐射和多环芳烃。图片来源：《自然》网站 科技日报北京 6 月 5 日电 （记者张梦然）根据《自然》5 日发表的一项天文学研究，美国国家航空航天局（NASA）的韦布空间望远镜（JWST）在宇宙大爆炸后不到 15 亿年形成的一个星系中，观测到了名为多环芳烃的复杂分子。\n本文链接",
+          "link": "https://news.cnblogs.com/n/743248/",
+          "publishedOn": "2023-06-06T01:10:37.000Z",
+          "wordCount": 163,
+          "title": "韦布探测到迄今最远处复杂芳香分子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743247/",
+          "author": null,
+          "description": "新浪科技 6 月 6 日凌晨消息，苹果公司今日召开 2023 年全球开发者大会（简称 WWDC23），推出 iOS 17，iPadOS 17，macOS 等软件系统； 传闻多年的苹果虚拟现实设备 Apple Vision Pro 也终于登场。 WWDC 一直是系统作主角，软件开发者为主要受众的大会，\n本文链接",
+          "link": "https://news.cnblogs.com/n/743247/",
+          "publishedOn": "2023-06-06T01:07:09.000Z",
+          "wordCount": 163,
+          "title": "WWDC23总结：苹果重启元宇宙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743246/",
+          "author": null,
+          "description": "科技日报北京 6 月 5 日电 （记者刘霞）美国洛斯阿拉莫斯国家实验室的科学家试图复制人脑无与伦比的计算能力，他们制造出了一种新的接口型忆阻设备。研究结果表明，该设备具有良好的可编程性和可靠性，可用作下一代神经形态计算的人造突触。相关论文发表于最新一期《先进智能系统》杂志。 研究团队指出，与冯·诺依\n本文链接",
+          "link": "https://news.cnblogs.com/n/743246/",
+          "publishedOn": "2023-06-06T01:01:32.000Z",
+          "wordCount": 163,
+          "title": "高性能接口型忆阻器问世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743245/",
+          "author": null,
+          "description": "来源：锦缎 北京时间 6 月 6 日凌晨，苹果正式发布了全新的硬件设备——被库克称为“首款空间计算机”的虚拟现实眼镜——Apple Vision Pro，售价价 3499 美元。预计该产品将会在 2024 年度率先登陆美国市场，随后在其他国家和地区上市。 最近一个时期化身为科技趋势观察家的猎豹移动 \n本文链接",
+          "link": "https://news.cnblogs.com/n/743245/",
+          "publishedOn": "2023-06-06T00:58:12.000Z",
+          "wordCount": 163,
+          "title": "苹果Vision Pro：先进到让同行绝望？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743244/",
+          "author": null,
+          "description": "新浪科技讯，北京时间 6 月 6 日早间消息，据报道，苹果今日凌晨在全球开发者大会（WWDC）上宣布即将上市的 Mac Pro 电脑将搭载旗下新一代最强的自研芯片 M2 Ultra，这意味着“CPU 自研切换”战略任务全面完成。受此利空消息影响，苹果传统电脑处理器供应商英特尔的股价周一大跌。 苹果工\n本文链接",
+          "link": "https://news.cnblogs.com/n/743244/",
+          "publishedOn": "2023-06-06T00:54:59.000Z",
+          "wordCount": 163,
+          "title": "英特尔收跌超4%，苹果所有电脑产品转向自研芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743243/",
+          "author": null,
+          "description": "从交互、硬件、操作系统到生态，苹果重新定义 VR 和 AR 的标准。 作者：郑玥 来源：极客公园 北京时间 6 月 6 日凌晨 2 点，研发七年的苹果头戴显示器设备 Vision Pro，在 WWDC 2023 正式亮相。 库克称，Vison Pro 开创了一类新的计算设备，能将数字世界融入真实世界\n本文链接",
+          "link": "https://news.cnblogs.com/n/743243/",
+          "publishedOn": "2023-06-06T00:47:10.000Z",
+          "wordCount": 163,
+          "title": "一文读懂苹果 Vision Pro：最好最贵的头显，重新定义下一代计算",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743242/",
+          "author": null,
+          "description": "深途（shentucar）原创 作者黎明 编辑艾小佳 ChatGPT 爆火之后，AI 大模型成为众多科技公司追逐的热点。从聊天对话，到图像生成，再到桌面办公，仿佛 AI 在一夜之间具备了颠覆一切的神力。 热潮蔓延至汽车行业，从业者开始思考：让 GPT 造车，是否可行？ 有车企宣布将应用大模型技术，也\n本文链接",
+          "link": "https://news.cnblogs.com/n/743242/",
+          "publishedOn": "2023-06-06T00:37:38.000Z",
+          "wordCount": 163,
+          "title": "被神话的GPT，造不出你的梦中神车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743241/",
+          "author": null,
+          "description": "苹果 MR 头显产品终于发布了！在苹果总部 Apple Park，腾讯科技看到有开发者现场飙泪，特别激动。 普通人也许很难体会这种感情，现场一位 VR 行业的前辈说出了这样一个产品的意义——“给 VR 行业最少续命 10 年。” 过去的 WWDC 苹果都是告诉开发者，未来 1 年你要干什么，而 20\n本文链接",
+          "link": "https://news.cnblogs.com/n/743241/",
+          "publishedOn": "2023-06-06T00:29:27.000Z",
+          "wordCount": 163,
+          "title": "一文读懂苹果WWDC大会：头显Vision Pro正式发布 售价高达2.5万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743240/",
+          "author": null,
+          "description": "上周，几乎是前后脚，英伟达和国内几家科研机构分别发布了两份内容相似的论文。 首先是英伟达宣布开发出了一个全新的游戏 AI 智能体“VOYAGER”，将 AI 大模型 GPT-4 接入了《我的世界》（Minecraft）游戏。基于 GPT-4，VOYAGER 能够在《我的世界》里扩充着自己的物品和装备\n本文链接",
+          "link": "https://news.cnblogs.com/n/743240/",
+          "publishedOn": "2023-06-05T12:00:00.000Z",
+          "wordCount": 163,
+          "title": "人类被AI“毁灭”，一定是从教它玩《我的世界》开始的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743237/",
+          "author": null,
+          "description": "健康饮食或有助于减缓大脑衰老。本古里安大学的研究人员研究了 102 名符合肥胖标准的人，调查转向绿色地中海饮食对大脑的影响。 参与者在项目开始和结束时接受了脑部扫描，期间还进行了更多的测试和测量，以捕捉受肥胖影响的其他生物过程，如肝脏健康。他们使用研究开始和结束时的脑部扫描来检查生活方式干预对衰老轨\n本文链接",
+          "link": "https://news.cnblogs.com/n/743237/",
+          "publishedOn": "2023-06-05T10:04:20.000Z",
+          "wordCount": 163,
+          "title": "健康饮食或有助于减缓大脑衰老",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743239/",
+          "author": null,
+          "description": "文｜BTmt 科技，作者｜青山白鹭 近日，中国国产的大飞机 C919 从上海浦东机场起飞，经过 3 小时的飞行后安全降落，这标志着中国商飞公司交付东航的 C919 首次飞行圆满完成，也标志着 C919 正式进入量产商用阶段。 随着 C919 量产机交付东航，其售价也正式被公布。近日，据中国东航的采购\n本文链接",
+          "link": "https://news.cnblogs.com/n/743239/",
+          "publishedOn": "2023-06-05T10:00:00.000Z",
+          "wordCount": 163,
+          "title": "造价不便宜，中国为什么非要造C919？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743238/",
+          "author": null,
+          "description": "文柴狗夫斯基 情怀与商业向来难以两全。原本只想做一个纯粹的种草社区的小红书，为了生存与发展，不得不一步步向商业化靠近、却一波三折，而以“记录美好生活”为 slogan 的抖音，也在商业化方面十分激进，似乎早已忘掉初心。 而且，抖音、小红书的创立，虽然出发点不尽相同，却不约而同地的瞄准了“货架电商”这\n本文链接",
+          "link": "https://news.cnblogs.com/n/743238/",
+          "publishedOn": "2023-06-05T09:40:00.000Z",
+          "wordCount": 163,
+          "title": "从兴趣电商到全域电商，频繁换概念的抖音能通过货架电商改命吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743236/",
+          "author": null,
+          "description": "文读懂财经 “一个人选择远行，并不一定是马云说的钱给少了或心委屈了，也可以是为了远方有西湖般的美景。” 这是今年 4 月底，曾为阿里内部创业项目（后属于蚂蚁集团）的语雀创始人王保平（花名：玉伯）在朋友圈官宣离职时的表示。业内人士纷纷对此感慨：互联网大厂内部创业创新的黄金时代，已经一去不复返。 内部创\n本文链接",
+          "link": "https://news.cnblogs.com/n/743236/",
+          "publishedOn": "2023-06-05T09:30:00.000Z",
+          "wordCount": 163,
+          "title": "放弃内部创业，互联网公司如何重拾创新？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743235/",
+          "author": null,
+          "description": "新智元报道 编辑：拉燕 最近，AI 生成了心目中男女各自的完美身材....真的完美吗？ 小编这几天去健身房，发现了一个很有意思的现象。 那就是，每个人对理想的身材的理解都不一样。 有的人坚定地认为，大即是正义，像健美冠军那样，越大越酷。 有的人觉得，穿衣显瘦的好看，彭于晏那样的就不错。 我可以...\n本文链接",
+          "link": "https://news.cnblogs.com/n/743235/",
+          "publishedOn": "2023-06-05T09:20:00.000Z",
+          "wordCount": 163,
+          "title": "AI也会PUA？人工智能生成最完美体型，专家：属于身材偏见，别贩卖焦虑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743234/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 ChatGPT 为人诟病的「数学智障」问题，有望彻底攻克！OpenAI 最新研究发现，利用「过程监督」可以大幅提升 GPT 模型的数学能力，干掉它们的幻觉。 ChatGPT 自发布以来，数学能力饱受诟病。 就连「数学天才」陶哲轩曾表示，GPT-4 在自己的数学专业领域，并没\n本文链接",
+          "link": "https://news.cnblogs.com/n/743234/",
+          "publishedOn": "2023-06-05T09:10:00.000Z",
+          "wordCount": 163,
+          "title": "GPT-4数学能力大蹦极！OpenAI爆火研究「过程监督」突破78.2%难题，干掉幻觉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743233/",
+          "author": null,
+          "description": "文雷科技 Ieitech 不知道大家还记不记得，在 2017 年曾有过一个关于共享充电宝的「豪赌」——某位网络热点人物曾在朋友圈高调宣布：「共享充电宝要是能成我吃翔，立帖为证。」 五年后的今天，共享充电宝已经成为了不少人日常生活的一部分了。比如出门不喜欢带包的小雷，就因为不想带自己的移动电源而频频光\n本文链接",
+          "link": "https://news.cnblogs.com/n/743233/",
+          "publishedOn": "2023-06-05T09:00:00.000Z",
+          "wordCount": 163,
+          "title": "共享充电宝：出海不易，只能专“刺”国人？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743232/",
+          "author": null,
+          "description": "The register 网站披露，巴西南部地区部署的 Microsoft Azure DevOps 服务”罢工“了约十个小时。随后，微软首席软件工程经理 Eric Mattingly 为本次中断事件公开道歉，并透露中断原因是一个简单拼写错误致使 17 个生产数据库被删除。 Mattingly 表示\n本文链接",
+          "link": "https://news.cnblogs.com/n/743232/",
+          "publishedOn": "2023-06-05T08:53:00.000Z",
+          "wordCount": 163,
+          "title": "因拼写错误，17个数据库被删除，微软 Azure DevOps 罢工十小时",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743231/",
+          "author": null,
+          "description": "作者 梓陌 编辑 唐飞 抖音也开始打“低价”的主意了。 近日，抖音推出了一家名为“超便宜的小店”的店铺。根据抖音号介绍，店铺内售卖的各类商品价格均会更加便宜，并会每日更新商品种类，部分产品售价甚至仅为 0.01 元。 图源：抖音 近些年，电商平台通过低价策略“进攻”下沉市场、吸引流量并不是什么新鲜事\n本文链接",
+          "link": "https://news.cnblogs.com/n/743231/",
+          "publishedOn": "2023-06-05T08:45:00.000Z",
+          "wordCount": 163,
+          "title": "电商巨头，掀起“清库存”大战",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/743156/",
           "author": null,
@@ -8861,46 +9191,6 @@
           "wordCount": 163,
           "title": "从拒绝迪士尼到被迫贱卖：美国新媒体巨头要倒闭了",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741363/",
-          "author": null,
-          "description": "钛媒体编辑使用 AI 生成 毫无疑问，微软新 Bing 正成为谷歌搜索 25 年来面临的最大威胁。 作者｜林志佳 编辑｜李小年 本文首发于钛媒体 APP 微软和谷歌在人工智能（AI）搜索领域的竞争进入白热化。 北京时间 5 月 5 日，微软在官网宣布，对 Bing（必应）搜索和 Edge 浏览器进行\n本文链接",
-          "link": "https://news.cnblogs.com/n/741363/",
-          "publishedOn": "2023-05-07T07:04:52.000Z",
-          "wordCount": 163,
-          "title": "搜索大战白热化：微软全面开放Bing Chat，谷歌或实现个性化搜索",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741362/",
-          "author": null,
-          "description": "在 5 月 6 日-7 日举行的昇腾 AI 开发者峰会 2023 上，昇腾 AI 创新大赛 2023 正式启动。大赛旨在鼓励全产业开发者基于昇腾 AI 技术和产品，打造软/硬件解决方案、探索模型算法，加速 AI 与行业融合，促进开发者能力提升。 会上，中国工程院院士、鹏城实验室主任、昇腾荣誉顾问高文\n本文链接",
-          "link": "https://news.cnblogs.com/n/741362/",
-          "publishedOn": "2023-05-07T06:16:23.000Z",
-          "wordCount": 370,
-          "title": "数智未来，因你而来 | 昇腾AI创新大赛2023全新启动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741361/",
-          "author": null,
-          "description": "新智元报道 编辑：拉燕好困 全美 CS 博士津贴大排名出炉，讽刺可以说是拉满了。 最近，有人搞了个全美计算机博士的津贴排名。 您还真别说，从来只见过大学经费排名，或者科研实力排名，这种津贴的大排名还真不多见。 有网友表示，这其实非常重要，毕竟不是谁都能用爱发电的。 项目地址：https://csst\n本文链接",
-          "link": "https://news.cnblogs.com/n/741361/",
-          "publishedOn": "2023-05-07T04:10:28.000Z",
-          "wordCount": 163,
-          "title": "读博竟还倒贴两万？全美CS博士生津贴大排名，速来「避雷」！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741342/",
-          "author": null,
-          "description": "出品：OSC 开源社区（ID：oschina2013) 众所周知，Python 是 AI 和 ML 领域最受欢迎的语言，如果翻看过去数月，甚至是数年的 TIOBE 榜单，Python 也一直占据着榜单前两名的位置。随着近段时间的 AI 的火热，以及 AI 在各个行业的应用，Python 受欢迎的程度\n本文链接",
-          "link": "https://news.cnblogs.com/n/741342/",
-          "publishedOn": "2023-05-06T21:48:34.000Z",
-          "wordCount": 163,
-          "title": "LLVM&Swift之父宣布全新AI开发编程语言\"Mojo\"，兼容Python，且快35000倍",
-          "imageUrl": null
         }
       ]
     },
@@ -8909,6 +9199,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23247",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nUpcoming changes to the App Store receipt signing intermediate certificate\n对于 本地 校验支付凭证的 APP 来说，需要适配 SHA-256 校验，对于不支持 SHA-256 的 APP 将在 2023.08.14 之后拒绝提交。这项调整对使用 AppTransaction API 与 verifyReceipt(Web Service Endpoint) 等后端校验的 APP 不受影响。\n同时 2023.06.20 之后，对于新版本的 iOS/iPadOS/macOS 等系统，沙盒环境都将强制切换为 SHA-256 校验。\n文章\n🌟 🐢 百度 APP iOS 端包体积 50M 优化实践（一）总览\n@xuyafei86：本文介绍了百度 APP 包大小优化的完整实践，包括百度 APP 的技术方案和各项优化的详细收益。此系列文章目前包括总览、图片优化和资源优化 3 章，详细讲述了各项优化的技术细节，感兴趣的同学可以持续关注。\n百度 APP iOS 端包体积 50M 优化实践（二）图片优化\n百度 APP iOS 端包体积 50M 优化实践（三）资源优化\n🌟 🐕 How the Raycast API and extensions work\n@kemchenj：Raycast 是 macOS 上新兴的一款快捷启动器软件，开发者友好的插件系统是他们的亮点之一，最近他们也在博客上分享了这个系统的开发经历，亮点很多：\n基于 Node.js 和 React 搭建了插件的接口，React 渲染出 Dom Tree 之后通过 XP…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23247",
+          "publishedOn": "2023-06-05T02:26:56.000Z",
+          "wordCount": 612,
+          "title": "老司机 iOS 周报 #247 | 2023-06-05",
+          "imageUrl": "https://opengraph.githubassets.com/ce6699e3466a4674a67e167d2ad8a6ddb3b14e22946330660c2abf328f2745b5/SwiftOldDriver/iOS-Weekly/releases/tag/%23247"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23246",
           "author": null,
