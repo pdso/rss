@@ -59,6 +59,16 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/80189",
+          "author": "JLDUAN",
+          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n作为新时代浏览器领域的王者，Google Chrome 自 2008 年 9 月 2 日公布以来，一路过五关斩六将，送走了不少竞争对手。依托其背后的 Chromium 开源项目，第三方纷纷推出基于 Chromium 内核定制的浏览器产品，其中也涌现出了 Brave、Vivaldi 等佳作。根据 2023 年 5 月的统计数据，Chrome 浏览器在全球拥有超过 62%1 的市场份额。 单从市场占有率来看，这些基于 Chromium 的定制产品还未对 Chrome 本身地位形成威胁。\nChrome 虽好，槽点也不少。因 Google 核心业务——搜索和广告，其本身就是建立在海量的用户数据之上，再加上 Chrome 与 Google 服务的深度整合，致使 Chrome 常年遭受来自于用户关于隐私问题的质疑。而事实上这些数据也并未做到完全「可控」，因为许多数据选项 Google 都没有为其设立开关。\n作为浏览器领域的「劳模」，Chrome 的更新频率也令人咋舌。稳定渠道每两到三周会进行一次小幅更新，每月会进行一次重大更新。虽然更新往往会带来一些新功能或者安全性修复，但频繁的更新导致稳定性也受到影响，即使是「稳定版」，现在遇到稀奇古怪的 bug 也不是什么新鲜事，而 Chrome 自动更新是不能直接关闭的。继「正版 Windows 的受害者2」后，互联网又出现了「正版 Chrome 的受害者」。\n而本文介绍的 ungoogled-chromium，就能轻松解决这些烦恼。\nungoogled-chromium 介绍\nungoogled-c…",
+          "link": "https://sspai.com/post/80189",
+          "publishedOn": "2023-06-07T03:28:57.000Z",
+          "wordCount": 858,
+          "title": "没有 Google，Chrome 将会怎样？",
+          "imageUrl": "https://cdn.sspai.com/6/7/2023/article/928987c1-a595-bde2-bf43-2e7780747a35.jpg"
+        },
+        {
           "id": "https://sspai.com/post/80149",
           "author": "Echo_Nebula",
           "description": "我一直在研究个人知识管理，构建自己的第二大脑，我希望我的第二大脑随着时间的推移逐渐成长为一个庞大的知识系统。\n我构建第二大脑流程主要分成4个步骤「🌱收集-🌳整理-🌻创作-🌖分享」。其中包括我在知识管理的过程中遇到的问题，我的解决方案已经我会使用到的工具。\n \n🌱 收集\n第一步收集，这里有两个问题。\n1、信息那么多，把什么样的信息收集进第二大脑？\n2、信息渠道和类型那么多，如何更有效的收集，以便后续的管理和使用？\n1、信息那么多，把什么样的信息收集进第二大脑？\n这里需要了解两个概念，信息与知识。\n信息：泛指人类传播的一切内容\n知识：事物的客观规律总结\n刚开始进行知识管理的时候，我比较注重知识的收集，我收录了很多方法论和干货。那这些方法论和干货确实让我在面对新工作的时候可以快速的上手，但是后续的创意输出的时候，我发现这些方法论是不够用的。\n现在呢，我对信息和知识有了自己的理解，我认为我收集的都是信息，我利用这些信息创造新的东西的时候，这些信息就成为了知识。比如“相对论”是会出现在教科书里知识，但是我不理解也用不上，那“相对论”对我来说只是信息而已。反之爱因斯坦发现“相对论”的故事能带给我启发和思考，这对我来说就是知识。\n我现在收录信息的原则是根据兴趣来收集信息，所有能引发我兴趣和激发我灵感的我就会收集。\n🌱 原则1：根据兴趣来收集信息\n2、信息渠道和类型那么多，如何更有效的收集，以便后续的管理和使用？\n这里经历的一个教训是容易陷到各种生产力工具之中。\n很多生产力工具是根据信息使用场景和信息类型进行设计的。比如flomo和Napkin是用来收集灵感的，对简短的文字比较友好；Cubox和一些浏览器插件对收集网页比较友好；PDF文件有很多专属的阅读器，电子书也有相对应的工具，管理图片和视频也有专门的工具。产生这种现象的原因是工具的设计是从它的“利基”市场出发的，带给我的麻…",
@@ -637,16 +647,6 @@
           "wordCount": 727,
           "title": "Plash 一键将任意网页转化为可视化的动态桌面壁纸",
           "imageUrl": "https://cdn.sspai.com/2023/05/09/c1a095bd2c9f8991faf24d36472278be.png"
-        },
-        {
-          "id": "https://sspai.com/post/79532",
-          "author": "中天与大瓶子",
-          "description": "本文主要记录了家庭公网 IP 的申请和配置（以上海电信为例），以及在 NAS 管理、远程观影和游戏机串流等场景的应用。\n家庭公网 IP 的申请与配置\n1. 公网 IP 申请\n公网 IP 的申请比较方便，只需要打电话给客服说你需要公网 IP 就行，客服会直接帮你操作，一般来说 24 小时内就能搞定了。注意有时候客服会问你要公网 IP 做什么，你就回答工作需要或者访问家里的监控之类的原因就行，但是不要说自己在家里面架设网站。\n2. 配置光猫：改为桥接模式\n默认情况下，家里的光猫是「路由模式」，需要改成「桥接模式」。这里让运营商帮锚操作就行，要么客服远程可以修改，要么会帮你联系师傅上门。如果你想要挑战一下自己，也可以去网上搜教程自己动手改。\n这里简单解释下这一步操作的目的。在「路由模式下」，光猫负责拨号上网，获得的是公网 IP（如果没有申请公网 IP，这里获得的就是运营商内网 IP），而连接到光猫的路由器获得的是 192.168.*.* 这种内网 IP。所以此时其他设备时没办法直接连接到你的路由器的，因为此时路由器并没有暴露到公网上。如果光猫支持端口映射的功能，当然也是可以在路由模式下将路由器暴露到公网的，只是这样比较麻烦。\n\n而在「桥接模式」中，光猫就只负责转换光信号为数字信号，拨号上网的工作就交给了路由器。这样的话，路由器就可以获得公网 IP，公网的设备也就可以直接访问到路由器了。因为路由器是我们自己的设备，可以操作的空间较大，后续的其他操作也都在路由器上开展。\n\n3. 配置路由器：拨号上网\n当光猫是「路由模式」，时，路由器对应的网络模式为「DHCP」，即自动获取光猫分配给它的 IP 地址。当光猫改为「桥接模式」后，就需要将路由器的网络模式改为「PPPoE」，即拨号上网模式。路由器切换成该模式后需要手动填入家中宽带的账号密码，这个直接问运营商客服或者上门的运营商师傅就行。\n完…",
-          "link": "https://sspai.com/post/79532",
-          "publishedOn": "2023-05-09T04:58:57.000Z",
-          "wordCount": 930,
-          "title": "家庭公网 IP 的配置与应用",
-          "imageUrl": "https://cdn.sspai.com/2023/05/01/245efc51b09f094ea21e97fe16cd98c8.png"
         }
       ]
     },
@@ -724,6 +724,146 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75184",
+          "author": null,
+          "description": "Mozilla 释出了 Firefox  114.0。主要新特性包括：添加 UI 去管理 DNS over HTTPS 例外清单；书签菜单可搜索书签，用户可在工具栏加入书签菜单按钮；从 History、Library 或 Application 菜单按钮选择搜索历史时将搜索限制在本地浏览历史；Mac 用户可以用相机支持的所有原生分辨率捕捉视频；重新排序扩展面板中的扩展；macOS、Linux 和 Windows 7 用户可通过 USB 使用 FIDO2 / WebAuthn 认证器；等等。",
+          "link": "https://www.solidot.org/story?sid=75184",
+          "publishedOn": "2023-06-07T15:59:26.000Z",
+          "wordCount": 173,
+          "title": "Firefox  114.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75183",
+          "author": null,
+          "description": "旗下有逾百家诊所的医疗连锁机构 Carbon Health 利用 OpenAI 的 GPT-4 根据医生和病人之间的对话自动生成医疗记录。如果病人同意记录与医生的对话，那么录音首先传输到亚马逊的 AWS Transcribe Medical 云服务，将录音转成文本。转录文本和病人的医疗数据将传输给机器学习模型，名为 Carby 的 AI 工具将总结诊断中的重要信息。Carbon Health 称 AI 工具能在 4 分钟内生成诊断摘要，而医生需要耗费 16 分钟，因此医生将有时间诊断更多病人。Carbon Health 表示，88% 的自动生成记录不需要编辑就能接受。Carbon Health 旗下的一个诊所在试用该工具后治疗的病人数量增加了 30%。",
+          "link": "https://www.solidot.org/story?sid=75183",
+          "publishedOn": "2023-06-07T15:35:33.000Z",
+          "wordCount": 195,
+          "title": "Carbon Health 用 OpenAI 的 GPT-4 写医疗记录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75182",
+          "author": null,
+          "description": "中国游戏市场收入在 2022 年达到 455 亿美元，这涵盖了手游、主机游戏和 PC 游戏。Niko Partner  的报告称，中国游戏公司占到了全球手游收入的 47%，PC 游戏收入的 39%。它估计到 2027 年中国游戏市场收入将达到 570 亿美元，游戏玩家有 7.3 亿。中国游戏市场 66% 的收入来自移动设备，31% 来自 PC，3% 来自主机。腾讯和网易是中国最大的两家游戏公司，其游戏收入占到了总收入的 61%。但这一份额相比 2021 年有所下降，原因是缺乏新作推出，现有作品表现不佳。中国游戏公司正在大幅拓展海外市场。",
+          "link": "https://www.solidot.org/story?sid=75182",
+          "publishedOn": "2023-06-07T14:31:28.000Z",
+          "wordCount": 182,
+          "title": "中国游戏市场收入在 2022 年达到 455 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75181",
+          "author": null,
+          "description": "蜜蜂等授粉昆虫对人类社会至关重要，人类三分之一的食物与之相关。虽然我们对蜜蜂很熟悉，但对其生活习惯未必有多了解。很多人认为蜜蜂是群居的，与蜂后生活在蜂巢内。但实际上只有十分之一的蜜蜂是群居的，绝大多数不生产蜜。大多数蜜蜂过着独居的生活，在地面挖巢或从枯木中寻找废弃的甲虫洞穴。少数热带的蜜蜂以腐肉为生，其内脏含有消化腐肉的细菌。蜜蜂是很聪明的昆虫，它们可能会感到疼痛、记住模式和气味，甚至能认出人脸。 研究还显示蜜蜂有自我意识，甚至可能具有原始形式的意识。蜜蜂每天花 6-10 小时睡觉，期间会在大脑中巩固记忆——它们的大脑只有罂粟籽大小，包含 100 万个神经细胞。有些迹象还表明蜜蜂甚至会做梦。",
+          "link": "https://www.solidot.org/story?sid=75181",
+          "publishedOn": "2023-06-07T14:20:34.000Z",
+          "wordCount": 146,
+          "title": "蜜蜂能学习、记忆、思考甚至决策",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75180",
+          "author": null,
+          "description": "网信办公布了《近距离自组网信息服务管理规定（征求意见稿）》，对苹果 AirDrop 之类的服务设限，意见截止日期为 7 月 6 日。《征求意见稿》规定：",
+          "link": "https://www.solidot.org/story?sid=75180",
+          "publishedOn": "2023-06-07T10:21:38.000Z",
+          "wordCount": 157,
+          "title": "网信办公布《近距离自组网信息服务管理规定（征求意见稿）》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75179",
+          "author": null,
+          "description": "EA 接近达成协议，将 MMORPG《星球大战：旧共和国（SWTOR）》的后续开发和运营从 BioWare 转交给第三方工作室 Broadsword Online Games。SWTOR 由 BioWare Austin 开发，2011 年 12 月上线，其开发成本在 2 亿美元左右，EA 在 2019 年宣布游戏总收入接近 10 亿美元。SWTOR 至今已有 12 年历史，它的收费模式从早期的按月订阅切换到了免费游戏。Broadsword Online Games 创始人是前 BioWare 的副总裁 Rob Denton，他曾参与 SWTOR 早期开发。开发 SWTOR 的 BioWare 核心团队成员逾半数预计将转移到 Broadsword，其余将转移到其它项目或裁掉。EA 将仍然是游戏的发行商，BioWare 将集中精力开发《龙腾世纪》和《质量效应》系列的新作。",
+          "link": "https://www.solidot.org/story?sid=75179",
+          "publishedOn": "2023-06-07T10:00:23.000Z",
+          "wordCount": 185,
+          "title": "EA 准备将《星战旧共》的运营交给第三方",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75178",
+          "author": null,
+          "description": "英国皇家海军称成功测试了量子导航系统。该系统能在不依赖 GPS 的情况下确定船舶的精确位置，它由伦敦帝国理工的物理学家研发，是基于原子的独特属性实现对物体运动的更精确测量。GPS 导航容易受到干扰，位于水下时也难以工作。量子导航系统理论上在水下也能测量位置。",
+          "link": "https://www.solidot.org/story?sid=75178",
+          "publishedOn": "2023-06-07T09:28:55.000Z",
+          "wordCount": 145,
+          "title": "英国皇家海军称成功测试量子导航技术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75177",
+          "author": null,
+          "description": "OpenAI CEO Sam Altman 表示，该公司目前没有 IPO 计划。OpenAI 的主要投资者是微软公司，它从微软筹集到了 100 亿美元，估值近 300 亿美元。Altman 称，OpenAI 的公司结构非常奇特，它最初是一家非盈利研究机构，后来创建了一家盈利有上限的混合型公司，允许从外部筹资，原有的非盈利组织仍然能受益。Altman 正在多个国家进行访问，与多国元首见面，周二在阿联酋，之后将前往卡塔尔、印度和韩国。",
+          "link": "https://www.solidot.org/story?sid=75177",
+          "publishedOn": "2023-06-07T07:49:15.000Z",
+          "wordCount": 171,
+          "title": "因公司结构 OpenAI 无 IPO 计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75176",
+          "author": null,
+          "description": "音乐会主办方注意到一种现象：Z 世代在音乐会上更少饮酒，相比之前几代人他们在酒精上的花费减少了 25%。First Avenue Production 的总裁兼 CEO Dayna Frank 称，可能 Z 世代去音乐会前就吃饱了，或者更清醒。乐队收入主要来自票价，而场地收入主要是饮料，对主办方来说饮料收入减少对其运营是一大挑战。此前的研究发现，Z 世代饮酒的人在下降。得克萨斯州立大学心理学教授 Ty Schepis 在 2020 年的一项研究发现，2018 年 28% 的 18-22 岁大学生戒酒，相比下 2002 年这一比例是 20%。同年龄段酗酒的比例也在同期减半。Schepis 称，大学生吸大麻的比例从 33% 增加到 37%。",
+          "link": "https://www.solidot.org/story?sid=75176",
+          "publishedOn": "2023-06-07T07:10:32.000Z",
+          "wordCount": 175,
+          "title": "Z 世代在音乐会上更少饮酒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75175",
+          "author": null,
+          "description": "5 月 31 日，天津津南区八里台镇局部地面出现沉降现象。相关专家表示，“在短时间内发生这么大面积沉降，在国内外比较少见！”。此次地面沉降和位移变形成因比较复杂，初步认为是局部突发性、差异性地面沉降，但具体原因还需进一步调查。据现场照片，天津市津南区八里台东路碧桂园凤锦庭院地面出现多处肉眼可见的道路和楼房裂缝现象。小区居民被紧急撤离，截至 6 月 3 日 21 时，当地共疏散安置群众 3899 人。关于引发这一情况的原因，有该小区居民表示，是因为马路对面挖热水井施工引起的。对此，事发地的八里台镇人民政府工作人员证实，事发地附近存在施工。该工作人员表示，挖热水井施工 10 多天前就已经进行了，最近才出现问题。“5 月 31 日下午地面就有开裂。”上述工作人员称，引发路面隆起开裂、住宅楼墙体开裂的具体原因，还需等待最终调查结果，以官方通报为准。",
+          "link": "https://www.solidot.org/story?sid=75175",
+          "publishedOn": "2023-06-07T05:47:30.000Z",
+          "wordCount": 160,
+          "title": "天津发生局部地面沉降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75174",
+          "author": null,
+          "description": "奥地利主要反对党社会民主党因 Excel 电子表格“技术问题”而在周末宣布了错误的当选领导人，它在周一更正了错误。奥地利社民党上周六宣布布尔根兰省省长 Hans Peter Doskozil 是这个中左翼党的新领导人。但在周一社民党更正说，一位不太知名的候选人 Andreas Babler 赢得 52% 的选票当选。选举委员会主席表示，纸质选票与数字版本的结果不一致，他们发现由于一位同事 Excel 列表中的技术错误，导致结果错误。Babler 在胜选的新闻发布会上表示，为准确起见，委员会应该重新计票，称错误影响了党的形象。",
+          "link": "https://www.solidot.org/story?sid=75174",
+          "publishedOn": "2023-06-07T05:22:30.000Z",
+          "wordCount": 159,
+          "title": "Excel 错误导致奥地利社民党宣布了错误的当选领导人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75173",
+          "author": null,
+          "description": "在周一起诉币安及其创始人赵长鹏之后，美国证券交易委员会(SEC)周二向法庭递交紧急动议，要求法官冻结币安美国平台的资产，归还客户持有的法币和加密货币。冻结令只适用于币安在美国的两家控股公司，不适用于不受美国监管的国际交易所。SEC 认为，因为被告人多年的违规行为，无视美国法律，防止任何可用资产消失，紧急限制令是必要的。冻结令还禁止相关公司销毁证据。",
+          "link": "https://www.solidot.org/story?sid=75173",
+          "publishedOn": "2023-06-07T04:33:06.000Z",
+          "wordCount": 146,
+          "title": "SEC 寻求冻结币安在美资产",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75172",
+          "author": null,
+          "description": "据霍金的著名辐射理论，随着事件视界（黑洞最外层的边界）对周围量子场的破坏，黑洞会随着时间蒸发，并以一种奇怪的辐射形式逐渐失去质量。但分析表明，事件视界对这一过程并不是必不可少的。据荷兰拉德布大学天体物理学家的最新研究，时空曲率中足够陡峭的斜率也可做同样的事情。这表明，霍金辐射理论不仅适用于黑洞，所有大型物体，甚至是宇宙，最终都可能会蒸发。任何质量或密度适当的物体都可产生显著的时空曲率。基本上，这些物体的引力场导致时空在它们周围扭曲。黑洞是最极端的例子，但时空也会围绕中子星和白矮星等其他致密死星以及星系团等超大质量天体弯曲。研究人员发现，在这些情况下，引力仍可影响量子场的波动，足以产生与霍金辐射非常相似的新粒子，而不需要事件视界“催化剂”。研究意味着，没有事件视界的物体，如死亡恒星的残骸和宇宙中的其他大型物体，也有这种辐射。这将导致宇宙中的一切最终会像黑洞一样蒸发。",
+          "link": "https://www.solidot.org/story?sid=75172",
+          "publishedOn": "2023-06-07T03:35:44.000Z",
+          "wordCount": 142,
+          "title": "宇宙也许会蒸发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75171",
+          "author": null,
+          "description": "社交媒体公司 Reddit 正裁减约 90 名员工，并放缓招聘。Reddit 首席执行官 Steve Huffman 在一封电子邮件中告诉员工，Reddit 采取这些措施是为了解决优先事项，包括为项目提供资金和明年实现收支平衡目标。此次裁员约占 Reddit 约 2,000 名员工的 5%。Huffman 在电子邮件中说：“我们今年上半年的表现很好，这次重组将使我们能够把这种势头带到下半年和以后。”因高昂的 API 定价，Reddit 正面临社区的抗议，参与抗议的社区将在 48 小时内关闭对外访问。",
+          "link": "https://www.solidot.org/story?sid=75171",
+          "publishedOn": "2023-06-07T03:30:35.000Z",
+          "wordCount": 165,
+          "title": "Reddit 裁员并放缓招聘",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75170",
           "author": null,
@@ -3282,136 +3422,6 @@
           "publishedOn": "2023-05-09T13:34:26.000Z",
           "wordCount": 183,
           "title": "Facebook 的 30 亿用户年龄渐长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74912",
-          "author": null,
-          "description": "微软旗下的职业社交网络领英(LinkedIn)表示，它将关闭以中国为重点的招聘应用，并在全球范围内裁减 716 个职位，原因是收入增长放缓和客户行为的变化。该公司成为在经济压力下缩减员工队伍的最新一家美国科技公司。LinkedIn 首席执行官 Ryan Roslansky 表示，该职业网络服务在中国的产品和工程团队将被终止，而中国的企业、销售和营销职能将被缩减。LinkedIn 在 2021 年退出中国社交媒体后推出了名为 InCareer 的中国招聘应用。该应用将在 8 月 9 日前逐步停止运营。",
-          "link": "https://www.solidot.org/story?sid=74912",
-          "publishedOn": "2023-05-09T11:03:36.000Z",
-          "wordCount": 160,
-          "title": "领英将关闭中国求职应用 InCareer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74911",
-          "author": null,
-          "description": "微软正在给 Windows 11 加入愈来愈多的广告。在新的测试版本中，设置面板页面出现了微软产品的广告。根据用户在社交网络上公布的 Canary 渠道早期测试版本的截图，面板的顶部出现了 Microsoft 365 的广告，告诉用户可以免费试用。下面还有一个“完成账户设置”的提示，这里的账户指的是 Microsoft Account。其它公布的截图也与 Microsoft Account 有关。",
-          "link": "https://www.solidot.org/story?sid=74911",
-          "publishedOn": "2023-05-09T10:58:03.000Z",
-          "wordCount": 166,
-          "title": "微软给 Windows 11 设置面板加入了广告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74910",
-          "author": null,
-          "description": "计划于 8 月 10-13 日在拉斯维加斯举行的安全会议 DEF CON 将举办大语言模型黑客马拉松，邀请黑客在 Anthropic、Google、Hugging Face、Nvidia、OpenAI 和 Stability 等公司开发的大语言模型中挖掘、寻找 bug 和偏见。组织者将这次活动形容为 AI 模型组至今最大规模的红队演习，预计会有数千人参加。参加者除了寻找传统的程序 bug，还有大模型专有问题如偏见、幻觉（hallucination）和越狱（jailbreak）。",
-          "link": "https://www.solidot.org/story?sid=74910",
-          "publishedOn": "2023-05-09T10:15:37.000Z",
-          "wordCount": 166,
-          "title": "DEF CON 将举办大语言模型黑客马拉松",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74909",
-          "author": null,
-          "description": "心血管疾病和 2 型糖尿病是亚裔美国成人死亡和疾病的主要原因。以 2 型糖尿病为例，相比非西裔白人成人  的 12.8%，亚裔美国成人的发生率在 15.6%-34.5% 之间，其中华裔 15.8%，韩裔和日裔 18%。菲裔为 31.9%。美国心脏协会认为这与饮食等生活习惯有关。在东南亚饮食中，椰奶是菜肴中的常见成分，导致饱和脂肪的摄入量很高。常食用腌制或油炸食品意味着高水平的钠或脂肪。白米是常见的主食，可能会导致低纤维摄入，因此糙米是一种建议的选项。在整个亚洲，食物通常使用饱和脂肪含量高的棕榈油或椰子油烹饪，因此橄榄油、菜籽油或其他植物油等非热带油是可以考虑的替代物。",
-          "link": "https://www.solidot.org/story?sid=74909",
-          "publishedOn": "2023-05-09T09:02:35.000Z",
-          "wordCount": 155,
-          "title": "亚裔美国人有异常高比例的心血管和糖尿病发生率",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74908",
-          "author": null,
-          "description": "Red Hat 企业级发行版 Red Hat Enterprise Linux 下一个版本 RHEL 10 将不包含 X.org Server。Xorg 仍然包含在去年发布的 RHEL 9 中，将会一直支持到 2032 年（十年支持）。其它 RHEL 10 将淘汰的功能包括：SHA-1；secure copy protocol (SCP)；SASL 中的认证机制 Digest-MD5；OpenSSL 移除 MD2、MD4、MDC2、 Whirlpool、RIPEMD160、Blowfish、CAST、DES、IDEA、RC2、RC4、RC5、SEED 和 PBKDF1 等加密算法；libcrypt.so.1 库；ipset 和 iptables-nft 等等。",
-          "link": "https://www.solidot.org/story?sid=74908",
-          "publishedOn": "2023-05-09T08:06:57.000Z",
-          "wordCount": 190,
-          "title": "RHEL 10 将不包含 Xorg",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74907",
-          "author": null,
-          "description": "愚蠢的人通常不会认为自己愚蠢，这种现象被称为邓宁-克鲁格效应（Dunning-Kruger effect）。美国康乃尔大学的社会心理学家大卫·邓宁和贾斯汀·克鲁格通过实验发现，能力欠缺的人无法认识到自身的无能，不能准确评估自身的能力。然而对这项实验重新分析发现，邓宁-克鲁格效应很可能只是一种统计偏差。研究人员发现，能力欠缺的人事实上擅长估计自己的能力，只有少数人过高估计自己的能力。还有少部分人会过低估计自己的能力。这与邓宁和克鲁格的结论是完全相悖的——即能力欠缺的人总是无法认识到自身的无能。人天生就有能力衡量其能力和知识。",
-          "link": "https://www.solidot.org/story?sid=74907",
-          "publishedOn": "2023-05-09T07:06:09.000Z",
-          "wordCount": 142,
-          "title": "邓宁-克鲁格效应可能只是一种统计偏差",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74906",
-          "author": null,
-          "description": "Twitter CEO 马斯克（Elon Musk）周一警告将清除不活跃用户账号。Twitter 最近修改了不活跃的定义，以前对不活跃的定义是六个月不登陆，新的定义是 30 天不登陆，也就是如果超过 30 天没有登陆账号，就被视为不活跃。马斯克在宣布最新行动前曾威胁要将 NPR 的官方账号重新分配转让给其他人。NPR 因马斯克给它添加了官方媒体的标签而宣布退出 Twitter，之后它的账号就没有再发表推文。马斯克的威胁引发了很多有关不活跃账号的质疑：自 2021 年 1 月以来前美国总统特朗普的账号就没有发过推文，是否会被清除？已去世用户的账号是否会被清除？",
-          "link": "https://www.solidot.org/story?sid=74906",
-          "publishedOn": "2023-05-09T06:18:32.000Z",
-          "wordCount": 161,
-          "title": "Twitter 将清除不活跃用户账号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74905",
-          "author": null,
-          "description": "GitHub 宣布其重构过的新代码搜索功能 GA（general availability）。GitHub 称新代码搜索的速度是旧版的两倍，改进对上下文的感知，能将最相关的结果展示在搜索前列。新搜索界面提供了建议和代码补全，能更智能的对结果进行分类和格式化。代码视图会在侧面板显示引用，类似 Visual Studio。新代码搜索还支持子串查询、正则表达式和符号搜索。GitHub 还发布了一份语法指南。",
-          "link": "https://www.solidot.org/story?sid=74905",
-          "publishedOn": "2023-05-09T05:51:36.000Z",
-          "wordCount": 157,
-          "title": "GitHub 新代码搜索 GA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74904",
-          "author": null,
-          "description": "在最近举行的 Open Compute Project 地区峰会上，AMD 披露用开源的 Open-Source Silicon Initialization Library (openSIL) 取代 AMD Generic Encapsulated Software Architecture (AGESA)固件的计划。新固件将经历四个阶段的开发周期到 2026 年做好投产准备。固件对现代计算机系统至关重要，在 AMD 平台上 AGESA 固件被用于初始化多个子系统，其中包括处理器核心、芯片组和内存。它需要持续更新以支持新硬件和修复 bug。但固件也可能成为网络攻击的一个薄弱环节。AMD 提议的新固件 openSIL 通过将开发、架构和验证开源以增强安全性。它旨在设计成为一种轻量级、简单、透明、安全和易扩展的开源固件。openSIL 不是为了取代 UEFI，而是与其它主机固件如 coreboot 整合，用标准工业语言编写，允许静态链接到主机固件。AMD 计划到 2026 年用 openSIL 淘汰 AGESA。",
-          "link": "https://www.solidot.org/story?sid=74904",
-          "publishedOn": "2023-05-09T04:35:21.000Z",
-          "wordCount": 206,
-          "title": "AMD 计划到 2026 年用开源的 openSIL 取代 AGESA 固件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74903",
-          "author": null,
-          "description": "历史悠久的游戏开发软件 RPG 制作大师释出了基于 Unity 3D 引擎的最新版本 RPG Maker Unite。主要新特性包括：利用预设命令和变量无需写一行代码就能创作 RPG 游戏；原生支持全高清分辨率；新辅助工具 Outline Editor 和 Switch Lines；像沙盒游戏那样在地图上放置大型部件如房子、树木和城堡；可自定义动画模式和帧；支持原生构建手机版游戏；包含大量默认的游戏素材库；预构建数据库；通过 C＃ 高度定制，等等。",
-          "link": "https://www.solidot.org/story?sid=74903",
-          "publishedOn": "2023-05-09T03:27:10.000Z",
-          "wordCount": 175,
-          "title": "基于 Unity 引擎的 RPG 制作大师发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74902",
-          "author": null,
-          "description": "因为美国对中国的出口限制，中国公司正寻求不依赖最先进芯片训练 AI 模型。新加坡国立大学教授尤洋表示，许多中国公司现在正在研究组合三、四块性能相对较差的芯片，包括 A800 和 H800，来替代英伟达最先进的 GPU A100 和 H100。腾讯今年 4 月份发布了一个新的可用于 AI 大模型训练的计算集群，这些互联芯片中使用了英伟达 H800。尤洋说，这种组合低性能芯片的方法可能成本很高，如果一家美国公司需要 1000 个 H100 芯片来训练一个大语言模型，那么一家中国公司可能需要至少 3000 个 H800 芯片才能实现同样的结果。这正促使一些公司加速开发技术，使用不同类型的芯片来训练大规模 AI 模型。",
-          "link": "https://www.solidot.org/story?sid=74902",
-          "publishedOn": "2023-05-08T15:20:35.000Z",
-          "wordCount": 169,
-          "title": "中国公司寻求不依赖最先进芯片开发 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74901",
-          "author": null,
-          "description": "宝德宣布推出规格与英特尔 10 代酷睿处理器 i3-10105 基本相同的 x86 处理器 Powerstar（暴芯）。但目前还没有看到英特尔与该公司合作的消息。宝德在其新闻稿中表示：宝德Powerstar（暴芯）芯片基于 x86 架构...拥有强劲的性能和成熟的生态体系...年度销售目标 150 万片...超越国产 CPU 整机数倍性能...支持 Windows 和国产操作系统...从这些信息看，暴芯不同于龙芯和兆芯，并不是自研的 CPU。它的型号 P3-01105 以及外观、基础频率 3.70GH，都与英特尔的 i3-10105 有着千丝万缕的联系，很可能是英特尔授权重包装的产品。英特尔的 10 代酷睿处理器是在 2019 年上市的。",
-          "link": "https://www.solidot.org/story?sid=74901",
-          "publishedOn": "2023-05-08T15:12:47.000Z",
-          "wordCount": 175,
-          "title": "宝德推出规格与英特尔 10 代处理器基本相同的芯片暴芯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74900",
-          "author": null,
-          "description": "三年前，美国多地的图书馆取消了借阅图书的逾期罚款政策。上周华盛顿州有 50 家图书馆服务于百万用户的金郡图书馆系统 (King County Library System)宣布废除逾期未还的滞纳金政策。图书馆工作人员称，罚款只占其运营预算的不到 1%；而且随着读者对数字书等产品兴趣的增加罚款收入日益减少，电子书会到期自动归还不会产生滞纳金；向客户收取滞纳金是需要成本的，会占据工作人员的处理时间。此前的研究认为，逾期罚款对穷人和弱势群体的影响最大。",
-          "link": "https://www.solidot.org/story?sid=74900",
-          "publishedOn": "2023-05-08T14:57:44.000Z",
-          "wordCount": 148,
-          "title": "美国更多地方图书馆取消逾期罚款",
           "imageUrl": null
         }
       ]
