@@ -707,16 +707,6 @@
           "wordCount": 676,
           "title": "国际不再恐同日 | 庆祝爱，分享光 - 香港 LGBT Pride Parade 纪实",
           "imageUrl": "https://cdn.sspai.com/2023/05/16/c5b199bf9e27046b952d9b7dfcd3f66b.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/79832",
-          "author": "海的彼端",
-          "description": "契机\n近几个月人工智能可以说是最抢流量的话题之一了，笔者也不能免俗，一直都在尝试和摸索与AI共同进行写作、翻译等本职工作的可能性。不过在其他领域的应用方面几乎没动什么脑筋，直到又遇见了老冤家——《最终幻想6》。\n以前也曾经在各大平台尝试过这款经典 RPG ，但终究因为各种原因没有坚持到底。前阵子发现史克威尔又拿像素重置版在主机平台炒了一波冷饭，才想起自己去年已经买过 PC 版了。于是又一次把它给捡了起来，也不知道这次能不能顺利来到最终 boss 面前。\n不过玩着玩着发现，作为一名肢体残障人士，多年来玩游戏遇到的障碍始终无法得到好的解决，所以笔者心血来潮，突然开始琢磨：\n有没有一种可能，让 AI 替我设计一款完全化解个人痛点的游戏辅助工具呢？\n于是就有了这篇文字中记录的整个过程。\n（本项目最终成品代码： AI设计的屏幕键盘 ）\n个人情况和需求\n笔者患有神经肌肉类疾病，全身几乎无法活动，平时都是靠左手拇指与食指操作轨迹球鼠标或语音识别来控制各种设备（这里吐槽一句，罗技的木星轨迹球怎么就停产了啊，搞得现在新品价格涨到以往的十倍不止）。\n\n作为几十年如一日的骨灰级玩家，笔者也试用过不少黑科技来帮助自己游戏。比如大名鼎鼎的语音控制工具—— VoiceAttack 、各种屏幕键盘甚至朋友替我特制的主机专用虚拟手柄转接器（尽管是过去式了，但那件设备真的非常有用，伴我度过了整个 PS3 和 PS4 时代）。\n其中，语音控制类工具虽然功能强大，但毕竟比鼠标直接操作要慢半拍，而且特别费嗓子（笔者有慢性咽炎）。除了工作时不得不用以外，玩非动作类的游戏还是不太想劳它大驾。\n所以只要设置好按键，屏幕键盘似乎是最优解。可惜 Windows 系统自带的屏幕键盘因为功能简陋、可自定义程度低，早已被我扔进回收站。\n笔者目前主要使用的屏幕键盘是 Hot Virtual Keyboard ，这也是一款老牌工具了…",
-          "link": "https://sspai.com/post/79832",
-          "publishedOn": "2023-05-16T06:45:45.000Z",
-          "wordCount": 693,
-          "title": "残疾人怎么利用AI更好地玩游戏？——和ChatGPT一起做黑科技屏幕键盘",
-          "imageUrl": "https://cdn.sspai.com/2023/05/16/6bcf7b01e5a41538c2cd45a76a11da5e.png"
         }
       ]
     },
@@ -770,26 +760,6 @@
           "wordCount": 631,
           "title": "老司机 iOS 周报 #245 | 2023-05-22",
           "imageUrl": "https://opengraph.githubassets.com/2a7defae15ea31c75e5cac5d2dc98184b58ae799d4f9af08a25eec3f1ab12a1c/SwiftOldDriver/iOS-Weekly/releases/tag/%23245"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23244",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nGitHub 的 Code Scanning 正式提供 Swift 的支持\nGitHub 的 Code Scanning 会扫描和索引项目的 Dependency 信息，并且提供：\nDependency Graph。\n\n这意味着开发者可以在 GitHub 上看到有哪些项目依赖了自己的 Swift 库。\n可以使用 Dependabot，在依赖库更新时，自动提交 Pull Request 更新依赖库版本。\n安全漏洞警告。如果一个代码库出现安全漏洞时，它可以在发布修复版本后使用 GitHub 内建的功能进行记录，此时 GitHub 就会通知所有依赖了这个库的下游项目，并且自动提交 Pull Request 将依赖更新到已修复的版本。\n增强全球定价机制 基准调整引发涨价\n苹果在 3 月时就公告会进行 增强全球定价机制 的调整，老司机技术也提醒过大家，希望大家都可以提前根据需要选择合适的基准。5 月 9 日凌晨已准时上线，但开发者们发现虽然已经提前将基准设置为了中国大陆，但却依旧有概率 被 涨价，例如：原本设置为 6 元的 IAP 物品变成了 8 元。问题在上午 10 点左右陆续恢复，部分开发者早上一醒来收到部分付费用户的投诉只能含泪处理了～\n文章\n🐢 🌟 用 VSCode 基于 Bazel 打造 Apple 生态开发环境\n@Cooper Chen：如何优化编译开发体验一直是开发者老生常谈的问题，而 Xcode 作为 Apple 开发者必须要使用的工具，其相对封闭的生态环境，让大多数开发者对它的编译优化都常常感到捉襟见肘。哔哩哔哩作为国内较早尝试 Bazel 作为 iOS 主力编译系统的团队，针对这…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23244",
-          "publishedOn": "2023-05-16T05:18:44.000Z",
-          "wordCount": 657,
-          "title": "老司机 iOS 周报 #244 | 2023-05-15",
-          "imageUrl": "https://opengraph.githubassets.com/6bce1ed7f08ee014238ee616d0d240b557710549eb414aa31c6bbab0f0f513e5/SwiftOldDriver/iOS-Weekly/releases/tag/%23244"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23243",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nFoundation Package 预览版发布\n@kemchenj：去年周报曾经提到 Foundation 将使用 Swift 重新实现，近日 Swift 开发团队发布了预览版，日期相关的功能性能对比当前版本的 Foundation 提升 20%-150%，而 JSONDecoder/JSONEncoder 的性能提升甚至达到 200%-500%。\n2023 年上半年会继续集中在核心 API 的实现和测试的补齐，下半年则会集中在导入现有的 Foundation API，例如 URL/Bundle 等，并且过程中也允许通过提案加入小部份全新的 API。\n一句话总结，Swift is the new Foundation。\n文章\n🐕 心遇 iOS 端会话页性能优化 — ReactiveObjC 实践篇\n@享耳先森：ReactiveObjC 是 Objective-C 下的响应式编程框架，可以将各种通知、代理等转换成事件流进行分发，Swift 下有 RxSwift 及 Combine。本文介绍了「心遇」团队如何使用 ReactiveObjC 解决项目中逻辑分散的问题。\nTips: 开发者们在上手  RAC 类库前建议先评估学习曲线及维护、调试问题。\n🐕 Notifications: why less is more — how Facebook has been increasing both user satisfaction and app usage by sending only a few notifications：\n@含笑饮砒霜：Facebook 的通知数据科学团队的成员，针对用…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23243",
-          "publishedOn": "2023-05-16T05:18:26.000Z",
-          "wordCount": 694,
-          "title": "老司机 iOS 周报 #243 | 2023-05-08",
-          "imageUrl": "https://opengraph.githubassets.com/448a476287207fdfa3724cd5c8d23ddc7ff63422fae326b160a22f5a9128da60/SwiftOldDriver/iOS-Weekly/releases/tag/%23243"
         }
       ]
     },
@@ -804,6 +774,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75250",
+          "author": null,
+          "description": "AMD 在数据中心大会上公布了 Instinct MI300 系列加速器的最新产品。AMD 在去年宣布了数据中心 APU MI300，在今年初的 CES 展会上公布了更多信息：MI300A 是第一款数据中心/HPC 级 APU 产品，有 1460 亿个晶体管，MI300 包含了 24 个 Zen 4 CPU 核心，CDNA 3 GPU 核心，以及 128GB HBM3 内存。AMD 最新的 MI300 系列加速器 MI300X 是纯 GPU，去掉了 CPU 核心，片上内存增加到 192GB HBM，是专门针对需要大量内存的大语言模型设计的，其内存带宽 5.2 TB/s，晶体管 1530 亿个。AMD 称，128GB MI300A APU 已经开始向客户提供样品，而 192GB MI300X GPU 则要等到第三季度。",
+          "link": "https://www.solidot.org/story?sid=75250",
+          "publishedOn": "2023-06-14T14:59:04.000Z",
+          "wordCount": 208,
+          "title": "AMD 公布 Instinct MI300X 加速器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75249",
+          "author": null,
+          "description": "快餐连锁店麦当劳发布了一款像素风格的复古游戏《Grimace's Birthday》，可以通过模拟器在手机或 PC 的浏览器上玩，也可以在任天堂的掌机 Game Boy Color 上玩。GBC 是 1998 年上市的掌机，C 代表彩色，它相对于 Game Boy 掌机的区别是使用了彩色屏幕，它在 2003 年停产。《Grimace's Birthday》的主角是紫色奶酪球 Grimace，玩家的任务是通过一个个关卡及时找到朋友吹灭蜡烛并沿途收集生日祝福。它由新泽西的独立工作室  Krool Toys 开发。游戏组合了 2D 平台和滑板，它只有四个关卡和一个奖励关卡，有得分攻击和自由滑板模式，它是作为麦当劳的促销活动推出的。",
+          "link": "https://www.solidot.org/story?sid=75249",
+          "publishedOn": "2023-06-14T11:59:21.000Z",
+          "wordCount": 173,
+          "title": "麦当劳发布新 GBC 游戏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75248",
+          "author": null,
+          "description": "微软与 OpenAI 之间的密切合作关系备受瞩目，但另一方面双方其实是貌合神离。为避免反垄断审查，微软对 OpenAI 的投资只占其 49%，且双方的合作并非是排他性的，OpenAI 可以向微软的竞争对手提供其 AI 模型。因此令企业客户倍感困惑的遭遇是：OpenAI 的销售先来推销 ChatGPT 等产品，然后微软的销售来推销相同产品——通过其 Azure AI 服务。OpenAI 向微软竞争对手 Salesforce 提供了基于 ChatGPT 的 AI 产品 Einstein GPT，可以完成生成营销电子邮件等工作，而微软办公软件提供了类似功能。",
+          "link": "https://www.solidot.org/story?sid=75248",
+          "publishedOn": "2023-06-14T09:02:11.000Z",
+          "wordCount": 172,
+          "title": "微软与 OpenAI 貌合神离",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75246",
+          "author": null,
+          "description": "根据《Nature Communications》上的一项研究，免疫恢复力与长寿和抵抗感染相关。为何有些人寿命较长、对感染性和炎症性疾病更不易感，是一个尚未得到充分理解的问题。感染和炎症性疾病导致免疫系统的变化，对疾病响应的量级和质量可能因人而异。研究人员调查了一系列基于人类和动物研究的数据，以估计各情况下的免疫恢复力。他们调查了超过 48500 名个体和多种动物模型，发现有些人在暴露于不同感染性、炎症性疾病中以及在衰老过程中，能保持免疫恢复力。在感染性或炎症性疾病中存在免疫恢复力，与寿命延长和研究涉及的一系列疾病的有利健康结局有关，这些疾病包括 HIV、有症状的流感感染、COVID-19、败血症和复发性皮肤癌。研究还认为，最佳免疫恢复力在所有年龄均可检测到，可能在女性中更常见，并可能与有利的免疫依赖性健康结局有关。",
+          "link": "https://www.solidot.org/story?sid=75246",
+          "publishedOn": "2023-06-14T08:32:03.000Z",
+          "wordCount": 147,
+          "title": "免疫恢复力与长寿和抵抗感染相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75245",
+          "author": null,
+          "description": "微软向其 Azure 美国政府云服务的客户提供 OpenAI 的 GPT-4 模型。微软是 OpenAI 的最主要投资者，它的 Azure OpenAI 服务将向政府客户提供该公司的两种模型，其一是最新的 GPT-4，另一个是早期的 GPT-3。五角大楼、美国能源部和 NASA 都是 Azure 政府客户。美国国防部旗下的技术信息中心（Defense Technical Information Center）将对 OpenAI 的模型进行测试。",
+          "link": "https://www.solidot.org/story?sid=75245",
+          "publishedOn": "2023-06-14T06:49:23.000Z",
+          "wordCount": 171,
+          "title": "微软向美国政府客户提供 GPT-4 模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75244",
+          "author": null,
+          "description": "Meta 周二发布了能像人类那样进行推理的 AI 图像创造模型 I-JEPA。相关论文将在 CVPR 2023 大会上展示，训练代码和模型快照(model checkpoints)发布在 GitHub 上，采用非商业的 CC BY-NC-SA-4.0 授权。Meta 称，I-JEPA 能根据相关世界的背景知识填补图像空缺，而不是其它生成式 AI 模型那样只考虑附近的像素，因此能有效避免生成式 AI 图像模型的常见错误，比如六个指头。I-JEPA 代表 Image Joint Embedding Predictive Architecture，通过对比图像的抽象表示而非像素，创造外部世界的内部模型进行学习。它在多项计算机视觉任务中表现优异，计算效率更高，无需大量微调，训练时间更短，正确率更高。",
+          "link": "https://www.solidot.org/story?sid=75244",
+          "publishedOn": "2023-06-14T06:34:08.000Z",
+          "wordCount": 183,
+          "title": "Meta 发布类人 AI 图像创造模型 I-JEPA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75243",
+          "author": null,
+          "description": "亚马逊开始使用生成式 AI 帮助客户找到合适的产品。电商巨头在其购物应用中测试新功能，用 AI 概述不同客户对产品的评价，列出客户喜欢的地方和不喜欢的地方，同时添加一份免责声明，表明该总结是 AI 根据客户评论文本生成的。以 Magic Mixies 儿童魔法锅玩具为例，AI 总结说买家对其趣味性、外观、价值、性能、质量、充电等给出了好评，但也部分客户对产品给出了差评，如有客户为非物有所值的玩具支付了逾一百美元，还有客户抱怨质量和充电问题等等。亚马逊没有披露该生成式 AI 工具是基于什么大模型。",
+          "link": "https://www.solidot.org/story?sid=75243",
+          "publishedOn": "2023-06-14T05:47:46.000Z",
+          "wordCount": 162,
+          "title": "亚马逊用生成式 AI 概述产品评论",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75242",
+          "author": null,
+          "description": "印度政府官员与中国手机制造商小米、Oppo、Realme 和 Vivo 等召开会议，要求中国手机制造商在其当地业务中引入印度股权合作伙伴，要求引入印裔人士担任关键职务的高管，如首席执行官、首席运营官、首席财务官和首席技术官。印度政府还要求这些手机厂商在印度委派合同制造商，成立合资企业，在印度制造零部件。印度官员还要求中国公司遵守法律，不得逃税。印度希望中国手机厂商将印度制造的设备用于出口，为印度赚外汇。",
+          "link": "https://www.solidot.org/story?sid=75242",
+          "publishedOn": "2023-06-14T05:34:05.000Z",
+          "wordCount": 144,
+          "title": "印度政府要求中国手机厂商任命印裔人士担任高管",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75241",
+          "author": null,
+          "description": "美国地区法院法官 Edward Davila 批准了联邦贸易委员会(FTC)暂时阻止微软完成对动视暴雪的收购的请求。法官安排了为期两天的证据听证会，时间是在 6 月 22 - 23 日。如果没有法院命令，微软最早将于本周五完成对动视暴雪的收购。Davila 法官称，临时禁令对于维持现状是必要的。微软和动视必须在 6 月 16 日前提交反对临时禁令的法律论据，FTC 必须在 6 月 20 日做出答复。",
+          "link": "https://www.solidot.org/story?sid=75241",
+          "publishedOn": "2023-06-14T03:28:04.000Z",
+          "wordCount": 160,
+          "title": "美国法官暂时阻止微软完成对动视暴雪的收购",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75240",
+          "author": null,
+          "description": "逾 8000 个 subreddit 进入私有模式，抗议 Reddit 的 API 定价。这次抗议始于周一 6 月 12 日，持续 48 小时，预计周三恢复对外访问。但鉴于 Reddit 对此事表现的不以为然，部分流行 subreddit 的 Mod 已经决定无限制关闭访问，其中包括 r/aww（逾 3400 万订阅者）、r/music（逾 3200 万订阅）和 r/videos（逾 2600 万订阅）。根据一份内部备忘录，Reddit CEO Steve Huffman 告诉员工不要担心，因为抗议不会影响公司收入。Huffman 称大部分 subreddit 会按计划在周三回归，我们干好自己的工作就行了。他说应对挑战的长期方案是改进和推出 Reddit 官方的 Mod 管理工具（今天的 Mod 主要依赖第三方客户端提供的管理工具）。",
+          "link": "https://www.solidot.org/story?sid=75240",
+          "publishedOn": "2023-06-14T02:53:23.000Z",
+          "wordCount": 198,
+          "title": "Reddit CEO 告诉雇员 API 价格抗议不会影响收入",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75239",
           "author": null,
@@ -3413,96 +3483,6 @@
           "wordCount": 151,
           "title": "常用化学物三氯乙烯与帕金森病强相关",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74976",
-          "author": null,
-          "description": "根据发表在《自然-医学》上的一项研究，一名男性身上一个新识别出的 RELN 基因罕见遗传变异（编码信号蛋白 reelin），与常染色体显性遗传性阿尔茨海默病（ADAD）超过 20年 的复原力有关。这是此类复原力的第二例报告，凸显出一个新的分子通路，或可作为治疗目标，以潜在增加所有形式阿尔茨海默病的复原力。ADAD 是一种罕见的遗传形式阿尔茨海默病，最常见的原因是 PSEN1 基因（编码跨膜转运蛋白早老素1）的一个特定突变所致。其特点为早发认知损伤，如年龄较轻（通常在 40 岁至 50 岁）时就出现记忆力衰退。此前报告的一个案例描述一名 ADAD 女性有一个罕见的突变，称为“Christchurch”，在编码载脂蛋白E（APOE）的基因上，她在预计发病年龄后保持认知无障碍近 30 年，尽管在大脑中显示出阿尔茨海默病的迹象。",
-          "link": "https://www.solidot.org/story?sid=74976",
-          "publishedOn": "2023-05-16T11:37:28.000Z",
-          "wordCount": 158,
-          "title": "科学家发现第二例“免疫”阿尔茨海默病的人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74975",
-          "author": null,
-          "description": "无处不在的智能手机对儿童的成长发育会产生什么影响？苹果第一代 iPhone 是在 2007 年发布的，最早伴随着智能手机成长起来的一代如今也已经成年。非盈利研究机构 Sapien Labs 在全球展开大规模的精神健康调查，其中一个问题是针对 18-24 岁的年轻人，询问他们何时拥有可随身携带的联网智能手机或平板。初步研究结果显示，拥有智能手机的时间越早成年后的精神健康越糟。这一关联性存在于所有地区，而且在女性身上尤其突出。10 多年前年轻女性报告精神健康良好，但从 2015 年开始她们报告的精神健康状况急剧恶化。为何会发生如此惊人的变化？社交媒体的载体智能手机被认为是一个重要原因。",
-          "link": "https://www.solidot.org/story?sid=74975",
-          "publishedOn": "2023-05-16T09:36:48.000Z",
-          "wordCount": 153,
-          "title": "初步研究发现童年用智能手机的时间越早成年精神健康越糟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74974",
-          "author": null,
-          "description": "AI 模型的训练需要大量的算力，而美国的技术出口限制让中国无法进口最先进的硬件。为了集中力量办大事，北京市发布了《北京市促进通用人工智能创新发展的若干措施（2023-2025年）（征求意见稿）》，意见截止日期 19 日。征求意见稿提出，“加强与头部公有云厂商等市场主体合作，实施算力伙伴计划，并确定首批伙伴计划成员，明确供给技术标准、软硬件服务要求、算力供给规模、优惠策略等，向在京高校院所和中小企业公布一批优质算力供应商。将新增算力建设项目纳入算力伙伴计划，加快推动海淀区“北京人工智能公共算力平台”，朝阳区“北京数字经济算力中心”等项目建设，快速形成规模化先进算力供给能力，支撑千亿级参数量的大型语言模型、多模态大模型、大规模精细神经网络模拟仿真模型、脑启发神经网络等研发...”",
-          "link": "https://www.solidot.org/story?sid=74974",
-          "publishedOn": "2023-05-16T07:53:45.000Z",
-          "wordCount": 152,
-          "title": "北京考虑对 AI 训练所需的算力推行统筹供给",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74973",
-          "author": null,
-          "description": "美国国家过敏及传染性疾病研究院(NIAID)疫苗研究中心 (VRC) 的研究人员开始在杜克大学招募志愿者开展临床试验，测试通用流感候选疫苗 H1ssF-3928 mRNA-LNP 的安全性和诱导免疫反应的能力。试验将招募最多 50 名 18-49 岁的健康志愿者。三组参与者（每组 10 名）将分别接种 10、25 和 50 微克的实验疫苗。在评估数据确定最佳剂量后将招募另外 10 名参与者接受最佳剂量。10 名对照组成员则将接受现有的四价季节性流感疫苗。美国疾控制中心估计，2010-2020 年间，美国每年有 12,000-52,000 人死于流感。流感病毒的易变性使得每年都需要根据情况研发出针对当年最常见流感病毒的疫苗。通用流感疫苗将能消除每年研发季节性流感疫苗的需要，以及每年接种流感疫苗的需要。",
-          "link": "https://www.solidot.org/story?sid=74973",
-          "publishedOn": "2023-05-16T07:12:50.000Z",
-          "wordCount": 173,
-          "title": "美国 mRNA 通用流感候选疫苗启动临床试验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74972",
-          "author": null,
-          "description": "美国专利商标局（USPTO）正征求与 AI 技术和发明权相关的意见。USPTO 询问 AI 如何应用于发明创造，以及它在发明创造中的贡献是否有资格被视为是共同发明人。如果 AI 系统对一项发明的贡献与被视为共同发明人的人类处于同等程度，那么根据当前的专利法该发明是否可授予专利？是否存在一种情况 AI 对发明的贡献不属于任何实体因此属于公有领域的一部分？搜索巨人 Google 递交了它的意见书，认为根据美国专利法 AI 技术不应该视为发明人。",
-          "link": "https://www.solidot.org/story?sid=74972",
-          "publishedOn": "2023-05-16T07:00:20.000Z",
-          "wordCount": 167,
-          "title": "Google 认为 AI 不应该被视为发明人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74971",
-          "author": null,
-          "description": "Mastodon 用户周一报告，微软云服务会扫描用户密码保护的压缩文件去寻找和标记恶意程序。安全研究员 Andrew Brandt 称，微软标记了一个压缩档文件，称其已被感染。该文件使用了密码保护。他表示需要向同事发送恶意程序样本，微软此举会影响其工作。另一位安全研究员 Kevin Beaumont 解释说，微软有多种方法可以扫描用密码保护的压缩文件内容，一种是从电邮正文或文件名称中提取可能的密码。举例来说，如果你给自己发邮件，称“ZIP 密码是 Soph0s”。微软会提取出密码进行测试。去年他的 OneDrive 云储存账号备份了存储在其 Windows 一文件夹内的恶意文件样本，然后将硬盘中的恶意程序全部删除，在账号里标记其为恶意程序。恶意程序样本因此丢失了。他之后将恶意程序压缩起来存档并用密码加以保护，然而到了上周这些压缩档文件又被标记为恶意程序。Google 表示它的云服务不会扫描用密码保护的压缩文件。微软此举引发了争议。",
-          "link": "https://www.solidot.org/story?sid=74971",
-          "publishedOn": "2023-05-16T05:32:45.000Z",
-          "wordCount": 155,
-          "title": "微软云服务扫描用户密码保护的压缩文件寻找恶意程序",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74970",
-          "author": null,
-          "description": "WHO 周一对食用人工甜味剂发出警告。声明称持续食用人工甜味剂不但不会让人减轻体重，还可能增加成人患 2 型糖尿病、心血管疾病和死亡率上升的风险。WHO 营养和食品安全负责人 Francesco Branca 表示，人工甜味剂没有营养价值，为改善健康应减少食用。他说，从长期看用人工甜味剂替代游离糖对控制体重没有帮助。人们需要考虑其它方法去减少游离糖的摄入，例如食用含有天然糖的食物像水果或不加糖的食品饮料。",
-          "link": "https://www.solidot.org/story?sid=74970",
-          "publishedOn": "2023-05-16T03:33:41.000Z",
-          "wordCount": 152,
-          "title": "WHO 对食用人工甜味剂发出警告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74969",
-          "author": null,
-          "description": "美国气候预测中心（CPC）宣布，今年 8 月厄尔尼诺现象（太平洋暖期）出现的可能性超过 90%。美国国家海洋和大气管理局（NOAA）估计，2023 年有 50% 的可能成为有记录以来最热的一年。CPC 指出今年晚些时候出现“强烈”厄尔尼诺现象的可能性超过 50%。这可能会带来严重的影响——从灼热的热浪到更强烈的风暴。“强烈”厄尔尼诺现象是指太平洋海水温度比平均温度高 1.5 摄氏度以上，而这一现象在过去 25 年中只发生过一次。厄尔尼诺现象是一种自然发生的气候型态，与热带太平洋中部和东部海洋表面温度变暖相关，平均每 2 至7 年 发生一次，通常持续 9 至 12 个月。当太平洋急流向南移动时，风将暖水向东推进。这将使全球气温整体上升约 0.2 摄氏度。",
-          "link": "https://www.solidot.org/story?sid=74969",
-          "publishedOn": "2023-05-15T14:33:33.000Z",
-          "wordCount": 164,
-          "title": "今年可能会非常炎热",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74968",
-          "author": null,
-          "description": "曾被视为“新媒体成功典范”的 Vice Media 于周一正式申请破产。破产不会中断 Vice 的日常运营，除了其核心网站外，Vice 旗下还有广告公司 Virtue、Pulse Films 部门和 2019 年收购的女性主题网站 Refinery29。包括 Fortress Investment Group 和 Soros Fund Management 在内的贷方报价 2.25 亿美元收购 Vice，收购费用由现有贷款覆盖，收购之后他们也将接手公司的债务。如果 Vice 没有收到更高的报价，它将被包括 Fortress 和 Soros 在内的贷方组织收购。2017 年 Vice  的估值曾高达 57 亿美元，如今不到二十分之一。",
-          "link": "https://www.solidot.org/story?sid=74968",
-          "publishedOn": "2023-05-15T13:35:44.000Z",
-          "wordCount": 183,
-          "title": "Vice Media 申请破产",
-          "imageUrl": null
         }
       ]
     },
@@ -3511,6 +3491,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/743935/",
+          "author": null,
+          "description": "科技日报北京 6 月 14 日电 （记者刘霞）植物的每个组织都有数百种不同类型的细胞，它们传递有关功能需求和环境变化的信息。美国索尔克生物学研究所的科学家开发出了一种新的成像技术，能以前所未有的分辨率，在 3D 层面捕捉植物整个“内心”世界，为了解植物如何应对气候变化，以及培育出气候适应能力更强的作\n本文链接",
+          "link": "https://news.cnblogs.com/n/743935/",
+          "publishedOn": "2023-06-15T01:12:34.000Z",
+          "wordCount": 163,
+          "title": "新技术能在3D层面对植物基因成像",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743934/",
+          "author": null,
+          "description": "科技日报北京 6 月 14 日电 （记者张梦然）有些人为何能终生都保持较为健康的状态？《自然·通讯》13 日发表的一项研究认为，免疫恢复力，即维持或恢复免疫功能的能力，可能与响应感染性和炎症性疾病的能力有关。这是通过调查多项感染性和炎症性疾病背景后得出的结论，或可改进人们对免疫与健康的理解。 为何有\n本文链接",
+          "link": "https://news.cnblogs.com/n/743934/",
+          "publishedOn": "2023-06-15T01:09:39.000Z",
+          "wordCount": 163,
+          "title": "免疫分析揭示为何有些人不常生病",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743933/",
+          "author": null,
+          "description": "科技日报北京 6 月 14 日电 （记者张梦然）《自然》杂志 14 日报告了一种量子处理器，无需进行纠错就可超越经典计算。这个 IBM 127 量子比特处理器在制造、测量高度纠缠量子态方面超越了当前最佳经典计算方法的能力。这一成果表明，量子计算机可能在近期用于一些特定的计算而无需容错性（运行量子计算\n本文链接",
+          "link": "https://news.cnblogs.com/n/743933/",
+          "publishedOn": "2023-06-15T01:02:16.000Z",
+          "wordCount": 163,
+          "title": "量子处理器在特定计算中无需纠错",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743932/",
+          "author": null,
+          "description": "IT 之家 6 月 14 日消息，在欧洲联盟 (EU) 因安全问题讨论禁止华为参与其 5G 基础设施项目后，英国《金融时报》称该欧盟正斥重金向这家中国公司寻求帮助，以布局下一代通讯技术。 据报道，华为正在参与欧盟旗舰研究和创新计划 Horizon Europe 的一部分，该计划共有 11 个项目，包\n本文链接",
+          "link": "https://news.cnblogs.com/n/743932/",
+          "publishedOn": "2023-06-15T00:17:42.000Z",
+          "wordCount": 163,
+          "title": "消息称华为正参与欧盟多项先进研发项目，涉及 AI、6G、云计算等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743931/",
+          "author": null,
+          "description": "全世界都在抢算力，中国大公司更急迫。 文丨张家豪 编辑丨程曼祺黄俊杰 2022 年下半年，生成式 AI 爆火的同时，硅谷著名风险资本 a16z 走访了数十家 AI 创业公司和大科技公司。他们发现，创业公司转手就把 80%-90% 的早期融资款送给了云计算平台，以训练自己的模型。他们估算，即便这些公司\n本文链接",
+          "link": "https://news.cnblogs.com/n/743931/",
+          "publishedOn": "2023-06-15T00:10:00.000Z",
+          "wordCount": 163,
+          "title": "争夺AI入场券：中国大公司竞逐 GPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743930/",
+          "author": null,
+          "description": "全新 ES6 发布了不到半个月，一直坚称不打价格战的蔚来，6 月 12 日突然官宣全系车起售价降价 3 万元。消息一出，引起行业热议。 根据蔚来官方发布的信息，调整后，ET5 的起售价降至 30 万元以下，官方指导价 29.8 万元起；若以 BaaS（租电模式）购买，价格下探到 22.8 万元起。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/743930/",
+          "publishedOn": "2023-06-15T00:05:23.000Z",
+          "wordCount": 163,
+          "title": "门店排队展车卖光？看懂蔚来降价的背后",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743929/",
+          "author": null,
+          "description": "①谷歌推出了一项新的服装虚拟“试穿”功能，可以让人们看到衣服穿在身上的具体效果； ②该服务将与 Anthropologie 和 Everlane 等零售商进行合作。 财联社 6 月 15 日讯（编辑牛占林）科技巨头谷歌正在将生成式人工智能技术引入购物领域，旨在抢在亚马逊等电子商务公司的前面，以重塑零\n本文链接",
+          "link": "https://news.cnblogs.com/n/743929/",
+          "publishedOn": "2023-06-15T00:03:26.000Z",
+          "wordCount": 163,
+          "title": "试图抢占先机！谷歌将生成式人工智能引入在线购物领域",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743928/",
+          "author": null,
+          "description": "每经记者：吴泽鹏 每经编辑：魏官红 员工离职后，其曾运营的“百万粉丝大号”究竟该归谁？ 近日，《每日经济新闻》记者了解到，就抖音百万粉丝账号“DJ 初仔小朋友”（后改名为 DJ 初仔大朋友，以下统称初仔号）的使用权归属问题，佛山人民广播电台（以下简称佛山电台）向广东省高级人民法院提出再审申请，继续向\n本文链接",
+          "link": "https://news.cnblogs.com/n/743928/",
+          "publishedOn": "2023-06-15T00:02:25.000Z",
+          "wordCount": 163,
+          "title": "离职员工与“老东家”走上法庭 “百万粉丝大号”归谁？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743927/",
+          "author": null,
+          "description": "球王来了，市场嗨了？ 作者张凯旌 编辑丨武丽娟 来源野马财经 “这就结束了？”6 月 14 日下午，守候在淘宝直播间等待梅西的球迷略显失望，他们中的很多人，可能还没来得及看上梅西一眼，直播就已经戛然而止。 按照原本点淘和遥望科技（002291.SZ）的宣传，梅西亮相直播间的时间是下午 6 点。作为唯\n本文链接",
+          "link": "https://news.cnblogs.com/n/743927/",
+          "publishedOn": "2023-06-15T00:01:02.000Z",
+          "wordCount": 163,
+          "title": "观看量仅300万！梅西淘宝首秀终成噱头？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743926/",
+          "author": null,
+          "description": "假若一切可以重来。 上世纪 90 年代中期，美国德克萨斯大学奥斯汀分校的科学家发现了一种名为磷酸铁锂(LFP)的化合物，几年后，位于马萨诸塞州沃特敦的初创公司 A123 Systems LLC（以下简称“A123”）将其商业化。目前，宁德时代和中国大多数电池公司都在使用磷酸铁锂作为动力电池正极材料。\n本文链接",
+          "link": "https://news.cnblogs.com/n/743926/",
+          "publishedOn": "2023-06-14T23:55:36.000Z",
+          "wordCount": 163,
+          "title": "这家电池公司本可以成为美国的“宁德时代”，为何半路夭折？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743925/",
+          "author": null,
+          "description": "6 月 13 日晚间，理想汽车 CEO 李想在微博发布长文谈“理想汽车的驱动力”。李想表示，我们核心的驱动力只有两个字：成长。“成长是两部分组成的闭环：一个是学习，一个是训练。” 李想称，2022 年三季度，问界 M7 的发布和操盘直接把理想 ONE 打残了，从来没遇到过这么强的对手，很长一段时间毫\n本文链接",
+          "link": "https://news.cnblogs.com/n/743925/",
+          "publishedOn": "2023-06-14T23:53:17.000Z",
+          "wordCount": 163,
+          "title": "李想发长文：理想汽车核心驱动力是“成长”，曾全面学习华为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743924/",
+          "author": null,
+          "description": "文｜思辨财经 每逢电商大促，市场和舆论中总会被一些似是而非的观点裹挟，一方面认同这是行业的一场狂欢，消费者或主动或被动投身于全行业所营造的节日气氛之中，这堪称零售行业大礼包；另一方面，总有观点认为低价策略会伤害商家利益，这又是一个用户和平台受益，商家利益受损的畸形市场行为。 又到每年的 618 大促\n本文链接",
+          "link": "https://news.cnblogs.com/n/743924/",
+          "publishedOn": "2023-06-14T23:45:00.000Z",
+          "wordCount": 163,
+          "title": "618大促，市场为何不认“老牌电商”了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743923/",
+          "author": null,
+          "description": "文｜20 社，作者罗立璇、贾阳，编辑 王晓玲 一向定位高端、标榜用服务来吸引车主的蔚来，也低头了。 6 月 12 日，蔚来宣布，全系新车起售价将下调 3 万元，首任车主用车权益也将调整。至少团队希望向外界表达的是，这是一个艰难的决定。被调侃“终于想起来微博密码”的创始人李斌发了一条微博表示，直到公布\n本文链接",
+          "link": "https://news.cnblogs.com/n/743923/",
+          "publishedOn": "2023-06-14T23:39:53.000Z",
+          "wordCount": 163,
+          "title": "蔚来能抛掉客户至上的包袱吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743922/",
+          "author": null,
+          "description": "文｜白鲸出海 “只要是你说的，我都会记得”，是出海 AI 社交应用 Paradot 的最大特点。 除了一直畅销但始终存在争议的的 Replika 和被网友戏称为女菩萨的 KOL AI 项目 AI Caryn 外，全球范围内，AI 社交可谓此起彼伏，但没有太大水花。 大家做 AI 社交基本上三个思路：\n本文链接",
+          "link": "https://news.cnblogs.com/n/743922/",
+          "publishedOn": "2023-06-14T23:34:00.000Z",
+          "wordCount": 163,
+          "title": "终于有了一款像样的出海AI社交App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743917/",
+          "author": null,
+          "description": "AI 模型的竞争还在继续，这次对准的也是 OpenAI，并且是以开源的方式直接与 OpenAI 竞争。 就在刚不久，来自欧洲的的 AI 创业公司 Mistral AI 正式宣布完成了 1.13 亿美金（1.05 亿欧元）的种子轮融资，估值为 2.6 亿美金。 此次融资离这家公司成立只有 4 周的时间\n本文链接",
+          "link": "https://news.cnblogs.com/n/743917/",
+          "publishedOn": "2023-06-14T23:28:23.000Z",
+          "wordCount": 163,
+          "title": "成立 4 周种子轮融 1.13亿美金，Mistral 要打造开源版 OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743921/",
+          "author": null,
+          "description": "文｜新摘商业评论，作者｜洛枳 本地生活的战事从未熄火。 有的进攻。背靠物流配送，京东试点同城外卖业务，天猫、盒马上线“即时配送”服务；以内容做杠杆，抖音深耕团购到店，快手上线本地生活小程序，小红书尝试种草拔草链路闭环，招募到店餐饮商家。 有的防守。美团上线“特价团购”并放在C位展示，进军同城团购配送\n本文链接",
+          "link": "https://news.cnblogs.com/n/743921/",
+          "publishedOn": "2023-06-14T14:31:32.000Z",
+          "wordCount": 163,
+          "title": "618前夕，视频号悄悄杀入本地生活",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743920/",
+          "author": null,
+          "description": "据科大讯飞官方消息，讯飞星火认知大模型再次迎来更新升级——iOS 内测版本正式上线。 至此，讯飞星火在国产大模型中抢先实现“PC、iOS、安卓、小程序与 H5”主流系统的全覆盖，并支持跨设备历史记录同步，使用户可在主流系统平台自由切换。 讯飞星火现已上线 App Store，已参与内测的用户可以手机\n本文链接",
+          "link": "https://news.cnblogs.com/n/743920/",
+          "publishedOn": "2023-06-14T14:28:07.000Z",
+          "wordCount": 163,
+          "title": "科大讯飞星火认知大模型iOS内测版本正式上线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743919/",
+          "author": null,
+          "description": "图片来源@视觉中国 文｜一刻商业，作者吴彤，编辑周烨 美团与商家间的矛盾，又一次爆发了。 5 月底，西北地区的餐饮品牌魏家凉皮，单方面将其在部分城市的门店主动从美团外卖下架了。 截至目前，双方都未公开回应下架原因。不过业界普遍猜测，魏家凉皮大规模从美团外卖下架，或与运营费用高企有直接关系。 有西安本\n本文链接",
+          "link": "https://news.cnblogs.com/n/743919/",
+          "publishedOn": "2023-06-14T13:30:00.000Z",
+          "wordCount": 163,
+          "title": "美团的焦虑，不该“魏家凉皮们”买单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743918/",
+          "author": null,
+          "description": "文｜雷科技 上一次 Reddit 出名，可能还是因为……ChatGPT 引发的热潮。 众所周知，训练 AI 语言模型的时候都需要大量的内容语料，其中 Reddit 论坛的用户对话内容普遍被视作高质量的语料库，经常被大规模免费抓取，用来训练 ChatGPT、Bard（Google）这类生成式 AI 聊\n本文链接",
+          "link": "https://news.cnblogs.com/n/743918/",
+          "publishedOn": "2023-06-14T13:25:00.000Z",
+          "wordCount": 163,
+          "title": "美国版贴吧Reddit被用户“爆吧”，全世界社区都没法活了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/743916/",
+          "author": null,
+          "description": "品玩 6 月 14 日讯，据 arxiv 上的一份论文显示，研究发现，用 AI 生成的结果训练 AI 将导致模型退化甚至是崩溃。 该研究项目由来自牛津、舰桥、伦敦大学等多所高校的研究人员共同参与，他们在研究中发现，由于每个模型生成的结果都具有一定的特点，因此用 AI 生成的模型训练 AI，随着时间的\n本文链接",
+          "link": "https://news.cnblogs.com/n/743916/",
+          "publishedOn": "2023-06-14T13:18:00.000Z",
+          "wordCount": 163,
+          "title": "用 AI 生成的结果训练 AI 将导致模型退化乃至崩溃",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/743838/",
           "author": null,
@@ -8880,76 +9060,6 @@
           "wordCount": 163,
           "title": "腾讯云宣布多款核心产品降价 最高降幅达40%",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741839/",
-          "author": null,
-          "description": "科技日报北京 5 月 15 日电 （记者张佳欣）从低碳水化合物到间歇性禁食，从手术到减肥神药，许多人似乎为了减肥而绞尽脑汁。虽然人们早就知道，限制食物摄入量可减缓包括人类在内的多种动物的衰老，但据发表在国际顶级期刊《科学》杂志的最新论文，美国密歇根大学的研究表明，可能饥饿感本身就足以减缓衰老。 以前\n本文链接",
-          "link": "https://news.cnblogs.com/n/741839/",
-          "publishedOn": "2023-05-16T00:55:23.000Z",
-          "wordCount": 163,
-          "title": "保持饥饿感足以延缓衰老",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741838/",
-          "author": null,
-          "description": "IT 之家 5 月 16 日消息，根据彭博社报道，苹果公司的市值已超过罗素 2000 指数（Russell 2000）总和两周时间，这是有记录以来最长的一次。 苹果公司的市值（根据其所有流通股的价值来衡量公司的价值）于今年 4 月 27 日超过罗素 2000 指数，总市值超过 1.19%。 由于苹果\n本文链接",
-          "link": "https://news.cnblogs.com/n/741838/",
-          "publishedOn": "2023-05-16T00:15:29.000Z",
-          "wordCount": 163,
-          "title": "苹果新里程碑：市值超罗素2000指数总和1000亿美元，已持续2周时间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741837/",
-          "author": null,
-          "description": "新浪科技讯，北京时间 5 月 16 日早间消息，据报道，亚马逊将为电商增加类似 ChatGPT 的产品搜索。据悉，微软与谷歌也在为搜索引擎增加生成式 AI 功能，亚马逊肯定不甘落后。 最近亚马逊公布新招聘信息，当中有一条招募的是高级软件开发工程师，亚马逊想用会话式体验重塑搜索，通过会话式功能回答用户\n本文链接",
-          "link": "https://news.cnblogs.com/n/741837/",
-          "publishedOn": "2023-05-16T00:11:34.000Z",
-          "wordCount": 163,
-          "title": "招聘信息暗藏玄机？亚马逊准备增加类ChatGPT电商搜索",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741836/",
-          "author": null,
-          "description": "新浪科技讯，北京时间 5 月 16 日早间消息，据报道，知情人士透露，埃隆·马斯克已为他的 SpaceX 公司聘请前美国宇航局（NASA）载人航天主管凯西·吕德斯(Kathy Lueders)负责监督“星舰”(Starship)的开发工作。 吕德斯是近年来第二位退休后加入 SpaceX 的前 NAS\n本文链接",
-          "link": "https://news.cnblogs.com/n/741836/",
-          "publishedOn": "2023-05-16T00:10:09.000Z",
-          "wordCount": 163,
-          "title": "SpaceX聘请前NASA载人航天主管：负责监督星舰开发工作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741835/",
-          "author": null,
-          "description": "作为国内芯片设计行业最受关注的后起之秀，OPPO 旗下的哲库用一种最决绝的方式和所有人说再见了。 有关哲库解散的原因，过去一个周末已经被讨论太多次了：智能手机市场整体萎缩加重了 OPPO 的经营压力；哲库自研 SoC 流片尚未完成，能否成功尚是未知之数；即便流片成功，也难保会遇到华为海思一样的不可抗\n本文链接",
-          "link": "https://news.cnblogs.com/n/741835/",
-          "publishedOn": "2023-05-15T23:46:55.000Z",
-          "wordCount": 163,
-          "title": "OPPO哲库解散余震未消：小米vivo荣耀们还能撑多久？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741834/",
-          "author": null,
-          "description": "文丨祝颖丽 编辑丨高洪浩 《晚点 LatePost》独家获悉，阿里集团近期对集团的技术、财务、人力资源、市场等中台业务进行了一轮调整分流。 阿里中台分技术中台和组织中台。技术中台主要是用于提升开发效率，降低开发成本；组织中台则将各职能型业务收归集团。 在这次调整中，承担 “技术中台” 作用的 CTO\n本文链接",
-          "link": "https://news.cnblogs.com/n/741834/",
-          "publishedOn": "2023-05-15T23:43:16.000Z",
-          "wordCount": 163,
-          "title": "运行八年后，阿里中台被彻底分拆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/741833/",
-          "author": null,
-          "description": "IT 之家 5 月 16 日消息，The Information 援引一位知情人士的话说，OpenAI 正准备向公众发布一款新的开源语言模型。报告称，OpenAI 不太可能发布与 GPT 竞争的模型。该公司没有立即回应置评请求。 图源 Pexels 相信大家或多或少听说过，自从去年年底以来，Open\n本文链接",
-          "link": "https://news.cnblogs.com/n/741833/",
-          "publishedOn": "2023-05-15T23:23:52.000Z",
-          "wordCount": 163,
-          "title": "消息称 OpenAI 正在准备新的开源 AI 模型",
-          "imageUrl": null
         }
       ]
     },
@@ -8997,26 +9107,6 @@
           "wordCount": 631,
           "title": "老司机 iOS 周报 #245 | 2023-05-22",
           "imageUrl": "https://opengraph.githubassets.com/2a7defae15ea31c75e5cac5d2dc98184b58ae799d4f9af08a25eec3f1ab12a1c/SwiftOldDriver/iOS-Weekly/releases/tag/%23245"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23244",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nGitHub 的 Code Scanning 正式提供 Swift 的支持\nGitHub 的 Code Scanning 会扫描和索引项目的 Dependency 信息，并且提供：\nDependency Graph。\n\n这意味着开发者可以在 GitHub 上看到有哪些项目依赖了自己的 Swift 库。\n可以使用 Dependabot，在依赖库更新时，自动提交 Pull Request 更新依赖库版本。\n安全漏洞警告。如果一个代码库出现安全漏洞时，它可以在发布修复版本后使用 GitHub 内建的功能进行记录，此时 GitHub 就会通知所有依赖了这个库的下游项目，并且自动提交 Pull Request 将依赖更新到已修复的版本。\n增强全球定价机制 基准调整引发涨价\n苹果在 3 月时就公告会进行 增强全球定价机制 的调整，老司机技术也提醒过大家，希望大家都可以提前根据需要选择合适的基准。5 月 9 日凌晨已准时上线，但开发者们发现虽然已经提前将基准设置为了中国大陆，但却依旧有概率 被 涨价，例如：原本设置为 6 元的 IAP 物品变成了 8 元。问题在上午 10 点左右陆续恢复，部分开发者早上一醒来收到部分付费用户的投诉只能含泪处理了～\n文章\n🐢 🌟 用 VSCode 基于 Bazel 打造 Apple 生态开发环境\n@Cooper Chen：如何优化编译开发体验一直是开发者老生常谈的问题，而 Xcode 作为 Apple 开发者必须要使用的工具，其相对封闭的生态环境，让大多数开发者对它的编译优化都常常感到捉襟见肘。哔哩哔哩作为国内较早尝试 Bazel 作为 iOS 主力编译系统的团队，针对这…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23244",
-          "publishedOn": "2023-05-16T05:18:44.000Z",
-          "wordCount": 657,
-          "title": "老司机 iOS 周报 #244 | 2023-05-15",
-          "imageUrl": "https://opengraph.githubassets.com/6bce1ed7f08ee014238ee616d0d240b557710549eb414aa31c6bbab0f0f513e5/SwiftOldDriver/iOS-Weekly/releases/tag/%23244"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23243",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nFoundation Package 预览版发布\n@kemchenj：去年周报曾经提到 Foundation 将使用 Swift 重新实现，近日 Swift 开发团队发布了预览版，日期相关的功能性能对比当前版本的 Foundation 提升 20%-150%，而 JSONDecoder/JSONEncoder 的性能提升甚至达到 200%-500%。\n2023 年上半年会继续集中在核心 API 的实现和测试的补齐，下半年则会集中在导入现有的 Foundation API，例如 URL/Bundle 等，并且过程中也允许通过提案加入小部份全新的 API。\n一句话总结，Swift is the new Foundation。\n文章\n🐕 心遇 iOS 端会话页性能优化 — ReactiveObjC 实践篇\n@享耳先森：ReactiveObjC 是 Objective-C 下的响应式编程框架，可以将各种通知、代理等转换成事件流进行分发，Swift 下有 RxSwift 及 Combine。本文介绍了「心遇」团队如何使用 ReactiveObjC 解决项目中逻辑分散的问题。\nTips: 开发者们在上手  RAC 类库前建议先评估学习曲线及维护、调试问题。\n🐕 Notifications: why less is more — how Facebook has been increasing both user satisfaction and app usage by sending only a few notifications：\n@含笑饮砒霜：Facebook 的通知数据科学团队的成员，针对用…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23243",
-          "publishedOn": "2023-05-16T05:18:26.000Z",
-          "wordCount": 694,
-          "title": "老司机 iOS 周报 #243 | 2023-05-08",
-          "imageUrl": "https://opengraph.githubassets.com/448a476287207fdfa3724cd5c8d23ddc7ff63422fae326b160a22f5a9128da60/SwiftOldDriver/iOS-Weekly/releases/tag/%23243"
         }
       ]
     }
