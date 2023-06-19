@@ -805,6 +805,36 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=75277",
+          "author": null,
+          "description": "勒索组织 BlackCat 声称入侵了 Reddit 窃取到 80GB 的压缩数据。BlackCat 称入侵时间是在今年 2 月 5 日，它向 Reddit 发送了两次勒索邮件，一次是 4 月 13 日，一次是 6 月 16 日，要求 Reddit 支付 450 万美元赎金以交换他们秘密删除数据。BlackCat 称如果它不得不公开赎金要求，那么除了 450 万美元外它还要求 Reddit 撤回 API 价格变更。显然  Reddit 不太可能同意他们的要求。BlackCat 表示它准备公开其窃取到的数据。",
+          "link": "https://www.solidot.org/story?sid=75277",
+          "publishedOn": "2023-06-18T14:20:05.000Z",
+          "wordCount": 189,
+          "title": "BlackCat 声称入侵了 Reddit 窃取了数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75276",
+          "author": null,
+          "description": "为小企业提供商贷服务的 Clarify Capital 公司邀请了 250 名投资者和 250 名企业主对一组由人类创造和 GPT-4 生成的商业计划书进行评分，他们没有被告知有 AI 参与撰写。更有意思的是，人类撰写的计划书来自于获得融资的成功案例。结果显示 GPT-4 生成的商业计划书比人类更有效，被认为在质量、关键要素描述和问题描述上胜过人类。调查显示，在投资者和企业主阅读了 GPT-4 的计划书之后，投资可能性为人类的三倍，他们认为 AI 生成计划书的说服力是人类的两倍。五分之一人表示，他们会对 AI 生成计划书多投资 1 万美元。",
+          "link": "https://www.solidot.org/story?sid=75276",
+          "publishedOn": "2023-06-18T10:14:54.000Z",
+          "wordCount": 166,
+          "title": "GPT-4 生成的商业计划书更受投资者青睐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75275",
+          "author": null,
+          "description": "微软本周二例行安全更新释出的累积补丁 Windows 11 22H2 KB5027231 被发现会导致 Chrome 浏览器与用户安装的安全软件发生冲突而无法启动。与 Chrome 发生冲突的安全软件包括 Malwarebytes、思科的 Secure Endpoint 和 WatchGuard 的 Endpoint Security 等。用户点击 Chrome 图标之后浏览器进程在运行，但由于冲突浏览器无法完全启动界面无法加载。一位系统管理员称，他们在数千台计算机上部署了 Secure Endpoint 8.1.7，早上收到大量报告称在尝试打开 Chrome 后浏览器没有显示在界面上。通过试错，杀死 Secure Endpoint 进程或卸载 Secure Endpoint 后浏览器能正常启动。WatchGuard 和 Malwarebytes 都报告了类似的现象。",
+          "link": "https://www.solidot.org/story?sid=75275",
+          "publishedOn": "2023-06-18T09:06:29.000Z",
+          "wordCount": 191,
+          "title": "Windows 11 更新导致 Chrome 无法启动",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=75274",
           "author": null,
           "description": "欧盟议会议员以 587 票赞成、9 票反对和 20 票弃权通过了改革欧盟电池和废电池规则的协议。新的电池规则将涵盖电动汽车电池、消费者设备的便捷式电池和工业电池等等。对于智能手机等消费设备使用的电池，新规定将要求电池易于拆卸和更换。今天绝大部分智能手机电池都是固定的，而十几年前的电池是可以自行更换的。欧盟的新规定可能有助于恢复旧的方式，延长设备的使用时间。",
@@ -3453,36 +3483,6 @@
           "wordCount": 171,
           "title": "起亚和现代同意支付 2 亿美元和解偷车案",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75006",
-          "author": null,
-          "description": "丹麦的两位研究人员在《科学》期刊上发表综述，谈论了接吻的历史。有两种类型的吻，一种是表达友好亲密的 parental kiss，另一种是与性有关的 sexual kiss。parental kiss 在所有文化中都存在，但 sexual kiss 并非如此，此类的吻往往存在于阶级社会中。近期的研究认为已知最早的 sexual kiss 记录来自青铜时代的印度，时间大约是在公元前 1500 年左右。但这一结论并非定论。至少从公元前 2500 年起，古代美索不达米亚和古埃及都有亲吻的记录。sexual kiss 不是突然出现的，它存在于多种文化中。研究认为，sexual kiss 的目的之一是通过唾液或呼吸中的化学线索去评估潜在伴侣的适配性，调配情绪，促进性唤起和性关系。此类的吻也在其它灵长类动物中观察到，其中最著名的可能是倭黑猩猩。古代美索不达米亚人使用的苏美尔语文献中，吻与性有关，亲吻的目标是嘴。美索不达米亚人的另一种语言阿卡德语中吻有两类，一种是表达顺从或尊重，亲吻的目标是脚或地面；另一种与性有关，目标也是嘴。亲吻除了对社交和性行为具重要性之外，还可能对疾病传播产生了意料之外的次生性影响。如今常见的通过接吻传播的病原体存在于古史甚至史前时期。",
-          "link": "https://www.solidot.org/story?sid=75006",
-          "publishedOn": "2023-05-20T13:16:44.000Z",
-          "wordCount": 162,
-          "title": "接吻的古代史",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75005",
-          "author": null,
-          "description": "Twitter 致函微软，称后者“似乎将 Twitter API 用在了未经授权的用途和目的上”。Twitter 的老板马斯克(Elon Musk)此前曾多次公开指责这家软件巨头。律师在这封信中说：“微软可能在很长一段时间里违反了协议中的多项规定，”信中指出，多年来，微软在部分产品中免费使用 Twitter 的标准开发者 API。微软上个月拒绝为继续使 用Twitter API 付费。Twitter 要求微软披露过去两年使用 Twitter API 的相关情况，包括微软目前掌握哪些 Twitter 内容，以及微软是如何使用 Twitter API 的。微软的一位代表证实该公司已收到这封信函，表示将进行评估并作出适当答复。",
-          "link": "https://www.solidot.org/story?sid=75005",
-          "publishedOn": "2023-05-19T15:55:49.000Z",
-          "wordCount": 173,
-          "title": "Twitter 指微软不当使用其 API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75004",
-          "author": null,
-          "description": "湖泊占到了全球陆地面积的 3%，它对人类及整个生态系统至关重要。湖泊储存了地球表面 87% 的液态淡水。研究人员利用过去三十年（1992–2020年）的卫星观测数据，发现 53% 的大型湖泊蓄水量出现了统计显著的下降。导致自然湖泊蓄水减少的原因包括了气候变化、蒸发量的增加和人类水消耗。人工水库的蓄水减少则主要是沉积作用。中国最大淡水湖鄱阳湖蓄水减少的原因可能是三峡水库或气候变化。研究人员称，全球二十亿人口生活在湖泊逐渐干枯的地区，在水资源管理中需要考虑气候或沉积的影响。",
-          "link": "https://www.solidot.org/story?sid=75004",
-          "publishedOn": "2023-05-19T15:38:24.000Z",
-          "wordCount": 146,
-          "title": "卫星观测显示全球湖水蓄水量大规模减少",
-          "imageUrl": null
         }
       ]
     },
@@ -3491,6 +3491,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/744149/",
+          "author": null,
+          "description": "新智元报道 编辑：拉燕 【新智元导读】养成系 AI 社群爆火！ 最近，一个全是由「AI 用户」组成的社群火了。 就好像一款养成系游戏一样，只不过游戏中的人物并不需要我们来控制。 我们需要做的，就是输入姓名和一段性格介绍。 剩下的内容都交给 AI 发挥就好了，他们会自己发帖、交谈、沟通。 这个社群就是\n本文链接",
+          "link": "https://news.cnblogs.com/n/744149/",
+          "publishedOn": "2023-06-19T01:14:00.000Z",
+          "wordCount": 163,
+          "title": "人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744148/",
+          "author": null,
+          "description": "新浪科技讯，北京时间 6 月 19 日早间消息，当地时间上周五，亚马逊公司证实今年不举办关于机器人和太空等尖端技术的 re:MARS 会议，将把这些主题纳入其现有的亚马逊网络服务活动阵容中。 亚马逊于 2019 年推出了 re:MARS，由亚马逊创始人兼执行董事长杰夫·贝索斯主持。 MARS 来自于\n本文链接",
+          "link": "https://news.cnblogs.com/n/744148/",
+          "publishedOn": "2023-06-19T01:12:35.000Z",
+          "wordCount": 163,
+          "title": "亚马逊确认今年不再专门举办re：MARS人工智能大会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744147/",
+          "author": null,
+          "description": "科技日报讯 （记者张梦然）光合生物可将光能转化为生命所需的化学能。6 月 14 日发表在《自然》杂志上的一项研究，揭示了这种有机化学反应对单个光子很敏感。这一发现巩固了科学家对光合作用的理解，有助于回答有关生命如何在量子物理学和生物学相遇的最小尺度上运作的问题。 研究人员建立了一个光子源，通过“自发\n本文链接",
+          "link": "https://news.cnblogs.com/n/744147/",
+          "publishedOn": "2023-06-19T00:40:01.000Z",
+          "wordCount": 163,
+          "title": "光合作用始于单个光子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744146/",
+          "author": null,
+          "description": "科技日报讯 （记者张佳欣）当地时间 6 月 15 日，在芝加哥举行的 2023 年美国内分泌学会年会上，纽约大学朗格尼健康中心公布的研究显示，作为间歇性禁食的一种形式，早段限时饮食（eTRF）可改善血糖水平的波动，并减少血糖高于正常水平的时间。研究首次确定，这些改善与体重减轻无关，也就是说，即使没有\n本文链接",
+          "link": "https://news.cnblogs.com/n/744146/",
+          "publishedOn": "2023-06-19T00:38:12.000Z",
+          "wordCount": 163,
+          "title": "早段限时饮食可改善代谢健康",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744145/",
+          "author": null,
+          "description": "尚恩发自凹非寺 量子位公众号 QbitAI 你敢信，一份由 AI 写的融资企划书，竟然引发 VC 疯狂追捧！ 甚至有 VC 投资人当场承诺，愿意给这份由 GPT-4 生成的企划书直接投资。 又一个用 GPT 赚钱的小技能，Get。 对此咱真不得不感叹一句：好家伙！ 网友惊呼：这就是未来。 但也有网友\n本文链接",
+          "link": "https://news.cnblogs.com/n/744145/",
+          "publishedOn": "2023-06-18T18:22:00.000Z",
+          "wordCount": 163,
+          "title": "GPT-4比人类更懂融资！AI企划书让VC疯狂打call",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744144/",
+          "author": null,
+          "description": "金磊发自凹非寺 量子位公众号 QbitAI 结构生物学家颜宁，新论文突然上线了 Nature 子刊。 而且颜宁本人在得知此事之后也是有些意外：立马把 citation 从 in press 改成了页码。 然后颜宁对这篇给出了这样两句评价：文章中任何一个结构都是AI 无能为力的。 其实本不想发表…… \n本文链接",
+          "link": "https://news.cnblogs.com/n/744144/",
+          "publishedOn": "2023-06-18T18:15:00.000Z",
+          "wordCount": 163,
+          "title": "颜宁新论文突然上线Nature子刊：结构是AI无能为力的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744143/",
+          "author": null,
+          "description": "6 月 18 日消息，今年 3 月，埃隆·马斯克(Elon Musk)呼吁暂停开发人工智能技术，并与几百名科技界知名人士一同签署了公开信，提醒人们警惕先进人工智能可能带来的危险，在业内引起轰动。 马斯克近日透露，起先自己也不认为有人会真的响应这一号召。 马斯克在法国 VivaTech 科技峰会上表示\n本文链接",
+          "link": "https://news.cnblogs.com/n/744143/",
+          "publishedOn": "2023-06-18T18:09:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克：没人会真暂停开发AI ，呼吁只是为提醒大家注意",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744142/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 润 在 3 月份 GPT-4 正式发布的时候，陶哲轩作为数学领域的专家获得了提前体验的机会。当他使用了一段时间之后写下了一篇文章，认为 AI 技术将彻底改变学术界。 3 个月前，OpenAI 的 GPT-4 在万众瞩目中登场，多模态功能震惊了人类，在各大考试中取得高分\n本文链接",
+          "link": "https://news.cnblogs.com/n/744142/",
+          "publishedOn": "2023-06-18T18:00:00.000Z",
+          "wordCount": 163,
+          "title": "陶哲轩：2026年GPT帮我合著数学论文！提前试用「完全版」GPT-4，大受震撼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744141/",
+          "author": null,
+          "description": "据蓝鲸财经，6 月 17 日下午，2023 阿里巴巴全球数学竞赛决赛开赛，阿里巴巴创始人马云来到杭州现场观赛。 今年来自全球 19 个国家的 685 位选手，从 5 万多名参赛者中脱颖而出，晋级时长 8 小时的终极对决。 开赛前，马云来到杭州现场观赛，了解决赛情况，并与参赛选手、命题老师在线交流，畅\n本文链接",
+          "link": "https://news.cnblogs.com/n/744141/",
+          "publishedOn": "2023-06-18T17:50:00.000Z",
+          "wordCount": 163,
+          "title": "马云从东京教书回来了！现身杭州围观阿里数学竞赛，与参赛选手、命题老师畅谈数学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744140/",
+          "author": null,
+          "description": "6 月 18 日消息，淘天集团发布的数据显示，今年 618 期间，每天在淘宝发布短视频的商家数增长了 55%，达人增长了 200%；淘宝上短视频的日均观看用户数增长了 113%，浏览量和观看时长也相应实现翻倍增长。 淘天集团阿里妈妈及市场公关总裁刘博表示，用户愿意在淘宝上花更多的时间去逛，是对淘天今\n本文链接",
+          "link": "https://news.cnblogs.com/n/744140/",
+          "publishedOn": "2023-06-18T17:45:00.000Z",
+          "wordCount": 163,
+          "title": "淘宝天猫618最新数据：256万中小商家成交超去年 305个品牌过亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744139/",
+          "author": null,
+          "description": "又一家造车新势力陷入困境，被申请破产重整。 6 月 14 日，拜腾汽车两家关联公司新增被法院立案破产清算事项。在相关裁定书中，尽管两公司辩称拜腾汽车仍旧有“救活”的希望，但法院认为债权人权益已多年得不到保障，决定立案。 作为国内造车新势力的代表之一，拜腾汽车的起点并不算低，曾跟蔚来、小鹏、威马并列称\n本文链接",
+          "link": "https://news.cnblogs.com/n/744139/",
+          "publishedOn": "2023-06-18T17:40:00.000Z",
+          "wordCount": 163,
+          "title": "又一新能源车企被申请破产，曾与蔚来小鹏等并称“四小龙”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744138/",
+          "author": null,
+          "description": "编译程茜 编辑云鹏 智东西 6 月 16 日消息，今天凌晨，据外媒 The Information 报道，Meta CEO 马克·扎克伯格（Mark Zuckerberg）正在考虑将开源大型语言模型 LLaMA 的新版本商业化，让其它公司免费使用 LLaMA 开发相关 AI 软件，并允许开发者将这些\n本文链接",
+          "link": "https://news.cnblogs.com/n/744138/",
+          "publishedOn": "2023-06-18T17:32:00.000Z",
+          "wordCount": 163,
+          "title": "Meta生成式AI竞赛下一站：让开发者靠开源大模型挣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744135/",
+          "author": null,
+          "description": "传闻已久的极兔速递 IPO 终于靴子落地。 6 月 16 日晚间，极兔速递（简称“极兔”）正式提交香港 IPO 申请，上市联席保荐人为摩根士丹利、美银及中金公司。公司计划募集 5 亿-10 亿美元。股权为 AB 结构，创始人李杰持有 9.79 亿股A类股。有业内人士透露，极兔预期将在“双十一”前后正\n本文链接",
+          "link": "https://news.cnblogs.com/n/744135/",
+          "publishedOn": "2023-06-18T17:25:00.000Z",
+          "wordCount": 163,
+          "title": "极兔拟赴港IPO！募资或不超10亿美元，腾讯、高瓴、红杉均为重要股东",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744134/",
+          "author": null,
+          "description": "提到国外的生成式 AI 大模型，文本生成领域有 ChatGPT，图像生成领域有 Midjourney 和 Stable Diffusion，那么视频生成领域有什么？ 很多人第一个会想到 Runway 公司的 Gen-1。 Gen-1 是 Runway 在今年 2 月推出的一款（也是该公司的第一款）由\n本文链接",
+          "link": "https://news.cnblogs.com/n/744134/",
+          "publishedOn": "2023-06-18T17:20:00.000Z",
+          "wordCount": 163,
+          "title": "视频版Midjourney Runway又进化了：一句话生成视频",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744137/",
+          "author": null,
+          "description": "华为曾经多次强调不造车，只提供技术支持，已经成为业界共识，但还有汽车销售公司蹭“华为汽车”热点营销，结果导致被罚。 6 月 18 日消息，河南平顶山合众汇赢汽车销售服务有限公司近日因发布虚假广告，被平顶山市市场监督管理局罚款 3.5 万余元，原因是使用“华为汽车”广告用语宣传问界 M5 汽车。 处罚\n本文链接",
+          "link": "https://news.cnblogs.com/n/744137/",
+          "publishedOn": "2023-06-18T17:18:00.000Z",
+          "wordCount": 163,
+          "title": "华为真的不造车 一4S店用“华为汽车”宣传被罚3.5万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744136/",
+          "author": null,
+          "description": "IT 之家 6 月 18 日消息，据路透社报道，6 月 16 日，亿万富翁企业家埃隆・马斯克（Elon Musk）在法国巴黎的 VivaTech 活动上表示，他的脑机接口创业公司 Neuralink 计划今年进行首例人体试验。马斯克说，Neuralink 打算在一名四肢瘫痪或截肢的患者身上植入一个设\n本文链接",
+          "link": "https://news.cnblogs.com/n/744136/",
+          "publishedOn": "2023-06-18T17:10:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克：Neuralink今年将进行脑机接口植入人体的首例试验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744133/",
+          "author": null,
+          "description": "「核心提示」 这一次，中小商家还是“局外人”吗？ 作者 陈法善 编辑 刘杨 虽然今年 618 电商大促还没结束，但从消费者和商家的反馈来看，这次“史上投入最大的 618”，多少有些冰火两重天。 一边是平台重金砸补贴，卷谁“投入最大”，谁是“全网最低价”，一边是消费者的消费热情，已经不再如当年那般狂热\n本文链接",
+          "link": "https://news.cnblogs.com/n/744133/",
+          "publishedOn": "2023-06-18T17:00:00.000Z",
+          "wordCount": 163,
+          "title": "「最卷618」，中小商家如何破局？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744132/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 润 这个「人类还是 AI?」的游戏一经推出，就被广大网友们玩疯了！如今全世界已有 150 万人参与，网友们大方分享自己鉴 AI 的秘诀。 历上规模最大的图灵测试，已经初步有结果了！ 今年 4 月中旬，AI 21 实验室推出了一个好玩的社交图灵游戏——「人类还是机器人？\n本文链接",
+          "link": "https://news.cnblogs.com/n/744132/",
+          "publishedOn": "2023-06-18T16:50:00.000Z",
+          "wordCount": 163,
+          "title": "史上最大图灵测试实验完成！150万人类参与1000万次对话，判断对面是人还是AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744131/",
+          "author": null,
+          "description": "6 月 18 日消息，埃隆·马斯克（Elon Musk）在法国巴黎参加 VivaTech 大会时表示，他收购推特是因为这个社交网络对公民社会产生了“腐蚀性影响”，而他希望改善这种影响。 在 VivaTech 大会上，马斯克在约 4000 名与会者面前发表了演讲。他说：“我的希望改变推特，让它对文明产\n本文链接",
+          "link": "https://news.cnblogs.com/n/744131/",
+          "publishedOn": "2023-06-18T16:37:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克：推特已对社会产生腐蚀性影响，我要改变它",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744130/",
+          "author": null,
+          "description": "蓝山什么的随便搞，我们根本就不在意。理想董事长李想确实有底气说出这句话。 在刚刚过去的 2023 年第 24 周（6.05-6.11），理想汽车的周销量再创新高，达到了 0.84 万辆，超过了榜单中第二、三、四名的销量总和，截至 6 月 11 日，理想汽车本月销量已达 1.19 万辆。 不仅如此，理\n本文链接",
+          "link": "https://news.cnblogs.com/n/744130/",
+          "publishedOn": "2023-06-18T16:30:00.000Z",
+          "wordCount": 163,
+          "title": "理想纯电新车定名MEGA，定位超50万元，还把「ChatGPT」搬进了车里",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/744113/",
           "author": null,
@@ -8669,206 +8869,6 @@
           "publishedOn": "2023-05-21T00:00:00.000Z",
           "wordCount": 163,
           "title": "菜鸟万霖全员信回应上市：加快能力建设 建设全球领先数智物流集团",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742173/",
-          "author": null,
-          "description": "界面新闻记者丁晶晶 5 月 18 日，图森未来（以下简称“图森”）发布重组其在美国业务的公告。公告称，计划裁减约 300 名员工，占图森全球员工的 30％。 图森是一家重卡自动驾驶公司，由侯晓迪和陈默于 2015 年共同创立。2021 年 4 月，图森在美国纳斯达克上市，成为“卡车自动驾驶第一股”。\n本文链接",
-          "link": "https://news.cnblogs.com/n/742173/",
-          "publishedOn": "2023-05-20T12:28:00.000Z",
-          "wordCount": 163,
-          "title": "“自动驾驶第一股”图森未来裁员30％，上市至今股价跌去近98%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742172/",
-          "author": null,
-          "description": "阿里巴巴 2023 年一季报电子版有 44 页，比去年同期少 4 页，但今年的信息量比往年大太多了。阿里公布了所有子集团的董事会名单和部分子集团的融资计划。 略出乎意料的是阿里巴巴董事局主席兼 CEO 张勇只出现在云智能集团董事会里。作为对比，已经不是阿里合伙人的蒋凡是淘天、国际数字和菜鸟的董事；1\n本文链接",
-          "link": "https://news.cnblogs.com/n/742172/",
-          "publishedOn": "2023-05-20T12:20:00.000Z",
-          "wordCount": 163,
-          "title": "阿里公布若干重要任命，张勇时代结束了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742171/",
-          "author": null,
-          "description": "“向上捅破天，向下扎到根！”华为再次面向全球招募天才少年，让无数人直呼“羡慕”！ 5 月 19 日，华为招聘官微发布消息：华为面向全球招募“天才少年”，华为称渴求有能力、有意愿挑战世界级难题的“天才少年”。 要求不限学历、不限学校。在数学、物理、化学、材料、计算机、智能制造等相关领域有特别建树并有志\n本文链接",
-          "link": "https://news.cnblogs.com/n/742171/",
-          "publishedOn": "2023-05-20T12:10:00.000Z",
-          "wordCount": 163,
-          "title": "华为再招“天才少年”！不限学历、学校，薪酬5+倍！任正非、孟晚舟这样说……",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742170/",
-          "author": null,
-          "description": "5 月 19 日消息，过去一年，社交媒体巨头 Meta 致力于削减成本和裁员，但更新基础设施的花费却创下了纪录，这是为了在 AI 竞赛中保持领先地位。 当地时间周四，Meta 发布了一系列新技术，这包括一种新的定制芯片，能够帮助更快地训练 AI，以及一款编程工具，可为程序员提供开发产品的建议。此外，\n本文链接",
-          "link": "https://news.cnblogs.com/n/742170/",
-          "publishedOn": "2023-05-20T12:00:00.000Z",
-          "wordCount": 163,
-          "title": "公布全新定制芯片，Meta豪赌AI，更新基础设施花费创纪录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742169/",
-          "author": null,
-          "description": "IC 图 花费 68800 元购买世纪佳缘的“婚保服务”后，广州的陈女士（化姓）经红娘介绍先后与 13 名男士见面，但均无结果，而此后世纪佳缘以合同结束为由不再为她介绍相亲对象。陈女士认为受到欺骗，遂起诉世纪佳缘在广州的分公司，请求法院撤销案涉合同，并提出三倍服务费的索赔请求。 广州天河区法院一审审\n本文链接",
-          "link": "https://news.cnblogs.com/n/742169/",
-          "publishedOn": "2023-05-20T11:50:00.000Z",
-          "wordCount": 163,
-          "title": "女子购世纪佳缘高价服务相亲未成后索赔，二审维持“有诱导、退1万”判决",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742168/",
-          "author": null,
-          "description": "2019 年 12 月 14 日，年仅 33 岁的康奈尔大学助理教授林松凭借在电化学领域的一系列成果荣获《麻省理工科技评论》中国区“35 岁以下科技创新 35 人”奖项。他通过利用电化学替代传统的药物合成途径，发现了被誉为“过去十年最有价值反应”的突破。 林松 电化学是一门研究电子和离子导体形成的带\n本文链接",
-          "link": "https://news.cnblogs.com/n/742168/",
-          "publishedOn": "2023-05-20T11:40:00.000Z",
-          "wordCount": 163,
-          "title": "85后青年学者，不到半年连发2篇Nature、Science正刊，其成果被誉为“过去十年最有价值反应”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742167/",
-          "author": null,
-          "description": "IT 之家 5 月 20 日消息，恰逢 520（谐音“我爱你”），微信同往年一样将个人红包的限额从 200 元提升至 520 元，仅限单天。 微信每逢 520、情人节等特殊节点，都会开放 520 元红包，这个老传统一直延续了 7 年有余。 IT 之家温馨提示： “520/1314”这类代表特殊意义的\n本文链接",
-          "link": "https://news.cnblogs.com/n/742167/",
-          "publishedOn": "2023-05-20T11:30:00.000Z",
-          "wordCount": 163,
-          "title": "微信开放 520 元红包，仅限今天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742166/",
-          "author": null,
-          "description": "钛媒体 App 5 月 20 日消息，Instagram 正计划推出一款基于文本的应用，将与推特展开竞争。根据知情人士透露，该公司目前正在与知名人士和网红合作，对该项目进行测试。其中一位知情人士表示，该产品几个月来一直秘密地供特定创作者使用。 在加州大学洛杉矶分校(UCLA)教授社交和网红营销相关课\n本文链接",
-          "link": "https://news.cnblogs.com/n/742166/",
-          "publishedOn": "2023-05-20T11:20:00.000Z",
-          "wordCount": 163,
-          "title": "Meta旗下Instagram准备在夏季推出与推特竞争的新产品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742165/",
-          "author": null,
-          "description": "5 月 19 日晚，有媒体报道称，从多个独立信源证实，格力电器已解散手机核心团队。“后面应该不会再做手机了。” 《每日经济新闻》记者就此消息向格力电器求证。5 月 19 日晚 10 时许，格力电器（000651.SZ，股价 34.82 元，市值 1960.86 亿元）相关人士向记者发来回应称，格力手\n本文链接",
-          "link": "https://news.cnblogs.com/n/742165/",
-          "publishedOn": "2023-05-20T11:10:00.000Z",
-          "wordCount": 163,
-          "title": "格力手机核心团队已解散？格力电器回应称研发还在持续进行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742164/",
-          "author": null,
-          "description": "视觉中国资料图 在官宣组织改革后不到两个月，5 月 18 日晚，阿里巴巴集团（NYSE：BABA，09988.HK）直接抛出了一份子板块的“上市时间表”——阿里云在未来 12 个月分拆独立走向上市，菜鸟和盒马一年半内完成上市，国际数字商业集团启动外部融资。 庞大的阿里巴巴启动“瘦身”，对阿里股价有多\n本文链接",
-          "link": "https://news.cnblogs.com/n/742164/",
-          "publishedOn": "2023-05-20T11:00:00.000Z",
-          "wordCount": 163,
-          "title": "大分拆下的阿里：中台、股票和新董事会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742163/",
-          "author": null,
-          "description": "文游戏价值论 5 月 18 日，有网友发现米哈游注册了「原神赛事」这一官方账号，目前该账号已经通过了哔哩哔哩的官方认证。 由于近期《原神》在 3.7 版本大规模更新了内置常驻玩法「七圣召唤」，因此有猜测米哈游也许是想做七圣召唤相关的电竞赛事。 相关信息显示，「七圣召唤」是《原神》内置的常驻玩法，一款\n本文链接",
-          "link": "https://news.cnblogs.com/n/742163/",
-          "publishedOn": "2023-05-20T10:49:00.000Z",
-          "wordCount": 163,
-          "title": "原神做电竞，米哈游杀入腾讯腹地？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742145/",
-          "author": null,
-          "description": "搜索引擎、小程序、应用 App，未来或许都不需要了。 文：Juny，编辑：VickyXiao 大约一个半月前，当 ChatGPT 首次提出联网和插件计划并放出测试 Demo 的时候，曾着实让市场惊艳了一把。 从当时的内部测试来看，ChatGPT 不仅能够比搜索引擎更加智能地来帮你查找最新信息，还能够\n本文链接",
-          "link": "https://news.cnblogs.com/n/742145/",
-          "publishedOn": "2023-05-20T00:44:59.000Z",
-          "wordCount": 163,
-          "title": "体验了联网+插件大升级后的ChatGPT，我找到了未来互联网的新入口",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742144/",
-          "author": null,
-          "description": "来源：雷科技数码 3C 组 编辑：三明治 排版：LIN 在很多人眼中，格力可以说是一个金字招牌。 作为国内家电市场的一大龙头，格力电器无疑是不可忽视的存在，其生产的空调凭借品质与创新多年雄踞全国销量第一，而“好空调格力造”更是给市场烙下了深刻印象。在珠海读大学的我，甚至一度幻想过前往格力就职的未来。\n本文链接",
-          "link": "https://news.cnblogs.com/n/742144/",
-          "publishedOn": "2023-05-19T23:15:05.000Z",
-          "wordCount": 163,
-          "title": "格力手机，卒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742143/",
-          "author": null,
-          "description": "文科技说 2023 年 Q1 的百度财报发布之后，舆论和市场又进入了新的“归因逻辑”：将业绩的好转完全归于 AI 战略，甚至是文心一言的大模型投入（尽管推出时已经接近 Q1 收尾）。 这就使得评判百度时，出现了非常多的“噪音”，动辄上头讲 AI，强化 AI 对企业复苏的重要性。却忽略了一个技术从研发\n本文链接",
-          "link": "https://news.cnblogs.com/n/742143/",
-          "publishedOn": "2023-05-19T14:32:00.000Z",
-          "wordCount": 163,
-          "title": "百度“复苏”：尚与AI无关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742142/",
-          "author": null,
-          "description": "文光子星球，作者 文烨豪，编辑 吴先之 最近一年来，云计算厂商业务调整、人事变动等新闻有如暴风骤雨，一轮轮冲刷着互联网语境——当下的云计算赛道，似乎正处于新老竞争语境交替的节点。 5 月 17 日，腾讯发布 2023 年第一季度财报。财报显示，腾讯第一季度营收 1499.9 亿元，同比增长 11%；\n本文链接",
-          "link": "https://news.cnblogs.com/n/742142/",
-          "publishedOn": "2023-05-19T14:26:00.000Z",
-          "wordCount": 163,
-          "title": "腾讯坐看“云”起时",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742141/",
-          "author": null,
-          "description": "文商隐社 5 月 9 日，全球最大的职业社交网站 LinkedIn（领英）官方宣布“领英职场”将于 2023 年 8 月 9 日起正式停止服务。“领英职场”是领英中国推出的本土化求职平台，上线时间仅有一年半，曾被寄予厚望。 自 2014 年进入中国以来，领英由于战略选择问题，在与同类平台竞争中输掉了\n本文链接",
-          "link": "https://news.cnblogs.com/n/742141/",
-          "publishedOn": "2023-05-19T14:18:00.000Z",
-          "wordCount": 163,
-          "title": "领英在中国输掉的三场战役",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742140/",
-          "author": null,
-          "description": "1995 年，清华大学研制出采用轮毂电机的电动自行车，与传统的电动自行车相比，由于将电机转子直接放在轮子上，使得结构简化的同时，传统效率也得到了提升。谁也不曾想到，小小的结构改变却成为激发两轮电动车行业的强心针，10 年后的 2005 年，国内两轮电动车产量已达到 1000 万台，迅速成为受到普通用\n本文链接",
-          "link": "https://news.cnblogs.com/n/742140/",
-          "publishedOn": "2023-05-19T14:10:00.000Z",
-          "wordCount": 163,
-          "title": "哈啰发布图灵T30极智系列新品，两轮电动车进入“智能普及”阶段",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742139/",
-          "author": null,
-          "description": "文元宇宙日爆，作者木沐，编辑文刀 ChatGPT 火爆全球后， 山姆·奥特曼（Sam Altman）创立的加密项目 Worldcoin（世界币）重回大众视野。这个项目诞生于 2 年前。那时，埋头迭代 GPT 模型的 OpenAI 还未如此知名，该公司的 CEO 山姆·奥特曼也位列科技大佬“仙班”。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/742139/",
-          "publishedOn": "2023-05-19T14:07:00.000Z",
-          "wordCount": 163,
-          "title": "扫眼球换“世界币”，ChatGPT之父“剥削穷人”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742138/",
-          "author": null,
-          "description": "文新立场 NewPosition，作者新立场 5 月 18 日港股盘后，腾讯控股发布了 2022 年第一季度业绩报告。财报显示，今年前三个月腾讯一共录得了 1500 亿元人民币的营收，同比增长约 11%，这也是腾讯自 2021 年第三季度以来取得的最高增速；至于利润方面，非国际财务报告准则下腾讯本季\n本文链接",
-          "link": "https://news.cnblogs.com/n/742138/",
-          "publishedOn": "2023-05-19T14:00:00.000Z",
-          "wordCount": 163,
-          "title": "解密腾讯财报：主业大回血，但视频号商业化似露怯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/742135/",
-          "author": null,
-          "description": "轻装上阵，阿里云踏上了新的征程。 作者：孙弈夏 编辑：王川 就在昨夜，阿里巴巴集团董事会主席兼 CEO、阿里云智能集团董事长兼 CEO 张勇，向阿里云员工发出全员信：计划在未来 12 个月将云智能集团从阿里集团完全分拆并完成上市，在股权和公司治理上形成一家与阿里集团完全独立的新公司。同时，阿里云智能\n本文链接",
-          "link": "https://news.cnblogs.com/n/742135/",
-          "publishedOn": "2023-05-19T13:57:42.000Z",
-          "wordCount": 163,
-          "title": "阿里云的「二次创业」",
           "imageUrl": null
         }
       ]
