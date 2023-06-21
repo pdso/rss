@@ -2,10 +2,397 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T01:16:53.398Z</updated>
+    <updated>2023-06-21T01:19:49.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[思科推出新AI网络芯片 与博通Marvell正面竞争]]></title>
+        <id>https://news.cnblogs.com/n/744348/</id>
+        <link href="https://news.cnblogs.com/n/744348/"/>
+        <updated>2023-06-21T01:14:03.000Z</updated>
+        <summary type="html"><![CDATA[新浪科技讯，北京时间 6 月 21 日早间消息，思科推出面向 AI 超级计算机的网络芯片，新芯片将与博通和 Marvell 的产品正面竞争。 新芯片属于思科 SiliconOne 系列，6 大主要云计算提供商有 5 家已经在测试芯片，但思科没有给出企业具体名称。在美国市场，AWS、微软 Azure、
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体内“穿山甲”微型机器人问世]]></title>
+        <id>https://news.cnblogs.com/n/744347/</id>
+        <link href="https://news.cnblogs.com/n/744347/"/>
+        <updated>2023-06-21T01:10:18.000Z</updated>
+        <summary type="html"><![CDATA[科技日报北京 6 月 20 日电 （记者张梦然）英国《自然·通讯》杂志 20 日发表的一篇工程学论文，描述了一种受穿山甲启发研制的微型机器人，该机器人被设计用于在人体内进行安全和微创的医学治疗。在未来应用中，这一无系留软体机器人能够通过变形，到达人体内难以触及的区域，如胃或小肠内。 磁性软体机器人和
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[克服GPS导航盲区，利用宇宙射线的地下导航系统制成]]></title>
+        <id>https://news.cnblogs.com/n/744346/</id>
+        <link href="https://news.cnblogs.com/n/744346/"/>
+        <updated>2023-06-21T00:57:18.000Z</updated>
+        <summary type="html"><![CDATA[科技日报北京 6 月 20 日电 （记者张佳欣）宇宙射线碰撞产生的亚原子粒子已被用于创造一种新型全球定位系统(GPS)。在一项发表在《iSicence》的新研究中，日本东京大学科学家展示了他们如何利用这些高能粒子在建筑物内、地下或水下深处导航。这项突破未来可用于采矿、深海勘探和其他 GPS 无法工作
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023医学影像新风向： AI全方位降临、MR能力边界拓展]]></title>
+        <id>https://news.cnblogs.com/n/744345/</id>
+        <link href="https://news.cnblogs.com/n/744345/"/>
+        <updated>2023-06-21T00:36:38.000Z</updated>
+        <summary type="html"><![CDATA[文硅星闻 六月，最重要的国际 MR 会议之一落下帷幕，展现了全球磁共振领域专家的思考，以及难以忽视的风向：AI 全方位降临，推进 MR 在各个方向上变得更加普及、高效。 在今年的 ISMRM（International Society for Magnetic Resonance in Medici
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大乘汽车获工信部公示，自游家要复出？]]></title>
+        <id>https://news.cnblogs.com/n/744344/</id>
+        <link href="https://news.cnblogs.com/n/744344/"/>
+        <updated>2023-06-21T00:30:29.000Z</updated>
+        <summary type="html"><![CDATA[图片来源：视觉中国 此前陷入破产传闻的大乘汽车又有了新动态。 工信部官网显示，大乘汽车一款纯电动乘用车已获得企业申报车型公示。从公示车型可以看出，外观设计基本与此前发布的自游家 NV 一致。 图片来源：工信部公示 去年 12 月，大乘汽车曾宣布该公司旗下的首款车型自由家 NV 在短期内无法交付，对 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[焦虑的智己，自降身价]]></title>
+        <id>https://news.cnblogs.com/n/744343/</id>
+        <link href="https://news.cnblogs.com/n/744343/"/>
+        <updated>2023-06-21T00:29:15.000Z</updated>
+        <summary type="html"><![CDATA[本文来源于微信公众号极派 Daily（ID：rancaijingapp），作者马志刚，编辑惠鹏权，钛媒体经授权发布。 “一定要买纯电！” 在 6 月 12 日举办的 Just Fit 智己新车发布会上，这句话被智己汽车（以下简称“智己”）联席 CEO 刘涛反复强调了 6 次。向一二线城市用户强推自家
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[库迪厮杀瑞幸：低价、万店和加盟]]></title>
+        <id>https://news.cnblogs.com/n/744341/</id>
+        <link href="https://news.cnblogs.com/n/744341/"/>
+        <updated>2023-06-21T00:24:24.000Z</updated>
+        <summary type="html"><![CDATA[文｜零售公园，作者｜一文，编辑｜苏黎 当大厂还在费尽心思地瓜分梅西的流量时，梅西背后的金主库迪咖啡轻轻松松就赚到了流量。 6 月 1 日，库迪官宣成为阿根廷国家足球队全球赞助商，是 AFA 全球赞助商中唯一的中国品牌 。 为了配合此次阿根廷队来华比赛，库迪推出一系列促销活动，如“阿根廷队请你 1 元
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想是怎么成为微博之王的]]></title>
+        <id>https://news.cnblogs.com/n/744340/</id>
+        <link href="https://news.cnblogs.com/n/744340/"/>
+        <updated>2023-06-21T00:12:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜20 社，作者王晓玲、罗立璇 这几天，多年坚持在微博上价值输出的理想汽车，终于成了同行口中的微博之王。 6 月 17 日，有博主曝光了长城汽车在股东大会上对同行的评价。 “在用户运营方面，我们看到蔚来的领先；在社交平台营销方面，我们看到了‘微博之王’理想；在智能驾驶领域，我们看到了小鹏的技术深耕
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马云定方向、变革进行时，淘宝天猫去向何方？]]></title>
+        <id>https://news.cnblogs.com/n/744339/</id>
+        <link href="https://news.cnblogs.com/n/744339/"/>
+        <updated>2023-06-21T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[图片来源@视觉中国 文价值研究所 处于退休状态的马云，每次露面总能掀起惊涛骇浪。 今年 3 月，马云亮相云谷学校次日，阿里进行“1+6+N”组织架构改革，推动各个业务集团独立融资、上市，张勇将此称为“阿里成立以来最重大的一次调整”。 6 月 19 日，马云组织淘宝天猫商业集团（下文简称淘天集团）CE
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中小商家，出拼入淘？]]></title>
+        <id>https://news.cnblogs.com/n/744338/</id>
+        <link href="https://news.cnblogs.com/n/744338/"/>
+        <updated>2023-06-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文表外表里，作者｜周霄、赫晋一、张冉冉，编辑付晓玲、曹宾玲 中小商家正陷入两难的境地。 虽然商家不断吐槽，在拼多多上挣钱越来越困难，但毕竟还有 3 亿多日活用户在上面“买买买”，要放弃眼前的肥肉，并不容易。 正如一些商家所说：“虽然利润空间越来越小了，但还是有钱可以赚的。” 更纠结的是，在大家与拼多
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顺丰入股极兔，双向奔赴IPO，扑向电商“低价”内卷]]></title>
+        <id>https://news.cnblogs.com/n/744337/</id>
+        <link href="https://news.cnblogs.com/n/744337/"/>
+        <updated>2023-06-20T23:52:00.000Z</updated>
+        <summary type="html"><![CDATA[文鲸商，作者 海上渔民 6 月 19 日，极兔速递正式递交香港上市申请。其招股书证实了顺丰入股极兔的传闻（持股 1.54%），双方合作关系进一步确认。而极兔上市前夕最重要的战略扩张是收购顺丰子公司丰网，也算是“礼尚往来”。‍‍‍‍ 此外，2017 年至 2023 年，极兔获得多轮股权融资，投资者包括
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软证实本月初其服务遭网络攻击]]></title>
+        <id>https://news.cnblogs.com/n/744336/</id>
+        <link href="https://news.cnblogs.com/n/744336/"/>
+        <updated>2023-06-20T23:46:00.000Z</updated>
+        <summary type="html"><![CDATA[本月初微软的办公软件套件（包括电邮 Outlook 和文件共享应用 OneDrive）以及其云计算平台遭遇了偶发但严重的宕机事故，自称 Anonymous Sudan 的黑客组织宣称对此负责，称他们对微软网站发动了 DDoS 攻击。微软发言人证实了网络攻击，但没有透露多少细节，如有多少客户受影响，受
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果联合创始人出售大农场它将变成自然保护区]]></title>
+        <id>https://news.cnblogs.com/n/744335/</id>
+        <link href="https://news.cnblogs.com/n/744335/"/>
+        <updated>2023-06-20T23:40:00.000Z</updated>
+        <summary type="html"><![CDATA[苹果联合创始人 Mike Markkula 在 1977 年向乔布斯（Steve Jobs）和沃茨（Steve Wozniak）资助了 25 万美元，他成为了苹果的第三名员工，担任了 CEO 和董事会主席，一度拥有 26% 的公司股权。Markkula 此前在英特尔公司担任工程师，他使用了部分个人财
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位罹患 12 种癌症的幸存者]]></title>
+        <id>https://news.cnblogs.com/n/744334/</id>
+        <link href="https://news.cnblogs.com/n/744334/"/>
+        <updated>2023-06-20T23:34:00.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Science Advances》期刊上的一项研究，一位遗传致命基因突变的患者在不到 40 年里长出了 12 个肿瘤，其中 5 个是恶性。这位患者身上名为 MAD1L1 的基因发生了突变。该基因在细胞分裂和增殖过程中起重要作用。在动物模型中，当该基因的两个拷贝都发生突变时——每个拷贝都来
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube 要求开源应用停止服务，开发者拒不服从]]></title>
+        <id>https://news.cnblogs.com/n/744333/</id>
+        <link href="https://news.cnblogs.com/n/744333/"/>
+        <updated>2023-06-20T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[YouTube 是全球最大的视频平台，很多开发者都会围绕这个平台开发各种各样的第三方功能 / 服务（例如视频下载、广告拦截、倍速播放等等），从而提升视频观看体验。 Invidious 则是 YouTube 的一个免费开源替代品，能让用户在观看 YouTube 视频的同时不被 Google 追踪，避免
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ 26 已初具规模]]></title>
+        <id>https://news.cnblogs.com/n/744332/</id>
+        <link href="https://news.cnblogs.com/n/744332/"/>
+        <updated>2023-06-20T23:22:00.000Z</updated>
+        <summary type="html"><![CDATA[ISO C++ 委员会于近日举行会议正式通过了 C++ 26 的时间表，共有近 180 名成员参会。ISO C++ 标准委员会主席兼微软本地语言架构师 Herb Sutter 发文详细介绍了有关 C++ 26 的最新进展。他透露，并发和并行小组仍在按计划推进 C++26 的 std::executi
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 引入 F2FS 异步缓冲写入支持]]></title>
+        <id>https://news.cnblogs.com/n/744331/</id>
+        <link href="https://news.cnblogs.com/n/744331/"/>
+        <updated>2023-06-20T23:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Flash Friendly File-System (F2FS) 对于闪存设备，尤其是固态硬盘和移动硬盘来说，依然是强大的文件系统选项。 从 Linux 内核的 F2FS 开发树来看，F2FS 即将引入异步缓冲写入功能，作为此闪存优化文件系统的另一项性能提升。来自 Vivo 的 Yangtao L
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 支持直接创建 PR]]></title>
+        <id>https://news.cnblogs.com/n/744330/</id>
+        <link href="https://news.cnblogs.com/n/744330/"/>
+        <updated>2023-06-20T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[微软官方宣布，Visual Studio 已支持直接创建 PR。 Visual Studio 工程团队通过博客宣布了这项 “新” 功能：在 Visual Studio 中创建 PR (Pull Request)。其实较旧版本的 Visual Studio 原本就支持创建 PR，但后面由于 Git U
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大麦网拒退票遭海量投诉 律师：涉霸王条款 存在侵犯消费者权益行为]]></title>
+        <id>https://news.cnblogs.com/n/744329/</id>
+        <link href="https://news.cnblogs.com/n/744329/"/>
+        <updated>2023-06-20T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[随着线下演出活动的回暖，热门的演唱会、话剧、音乐节、电影票更是一票难求。作为综合类现场娱乐票务营销平台，大麦网一方面成为消费者购票、选票的热门网站，另一方面，消费者的投诉也扑面而来。 未来网记者通过黑猫投诉平台了解到，大麦网的投诉量超 22000 条，回复率 11%，改签、退票难成为用户吐槽的热点。
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zed 编辑器在玩一种很新的 “开源”]]></title>
+        <id>https://news.cnblogs.com/n/744328/</id>
+        <link href="https://news.cnblogs.com/n/744328/"/>
+        <updated>2023-06-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zed 编辑器公布了开源计划，与常见的直接公开源代码不一样，他们的团队计划在 Zed 之上开源 Zed (open source Zed... on Zed)。 听着有点绕口，其实就是让大家使用 Zed 编辑器来给 Zed 做贡献。 Zed 是 Atom 编辑器原作者主导的新项目 —— 一款支持多人
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当可供 AI 训练的人造数据愈来愈少]]></title>
+        <id>https://www.solidot.org/story?sid=75299</id>
+        <link href="https://www.solidot.org/story?sid=75299"/>
+        <updated>2023-06-20T15:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Stable Diffusion 与 GPT-3(.5) 和 GPT-4 等 AI 模型正在改变网络生态。如果人类消费的大部分内容是 AI 生成的，那么 AI 又如何继续改进其模型呢？如果 AI 用 AI 生成的数据进行训练又会发生什么？牛津、剑桥、伦敦帝国学院等机构的研究人员在预印本平台 arXiv 上发表论文，对此展开了分析。研究人员发现，这会导致 AI 模型存在不可逆转的缺陷，他们将其称之为模型崩溃（Model Collapse）。这意味着未来模型训练使用的高质量数据将会愈来愈昂贵，将可能导致网络的碎片化和封闭化，内容创作者将会竭尽全力防止其内容被免费抓取。社交媒体公司也逐渐认识到其数据的价值，对 API 访问收取昂贵费用。如果未来的模型使用容易获取的数据（很可能是其它模型生成）训练，那么这将会加速模型的崩溃，增加对模型进行中毒攻击的可能性。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果联合创始人出售大农场它将变成自然保护区]]></title>
+        <id>https://www.solidot.org/story?sid=75298</id>
+        <link href="https://www.solidot.org/story?sid=75298"/>
+        <updated>2023-06-20T14:12:04.000Z</updated>
+        <summary type="html"><![CDATA[苹果联合创始人 Mike Markkula 在 1977 年向乔布斯（Steve Jobs）和沃茨（Steve Wozniak）资助了 25 万美元，他成为了苹果的第三名员工，担任了 CEO 和董事会主席，一度拥有 26% 的公司股权。Markkula 此前在英特尔公司担任工程师，他使用了部分个人财富在卡梅尔山谷（Carmel Valley）购买了连绵 8 英里面积达 14,100 英亩的巨大农场。他刚刚以 3500 万美元的价格将农场出售给了环保组织 Wildlands Conservancy。该组织准备将该农场变成自然保护区，向公众免费开放，用作徒步旅行、山地自行车运动和骑马。Markkula 在 2016 年接受采访时表示他与妻子购买该农场是将其作为第二个家和可能的退休去处。夫妻两人在 1982 年以 800 万美元购买了 9000 英亩，之后购买了周围的其它土地。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mullvad 浏览器使用的搜索引擎 Mullvad Leta]]></title>
+        <id>https://www.solidot.org/story?sid=75297</id>
+        <link href="https://www.solidot.org/story?sid=75297"/>
+        <updated>2023-06-20T13:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Tor 项目与 Mullvad VPN 联合推出的隐私浏览器 Mullvad Browser 默认使用 DuckDuckGo，但它也同时为 VPN 的付费用户提供了一种替代搜索引擎：Mullvad Leta。Mullvad Leta 使用 Google Search API 作为代理，缓存每次的搜索，缓存结果在所有用户之间共享，此举旨在降低成本和改进隐私。该搜索服务是由用户支持的，不依赖于广告或数据出售。一旦用户在设置页完成账号设置，就不再每次都需要登陆。为抵御相关性攻击和节省费用，结果将缓存 30 天，可能会导致信息过时。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本世纪末喜马拉雅冰川可能会消融八成]]></title>
+        <id>https://www.solidot.org/story?sid=75296</id>
+        <link href="https://www.solidot.org/story?sid=75296"/>
+        <updated>2023-06-20T11:01:58.000Z</updated>
+        <summary type="html"><![CDATA[国际山地综合开发中心 (ICIMOD) 发布新评估报告，揭示出由于全球变暖导致兴都库什-喜马拉雅 (HKH) 地区的冰川、雪和永久冻土的变化是 “前所未有的，且多为不可逆的” 。如果不大幅减少温室气体排放，该地区冰川总体积的 80% 将在本世纪末消失。研究报告利用最新科学进展，首次绘制了该地区冰冻圈、水、生物多样性与社会之间的联系，以及冰川和积雪的快速变化对人与自然的影响，经过同行评议后发布。报告警告说，兴都库什-喜马拉雅地区的冰川在 2011-2020 年期间的消融速度比之前十年加快了 65%，未来几年该地区山洪暴发和雪崩的可能性在增加。兴都库什-喜马拉雅地区的冰川是流经亚洲 16 个国家，为山区 2.4 亿人和下游 16.5 亿人提供淡水的重要河流的重要水源。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软证实本月初其服务遭网络攻击]]></title>
+        <id>https://www.solidot.org/story?sid=75295</id>
+        <link href="https://www.solidot.org/story?sid=75295"/>
+        <updated>2023-06-20T09:46:58.000Z</updated>
+        <summary type="html"><![CDATA[本月初微软的办公软件套件（包括电邮 Outlook 和文件共享应用 OneDrive）以及其云计算平台遭遇了偶发但严重的宕机事故，自称 Anonymous Sudan 的黑客组织宣称对此负责，称他们对微软网站发动了 DDoS 攻击。微软发言人证实了网络攻击，但没有透露多少细节，如有多少客户受影响，受影响范围是否遍及全球，等等。Anonymous Sudan 是通过其 Telegram 频道宣布对此负责，它被认为是俄罗斯人。微软官方博客此前表示，攻击者可能使用了租赁的云服务和 VPN，通过僵尸网络对微软服务发动 DDoS 攻击。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 称其新语音生成模型公开太危险]]></title>
+        <id>https://www.solidot.org/story?sid=75294</id>
+        <link href="https://www.solidot.org/story?sid=75294"/>
+        <updated>2023-06-20T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Meta 宣布了新 AI 模型 Voicebox，称其为至今最全面的语音生成模型。但 Meta 没有公开 Voicebox 的模型和代码，原因是公开发布太危险。Meta 称生成式语音模型有很多令人兴奋的用例，但潜在也可能被滥用，因此它没有公开 Voicebox 模型或代码。Voicebox 能从最短两秒钟的声音样本中生成六种语言的语音，未来可用于真实自然的语音翻译等用途。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一艘泰坦尼克号观光潜艇失踪]]></title>
+        <id>https://www.solidot.org/story?sid=75293</id>
+        <link href="https://www.solidot.org/story?sid=75293"/>
+        <updated>2023-06-20T07:56:05.000Z</updated>
+        <summary type="html"><![CDATA[旅游公司 OceanGate 的一艘带乘客参观泰坦尼克号残骸的观光潜艇于 6 月 18 日在大西洋失踪，目前搜救行动正在进行之中。泰坦尼克号于 1912 年沉没，其残骸位于水下 3800 米处。失踪的潜艇为泰坦号，卡车大小，可容纳五人，其氧气供应可维持 4 天。观光潜艇单个座位的票价为 25 万美元，持续 8 天。OceanGate 公司宣称这一八天之旅是走出日常生活发现非同寻常的一次机会。潜艇上的一位乘客是 Action Aviation 主席 Hamish Harding，去年曾参与 Blue Origin 的亚轨道太空飞行。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位罹患 12 种癌症的幸存者]]></title>
+        <id>https://www.solidot.org/story?sid=75292</id>
+        <link href="https://www.solidot.org/story?sid=75292"/>
+        <updated>2023-06-20T06:36:34.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Science Advances》期刊上的一项研究，一位遗传致命基因突变的患者在不到 40 年里长出了 12 个肿瘤，其中 5 个是恶性。这位患者身上名为 MAD1L1 的基因发生了突变。该基因在细胞分裂和增殖过程中起重要作用。在动物模型中，当该基因的两个拷贝都发生突变时——每个拷贝都来自父母一方——胚胎就会死亡。令研究人员惊讶的是，这位患者两个拷贝都有突变，但却活了下来，像一个患有疾病的人一样过着正常的生活。在不到 40 年里，患者长出了 12 个肿瘤，其中至少 5 个是恶性的。每一种都有不同的类型和身体的不同部位。患者还会出现皮肤斑点、小头畸形和其他变化。研究人员认为，患者之所以能幸存下来的原因是“不断产生的变异细胞在病人体内产生了一种慢性的防御反应，以对抗这些细胞，这有助于肿瘤的消失”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩政府要求高考不要出太难的考题]]></title>
+        <id>https://www.solidot.org/story?sid=75291</id>
+        <link href="https://www.solidot.org/story?sid=75291"/>
+        <updated>2023-06-20T05:58:11.000Z</updated>
+        <summary type="html"><![CDATA[韩国执政党国民力量和政府 19 日在国会开会决定，安排大学修学能力考试（高考）出题排除“杀手级试题”（超高难度试题），并推翻前届政府决定，继续保留多类精英高中。韩国党政一致认为，“杀手级试题”是助长课外补习的根本原因，并决定安排高考出题范围不覆盖公共教育课程以外的内容，以确保高考公平公正。党政还决定对出题系统进行检查，确保试题能体现适当的区分度。此外，党政商定继续保留前届政府决定废除的民办精英高中、外语高中、国际高中，做到因材施教，推动各地进行教育改革并增强教育力量。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 警告员工不要使用 Bard 生成的代码]]></title>
+        <id>https://www.solidot.org/story?sid=75290</id>
+        <link href="https://www.solidot.org/story?sid=75290"/>
+        <updated>2023-06-20T05:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Google 警告员工在使用 Bard 时不要泄露机密信息或用其生成代码。其它大公司也对员工发出了类似的警告。但 Google 的警告与其声称 Bard 有助于开发者提高工作效率的说法产生了冲突。搜索巨人对此表示，它的内部使用禁令是因为 Bard 会产生不需要的代码建议，潜在会导致程序出 bug 或过于复杂，软件过于臃肿，相比不使用 AI 辅助编程需要更多时间修复。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抽取地下水导致极地每年移动数厘米]]></title>
+        <id>https://www.solidot.org/story?sid=75289</id>
+        <link href="https://www.solidot.org/story?sid=75289"/>
+        <updated>2023-06-20T03:40:36.000Z</updated>
+        <summary type="html"><![CDATA[得克萨斯大学奥斯汀分校科学家模拟了地球周围水分布的变化如何影响两极的漂移。结果发现，1993 年至 2010 年间人类抽取的地下水总量约为 2100 亿吨，地下水分布的变化使地球两极漂移了 80 厘米，平均每年移动 4.36 厘米。地球不是一个完美的球体，它每年都会像陀螺一样摆动几米。地球两极也会因地球周围质量分布的变化（如季节导致的水的运动）而漂移。但造成极地漂移的因素还有很多，水库蓄水和抽取地下水，以及气候变化导致的冰川融化和海平面上升等都是原因，但尚不清楚每个具体变化会产生何种影响。研究人员指出，大多数人不会意识到地球的摆动或漂移，这种漂移本身也并不会对每天的时长或季节的变化产生特别的影响，但知道地轴的精确位置对与 GPS 技术相关的工作至关重要。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIGC在垂直领域的实践：我们的探索与尝试]]></title>
+        <id>https://sspai.com/post/80414</id>
+        <link href="https://sspai.com/post/80414"/>
+        <updated>2023-06-20T02:13:43.000Z</updated>
+        <summary type="html"><![CDATA[AIGC（AI Generated Content，人工智能自动生成内容）的概念应运而生，Stabile Diffusion，Midjourney 等图像模型在技术上的突破，催生了全新的设计模式，它可以突破时间、空间的限制，降低了绘画的门槛，让没有受过绘画训练的人也可以设计出专业图片。这一创新，将逐步取代传统的设计方式。其实，更加感到危机的是传统的作图应用、作图APP，是完全被颠覆还是借助AI继续探索图像领域，是一个需要快速决定的事。
+身为一位图像处理类应用的产品人，服务用户为电商卖家。想将AI绘图应用在APP中，在相对垂直细分的应用场景（电商作图）下，AI绘画通用的交互模式并不适用于C端用户。需要探索出使用门槛低，并能在商业设计的环节中，低投入高产出的方式，以满足目标用户（电商主）的需求。起码在现阶段，还有一定的时间窗口给到我们APP去做。
+用户痛点
+一套完整的电商品牌宣传图制作流程，包含五个主要环节：场景搭建与实景外拍、模特摄影、商品拍摄与建模、后期修图以及设计制作。
+整个流程从开始到结束，至少需要两周的时间来完成。在后期修图和设计制作的环节中，需要涉及到场景拍摄以及大量商用版权图的采购，并且设计师的制作过程通常较长。整个过程包括场地租赁，采购图片素材等等，人力与物力成本较高，如果请摄影室来拍摄，一套基本的室内电商图最低价800，最高价可能花费上万。
+如果利用AI，快速生成大量的精美商品氛围图。这样不仅可以提升商品图制作效率，而且还能显著降低制作成本。
+具体探索过程可参考以下资料：
+
+腾讯ISUX：运用AIGC人工智能生产内容：https://mp.weixin.qq.com/s/b10sqhA9-IvUT44U9-5dLA
+AIGC|探索AIGC在网易严选中的应用： https://mp.weixin.qq.com/s/GargWzAGH7QyRanIgZxiCQ
+
+…]]></summary>
+        <author>
+            <name>波林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来的PKM工具将走向哪里？]]></title>
+        <id>https://sspai.com/post/80444</id>
+        <link href="https://sspai.com/post/80444"/>
+        <updated>2023-06-20T02:13:08.000Z</updated>
+        <summary type="html"><![CDATA[We shape our tools，and thereafter our tools shape us. 
+——Marshall Mcluhan 《理解媒体》1964
+ 
+AI能生成创意之前，经过了“大数据”的训练；个体能产生创意之前，也需要大量的学习、阅读、思考。PKM的价值在于，经过时间的推移，逐渐积累了大量的，专属个人的笔记数据，并发展了个人知识体系。当我们在讨论AI是否可以取代人的工作时候，尤其是创新类工作，专属个人的“创意数据”管理，将成为未来与AI创意进行比拼的重要武器。
+AI作为一种通用技术，将逐渐成为各行业工具的标配；空间计算和硬件的发展，也将我们从桌面系统带到了空间系统。这些技术的发展给了我们重新思考和想象PKM工具的空间。
+想象笔记软件的未来，就是在思考“个人数据”：
+
+如何有效管理“更多”的个人数据
+如何利用这些数据来激发“创造力”
+
+这篇文章针对PKM工具来说，从「技术」、「媒介」、「方法」三个角度，想象一下未来的笔记工具（信息管理工具）会呈现什么形态？
+
+技术——AI
+AI技术可以带给PKM三个想象
+
+AI信息管理
+AI信息检索
+AIGC辅助创意
+
+AI信息管理
+在不久的未来，我们的笔记将由GPT(GPT-4等大型语言模型 (LLM) )帮我们管理。
+AI可以对收集的信息进行自动标记、自动设置超链接、自动进行信息分类，不需要人工操作。比如信息收集工具Napkin的产品特色是，利用AI自动为内容生成标签。AI可以帮助PKM从繁琐的「信息组织」中解脱出来。
+AI信息检索
+AI可以帮助我们进行更智能的信息筛选。
+1、多模态检索
+以往我们使用文字来进行检索，PKM工具管理的大部分信息也是文字笔记。有了AI多模态技术，我们可以收集并快速在多种信息类型中进行检索。
+想象一下图片和视频检索，包豪斯无限档案这个展厅作品中，根据图片的形状和颜色来进行检索，也有很多…]]></summary>
+        <author>
+            <name>Echo_Nebula_PKM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美图大模型发布！一口气上新7款产品，股价暴涨21.28%]]></title>
         <id>https://news.cnblogs.com/n/744244/</id>
@@ -227,6 +614,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[加州山景城批准 Google 在其总部附近建造一个综合社区]]></title>
+        <id>https://www.solidot.org/story?sid=75288</id>
+        <link href="https://www.solidot.org/story?sid=75288"/>
+        <updated>2023-06-19T15:56:02.000Z</updated>
+        <summary type="html"><![CDATA[加州山景城议会批准了 Google 在其总部以南建造一个 153 英亩的综合性社区。该项目将为期 30 年，其开发理念类似以前的“公司城”，将包括餐饮、住宅和各类服务。新项目将创造 300 万平方英尺的办公空间和 7000 个住宅单位。最初计划是将五分之一的住宅单位作为经济适用房，但批准的计划将该目标缩小到了 15%，以在不确定的经济环境下具有可行性。Google 今年初宣布裁掉了 1.2 万名员工。除此之外，开发计划还包括 26 英亩的公园和开放空间，最多 288,990 平方英尺的底层商业空间、学校用地、新街道和私人公用设施系统。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BentoML 发布大模型开放平台 OpenLLM]]></title>
+        <id>https://www.solidot.org/story?sid=75287</id>
+        <link href="https://www.solidot.org/story?sid=75287"/>
+        <updated>2023-06-19T15:19:34.000Z</updated>
+        <summary type="html"><![CDATA[BentoML 发布了大模型开放平台 OpenLLM，采用 Apache-2.0 许可证，允许用户在云端或本地（对硬件有高要求）部署和运行任何开源大模型，构建 AI 应用。OpenLLM 支持的开源大模型包括了 StableLM、Falcon、Dolly、Flan-T5、ChatGLM 和 StarCoder 等。不同模型对硬件有不同的需求，举例来说，有 400 亿参数的 Falcon 40b 模型需要英伟达 48GB 显存的 A100 专业显卡。开发者表示他们正在开发微调功能，预计会很快释出。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当人们互动时候脑电波会同步]]></title>
+        <id>https://www.solidot.org/story?sid=75286</id>
+        <link href="https://www.solidot.org/story?sid=75286"/>
+        <updated>2023-06-19T15:05:15.000Z</updated>
+        <summary type="html"><![CDATA[神经学家通常一次只研究一个人的大脑，比如观察一个人在阅读特定单词或玩游戏时神经元如何放电。人类是一种社会性动物，两个人之间的互动会对大脑产生什么影响？早期的研究发现人们彼此之间分享经验或交谈时他们的脑电波会同步。大脑相应位置的神经元会同时激活，创造出一种匹配的模式，就像一同跳舞的舞者。但大脑同步是如何发生的？一种直观的解释是，大脑间的同步是共享经验的结果，或者我们和其他人听到或看到相同东西的反应。科学家发现，有证据表明，大脑间的同步为互动做好了准备，开始将其理解为关系的一种标志。同步体验通常是令人愉悦的，研究人员猜测这种现象是有益的，它有助于互动，可能促进了社会性的演化。此类研究有助于解释为什么我们和其他人并不总能配合默契，为什么社会隔离对身体和精神有害。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[单个光子可启动光合作用]]></title>
         <id>https://www.solidot.org/story?sid=75285</id>
         <link href="https://www.solidot.org/story?sid=75285"/>
@@ -350,6 +767,38 @@ if 和 switch 表达式：SE-0380 增加了我们在多种情况下使用 if 和
 引入 consume 操作来结束变量绑定的生命周期：SE-0366 将使用值的概念扩展到局部变量和可复制类型的常量，这可能会使希望避免在数据传递时在幕后发生过多…]]></summary>
         <author>
             <name>Release notes from iOS-Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搞懂语言大模型（中）：对传统语音交互领域的影响]]></title>
+        <id>https://sspai.com/post/80319</id>
+        <link href="https://sspai.com/post/80319"/>
+        <updated>2023-06-19T01:58:58.000Z</updated>
+        <summary type="html"><![CDATA[这期我们继续聊聊语言大模型对传统语音交互领域的影响。
+前两篇戳这里：
+  
+ 
+2.1 垂直领域如何运用LLM？
+首先LLM需要巨大的模型参数量，而垂直领域优质数据的获取相当困难，一些在垂类领域已经有积淀的团队更有优势。其次大规模的数据训练成本非常高昂，垂直行业自己下场做不太现实。
+因此我猜测更多的团队会采取接入大模型API 并继续结合传统模型的方式，结合LLM给出的结果对传统模型进行效果改良。
+实现落地应用还要经过增加垂类训练数据、优质数据预处理、模型训练和微调、调整对话策略等过程。
+如何训练数据、调整参数这个太专业，这里我们重点看看对设计过程的影响。
+2.2 LLM对语音交互设计的影响
+通过上篇对LLM技术的了解，几乎可以确定的是有了LLM后：
+
+LLM在闲聊业务上有明显优势，一些模型回答不上来的内容可以给出更加丰富的兜底回复。
+LLM在上下文方面有着超越传统NLP技术的优势，并且能够对回复内容给出前后连续性的回复。对话的自然度也会有明显提升。
+
+因此用户可感知的系统智能度会被极大提高。
+那么，LLM对于垂类任务型对话的语音交互设计流程究竟有着什么影响？
+传统语音交互设计
+顺着传统NLP研究思路，传统任务型对话设计过程中，用户的指令经过Domain（领域）-Intent（意图）-Slot（词槽）的分类过程。
+首先设计师会尽量穷举某个Domain（领域）下的高频用户Intent（意图）以及对应的表达方式，这些表达方式会被标注成用户意图、词槽（Slot）、实体（Entity）等用作数据训练，试图让机器理解。（除了这些，还会增加用户数据训练）。
+其次，设计师还需设定好任务型对话的逻辑（比如用户说了导航到三里屯后希望再增加个途径点），和执行结果。
+最后，设计师还需要针对每个用户意图设定好回复语，包括正常的句子结构和关键词槽信息。为了避免回复语过于机械，通常还会扩写多条。
+对话模…]]></summary>
+        <author>
+            <name>Bay的设计奥德赛</name>
         </author>
     </entry>
     <entry>
@@ -10832,385 +11281,6 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，
         <summary type="html"><![CDATA[SpaceX 周日晚上在佛罗里达州肯尼迪太空中心完成了它的第十次载人飞行和第三次商业载人飞行任务。这次任务代号为 Axiom-2，将四名乘客送往国际空间站：前 NASA 宇航员 Peggy Whitson，以及三位付费乘客 John Shoffner 与沙特的 Ali al-Qarni 和 Rayyanah Barnawi。他们预计将在空间站停留一周，如果天气许可将在 5 月 30 日返回地球。四名宇航员据称将在空间站开展大约 20 项科学实验，但不清楚其中有多少是真正的实验有多少是做做表面文章。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卢曼卡片盒的本质 ｜ 知识管理的极境]]></title>
-        <id>https://sspai.com/post/79895</id>
-        <link href="https://sspai.com/post/79895"/>
-        <updated>2023-05-22T12:35:40.000Z</updated>
-        <summary type="html"><![CDATA[两年前我因为偶然接触到了卢曼卡片盒，为了更好的实践这种方法我特意开发了元思笔记。两年后的今天，我利用这种方法读了 100 多本书，总共写下了 2600 多张卡片。看到有些朋友依旧困惑于该如何打造一个有意义的卡片盒，以及对卢曼卡片盒到底意味着什么有很多的误解，我想谈谈我的看法。
-一个笔记系统？
-这里我们借助一下亚里士多德的四因说。四因说是亚里士多德用于理解事物的一套框架，他借此来解释整个世界的变化和运动。从四因说的角度来看卢曼的卡片盒，能帮我们更好的理解它。为什么卢曼称它为另一个我，以及所谓跟卡片盒的沟通到底是指什么。
-先让我们看一下四因说中的四因是什么：
-
-质料因：它（卡片盒）由什么组成？
-动力因：它是如何变化的？
-形式因：它是什么？
-目的因：它用来做什么？
-
-而通常的对卢曼卡片盒这几个问题的回答是：
-
-卡片盒由什么组成？实体或数字形式的卡片以及卡片之间的链接。
-它是如何变化的？以一种特定的方式创建和关联卡片。
-它是什么？一种特殊组织形式的知识网络。
-它用来做什么？帮助思考和写作。
-
-所以很多宣传卢曼卡片盒的文章，重点都在于卢曼用卡片盒这套工具写了很多书和学术文章，来强调这种方法是多么的有效。当卢曼卡片盒以这种目被使用的时候，卡片盒的创造者会得到什么呢？一个工具，最好的情况下也就是一个足够好用的工具。
-买椟还珠
-我认为这是一种误用，更是一种极大的遗憾，完全浪费了卡片盒的潜能，称为买椟还珠也不为过。为什么这么说？因为两年前我刚开发元思笔记的时候也是抱着这样的想法。
-要明白卢曼的卡片盒，必须先谈谈卡片盒是什么（形式因）和它用来做什么（目的因），只有先认识到这一点，才能帮我们反过来更好的理解卡片盒由什么组成（质料因），又应该如何变化（动力因）。
-之所以有人会产生对卡片盒的错误理解，正是因为搞错了顺序。这种错误并不是偶然，在我看来，更像是卢曼故意留下的一个谜，一个小小的黑色幽默。卢…]]></summary>
-        <author>
-            <name>食灯鬼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果MR头显13位灵魂人物曝光！揭开AR眼镜难产内幕]]></title>
-        <id>https://news.cnblogs.com/n/742274/</id>
-        <link href="https://news.cnblogs.com/n/742274/"/>
-        <updated>2023-05-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[智东西（公众号：zhidxcom） 编译徐珊 编辑云鹏 藏在苹果 MR 头显背后的 13 位灵魂人物，终于浮出水面！ 智东西 5 月 22 日消息，据彭博社 Mark Gurman 爆料，苹果将在北京时间 6 月 6 日的 WWDC2023 上推出首款 MR 头显“Reality”，并介绍其系统“x
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新报告：腾讯云获CPaaS、CRM多个赛道国内第一]]></title>
-        <id>https://news.cnblogs.com/n/742273/</id>
-        <link href="https://news.cnblogs.com/n/742273/"/>
-        <updated>2023-05-22T11:48:00.000Z</updated>
-        <summary type="html"><![CDATA[刚刚获悉，Gartner®最新发布的《Market Share: IT Services, Worldwide, 2022》*和《Market Share: All Software Markets, Worldwide, 2022》**报告显示，2022 年，腾讯云在 IaaS 领域增速达到 24
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freenet 想要打造一个完全去中心化的 Web 替代]]></title>
-        <id>https://news.cnblogs.com/n/742272/</id>
-        <link href="https://news.cnblogs.com/n/742272/"/>
-        <updated>2023-05-22T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[诞生于 1999 年的 Freenet 是世界第一个可扩展、去中心化的 P2P 网络。它在某种程度上就像是一个共享硬盘。20 多年后的今天，互联网日益的中心化对个人的自由构成了一种根本性的威胁，少数公司控制着绝大部分的互联网服务和基础设施。这些公司拥有巨大的权力，但基本上不需要承担任何责任。它们能审
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeWeavers 转变成由员工所有权信托控制的公司]]></title>
-        <id>https://news.cnblogs.com/n/742271/</id>
-        <link href="https://news.cnblogs.com/n/742271/"/>
-        <updated>2023-05-22T09:20:00.000Z</updated>
-        <summary type="html"><![CDATA[如果你在 Linux 上玩 Windows 游戏如使用 Valve 的掌机 Steam Deck，那么你需要感谢 CodeWeavers 公司。该公司是 Wine 程序的最主要贡献者。 CodeWeavers 创始人兼 CEO Jeremy White 在领导公司 27 年之后决定“翻开新的一章”，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度的统一数字支付系统]]></title>
-        <id>https://www.solidot.org/story?sid=75020</id>
-        <link href="https://www.solidot.org/story?sid=75020"/>
-        <updated>2023-05-22T08:55:49.000Z</updated>
-        <summary type="html"><![CDATA[在中国，二维码支付几乎无处不在，它们要么是微信支付要么是支付宝。印度也存在类似的情况，但不同的是印度的二维码支付并不锁定在一家或两家金融支付应用上。印度政府国家支付公司(NpCI)管理着一个 Unified Payments Interface(UPI) 的平台，它是对外开放的，用户可通过各种金融应用免费快速转账，他们的财务记录可以从一个应用转移到另一个应用。UPI 是印度增长最快的支付网络，2022 年处理了超过 10 万亿美元的交易，相当于印度 GDP 的三分之一。它占印度数字交易的比例从 2017 年 310 亿次交易的 17% 提高到了 2022 年 884 亿次交易的 52%。印度总理莫迪（Narendra Modi）夸耀该国的实时数字交易占到了全球的约四成。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了让 AI 工作流更顺畅，我做了一个无代码平台：向量网络]]></title>
-        <id>https://sspai.com/post/79916</id>
-        <link href="https://sspai.com/post/79916"/>
-        <updated>2023-05-22T08:46:20.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 首页推荐
-Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-
-最近做了一个无代码 AI 工作流+知识库的产品向量脉络：vectorvein.com，顺便开源了一个本地的版本，今天给诸位介绍一下为什么做这样一个产品以及它的使用方式。如果对背景不感兴趣的朋友可以直接拉到后半部分看产品介绍和使用方式。
-向量脉络界面
-背景介绍
-大语言模型的发展给各个行业带来了不小的冲击，ChatGPT 已经成为人尽皆知的名词了，而基于 ChatGPT 能力开发的各类通用领域产品、垂直领域产品也层出不穷让人眼花缭乱。
-最开始 ChatGPT 仅仅以聊天的产品形态就已经吸引了大量的用户，稍微有点开发能力的开发者，如果没有想象力但是有行动力，就能开发一个套壳 ChatGPT 聊天产品，于是我们见到了可能是有史以来最多聊天类软件诞生的时期，只不过对面不是真人而是机器人。
-
-​接下来稍微有些想象力的开发者会考虑结合一些细分的垂直领域来做产品，比如典型的市场营销文案策划产品描述领域的 AI 产品。
-再后来不满足于聊天形式的开发者们继续尝试拓展它的能力边界，于是有了 AutoGPT 和 Langchain 这样的明星项目。他们都是基于当前大语言模型的能力之上构建的新的应用形式，可以满足更具体更不一样的细化的需求。
-
-​AutoGPT 和 Langchain 虽然都很强很有潜力，但是说实话如果让一个没写过代码的人去使用，基本不太现实。于是大部分时候没有开发能力的用户只能通过一次次聊天来使用 AI 的能力。
-但是我个人认为，如果要在工作中真正利用大语言模型来进行提效，聊天可能并不是最高效的一种形式。
-举个例子，我看到一篇微信文章的标…]]></summary>
-        <author>
-            <name>Maker毕</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惠普打印机遭遇蓝屏死机]]></title>
-        <id>https://www.solidot.org/story?sid=75019</id>
-        <link href="https://www.solidot.org/story?sid=75019"/>
-        <updated>2023-05-22T07:46:16.000Z</updated>
-        <summary type="html"><![CDATA[惠普本月早些时候释出的固件更新导致了部分打印机蓝屏死机，该公司尚未对此事发表公开声明，但表示只有一小部分用户受到影响。受影响的型号包括 HP OfficeJet Pro 9022e、HP OfficeJet Pro 9025e、HP OfficeJet Pro 9020eAll-in-One 和 HP OfficeJet Pro 9025e All-in-One Printer。客户报告他们的打印机显示屏显示 83C0000B 错误。客户在官方论坛上报告称，客服表示目前没有解决方法修复固件问题。唯一的方法是把发生故障的打印机寄给惠普。惠普客户被建议在问题解决前不要让打印机联网。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freenet 想要打造一个完全去中心化的 Web 替代]]></title>
-        <id>https://www.solidot.org/story?sid=75018</id>
-        <link href="https://www.solidot.org/story?sid=75018"/>
-        <updated>2023-05-22T06:55:06.000Z</updated>
-        <summary type="html"><![CDATA[诞生于 1999 年的 Freenet 是世界第一个可扩展、去中心化的 P2P 网络。它在某种程度上就像是一个共享硬盘。20 多年后的今天，互联网日益的中心化对个人的自由构成了一种根本性的威胁，少数公司控制着绝大部分的互联网服务和基础设施。这些公司拥有巨大的权力，但基本上不需要承担任何责任。它们能审查内容、利用我们的数据、将用户驱逐出他们所依赖的服务之外。它们对民主产生了深远影响，我们需要一种解决方案。Freenet 宣布了它的 2023 计划，创建 Web 的完整去中心化替代，从共享硬盘转变成共享计算机，开发者可以开发中心化服务的去中心化替代，包括消息、社交媒体、电子邮件和电子商务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 AI 速读海量文档！4款 AI 阅读工具测评 + Prompt 写作指南]]></title>
-        <id>https://sspai.com/post/79869</id>
-        <link href="https://sspai.com/post/79869"/>
-        <updated>2023-05-22T06:06:34.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 首页推荐
-Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-
-手动搜索和提炼信息时，我们常常遇到这些恼人的问题：
-
-信息太多，而人的阅读速度是有上限的
-信息太杂，要对查找到的信息进行多次筛选和过滤
-信息太晦涩，看不懂，而你需要一个通俗的新手村友好版本
-信息涉及多个议题，要从线性的文章中梳理出树状的结构、网状的思维
-
-获取信息的质量和速度，决定了我们决策的质量。如果能够「秒读」千百篇文献、指南、政策、规定、招股书、访谈纪要，快速得到大纲或精华内容就好了。最近 ChatDOC、ChatPDF、Humata 等 AI 文档阅读助手就赋予了我们这种能力：直接和单个或多个文档对话，在一问一答之间，化信息为洞察。
-
-但是问题又来了，为什么有时候这类 AI 助手的回答表现很惊艳，有时候又差强人意？这跟 AI 工具本身的性能、技术原理有关，也跟我们的提问方式有关。本期文章将为你介绍：
-
-AI 阅读工具测评
-它们擅长的以及不擅长的
-如何写出好的提示语（prompt）
-
-AI 阅读工具测评
-我尝试了 4 款 AI 阅读工具，先说结论：ChatDOC 从准确度和产品功能上显著优于其他几款，如果是严肃的工作/研究场合使用，ChatDOC 是首选。
-
-
-产品能否免费体验付费版价格准确度丰富度引用来源多文档提问多轮追问
-
-ChatDOC✅$5.99/月🌟🌟🌟🌟🌟🌟🌟🌟🌟✅ 定位到文段✅ 免费✅ Thread
-ChatPDF✅$5/月🌟🌟🌟🌟❌❌ ✅ 记忆几轮的上下文
-Humata✅$14.99/月🌟🌟🌟🌟🌟✅ 定位到页✅ 付费✅ 记忆几轮的上下文
-PandaGPT✅$4.99/月🌟…]]></summary>
-        <author>
-            <name>史圣园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[exping｜地图组织方式的新探索]]></title>
-        <id>https://sspai.com/post/79902</id>
-        <link href="https://sspai.com/post/79902"/>
-        <updated>2023-05-22T06:05:12.000Z</updated>
-        <summary type="html"><![CDATA[春天是出行的季节，exping v1.4 版本带来全新的「地图分组」和「多人实时协作编辑 Beta」功能，现在你可以与好友一起创作地图，利用分组功能创作出具有丰富主题内容的地图。
-借着新版本发布，我想和你分享地图分组功能背后的一些故事。
-一张丰富的地图
-创作者每天都会在 exping 上创建各式各样的地图。对于 exping 而言，我们始终在思考的问题是：一张丰富有趣的地图，需要提供给读者什么样的信息?
-地点和路线肯定是必不可少的，它们是地图上最基础的元素。创作者标记的地点是他们希望表达的核心内容，这些地点就像是文章中的每一个词汇。而由地点组合成的路线，则在时间、顺序、空间上连接了地点，让原本扁平的地点变得更加立体，就像是文章中的图画一样，给读者更多的画面感。
-
-光有地点和路线，这还不足以灵活表达作者的创作意图。
-我们发现地图上展示的信息通常是有主题的，比如美食地图、购物地图、景点地图等。主题可以使地图变得更加有层次和深度，一个好的地图应该涵盖多种多样的主题信息。例如一个城市地图可以包含多个主题，如文化、历史、美食、购物等，以便用户可以了解城市的多个方面。
-
-所以我们认为一张丰富有趣的地图需要涵盖不同主题和信息，以便用户更好地了解地点之间的关系和联系，从而提供更全面的信息和视角。
-地图组织方式
-要实现这样的内容，需要 exping 有更好的地图组织方式，一方面帮助创作者更好地呈现内容，另一方面帮助用户快速准确地找到他们所需要的信息。
-目前 exping 采用的主题组织方式是路线，但是将路线作为分组的方式并不是那么合理，因为主题不一定总是遵循特定的路线或顺序。
-举个例子，如果我们想要展示一张城市中的艺术画廊地图，或者一个主题为露营的地图，其中可能没有一个明确的路线或顺序，这时用路线作为分组方式就会显得不太合适。因为它们不具备路线的属性，而只是某一类相近的点的集合，路线的连接展…]]></summary>
-        <author>
-            <name>一只兔子先生</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome 将能检测网址拼写错误]]></title>
-        <id>https://www.solidot.org/story?sid=75017</id>
-        <link href="https://www.solidot.org/story?sid=75017"/>
-        <updated>2023-05-22T05:56:55.000Z</updated>
-        <summary type="html"><![CDATA[Google 官方博客宣布，当用户在地址栏输入网址时 Chrome 浏览器将能检测出其中的网址拼写错误，并根据修正后的结果补全网址。该功能现在提供给 Chrome 桌面版用户，未来几个月将提供给移动版用户。Google 还宣布它为视力不佳者提供音频提示的应用 Lookout 能描述网页中的图像。该功能基于 Google DeepMind 开发的先进视觉语言模型。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老司机 iOS 周报 #245 | 2023-05-22]]></title>
-        <id>https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23245</id>
-        <link href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23245"/>
-        <updated>2023-05-22T02:26:10.000Z</updated>
-        <summary type="html"><![CDATA[你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
-新闻
-2022 App Store Transparency Report(PDF)
-苹果发布了 2022 年的 App Store 透明度报告，这也是首次发布类似报告，App Store 的透明对所有开发者与用户都是非常有益的事，我们在近几年看到越来越开放的苹果，这无疑是值得肯定的。
-而这其中有很多很有参考意义的数据，大家可以自行翻阅，我们列举出其中几项：
-提交 Review 了 6,101,913 个 APP，被拒 1,679,694 个，被拒之后完成整改后通过 253,466 个。一次被拒可能会有多个原因，而频次最高的是 Performance 。
-共有 36,974,015 名开发者，2022 年封禁了 428,487 个，其中有 3338 名提起了上诉，最后申诉成功 159 个。封禁的最主要原因是 欺诈行为 。
-2022 年封禁了 282,036,628 个用户账号，避免了 $2,090,195,480 的损失。苹果不论对开发者还是用户都在付出努力保障安全。
-新手推荐
-🐎  Ranges in Swift explained with code examples
-@zoeGuo：文章介绍了 Swift 中 Range 的不同类型： ClosedRange、CountableClosedRange ，以及使用简易的操作符代替声明 Range 的使用方法和规则。并且演示了 Range 如何转化为 NSRange 使用和 Range 在字符串使用中如何处理特殊字符。文章适合 Swift 新手快速了解 Range 的使用方法。
-文章
-🐎 file behavior change in Swif…]]></summary>
-        <author>
-            <name>Release notes from iOS-Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老司机 iOS 周报 #245 | 2023-05-22]]></title>
-        <id>https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23245</id>
-        <link href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23245"/>
-        <updated>2023-05-22T02:26:10.000Z</updated>
-        <summary type="html"><![CDATA[你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
-新闻
-2022 App Store Transparency Report(PDF)
-苹果发布了 2022 年的 App Store 透明度报告，这也是首次发布类似报告，App Store 的透明对所有开发者与用户都是非常有益的事，我们在近几年看到越来越开放的苹果，这无疑是值得肯定的。
-而这其中有很多很有参考意义的数据，大家可以自行翻阅，我们列举出其中几项：
-提交 Review 了 6,101,913 个 APP，被拒 1,679,694 个，被拒之后完成整改后通过 253,466 个。一次被拒可能会有多个原因，而频次最高的是 Performance 。
-共有 36,974,015 名开发者，2022 年封禁了 428,487 个，其中有 3338 名提起了上诉，最后申诉成功 159 个。封禁的最主要原因是 欺诈行为 。
-2022 年封禁了 282,036,628 个用户账号，避免了 $2,090,195,480 的损失。苹果不论对开发者还是用户都在付出努力保障安全。
-新手推荐
-🐎  Ranges in Swift explained with code examples
-@zoeGuo：文章介绍了 Swift 中 Range 的不同类型： ClosedRange、CountableClosedRange ，以及使用简易的操作符代替声明 Range 的使用方法和规则。并且演示了 Range 如何转化为 NSRange 使用和 Range 在字符串使用中如何处理特殊字符。文章适合 Swift 新手快速了解 Range 的使用方法。
-文章
-🐎 file behavior change in Swif…]]></summary>
-        <author>
-            <name>Release notes from iOS-Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当我们谈 AIGC 版权的时候，我们在谈什么?——数字拼贴时代的艺术]]></title>
-        <id>https://sspai.com/post/79910</id>
-        <link href="https://sspai.com/post/79910"/>
-        <updated>2023-05-22T02:06:30.000Z</updated>
-        <summary type="html"><![CDATA[一、AIGC的定义及分类
-  围绕人工智能生成内容，主要有三个版权相关的问题：
-
-内容生成会侵犯他人版权吗？
-生成内容自身具有版权吗？
-如果有版权，归属于谁？
-
-AIGC（ Artificial Intelligence Generated Content）是指利用人工智能，来生成你所需要的内容。4 月 11 日，国家互联网信息办公室起草了《生成式人工智能服务管理办法（征求意见稿）》（以下简称《办法》）。其中第二条规定，生成式人工智能，是指基于算法、模型、规则生成文本、图片、声音、视频、代码等内容的技术。结合 1 月 10 日施行的《互联网信息服务深度合成管理规定》（以下简称《规定》）
-
-深度合成技术，是指利用深度学习、虚拟现实等生成合成类算法制作文本、图像、音频、视频、虚拟场景等网络信息的技术，包括但不限于：
-（一）篇章生成、文本风格转换、问答对话等生成或者编辑文本内容的技术；
-（二）文本转语音、语音转换、语音属性编辑等生成或者编辑语音内容的技术；
-（三）音乐生成、场景声编辑等生成或者编辑非语音内容的技术；
-（四）人脸生成、人脸替换、人物属性编辑、人脸操控、姿态操控等生成或者编辑图像、视频内容中生物特征的技术；
-（五）图像生成、图像增强、图像修复等生成或者编辑图像、视频内容中非生物特征的技术；
-（六）三维重建、数字仿真等生成或者编辑数字人物、虚拟场景的技术。
-
-以上外延和内涵，囊括了市面上所有 AIGC 软件，以此作为 AIGC 的定义。
-二、AIGC 运作原理中的版权侵权风险
-AI 模型的形成阶段：将他人版权作品作为训练数据
-1 月 23 日，美国漫画家们针对三家 AIGC 商业应用公司发起集体诉讼，指控其开发的 AIGC 软件构成版权侵权，理由是在训练 AI 模型前，将他们的作品从网络下载并存储副本，导致他们多年塑造的作品风格被 AI 效仿。另外的例子是，Open A…]]></summary>
-        <author>
-            <name>冬青白</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让你读论文上瘾的工具:Semantic Scholar]]></title>
-        <id>https://sspai.com/post/79876</id>
-        <link href="https://sspai.com/post/79876"/>
-        <updated>2023-05-22T02:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Semantic Scholar 是一个免费的、由人工智能推荐算法驱动的科学文献研究工具，由 Allen Institute for AI 开发。这篇文章，我想分享一下，关于 Semantic Scholar 的一些使用经验。Semantic Scholar | AI-Powered Research Tool
-
-基于文件夹内的论文推荐论文
-Semantic Scholar 里，我最喜欢的功能是，它可以基于你文件夹里收藏的论文，使用推荐算法去把和这些论文相关的论文推荐给你。下面是我根据自己的兴趣整理了论文，将文件夹分成了aigc、Favourite、health、museum等类别。你也可以根据自己的兴趣分类文件夹。
-
-当你把论文整理到对应的文件夹里，在首页的论文推荐流里，你就可以看到对应文件夹下推荐的论文了，比如说它会明确告诉告诉你:这是基于你收藏在museum这个文件夹里的论文推荐的论文。
-
-如果你文件夹类别比较多的话，它也有 View Your Research Feeds选项，帮你选择你目前最感兴趣的几个文件夹去浏览推荐的论文。
-
-基于单篇论文推荐论文
-除了基于特定文件夹里收藏的论文做算法推荐，它也会基于单篇论文做相关推荐。你可以在这篇论文的 Related Papers 板块看到所有与这篇论文类似的论文。
-
-当然，单篇paper的引用和被引用的相关paper也是很方便去查看的。
-
-基于作者推荐论文
-如果你有特别喜欢的作者，你可以关注这个作者，关注以后，如果这个作者有最新的论文，首页的论文推荐流里会有一个专门的板块提醒你所关注作者的最新论文。
-
-Semantic Scholar Chrome插件
-Semantic Scholar也有对应的Chrome插件，使用 Semantic Scholar Chrome插件 ，它可以自动解析当前网页的论文，让你很方便地跳转到Semantic Scholar里进行相应论文的阅读。
-
-上面就是我最喜欢的一些Semantic Scholar上的功能了，用了上面的这些功能也的确帮我培养了持续阅读论文的好习惯。
-希望对你有帮助，有帮助的话，记得充电。]]></summary>
-        <author>
-            <name>ErinChen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华硕修复导致路由器故障的远程推送]]></title>
-        <id>https://www.solidot.org/story?sid=75016</id>
-        <link href="https://www.solidot.org/story?sid=75016"/>
-        <updated>2023-05-21T16:07:27.000Z</updated>
-        <summary type="html"><![CDATA[本周三，世界各地的华硕路由器用户报告其设备突然发生故障，无法联网，反复重启之后路由器在数分钟内就因为内存耗尽而停止工作。对日志的分析显示，在发生故障前华硕向内置安全守护程序 ASD 推送了一个损坏的定义文件，路由器自动更新之后就崩溃了。华硕周五承认此次故障是因为服务器配置文件的一个配置错误导致的。它已经修复了故障，大部分用户只需要重启设备。如果重启无法解决问题，华硕建议用户保存当前配置设置，恢复出厂设置。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本警方首次逮捕了一名上传游戏视频的 YouTube 主播]]></title>
-        <id>https://www.solidot.org/story?sid=75015</id>
-        <link href="https://www.solidot.org/story?sid=75015"/>
-        <updated>2023-05-21T15:51:17.000Z</updated>
-        <summary type="html"><![CDATA[52 岁的名古屋居民 Shinobu Yoshida 成为日本第一位因为向 YouTube 上传游戏视频而被捕的主播。他上传了著名视觉小说游戏《命运石之门（Steins;Gate）》系列中《比翼双飞的恋人》的游戏视频，《命运石之门》动漫改编以及《Spy x Family》动漫。《命运石之门》的版权持有人角川书店认为此举是非法的，因为视觉小说和其它类型的游戏不同，它更接近于小说或电影，观看此类的游戏视频类似盗版电影。 日本版权组织 CODA 称，在原则上发布游戏视频需要征得版权所有者的许可。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美光公司的内存芯片被限制在华销售]]></title>
-        <id>https://www.solidot.org/story?sid=75014</id>
-        <link href="https://www.solidot.org/story?sid=75014"/>
-        <updated>2023-05-21T15:30:47.000Z</updated>
-        <summary type="html"><![CDATA[网信办发表声明，美光公司在华销售的产品未通过网络安全审查。声明称：“审查发现，美光公司产品存在较严重网络安全问题隐患，对我国关键信息基础设施供应链造成重大安全风险，影响我国国家安全。为此，网络安全审查办公室依法作出不予通过网络安全审查的结论。按照《网络安全法》等法律法规，我国内关键信息基础设施的运营者应停止采购美光公司产品。此次对美光公司产品进行网络安全审查，目的是防范产品网络安全问题危害国家关键信息基础设施安全，是维护国家安全的必要措施。中国坚定推进高水平对外开放，只要遵守中国法律法规要求，欢迎各国企业、各类平台产品服务进入中国市场。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeWeavers 转变成由员工所有权信托控制的公司]]></title>
-        <id>https://www.solidot.org/story?sid=75013</id>
-        <link href="https://www.solidot.org/story?sid=75013"/>
-        <updated>2023-05-21T15:15:13.000Z</updated>
-        <summary type="html"><![CDATA[如果你在 Linux 上玩 Windows 游戏如使用 Valve 的掌机 Steam Deck，那么你需要感谢 CodeWeavers 公司。该公司是 Wine 程序的最主要贡献者。CodeWeavers 创始人兼 CEO Jeremy White 在领导公司 27 年之后决定“翻开新的一章”，作为公司最大的股东，他决定将 CodeWeavers 转变成一家员工所有权信托（employee ownership trust）控制的公司。公司总裁 James Ramey 担任 CEO，研发总监 Ulrich Czekalla 担任总裁，Jeremy White 继续担任公司董事会主席。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔探索仅 64 位的 x86S 架构]]></title>
-        <id>https://www.solidot.org/story?sid=75012</id>
-        <link href="https://www.solidot.org/story?sid=75012"/>
-        <updated>2023-05-21T14:58:46.000Z</updated>
-        <summary type="html"><![CDATA[自 Windows 7 时代以来，大部分 PC 用户运行的 Windows 操作系统都是 64 位，搭载的内存超过了 4GB，64 位应用和游戏都逐渐成为了主流。对芯片巨人而言，是时候简化 x86 指令集架构了。英特尔发表了一份白皮书，探索了仅 64 位的 x86S 架构，主要包括：用 64 位的简化分段模型分段支持 32 位应用；移除 ring 1 和 2，以及过时的分段功能如门；移除 16 位寻址支持；移除对 ring 3 I/O 端口访问的支持；移除字符串端口 I/O；限制本地中断控制器（APIC）使用 X2APIC，移除 8259 支持；移除未使用操作系统模式位。64 位的 x86S 芯片仍然支持 32 位应用，但不再支持 32 位操作系统。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「心光」对标签的重新思考与设计：智能自动分类、灵活追踪、深度追问]]></title>
-        <id>https://sspai.com/post/79927</id>
-        <link href="https://sspai.com/post/79927"/>
-        <updated>2023-05-21T13:50:48.000Z</updated>
-        <summary type="html"><![CDATA[对于信息的整理，我觉得有过两个有标志性的时代：文件夹和标签。
-最早的时候，我们用「文件夹📁」来将信息分门别类，优势是看起来整整齐齐，很容易就有了一个树形结构；弊端也很明显，一个文件只能呆在一个文件夹中，在文件夹和子文件夹中来回查找管理成本极高。
-近几年，「标签🏷️」开始流行。标签系统灵活度极高，使用标签和子标签也能实现类似文件夹嵌套的管理方式，看起来是最优解；但灵活背后的成本是记录要求变高。每次记录都需要先选择标签，不写标签则杂乱无章，每次都选标签思考成本高且消磨记录积极性。
-有没有更好的方法呢？
-或许最方便的方法，是不在记录时考虑各种标签和归类。梳理和回顾全部交给记录后，软件为你处理。
-在记录时：你只需要专注记录内容本身。这样记录过程中就不会被我需要将丢到哪个文件夹中，放在哪个标签分类以便回溯而打断。比如你想记录的内容是「给家里的猫咪买了个新的玩具」，如实记录即可，不需要任何额外操作。
-在记录后：软件会自动帮你分类放好。进一步的，你还可以自己主动对感兴趣的内容进行追踪。未来回顾时，你可以对于过去的所有记录直接提问。
-这便是我们在过去一年中，构思的新一代记录系统，并且将这一套理念集成在了心光 App 里。
-智能自动分类
-下图左边的「今天」界面是心光输入的地方。在这里你可以输入文字及图片，只需要专注记录就好，不需要输入任何除了记录之外的信息。图中我记录了一些关于猫咪的想法。
-下图的右侧，是输入完成后，心光「画廊」自动进行的梳理。可以看到心光自动为这一天起了一个有趣的标题：伸出小胖爪。扫一眼就能看到这一天的标志性事件。
-让我们继续将目光放在下图右侧，出现了不是你自己记录的，心光自动生成的 Emoji 猫猫头🐱。这便是心光的自动分类系统，它会对于你的每一条目自动进行归类，方便你未来回顾。比如猫头的图标，就是帮你归在了宠物类别。
-左侧专注记录，右侧自动归类
-你也许会担心，如果…]]></summary>
-        <author>
-            <name>王禹效</name>
         </author>
     </entry>
 </feed>
