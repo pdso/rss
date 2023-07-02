@@ -34,16 +34,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 258 期）：卡马克的猫",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n河南省驻马店市赶在大雨之前，连夜抢收小麦，100架无人机提供夜间照明。这种无人机带着电线升空，通过地面车辆供电，可以连续照明10小时。（via）\n黄仁勋的 Nvidia 故事\n黄仁勋大概是硅谷最有影响力的华人。\n\n1993年，他跟两个朋友一起创办了芯片设计公司 Nvidia（中文名\"英伟达\"）。当时是小公司，可现在是美国第五大科技公司（仅次于苹果、微软、谷歌和亚马逊）。\n十年前，如果你买了 Nvidia 的股票，现在都要笑死了，因为它上涨了105倍！最近十年美国涨幅第一名的股票就是它。\n\n上周，黄仁勋突然出现在台湾，被拍到在饶河街夜市买小吃。\n\n后来大家才知道，他要参加5月27日的台大毕业典礼，他是今年的演讲嘉宾。\n\n我推荐这个演讲，网上有全文。原文是英语，已经译成中文。\n他只讲了20分钟，但是解开了我心中一直的疑问：Nvidia 是怎么发家的。下面就是我根据这个演讲，整理出来的 Nvidia 的故事。\n黄仁勋说，为什么要创立 Nvidia？因为我们看好加速计算。\n人类对计算速度的要求一定会越来越高，CPU 只能做通用计算，加速计算需要定制的专用硬件，所以我们的创业目标就是加速计算的硬件。\n市场需求量最大的加速计算硬件，就是游戏的图形芯片（GPU），所以我们选择游戏显卡作为创业产品。我们只做芯片设计，生产全部外包。\n1994年，我们的第一个客户是日本游戏公司 SEGA，我们为它的游戏主机设计显卡。\n\n（图片说明：Nvidia 的第一个产品，SEGA 游戏机的 NV1 显卡。）\n但是第二年，微软发布了 Windows 平台的图形接口 Direct3D。我们一下子就慌了，因为它跟我们的设计是冲突的。…",
-          "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html",
-          "publishedOn": "2023-06-01T23:58:21.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事",
-          "imageUrl": null
         }
       ]
     },
@@ -747,46 +737,6 @@
           "wordCount": 1642,
           "title": "ChatGPT开源项目手册（01期）：1篇万字长文，35个项目",
           "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/80140",
-          "author": "维城产品花园",
-          "description": "我是一个产品经理，在做产品过程中就会有大量的信息收集需求，有时候是一篇文章，有时候是某个产品，有时候就是某个好看的设计。\n保存文章有很好的文章保存工具，比如 Cubox 这种剪藏产品。\n保存网站、设计参考，用花瓣截图也勉强能用。\n极端的情况要保存网页交互，还可以用 Singlefile 这种扩展把整个网页给离线保存下来，虽然存下来之后基本也不好再去打开了。\n每一个方案都有用，但又不够用。我希望的是，当我做一个项目的时候，我能够把这个项目相关的所有资料都收集到一起，可以是一篇文章、一张图片、一个网站或者就是一个普通的文件。\n有没有这样的产品？本来没有，不过现在有了，就是我和我的小伙伴一起做的 Pixcall 。（ps：作为创造者的好处，就是可以让自己做的产品 100% 得去满足自己的需求）\n\n \nPixcall 是什么？\n简单来说就是 Pixcall 的底层是一个同步网盘，并且在这个同步网盘的基础上有一个功能强大的客户端可以管理同步文件夹里的文件，可以给文件打标签、加链接什么的。更多 Pixcall 可以查看 Pixcall 官网，本文的重点是针对产品经理的收藏需求这个场景 Pixcall 能做什么。\n \n比如最近 AI 能力大爆发，必然地我得关注起来。\n先建个 AI 文件夹，然后在 AI 这个文件夹下面再建一个专门放资料的子文件夹\n\n​\n碰到有价值的资料，比如陆奇演讲的 PPT ，有价值的文章我就都存到资料这个文件夹里，而且可以直接在 Pixcall 里预览，不用打开浏览器或者PowerPoint。\n\n​\n最爽的是用 Pixcall 的浏览器扩展保存网站。作为产品经理，最直观的信息来源还是看各种各样的产品，这个时候就可以用 Pixcall 来一键保存觉得有参考价值的产品对应的网页，这个网页是以单个 mhtml 文件保存在本地的，对大部分网页而言可以完整保留你保存时看到的完整信息，而且可以离线访问，原始网页删除了或者变更了都不影响你的收藏。\n\n​\n \n当然如果只是保存个 mhtml 文件，single-file 这样的浏览器扩展也能做，Pixcall 厉害的是，保存在本地文件夹里的 mhtml 你在 Pixcall 客户端里，你是能看到预览的，而且可以编辑每个网页的标签、描述、评级等信息。比如我，就保存了几百个我觉得有参考价值的 AI 产品。\n\n​\n使用 Pixcall 让我：\n🌈 可以在一个地方管理某个项目相关的所有资料，文档、图片、文章、网页等各种类型的文件，而且能在 Pixcall 里直接预览。\n🌈 可以用 mhtml 完整保存某个产品的相关网页，而且可以预览、搜索，本地完整保留原始信息，还可以方便链接到原始网页。\n\n​\n \n产品经理真得不能错过 Pixcall，不是因为 Pixcall 是我们做的，而是在做 Pixcall 的时候，我让我们团队给我（一个产品经理）开了小灶，让 Pixcall 对产品经理整理信息这个场景做了特别优化。",
-          "link": "https://sspai.com/post/80140",
-          "publishedOn": "2023-06-02T09:09:39.000Z",
-          "wordCount": 740,
-          "title": "产品经理的收藏神器 -- Pixcall",
-          "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/80135",
-          "author": "玉树芝兰",
-          "description": "原型系统的开发对很多不会编程的人来说，原本确实是一道门槛，而且看似难以逾越。而现在，障碍突然间就消失了。\n\n插件\nChatGPT 现在有了一个内容比较丰富的插件系统，而且 Plus 用户已经不再需要填表申请后漫长等待，直接就可以使用了。\nChatGPT 插件系统现在已经有一百多款插件。前些日子要想找某个插件，你只能一页一页地翻。每一页上有 8，当时一共 150 多个插件，所以你运气不好的话，可能得翻上十几二十页，才能找到想要的插件。\n\n现在好了，ChatGPT 提供了一个插件搜索框。我今天推荐的这款插件，你直接的在插件商店里面搜索名称就能找着了。\n我给你演示的这个插件，叫做 DeployScript。它是做什么的呢？\n\n它的图标下面介绍言简意赅，说是 DeployScript 可以帮助你来创建 web 应用。可是如果编写 Web 应用代码，ChatGPT 本身就可以啊。不管是 Python，Javascript 还是 HTML，ChatGPT 都认识。为什么还需要一个插件呢？\n我第一次安装 DeployScript 插件后，用邮箱开通帐号。然后 DeployScript 给我发了邮件。\n\n根据官方介绍，它能够让你「通过对话方式来创建 Web 应用」。我看了还是觉得疑惑 ——ChatGPT 本身就是个对话机器人啊，之前编程不也是对话式吗？\n尝试\n一头雾水之下，我干脆尝试一下这个插件的功能。我说：\n\n你给我做一个计算器应用，谢谢\n\n于是，DeployScript 就开始工作了 ——ChatGPT 在调用插件的时候，一般不会显示细节。如果你希望看具体的操作步骤，可以点击上图中调用过程右侧向下箭头。\n你会看到 DeployScript 首先创建资源，然后给咱们的新应用分配了唯一的标识符。\n\n之后 DeployScript 给这个标识符对应的空间创建 index.html` 文件，也…",
-          "link": "https://sspai.com/post/80135",
-          "publishedOn": "2023-06-02T07:39:51.000Z",
-          "wordCount": 727,
-          "title": "如何用 ChatGPT 一句话生成 Web 应用？",
-          "imageUrl": "https://cdn.sspai.com/2023/06/02/0e96c0dc116fe543526a52531ac27618.png"
-        },
-        {
-          "id": "https://sspai.com/post/80117",
-          "author": "tigerpillow",
-          "description": "大家好，这是我的第一篇少数派文章，请多多包涵。\n笔者一直比较喜欢跑步，目前完成了四个马拉松，PR3小时40分。最近看朋友圈，发现很多朋友都开始跑步，甚至跑了自己的第一个10K，第一个半马。我相信很多人都开始对“完成一个全马“这件事蠢蠢欲动。跑全马不是不可及的事情，是稍微跳一跳就够得着的目标。本篇就是作为一份切实的指南，帮助大家实现自己的小目标，拥有一个新的人生体验。\n\n1. 我准备好了吗？\n很多人的第一个问题是：”我能够跑的下来嘛？”，或是 “我什么时候可以挑战全马？”\n我根据（我极其有限的）经验写了以下几种情况。我这里提供的建议，是为”优雅地跑完全程“而准备的，能够对自己负责地跑下来。当然如果你毫无准备，7小时关门的比赛走下来也是有可以的。马拉松还是有一定风险的，经常听到猝死案例，不建议大家毫无准备的去。\n身体条件\n\n首先，就是要有健康的身体，没有大的伤病，韧带，关节，心脏功能等等都正常。这里不做赘述，请咨询医生。\n其次，是要有一定跑步基础：\n如果你上一次跑步是中考800米，或者大学体测，那么你离优雅的跑马拉松大概有1年以上的距离。\n如果你能顺利的跑下一个3K (25min) /5K (40min)，那么你经过较长时间的系统训练（半年到一年左右），是可以优雅的跑下来一个全马的。\n如果你能顺利的跑下来一个10K, 20K, 或者半程，那你是完全可以准备全马啦。\n\n\n时间条件\n很多人在跑马拉松之前会忽略一个问题：我有没有足够的时间训练？备马到中途或顶峰期，会需要70km/周的跑量。如果按照你每小时十公里来算，那就是至少7个小时，加上热身，拉伸，洗澡等时间，会达到十几个小时/周。如果你工作已经是早10晚10，本身睡眠就很不足了，在此之上再训练会很困难。\n经济条件\n\n装备：跑步是一项很便宜的运动，买一双好的鞋，几套能换洗的运动衣足以。如果冬天训练的话要注意加减长袖背心。其他很有帮…",
-          "link": "https://sspai.com/post/80117",
-          "publishedOn": "2023-06-02T05:55:37.000Z",
-          "wordCount": 728,
-          "title": "跳一跳够得着：如何跑你的第一个全程马拉松？",
-          "imageUrl": "https://cdn.sspai.com/2023/06/01/cd751c5d5acc577f9de69aeb8ea3642a.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/80125",
-          "author": "史圣园",
-          "description": "AI 浪潮来袭，技术和产品的新消息奔涌而来，最兴奋的是年轻极客们。\n他们有好奇之心，也有改变之力。他们大多是互联网从业者，乐于思考的职业习惯早已融入生活。他们相信，未经审视的日子是不值得过的，所以常常打量自己的日常，寻找有哪些可以优化的地方。\nChatGPT 的出现，让问题的解法更有想象力，也让敲下一行代码、发布一款产品变得更容易。\n我找到了三位年轻的开发者，聊了聊 AI 时代的产品想法、独立开发。\n他们身上有许多共同点：都有互联网大厂的背景，熟悉软件产品的设计和开发流程，目前都有自己的本职工作。在他们身上，也有着相似的理想主义。\n他们的团队都不大，一个人就是一个队伍，顶多拉上几个志同道合的朋友，开发了生成式 AI 的应用。他们的产品想法，都源自于自己的需求：「我就是自己产品的重度用户。」\n产品从想法到落地，动作也颇为敏捷，几天到一周的时间便已足够：吕立青自己花了一周时间，做出了第一版本的 BibiGPT 。海松借着即刻举办「黑客马拉松」活动的契机，拉上了同在大厂工作的设计师、程序员，用了一周时间孕育了减压笔记。菜脯有了想法后，第一个版本是付费找人写的，后来开始自己学着上手。现在，他和一个后端开发朋友一起维护产品。\n开发时间短、上手更轻松，当然很好。但同时，这是否意味着，AI 上层应用的开发，是片「卷生卷死」的红海？\n面对竞争，三位开发者的开放态度惊人一致：「没有真正的技术壁垒」，「竞争是好事情」，「一起把蛋糕做大」。\n同时，他们也会畅想，哪一天用户规模足够大了，也许可以辞掉自己的主业工作，all in AI+ 的创业浪潮。\n「AI 能力是乐高积木块」 \n吕立青，8 年软件开发经验，前阿里、Thoughtworks 开发工程师，目前为一个海外团队远程工作，也是一名UP主。身为全栈工程师的他，却一直有颗做产品的心。\n他开发的「BibiGPT」，可以让 AI 帮你一键总结 Bi…",
-          "link": "https://sspai.com/post/80125",
-          "publishedOn": "2023-06-02T02:12:21.000Z",
-          "wordCount": 747,
-          "title": "大模型让AI开发者更佛系？",
-          "imageUrl": "https://cdn.sspai.com/2023/06/02/b800d1efea2b08011b96b3155c4b4a7f.jpg"
         }
       ]
     },
@@ -844,6 +794,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75395",
+          "author": null,
+          "description": "《使命召唤》游戏开发商披露了最新的反作弊技术：让作弊者与虚假的玩家影像对战，让其他玩家免受干扰的游戏。如果反作弊程序检测到有人可能使用了作弊工具，比如爆头率 100%，能瞄准视线外的目标，游戏将会使用名为“幻象（hallucination）”的反制措施，在作弊者附近投射虚假的玩家影像，这种幻象的外观、动作和行为与真实的玩家一样，此举旨在让作弊者忙碌起来，如果作弊者做出了反应，他们将会被“自我认定为作弊者”。合法玩家看不到这幻象，他们可以正常游戏。",
+          "link": "https://www.solidot.org/story?sid=75395",
+          "publishedOn": "2023-07-01T15:18:34.000Z",
+          "wordCount": 142,
+          "title": "《使命召唤》用虚假的玩家影像欺骗作弊者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75394",
+          "author": null,
+          "description": "《孤岛惊魂(Far Cry)》系列的第一代源代码被人在 GitHub 和 archive.org 等平台上公开。源代码不包含游戏素材，源代码对于游戏感兴趣的用户可能具有教育意义。2004 年发布的《孤岛惊魂1》由德国公司 Crytek 开发，使用了它自己的 CryENGINE 引擎，由育碧公司发行。《孤岛惊魂1》以其出色的图形和 AI 闻名，被 GameSpot 等游戏媒体评为年度射击游戏。《孤岛惊魂》系列的后续作品全部改为育碧公司自己的工作室开发。",
+          "link": "https://www.solidot.org/story?sid=75394",
+          "publishedOn": "2023-07-01T14:44:27.000Z",
+          "wordCount": 164,
+          "title": "Far Cry 源代码公开",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75393",
+          "author": null,
+          "description": "荷兰政府周五宣布对半导体设备出口实施新的限制，贸易部长 Liesje Schreinemacher 表示此举是出于国家安全的考虑，因为此类设备可能具有军事用途。她没有提到新出口限制是否是针对中国。中国驻荷兰大使馆称此举是滥用出口管制措施，违反了贸易规则。荷兰公司 ASML 是世界最重要的半导体设备制造商之一，它向台积电等公司供应了极紫外（EUV）光刻机等芯片制造的核心设备。EUV 光刻机禁止对中国出口，最新规定将略次于 EUV 的深紫外（DUV）光刻机等包含在出口限制范围内。",
+          "link": "https://www.solidot.org/story?sid=75393",
+          "publishedOn": "2023-07-01T14:23:42.000Z",
+          "wordCount": 149,
+          "title": "荷兰对半导体设备出口实施新限制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75392",
+          "author": null,
+          "description": "苹果成为第一家市值突破 3 万亿美元的企业。苹果是在 2018 年市值首次突破 1 万亿美元，2020 年突破 2 万亿美元，然后不到三年之后突破 3 万亿美元。今年以来，苹果的股价上涨了接近 50%，它的旗舰产品 iPhone 手机需求一直强劲，今年晚些时候还将推出一款售价 3499 美元的增强现实产品 Vision Pro。",
+          "link": "https://www.solidot.org/story?sid=75392",
+          "publishedOn": "2023-07-01T02:23:33.000Z",
+          "wordCount": 167,
+          "title": "苹果市值突破 3 万亿美元",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75391",
           "author": null,
@@ -3353,96 +3343,6 @@
           "wordCount": 183,
           "title": "AMD 准备在 AI 领域向英伟达发起挑战",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75137",
-          "author": null,
-          "description": "UCLA 天体物理学家领导的一个国际团队使用韦伯望远镜观测到至今最黯淡的星系。被称为 JD1 的星系诞生于创世大爆炸后不久，它是如此黯淡而遥远，除了借助最强大的天文望远镜，科学家还需要引力透镜才观测到它。JD1 位于名为 Abell 2744 的星系团之后，星系团的引力放大了来自 JD1 的光，使其亮度增强了 13 倍。JD1 距离地球大约 133 亿光年，而宇宙的年龄为 138 亿年。韦伯望远镜和引力透镜的结合，将有助于科学家更好的理解早期宇宙的演化。",
-          "link": "https://www.solidot.org/story?sid=75137",
-          "publishedOn": "2023-06-02T13:09:13.000Z",
-          "wordCount": 157,
-          "title": "韦伯望远镜观测到至今最黯淡的星系",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75136",
-          "author": null,
-          "description": "如果一切按照计划进行，ESA 将在 6 月 3 日 00:00 开始从其火星快车探测器(Mars Express Orbiter)上直播火星的照片。这一壮举是为了庆祝火星快车发射二十周年。直播将持续 1 个小时，ESA 表示虽然不是真正的现场直播，但在一小时内将每 50 秒展示一幅新的火星图像。ESA 的火星快车探测器操作经理 James Godfrey 表示，通常我们看到的火星图像都是数天前拍摄的，现在我们能看到最接近火星当前面貌的图像。",
-          "link": "https://www.solidot.org/story?sid=75136",
-          "publishedOn": "2023-06-02T11:09:01.000Z",
-          "wordCount": 159,
-          "title": "首次来自火星的直播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75135",
-          "author": null,
-          "description": "俄罗斯安全公司卡巴斯基披露其数十名雇员遭遇网络攻击，该攻击利用 iOS 无点击漏洞在雇员的 iPhone 手机上植入恶意程序，收集麦克风录音、照片、地理位置等数据。卡巴斯基认为它不是攻击的主要目标。俄罗斯官员认为这次攻击是 NSA 发起的，有数千部外交人员的 iPhone 感染了恶意程序，尤其是位于北约、前苏联加盟国、以色列和中国等地的外交使团成员。俄罗斯联邦安全局认为苹果与 NSA 在这一行动中有合作。苹果代表否认了这一说法。卡巴斯基创始人 Eugene Kaspersky 称，攻击是通过带恶意附件的隐形 iMessage 执行的，利用操作系统漏洞在设备上部署和安装恶意程序。整个过程不需要用户交互。卡巴斯基将其雇员感染的间谍软件命名为 Triangulation，这次行动被称为 Operation Triangulation。",
-          "link": "https://www.solidot.org/story?sid=75135",
-          "publishedOn": "2023-06-02T10:08:03.000Z",
-          "wordCount": 180,
-          "title": "俄罗斯指 NSA 利用 iOS 无点击漏洞入侵该国数千部 iPhone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75134",
-          "author": null,
-          "description": "浏览器开发商 Brave 宣布向桌面用户提供垂直标签选项。Brave 的联合创始人是前 Mozilla CEO/CTO Brendan Eich。Brave 认为垂直标签有助于最大化屏幕空间。在升级到 v1.52 版本之后，用户只需要在现有的水平展示标签上点击右键，从菜单里选择“使用垂直标签”。用户可通过垂直标签栏的底部创建新标签。",
-          "link": "https://www.solidot.org/story?sid=75134",
-          "publishedOn": "2023-06-02T07:39:35.000Z",
-          "wordCount": 155,
-          "title": "Brave 向桌面用户提供垂直标签",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75133",
-          "author": null,
-          "description": "美国得州的一位联邦法官 Judge Brantley Starr 为参加其庭审的律师制定了一项新规定：禁止递交 AI 撰写的材料，除非其正确性经过了人类验证。法官还要求律师递交保证书，证明其递交的文件是人类撰写或经过了人类的审核。法官要求每个案件都递交一份证明，他表示目前的生成式 AI 容易产生幻觉和偏见，它们会捏造故事，包括引述和引文。在这之前纽约律师 Steven Schwartz 使用  ChatGPT 帮助撰写了法庭文件，引用了 6 个捏造的案例。",
-          "link": "https://www.solidot.org/story?sid=75133",
-          "publishedOn": "2023-06-02T07:17:57.000Z",
-          "wordCount": 164,
-          "title": "美国法官禁止 AI 撰写的材料除非人类验证了其精确性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75132",
-          "author": null,
-          "description": "索尼克之父中裕司因内幕交易面临 2 年半徒刑。中裕司是在 2022 年 11 月被捕的，他是《索尼克系列》和《梦幻之星网络版》的创造者。中裕司被控在游戏公司史克威尔艾尼克斯（Square Enix）工作期间获悉了《Dragon Quest Tact》的重要情报，该游戏由史克威尔艾尼克斯和 Aiming 共同开发，当时这一消息还没有披露。在游戏相关消息宣布前，中裕司购买了大约 1 万股的 Aiming 股票价值约 280 万日元。中裕司已在今年 3 月认罪，本周的庭审主要是围绕量刑。检方认为内幕交易破坏了市场公平性，辩方律师认为当事人没有主动阅读内幕消息请求缓刑。检方要求判 2 年半徒刑，以及罚款 250 万日元，追加罚款 1.7 亿日元。",
-          "link": "https://www.solidot.org/story?sid=75132",
-          "publishedOn": "2023-06-02T06:46:53.000Z",
-          "wordCount": 175,
-          "title": "索尼克之父中裕司因内幕交易面临 2 年半徒刑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75131",
-          "author": null,
-          "description": "一个多世纪以来，研究人员一直认为，决定我们经历、希望和梦想的大脑活动模式，是由大脑不同区域如何通过一个由数万亿细胞连接组成的复杂网络相互交流决定的。发表在《自然》期刊上的一项研究检查了 1 万多种不同的人类大脑活动图，发现一个人的大脑的整体形状对我们的思维、感觉和行为的影响要比它复杂的神经元连接大得多。研究人员称，大脑形状对于大脑功能，就像鼓的形状影响它发出的声音一样。",
-          "link": "https://www.solidot.org/story?sid=75131",
-          "publishedOn": "2023-06-02T06:36:30.000Z",
-          "wordCount": 144,
-          "title": "人脑形状对其功能至关重要",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75130",
-          "author": null,
-          "description": "研究 UAP(不明异常现象)的 NASA 专家组成员举行公开会议，称无令人信服的证据表明 UAP 与外星生命相关。专家组主席 David Spergel 表示，到目前为止，军方标记的大多数“不明”现象最终都是气象气球、无人机、未公开的军用飞机或摄像头故障。“不太可能有外星人在太空中旅行，并且使用与我们现在非常相似的技术。”没有一个 UAP 证实有外星人存在。“我们还没有看到非同寻常的事情。”大多数事件最终都变得平淡无奇。小组成员 Scott Kelly 曾是 NASA 宇航员和海军飞行员，他讲述了他在美国弗吉尼亚海岸驾驶一架 F-14 飞机时，他的副驾驶发誓说看到了UAP。“我们转回去看了看，原来是一个气球。”",
-          "link": "https://www.solidot.org/story?sid=75130",
-          "publishedOn": "2023-06-02T06:08:23.000Z",
-          "wordCount": 174,
-          "title": "NASA 委员会称无令人信服的证据表明 UAP 与外星生命相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75129",
-          "author": null,
-          "description": "在苹果预计下周宣布其 VR/MR 设备前，Meta 宣布了起售价 499.99 美元的 Quest 3 VR 头显，比上一代的 Quest 2 薄 40%，分辨率更高，性能更强。Meta 同时宣布从 6 月 4 日起上一代 Quest 2 的 128GB 版本价格降至 299.99 美元。Meta 未公布 Quest 3 完整技术规格，只是表示处理器是它与高通合作研发的下一代骁龙芯片组，图形性能超过前一代的两倍，在 VR 游戏中将能获得更流畅的性能和更多的细节。",
-          "link": "https://www.solidot.org/story?sid=75129",
-          "publishedOn": "2023-06-01T15:13:53.000Z",
-          "wordCount": 193,
-          "title": "Meta 宣布 Quest 3 VR 头显",
-          "imageUrl": null
         }
       ]
     },
@@ -3451,6 +3351,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/744985/",
+          "author": null,
+          "description": "6 月 30 日，有消息称小米印度正在进行大规模裁员。一位小米印度员工在接受媒体时透露，目前公司员工数量已从 1400 人至 1500 人减少到约 1000 人。过去一周内公司就解雇了约 30 名员工，未来几个月可能会有更多人被裁。 小米印度方面对第一财经回应称：“与任何公司一样，我们会根据市场状况\n本文链接",
+          "link": "https://news.cnblogs.com/n/744985/",
+          "publishedOn": "2023-07-02T00:21:00.000Z",
+          "wordCount": 163,
+          "title": "小米印度密集裁员？ 官方回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744984/",
+          "author": null,
+          "description": "高级机密有时候会用最朴素的保密方式。 微软收购动视暴雪的商业行为，本月终于迎来了最后阶段的“裁决”。此前我们也曾报道过，如此大规模的收购举动，往往会面临关于“反垄断”方面的审查，而此前也已经有多家机构和公司联名抗议这种收购行为。 就在上周，美国联邦贸易委员会（FTC）向法院申请了禁令，试图阻止微软收\n本文链接",
+          "link": "https://news.cnblogs.com/n/744984/",
+          "publishedOn": "2023-07-02T00:17:00.000Z",
+          "wordCount": 163,
+          "title": "索尼大量机密信息遭泄露，原因是他们用记号笔打码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744983/",
+          "author": null,
+          "description": "取舍之间，未来的“扫地茅”，会走向何方？ 作者缪凌云武丽娟 编辑丨高岩 来源野马财经 从股权比例到业务合作，石头科技正在与小米多方位脱钩，甚至在商业层面，昔日亲密的伙伴，成为了重要竞争对手。 6 月 29 日，“小米系”资本再度减持“扫地茅”石头科技(688169)，顺为、天津金米最新减持公司合计 \n本文链接",
+          "link": "https://news.cnblogs.com/n/744983/",
+          "publishedOn": "2023-07-02T00:10:00.000Z",
+          "wordCount": 163,
+          "title": "“小米系”再撤退，大股东们为何抛弃“扫地茅”石头科技？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744982/",
+          "author": null,
+          "description": "财联社 7 月 1 日讯（编辑赵昊）今年上半年，电动汽车制造商特斯拉股价涨势如虹，其充电器设计——北美充电标准（NACS）功不可没。 自去年推出 NACS 充电口以来，特斯拉的充电器已经被包括通用汽车、福特、沃尔沃、Rivian 和北极星在内的电动汽车竞争对手采用。其他较为普及的充电站网络，如 Ch\n本文链接",
+          "link": "https://news.cnblogs.com/n/744982/",
+          "publishedOn": "2023-07-02T00:09:00.000Z",
+          "wordCount": 163,
+          "title": "前特斯拉顶级高管：北美充电标准（NACS）热潮略有夸张 要警惕充电垄断",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744981/",
+          "author": null,
+          "description": "每经编辑孙志成 世界那么大，都想去看看。 一直以来，美国《国家地理》杂志用高质量的图片和文章，将全球各地的自然奥秘、社会历史以及风土人情送到了读者手上。而这份沉甸甸的厚重感将不复存在。 近年来，美国迪士尼集团旗下各部门不断裁员，连《国家地理》也没能幸免。 据美国有线电视新闻网（CNN）报道，近日，《\n本文链接",
+          "link": "https://news.cnblogs.com/n/744981/",
+          "publishedOn": "2023-07-02T00:02:00.000Z",
+          "wordCount": 163,
+          "title": "135年历史的《国家地理》宣布：解雇最后一批专职撰稿人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744980/",
+          "author": null,
+          "description": "IT 之家 7 月 1 日消息，台积电近日向国外科技媒体 TechCrunch 证实，公司遭到了网络攻击，部分数据泄露。 台积电发言人表示，本次网络安全事件导致“与服务器初始设置和配置相关”的数据泄露，但台积电客户信息并未受到影响。 IT 之家翻译台积电部分官方声明如下： 台积电经过审查，本次网络安\n本文链接",
+          "link": "https://news.cnblogs.com/n/744980/",
+          "publishedOn": "2023-07-01T23:55:00.000Z",
+          "wordCount": 163,
+          "title": "台积电遭攻击，黑客用数据威胁索要 7000 万美元赎金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744979/",
+          "author": null,
+          "description": "编译张铭滟 编辑云鹏 智东西 6 月 29 日消息，据 ZDNet 报道，苹果 Vision Pro 的 VR 边界防护（guardian space）系统比 Meta Quests 的更小。尤其在使用健身、游戏和其他运动应用程序时，Vision Pro 未必会像你期待的那样随心所欲。 Mimir \n本文链接",
+          "link": "https://news.cnblogs.com/n/744979/",
+          "publishedOn": "2023-07-01T23:49:00.000Z",
+          "wordCount": 163,
+          "title": "只有9平米！苹果Vision Pro运动边界范围首次曝光",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744978/",
+          "author": null,
+          "description": "界面新闻记者徐诗琪 6 月 30 日，格力电器举行 2022 年度股东大会。作为A股“话题明星”之一，现场出席股东多达 186 人，有众多中小股东及机构代表参与。董事长董明珠仍是绝对的主角，她在现场回答了包括格力钛、分红、员工人数减少等外界关注的争议性问题。 现场多位投资者提到格力钛的亏损困境。格力\n本文链接",
+          "link": "https://news.cnblogs.com/n/744978/",
+          "publishedOn": "2023-07-01T23:42:00.000Z",
+          "wordCount": 163,
+          "title": "董明珠：近几年格力员工数减少是正常的，格力钛“填坑”需要一定时间",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744977/",
+          "author": null,
+          "description": "「核心提示」 赛力斯和华为同床异梦，在问界销量不错时，局内关系还能维持稳定。当问界失速时，真正的考验到来。 作者 佘伟航 编辑 邢昀 从面世至今，AITO 问界、赛力斯和华为三者纠缠不清的关系，一度让外界摸不着头脑。 这场合作中参与方各怀心思。华为一方面极力否认造车计划，一边受让 21 个“问界”商\n本文链接",
+          "link": "https://news.cnblogs.com/n/744977/",
+          "publishedOn": "2023-07-01T23:36:00.000Z",
+          "wordCount": 163,
+          "title": "问界撑得起华为的野心吗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744976/",
+          "author": null,
+          "description": "雷达财经鸿途出品文孟帅编深海 AI 赛道再起风云。6 月 26 日，美团斥资 20 多亿元收购 AI 明星创业公司光年之外的消息，在科技圈和创投圈强势刷屏。 据美团发布的公告显示，其将以 2.34 亿美元、承担 3.67 亿元人民币的债务以及现金 1 元人民币的总代价，收购由王慧文创立的光年之外的 \n本文链接",
+          "link": "https://news.cnblogs.com/n/744976/",
+          "publishedOn": "2023-07-01T23:29:00.000Z",
+          "wordCount": 163,
+          "title": "“老王”救“老王”，王慧文将光年之外托付给王兴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744975/",
+          "author": null,
+          "description": "出品｜虎嗅商业消费组 作者｜黄青春 题图｜视觉中国 哔哩哔哩（下简称 B 站 ）正以一己之力尝试一项颠覆行业共识的产品改进。 6 月 26 日晚间，B 站 CEO 陈睿发表公司 14 周年主题演讲，宣布 B 站将以“播放分钟数”（用户实际观看视频所花费时间）代替目前的 “播放量”。 陈睿称，平台内容\n本文链接",
+          "link": "https://news.cnblogs.com/n/744975/",
+          "publishedOn": "2023-07-01T23:22:00.000Z",
+          "wordCount": 163,
+          "title": "B站掀桌子了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744974/",
+          "author": null,
+          "description": "来源：央视新闻客户端 青藏铁路西宁至格尔木段“复兴号”动车组今天正式投入运营，标志着青藏铁路正式进入动车时代。 “复兴号”正式在青藏铁路投入运行 首发列车 C891 次发车 总台记者宋宇豪：我现在就在西宁站的列车站台，我身后就是即将发车的青藏铁路首列复兴号动车组 C891 次列车。可以看到车身上，“\n本文链接",
+          "link": "https://news.cnblogs.com/n/744974/",
+          "publishedOn": "2023-07-01T23:16:00.000Z",
+          "wordCount": 163,
+          "title": "“复兴号”正式在青藏铁路投入运行 青藏铁路正式进入动车时代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744973/",
+          "author": null,
+          "description": "财联社 7 月 1 日讯（编辑牛占林）受围绕其汽车充电技术成为行业标准的兴奋情绪推动，特斯拉股价继续高歌猛进，年内飙升逾 113%。未来几天，投资者聚焦于一个数据：该公司在最近一个季度交付了多少辆汽车？ 这家全球最大的电动汽车制造商已经大幅下调了所有车型的价格，以捍卫自己的市场地位，而竞争对手正试图\n本文链接",
+          "link": "https://news.cnblogs.com/n/744973/",
+          "publishedOn": "2023-07-01T23:12:00.000Z",
+          "wordCount": 163,
+          "title": "特斯拉二季度交付量再创新高？股价年内已飙升逾110%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744972/",
+          "author": null,
+          "description": "1912 年 4 月，“泰坦尼克”号（Titanic）邮轮在首航中与冰山相撞失事，超过 1500 人遇难。此后，这艘邮轮的残骸静静矗立在大西洋的深处，而这场 20 世纪最重大的灾难之一也因为詹姆斯·卡梅隆的电影《泰坦尼克号》长期活跃在世人的脑海中。 谁也没想到，一个多世纪后，在沉睡的“泰坦尼克”号残\n本文链接",
+          "link": "https://news.cnblogs.com/n/744972/",
+          "publishedOn": "2023-07-01T23:07:00.000Z",
+          "wordCount": 163,
+          "title": "“泰坦”号背后：人类的深海探索到哪儿了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744971/",
+          "author": null,
+          "description": "特斯拉 CEO 马斯克和 Facebook 创始人扎克伯格和不仅隔空“互掐”，甚至在线“约架”，引起全球网友关注。 近日，吸引吃瓜群众的两位硅谷大佬“笼斗”事件可能要升级为“角斗”。 “笼斗”升级“角斗”？ “对决可能在斗兽场中进行。”北京时间 6 月 30 日中午时分，推特公司老板埃隆·马斯克发推\n本文链接",
+          "link": "https://news.cnblogs.com/n/744971/",
+          "publishedOn": "2023-07-01T23:00:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克扎克伯格“笼斗”升级“角斗”？意大利文化部辟谣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744970/",
+          "author": null,
+          "description": "海外留学生的“最难毕业季”。 文｜阿瑞 编辑｜陆一鸣 来源｜新周刊（ID：new-weekly） 封面来源｜IC photo 海外求职，原本是留学生体验生活的一条路径，也是“轻松高薪”的代名词，如今，正在成为一场不失“内卷”的豪赌。 留学生们要面临“最难毕业季”了。 随着上半年从互联网、金融等行业离\n本文链接",
+          "link": "https://news.cnblogs.com/n/744970/",
+          "publishedOn": "2023-07-01T14:19:25.000Z",
+          "wordCount": 163,
+          "title": "今年海外找工作，难哭了多少留学生",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744969/",
+          "author": null,
+          "description": "7 月 1 日消息，美国当地时间周五，苹果市值有史以来首次收于 3 万亿美元以上，其股价攀升约 2.31%，创下新高。 苹果市值突破 3 万亿美元大关表明，投资者仍然看好苹果股票以及其产品和服务组合，尽管该公司 5 月份曾警告称，预计当前季度收入将下降约3%。 苹果市值曾在 2022 年 1 月的盘\n本文链接",
+          "link": "https://news.cnblogs.com/n/744969/",
+          "publishedOn": "2023-07-01T11:20:13.000Z",
+          "wordCount": 163,
+          "title": "苹果市值突破3万亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744968/",
+          "author": null,
+          "description": "摘要 吹响了老牌车厂反攻号角？ 在燃油车时代，BBA 一直是豪华车市场的「门面担当」。但在新能源汽车时代，它们却被戏称为「杂牌车」。 去年，特斯拉员工嘲笑买奔驰 EQC 的客户，不但没有引发网络对这名员工的「讨伐」，反而引来了网友们的支持；奥迪某 4S 店挂上了「我们店也有新能源」的标语，告诉客户奥\n本文链接",
+          "link": "https://news.cnblogs.com/n/744968/",
+          "publishedOn": "2023-07-01T08:04:10.000Z",
+          "wordCount": 163,
+          "title": "宝马电车销量反超蔚来小鹏，到底谁在买？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744967/",
+          "author": null,
+          "description": "7 月 1 日消息，OpenAI 首席执行官萨姆·奥尔特曼(Sam Altman)花时间访问了全球 22 个国家。通过与各国用户和领导人的深入交流，奥尔特曼计划要改进 ChatGPT 等人工智能工具，比如更好适配非英语用户，以及寻找识别人工智能生成内容的各种方法。 以下是翻译内容： 本月早些时候，当\n本文链接",
+          "link": "https://news.cnblogs.com/n/744967/",
+          "publishedOn": "2023-07-01T08:00:14.000Z",
+          "wordCount": 163,
+          "title": "造访22个国家，OpenAI CEO回来后要改进AI工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/744966/",
+          "author": null,
+          "description": "明敏发自凹非寺 量子位公众号 QbitAI 以假乱真的 AI 生成式图片，AI 自己分辨不出来了。 这张马斯克和机器人女友的照片，5 个鉴别器里有 2 个都觉得是真的： 还有这张人类和 3 米巨人的合照，居然 5 个鉴别器一致判断为真： 啊这，AI 鉴别器似乎不太靠谱的亚子。 这就是《纽约时报》最近\n本文链接",
+          "link": "https://news.cnblogs.com/n/744966/",
+          "publishedOn": "2023-07-01T07:54:14.000Z",
+          "wordCount": 163,
+          "title": "AI被自己骗了！照骗逃过AI鉴别器法眼，马斯克机器女友「成真」了",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/744950/",
           "author": null,
@@ -8769,256 +8869,6 @@
           "publishedOn": "2023-06-02T13:46:21.000Z",
           "wordCount": 163,
           "title": "《自然》重磅：颠覆百年认知！科学家首次证实，大脑形状主导大脑功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743092/",
-          "author": null,
-          "description": "文/周雄飞 “让我们再次为梦想窒息”。 时隔六年，作为法拉第未来（以下称为“FF”）创始人的贾跃亭，再次在发布会结尾对外界喊出了这句话，也终于兑现了自 2016 年 FF 91 发布以来、对外多次承诺的交付之约。 相比此前多次的“画饼”，FF 在本周举办的 FF 91&Faraday Future2\n本文链接",
-          "link": "https://news.cnblogs.com/n/743092/",
-          "publishedOn": "2023-06-02T12:48:00.000Z",
-          "wordCount": 163,
-          "title": "靠没有优势的FF 91 2.0，贾跃亭圆不了造车梦",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743090/",
-          "author": null,
-          "description": "开菠萝财经（kaiboluocaijing）原创 作者纪校玲 编辑金玙璠 在淘宝直播卖完卫星的罗永浩，5 月 31 日，去京东直播卖房了。 “原价 332 万的房子，6.18 折，直接砍掉 100 来万；星巴克星选咖啡只卖 1 块钱……金条、吹风机、iPhone，惊天价、吐血价、丧失理性价、掏心掏肺\n本文链接",
-          "link": "https://news.cnblogs.com/n/743090/",
-          "publishedOn": "2023-06-02T12:11:00.000Z",
-          "wordCount": 163,
-          "title": "京东直播，不只需要一个罗永浩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743089/",
-          "author": null,
-          "description": "以比萨和巧克力为主的饮食引起睡眠时大脑活动变化。图片来源：Raquel Arocena Torres/Getty Images 来源：中国科学报 编译：徐锐 当人们入睡后，脑电活动会减慢，清醒时占主导地位的高频脑电波——贝塔波逐渐被名为德尔塔波的低频脑电波所取代。 睡眠最深、最有助于恢复精力的阶段是\n本文链接",
-          "link": "https://news.cnblogs.com/n/743089/",
-          "publishedOn": "2023-06-02T12:03:27.000Z",
-          "wordCount": 163,
-          "title": "这些垃圾食品让人睡不好觉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743088/",
-          "author": null,
-          "description": "梦晨克雷西发自凹非寺 量子位公众号 QbitAI 大模型天花板 GPT-4，它是不是……变笨了？ 先是少数用户提出质疑，随后大量网友表示自己也注意到了，还贴出不少证据。 有人反馈，把 GPT-4 的 3 小时 25 条对话额度一口气用完了，都没解决自己的代码问题。 无奈切换到 GPT-3.5，反倒解\n本文链接",
-          "link": "https://news.cnblogs.com/n/743088/",
-          "publishedOn": "2023-06-02T10:11:32.000Z",
-          "wordCount": 163,
-          "title": "GPT-4变笨引爆舆论！文本代码质量都下降，OpenAI刚刚回应了质疑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743087/",
-          "author": null,
-          "description": "距最后一次被动露面过去五年，戴威重回大众视野。 5 月中旬，戴威赴美再度创业的消息传到国内。去年刚刚成立的咖啡品牌 About Time Coffee，已经在美国纽约繁华地段开出 5 家门店。 国内还有 1600 万 ofo 用户排队等押金退还，创始人戴威却已经赴美二度创业，舆论哗然。即便以最低档位\n本文链接",
-          "link": "https://news.cnblogs.com/n/743087/",
-          "publishedOn": "2023-06-02T10:07:52.000Z",
-          "wordCount": 163,
-          "title": "戴威摸着贾跃亭过河？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743086/",
-          "author": null,
-          "description": "深燃（shenrancaijing）原创 作者王璐 编辑李秋涵 6 月 1 日，B站发布了 2023 年一季度财报，总营收 50.7 亿人民币，较 2022 年同期微涨 0.3%，经调整净亏损 10 亿，同比收窄 38%，主要得益于成本和营销费用的降低。四大业务中，广告收入维持增长势头，同比增长 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/743086/",
-          "publishedOn": "2023-06-02T10:00:00.000Z",
-          "wordCount": 163,
-          "title": "B站又分了20亿，UP主还是不满意",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743080/",
-          "author": null,
-          "description": "新浪科技讯，6 月 2 日下午消息，近日，百度集团资深副总裁、百度移动生态事业群组（MEG）总经理何俊首次提出将以 AI 原生思维重构百度移动生态，全面“刷新”百度搜索、百度 APP、百度文库、百度电商等产品与服务的用户体验，推动人机交互、内容生产、营销与商业三重变革。 在接受新浪财经采访中，何俊杰\n本文链接",
-          "link": "https://news.cnblogs.com/n/743080/",
-          "publishedOn": "2023-06-02T09:49:51.000Z",
-          "wordCount": 163,
-          "title": "对话百度何俊杰：大模型重塑搜索，百度如何“卷”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743076/",
-          "author": null,
-          "description": "相关报道：马化腾分享关于裁员文章称“要收紧队形”，公关总监：这不是在内部说的 腾讯公关总监张军在回应马化腾言论时表示，（马化腾）在外部群里聊了个天，本意是跟一家投资公司管理层做一些居安思危和降本增效的探讨，没想到流传出来，越说越歪，以为是内部讲话。 近日，马化腾分享了一篇关于裁员的文章，并评论称“后\n本文链接",
-          "link": "https://news.cnblogs.com/n/743076/",
-          "publishedOn": "2023-06-02T09:33:05.000Z",
-          "wordCount": 163,
-          "title": "腾讯张军：马化腾言论是想让投资公司居安思危，但越传越歪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743020/",
-          "author": null,
-          "description": "出品｜虎嗅商业消费组 作者｜黄青春 题图｜视觉中国 当蛰伏的巨兽摆出进击者姿态，广告、电商+本地生活、短视频+直播正由线到面推动微信商业化提速。 近日，“两个动作”让一向低调的微信再次站在聚光灯下。一是广告层面，5 月 24 日“微信公众平台运营中心”发布一篇“字少事大”的推文，核心信息有两点： 公\n本文链接",
-          "link": "https://news.cnblogs.com/n/743020/",
-          "publishedOn": "2023-06-02T01:01:55.000Z",
-          "wordCount": 163,
-          "title": "微信摊牌了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743022/",
-          "author": null,
-          "description": "封面新闻记者荀超实习生王仕豪 “提起天下霸唱，读过《鬼吹灯》的网友无不被他瑰丽的想象力所折服，这部 2006 年连载于天涯社区的网络小说，至今仍霸据在各种图书排行榜的热门位置。”5 月 29 日晚，“七天七夜重启天涯”网络直播义卖活动的第二天，天下霸唱连线“重启天涯”直播间，分享中国版“漫威宇宙”的\n本文链接",
-          "link": "https://news.cnblogs.com/n/743022/",
-          "publishedOn": "2023-06-02T00:38:00.000Z",
-          "wordCount": 163,
-          "title": "对话天涯创始人邢明：重启天涯不能只靠网友",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743021/",
-          "author": null,
-          "description": "扬子晚报网 6 月 1 日讯（记者徐媛园）一年一度的毕业季即将到来，大学毕业生们准备踏上人生新征程。为给广大毕业生提供更优惠贴心的服务，6 月 1 日至 8 月 31 日，滴滴货运正式启动 2023 毕业搬家季活动，活动期间用户可领取 205 元优惠券包，未使用过滴滴货运搬家服务的用户还能参与“新用\n本文链接",
-          "link": "https://news.cnblogs.com/n/743021/",
-          "publishedOn": "2023-06-02T00:30:00.000Z",
-          "wordCount": 163,
-          "title": "滴滴货运开启毕业搬家季，60多城同步上线优惠活动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743019/",
-          "author": null,
-          "description": "据小冰官方消息，小冰“克隆人计划”的首批网红明星克隆人已提前上线，其中包括此前饱受争议的“半藏森林”。 目前，后台报名克隆人的网红明星全网粉丝总数已超过 5 亿，但出于安全考虑，首批克隆人仍限制在 300 人。经过测试验证，预计年底前逐步放开到更大规模。小冰公司计划每周四解锁新的克隆人。 5 月 1\n本文链接",
-          "link": "https://news.cnblogs.com/n/743019/",
-          "publishedOn": "2023-06-02T00:25:08.000Z",
-          "wordCount": 163,
-          "title": "小冰首批网红明星克隆人已提前上线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743018/",
-          "author": null,
-          "description": "来源：海豚投研 北京时间 6 月 1 日港股盘后，哔哩哔哩（BILI.O/9626.HK）发布了 2023 年一季度业绩。选在六一儿童节公布成绩单，多少有点贴合B站“Z世代”的标签。 虽然B站的差异化定位是市场普遍认可的，但落实到如何经营赚钱上，总是老大难。一季报读下来，没有什么惊喜，但却带来了更多\n本文链接",
-          "link": "https://news.cnblogs.com/n/743018/",
-          "publishedOn": "2023-06-02T00:11:37.000Z",
-          "wordCount": 163,
-          "title": "哔哩哔哩：“长不大”的小破站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743017/",
-          "author": null,
-          "description": "来源：华尔街见闻 6 月 1 日周四，Meta 公司 CEO 马克・扎克伯格抢在苹果公司 WWDC 大会召开之前，发布了该公司最新一代虚拟现实（VR）头显 Quest 3,499 美元起售。 2020 年秋，Meta 曾推出了 Quest 2，起售价 299 美元。而 Quest 3 作为 Ques\n本文链接",
-          "link": "https://news.cnblogs.com/n/743017/",
-          "publishedOn": "2023-06-02T00:02:56.000Z",
-          "wordCount": 163,
-          "title": "抢在竞争对手苹果之前！Meta发布最新款VR头戴设备",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743016/",
-          "author": null,
-          "description": "瘦身后的饿了么，能迎来第二春吗？ 文｜园长 编｜陈梅希 当北上广深写字楼的白领点开任意一个外卖拼单群，都会发现，泛黄的美团外卖券分享链接占大多数，浅蓝色的饿了么链接寥寥，想要翻到颇费一番功夫。 链接数量多寡的背后，是外卖市场的格局。早在数年前，外卖市场的战争就已基本尘埃落定，美团和饿了么两家独大，占\n本文链接",
-          "link": "https://news.cnblogs.com/n/743016/",
-          "publishedOn": "2023-06-01T23:45:00.000Z",
-          "wordCount": 163,
-          "title": "饿了么：变小容易，变美很难",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743015/",
-          "author": null,
-          "description": "在 CES 2023 上，AMD 宣布了第一款专门配备 AI 引擎的 Ryzen 7040 系列移动处理器。在台北电脑展上，AMD 演示了 Ryzen XDNA AI 引擎。 AMD 演示的笔记本是华硕 Strix Scar 17，配备 Ryzen 9 7940HS 处理器，集成 Radeon 78\n本文链接",
-          "link": "https://news.cnblogs.com/n/743015/",
-          "publishedOn": "2023-06-01T23:43:42.000Z",
-          "wordCount": 163,
-          "title": "AMD 演示 Ryzen XDNA AI 引擎",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743014/",
-          "author": null,
-          "description": "图片来源：物理学家组织网 科技日报讯 （记者刘霞）美国天文学家在 5 月 29 日出版的《美国国家科学院院刊》上刊发论文称，在一项基于最新望远镜数据的分析中，他们发现，银河系内最常见的行星中，三分之一的行星可能位于距离其主恒星足够近、温度宜人的轨道上，其上可能拥有液态水，并因此可能会孕育生命。 最新\n本文链接",
-          "link": "https://news.cnblogs.com/n/743014/",
-          "publishedOn": "2023-06-01T23:23:27.000Z",
-          "wordCount": 163,
-          "title": "银河系三分之一常见行星可能位于宜居带",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743013/",
-          "author": null,
-          "description": "实验示意图，图片来源：物理学家组织网 科技日报北京 6 月 1 日电 （记者刘霞）来自美国俄亥俄大学、阿贡国家实验室、伊利诺伊大学芝加哥分校等的科学家，首次拍摄到了单原子X射线信号，这一突破性的成就有望彻底改变检测材料的方式，相关研究刊发于 5 月 31 日出版的《自然》杂志。 自 1895 年伦琴\n本文链接",
-          "link": "https://news.cnblogs.com/n/743013/",
-          "publishedOn": "2023-06-01T23:08:04.000Z",
-          "wordCount": 163,
-          "title": "单原子X射线信号首次探测到，将彻底改变材料检测方式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743012/",
-          "author": null,
-          "description": "科技日报北京 6 月 1 日电 （记者张佳欣）一个多世纪以来，研究人员一直认为，定义我们的经历、希望和梦想的大脑活动模式，是由不同的大脑区域通过数万亿个细胞连接组成的复杂网络相互沟通的方式决定的。澳大利亚莫纳什大学特纳大脑和心理健康研究所的研究人员领导的一项研究检查了 1 万多张不同的人类大脑活动地\n本文链接",
-          "link": "https://news.cnblogs.com/n/743012/",
-          "publishedOn": "2023-06-01T23:01:19.000Z",
-          "wordCount": 163,
-          "title": "研究发现大脑形状影响其工作方式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743011/",
-          "author": null,
-          "description": "据领英页面显示，硅谷知名产品经理 Peter Deng 现已加盟 OpenAI，担任消费产品副总裁一职。 Peter Deng 毕业于斯坦福大学，先后任职微软、谷歌、Facebook、Uber 等公司。在 facebook 任职期间，Peter Deng 曾先后负责过 Instagram 和 Ocu\n本文链接",
-          "link": "https://news.cnblogs.com/n/743011/",
-          "publishedOn": "2023-06-01T14:38:00.000Z",
-          "wordCount": 163,
-          "title": "硅谷明星产品经理 Peter Deng加盟 OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743010/",
-          "author": null,
-          "description": "品玩 6 月 1 日讯，据 36 氪报道，前京东集团副总裁、京东探索研究院副院长梅涛自今年初离职后，确认在 AI 领域创业，成立生成式 AI 公司 HiDream.ai。 据悉，HiDream.ai 是一家生成式 AI 公司，正式成立于 2023 年 3 月。HiDream.ai 希望围绕视觉，打造\n本文链接",
-          "link": "https://news.cnblogs.com/n/743010/",
-          "publishedOn": "2023-06-01T14:32:00.000Z",
-          "wordCount": 163,
-          "title": "前京东集团副总裁梅涛成立生成式AI公司，投身多模态领域",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743009/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者云鹏 编辑云鹏 智东西 6 月 1 日晚间报道，刚刚联想发布了 moto razr 40 系列折叠屏手机，其起售价仅为 3999 元，也是目前上市的折叠屏手机中起售价最低的。联想集团副总裁、中国区消费业务群总经理张华率先登台发布了这款产品。 moto razr\n本文链接",
-          "link": "https://news.cnblogs.com/n/743009/",
-          "publishedOn": "2023-06-01T14:28:00.000Z",
-          "wordCount": 163,
-          "title": "刚刚，联想发了一台3999元的折叠屏手机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743008/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者周炎 编辑云鹏 就在昨天，荣耀全资控股的上海荣耀智慧科技开发有限公司成立了。从企查查的公开信息来看，这家新公司的注册资本为 1 亿元人民币，其经营范围包含：集成电路设计、集成电路芯片设计及服务、人工智能理论与算法软件开发、人工智能应用软件开发等。 荣耀 CEO\n本文链接",
-          "link": "https://news.cnblogs.com/n/743008/",
-          "publishedOn": "2023-06-01T14:22:00.000Z",
-          "wordCount": 163,
-          "title": "昨天荣耀成立了一家芯片公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743007/",
-          "author": null,
-          "description": "经过苍苍莽莽的雨树，经过干净如洗的街道，经过远处马六甲海峡吹来的咸风——当我们坐的大巴车停在一座古老发电站前，大家都兴奋了起来。 这座诞生于 1926 年的圣詹姆斯发电站，是新加坡重要的遗产地标之一，2019 年经过一次活化的复古回潮，转变为现在戴森的全球总部。 这里也是戴森创造力的新源头。 当人们\n本文链接",
-          "link": "https://news.cnblogs.com/n/743007/",
-          "publishedOn": "2023-06-01T14:10:00.000Z",
-          "wordCount": 163,
-          "title": "探访戴森全球总部，我们发现了它创造力 MAX 的秘密",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743006/",
-          "author": null,
-          "description": "6 月 1 日，度小满与哈尔滨工业大学宣布共同成立“哈尔滨工业大学-度小满人工智能（大模型）联合研究中心”。双方将围绕大模型基座研发、大模型技术原理及其应用技术等领域展开前沿研究，旨在提升大模型的技术创新能力和实际应用效果。双方还将共同培养生成式人工智能技术领域的领军人才，推动前沿技术的产业化应用加\n本文链接",
-          "link": "https://news.cnblogs.com/n/743006/",
-          "publishedOn": "2023-06-01T14:00:00.000Z",
-          "wordCount": 163,
-          "title": "度小满与哈工大共建“人工智能（大模型）联合研究中心”",
           "imageUrl": null
         }
       ]
