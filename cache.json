@@ -6,6 +6,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n宁波慈溪市的果农，在夜间为火龙果人工授粉。火龙果的花在日落后开放，次日清晨闭合。（via）\n黑客马拉松的正确方式\n你参加过黑客马拉松（hackathon）吗？\n那是一种编程比赛，程序员聚集到一个地点（通常是会议室），在指定时间完成各自的项目，然后评出获胜者。\n\n我知道的\"黑客马拉松\"都非常紧张，必须在48小时甚至24小时内拿出作品，晚上往往没时间睡觉，要熬通宵。\n下面是我在网上找到的一份比赛办法，很具有普遍性。\n团队规模：参赛队伍的最高人数限制为 5 人。\n演示原型：参赛者必须演示原型，可以考虑搭配幻灯片或视频。\n比赛方式：现场决赛的队伍或个人在同一场地的规定时间内，完成并提交组委会发放的同一考题。\n但是，我最近看到了国外的一份黑客马拉松举办通知，才意识到其实还有另一种方式，而且那才是正确的比赛方式。\n\n这个比赛叫做\"NixOS 海洋编程冲刺 2023\"（NixOS Ocean Sprint 2023），看谁能找出 NixOS 这个操作系统的漏洞。\n比赛时间是今年10月份，任何人都可以报名，组委会挑选出20人参赛。\n它的不同之处在于比赛地点：加那利群岛！\n\n那是西班牙著名的旅游胜地，大西洋的热带岛屿，景色优美，每年吸引几百万的全世界游客。\n组委会借了一个泳池大别墅，大家晚上住旅馆，白天就到别墅来比赛。\n\n编程累了，就去泳池游泳。到了饭点，所有人就聚在一起吃饭聊天。\n\n\n清晨和夜晚，你还可以去海滩运动。等到比赛结束，再游览一下加那利群岛。\n我顿时觉得，这才是黑客马拉松的正确方式，以前那种集训式的比赛方式太无趣了，太看重竞技和名次，忽视了交流和乐趣。\n黑客马拉松的结果，其实不重要，几十个小时的命题作…",
+          "link": "http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html",
+          "publishedOn": "2023-07-07T00:04:23.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 261 期）：黑客马拉松的正确方式",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n6月18日，桂林市阳朔县遇龙河上，一条由55张竹筏组成的550米金色\"巨龙\"庆祝端午节巡游。（via）\n你的旅程不会停在 Day 1\n我最近读到一篇文章，关于一张海报。\n一个国外程序员说，他工作的上一家公司，到处贴着海报，鼓舞员工。\n\n他没有点名，但是大家都知道，业内最喜欢贴海报的公司是 Facebook。\n他说，有一张海报尤其让他恼火，写着一行字。\n\"这个旅程完成了1%。\"\n\n你每天去上班，那个海报永远写着1%，仿佛刻在石头上一样。\n这怎么可能呢！我一直勤奋工作，每天加班，周末有时也来公司，完成一个又一个迭代，怎么会没有一点进展，至少也可以变成2%啊。\n\n公司一直贴着这个海报，让人感觉，公司希望员工变成一头驴子，不停追逐挂在眼前的胡萝卜。无论怎么追赶，离目标总是靠近不了，总是只走了百分之一。\n无独有偶，业内还有另一家大公司，也在宣传一模一样的企业文化，那就是亚马逊。\n亚马逊的老板贝佐斯有一句名言：\"亚马逊永远在互联网的 Day 1（第一天）\"。\n为什么是 Day 1 呢？因为第一天是一切的开始，大家抱有美好的憧憬，干劲十足，充满了期望。\n贝佐斯说：\"第二天是停滞期，开始出现跟目标不相关的事情，然后就是痛苦的衰退，最后就是死亡。我们要始终保持'第一天'的心态，避免产生第二天的公司文化。\"\n\n为了弘扬 Day 1 的企业文化，亚马逊世界各地的办公室都有一堵墙，醒目地写着 Day 1。\n它的办公大楼甚至都命名为 Day 1 大楼)，贝佐斯本人就在里面办公。\n\n回到前面的那篇文章，那个程序员就在思考，为什么互联网大厂都喜欢强调，每天都是起点？ 难道就是为了警示员工保持干劲，不得懈怠吗？\n他最终得到了下…",
@@ -897,36 +907,6 @@
           "wordCount": 720,
           "title": "少数派思考 036：我也聊聊 Vision Pro",
           "imageUrl": "https://cdn.sspai.com/2023/06/07/3a18df578718444e72b196b0268a3775.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80207",
-          "author": "YoungYang羊",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n48小时后，我终于解除了丢失模式\n5 月 16 日 19:30，我的苹果手机遗落在深圳某网约车上。当晚，在与司机协商无果、报警无果、定位丢失的前提下，我放弃了寻找。5 月 17 日下午 16:00，手机定位更新，重燃希望的我火速返回深圳。5 月 18 日晚上 21:00，我的手机成功寻回。以下，我将结合个人的实际经历，并在期间穿插相应的应对技巧，向大家分享一些「手机丢失后如何寻回」的经验（当然，更多地适用于苹果用户）。\n一、经历回顾\nROUND 1：紧急召回，搜查车内\n5 月 16 日 19:15——20:00\n5 月 16 日 19:15 分，于网约车内，我发送了手机丢失前最后一条微信。19:30 分下车后，我立马意识到手机不见，Apple Watch 的断连状态让我确定手机不在附近路面与自己身上。此时车辆正好通过前方路口的红绿灯，我请随行的朋友A打电话询问司机、朋友B不间断打我手机电话（手机不确定是否处于静音状态）。司机表示虽然没有看到手机，但愿意立马回到现场让我们搜查车内（当时觉得司机是个善茬，没有过度紧张）。\n通过朋友的手机登录 iCloud 后，我发现手机在不断移动，行进方向与司机一致。直到移动到某个街巷后，手机被关机，随后定位信息消失。间隔了将近 30 分钟后，司机回到原来下车的地点，配合我们在车内寻找手机，但手机已不在车内。初次通电话时司机表示没有再次接单，可以立马返回，且彼时路况不算拥堵，司机不太可能需要如此长时间折返，我们才开始怀疑司机的动机。\nROUND2：报警处理，无奈放弃\n5 月 16 日 20:15——2…",
-          "link": "https://sspai.com/post/80207",
-          "publishedOn": "2023-06-07T10:53:34.000Z",
-          "wordCount": 770,
-          "title": "手机丢失自救手册：48 小时内你能做哪些挣扎？",
-          "imageUrl": "https://cdn.sspai.com/2023/06/07/87c3f118ca5b95da43be4b02f88d9ba9.png"
-        },
-        {
-          "id": "https://sspai.com/post/80209",
-          "author": "珪璋",
-          "description": "本文速通：使用 Rustdesk 自建服务，实现多平台远程操控。自建服务器提升速度和画质。\n远程操控\n远程控制日常是一个常见的需求，但是最近帮女朋友安装软件的时候，发生了一些麻烦的小问题。场景是这样的，她使用的手机是 Android 系统，而她并不会使用 root 提权。所以为了获得控制权限有一定的麻烦。\n一个看起来比较可用的方案是「向日葵远程控制」（Sunlogin），但是缺点也非常明显，不能很好适配 Android 客户端。而且在一波操作之后，装了很多软件，控制稳定性也不好，经常断线。为此，我寻找了一下开源的、可自建服务器的软件。很快就发现了「Rustdesk」，事实上，我自己几年前也用过，那个时候的用户数量非常少，直接使用官方服务器甚至都能获得非常流畅的体验。随着近年来的出圈，他们的官方服务器不堪重负，我也随之抛弃了他们。但是这一次为了获得跨平台的远程控制方案，我硬着头皮做了一次部署。\n部署的过程踩了很多雷，因为官方文档实在是粗糙了，很多问题并没有说明清楚。在这里提供一份「官方文档补全」供大家参考。\n下载安装\n首先需要找一个可以承载 Rustdesk Server 的服务器，一般的云服务器厂商都可以胜任。我这边使用的是 Ucloud 的廉价服务器。\n \n\nRustdesk self-host Tutorial，官方教程提供了一个可以参考的安装路线，但是其中的很多步骤说明的并不详细。\n安装我使用的是最简的下载解压方案，直接下载了 Github: Rustdesk Server 中的最新版本。\nwget https://github.com/rustdesk/rustdesk-server/releases/download/1.1.7-4/rustdesk-server-linux-amd64.zip\nunzip rustdesk-server-linux-amd64.…",
-          "link": "https://sspai.com/post/80209",
-          "publishedOn": "2023-06-07T09:00:54.000Z",
-          "wordCount": 775,
-          "title": "远程控制：Rustdesk Self-host Server「官方文档补全」",
-          "imageUrl": "https://cdn.sspai.com/editor/u_chivier/16861284119561.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80189",
-          "author": "JLDUAN",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n作为新时代浏览器领域的王者，Google Chrome 自 2008 年 9 月 2 日公布以来，一路过五关斩六将，送走了不少竞争对手。依托其背后的 Chromium 开源项目，第三方纷纷推出基于 Chromium 内核定制的浏览器产品，其中也涌现出了 Brave、Vivaldi 等佳作。根据 2023 年 5 月的统计数据，Chrome 浏览器在全球拥有超过 62%1 的市场份额。 单从市场占有率来看，这些基于 Chromium 的定制产品还未对 Chrome 本身地位形成威胁。\nChrome 虽好，槽点也不少。因 Google 核心业务——搜索和广告，其本身就是建立在海量的用户数据之上，再加上 Chrome 与 Google 服务的深度整合，致使 Chrome 常年遭受来自于用户关于隐私问题的质疑。而事实上这些数据也并未做到完全「可控」，因为许多数据选项 Google 都没有为其设立开关。\n作为浏览器领域的「劳模」，Chrome 的更新频率也令人咋舌。稳定渠道每两到三周会进行一次小幅更新，每月会进行一次重大更新。虽然更新往往会带来一些新功能或者安全性修复，但频繁的更新导致稳定性也受到影响，即使是「稳定版」，现在遇到稀奇古怪的 bug 也不是什么新鲜事，而 Chrome 自动更新是不能直接关闭的。继「正版 Windows 的受害者2」后，互联网又出现了「正版 Chrome 的受害者」。\n而本文介绍的 ungoogled-chromium，就能轻松解决这些烦恼。\nungoogled-chromium 介绍\nungoogled-c…",
-          "link": "https://sspai.com/post/80189",
-          "publishedOn": "2023-06-07T03:28:57.000Z",
-          "wordCount": 858,
-          "title": "没有 Google，Chrome 将会怎样？",
-          "imageUrl": "https://cdn.sspai.com/6/7/2023/article/928987c1-a595-bde2-bf43-2e7780747a35.jpg"
         }
       ]
     },
@@ -974,6 +954,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75443",
+          "author": null,
+          "description": "上海 AI 实验室发布了开源模型 InternLM-7B，中文名书生·浦语大模型，包含有 70 亿参数。开发者称，“InternLM 是在过万亿 token 数据上训练的多语千亿参数基座模型。通过多阶段的渐进式训练，InternLM 基座模型具有较高的知识水平，在中英文阅读理解、推理任务等需要较强思维能力的场景下性能优秀，在多种面向人类设计的综合性考试中表现突出。在此基础上，通过高质量的人类标注对话数据结合 RLHF 等技术，使得 InternLM 可以在与人类对话时响应复杂指令，并且表现出符合人类道德与价值观的回复。”源代码在 Apache-2.0 协议下开源，权重对学术研究完全开放，在获得官方的书面许可后，亦允许商业使用。",
+          "link": "https://www.solidot.org/story?sid=75443",
+          "publishedOn": "2023-07-06T11:44:36.000Z",
+          "wordCount": 169,
+          "title": "上海 AI 实验室发布开源模型 InternLM-7B",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75442",
+          "author": null,
+          "description": "亚马逊旗下的好莱坞工作室(Hollywood studio)过去两年投入了巨额资金开发原创内容，但结果乏善可陈。正着手大幅削减开支的 CEO Andy Jassy 要求高管们对部分投资巨大的电视剧项目给出详细的预算分析。好莱坞工作室过去十年投入了数百亿美元制作原创内容，前一年投入了 50 亿美元，去年投入了 70 亿美元。只有网飞（Netflix）和迪士尼在流媒体上的投资高于亚马逊。过去九个月，亚马逊发布了至少 6 部高预算的电视剧，其中包括《Daisy Jones & the Six》、《The Power》、《Dead Ringers》和《The Peripheral》制作成本都超过 1 亿美元，但未能吸引到多少观众，都未能进入尼尔森的美国 10 大流媒体节目名单。制作成本超过 4 亿美元的指环王衍生剧《The Rings of Power》第一季未能在整季的播出过程中留住观众。",
+          "link": "https://www.solidot.org/story?sid=75442",
+          "publishedOn": "2023-07-06T10:31:46.000Z",
+          "wordCount": 176,
+          "title": "亚马逊 CEO 质问旗下好莱坞工作室钱花哪儿去了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75441",
+          "author": null,
+          "description": "研究人员在 66 名一年级大学生观看一系列视频片段的同时，对他们的大脑进行了检查。这些视频的主题从伤感的音乐视频到派对场景和体育赛事，为分析提供了各种各样的场景。在扫描之前，年参与者被要求完成孤独量表。根据调查结果，研究人员将参与者分为两组：孤独和“不孤独”。当参与者观看视频时，他们用功能磁共振成像扫描每个参与者的大脑。比较两组人的脑成像数据，研究人员发现，孤独的人比不孤独的人表现出更多不同和特殊的大脑处理模式。遭受孤独之苦的人不仅与社会处理世界的规范不太相似，而且每个孤独的人也有独特的方式。这种独特性可能会进一步影响孤立感和缺乏社会联系的感觉。",
+          "link": "https://www.solidot.org/story?sid=75441",
+          "publishedOn": "2023-07-06T09:35:53.000Z",
+          "wordCount": 144,
+          "title": "孤独者感知世界的方式与众不同",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75440",
+          "author": null,
+          "description": "根据 Similarweb 的估计，去年 11 月底发布的 AI 聊天机器人 ChatGPT 的流量首次出现下降。ChatGPT 在去年 12 月吸引了约 2.66 亿次访问，与 Yahoo News 相近，之后 1 月份流量增长 131.6%，2 月 62.5%，3 月 55.8%，到了 4 月增长 12.6% 至 17.6 亿次，指数级增长势头开始消退。它的流量超过了 bing.com、nytimes.com 和 cnn.com，但仍然只有 google.com 的 2%。如今 6 月份的桌面和移动 ChatGPT 访问量比 5 月下降了 9.7%，独立访客人数下降了 5.7%，用户在网站上花费的时间下降了 8.5%。即便如此，ChatGPT 仍然是至今增长最快的消费者应用，其访问量排名全球前 20，远超使用 OpenAI 技术的微软搜索引擎 Bing。",
+          "link": "https://www.solidot.org/story?sid=75440",
+          "publishedOn": "2023-07-06T09:18:53.000Z",
+          "wordCount": 194,
+          "title": "ChatGPT 的流量首次出现下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75439",
+          "author": null,
+          "description": "本周迪士尼从其流媒体 Disney+ 上下架了电影《Crater》。这部电影是在 2023 年 5 月 12 日上线的，这意味着它在 Disney+ 只生存了 48 天。迪士尼没有解释下架原因，很有可能是观看量不佳于是下架以减记“内容资产”的价值，降低税费。一切都与金钱有关，向来如此。迪士尼不是唯一这么做的流媒体公司，Netflix 和 HBO Max(现在叫 Max)都会在未警告订户的情况下下架内容。迪士尼取消并下架了《Willow》，Hulu 下架了《Single Drunk Female》，HBO 下架了《西部世界》和《雪国列车》，Paramount+ 下架了《Grease: Rise of the Pink Ladies》。 很多时候，下架的内容会永远消失，因为很多节目是为流媒体制作的，只在流媒体上播出，未发行实体版，也没有在有线电视上播出。对于这些不再有合法来源提供的内容，盗版也许是唯一的选项。",
+          "link": "https://www.solidot.org/story?sid=75439",
+          "publishedOn": "2023-07-06T08:32:37.000Z",
+          "wordCount": 169,
+          "title": "当流媒体上的内容消失",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75438",
+          "author": null,
+          "description": "衰老通常与认知功能下降有关。海马体和邻近的大脑皮层对学习和记忆至关重要，它们是最先受到影响的大脑部位之一。认知能力缺陷与海马体体积减少和海马体与(周围)内嗅皮层之间的突触连通性恶化有关。越来越多的证据表明，体育活动可以帮助延缓或避免老年人的这些结构和功能衰退。最近进行的一项研究为运动的好处提供了新的见解。这强调了成年人，特别是中年人在一生中保持身体活动的重要性。在这项研究中，研究人员专注于长期跑步对年轻成年小鼠在中年时产生的新海马神经元网络的影响。这些“奔跑的小鼠”表明，在中年跑步可以使成年时出生的老年神经元保持连接，这可能会预防或延缓与衰老相关的记忆丧失和神经退化。",
+          "link": "https://www.solidot.org/story?sid=75438",
+          "publishedOn": "2023-07-06T07:50:03.000Z",
+          "wordCount": 142,
+          "title": "跑步有助于在衰老过程中保持记忆功能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75437",
+          "author": null,
+          "description": "发表于《神经病学》的一项研究发现，牙龈疾病和牙齿脱落与海马体萎缩有关。海马体位于大脑丘脑和内侧颞叶之间，主要负责短时记忆的存储转换和定向等功能。因此海马体萎缩主要见于阿尔茨海默病等。但这项新研究至提出了一种潜在的关联，没有直接证明牙龈疾病或牙齿脱落会导致阿尔茨海默病。研究涉及 172 名平均年龄 67 岁的人群。他们在研究开始时没有记忆问题。研究开始时参与者接受了牙科检查、记忆力测试以及脑部扫描，以测量海马体体积。4 年后，研究人员再次对参与者进行脑部扫描以测量海马体体积、统计牙齿数量、通过测量牙龈组织的牙周探诊深度来检测牙龈疾病。研究人员发现，牙齿的数量和牙龈疾病数量与大脑左侧海马体的变化有关。对于患有轻度牙龈疾病的人来说，牙齿越少，左侧海马体的萎缩速度越快。",
+          "link": "https://www.solidot.org/story?sid=75437",
+          "publishedOn": "2023-07-06T07:39:18.000Z",
+          "wordCount": 147,
+          "title": "牙齿疾病与脑健康相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75436",
+          "author": null,
+          "description": "对清洁能源的需求推动了对核能的兴趣。加拿大电力公司 Bruce Power 将执行一次环境评估，它计划建造世界最大的核电站。Bruce Power 在安大略省的核电站有 8 座反应堆，装机容量 6.2GW，供应了安大略省三成的电力需求。Bruce Power 计划增加多达 4.8GW 的发电能力，这将使得它超过日本的柏崎刹羽核电站，后者是目前世界最大的核电站，有 7 座反应堆，发电能力超过 8GW。",
+          "link": "https://www.solidot.org/story?sid=75436",
+          "publishedOn": "2023-07-06T07:34:45.000Z",
+          "wordCount": 156,
+          "title": "加拿大计划建造世界最大核电站",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75435",
+          "author": null,
+          "description": "育碧《超越善恶2（Beyond Good and Evil 2）》游戏创意总监 Emile Morel 去世，年仅 40 岁。《超越善恶2》早在 2017 年就宣布了，但之后的开发陷入了困境，至今仍然处于开发的前期准备阶段。Morel 早在 2009 年就加入了育碧公司，参与的游戏项目包括了横板过关游戏《雷曼传奇（Rayman Legends）》，担任资深游戏策划。他参与《超越善恶2》项目时最初的职位是副创意总监，在 Jean-Marc Geffroy 离职之后担任创意总监。",
+          "link": "https://www.solidot.org/story?sid=75435",
+          "publishedOn": "2023-07-06T05:40:49.000Z",
+          "wordCount": 167,
+          "title": "《超越善恶2》创意总监去世，年仅 40 岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75434",
+          "author": null,
+          "description": "Meta 创始人马扎克伯格（Mark Zuckerberg）在 Threads 上宣布，该公司的微博客服务上线两小时注册量突破了 200 万。Meta 于周三正式上线了 Threads（Web 版本只能浏览不能发帖），Instagram 用户可通过现有账号登陆。它目前是一个基本文本的社交应用，在功能上还无法真正替代 Twitter，但鉴于马斯克(Elon Musk)最近采取的一系列受争议行为——如限制浏览的推文数量，愈来愈多的人都愿意尝试 Twitter 的不同替代。更新：\n马扎克伯格宣布 Threads 的注册量突破了三千万。",
+          "link": "https://www.solidot.org/story?sid=75434",
+          "publishedOn": "2023-07-06T02:31:34.000Z",
+          "wordCount": 172,
+          "title": "Threads 上线两小时注册量突破 200 万",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75433",
           "author": null,
@@ -3473,126 +3553,6 @@
           "wordCount": 146,
           "title": "蜜蜂能学习、记忆、思考甚至决策",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75180",
-          "author": null,
-          "description": "网信办公布了《近距离自组网信息服务管理规定（征求意见稿）》，对苹果 AirDrop 之类的服务设限，意见截止日期为 7 月 6 日。《征求意见稿》规定：",
-          "link": "https://www.solidot.org/story?sid=75180",
-          "publishedOn": "2023-06-07T10:21:38.000Z",
-          "wordCount": 157,
-          "title": "网信办公布《近距离自组网信息服务管理规定（征求意见稿）》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75179",
-          "author": null,
-          "description": "EA 接近达成协议，将 MMORPG《星球大战：旧共和国（SWTOR）》的后续开发和运营从 BioWare 转交给第三方工作室 Broadsword Online Games。SWTOR 由 BioWare Austin 开发，2011 年 12 月上线，其开发成本在 2 亿美元左右，EA 在 2019 年宣布游戏总收入接近 10 亿美元。SWTOR 至今已有 12 年历史，它的收费模式从早期的按月订阅切换到了免费游戏。Broadsword Online Games 创始人是前 BioWare 的副总裁 Rob Denton，他曾参与 SWTOR 早期开发。开发 SWTOR 的 BioWare 核心团队成员逾半数预计将转移到 Broadsword，其余将转移到其它项目或裁掉。EA 将仍然是游戏的发行商，BioWare 将集中精力开发《龙腾世纪》和《质量效应》系列的新作。",
-          "link": "https://www.solidot.org/story?sid=75179",
-          "publishedOn": "2023-06-07T10:00:23.000Z",
-          "wordCount": 185,
-          "title": "EA 准备将《星战旧共》的运营交给第三方",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75178",
-          "author": null,
-          "description": "英国皇家海军称成功测试了量子导航系统。该系统能在不依赖 GPS 的情况下确定船舶的精确位置，它由伦敦帝国理工的物理学家研发，是基于原子的独特属性实现对物体运动的更精确测量。GPS 导航容易受到干扰，位于水下时也难以工作。量子导航系统理论上在水下也能测量位置。",
-          "link": "https://www.solidot.org/story?sid=75178",
-          "publishedOn": "2023-06-07T09:28:55.000Z",
-          "wordCount": 145,
-          "title": "英国皇家海军称成功测试量子导航技术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75177",
-          "author": null,
-          "description": "OpenAI CEO Sam Altman 表示，该公司目前没有 IPO 计划。OpenAI 的主要投资者是微软公司，它从微软筹集到了 100 亿美元，估值近 300 亿美元。Altman 称，OpenAI 的公司结构非常奇特，它最初是一家非盈利研究机构，后来创建了一家盈利有上限的混合型公司，允许从外部筹资，原有的非盈利组织仍然能受益。Altman 正在多个国家进行访问，与多国元首见面，周二在阿联酋，之后将前往卡塔尔、印度和韩国。",
-          "link": "https://www.solidot.org/story?sid=75177",
-          "publishedOn": "2023-06-07T07:49:15.000Z",
-          "wordCount": 171,
-          "title": "因公司结构 OpenAI 无 IPO 计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75176",
-          "author": null,
-          "description": "音乐会主办方注意到一种现象：Z 世代在音乐会上更少饮酒，相比之前几代人他们在酒精上的花费减少了 25%。First Avenue Production 的总裁兼 CEO Dayna Frank 称，可能 Z 世代去音乐会前就吃饱了，或者更清醒。乐队收入主要来自票价，而场地收入主要是饮料，对主办方来说饮料收入减少对其运营是一大挑战。此前的研究发现，Z 世代饮酒的人在下降。得克萨斯州立大学心理学教授 Ty Schepis 在 2020 年的一项研究发现，2018 年 28% 的 18-22 岁大学生戒酒，相比下 2002 年这一比例是 20%。同年龄段酗酒的比例也在同期减半。Schepis 称，大学生吸大麻的比例从 33% 增加到 37%。",
-          "link": "https://www.solidot.org/story?sid=75176",
-          "publishedOn": "2023-06-07T07:10:32.000Z",
-          "wordCount": 175,
-          "title": "Z 世代在音乐会上更少饮酒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75175",
-          "author": null,
-          "description": "5 月 31 日，天津津南区八里台镇局部地面出现沉降现象。相关专家表示，“在短时间内发生这么大面积沉降，在国内外比较少见！”。此次地面沉降和位移变形成因比较复杂，初步认为是局部突发性、差异性地面沉降，但具体原因还需进一步调查。据现场照片，天津市津南区八里台东路碧桂园凤锦庭院地面出现多处肉眼可见的道路和楼房裂缝现象。小区居民被紧急撤离，截至 6 月 3 日 21 时，当地共疏散安置群众 3899 人。关于引发这一情况的原因，有该小区居民表示，是因为马路对面挖热水井施工引起的。对此，事发地的八里台镇人民政府工作人员证实，事发地附近存在施工。该工作人员表示，挖热水井施工 10 多天前就已经进行了，最近才出现问题。“5 月 31 日下午地面就有开裂。”上述工作人员称，引发路面隆起开裂、住宅楼墙体开裂的具体原因，还需等待最终调查结果，以官方通报为准。",
-          "link": "https://www.solidot.org/story?sid=75175",
-          "publishedOn": "2023-06-07T05:47:30.000Z",
-          "wordCount": 160,
-          "title": "天津发生局部地面沉降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75174",
-          "author": null,
-          "description": "奥地利主要反对党社会民主党因 Excel 电子表格“技术问题”而在周末宣布了错误的当选领导人，它在周一更正了错误。奥地利社民党上周六宣布布尔根兰省省长 Hans Peter Doskozil 是这个中左翼党的新领导人。但在周一社民党更正说，一位不太知名的候选人 Andreas Babler 赢得 52% 的选票当选。选举委员会主席表示，纸质选票与数字版本的结果不一致，他们发现由于一位同事 Excel 列表中的技术错误，导致结果错误。Babler 在胜选的新闻发布会上表示，为准确起见，委员会应该重新计票，称错误影响了党的形象。",
-          "link": "https://www.solidot.org/story?sid=75174",
-          "publishedOn": "2023-06-07T05:22:30.000Z",
-          "wordCount": 159,
-          "title": "Excel 错误导致奥地利社民党宣布了错误的当选领导人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75173",
-          "author": null,
-          "description": "在周一起诉币安及其创始人赵长鹏之后，美国证券交易委员会(SEC)周二向法庭递交紧急动议，要求法官冻结币安美国平台的资产，归还客户持有的法币和加密货币。冻结令只适用于币安在美国的两家控股公司，不适用于不受美国监管的国际交易所。SEC 认为，因为被告人多年的违规行为，无视美国法律，防止任何可用资产消失，紧急限制令是必要的。冻结令还禁止相关公司销毁证据。",
-          "link": "https://www.solidot.org/story?sid=75173",
-          "publishedOn": "2023-06-07T04:33:06.000Z",
-          "wordCount": 146,
-          "title": "SEC 寻求冻结币安在美资产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75172",
-          "author": null,
-          "description": "据霍金的著名辐射理论，随着事件视界（黑洞最外层的边界）对周围量子场的破坏，黑洞会随着时间蒸发，并以一种奇怪的辐射形式逐渐失去质量。但分析表明，事件视界对这一过程并不是必不可少的。据荷兰拉德布大学天体物理学家的最新研究，时空曲率中足够陡峭的斜率也可做同样的事情。这表明，霍金辐射理论不仅适用于黑洞，所有大型物体，甚至是宇宙，最终都可能会蒸发。任何质量或密度适当的物体都可产生显著的时空曲率。基本上，这些物体的引力场导致时空在它们周围扭曲。黑洞是最极端的例子，但时空也会围绕中子星和白矮星等其他致密死星以及星系团等超大质量天体弯曲。研究人员发现，在这些情况下，引力仍可影响量子场的波动，足以产生与霍金辐射非常相似的新粒子，而不需要事件视界“催化剂”。研究意味着，没有事件视界的物体，如死亡恒星的残骸和宇宙中的其他大型物体，也有这种辐射。这将导致宇宙中的一切最终会像黑洞一样蒸发。",
-          "link": "https://www.solidot.org/story?sid=75172",
-          "publishedOn": "2023-06-07T03:35:44.000Z",
-          "wordCount": 142,
-          "title": "宇宙也许会蒸发",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75171",
-          "author": null,
-          "description": "社交媒体公司 Reddit 正裁减约 90 名员工，并放缓招聘。Reddit 首席执行官 Steve Huffman 在一封电子邮件中告诉员工，Reddit 采取这些措施是为了解决优先事项，包括为项目提供资金和明年实现收支平衡目标。此次裁员约占 Reddit 约 2,000 名员工的 5%。Huffman 在电子邮件中说：“我们今年上半年的表现很好，这次重组将使我们能够把这种势头带到下半年和以后。”因高昂的 API 定价，Reddit 正面临社区的抗议，参与抗议的社区将在 48 小时内关闭对外访问。",
-          "link": "https://www.solidot.org/story?sid=75171",
-          "publishedOn": "2023-06-07T03:30:35.000Z",
-          "wordCount": 165,
-          "title": "Reddit 裁员并放缓招聘",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75170",
-          "author": null,
-          "description": "根据发表在《BMJ Heart》上的一项研究，致命心脏病更可能发生在周一。研究人员分析了 2013 年- 2018 年间 10,528 名因 ST 段抬高型心肌梗死（STEMI）发作入院的患者数据。研究人员发现，STEMI  发病率在工作周开始时飙升，星期一最高，周日也高于预期。这一被称为 Blue Monday 的现象此前就研究过。研究人员称，工作周起始与 STEMI  发病率存在强相关性，可能是多种因素导致的，其中之一是昼夜节律。",
-          "link": "https://www.solidot.org/story?sid=75170",
-          "publishedOn": "2023-06-06T15:28:33.000Z",
-          "wordCount": 157,
-          "title": "致命心脏病更可能发生在周一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75169",
-          "author": null,
-          "description": "广泛使用的文件传输程序 MOVEit 中的一个高危漏洞导致其客户遭遇数据大规模被盗。支付服务  Zellis,、加拿大新斯科舍省(Nova Scotia)、英国航空（British Airways）、BBC 和英国连锁药妆店博姿（boots）都遭遇了数据被盗，其中英国航空、BBC 和博姿都是 Zellis 的客户。安全研究人员称攻击者在疯狂的抓取数据。MOVEit 的漏洞允许 SQL 注入，通过输入特制字符串，攻击者可以诱骗 Web 应用返回敏感数据，赋予管理系统权限等。攻击最早始于 5 月 27 日，MOVEit 供应商 Progress 在 5 月 31 日修复了漏洞。6 月 4 日微软称攻击者与勒索软件组织 Clop 有关。到目前为止受害者尚未收到勒索通知。安全研究人员估计未来几周受害者会收到此类通知。",
-          "link": "https://www.solidot.org/story?sid=75169",
-          "publishedOn": "2023-06-06T14:47:27.000Z",
-          "wordCount": 175,
-          "title": "MOVEit 高危漏洞导致数据大规模失窃",
-          "imageUrl": null
         }
       ]
     },
@@ -3601,6 +3561,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/745368/",
+          "author": null,
+          "description": "出品异观财经 作者炫夜白雪 自 2022 年开始，Keep 三闯港交所，终于即将如愿，作为“运动科技第一股”登陆港交所。 6 月 30 日，港交所公告显示，Keep 于今日起至 7 月 5 日招股，计划全球发售 1083.9 万股。其中国际发售 975.5 万股、中国香港发售 108.4 万股，发售\n本文链接",
+          "link": "https://news.cnblogs.com/n/745368/",
+          "publishedOn": "2023-07-07T01:27:00.000Z",
+          "wordCount": 163,
+          "title": "Keep上市，“运动科技第一股”成色如何？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745367/",
+          "author": null,
+          "description": "先活下去，再谈体面 作者王亚骏 来源 雪豹财经社 融资困难、人才逃离、岗位骤减，自动驾驶已不再是性感的赛道。 L4 迟迟无法落地，商业化前景更明确的 L2 成为重要造血手段。 自动驾驶告别培育期，适者生存，活下来将成为未来几年的主题。 被资本冷落 3 年后，关于自动驾驶的一切开始出现更深的裂痕。 一\n本文链接",
+          "link": "https://news.cnblogs.com/n/745367/",
+          "publishedOn": "2023-07-07T01:24:00.000Z",
+          "wordCount": 163,
+          "title": "十年烧了3000亿，自动驾驶迎来梦醒时分",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745366/",
+          "author": null,
+          "description": "小扎来偷家了。 就在今天，Meta 的新应用 Threads 已经上线苹果商店，这是一个直接对标推特的产品。 Meta 老板马克·扎克伯格还发了条推特，没有文字，就是个图：俩一模一样的蜘蛛侠指着对方，都很惊讶。 要知道小扎可是 11 年没有发推特了，上一条还是 2012 年的。就连和马斯克约架，也是\n本文链接",
+          "link": "https://news.cnblogs.com/n/745366/",
+          "publishedOn": "2023-07-07T01:22:00.000Z",
+          "wordCount": 163,
+          "title": "小扎“偷家”马斯克，新老推特“笼斗”开打",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745365/",
+          "author": null,
+          "description": "2023 世界人工智能大会（WAIC 2023）7 月 6 日开幕。在上海世博中心及世博展览馆外，观众争相排队进入会场。中国证券报记者在展区注意到，人工智能产业链上下游不同规模的企业百花齐放，纷纷展出自家特色产品或服务，不少企业在今年大会期间发布了新产品。 与会嘉宾深入探讨人工智能技术前景以及产业发\n本文链接",
+          "link": "https://news.cnblogs.com/n/745365/",
+          "publishedOn": "2023-07-07T01:20:19.000Z",
+          "wordCount": 163,
+          "title": "龙头企业集体亮相 AI创新成果百花齐放",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745364/",
+          "author": null,
+          "description": "新浪科技讯，7 月 6 日晚间消息，2023 世界人工智能大会期间，百度首席技术官王海峰发言指出，百度文心大模型现已升级为文心大模型 3.5，已实现基础模型升级、精调技术创新、知识点增强、逻辑推理增强等，模型效果提升 50%，训练速度提升 2 倍，推理速度提升 30 倍。 据王海峰介绍，在基础模型训\n本文链接",
+          "link": "https://news.cnblogs.com/n/745364/",
+          "publishedOn": "2023-07-07T01:14:47.000Z",
+          "wordCount": 163,
+          "title": "百度CTO王海峰：文心3.5模型效果提升50%，新增知识点增强技术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745363/",
+          "author": null,
+          "description": "新浪科技讯，北京时间 7 月 7 日早间消息，最新报告显示，在经历了数个月持续的岗位减少后，受 AI 领域火爆的推动，旧金山的科技公司 5 月份增加了招聘。 旧金山的最新就业数据报告显示，在旧金山和邻近的圣马特奥县，5 月份科技行业增加了 2800 个工作岗位。旧金山首席经济学家泰德·伊根（Ted \n本文链接",
+          "link": "https://news.cnblogs.com/n/745363/",
+          "publishedOn": "2023-07-07T01:11:46.000Z",
+          "wordCount": 163,
+          "title": "美国旧金山科技行业招聘复苏 经济学家：多亏AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745362/",
+          "author": null,
+          "description": "两个纤维素链（蓝色）连接在一个刚性聚糖（绿色）上，形成了聚糖“发夹”。图片来源：马克斯·普朗克胶体和界面研究所 科技日报讯 （记者刘霞）德国马克斯·普朗克胶体与界面研究所的科学家设计出一种能够折叠成稳定二级结构的碳水化合物序列，这种自折叠糖有望促进生物医学和材料科学的发展。相关研究刊发于 3 日出版\n本文链接",
+          "link": "https://news.cnblogs.com/n/745362/",
+          "publishedOn": "2023-07-07T01:09:05.000Z",
+          "wordCount": 163,
+          "title": "科学家设计首个自折叠糖聚合物",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745361/",
+          "author": null,
+          "description": "由缅因大学工程师设计的小型漂浮式海上风电演示设备坐落于缅因州海岸附近的水域，一直在收集数据，以了解沿海水域暴风雨对涡轮机等的影响。 科技日报记者刘霞 今年 3 月，美国能源部发布海上风电普及战略，目标是让海上风电装机容量由现在的数万千瓦，提高至 2050 年的 1.1 亿千瓦。目前在全世界范围内普及\n本文链接",
+          "link": "https://news.cnblogs.com/n/745361/",
+          "publishedOn": "2023-07-07T01:06:11.000Z",
+          "wordCount": 163,
+          "title": "漂浮式海上风电将掀起能源革新浪潮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745360/",
+          "author": null,
+          "description": "科技日报北京 7 月 6 日电 （记者张佳欣）据 5 日发表在《自然》杂志上的一项研究，美国印第安纳大学和克雷格·文特尔研究所领导的一个团队从支原体细菌中创造了一种最简单细胞，它只包含 493 个基因，是已知所有自由生命体中最小的基因组。这些细胞能够进化和生长，增殖变多，且能重新恢复在缩小基因组时失\n本文链接",
+          "link": "https://news.cnblogs.com/n/745360/",
+          "publishedOn": "2023-07-07T01:02:47.000Z",
+          "wordCount": 163,
+          "title": "人造细菌进化能力超越自然",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745359/",
+          "author": null,
+          "description": "作者小葵 来源首席人物观 01 打折的“盲盒” 盒马的会员退了，Fudi 超市的会员退了。只有山姆会员还保留，但常买的只剩下蛋、奶和米面粮油，进口牛排被加上了购买的前提条件——当日股市收益超过 1 万元，于是，大概有小半年没买过了。 36 岁的晓辰，正在尝试减配生活。 比如她最近沉迷的晚间市集，每晚\n本文链接",
+          "link": "https://news.cnblogs.com/n/745359/",
+          "publishedOn": "2023-07-06T17:32:26.000Z",
+          "wordCount": 163,
+          "title": "抛弃会员店的中产，抢起了晚8点的特价菜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745358/",
+          "author": null,
+          "description": "作者：Hernanderz 来源：价值研究所 暑期档大幕拉开，旅游、餐饮、游戏、影视等多个行业都铆足了劲争抢红利，希望弥补过去三年的亏损，刚经历完 618 大战的电商行业也不例外。而在众多暑期档电商玩家中，东方甄选是花样最多的一家。 7 月 5 日-7 月 9 日，东方甄选将应甘肃省文旅厅的邀请，开\n本文链接",
+          "link": "https://news.cnblogs.com/n/745358/",
+          "publishedOn": "2023-07-06T17:30:38.000Z",
+          "wordCount": 163,
+          "title": "东方甄选，出走抖音？！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745357/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 LLM 之后的下一个热点是 AI 智能体？Karpathy 直言：现在 OpenAI 内部对于 AI Agent 的论文十分追捧，或许这就是 OpenAI 的新方向。 最近，AI Agent 忽然再次爆火。 什么是 AI 智能体？ 它们是一种自动的智能体，以最简单的形式中在\n本文链接",
+          "link": "https://news.cnblogs.com/n/745357/",
+          "publishedOn": "2023-07-06T17:30:05.000Z",
+          "wordCount": 163,
+          "title": "AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745356/",
+          "author": null,
+          "description": "新智元报道 编辑：桃子 终于有人把人工智能风险讲清楚了。 超级 AI 会杀人，被吵翻了！ 12 月 ChatGPT、3 月 GPT-4，OpenAI 连番轰炸，让业界人士纷纷恐慌。 紧接着 3 月底，由马斯克、图灵奖得主 Bengio 等千名大佬联名，发起暂停超级 AI 研发的公开信。 2 个月后，\n本文链接",
+          "link": "https://news.cnblogs.com/n/745356/",
+          "publishedOn": "2023-07-06T17:22:00.000Z",
+          "wordCount": 163,
+          "title": "数千位大佬下令封杀！超级AI风险4大来源，马库斯大赞深度好文",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745353/",
+          "author": null,
+          "description": "新智元报道 作者：肯尼斯·斯坦利 OpenAI 科学家 Kenneth Stanley 和 Joel Lehman 的畅销新书《为什么伟大不能被计划》中，提出了一种「新奇性搜索算法」，可能是大模型「涌现」能力的答案。 肯尼斯·斯坦利和乔尔·雷曼是人工智能神经进化领域的顶尖专家。 早在 2008 年他\n本文链接",
+          "link": "https://news.cnblogs.com/n/745353/",
+          "publishedOn": "2023-07-06T17:18:25.000Z",
+          "wordCount": 163,
+          "title": "破解大模型「涌现」之谜：新奇性搜索是AI腾飞的踏脚石",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745355/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 OpenAI 出手了！为了不让超级智能失控，首席科学家 Ilya Sutskever 和 Jan Leike 将共同领导团队在未来 4 年投入 20% 算力，解决超智能 AI 对齐问题。 超级 AI 智能会杀死所有人！ Sam Altman 曾多次公开表态对 AI 未来的担\n本文链接",
+          "link": "https://news.cnblogs.com/n/745355/",
+          "publishedOn": "2023-07-06T16:30:00.000Z",
+          "wordCount": 163,
+          "title": "OpenAI预言：超级智能10年内降临！正集结算力拯救人类，4年彻底攻克对齐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745354/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS OpenAI 领衔八家生成式 AI 公司上榜，用最少的员工数，打造世界级产品！ 最近一年多的时间里，生成式 AI 技术风靡全球，图像、文本、视频、音乐等各种领域都涌现了许多新工具，上班不聊两句 ChatGPT 都感觉自己 out 了。 与此同时，所有顶尖科技企业也都开启了一\n本文链接",
+          "link": "https://news.cnblogs.com/n/745354/",
+          "publishedOn": "2023-07-06T16:18:00.000Z",
+          "wordCount": 163,
+          "title": "AI抢人大战告一段落！8位赢家胜出，西雅图或成下一代AI技术爆发地",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745352/",
+          "author": null,
+          "description": "作者 Yinting Hou 来源霞光社 最近，英国苏格兰格拉的家庭主妇 Amy 收到了拼多多跨境电商平台 Temu 寄来的免费礼物——收纳柜和水管。 原来，她在 Temu 的手机 App 里玩“养鱼”游戏，每天“喂鱼粮”，邀请朋友到 Temu 下单购物。大约持续了一个月，“收成”正是上述的两件礼物\n本文链接",
+          "link": "https://news.cnblogs.com/n/745352/",
+          "publishedOn": "2023-07-06T16:12:00.000Z",
+          "wordCount": 163,
+          "title": "激进的Temu，正经历阵痛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745351/",
+          "author": null,
+          "description": "作者 陈世锋 来源蓝鲨消费 刚刚过去的 6 月，小红书迎来了 10 周年庆典。 恰值 618 前夕，小红书也适时进行了一系列操作——比如，全面开放“笔记带货”；再比如，以董洁直播带货火爆为基点宣布通过达人直播、店铺直播、商品笔记、笔记带货、商城等多个交易场域，全域参与“618”。甚至，在本地生活服务\n本文链接",
+          "link": "https://news.cnblogs.com/n/745351/",
+          "publishedOn": "2023-07-06T14:30:00.000Z",
+          "wordCount": 163,
+          "title": "200亿美金估值腰斩，创业10年难上市，毛文超、瞿芳急了！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745350/",
+          "author": null,
+          "description": "燃次元（ID:chaintruth）原创 作者丨马舒叶 编辑丨谢中秀 一些变化在主播行业发生。 曾经月薪过 2 万元，年内平均被挖、跳槽三次的阿菁，在 2022 年底连续经历两个品牌项目“黄了”后，至今没能找到一个适合的主播岗位，而面对她的，是整体的主播降薪潮，“年前 15000 元/月左右的主播岗\n本文链接",
+          "link": "https://news.cnblogs.com/n/745350/",
+          "publishedOn": "2023-07-06T14:30:00.000Z",
+          "wordCount": 163,
+          "title": "中小商家转向AI主播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745348/",
+          "author": null,
+          "description": "“中泰一家亲，欢迎你们随时来泰国，暑假我们准备好了！”7 月 6 日，由支付宝和泰国旅游局联合发起的“2023 暑假出境游趋势发布会”在杭州蚂蚁a空间举行。泰国国家旅游局副局长 tanespetsuwan（塔涅·沛素旺）表示，泰国国家旅游局和支付宝建立战略合作伙伴关系，推出联合营销计划，不仅能给中国\n本文链接",
+          "link": "https://news.cnblogs.com/n/745348/",
+          "publishedOn": "2023-07-06T14:17:00.000Z",
+          "wordCount": 163,
+          "title": "支付宝2023上半年出境游报告：济南青岛游客人均花费分别增长22%和21%",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/745264/",
           "author": null,
@@ -8899,176 +9059,6 @@
           "publishedOn": "2023-06-08T09:55:00.000Z",
           "wordCount": 163,
           "title": "腾讯慢跑抵达「光年之外」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743342/",
-          "author": null,
-          "description": "6 月 7 日消息，美国时间周二，美股收盘主要股指全线小幅上涨。投资者谨慎交易，等待美国 5 月通胀数据和美联储下周政策会议的结果。 道琼斯指数收于 33573.28 点，上涨 10.42 点，涨幅 0.03%；标准普尔 500 指数收于 4283.85 点，涨幅 0.24%；纳斯达克指数收于 13\n本文链接",
-          "link": "https://news.cnblogs.com/n/743342/",
-          "publishedOn": "2023-06-07T01:00:00.000Z",
-          "wordCount": 163,
-          "title": "美股周二：三大股指集体上涨，热门中概股普涨，法拉第未来涨超31%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743341/",
-          "author": null,
-          "description": "【蓝科技观察】被印度政府“罚怕”了的小米，不得不寻求印度本地有一定实力的合作伙伴。通过这种方式，一方面表明小米的态度，继续在印度加大投资，另一方面通过这种方式推动印度电子制造业、扶持本地企业，以符合印度政府诉求的方式换得暂时的平安。 5 月 29 日，小米印度公司宣布将与印本土电子制造商 Optie\n本文链接",
-          "link": "https://news.cnblogs.com/n/743341/",
-          "publishedOn": "2023-06-07T00:58:00.000Z",
-          "wordCount": 163,
-          "title": "小米向印度“服软” 牵手本地有背景的企业成“护身符”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743340/",
-          "author": null,
-          "description": "6 月 7 日消息，Meta 正在加速采用生成式人工智能技术，并将其整合到包括广告在内的各种平台上。现在，该公司正在 Instagram 上测试一项新功能。 一条推文透露，Instagram 正在为其平台测试人工智能聊天机器人。有了这项新功能，用户将能够与聊天机器人对话，在他们的直接消息中提出问题并\n本文链接",
-          "link": "https://news.cnblogs.com/n/743340/",
-          "publishedOn": "2023-06-07T00:52:00.000Z",
-          "wordCount": null,
-          "title": "Instagram被曝将引入AI聊天机器人 拥有30种人物性格",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743339/",
-          "author": null,
-          "description": "三六零集团创始人、董事长兼 CEO 周鸿祎离婚案又有新进展。 6 月 6 日，三六零(601360) 发布公告，实控人周鸿祎已完成向胡欢转让其持有的公司股份共计 4.47 亿股（约占公司总股份的 6.25%），上述股份转让已在中国证券登记结算有限责任公司上海分公司完成过户登记手续，并取得中国证券登记\n本文链接",
-          "link": "https://news.cnblogs.com/n/743339/",
-          "publishedOn": "2023-06-07T00:48:00.000Z",
-          "wordCount": 163,
-          "title": "“分手费”缩水逾20亿，周鸿祎完成向前妻股份转让，离婚后三六零股价跌去近24%……",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743338/",
-          "author": null,
-          "description": "据华为中国官方微信号 6 月 6 日消息，第 31 届中国国际信息通信展日前在北京国家会议中心隆重举行，会议期间，华为面向全球发布首款 800GE 数据中心核心交换机——CloudEngine 16800-X 系列，正式开启数据中心 800GE 时代。 图片来源：每日经济新闻资料图 华为发布全球首款\n本文链接",
-          "link": "https://news.cnblogs.com/n/743338/",
-          "publishedOn": "2023-06-07T00:46:00.000Z",
-          "wordCount": 163,
-          "title": "重磅官宣！华为发布全球首款：可高效支撑AI训练等业务，100%释放算力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743337/",
-          "author": null,
-          "description": "【CNMO 新闻】6 月 6 日，特斯拉官方发文控诉：一汽车博主蔡某在侵犯特斯拉名誉权被判败诉后，因拒不履行在相关网络平台公开赔礼道歉的义务，被浙江省宁波市中级人民法院强制执行。 特斯拉表示：在人人都可以成为信息的采集、制作、发布者的自媒体时代，不造谣，不传谣，不侵犯他人合法权益是每个公民应尽的责任\n本文链接",
-          "link": "https://news.cnblogs.com/n/743337/",
-          "publishedOn": "2023-06-07T00:42:08.000Z",
-          "wordCount": 163,
-          "title": "侵犯特斯拉名誉权败诉后博主拒不道歉 陶琳无奈发文",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743335/",
-          "author": null,
-          "description": "图片来源：剑桥大学 科技日报北京 6 月 6 日电 （记者刘霞）据英国《新科学家》网站 5 日报道，英国剑桥大学科学家为其机器人厨师编写了一本由 8 种简单沙拉菜肴组成的菜谱，在观看了一段人类演示如何制作其中一种菜肴的视频后，机器人也做出了这道菜。这有望使应用机器人厨师变得更容易且更便宜。相关研究论\n本文链接",
-          "link": "https://news.cnblogs.com/n/743335/",
-          "publishedOn": "2023-06-07T00:41:02.000Z",
-          "wordCount": 163,
-          "title": "机器人厨师能看视频学烹饪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743336/",
-          "author": null,
-          "description": "①OpenAI 首席执行官称，应由类似于国际原子能机构（IAEA）的组织来监督 AI； ②IAEA 成立于 1957 年，是致力于和平发展核能的独立政府间国际组织。。 财联社 6 月 7 日讯（编辑夏军雄）当地时间周二（6 月 6 日），“ChatGPT 之父”、OpenAI 首席执行官山姆·奥特曼\n本文链接",
-          "link": "https://news.cnblogs.com/n/743336/",
-          "publishedOn": "2023-06-07T00:29:00.000Z",
-          "wordCount": 163,
-          "title": "AI风险堪比核能！“ChatGPT之父”：应建立国际组织来监督AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743332/",
-          "author": null,
-          "description": "文 / 四海 出品 / 节点商业组 5 月 22 日，快手发布了 2023 年一季度财报。在本季度，快手结束了长期亏损的历史，经调整利润为 4200 万元，去年同期则亏损 37.22 亿元，这给了市场一剂强心剂。 盈利的直接原因是降本增效，快手一季度的营销开支同比减少 7.65 亿元，研发开支同比减\n本文链接",
-          "link": "https://news.cnblogs.com/n/743332/",
-          "publishedOn": "2023-06-07T00:24:13.000Z",
-          "wordCount": 163,
-          "title": "快手拿什么拯救持续下滑的广告业务?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743331/",
-          "author": null,
-          "description": "根据 IDC 最新全球智能手机供应链追踪报告指出，由于全球经济持续疲弱与消费者产品使用周期延长导致市场需求不振，2023 年第一季全球智能手机产业制造规模相对去年同期与上季分别衰退 16.3% 与 10.8%。 IDC 全球硬件组装研究团队资深研究经理高鸿翔指出，在升息、通胀、汇率等经济因素影响下，\n本文链接",
-          "link": "https://news.cnblogs.com/n/743331/",
-          "publishedOn": "2023-06-07T00:12:22.000Z",
-          "wordCount": 163,
-          "title": "IDC：一季度智能手机产业制造规模同比衰退16.3%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743330/",
-          "author": null,
-          "description": "腾讯在港交所发布公告，当日耗资约 4.01 亿港元回购了 120 万股股份，每股成交价介于 329.2 港元至 339 港元之间。这已经是 6 月以来腾讯第 4 次回购，就在前一天，其耗资 1.16 亿港元回购了 34.89 万股。 腾讯回购并不令人意外。数据显示，仅今年年初到 6 月 6 日，腾讯\n本文链接",
-          "link": "https://news.cnblogs.com/n/743330/",
-          "publishedOn": "2023-06-07T00:11:09.000Z",
-          "wordCount": 163,
-          "title": "年内已斥资超100亿，腾讯回购\"不手软\"！小米也动手了…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743329/",
-          "author": null,
-          "description": "科技日报北京 6 月 5 日电 （记者张佳欣）根据史蒂芬·霍金的著名辐射理论，随着事件视界（黑洞最外层的边界）对周围量子场的破坏，黑洞会随着时间蒸发，并以一种奇怪的辐射形式逐渐失去质量。但分析表明，事件视界对这一过程并不是必不可少的。日前，据荷兰拉德布大学天体物理学家的最新研究，时空曲率中足够陡峭的\n本文链接",
-          "link": "https://news.cnblogs.com/n/743329/",
-          "publishedOn": "2023-06-07T00:06:31.000Z",
-          "wordCount": 163,
-          "title": "霍金辐射理论或不仅限于黑洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743328/",
-          "author": null,
-          "description": "在今年的 WWDC 上，苹果公司宣布了一些重大的消息，如新的 Vision Pro 头显，这是近年来规模最大的一次硬件发布。但对于人工智能，苹果却出奇地沉默，特别是在 ChatGPT 等应用的迅猛崛起之后。 苹果 CEO 蒂姆·库克在接受外媒采访时表示，苹果目前在 AI 领域持谨慎态度。他认为，在开\n本文链接",
-          "link": "https://news.cnblogs.com/n/743328/",
-          "publishedOn": "2023-06-06T23:30:34.000Z",
-          "wordCount": 163,
-          "title": "苹果CEO库克：我也在用ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743327/",
-          "author": null,
-          "description": "财联社 6 月 7 日讯（编辑夏军雄）当地时间周二（6 月 6 日），美国科技公司 OpenAI 联合创始人兼 CEO 山姆·奥特曼表示，鉴于公司结构非常奇怪，没有上市计划。 凭借聊天机器人 ChatGPT 这款现象级应用，OpenAI 俨然是全球眼下最炙手可热的独角兽公司之一，该公司是否乃至何时上\n本文链接",
-          "link": "https://news.cnblogs.com/n/743327/",
-          "publishedOn": "2023-06-06T23:28:39.000Z",
-          "wordCount": 163,
-          "title": "OpenAI没有上市计划！公司CEO给出这样的理由",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743326/",
-          "author": null,
-          "description": "对于苹果来说，守着 iPhone 这颗发财树，有些钱相对好赚，不作死就饿不死，但这也使苹果学会了守株待兔。因此造成在某些方面（诸如 AI 和新能源汽车等）的落后乃至失语，其实更像是陷入某种路径依赖。 作者：刘意默 来源：略大参考 XR 领域（AR、VR 和 MR 的统称）会进入苹果时代吗？ 这是 6\n本文链接",
-          "link": "https://news.cnblogs.com/n/743326/",
-          "publishedOn": "2023-06-06T23:24:57.000Z",
-          "wordCount": 163,
-          "title": "戴上2万5的苹果头显，我只看到了库克的焦虑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743325/",
-          "author": null,
-          "description": "作者丨牧歌 编辑丨坚果 来源 | 螺旋实验室 封面来源丨 Unsplash 继外卖骑手之后，另一个热门的灵活就业岗位——网约车司机，也开始出现了人多单少、从业者饱和的情况。 据不完全统计，仅在今年春节之后，就已经有珠海、济南、温州、东莞、遂宁等地的交通主管部门发出提示，称当地的网约车市场已经趋于饱和\n本文链接",
-          "link": "https://news.cnblogs.com/n/743325/",
-          "publishedOn": "2023-06-06T13:51:25.000Z",
-          "wordCount": null,
-          "title": "这届网约车，一天接不到10单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743324/",
-          "author": null,
-          "description": "新浪科技讯，6 月 6 日下午消息，百度智能云在成都举行的文心大模型技术交流会上表示，自 3 月开始内测两个月以来，百度文心一言的推理性能已经提升 10 倍。 同时，基于文心千帆大模型平台提供的完备的工具链，在企业应用的高频、核心场景中，文心一言的高性能模式“文心一言-Turbo”，其推理服务性能已\n本文链接",
-          "link": "https://news.cnblogs.com/n/743324/",
-          "publishedOn": "2023-06-06T13:44:36.000Z",
-          "wordCount": 163,
-          "title": "百度智能云：文心一言高性能模式推理性能已提升50倍",
           "imageUrl": null
         }
       ]
