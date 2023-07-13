@@ -49,6 +49,36 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/78987",
+          "author": "西几妙",
+          "description": "0 写在前面\n这篇文章改写自去年写的一篇关于“使用Siri作为语言学习入门工具”的分享。\n当时还没有chatGPT，更没有chatbot，所以摸索下来的最佳工具组合是Siri+苹果自带的翻译App。\n最近了解到了chatbot，稍微尝试了一下，感觉对于进阶应当是很有价值的，但对于初学者而言，或许Siri还是可以作为更好的入门工具——说来有趣，这是因为它的回复更短、更稳定，更容易复述，也更不容易云里雾里而失去信心，因此对于初学者而言更有“游戏性”。\n也是因此，想到可以把这篇文章改写一下，在少数派上再次做一下分享。\n1 缘起：小孩识字\n过年的时候和家属读一年级的小侄女玩了两天。\n小朋友非常友好地邀请我和她一起读一本绘本，一人一句非常公平。\n读着读着，我发现小朋友虽然有个别复杂的字其实完全不认识，但依然可以较为顺畅地把整个句子都读下来，然后再虚心向我请教这个字是什么、那个词又是什么意思，末了似懂非懂或者若有所思地点点头。\n于是我恍然，看来这本绘本她应该和奶奶一起读过了很多次，对故事文本已经了然于心，所以语音上的记忆已经相当熟稔，只是在识字上还未完全攻略。\n此外，故事文本中有许多的日常词汇，因而，她对语音与词意的关联已有了基本的认知。于是，在识别文本的过程中，遇到与熟悉的语音对应的词时，便能很自然地将语音-词意-文本三者关联起来，达到“识字”的效果。\n由此，我突然意识到，或许小孩子学识字更贴近这样一个过程：先由语音上的熟悉切入，经由对话中的上下文及丰富的反馈认知到词汇的含义，再在识别文本的过程中将语音、含义与词汇的文本形态关联起来，从而极为水到渠成地完成了对文字的学习。\n2 Siri的另一种打开方式\n那么，学习别的语言是否也可以尝试这样的“从（对话中的）声音、到（对话中的）语意、再到文字”的路径呢？\n自然切入的要点大概在于“有意义的对话”——即，语音输入+反馈。\n而由于缺乏语言环境…",
+          "link": "https://sspai.com/post/78987",
+          "publishedOn": "2023-07-11T12:56:04.000Z",
+          "wordCount": 655,
+          "title": "Siri游戏：尝试使用Siri作为语言学习入门工具",
+          "imageUrl": "https://cdn.sspai.com/2023/07/11/274576a38e4c0e0facb2552f1a6bfdba.png"
+        },
+        {
+          "id": "https://sspai.com/post/81043",
+          "author": "樊川_MinusType",
+          "description": "引言\n城市规划作为一项事业长期以来处在这样一种矛盾的境地：一方面干预的对象几乎是世界上最复杂的系统——城市系统；而另一方面城市规划和公共政策的强绑定属性，以及处在技术应用下游的定位使得行业并不对技术敏感，这就导致从业者往往采用传统的方法来解决大多数问题。\n其实业界和学界并不乏新技术的探索者，但长久以来的现实发展表明以往诸多技术可能都不是具有颠覆性的，而如今我们或许等到了一个新的转换点，那就是现在发展如火如荼的大模型AI。\n大模型AI的发展\n从2022年下半年到2023年初这不到一年的时间无疑是人工智能技术狂飙突进的阶段，并且在可见的时间范围里这一轮技术突破还在继续。若要为这一段传奇般的时间冠以某种美称，那么相比“AIGC元年”，“AGI元年”这样的称呼笔者更偏好称其为“大模型元年”。\n笔者认为现在的技术表现出的生成应用和如同通用人工智能的能力都归因于大模型技术，而现如今表现最为突出的大模型技术则集中在图像和自然语言领域。ChatGPT, Bard, Midjourney, StableDiffusion……这些一年前还不见踪影的产品如今已被相当一部分人所熟知。\n大模型技术的突破最根本源于训练数据量级的提升以及由此带来的一系列涌现能力，这让它能做到许多在训练集不够大的模型中难以想象的事情，简单地看GPT模型从初代到如今第四代的进化路径就能领略一二。但是道路并不会一直这样延伸下去，受制于可获得的数据上线以及如今的算力天花板，大模型的规模已经逐渐见顶，OpenAI的CEO Sam Altman在一次采访中说OpenAI不再专注于提升模型规模而是让现有的模型（GPT-4）表现得更好。但尽管如此也只是大模型技术在最底层的开发环节的发展将放缓，而其下游的产品化才刚刚迎来一场巨大繁盛的前夜。\n这一段时间的大模型技术突破改变了我们对一般技术突破的预期，其近乎破坏性的发展在后续的相当长的时间…",
+          "link": "https://sspai.com/post/81043",
+          "publishedOn": "2023-07-11T06:56:50.000Z",
+          "wordCount": 621,
+          "title": "大模型AI：城市规划新的技术转换点",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/80889",
+          "author": "NowScott",
+          "description": "1 前言\n很久以前，互联网早期有一个名为黄页的网站，其中包含许多其他网站的索引。随着时间的推移，它逐渐演变为搜索引擎。\n然而，在搜索引擎中，在查找特定网站时，结果往往缺乏准确性。所以，我还是相信每个人都需要自己的黄页。\n该个人黄页将包括常用网站的集合，以及添加标签和简短描述以实现简单搜索和浏览功能的功能。\n最后，我决定将这个个人黄页命名为“个人索引网站”。\n2 网站迭代\n从我有这个想法到现在，这个网站经历了很多次迭代，URL也变了好几次。当前和最终的网站是nowscott.top。\n项目地址也一起换掉了，这次使用了一个很容易理解的项目名称（我也不知道为啥当时把web放在了中间，可能这样看起来好看点？）：\nhttps://github.com/NowScott/IndWebIndex\n\n名称是Individual Web Index.的缩写，含义就是个人网页索引\n接下来是外观方面，看起来和上次更新并没有明显的差别\n\n实际上也是这样的，只是微调了间距，同时改变了大多数网站按钮悬浮时显示的简介文字，大概和下图差不多\n\n这部分是本次更新最大的变化\n此前我对于数据的改变都是打开vs code，打开网页数据的json文件，在其中按照一定的要求去写Object（对象）\n这样的修改数据的方式是十分不方便的\n因此这次的数据后台变成了这样：\n\n没错，我使用了notion\n（具体怎么将notion中的数据放到网页中的过程我会在下一段写出）\n这样就能够很方便的对数据进行增删查改，而且使用什么设备都很方便\n3 Notion API\n3.1 什么是Notion API\n（本段文字由ChatGPT生成）\nNotion API 是一个强大的工具，允许开发人员与广受欢迎的生产力应用 Notion 进行交互。它提供了一组端点和方法，可实现对 Notion 功能的编程访问，使开发人员能够构建集成、自动化任务和创…",
+          "link": "https://sspai.com/post/80889",
+          "publishedOn": "2023-07-11T02:53:17.000Z",
+          "wordCount": 671,
+          "title": "教你搭建个人索引网站",
+          "imageUrl": "https://cdn.sspai.com/2023/07/06/4d0bd89b8d037032c3f970e33230a7ff.png"
+        },
+        {
           "id": "https://sspai.com/post/80999",
           "author": "yaoyao",
           "description": "前言\nMidjourney作为目前一款最火的AIGC绘图软件，在生成图片时，让人很惊艳，但是由于随机性很强，对于生成角色人物时，就面临一个很大的难题：如何保持角色输出的一致性呢？\n今天这篇文章，就带大家从基础的角色类型六大方向聊起，到摄影的构图光影，再到稳定角色的五大方法，绝对干货满满。\n\n一、角色类型六大方向\n1. Midjourney角色万能公式\nMidjourney 是一种 AI 扩散模型，它通过我们输入的书面提示词，从噪音中创建图像。\nMidjourney在创作人物角色万能公式：\n「角色描述」+「视角」+「距离」+「情绪」+「服装」+「风格」+「光源」\n\n2. 角色类型六大方向\n可以看到上面的万能公式中，包括角色构图的视角、距离、光源、角色情绪、角色服饰、风格，这也就是接下来我们要聊的角色类型的六大方向。\n其中三个方向是摄影方面的基础知识，后三个方向是角色情绪氛围感的营造。\n\n1）角色构图的视角\n人物构图的视角可以根据拍摄角度的高低和拍摄距离的远近来分类。\n在我自己整理的「AIGC关键词」库中选取几个有代表性的构图视角，来看一下Midjounrney的效果吧。\n① 正视角\n正视角是指在人像构图时，拍摄对象正对着相机的姿态，使人像呈现出正面的视角。\n咒语关键词：Front view\n② 后视角\n从人物背后拍摄，突出人物的背影和轮廓，通常用于创造出一种神秘、不可知或者留有想象空间的感觉。\n咒语关键词：Back View\n③ 侧视角\n侧面视角将人物的侧脸或侧身呈现出来，突出人物的轮廓和线条。这种视角常用于突出人物的特征、情绪或者用于展现人物的神秘感。\n咒语关键词：Side view\n④ 俯视视角\n从较高的位置向下拍摄人物。这种视角可以使人物显得较为渺小或弱小，适用于表现人物的脆弱性、无助感或者用于突出人物在环境中的位置。\n咒语关键词：High Angle\n⑤ 仰视视角\n从…",
@@ -977,16 +1007,6 @@
           "wordCount": 615,
           "title": "生产力大罢工：不要浪费子弹",
           "imageUrl": "https://cdn.sspai.com/2023/06/14/4b632c608c241770a457fb4e4ead17c1.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/80255",
-          "author": "珪璋",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n前言\n基于 Jupyter 等即时的编程工具，减缓「编译」「程序管理」「IDE 配置」对编程本身造成阻碍。从而实现快速上手编程语言。\n免责声明：「函数式语言」不在本文讨论范畴，只是简单说一说我日常研究用到的一些语言的速成途径。此外，本文重点仅仅停留在「理解一门编程语言语法和基本使用」，复杂的场景不进行讨论分析。\n前些日子写了一篇文章，简单说了一下自己之前英文速成的一套方案：让语言学习更简单的 WordFlow。今天在火车上的时候，想到当时挖的一个坑，于是打算填了。\n第一门编程语言\n对于大部分编程和科研人员，第一门接触的编程语言大概率是大学第一年学习的「C 语言编程」。回顾一下当时的学习，可以说很多场景也是比较「莫名其妙」。我依稀记得自己当年最早用纸和笔写代码，经历一段时间之后学习安装「DEV C++」，学了一些「虽然不明白为什么要这么用，但是确实可以跑起来」的「技术」。但总之，自己就懵懵懂懂的学会了用 C 解决自己科研生活中的一些问题。\n但是不可置否的是，我们在那一门课程的学习过程中，确实遇到了很多「本不应该在那门课程上解决的问题」。比如我对系统的最早认识、对编译的概念也是在那门课程中逐渐学习的。而这些事情，本应该在 Introduction to Computer System 或者 Introduction to Computer Science 这样的课程结束之后。除此之外，在我们学习最初的时候，最先不得不接触 #include<stdio.h> 和 int main(int argc, char **argv) 之类后续…",
-          "link": "https://sspai.com/post/80255",
-          "publishedOn": "2023-06-13T03:00:00.000Z",
-          "wordCount": 900,
-          "title": "所写即所得：科研民工的编程语言速通方案",
-          "imageUrl": "https://cdn.sspai.com/editor/u_chivier/16863219212167.jpg"
         }
       ]
     },
@@ -1044,6 +1064,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75497",
+          "author": null,
+          "description": "Roger Thomas Clark aka Variety Jone 将会在监狱里度过余生的大部分时间。FBI 在十年前破获了当时暗网最大的毒品交易市场丝绸之路，网站管理员 Ross Ulbricht 被捕，之后被判处终身监禁。丝绸之路的二号人物 Variety Jones 则要等到两年之后在泰国被捕。本周一他被判处了二十年徒刑。62 岁的加拿大公民 Clark 使用的化名包括了 Variety Jones、Cimon 和 Plural of Mongoose，他在丝绸之路的创办和运营中扮演了重要角色，他帮助开创了匿名、基于加密货币的在线毒品交易模式。这一模式至今仍然在暗网上盛行。",
+          "link": "https://www.solidot.org/story?sid=75497",
+          "publishedOn": "2023-07-12T15:19:57.000Z",
+          "wordCount": 171,
+          "title": "丝绸之路二号人物被判 20 年徒刑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75496",
+          "author": null,
+          "description": "米兰·昆德拉图书馆发言人 Anna Mrazova 证实，这位知名捷克作家在长期患病后于 7 月 11 日去世，享年 94 岁。米兰·昆德拉在因“反共活动”被捷克共产党开除后于 1975 年前往法国，1979 年其捷克公民身份被剥夺后他在法国巴黎流亡了四十年，他最著名的作品都是在法国完成的，其中包括《生命中不能承受之轻》。他常被认为是诺贝尔文学奖的角逐者。昆德拉于 1929 年 4 月 1 日出生于布尔诺，父亲是著名的钢琴家和音乐学家，他一开始是跟父亲学音乐，之后转向写作。他年轻时是一位充满热情的共产党员，曾先后两次开除出党，一次是 1950 年的“反共活动”，另一次是布拉格之春后的 1970 年。",
+          "link": "https://www.solidot.org/story?sid=75496",
+          "publishedOn": "2023-07-12T11:37:18.000Z",
+          "wordCount": 172,
+          "title": "米兰·昆德拉去世享年 94 岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75495",
+          "author": null,
+          "description": "门氏菌通常会引起食物中毒，但 2019 年，71 岁的加拿大人爱瑞特·巴尔布尔自愿喝下一瓶含有 10 亿个活性鼠伤寒沙门氏菌的液体，作为对抗胰腺癌的最后手段。当时，胰腺癌已经扩散到她体内其他器官，她只能活几个月。她喝下的沙门氏菌经过了基因改造，可攻击癌细胞，且对身体其他部位的毒性比普通沙门氏菌小。巴尔布尔是世界上第一个在接受化疗的同时尝试沙门氏菌疗法的人，结果显示，她的肿瘤缩小到了原来的 10%。新研究表明，一些栖息于肿瘤上的细菌和真菌可影响癌症的进展和治疗情况，有望成为抗击癌症武器库中的新利器。一些相关药物目前正在临床试验中，这些微生物可深入到化疗等现有疗法难以触及的地方，为攻击肿瘤提供替代方法。",
+          "link": "https://www.solidot.org/story?sid=75495",
+          "publishedOn": "2023-07-12T11:23:49.000Z",
+          "wordCount": 147,
+          "title": "科学家尝试利用微生物对抗肿瘤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75494",
+          "author": null,
+          "description": "俄罗斯对乌克兰的战争正在加剧细菌耐药性的危险扩散。乌克兰科学家和医生报告，一名受伤的乌克兰士兵感染了六种广泛抗药性细菌，其中一种细菌对测试的所有抗生素都具有抵抗能力。卫生专家警告这种几乎无法治疗的细菌可能会传播到乌克兰境外。抗生素耐药性是全球公共健康面临的一个长期的严重威胁。根据《柳叶刀》去年发表的一项研究，2019 年细菌耐药性直接导致全球约 127 万人死亡，并与 495 万人的死亡相关。战争为细菌耐药性的入侵创造理想条件。最新的病例是一名 50 多岁的乌克兰士兵，他已经转移到德国的美军医院接受治疗。医生对血液、尿液等样本的感染筛查发现了六种广泛抗药性细菌：鲍氏不动杆菌、屎肠球菌、肺炎克雷伯菌和三种不同的铜绿假单胞菌。其中肺炎克雷伯菌对测试的所有抗生素都具有耐药性。",
+          "link": "https://www.solidot.org/story?sid=75494",
+          "publishedOn": "2023-07-12T11:13:44.000Z",
+          "wordCount": 152,
+          "title": "受伤乌克兰士兵感染六种耐药细菌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75493",
+          "author": null,
+          "description": "日本流通中的硬币数量大幅下降，预示了日本人对储蓄的态度发生了变化。这一转变是新冠疫情、银行对硬币储存收取高额费用、通货膨胀和无现金支付技术兴起共同促成的。在部分人将硬币与新冠传播媒介联系起来之后，2022 年日本无现金支付大幅增长。无现金支付占到了全部消费者支付的 36%，而十年前是 15%。流通硬币跌幅最大的是面额 500 日元的硬币。此类硬币通常被用于放到儿童的储蓄罐内，满了之后存入银行。此举旨在培养儿童的储蓄和延迟享乐的意识。但去年开始日本银行对存入大量硬币收取了最高 1100 日元的费用。",
+          "link": "https://www.solidot.org/story?sid=75493",
+          "publishedOn": "2023-07-12T08:27:52.000Z",
+          "wordCount": 148,
+          "title": "日本不再认为现金为王",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75492",
+          "author": null,
+          "description": "人类的 DNA 和大猩猩有 98% 的相似度，但在习惯上两者的相似可能超过这个数字。动物园管理员发现，大猩猩对手机的兴趣与来动物园付费看它们的人类一样。动物学家 Rob Laidlaw 将动物对技术的兴趣视为它们对刺激需求的表现，这是它们在圈养过程中无聊的结果。但动物园不想动物体验太多的刺激，他们希望为动物提供接近其原生栖息地的环境。多伦多动物园的大猩猩 Nassir 一度沉迷于游客的手机视频，动物园管理员担心这会导致它疏远同类，因此警告游客不要给这位大猩猩看手机视频。动物园野生动物保育和福利部门的主任 Maria Franke 说，Nassir 就像一个男孩，整天想的是在地下室里玩游戏。她表示，Nassir 最近不那么沉迷于手机视频了，它花了更多时间与异母兄弟 Sadiki 互动。但为了避免再次沉迷，动物园继续向游客展示警告。",
+          "link": "https://www.solidot.org/story?sid=75492",
+          "publishedOn": "2023-07-12T07:49:12.000Z",
+          "wordCount": 157,
+          "title": "多伦多动物园督促游客不要给大猩猩看手机视频",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75491",
+          "author": null,
+          "description": "根据 Statcounter 的统计，Linux 桌面份额首次突破 3%。过去几个月，Linux 桌面用户的比例在缓慢增长，按照这一趋势，未来几十年后 Linux 将会完全统治桌面。根据 Statcounter 的数据，今年 1 月 Linux 桌面比例 2.91%，2 月 2.94%， 3 月 2.85%，4 月 2.83%，5 月 2.7%，6 月 3.07%。",
+          "link": "https://www.solidot.org/story?sid=75491",
+          "publishedOn": "2023-07-12T06:05:46.000Z",
+          "wordCount": 174,
+          "title": "Linux 桌面份额突破 3%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75490",
+          "author": null,
+          "description": "英伟达已成为 AI 革命早期的领跑者，但大大小小的竞争对手已经在奋起直追。AMD 和英特尔等重量级企业正花费数以十亿美元计的资金扩充 AI 产品组合，另一方面初创企业正吸引那些渴望捕捉下一个潜在芯片巨头的投资者。与此同时，亚马逊和谷歌等云计算公司也在开发自己的芯片，成为这一赛道上的大块头选手。从 AI 软件架构的角度来看，英伟达的一众竞争对手或许有能力挑战英伟达。英伟达的软件是专有的，这意味着软件开发者不能自由地对其进行调整。英特尔和 AMD 提供开源的替代方案，一些客户可能会发现这种选择很有吸引力。",
+          "link": "https://www.solidot.org/story?sid=75490",
+          "publishedOn": "2023-07-12T05:56:39.000Z",
+          "wordCount": 158,
+          "title": "英伟达对 AI 的垄断面临挑战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75489",
+          "author": null,
+          "description": "企业发行版 SUSE 宣布将投资 1000 万美元创建一个 Red Hat Enterprise Linux（RHEL）的分支，将免费公开源代码。Red Hat 此前宣布其企业发行版 RHEL 的源代码仅通过 CentOS Stream 公开，付费客户和合作伙伴仍然可通过 Red Hat Customer Portal 访问到源代码。CentOS Stream 是一个滚动更新发行版，是 RHEL 的上游，此举增加了 RHEL 的社区发行版如 Alma Linux 和 Rocky Linux 以及甲骨文的企业发行版 Oracle Linux 构建 RHEL 二进制克隆版本的难度。SUSE 表示它在创建 RHEL 的兼容分支之后将其捐赠给开源基金会，然后提供替代源代码的持续访问。",
+          "link": "https://www.solidot.org/story?sid=75489",
+          "publishedOn": "2023-07-12T03:33:43.000Z",
+          "wordCount": 205,
+          "title": "SUSE 将创建 Red Hat Enterprise Linux 的一个分支",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75488",
+          "author": null,
+          "description": "微软赢得了 FTC 提起的诉讼，加州法官允许它完成对动视暴雪的收购。微软仍然面临 FTC 的反垄断诉讼，但法官 Jacqueline Scott Corley 驳回了 FTC 的临时禁令请求。微软对动视暴雪的收购是科技史上最高金额的收购案，对于 FTC 以及竞争对手如索尼的担忧，微软已经书面承诺未来十年会继续在 PS 主机上发布《使命召唤》系列，它甚至与任天堂达成协议将《使命召唤》移植到 Switch 主机上。法官对此表达了明确支持，这一裁决将允许微软在 7 月 18 日最后期限前完成对动视暴雪的收购，但微软还需要与英国监管机构谈判达成某种协议。",
+          "link": "https://www.solidot.org/story?sid=75488",
+          "publishedOn": "2023-07-11T15:50:52.000Z",
+          "wordCount": 161,
+          "title": "法官允许微软完成对动视暴雪的收购",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75487",
+          "author": null,
+          "description": "英特尔终止了对 Next Unit of Compute (NUC) 业务的投资。很多人可能不知道，芯片巨人除了制造芯片也制造准系统。它的 NUC 就属于体积小巧的准系统，在用户中非常受欢迎。NUC 也从小尺寸发展到了更大尺寸，其机箱能容纳至强 CPU 甚至 GPU。虽然英特尔未来不再推出自己的 NUC，但主要 OEM 厂商都有类似的小巧准系统产品。",
+          "link": "https://www.solidot.org/story?sid=75487",
+          "publishedOn": "2023-07-11T15:34:11.000Z",
+          "wordCount": 164,
+          "title": "英特尔终止 NUC 业务",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75486",
           "author": null,
@@ -3523,96 +3653,6 @@
           "wordCount": 160,
           "title": "日本向更多海外劳工开放大门",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75236",
-          "author": null,
-          "description": "NAS 硬盘损坏率并不高，通常可以使用五到六年。硬盘制造商西部数据最近的做法引发了用户的争议和愤怒。群晖科技（Synology）使用 DiskStation Manager(DSM) 软件管理其 NAS 产品。使用西部数据硬盘的用户报告 DSM 软件显示了警告标签，但这不是警告客户硬盘可能发生故障，而是三年提醒——在硬盘通电三年之后，西部数据告诉客户，硬盘已经积累了大量通电小时数，请考虑尽快更换硬盘。硬盘本身没问题。群晖发言人证实，该标签来自西部数据而不是它。西部数据通过其开发的 Western Digital Device Analytics (WDDA) 监视了通电小时数。用户认为西部数据此举是通过恐慌性的策略促使客户购买更多硬盘。许多人表示不再推荐购买西数的硬盘。",
-          "link": "https://www.solidot.org/story?sid=75236",
-          "publishedOn": "2023-06-13T13:09:03.000Z",
-          "wordCount": 156,
-          "title": "西部数据对开机三年的硬盘发出更换警告引发争议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75235",
-          "author": null,
-          "description": "根据发表在《Scientific Reports》上的一项研究，太空飞行会改变人脑结构，而如果短时间内重复飞行，那么这种改变将难以恢复。研究人员用核磁共振扫描了 30 名宇航员的大脑，分别是在太空飞行前和飞行后，包括那些执行两周任务(8 名宇航员)、六个月任务(18 名宇航员)和更长时间任务(4 名宇航员)的宇航员。他们发现，更长时间的太空飞行任务会导致更大的脑室——大脑中充满脑脊液的空腔——增大。他们认为，间隔不到三年的太空飞行时间可能不足以让脑室恢复其补偿能力，以适应颅内液体的增加，当宇航员在这段时间内返回太空时，脑室仍会扩大。",
-          "link": "https://www.solidot.org/story?sid=75235",
-          "publishedOn": "2023-06-13T09:50:43.000Z",
-          "wordCount": 148,
-          "title": "太空飞行会对人脑结构产生无法恢复的影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75234",
-          "author": null,
-          "description": "上周伊朗军方展示了霍梅尼（Imam Khomeini）海军大学开发的“量子处理算法”的首款产品，它能帮助军方探测水面的扰动。海军少将 Habibollah Sayyari 还谈论了伊朗在量子领域取得的突破。但对伊朗媒体公布的“量子”设备图像的分析显示，该设备可能是一款 Diligent 公司出售的 FPGA 开发板 ZedBoard，ZedBoard 的品牌名在图像上清晰可见。ZedBoard 开发板主要是用于视频处理、可重构计算、电机控制、软件加速等用途，并不具有量子比特。ZedBoard 的售价为 589 美元，可在亚马逊上购买。",
-          "link": "https://www.solidot.org/story?sid=75234",
-          "publishedOn": "2023-06-13T09:07:06.000Z",
-          "wordCount": 155,
-          "title": "伊朗的“量子”设备被发现是开发板",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75233",
-          "author": null,
-          "description": "WSJ 援引知情人士的消息报道，欧盟反垄断监管机构正考虑分拆 Google 的广告技术业务（可能指原 DoubleClick 或 Google AdSense），作为一项新的反垄断申诉的一部分。知情人士称，欧盟最高反垄断监管机构欧盟委员会预计最早将于周三对 Google 提起正式反垄断诉讼，指控该公司滥用其作为第三方网站和应用程序上最大的数字广告经纪人、供应商和在线拍卖商之一的角色。在反垄断案件中，欧盟委员会下令大规模剥离资产是不寻常的，这类案件通常通过罚款和命令改变行为来解决。",
-          "link": "https://www.solidot.org/story?sid=75233",
-          "publishedOn": "2023-06-13T07:39:25.000Z",
-          "wordCount": 160,
-          "title": "欧盟监管机构考虑分拆 Google 的广告技术业务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75232",
-          "author": null,
-          "description": "《自然》期刊宣布它不会发表用生成式 AI 工具创作的图像或视频。创办于 1869 年 11 月《自然》是最知名最有影响力的科学期刊之一。随着生成式 AI 工具日益渗透到科学和艺术领域，期刊出版商对研究的完整性、共识、隐私和知识产权保护感到担忧，最新的 AI 生成艺术禁令是在数个月的激烈讨论和协商会做出的。除了专门研究 AI 的论文，《自然》将不会发表任何全部或部分使用生成式 AI 创作的图像、视频或插图内容。",
-          "link": "https://www.solidot.org/story?sid=75232",
-          "publishedOn": "2023-06-13T06:30:50.000Z",
-          "wordCount": 163,
-          "title": "《自然》期刊禁止 AI 生成艺术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75231",
-          "author": null,
-          "description": "Reddit 社区周一开始了计划中的大规模抗议活动，逾 7000 个 subreddit 从公开变成私有，不再对外访问，其中包括订阅量超过千万的流行 subreddit。在抗议开始不到 11 小时后，Reddit 感受到了抗议的影响。网站持续崩溃，稳定性问题持续了约三个小时，从 10:25 am ET 到 1:26 pm。公司发言人 Tim Rathschmidt 期间表示，由于大量的 subreddit 转向了私有，造成了稳定性问题，他们正在努力解决。Reddit 社区抗议该公司对 API 访问设定了远超合理的价格，迫使第三方客户端关闭，而这些第三方客户端因为质量更出色远比官方客户端更受欢迎。",
-          "link": "https://www.solidot.org/story?sid=75231",
-          "publishedOn": "2023-06-13T03:26:32.000Z",
-          "wordCount": 172,
-          "title": "大规模抗议导致 Reddit 崩溃三小时",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75230",
-          "author": null,
-          "description": "美国联邦贸易委员会(FTC)周一要求一家联邦法院阻止微软完成 750 亿美元收购动视暴雪的交易，同时该机构还在进行另一项程序来阻止该交易。FTC 向旧金山联邦法院申请了禁令，理由是最近有媒体报道称，微软不顾美国和英国的法律反对，正在考虑完成这笔交易。法官需要同意才会发布禁令，禁令可能在 FTC 举行听证会后发布，FTC 将在听证会上举证这笔交易非法。微软副董事长兼总裁 Brad Smith 发表声明称，该公司欢迎有机会在联邦法院陈述此案。",
-          "link": "https://www.solidot.org/story?sid=75230",
-          "publishedOn": "2023-06-13T03:15:30.000Z",
-          "wordCount": 154,
-          "title": "FTC 寻求阻止微软收购动视暴雪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75229",
-          "author": null,
-          "description": "伯克希尔·哈撒韦旗下的 World Book 公司声称它是唯一一家仍然在出版实体百科全书的出版商。World Book 最早的百科全书是在 1917 年出版的，从 1925 年起它每年出版一个新版本。它曾经最主要的竞争对手《大英百科全书（The Encyclopedia Britannica）》在 2012 年终止了印刷版。在英语世界里它确实是唯一一家百科全书的实体出版商。World Book 主编 Tom Evans 称对百科全书的需求仍然存在。它的百科全书有数千的销量，最主要的客户是公立图书馆和学校图书馆，此外还有在家自学家庭。它的 2023 年版本有大约 1.7 万篇文章，22 卷逾 1.4 万页，零售价 1199 美元。",
-          "link": "https://www.solidot.org/story?sid=75229",
-          "publishedOn": "2023-06-12T15:44:55.000Z",
-          "wordCount": 168,
-          "title": "唯一仍然出版的实体百科全书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75228",
-          "author": null,
-          "description": "在数以千计的 Reddit 社区（subreddit）举行大规模抗议的第一天，Reddit 遭遇了宕机事故。用户通过社交媒体报告他们访问时遭遇了加载失败等故障。暂时不清楚是 Reddit 本身的问题还是其 CDN 服务商的问题。Reddit 没有完全下线，用户报告称他们成功登陆进网站的概率是 50% 左右。也有人猜测 Reddit 可能借着大部分 subreddit 关闭的情况下在调整网站的负载。",
-          "link": "https://www.solidot.org/story?sid=75228",
-          "publishedOn": "2023-06-12T15:05:34.000Z",
-          "wordCount": 159,
-          "title": "Reddit 发生宕机事故",
-          "imageUrl": null
         }
       ]
     },
@@ -3621,6 +3661,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/745754/",
+          "author": null,
+          "description": "微信拒绝出席澳大利亚听证会，腾讯被威胁：“面临严重后果”。 7 月 11 日的消息，澳大利亚国会参议院，举行了个“反外国干涉听证会”。 包括谷歌、Meta（脸书的母公司）、TikTok（海外版抖音）和推特、LinkedIn 在内的社交媒体公司，都派人去了趟堪培拉，出席公开听证会。 该委员会将就外国通\n本文链接",
+          "link": "https://news.cnblogs.com/n/745754/",
+          "publishedOn": "2023-07-13T01:00:00.000Z",
+          "wordCount": 163,
+          "title": "微信被指“蔑视澳大利亚法律”，腾讯拒参加“反外国干涉听证会”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745753/",
+          "author": null,
+          "description": "界面新闻记者肖芳 7 月 12 日，据外媒报道，字节跳动将允许 TikTok 美国员工参与未来的期权回购计划，美国员工无需等到字节跳动上市即可把所持公司期权套现。 字节跳动方面确认了这一消息，称“我们宣布了一项内部解决方案，将使美国员工有资格参与未来的期权回购计划。”强调其目标是为员工提供有竞争力的\n本文链接",
+          "link": "https://news.cnblogs.com/n/745753/",
+          "publishedOn": "2023-07-13T00:55:00.000Z",
+          "wordCount": 163,
+          "title": "字节跳动将允许美国员工参与期权回购计划，7000人或可提前套现",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745752/",
+          "author": null,
+          "description": "红星资本局 7 月 12 日消息，近日，有网友在社交平台发帖称，爱奇艺（IQ.US）TV 版 APP 即奇异果 TV 在电视机处于息屏休眠状态时，仍有1-5M/s的上传速度，只有彻底断掉电源才会停止。 资料配图图据视觉中国 该网友质疑，用户电视疑似被当免费服务器。红星资本局在该网友发布的帖子中看到，\n本文链接",
+          "link": "https://news.cnblogs.com/n/745752/",
+          "publishedOn": "2023-07-13T00:50:00.000Z",
+          "wordCount": 163,
+          "title": "爱奇艺TV版被质疑“白嫖”用户宽带 客服：可自行关闭“HCDN开关”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745751/",
+          "author": null,
+          "description": "英特尔正在深入人工智能腹地，中国则是其 AI 芯片的“主战场”之一。 7 月 11 日，英特尔宣布正式面向中国市场推出第二代深度学习加速器——Habana Gaudi2，该产品可用于加速 AI 训练及推理，合作方名单上包括了浪潮信息、新华三、超聚变等中国的主要服务器厂商。 “在过去六个月，AI 加速\n本文链接",
+          "link": "https://news.cnblogs.com/n/745751/",
+          "publishedOn": "2023-07-13T00:47:00.000Z",
+          "wordCount": 163,
+          "title": "对标英伟达，英特尔在中国推出定制版AI加速芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745750/",
+          "author": null,
+          "description": "本文来源：时代财经 作者：王婷 开在印度的国产品牌手机店。图源：受访者 2014 年，印度人萨希尔拥有了自己的第一台智能手机，价格约 6000 卢比（约合人民币 524 元），这款手机出自中国厂商小米。 他记得，当时一款三星智能手机 Galaxy S 3 的价格是 2.8 万卢比（约合人民币 244\n本文链接",
+          "link": "https://news.cnblogs.com/n/745750/",
+          "publishedOn": "2023-07-13T00:42:00.000Z",
+          "wordCount": 163,
+          "title": "中国手机军团印度十年浮沉记：一颗“甜枣”，一记重拳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745749/",
+          "author": null,
+          "description": "7 月 12 日晚间消息，荣耀 Magic V2 暨全场景新品发布会今晚举行。荣耀 MagicV2 系列实现了 9.9mm 的闭合态厚度，231g 重量堪比直板旗舰，售价 8999 元起。除了荣耀 Magic V2 之外，荣耀还在发布会上带来了荣耀平板 MagicPad 13、荣耀手表4、荣耀智慧屏\n本文链接",
+          "link": "https://news.cnblogs.com/n/745749/",
+          "publishedOn": "2023-07-13T00:36:00.000Z",
+          "wordCount": 163,
+          "title": "荣耀带来毫米级折叠旗舰Magic V2售价8999元起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745748/",
+          "author": null,
+          "description": "原标题：让 3640 万中国人深夜热辣流汗的 APP，9 年后的今天发生了巨变！ 作者｜普子胥 出品｜网易科技《态℃》栏目 前言 9 年上市长跑，让数千万国人深夜大口喘气、运动流汗的 Keep，终于圆梦港交所。 2023 年 7 月 12 日，“运动科技第一股”Keep 正式登陆港交所，股份代号为 \n本文链接",
+          "link": "https://news.cnblogs.com/n/745748/",
+          "publishedOn": "2023-07-13T00:31:00.000Z",
+          "wordCount": 163,
+          "title": "Keep上市上市绝不是终点，盈利问题悬而未决",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745747/",
+          "author": null,
+          "description": "7 月 12 日，《自然》杂志刊登中山大学王猛教授团队与其他单位合作的成果：首次发现液氮温区镍氧化物超导体。这是由中国科学家首次率先独立发现的全新高温超导体系，是人类目前发现的第二种液氮温区非常规超导材料，是基础研究领域“从 0 到1”的重要突破，将有望推动破解高温超导机理，使设计和预测高温超导材料\n本文链接",
+          "link": "https://news.cnblogs.com/n/745747/",
+          "publishedOn": "2023-07-13T00:25:00.000Z",
+          "wordCount": 163,
+          "title": "开创性发现！中山大学科学家发现全新高温超导体，登上《自然》杂志",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745746/",
+          "author": null,
+          "description": "7 月 11 日，Meta 老板马克·扎克伯格与两位 UFC 格斗冠军在内华达州一家健身房合影，三人还在镜头前大方展示他们那强壮的肌肉，令人惊叹不已。据《每日邮报》报道，扎克伯格在与 UFC 羽量级冠军亚历克斯·沃尔坎诺夫斯基（Alex Volkanovski）和两届 UFC 中量级冠军伊斯雷尔·阿\n本文链接",
+          "link": "https://news.cnblogs.com/n/745746/",
+          "publishedOn": "2023-07-13T00:20:00.000Z",
+          "wordCount": 163,
+          "title": "扎克伯格格斗训练中展示强壮肌肉，马斯克也晒训练照，但略逊一筹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745745/",
+          "author": null,
+          "description": "来源：环球时报 以色列一家生殖科技公司日前研发出一种人工智能（AI）优选胚胎技术，可有效提高试管婴儿成功率。美国福克斯新闻网 12 日报道称，该技术通过 AI 软件对体外受孕的胚胎进行筛选，从而提高胚胎移植后的着床成功率。这种 AI 软件可以对大量胚胎进行甄别，为每个可移植的胚胎打分，从而快速筛选出\n本文链接",
+          "link": "https://news.cnblogs.com/n/745745/",
+          "publishedOn": "2023-07-13T00:17:00.000Z",
+          "wordCount": 163,
+          "title": "以色列一公司研发出AI优选胚胎技术，可有效提高试管婴儿成功率",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745744/",
+          "author": null,
+          "description": "财联社 7 月 13 日讯（编辑牛占林）微软创始人比尔·盖茨近日发表文章指出，人工智能(AI)的未来不会像某些人想象的那么严峻、也不会像一些人想象的那么乐观，其风险的确存在，但这些风险是可控的。 与硅谷的其他一些高管相比，盖茨似乎不那么担心人工智能的风险。他表示，这项技术的出现可能会导致深度伪造、有\n本文链接",
+          "link": "https://news.cnblogs.com/n/745744/",
+          "publishedOn": "2023-07-13T00:14:00.000Z",
+          "wordCount": 163,
+          "title": "比尔·盖茨：人们不应该害怕人工智能 其风险是可控的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745743/",
+          "author": null,
+          "description": "IT 之家 7 月 13 日消息，苹果今天向 iPhone、iPad 用户推送了 iOS / iPadOS 17 首个公测版本，邀请全球的用户测试新版本。 苹果已经面向开发者发布了 3 个 Beta 版本（IT 之家注：苹果昨天重发了 Beta 3 更新），而本次推出的公测版和 Beta 3 内容相\n本文链接",
+          "link": "https://news.cnblogs.com/n/745743/",
+          "publishedOn": "2023-07-13T00:10:00.000Z",
+          "wordCount": 163,
+          "title": "苹果推送 iOS / iPadOS 17 首个公测版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745742/",
+          "author": null,
+          "description": "xAI 创始团队中，华人研究员占1/3。 文 Juny 编辑 VickyXiao 马斯克的“X宇宙”今天又增添了一位新成员——xAI。 当然，作为一直抨击和抵制以 OpenAI 为代表的生成式 AI 浪潮的领头人，马斯克这次高调入局 AI 自然走的不是寻常路。 对于 xAI 究竟是要用 AI 做什么\n本文链接",
+          "link": "https://news.cnblogs.com/n/745742/",
+          "publishedOn": "2023-07-13T00:07:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克高调官宣xAI：AI顶级天团坐镇，华人大神云集，目标是要解开“宇宙本质”？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745741/",
+          "author": null,
+          "description": "财联社 7 月 12 日讯（记者王碧微）“现在（GPU）价格都涨得比较高，而且客户一犹豫货就被别人抢走了。”一位经销商如此描述当下 GPU 的紧俏程度，但这也让不少终端企业感到焦头烂额。浪潮信息(000977.SZ)、优刻得（688158.SH）等公司近日均有透露 GPU 紧缺对公司经营带来影响的情\n本文链接",
+          "link": "https://news.cnblogs.com/n/745741/",
+          "publishedOn": "2023-07-13T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "英伟达减少出货，A800紧缺，单卡现货近13万元一颗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745740/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 谷歌发布低成本可控文生图插件模型 MediaPipe Diffusion，移动端提速 20+ 倍，在 v100 上运行提速高达 100 倍。 近年来，扩散模型在文本到图像生成方面取得了巨大的成功，实现了更高图像生成质量，提高了推理性能，也可以激发扩展创作灵感。 不过仅凭文本\n本文链接",
+          "link": "https://news.cnblogs.com/n/745740/",
+          "publishedOn": "2023-07-12T13:30:00.000Z",
+          "wordCount": 163,
+          "title": "推理效率比ControlNet高20+倍！谷歌发布MediaPipe Diffusion插件，「移动端」可用的图像生成控制模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745739/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 等了这么久，Claude 2 终于可以免费上手试用了！实测发现，文献概括、代码、推理能力都有了大提升，但中文还差点意思。 ChatGPT 的最大竞争对手 Anthropic 再次上新！ 就在刚刚，Anthropic 正式发布了全新的 Claude 2，并推出了更加便捷的网页\n本文链接",
+          "link": "https://news.cnblogs.com/n/745739/",
+          "publishedOn": "2023-07-12T13:15:00.000Z",
+          "wordCount": 163,
+          "title": "GPT-4最大竞争对手Claude 2发布！一次10万token免费用，代码、数学、推理史诗级提升",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745738/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 在 AIGC 新时代风潮下，燧原科技亮出首个 MaaS 平台服务产品，用自研算力底座，赋能文生图商业新生态。 最近，大洋对岸的 OpenAI 又给了我们亿点点震撼。 GPT-4 史上最强大功能——代码解释器 Code Interpreter 测试版已经正式向所有 plus \n本文链接",
+          "link": "https://news.cnblogs.com/n/745738/",
+          "publishedOn": "2023-07-12T12:00:00.000Z",
+          "wordCount": 163,
+          "title": "一键生成NPC！燧原全栈MaaS平台首亮相，自研算力底座，重塑AIGC新生态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745737/",
+          "author": null,
+          "description": "新智元报道 编辑：桃子好困 2017 年，Transformer 开山之作的最后一位共同作者，宣布月底即将离职谷歌自创业。 Transformer 八子全都叛逃了谷歌。 爆料称，当年参与谷歌 Transformer 惊世之作的最后一位共同作者 Llion Jones，月底将离职谷歌自行创业。 前谷歌\n本文链接",
+          "link": "https://news.cnblogs.com/n/745737/",
+          "publishedOn": "2023-07-12T11:42:00.000Z",
+          "wordCount": 163,
+          "title": "Transformer八子全部叛逃谷歌！最后一位共同作者月底离职创业",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745736/",
+          "author": null,
+          "description": "华为不造车，任正非很坚定。 来源 AI 蓝媒汇 ID:lanmeih001 作者黑羊 6 月 30 日，AITO 问界的员工打开邮箱，收到一封信。 信中说：为了支持赛力斯汽车与华为联合业务更深入紧密发展，双方决定共同成立“AITO 问界销服联合工作组”，自 7 月 1 日起，全面负责营销、销售、交付\n本文链接",
+          "link": "https://news.cnblogs.com/n/745736/",
+          "publishedOn": "2023-07-12T11:40:00.000Z",
+          "wordCount": 163,
+          "title": "“海王”华为，暧昧造车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745735/",
+          "author": null,
+          "description": "西风发自凹非寺 量子位公众号 QbitAI 真·“未雨绸缪”，清华大学「鬼天气」预报大模型来了！是能破解世界未解难题的那种——公里尺度下0～3 小时极端降水都能预报。包括短时强降水、暴风雨、暴雪、冰雹等在内的极端降水天气，都能做到提前预警。 完成这项研究可属实不易。 清华大学软件学院与国家气象中心、\n本文链接",
+          "link": "https://news.cnblogs.com/n/745735/",
+          "publishedOn": "2023-07-12T11:30:21.000Z",
+          "wordCount": 163,
+          "title": "清华&中国气象局大模型登Nature：「鬼天气」预报时效首次达3小时",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/745661/",
           "author": null,
@@ -9079,106 +9319,6 @@
           "publishedOn": "2023-06-13T14:18:47.000Z",
           "wordCount": 163,
           "title": "英国投资1亿英镑，成立AI工作组和OpenAI等共建基础模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743729/",
-          "author": null,
-          "description": "英特尔计划在明年推出名为 RibbonFET 的新晶体管技术，以及新的供电方法 PowerVia。PowerVia 是英特尔版本的背面供电技术。 今天的芯片是在正面将晶体管与供电和数据传输互连在一起，而背面供电将所有供电互连转移到芯片背面。这会产生两个影响，其一是为正面的数据互连留出了更多空间，其二\n本文链接",
-          "link": "https://news.cnblogs.com/n/743729/",
-          "publishedOn": "2023-06-13T01:08:34.000Z",
-          "wordCount": 163,
-          "title": "英特尔演示新的芯片背面供电技术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743728/",
-          "author": null,
-          "description": "作者：陈法善 编辑：邢昀 来源：豹变 “可怕！杭州 200 平的办公室没有人，全是 AI 数字人在 24 小时直播！” “深夜两点，一个真人都没有，全是数字人在带货。这些数字人不需要睡觉，不需要吃饭，一部电脑，一点电费，就能连续直播带货 24 小时。” “不要工资，不要提成，也不要五险一金，这样的员\n本文链接",
-          "link": "https://news.cnblogs.com/n/743728/",
-          "publishedOn": "2023-06-13T01:04:01.000Z",
-          "wordCount": null,
-          "title": "代理数字人年入百万？小心被“割韭菜”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743727/",
-          "author": null,
-          "description": "新浪科技讯，北京时间 6 月 13 日早间消息，据报道，美国商用软件巨头甲骨文公司今日发布了 2023 财季第四财季财报，该公司云计算业务表现优秀，而且在刚开始的新财年都将保持高增长势头。当天甲骨文股价在收盘时创造了历史新高，盘后交易时段又继续上涨了 3.5%。 这也推动其创始人拉里·埃里森（Lar\n本文链接",
-          "link": "https://news.cnblogs.com/n/743727/",
-          "publishedOn": "2023-06-13T01:00:19.000Z",
-          "wordCount": 163,
-          "title": "生成式AI热潮让云计算收入猛增 甲骨文股价创纪录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743726/",
-          "author": null,
-          "description": "新浪科技讯，北京时间 6 月 13 日早间消息，据报道，Twitter 联合创始人杰克·多西（Jack Dorsey）去年离开 Twitter 董事会。最近他接受采访，谈到了马斯克，他认为马斯克运营 Twitter 的一些举动有些鲁莽。 多西在接受采访时谈到许多话题，包括他对美国总统候选人小罗伯特肯\n本文链接",
-          "link": "https://news.cnblogs.com/n/743726/",
-          "publishedOn": "2023-06-13T00:57:42.000Z",
-          "wordCount": 163,
-          "title": "Twitter联合创始人多西：马斯克有些鲁莽 新功能考虑不周",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743725/",
-          "author": null,
-          "description": "当地时间周一，英国首相苏纳克发表讲话称，人工智能（AI）是未来最大的机会之一，呼吁英国迅速采取行动，以保持其科技中心地位，并敦促科技界领袖把握人工智能带来的机遇和挑战。 在伦敦科技周的开幕式上，苏纳克表示：“人工智能的可能性是非凡的，这种技术将推动多个领域的革新，并认为英国在这方面具有很好的发展潜力\n本文链接",
-          "link": "https://news.cnblogs.com/n/743725/",
-          "publishedOn": "2023-06-13T00:56:03.000Z",
-          "wordCount": 163,
-          "title": "英国首相：AI是未来最大的机会之一 寻求“主导”全球AI监管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743724/",
-          "author": null,
-          "description": "新浪科技讯，北京时间 6 月 13 日早间消息，据报道，苹果股价周一创下历史新高，表明这家科技巨头有可能重新夺回行业领导地位。 该股周一上涨 1.6%，报收于 183.79 美元。这也是苹果股价自 2022 年 1 月以来首次创下收盘历史新高。不过，苹果股价也在上周发布 Vision Pro 混合现\n本文链接",
-          "link": "https://news.cnblogs.com/n/743724/",
-          "publishedOn": "2023-06-13T00:54:38.000Z",
-          "wordCount": 163,
-          "title": "苹果股价再创历史新高：市值逼近3万亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743723/",
-          "author": null,
-          "description": "两个 Mori 模块配对。图片来源：洛桑联邦理工学院 科技日报北京 6 月 12 日电 （记者张佳欣）多边形网格的数字世界和群集行为的生物世界为瑞士洛桑联邦理工学院（EPFL）的研究人员带来了灵感。据最新一期《自然·机器智能》杂志报告，他们开发了一种可以改变形状、四处移动并能与物体和人互动的折叠式机\n本文链接",
-          "link": "https://news.cnblogs.com/n/743723/",
-          "publishedOn": "2023-06-13T00:51:37.000Z",
-          "wordCount": 163,
-          "title": "用于太空旅行的多边变形机器人问世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743722/",
-          "author": null,
-          "description": "科技日报北京 6 月 12 日电 （记者张梦然）据《自然·代谢》杂志 12 日发表的一项研究显示，大脑对特定营养物质的应答在肥胖个体中会减弱，而且减重后也不会恢复。研究结果表明，大脑的长期适应可能发生在肥胖个体中，而且会影响进食行为。 进食行为是复杂的代谢信号从肠道、其他器官、血液循环抵达大脑再返回\n本文链接",
-          "link": "https://news.cnblogs.com/n/743722/",
-          "publishedOn": "2023-06-13T00:49:33.000Z",
-          "wordCount": 163,
-          "title": "肥胖会破坏大脑对营养物质应答",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743721/",
-          "author": null,
-          "description": "科技日报北京 6 月 12 日电 （记者张梦然）美国麻省理工学院和塔夫茨大学研究人员设计出一种基于大型语言模型（如 ChatGPT）的人工智能算法，这种称为 ConPLex 的新模型可将目标蛋白与潜在的药物分子相匹配，而无需执行计算分子结构的密集型步骤。相关论文发表在最新一期《美国国家科学院院刊》上\n本文链接",
-          "link": "https://news.cnblogs.com/n/743721/",
-          "publishedOn": "2023-06-13T00:47:11.000Z",
-          "wordCount": 163,
-          "title": "一天内筛选超一亿种化合物，AI语言模型“提速”药物发现",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743720/",
-          "author": null,
-          "description": "左边是实验结果，中间和右边是理论建模。红色和蓝色表示电子的速度。图片来源：意大利博洛尼亚大学 科技日报北京 6 月 12 日电 （记者刘霞）一个国际研究团队首次成功测量了一类新型量子材料内的电子自旋，这一成就有望彻底改变未来量子材料的研究方式，为量子技术的发展开辟新途径，并在可再生能源、生物医学、电\n本文链接",
-          "link": "https://news.cnblogs.com/n/743720/",
-          "publishedOn": "2023-06-13T00:45:11.000Z",
-          "wordCount": 163,
-          "title": "量子材料内首次测量电子自旋",
           "imageUrl": null
         }
       ]
