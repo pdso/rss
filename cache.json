@@ -59,6 +59,46 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/81131",
+          "author": "燎原助教鹿非",
+          "description": "作为一个懒人，我从正式入职的第一天就开始琢磨：如何尽量高效地完成工作，留出更多时间愉快地吃喝玩乐？\n听过前辈们的不少建议，也完整阅读过好多本讲个人时间精力管理的书籍，现在回头看，如果融合以上所有知识，带着目前的观点和经历回到作为职场萌新的那年，我会如何指导当时的自己？\n想说的事情很多，如果只能说一件，那么我会选择告诉“她”：别纠结艾森豪威尔矩阵啦，有个经实践验证更为有效的方法是，参考「能力-意愿」模型。\n众所周知，各路大V在传授时间管理心得时，总绕不开艾森豪威尔矩阵——督促你从「紧急性」和「重要性」这两个维度，划定事项的优先级。把「重要且紧急」和「重要不紧急」的事务排入日程表，抓紧完成。直接推掉「不重要且不紧急」的事情，再把「不重要但紧急」的任务外包，解放自己的生产力。\n根据实践，此模型在引导后续行动上有如下bug：\n1、对于重要的事情，不管它是否紧急，都不耽误我拖延😂 比如说，我曾一度踩着Deadline（精确到秒的那种）提交项目报告，在滴答清单里反复延后听课、阅读等学习任务的完成时间。\n2、对于不重要的事情，我通常没有拒绝的自由，也缺乏把它外包给他人的权力或资源。 因为这个不重要，指的是对我来说不重要。做这件事，对完成我的个人目标没有帮助。而更可悲的是，对我来说的不紧急，可能对任务发出者来说也同样不紧急，但对方出于各种原因，常会设定一个极短的周期，以此倒逼接收者赶紧提交成果。\n比如说，前领导做数据分析，突然想起某个历史文件，勒令我下班前找到并发给她。问题是我手头还有其他更重要且Deadline相近的工作得完成。于是我只能加班寻找。由于原始数据实在简陋，对现在的业务模型也没啥参考价值，那篇在周一花了我2小时整理的资料，最终并没在周五的例会派上任何用场。\n既然这模型实际并不管用，我又该如何改善拖延症呢？一番琢磨过后，我发现影响行动积极性的因素主要有俩：\n\n任务的完成难度：…",
+          "link": "https://sspai.com/post/81131",
+          "publishedOn": "2023-07-14T00:58:02.000Z",
+          "wordCount": 597,
+          "title": "如何打败拖延症？（不是艾森豪威尔矩阵）",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/81133",
+          "author": "NowScott",
+          "description": "大家好，我是NowScott。\n前言\n在写这篇文章之前，我自己部署的这个工具已经平稳的运行了超过300天，也验证了这个工具的可靠程度。\n每日科技早报\n同时期做的利用公众号每天发送恋爱天数的工具已经因为出了几次问题，被我用快捷指令替换掉了，如果有对这个感兴趣的也可以评论告诉我，人多的话我就单独写一期。（但是少数派应该人均快捷指令大佬吧😂）\n创建初衷\n小时候，家中的长辈常订阅报纸。然而随着时代的变迁，报纸逐渐退出我们的视野，被无处不在的互联网新闻取而代之。\n在这个广袤的信息海洋中，琳琅满目且杂乱无章，包含了大量的信息。但实际上，我想要了解的内容并不多。\n因此，我创建了这个工具，每天自动将科技新闻发送到我的邮箱。\n这样，我就不再淹没在大量信息中，而是像过去阅读报纸时一样，只专注阅读我最感兴趣的那个部分。\n工具介绍\n这个工具的项目地址是：https://github.com/NowScott/EverydayTechNews\n因为要避免暴露邮箱，所以真正每天在运行的工具在另外一个私有项目中，本项目的目的在于帮助同样有这个需求的朋友们搭建这样一个小工具。\n这个自动发送新闻到邮箱的小工具是基于python开发的，主函数是根目录下的main.py文件，然后配置文件是根目录下的config.json。\n工具部署\n这个小工具重新部署起来非常简单，如果你也和我一样，只需要每天看30条科技新闻的话，那么只需要更改配置文件就好。\n由于Fork的项目不能设为私有，所以你需要新建一个私有项目(防止你的邮箱公开，收信的邮箱还好，主要是发信的那个邮箱，账号密码都在配置文件中)。\n然后把我这个项目中的文件下载下来，然后上传到你新建的项目中。\nconfig.json文件如下所示\n{\n    \"sender\": \"send_email@example.com\",\n    \"password\": \"smtp_password\",\n    \"server\": \"smtp.163.com\",\n    \"receivers\": [\n        \"receive_email@example.com\"\n        ]\n}\n对config.json做如下更改：\n\n打开smtp选项，在sender后面输入邮箱地址，并将从SMTP获取的密码放入password字段中。\n关于服务器（server），它取决于您使用的电子邮件地址。这里我提供了使用网易163邮箱地址的示例。其他常用电子邮件提供商的服务器地址参考这个网页中的内容：YangCheney's blog\n我将接收者（receivers）设置为一个列表，这意味着您不仅可以包括自己的邮箱地址，还可以包括朋友的邮箱地址。这样可以共享和讨论相互感兴趣的内容。\n\n更改完配置信息之后找到.github/workflows/technews.yml这个文件\n将第四行和第五行取消注释（因为这个项目是一个示例项目，所以无法运行）。这部分代码的含义是在格林尼治时间（UTC）的每天零点（midnight）执行，换算成北京时间需要加8个小时，即早上8点左右开始执行。然而并非完全准确，一般会在8点45左右结束。有关 cron 的详细规则，请参考这个网站：https://tool.lu/crontab/\n接着在上方找到Action，左侧点击technews，右侧找到run workflow尝试运行，如果在下方的运行中没有报错而且邮件能正常发送，那么就成功了。\nActiontechnewsRun workflow\n但是如果你和我不同，需要其他版块的新闻，可能要麻烦一些。\n由于其他版块的排版和科技的不尽相同，所以更换版块意味着要重新写页面解析部分的代码，去找到符合你口味的新闻，我这里就不过多赘述了。\n一些说明\n\n使用网易新闻的原因完全是因为页面解析简单\n本文旨在提供思路和教新手操作，大佬不用在意我说的操作\n本文的头图是用figma做的，第一次用还不太熟练😂\n如果有哪里说的不对欢迎评论指出，有问题也可以给我发邮件：nowscott@qq.com\n\n那么这就是本文的全部内容了，我是NowScott，我们下期再见。\n在结尾附上前一篇文章的链接：教你搭建个人索引网站",
+          "link": "https://sspai.com/post/81133",
+          "publishedOn": "2023-07-14T00:57:36.000Z",
+          "wordCount": 640,
+          "title": "教你做一个每天发送科技新闻邮件的工具",
+          "imageUrl": "https://cdn.sspai.com/2023/07/14/2a52ac3bddefbc0da12d98af8322892c.png"
+        },
+        {
+          "id": "https://sspai.com/post/81114",
+          "author": "文某君",
+          "description": "Matrix 首页推荐 \nMatrix  是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\nGameBoy、NDS、iPod、有线耳机、CD 机、黑胶唱机……等复古数码产品总是散发着一股独特的魅力。对「九零后」来说，iPod 有着难以替代的地位。在 2023 年，流媒体无孔不入的今天，一台音质「白开水」的播放器能给我们带来什么？\n零几年的我们是怎样听歌的？以及我的 iPod 情结\n2006 年，彼时还在上小学的我，拥有一台容量 256MB 的纽曼 MP3，不锈钢的外壳、一块很小的彩屏，里面装着数十首周杰伦的歌（下载自早已消失的「百度 MP3」），这就是我最早的音乐消费方式。受盗版 MP3 音乐的影响，当时基本已经没人用 CD 机听歌，国产 MP3 的价格通常在两三百元。魅族算是比较高端的品牌，其他流行的品牌有纽曼、昂达等等。「苹果」对我这个三线城市的小学生而言是完全陌生的，尽管在更大的世界里，那个戴无框眼镜的秃顶男人和他的 iPod + iTunes 生态已经为混乱的数字音乐市场带来了天翻地覆的改变。\n我的那台纽曼 MP3 大概长这样\n我当时住的宿舍是由一间大音乐教室改造成的，摆了二十多张双层木板床，一架已经不能使用的废旧钢琴摆在门口的墙边，被大家用来放置水瓶。这里一共住着两个班级的四十来个男生。如果说我们中有八成都是周杰伦的歌迷，这一点都不夸张。每天的午休时间及晚上睡前，大家常常在被窝里用 MP3 听歌。\n睡我对床的同学（且称呼他为「C 君」吧）从小练钢琴，印象中他好几次请假去外地考级和比赛。他用的 MP3 和我们的都不太一样——首先是个头大很多，正面是白色的塑料、背面是不锈钢，一块很大的屏幕，屏幕下方是一个乍一看…",
+          "link": "https://sspai.com/post/81114",
+          "publishedOn": "2023-07-13T16:34:43.000Z",
+          "wordCount": 1034,
+          "title": "除了回忆，2023 年了 iPod 还能带给我们什么？",
+          "imageUrl": "https://cdn.sspai.com/2023/07/13/41067f0e27366f0a8fc29704e1f3c73e.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/80638",
+          "author": "so1ar",
+          "description": "前言\n当想要尝试新的发行版，或者是遇到一些只能在 Windows 系统上运行的软件，我会选择在虚拟机中运行，能够自己随便折腾而不影响到宿主系统。在之前我使用的虚拟机管理软件是 VirtualBox，这是一个开源免费的，支持多种平台的虚拟机管理软件。但我在使用 VirtualBox 过程中也渐渐有些不爽，首先是要想让虚拟机与宿主机有较好的交互，比如文件共享，自动切换分辨率之类的，就需要在虚拟机中安装扩展包，但是在一些 Linux 发行版上安装扩展包后经常出一些玄学问题；还有就是性能比较差，图形 3D 加速配置什么的也比较迷。\n就在最近我发现了另一个虚拟机管理软件，叫做 virt-manager，这个软件利用了 Linux 内核 KVM 功能和 virtio 半虚拟化技术，可以让虚拟机有较少的性能损失，运行也更流畅，当然这些功能需要 Linux 内核支持，其他系统比如 Windows 自然没办法使用这个软件（但是理论上在 Windows 上通过 WSL 安装并运行 virt-manager 应该也是可行的，我没有试过，感兴趣的可以尝试一下）。virt-manager 并不是一个完整的虚拟机管理软件，而是 Libvirt 的一个图形化前端，安装时除了要安装 virt-manager，也需要安装并配置好 Libvirt，可能是这个软件相对较新，网上文档比较少，我搜索到的很多 virt-manager 的安装教程都各不相同，最后我发现 ArchWiki 上的这个教程相对比较可靠，但也有些问题。所以我在这里记录一下我的安装过程以及一些使用心得。\n软件安装\n本节的软件安装是在 Arch Linux 上进行的，在其他的发行版上包管理器命令和软件包名可能不同，请注意。\n需要安装的软件包有 virt-manager 软件本体，qemu-desktop 用来支持 KVM/QEMU，dnsmasq…",
+          "link": "https://sspai.com/post/80638",
+          "publishedOn": "2023-07-13T15:10:36.000Z",
+          "wordCount": 950,
+          "title": "性能更好的虚拟机，virt-manager 的安装与使用",
+          "imageUrl": "https://cdn.sspai.com/2023/07/13/f89bb0e78d0000a7d7c7392b51a5d18b.png"
+        },
+        {
           "id": "https://sspai.com/post/81061",
           "author": "Bay的设计奥德赛",
           "description": "一.这是一款什么产品\nPlay是一款主打构建原生iOS体验的设计工具，其产品的视角很特别，Play认为设计工作者明明设计的是移动端产品，却只将移动设备当作一个简单的验证效果的媒介（且通常是验证静态效果），设计工作者只能在脑海中想象全部页面的交互流程，无法设身处地的考虑用户行为，这样难以创造出丝滑的交互体验。\n因此Play希望打破端坐在电脑前才能进行产品设计的现状，期望设计工作者可以直接通过移动端便捷快速的创建原型方案及演示Demo，让设计方案更接近设备上的真实效果。\n在推出iPhone、iPad 端后，Play团队目前正在内测功能更加强大的macOS版本。\n本篇主要介绍其移动端体验，晚些时候再更新下篇分析下mac OS版本的体验。\n \n二.先简单了解Play\n移动端整体框架\n通常原型制作软件的通用架构中，除了中间最重要的画板区域，左右两侧包含图层、图层设置，布局设置模块，若将场景挪到竖屏移动端，这些操作和信息需要如何处理？\n \n\n进入项目，选中单个画板进行编辑后，可以左右滑动并在出现的浮层中处理图层、调用组件，图层属性设置则在选中画板中的某一图层后通过底部浮层面板的方式出现。\n\n图形属性设置中，包含设置（Settings）、图层属性（Layout、APPearance）、交互行为（Interactions）操作，Play采取了底部导航覆盖在半浮层上的方式，通常在国内的产品设计中我们很少会见到这样的设计，仔细体验后会发现底部导航能够快速定位需要调节的属性分类，同时在浮层的上方支持快速切换选中的图层，降低切换左浮层选图层带来的效率降低。\n\n \n同时画板能够随着浮层的出现和上移自动缩放，整个体验十分丝滑。浮层面板支持拖拽到任意高度，让调节操作变得更加自如。\n\n \n题外话：\nPlay底部导航盖在底部浮层上的设计在国内并不常见，相似的结构让我想到了照片编辑产品，通常滤镜的选择只允许横…",
@@ -77,6 +117,16 @@
           "wordCount": 652,
           "title": "「科普向」LLM大百科（一）：大语言模型的“大”是从何而来？",
           "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/81111",
+          "author": "邓锄头",
+          "description": "一、背景概述\n我每周会去游泳6-7次，游的过程稳定30分钟，加交通路上和洗澡时间差不多在60分钟，差不多一次消耗2-3个播客长度（每个播客20min，偶尔不想听或者内容太差就只听音乐），所以一周需要准备20个左右的音频节目存进水下mp3中。挑节目，下载音频文件，变速处理，存储标记的过程已经被我优化到极致了，感兴趣的可以看下我的日常工作流，每周20分钟左右完成本项工作。\n场景目标：\n\n快速定位挑选自己感兴趣的20个播客\n下载20个播客节目文件，转换成mp3格式并变速1.5倍\n收藏每个节目的地址，详细听书笔记，AI自动总结概要进参考库Cubox，回顾备用\n\n二、相关物料工具\n\nvika，在线多维表格（包含已经导入的从播客网站爬取下来的1700个节目表）\nNeatDownloadManager，下载工具+浏览器嗅探插件\ncubox，浏览器剪藏插件\nMonica，AI辅助总结插件\nutools，批量文件重命名\nPermute 3，文件格式处理\n\n三、过程步骤\n1）vika的表格数据库中准备好节目清单及访问地址\n通过字段筛选出下载状态为否的数据内容。通过播客节目的名称以及类型断定是否自己感兴趣的，也可以通过按类型分类的看板模式进行每个分类都挑1-2个节目的方式避免自己同一类型的节目一周内太集中。\n（如何爬取，以及如何调整格式导入的方法后面有时间再稿一篇）\n\n注意下载完成后的节目自己手动标记一下已下载的状态，减少后面再次选节目时候的干扰（勾选后会自动从当前视图表中隐藏）\n\n2）打开节目页面扩展插件们的操作\n\n启用NeatDownloadManager扩展，点击播放自动嗅探文件，点击下载\n\n启用Monica浏览器扩展，AI摘要精华笔记\n\n手动选择节目下方的文字介绍内容部分，点击AI生成摘要按钮，复制好摘要，这么做的目的是给存进cubox内的卡片介绍概要备用，正常直接cubox剪藏直接会用文章的前几百字，没啥用。\n\n启用cubox浏览器扩展，剪藏上一步就全部选中的节目文字介绍内容，手动替换介绍和标题\n\n// 为什么不直接点击浏览器上cubox按钮快速的把整个网页都收藏了？————因为我用了各种方法总是不能稳定的只收藏到节目里面的文字介绍描述内容部分，很容易把评论或者其他列表页收藏成正文而丢掉真正的正文，这样收藏下来目前是最稳定并且最准确有价值的，同时公开的网站链接也会被一并保存下来。 另外这样操作过的卡片后面再深度笔记之后作为知识卡片导入到我的笔记中台craft也会更加完整可靠克服用，包含「精准的名称，完整的概要以及公开地址，外加我的高亮划线及追加笔记。」\n\n3）本地文件处理，批量改名&变速&格式转换\n\nutools中安装一个官方的批量重命名插件，选中目标文件，重命名删除重复的广告信息\n\n导入Permute 3批量转换成mp3格式及设置变速，音量拉满（主要我是水下的mp3用，有时候是骨传导，听音乐OK，播客人声噪音太大确实听不清。）\n\n4）把文件拷贝到mp3设备中\n也可以顺手用utools把文件列表的名称提取，扔进本周的清单待办中，进行后续笔记整理，知识串联，发布的检查项跟进适用。\n\n四、总结心得\n之前我水下游泳听播客是完全随意听的状态，听完可能一两天当时还有印象，回家路上想着一定要把源文件导入到飞书妙计进行文本化整理，存档，或者顺便写一篇心得文章或者转换成自己的行动，但一到家没多久就忘记自己听过啥了- - ！。\n本身在游泳过程中听的时候就会有一堆脑洞和想法砰砰往外冒但没办法记录，按现在这个工作流收集到待办，cubox梳理的过程中不但能追回很多闪念又能基于整理过程中用GPT工具顺手查到的术语解释和名词解析查漏补缺的过程中发现新的盲点，并进一步补充自己想要去扩展的知识领域及内容。",
+          "link": "https://sspai.com/post/81111",
+          "publishedOn": "2023-07-13T05:49:02.000Z",
+          "wordCount": 647,
+          "title": "我的播客节目准备工作流",
+          "imageUrl": "https://cdn.sspai.com/2023/07/13/af2336093cb882af52154caa2d50e92e.png"
         },
         {
           "id": "https://sspai.com/post/81088",
@@ -977,56 +1027,6 @@
           "wordCount": 633,
           "title": "AI聊天靠谱吗？AI To C赛道切入指南",
           "imageUrl": "https://cdn.sspai.com/2023/06/16/bb23f557bbfb246ae69b206d650ba64b.png"
-        },
-        {
-          "id": "https://sspai.com/post/80327",
-          "author": "POKi开发者",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n大家好，这里是 App POKi 的开发团队，这是我们在少数派的第一篇文章。POKi 是一个「合集」创作/分享/探索产品，对于还不了解 POKi 的朋友们，我们想先聊聊「合集」是什么、我们眼里「合集」有什么优势，这也是 POKi 诞生的原因。\n一个关于「合集」故事\n几个小伙伴都有各自的兴趣爱好，也会有每个兴趣下的一些讨论分享群。我们发现，「合集」是分享/推荐自己在兴趣领域中看到的优质内容的最佳形式。\n举一些具体的场景和 🌰 例子（所贴的链接均为 POKi 用户创作的真实合集）：\n\n关注 AI 这样的前沿科技，会定期分享一些自己看到的深度好文、有趣的播客、能学到东西的视频，也会推荐最近值得一试的 App：\n  \n喜欢书影音，会分享最近值得一看的电影/电视剧，或者推荐自己特别喜欢的导演/演员的代表作：\n  \n有人可能会问，为什么不用豆瓣豆列？首先，豆列只能容纳豆瓣的条目，当我想放进去一些视频、图片、文字时就无能为力了；其次，创建豆列的交互也并不好用。\n\n最近值得入手的数码/家居产品、小众的目的地攻略：\n  \n在我们看来，「合集」这种内容形式有两大优势：\n\n更丰富、灵活的内容构成：基于某个主题，按照自己希望的逻辑或顺序，用链接/图片/文字自由充分地表达\n更低的创作成本/门槛：不同于文章/视频/播客/图文这些纯原创内容形式，合集更像是一次策展——创作一个合集就像策划一次展览，放入自己希望推荐的内容，加上自己的几句推荐语即可轻松完成\n\n但是，市面上并没有一个让人满意的合集创作与分享产品。我们自己尝试过的解决方案包括：\n\n发消息给微信文件传输助手，然后合并转发成为一个聊天「豆腐块」：繁琐、不美观，也不方便转发到其它渠道。\n使用笔记（如 Notion）/ 文档（如飞书）产品：无论是创作还是阅读都非常笨重，本质上创作合集≠写一篇文章。\n\n最终，我们决定自己动手做一个足够好用的「合集」创作及分享工具，也希望能通过这个产品让「合集」这种内容形式被更多人发现、使用。\nPOKi 功能介绍\nPOKi App 的主要功能可以分为创作合集、分享合集、发现更多合集三大项。\n创作合集\n\n支持链接、图片、文字 3 种类型的卡片，可以自由组合、灵活排序成自己理想的合集；\n链接卡片支持微信公众号 / 豆瓣 / B 站 / 小宇宙 / 小红书 / QQ 音乐 / 网易云音乐 / 知乎 / App Store 等常见网站的解析，贴入链接即可自动解析成优美的形式；\n对于不支持解析的网站，或者对解析效果不满意，也可以自定义链接的缩略图和标题。\n\n分享合集\n\n除了常规的以链接形式分享合集（在 HTML5 页面中查看）外，我们还精心设计了多种海报模板；\n海报上出现哪些内容同样支持自定义。\n\n发现更多合集\n\n每天在 App 首页会推荐若干个由小编人工挑选的优质合集；\niOS 桌面小组件：每天推荐一个有趣合集。\n\n其它亮点小功能\n\n微信中的「创作助手」机器人：绑定微信后添加微信中的机器人，即可实现转发链接/图片/文字给机器人后自动保存到 App 中的草稿箱；\n\n通过 Share Extension 导入内容：在其它 App 中通过 iOS 系统的 Share Extension 即可导入链接/图片/文字，对常见的 App 例如点评/豆瓣/Safari/Chrome 都进行了适配。\n\n后续计划\n\n增加关注/点赞/评论等功能，让「合集」的创作者和读者之间可以互动起来\n引入一些在 App 内阅读文章时的 AI 小工具\n\n下载体验\n目前仅支持 iOS（iOS 14+），同时适配了 iPad 和 M 芯片的 Mac。\n \n写在最后\n因为对「合集」的喜爱，我们创造了 POKi 这个产品。也希望通过 POKi，能让更多人开始创作、分享属于自己的合集。\n如果你有任何关于 POKi 的建议或者想法，欢迎在评论区讨论或联系我们。期待更多有趣的合集在你们手中诞生！\n> 下载 少数派 2.0 客户端、关注 少数派公众号，解锁全新阅读体验 📰\n> 实用、好用的 正版软件，少数派为你呈现 🚀",
-          "link": "https://sspai.com/post/80327",
-          "publishedOn": "2023-06-15T13:24:11.000Z",
-          "wordCount": 725,
-          "title": "POKi：为「合集」而生",
-          "imageUrl": "https://cdn.sspai.com/2023/06/15/faeb9bc7d18602defb45061382b909b3.png"
-        },
-        {
-          "id": "https://sspai.com/post/80336",
-          "author": "PiggyCBH",
-          "description": "本文共 5153 字，预计阅读时间 10 分钟。本文内容仅代表个人观点，欢迎讨论，如有表述错误，敬请指正。\n\n前言\n前几天，我和 @MarvinCui 一同写了 WWDC 23 浅度解析。大学时，我所学的专业是数字媒体技术（VR 方向）但是自己一直在课余大量学习 AR 和平面设计的东西，由于专业接触的内容比较对口又按耐不住对新产品的兴趣，所以其中关于 Apple Vision Pro 的部分就由我简单写了一些。但可能是由于产品发布带来的激动，也可能是熬夜后的思绪混乱，有些想法没有精确表达出来。就此以我所学的知识和收集到的信息，写一篇简单的思考，同时展望 Apple Vision Pro 系列产品的未来。\n一、序章\n\nAn iPod, a phone, an internet communicator. An iPod. A phone... Are you getting it? These are not three separate devices, this is one device, and we are calling it, iPhone. Today, Apple is going to reinvent the phone, and here it is...\n\n这是 Steve Jobs 在 2007 年 1 月 9 日于 MacWorld 介绍 iPhone 时最令人印象深刻的演讲词，是著名的「iPhone 时刻」。iPhone 改变了智能手机的定义、重塑了移动设备的交互方式、推动了移动应用程序的发展，从各种意义上说，「重新发明手机」这个目标确实已经做到。iPhone 刚推出时引发了巨大轰动，有言论称 iPhone 是个「异类」，Nokia、BlackBerry 等这些公司的新产品一定能轻松击败它。但是现实是 iPhone 终究赢下了这场竞争，击倒了当…",
-          "link": "https://sspai.com/post/80336",
-          "publishedOn": "2023-06-15T08:53:34.000Z",
-          "wordCount": 1413,
-          "title": "第二个 iPhone 时刻 —— 关于 Apple Vision Pro 的简单思考",
-          "imageUrl": "https://cdn.sspai.com/2023/06/14/2ff0a1878cf1372043b5df7250346a98.png"
-        },
-        {
-          "id": "https://sspai.com/post/78512",
-          "author": "Soar_Freely",
-          "description": "最近ChatGPT为代表的人工智能兴起，我所使用的生产力软件也因此更新迭代。不过就办公工作流，核心在于方便稳定，人工智能的发挥空间较窄。因此本文将延续前两篇文章的思路，继续讨论一个社科工作者如何重塑「办公工作流」。\n我需要说明，我的办公工作流目前限于学生生涯，同工作主张的办公不太相同。故此处抛砖引玉，仅介绍个人如何作为学生理清办公思路。\n我的办公工作流可以认为是其他工作流的基础，其包含检阅与云端两个模块。检阅分为邮箱联系、日程管理、每日事项、文娱记录四方面。云端分为常用资料、资源存储两方面。如果要做一个比喻，我的整体工作流仿佛一辆列车，而办公工作流则是轨道，贯穿我的工作流全程。\n一、「办公工作流」之检阅\n（1）邮箱联系\n在Mac平台，我主要以Thunderbird和Outlook两款软件管理邮箱。我有三个Outlook邮箱，主要应用于国内联系。Thunderbird链接了我的Gmail、Ru等邮箱，主要应用于国外联系。因为我经常携带Mac办公，所以Iphone仅下载了Outlook和Gmail的官方App，不做主力。\n我的个人习惯是每日清晨定时浏览邮箱，晚上再简要浏览一遍。因为我订阅了早报、纽约时报等网站，所以浏览邮箱也是我获取信息的一种来源。\n图1：「Thunderbird」主页面（为保护隐私，邮箱处较为狭窄，可自由拉伸）\n「软件介绍-Thunderbird」：Thunderbird是一款免费且开源的电子邮件应用程序，它十分好用。如果你是Gmail等邮箱的使用者，只需要按照流程添加账号密码即可。如果你是QQ等邮箱使用者，可以通过QQ邮箱获取授权码，然后按照流程添加QQ邮箱即可。我的QQ邮箱、Ru邮箱、Gmail邮箱等都聚合在Thunderbird，我每日只需要打开一款Thunderbird便可以查阅所有邮箱的讯息，如有需要，我还可以下载至本地，颇为便捷。\n对于一些商务领域…",
-          "link": "https://sspai.com/post/78512",
-          "publishedOn": "2023-06-15T08:53:21.000Z",
-          "wordCount": 629,
-          "title": "「生产力祛魅」——一位社科工作者如何重塑工作流（3）-办公工作流",
-          "imageUrl": "https://cdn.sspai.com/2023/06/14/b933c85d1f1db5c9fab2eaf88dc34d8b.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80264",
-          "author": "云边的SY",
-          "description": "由于排版和展示类型，推荐在notion网页观看全文。\n我这边测试链接都可以打开（没挂VPN的情况下），如果还打不开，建议挂VPN试试。\n\n语言学习vs.语言习得 Language Learning vs. Language Acquisition\n“语言学习”，指通过正式的教学方式，例如上课或使用语言学习应用程序等方式，学习一门语言的过程。这个过程通常涉及语法规则、词汇和发音等方面的显式知识。\n而“语言习得”，指通过沉浸在一个语言丰富的环境中自然地发展语言技能的过程。这个过程更加隐式和潜意识，它涉及通过接触和使用语言来学习一门语言。\nLanguage learning refers to the process of studying a language through formal instruction, such as taking classes or using language learning apps. This process usually involves explicit knowledge of grammar rules, vocabulary, and pronunciation.\nOn the other hand, language acquisition refers to the process of developing language skills naturally, through immersion in a language-rich environment. This process is more implicit and subconscious, and it involves learning a language through exposure to it and using it in real-life…",
-          "link": "https://sspai.com/post/80264",
-          "publishedOn": "2023-06-15T08:52:58.000Z",
-          "wordCount": 769,
-          "title": "有效学习英语新方式—AI bot组合",
-          "imageUrl": "https://cdn.sspai.com/2023/06/10/78c6c7cb0a2cb445c2f49398db831e4b.png"
-        },
-        {
-          "id": "https://sspai.com/post/80368",
-          "author": "一见GLANCE",
-          "description": "如果你想直接看选购建议，可以跳转到 14:15。 \n但是，如果你真的在意能不能给你家墙面，选出一款好的乳胶漆，强烈建议你看完这个视频。\n在上期视频发布之后，我们遇到了很多相关专业的朋友，把一些大家常见的问题汇总去做了咨询，我们把这些部分单独拎出来讲，希望能帮到更多的人。\n\nQ：有些乳胶漆的宣传中说甲醛含量比苹果还要低是真的么？\nA：确实在相关文献中看到苹果的甲醛含量范围是在 6.3-22.3 mg/kg，可能会比一些乳胶漆含量要高。不过通过口腔摄入的甲醛在体内可以通过醛脱氢酶 (ALDH) 催化氧化为无毒的甲酸，只不过这个过程会消耗抗氧化物质谷胱甘肽 (GSH)，有可能导致氧化应激反应和细胞损伤，所以只要不是长期稳定摄入超量甲醛，对健康的危害就不大。而在空气中的甲醛在鼻腔滞留率超过90%-95%，更快的进入血液循环，所以在国家规定中室内空气中的甲醛含量要低于 0.08 mg/m^3。这是商家在偷换概念进行对消费者的误导。\n甲醛在自然界本身就普遍存在，甲醛是在甲烷以及其它碳化合物氧化（或燃烧）的中间体，同时在活生物体中甲醛也无处不在，包括在我们的在血液中也以约0.1毫摩尔浓度存在，我们呼出的空气中浓度约为0.005mg/m^3的甲醛。它是由内源性氨基酸代謝形成的。\n\nQ：为什么有些墙面会出现起皮、鼓泡、脱落问题？\nA：像这种墙面起皮问题，主要是出现在卫生间门口，更多的原因是墙体的防水做的不够长，导致内部的腻子分化鼓包，顶起了外面的墙漆，并不是乳胶漆能解决的。\n\nQ：为什么有些墙面会出现霉菌？\nA：发霉的情况可能会出现在老房子的墙面上，因为乳胶漆的防霉是依靠表面的保护层，这个保护层一般在1到2年左右就失效了，所以不管你买多好的乳胶漆，可能还是无法解决潮湿的房屋出现的长霉问题。为避免发霉应该保持墙面干燥。\n\nQ：为什么有些墙面阴阳角会出现开裂？\nA：墙体的热胀冷缩可能会使得乳胶漆开裂，可以通过挂网和护角来减轻缩涨程度，漆膜韧性好的乳胶漆可以减轻这一情况。\n\nQ：为什么有些墙面中心处会出现开裂？\nA：墙面中心处出现开裂可能是新增墙体与原墙体产生位移、墙体开槽后补嵌位移或者墙体沉降的情况。墙体沉降带来的乳胶漆开裂没有好的办法来规避，新增和补嵌后的墙体可以通过挂网来减轻缩涨程度，减少墙面开裂。\n\nQ：有一些品牌宣传自己是水性漆，水性漆和乳胶漆有什么区别？\nA：水性漆是与油漆相对的概念，水性漆是指以水为稀释剂的，油漆则是以有机溶剂作为稀释剂的。乳胶漆就是水性漆。\n\nQ：商家经常宣传的那些认证都代表什么？\nA：https://docs.qq.com/sheet/DT2hxaUdnRUV1Q3lh?tab=BB08J2\n\n视频中的乳胶漆的汇总信息表格\nhttps://docs.qq.com/sheet/DT0d5RnJjdm5UZ2RF?tab=BB08J2 作者：一见GLANCE https://www.bilibili.com/read/cv23921913?spm_id_from=333.999.0.0&jump_opus=1 出处：bilibili",
-          "link": "https://sspai.com/post/80368",
-          "publishedOn": "2023-06-15T07:52:47.000Z",
-          "wordCount": 607,
-          "title": "差价10倍的乳胶漆到底有什么区别？ 11款乳胶漆横评",
-          "imageUrl": "https://cdn.sspai.com/2023/06/15/cc3eb1e65a76eeee64a14c6207215ba9.jpeg"
         }
       ]
     },
@@ -1084,6 +1084,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75519",
+          "author": null,
+          "description": "印度空间研究组织(ISRO)周五 09:05 UTC 在斯里赫里戈达岛（Sriharikota）的萨迪什·达万航天中心使用 LVM3-M4 火箭成功发射了 Chandrayaan-3（月船三号）探测器，将第二次尝试登陆月球表面。印度在 2019 年发射了月球探测器 Chandrayaan-2，它包含了一个轨道器、Vikram 着陆器和 Pragyan 漫游车，但着陆期间失去联络最终登陆失败。Chandrayaan-3 预计将在 8 月 5 日进入月球轨道，它将花费大约三周时间逐渐降低高度，直至进入 100 公里的圆形月球轨道。它由一个 1,726 公斤的 Vikram 着陆器和 26 公斤的 Pragyan 漫游车，以及 2,148 公斤的推进模块组成，这次不包含轨道器。着陆器预计将在 8 月 23 日尝试登陆月球南极。南极被认为富含水冰。如果成功登陆，印度将是继美国、苏联和中国之后第四个登陆月球的国家。",
+          "link": "https://www.solidot.org/story?sid=75519",
+          "publishedOn": "2023-07-14T15:24:48.000Z",
+          "wordCount": 174,
+          "title": "印度发射登陆器和漫游车探索月球南极",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75518",
+          "author": null,
+          "description": "中国载人航天工程办公室公布了载人登月初步方案，计划 2030 年前实现登月开展科学探索。载人航天工程办公室副总设计师张海联透露的初步方案是：采用两枚运载火箭分别将月面着陆器和载人飞船送至地月转移轨道，飞船和着陆器在环月轨道交会对接，航天员从飞船进入月面着陆器。其后，月面着陆器将下降着陆于月面预定区域，航天员登上月球开展科学考察与样品采集。在完成既定任务后，航天员将乘坐着陆器上升至环月轨道与飞船交会对接，并携带样品乘坐飞船返回地球。为完成这项任务，我国科研人员正在研制长征十号运载火箭、新一代载人飞船、月面着陆器、登月服、载人月球车等装备。",
+          "link": "https://www.solidot.org/story?sid=75518",
+          "publishedOn": "2023-07-14T14:43:42.000Z",
+          "wordCount": 144,
+          "title": "中国公布载人登月初步方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75517",
+          "author": null,
+          "description": "IEEE 发布了光基无线通信标准 802.11bb。预计会在明年看到光基无线通信 Li-Fi 的相关产品。Li-Fi 能利用可见光、紫外和红外光谱高速传输数据，其中 LED 灯是目前唯一能用于可见光数据传输的设备。Li-Fi 并不能取代 Wi-Fi 和 5G 等无线通信技术，无线电波在远距传输上具有明显优势。Li-Fi 只能用于短距传输，光被阻挡传输就会中断，它的优势是高带宽、节能和高安全性——不存在类似 Wi-Fi 的蹭网现象。",
+          "link": "https://www.solidot.org/story?sid=75517",
+          "publishedOn": "2023-07-14T14:40:25.000Z",
+          "wordCount": 164,
+          "title": "光基无线通信标准 Li-Fi 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75516",
+          "author": null,
+          "description": "思科 Talos 安全团队发表了两篇博文，披露恶意应用在利用开源工具伪造签名时间戳，而这些恶意应用主要针对中文用户。从 Windows 10 v1607 开始，微软更新了驱动签名政策，不再允许未递交到 Developer Portal 签名的新内核模式驱动，但为了保持向后兼容，使用 2015 年 7 月 29 日之前颁发的最终实体证书签名的驱动程序将继续允许将链式链与受支持的交叉签名 CA 进行关联。这个例外制造了一个漏洞，允许新编译的驱动程序使用 2015 年 7 月 29 日之前颁发或过期的未撤销证书签名。有两个开源工具 HookSignTool 和 FuckCertVerifyTimeValidity 都允许伪造签名日期。主要针对中文用户的恶意程序利用这些开源工具使用窃取的证书进行签名，其中之一是 RedDriver。RedDriver 是一种基于驱动程序的浏览器劫持程序，使用 Windows Filtering Platform (WFP) 拦截浏览器流量，它利用 HookSignTool 伪造签名时间戳，它有一个硬编码的中文浏览器进程名单，针对的明显是中文用户，名单中包含了中国流行的浏览器，如 360 浏览器和 QQ 浏览器。",
+          "link": "https://www.solidot.org/story?sid=75516",
+          "publishedOn": "2023-07-14T11:33:56.000Z",
+          "wordCount": 182,
+          "title": "恶意应用利用开源工具伪造签名时间戳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75515",
+          "author": null,
+          "description": "Nala Ginrut 写道：最近SymeCloud Limited(syme.dev) 发布了基于云原生的便捷部署工具 Alexon (alexon.dev)，开发语言为 Scheme。SymeCloud 主要致力于 AI-Infra 方面的研发，目前从 OpenAI 泄露出的技术架构来看，基于大语言模型的推理产品的一部分主要工程难度在于部署。产品级 LLM 并不是简单地跑个单节点，而是有复杂的架构划分与数据流优化组合，这使得原本就复杂的云原生体系在LLM领域将面对更加高复杂度的挑战。Alexon 的目标就是利用函数式编程的特性和模板系统为LLM推理系统的快速试错和部署尽可能降低复杂度，为后续的系统研究铺平道路。Alexon 采用 GPLv3+ 授权，目前还处于早期阶段，欢迎测试把玩和提交 patch。",
+          "link": "https://www.solidot.org/story?sid=75515",
+          "publishedOn": "2023-07-14T09:44:56.000Z",
+          "wordCount": 169,
+          "title": "云原生部署工具 Alexon 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75514",
+          "author": null,
+          "description": "全球每年使用约 300 万吨农业农药，但人们对这些化学品最初使用后的去向和环境知之甚少。发表在《自然》杂志上的一项全球研究分析了 92 种最常用的农业农药的地理分布，发现每年约有 7 万吨潜在有害化学物质渗入含水层，影响生态系统和淡水资源。研究表明，大约 80% 的施用农药会降解成子分子或副产品，进入作物周围的土壤。虽然研究发现，只有一小部分农药在田间施用后进入河流系统，但一旦进入水中，大多数活性成分最终会进入海洋，对海洋野生动物和珊瑚礁产生潜在的负面影响。这将危及海洋和淡水食物链的基础。",
+          "link": "https://www.solidot.org/story?sid=75514",
+          "publishedOn": "2023-07-14T07:42:09.000Z",
+          "wordCount": 150,
+          "title": "农药如何渗入环境",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75513",
+          "author": null,
+          "description": "Google 宣布了其 AI 聊天机器人 Bard 的重大更新：对全世界大部分国家开放访问（不包括中国大陆和香港），支持阿拉伯语、中文、德语、印度语和西班牙语在内的四十多种语言。此前因为欧盟的隐私要求，Google 推迟了向欧盟地区提供 Bard，最新更新包含了额外的隐私功能，而 Bard 也正式提供给了整个欧洲地区。新功能包括：固定和重命名对话，导出代码到更多地方，与朋友分享 Bard 聊天记录，可在提示中上传图像，目前只支持英文，未来会支持更多语言。",
+          "link": "https://www.solidot.org/story?sid=75513",
+          "publishedOn": "2023-07-14T07:31:22.000Z",
+          "wordCount": 156,
+          "title": "Bard 支持中文在内的四十多种语言",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75512",
+          "author": null,
+          "description": "微软将用 Aptos 替代 Calibri 作为办公软件 MS Office 的默认字体。Aptos 是一种无衬线字体，其设计灵感源自上世纪中期的瑞士字体。微软是在 2021 年宣布其办公软件的默认字体 Calibri 将退役。Calibri 从 2007 年起取代 Times New Roman 作为默认字体。候选字体是五种无衬线字体：Tenorite、Bierstadt、Skeena、Seaford 和 Grandview。微软最终挑选的字体是 Aptos，由著名字体设计师 Steve Matteson 设计，他此前设计了字体 Segoe，被 Windows 作为默认字体，最新的 Windows 11 仍在使用 Segoe 字体家族。微软项目经理表示，Aptos 将首先作为 Word、Outlook、PowerPoint 和 Excel 的默认字体，未来几个月它作为默认字体推广给所有客户使用。",
+          "link": "https://www.solidot.org/story?sid=75512",
+          "publishedOn": "2023-07-14T06:32:49.000Z",
+          "wordCount": 195,
+          "title": "微软用 Aptos 替代 Calibri 作为办公软件默认字体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75511",
+          "author": null,
+          "description": "国际癌症研究机构、世卫组织和粮农组织食品添加剂联合专家委员会发布了无糖甜味剂阿斯巴甜对健康影响的评估报告。国际癌症研究机构援引对人类致癌性的“有限证据”，将阿斯巴甜归为可能对人类致癌之列（国际癌症研究机构第2B组），联合专家委员会重申其每日允许摄入量为每公斤体重 40 毫克。阿斯巴甜是一种人造（化学）甜味剂，自 1980 年代以来广泛用于各种食品和饮料制品，包括减肥饮料、口香糖、明胶、冰淇淋、酸奶等乳制品、早餐麦片、牙膏和止咳药水和维生素咀嚼片等药物。对于每公斤体重 40 毫克这一数字：假设没有其他方面的食物摄入，一罐含有 200 或 300 毫克阿斯巴甜的减肥软饮料，一位体重 70 公斤的成人每天要饮用 9-14 罐以上才会超过每日允许摄入量。",
+          "link": "https://www.solidot.org/story?sid=75511",
+          "publishedOn": "2023-07-14T06:04:30.000Z",
+          "wordCount": 160,
+          "title": "WHO 称阿斯巴甜与人类癌症相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75510",
+          "author": null,
+          "description": "美国联邦贸易委员会(FTC)正在调查 OpenAI 的 ChatGPT 是否因发布有关人们的虚假信息而对他们造成了伤害，意味着该款热门应用面临潜在的诉讼风险。FTC 表示，该机构对 ChatGPT 的调查重点是 OpenAI 是否“从事了与消费者受伤害的风险有关的不公平或欺骗性行为，其中包括名誉损害”。FTC 向 OpenAI 提出的一个问题是，要求该公司“详细描述其在多大程度上采取了措施来应对或降低风险，即该公司的大语言模型产品可能会生成关于真实个人的虚假、误导或诋毁性陈述的风险”。在发给 OpenAI 的民事传票中，FTC 提出了有关该公司数据安全操作的详细问题。FTC 援引了 2020 年的一起事件，当时 OpenAI 披露了一个漏洞，该漏洞可以让用户查看其他用户的聊天信息和一些与支付相关的信息。FTC 传票提出的其他问题还包括 OpenAI 的营销活动、AI 模型的训练做法以及该公司对用户个人信息的处理。",
+          "link": "https://www.solidot.org/story?sid=75510",
+          "publishedOn": "2023-07-14T05:50:57.000Z",
+          "wordCount": 175,
+          "title": "FTC 就虚假信息问题调查 ChatGPT",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75509",
           "author": null,
@@ -3603,76 +3703,6 @@
           "wordCount": 191,
           "title": "英特尔将酷睿 i3/i5/i7/i9 改名为酷睿 3/5/7/9",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75256",
-          "author": null,
-          "description": "德州州长 Greg Abbott 签署了一项法案，禁止不满 18 岁的儿童未经父母同意使用社交网络平台。美国犹他州和路易斯安那州的议会都通过了类似的法案。HB 18 法案要求社交媒体公司从明年 9 月开始在未成年人创建账号前需要获得其父母的明确同意。社交媒体公司还被要求过滤掉被认为对儿童有害的内容，如与饮食失调、药物滥用或诱导（grooming）相关的内容。根据德州对数字服务的定义，儿童访问几乎任何收集用户信息如电邮的网站都需要征得父母同意，主要提供教育类内容、新闻或电邮服务的网站得到了豁免。德州检方可起诉任何违反该法律的公司。",
-          "link": "https://www.solidot.org/story?sid=75256",
-          "publishedOn": "2023-06-15T10:45:11.000Z",
-          "wordCount": 150,
-          "title": "德州禁止儿童未经父母同意使用社交网络",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75255",
-          "author": null,
-          "description": "Google 不断从 Android Open Source Project（AOSP）开源项目剥离组件将其转移到私有的 Google 服务框架，最新剥离的组件是拨号和消息应用。Google 表示 AOSP 项目中的拨号和消息应用不再活跃支持，仅供参考，未来某个时间会移除。虽然 Android OEM 厂商基本都有自己的拨号或消息应用，或者从 Google 授权使用其服务框架，但一个缺乏拨号和消息应用的 AOSP 项目不再是一个完整的操作系统。",
-          "link": "https://www.solidot.org/story?sid=75255",
-          "publishedOn": "2023-06-15T07:54:49.000Z",
-          "wordCount": 170,
-          "title": "Google 将从 AOSP 项目淘汰拨号和消息应用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75254",
-          "author": null,
-          "description": "伊利诺伊大学芝加哥分校的 Russell Hemley 教授团队在预印本平台 arxiv 发表论文称，其研究支持了罗彻斯特大学的 Ranga Dias 团队 3 月在《自然》发表的研究结论，即氮掺杂氢化镥材料可以在近常压下实现室温超导。Hemley 与 Dias 团队有长期的合作。此前南京大学教授闻海虎团队于 5 月 11 日在线发表在《自然》杂志的论文称，在高达 40.1GPa的 压力下和低至 2K 条件下，氮掺杂氢化镥材料都不存在超导电性，更谈不上常压下的室温超导。中科院物理研究所孙力玲团队及合作者与北京高压科学研究中心毛河光团队合作，于 5 月 16 日在期刊《极端条件下的物质与辐射》（MRE）发表的研究中采用了与 Dias 报道的相同的方法制备了样品并进行了测量，并未发现氮掺杂氢化镥样品的高温超导性质。",
-          "link": "https://www.solidot.org/story?sid=75254",
-          "publishedOn": "2023-06-15T06:57:53.000Z",
-          "wordCount": 169,
-          "title": "美科学家称复现了室温超导研究",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75253",
-          "author": null,
-          "description": "AMD 上个月披露将用开源固件 Open-Source Silicon Initialization Library (openSIL) 取代 AMD Generic Encapsulated Software Architecture (AGESA)固件。新固件将经历四个阶段的开发周期到 2026 年做好投产准备：阶段一是内部 POC（Proof-of-Concept），阶段二开源 POC 进行评估，阶段三开源 POC openSIL POC，阶段四进入生产阶段。AMD 现在进入到了阶段二，公开了 openSIL POC。新固件 openSIL 通过将开发、架构和验证开源以增强安全性。它旨在设计成为一种轻量级、简单、透明、安全和易扩展的开源固件。",
-          "link": "https://www.solidot.org/story?sid=75253",
-          "publishedOn": "2023-06-15T05:37:50.000Z",
-          "wordCount": 179,
-          "title": "AMD 发布开源固件 openSIL POC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75252",
-          "author": null,
-          "description": "一个国际团队分析 NASA 卡西尼探测器收集的数据，在土卫二恩克拉多斯（Enceladus）喷射到太空的间歇泉冰粒中发现了磷。磷是生命必须的化学物质。土卫二有地下海洋，科学家已经从其间歇泉冰粒中发现了与生命相关的氨基酸组成部分。磷对生物过程至关重要，它是 DNA 和能量运送分子的基本组成。这是首次在地球之外的海洋中发现磷，进一步支持土卫二能维持生命的观点。研究报告发表在《自然》期刊上。",
-          "link": "https://www.solidot.org/story?sid=75252",
-          "publishedOn": "2023-06-15T03:35:41.000Z",
-          "wordCount": 145,
-          "title": "天文学家在土卫二上发现磷",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75251",
-          "author": null,
-          "description": "在模拟器 QEMU 中运行 Linux 6.4 被发现会在启动时随机挂起，然而概率非常低，大约启动 1000 次会发生一次，因此除了测试者可能其他人不会注意到。为了寻找罪魁祸首，测试者使用二分法，在 21 小时内启动了 Linux 292,612 次，最终发现问题根源是 2023 年 4 月递交的一个 commit，撤回该 commit 就能修复问题。",
-          "link": "https://www.solidot.org/story?sid=75251",
-          "publishedOn": "2023-06-15T02:42:03.000Z",
-          "wordCount": 173,
-          "title": "发现 Linux 内核的随机挂起 Bug",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75250",
-          "author": null,
-          "description": "AMD 在数据中心大会上公布了 Instinct MI300 系列加速器的最新产品。AMD 在去年宣布了数据中心 APU MI300，在今年初的 CES 展会上公布了更多信息：MI300A 是第一款数据中心/HPC 级 APU 产品，有 1460 亿个晶体管，MI300 包含了 24 个 Zen 4 CPU 核心，CDNA 3 GPU 核心，以及 128GB HBM3 内存。AMD 最新的 MI300 系列加速器 MI300X 是纯 GPU，去掉了 CPU 核心，片上内存增加到 192GB HBM，是专门针对需要大量内存的大语言模型设计的，其内存带宽 5.2 TB/s，晶体管 1530 亿个。AMD 称，128GB MI300A APU 已经开始向客户提供样品，而 192GB MI300X GPU 则要等到第三季度。",
-          "link": "https://www.solidot.org/story?sid=75250",
-          "publishedOn": "2023-06-14T14:59:04.000Z",
-          "wordCount": 208,
-          "title": "AMD 公布 Instinct MI300X 加速器",
-          "imageUrl": null
         }
       ]
     },
@@ -3681,6 +3711,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/745899/",
+          "author": null,
+          "description": "文｜海豚投研 最近 AIGC、MR 热度不散，行业里不断有新的产品、新的玩家、新的技术出现。这里面也有一些曾经受到追捧的科技成长股的身影，比如 Palantir，比如 Unity。它们都是在宣布推出 AI 工具后，再次赢得了额市场的关注，股价因此飞涨。 但这里，海豚君想到了另一只曾经的明星股——$罗\n本文链接",
+          "link": "https://news.cnblogs.com/n/745899/",
+          "publishedOn": "2023-07-14T11:23:00.000Z",
+          "wordCount": 163,
+          "title": "Roblox：吞不下元宇宙的 “大饼”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745898/",
+          "author": null,
+          "description": "文｜财经故事荟 渗透率持续走高的消费信贷，成为拉动经济增长的金融工具，这一正向价值已成共识。 “实证测算表明，引入消费金融产品后，借款人消费金额提升 16%—30%，合作商户销售额提升约 40%，能够助力释放潜在消费需求，增强消费对经济发展的拉动作用。”国家金融监督管理总局相关部门负责人曾表示。 但\n本文链接",
+          "link": "https://news.cnblogs.com/n/745898/",
+          "publishedOn": "2023-07-14T11:15:00.000Z",
+          "wordCount": 163,
+          "title": "热衷攒钱的年轻人，关闭了花呗和信用卡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745897/",
+          "author": null,
+          "description": "文｜追问 Nextquestion 2023 年 6 月 6 日-9 日，第十届国际脑机接口会议在比利时索尼安森林顺利举行。大会期间，天桥脑科学研究院（Tianqiao and Chrissy Chen Instiute，TCCI）举行了一场题为“面向大众的神经技术”的卫星会议。此次卫星会议在很大程\n本文链接",
+          "link": "https://news.cnblogs.com/n/745897/",
+          "publishedOn": "2023-07-14T11:07:00.000Z",
+          "wordCount": 163,
+          "title": "关于脑机接口，人们真正想要什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745896/",
+          "author": null,
+          "description": "文｜甲子光年，作者｜涂明、李晗、朱悦，编辑｜王博 尽管很多人相信马斯克会组建 AI 公司，但是没人知道这一天会什么时候到来。 就像 2200 多年前，雍王章邯知道汉军在修栈道，但不知道汉军会悄悄绕过栈道，结果陈仓遇袭，雍王兵败。 马斯克“杀入 AI 圈，剑指大模型”就是这么突然，北京时间 7 月 1\n本文链接",
+          "link": "https://news.cnblogs.com/n/745896/",
+          "publishedOn": "2023-07-14T11:00:00.000Z",
+          "wordCount": 163,
+          "title": "剑指AI，马斯克暗度陈仓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745895/",
+          "author": null,
+          "description": "图片来源：特斯拉官网 当福特、通用、大众、奔驰等车企接连宣布接入特斯拉充电标准，事情开始变得不简单。 仅仅在两个月的时间里，包括大众、福特、通用、Rivian、沃尔沃、极星、奔驰在内已有 7 家汽车制造商宣布与特斯拉达成充电协议的合作，甚至于，在 6 月 12 日一天内，有 4 家充电网络运营服务商\n本文链接",
+          "link": "https://news.cnblogs.com/n/745895/",
+          "publishedOn": "2023-07-14T10:50:00.000Z",
+          "wordCount": 163,
+          "title": "特斯拉充电标准的“阳谋”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745894/",
+          "author": null,
+          "description": "文｜六便士财经，作者丨 Bao，编辑丨 Bao AI 席卷直播间 如果仿生人能梦见克隆羊，那他会做发财梦吗？ 自从 ChatGPT 横空出世，就因为强大表现引起了广泛关注，并被应用于各种任务和场景中。比如，在医疗领域中，ChatGPT 被用来帮助医生进行诊断和治疗建议；在金融领域中，ChatGPT \n本文链接",
+          "link": "https://news.cnblogs.com/n/745894/",
+          "publishedOn": "2023-07-14T10:44:00.000Z",
+          "wordCount": 163,
+          "title": "数字人不能代替真主播吗?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745893/",
+          "author": null,
+          "description": "文｜解码 Decode 知乎热榜又贡献了一个热门话题，有关爱奇艺的。 事件起因是网友@老骆驼在「电视机为什么有大流量上传？」这个问题下回答，直接曝出了爱奇艺电视端 App 偷跑占用用户上行带宽的事实。 根据@老骆驼的说法，他最近购入了一款索尼 65X91 电视，结果在测试网络时发现，处于息屏休眠状态\n本文链接",
+          "link": "https://news.cnblogs.com/n/745893/",
+          "publishedOn": "2023-07-14T10:37:00.000Z",
+          "wordCount": 163,
+          "title": "越过用户偷跑HCDN，爱奇艺为何铤而走险？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745892/",
+          "author": null,
+          "description": "文｜连线出行，作者｜钱少川，编辑｜周雄飞 L4 级自动驾驶上路，距离成为现实或许不远了。 就在新能源车企们追逐城市 NOA 为代表的 L3+ 自动辅助驾驶系统落地时，L4 级别自动驾驶行业无安全员商业化试点也在悄然展开。 近日，北京市高级别自动驾驶示范区工作办公室正式宣布在京开放智能网联乘用车“车内\n本文链接",
+          "link": "https://news.cnblogs.com/n/745892/",
+          "publishedOn": "2023-07-14T10:30:00.000Z",
+          "wordCount": 163,
+          "title": "试点“车内无人”、融资回暖，Robotaxi距离上路更近一步",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745891/",
+          "author": null,
+          "description": "中国脑科学研究取得新进展。 7 月 12 日，中国科学家发布世界首套单细胞分辨率的猕猴大脑皮层细胞空间分布图谱，研究成果在国际知名学术期刊 Cell（《细胞》）刊登。该研究为系统的分析大脑皮层中不同层面和区域的细胞类型分布及其基因表达特征，提供了目前最完整的灵长类大脑数据。 《细胞》与《自然》和《科\n本文链接",
+          "link": "https://news.cnblogs.com/n/745891/",
+          "publishedOn": "2023-07-14T10:20:00.000Z",
+          "wordCount": 163,
+          "title": "腾讯AI技术助力中国脑科学研究新突破，成果登上国际学术顶刊Cell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745890/",
+          "author": null,
+          "description": "本文作者 François Zaninotto 是资深 React 开发者，在看到 React 官方开始推广服务器组件后，他对此表示担忧，因为这会让现有的很多写法都失效。 文章讨论了 React 和 Next.js 团队最近推广的服务器组件，这种新的构建 Web 应用程序的方式与大多数现有的 Rea\n本文链接",
+          "link": "https://news.cnblogs.com/n/745890/",
+          "publishedOn": "2023-07-14T10:10:00.000Z",
+          "wordCount": 163,
+          "title": "React 正在经历 Angular.js 的时刻吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745889/",
+          "author": null,
+          "description": "今日，电气和电子工程师协会 (IEEE) 正式签署 802.11bb 无线传输标准，即 Li-Fi，基于光波的无线传输。 同样都是无线通信技术，为人们熟知的 Wi-Fi 是使用射频（Radio Frequency，简称 RF）在天线中感应电压来传输数据的，而 Li-Fi 则是一种利用光在设备之间传输\n本文链接",
+          "link": "https://news.cnblogs.com/n/745889/",
+          "publishedOn": "2023-07-14T10:03:00.000Z",
+          "wordCount": 163,
+          "title": "比 Wi-Fi 快 100 倍！Li-Fi 无线传输标准 802.11bb 正式发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745888/",
+          "author": null,
+          "description": "文｜首席商业评论 “推特持续作死” 6 月下旬，网传 Meta（即脸书）正在计划上线推特竞品 Threads，马斯克发推特表示自己愿意跟 Meta 的 CEO 扎克伯格进行一场“笼中格斗”。而前不久刚在巴西柔术锦标赛获得奖牌的扎克伯格毫不示弱，也在自家的 Instagram 上回应：“地点发我。”次\n本文链接",
+          "link": "https://news.cnblogs.com/n/745888/",
+          "publishedOn": "2023-07-14T09:45:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克“约架”扎克伯格，真大佬“不服就干”？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745887/",
+          "author": null,
+          "description": "图片来源@视觉中国 文｜正见，作者｜沈钧垚，编辑｜TV 从抖音种草，到淘宝推进全面内容化，内容与电商的结合日益紧密，但也逐步直入小红书的腹地。 今年，十岁的小红书终于不再“佛系”，决定“学会自己赚钱”，加码直播带货、笔记带货等多个交易场域。618 期间，日均直播开播场次增长同比超 3 倍，日均购买用\n本文链接",
+          "link": "https://news.cnblogs.com/n/745887/",
+          "publishedOn": "2023-07-14T09:37:00.000Z",
+          "wordCount": 163,
+          "title": "小红书的质感女星“翻红”计",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745879/",
+          "author": null,
+          "description": "投向脑科学。 文｜张继文 来源｜投资界（ID：pedaily2012） 封面来源｜IC photo 这是一笔罕见的投资。 本周，在上海世界人工智能大会（WAIC）中，天桥脑科学研究院（TCCI）宣布再投 10 亿元支持 AI 脑科学，包括设立 MindX 实验室，建设 AI＋睡眠梦境，AI＋抗衰老等\n本文链接",
+          "link": "https://news.cnblogs.com/n/745879/",
+          "publishedOn": "2023-07-14T09:25:33.000Z",
+          "wordCount": 163,
+          "title": "陈天桥夫妇，又投10个亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745886/",
+          "author": null,
+          "description": "文｜好看商业，作者｜乔珊珊，编辑｜安心 腾讯、华为之后，又一个姗姗来迟的大模型“虽迟但到”。 7 月 13 日，在 2023 京东全球科技探索者大会暨京东云峰会上，京东正式推出大模型“言犀”。目前平台已开放预约注册，预计将于 8 月份正式上线。 至此，头部互联网大厂的大模型产品悉数登场：百度有文心，\n本文链接",
+          "link": "https://news.cnblogs.com/n/745886/",
+          "publishedOn": "2023-07-14T08:40:00.000Z",
+          "wordCount": 163,
+          "title": "做中国版ChatGPT？腾讯、华为、京东、字节都say no了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745885/",
+          "author": null,
+          "description": "文｜日晞研究所，编辑｜南汐、Lydia、大富 国内最大的在线健身平台，为何屡次折戟 IPO？ 在这样一个全民越来越在意健身的时代，Lululemon 门店都已经开到了二线城市，老牌健身线上平台 Keep 反而不出现在人们的视野很久了。7 月 12 日上午，港交所响起了属于 Keep 的铜锣。 Kee\n本文链接",
+          "link": "https://news.cnblogs.com/n/745885/",
+          "publishedOn": "2023-07-14T08:30:00.000Z",
+          "wordCount": 163,
+          "title": "事不过三，三度冲击上市的Keep终迎敲钟",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745869/",
+          "author": null,
+          "description": "定焦（dingjiaoone）原创 作者：布鲁斯 编辑：向园 曾几何时，在阿里工作，什么岗不重要、入职几年不重要，P几最重要。如果能成为阿里 P8，就意味着年薪百万，成为打工人中的天花板，走上人生巅峰。 但今年年底，阿里可能会亲手砍下高P，大厂高P光环将成为过去式。 7 月 13 日，据 36 氪报\n本文链接",
+          "link": "https://news.cnblogs.com/n/745869/",
+          "publishedOn": "2023-07-14T08:23:45.000Z",
+          "wordCount": 163,
+          "title": "互联网大厂高P，走下神坛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745884/",
+          "author": null,
+          "description": "阿维塔 12 的实拍图正式发布，新车定位中大型纯电轿车，前脸采用阿维塔 11 同款设计语言，双激光雷达，尾部与 AMG GT 较为相似，配有电动升降尾翼。新车长宽高分别为 5020 ×1999×1460mm，轴距为 3020mm，整体尺寸比同级别的比亚迪汉、极氪 001 更大。 工信部公告中亮相的车\n本文链接",
+          "link": "https://news.cnblogs.com/n/745884/",
+          "publishedOn": "2023-07-14T08:08:00.000Z",
+          "wordCount": 163,
+          "title": "阿维塔12的实拍图正式发布，新车定位中大型纯电轿车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745883/",
+          "author": null,
+          "description": "微软正在用 Aptos 取代其 Calibri 默认字体。与 20 世纪中期的瑞士字体类似，Aptos 是一种新的无衬线字体，曾命名为 Bierstadt。无衬线字体也被称为 \"怪诞\" 或 \"哥特式\" 字体，通常字形简单、笔画均匀且易于阅读。 微软首席项目经理 Si Daniels 在公告中表示，“\n本文链接",
+          "link": "https://news.cnblogs.com/n/745883/",
+          "publishedOn": "2023-07-14T07:55:00.000Z",
+          "wordCount": 163,
+          "title": "微软推出新的默认字体 Aptos，替代 Calibri",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/745882/",
+          "author": null,
+          "description": "文｜零态 LT，作者｜吴江华，编辑｜胡展嘉 国产自动驾驶芯片第一股的名头将花落谁家？答案正在浮出水面。 不久前，自动驾驶公司黑芝麻智能（以下简称“黑芝麻智能”）向港交所递交的 IPO 申请获受理，计划在港交所挂牌上市。这是港交所 18C 规则（18C 章的最大特点是容许满足相关市值要求的未商业化特专\n本文链接",
+          "link": "https://news.cnblogs.com/n/745882/",
+          "publishedOn": "2023-07-14T07:46:00.000Z",
+          "wordCount": 163,
+          "title": "这次黑芝麻跑在了地平线前面",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/745830/",
           "author": null,
@@ -9029,286 +9259,6 @@
           "publishedOn": "2023-06-15T23:55:54.000Z",
           "wordCount": 163,
           "title": "微软预计AI业务年收入将达100亿美元 股价创新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/744002/",
-          "author": null,
-          "description": "图片来源：视觉中国 小良是 UCC 职人咖啡和星巴克星选咖啡拿铁的忠实爱好者。他每天的咖啡消耗量较大，无论是选择每天一杯 18 元的瑞幸，20 元的 Manner，还是 30 元的 Seesaw，都不够喝，而即饮咖啡，尤其是大瓶装的即饮咖啡，成为了平替选择。 在这一市场，雀巢先发优势明显，其瓶装咖啡\n本文链接",
-          "link": "https://news.cnblogs.com/n/744002/",
-          "publishedOn": "2023-06-15T09:55:00.000Z",
-          "wordCount": 163,
-          "title": "瓶装即饮咖啡，卖水和卖可乐的都在虎视眈眈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/744001/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者程茜 编辑心缘 智东西 6 月 15 日报道，今天下午，微软举办 Microsoft Build 2023 微软开发者大会中国站。 在微软 Build 2023 上，微软发布了一系列 AI 全家桶，包括 Azure OpenAI、Copilot Stack、开\n本文链接",
-          "link": "https://news.cnblogs.com/n/744001/",
-          "publishedOn": "2023-06-15T09:42:00.000Z",
-          "wordCount": 163,
-          "title": "微软分享生成式AI开发“主心骨”：将业务问题变为“Chat”问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/744000/",
-          "author": null,
-          "description": "Canonical 今天宣布，Ubuntu 22.10（Kinetic Kudu）操作系统版本将于 2023 年 7 月 20 日达到生命周期结束，并敦促用户尽快将其系统升级到最新的 Ubuntu 23.04（Lunar Lobster）版本。 Ubuntu 22.10 于 2022 年 10 月 \n本文链接",
-          "link": "https://news.cnblogs.com/n/744000/",
-          "publishedOn": "2023-06-15T09:30:00.000Z",
-          "wordCount": 163,
-          "title": "Ubuntu 22.10 生命周期即将结束",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743999/",
-          "author": null,
-          "description": "抖音昨日发布《非购物车锚点视频专项治理条例》，宣称将从严专项治理商家“虚假夸大描述、虚构商品来源或资质信息”及“卖惨”式营销及虚假“贫困摆拍”行为。 公告称“平台巡查发现，部分创作者发布的引导进橱窗 / 店铺等“非购物车锚点视频”存在部分违规行为，违规视频内容包括进行虚假夸大描述、虚构商品来源或资质\n本文链接",
-          "link": "https://news.cnblogs.com/n/743999/",
-          "publishedOn": "2023-06-15T09:22:00.000Z",
-          "wordCount": 163,
-          "title": "抖音：将专项治理“虚假夸大描述、卖惨”等违规内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743998/",
-          "author": null,
-          "description": "6 月 15 日消息，英伟达近年来在游戏卡及加速卡市场所向披靡，现在 AMD 终于能有高性能显卡与之竞争了，这就是昨天凌晨发布的 Instinct MI300 系列。 其中 Instinct MI300A 就是去年宣布的 MI300，有 1460 亿晶体管，而 Instinct MI300X 是新出\n本文链接",
-          "link": "https://news.cnblogs.com/n/743998/",
-          "publishedOn": "2023-06-15T09:19:00.000Z",
-          "wordCount": 163,
-          "title": "英伟达太强 AMD最强显卡尚无客户采购：软件干不过CUDA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743997/",
-          "author": null,
-          "description": "品玩 6 月 15 日讯，在今天的在 2023 开放原子全球开源峰会上，阿里云公布1+4 开源战略。在操作系统、云原生、数据库、大数据四大开源领域之外，AI 模型社区魔搭作为大模型方向的开源新势力首次亮相。 据阿里云表示，魔搭社区践行模型即服务（Model as a Service，MaaS）新理念\n本文链接",
-          "link": "https://news.cnblogs.com/n/743997/",
-          "publishedOn": "2023-06-15T09:11:00.000Z",
-          "wordCount": 163,
-          "title": "阿里云公布1+4开源战略，AI社区魔搭首次亮相",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743996/",
-          "author": null,
-          "description": "当前，Copilot 已经成为国内开发者常用的辅助工具。就像有的开发者评价称， “编码时，我希望干扰最少。在这方面，Copilot 给我提供了巨大的帮助。它减少了我可能花在网络上寻找解决方案的时间，而且它们在我最喜欢的 IDE 中触手可及。”Copilot 带来了很多便利。 虽然人工智能和自动化很早\n本文链接",
-          "link": "https://news.cnblogs.com/n/743996/",
-          "publishedOn": "2023-06-15T09:04:00.000Z",
-          "wordCount": 163,
-          "title": "GitHub Copilot：做出一个划时代的产品，只需要6个人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743995/",
-          "author": null,
-          "description": "来源：字母榜 6 月 14 日下午四点十五分，距离梅西的淘宝直播已经结束一个小时，依然不断有新网友冲进“梅西来了-遥望阿卓馆”的淘宝直播间，在弹幕区刷屏“梅西什么到”“煤老板呢”“还我梅西”，此时，涌入 20 万人的直播间，背景板上依然是穿着阿根廷国家队队服的梅西照片，并打出了“有球必应”的字样。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/743995/",
-          "publishedOn": "2023-06-15T08:55:00.000Z",
-          "wordCount": 163,
-          "title": "10秒，梅西“快闪”直播间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743994/",
-          "author": null,
-          "description": "比从哪里来更重要的是到哪里去。 文丨许俊浩 来源海克财经 国内造车新势力近来看点颇多。 理想汽车创始人兼 CEO 李想 6 月 13 日晚间连发数条微博，其中的一条被指看似抚今追昔、经验总结，实则自我吹嘘、借势营销，在业界掀起了波澜。 从时间线看，李想是在当晚 18：29 转发公司官微有关理想汽车 \n本文链接",
-          "link": "https://news.cnblogs.com/n/743994/",
-          "publishedOn": "2023-06-15T08:42:00.000Z",
-          "wordCount": 163,
-          "title": "小鹏需要的不只是背水一战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743993/",
-          "author": null,
-          "description": "新智元报道 编辑：好困桃子 今天，百川智能正式发布 70 亿参数开源中英文大模型——baichuan-7B，一举拿下多个评测榜单最佳成绩。 时隔两个月，王小川组建的‘百川智能’在 6 月 15 日正式推出首个 70 亿参数中英文预训练大模型——baichuan-7B。 baichuan-7B 不仅在\n本文链接",
-          "link": "https://news.cnblogs.com/n/743993/",
-          "publishedOn": "2023-06-15T08:30:00.000Z",
-          "wordCount": 163,
-          "title": "王小川大模型首亮相！70亿参数霸榜，清北抢先用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743992/",
-          "author": null,
-          "description": "因减持热门 AI 芯片巨头英伟达的股票，神秘的罗斯柴尔德家族再次受到外界关注。其减持逻辑遵循了家族一贯看似偏保守的投资风格，而这也是家族度过 200 多年风雨后，依然枝繁叶茂的原因。 作者 冯晨晨 来源 市界 你可能不是葡萄酒爱好者，但应该听说过拉菲；你即便没坐过游轮，但应该知道泰坦尼克号；你或许没\n本文链接",
-          "link": "https://news.cnblogs.com/n/743992/",
-          "publishedOn": "2023-06-15T08:20:00.000Z",
-          "wordCount": 163,
-          "title": "这个神秘家族，靠英伟达又狠赚一笔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743935/",
-          "author": null,
-          "description": "科技日报北京 6 月 14 日电 （记者刘霞）植物的每个组织都有数百种不同类型的细胞，它们传递有关功能需求和环境变化的信息。美国索尔克生物学研究所的科学家开发出了一种新的成像技术，能以前所未有的分辨率，在 3D 层面捕捉植物整个“内心”世界，为了解植物如何应对气候变化，以及培育出气候适应能力更强的作\n本文链接",
-          "link": "https://news.cnblogs.com/n/743935/",
-          "publishedOn": "2023-06-15T01:12:34.000Z",
-          "wordCount": 163,
-          "title": "新技术能在3D层面对植物基因成像",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743934/",
-          "author": null,
-          "description": "科技日报北京 6 月 14 日电 （记者张梦然）有些人为何能终生都保持较为健康的状态？《自然·通讯》13 日发表的一项研究认为，免疫恢复力，即维持或恢复免疫功能的能力，可能与响应感染性和炎症性疾病的能力有关。这是通过调查多项感染性和炎症性疾病背景后得出的结论，或可改进人们对免疫与健康的理解。 为何有\n本文链接",
-          "link": "https://news.cnblogs.com/n/743934/",
-          "publishedOn": "2023-06-15T01:09:39.000Z",
-          "wordCount": 163,
-          "title": "免疫分析揭示为何有些人不常生病",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743933/",
-          "author": null,
-          "description": "科技日报北京 6 月 14 日电 （记者张梦然）《自然》杂志 14 日报告了一种量子处理器，无需进行纠错就可超越经典计算。这个 IBM 127 量子比特处理器在制造、测量高度纠缠量子态方面超越了当前最佳经典计算方法的能力。这一成果表明，量子计算机可能在近期用于一些特定的计算而无需容错性（运行量子计算\n本文链接",
-          "link": "https://news.cnblogs.com/n/743933/",
-          "publishedOn": "2023-06-15T01:02:16.000Z",
-          "wordCount": 163,
-          "title": "量子处理器在特定计算中无需纠错",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743932/",
-          "author": null,
-          "description": "IT 之家 6 月 14 日消息，在欧洲联盟 (EU) 因安全问题讨论禁止华为参与其 5G 基础设施项目后，英国《金融时报》称该欧盟正斥重金向这家中国公司寻求帮助，以布局下一代通讯技术。 据报道，华为正在参与欧盟旗舰研究和创新计划 Horizon Europe 的一部分，该计划共有 11 个项目，包\n本文链接",
-          "link": "https://news.cnblogs.com/n/743932/",
-          "publishedOn": "2023-06-15T00:17:42.000Z",
-          "wordCount": 163,
-          "title": "消息称华为正参与欧盟多项先进研发项目，涉及 AI、6G、云计算等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743931/",
-          "author": null,
-          "description": "全世界都在抢算力，中国大公司更急迫。 文丨张家豪 编辑丨程曼祺黄俊杰 2022 年下半年，生成式 AI 爆火的同时，硅谷著名风险资本 a16z 走访了数十家 AI 创业公司和大科技公司。他们发现，创业公司转手就把 80%-90% 的早期融资款送给了云计算平台，以训练自己的模型。他们估算，即便这些公司\n本文链接",
-          "link": "https://news.cnblogs.com/n/743931/",
-          "publishedOn": "2023-06-15T00:10:00.000Z",
-          "wordCount": 163,
-          "title": "争夺AI入场券：中国大公司竞逐 GPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743930/",
-          "author": null,
-          "description": "全新 ES6 发布了不到半个月，一直坚称不打价格战的蔚来，6 月 12 日突然官宣全系车起售价降价 3 万元。消息一出，引起行业热议。 根据蔚来官方发布的信息，调整后，ET5 的起售价降至 30 万元以下，官方指导价 29.8 万元起；若以 BaaS（租电模式）购买，价格下探到 22.8 万元起。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/743930/",
-          "publishedOn": "2023-06-15T00:05:23.000Z",
-          "wordCount": 163,
-          "title": "门店排队展车卖光？看懂蔚来降价的背后",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743929/",
-          "author": null,
-          "description": "①谷歌推出了一项新的服装虚拟“试穿”功能，可以让人们看到衣服穿在身上的具体效果； ②该服务将与 Anthropologie 和 Everlane 等零售商进行合作。 财联社 6 月 15 日讯（编辑牛占林）科技巨头谷歌正在将生成式人工智能技术引入购物领域，旨在抢在亚马逊等电子商务公司的前面，以重塑零\n本文链接",
-          "link": "https://news.cnblogs.com/n/743929/",
-          "publishedOn": "2023-06-15T00:03:26.000Z",
-          "wordCount": 163,
-          "title": "试图抢占先机！谷歌将生成式人工智能引入在线购物领域",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743928/",
-          "author": null,
-          "description": "每经记者：吴泽鹏 每经编辑：魏官红 员工离职后，其曾运营的“百万粉丝大号”究竟该归谁？ 近日，《每日经济新闻》记者了解到，就抖音百万粉丝账号“DJ 初仔小朋友”（后改名为 DJ 初仔大朋友，以下统称初仔号）的使用权归属问题，佛山人民广播电台（以下简称佛山电台）向广东省高级人民法院提出再审申请，继续向\n本文链接",
-          "link": "https://news.cnblogs.com/n/743928/",
-          "publishedOn": "2023-06-15T00:02:25.000Z",
-          "wordCount": 163,
-          "title": "离职员工与“老东家”走上法庭 “百万粉丝大号”归谁？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743927/",
-          "author": null,
-          "description": "球王来了，市场嗨了？ 作者张凯旌 编辑丨武丽娟 来源野马财经 “这就结束了？”6 月 14 日下午，守候在淘宝直播间等待梅西的球迷略显失望，他们中的很多人，可能还没来得及看上梅西一眼，直播就已经戛然而止。 按照原本点淘和遥望科技（002291.SZ）的宣传，梅西亮相直播间的时间是下午 6 点。作为唯\n本文链接",
-          "link": "https://news.cnblogs.com/n/743927/",
-          "publishedOn": "2023-06-15T00:01:02.000Z",
-          "wordCount": 163,
-          "title": "观看量仅300万！梅西淘宝首秀终成噱头？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743926/",
-          "author": null,
-          "description": "假若一切可以重来。 上世纪 90 年代中期，美国德克萨斯大学奥斯汀分校的科学家发现了一种名为磷酸铁锂(LFP)的化合物，几年后，位于马萨诸塞州沃特敦的初创公司 A123 Systems LLC（以下简称“A123”）将其商业化。目前，宁德时代和中国大多数电池公司都在使用磷酸铁锂作为动力电池正极材料。\n本文链接",
-          "link": "https://news.cnblogs.com/n/743926/",
-          "publishedOn": "2023-06-14T23:55:36.000Z",
-          "wordCount": 163,
-          "title": "这家电池公司本可以成为美国的“宁德时代”，为何半路夭折？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743925/",
-          "author": null,
-          "description": "6 月 13 日晚间，理想汽车 CEO 李想在微博发布长文谈“理想汽车的驱动力”。李想表示，我们核心的驱动力只有两个字：成长。“成长是两部分组成的闭环：一个是学习，一个是训练。” 李想称，2022 年三季度，问界 M7 的发布和操盘直接把理想 ONE 打残了，从来没遇到过这么强的对手，很长一段时间毫\n本文链接",
-          "link": "https://news.cnblogs.com/n/743925/",
-          "publishedOn": "2023-06-14T23:53:17.000Z",
-          "wordCount": 163,
-          "title": "李想发长文：理想汽车核心驱动力是“成长”，曾全面学习华为",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743924/",
-          "author": null,
-          "description": "文｜思辨财经 每逢电商大促，市场和舆论中总会被一些似是而非的观点裹挟，一方面认同这是行业的一场狂欢，消费者或主动或被动投身于全行业所营造的节日气氛之中，这堪称零售行业大礼包；另一方面，总有观点认为低价策略会伤害商家利益，这又是一个用户和平台受益，商家利益受损的畸形市场行为。 又到每年的 618 大促\n本文链接",
-          "link": "https://news.cnblogs.com/n/743924/",
-          "publishedOn": "2023-06-14T23:45:00.000Z",
-          "wordCount": 163,
-          "title": "618大促，市场为何不认“老牌电商”了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743923/",
-          "author": null,
-          "description": "文｜20 社，作者罗立璇、贾阳，编辑 王晓玲 一向定位高端、标榜用服务来吸引车主的蔚来，也低头了。 6 月 12 日，蔚来宣布，全系新车起售价将下调 3 万元，首任车主用车权益也将调整。至少团队希望向外界表达的是，这是一个艰难的决定。被调侃“终于想起来微博密码”的创始人李斌发了一条微博表示，直到公布\n本文链接",
-          "link": "https://news.cnblogs.com/n/743923/",
-          "publishedOn": "2023-06-14T23:39:53.000Z",
-          "wordCount": 163,
-          "title": "蔚来能抛掉客户至上的包袱吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743922/",
-          "author": null,
-          "description": "文｜白鲸出海 “只要是你说的，我都会记得”，是出海 AI 社交应用 Paradot 的最大特点。 除了一直畅销但始终存在争议的的 Replika 和被网友戏称为女菩萨的 KOL AI 项目 AI Caryn 外，全球范围内，AI 社交可谓此起彼伏，但没有太大水花。 大家做 AI 社交基本上三个思路：\n本文链接",
-          "link": "https://news.cnblogs.com/n/743922/",
-          "publishedOn": "2023-06-14T23:34:00.000Z",
-          "wordCount": 163,
-          "title": "终于有了一款像样的出海AI社交App",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743917/",
-          "author": null,
-          "description": "AI 模型的竞争还在继续，这次对准的也是 OpenAI，并且是以开源的方式直接与 OpenAI 竞争。 就在刚不久，来自欧洲的的 AI 创业公司 Mistral AI 正式宣布完成了 1.13 亿美金（1.05 亿欧元）的种子轮融资，估值为 2.6 亿美金。 此次融资离这家公司成立只有 4 周的时间\n本文链接",
-          "link": "https://news.cnblogs.com/n/743917/",
-          "publishedOn": "2023-06-14T23:28:23.000Z",
-          "wordCount": 163,
-          "title": "成立 4 周种子轮融 1.13亿美金，Mistral 要打造开源版 OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743921/",
-          "author": null,
-          "description": "文｜新摘商业评论，作者｜洛枳 本地生活的战事从未熄火。 有的进攻。背靠物流配送，京东试点同城外卖业务，天猫、盒马上线“即时配送”服务；以内容做杠杆，抖音深耕团购到店，快手上线本地生活小程序，小红书尝试种草拔草链路闭环，招募到店餐饮商家。 有的防守。美团上线“特价团购”并放在C位展示，进军同城团购配送\n本文链接",
-          "link": "https://news.cnblogs.com/n/743921/",
-          "publishedOn": "2023-06-14T14:31:32.000Z",
-          "wordCount": 163,
-          "title": "618前夕，视频号悄悄杀入本地生活",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/743920/",
-          "author": null,
-          "description": "据科大讯飞官方消息，讯飞星火认知大模型再次迎来更新升级——iOS 内测版本正式上线。 至此，讯飞星火在国产大模型中抢先实现“PC、iOS、安卓、小程序与 H5”主流系统的全覆盖，并支持跨设备历史记录同步，使用户可在主流系统平台自由切换。 讯飞星火现已上线 App Store，已参与内测的用户可以手机\n本文链接",
-          "link": "https://news.cnblogs.com/n/743920/",
-          "publishedOn": "2023-06-14T14:28:07.000Z",
-          "wordCount": 163,
-          "title": "科大讯飞星火认知大模型iOS内测版本正式上线",
           "imageUrl": null
         }
       ]
