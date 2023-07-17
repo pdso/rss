@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-16T01:48:26.300Z</updated>
+    <updated>2023-07-17T01:43:01.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPT-4突然降智，爆料OpenAI重新设计构架，用MOE降本增效，官方辟谣网友却不买账]]></title>
+        <id>https://news.cnblogs.com/n/745949/</id>
+        <link href="https://news.cnblogs.com/n/745949/"/>
+        <updated>2023-07-17T01:33:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：润 Lumnia 最近众多网友反应 GPT-4 不好用了，后悔充值了。后来网友爆出 OpenAI 采用 MOE 重新设计了构架，导致性能收到影响，但是官方一直没有明确答复。 最近一段时间，很多 OpenAI 的用户反应，GPT-4 变傻了！ 大家普遍认为 GPT-4 从 5 月份开
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无需点跟踪，克服DragGAN缺陷！中科大联合上海AI Lab发布FreeDrag：可稳定拖动语义内容]]></title>
+        <id>https://news.cnblogs.com/n/745948/</id>
+        <link href="https://news.cnblogs.com/n/745948/"/>
+        <updated>2023-07-17T01:28:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：LRS FreeDrag 无需点跟踪，即可实现更高质量的拖动编辑效果！ 近日，在 AIGC 的广阔世界里出现了一个火热的图像编辑方法—即通过在给定图像上通过把语义内容从原位置（handle point）拖动到目标位置（target point）的方式进行精细的定制化编辑操作。 比如
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT李巨教授组发布「贾维斯助手CRESt」：实验科学家秒变钢铁侠，全自动化实验+主动学习]]></title>
+        <id>https://news.cnblogs.com/n/745947/</id>
+        <link href="https://news.cnblogs.com/n/745947/"/>
+        <updated>2023-07-17T01:22:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：LRS 让 AI 负责实验操作，科学家负责思考。 人工智能以及自主实验目前主要由 Python 等语言编写，但并非所有实验科学工作者都擅长这类编程语言，在真实世界实验中的影响力还是比较有限。 不过，基于 OpenAI 最近发布的 ChatGPT API 函数调用功能[1]，现有的技
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子霸权里程碑！谷歌量子计算机6秒内完成47年计算，超越世界第一超算]]></title>
+        <id>https://news.cnblogs.com/n/745946/</id>
+        <link href="https://news.cnblogs.com/n/745946/"/>
+        <updated>2023-07-17T01:17:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：桃子拉燕 量子霸权最终花落谁家？谷歌研究称，最新量子计算机在几秒钟完成世界经典超算 47 年的计算，创下新里程碑。 谷歌再次实现了「量子霸权」？ 近日，谷歌宣称，他们的量子计算机在短短 6 秒，完成世界最先进计算机 47 年的计算量。 没错，47 年被凝结成瞬间。谷歌研究团队的最新
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智源Emu开源！超越DeepMind，刷新8项SOTA，首个「多模态-to-多模态」全能高手]]></title>
+        <id>https://news.cnblogs.com/n/745945/</id>
+        <link href="https://news.cnblogs.com/n/745945/"/>
+        <updated>2023-07-17T01:12:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 来源：智源研究院 最近，智源研究院开源了全新的统一多模态预训练模型——Emu。不仅在 8 项基准测试中表现优异，而且还超越了此前的一众 SOTA。 首个打通从多模态输入到多模态输出的「全能高手」，统一多模态预训练模型 Emu 开源，来自智源研究院「悟道·视界」研究团队。 超越了此前 De
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta重新定义多模态！北大校友共同一作，70亿参数文生图模型击败Diffusion]]></title>
+        <id>https://news.cnblogs.com/n/745944/</id>
+        <link href="https://news.cnblogs.com/n/745944/"/>
+        <updated>2023-07-17T01:09:56.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：Aeneas 好困 北大校友共同一作，Meta 发布史上首个单一多模态模型！7B 模型击败 Diffusion，完美画手难题完美解决。 Meta 又来炸场了！ 就在刚刚，Meta 推出了一个基于 Transformer 的多模态模型——CM3leon，在文生图和图像理解领域都取得了
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古尔曼：搭载M3芯片的苹果Mac电脑或于10月发布]]></title>
+        <id>https://news.cnblogs.com/n/745943/</id>
+        <link href="https://news.cnblogs.com/n/745943/"/>
+        <updated>2023-07-17T01:04:33.000Z</updated>
+        <summary type="html"><![CDATA[新浪科技讯，北京时间 7 月 17 日早间消息，长期追踪苹果公司动态的专栏作家马克·古尔曼（Mark Gurman）在最新文章中表示，苹果正在准备在今年 10 月发布首款搭载该公司 M3 芯片的 Mac 电脑。 苹果通常会在每年 9 月举办新品发布会。今年的发布会上，目前 iPhone 15 系列、
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[标普全球：上半年全球金融科技行业融资同比下降49%]]></title>
+        <id>https://news.cnblogs.com/n/745942/</id>
+        <link href="https://news.cnblogs.com/n/745942/"/>
+        <updated>2023-07-17T00:57:03.000Z</updated>
+        <summary type="html"><![CDATA[标准普尔全球发布的报告显示，今年上半年，全球金融科技公司获得的融资总额为 230 亿美元，同比下降 49%。平均来看，种子轮融资规模下降 12%，创业初期融资规模下降 14%，成长期和成熟期创业公司的融资规模则分别下降 43% 和 66%。 融资笔数也出现了急剧下滑。今年上半年，金融科技行业完成了 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克：推特现金流仍为负，7月有希望转正]]></title>
+        <id>https://news.cnblogs.com/n/745941/</id>
+        <link href="https://news.cnblogs.com/n/745941/"/>
+        <updated>2023-07-17T00:56:06.000Z</updated>
+        <summary type="html"><![CDATA[新浪科技讯，北京时间 7 月 17 日早间消息，当地时间上周六，埃隆·马斯克表示，受广告收入下降近 50% 和沉重的债务负担影响，推特现金流仍然为负，未达到他 3 月份做出的“推特将在 6 月份实现现金流为正”的预期。 马斯克在推文中回复有关资本重组的建议时说：“我们需要先做到现金流为正，然后才能奢
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[借助AI打开人与动物交流之门]]></title>
+        <id>https://news.cnblogs.com/n/745940/</id>
+        <link href="https://news.cnblogs.com/n/745940/"/>
+        <updated>2023-07-17T00:50:20.000Z</updated>
+        <summary type="html"><![CDATA[视觉中国供图 科技日报记者华凌 古老的神话故事里，有人借助魔力指环听懂动物说什么，并与鸟兽虫鱼交谈的桥段；现代迪士尼动画电影《魔法满屋》中，米拉贝尔的表弟安东尼的超能力就是能听懂动物的语言并与它们互动交流。随着人工智能（AI）技术的发展，人类与动物对话这一梦想或许真的能实现。一些研究人员认为，我们可
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙究竟多老？最新估计267亿岁]]></title>
+        <id>https://news.cnblogs.com/n/745939/</id>
+        <link href="https://news.cnblogs.com/n/745939/"/>
+        <updated>2023-07-17T00:20:41.000Z</updated>
+        <summary type="html"><![CDATA[科技日报讯 （记者刘霞）目前最广泛接受的宇宙学模型指出，宇宙是从约 138 亿年前的一次大爆炸开始形成的。但加拿大科学家开展的一项新研究表明，宇宙的年龄可能为 267 亿岁，约为此前认为的两倍。该研究结论不仅挑战了主流宇宙学模型，也为所谓的“不可能的早期星系问题”提供了新的解决方案。相关论文刊发于最
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对OpenAI重拳出击！美国政府出手「开源」ChatGPT，Altman惊慌连发3推]]></title>
+        <id>https://news.cnblogs.com/n/745938/</id>
+        <link href="https://news.cnblogs.com/n/745938/"/>
+        <updated>2023-07-16T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：润拉燕 FTC 突然对 OpenAI 展开调查，Altman 连发 3 推澄清。FTC 对阵 OpenAI 的大戏正缓缓拉开帷幕。 重磅！美国联邦贸易委员会的调查说来就来！ 调查对象不是别人，正是风头正旺的 OpenAI。 一封长达 20 页的调查要求书直接给了 Sam Altma
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable Diffusion搭配ControlNet，完成人像和光影文字的融合]]></title>
+        <id>https://news.cnblogs.com/n/745937/</id>
+        <link href="https://news.cnblogs.com/n/745937/"/>
+        <updated>2023-07-16T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[衡宇发自凹非寺 量子位公众号 QbitAI 都说 AI 绘画来势汹汹，但论创意，还是人类玩得花。 不信来看看这张乍一看平平无奇，却在网上疯传的 AI 生成美女图片： △图源：抖音账号@麦橘 MAJIC 赶紧按下手机截图键，看看原图和缩略图的对比，你就能窥破玄机： 是的没错！ 这张 AI 生成的图片里
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比Meta「分割一切AI」更全能！港科大版分割AI实现更强语义功能]]></title>
+        <id>https://news.cnblogs.com/n/745936/</id>
+        <link href="https://news.cnblogs.com/n/745936/"/>
+        <updated>2023-07-16T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Semantic-SAM 团队投稿 量子位公众号 QbitAI 比 Meta“分割一切”的 SAM 更全能的图像分割 AI，来了！ 模型名为 Semantic-SAM，顾名思义，在完全复现 SAM 分割效果的基础上，这个 AI 还具有两大特点： 语义感知：模型能够给分割出的实体提供语义标签 粒度丰富
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型让智能体学会与人类合作，具身智能新成果来了]]></title>
+        <id>https://news.cnblogs.com/n/745935/</id>
+        <link href="https://news.cnblogs.com/n/745935/"/>
+        <updated>2023-07-16T16:18:00.000Z</updated>
+        <summary type="html"><![CDATA[具身智能，已成为最火的研究方向之一。 在大模型加持下，智能体不光能听懂人话，还学会相互合作或与人合作。 图 2 展示了「共享信息」能力：Alice 先向 Bob 分享自己找到的容器的位置信息，随后 Bob 向 Alice 分享了目标的的位置信息。 图 3 展示了「向他人的行为提出建议」的能力：除了 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midjourney「平移扩图」玩法，自定义无限延展，轻松创造超长画卷]]></title>
+        <id>https://news.cnblogs.com/n/745934/</id>
+        <link href="https://news.cnblogs.com/n/745934/"/>
+        <updated>2023-07-16T16:11:00.000Z</updated>
+        <summary type="html"><![CDATA[尚恩发自凹非寺 量子位公众号 QbitAI 玩扩图，Midjourney 是认真的。 现在只要几个指令，就能轻松创造超长画卷。 我们先来看一张图，这张是原来的图： 这是经过自定义扩充后的效果，是酱婶儿： 这就是 Midjourney 今早更新的平移（pan）功能。效果一出，引发不少网友惊叹：一个字绝
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克披露xAI：6年实现AGI特斯拉资源都能用！2万块N卡被曝到位]]></title>
+        <id>https://news.cnblogs.com/n/745933/</id>
+        <link href="https://news.cnblogs.com/n/745933/"/>
+        <updated>2023-07-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[明敏发自凹非寺 量子位公众号 QbitAI 不愧是马斯克。 在引爆外界对 xAI 的好奇心后，他马上带着团队来了一波公开直播回应，自己披露更多细节： 2029 年实现全面 AGI 和特斯拉会有软硬件上的合作 将使用推特数据进行训练 同时还解释了为什么 xAI 要研究宇宙的本质，因为马斯克觉得想要实现
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VED 测试镜像发布：Linux 数字军火漏洞利用方法和抵挡]]></title>
+        <id>https://www.solidot.org/story?sid=75528</id>
+        <link href="https://www.solidot.org/story?sid=75528"/>
+        <updated>2023-07-16T15:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Shawn the R0ck 写道：数字军火涉及利用计算机技术和网络渗透技术来制造和销售用于攻击和侵入计算机、网络和软件等信息系统的工具、程序和服务。这些工具和服务也包括漏洞利用工具、远控软件、木马病毒、网络钓鱼和黑客攻击技术等，目标是窃取敏感信息、控制或破坏目标系统。数字军火的使用者可能包括政府军事和情报机构、犯罪团伙和黑客组织等。0-day漏洞利用是数字军火行业的重要部分，您可以参考Maor Shwartz的文章以获取更多关于0-day行业和数字军火行业的趋势的信息。像Drebin这样的团队，他们在全球各地的数字军火领域都有同行。HardenedVault在之前发布的VED技术白皮书后，收到了一些反馈。为了进一步沟通和解答，HardenedVault决定发布一份关于漏洞利用方法的测试镜像。HardenedVault使用CVE-2021-22555进行测试是因为其公开的PoC/exploit中同时涵盖了主流和非主流的攻击方法，具体来说，基于CVE-2021-22555编写了3种不同利用方法的漏洞利用，VED的防御目标并不是具体的某个漏洞，而是漏洞利用方法（攻击模式）。这个测试镜像中的针对CVE-2021-22555的三个漏洞利用使用以下漏洞利用方法实现提权和容器逃逸，比如绕过包含SMAP，SMEP，KASLR等防御机制和利用堆喷等漏洞利用方法，此测试镜像目的是通过理解三个漏洞利用所包含的攻击方法，进而对针对Linux系统的0-day/N-day作出更恰当的风险评估和威胁模型。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数百架无人机因技术故障掉进了墨尔本的雅拉河]]></title>
+        <id>https://www.solidot.org/story?sid=75527</id>
+        <link href="https://www.solidot.org/story?sid=75527"/>
+        <updated>2023-07-16T14:42:54.000Z</updated>
+        <summary type="html"><![CDATA[神秘技术故障导致数百架无人机掉进了墨尔本的雅拉河里。这些无人机原本是一场体育比赛前的灯光秀的一部分，但因为未知原因无人机中断程序掉进了附近的雅拉河。拥有这些无人机的 Australian Traffic Network [ATN]称它起飞了 500 架无人机，有多达 350 架无人机未能返回。它表示此前完成了数百场演出，第一次遭遇此类技术故障。ATN 的 Vic Lorusso 称，坠落的无人机未造成任何伤害或财产损失。他说，无人机按照技术故障应急方法旋转降落，但不幸的是它们当时处于水面之上，所以降落在了河里。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WormGPT——网络罪犯用生成式 AI 撰写高质量钓鱼邮件]]></title>
+        <id>https://www.solidot.org/story?sid=75526</id>
+        <link href="https://www.solidot.org/story?sid=75526"/>
+        <updated>2023-07-16T14:30:45.000Z</updated>
+        <summary type="html"><![CDATA[网络犯罪分子正将生成式 AI 工具用于 Business Email Compromise (BEC) 攻击。以 OpenAI 聊天机器人 ChatGPT 为代表的生成式 AI 能生成类似人类的文本，网络罪犯可利用它自动创建高度可信的钓鱼邮件，对收件人高度定制，增加攻击的成功率。在地下黑客论坛，网络罪犯演示了利用生成式 AI 改进网络钓鱼或 BEC 攻击所用邮件的潜力。即使攻击对象使用的语言不是攻击者的母语，在生成式 AI 的帮助下攻击者将可以轻而易举的伪造可信的邮件。网络罪犯甚至创建了专门用于恶意目的的工具 WormGPT。WormGPT 是基于 2021 年开发的大模型 GPTJ，它的功能包括无限字符支持、聊天记忆保留和代码格式化等。开发者声称 WormGPT 使用了恶意程序相关的数据进行训练。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 生成的垃圾信息正向我们涌来]]></title>
+        <id>https://www.solidot.org/story?sid=75525</id>
+        <link href="https://www.solidot.org/story?sid=75525"/>
+        <updated>2023-07-16T13:45:38.000Z</updated>
+        <summary type="html"><![CDATA[从互联网诞生之初，垃圾信息就是使用者面临的一大难题。如何从无数信息中寻找到有用信息？搜索引擎的需求由此而来。早期的垃圾信息都是由人工生成，因此其数量受制于人类工作的局限性。但随着生成式 AI 的到来，大批量生成将使得垃圾信息的量级远超过去。五月初，新闻评级公司 NewsGuard 发现有 49 个假新闻网站使用 AI 生成内容。到 6 月底，这个数字增加到了 277。这些 AI 生成内容网站旨在通过 Google 的广告获利。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创纪录热浪下的孟加拉国 IT 外包工人]]></title>
+        <id>https://www.solidot.org/story?sid=75524</id>
+        <link href="https://www.solidot.org/story?sid=75524"/>
+        <updated>2023-07-16T13:00:19.000Z</updated>
+        <summary type="html"><![CDATA[28 岁的 Nawshin Khan 在孟加拉国首都达卡的一家业务流程外包公司工作。上个月孟加拉国经历了几十年来持续时间最长的热浪，达卡最高气温达到了 40.6 摄氏度。电力供不应求，首都经常断电。由于公寓断电，Khan 晚上几乎无法入睡。她甚至无法靠着打开的窗口睡觉，因为外面的空气更热。上班对她而言反而是好事，办公室至少有风扇。孟加拉国的业务流程外包行业雇佣了大约 7 万名员工，2022 年的总收入约 7 亿美元，截至 2023 年 3 月有至少 350 家业务流程外包公司。在炎热的气候下，27 岁的外包工人 Naima Shirmen 说就像生活在地狱。她说，天气太热，风扇根本没有效果。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型惨遭人类大范围攻击！国内专家组团投毒，GPT-4也Hold不住]]></title>
+        <id>https://news.cnblogs.com/n/745932/</id>
+        <link href="https://news.cnblogs.com/n/745932/"/>
+        <updated>2023-07-16T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[杨净发自凹非寺 量子位公众号 QbitAI 包括 GPT-4 在内等多个大模型惨遭人类攻击！还是大范围、多边形那种。 而且这个军团被爆个个来头不小。 包括社会学家李银河、心理学家李松蔚、中科院计算研究所王元卓等，覆盖环境、心理、法理、心理、教育、大数据、无障碍等多个领域。 他们专挑刁钻、陷阱的问题来
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT时代程序员生存指南，这四步很关键｜IEEE Spectrum]]></title>
+        <id>https://news.cnblogs.com/n/745931/</id>
+        <link href="https://news.cnblogs.com/n/745931/"/>
+        <updated>2023-07-16T08:02:00.000Z</updated>
+        <summary type="html"><![CDATA[尚恩发自凹非寺 量子位公众号 QbitAI 未来五年内将不会有人类程序员。这是最近 AI 圈新晋嘴炮哥，Stability AI 首席执行官伊玛德·莫斯塔克又一惊人言论。此话一出，立刻引得一众科技圈大佬吐槽，直指大错特错。 ChatGPT 的出现催生出一批代码生成工具，AI 取代人类话题已久，但对“
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeCun「超酷」新成果：用自监督姿势打开偏微分方程]]></title>
+        <id>https://news.cnblogs.com/n/745930/</id>
+        <link href="https://news.cnblogs.com/n/745930/"/>
+        <updated>2023-07-16T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 偏微分方程（PDE，Partial Differential Equation），这个在流体动力学、天体物理学等领域的常客，现在有了新求解“姿势”。 深度学习三巨头之一的 Yann LeCun，在他自称“很酷”的最新研究中提出—— 自监督学习方法用在偏微分
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小猿学练机，能救猿辅导于水火吗]]></title>
         <id>https://news.cnblogs.com/n/745909/</id>
@@ -11330,328 +11600,6 @@ GMK Earth Tones 地球音
 This photograph reminds me of the division of human vs. nature, the life of t…]]></summary>
         <author>
             <name>车不能快</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[harbian-audit v0.7 发布，支持 Debian 12]]></title>
-        <id>https://www.solidot.org/story?sid=75273</id>
-        <link href="https://www.solidot.org/story?sid=75273"/>
-        <updated>2023-06-17T11:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Shawn the R0ck 写道：HardenedLinux社区在2018年12月公开了harbian-audit项目后，一直持续的进行着bug修复和新功能的开发。此次harbian-audit v0.7版本正式发布，这个版本在原有支持Debian GNU/Linux 9,10,10及CentOS 8版本的基础上修复了一些bug及添加了一些新特性，并主要针对Debian 12的发布进行了合规的实现。此项目是目前为止唯一一个整合了STIG和CIS两个安全部署合规指南，并且覆盖Debian和RHEL/CentOS两大企业部署量最大GNU/Linux发行版的自由软件的公开实现。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[众包工人用 AI 做数据标注等零工]]></title>
-        <id>https://www.solidot.org/story?sid=75272</id>
-        <link href="https://www.solidot.org/story?sid=75272"/>
-        <updated>2023-06-17T11:28:06.000Z</updated>
-        <summary type="html"><![CDATA[高质量的数据标注对 AI 模型至关重要，AI 公司通常会利用亚马逊的 Amazon Mechanical Turk 等第三方平台雇佣廉价众包工人做一些数据标注等工作。AI 模型是建立在人类劳动的基础之上的，但研究显示随着 AI 聊天机器人如 OpenAI ChatGPT 的流行，众包工人开始利用 AI 做零工。根据发表在 arXiv 预印本平台上的论文，瑞士洛桑联邦理工学院 (EPFL) 的研究人员招募了 44 名 Mechanical Turk 众包工人总结 16 篇医学研究论文的摘要，他们估计有 33-46% 的文本是用大模型生成的。众包工人的薪水很低，用 AI 生成文本可以更快完成工作，增加工作量提高工资。研究团队训练了一个分类器预测提交的文本是人工生成还是 AI 生成。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit CEO 向马斯克学习]]></title>
-        <id>https://www.solidot.org/story?sid=75271</id>
-        <link href="https://www.solidot.org/story?sid=75271"/>
-        <updated>2023-06-17T08:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Reddit CEO Steve Huffman 接受 NBC News 采访时称赞了马斯克（Elon Musk）在收购 Twitter 后大幅削减成本和裁员的做法，他与马斯克就运营互联网平台这一主题交谈了多次。他视马斯克处理 Twitter 的方法为 Reddit 的榜样。他说，长话短说，我从 Twitter 以及马斯克之于 Twitter 中得到的启示，以我们之规模在我们的领域可以构建良好的业务。他说机会很多。马斯克在收购 Twitter 之后裁掉了三分之二的员工，Huffman 表示他没有采纳马斯克的全部想法。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 生产环境 Mac 如何无痛体验 macOS 14 Beta 1]]></title>
-        <id>https://sspai.com/post/80306</id>
-        <link href="https://sspai.com/post/80306"/>
-        <updated>2023-06-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 首页推荐 
-Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-
-今年的 WWDC 上 Apple 依旧保持往年的发布节奏，公布了今年的 macOS 新版本：macOS Sonoma，不过和以往有些不太一样的是，这一次 Apple 将测试版系统直接下发给了普通开发者账户，对于一般用户简单注册就可以直接获得 macOS Sonoma Beta 的更新通道下载。
-
-不过对于一般用户而言，测试版系统只是一种尝鲜，如果盲目的直接在生产环境下直接升级到测试版系统，势必会遇到未知的错误导致无法正常使用设备，再想办法降级系统，浪费大量的时间不说，如果没有备份数据还有可能造成重要数据丢失，显然是一件得不偿失的事情。那么有没有既不会对当下生产环境的系统有影响，同时可以快速尝鲜新系统的办法呢？
-以下操作已经在 M1 架构 Macbook Air（2020 年中）下测试通过。
-将 macOS Sonoma Beta 安装在外置驱动器上
-其实很长时间以来，macOS 就支持安装在外置驱动器上，自然这一次的测试版这样的操作同样适用，不过或许是测试版 macOS 的限制，这一次对于外置接口有所要求，对于拥有 USB -A 接口的 Mac，可以连接传统的 USB -A 的移动硬盘并将系统安装在上面，唯一的缺点就是速度会比较慢。
-重点是像笔者我这样的只有两个 USB -C 接口的 Macbook Air，这里需要着重强调——只能也只能选择支持雷电3 或 USB 4 协议的移动硬盘，如果你的移动硬盘只支持 USB 3.1 协议，虽然 macOS Sonoma Beta 可以正常安装到移动硬盘上，但是重启后会出现报错无法从移动硬…]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鹅厂机器狗抢起真狗「饭碗」！会撒欢儿做游戏，遛人也贼6]]></title>
-        <id>https://news.cnblogs.com/n/744113/</id>
-        <link href="https://news.cnblogs.com/n/744113/"/>
-        <updated>2023-06-17T07:43:41.000Z</updated>
-        <summary type="html"><![CDATA[明敏发自凹非寺 量子位公众号 QbitAI 让机器狗学完真狗子的运动数据，真有二哈那感觉了！ 它轻松跨个栏，后面“主人”差点没跟上： 钻个“狗洞”倒是轻车熟路： 还能两只狗一起撒欢儿，它追、它逃…… 这就是鹅厂机器狗的最新进展。 利用预训练模型喂给机器狗真狗子的运动数据、并通过强化学习，机器狗 Ma
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鹏汽车法务部开通微博后首次重拳出击：已掌握数位造谣人身份]]></title>
-        <id>https://news.cnblogs.com/n/744118/</id>
-        <link href="https://news.cnblogs.com/n/744118/"/>
-        <updated>2023-06-17T07:03:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 6 月 16 日消息，今年以来，有多家新能源厂商成立了法务部官方账号，致力于打击造谣、抹黑等行为，小鹏汽车也不例外。今天下午，小鹏汽车法务部自官方账号上线以来首次重拳出击。 小鹏汽车法务部发文称，汽车行业的网络水军乱象存在已久，随着汽车市场竞争的日益激烈，瞄准车企有组织的谣言攻击也愈加严
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1000亿参数全模态大模型发布，能看懂视频、绘画作曲、分析信号]]></title>
-        <id>https://news.cnblogs.com/n/744117/</id>
-        <link href="https://news.cnblogs.com/n/744117/"/>
-        <updated>2023-06-17T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[作者 ZeR0 编辑漠影 智东西 6 月 16 日报道，在今日举行的人工智能框架生态峰会 2023 上，中国科学院自动化研究所所长徐波正式发布紫东太初 2.0 全模态大模型。 相比以前的大模型，紫东太初 2.0 新增了视频、传感信号、3D 点云等模态，拥有了更强的认知、理解、创作能力。 它不仅有和 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[索尼表示后续第一方新游戏不会首发进入PS Plus]]></title>
-        <id>https://news.cnblogs.com/n/744116/</id>
-        <link href="https://news.cnblogs.com/n/744116/"/>
-        <updated>2023-06-17T06:46:00.000Z</updated>
-        <summary type="html"><![CDATA[距离索尼让大家补交会员升级差价过去一年了。 去年 5 月，面对微软 XGP 的强大攻势，索尼正式将自己的 PS Plus 会员服务改成了分级订阅制，为“升级”和“高级”两档会员添加了免费游戏库。 但与微软一向将第一方大作首发加入 XGP 不同，索尼更倾向在在自己的订阅库中添加旧游戏，只靠少数第三方游
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蔚来汽车推出天穹车尾帐：适配ES/EC车型，预售3999元起]]></title>
-        <id>https://news.cnblogs.com/n/744115/</id>
-        <link href="https://news.cnblogs.com/n/744115/"/>
-        <updated>2023-06-17T06:38:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 6 月 16 日消息，蔚来汽车推出天穹车尾帐，适配 ES / EC 车型全部车款，经典款售价 3999 元，黑胶款售价 4899 元，7 月 17 日发货，预订赠送户外露营灯。 IT 之家从官方商城获取到，天穹车尾帐融入大自然中光线折射所产生的奇观 HALO，具象化呈现天空的环状特征；自
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个618，“所有女生”不再只看李佳琦]]></title>
-        <id>https://news.cnblogs.com/n/744114/</id>
-        <link href="https://news.cnblogs.com/n/744114/"/>
-        <updated>2023-06-17T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[燃次元（ID:chaintruth）原创 作者丨谢中秀 编辑丨饶霞飞 这个 618，“所有女生们”不再把目光锁定在李佳琦直播间。 “之前大促我是很依赖李佳琦的，会提前看自己需要什么、李佳琦播什么，然后需要购买的东西，基本上都会从李佳琦直播间下单。但今年 618 我在李佳琦直播间下单的不太多了。”消费
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极兔冲刺港交所：三年翻四倍，国内不赚钱]]></title>
-        <id>https://news.cnblogs.com/n/744112/</id>
-        <link href="https://news.cnblogs.com/n/744112/"/>
-        <updated>2023-06-17T06:22:00.000Z</updated>
-        <summary type="html"><![CDATA[深燃（shenrancaijing）原创 作者邹帅 编辑黎明 6 月 16 日晚间，极兔速递环球有限公司（下称极兔）向港交所提交招股书，摩根士丹利、美银和中金公司担任联席保荐人。 一向对上市传闻不予置评的极兔，闷声把表递了，这和它素爱憋大招的风格完全一致。 “激进”“疯狂”“迅猛”的极兔，财务数据也
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真可怕啊，一个插件基本做了财务大部分工作]]></title>
-        <id>https://news.cnblogs.com/n/744111/</id>
-        <link href="https://news.cnblogs.com/n/744111/"/>
-        <updated>2023-06-17T06:15:29.000Z</updated>
-        <summary type="html"><![CDATA[AI 能有多可怕？ 尽管现在很多人认为，人工智能会取代白领工作的观点不过是夸张罢了。但如今，如果我们单纯从会计行业的角度来看，其实人工智能大有取代这一行业的趋势。 可能仅仅一个插件，就能让几乎所有金融学、会计学的学生失业，让苦读 CFA、CPA 的职场人失去奋斗的目标。 现在，有人发现，一个名为 C
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘AI界最大黑马奥特曼：八岁会编程16岁出柜 时刻准备应对世界末日]]></title>
-        <id>https://news.cnblogs.com/n/744109/</id>
-        <link href="https://news.cnblogs.com/n/744109/"/>
-        <updated>2023-06-17T04:48:48.000Z</updated>
-        <summary type="html"><![CDATA[腾讯科技讯，6 月 17 日消息，萨姆·奥特曼(Sam Altman)在硅谷的创业圈很有名，他曾是硅谷知名创业孵化器 Y-Combinator 的总裁，该机构多年来累计投资孵化了 3000 多家初创公司。奥特曼还与埃隆·马斯克(Elon Musk)共同创办了人工智能研究公司 OpenAI，该公司去年
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新RLHF拯救语言模型「胡说八道」！微调效果比ChatGPT更好]]></title>
-        <id>https://news.cnblogs.com/n/744110/</id>
-        <link href="https://news.cnblogs.com/n/744110/"/>
-        <updated>2023-06-17T04:33:56.000Z</updated>
-        <summary type="html"><![CDATA[西风发自凹非寺 量子位公众号 QbitAI RLHF（基于人类反馈的强化学习）的一大缺点，终于被解决了！ 没错，虽然 RLHF 是大语言模型“核心技巧”之一，然而这种方法也存在一个问题—— 它只会判断生成文本的整体效果，不会仔细判断细节是否存在事实性错误、信息不完整和相关度等问题。 换而言之，传统的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI视频「闪烁」难题攻破！轻松改变视频风格，北大校友一作]]></title>
-        <id>https://news.cnblogs.com/n/744108/</id>
-        <link href="https://news.cnblogs.com/n/744108/"/>
-        <updated>2023-06-17T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[萧箫发自凹非寺 量子位公众号 QbitAI AI 拍视频，竟然已经丝滑到这个程度了吗？ 输入一段视频，念上一段“咒语”，AI 瞬间就能秒懂，并当场给你把视频重画一遍： 不仅完美 hold 住各类风格，最关键的是，帧帧丝滑流畅。 就连建筑物这种细节较多的视频，也几乎看不出“AI 出品”的 bug： 目
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两个周鸿祎继续厮杀「百模大战」，红衣教主：弯道超车还得多模态]]></title>
-        <id>https://news.cnblogs.com/n/744107/</id>
-        <link href="https://news.cnblogs.com/n/744107/"/>
-        <updated>2023-06-17T01:47:07.000Z</updated>
-        <summary type="html"><![CDATA[衡宇发自凹非寺 量子位公众号 QbitAI 周鸿祎，给所有不想自己上班的家人们谋福利了！ 360 智脑大模型应用发布会现场，他让自己的数字分身周鸿祎扛大旗，“今天我们不设媒体专访了，有什么问题问他”。 虽然谨慎起见，事先声明过“说对了算我的，说错了算他的”，但数字人周鸿祎的表现……好像还不错？ 面对
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美版贴吧8000小组自爆停摆！拒绝数据被谷歌OpenAI白嫖，CEO被网友骂翻：背刺第三方应用]]></title>
-        <id>https://news.cnblogs.com/n/744106/</id>
-        <link href="https://news.cnblogs.com/n/744106/"/>
-        <updated>2023-06-17T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：编辑部 ChatGPT 等近 8000 个社区炸了，网友掀起反对 Reddit 刺杀第三方应用热潮！CEO 表示：很遗憾，但必须收费。 一觉醒来，「美国贴吧」Reddit 8000 多个子区中的七千多个，已经消失了。 几个月前，Reddit 忽然开始对 API 访问收费，而且价格高
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最赚钱编程语言Zig登顶，开发者爱ChatGPT远超必应｜报告]]></title>
-        <id>https://news.cnblogs.com/n/744104/</id>
-        <link href="https://news.cnblogs.com/n/744104/"/>
-        <updated>2023-06-17T00:28:00.000Z</updated>
-        <summary type="html"><![CDATA[丰色发自凹非寺 量子位公众号 QbitAI 一年一度的 Stack Overflow 开发者大调查又双叒叕来了！ 今年，一共约 9 万人参与问卷，最大的变化是加入了 ChatGPT 相关的内容—— 程序员是否比大家想象地更能接受 AI 工具呢？ 结果显示： 83%的受访者都表示用过 ChatGPT 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[笑不活了！AI对表情包下手，张学友周星驰都被玩坏了]]></title>
-        <id>https://news.cnblogs.com/n/744103/</id>
-        <link href="https://news.cnblogs.com/n/744103/"/>
-        <updated>2023-06-17T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 家人们，一众港星的表情包，简直要被 AI 给玩坏了。 例如非常经典的这张： 它在最近大火的 PhotoshopGenerative Fill的魔法之下，“打开方式”竟然是这样的： 哦，原来被张学友骂街的，是一只偷吃“盘中餐”的小猫咪…… （导演王家卫看了可
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI教父Bengio：我感到迷失，对AI担忧已成「精神内耗」！]]></title>
-        <id>https://news.cnblogs.com/n/744100/</id>
-        <link href="https://news.cnblogs.com/n/744100/"/>
-        <updated>2023-06-17T00:12:27.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：拉燕 图灵三巨头之一 Bengio 在接受 BBC 的访谈时，表达了自己对 AI 发展前景的极大忧虑。 最近，图灵三巨头之一的 Yoshua Bengio 接受了 BBC 的采访。 Bengio 在访谈中透出了一股浓浓的「忧郁风」，表示他对自己一生所追求的事业感到某种程度上的迷失。
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hinton：我对「青蛙」创造出「人」这件事的后果很紧张｜全文整理]]></title>
-        <id>https://news.cnblogs.com/n/744099/</id>
-        <link href="https://news.cnblogs.com/n/744099/"/>
-        <updated>2023-06-16T23:50:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 来源：智源社区 假如青蛙创造了人，那现在是青蛙控制人类，还是人类控制青蛙？我不知道如何防止这种情况发生。我老了，希望像你们这样年轻而才华横溢的研究人员弄清楚如何拥有这些超级智能，并使我们的生活在不受超级智能控制的情况下变得更好。 2023 年 6 月 10 日，2023 智源大会最后一天
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大模型创新中心落户上海！助推AI框架生态共建进入加速道]]></title>
-        <id>https://news.cnblogs.com/n/744101/</id>
-        <link href="https://news.cnblogs.com/n/744101/"/>
-        <updated>2023-06-16T23:40:00.000Z</updated>
-        <summary type="html"><![CDATA[明敏发自凹非寺 量子位公众号 QbitAI 大模型时代一来，AI 框架扮演的角色愈加重要。 行业深谙此理，于是人工智能框架生态峰会 2023 为此召开。 参会的成员都是产学研界耳熟能详的名字：上海人工智能研究院、中国科学院自动化研究所、上海白玉兰开源开放研究院、OpenI 启智社区、华为、昇思 Mi
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中科院自动化所全模态大模型亮相，图文音视频3D传感器信号全能]]></title>
-        <id>https://news.cnblogs.com/n/744102/</id>
-        <link href="https://news.cnblogs.com/n/744102/"/>
-        <updated>2023-06-16T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[梦晨发自凹非寺 量子位公众号 QbitAI 大模型搞多模态，做文字、图像、音视频这几样就够了？ 中科院自动化所说不：我们还加入了 3D 点云和更多传感器信号。 国产大模型新成员，千亿参数全模态大模型「紫东太初 2.0」正式亮相。 不光能认知和理解多模态数据，还能在多轮对话中进一步与用户交互。 AI 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国军方机密文件泄密者收到六项指控]]></title>
-        <id>https://www.solidot.org/story?sid=75270</id>
-        <link href="https://www.solidot.org/story?sid=75270"/>
-        <updated>2023-06-16T15:35:12.000Z</updated>
-        <summary type="html"><![CDATA[21 岁的美国空中国民警卫队队员 Jack Teixeira 因在 Discord 上泄露军事机密而于 4 月 13 日被捕。他从去年 10 月起在有大约 50 名成员的 Discord 私密群组 Thug Shaker Central 上传了机密信息。他目前面临 6 项故意保留和传输与国防相关的机密信息的罪名，其中每项罪名最高可判处 10 年监禁，以及最高 25 万美元的罚款。美国检方称，“获准接触机密材料的个人将承担保护美国、现役军人、美国公民及其盟友的信息安全的基本义务。”美国司法部的文件称，他在去年  9月和 10 月曾因处理机密信息时采取的“相关行动”而受到过两次训斥。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber 将在其应用中展示视频广告]]></title>
-        <id>https://www.solidot.org/story?sid=75269</id>
-        <link href="https://www.solidot.org/story?sid=75269"/>
-        <updated>2023-06-16T15:16:54.000Z</updated>
-        <summary type="html"><![CDATA[优步(Uber)用户很快将首次在该公司的网约车应用、食品配送服务优食(Uber Eats)以及酒类销售平台 Drizly 上看到长视频广告。用户等待网约车司机到达时以及乘车期间，视频广告将在主应用优步(Uber)上播放。视频广告还将出现在某些优步网约车内安装的平板电脑上。视频广告将长 90 秒。该公司计划到 2024 年其广告业务收入达到逾 10 亿美元。Uber Technologies 广告业务副总裁兼总经理 Mark Grether 表示：我们有你两分钟的注意力。我们知道你在哪里，我们知道你去哪里，我们知道你吃什么。Uber 可利用这些数据展示定制的视频广告。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅赛德斯在其车载信息娱乐系统加入 ChatGPT]]></title>
-        <id>https://www.solidot.org/story?sid=75268</id>
-        <link href="https://www.solidot.org/story?sid=75268"/>
-        <updated>2023-06-16T14:31:31.000Z</updated>
-        <summary type="html"><![CDATA[梅赛德斯宣布其车载信息娱乐系统 MBUX 加入了 OpenAI 的聊天机器人 ChatGPT。从 6 月 16 日开始，使用 MBUX 的美国车主可以选择加入一个 beta 程序，激活 ChatGPT 功能。车主可以简单的通过语音呼叫加入，“Hey Mercedes, I want to join the beta program.”梅赛德斯称，车主可与语音助手对话，比如询问目的地的详细信息、新的晚餐食谱，或者询问一个复杂问题获得全面的答案，整个过程手会停留在方向盘上，而眼睛会注视着前方。梅赛德斯会在云端保留车主的对话，它表示会匿名化处理和进行分析，帮助开发者改进功能。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无需人力标注！悉尼大学华人团队提出「GPT自监督标注」范式，完美解决标注成本、偏见、评估问题]]></title>
-        <id>https://news.cnblogs.com/n/744098/</id>
-        <link href="https://news.cnblogs.com/n/744098/"/>
-        <updated>2023-06-16T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：好困 最近，来自悉尼大学的研究人员提出了一种 GPT 自监督注释方法，能够将数据注释为简洁摘要，并在各种注释任务中展现出卓越的性能。 一直以来，数据标注都在深度学习流程中扮演了基础且重要的角色。 优质的数据标注直接影响到模型的学习效果，而这无疑是实现高效深度学习的最原始且关键的一步
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「模仿学习」只会套话？微软解释微调+130亿参数Orca：推理能力打平ChatGPT]]></title>
-        <id>https://news.cnblogs.com/n/744097/</id>
-        <link href="https://news.cnblogs.com/n/744097/"/>
-        <updated>2023-06-16T14:11:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：LRS 用 GPT-4 辅助训练小模型，想会推理还得用「解释微调」。 自 ChatGPT API 开放后，大量的研究都选择利用 ChatGPT 和 GPT-4 等大型基础模型（LFM）的输出作为训练数据，然后通过模仿学习来提升小模型的能力。 但由于模仿信号流于表面、训练数据量不够大
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔宣布四代至强处理器评测结果，AI关键负载更具优势]]></title>
-        <id>https://news.cnblogs.com/n/744096/</id>
-        <link href="https://news.cnblogs.com/n/744096/"/>
-        <updated>2023-06-16T14:07:04.000Z</updated>
-        <summary type="html"><![CDATA[新浪科技讯，6 月 16 日下午消息，近日，在经过数周与最具可比性的竞对处理器严格、全面的比较测试后，英特尔宣布公司在 AI 等关键工作负载上相较于竞争对手拥有更优的性能，以及更低的总体拥有成本（TCO）。 此外，在测试特定行业科学计算工作负载时，英特尔将采用了英特尔 AVX-512 的 56 核英
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
         </author>
     </entry>
 </feed>
