@@ -49,6 +49,116 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/80956",
+          "author": "南山居氪",
+          "description": "新书十分推荐\n7 月 2 日我参加了王树义教授的新书发布会。在之前，我没有读过王老师的很多文章，但 chatgpt、lex page 和 heptabase 的体验文章让我知道了他在计算机领域有自己的理解和建树。后来也知道了他是一位大学教授，我也开始尝试在 B 站上面看一些视频，但就像疫情时候那样，视频（课程）很难做的有趣，听上去有些「枯燥」。\n不过，这也令我了解到王教授可能是一位满腹经纶且颇为有趣的家伙（如果是我的朋友，我一定会这样叫）。事实也确实如此。从不到一节课的时间，王老师时不时的俏皮话，以及恰当小玩笑，尤其是和老麦开的关于少数派玩笑的那几句，逗得大伙哈哈大笑；而且，都没有偏离讲演主题。如果我是他的学生，我可能天天回去他的 office hour 深入交流。\n说回书籍。在讲演内容中，我们更多关注的是 ChatGPT 智慧共生这本书。首先我要声明的是，这两本书或者可能是少数派的两个栏目，我都没有在少数派买过。我在回家的地铁上看完了这本书。我发现这本书并没有讲演 ppt 上面的那几个应用比如 audiopen、tinystudio、rack.ai、quiver 等等，可能是王老师在少数派和其他地方写过的文集介绍过吧。\n小问题\n有些内容也具有一定的时效性，比如 Lex page 现在已经支持了 GPT-4 的使用，也增加了Prompt 框（输入中文后，会产生相应的英文内容），相比以前在内容创作上有了大幅的提升，不仅可以写长文，中文也有了相当不错的流畅性。lex page 成为了一个高度可用的工具。没有 ChatGPT 的我，可以用它来写作。Heptabase 增加的 AI 助手让我们能更方便地模糊搜索。\nLex.pageHeptabase Assistant\n其实，在后面的问答环节或者是圆桌环节中，一位朋友在现场也提出了时效性的问题。我脱口而出（并不是大喊）嘀咕着：“关注…",
+          "link": "https://sspai.com/post/80956",
+          "publishedOn": "2023-07-17T06:08:28.000Z",
+          "wordCount": 956,
+          "title": "与科技平衡和共生｜王树义教授的新书发布会的思考",
+          "imageUrl": "https://cdn.sspai.com/2023/07/17/117d3ea2939c3112733e523249205d8c.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/81142",
+          "author": "Felix",
+          "description": "很高兴，又顺利地做了一款新的 App「Emoji世界」。\n\n「Emoji世界」是一款记录关键事件的App。\n提供番茄钟、正计时和倒计时3种计时方式来记录不同事件。\n而且，通过添加目标管理的功能，进一步拓宽「Emoji世界」的使用场景。\n通过可爱、治愈、动画化的 Fluent Emojis 降低你的压力，提升专注力，珍惜时间。\n\n我一共做了4款应用，除了 MoneyThings，这是第2款感觉拿的出手的 App 😁。\n所以想分享给大家～ 文末有福利🤩～\n这篇文章除了介绍「Emoji世界」的方方面面，还会穿插一些开发过程中的题外话在其中哦。\n\n本质功能：记录关键事件\n不同的人对关键事件有不同的理解，对于我来说，遛狗🐶、发呆、游泳🏊‍♂️、身体检查就是关键事件。对学生来说，学习、阅读可能更为关键。\n当我进行遛狗、发呆等事件，我其实并不需要”专注“，那是我的放松时刻。所以，我没有像其他的专注类App那样，将最小粒度的数据命名为”专注数据“，而是”事件“。\n「Emoji世界」中，每一个事件都通过1个标签来概括，来分类。除了界面显示的这些标签，你还可以自行定义。\n\n题外话：上架前2天，我也是将最小粒度的数据命名为 “专注数据”，当我将做好的「Emoji世界」拿给了一个未用过任何此类App的朋友试用时，她问：“为什么在发呆、遛狗时需要专注？专注在这里到底是什么意思？”，我答不上来，然后思考了一下，将 “专注” 改为 “事件”，整个上下文就通顺了。\n\n如何记录关键事件\n方式1：即时记录\n当关键事件发生时，打开新事件页面，选择对应标签，即可马上开始。\n\n \n如果某些事件经常发生，将其保存至 One Touch，下一次事件发生时，只需点击一次，即可开始。\n\n方式2：补记\n如果你忘记即时记录，或者需要补记以前的事件，点击底部事件TAB，即可添加历史记录。\n\n记录事件的方式\n「Emoji世…",
+          "link": "https://sspai.com/post/81142",
+          "publishedOn": "2023-07-17T03:09:40.000Z",
+          "wordCount": 687,
+          "title": "「Emoji世界」- 专注番茄钟 & 达成目标",
+          "imageUrl": "https://cdn.sspai.com/2023/07/14/da79c8e1064f67128616f9cb4eca7704.png"
+        },
+        {
+          "id": "https://sspai.com/post/81089",
+          "author": "bakamio",
+          "description": "前阵子我在圆桌合写 《你的第一台 Apple 设备是什么？》 中提到我使用了 OpenCore Legacy Patcher（以下简称 OCLP）为 MacBook Pro Mid 2014 安装 macOS Ventura，让旧设备也能继续使用最新的系统。然而调教过程中发现，所有的应用都无法请求一些常见的系统权限，如照片、摄像头、麦克风等。应用不请求权限，也就无从选择允许还是拒绝。而像照片这类权限，在系统设置里面也没办法直接为某一应用授权，很难办。\n经过一番搜索，目前已找到解决办法。本文将分享这一探索的过程。\nTL;DR\n如果你使用 OCLP 安装 macOS 13.3+，遇到应用无法请求系统权限的问题：\n\n下载 tccplus 并解压至合适的目录，如用户的 Home 目录；\n打开 Terminal，进入相应目录；\n输入命令，形如 ./tccplus [add/reset] SERVICE [BUNDLE_ID]。例如需要为 微信 添加 麦克风 权限，则输入：\n\n./tccplus add Microphone com.tencent.xinWeChat\nVoilà! 这样就可以了！\n理论上，我们只要准备好应用的 Bundle Identifier（捆绑标识符），就可以为它添加各种隐私权限。Bundle Identifier 的获取方式见后文。\n系统隐私设置，没用\n应用不请求权限，首先想到是不是能去系统设置那边手动为它加上。然而 macOS 的隐私设置很奇怪，你可以看到在「系统设置 - 隐私与安全」中，隐私权限管理有两种情况：\n\n有些项目会在已授权应用列表下方提供「+/-」按钮，供用户自行添加或删除授权应用（如辅助功能、屏幕录制等）；\n有些项目只会展示曾经请求过该权限的应用，但不提供「+/-」按钮，就导致假如应用自己不请求权限，我们在系统设置里也没办法为它添加授权（如照片…",
+          "link": "https://sspai.com/post/81089",
+          "publishedOn": "2023-07-17T01:44:35.000Z",
+          "wordCount": 957,
+          "title": "一日一技｜用 tccplus 解决 OCLP macOS 无法请求系统权限的问题",
+          "imageUrl": "https://cdn.sspai.com/2023/07/13/c29619ffd8590f567003282e3fd2fb4c.png"
+        },
+        {
+          "id": "https://sspai.com/post/81122",
+          "author": "Eacls",
+          "description": "不同领域和场景下的关于轻量化的思考和实践\n\n你是否也有这样的感受：生活走着走着就变得十分疲惫，身心俱乏而又停不下来的去自我消耗；产品或项目做着做着就变得十分繁杂，眼前如同一团乱麻却又无法自拔。\n或许你该试着让这一切变得更轻量化了……\n\n情绪管理的轻量化\n我曾经患上过焦虑症，这种精神疾病使我痛苦万分。其症状在我身上表现为 头痛发懵，身体如麻，心慌气短，反复内耗，一度感觉被扼住了脖子无法呼吸。后来我学到了一个词汇很好的去描述这种感觉：「濒死感」。很庆幸我战胜了这场疾病，它也使我变得更加随心。用一幅抽象的图像表示我在疾病前后的情绪和心理状态的话大概就是\n\n图片的确挺抽象的。不过也能看出来我整个人进行了由「繁重复杂」到 「轻」 的转变。\n如果让我概括我是如何战胜这场疾病的话那便是「扔掉一切」。更详细的讲就是将自己进行一个意识分层，尽可能使自己以宏观视角去看待当下发生的事情。\n固然出现了这么个「假、大、空」的概念，或许使你无法直接理解它，不过你可以先试着想想自己的过去，一些更遥远的过去，你会发现很多事情都变成了一个「点」出现在你的回忆中。你想不起具体发生了什么，哪些事情会让你感到不安和惶恐，你只会模糊的记起一些似是而非的记忆。即便曾经存在过多么让你感到多么矛盾的事情，现在在你的回忆中也会得到「自洽」。此时我想你可以站在更为宏观的山顶去看眼前了。\n当你站在山顶时，你会发现这么些令你感觉痛苦的杂事都拥有的一个公共部分便是你自己陷进去了的“肉身”，它会使你在这片泥潭之中越陷越深，不断挣扎，却又无可奈何。你所萌发的一切使你痛苦的想法其实都是因为你此刻陷进去了。甚至如果你陷的更深的话，这条似乎可以救赎你的想法也会裹挟着使你痛苦的源而出现在你的脑海中。\n接着你可以去进行自我对话，以一个跳出负循环思维的灵魂的视角再去审视这些事情，也就会发现，啥也不是！确实！啥也不是，所以请你就不再复盘，向前去看。…",
+          "link": "https://sspai.com/post/81122",
+          "publishedOn": "2023-07-17T01:44:09.000Z",
+          "wordCount": 607,
+          "title": "在生活和产品之中一种重要的隐藏属性 ——「轻量化」",
+          "imageUrl": "https://cdn.sspai.com/2023/07/13/e2a1f7b4a53ff98021cc05d2134bf082.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81210",
+          "author": "上课不倒下的小杰瑞",
+          "description": "在2023年讨论电纸书的感觉多少有点奇怪：在移动设备参数直逼甚至超过电脑的时代，大多数电纸书的参数可怜到没法看；在科技公司鼓吹“移动办公”，努力把移动设备打造成“左手工作，右手生活”的多面手（有没有完全成功先不论） 的当下，电纸书却只是老老实实地承担着“通电的纸书”的单一角色。\n但当我在年初把老骥伏枥8年之久的Kindle Paperwhite 3替换成Kobo Libra 2并使用了半年（没有一次拿来盖泡面） 后，我发现看似“老古董”的设备其实有它挺直了腰杆存在的理由。同时，Kindle到Kobo的转变又勾起了一些古早的回忆……\nKindle：矜矜业业、循规蹈矩的老马\n从电子设备的角度来看，服役8年的Kindle说是“又不是不能用”都有点对不起它现在的状态。诚然，岁月在它的续航上留下了难以磨灭的痕迹；运行的速度，高情商的说法是“模拟看纸书的体验”，低情商的说法就是“慢”。但用Kindle能舒舒服服地看书吗？90%的情况下，能。\n找书\n往Kindle上放书基本上有两条路：官方的和私人的。\n很可惜，中国的亚马逊已经关了，但其他地区的亚马逊账户还是能从相对应的亚马逊商城买书。从用户体验的角度来说，官方商城主要就突出一个便捷：只需要有网络，找书➡️购买➡️看书的流程一气呵成，同时也无需担心排版等问题。Kindle商城中其实有不少免费的书，同时Kindle版的书价格肯定是比实体书要低一些的。最主要的缺点还是“能不能找到”的问题，尤其是一些冷门书籍。但很可惜，对于大多数国内的用户来说，这条路在本段的第一句话就被官方封死了。\n第二条私人的“找资源”的路子，细分又有两条小岔路。大多数的电子书资源都是epub格式，但由于Kindle支持的是azw3，mobi，txt等格式，就需要用到例如Calibre等软件先把epub转成azw3之后再放到Kindle上。大多数时候这种转换都没什么问题，但…",
+          "link": "https://sspai.com/post/81210",
+          "publishedOn": "2023-07-16T21:12:41.000Z",
+          "wordCount": 604,
+          "title": "K vs K：一些电纸书的体验",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/81204",
+          "author": "francisfeng",
+          "description": "这是一系列正在进行的文章，记录我实现一个Mac App的过程，从最初的想法，到产品设计、编写代码，最后到产品上线。\n本系列文章预计共有三篇，本文为第三篇，即最后一篇。\n\n上一篇《一个Mac App是如何诞生的：设计与实现》里，这个应用的功能已完备，但离上线还差一些东西，包括：\n\n应用图标\n应用网站\n上线测试\n\n这些问题的解决方案可简单可复杂，但作为只有一个人的团队，解决方案肯定会趋向简单。\n应用图标\n使用设计软件糊一个图标可能会很快，但如果你对你的设计能力没有信心，那最好还是别在图标上糊弄。从我的经验上来看，图标对转化率的影响颇大，包括下载转化率和付费转化率。图标的底线是不能丑。\n自己做不来的事，就找别人做。\n国外有一批应用图标设计师，可谓包揽了大部分小众应用的图标设计，包括 Matthew Skiles、Gavin Nelson、Michael Flarup、Parakeet 等。有一些耳熟能详的应用的图标正是出自他们之手。我和上面一些设计师接触并合作过，收费标准不一，有些按小时计费，有些按件计费，但 500 美元是底线，2000 美元不罕见。\n我也在 Upwork 上找过设计师，虽然价格要实惠很多，但那次合作的体验非常糟糕：那个设计师每次细小变动都要找你确认，最终导致我需要在线上同步配合他，相当于我也在工作了。最终出来的作品你也无法挑剔：每一个改动你都同意了的！我不知道这种体验在 Upwork 上是否常见，但我从此以后就放弃在上面寻找设计方案，因为我觉得我在上面找的是体力劳动者，而不是创意工作者。\n对于我这种自己做不来，又舍不得花钱，还懒的人而言，能有其他选择吗？\n其实很多人也应该知道答案了：应用图标我是用 Midjourney 画的，简单至极。\n我试用过 Stable Diffusion，所以大致了解此类的 AI 画图工具的用法。付费订阅了十美元的基础计划后，我就直接…",
+          "link": "https://sspai.com/post/81204",
+          "publishedOn": "2023-07-16T14:40:30.000Z",
+          "wordCount": 752,
+          "title": "一个Mac App是如何诞生的：上线的前夕",
+          "imageUrl": "https://cdn.sspai.com/2023/07/16/7edd37bb66b5ce767d038ef49b392a48.png"
+        },
+        {
+          "id": "https://sspai.com/post/81195",
+          "author": "林宜丙",
+          "description": "背景\n最近将这个我的 Obsidian 实践（一种实用新型 Obsidian 实践之构建我的第二大脑 🧠 - 少数派）分享后，帮助到了几个人\n\n一个不认识的同事用上后，表示『像开启了新大陆』，并给我发了个红包，说请我喝咖啡\n一个不认识的网友用上后，表示『满足了她对个人知识管理的全部需求』，甚至还为此写了一篇上手文档\n\n当然，除了陌生人以外，我也推荐给不少熟悉的同事和朋友，收到了不少反馈，比如上手成本高、更新难以跟进、关系图谱中无法区分项目（所有都是 README.md）等。\n目标\n因此考虑到上述问题，我决定实现一个插件，主要有如下几个目标\n\n降低上手成本，特别针对非程序员群体\n更新及时触达，无论是新功能还是问题修复\n增加受众，以获得反馈，共建并完善流程\n\n文末我还介绍了一种渐进的使用这个插件的方式！\n\n旧的方式\n在未使用插件的示例模版里，存在如下几类的『程序代码』\n\n脚本类\n日期解析 date\n根据周期笔记的文件名，解析出日期\n根据解析出的日期，获取日期范围\n根据解析出的日期，获取文件列表\n\n任务查询 task\n根据日期范围，获取任务列表\n\n项目查询 project\n获取当前项目列表的快照\n根据日期范围内，获取项目列表\n计算日期范围内，项目的耗时及其占比\n\n领域查询 area\n获取当前领域列表的快照\n根据日期范围内，获取领域列表\n\n\n视图类\n任务完成视图 taskDoneList\n放到周期笔记中，可获取当前日期范围内完成的任务列表\n\n任务记录视图 taskRecordList\n放到周期笔记中，可获取当前日期范围内收集的任务列表\n\n项目列表视图 projectList\n放到周期笔记中，可获取当前日期范围内项目耗时的占比\n\n领域列表视图 areaList\n放到周期笔记中，可获取当前日期范围内领域列表\n\n\n\n直接将代码跟随示例模版输出给用户，这大大增加了用户的上手成本，且用户无…",
+          "link": "https://sspai.com/post/81195",
+          "publishedOn": "2023-07-16T07:35:38.000Z",
+          "wordCount": 742,
+          "title": "我给我的 Obsidian 实践写了一个插件",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/81183",
+          "author": "遇事不决点宵夜",
+          "description": "入坑家电圈几个月，经过密集的培训之后，也算半个脚跨进家电圈了。\n要说体会，那就和听完老师傅传授武林秘籍之后的感受一样，这特么水也太深了！\n好了，话不扯远，就直接聊聊普通人买家电，应该怎么选吧。\n以下是因家人需要，购买全屋家电的情况下，请教了身边的 20 年家电老兵，得出的一些干货。希望对大家有所帮助。\n一切以预算为主\n第一步，列清单，确定我需要什么？下面是常规家电的购置清单，可适度添加个性化的家电产品，这里以家用大家电为主，像电饭煲、微波炉等小电器，可随时购置，就按下不表。\n\n\n房间必买可买，提升生活品质建议组合\n\n厨房\n烟灶套装\n冰箱\n热水器\n\n洗碗机\n微蒸烤一体机\n厨下净水器\n消毒柜（洗碗机可替代）\n\n烟灶\n燃气热水器\n冰箱\n洗碗机\n微蒸烤一体机\n厨下净水器\n\n阳台洗衣机电动晾衣架\n洗烘套装\n电动晾衣架\n\n客厅及卧室\n电视\n空调 3匹柜机\n空调 1.5匹挂机\n空气净化器\n电视\n空调 3匹柜机\n空调 1.5匹挂机\n空气净化器\n\n\n\n按照必买的清单列出来，再根据自己房子平面规划图，按部就班的列出对应的型号，价格。\n必买的那些家电\n先说厨房，首选逃不掉就是：烟机燃气灶，在这块选择大牌一定是有必要的。\n原因有二，首先大牌有完善的售后，客服与售后是自己的，不论服务体验肯定是更好的。售后服务的差距大概就是京东自营和京东第三方店的差距。其二，烟机灶具出了问题，你不可能等几天不做饭等维修上门吧，因此产品故障率一定是很重要的，故障率少一定是更省心的。\n建议选购大牌，国产选择老板/方太足够，其余杂牌一概不考虑。可能会有人担心假货，但目前这2家对于假货的管控还是十分严格的，方太也是少有的真的存在品牌粉丝的一说的国产品牌。\n选冰箱，参数一类就不再赘述，全网都是。这里只提一点，就是颜色，如果你看到的一堆里面都是灰色，难得找到一个白色的同参数的，不用怀疑白色一定是最贵的那款。\n家电产品从立项到研发…",
+          "link": "https://sspai.com/post/81183",
+          "publishedOn": "2023-07-16T02:08:19.000Z",
+          "wordCount": 670,
+          "title": "家电应该怎么买？和内行人聊聊买家电",
+          "imageUrl": "https://cdn.sspai.com/2023/07/16/2a27e1b945b48344bf3ffc15aa93457d.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/81162",
+          "author": "Ethan29",
+          "description": "英国著名音箱品牌 Linn 联合 Jony Iver 推出了一款限量黑胶唱机。第一眼看到它的时候是真的想要，简约的方方圆圆、每个结构优秀的质感完全符合我 “简单精致” 的审美，就是这 43 万元的售价让我却步。虽然买不起，但这台精美的仪器勾起了我对音乐载体的兴趣。\n人类欣赏音乐的历史\n自动演奏钢琴\n在人类历史的很长一段时间中，欣赏音乐并不是一件容易的事情。 在 1870 年代（清朝光绪年间）之前，音乐是无法被工业化复制生产的，人们要欣赏音乐只能去演出现场。直到了 19 世纪末，自动演奏钢琴在欧洲起源。这种通过钢琴纸卷上的孔来引导钢琴自动演奏的技术，使钢琴乐曲可以被方便地复制生产出来。\n这是两张来自科幻电视剧《西部世界》片头的截图，所展示的就是打孔的纸卷引导琴键被按下，从而实现钢琴的自动演奏\n自动演奏钢琴在 1920 年代的欧洲广为流行，但是它只能用来欣赏钢琴乐曲。本质上来讲，钢琴纸卷记录的是乐谱（一种能够被钢琴识别的乐谱），并不是被演奏出来的音乐。\n圆筒留声机\n人类历史上对于声音的记录和回放起源于爱迪生在 1877 年发明的留声机，但是用于存储声音的圆筒生产成本高，不易于运输并且存储的信息量很少，音乐并没有通过这样的形式广泛传播开来。\n爱迪生圆筒留声机和圆筒唱片\n圆盘留声机\n圆筒留声机问世的 11 年后（1888 年），一种在扁平圆盘上录音的技术被德裔美国发明家爱米尔·贝利纳发明，相较于圆筒，圆盘唱片和圆盘留声机的生产成本低、易于存放，得益于体积的优势圆盘的存储效能也高于圆筒。所以圆盘唱片逐步取代了圆筒唱片。\n贝利纳圆盘留声机\n在接下来的几十年时间里，圆盘唱片经历了多次技术和材料的改良才逐步成为我们今天的黑胶唱片。在这期间主要有 3 种规格的唱片：\n\n以虫胶（由紫胶虫分泌的一种角质）为材质，每分钟转速 78 转的粗纹唱片。这种唱片有 10 英寸和 12 英寸两种规格，单面录…",
+          "link": "https://sspai.com/post/81162",
+          "publishedOn": "2023-07-14T10:29:30.000Z",
+          "wordCount": 708,
+          "title": "模拟时代的黑胶与磁带",
+          "imageUrl": "https://cdn.sspai.com/2023/07/14/39df0a82176dec431b84c5401c8c8d18.png"
+        },
+        {
+          "id": "https://sspai.com/post/81161",
+          "author": "MarvinCui",
+          "description": "TL；DR：\n泛文科内容（文学内容、单纯涉及到文字，不包含逻辑推理能力）：Bard ≈ GPT-4 > 文心一言\n泛理科内容（生物、化学相关问题，涉及到明确知识点的；涉及到逻辑推理的；涉及到数学物理计算内容的）：GPT-4 > 文心一言 ≈ Bard\n一、引言\n在之前我写了一篇关于文心一言的体验小记，有幸上到了首页，当时的文心一言确实有一些优点、也有很多值得改进的地方；而就在写稿的昨天，也就是7月13日，全球四大科技巨头之一的 Google，让自家的Google Bard 支持了中文对话。\nGoogle Bard使用了Google推出的名为PaLM 2的LLM模型，其支持多种语言，类似于OpenAI的GPT，不过目前还不支持联网，也没有插件可供使用。\n而截止到写稿的时间，Google已经为Google Bard做了中文界面的适配（这一点从某种意义上来说甚至领先于ChatGPT）。\n官方中文界面\n那既然 Google Bard 支持了中文，按照惯例，我们肯定是会测试他的中文能力。测试的内容和上一次测试文心一言的Prompt大同小异。不过在此之前，有必要来说一说Google这家公司对于AI的“痴迷”。\n说起来，Google其实一直都很关注AI这个领域，从 Google 相册中的各种「奇妙功能」，到 Tensor 芯片反复提到“AI”，再到Google对于LLM持续的研究，并且退出了Transformer 模型（ChatGPT的“祖宗”），都说明了这家公司内部对于AI的布局是十分全面的，那Bard作为一款Google正式向公众推出的LLM模型，自然也代表了Google对于目前LLM领域的较为前沿的探索结果。因此我从一开始就对 PaLM（现已升级为PaLM 2） 这款模型十分好奇，也一直在等待着中文适配，期待着第一时间来看一看Google到底能有什么水平，毕竟 “是骡子是马，拿出来…",
+          "link": "https://sspai.com/post/81161",
+          "publishedOn": "2023-07-14T10:09:20.000Z",
+          "wordCount": 871,
+          "title": "Bard AI体验小记：这一次，Google 输了",
+          "imageUrl": "https://cdn.sspai.com/2023/07/14/b9aaeffc69a5e7a26b2e687fbee1a337.png"
+        },
+        {
+          "id": "https://sspai.com/post/81144",
+          "author": "炜智能",
+          "description": "前言\n罗技鼠标的驱动中可以通过编写宏的方式实现任意字符串的输出，可是我在WPS中使用时会出现bug，整个字符串会变为第一个字符的重复，不清楚这是我电脑的个例还是普遍情况。为了解决这个问题，我就想到了WinCompose这个软件，当初写qmk键盘固件的时候第一次接触到该软件，按下组合键后输入一段序列就可以直接输出预先定义好的字符串。Lua脚本搭配上该软件可以实现一些比较好玩的功能。\nWinCompose\n首先给出该项目地址：\nhttps://github.com/samhocevar/wincompose\n\nA compose key for Windows, free and open-source, created by Sam Hocevar.\nA compose key allows to easily write special characters such as é ž à ō û ø ☺ ¤ ∅ « ♯ ⸘ Ⓚ ㊷ ♪ ♬ using short and often very intuitive key combinations. For instance, ö is obtained using o + \", and ♥ is obtained using < + 3.\nWinCompose also supports Emoji input for 😁 👻 👍 💩 🎁 🌹 🐊.\n\n功能实现\n-- WinCompose软件中设定的组合键\nlocal WINC_KEY = \"ralt\"\n-- 输入序列时按键的间隔，过小会出现软件反应不及时的情况\nlocal WINC_INTERVAL = 10\n\nfunction TypeUnicodeWords(words)\n    local word, i\n    -- 正则匹配unicode编码\n    …",
+          "link": "https://sspai.com/post/81144",
+          "publishedOn": "2023-07-14T06:38:57.000Z",
+          "wordCount": 878,
+          "title": "罗技鼠标lua脚本-搭配WinCompose输出unicode字符串",
+          "imageUrl": "https://cdn.sspai.com/2023/07/14/ae086fe149a6f778b4b4d6e8997cce19.png"
+        },
+        {
           "id": "https://sspai.com/post/81131",
           "author": "燎原助教鹿非",
           "description": "作为一个懒人，我从正式入职的第一天就开始琢磨：如何尽量高效地完成工作，留出更多时间愉快地吃喝玩乐？\n听过前辈们的不少建议，也完整阅读过好多本讲个人时间精力管理的书籍，现在回头看，如果融合以上所有知识，带着目前的观点和经历回到作为职场萌新的那年，我会如何指导当时的自己？\n想说的事情很多，如果只能说一件，那么我会选择告诉“她”：别纠结艾森豪威尔矩阵啦，有个经实践验证更为有效的方法是，参考「能力-意愿」模型。\n众所周知，各路大V在传授时间管理心得时，总绕不开艾森豪威尔矩阵——督促你从「紧急性」和「重要性」这两个维度，划定事项的优先级。把「重要且紧急」和「重要不紧急」的事务排入日程表，抓紧完成。直接推掉「不重要且不紧急」的事情，再把「不重要但紧急」的任务外包，解放自己的生产力。\n根据实践，此模型在引导后续行动上有如下bug：\n1、对于重要的事情，不管它是否紧急，都不耽误我拖延😂 比如说，我曾一度踩着Deadline（精确到秒的那种）提交项目报告，在滴答清单里反复延后听课、阅读等学习任务的完成时间。\n2、对于不重要的事情，我通常没有拒绝的自由，也缺乏把它外包给他人的权力或资源。 因为这个不重要，指的是对我来说不重要。做这件事，对完成我的个人目标没有帮助。而更可悲的是，对我来说的不紧急，可能对任务发出者来说也同样不紧急，但对方出于各种原因，常会设定一个极短的周期，以此倒逼接收者赶紧提交成果。\n比如说，前领导做数据分析，突然想起某个历史文件，勒令我下班前找到并发给她。问题是我手头还有其他更重要且Deadline相近的工作得完成。于是我只能加班寻找。由于原始数据实在简陋，对现在的业务模型也没啥参考价值，那篇在周一花了我2小时整理的资料，最终并没在周五的例会派上任何用场。\n既然这模型实际并不管用，我又该如何改善拖延症呢？一番琢磨过后，我发现影响行动积极性的因素主要有俩：\n\n任务的完成难度：…",
@@ -987,16 +1097,6 @@
           "wordCount": 643,
           "title": "课程视频一键转 PPT 讲义实用技巧",
           "imageUrl": "https://cdn.sspai.com/2023/06/18/f85bfa393f232712cb5360a7efc3ed3b.png"
-        },
-        {
-          "id": "https://sspai.com/post/80031",
-          "author": "车不能快",
-          "description": "本文仅代表个人观点，用于记录和观望一些键盘。\n色卡请以实物为主，热升华会产生偏差。\n个人评分部分为主观部分，会根据厂家状态、设计、以及个人喜好权重评分，仅供参考。\n\n键帽\nJTK\n疫情影响、师傅跑路，JTK可以给出很多延期的理由，但说到底，延期是板上钉钉的事实，玩家也会给出相应的回答。希望在经历了这么多的「意外」之后，JTK能快点跑起来，追回这些年失去的信任。\n\nHSA HyperFuse \n\n明明说好三年，三年之后又三年，三年之后又三年，都快十年了，老大。\n\n2020年初，江总发起了HSA的团购活动，这一等，就是三年。时过境迁，市场环境早已大变天，但HSA终究还是来了。当年风光无两的球帽市场，如今却是凋零破败，它来的不是时候，但或许，正是时候。\n配色：\n\n键帽配色是经典的HyperFuse\n清新而明亮的青绿色、深紫色、浅灰色、深灰色。\n浅灰色为键帽整体提供了干净的基调，同时也有利于凸显深紫色字符的鲜明度，深灰色基底搭配青绿色字符有种薄荷口香糖的清凉感，整体搭配高对比度，现代感十足。\n统一ICON：\n\n实拍展示：\n乐总拍摄\n\n键帽信息：\n材质：ABS材质\n高度：HSA高度\n工艺：二色键帽\n老配色新高度，抛光球帽也是一个指纹收集器。\n购买建议：有现货，感兴趣的可以直接购买\n搭配方面这套键帽十分百搭，浅色深色基本都能驾驭自如。\nGMK\nGMK推出了新高度，但如果依旧维持之前的价格和工期，对我而言并没有太大的吸引力，至于新高度会不会是跟MT3一样的走势，未可知也。\n\nGMK Earth Tones 地球音\n\n蓝星的脉动\n\n这款键帽是由摄影师zionsped（锡安斯普）设计的一款自然主题键帽，灵感来源于他在浅草拍摄的一张照片。\n\nThis photograph reminds me of the division of human vs. nature, the life of t…",
-          "link": "https://sspai.com/post/80031",
-          "publishedOn": "2023-06-17T13:50:13.000Z",
-          "wordCount": 745,
-          "title": "「客制化键盘丨购买观望」多款出色设计键帽以及桶状小键盘",
-          "imageUrl": "https://cdn.sspai.com/2023/06/17/4d5468bd708803fc693e9f1f8ca5d669.jpg"
         }
       ]
     },
@@ -1011,6 +1111,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23252",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n《WWDC23 内参》\n本周我们又更新了 7 篇内参，每篇质量都非常高，由于篇幅问题，开头先推荐三篇可能大家更感兴趣的，其他的放到周报最后了 ~\n🌟 WWDC23 10055 - UIKit 中的新功能\nSharker：本文主要介绍了 UIKit 在 iOS 17 中的新功能、核心架构改进和 iPad OS 应用程序的改进，并且提供了多项常规增强功能，例如 Xcode 预览支持、自定义特征、交互式文本操作等。 这些增强功能为应用程序开发人员提供了更好的设计和用户体验，同时还改进了语言支持和性能。\n🌟 WWDC23 10197 - SF Symbols 5 使用指南\nMim0sa：为了更方便没有 SF Symbols 经验的读者理解，也将往年的 SF Symbols 相关内容归纳整理。本文从 SF Symbols 的特性切入，讨论 SF Symbols 这款由系统字体支持的符号库有哪些优点以及该如何使用。在这次 WWDC 2023 中，除了符号的数量增加到了 5000+ 之外，还有能让符号们 “动” 起来的新功能，让 SF Symbols 这把利器变得又又更加趁手和锋利了。\n🌟 WWDC23 10028 - 让你的小组件栩栩如生\nRaydon：现小组件支持在 Mac 的桌面、iPad 的锁屏、iPhone 的 StandBy 以及 Apple Watch 的 Smart Stack 显示。小组件内容刷新时，添加 SwiftUI 的动画效果让内容变化更加流畅。利用 SwiftUI 和 AppIntents，可以在小组件上使用 Button 和 Toggle 交互组件，让你的小组件栩栩如生。\n文章\n…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23252",
+          "publishedOn": "2023-07-17T02:38:58.000Z",
+          "wordCount": 682,
+          "title": "老司机 iOS 周报 #252 | 2023-07-17",
+          "imageUrl": "https://opengraph.githubassets.com/621996baad72b13d7386c4e811c6c4d2866eabe7576b8fd2d6b464da10ec4272/SwiftOldDriver/iOS-Weekly/releases/tag/%23252"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23251",
           "author": null,
@@ -1054,6 +1164,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75539",
+          "author": null,
+          "description": "威斯康星大学斯托特分校的研究员 Kevin Matthe Caramancion 评估了流行大语言模型识别假新闻的能力。他评估了四个大模型，包括 Open AI 的 Chat GPT-3.0 和 Chat GPT-4.0，Google 的 Bard/LaMDA 以及微软的 Bing AI。他向这些模式输入了已经过人类事实核查的新闻。结果显示，OpenAI 的 GPT-4.0 表现最出色。但所有四种大模型都落后于人类事实核查人员，突出了人类认知的不可替代价值。研究报告发表在预印本平台 arxiv 上。",
+          "link": "https://www.solidot.org/story?sid=75539",
+          "publishedOn": "2023-07-17T15:01:40.000Z",
+          "wordCount": 165,
+          "title": "研究人员评估大模型识别假新闻的能力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75538",
+          "author": null,
+          "description": "Red Hat 最近限制了其企业发行版 RHEL（Red Hat Enterprise Linux）源码的可得性，这一决定既引发愤怒也引发了同情。引发同情的主要原因是它的竞争对手如甲骨文以及社区发行版 Alma Linux 和 Rocky Linux 都是直接克隆了 Red Hat 的工作成果。但迫使克隆产品退出并不能将他们的客户转变成 Red Hat 的客户，Red Hat 的商业方案小企业是承担不起的。部分人怀疑此举是 IBM 施压的结果，但 Red Hat 早在被 IBM 收购前就将它自己收购的社区发行版项目 CentOS 变成了滚动更新发行版 CentOS Stream，直接导致了社区发行版 Alma Linux 和 Rocky Linux 的诞生。目前的初步结果是 Red Hat 的最新决定提升了这些社区发行版的知名度和活力。",
+          "link": "https://www.solidot.org/story?sid=75538",
+          "publishedOn": "2023-07-17T14:19:38.000Z",
+          "wordCount": 189,
+          "title": "Red Hat 限制源码的决定引发愤怒和同情",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75537",
+          "author": null,
+          "description": "2009 年 1 月，泛林集团（Lam Research）指控中微公司型号为 Primo D-RIE 的等离子蚀刻机侵害它的台湾 TW136706“电浆反应器中之多孔的电浆密封环”和 TW126873“于电浆处理室中大量消除未局限电浆之聚焦环配置 ”。并在在台湾发起了针对中微台湾分公司及其关联企业的侵权诉讼。中微半导体 2010 年 12 月向上海市第一中级人民法院提起诉讼，主张泛林集团侵犯中微公司的商业秘密，并于 2017 年 3 月赢得一审诉讼。在上海市高级人民法院 2023 年 6 月 30 日的终审判决中，法院命令泛林集团销毁其非法获取的与中微公司等离子刻蚀机有关的一份技术文件和两张照片。法院还禁止泛林集团及泛林集团的两名个人被告披露、使用或允许他人使用中微公司的专有的技术秘密。法院还命令泛林集团为其侵犯商业秘密向中微公司支付赔偿金和法律费用。",
+          "link": "https://www.solidot.org/story?sid=75537",
+          "publishedOn": "2023-07-17T11:37:27.000Z",
+          "wordCount": 186,
+          "title": "美国泛林输掉了与中微半导体长达 13 年 的 IP 侵权诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75536",
+          "author": null,
+          "description": "马斯克（Elon Musk）公布的统计结果显示，相比美国、欧盟等全球主要国家和地区，日本推特用户使用时间更长，日本的人均使用量是美国的约 3 倍。马斯克在其推文中指出，全球的使用时间较上周增加 3.5%，还强调并未出现用户远离推特的情况。然而在另一条推文中，马斯克表示推特的广告收入最多减少 50%。",
+          "link": "https://www.solidot.org/story?sid=75536",
+          "publishedOn": "2023-07-17T11:30:00.000Z",
+          "wordCount": 146,
+          "title": "日本推特用户使用时间是美国的三倍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75535",
+          "author": null,
+          "description": "华为公开了该公司持有的通信相关专利的使用许可费率标准。该公司正在包括日本在内的各个国家展开专利许可费谈判，此举意在通过提供标准来寻求理解。华为称，Wi-Fi 方面，支持 Wi-Fi6 的消费类设备每台收取 0.5 美元的专利许可费。智能手机方面，5G 手机最高收费 2.5 美元，4G 手机最高收费 1.5 美元。华为拥有很多 5G 和 Wi-Fi 等通信标准不可缺少的“标准必要专利”。符合这些通信标准的其他企业的通信设备也需要使用华为的专利技术，可能会被要求支付专利使用许可费。",
+          "link": "https://www.solidot.org/story?sid=75535",
+          "publishedOn": "2023-07-17T11:27:41.000Z",
+          "wordCount": 172,
+          "title": "华为以每台 Wi-Fi 设备 0.5 美元的费率征收专利使用费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75534",
+          "author": null,
+          "description": "生物科技创业公司 Conception 正尝试彻底改变人类的生殖方式。他们试图加速商业化被称为体外配子生成（in vitro gametogenesis 或 IVG）的技术，本质上将诱导多能干细胞转变为人类卵子。这项实验性技术可帮助因癌症治疗而失去卵子、无法产生健康卵子以及因年龄卵子不再具有活力的女性。公司联合创始人 Matt Krisiloff 说它还可以让同性伴侣生育亲生的孩子。他本人是同性恋，因此对此非常感兴趣。公司首席科学官 Pablo Hurtado 也是同性恋。IVG 可以将 Hurtado 的一个细胞诱导为卵子，然后与伴侣的精子结合，通过代孕母亲产下与两人有遗传关系的婴儿。女同性恋的细胞也可以使用相同的技术诱导为精子。",
+          "link": "https://www.solidot.org/story?sid=75534",
+          "publishedOn": "2023-07-17T11:23:58.000Z",
+          "wordCount": 156,
+          "title": "创业公司尝试在实验室里培育人类卵子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75533",
+          "author": null,
+          "description": "今天的月球没有活跃的火山，但其表面之下仍然可能存在大量岩浆。科学家利用中国月球轨道探测器在月球背面发现了一个热点。中国月球轨道探测器携带了微波仪器，这种仪器在绕地气象卫星上很常见，但在行星际探测器上很罕见，嫦娥一号和嫦娥二号因此能提供不同的月球视角，测量表面下最深 15 英尺的热流。位于月球背面的 Compton-Belkovich，热流最高达到了每平方米 180 毫瓦，是月背面高地平均热流的 20 倍，相当于表面下 6 英尺零下 23 摄氏度，比其它地方高大约 30 摄氏度。热点被认为来源于已凝固熔岩中的放射性元素。",
+          "link": "https://www.solidot.org/story?sid=75533",
+          "publishedOn": "2023-07-17T10:02:45.000Z",
+          "wordCount": 154,
+          "title": "科学家在月球背面发现一个热点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75532",
+          "author": null,
+          "description": "All-In-One Security（AIOS）是一款安装量逾百万的 WordPress 安全插件，三周前它被发现记录明文密码并将其存储在管理员可访问数据库中后释出了安全更新。开发者表示，用户登陆使用 AIOS 的网站后明文密码会被记录，该 bug 是在 5 月释出的 v5.1.9 中引入的，上周释出的 v5.2.0 修复了 bug 并从数据库里删除了相关数据。拥有最高全新的管理员可以访问明文密码。以明文形式储存密码是安全大忌。储存密码可接受的做法是使用哈希加密，因此即使密码数据库被恶意者窃取，他们通常会很难在短时间内暴力破解。",
+          "link": "https://www.solidot.org/story?sid=75532",
+          "publishedOn": "2023-07-17T07:51:24.000Z",
+          "wordCount": 165,
+          "title": "安装量逾百万的 WordPress 插件记录了明文密码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75531",
+          "author": null,
+          "description": "一方面 ChatGPT 的流量在下降，另一方面用户抱怨 ChatGPT 的回答质量变差了。根据 SimilarWeb 的数据，上个月 ChatGPT 的流量下降了近 10%。ChatGPT 的 iOS 应用的下载量也在下降。GPT-4 的付费用户同时在抱怨 OpenAI 的聊天机器人最近输出速度变快了，但代价是输出质量下降了。一位用户打了一个比喻说，前一个月 GPT-4 的使用体验就像是驾驶一辆法拉利，但这个月它变成了像是驾驶一辆破旧皮卡。AI 社区猜测 OpenAI 设计理念发生了改变，它将大模型分解成几个在特定领域训练的小模型，此举旨在降低成本。还有一种可能性是互联网开始充斥着 AI 生成内容，而如果用 AI 使用 AI 生成的数据集进行训练，它的质量会下降。",
+          "link": "https://www.solidot.org/story?sid=75531",
+          "publishedOn": "2023-07-17T07:34:21.000Z",
+          "wordCount": 172,
+          "title": "ChatGPT 用户抱怨输出质量下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75530",
+          "author": null,
+          "description": "攻击性行为通常被视为自我控制能力差的产物，但发表在《Social and Personality Psychology Compass》上的一项新研究指出，攻击性行为有时是蓄意的，是成功自我控制的产物。研究发现，最具攻击性的人的性格特征并不是缺乏自律，而且增强自我控制的训练项目在减少暴力倾向方面并没有被证明是有效的。相反，研究发现充分的证据表明，成功的自我控制可以产生攻击性。有报复心的人往往对自己的行为有更大的预谋和自制力，这使他们能够推迟甜蜜报复的满足感，并等待时机，对那些被认为冤枉他们的人施加最大的报复。",
+          "link": "https://www.solidot.org/story?sid=75530",
+          "publishedOn": "2023-07-17T03:28:26.000Z",
+          "wordCount": 147,
+          "title": "攻击性行为有时是自我控制的产物",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75529",
+          "author": null,
+          "description": "最广泛接受的宇宙学模型认为宇宙年龄约 138 亿岁，但发表在《皇家天文学会月刊》的一项研究将宇宙年龄增加了一倍至 267 亿岁。研究结论不仅挑战了主流宇宙学模型，也为所谓的“不可能的早期星系问题”提供了新的解决方案。多年来，科学家通过测量宇宙大爆炸以来时间的流逝，并根据来自遥远星系的光的红移研究最古老的恒星，以及对宇宙微波背景辐射和宇宙膨胀等现象的精密观测，估算出宇宙的年龄为 137.97 亿岁。但是这一模型并不完美，它存在一些难以解释的矛盾和悖论。其中之一就是所谓的“不可能的早期星系问题”，即在宇宙形成后不久，就出现了一些非常大、非常亮、非常成熟的星系。研究人员引入了保罗·狄拉克假设的“耦合常数”的概念。耦合常数是控制粒子之间相互作用的基本物理常数，狄拉克认为这些常数可能随着时间的推移而变化。如果允许这些常数发生变化，早期星系形成的时间框架可从数亿年延长到数十亿年，为其处于更高发展水平提供了更可行的解释。",
+          "link": "https://www.solidot.org/story?sid=75529",
+          "publishedOn": "2023-07-17T03:17:29.000Z",
+          "wordCount": 156,
+          "title": "研究称宇宙年龄可能高达 267 亿岁",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75528",
           "author": null,
@@ -3563,36 +3783,6 @@
           "wordCount": 189,
           "title": "BlackCat 声称入侵了 Reddit 窃取了数据",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75276",
-          "author": null,
-          "description": "为小企业提供商贷服务的 Clarify Capital 公司邀请了 250 名投资者和 250 名企业主对一组由人类创造和 GPT-4 生成的商业计划书进行评分，他们没有被告知有 AI 参与撰写。更有意思的是，人类撰写的计划书来自于获得融资的成功案例。结果显示 GPT-4 生成的商业计划书比人类更有效，被认为在质量、关键要素描述和问题描述上胜过人类。调查显示，在投资者和企业主阅读了 GPT-4 的计划书之后，投资可能性为人类的三倍，他们认为 AI 生成计划书的说服力是人类的两倍。五分之一人表示，他们会对 AI 生成计划书多投资 1 万美元。",
-          "link": "https://www.solidot.org/story?sid=75276",
-          "publishedOn": "2023-06-18T10:14:54.000Z",
-          "wordCount": 166,
-          "title": "GPT-4 生成的商业计划书更受投资者青睐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75275",
-          "author": null,
-          "description": "微软本周二例行安全更新释出的累积补丁 Windows 11 22H2 KB5027231 被发现会导致 Chrome 浏览器与用户安装的安全软件发生冲突而无法启动。与 Chrome 发生冲突的安全软件包括 Malwarebytes、思科的 Secure Endpoint 和 WatchGuard 的 Endpoint Security 等。用户点击 Chrome 图标之后浏览器进程在运行，但由于冲突浏览器无法完全启动界面无法加载。一位系统管理员称，他们在数千台计算机上部署了 Secure Endpoint 8.1.7，早上收到大量报告称在尝试打开 Chrome 后浏览器没有显示在界面上。通过试错，杀死 Secure Endpoint 进程或卸载 Secure Endpoint 后浏览器能正常启动。WatchGuard 和 Malwarebytes 都报告了类似的现象。",
-          "link": "https://www.solidot.org/story?sid=75275",
-          "publishedOn": "2023-06-18T09:06:29.000Z",
-          "wordCount": 191,
-          "title": "Windows 11 更新导致 Chrome 无法启动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75274",
-          "author": null,
-          "description": "欧盟议会议员以 587 票赞成、9 票反对和 20 票弃权通过了改革欧盟电池和废电池规则的协议。新的电池规则将涵盖电动汽车电池、消费者设备的便捷式电池和工业电池等等。对于智能手机等消费设备使用的电池，新规定将要求电池易于拆卸和更换。今天绝大部分智能手机电池都是固定的，而十几年前的电池是可以自行更换的。欧盟的新规定可能有助于恢复旧的方式，延长设备的使用时间。",
-          "link": "https://www.solidot.org/story?sid=75274",
-          "publishedOn": "2023-06-17T15:14:33.000Z",
-          "wordCount": 146,
-          "title": "欧盟投票要求智能手机电池可替换",
-          "imageUrl": null
         }
       ]
     },
@@ -3601,6 +3791,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/746040/",
+          "author": null,
+          "description": "西风发自凹非寺 量子位公众号 QbitAI Meta 用头显整新活了！ 这不，就在最新被 SIGGRAPH 2023 顶会收录的研究里，研究人员展示： 仅凭 Quest 传感器和周围物体环境的交互，就可以捕捉一个人的全身运动！ 即使是和复杂环境进行交互也不在话下。 输入的时候还是这样婶儿的，只有三个\n本文链接",
+          "link": "https://news.cnblogs.com/n/746040/",
+          "publishedOn": "2023-07-18T00:58:00.000Z",
+          "wordCount": 163,
+          "title": "Meta用头显实现全身动作追踪！没有腿部信息，也可准确估计姿态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746039/",
+          "author": null,
+          "description": "克雷西发自凹非寺 量子位公众号 QbitAI Science 正刊发表对 ChatGPT 的调查报告，《生成式人工智能对生产力影响的实验证据》 对于一些文书任务，ChatGPT 不仅能在节省 40% 时间的同时提高 18% 的绩效，还降低了不同人之间的绩效差异。 MIT 官方也对这一研究成果进行了报\n本文链接",
+          "link": "https://news.cnblogs.com/n/746039/",
+          "publishedOn": "2023-07-18T00:50:00.000Z",
+          "wordCount": 163,
+          "title": "Science：ChatGPT缩小了打工人的差距",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746038/",
+          "author": null,
+          "description": "机器之心原创 作者：张倩 找相册照片、视频变成「一句话的事」，百度网盘正在变身「第二大脑」 「没有 xx 的结果，请尝试新搜索词。」有多少人在使用手机自带的相册搜索功能时收到了这样的反馈？ 如今，大部分人的相册里都有上千张图，平时也懒得整理，需要用某张图时就按照时间段，去某个分类里找一下。而手机自带\n本文链接",
+          "link": "https://news.cnblogs.com/n/746038/",
+          "publishedOn": "2023-07-18T00:43:02.000Z",
+          "wordCount": 163,
+          "title": "上万张照片怎么找？百度网盘：你只管说，我们帮你找",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746037/",
+          "author": null,
+          "description": "机器之心报道 编辑：蛋酱 今天，第五届科学探索奖获奖名单正式公布，共 48 位青年科学家获奖。 科学探索奖设立于 2018 年 11 月 9 日，由杨振宁、饶毅、施一公、潘建伟、谢晓亮等 14 位知名科学家与腾讯基金会发起人马化腾共同发起，是目前国内金额最高的青年科技人才资助项目之一。 该奖项的资助\n本文链接",
+          "link": "https://news.cnblogs.com/n/746037/",
+          "publishedOn": "2023-07-18T00:38:37.000Z",
+          "wordCount": 163,
+          "title": "清华唐杰、上交卢策吾等AI学者获得第五届科学探索奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746036/",
+          "author": null,
+          "description": "机器之心报道 编辑：陈萍、小舟 时隔 8 个月，谷歌又提出了一种能在 20 秒内实现人脸个性化处理的新生成模型。 此前，谷歌和波士顿大学的研究者提出了一种「个性化（Personalization）」的文本到图像扩散模型 DreamBooth，用户只需提供 3~5 个样本 + 一句话，AI 就能定制照\n本文链接",
+          "link": "https://news.cnblogs.com/n/746036/",
+          "publishedOn": "2023-07-18T00:32:00.000Z",
+          "wordCount": 163,
+          "title": "速度提升数十倍，只需一张图一句话，谷歌新模型20秒即可实现变脸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746035/",
+          "author": null,
+          "description": "智东西（公众号：zhidxcom） 作者周炎 编辑云鹏 就在一周前，富士康母公司鸿海精密发布公告称，将取消与印度矿业巨头韦丹塔共同建造芯片厂的合作，鸿海后续也将不再参与双方的合资公司运作。从这场交易的结果上看，富士康直接损失可达 194 亿美元（折合人民币约 1440 亿元），莫迪政府寄予厚望的“印\n本文链接",
+          "link": "https://news.cnblogs.com/n/746035/",
+          "publishedOn": "2023-07-18T00:30:00.000Z",
+          "wordCount": 163,
+          "title": "造芯受挫、订单被抢、无缘苹果Vision Pro，富士康怎么了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746034/",
+          "author": null,
+          "description": "图片来源@视觉中国 文｜白鲸出海 6 月 15 日，在 Google Marketing Live 大会的新消费品牌分享会上，我们见到了泡泡玛特国际总裁文德一（Justin）。Justin 是韩国人，但中文表达很流利。 来源：LinkedIn 韩国市场，是泡泡玛特国际化的一个重要市场，从 2019 \n本文链接",
+          "link": "https://news.cnblogs.com/n/746034/",
+          "publishedOn": "2023-07-18T00:27:05.000Z",
+          "wordCount": 163,
+          "title": "一年21家新店，出海的泡泡玛特究竟“谨慎”还是“激进”？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746032/",
+          "author": null,
+          "description": "Windows 11 上周发布了新的测试版 (Insider Preview Build 25905)。 发布公告提到此版本已经使用 Rust 重写 Windows 11 内核中的部分模块。 据介绍，该预览版使用 safe Rust 对关键内核功能进行了早期实现。具体来说，win32kbase_rs\n本文链接",
+          "link": "https://news.cnblogs.com/n/746032/",
+          "publishedOn": "2023-07-18T00:21:45.000Z",
+          "wordCount": 163,
+          "title": "微软：加大力度在 Windows 11 使用 Rust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746033/",
+          "author": null,
+          "description": "芯东西（公众号：aichip001） 作者 程茜 编辑 Panken 芯东西 7 月 17 日消息，今天下午，中芯国际在港交所发布公布宣布重大人事变动！ 高永岗博士辞任中芯国际董事长、执行董事及董事会提名委员会主席职务，中芯国际副董事长、执行董事及董事会提名委员会委员刘训峰博士获委任为中芯国际董事长\n本文链接",
+          "link": "https://news.cnblogs.com/n/746033/",
+          "publishedOn": "2023-07-18T00:20:00.000Z",
+          "wordCount": 163,
+          "title": "中芯国际官宣董事长高永岗辞任，副董事长接任",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746031/",
+          "author": null,
+          "description": "特斯拉首席执行官埃隆·马斯克（Elon Musk）上周公布了自己的 AI 公司 xAI，并表示该公司的目标是“理解宇宙的真实本质”。 上周五在 Twitter Spaces 的节目中，马斯克表示，xAI 的目标是建设一个有着“最大限度好奇心”和“求真务实”的“良好 AGI”。xAI 也将致力于创造有\n本文链接",
+          "link": "https://news.cnblogs.com/n/746031/",
+          "publishedOn": "2023-07-18T00:19:59.000Z",
+          "wordCount": 163,
+          "title": "马斯克谈新AI公司竞争：对防止一家独大很有意义",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746029/",
+          "author": null,
+          "description": "科技日报北京 7 月 17 日电 （记者张梦然）美国科尔盖特大学和得克萨斯大学的天文学家，根据詹姆斯·韦布空间望远镜的数据发现了暗星存在的证据。相关研究发表在新一期《美国国家科学院院刊》上。 早在 2007 年，研究人员就提出了暗星的想法。这些理论上的暗星动力不来自核聚变，而是由暗物质提供。从那时起\n本文链接",
+          "link": "https://news.cnblogs.com/n/746029/",
+          "publishedOn": "2023-07-18T00:18:26.000Z",
+          "wordCount": 163,
+          "title": "韦布望远镜发现三颗候选暗星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746027/",
+          "author": null,
+          "description": "科技日报北京 7 月 17 日电 （记者张佳欣）在一项开创性的研究中，美国哈佛大学医学院、缅因大学和麻省理工学院的研究人员称，他们离让青春永驻的“灵丹妙药”又近了一步——提出了第一个将细胞重新编程以逆转衰老的化学方法。此前这只能通过基因疗法来实现。这一发现可能会改变与年龄相关的疾病治疗，加强再生医学\n本文链接",
+          "link": "https://news.cnblogs.com/n/746027/",
+          "publishedOn": "2023-07-18T00:16:34.000Z",
+          "wordCount": 163,
+          "title": "将细胞重新编程以逆转衰老的化学方法提出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746030/",
+          "author": null,
+          "description": "龙芯中科与上海芯联芯持续两年多的知识产权纠纷案迎来最终结果。 7 月 14 日，龙芯中科技术股份有限公司发布公告称，上海芯联芯智能科技有限公司 (简称 “上海芯联芯”) 诉龙芯中科 LoongArch 和 3A5000 处理器侵权的诉讼案件终审己判决，北京市高级人民法院驳回原告上海芯联芯上诉，维持原\n本文链接",
+          "link": "https://news.cnblogs.com/n/746030/",
+          "publishedOn": "2023-07-18T00:07:00.000Z",
+          "wordCount": 163,
+          "title": "龙芯中科知识产权纠纷案迎来胜诉终局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746028/",
+          "author": null,
+          "description": "文｜陆玖商业评论 ‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍一直相安无事的小鹏和理想 ， 终于掐起来了 。 一直以来，理想汽车官方账号在社交平台上发布周、月销量榜单时，其他车企只是默默观望，但这次，小鹏汽车坐不住了。就在前几天，小鹏汽车产品营销总经理黄泓霖和小鹏汽车自动驾驶产品高级总监刘毅林开怼，黄泓霖发\n本文链接",
+          "link": "https://news.cnblogs.com/n/746028/",
+          "publishedOn": "2023-07-18T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "小鹏必怼理想，G6把自家产能都爆了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746026/",
+          "author": null,
+          "description": "财联社 当地时间周一，美国证券交易委员会主席加里·詹斯勒在美国首都的全国新闻俱乐部发表题为《从牛顿到人工智能》的演讲，系统性阐述了美国证券监管掌门人对 AI 所带来机遇和风险的认知。 （官方公布的詹斯勒演讲稿，来源：美国 SEC） SEC 主席在开场中提到，当疫情席卷欧洲和英国时，学生们收拾起书本回\n本文链接",
+          "link": "https://news.cnblogs.com/n/746026/",
+          "publishedOn": "2023-07-17T23:40:54.000Z",
+          "wordCount": 163,
+          "title": "美国SEC主席詹斯勒公开演讲：如何看待AI的机遇、挑战与风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746025/",
+          "author": null,
+          "description": "PingCAP 创始人兼 CEO 刘奇（来源：受访者提供） 随着 ChatGPT 和 AI 大模型热度持续攀升，与模型关系最密切的数据库行业迎来了新的变革与风向。 钛媒体 App 获悉，7 月 13 日，开源数据库独角兽公司 PingCAP 在北京推出两款数据库产品：基于 AI、可商用、按需付费的新\n本文链接",
+          "link": "https://news.cnblogs.com/n/746025/",
+          "publishedOn": "2023-07-17T15:07:00.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT使数据库行业生变，PingCAP推按需付费和国产化产品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746023/",
+          "author": null,
+          "description": "文 20 社，作者罗立璇 在经历了“1+6+N”的集团分拆和高层人事剧烈变动后，阿里巴巴（以下简称阿里）今年的人事改革正在指向中层。 7 月 13 日出现了一条传闻，阿里将取消P序列职位层级，改为 14-28 层级，预计 9 月 30 日生效。相当于现 P8 等级的 28 级，将成为阿里普通打工人的\n本文链接",
+          "link": "https://news.cnblogs.com/n/746023/",
+          "publishedOn": "2023-07-17T15:00:00.000Z",
+          "wordCount": 163,
+          "title": "大厂员工苦晋升久矣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746024/",
+          "author": null,
+          "description": "文｜极点商业，作者｜杨铭，编辑｜刘珊珊 “提供相关产品鉴定证书，支持全国复检，可以 30 天无理由退换货。” 陈女士不会想到，这将会是自己一次糟心无助的经历。 自没收到鉴定书开始，她在连续投诉、发起退货申请多日后，却突然发现该淘宝店铺关门，处于“退货无渠道、维权无门”，数万元打水漂尴尬局面。 这并非\n本文链接",
+          "link": "https://news.cnblogs.com/n/746024/",
+          "publishedOn": "2023-07-17T14:50:00.000Z",
+          "wordCount": 163,
+          "title": "花7万退货退款无门：谁在纵容淘宝珠宝商家造假？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746022/",
+          "author": null,
+          "description": "原阿里巴巴集团副总裁贾扬清在 2021 云栖大会上演讲（来源：阿里云官网） 从阿里离职四个月后，开源深度学习框架 Caffe 创立者、原阿里巴巴集团副总裁贾扬清揭开了其新的发展方向。 钛媒体 App 7 月 14 日消息，早前 PyTorch 负责人 Soumith Chintala 发布推文披露，\n本文链接",
+          "link": "https://news.cnblogs.com/n/746022/",
+          "publishedOn": "2023-07-17T14:41:00.000Z",
+          "wordCount": 163,
+          "title": "前阿里副总裁贾扬清成立公司Lepton AI，今年5月已完成天使轮融资",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/746021/",
+          "author": null,
+          "description": "文｜博望财经，作者｜小魔丸 2023 年 7 月 14 日，知乎的匿名功能正式下线了。 或与近日来的风波相关。6 月 20 日，亿欧网创始人黄渊普在朋友圈炮轰周源，称自己在知乎上被人用匿名爆料贴抹黑；7 月 7 日，国家网信办就《网络暴力信息治理规定（征求意见稿）》公开征求意见，其中也提到禁止创建以\n本文链接",
+          "link": "https://news.cnblogs.com/n/746021/",
+          "publishedOn": "2023-07-17T14:38:00.000Z",
+          "wordCount": 163,
+          "title": "匿名成绝唱，知乎将成为“谁”？",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/745949/",
           "author": null,
@@ -9048,6 +9438,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23252",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n《WWDC23 内参》\n本周我们又更新了 7 篇内参，每篇质量都非常高，由于篇幅问题，开头先推荐三篇可能大家更感兴趣的，其他的放到周报最后了 ~\n🌟 WWDC23 10055 - UIKit 中的新功能\nSharker：本文主要介绍了 UIKit 在 iOS 17 中的新功能、核心架构改进和 iPad OS 应用程序的改进，并且提供了多项常规增强功能，例如 Xcode 预览支持、自定义特征、交互式文本操作等。 这些增强功能为应用程序开发人员提供了更好的设计和用户体验，同时还改进了语言支持和性能。\n🌟 WWDC23 10197 - SF Symbols 5 使用指南\nMim0sa：为了更方便没有 SF Symbols 经验的读者理解，也将往年的 SF Symbols 相关内容归纳整理。本文从 SF Symbols 的特性切入，讨论 SF Symbols 这款由系统字体支持的符号库有哪些优点以及该如何使用。在这次 WWDC 2023 中，除了符号的数量增加到了 5000+ 之外，还有能让符号们 “动” 起来的新功能，让 SF Symbols 这把利器变得又又更加趁手和锋利了。\n🌟 WWDC23 10028 - 让你的小组件栩栩如生\nRaydon：现小组件支持在 Mac 的桌面、iPad 的锁屏、iPhone 的 StandBy 以及 Apple Watch 的 Smart Stack 显示。小组件内容刷新时，添加 SwiftUI 的动画效果让内容变化更加流畅。利用 SwiftUI 和 AppIntents，可以在小组件上使用 Button 和 Toggle 交互组件，让你的小组件栩栩如生。\n文章\n…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23252",
+          "publishedOn": "2023-07-17T02:38:58.000Z",
+          "wordCount": 682,
+          "title": "老司机 iOS 周报 #252 | 2023-07-17",
+          "imageUrl": "https://opengraph.githubassets.com/621996baad72b13d7386c4e811c6c4d2866eabe7576b8fd2d6b464da10ec4272/SwiftOldDriver/iOS-Weekly/releases/tag/%23252"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23251",
           "author": null,
