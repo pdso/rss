@@ -6,6 +6,16 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n8月2日，日本能代市举办一年一度的\"天空的不夜城\"花灯游行，这是为了纪念当地古代的灯笼节。如果不说，这照片看起来真像 AI 生成的。（via）\nWiFi 的后面是 LiFi\n今年6月，IEEE（电气和电子工程师协会）通过了 802.11bb 标准。\n它是光通信标准，也就是通过光上网，英文简写为 LiFi，一看就跟 WiFi 有血缘关系。其中，LiFi 的 L 代表了 Light（光）。\n\n国内的报道并不多，但这是一个很有意思的技术，值得好好谈一下。\n首先说说 LiFi 到底是什么？\n我们知道，无线上网使用的是无线电波，将上网信号调制在无线电波里面。\n无线电波是电磁波，光波也是电磁波，所以我们也可以把上网信号调制在光波里面，通过光来上网。\n\n光波传送无线信号，有一些显著的优点。\n（1）带宽极大。\nWiFi 使用的频率是 2.4 GHz 和 5 GHz，最多再加上 6 GHz。而光的频率是 430 THz 到 750 THz，是 WiFi 的几十万倍。\n频率越高，可以加载的信号越多，带宽越大。所以，光波上网的带宽是难以想象的。当然，频率越高，穿墙能力越弱。\n（2）没有无线电干扰。\n任何对无线电敏感的场合都可以使用光波上网，比如飞机、手术室等。光也不存在辐射问题，对人体无害。\n（3）没有频谱资源限制。\n光波不需要像无线电波那样申请频段，频谱资源极其丰富。\n（4）技术难度低。\n光波的调制和解调，没有什么技术难度，厂家可以快速投入生产，产品成本也不高。\n我在网上查到，oppo 2020年就申请了 LiFi 手机的专利。\n\n笔记本也有的专门 LiFi 收发器，插在 USB 口就行了。\n\n但是，LiFI 也有…",
+          "link": "http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html",
+          "publishedOn": "2023-08-04T00:07:41.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n上海市宝山区在长江入海口，建了一个\"长滩观光塔\"，直径25.7米，高180米。特别之处在于，这个塔其实是长江隧道的排风塔，只不过在外部安装了玻璃幕墙，增加了观光、餐厅等功能。（via）\nElasticsearch 的启示\n上月的\"红帽事件\"，说明开源软件的\"客服模式\"行不通，我在上一期已经写了自己的看法。\n那么，开源软件如何赚钱呢？既不能卖软件，又不能卖支持服务，该怎么办呢？\n我一直思考这个问题，觉得行业的发展、个人的前途，都跟它有关系。\n\n我现在的看法是，只剩下一种模式是可行的，开源软件只有这样才能商业化，那就是 Elasticsearch 的模式。\n\nElasticsearch 是著名的搜索软件，市场份额非常大，很多大型网站的背后都是它。\n2004年，以色列程序员谢伊·巴农（Shay Banon）为了方便妻子查找菜谱，写了一个简单的搜索工具，这就是 Elasticsearch 的由来。\n\n一开始，Elasticsearch 采用最宽松的 Apache 许可证，几乎没有任何限制，你怎么用都可以。\n后来，谢伊·巴农拿了风投，成立了公司，雇了程序员，就必须有收入，否则公司就要裁员关门。\n他想到的办法，就是提供云服务。你不必自己搭建搜索了，我搭建好了，你买了就能用。这样你比较省心，我也有收入了。\n\n但是，他万万没有想到，这种模式也行不通。原因是开源软件不是独占性的，如果你的软件太成功，其他人也可以提供服务，而且卖得更便宜，最终把你打败，拿到更大的市场份额。\nElasticsearch 倒霉的地方在于，遇到的竞争对手是亚马逊，世界第一的云服务商。\n亚马逊不花一分钱，拿到 Elasticsearch 的…",
@@ -58,6 +68,26 @@
       "feedUrl": "https://rsshub.app/sspai/matrix",
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
+        {
+          "id": "https://sspai.com/post/81586",
+          "author": "愚人哲",
+          "description": "想象一下，我们工作下班后回家，一开门把钥匙放在左边的鞋柜上，打开柜子门拿出倒是第二层的拖鞋。往前走再左拐走进客厅，把外套以及公文包挂在客厅角落的架子上，坐在沙发上，自然而然地拿着茶几上的遥控器打开前面的电视......\n有没有感觉，一切都是很顺利自然的，每个细节我们好像都能记住，在整个过程中我们所提到的东西都跟位置信息有关系，于是，位置记忆也成了一种非常有效的记忆方法。\n不知道你有没有看过《神探夏洛克》这部剧，在剧中总是有一个不断出现的场景是神探夏洛克·福尔摩斯在一幢房子里面，打开一间间房间去寻找他想要的东西。事实上这只存在于他的大脑之中，里面存放了他所有与办案相关的信息，就像我们前面讲的那样依靠房间的位置自然而然地记忆和查找这些信息。说到这样的人，我还能想起一个人，大家应该都很熟悉——食人者汉尼拔。这位可怕的连环杀手使用了一座巨大、精致、虚拟的宫殿图像，通过房间以及物品来记住各种事情。\n这些就是他们的记忆宫殿，这是虚拟的，因为他们从未真正住在这座宫殿中。而这种记忆方法也叫做位置记忆法。\n可能有人会说，我们本来记忆东西本身不就好了，现在再结合空间记忆岂不是增大我们的记忆负担？而事实上，现今我们所熟知的记忆大师，大多数都会利用这种方法记东西。并且这种记忆方法由来已久，早在公元前500年左右的古希腊就存在了。据说这是一个叫西摩尼得斯的诗人发现的。\n一天，西摩尼得斯来到一位贵族家里参加宴会。宴会上，大家谈笑风生，西摩尼得斯还朗诵了一首自己创作的诗来表达对宴会主人的尊敬。不久，门口来了两位年轻人，要求西摩尼得斯出门与他们见面，于是他就离开了宴会厅。但是，命运总是充满惊喜，然而，就在他出门的一瞬间，宴会厅突然倒塌，宴会主人和所有的宾客都被埋在废墟下面，只有西摩尼得斯侥幸逃脱了这场灾难。当亲朋好友来到宴会现场安葬死者时，他们发现死者的面容已经全非，无法相认，于是他根据自己记忆中宾客们在…",
+          "link": "https://sspai.com/post/81586",
+          "publishedOn": "2023-08-03T07:40:39.000Z",
+          "wordCount": 746,
+          "title": "从杂乱到有序：如何利用位置记忆技巧提高生活和工作效率",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/81711",
+          "author": "千里之豪",
+          "description": "2023年买了台 iPhone 5 当备用机\n公司的主要 IM 是微信（不准笑），当时考虑到工作与生活分离，我就单独注册了一个微信账号用于工作。\n我的主力机是 iPhone13 mini，因为众所周知的原因，苹果没办法双微信，这就需要一个备用机了。\n上一任备用机\n我两年前买了台 XZ1C 当备用机，它拥有类原生系统、3.5mm 耳机接口、和 mini 系列一样的机身尺寸，用起来非常舒服。\n\n当时是在 TESTV 频道种草的，点这里可以查看此视频\n但本就是备用机的它在今年的软件环境跟体量下实在是难以流畅运行，卡顿也越来越频繁。\n更何况今年它电池直接鼓包了，我也懒得再折腾换电池了，干脆￥160出掉（毕竟当时买它也才花了￥330）。\n那我始终还是需要一个备用机来登录另一个微信账号呀！\n挑选新备用机\n脑子里过了一下筛选条件：小屏、有3.5mm 耳机孔、2023年登陆微信不卡、好看。\n索性持巨资（￥220）购入了一台 iPhone5， 黑色 16GB，机器自带 iOS6.0 系统。\n\n对比iPhone 13 mini，iPhone 5 的机身尺寸还要更小\n过了这么多年，重新拿到一个95新翻新机的时候，心里还是非常激动的。\n时光自然没有带我回到机器刚刚发布的那年，毕竟当年没钱买，但拿到机器的那一刻，曾经的穷小子突然在我身体里苏醒，把嘴角上拉了一秒。\n2023年，iPhone 5 还能胜任备用机的职责吗？\n对我来说，能。\n这主要看个人对备用机职责的界定，我个人购买备用机的要求就这几点：\n可以流畅使用微信\n可以收发短信，接打电话（本文截图中飞行模式是因为这样比较省电，我只有在需要接验证码的时候才会关闭飞行模式）\n可以听歌，而且我要用3.5mm 耳机\n好看，轻薄\n最好还能偶尔用来阅读咨询和小说\n最好跟我主力机使用同一个充电接口（主力机是 iPhone13 mini ）\n最后一条是因为，在我使…",
+          "link": "https://sspai.com/post/81711",
+          "publishedOn": "2023-08-03T02:02:57.000Z",
+          "wordCount": 750,
+          "title": "iPhone5 在2023年生存状况报告",
+          "imageUrl": "https://cdn.sspai.com/2023/08/02/af4e96fababfa0e807e51d956904769b.PNG"
+        },
         {
           "id": "https://sspai.com/post/81642",
           "author": "布莱克Feather",
@@ -967,26 +997,6 @@
           "wordCount": 597,
           "title": "反直觉的手写——数字时代的一剂良药",
           "imageUrl": "https://cdn.sspai.com/2023/07/06/87bb9344141a49f46061acae6e118d95.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80844",
-          "author": "Ethan29",
-          "description": "让我们先来看一张对比图：\n\n明显上面的画面更显通透，所展示出来场景更具空间感。而下面画面就像蒙了一层东西在眼前，发灰且平。这是很明显的区别，是随意一瞥就能感知的不同。\n介绍一下这两个对比画面是怎么来的：\n\n播放硬件： M1 Mac mini 搭配 Dell 2723QE 显示器；\n播放软件：IINA；\n对比片源：《阿凡达：水之道》的 HDR 版本和 SDR 版本；\n拍摄设备： Sony A7M2，HDR 视频无法通过屏幕截图截取准确的图片。\n使用 IINA 播放器同时播放《阿凡达：水之道》的 HDR 和 SDR 版本片源，采用左右分屏的形式。上图是同时定位到 01:17 用 A7M2 拍摄的对比画面。HDR 与 SDR 版本的两个视频文件\nHDR 为什么在观感上比 SDR 更加自然？\nHDR：High Dynamic Range，高动态范围。SDR：Standard Dynamic Range，标准动态范围。两者在色彩和亮度的标准上有很大的区别。\n先说色彩。\nCIE 1931 xy 色度图\nCIE 1931 xy 色度图展示了一般人可见的所有色度。图中的颜色区域也叫做人类视觉的色域。人类视觉的色域很广，以至于当下的显示技术无法完全实现其中的色彩，所以各行各业通过制定相应的色域以保证行业内色彩显示的一致性。我们常接触的有用于互联网图像的 sRGB 色域、用于印刷业的 Adobe RGB 色域、用于数字影像领域的 DCI-P3 色域等。\n简单介绍完色域，我们回到 SDR 与 HDR 色彩比较的话题。在做 SDR 和 HDR 的比较之前，还得明确一下比较的对象。SDR 简单，就只有一个标准。HDR 则有不同的标准，包括：HDR 10、 DOLBY VISION、HDR10+、HLG、HDR Vivid 等。其中 HDR 10 可以说是 HDR 的基础标准，也是目前使用最广泛的 H…",
-          "link": "https://sspai.com/post/80844",
-          "publishedOn": "2023-07-05T00:17:06.000Z",
-          "wordCount": 976,
-          "title": "好看的 HDR 应该怎么看？",
-          "imageUrl": "https://cdn.sspai.com/2023/07/04/200f6a15fcecfd8316df7aa8bd1becd8.png"
-        },
-        {
-          "id": "https://sspai.com/post/80845",
-          "author": "Xuan酱",
-          "description": "阅读笔记，每日复盘，工作总结，视频选题库，稍后阅读列表，待办清单，思考笔记 没有一种笔记方法，能让我这样上瘾。\n在持续记录的同时，我终于打通了信息输入-整合-输出的整个链路，任何我看到的想到的学到的有用的东西，都能变成我知识库的一部分，并应用到我在做的事情上。\n这一切都要归功于Tiago Forte提出的搭建第二大脑理论。\n什么是第二大脑\n这世界上几乎所有最聪明的脑袋们，都有一个共同点——记笔记。\n达芬奇的笔记手稿很出名不用多说， 钱钟书也是个笔记狂魔，歌手Tylor Swift和姆爷也都保持着随时记录灵感的习惯\n这种将大脑中的想法可视化的方式是他们提高创造力的秘诀，因为大脑更擅长创建想法，而不是存储想法。\n这也是Tiago Forte提出的搭建第二大脑理论的基石。\n记笔记，但和我们通常随性记笔记不同，搭建第二大脑是一种更具系统和目的性的笔记方法，你记录的每个内容，或多或少都能在将来用得上。\n它也是一个信息筛选的系统，串联信息的获取、处理和输出。\n可以理解为是一个给大脑开的外挂，也就是把我们看到的思考过的所有东西都文档化电子化。把记忆和储存这件事，外包出去。\n为什么需要第二大脑\n只要你是知识工作者，只要你的工作涉及信息的获取和处理，就能用得上这套方法。特别在这几种场景下，它能促成的改变非常显著。\n\n已经工作了几年，但实际上却没有什么有效的沉淀。没有一套成体系的工作方法和SOP，遇到问题该懵圈还是得懵圈。\n每天摄入大量的碎片化的信息，听播客、看各种文章、刷各种信息，信息不止过载，还要爆炸。看了很多东西，但却无法真正消化和吸收。要用的时候发现根本想不起来，或者找都找不到。\n做什么都是乱的，工作上焦头烂额，生活中杂乱无章，时间被大量耗在和自己的惰性做斗争这件事上，整个人非常低效且拧巴。\n\n我大概花了一个月搭建起了一个初始的系统，生活的方方面面就有了非常显著的提升。\n如何搭建第二大…",
-          "link": "https://sspai.com/post/80845",
-          "publishedOn": "2023-07-05T00:10:58.000Z",
-          "wordCount": 639,
-          "title": "用Notion搭建第二大脑，我开始找回了生活的秩序感",
-          "imageUrl": "https://cdn.sspai.com/2023/07/04/0a9320fc7e2e59e8ee6ae4589eca4771.png"
         }
       ]
     },
@@ -1065,6 +1075,116 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=75699",
+          "author": null,
+          "description": "无论是OpenAI的ChatGPT，还是Meta的Llama 2，AI正在颠覆整个世界。",
+          "link": "https://www.solidot.org/story?sid=75699",
+          "publishedOn": "2023-08-03T11:49:00.000Z",
+          "wordCount": 161,
+          "title": "报名斯坦福庞博士“ChatGPT 和 LLM 系列课程”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75698",
+          "author": null,
+          "description": "任天堂公布了截至 6 月 30 日的第二季度财报，披露其《塞尔达传说》系列的最新作品《王国之泪》逾一个半月销量 1851 万份。《王国之泪》是在 5 月 12 日正式发售。任天堂称，二季度销售额 4610 亿日元（约 32.2 亿美元），同比增长 50%；营业利润 1850 亿日元（约 12.9 亿美元），同比增长 82.40%；经常利润 2530 亿日元（约 17.7 亿美元），同比增长 52.20%；净利润 1810 亿日元（约 12.5 亿美元），同比增长 52.1%。Switch 游戏机销量 391万台，同比增长 13.9%，累计销量 1.295 亿台。Switch 软件销量 5221 万份，同比增长 26.1%，累计销量 10.9 亿份。",
+          "link": "https://www.solidot.org/story?sid=75698",
+          "publishedOn": "2023-08-03T11:41:35.000Z",
+          "wordCount": 190,
+          "title": "《塞尔达传说王国之泪》一个半月销量 1851 万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75697",
+          "author": null,
+          "description": "OpenAI CEO Sam Altman 的加密货币项目 Worldcoin 上周开始发行 WLD 代币，并开始在全球范围内的多个地区设立展区进行推广。Worldcoin 项目的生态系统由两方面组成，分别是 World ID 和 WLD 代币，World ID 为用户提供“数字护照”，能够帮助区分人与 AI。而 WLD 是在以太坊 Layer2 区块链上发行的加密货币，它可以用来在 Worldcoin 支付平台上进行交易和转账。为了获得 WLD，用户需要下载 World App，并在一个叫做 Orb 的设备前进行虹膜扫描。Altman 表示，未来他希望 WLD 能够成为一种全球通用的货币，以及一种实现全民基本收入（UBI）的工具。但对侵犯公民隐私的担忧已经引起全球监管机构注意。肯尼亚内政部表示，已暂停 Worldcoin 的当地活动，政府机构将评估公共安全的潜在风险。",
+          "link": "https://www.solidot.org/story?sid=75697",
+          "publishedOn": "2023-08-03T11:18:44.000Z",
+          "wordCount": 179,
+          "title": "Worldcoin 引发安全隐私担忧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75696",
+          "author": null,
+          "description": "老板可能不喜欢远程办公，但这是美国经济保持强劲增长的原因之一。从碧昂丝（Beyoncé）和斯威夫特（Taylor Swift）的音乐会到婚礼旅行，远程办公让一部分员工更容易度过夏季的长周末，不必担心需要回家参加周一早晨九点的全体员工会议。美国商务部称，二季度 GDP 增长 2.4%，主要是由于消费者在度假、音乐会门票和餐馆等服务上的支出增加。经济学家一直预测居民的支出会减缓，预测年内某个时候经济出现衰退。但这一切还没有发生。穆迪经济学家 Thomas LaSalvia 认为部分归因于很多员工不再被限制周一周五必须在办公室上班。工作的灵活性让人更容易旅行和消费。远程办公让旅行、参加音乐会、与朋友度假的成本降低了。",
+          "link": "https://www.solidot.org/story?sid=75696",
+          "publishedOn": "2023-08-03T10:58:54.000Z",
+          "wordCount": 148,
+          "title": "远程工作可能是美国经济表现强劲的一个原因",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75695",
+          "author": null,
+          "description": "台风杜苏芮给华北地区带来了强降雨，部分地区发生了严重洪灾，其中受灾最严重的一个地区是河北保定的涿州市。涿州市是出版业的库房重镇。2017 年北京市开展“疏解整治促提升”专项行动。那一年图书出版行业的印刷、物流、仓储产业链陆续启动外迁，从北京转移到周围的廊坊（永清县）、涿州、沧州（肃宁县）等地。上百家相关行业存书的库房，安家在占地面积 400 亩的北京西南物流中心涿州园及周边地区。西南物流中心是北京最大的图书物流企业，涿州园是其下属三大园区之一。目前可查的最早数据来自 2018 年，西南物流中心及周边仓库的年发货码洋(图书定价总额)超 100 亿元。从 7 月 31 日至 8 月 1 日，涿州受洪水影响的图书库房至少有几十家，每家的损失在数十万至上亿码洋不等。",
+          "link": "https://www.solidot.org/story?sid=75695",
+          "publishedOn": "2023-08-03T09:58:19.000Z",
+          "wordCount": 157,
+          "title": "图书出版行业因涿州洪灾损失惨重",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75694",
+          "author": null,
+          "description": "索价 1100 万美元的高价值域名 AI.com 从今年 2 月开始重定向到 OpenAI 的 ChatGPT 网站，看起来是 OpenAI 收购了该域名。但本周它重定向了马斯克（Elon Musk）旗下的 AI 公司 xAI。域名代理商 Saw.com 此前曾宣布它参与了这次交易，但并没有透露买家是谁。AI.com 的 Whois 信息也没有给出任何答案。一种可能的解释是 OpenAI 收购了 AI.com，然后马斯克从 OpenAI 手中收购了 AI.com。Saw.com 和 xAI 目前尚未对此做出澄清。",
+          "link": "https://www.solidot.org/story?sid=75694",
+          "publishedOn": "2023-08-03T09:24:00.000Z",
+          "wordCount": 179,
+          "title": "马斯克可能收购了 AI.com 域名",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75693",
+          "author": null,
+          "description": "旨在将 Linux 移植到使用 Apple Silicon 芯片的 Mac 电脑上的发行版 Asahi Linux 宣布了它的新旗舰发行版 是基于 Fedora Linux 的 Fedora Asahi Remix。开发者表示选择 Fedora 的原因是能直接与上游合作，快速解决软件包 bug。基于 ARM64 的桌面发行版一直是小众平台，会遇到各种奇怪的软件 bug，原因可能是缺少测试，因此 bug 出现的可能性更高，而迅速修复 bug 非常重要。Fedora 拥有一个稳定且完整支持的 ARM64 版本，有大量用户，基于 Fedora 有助于改善 ARM64 桌面 Linux 的现状。",
+          "link": "https://www.solidot.org/story?sid=75693",
+          "publishedOn": "2023-08-03T08:58:07.000Z",
+          "wordCount": 194,
+          "title": "Asahi Linux 将基于 Fedora 发行版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75692",
+          "author": null,
+          "description": "美国印第安纳州 Middletown 警方报告了一起与 Google 街景车相关的车祸。一名警官当天下午注意到一辆汽车\n在一所高中附近高速行驶，时速达到了 100 英里。警官开车追赶，但这辆带有 Google 街景标志的汽车没有减速停车，而是继续高速行驶了数英里，并闯了红灯。司机在转弯避开一座关闭的桥梁时失控，穿过了一座院子，冲进了一条小溪，然后卡住那里。Google 发言人表示该公司依靠承包商驾驶汽车和收集街景，它对安全非常重视，将与承包商和当地部门紧密合作，采取恰当行动解决问题。司机在送往医院后拘留。",
+          "link": "https://www.solidot.org/story?sid=75692",
+          "publishedOn": "2023-08-03T08:00:52.000Z",
+          "wordCount": 155,
+          "title": "Google 街景车司机与警方发生追逐后冲进小溪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75691",
+          "author": null,
+          "description": "Meta 发布了一个开源 AI 工具 AudioCraft，允许用户通过文本提示生成音乐和音频。源代码托管在 GitHub 上，采用 MIT 许可证，模型权重采用 CC BY-NC-SA-4.0 授权，意味着商业使用受限。AudioCraft 包含了三个模型：MusicGen、AudioGen 和 EnCodec。其中 MusicGen 使用了 Meta 拥有的获得授权的音乐数据库训练，能从文本提示生成音乐；AudioGen 使用公共的音效库训练。",
+          "link": "https://www.solidot.org/story?sid=75691",
+          "publishedOn": "2023-08-03T03:59:15.000Z",
+          "wordCount": 177,
+          "title": "Meta 发布文本音乐生成开源 AI 工具 AudioCraft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75690",
+          "author": null,
+          "description": "黑客使用假的 Android 聊天应用 SafeChat 窃取敏感用户数据，其中包括通话记录，短信和 GPS 定位。SafeChat 包含了间谍软件 Coverlm 的一个变种，能窃取流行消息应用如 Telegram、Signal、WhatsApp、Viber 和 Facebook Messenger 的数据。安全研究人员认为印度 APT 组织 Bahamut 是这一行动的幕后发起者。攻击者主要是通过 WhatsApp 发送钓鱼消息，直接向受害者发送恶意负荷。",
+          "link": "https://www.solidot.org/story?sid=75690",
+          "publishedOn": "2023-08-03T03:31:22.000Z",
+          "wordCount": 185,
+          "title": "黑客使用假的 Android 聊天应用窃取 Signal 和 WhatsApp 用户数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75689",
+          "author": null,
+          "description": "ChromeOS 正在将浏览器和操作系统分离开来。该项目代号 Lacros——代表 Linux And ChRome OS。顾名思义，也就是将 ChromeOS 的 Linux OS 和 Chrome 浏览器分开，允许 Google 独立更新这两大组件。今天的 Chrome OS 系统 UI(包括 ash window manager、login screen 等) 和浏览器都位于相同的二进制程序中，分开之后将变成两个二进制程序，分别为 ash-chrome (系统 UI) 和 lacros-chrome (浏览器)，此举的一个意图是加入更多对 Wayland 的支持。ChromeOS 此前使用了一个 Google 自己开发的图形栈 Freon，而 Wayland 是今天包括 Android 在内的 Linux 系统和应用广泛使用的图形栈，它将作为 ChromeOS 的原生图形使用。Google 也将无需为 ChromeOS 定制 Chrome，可以直接使用 Linux 版本。",
+          "link": "https://www.solidot.org/story?sid=75689",
+          "publishedOn": "2023-08-03T03:16:45.000Z",
+          "wordCount": 196,
+          "title": "ChromeOS 正在切分浏览器和操作系统",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=75688",
           "author": null,
           "description": "科学家对西班牙野生蜜蜂开展的一项长期研究发现，过去 30 年这些昆虫的体重一直在下降，这很可能是全球变暖所致，气温升高影响了它们的发育和食物链。自 1990 年以来，研究人员捕获了 1700 多只蜜蜂，分属 137 个品种。研究小组在实验室对蜜蜂进行称重后发现，在整个研究期间，这些蜜蜂的平均体重每年下降 0.7%。“块头”最大的蜜蜂受到的影响最大，每年体重减轻约 0.9%。1990 年代体重约 120 毫克的蜜蜂现在仅 90 毫克。这些蜜蜂的栖息地远离城市和农业活动，没有受到杀虫剂、野火或入侵物种的影响。但当地气象站的数据显示，自 2000 年以来，该地区的年平均日最高气温上升了 1.4℃，与全球变暖的趋势一致。温度升高或是导致蜜蜂体型缩小的原因。先前的研究发现，蜜蜂和鱼类等冷血动物在温暖的条件下往往发育得更快，这意味着它们的体型会变小，这一现象被称为“温度—体型规则”。",
@@ -1082,6 +1202,36 @@
           "publishedOn": "2023-08-02T14:22:45.000Z",
           "wordCount": 156,
           "title": "俄罗斯推行网络实名制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75686",
+          "author": null,
+          "description": "你可能注意到今天的商界、政界和体育界等领域有很多撒谎成性的领导人。这一现象背后的原因可能是我们这个时代的标志：我们与他们的冲突助长了零和思维，使得人们更容易接受撒谎的领导者。《The Rise of Dishonest Leaders: Causes and Solutions》的作者称，过去十年公众信任度显著下降，对科学、事实和说真话的态度矛盾突出。现代的信息分享方式加剧了虚假信息的传播。传播者对社媒平台上的信息真实性缺乏认知，在分享之前未能思考信息的真实性。即使传播者意识到信息可能是假的，他们可能更关心分享信息的社交价值，而不是其准确性。不诚实通常被视为恶意和无能，而不是善意和能干。但在“我们与他们”的冲突中，人们会产生零和思维，认为内部群体的成功与外部群体的失败相关。也就是说，为了让我取得优势，我需要你失败。如果内部群体的成功是主要目标，能迅速实现此类成功的领导者可能会被视为是善意和能干的。",
+          "link": "https://www.solidot.org/story?sid=75686",
+          "publishedOn": "2023-08-02T13:42:04.000Z",
+          "wordCount": 148,
+          "title": "为什么我们选择撒谎者当领导人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75685",
+          "author": null,
+          "description": "日本软银集团旗下的英国芯片设计公司 ARM 最快将于 9 月进行 IPO，估值区间 600-700 亿美元。路演计划于 9 月的第一周开始，之后一周确定 IPO 价格。其最新估值突出了市场对 AI 芯片的看涨情绪。ARM 的估值在年初时最低只有 300 亿美元。软银集团此前曾尝试将 ARM 以 660 亿美元出售给英伟达，这一交易失败之后转向了 IPO。",
+          "link": "https://www.solidot.org/story?sid=75685",
+          "publishedOn": "2023-08-02T11:34:01.000Z",
+          "wordCount": 174,
+          "title": "软银 ARM 最快下个月 IPO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75684",
+          "author": null,
+          "description": "Google 计划对其智能助手 Assistant 进行大修，以加入类似 ChatGPT 和 Bard 的生成式 AI 技术。Google 称它对 Assistant 移动版本的修改工作已经启动。作为这一计划的一部分，Google 将会开始重组其 Assistant 团队，少许人会被裁掉。Assistant 团队有数千人，裁员只涉及数十个职位。",
+          "link": "https://www.solidot.org/story?sid=75684",
+          "publishedOn": "2023-08-02T11:22:18.000Z",
+          "wordCount": 174,
+          "title": "Google Assistant 将加入生成式 AI 技术",
           "imageUrl": null
         },
         {
@@ -3613,126 +3763,6 @@
           "wordCount": 158,
           "title": "腾讯程序员因窃取人大数据库创建外貌打分平台被捕",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75429",
-          "author": null,
-          "description": "欧盟最高法院裁定，Meta 旗下的 Facebook 在发送个性化广告前必须获得用户同意。Facebook 可能会被迫要求用户根据他们与 Facebook 和其他 Meta 应用的互动方式选择是否接受广告。这将破坏 Meta 的核心商业模式，该模式围绕着向其用户销售定向广告进行。周二的裁决将只适用于欧盟地区。",
-          "link": "https://www.solidot.org/story?sid=75429",
-          "publishedOn": "2023-07-05T11:19:55.000Z",
-          "wordCount": 159,
-          "title": "欧盟法院要求 Facebook 需在用户同意下才能展示个性化广告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75428",
-          "author": null,
-          "description": "中科院研究团队在《Virtual Reality & Intelligent Hardware》上发表论文，介绍了推动数字孪生城市的进展。什么是数字孪生城市？根据定义，它是指在数字世界中创建一个同物理实体城市外观一致、行动一致、思想一致的数字虚拟城市，实现对现实世界的监测、诊断、回溯、预测和决策控制，用于实体城市的规划、建设、\n治理和优化等全生命周期管理，它不是单一技术，而是以积木式组装结合了物联网、大数据、BIM（建筑信息模型）、GIS（地理信息系统）、人工智能等多项前沿技术。我国在 2018 年雄安新区规划纲要中就提出了数字孪生城市的概念，而后“十四五”规划纲要中明确提出完善城市信息模型平台，探索建设数字孪生城市。最新的论文称，我国是一个安防大国，全国公共区域安装的摄像机数量达到数千万台，构建了覆盖重点区域和行业领域的视频“天网”，视频大数据需要与人工智能技术结合进行深度挖掘。孪生城市真实运转状态，要能够通过视频呈现真实的世界，需要基于实时视频图像进行映射、分析、预测，进而实现虚拟城市三维可视化、视频融合、多维数据关联分析。",
-          "link": "https://www.solidot.org/story?sid=75428",
-          "publishedOn": "2023-07-05T11:16:35.000Z",
-          "wordCount": 158,
-          "title": "结合大数据与 AI 创建数字孪生城市",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75427",
-          "author": null,
-          "description": "在长达 63 天的电子静默之后，NASA 与火星机智号（Ingenuity）直升飞机恢复了通讯。机智号在火星上完成了 51 次飞行任务，执行第 52 次任务时机智号在向地面下降期间与 NASA 中断了通讯。通讯中断的原因是机智号与毅力号漫游车之间隔了一座小山。机智号依赖于毅力号向地球传输数据，天线传输速率只有每秒 100 kilobits，传输到漫游车的主机之后再通过火星轨道探测器传输到地球。重新恢复通讯标志着第 52 次飞行成功完成。根据 NASA 的飞行日志，机智号累计飞行 11.7 公里，总飞行时长约 91.4 分钟。最高飞行高度 18 米。",
-          "link": "https://www.solidot.org/story?sid=75427",
-          "publishedOn": "2023-07-05T09:09:04.000Z",
-          "wordCount": 166,
-          "title": "NASA 与机智号直升飞机恢复通讯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75426",
-          "author": null,
-          "description": "假如人类一夜之间消失地球会发生什么变化？在人类消失一年后重返地球，你首先注意到的事情不是来自眼睛而是来自耳朵。地球会非常安静。人类产生了巨大的噪音，建筑物很吵，汽车很吵，天空也很吵。人类消失之后这些噪音也会跟着消失。没有人类之后，天空会更蓝，空气会更干净。风雨清扫了地面，人类制造的烟雾灰尘都将消失。室内建筑物将会充满灰尘。灰尘无处不在，空调或人类的走动都会带起灰尘，在人类消失之后空气宁静灰尘降落。",
-          "link": "https://www.solidot.org/story?sid=75426",
-          "publishedOn": "2023-07-05T08:10:50.000Z",
-          "wordCount": 141,
-          "title": "如果人类突然一起消失",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75425",
-          "author": null,
-          "description": "广义相对论指出，宇宙早期的运行速度似比今天观测到的慢得多，但追溯如此亘古的时间是极大挑战。在一项最新研究中，澳大利亚和新西兰科学家使用类星体作为“时钟”破解了这个谜团。他们发现，在宇宙很年轻时，天体的运行速度似乎是今天看到的1/5，这是迄今对宇宙时间膨胀最早的观测。爱因斯坦认为，时间和空间是交织在一起的，自宇宙大爆炸开始，宇宙就一直在膨胀，这种空间的膨胀意味着早期宇宙的时间应该也在膨胀，来自古代宇宙事件的光必须传播更长距离才能到达地球，因此需要更多时间才能到达。如此一来，与现在发生在附近的同一事件相比，非常遥远的宇宙事件似乎展开得更慢。最新研究分析了 20 年来观测到的 190 个类星体的细节。结果发现，宇宙大爆炸 10 亿年后，这些类星体的运行速度似乎仅为现在的 1/5，进一步证实了爱因斯坦对宇宙膨胀的描述——随着年龄的增长而加速。",
-          "link": "https://www.solidot.org/story?sid=75425",
-          "publishedOn": "2023-07-05T06:36:43.000Z",
-          "wordCount": 149,
-          "title": "创世大爆炸后宇宙速度是今天的五分之一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75424",
-          "author": null,
-          "description": "根据美国国家环境预测中心的数据，7 月 3 日是全球有记录以来最热的一天。当天热浪席卷全球，全世界的平均温度为 17.01 摄氏度，超过了 2016 年 8 月创下的 16.92 摄氏度的记录。中国遭遇持续的热浪，平均气温 35 摄氏度以上，北非平均气温接近 50 摄氏度。正处于冬季的南极洲也记录到了异常高的气温：位于阿根廷群岛的 Vernadsky 乌克兰研究基地记录到了 8.7 摄氏度的气温，打破了南极洲 7 月气温记录。",
-          "link": "https://www.solidot.org/story?sid=75424",
-          "publishedOn": "2023-07-05T05:31:05.000Z",
-          "wordCount": 175,
-          "title": "7 月 3 日是有记录以来最热的一天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75423",
-          "author": null,
-          "description": "居于海洋食物链最顶层的史前巨齿鲨并不是冷血杀手，对其牙釉质的同位素分析显示，它是温血动物。巨齿鲨大约在 258 万年前灭绝，科学家发现它能维持比周围海水温度高 7 摄氏度的体温，比同期的其它鲨鱼温差更大，这足以将其归类为温血动物。巨齿鲨长达 15 米，属于鲭鲨科，今天的鲭鲨科鲨鱼包括大白鲨和长尾鲨。虽然大部分鱼类是冷血动物，其体温与周围水温相同，但鲭鱼鲨使其全部或部分身体的温度略高于水温。这种特性被称为中温性或区域恒温性。巨齿鲨这种维持体温的特征是导致其灭绝的原因，其灭绝时正处于全球变冷的时代，它无法在新环境下生存下去。",
-          "link": "https://www.solidot.org/story?sid=75423",
-          "publishedOn": "2023-07-05T05:16:30.000Z",
-          "wordCount": 151,
-          "title": "巨齿鲨是温血动物",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75422",
-          "author": null,
-          "description": "基于 Linux Containers (LXC)的容器管理器 LXD 成为 Canonical 的一部分，相关代码以及账号都将转移到 Canonical 名下。LXD 的项目领导人 Stéphane Graber 早就受雇于 Canonical，该项目的大部分贡献也都来自 Canonical。 LXC 团队对 Canonical 的决定表达了遗憾之情，表示项目的其余部分不受影响。",
-          "link": "https://www.solidot.org/story?sid=75422",
-          "publishedOn": "2023-07-05T04:44:14.000Z",
-          "wordCount": 172,
-          "title": "LXD 成为 Canonical 的一部分",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75421",
-          "author": null,
-          "description": "根据发表在《Nature Aging》期刊上的一项研究，单次注射寿命蛋白 klotho 可以改善老年猴子的认知功能。研究人员认为，这一成果或能推动 klotho 作为一种脑功能恢复疗法的临床转化。认知是大脑的关键功能，但衰老和年龄相关性疾病（如阿尔茨海默病）会导致认知障碍。随着全球人口老龄化，认知障碍已经成为需要有效药物干预的一个生物医学挑战。klotho 是一种由肾脏、大脑组织表达的天然蛋白质，以类似于激素的方式在体内循环。其以希腊命运守护神命名，参与多个重要生理学功能。klotho 也是一种会随年龄增长而减少的长寿蛋白，早前研究已被证明能延长小鼠寿命，近期还被发现能增强小鼠的突触功能和认知能力——无论年少还是年老小鼠，klotho 蛋白片段治疗都可以改善其大脑功能。",
-          "link": "https://www.solidot.org/story?sid=75421",
-          "publishedOn": "2023-07-04T15:20:41.000Z",
-          "wordCount": 158,
-          "title": "长寿因子 klotho 改善了老年灵长类动物的认知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75420",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 115。主要新变化包括：微软在 2023 年 1 月终止支持 Windows 7 和 Windows 8，Firefox 115 将是最后一个支持这两个操作系统的版本，它也是一个长期支持版本（ESR），将一直支持到 2024 年 9 月，之后不再提供安全更新，Mozilla 建议用户升级到较新版本的 Windows；Linux 系统对英特尔 CPU 启用硬件视频解码；标签管理器关闭按钮；不支持 H264 视频解码的平台将使用思科的 OpenH264 插件播放视频；bug 和安全修正，等等。",
-          "link": "https://www.solidot.org/story?sid=75420",
-          "publishedOn": "2023-07-04T15:12:20.000Z",
-          "wordCount": 177,
-          "title": "Firefox 115 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75419",
-          "author": null,
-          "description": "因为法律要求成人网站需要验证用户年龄，Pornhub 屏蔽了美国密西西比州和弗吉尼亚州居民访问其网站。此前它因为同样的原因屏蔽了路易斯安那州和犹他州居民访问网站。Pornhub 认为年龄验证会带来隐私风险，现有的身份验证方案都存在缺陷。Pornhub 称，今年早些时候它对路易斯安那州居民执行了年龄验证，结果流量下降了八成，它认为与其强制执行年龄验证，不如屏蔽该州居民的 IP 地址。",
-          "link": "https://www.solidot.org/story?sid=75419",
-          "publishedOn": "2023-07-04T14:43:31.000Z",
-          "wordCount": 150,
-          "title": "Pornhub 屏蔽密西西比州和弗吉尼亚州居民访问网站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75418",
-          "author": null,
-          "description": "WSJ 援引知情人士的消息报道，美国政府正准备限制中国企业使用美国云计算服务。这项新规如果被采纳，可能会要求亚马逊、微软等美国云服务提供商在向中国客户提供使用先进制程 AI 芯片的云计算服务之前，必须先获得美国政府许可。这项拟议的限制措施被认为是要堵上一个重大漏洞。中国的 AI 公司可能通过使用云服务绕开了现行的出口管制规定，比如使用英伟达的 A100 芯片。美国商务部预计将在未来几周内公布这一行动。",
-          "link": "https://www.solidot.org/story?sid=75418",
-          "publishedOn": "2023-07-04T13:44:04.000Z",
-          "wordCount": 148,
-          "title": "美国考虑限制中国使用美国云计算服务",
-          "imageUrl": null
         }
       ]
     },
@@ -3741,6 +3771,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/747076/",
+          "author": null,
+          "description": "文 AI 蓝媒汇，作者闫烨 不可否认，在经历了 200 多天的狂欢后，大模型赛道还是走到了“参数内卷、包装概念”的境况。 大厂们纷纷将大模型作为向投资市场展示自身开拓新业务的名片，创业型 AI 公司则是以开源大模型为基准，在各个分支赛道打造垂类大模型，试图分得一杯羹。当然，在这其中，也有不少浑水摸鱼\n本文链接",
+          "link": "https://news.cnblogs.com/n/747076/",
+          "publishedOn": "2023-08-04T00:48:00.000Z",
+          "wordCount": 163,
+          "title": "对话小冰CEO李笛：大模型的狂欢，该冷静了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747075/",
+          "author": null,
+          "description": "文 星晚，编辑 文婕 7 月 21 日，新东方教育科技集团（以下简称“新东方”）又官宣了一项新业务，面向中老年人，正式开拓文旅事业。 30 岁的新东方，在创业的路上不断前进，即将开启横跨教育、生活、文旅三大板块的全新阶段。 但与此前不同，新东方此次创业更有了独立门户的想法。7 月 26 日，东方甄选\n本文链接",
+          "link": "https://news.cnblogs.com/n/747075/",
+          "publishedOn": "2023-08-04T00:40:00.000Z",
+          "wordCount": 163,
+          "title": "“学霸”新东方，能带中老年去看多少世界？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747073/",
+          "author": null,
+          "description": "NVIDIA 显卡卖多了，差点让人忽略其本身也是生成式 AI 巨头。 近日，NVIDIA 最新发表的论文披露了一种名为 Perfusion 的「文生图」模型的个性化学习技术。 官网显示，Perfusion 技术是由 NVIDIA 和以色列的特拉维夫大学合作研发的。Perfusion 技术可以帮助自由\n本文链接",
+          "link": "https://news.cnblogs.com/n/747073/",
+          "publishedOn": "2023-08-04T00:32:00.000Z",
+          "wordCount": 163,
+          "title": "不止步于「显卡一哥」，NVIDIA发布Perfusion「文生图」模型学习新技术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747072/",
+          "author": null,
+          "description": "太阳系已经超过 45 亿岁。图片来源：英国《新科学家》杂志网站 科技日报北京 8 月 3 日电 （记者刘霞）美国亚利桑那州立大学研究人员对太阳系陨石上的小斑点开展了最新分析，计算出太阳系的年龄为 45.684 亿岁，而非此前认为的 45.673 亿岁，这表明太阳系“老”了 110 万年。相关论文刊载\n本文链接",
+          "link": "https://news.cnblogs.com/n/747072/",
+          "publishedOn": "2023-08-04T00:30:27.000Z",
+          "wordCount": 163,
+          "title": "45.684亿岁！太阳系“老”了110万年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747071/",
+          "author": null,
+          "description": "45000 年前古人面部近似模型。图片来源：西塞罗·莫赖斯/美国趣味科学网 科技日报讯 （记者张梦然）据美国趣味科学网 8 月 1 日报道，巴西和德国研究人员制作了一个 45000 年前古人的面部近似模型，据信她是迄今为止进行基因测序的最古老的现代人类。 1950 年，考古学家在捷克的一个洞穴系统深\n本文链接",
+          "link": "https://news.cnblogs.com/n/747071/",
+          "publishedOn": "2023-08-04T00:28:38.000Z",
+          "wordCount": 163,
+          "title": "有史以来最古老人类面孔复原",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747069/",
+          "author": null,
+          "description": "科技日报讯 （记者刘霞）据英国《新科学家》杂志网站 8 月 1 日报道，西班牙科学家首次在银河系中心附近的一团气体内，发现了氨基酸的重要成分碳酸，这可能有助于揭示地球上的生命是如何形成的。相关论文已经提交论文预印本网站。 碳酸在人们的呼吸系统中发挥着关键作用，其将二氧化碳从血液转移到肺部，以便呼出；\n本文链接",
+          "link": "https://news.cnblogs.com/n/747069/",
+          "publishedOn": "2023-08-04T00:26:19.000Z",
+          "wordCount": 163,
+          "title": "太空中首次发现氨基酸重要成分碳酸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747070/",
+          "author": null,
+          "description": "上周，大众汽车和小鹏汽车这一「大」一「小」联合起来，给汽车行业投下了一枚重磅炸弹： 大众用 7 亿美元（约 50 亿元人民币）收购了小鹏汽车 4.99% 的股份，双方还会在 2026 年推出两款纯电车型。 海内外主流媒体都认为，对于小鹏汽车这家成立还不到 10 年的初创公司来说，这无疑是一场大胜利。\n本文链接",
+          "link": "https://news.cnblogs.com/n/747070/",
+          "publishedOn": "2023-08-04T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "携手小鹏，大众将如何转身？大众 CEO 说了这些",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747068/",
+          "author": null,
+          "description": "新浪科技讯，北京时间 8 月 4 日凌晨消息，苹果公司（NASDAQ：AAPL）今日发布了截止 7 月 1 日的 2023 财年第三季度财报。财报显示，苹果第三财季总净营收为 817.97 亿美元，与去年同期的 829.59 亿美元相比下滑 1.4%；净利润为 198.81 亿美元，与去年同期的 1\n本文链接",
+          "link": "https://news.cnblogs.com/n/747068/",
+          "publishedOn": "2023-08-03T23:34:48.000Z",
+          "wordCount": 163,
+          "title": "苹果第三财季营收818亿美元 净利润199亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747067/",
+          "author": null,
+          "description": "说起扎克伯格，机器人梗和元宇宙自拍，可能比本人更出圈。 不过现在，扎克伯格希望让你记住他的新人设：运动健将。 7 月底，扎克伯格在 Instagram 晒出了和教练的合影，并宣布自己晋升为了巴西柔术的蓝带。 这是从白带到蓝带的一小步，却是扎克伯格个人的一大步。 某种程度上，扎克伯格正在「马斯克化」—\n本文链接",
+          "link": "https://news.cnblogs.com/n/747067/",
+          "publishedOn": "2023-08-03T14:45:09.000Z",
+          "wordCount": 163,
+          "title": "扎克伯格，正在「马斯克化」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747066/",
+          "author": null,
+          "description": "文 新摘商业评论，作者洛枳 “想不想咱们一起折腾点事情？以后你可以讲故事给孙子听；想不想一起在阿里这个舞台表演一下？留点记忆？” 28 岁就实现财务自由的蒋凡，本来打算在阿里做到合约期满就走人，被时任阿里首席运营官张勇相中，一番有关“梦想”的言论，蒋凡当即热血澎湃。 把淘宝推上移动互联的列车、完成淘\n本文链接",
+          "link": "https://news.cnblogs.com/n/747066/",
+          "publishedOn": "2023-08-03T14:42:06.000Z",
+          "wordCount": 163,
+          "title": "阿里海外电商，离吹响号角还远",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747065/",
+          "author": null,
+          "description": "摘要 赛力斯 7 月仅卖出 4240 辆，同比下降 46%。 问界，掉队了。 华为加持的 AITO 问界，曾经是新能源汽车市场的「黑马」，2022 年销量达到了 7.5 万辆。 但在 2023 年，问界销量断崖式开始下滑。 今年前 5 个月，问界累计销量 1.97 万辆，月均不足 4000 辆。随后\n本文链接",
+          "link": "https://news.cnblogs.com/n/747065/",
+          "publishedOn": "2023-08-03T11:20:00.000Z",
+          "wordCount": 163,
+          "title": "问界「掉队」，沉默的华为在憋什么「大招」？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747064/",
+          "author": null,
+          "description": "来源：环球网 苹果公司 CEO 蒂姆·库克 3 日上午在微博发文，对近期京津冀防汛救灾工作表示关心和支持。 苹果公司 CEO 蒂姆·库克资料图图源：视觉中国 库克这条微博分别用中英文写道，“我们心系受严重暴雨洪涝影响的北京和河北省周边地区的民众。Apple 将捐赠支持当地的救灾工作。” 库克今年 3\n本文链接",
+          "link": "https://news.cnblogs.com/n/747064/",
+          "publishedOn": "2023-08-03T11:08:00.000Z",
+          "wordCount": 163,
+          "title": "苹果CEO库克发文：心系北京河北受灾区居民，苹果将捐赠支持救灾工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747063/",
+          "author": null,
+          "description": "品玩 8 月 3 日讯，自步入智能手机时代以来，直板机便一直在往“趋同”的方向前进。也正是如此，在第一款折叠屏手机问世之时，公众才会有久旱逢甘露之感。或许是看到了行业走向新生的可能性，国内各大品牌在最近几年相继入局折叠行业。这五年争锋，风起云涌，其中最得民心的折叠屏品牌却始终非华为莫属。 据艾瑞咨询\n本文链接",
+          "link": "https://news.cnblogs.com/n/747063/",
+          "publishedOn": "2023-08-03T09:00:00.000Z",
+          "wordCount": 163,
+          "title": "折叠屏为什么始终是华为领先、行业跟随？一台华为Mate X3看出差距",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747062/",
+          "author": null,
+          "description": "8 月 3 日讯，据新浪科技报道，妙鸭相机产品负责人张月光透露称，妙鸭相机B端工作站明日即将上线，目前已经邀请到一些摄像师、设计人员来做内测，同时也欢迎更多的人参与内测。\n本文链接",
+          "link": "https://news.cnblogs.com/n/747062/",
+          "publishedOn": "2023-08-03T08:50:00.000Z",
+          "wordCount": 163,
+          "title": "妙鸭相机B端工作站明日上线，已开启内测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747061/",
+          "author": null,
+          "description": "“开发遇到问题，基本上‘官方文档 + Stack Overflow + Github Issues’能解决 90% 的问题。剩下 10% 的‘问题’不是问题，而是压根没用对，你的方向就是错的。”有开发者说道，这足以证明 Stack Overflow 在程序员心里的地位，至少曾经如此。 近日，有人分享\n本文链接",
+          "link": "https://news.cnblogs.com/n/747061/",
+          "publishedOn": "2023-08-03T08:42:00.000Z",
+          "wordCount": 163,
+          "title": "程序员的未来：工作和学习都要依赖 AI 了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747060/",
+          "author": null,
+          "description": "Kotlin 的最新版本引入了许多新的语言特性，包括用于开放范围的…<操作符、扩展正则表达式等。此外，它还改进了 Kotlin Multiplatform 和 Kotlin/Native 支持。 Kotlin 1.9 稳定了与枚举类关联的 entries 属性，它会返回所定义的枚举常量的所有值的列表\n本文链接",
+          "link": "https://news.cnblogs.com/n/747060/",
+          "publishedOn": "2023-08-03T08:30:00.000Z",
+          "wordCount": 163,
+          "title": "Kotlin 1.9.0 发布：带来多项新的语言特性，改进 Multiplatform/Native 支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747058/",
+          "author": null,
+          "description": "Bleeping Computer 网站披露，网络攻击者利用 Salesforce 电子邮件服务和 SMTP 服务器中的漏洞，针对一些特定的 Facebook 账户发起复杂的网络钓鱼活动。 据悉，网络攻击者利用 Salesforce 等具有良好信誉的电子邮件网关分发网络钓鱼电子邮件，此举有利于其规避\n本文链接",
+          "link": "https://news.cnblogs.com/n/747058/",
+          "publishedOn": "2023-08-03T08:20:00.000Z",
+          "wordCount": 163,
+          "title": "黑客利用 Facebook 漏洞，发起网络钓鱼攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747057/",
+          "author": null,
+          "description": "潮新闻客户端记者张云山 通义千问开源！8 月 3 日，AI 模型社区魔搭 ModelScope 上架两款开源模型 Qwen-7B 和 Qwen-7B-Chat，阿里云确认其为通义千问 70 亿参数通用模型和对话模型，两款模型均开源、免费、可商用。在多个权威测评中，通义千问 7B 模型取得了远超国内外\n本文链接",
+          "link": "https://news.cnblogs.com/n/747057/",
+          "publishedOn": "2023-08-03T08:10:00.000Z",
+          "wordCount": 163,
+          "title": "阿里云通义千问宣布开源！70亿参数模型上线魔搭社区，免费可商用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747056/",
+          "author": null,
+          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 如果一种药能对抗所有肿瘤，会被称作“癌症药物的圣杯”。 现在，它来了。顶级癌症研究机构希望之城（City of Hope）宣布：开发出一种在临床前研究中消灭所有实体肿瘤的靶向化疗药物 AOH1996。 希望之城是美国最大的癌症研究和治疗机构之一，也是糖尿病\n本文链接",
+          "link": "https://news.cnblogs.com/n/747056/",
+          "publishedOn": "2023-08-03T07:55:00.000Z",
+          "wordCount": 163,
+          "title": "一种药对抗所有肿瘤，“癌症药物的圣杯”进入1期人体临床试验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747055/",
+          "author": null,
+          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 这家清华系 AI 创业公司的大模型，有点不一样。聆心智能发布最新“超拟人大模型”CharacterGLM。与 ChatGPT 为代表的“功能型 AI”不同，“拟人型 AI”在交流过程中能呈现丰富的立体化“人格”。 不局限表面上“机械性”话术，具有更符合人类\n本文链接",
+          "link": "https://news.cnblogs.com/n/747055/",
+          "publishedOn": "2023-08-03T07:44:00.000Z",
+          "wordCount": 163,
+          "title": "Chinajoy惊现清华系大模型公司，「超拟人大模型」驱动AI互动游戏",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/747010/",
           "author": null,
@@ -9319,226 +9549,6 @@
           "publishedOn": "2023-07-05T13:15:00.000Z",
           "wordCount": 163,
           "title": "芯片元老卢山出走创业 ，字节依然在押注服务器芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745251/",
-          "author": null,
-          "description": "IT 之家 7 月 5 日消息，日前安徽奇点智能新能源汽车有限公司新增一则破产审查信息，申请人为钟文明等 10 人，经办法院为安徽省铜陵市中级人民法院。 资料显示，该公司成立于 2016 年 10 月，法定代表人为徐军，注册资本 13.5 亿人民币，由奇点汽车关联公司智车优行科技（上海）有限公司、匠\n本文链接",
-          "link": "https://news.cnblogs.com/n/745251/",
-          "publishedOn": "2023-07-05T13:07:00.000Z",
-          "wordCount": 163,
-          "title": "又一“造车新势力”宣告落幕，安徽奇点汽车公司被申请破产审查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745250/",
-          "author": null,
-          "description": "今天上午，我国首个开源桌面操作系统“开放麒麟 1.0”正式发布，标志着我国拥有了操作系统组件自主选型、操作系统独立构建的能力，填补了我国在这一领域的空白。 操作系统是计算机的灵魂，今天发布的“开放麒麟 1.0”是通过开放操作系统源代码的方式、由众多开发者共同参与研发的国产开源操作系统。该系统由国家工\n本文链接",
-          "link": "https://news.cnblogs.com/n/745250/",
-          "publishedOn": "2023-07-05T13:00:00.000Z",
-          "wordCount": 163,
-          "title": "我国首个开源桌面操作系统“开放麒麟1.0”正式发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745249/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 首个高质量文本转视频开源模型 Zeroscope，仅需 8G 显存就能用！ 文生图模型 Stable Diffusion 开源后，将「AI 艺术」彻底平民化，只需一张消费级显卡即可制作出非常精美的图片。 而文本转视频领域，目前质量较高的只有 Runway 前不久推出的商用 \n本文链接",
-          "link": "https://news.cnblogs.com/n/745249/",
-          "publishedOn": "2023-07-05T12:38:00.000Z",
-          "wordCount": 163,
-          "title": "AI新风口？首个高质量「文生视频」模型Zeroscope引发开源大战：最低8G显存可跑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745248/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 最近，Nature 子刊的最新研究证实，一种叫 Klotho 的抗衰老蛋白能够让衰老的恒河猴恢复记忆。这一研究，或许可以用于逆转人类的大脑衰老上。 返老还童，一个人类的永恒话题。 从两千年前的秦始皇，到如今的硅谷富豪，当一个人的财富和权力到达了顶峰，下一个阶段，必然就是追求\n本文链接",
-          "link": "https://news.cnblogs.com/n/745248/",
-          "publishedOn": "2023-07-05T08:50:00.000Z",
-          "wordCount": 163,
-          "title": "科学家发现「返老还童」蛋白！Nature：抗衰老蛋白让老年猴子恢复记忆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745186/",
-          "author": null,
-          "description": "孔武有力的格栅设计，硬朗结实的肌肉线条，高高在上的坐姿视野，这是大部分人对 SUV 车型的初印象。 SUV 车型凭借远超其他车型的通过性，能够承担起「上山下海」的职责，行驶在「无趣」的城市钢筋丛林中，还保留着一丝野性的荷尔蒙。 但，在某一个时刻，你是不是会觉得路上某些「霸道」车主，开起车来真的很霸道\n本文链接",
-          "link": "https://news.cnblogs.com/n/745186/",
-          "publishedOn": "2023-07-05T01:11:00.000Z",
-          "wordCount": 163,
-          "title": "「远离大货」你肯定知道，「远离 SUV」你知道吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745185/",
-          "author": null,
-          "description": "科技日报讯 （记者刘霞）爱因斯坦的广义相对论指出，遥远且古老宇宙的运行速度似乎比今天观测到的慢得多，但追溯如此亘古的时间是极大挑战。在一项最新研究中，澳大利亚和新西兰科学家使用类星体作为“时钟”破解了这个谜团。他们发现，在宇宙很年轻时，天体的运行速度似乎是今天看到的1/5，这是迄今对宇宙时间膨胀最早\n本文链接",
-          "link": "https://news.cnblogs.com/n/745185/",
-          "publishedOn": "2023-07-05T01:05:02.000Z",
-          "wordCount": 163,
-          "title": "大爆炸后天体运行速度仅为现在的五分之一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745184/",
-          "author": null,
-          "description": "GameLook 报道/所有的游戏项目，尤其是大项目，由于职业细分化，会导致人才分离。然而，每个参与研发的人都需要和谐一致才能做出最好的游戏，策划和工程师领域尤其如此。由于游戏的设计和实现需要不断迭代，策划和程序员必须密切合作。 问题在于，这两个领域几乎是对立的，他们的思维方式和沟通语言都不一样。在\n本文链接",
-          "link": "https://news.cnblogs.com/n/745184/",
-          "publishedOn": "2023-07-05T00:58:00.000Z",
-          "wordCount": 163,
-          "title": "暴雪资深工程师分享：如何让程序员和游戏策划好好沟通、不吵架？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745177/",
-          "author": null,
-          "description": "科技日报北京 7 月 4 日电 （记者张梦然）在最新一期《自然·光子学》上，美国哥伦比亚大学工程学院研究人员展示了一种新型节能芯片，可通过连接节点的光纤电缆传输大量数据。该芯片不需要使用多个激光器来产生不同波长的光，而只需要一个激光器来产生数百个不同波长的光，这些光可同时传输独立的数据流。 运行大型\n本文链接",
-          "link": "https://news.cnblogs.com/n/745177/",
-          "publishedOn": "2023-07-05T00:51:14.000Z",
-          "wordCount": 163,
-          "title": "新型光子芯片突破高性能计算“带宽瓶颈”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745183/",
-          "author": null,
-          "description": "「进网许可证」每年贴在数以亿计的电子产品上，但它的存在感又相当之低，很多用户买到新手机往往看都不看就撕下它扔掉。 存在感并不强的「进网许可证」刚刚完成了一次换装，新装之下，希望各位用户也能知晓，这张小小的标签，有何作用。 「进网许可」刚刚变样 近日，工业和信息化部发布通告，自 2023 年 7 月 \n本文链接",
-          "link": "https://news.cnblogs.com/n/745183/",
-          "publishedOn": "2023-07-05T00:47:00.000Z",
-          "wordCount": 163,
-          "title": "每个新手机都有的「进网许可」刚刚变样了，撕掉前先看看它有什么用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745182/",
-          "author": null,
-          "description": "Reddit 的 IAmA 可能不是订阅数最多的 Subreddit，但肯定是影响力最大的社群。当名人如奥巴马或比尔盖茨参与 AMA 活动时，无数媒体会进行报道，这些报道吸引了用户加入 Reddit 社区，有很多人就是通过 AMA 相关的报道对 Reddit 这个平台产生了兴趣。现在，由于 Redd\n本文链接",
-          "link": "https://news.cnblogs.com/n/745182/",
-          "publishedOn": "2023-07-05T00:42:00.000Z",
-          "wordCount": 163,
-          "title": "AMA 社区成为 Reddit API 价格抗议的最新受害者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745181/",
-          "author": null,
-          "description": "7 月 4 日消息，据悉，懂车帝与抖音二手车业务融合，融合后懂车帝和抖音二手车用户规模达到 1.47 亿，活跃商家账号 8.8 万个。 数据显示，在抖音平台，二手车视频量和直播开播量过去 1 年多分别增长 2.9 倍和 4.2 倍，挂载的小程序覆盖车源量增长 5.8 倍。懂车帝二手车车源量超过 22\n本文链接",
-          "link": "https://news.cnblogs.com/n/745181/",
-          "publishedOn": "2023-07-05T00:38:00.000Z",
-          "wordCount": 163,
-          "title": "抖音懂车帝二手车业务融合：用户规模1.47亿 50亿流量扶持优质内容和车源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745180/",
-          "author": null,
-          "description": "根据发表在《Nature Aging》期刊上的一项研究，单次注射寿命蛋白 klotho 可以改善老年猴子的认知功能。研究人员认为，这一成果或能推动 klotho 作为一种脑功能恢复疗法的临床转化。认知是大脑的关键功能，但衰老和年龄相关性疾病（如阿尔茨海默病）会导致认知障碍。随着全球人口老龄化，认知障\n本文链接",
-          "link": "https://news.cnblogs.com/n/745180/",
-          "publishedOn": "2023-07-05T00:35:00.000Z",
-          "wordCount": 163,
-          "title": "长寿因子 klotho 改善了老年灵长类动物的认知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745179/",
-          "author": null,
-          "description": "全新体验版 Windows QQ 9.9.0 正式上线官网，开放官方下载渠道。 更新说明 基于 QQNT 技术架构全面升级，使用操作更加流畅快捷； 全新 UI 设计，界面更加简约轻盈； 消息页面三栏式设计，查看信息更加流畅； 多人语音视频聊天，沟通无极限； 还有更多便捷小功能，欢迎下载体验。 下载地\n本文链接",
-          "link": "https://news.cnblogs.com/n/745179/",
-          "publishedOn": "2023-07-05T00:31:00.000Z",
-          "wordCount": 163,
-          "title": "基于 NT 架构的全新 QQ Windows 版正式发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745178/",
-          "author": null,
-          "description": "据《华尔街日报》报道，美国政府正准备出台一系列措施，限制中国企业和个人使用美国的云计算服务，以保护美国的数据安全和技术优势。这些措施可能包括对云服务提供商的出口许可要求、对云服务用户的背景审查、对云服务内容的监管等。 新规如果获得通过，可能会要求亚马逊和微软等美国云服务提供商需先经过政府许可，才能给\n本文链接",
-          "link": "https://news.cnblogs.com/n/745178/",
-          "publishedOn": "2023-07-05T00:27:00.000Z",
-          "wordCount": 163,
-          "title": "美国将限制中国使用亚马逊、微软等提供训练 AI 模型的云服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745176/",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 115。主要新变化包括：微软在 2023 年 1 月终止支持 Windows 7 和 Windows 8，Firefox 115 将是最后一个支持这两个操作系统的版本，它也是一个长期支持版本（ESR），将一直支持到 2024 年 9 月，之后不再提供安全更新，\n本文链接",
-          "link": "https://news.cnblogs.com/n/745176/",
-          "publishedOn": "2023-07-05T00:23:00.000Z",
-          "wordCount": 163,
-          "title": "Firefox 115 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745175/",
-          "author": null,
-          "description": "上海交通大学医学院等机构的研究人员在 BMJ 子刊《英国运动医学杂志》发表研究称，在校正了遗传风险的情况下，中等至高强度运动与 2 型糖尿病（T2DM）患病风险降低显著相关，此外，遗传风险较高的人群从中等至高强度运动中获益更大。研究人员分析了 UK Biobank 数据库中的 59325 例参与者，\n本文链接",
-          "link": "https://news.cnblogs.com/n/745175/",
-          "publishedOn": "2023-07-05T00:20:00.000Z",
-          "wordCount": 163,
-          "title": "研究称运动有助于降低糖尿病患病风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745174/",
-          "author": null,
-          "description": "UCLA 数学教授陶哲轩在个人博客以及微软网站发表文章谈论了用 GPT-4 研究数学问题。他说，GPT-4 等生成式 AI 工具的出现将改变我们对于软硬件如何发展的预期。 在以对话形式使用中，GPT-4 能充当一位富有同情心的倾听者，热情的共鸣者，创意灵感之源，翻译者或教师，魔鬼代言人。它们能在很多\n本文链接",
-          "link": "https://news.cnblogs.com/n/745174/",
-          "publishedOn": "2023-07-05T00:19:13.000Z",
-          "wordCount": 163,
-          "title": "陶哲轩在 GPT-4 帮助下解决数学问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745173/",
-          "author": null,
-          "description": "Google 于 7 月 1 日更新了它的隐私政策，其中包括保留权利抓取公开 Web 内容训练 AI。 Google 在新版隐私政策中称，“我们可能会收集网络上可公开访问的信息或其它公共来源的信息去帮助训练 Google 的 AI 语言模型，构建产品和功能如 Google Translate、Bar\n本文链接",
-          "link": "https://news.cnblogs.com/n/745173/",
-          "publishedOn": "2023-07-04T23:50:57.000Z",
-          "wordCount": 163,
-          "title": "Google 更新隐私政策将抓取所有 Web 内容训练 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745172/",
-          "author": null,
-          "description": "机器之心专栏 机构：达摩院多语言 NLP 阿里巴巴达摩院多语言 NLP 团队发布了首个多语言多模态测试基准 M3Exam，共涵盖 12317 道题目。 随着大模型的发展，尤其是近来各种开源大模型的发布，如何对各种模型进行充分并且准确的评估变得越来越重要。其中一个越来越受到认可的方向就是利用人类考题来\n本文链接",
-          "link": "https://news.cnblogs.com/n/745172/",
-          "publishedOn": "2023-07-04T14:11:00.000Z",
-          "wordCount": 163,
-          "title": "达摩院发布大模型测试基准：GPT-4勉强及格，其他模型悉数落败",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745171/",
-          "author": null,
-          "description": "机器之心报道 编辑：梓文 开源模型真的超过 ChatGPT 了吗？ 大模型火了起来，每天我们都能看到各种「大」新闻。 今天，又来了个 Big News：新开源的一个大模型超越了 ChatGPT。 具体是什么呢？ OpenLLM 是一系列在极小、多样且高质量的多轮对话数据集上进行微调的开源语言模型。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/745171/",
-          "publishedOn": "2023-07-04T14:00:00.000Z",
-          "wordCount": 163,
-          "title": "第一个超越ChatGPT的开源模型来了？网友并不买账",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745170/",
-          "author": null,
-          "description": "机器之心报道 编辑：杜伟 多图综述理清当前研究现状，这篇 29 页的论文值得一读。 大型语言模型（LLM）已经很强了，但还可以更强。通过结合知识图谱，LLM 有望解决缺乏事实知识、幻觉和可解释性等诸多问题；而反过来 LLM 也能助益知识图谱，让其具备强大的文本和语言理解能力。而如果能将两者充分融合，\n本文链接",
-          "link": "https://news.cnblogs.com/n/745170/",
-          "publishedOn": "2023-07-04T13:50:00.000Z",
-          "wordCount": 163,
-          "title": "大型语言模型与知识图谱协同研究综述：两大技术优势互补",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745169/",
-          "author": null,
-          "description": "机器之心原创 作者：吴昕 企业被放在了开往大模型时代列车的驾驶座上。 从 2 月份起，我们就被络绎不绝的大模型发布和各种 AI 新品轰炸。风暴眼当然是 ChatGPT。 除了极少数瞄准通用底层的野心，一众以 AIGC、NLP 技术为名的创业公司后台接入基础大模型底座，前端做 UI 设计，上架应用商店\n本文链接",
-          "link": "https://news.cnblogs.com/n/745169/",
-          "publishedOn": "2023-07-04T13:35:00.000Z",
-          "wordCount": 163,
-          "title": "坚持做行业大模型，竹间智能给大模型造了一座「模型工厂」",
           "imageUrl": null
         }
       ]
