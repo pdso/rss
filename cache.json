@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 262 期）：告别密码",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n宁波慈溪市的果农，在夜间为火龙果人工授粉。火龙果的花在日落后开放，次日清晨闭合。（via）\n黑客马拉松的正确方式\n你参加过黑客马拉松（hackathon）吗？\n那是一种编程比赛，程序员聚集到一个地点（通常是会议室），在指定时间完成各自的项目，然后评出获胜者。\n\n我知道的\"黑客马拉松\"都非常紧张，必须在48小时甚至24小时内拿出作品，晚上往往没时间睡觉，要熬通宵。\n下面是我在网上找到的一份比赛办法，很具有普遍性。\n团队规模：参赛队伍的最高人数限制为 5 人。\n演示原型：参赛者必须演示原型，可以考虑搭配幻灯片或视频。\n比赛方式：现场决赛的队伍或个人在同一场地的规定时间内，完成并提交组委会发放的同一考题。\n但是，我最近看到了国外的一份黑客马拉松举办通知，才意识到其实还有另一种方式，而且那才是正确的比赛方式。\n\n这个比赛叫做\"NixOS 海洋编程冲刺 2023\"（NixOS Ocean Sprint 2023），看谁能找出 NixOS 这个操作系统的漏洞。\n比赛时间是今年10月份，任何人都可以报名，组委会挑选出20人参赛。\n它的不同之处在于比赛地点：加那利群岛！\n\n那是西班牙著名的旅游胜地，大西洋的热带岛屿，景色优美，每年吸引几百万的全世界游客。\n组委会借了一个泳池大别墅，大家晚上住旅馆，白天就到别墅来比赛。\n\n编程累了，就去泳池游泳。到了饭点，所有人就聚在一起吃饭聊天。\n\n\n清晨和夜晚，你还可以去海滩运动。等到比赛结束，再游览一下加那利群岛。\n我顿时觉得，这才是黑客马拉松的正确方式，以前那种集训式的比赛方式太无趣了，太看重竞技和名次，忽视了交流和乐趣。\n黑客马拉松的结果，其实不重要，几十个小时的命题作…",
-          "link": "http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html",
-          "publishedOn": "2023-07-07T00:04:23.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 261 期）：黑客马拉松的正确方式",
-          "imageUrl": null
         }
       ]
     },
@@ -937,36 +927,6 @@
           "wordCount": 761,
           "title": "开箱(?)一个 K3 Pro",
           "imageUrl": "https://cdn.sspai.com/2023/07/08/617cff7094a5b4d1f898c270ca15edc0.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80927",
-          "author": "玉树芝兰",
-          "description": "告诉你一个好消息，我的新书《学术写作五步法 —— 如何从零完成高质量论文》已于近期由人民邮电出版社出版上市。你可以在 京东 和 当当 等平台下单购买。\n\n需求\n科研新手往往会低估科研写作的难度，望文生义觉得科研成果无非就是「码字儿」而已。科研成果 —— 如期刊论文、会议论文、毕业论文、研究报告或学术专著等 —— 确实可以用字数来计算，但这些作品却绝不仅仅能靠着码字儿堆积数量产生。你需要构建自己的认知系统，了解所在科研领域的进展和需求，通过自己的研究，获得足够的「认知差」，进而将其有效输出。\n一些研究生同学未理解这点，拖延到最后一刻才着手论文写作。一旦真正上手，他们很快就在挫折面前退缩，感到痛苦、折磨与迷茫。最终的毕业论文，有些学生甚至是流着泪完成，然后整天在忐忑中，期盼答辩委员会和外审专家能够高抬贵手。\n「万事开头难」这句话对科研工作也同样适用。其实你的研究生生活，本可以过得更加轻松愉快。初窥科研写作门径，你有很多方法和技巧可以借鉴与应用。我为你写作这本书，就是希望它能够减轻你在科研入门时的困扰和痛苦，在后续的研究过程中收获成果，体验快乐。\n这本书可以看作是我「科研新手入门」系统教程的 3.0 版本。第一版《科研新手全面入坑指南》在 2019 年 10 月底以少数派专栏形式发布。第二版进行了大幅补充、修改和更新，在 2022 年 8 月少数派《经验卷轴》系列推出，更名为《如何入门学术论文写作》。这一次，应人民邮电出版社智元微库负责人张渝涓老师邀请，我又一次对教程进行了系统化梳理，并且增补了 AI 用于论文写作等章节，最终形成了这本书。\n读这本书的时候，你可能会感到奇怪 —— 为什么我在阅读中才引发的困惑，老师却好似已经知晓，并直接在后文给出了答案？其实这倒不是我有什么「读心术」，而是前面两版专栏发布后，吸引了大量的读者，尤其是科研新手。他们在文后提出了各种问题，很多都是我从…",
-          "link": "https://sspai.com/post/80927",
-          "publishedOn": "2023-07-07T10:45:44.000Z",
-          "wordCount": 677,
-          "title": "送你一个礼物——让学习科研工作从难题变乐趣",
-          "imageUrl": "https://cdn.sspai.com/2023/07/07/024ba8a39bf6d5f11184760a134e3034.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80911",
-          "author": "francisfeng",
-          "description": "这是一系列正在进行的文章，记录我实现一个Mac App的过程，从最初的想法，到产品设计、编写代码，最后到产品上线。\n本系列文章预计共有三篇，本文为第一篇。\n\n昨天在 Vercel 上看 Anybox 网站的访问统计，其中有个从未见过的网站，自然而然的，我想了解关于 Anybox 的评论。这是一个频繁更新的个人博客，首页的三篇文章里都未提及 Anybox。归档列表也比较长，而且篇幅不短，肉眼搜索无果，只好使用谷歌的站内搜索。\n我使用的浏览器是 Chrome，具体操作步骤：\n\n⌘ + D 选中地址栏 （即「Open Location…」的快捷键，默认为 ⌘ + L，可自定义）\n⌃ + A 将光标移动到行首\n输入搜索操作符「site:」\n⌃ + E 将光标移动到行尾，并删除 URL 路径，仅保留域名部分\n输入搜索关键词「anybox」\n按下回车执行搜索\n\n可以看到，这个操作即使可以完全使用快捷键完成，它仍然需要敲击多次键盘，特别是在删除 URL 路径时。简而言之，它费手指。\n有更好的办法吗？\n从上面的操作我们可以看到，未知部分仅有关键词。我们可以从当前标签页获得网站，然后拼凑出网址并在浏览器中打开。\n这种需求就是为什么我们使用启动器 App：通过每个启动器都支持的自定义动作实现特有的需求。\n比如如果我要在 Raycast 内实现这样的一个扩展，大概步骤会是这样：\n\n⌘ + 空格呼出 Raycast 面板窗口\n执行「Create Extension」命令\n编写具体的扩展代码，其中关键为使用 Raycast 的 `runAppleScript` 函数获取浏览器的当前标签页的 URL 和使用 `open` 函数打开链接\n\n以我编写过多个 Raycast 扩展的经验预计，实现这个扩展用时不会超过一小时。\n为什么还需要一个 Mac App？\n当然，如果我花了这一个小时去写这个扩展，也就不会…",
-          "link": "https://sspai.com/post/80911",
-          "publishedOn": "2023-07-07T07:22:32.000Z",
-          "wordCount": 816,
-          "title": "一个Mac App是如何诞生的：最初的火花",
-          "imageUrl": "https://cdn.sspai.com/2023/07/07/2fcae9f076bda9fb0ab8fb8fb3dee6e6.png"
-        },
-        {
-          "id": "https://sspai.com/post/80906",
-          "author": "一只兔子先生",
-          "description": "exping v1.5 版本中带来了全新的「快捷指令」功能，快捷指令将为创作者和用户提供方便的入口，允许用户直达地点相关的扩展信息，从浏览到行动的转化将变得更加便捷。\n这让地图不止于信息的展示，地点真正拥有了可操作的交互能力。这大大提升了用户的阅读体验，并给创作者提供更广阔的创作空间。借着这个机会，我们想和你分享，全新地点互动背后的故事。\n关联阅读：\n\nexping：一个地图创作工具是怎么诞生的？\n探索不止，发现地图创作的更多可能性\nexping｜地图组织方式的新探索\n\n信息可交互性\n创作者们喜欢用地图来展现计划和故事。在地图上标记地点和绘制路线就像是画家挥洒画笔涂抹的颜色，构建出了地图的全貌。\n然而，地图不应该只是一张扁平的画面，躺在橱窗中让人静静观赏。如果信息无法在虚拟世界中实现导航的作用，那么它仍然只是一种信息展示手段，无法真正实现虚拟与现实的连接。\n过去，一张好地图的标准是能直接找到目的地。现在，我们依旧认为好的地图应具备直接带你到达目的地的“导航”能力，区别在于，这种导航能力不仅是线下，更应该在线上。\nImage by rawpixel.com\n手机定位导航位能够带我们随时找到真实世界的「地方」，我们也希望在虚拟网络世界中的地图，能够直接带我们去到虚拟世界的每个角落。就像我们在现实生活中遨游城市，可以自由走到任何路口和，在线地图也应该能够响应用户的点击和操作，直接将其带到指定的位置。\n快捷指令功能正是基于这样的理念而开发的，它可以让每一个地点都连接实际的互动和体验，为用户打开一扇通往虚拟目的地的大门。\n从现在开始，地图中的地点将会拥有交互式按钮，你可以通过快捷指令将联系方式、报名表单、外卖点单、购买链接、注册报名链接等信息直接嵌入地点，让用户能够一键直达操作，打破地图和现实之间的鸿沟，真正将虚拟与现实衔接。\n\n如何使用快捷指令\n快捷指令支持将网址(URL)、电话号…",
-          "link": "https://sspai.com/post/80906",
-          "publishedOn": "2023-07-07T04:17:01.000Z",
-          "wordCount": 634,
-          "title": "exping｜快捷指令—地点互动的新起点",
-          "imageUrl": "https://cdn.sspai.com/2023/07/07/34d2abfa2cdcf463dbe7c50b8152f119.jpeg"
         }
       ]
     },
@@ -1020,16 +980,6 @@
           "wordCount": 698,
           "title": "老司机 iOS 周报 #251 | 2023-07-10",
           "imageUrl": "https://opengraph.githubassets.com/03b2249cac9f2a2a57b959098c5c5c4b3f543e512671ed30300f73dd3af024e5/SwiftOldDriver/iOS-Weekly/releases/tag/%23251"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23250",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nGitHub 的 Dependency Graph, Dependabot Alerts 和 Advisory Database 现在正式提供 Swift 的支持\n@kemchenj：之前在 244 期周报里曾经提到过 GitHub 的代码扫描功能计划提供 Swift 的支持，现在这个功能已经正式上线了，感兴趣的朋友可以赶紧去尝试一下。\nGitHub 的 Code Scanning 会扫描和索引项目的 Dependency 信息，并且提供：\nDependency Graph。\n\n这意味着开发者可以在 GitHub 上看到有哪些项目依赖了自己的 Swift 库。\n可以使用 Dependabot，在依赖库更新时，自动提交 Pull Request 更新依赖库版本。\n安全漏洞警告。如果一个代码库出现安全漏洞时，它可以在发布修复版本后使用 GitHub 内建的功能进行记录，此时 GitHub 就会通知所有依赖了这个库的下游项目，并且自动提交 Pull Request 将依赖更新到已修复的版本。\n需要注意的是，这个功能只支持 SwiftPM，不支持 Cocoapods。\nWWDC23 内参\n关注老司机技术公众号，回复「2023」，领取 2023 及往年内参\n🌟 WWDC23 10013 - Meet StoreKit for SwiftUI\nRickey：内购（IAP）的实现一直是一个复杂棘手的问题。不过最新的 StoreKit 为 SwiftUI 提供了一种非常简洁优雅的实现方式，本文将以实战为基础，由浅入深地进行介绍。\n🌟 WWDC23 10111 - 使用 ImmersiveSpace 让 S…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23250",
-          "publishedOn": "2023-07-07T02:25:22.000Z",
-          "wordCount": 711,
-          "title": "老司机 iOS 周报 #250 | 2023-07-03",
-          "imageUrl": "https://opengraph.githubassets.com/664412b6242989361569716dea755b6df2f907901bfe8fe241aaea0bdc050c37/SwiftOldDriver/iOS-Weekly/releases/tag/%23250"
         }
       ]
     },
@@ -1044,6 +994,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75715",
+          "author": null,
+          "description": "NASA 地面控制人员于 7 月 21 日向航海家二号发送的一系列常规指令触发了飞船天线方向偏转 2 度，破坏了飞船向地球发送数据和接收指令的能力。NASA 早些时候表示这次通信中断将是暂时的，因为航海家二号经过编程一年多次重置其天线方向，以确保天线指向地球。下一次重置时间是在 10 月 15 日。现在 NASA 的深空网络使用多根天线探测到了来自航海家二号的载波信号，也就是用于向地球发送数据的信号。只是信号太微弱而无法提取数据。然而探测到信号证明航海家二号运行正常。NASA 使用深空网络天线再次向航海家二号发送指令，命令它重新调整天线方向指向地球。信号从地球发送到飞船然后飞船返回信号需要 37 小时。8 月 4 日 12:29 a.m. EDT，航海家二号再次向地球发送科学和遥测数据。NASA 完全恢复了与飞船的通信。",
+          "link": "https://www.solidot.org/story?sid=75715",
+          "publishedOn": "2023-08-05T15:09:22.000Z",
+          "wordCount": 169,
+          "title": "NASA 恢复与航海家二号的通信",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75714",
+          "author": null,
+          "description": "Kagi 付费搜索引擎（有 100 次免费试用）用户将 CSDN 加入到屏蔽域名的流行名单中。Kagi 除了内置垃圾信息过滤器外，还允许用户自定义个人的黑名单和白名单，加入个人喜好或不喜欢的网站域名。Kagi 的统计显示，最不受用户喜欢的域名是 pinterest.com、facebook.com、quora.com、foxnews.com、tiktok.com、instagram.com、twitter.com...等众多热门网站，其中一个引人注目的中文网站是 blog.csdn.net。",
+          "link": "https://www.solidot.org/story?sid=75714",
+          "publishedOn": "2023-08-05T11:21:27.000Z",
+          "wordCount": 162,
+          "title": "Kagi 搜索用户将 CSDN 加入屏蔽域名名单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75713",
+          "author": null,
+          "description": "为了遵守欧盟的数字服务法（Digital Services Act 或 DSA），TikTok 将允许欧洲用户选择关闭 For You 和 Live feeds 功能背后的个性化推荐算法。关闭推荐算法之后，TikTok 将向用户展示他们所生活地区和世界各地的热门视频，不再是根据个人兴趣展示的内容。DSA 要求超大型网络平台必须允许用户退出接收个性化内容——个性化内容通常是基于对用户活动的跟踪和分析。对于 Following 和 Friends 功能下的视频流，TikTok 将按时间顺序显示。",
+          "link": "https://www.solidot.org/story?sid=75713",
+          "publishedOn": "2023-08-05T03:48:08.000Z",
+          "wordCount": 163,
+          "title": "TikTok 欧洲用户将可选择关闭个性化推荐算法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75712",
+          "author": null,
+          "description": "位于南半球的南美目前处于冬季，但部分地区的温度超过了 35 摄氏度，令气候学家目瞪口呆。智利的数据显示，8 月 1 日有多个气象站记录的气温在 35C 以上。Coquimbo 的 Vicuna 当天最高温度 37C，Liceo Samuel Román Rojas 最高 35.4C，Monte Patricia 最高 31.5C。气候学家和气象历史学家 Maximiliano Herrera 将其称为至今目睹的最极端的天气事件之一。他说，这可能是南半球有史以来最严重的冬季热浪。阿根廷许多地区的气温也达到了 30C-35C，巴西周二和周三出现了 35C 和 38C 的高温。",
+          "link": "https://www.solidot.org/story?sid=75712",
+          "publishedOn": "2023-08-04T15:21:27.000Z",
+          "wordCount": 176,
+          "title": "南美部分地区冬季温度超过了 35 摄氏度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75711",
+          "author": null,
+          "description": "全球市值最高的公司公布了截至 2023 年 7 月 1 日的第三财季财报：营收 818 亿美元，同比下降 1%。但它的付费订阅人数突破了 10 亿。它的订阅服务包括了 Apple Music、iCloud、Apple News、Apple TV+ 等。苹果软件服务的收入增长抵消了硬件销售收入放缓的影响。目前软件服务占到了总销售额的四分之一以上。Apple CEO Tim Cook 表示，“我们高兴地宣布，在超过 10 亿次付费订阅的驱动下，我们的服务营收创下六月份的季度历史新高。同时，得益于 iPhone 的强劲销售，我们在新兴市场持续保持优势。”",
+          "link": "https://www.solidot.org/story?sid=75711",
+          "publishedOn": "2023-08-04T15:07:21.000Z",
+          "wordCount": 173,
+          "title": "苹果的付费订阅用户达到了 10 亿",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75710",
           "author": null,
@@ -3603,106 +3603,6 @@
           "wordCount": 167,
           "title": "AI 热潮下旧金山科技公司恢复招聘",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75453",
-          "author": null,
-          "description": "加州大学河滨分校的研究人员在实验室里对小鼠的肠道进行了检查，这些小鼠连续喂食高豆油食物长达 24 周。他们发现有益细菌减少，有害细菌增加，这是导致结肠炎的条件。研究人员称，大豆油中的亚油酸是主要的问题。豆油含量高的饮食会促进肠道中附着的侵入性大肠杆菌的生长。这种细菌利用亚油酸作为碳的来源来满足其营养需求。此外，肠道中的一些有益细菌无法承受亚油酸而死亡，导致有害细菌滋生。亚油酸是一种必需脂肪酸。研究人员在实验中使用的大豆油含有 19% 的亚油酸。但必要并不意味着过量会对身体带来好处。未来的研究需要确定每天摄入多少亚油酸是安全的临界点。橄榄油的亚油酸含量较低，是一种更健康的油。",
-          "link": "https://www.solidot.org/story?sid=75453",
-          "publishedOn": "2023-07-07T10:53:27.000Z",
-          "wordCount": 146,
-          "title": "食用植物油或会导致肠道问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75452",
-          "author": null,
-          "description": "网信办公布了《网络暴力信息治理规定（征求意见稿）》，意见截止日期 8 月 6 日。所谓网络暴力信息是指通过网络对个人集中发布的，侮辱谩骂、造谣诽谤、侵犯隐私，以及严重影响身心健康的道德绑架、贬低歧视、恶意揣测等违法和不良信息。《征求意见稿》规定：",
-          "link": "https://www.solidot.org/story?sid=75452",
-          "publishedOn": "2023-07-07T10:02:39.000Z",
-          "wordCount": 149,
-          "title": "网信办公布《网络暴力信息治理规定（征求意见稿）》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75451",
-          "author": null,
-          "description": "旧金山的一个安全街道活动人士组成的去中心化组织发现可通过在引擎盖上放置交通锥阻止 Cruise 和 Waymo 公司的无人驾驶出租车行驶。他们鼓励其他人一起效仿。这一恶作剧被称为 Week of Cone，旨在抗议 Cruise 和 Waymo 扩大在旧金山的无人出租车服务。抗议者宣称，无人出租车并没有如 Cruise 和 Waymo 所宣称的那样减少交通堵塞和碰撞事故 ，它们反而堵住了公共汽车和紧急车辆行驶的道路。它们的汽车甚至杀死了一个人和一条狗。这些公司还和警方合作，在未经同意下对每个人进行全程录音。这些说法有点夸张，Waymo 的无人出租车并没有在旧金山造成任何人身伤害，造成人死亡的事件发生在 2018 年的亚利桑那州，一辆 Uber 自动驾驶汽车在测试时撞上了一位行人。Waymo 将抗议者的做法形容为某种破坏行为。Cruise 则表示它有良好的安全记录。",
-          "link": "https://www.solidot.org/story?sid=75451",
-          "publishedOn": "2023-07-07T09:53:49.000Z",
-          "wordCount": 165,
-          "title": "活动人士用交通锥阻止无人驾驶出租车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75450",
-          "author": null,
-          "description": "OpenAI 宣布其最新的文本生成模型 GPT-4 Generally Available，开放给付费 API 开发者使用。从现在起，所有有成功支付史的 OpenAI API 开发者都可访问 GPT-4。OpenAI 计划在月底向新开发者开放 GPT-4，基于计算的可用性逐步提高可用性限制。相比前一代的 GPT-3.5，GPT-4 可生成包括代码在内的文本，支持图像和文本输入，在不同专业和学术基准测试上的表现达到了“人类水平”。",
-          "link": "https://www.solidot.org/story?sid=75450",
-          "publishedOn": "2023-07-07T08:35:02.000Z",
-          "wordCount": 171,
-          "title": "OpenAI 宣布 GPT-4 Generally Available",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75449",
-          "author": null,
-          "description": "印象笔记(Evernote）于今年 1 月被 Bending Spoons 正式收购，2 月 17 日 129 名有员工被裁掉。公司发言人称这是艰难而必要的决定，公司多年来未盈利，从长期看是不可维持的。本周印象笔记的剩余员工全部被裁。Bending Spoons 接手了印象笔记的运营，它还提高了订阅价格，称需要新的收入来支付新功能的开发费用，但它如何在没有印象笔记原员工的情况下开发新功能？",
-          "link": "https://www.solidot.org/story?sid=75449",
-          "publishedOn": "2023-07-07T06:57:29.000Z",
-          "wordCount": 162,
-          "title": "Bending Spoons 裁掉了印象笔记所有员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75448",
-          "author": null,
-          "description": "索尼克之父中裕司因内幕交易被东京地方法院判处 2 年半徒刑，缓刑四年，并处以 200 万日元罚款，追罚 1.71 亿日元。中裕司是在 2022 年 11 月被捕的，他是《索尼克系列》和《梦幻之星网络版》的创造者。中裕司被控在游戏公司史克威尔艾尼克斯（Square Enix）工作期间获悉了《Dragon Quest Tact》的重要情报，该游戏由史克威尔艾尼克斯和 Aiming 共同开发，当时这一消息还没有披露。在游戏相关消息宣布前，中裕司购买了大约 1 万股的 Aiming 股票价值约 280 万日元。",
-          "link": "https://www.solidot.org/story?sid=75448",
-          "publishedOn": "2023-07-07T06:06:56.000Z",
-          "wordCount": 170,
-          "title": "索尼克之父中裕司因内幕交易被判 2 年半徒刑缓刑四年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75447",
-          "author": null,
-          "description": "Android 厂商热衷于堆硬件规格，现在我们有了内存容量比绝大多数笔记本电脑还要高的智能手机：中兴旗下的努比亚推出了红魔8S Pro+，其基本内存为 16 GB，但它有一个最高端型号内存容量增加到了 24GB，储存空间 1TB，售价 7499 元。红魔8S Pro+ 配备了高通的第二代骁龙 8 移动平台高频版(频率 3.36 GHz)，以及自研芯红芯 R2，6.8 英寸 120 Hz  2480×1116 OLED 显示屏，5000 mAh 电池，165 W 快充能在 14 分钟内充满电，等等。这款手机将于 7 月 11 日发售。",
-          "link": "https://www.solidot.org/story?sid=75447",
-          "publishedOn": "2023-07-07T05:46:04.000Z",
-          "wordCount": 189,
-          "title": "中兴智能手机努比亚红魔8S Pro+ 内存达到 24 GB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75446",
-          "author": null,
-          "description": "马斯克（Elon Musk）律师 Alex Spiro 代表 Twitter（或  X Corp）致函 Meta CEO 扎克伯格（Mark Zuckerberg），指控 Meta 刚刚上线的 Threads 应用侵犯了其知识产权，威胁起诉。Spiro 在信中称，Meta 雇佣了数十名被 Twitter 解雇或从公司辞职的员工，这些员工曾接触到了 Twitter 的商业机密和其它高度机密信息，他们对 Twitter 负有保密的义务，其中很多人还不当保留了 Twitter 文件和电子设备。自马斯克接手 Twitter 以来，该公司的员工总数从 7500 人减少到大约 1500 人，因未支付遣散费和奖金该公司还面临被解雇员工的诉讼。Spiro 声称 Meta 利用 Twitter 前员工开发了山寨应用 Threads 违反了州和联邦的法律，他要求 Meta 立即采取措施停止使用任何 Twitter 的商业机密，否则可能面临起诉。Meta 的知情人士表示，Threads 的工程团队没有任何前 Twitter 员工。",
-          "link": "https://www.solidot.org/story?sid=75446",
-          "publishedOn": "2023-07-07T02:23:46.000Z",
-          "wordCount": 207,
-          "title": "Twitter 指控 Meta 的 Threads 侵犯其知识产权威胁起诉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75445",
-          "author": null,
-          "description": "根据美国国家环境预测中心的数据，7 月 3 日是全球有记录以来最热的一天。当天平均气温为 17.01 摄氏度，超过了 2016 年 8 月创下的 16.92 摄氏度的记录。然而根据美国国家环境预测中心新收集的数据，7 月 4 日全球平均气温达到了 17.18 摄氏度，打破了周一的记录。世界气象组织周二确认厄尔尼诺现象回顾了。厄尔尼诺现象是一种自然发生的气候型态，与热带太平洋中部和东部海洋表面温度变暖相关，平均每 2 至7 年 发生一次，通常持续 9 至 12 个月。当太平洋急流向南移动时，风将暖水向东推进。这将使全球气温整体上升约 0.2 摄氏度。今年预计会出现更多创记录气温。",
-          "link": "https://www.solidot.org/story?sid=75445",
-          "publishedOn": "2023-07-06T15:44:45.000Z",
-          "wordCount": 167,
-          "title": "周二的全球气温打破了周一的记录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75444",
-          "author": null,
-          "description": "安全研究人员在一个广泛使用的 WordPress 插件中发现了一个正被利用的漏洞。该高危漏洞 CVE-2023-3460  的危险等级为 9.8/10。漏洞存在于用于精简用户注册和登陆流程的 Ultimate Member 插件中，它被逾 20 万 WordPress 网站使用。漏洞允许黑客在目标网站提权，潜在导致未经授权访问和控制受影响网站。对该漏洞的利用至少从六月初就开始了，部分网站报告了可疑活动，如创建了未授权的管理员账号。",
-          "link": "https://www.solidot.org/story?sid=75444",
-          "publishedOn": "2023-07-06T15:35:26.000Z",
-          "wordCount": 173,
-          "title": "WordPress 插件 0day 威胁 20 万网站",
-          "imageUrl": null
         }
       ]
     },
@@ -3711,6 +3611,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/747174/",
+          "author": null,
+          "description": "任 2 年的亚马逊新 CEO 交出了一份漂亮的成绩单，并向下一个征程迈进。 作者：凌梓郡 编辑：郑玄 亚马逊交出了 FAAMG 中最亮眼的财报，但与大模型无关。 8 月 4 日，亚马逊发布 2023 年第二季度财报。期内亚马逊营收 1344 亿美元，增长近 11%，扭转了过去一年持续个位数增长的颓势\n本文链接",
+          "link": "https://news.cnblogs.com/n/747174/",
+          "publishedOn": "2023-08-05T11:53:46.000Z",
+          "wordCount": 163,
+          "title": "亚马逊大涨 1200 亿美元，贝佐斯继承者做对了什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747175/",
+          "author": null,
+          "description": "机器之心报道 编辑：杜伟、小舟 对于谷歌 DeepMind 的 Soft MoE，有人表示：「即使它不是万能药，仍可以算得上一个突破」。 随着大模型涌现出令人惊艳的性能，模型大小已经成为影响模型性能的关键因素之一。通常，对 Transformer 模型来说，模型越大，性能就会越好，但计算成本也会增加\n本文链接",
+          "link": "https://news.cnblogs.com/n/747175/",
+          "publishedOn": "2023-08-05T11:32:00.000Z",
+          "wordCount": 163,
+          "title": "可与ViT一较高下，DeepMind从稀疏转向Soft混合专家模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747173/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 好困 又一个 LK-99 开箱视频来了！此前曾全网直播 24 小时的外国小哥 Andrew McCalip，刚刚也烧出了能磁悬浮的样品。 而就在今天凌晨，曾引起数万网友围观直播的外国小哥 Andrew McCalip，也成功烧制出了能够磁悬浮的疑似 LK-99 样品！\n本文链接",
+          "link": "https://news.cnblogs.com/n/747173/",
+          "publishedOn": "2023-08-05T10:44:47.000Z",
+          "wordCount": 163,
+          "title": "航天小哥8天复刻LK-99磁悬浮！开箱验证结果与华科大相符，手把手步骤详解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747172/",
+          "author": null,
+          "description": "新智元报道 编辑：Lumina 无需代码，只要设置一个情境，就可以绕过 GPT-4 的安全护栏，生成有害内容。 网友又整新活了！ 虽然 OpenAI 一直在升级大语言模型的安全护栏，但是有心的人总能绕过条条框框的设置，让大语言模型生成有害内容。 这位网友就在推特上详细分享了他如何让 GPT-4 教他\n本文链接",
+          "link": "https://news.cnblogs.com/n/747172/",
+          "publishedOn": "2023-08-05T09:40:00.000Z",
+          "wordCount": 163,
+          "title": "0代码破解GPT-4大脑！外国网友击穿LLM护栏，诱导AI一步步造出炸弹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747171/",
+          "author": null,
+          "description": "文节点财经，作者零度 瑞幸带着新一财季的业绩报告，又杀回了市场舞台的中央。 简单看几组数据： · 2023 年 Q2，瑞幸总收入 62.1 亿，净收入同比增长 88%； · 月均交易客户数 4307 万人，同比增长 107.9%； · 自营门店数 7188 家，门店收入 44.95 亿，同比增长 8\n本文链接",
+          "link": "https://news.cnblogs.com/n/747171/",
+          "publishedOn": "2023-08-05T09:29:00.000Z",
+          "wordCount": 163,
+          "title": "瑞幸又杀回来了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747170/",
+          "author": null,
+          "description": "AMD 公司参展 2022 首届中国算力大会（图片来源：钛媒体 App 编辑拍摄） 由于 PC（个人电脑）芯片需求持续疲软，半导体行业整体下行，美国芯片巨头 AMD 公司业绩承压。 北京时间 8 月 2 日，AMD（NASDAQ:AMD）公布 2023 财年二季度财报，实现营收 53.59 亿美元，\n本文链接",
+          "link": "https://news.cnblogs.com/n/747170/",
+          "publishedOn": "2023-08-05T09:21:00.000Z",
+          "wordCount": 163,
+          "title": "AMD净利润暴减94%，市值蒸发400亿，离英伟达越来越远了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747169/",
+          "author": null,
+          "description": "品玩 8 月 5 日讯，OpenAI 今天通过官方 X（推特）账号，宣布 ChatGPT 现在已经默认升级到 GPT-4 版本。 Generative Pre-trained Transformer 4 是由 OpenAI 创建的多模态大型语言模型，也是该公司训练的 AI 模型最新版本。 ChatG\n本文链接",
+          "link": "https://news.cnblogs.com/n/747169/",
+          "publishedOn": "2023-08-05T09:12:00.000Z",
+          "wordCount": 163,
+          "title": "OpenAI ChatGPT Plus 用户默认由 GPT-3.5 升级为 GPT-4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747168/",
+          "author": null,
+          "description": "据澎湃新闻报道，亚马逊云科技生成式 AI 全球副总裁瓦西·菲罗明（Vasi Philomin）表示，“我认为我们无法否认互联网泡沫曾经存在过，但它确实改变了每个人的生活，我们现在已经无法想象没有互联网的生活了。 我相信生成式人工智能将改变每一个职业、每一个行业中的每一个企业。这需要时间。”当问到我们\n本文链接",
+          "link": "https://news.cnblogs.com/n/747168/",
+          "publishedOn": "2023-08-05T09:11:00.000Z",
+          "wordCount": 163,
+          "title": "亚马逊云全球副总裁：生成式AI正处于炒作周期，还未达顶峰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747167/",
+          "author": null,
+          "description": "哥本哈根肉类加工区的中心地带，画廊、艺术咖啡馆和创意工作室不计其数，其中有一幢由鱼市改造而来的 1000 平米建筑，用技术与好奇心创作着宜家对未来的蓝图。 2015 年，宜家资助的 SPACE10 在这里开始了冒险。 作为宜家的未来生活实验室、产品创意孵化器，SPACE10 总是开发一些超概念的产品\n本文链接",
+          "link": "https://news.cnblogs.com/n/747167/",
+          "publishedOn": "2023-08-05T09:07:00.000Z",
+          "wordCount": 163,
+          "title": "宜家未来的最酷产品，来自这个神秘实验室",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747166/",
+          "author": null,
+          "description": "新智元报道 编辑：润 研究人员开发出的 AI 科研智能体，直接代替你写论文，人类只用负责毕业就行了。 有了 LLM 加持的 AI 智能体，已经能自动写论文了！ 网站：https://tavily.com/ Github：https://github.com/assafelovic/gpt-resea\n本文链接",
+          "link": "https://news.cnblogs.com/n/747166/",
+          "publishedOn": "2023-08-05T06:10:00.000Z",
+          "wordCount": 163,
+          "title": "哥大开发出AI智能体研究员，投喂题目瞬间生成研究报告，客观真实无幻觉，已经开源人人能用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747165/",
+          "author": null,
+          "description": "智东西（公众号：zhidxcom） 作者程茜 编辑心缘 家人们！谁懂啊？遇到神仙围棋老师了！ 事情是这样的，近期，身为母胎围棋小白的我，突然棋魂觉醒，觉得有必要掌握传承了中国民族文化智慧精华的国粹“围棋”。 为此，我请了一位打败世界冠军的“围棋教练”，一对一在家随时教我下围棋。重要的是这位老师超级有\n本文链接",
+          "link": "https://news.cnblogs.com/n/747165/",
+          "publishedOn": "2023-08-05T05:55:00.000Z",
+          "wordCount": 163,
+          "title": "AI机器人在家教我下围棋，越练越上瘾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747164/",
+          "author": null,
+          "description": "智东西（公众号：zhidxcom） 作者 云鹏 编辑 漠影 自研芯片，如今已成为智能手机厂商们必须要面对的一项艰巨挑战。 智能手机的高端化发展已成大势所趋，聚焦用户体验的革新也成为各家厂商激烈竞争的焦点，而想要实现用户体验的显著改善，离不开软硬件一体化技术的打通。 比如在高端旗舰手机核心比拼的影像领\n本文链接",
+          "link": "https://news.cnblogs.com/n/747164/",
+          "publishedOn": "2023-08-05T05:44:00.000Z",
+          "wordCount": 163,
+          "title": "四年四颗自研芯，从影像到性能，vivo突围底层技术打破体验天花板",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747163/",
+          "author": null,
+          "description": "智东西（公众号：zhidxcom） 编译 铭滟 编辑徐珊 智东西 8 月 4 日消息，据谷歌官网发布，谷歌旗下的谷歌实验室正在与多领域人士进行实验性 AI 合作，塑造新兴技术，并满足不同领域人士的独特需求。该系列合作被称为“实验室课程”（Lab Sessions）。目前谷歌已发布前三场课程，横跨作曲\n本文链接",
+          "link": "https://news.cnblogs.com/n/747163/",
+          "publishedOn": "2023-08-05T05:33:00.000Z",
+          "wordCount": 163,
+          "title": "编曲写作教手语，谷歌实验室用AI玩跨界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747162/",
+          "author": null,
+          "description": "正在退市边缘挣扎的每日优鲜，引入了新的投资人。 8 月 4 日，在美上市的每日优鲜发布公告称，公司分别与两名投资者签订了两份股份购买协议（“融资股份购买协议”）。根据融资购股协议，投资者同意认购本公司合计 54 亿股B类普通股，总购买价为 2700 万美元（折合人民币约 1.94 亿元）。 与此同时\n本文链接",
+          "link": "https://news.cnblogs.com/n/747162/",
+          "publishedOn": "2023-08-05T05:22:00.000Z",
+          "wordCount": 163,
+          "title": "2亿融资，救得了每日优鲜吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747161/",
+          "author": null,
+          "description": "8 月 4 日消息，华为开发者大会 2023 今天开启。在主题演讲环节，华为常务董事、终端 BG CEO、智能汽车解决方案 BU CEO 余承东宣布正式发布新一代近距离无线连接技术——星闪（NearLink）。 据介绍，星闪（NearLink）汇聚了国内外 300 多家头部企业和机构的集体智慧，用一\n本文链接",
+          "link": "https://news.cnblogs.com/n/747161/",
+          "publishedOn": "2023-08-05T05:16:00.000Z",
+          "wordCount": 163,
+          "title": "华为正式发布近距离无线连接技术：星闪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747160/",
+          "author": null,
+          "description": "作者三北 编辑心缘 今日，阿里云宣布通义千问开源且免费可商用，成为加入大模型开源行列的大型科技企业。这是张勇掌舵之后，阿里云首次向百度智能云、华为云等同行未涉足的大模型领域发起奇袭。 “百模大战”打响半年，张勇接手阿里云也已超半年。阿里云在 AI 大模型竞赛中的战斗力如何？张勇即将在一个月后卸任集团\n本文链接",
+          "link": "https://news.cnblogs.com/n/747160/",
+          "publishedOn": "2023-08-05T05:10:00.000Z",
+          "wordCount": 163,
+          "title": "救火阿里云，张勇要闯五道关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747159/",
+          "author": null,
+          "description": "机器之心原创 作者：张倩 最近，Meta 开源的 Llama 2 系列模型引发了不小的轰动。这些模型包含 7B、13B、70B 三种版本，最大的 70B 版本性能接近 GPT-3.5，小一点的版本甚至可以在移动端运行，且整个系列都允许商用，有望成为众多大模型应用的底层支撑。很多人预言说，「大模型的安\n本文链接",
+          "link": "https://news.cnblogs.com/n/747159/",
+          "publishedOn": "2023-08-05T05:00:00.000Z",
+          "wordCount": 163,
+          "title": "接入Llama 2等33个大模型，百度智能云千帆大模型平台重磅升级",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747153/",
+          "author": null,
+          "description": "随着“百模大战”甚至“千模大战”的人工智能大模型竞争下的不断发展，我们正在迎来一个“强应用多模型时代”。在这个时代中，三百六十行，行行有 AI，各种不同类型、不同功能的模型将被广泛应用，模型服务于强应用，而不仅仅是由一个单一的模型来统治整个应用领域。根据最新的市场研究和数据分析，本文将探讨“强应用多\n本文链接",
+          "link": "https://news.cnblogs.com/n/747153/",
+          "publishedOn": "2023-08-05T03:51:50.000Z",
+          "wordCount": 235,
+          "title": "强应用多模型时代到来：人工智能行行落地的机遇与挑战",
+          "imageUrl": "https://img2023.cnblogs.com/news_topic/20230805115039197-354228036.png"
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747158/",
+          "author": null,
+          "description": "下一个时代的门票，值多少钱？ 苹果历时 7 年研发的混合现实眼镜 Vision Pro，即被该公司 CEO 提姆·库克定义为“开启空间计算时代的设备”，尽管还未上市，就已被曝出计划产量大幅缩减。 在市场分析人士眼中，这款眼镜因其拥有的手势、眼球追踪等交互方式太过超前，加之内容生态还处于构建的起步阶段\n本文链接",
+          "link": "https://news.cnblogs.com/n/747158/",
+          "publishedOn": "2023-08-05T03:20:00.000Z",
+          "wordCount": 163,
+          "title": "不靠冰箱彩电，蔚来也能卖？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747157/",
+          "author": null,
+          "description": "机器之心专栏 可以说，AI 初创公司 LinkSoul.Al 的这些开源项目让海外开源大模型在国内的普及和推广速度与国际几乎保持了一致。 7 月 19 日，Meta 终于发布了免费可商用版本 Llama 2，让开源大模型领域的格局发生了巨大变化。 Llama 2 模型系列包含 70 亿、130 亿和\n本文链接",
+          "link": "https://news.cnblogs.com/n/747157/",
+          "publishedOn": "2023-08-05T03:10:00.000Z",
+          "wordCount": 163,
+          "title": "中文版开源Llama 2同时有了语言、多模态大模型，完全可商用",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/747152/",
           "author": null,
@@ -9200,336 +9300,6 @@
           "wordCount": 163,
           "title": "一名中级程序员应该具备的技能",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745438/",
-          "author": null,
-          "description": "试想下，未来你要做一个产品评测视频，但距离交稿日期只有两天。而你完全没有创作思路，一笔没动，但你却一点不着急，慢条斯理地用让小白直接在手机中简单操作开拍 APP，根据产品外观，输入提示器来智能生成口播脚本文案，之后再利用有“全链路”解决视频创作的 WHEE 平台根据提示器，生成脚本文案截图作为场景展\n本文链接",
-          "link": "https://news.cnblogs.com/n/745438/",
-          "publishedOn": "2023-07-07T13:02:00.000Z",
-          "wordCount": 163,
-          "title": "美图大模型，如何让AI更懂“美学”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745437/",
-          "author": null,
-          "description": "品玩 7 月 7 日讯，2023 世界人工智能大会期间，在“聚焦・大模型时代 AIGC 新浪潮 — 可信 AI”论坛上，蚂蚁集团联合清华大学发布 AI 安全检测平台“蚁鉴 2.0”。 蚁鉴 2.0 可实现用生成式 AI 能力检测生成式 AI 模型，可识别数据安全、内容安全、科技伦理三大类的数百种风险\n本文链接",
-          "link": "https://news.cnblogs.com/n/745437/",
-          "publishedOn": "2023-07-07T12:53:00.000Z",
-          "wordCount": 163,
-          "title": "蚂蚁集团发布 AI 安全检测平台“蚁鉴 2.0”，用 AI 识别 AI 模型安全漏洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745436/",
-          "author": null,
-          "description": "2023 年 7 月 6 日， IDC 发布的《全球公共云服务半年度跟踪报告》显示：2022 年全球公共云服务市场收入总计达到 5458 亿美元，比 2021 年猛增 22.9%。 SaaS-应用软件（SaaS- Applications）继续是公共云服务收入的最主要来源，占 2022 年总收入的 \n本文链接",
-          "link": "https://news.cnblogs.com/n/745436/",
-          "publishedOn": "2023-07-07T12:24:34.000Z",
-          "wordCount": 163,
-          "title": "阿里云（跌出）全球前三",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745435/",
-          "author": null,
-          "description": "文：何丽芯 编辑：于丽丽、刘旌 极速 200 天 两个月前，「暗涌 Waves」曾向一位投资了王慧文光年之外的基金合伙人提问：中国创投史上，哪个公司在创办之初就众望所归、并且最终也拥有美好结局？ “说实话，我很难想到。”这位投资人答道。 作为一位 AI 行业的“门外人”，王慧文的杀入格外有戏剧性，最\n本文链接",
-          "link": "https://news.cnblogs.com/n/745435/",
-          "publishedOn": "2023-07-07T12:04:12.000Z",
-          "wordCount": 163,
-          "title": "狂飙200天：进退两难的中国大模型团战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745434/",
-          "author": null,
-          "description": "老牌分析机构 TechMarketView（TMV）最新发布的一个数据分析报告指出，Amazon Web Services 在 2022 年跃居英国软件和 IT 服务行业之首，微软因增长落后于竞争对手而跌出了榜单前三名。 数据显示，英国本地市场在 12 个月内增长了 12.2%，达到 677 亿英镑\n本文链接",
-          "link": "https://news.cnblogs.com/n/745434/",
-          "publishedOn": "2023-07-07T08:50:00.000Z",
-          "wordCount": 163,
-          "title": "微软跌出英国软件和 IT 服务前三名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745433/",
-          "author": null,
-          "description": "印象笔记(Evernote）于今年 1 月被 Bending Spoons 正式收购，2 月 17 日 129 名有员工被裁掉。公司发言人称这是艰难而必要的决定，公司多年来未盈利，从长期看是不可维持的。本周印象笔记的剩余员工全部被裁。Bending Spoons 接手了印象笔记的运营，它还提高了订阅\n本文链接",
-          "link": "https://news.cnblogs.com/n/745433/",
-          "publishedOn": "2023-07-07T08:42:00.000Z",
-          "wordCount": 163,
-          "title": "Bending Spoons 裁掉了印象笔记所有员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745432/",
-          "author": null,
-          "description": "AirPods 的系列可以说是苹果近 10 年来最成功的新产品，根据统计机构 Counterpoint Research 的数据，AirPods 的总销量已经突破 1 亿台，彻底改变了人们的听歌习惯。 经过多年的迭代更新，AirPods 系列共有 AirPods 2、AirPods 3、AirPod\n本文链接",
-          "link": "https://news.cnblogs.com/n/745432/",
-          "publishedOn": "2023-07-07T08:35:00.000Z",
-          "wordCount": 163,
-          "title": "AirPods Pro，将变得更加 Pro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745431/",
-          "author": null,
-          "description": "在上半年发布的 80 多个大模型中，华为可能是少数几个没有在发布会上展示 AI 写文章、AI 作画的公司。 7 月 7 日，华为云开发者大会 2023 上，华为云正式发布盘古大模型 3.0。华为常务董事、华为云 CEO 张平安表示，华为盘古大模型“不做诗，只做事”，正式给盘古大模型定调。 盘古是一个\n本文链接",
-          "link": "https://news.cnblogs.com/n/745431/",
-          "publishedOn": "2023-07-07T08:22:00.000Z",
-          "wordCount": 163,
-          "title": "华为更新盘古大模型，不性感，但实用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745430/",
-          "author": null,
-          "description": "据快科技 7 月 7 日消息，前不久，由美国“海洋之门”勘探公司组织，对“泰坦尼克”号邮轮残骸进行探险旅游的小型观光潜艇“泰坦”号，在下潜后约 1 小时 45 分钟失联。可惜的是，在搜寻数日后，官方确认“泰坦”号在水下解体，特征符合“灾难性内爆”，5 名乘客全部遇难。 今日，从“海洋之门”官网了解到\n本文链接",
-          "link": "https://news.cnblogs.com/n/745430/",
-          "publishedOn": "2023-07-07T08:16:00.000Z",
-          "wordCount": 163,
-          "title": "“灾难性内爆”致5人遇难后，泰坦号公司宣布暂停运营",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745429/",
-          "author": null,
-          "description": "玩套路还是真卖车？法拉第未来反向股票分割贾跃亭回应看“窒息” 快科技 7 月 7 日消息，贾跃亭的造车梦能说已经实现吗？ 虽然已经宣布量产，但 FF 91 还是“鸽”了，再次跳票将“第二阶段交付“时间由二季度末延期至 8 月底，而第三阶段才是向所有预缴全款的用户交付车辆，目前来看，时间恐怕遥遥无期。\n本文链接",
-          "link": "https://news.cnblogs.com/n/745429/",
-          "publishedOn": "2023-07-07T08:11:00.000Z",
-          "wordCount": 163,
-          "title": "玩套路还是真卖车？法拉第未来反向股票分割 贾跃亭回应看“窒息”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745428/",
-          "author": null,
-          "description": "特斯拉官方微博 7 月 7 日宣布，7 月 7 日起升级 Model 3/Y引荐奖励。成功引荐好友下订并提车，购车人可获得 3500 元引荐奖励及 90 天 EAP 免费试用权，引荐人可享 7000 积分奖励、可兑换超充额度、儿童学步车等。 就在 7 月 1 日，特斯拉通过官网及社交平台宣布，全新 \n本文链接",
-          "link": "https://news.cnblogs.com/n/745428/",
-          "publishedOn": "2023-07-07T08:06:00.000Z",
-          "wordCount": 163,
-          "title": "特斯拉升级引荐奖励！可抵扣车辆尾款……",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745427/",
-          "author": null,
-          "description": "打假博主是一条好的内容赛道么？ 文｜张知白 编｜杨佩汶 文章来源｜运营研究社(U_quan） 在抖音上，有个美食博主 @B太，从半年前开始，就跟“奸商”杠上了，专注于揭露各种不良行为，曝光黑心商家。 没想到博主的这种“义举”，受到了粉丝的热情支持。3 个月的时间里，粉丝暴涨了 300 万。不少粉丝还\n本文链接",
-          "link": "https://news.cnblogs.com/n/745427/",
-          "publishedOn": "2023-07-07T08:00:00.000Z",
-          "wordCount": 163,
-          "title": "抖音月涨粉220万，“探店打假”成新流量密码？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745426/",
-          "author": null,
-          "description": "IT 之家 7 月 7 日消息，日前，小冰 CEO 李笛在与新华社“新科创”栏目对话时，提到关于当前人工智能、大模型的发展情况。 被问及“马斯克为何会呼吁停止大模型的研发”时，李笛说当时曾“问”过小冰，马斯克的此举有何目的。小冰在经过调查之后发现，马斯克自己又采购了大量的 GPU，因此得出了“可能是\n本文链接",
-          "link": "https://news.cnblogs.com/n/745426/",
-          "publishedOn": "2023-07-07T07:50:00.000Z",
-          "wordCount": 163,
-          "title": "小冰 CEO ：马斯克呼吁停止研发 AI 大模型是为了给自己争取时间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745368/",
-          "author": null,
-          "description": "出品异观财经 作者炫夜白雪 自 2022 年开始，Keep 三闯港交所，终于即将如愿，作为“运动科技第一股”登陆港交所。 6 月 30 日，港交所公告显示，Keep 于今日起至 7 月 5 日招股，计划全球发售 1083.9 万股。其中国际发售 975.5 万股、中国香港发售 108.4 万股，发售\n本文链接",
-          "link": "https://news.cnblogs.com/n/745368/",
-          "publishedOn": "2023-07-07T01:27:00.000Z",
-          "wordCount": 163,
-          "title": "Keep上市，“运动科技第一股”成色如何？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745367/",
-          "author": null,
-          "description": "先活下去，再谈体面 作者王亚骏 来源 雪豹财经社 融资困难、人才逃离、岗位骤减，自动驾驶已不再是性感的赛道。 L4 迟迟无法落地，商业化前景更明确的 L2 成为重要造血手段。 自动驾驶告别培育期，适者生存，活下来将成为未来几年的主题。 被资本冷落 3 年后，关于自动驾驶的一切开始出现更深的裂痕。 一\n本文链接",
-          "link": "https://news.cnblogs.com/n/745367/",
-          "publishedOn": "2023-07-07T01:24:00.000Z",
-          "wordCount": 163,
-          "title": "十年烧了3000亿，自动驾驶迎来梦醒时分",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745366/",
-          "author": null,
-          "description": "小扎来偷家了。 就在今天，Meta 的新应用 Threads 已经上线苹果商店，这是一个直接对标推特的产品。 Meta 老板马克·扎克伯格还发了条推特，没有文字，就是个图：俩一模一样的蜘蛛侠指着对方，都很惊讶。 要知道小扎可是 11 年没有发推特了，上一条还是 2012 年的。就连和马斯克约架，也是\n本文链接",
-          "link": "https://news.cnblogs.com/n/745366/",
-          "publishedOn": "2023-07-07T01:22:00.000Z",
-          "wordCount": 163,
-          "title": "小扎“偷家”马斯克，新老推特“笼斗”开打",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745365/",
-          "author": null,
-          "description": "2023 世界人工智能大会（WAIC 2023）7 月 6 日开幕。在上海世博中心及世博展览馆外，观众争相排队进入会场。中国证券报记者在展区注意到，人工智能产业链上下游不同规模的企业百花齐放，纷纷展出自家特色产品或服务，不少企业在今年大会期间发布了新产品。 与会嘉宾深入探讨人工智能技术前景以及产业发\n本文链接",
-          "link": "https://news.cnblogs.com/n/745365/",
-          "publishedOn": "2023-07-07T01:20:19.000Z",
-          "wordCount": 163,
-          "title": "龙头企业集体亮相 AI创新成果百花齐放",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745364/",
-          "author": null,
-          "description": "新浪科技讯，7 月 6 日晚间消息，2023 世界人工智能大会期间，百度首席技术官王海峰发言指出，百度文心大模型现已升级为文心大模型 3.5，已实现基础模型升级、精调技术创新、知识点增强、逻辑推理增强等，模型效果提升 50%，训练速度提升 2 倍，推理速度提升 30 倍。 据王海峰介绍，在基础模型训\n本文链接",
-          "link": "https://news.cnblogs.com/n/745364/",
-          "publishedOn": "2023-07-07T01:14:47.000Z",
-          "wordCount": 163,
-          "title": "百度CTO王海峰：文心3.5模型效果提升50%，新增知识点增强技术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745363/",
-          "author": null,
-          "description": "新浪科技讯，北京时间 7 月 7 日早间消息，最新报告显示，在经历了数个月持续的岗位减少后，受 AI 领域火爆的推动，旧金山的科技公司 5 月份增加了招聘。 旧金山的最新就业数据报告显示，在旧金山和邻近的圣马特奥县，5 月份科技行业增加了 2800 个工作岗位。旧金山首席经济学家泰德·伊根（Ted \n本文链接",
-          "link": "https://news.cnblogs.com/n/745363/",
-          "publishedOn": "2023-07-07T01:11:46.000Z",
-          "wordCount": 163,
-          "title": "美国旧金山科技行业招聘复苏 经济学家：多亏AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745362/",
-          "author": null,
-          "description": "两个纤维素链（蓝色）连接在一个刚性聚糖（绿色）上，形成了聚糖“发夹”。图片来源：马克斯·普朗克胶体和界面研究所 科技日报讯 （记者刘霞）德国马克斯·普朗克胶体与界面研究所的科学家设计出一种能够折叠成稳定二级结构的碳水化合物序列，这种自折叠糖有望促进生物医学和材料科学的发展。相关研究刊发于 3 日出版\n本文链接",
-          "link": "https://news.cnblogs.com/n/745362/",
-          "publishedOn": "2023-07-07T01:09:05.000Z",
-          "wordCount": 163,
-          "title": "科学家设计首个自折叠糖聚合物",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745361/",
-          "author": null,
-          "description": "由缅因大学工程师设计的小型漂浮式海上风电演示设备坐落于缅因州海岸附近的水域，一直在收集数据，以了解沿海水域暴风雨对涡轮机等的影响。 科技日报记者刘霞 今年 3 月，美国能源部发布海上风电普及战略，目标是让海上风电装机容量由现在的数万千瓦，提高至 2050 年的 1.1 亿千瓦。目前在全世界范围内普及\n本文链接",
-          "link": "https://news.cnblogs.com/n/745361/",
-          "publishedOn": "2023-07-07T01:06:11.000Z",
-          "wordCount": 163,
-          "title": "漂浮式海上风电将掀起能源革新浪潮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745360/",
-          "author": null,
-          "description": "科技日报北京 7 月 6 日电 （记者张佳欣）据 5 日发表在《自然》杂志上的一项研究，美国印第安纳大学和克雷格·文特尔研究所领导的一个团队从支原体细菌中创造了一种最简单细胞，它只包含 493 个基因，是已知所有自由生命体中最小的基因组。这些细胞能够进化和生长，增殖变多，且能重新恢复在缩小基因组时失\n本文链接",
-          "link": "https://news.cnblogs.com/n/745360/",
-          "publishedOn": "2023-07-07T01:02:47.000Z",
-          "wordCount": 163,
-          "title": "人造细菌进化能力超越自然",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745359/",
-          "author": null,
-          "description": "作者小葵 来源首席人物观 01 打折的“盲盒” 盒马的会员退了，Fudi 超市的会员退了。只有山姆会员还保留，但常买的只剩下蛋、奶和米面粮油，进口牛排被加上了购买的前提条件——当日股市收益超过 1 万元，于是，大概有小半年没买过了。 36 岁的晓辰，正在尝试减配生活。 比如她最近沉迷的晚间市集，每晚\n本文链接",
-          "link": "https://news.cnblogs.com/n/745359/",
-          "publishedOn": "2023-07-06T17:32:26.000Z",
-          "wordCount": 163,
-          "title": "抛弃会员店的中产，抢起了晚8点的特价菜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745358/",
-          "author": null,
-          "description": "作者：Hernanderz 来源：价值研究所 暑期档大幕拉开，旅游、餐饮、游戏、影视等多个行业都铆足了劲争抢红利，希望弥补过去三年的亏损，刚经历完 618 大战的电商行业也不例外。而在众多暑期档电商玩家中，东方甄选是花样最多的一家。 7 月 5 日-7 月 9 日，东方甄选将应甘肃省文旅厅的邀请，开\n本文链接",
-          "link": "https://news.cnblogs.com/n/745358/",
-          "publishedOn": "2023-07-06T17:30:38.000Z",
-          "wordCount": 163,
-          "title": "东方甄选，出走抖音？！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745357/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 LLM 之后的下一个热点是 AI 智能体？Karpathy 直言：现在 OpenAI 内部对于 AI Agent 的论文十分追捧，或许这就是 OpenAI 的新方向。 最近，AI Agent 忽然再次爆火。 什么是 AI 智能体？ 它们是一种自动的智能体，以最简单的形式中在\n本文链接",
-          "link": "https://news.cnblogs.com/n/745357/",
-          "publishedOn": "2023-07-06T17:30:05.000Z",
-          "wordCount": 163,
-          "title": "AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745356/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 终于有人把人工智能风险讲清楚了。 超级 AI 会杀人，被吵翻了！ 12 月 ChatGPT、3 月 GPT-4，OpenAI 连番轰炸，让业界人士纷纷恐慌。 紧接着 3 月底，由马斯克、图灵奖得主 Bengio 等千名大佬联名，发起暂停超级 AI 研发的公开信。 2 个月后，\n本文链接",
-          "link": "https://news.cnblogs.com/n/745356/",
-          "publishedOn": "2023-07-06T17:22:00.000Z",
-          "wordCount": 163,
-          "title": "数千位大佬下令封杀！超级AI风险4大来源，马库斯大赞深度好文",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745353/",
-          "author": null,
-          "description": "新智元报道 作者：肯尼斯·斯坦利 OpenAI 科学家 Kenneth Stanley 和 Joel Lehman 的畅销新书《为什么伟大不能被计划》中，提出了一种「新奇性搜索算法」，可能是大模型「涌现」能力的答案。 肯尼斯·斯坦利和乔尔·雷曼是人工智能神经进化领域的顶尖专家。 早在 2008 年他\n本文链接",
-          "link": "https://news.cnblogs.com/n/745353/",
-          "publishedOn": "2023-07-06T17:18:25.000Z",
-          "wordCount": 163,
-          "title": "破解大模型「涌现」之谜：新奇性搜索是AI腾飞的踏脚石",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745355/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 OpenAI 出手了！为了不让超级智能失控，首席科学家 Ilya Sutskever 和 Jan Leike 将共同领导团队在未来 4 年投入 20% 算力，解决超智能 AI 对齐问题。 超级 AI 智能会杀死所有人！ Sam Altman 曾多次公开表态对 AI 未来的担\n本文链接",
-          "link": "https://news.cnblogs.com/n/745355/",
-          "publishedOn": "2023-07-06T16:30:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI预言：超级智能10年内降临！正集结算力拯救人类，4年彻底攻克对齐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745354/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS OpenAI 领衔八家生成式 AI 公司上榜，用最少的员工数，打造世界级产品！ 最近一年多的时间里，生成式 AI 技术风靡全球，图像、文本、视频、音乐等各种领域都涌现了许多新工具，上班不聊两句 ChatGPT 都感觉自己 out 了。 与此同时，所有顶尖科技企业也都开启了一\n本文链接",
-          "link": "https://news.cnblogs.com/n/745354/",
-          "publishedOn": "2023-07-06T16:18:00.000Z",
-          "wordCount": 163,
-          "title": "AI抢人大战告一段落！8位赢家胜出，西雅图或成下一代AI技术爆发地",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745352/",
-          "author": null,
-          "description": "作者 Yinting Hou 来源霞光社 最近，英国苏格兰格拉的家庭主妇 Amy 收到了拼多多跨境电商平台 Temu 寄来的免费礼物——收纳柜和水管。 原来，她在 Temu 的手机 App 里玩“养鱼”游戏，每天“喂鱼粮”，邀请朋友到 Temu 下单购物。大约持续了一个月，“收成”正是上述的两件礼物\n本文链接",
-          "link": "https://news.cnblogs.com/n/745352/",
-          "publishedOn": "2023-07-06T16:12:00.000Z",
-          "wordCount": 163,
-          "title": "激进的Temu，正经历阵痛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745351/",
-          "author": null,
-          "description": "作者 陈世锋 来源蓝鲨消费 刚刚过去的 6 月，小红书迎来了 10 周年庆典。 恰值 618 前夕，小红书也适时进行了一系列操作——比如，全面开放“笔记带货”；再比如，以董洁直播带货火爆为基点宣布通过达人直播、店铺直播、商品笔记、笔记带货、商城等多个交易场域，全域参与“618”。甚至，在本地生活服务\n本文链接",
-          "link": "https://news.cnblogs.com/n/745351/",
-          "publishedOn": "2023-07-06T14:30:00.000Z",
-          "wordCount": 163,
-          "title": "200亿美金估值腰斩，创业10年难上市，毛文超、瞿芳急了！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745350/",
-          "author": null,
-          "description": "燃次元（ID:chaintruth）原创 作者丨马舒叶 编辑丨谢中秀 一些变化在主播行业发生。 曾经月薪过 2 万元，年内平均被挖、跳槽三次的阿菁，在 2022 年底连续经历两个品牌项目“黄了”后，至今没能找到一个适合的主播岗位，而面对她的，是整体的主播降薪潮，“年前 15000 元/月左右的主播岗\n本文链接",
-          "link": "https://news.cnblogs.com/n/745350/",
-          "publishedOn": "2023-07-06T14:30:00.000Z",
-          "wordCount": 163,
-          "title": "中小商家转向AI主播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745348/",
-          "author": null,
-          "description": "“中泰一家亲，欢迎你们随时来泰国，暑假我们准备好了！”7 月 6 日，由支付宝和泰国旅游局联合发起的“2023 暑假出境游趋势发布会”在杭州蚂蚁a空间举行。泰国国家旅游局副局长 tanespetsuwan（塔涅·沛素旺）表示，泰国国家旅游局和支付宝建立战略合作伙伴关系，推出联合营销计划，不仅能给中国\n本文链接",
-          "link": "https://news.cnblogs.com/n/745348/",
-          "publishedOn": "2023-07-06T14:17:00.000Z",
-          "wordCount": 163,
-          "title": "支付宝2023上半年出境游报告：济南青岛游客人均花费分别增长22%和21%",
-          "imageUrl": null
         }
       ]
     },
@@ -9577,16 +9347,6 @@
           "wordCount": 698,
           "title": "老司机 iOS 周报 #251 | 2023-07-10",
           "imageUrl": "https://opengraph.githubassets.com/03b2249cac9f2a2a57b959098c5c5c4b3f543e512671ed30300f73dd3af024e5/SwiftOldDriver/iOS-Weekly/releases/tag/%23251"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23250",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nGitHub 的 Dependency Graph, Dependabot Alerts 和 Advisory Database 现在正式提供 Swift 的支持\n@kemchenj：之前在 244 期周报里曾经提到过 GitHub 的代码扫描功能计划提供 Swift 的支持，现在这个功能已经正式上线了，感兴趣的朋友可以赶紧去尝试一下。\nGitHub 的 Code Scanning 会扫描和索引项目的 Dependency 信息，并且提供：\nDependency Graph。\n\n这意味着开发者可以在 GitHub 上看到有哪些项目依赖了自己的 Swift 库。\n可以使用 Dependabot，在依赖库更新时，自动提交 Pull Request 更新依赖库版本。\n安全漏洞警告。如果一个代码库出现安全漏洞时，它可以在发布修复版本后使用 GitHub 内建的功能进行记录，此时 GitHub 就会通知所有依赖了这个库的下游项目，并且自动提交 Pull Request 将依赖更新到已修复的版本。\n需要注意的是，这个功能只支持 SwiftPM，不支持 Cocoapods。\nWWDC23 内参\n关注老司机技术公众号，回复「2023」，领取 2023 及往年内参\n🌟 WWDC23 10013 - Meet StoreKit for SwiftUI\nRickey：内购（IAP）的实现一直是一个复杂棘手的问题。不过最新的 StoreKit 为 SwiftUI 提供了一种非常简洁优雅的实现方式，本文将以实战为基础，由浅入深地进行介绍。\n🌟 WWDC23 10111 - 使用 ImmersiveSpace 让 S…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23250",
-          "publishedOn": "2023-07-07T02:25:22.000Z",
-          "wordCount": 711,
-          "title": "老司机 iOS 周报 #250 | 2023-07-03",
-          "imageUrl": "https://opengraph.githubassets.com/664412b6242989361569716dea755b6df2f907901bfe8fe241aaea0bdc050c37/SwiftOldDriver/iOS-Weekly/releases/tag/%23250"
         }
       ]
     }
