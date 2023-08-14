@@ -886,6 +886,36 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=75783",
+          "author": null,
+          "description": "随着无人出租车在旧金山的流行，部分乘客好奇他们能将出租车的极限推到什么程度，尤其是出租车前排没有司机或监督人阻止他们做可疑行为的情况下。《San Francisco Standard》报道，有四名 Cruise 的乘客表示他们在车上发生过关系。目前旧金山无人出租车的两大运营公司分别是通用汽车旗下的 Cruise 和 Google 旗下的 Waymo。目前还没有 Waymo 乘客公开表示他们做过类似的事情。无人出租车都安装有摄像头。Cruise 和 Waymo 都没有评论乘客在它们的无人出租车内能做什么不能做什么。",
+          "link": "https://www.solidot.org/story?sid=75783",
+          "publishedOn": "2023-08-13T16:20:42.000Z",
+          "wordCount": 155,
+          "title": "旧金山的无人出租车存在车震问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75782",
+          "author": null,
+          "description": "普渡大学的研究人员发表了一篇论文预印本，他们用 517 个 Stack Overflow 问题测试了 OpenAI 的聊天机器人 ChatGPT，从正确性、一致性、全面性和简洁等方面对答案进行评估。他们还向 12 位人类参与者询问了 AI 生成的结果。他们的分析显示，ChatGPT 的结果有 52% 错误的，77% 太冗长。而人类只有在错误非常明显的情况下才能识别出来，他们在 39.34% 的情况下偏爱 ChatGPT 的答案，而这些答案中 77% 是错误的。即使答案明显错误，但因为其语言风格更令人感到愉快以及感到具有权威性，人类还是会青睐 AI 生成的答案。",
+          "link": "https://www.solidot.org/story?sid=75782",
+          "publishedOn": "2023-08-13T15:35:24.000Z",
+          "wordCount": 170,
+          "title": "ChatGPT 的编程问题错误率超过五成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75781",
+          "author": null,
+          "description": "法学家 Rudolf von Jhering 在《罗马法的精神（The Spirit of Roman Law）》一书中指出，罗马三次征服了世界，一次是武力，一次是宗教，还有一次是法律。罗马法系统在共和国早期就被赋予了核心重要性，到了晚期它已经发展到了高级阶段。早期的法律从业者都是来自贵族阶层的牧师，到了公元前一世纪，法律从业者分布在广泛的阶层。在共和国晚期的法庭上，罗马著名的演说家多曾在政治色彩浓厚的案件中进行辩护。演讲对于罗马公共生活的重要性意味着法庭为那些旨在从政的人提供了理想的试验场。西塞罗（Cicero）、霍尔滕修斯（Hortensius）和苏比修斯(Sulpicius)都是其中的杰出人士。",
+          "link": "https://www.solidot.org/story?sid=75781",
+          "publishedOn": "2023-08-13T15:03:13.000Z",
+          "wordCount": 149,
+          "title": "罗马共和国晚期的律师",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=75780",
           "author": null,
           "description": "去年二月，俄罗斯入侵乌克兰占领了人类历史上最严重核灾难发生地切尔诺贝利。随后传感器显示当地的辐射值提高了。乌克兰核监管机构认为，这可能是由于重型军用车辆搅动了仍然受到 1986 年事故污染的土壤造成的。这一解释被广泛接受。但一组环境学家发表论文认为搅动土壤不可能造成辐射值提高，认为真正的原因是电子战武器造成的干扰。现在一位网络安全专家 Ruben Santamarta 在分析了数据模式后认为辐射值提高很可能是网络攻击造成的，黑客远程或能直接访问服务器的人纂改了数据。如果数据真的被操纵，这可能会破坏对辐射监测系统的信任，改变数据公开发表的方法。辐射监测系统的数据是接近实时公布的，如果数据能被纂改，那么攻击者能在数据被验证前引发公众恐慌。",
@@ -3444,76 +3474,6 @@
           "wordCount": 171,
           "title": "创纪录热浪下的孟加拉国 IT 外包工人",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75523",
-          "author": null,
-          "description": "互联网档案馆的 Jason Scott 宣布在志愿者的帮助下该项目的 Flash 模拟器获得了显著改进。Adobe Flash 于 2020 年底结束支持，主流浏览器都移除了对 Flash 的支持。互联网档案馆是在 2020 年宣布存档 Flash 动画和游戏作品，因为作为一种创作工具，Flash 留下了很多出色的作品，应该让后人能体验这些作品，而不是让它们消失在数字时代。互联网档案馆开发了 Flash 模拟器 Ruffle，无需插件就能在浏览器中运行 Flash 动画和游戏作品。最新的改进包括加入了对静音/取消静音的支持，能根据实际动画的信息调整屏幕大小。很多之前不能正常工作的 Flash 作品都将能加入档案收藏。互联网档案馆目前存档的 Flash 作品超过了一万件。",
-          "link": "https://www.solidot.org/story?sid=75523",
-          "publishedOn": "2023-07-15T11:14:08.000Z",
-          "wordCount": 176,
-          "title": "互联网档案馆改进 Flash 模拟支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75522",
-          "author": null,
-          "description": "Red Hat 前不久宣布其企业发行版 RHEL（Red Hat Enterprise Linux）相关源码仅通过 CentOS Stream 公开。此举加大了社区发行版如 Alma Linux 和 Rocky Linux 构建 1:1 兼容性的难度。AlmaLinux OS 基金会董事会主席 Benny Vasquez 通过官方博客宣布该项目放弃了构建与 RHEL 发行版 1:1 兼容性的目标，改为实现 Application Binary Interface (ABI)兼容性，即能在 RHEL 上运行的软件也能在 Alma Linux 上运行。对用户而言，他们在使用过程中将基本不会体验到任何差别。RHEL 兼容应用仍然能在 Alma Linux 上运行，操作系统能继续及时收到安全更新。变化在于，Alma Linux 项目不再坚持于与 Red Hat 的 bug-for-bug 兼容性，意味着 Alma Linux 将接受 Red Hat 发布周期之外的 bug 修正，部分用户可能遭遇到 Red Hat 发行版上没有的 bug，它也将能接受未被上游接受或向下游发布的 bug 修正补丁。",
-          "link": "https://www.solidot.org/story?sid=75522",
-          "publishedOn": "2023-07-15T06:28:13.000Z",
-          "wordCount": 221,
-          "title": "AlmaLinux 不再致力于实现与 RHEL 的 1:1 兼容性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75521",
-          "author": null,
-          "description": "Meta 的大语言模型 LLaMA 过去几个月推动了开源大模型的快速发展，但 LLaMA 目前不支持商业使用，而是在非商业授权下提供给社区和研究人员使用。Meta 现在准备推出 LLaMA 的商业版本，允许开发者和企业在 LLaMA 基础上构建商业应用。LLaMA 有 70 亿、130 亿、330 亿和 650 亿参数多个版本，相比下 ChatGPT 使用大模型 GPT-3.5 有 1750 亿个参数，而新一代的 GPT-4 据报有超过 1 万亿个参数。",
-          "link": "https://www.solidot.org/story?sid=75521",
-          "publishedOn": "2023-07-15T05:29:53.000Z",
-          "wordCount": 177,
-          "title": "Meta 将发布商业版开源大模型 LLaMA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75520",
-          "author": null,
-          "description": "WSJ 援引消息来源报道，最大的加密货币交易所过去几周裁掉了逾千名员工。知情人士表示，裁员还在继续，币安可能会失去逾三分之一的员工。这次裁员是全球性的，币安在印度的客服有数十人被解雇。在大规模裁员行动开始前，币安的员工总数约为 8000 人。过去几个月，它成为美国监管机构的打击目标。美国证交会 SEC 上个月起诉了币安及其创始人赵长鹏，被控其在美国非法经营交易所，滥用客户资金。币安还面临美国司法部的调查。",
-          "link": "https://www.solidot.org/story?sid=75520",
-          "publishedOn": "2023-07-15T05:04:01.000Z",
-          "wordCount": 146,
-          "title": "币安裁员逾千人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75519",
-          "author": null,
-          "description": "印度空间研究组织(ISRO)周五 09:05 UTC 在斯里赫里戈达岛（Sriharikota）的萨迪什·达万航天中心使用 LVM3-M4 火箭成功发射了 Chandrayaan-3（月船三号）探测器，将第二次尝试登陆月球表面。印度在 2019 年发射了月球探测器 Chandrayaan-2，它包含了一个轨道器、Vikram 着陆器和 Pragyan 漫游车，但着陆期间失去联络最终登陆失败。Chandrayaan-3 预计将在 8 月 5 日进入月球轨道，它将花费大约三周时间逐渐降低高度，直至进入 100 公里的圆形月球轨道。它由一个 1,726 公斤的 Vikram 着陆器和 26 公斤的 Pragyan 漫游车，以及 2,148 公斤的推进模块组成，这次不包含轨道器。着陆器预计将在 8 月 23 日尝试登陆月球南极。南极被认为富含水冰。如果成功登陆，印度将是继美国、苏联和中国之后第四个登陆月球的国家。",
-          "link": "https://www.solidot.org/story?sid=75519",
-          "publishedOn": "2023-07-14T15:24:48.000Z",
-          "wordCount": 174,
-          "title": "印度发射登陆器和漫游车探索月球南极",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75518",
-          "author": null,
-          "description": "中国载人航天工程办公室公布了载人登月初步方案，计划 2030 年前实现登月开展科学探索。载人航天工程办公室副总设计师张海联透露的初步方案是：采用两枚运载火箭分别将月面着陆器和载人飞船送至地月转移轨道，飞船和着陆器在环月轨道交会对接，航天员从飞船进入月面着陆器。其后，月面着陆器将下降着陆于月面预定区域，航天员登上月球开展科学考察与样品采集。在完成既定任务后，航天员将乘坐着陆器上升至环月轨道与飞船交会对接，并携带样品乘坐飞船返回地球。为完成这项任务，我国科研人员正在研制长征十号运载火箭、新一代载人飞船、月面着陆器、登月服、载人月球车等装备。",
-          "link": "https://www.solidot.org/story?sid=75518",
-          "publishedOn": "2023-07-14T14:43:42.000Z",
-          "wordCount": 144,
-          "title": "中国公布载人登月初步方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75517",
-          "author": null,
-          "description": "IEEE 发布了光基无线通信标准 802.11bb。预计会在明年看到光基无线通信 Li-Fi 的相关产品。Li-Fi 能利用可见光、紫外和红外光谱高速传输数据，其中 LED 灯是目前唯一能用于可见光数据传输的设备。Li-Fi 并不能取代 Wi-Fi 和 5G 等无线通信技术，无线电波在远距传输上具有明显优势。Li-Fi 只能用于短距传输，光被阻挡传输就会中断，它的优势是高带宽、节能和高安全性——不存在类似 Wi-Fi 的蹭网现象。",
-          "link": "https://www.solidot.org/story?sid=75517",
-          "publishedOn": "2023-07-14T14:40:25.000Z",
-          "wordCount": 164,
-          "title": "光基无线通信标准 Li-Fi 发布",
-          "imageUrl": null
         }
       ]
     },
@@ -3522,6 +3482,136 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/747554/",
+          "author": null,
+          "description": "图片来源：瑞安·波斯特尔，费米实验室 费米实验室的科学家表示他们接近发现第五种自然力。他们发现更多的证据显示μ子的行为不同于现有亚原子粒子理论的预测，可能有一种未知的力作用于μ子。如果得到证实，这将标志着物理学的一场革命。 我们所熟知的自然力有四种：引力、电磁力、强力和弱力。这四种力控制着宇宙所有天\n本文链接",
+          "link": "https://news.cnblogs.com/n/747554/",
+          "publishedOn": "2023-08-14T00:47:11.000Z",
+          "wordCount": 163,
+          "title": "费米实验室接近发现第五种自然力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747556/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 桃子 一位外国 up 主，用 ChatGPT 给 AI 智能体注入了自我意识。产生「生命」的劳拉觉醒了，开始自己在「古墓丽影」中闯关。 如果游戏角色被注入生命，电子游戏会发展成什么样？ 曾经，这是不少人的畅想，而如今，随着 AI 智能体的发展，这种想象已经开始走入现实\n本文链接",
+          "link": "https://news.cnblogs.com/n/747556/",
+          "publishedOn": "2023-08-14T00:40:00.000Z",
+          "wordCount": 163,
+          "title": "AI产生自我意识，「古墓丽影」劳拉觉醒！电子游戏革命来了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747555/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 拉燕 GPT-2030 会进化到什么版本？这位 UC 伯克利教授给出了史上最硬核预测。准备好，前方高能来袭！ 现在是 GPT-4，时间是 2023 年。 7 年之后，2030 年，那时的 GPT 会是什么样子？ UC 伯克利的一位机器学习教授 Jacob Steinh\n本文链接",
+          "link": "https://news.cnblogs.com/n/747555/",
+          "publishedOn": "2023-08-14T00:35:00.000Z",
+          "wordCount": 163,
+          "title": "UC伯克利教授惊人预测：2030年GPT可执行人类180万年工作，一天学2500年知识",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747552/",
+          "author": null,
+          "description": "普渡大学的研究人员发表了一篇论文预印本，他们用 517 个 Stack Overflow 问题测试了 OpenAI 的聊天机器人 ChatGPT，从正确性、一致性、全面性和简洁等方面对答案进行评估。他们还向 12 位人类参与者询问了 AI 生成的结果。 他们的分析显示，ChatGPT 的结果有 52\n本文链接",
+          "link": "https://news.cnblogs.com/n/747552/",
+          "publishedOn": "2023-08-14T00:31:27.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT 的编程问题错误率超过五成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747551/",
+          "author": null,
+          "description": "科技日报讯 （记者张佳欣 实习生葛润嘉）据 8 月 9 日发表在《欧洲预防心脏病学杂志》上的研究，一个国际研究团队发现，每天仅需走 2337 步就可降低心脏和血管疾病的死亡风险，每天走 3967 步可降低所有疾病带来的死亡风险。 科学家汇集了 17 项相关研究，分析了 226889 人的数据发现，走\n本文链接",
+          "link": "https://news.cnblogs.com/n/747551/",
+          "publishedOn": "2023-08-14T00:27:28.000Z",
+          "wordCount": 163,
+          "title": "研究表明多走路可能降低死亡风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747550/",
+          "author": null,
+          "description": "科技日报讯 （记者刘霞）美国得克萨斯大学西南医学中心科学家确定了人脑的细胞和分子特征，这些特征将现代人类与其最亲近的灵长类动物“亲戚”和古代人类祖先区分开来，为人脑进化提供了新见解。相关论文刊发于近期出版的《自然》杂志。 人们一直很好奇为什么人类具有其它动物没有的能力，比如说话等。以前的一系列研究试\n本文链接",
+          "link": "https://news.cnblogs.com/n/747550/",
+          "publishedOn": "2023-08-14T00:25:07.000Z",
+          "wordCount": 163,
+          "title": "人脑独有细胞与分子特征确定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747553/",
+          "author": null,
+          "description": "文海豚投研 自马云定调阿里 “回归淘宝、回归用户、回归互联网” 后，“回过头来” 的阿里还有机会吗？从这个季度来看，这两年来一直煎熬磨底的阿里，似乎终于熬出了一点点曙光。 阿里这次再次大调财报口径，导致趋势上看得不是那么清晰，但关键趋势还是比较明显：淘天看似不错，实际主要是基数和预期低，而其他业务独\n本文链接",
+          "link": "https://news.cnblogs.com/n/747553/",
+          "publishedOn": "2023-08-14T00:06:00.000Z",
+          "wordCount": 163,
+          "title": "戒掉 “大锅饭”，阿里 “回头是岸”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747549/",
+          "author": null,
+          "description": "本文来源于微信公众号氢消费（ID：HQingXiaoFei），作者大可，编辑彭箫恒 这个夏天，抖音悄悄成立了一家旅行社。 成都海阔天空旅行社有限公司悄然成立，却引来了密集关注。天眼查股权穿透显示，这家旅行社背后，抖音才是真正的“幕后大佬”。这被认为是抖音要“亲自下场”旅游行业的一个重要信号。 图片来\n本文链接",
+          "link": "https://news.cnblogs.com/n/747549/",
+          "publishedOn": "2023-08-14T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "​抖音们猛攻酒旅，携程们无牌可打？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747548/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas Midjourney 一周年之际，从 v1 进化到了 v5.2，你更喜欢哪个版本？ 7 月 14 日，Midjourney 距离初次发布已经一周年了！ 就在一年前的这一天，Midjourney 开始公测。 而我们，也眼看着它从 v1 进化到了 v5.2。 在今天，网友\n本文链接",
+          "link": "https://news.cnblogs.com/n/747548/",
+          "publishedOn": "2023-08-13T14:25:00.000Z",
+          "wordCount": 163,
+          "title": "Midjourney一周年！从V1到V5，画出的美女有何不同？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747547/",
+          "author": null,
+          "description": "新智元报道 编辑：桃子 UC 伯克利发布了新版 Vicuna v1.5，基于 Llama 2 微调而来，支持 4K 和 16K 上下文。 GPT-4 最强平替更新了！ 这次，基于全新的 Llama 2，UC 伯克利发布了更新版 Vicuna v1.5。 不仅支持 4K 和 16K 上下文，并且在几乎\n本文链接",
+          "link": "https://news.cnblogs.com/n/747547/",
+          "publishedOn": "2023-08-13T14:15:00.000Z",
+          "wordCount": 163,
+          "title": "GPT-4最强平替更新！UC伯克利发布Vicuna v1.5，支持4K和16K上下文，刷新SOTA，LeCun转赞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747546/",
+          "author": null,
+          "description": "梦晨克雷西发自凹非寺 量子位公众号 QbitAI 炼大模型最佳 GPU英伟达 H100，全部卖空了！ 即使现在立即订购，也要等2024 年 Q1 甚至 Q2才能用上。 这是与英伟达关系密切的云厂商 CoreWeave 对华尔街日报透露的最新消息。 从 4 月初开始，供应就变得异常紧张。仅仅一周之内，\n本文链接",
+          "link": "https://news.cnblogs.com/n/747546/",
+          "publishedOn": "2023-08-13T03:54:00.000Z",
+          "wordCount": 163,
+          "title": "老黄赢麻了！英伟达H100订单排到24年，马斯克都坐不住了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747545/",
+          "author": null,
+          "description": "萧箫发自凹非寺 量子位公众号 QbitAI 哪怕只有几十个神经元，AI 也能出现泛化能力！ 这是几个谷歌科学家在搞正经研究时，“不经意间”发现的新成果。 他们给一些很简单的 AI 模型“照了个X光”——将它们的训练过程可视化后，发现了有意思的现象： 随着训练时间增加，一些 AI 会从“死记硬背”的状\n本文链接",
+          "link": "https://news.cnblogs.com/n/747545/",
+          "publishedOn": "2023-08-13T02:30:00.000Z",
+          "wordCount": 163,
+          "title": "谷歌发现大模型「领悟」现象！训练久了不再死记，多么痛的领悟",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747544/",
+          "author": null,
+          "description": "西风发自凹非寺 量子位公众号 QbitAI 物理界 67 年前预言的“恶魔”现世了！ 不过别慌，此恶魔非彼恶魔，不吃小孩（手动狗头）。 它来自于 1956 年理论物理学家 David Pines 的预言——固体金属中，通常情况下具有质量和电荷的电子，可以结合形成的一种无质量、电中性，且不与光发生相互\n本文链接",
+          "link": "https://news.cnblogs.com/n/747544/",
+          "publishedOn": "2023-08-13T01:00:00.000Z",
+          "wordCount": 163,
+          "title": "物理学家67年前预测的「恶魔」现世登Nature：偶然在超导体中发现",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/747543/",
           "author": null,
@@ -8930,106 +9020,6 @@
           "publishedOn": "2023-07-16T07:55:00.000Z",
           "wordCount": 163,
           "title": "LeCun「超酷」新成果：用自监督姿势打开偏微分方程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745909/",
-          "author": null,
-          "description": "最近几年，所有在线教育企业都不好过。是生是死，在于企业的选择。 有的企业转型成为与教育完全无关的公司，如新东方，捐出所有桌椅，做起了农业电商平台。随着主播天团的出圈，其转型路线也被竞相模仿。但正如李佳琦不可复制李佳琦，东方甄选的董宇辉也仅此一人，这条路并不好走，随后的入局者也未激起太多水花。 有的企\n本文链接",
-          "link": "https://news.cnblogs.com/n/745909/",
-          "publishedOn": "2023-07-15T12:25:00.000Z",
-          "wordCount": 163,
-          "title": "小猿学练机，能救猿辅导于水火吗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745908/",
-          "author": null,
-          "description": "红星资本局 7 月 14 日消息，上午 10 时，售价 11990 元的特斯拉 Cyberquad 玩具摩托车在特斯拉中国官网、特斯拉天猫旗舰店正式开售，由于购买人数较多，购买页面一度出现卡顿。上线不到 1 小时，该玩具摩托车已售罄，特斯拉中国官网显示“缺货”，天猫旗舰店显示“商品已下架”。 特斯拉\n本文链接",
-          "link": "https://news.cnblogs.com/n/745908/",
-          "publishedOn": "2023-07-15T12:17:00.000Z",
-          "wordCount": 163,
-          "title": "特斯拉售价11990元的儿童摩托车飞速售罄，官网被挤爆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745907/",
-          "author": null,
-          "description": "面对人工智能的浪潮，马斯克终于再度出手了！7.15 日，马斯克与 xAI 创始团队一起，在推特开启了一场直播回答公众疑问。包括对于人工智能的安全监管、对于 OpenAI 以及谷歌的看法、对于推特的未来计划等。 马斯克同时在推特直播活动中提到 xAI 的愿景是回答深层次的科学问题，理解宇宙的真实本质。\n本文链接",
-          "link": "https://news.cnblogs.com/n/745907/",
-          "publishedOn": "2023-07-15T12:10:00.000Z",
-          "wordCount": 163,
-          "title": "xAI推特直播实录：将正面对抗谷歌与OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745906/",
-          "author": null,
-          "description": "改革还在持续。 作者刘宝丹编辑张晓玲 年薪 300 万的阿里 P9，曾经是许多职场打工人的终极梦想，而今，阿里主动开始调整了。 7 月 13 日消息，阿里已经开启了近年来最大的人力制度改革，其中一条直指数百万年薪的 P8 以上高管：取消了P系列，原 P8 以上员工改为组织任命，不再有职级的晋升和降级\n本文链接",
-          "link": "https://news.cnblogs.com/n/745906/",
-          "publishedOn": "2023-07-15T12:00:00.000Z",
-          "wordCount": 163,
-          "title": "阿里P9跌落神坛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745905/",
-          "author": null,
-          "description": "IP 是把双刃剑？ 作者张凯旌 编辑丨高岩 来源野马财经 国内潮玩龙头摊上事了？ 7 月 10 日，泡泡玛特（9992.HK）“被强制执行 1710 万元”的消息引发广泛关注，但时至今日，公司也没有给出明确的原因，只是回应称该案件属于正常商业纠纷，目前已支付全部款项。 而在爱企查上，也只能看到泡泡玛\n本文链接",
-          "link": "https://news.cnblogs.com/n/745905/",
-          "publishedOn": "2023-07-15T08:41:00.000Z",
-          "wordCount": 163,
-          "title": "谁让泡泡玛特“出血”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745904/",
-          "author": null,
-          "description": "腾讯科技讯，7 月 15 日凌晨 4 点，马斯克人工智能公司 xAI 在推特上举行语音直播活动，马斯克携团队亮相，围绕 xAI 的使命和目标展开了讨论，并现场回答用户提问。 7 月 13 日，马斯克在推特上宣布他的人工智能公司 xAI 正式成立，目标是理解“宇宙的真实本质“。xAI 与推特当前母公司\n本文链接",
-          "link": "https://news.cnblogs.com/n/745904/",
-          "publishedOn": "2023-07-15T07:21:27.000Z",
-          "wordCount": 163,
-          "title": "马斯克最新AI创业演讲实录：希望通过AI去解决宇宙未解之谜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745903/",
-          "author": null,
-          "description": "文市值榜，作者喻亚，编辑徐伟 流量，往往是决定一个商家成败的关键。 不管在哪个电商平台做生意，做到最后都逃脱不了一个魔咒，那就是流量成本越来越贵。 从去年到今年，一个企业管理层面的词越来越火——降本增效，降本增效不是简单地缩减成本，更是如何在获客上下功夫，进行开源。 那么，如何在流量增长放缓的各大电\n本文链接",
-          "link": "https://news.cnblogs.com/n/745903/",
-          "publishedOn": "2023-07-15T01:21:00.000Z",
-          "wordCount": 163,
-          "title": "流量越来越贵，买量的价值还有多大？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745902/",
-          "author": null,
-          "description": "文最话 FunTalk，作者何伊然，编辑刘宇翔 三星的寒冬何时才能过去？ 当地时间 7 月 7 日，三星电子公布了 2023 年第二季度财报。本季度，三星电子销售额为 60 万亿韩元，同比下降 22.3%；营业利润 6000 亿韩元，同比下降 95.7%。 2023 年一季度，三星营业利润为 640\n本文链接",
-          "link": "https://news.cnblogs.com/n/745902/",
-          "publishedOn": "2023-07-15T01:14:00.000Z",
-          "wordCount": 163,
-          "title": "三星电子再次豪赌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745901/",
-          "author": null,
-          "description": "品玩 7 月 15 日讯，据界面新闻报道，马斯克在 Twitter Space 上的 xAI 讨论会上表示，新成立的人工智能公司 xAI 将采用来自推特的公开推文训练。 马斯克表示，人类创造的数据总有一天会用完，因此人工智能最终将生成内容并访问。另外，xAI 还将在开发人工智能软件等多方面与特斯拉合\n本文链接",
-          "link": "https://news.cnblogs.com/n/745901/",
-          "publishedOn": "2023-07-15T01:07:00.000Z",
-          "wordCount": 163,
-          "title": "人工智能公司xAI将采用推文训练，并与特斯拉合作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745900/",
-          "author": null,
-          "description": "文｜沥金 东方甄选的出走早有预谋。 甚至它进入抖音的第一天，就是为了有一天能“离开”抖音。 正如俞敏洪所说，“基于外部平台建立起来的热闹商业模式，有很强的脆弱性”。这也是为什么东方甄选在爆火两个月后，就第一时间上线 app 的原因。 过去一年，东方甄选就像青春期的孩子，时刻想证明自己的独立，但又不得\n本文链接",
-          "link": "https://news.cnblogs.com/n/745900/",
-          "publishedOn": "2023-07-15T01:00:00.000Z",
-          "wordCount": 163,
-          "title": "东方甄选，想独立，没底气？",
           "imageUrl": null
         }
       ]
