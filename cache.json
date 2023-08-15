@@ -69,6 +69,76 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/81991",
+          "author": "Theia在路上",
+          "description": "你有没有发现，当你学习了某个新的概念之后，似乎这个概念就总在你的生活中出现。\n学习了一个新单词，这个单词就总在文章里出现；听说了一个新名词，这个名词就在各种毫无关联的场合出现；你出生的年份似乎总是出现在重大的历史事件中。\n你并非一个人有这样的体验。\n一\n这个现象被称为巴德尔-迈因霍夫现象（Baader-Meinhof Phenomenon），也被称为频率错觉（Frequency Illusion）。在这个认知错觉的影响下，当你第一次注意到某件事情之后，似乎这件事情发生的频率变得更高了。即「一旦发现，无处不在」。\n造成这种现象的原因有很多，但这个概念的创始人 Arnold Zwicky 认为这主要是由两个心理过程造成。\n第一个现象，是「选择性注意力（selective attention）」，是指我们会有选择性地关注我们熟悉的信息，同时忽视掉我们下意识认为不重要的信息。\n有一个很出名的实验 The Monkey Business Illusion，测试者问视频里穿白衣服的人投了几次球，绝大部分人都能够得到正确答案。但当测试者问道：你看到了视频里的黑猩猩吗？大多数人都傻眼了：黑猩猩？哪里来的黑猩猩？当他们再看一遍视频，发现黑猩猩在视频播放到一半时非常明显地从视频的一端走向另一端，但是他们居然没注意到。\n这是为什么？很简单，因为第一次观看视频的时候，黑猩猩是「不相关信息」，并不足以引起我们的注意。\n同样的，在我们知道一个新概念/新信息之前，它们对我们而言只是不重要的信息，因此我们会忽略这些信息的存在。但这并不意味着这些信息并不存在。\n第二个现象是「确认偏误（Confirmation Bias）」，即我们习惯于寻找能够证实自己既有信念的证据，同时忽略了其他与自己信念不符或相反的信息。所以当我们学到某个新概念之后，我们每次都在有意识地寻找这个概念，造成了这个概念无处不在的错觉。\n二\n…",
+          "link": "https://sspai.com/post/81991",
+          "publishedOn": "2023-08-13T17:54:19.000Z",
+          "wordCount": 676,
+          "title": "万物皆有联系",
+          "imageUrl": "https://cdn.sspai.com/2023/08/14/4a3ba233d3e0a465e96dd114ecd49478.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81966",
+          "author": "GoodTheme",
+          "description": "在之前的一篇文章里，我分享了在律师工作中，给自己写了个工具管理案件项目的经历。最近，我终于又有了一些时间来改善界面和功能，让它在可以记录项目的同时，也能够被用于知识管理。\n这个过程总体是愉快的，每一点小的改进都让人有成就感。比方说，在参考了电脑上其他应用程序的界面后，我学着在左侧按钮选项上增加了一个“选中”标签的移动小动画。即使是这样的无用改动，都足以让我有个好的心情继续探索。\n对比之下，最后一步的打包工作称得上是噩梦，这足足花费了我两天多的时间，数十次地往返于失败——再尝试——再失败之间，心态和睡眠质量都差了许多。\n因此，在这篇文章中，一方面，我将简单介绍工具的使用方法，分享最近的改进成果，以推介给同行或者其他有类似项目/知识管理需求的朋友使用。另一方面，流水帐式地记录一下打包 PyQt 和 sqlite3 程序过程中遇到的各种坑和教训，以我为戒。\n一、简单的介绍\n你可以在这里，或这里（网盘）下载到更新后的版本。其中，zip 格式为 Windows 版本，dmg 格式为 macOS 版本，source code 为源文件，供修改或自行编译使用。\n我是在 m1 macOS 环境开发，在虚拟机（Windows 11 arm）中打包为 Windows 版本的，也许有针对不同系统考虑不周之处，或者无法使用的情况。对于这些问题，欢迎与我联系，我会争取（职业病式备注：指在时间精力有限的情况下进行尝试但因知识和技术限制而不保证能成功）修正它。\n（一）项目\n管理项目是我设计这个程序的初衷所在，基本结构是“项目-案件-案件信息”。\n在左侧的项目列表中，可以按标签和加入顺序来筛选项目，也可以通过搜索框直接搜索需要的项目。在项目列表的右键菜单中，可以对项目和案件进行基本的编辑操作，例如置顶或把案件更换到其他项目里。\n对于预设了项目文件夹的项目，可以在列表上双击打开文件夹。点开状态栏图标的“访达…",
+          "link": "https://sspai.com/post/81966",
+          "publishedOn": "2023-08-13T10:44:03.000Z",
+          "wordCount": 748,
+          "title": "给自己写一个案件管理工具（二）",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/81976",
+          "author": "Alanthink",
+          "description": "房间为何总是快速从整洁变成乱七八糟的状态？为什么已经打散的拼图碎片永远不会自发地重新聚合成一个整体?\n这几天偶然了解到了“熵增定律”，查了下资料，发现对于这些现象有另一种新奇的解释。同时，“熵增定律”对我们的人生成长也有深刻的启发。但最终，培养时刻保持愉悦心态的能力，才是最重要的。\n\n什么是熵？\n熵是热力学中的一个概念，用来描述系统的无序程度或混乱程度。熵越高，系统越无序；熵越低，系统越有序。简单来说，熵是一个描述系统混乱无序程度的指标。\n可以想象一下房间里雪花纸屑的散乱程度来理解熵。纸屑整齐平放在桌上时,系统有序,熵很低。当纸屑被扔得到处飞散时,系统变得很无序,熵增加了；书桌上文件书本平整排放时,桌面系统有序,熵很低。当文件书本乱七八糟时,桌面系统无序,熵很高。\n\n​​​什么是熵增定律？\n根据热力学第二定律，一个孤立系统的熵总是增加或不变，而不会减少。这意味着孤立的系统总是朝着更加混乱无序的方向演进。在这过程中，熵不断变多，直到达到熵最大化。\n例如食物腐败变质的过程,就是一个从有序的生物分子变为无序的简单分子的演变过程。\n熵增定律的本质？\n熵增定律的本质，就是一个孤立系统在没有外力的干扰下，自发地走向混乱和衰亡。\n最大熵状态是什么?\n系统达到最混乱无序的状态；\n做有用功的能量已消耗殆尽；\n系统内的能量已经几乎消耗殆尽，系统各部分之间不存在可利用的温度差、压力差等,无法再产生驱动工作的推动力；\n系统达到稳定平衡的状态，各种变化过程不再发生，系统所有运动都停止。\n此时系统变得毫无生气、死气沉沉，进入“热寂”状态。\n如同湖水平静无波无流动——湖面水达到分子运动的最随机状态,宏观静止平衡；亦像已燃尽的木柴，只剩灰烬——木柴化学能完全释放,只剩无用的灰烬。一切归于沉寂。\n\n现在让我们回到开头列举的两个现象，试着用熵增定律来解释一下这两个现象：\n最开始房间整齐干净,各样物品有序放置。…",
+          "link": "https://sspai.com/post/81976",
+          "publishedOn": "2023-08-13T03:35:54.000Z",
+          "wordCount": 600,
+          "title": "人生“负熵”与培养时刻保持愉悦心态的能力",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/74207",
+          "author": "DIYgod",
+          "description": "正如我在 2020 年终总结 中提到，我一直在用 Notion 写子弹笔记，现在它有了亿点点不一样，现在我们就来重新窥探一下我目前的生活记录系统\n日记\n\n周记和月记\n\n年记\n\n原 Notion 子弹笔记\n\n受益于 Obsidian 强大的自动化能力和极高的自由度，日/周/月/年笔记通过预设模板自动生成，互相联动，需要手动处理的部分很少\n乍一看是有一些复杂，但其实用起来很简单，自由度和可扩展性也很强，下面我来详细介绍\n结构\n目录结构如日记图左侧栏所示\n\n\n\n├── OKR.md\n└── Journal\n    └── 2022\n        ├── W1\n        |   └── 2022-01-01.md\n        |   └── 2022-W1.md\n        ├── 2022-01.md\n        └── 2022.md\n\n\n\n每天会自动在本周的文件夹中生成当天的日记文件 YYYY-MM-DD.md，每周会自动新建一个周文件夹 [W]ww 和周记 YYYY-[W]ww.md，每月会自动生成月记 YYYY-MM.md，每年会自动新建一个年文件夹 YYYY 和年记 YYYY.md\n这些文件的内容也都是模板预设好的，已经自动填充了日期、本周期 OKR 分数和图表，甚至当天的位置、天气、月相等信息，还留出了记录当天状态和动态的位置\n外面有一个 OKR 文件，大概半年更新一次，里面记录这半年的人生目标，其中有一些目标是需要每天持续努力的，日记系统的很大部分就是围绕这些目标来构建的\n目录结构主要通过 Periodic Notes 实现，模板主要通过 Templater 和 Dataview 和核心插件 Templates 实现\n日记\n\nInfo\nInfo 是自动生成的当天信息，包括指向年月周记和 OKR 的链接，位置、天气、月相等信息\n位置、天气、月相信息…",
+          "link": "https://sspai.com/post/74207",
+          "publishedOn": "2023-08-12T00:13:57.000Z",
+          "wordCount": 988,
+          "title": "基于 Obisidian 的生活记录系统",
+          "imageUrl": "https://cdn.sspai.com/2022/07/11/59d8be6988bb5d8b7e336e5f3b65a995.png"
+        },
+        {
+          "id": "https://sspai.com/post/81942",
+          "author": "Mepomax",
+          "description": "先说结论\n正常手段下，无法导出 Arc 收藏的网页数据。\n但是可以通过查看 Arc 在本地存储的同步文件来获得收藏的网页数据（json格式），但这个json文件并不能直接导入到其他浏览器。\n功能的缺陷？又或是阻挠用户离开\n众所周知，Arc 使用内核是 Chromium 内核，这才使得 Arc 作为一个新兴浏览器，在基本功能和性能上能够建立起完整的用户体验。\nChrome 浏览器导出收藏（书签）网址的位置是书签管理器。\n即下方这个界面，在 Arc 中通过输入 Arc://bookmarks/ 进入\nChromium的默认标签管理功能\n有人说：不对啊，这不是明晃晃的导出按钮，你导出不就行了吗。\n有些外国友人也是这么想的，在回答 reddit 上的相关提问时也是这么答的。\n一些老哥天真的以为这个问题这么简单\n很遗憾，Arc并没有在这里保存你在Arc上的任何数据，你在任何 Space 中收藏的网页在这里都找不到。这里只会存放你从其他浏览器导入的数据。自然也就无法导出。\n甚至还有人重复「Arc没有书签功能」这个万能金句来规避这个缺陷。\n经典话术：Arc 没有书签\nArc的 收藏数据到底存放在哪里？\n通过查阅互联网讨论资料，最后我找到了Arc存放数据的本地路径。\n首先在 Arc 中输入 arc://version\n来到这个版本信息页面\n\n复制 Profile Path 地址。打开访达，选择菜单中的前往\n\n直接把刚才复制的地址粘贴并进入该文件夹。\n下一步回到上上层的 Arc 文件夹中，找到 StorableSidebar.json 这个文件\nStorableSidebar.json 这个文件\n它记录了收藏的网站和分组及同步状态等信息。如下图所示。\n\n但是 json 文件无法直接被 Chrome 和 Safari 读取，理论上只要将该文件转换为标准的html 书签就可以给其他浏览器使用了。\n由于本人对编程和数据没有太多研究，所以这次只能搞到这里了，如果有大佬能帮我转换这个文件格式，请私信我，也许我们能一起做一个简单的小工具帮助用户转换？\nArc 不能导出收藏数据，是一件难以接受\nArc 的优秀用户体验毋庸置疑，他是少数能在 Chrome 的霸权统治下开辟出一条全新道路的浏览器。\n同时他也以用户体验为要领，却有着不能导出用户数据的缺陷。\n参考链接\nReddit\nHow to export the bookmarks?\nWhere are Bookmarks stored on the file system\nArc browser bookmarks",
+          "link": "https://sspai.com/post/81942",
+          "publishedOn": "2023-08-11T06:30:55.000Z",
+          "wordCount": 654,
+          "title": "Arc 浏览器的用户体验之耻，无法导出收藏的网址",
+          "imageUrl": "https://cdn.sspai.com/2023/08/11/c0b2107b381160d95c24145542616dca.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81013",
+          "author": "霹雳游侠尤兰达",
+          "description": "2023 年 8 月 1 日，随着D组第三轮的比赛结束，中国队积 3 分小组排名第三，无缘世界杯淘汰赛。中国足球尤其是女足是世界杯的常客，九届世界杯，两届以东道主身份参赛，剩下七届中六届入围决赛圈，五次打入淘汰赛阶段，最好成绩是 1999 年的美国世界杯亚军。\n主队离场后，关注更加紧张精彩的世界杯淘汰赛，更是关注这项运动的未来。\n\n没有世界杯的夏天好像不太完整，2022 年世界杯在北半球的冬天举行，给不能出门的球迷带来精神慰藉。2023 年的世界杯在南半球的冬天举行，世界最高水平的足球赛事，又有本国球队入围，完美的转播时间，加上长达一个月的赛程安排，可以成为人们关注女足运动的完美开始。\n目前以五球领跑射手榜的日本选手宫泽日向 来源：FIFA微博\n赛事概况\n女足运动由民间运动发展到组织大规模比赛，始于上世纪 70 年代的「欧洲独立女子足球联合会」。进入 80 年代国际足联开始筹备官方女足世界杯赛事，1988 年国际足联在中国广东举办了「国际女子足球锦标赛」，共 12 支球队参加，挪威、瑞典、巴西、中国获得前四名。\n 1991 年首届女足世界杯正式举行，并与男足世界杯一样，以四年为周期举办，共 12 支队伍分三组参赛。中国作为东道主是首届和第五届世界杯的举办地。首届世界杯的承办城市有广东的广州、佛山、番禺、中山、江门；2007 年分别在上海、天津、武汉、杭州和成都的五座体育场开赛。可以查询历届女足世界杯的赛程赛果的数据记录网站 FBREF。\n1991年第一届女足世界杯海报 来源www.sportsmemories.be\n赛程安排\n2023 年 7 月 20 日开幕，8 月 20 日闭幕的第九届世界杯，由澳大利亚和新西兰联手承办，是第一次两国承办，也是第一次两个大洲的足球联合会承办（澳大利亚足协属于亚足联），共在两国 9 个城市的 10 座城市进行比赛。参赛队伍也是有史以来最多，…",
+          "link": "https://sspai.com/post/81013",
+          "publishedOn": "2023-08-11T03:22:13.000Z",
+          "wordCount": 851,
+          "title": "2023年世界杯观赛指南-夏天的足球盛宴还在继续",
+          "imageUrl": "https://cdn.sspai.com/2023/08/11/79d9fea3ae602f5f9f8b7ed936bd4d6e.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81926",
+          "author": "小梨笔记",
+          "description": "最近几周看了很多关于 PKM（Personal Knowledge Management，个人知识管理）的文章、视频，包括但不限于领域大神 Tiago Forte的渐进式总结法、读书博主 Alex & Books的书皮读书法、视频博主 Vicky Zhao的 Obsidian 卡片笔记工作流，以及关于原子笔记（atomic notes）、常青笔记（evergreen notes）、卡片笔记（Zettelkasten）的介绍，让我对于个人只是管理体系有了新的认知，并结合自己的实际需求，迭代了目前来说合适自己的知识管理工作流。\n整体来说非常简单，只有 3 步：\n✅ I-Inbox：输入，即知识、信息的获取；\n✅ P-Process：加工，即对知识、信息进行要点提取、整合、理解、内化、总结等处理；\n✅ O-Output：输出，即写作、分享并获取反馈。\n我刻意把整个工作流调整到最简化，因为正如斯坦福大学行为设计学创始人——福格博士在《福格行为模型》中所说：\n\n通过行为设计匹配的新习惯，是我们在最忙碌、最没动力且状态最不好时，也能做到的行为。\n\n也就是说，我们的工作流不是为状态最好的自己所设计，而是为最累、最懒、最没动力、最烦躁、最忙到晕头转向等等状态最不好的自己设计的，能够不太费心费力的启动-执行-完成。\n01 Inbox：输入\n我的知识获取来源渠道主要有两个：书📚和文章📑。\n📚书：\n我非常认同Alex & Books的观点：\n\nBooks summarize decades of knowledge from one or more experts into a few hundred pages. In other words, someone in the world may have dedicated 30+ years of their life research…",
+          "link": "https://sspai.com/post/81926",
+          "publishedOn": "2023-08-11T03:16:58.000Z",
+          "wordCount": 782,
+          "title": "极简3步，我的个人知识管理工作流",
+          "imageUrl": "https://cdn.sspai.com/2023/08/10/4c9fe9ebb256009109271cd1bcc47b26.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/81933",
           "author": "炳木",
           "description": "从暴风中走出的你，已不再是当初那个跨入暴风时的人了。\n\n职场指南类的文章，我知道有很多，多到处超出我的想象，但是我都没怎么看。\n首先，我不想以一个过来人或者所谓职场精英的姿态提出一些无关痛痒的指导或者意见，我也想过，用半个小时攒出一篇“干货指南”，别人讲过也没事，改下字句或者顺序就好了嘛。\n但，我终究还是想说一些真实的情况，直接列教条未免太干，我想我是一名「写作者」，这是我唯一能做且唯一能做好的事了，希望能通过讲述一些真实的职场经历和情况，给依然处在职场困顿期的小伙伴们带来一点小小的启发。\n看！这里是一个INFP\n先做个自我介绍，我是一枚的小小的公关广告公司的项目经理，北漂四年且选择继续漂。\n每当谈及自己的职业和岗位，我总会想起在140年前，也有一位社恐内向的银行小职员，他的名字叫卡夫卡，他自己肯定也没有想到，在他离后的将近一个半世纪以来，无数热爱文学的年轻人来来去去的绕着他的名字在打转。他的名字就是一座文学的遗迹。\n为什么要说卡夫卡呢，我们的职业又不一样，我想唯一相同的就是在业余时间，都会写一些什么东西，可以想来，这样的人也不在少数，就单单「少数派」这个平台上的这些作者哪个不是孜孜以求热爱记录热衷写作且著作等身的呢。\n职场困境如一个巨型深渊凝视着我\n套用一句老话，「走在公关公司扎堆的朝阳区的马路上，随便扔一块砖能砸十个人，其中就有七八个项目经理，当然还有两三个总监。」\n但，为了跨越职场的这「第一个台阶」我也是没少费功夫。\n刚开始工作的时候，带我的一个老师傅说，你不适合干一行啊。相信很多人也多多少少听过这样的话。\n啊，不适合是什么意思呢？\n公关广告这一行呢，没什么门槛，更不要求有什么学历，但是有时候确实也看天赋，有的人比较聪敏很快能摸到这个行业的门道，有的人或许是愚笨或者是别的什么原因，迟迟不得其门而入。不巧的是，我就是后者。\n后来，我总结：「在一种场景中，在某个角色里，你…",
@@ -787,26 +857,6 @@
           "wordCount": 752,
           "title": "一个Mac App是如何诞生的：上线的前夕",
           "imageUrl": "https://cdn.sspai.com/2023/07/16/7edd37bb66b5ce767d038ef49b392a48.png"
-        },
-        {
-          "id": "https://sspai.com/post/81195",
-          "author": "林宜丙",
-          "description": "背景\n最近将这个我的 Obsidian 实践（一种实用新型 Obsidian 实践之构建我的第二大脑 🧠 - 少数派）分享后，帮助到了几个人\n\n一个不认识的同事用上后，表示『像开启了新大陆』，并给我发了个红包，说请我喝咖啡\n一个不认识的网友用上后，表示『满足了她对个人知识管理的全部需求』，甚至还为此写了一篇上手文档\n\n当然，除了陌生人以外，我也推荐给不少熟悉的同事和朋友，收到了不少反馈，比如上手成本高、更新难以跟进、关系图谱中无法区分项目（所有都是 README.md）等。\n目标\n因此考虑到上述问题，我决定实现一个插件，主要有如下几个目标\n\n降低上手成本，特别针对非程序员群体\n更新及时触达，无论是新功能还是问题修复\n增加受众，以获得反馈，共建并完善流程\n\n文末我还介绍了一种渐进的使用这个插件的方式！\n\n旧的方式\n在未使用插件的示例模版里，存在如下几类的『程序代码』\n\n脚本类\n日期解析 date\n根据周期笔记的文件名，解析出日期\n根据解析出的日期，获取日期范围\n根据解析出的日期，获取文件列表\n\n任务查询 task\n根据日期范围，获取任务列表\n\n项目查询 project\n获取当前项目列表的快照\n根据日期范围内，获取项目列表\n计算日期范围内，项目的耗时及其占比\n\n领域查询 area\n获取当前领域列表的快照\n根据日期范围内，获取领域列表\n\n\n视图类\n任务完成视图 taskDoneList\n放到周期笔记中，可获取当前日期范围内完成的任务列表\n\n任务记录视图 taskRecordList\n放到周期笔记中，可获取当前日期范围内收集的任务列表\n\n项目列表视图 projectList\n放到周期笔记中，可获取当前日期范围内项目耗时的占比\n\n领域列表视图 areaList\n放到周期笔记中，可获取当前日期范围内领域列表\n\n\n\n直接将代码跟随示例模版输出给用户，这大大增加了用户的上手成本，且用户无…",
-          "link": "https://sspai.com/post/81195",
-          "publishedOn": "2023-07-16T07:35:38.000Z",
-          "wordCount": 742,
-          "title": "我给我的 Obsidian 实践写了一个插件",
-          "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/81183",
-          "author": "遇事不决点宵夜",
-          "description": "入坑家电圈几个月，经过密集的培训之后，也算半个脚跨进家电圈了。\n要说体会，那就和听完老师傅传授武林秘籍之后的感受一样，这特么水也太深了！\n好了，话不扯远，就直接聊聊普通人买家电，应该怎么选吧。\n以下是因家人需要，购买全屋家电的情况下，请教了身边的 20 年家电老兵，得出的一些干货。希望对大家有所帮助。\n一切以预算为主\n第一步，列清单，确定我需要什么？下面是常规家电的购置清单，可适度添加个性化的家电产品，这里以家用大家电为主，像电饭煲、微波炉等小电器，可随时购置，就按下不表。\n\n\n房间必买可买，提升生活品质建议组合\n\n厨房\n烟灶套装\n冰箱\n热水器\n\n洗碗机\n微蒸烤一体机\n厨下净水器\n消毒柜（洗碗机可替代）\n\n烟灶\n燃气热水器\n冰箱\n洗碗机\n微蒸烤一体机\n厨下净水器\n\n阳台洗衣机电动晾衣架\n洗烘套装\n电动晾衣架\n\n客厅及卧室\n电视\n空调 3匹柜机\n空调 1.5匹挂机\n空气净化器\n电视\n空调 3匹柜机\n空调 1.5匹挂机\n空气净化器\n\n\n\n按照必买的清单列出来，再根据自己房子平面规划图，按部就班的列出对应的型号，价格。\n必买的那些家电\n先说厨房，首选逃不掉就是：烟机燃气灶，在这块选择大牌一定是有必要的。\n原因有二，首先大牌有完善的售后，客服与售后是自己的，不论服务体验肯定是更好的。售后服务的差距大概就是京东自营和京东第三方店的差距。其二，烟机灶具出了问题，你不可能等几天不做饭等维修上门吧，因此产品故障率一定是很重要的，故障率少一定是更省心的。\n建议选购大牌，国产选择老板/方太足够，其余杂牌一概不考虑。可能会有人担心假货，但目前这2家对于假货的管控还是十分严格的，方太也是少有的真的存在品牌粉丝的一说的国产品牌。\n选冰箱，参数一类就不再赘述，全网都是。这里只提一点，就是颜色，如果你看到的一堆里面都是灰色，难得找到一个白色的同参数的，不用怀疑白色一定是最贵的那款。\n家电产品从立项到研发…",
-          "link": "https://sspai.com/post/81183",
-          "publishedOn": "2023-07-16T02:08:19.000Z",
-          "wordCount": 670,
-          "title": "家电应该怎么买？和内行人聊聊买家电",
-          "imageUrl": "https://cdn.sspai.com/2023/07/16/2a27e1b945b48344bf3ffc15aa93457d.jpeg"
         }
       ]
     },
@@ -832,6 +882,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23255",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🐕 Bad practice: capturing a method reference\n@AidenRao：这篇文章讨论了在 Swift 中捕获方法引用的不良实践。文章指出，尽管在将方法引用作为参数传递给函数时不需要显式地使用 self 关键字，但实际上编译器会自动捕获对 self 的强引用，从而可能导致循环引用的问题，且编译器不会对此发出警告。\n🐕 Objective-C Internals\n@Smallfly：虽然 Swift 已经成为官方默认的编程语言，但在国内大部分大型应用依然由 Objective-C 主导，并且熟练掌握 Objective-C 对理解底层系统实现有较大的帮助。该博客分享了一系列剖析 Objective-C 内部实现的文章，涉及到类的实现、isa 指针、实例变量、以及内存管理等等。每一篇文章简短又不失深度，有需要的同学可以查漏补缺。\n🐕 How to Create Callback-like Behavior Using AsyncStream in Swift\n@Barney：文章详细探讨了如何在 Swift 中使用 AsyncStream 实现类似回调的行为，尤其聚焦于跟踪下载操作。\nSwift Concurrency Revolution：概述了 AsyncStream 是如何革新异步代码处理的。\nReplacing Old Methods & Creating Example：通过模拟下载操作示例，演示了 AsyncStream 如何替换基于闭包的传统方法。\nAsyncStream Implementation & Considerations：深入解…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23255",
+          "publishedOn": "2023-08-14T07:20:51.000Z",
+          "wordCount": 601,
+          "title": "老司机 iOS 周报 #255 | 2023-08-07",
+          "imageUrl": "https://opengraph.githubassets.com/1424b07a12748442e2deae5165dc11da954549c4bb646a7c0ace433347b8d8fa/SwiftOldDriver/iOS-Weekly/releases/tag/%23255"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23256",
           "author": null,
@@ -885,6 +945,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75794",
+          "author": null,
+          "description": "美国公司正在竞相高薪招 AI 人才，部分公司将薪酬提高到了 7 位数字。部分公司还表示愿意收购小型 AI 创业公司以获得人才。Match Group 的约会平台 Hinge 正在招聘一位 AI 和机器学习副总裁，基础年薪为 $332,000-$398,000；Upwork 给 AI 和机器学习副总裁制定的年薪为 $260,000- $437,000。亚马逊的应用科学和生成 AI 高级经理职位的薪酬最高 $340,300。Netflix 将 AI 产品经理的年薪提高到最高 $900,000。不是所有 AI 相关职位的薪酬都如此丰厚。提示工程师（prompt engineer）的年薪大约 $130,000，机器学习产品工程师的年薪平均为 $143,589。沃尔玛生成式 AI 团队职位的年薪在 $168,000- $252,000；宝洁的 AI 工程师基本工资  $110,000- $132,000；高盛 AI 工程师基本工资 $150,000 - $250,000。",
+          "link": "https://www.solidot.org/story?sid=75794",
+          "publishedOn": "2023-08-14T16:06:59.000Z",
+          "wordCount": 193,
+          "title": "美国公司竞相高薪招 AI 人才",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75793",
+          "author": null,
+          "description": "美国太空部队开始部署自己的小型卫星集群，从依赖少数昂贵的大型卫星转向廉价的小型卫星。对五角大楼而言，这意味着小型卫星群是敌对方更难攻击的目标：激光或导弹能毁灭一颗卫星，但对整个卫星群的影响微乎其微。新卫星群主要用于导弹跟踪、数据传输以及通信等防御目的。首批 10 颗卫星在 4 月 2 日送入近地轨道，下一批 13 颗卫星计划在 8 月底发射。今年发射的 28 颗卫星主要是测试和演示目的，其代号为 Tranche 0。\nTranche 1 由逾 160 颗卫星组成，将在 2024 年晚些时候发射。预计在数年之内美国太空部队将有近千颗卫星群，它们的体积是现有大型卫星的八分之一。",
+          "link": "https://www.solidot.org/story?sid=75793",
+          "publishedOn": "2023-08-14T15:46:56.000Z",
+          "wordCount": 162,
+          "title": "美国太空部队开始部署自己的小型卫星集群",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75792",
+          "author": null,
+          "description": "DEF CON 安全会议的主会场因炸弹威胁而大规模疏散人群。消防人员和警方对大楼进行了彻底搜寻但没有找到可疑物品。主办方取消了当晚的庆祝活动，令与会者大失所望。DEF CON 安全会议于 8 月 10 日举行，13 日结束。主办方表示他们收到了可疑包裹的报告，被要求从大楼里撤离。炸弹威胁被认为是一次恶作剧，但恶作剧者毁掉了所有人的夜晚。有报道称，今年的 DEF CON 会议吸引了逾 3 万人参加，相比下 Black Hat 安全会议只有大约 2 万人。",
+          "link": "https://www.solidot.org/story?sid=75792",
+          "publishedOn": "2023-08-14T15:06:45.000Z",
+          "wordCount": 169,
+          "title": "DEF CON 安全会议因炸弹威胁而疏散",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75791",
+          "author": null,
+          "description": "中国最大的芯片代工企业中芯国际正在经历一段艰难时期。该公司上周四公布，截至 6 月当季，收入同比下降18%，营业利润较上年同期锐减 85%。虽然销售业绩较 2023 年第一季度略有改善，但仍低于 2022 年的峰值。中芯国际是过去两年芯片短缺的主要受益者，那时成熟制程芯片短缺问题尤其严重，而生产这类芯片正是中芯国际的强项。供应短缺的缓解导致该公司工厂产能利用率下降。中芯国际持续大手笔投资于更成熟技术的做法将继续拖累该公司利润。此外，中国经济放缓也会带来负面影响，原因是消费电子产品需求疲软。",
+          "link": "https://www.solidot.org/story?sid=75791",
+          "publishedOn": "2023-08-14T11:17:11.000Z",
+          "wordCount": 148,
+          "title": "中芯国际面临挑战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75790",
+          "author": null,
+          "description": "图书分析网站 Prosecraft 本月早些时候引起了作家们的注意。该网站提供了逾 2.5 万本图书写作和叙事风格的分析，提供了副词计数等语言统计数据，还能提供特定单词的排名。Prosecraft 显然不太可能获得所有分析图书的版权许可，在生成式 AI 版权争议引发广泛关注的背景下，这个与 AI 没有多少关系的图书统计分析网站成为作家们抗议的焦点，不到 24 小时就收到了数百封投诉，创始人 Benji Smith 随后下线了网站。Smith 是在 2017 年上线了 Prosecraft，当时是将其视为副业中副业。它的创意来自于 Smith 在阅读图书时对单词计数的爱好。Prosecraft 使用了算法，但根本称不上生成式 AI。但 Smith 在关闭声明中承认，他从盗版电子书网站抓取了书籍数据库。他没有购买其中任何一本书。作家们表示他们并不反对使用盗版图书库，他们反对的是以此牟利。",
+          "link": "https://www.solidot.org/story?sid=75790",
+          "publishedOn": "2023-08-14T11:08:14.000Z",
+          "wordCount": 181,
+          "title": "图书分析项目 Prosecraft 成为 AI 侵权争议的最新受害者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75789",
+          "author": null,
+          "description": "生成式 AI 工具的流行加剧了编程问答网站 Stack Overflow 的流量下降趋势。在 Stack Overflow 询问编程问题是有门槛的，而询问 ChatGPT 则能及时获得友好的回答，即使答案有可能是错误的。今天很多人都是询问 ChatGPT 而不是到 Stack Overflow 提问。在此背景下，Stack Overflow 宣布创建了一个专门讨论生成式 AI 提示词的社区 GenAI Stack Exchange，以及它的生成式 AI 工具 OverflowAI，帮助开发者找到编程问题的答案。它的预览版目前开放注册。",
+          "link": "https://www.solidot.org/story?sid=75789",
+          "publishedOn": "2023-08-14T10:13:00.000Z",
+          "wordCount": 183,
+          "title": "Stack Overflow 开始提供 AI 工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75788",
+          "author": null,
+          "description": "Google Chrome 开始为对抗量子计算的加密技术做准备。量子计算机被认为能破解经典加密算法，然而五到十年的短期内量子计算机还不太可能走向实用。但如果不保护加密流量，那么这些数据将容易受到“Harvest Now, Decrypt Later”的攻击，也就是收集今天的加密数据等到破译技术改进之后再进行破译。Google 将从 8 月 15 日释出的 Chrome 116 开始加入对 X25519Kyber768 的支持，其中 X25519 是广泛应用于 TLS 密钥协商协议的椭圆曲线算法，而 Kyber768 是抗量子计算的密钥封装方法，是美国国家标准技术局（NIST）去年宣布的后量子加密和签名算法竞赛的首批获胜者之一。",
+          "link": "https://www.solidot.org/story?sid=75788",
+          "publishedOn": "2023-08-14T08:10:45.000Z",
+          "wordCount": 171,
+          "title": "Google Chrome 开始支持抗量子计算的密钥协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75787",
+          "author": null,
+          "description": "万得(Wind)的数据显示，2022 年中国大陆上市公司的研发费用达到 1.6419 万亿元，5 年间增至约 2.6 倍。中国大陆上市企业的研发人员达到约 308 万人，比亚迪研发人数最多，有 69697 名研发人员。其中博士生 590 人，硕士生 7827 人。部分中国企业的研发人员占到了员工总数的 9 成。例如开发国产 CPU 和人工智能(AI)用芯片的海光信息技术。",
+          "link": "https://www.solidot.org/story?sid=75787",
+          "publishedOn": "2023-08-14T06:38:18.000Z",
+          "wordCount": 160,
+          "title": "中国企业加大研发投入",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75786",
+          "author": null,
+          "description": "约五分之一人天生携带突变基因 APOE4 的至少一个拷贝。该突变基因会让人在年老时更容易患心脏病和阿尔茨海默病。它是如此常见，以至于引发了演化方面的疑问：如果它降低了人的健康水平，为什么没有随着时间而被清除出去？对亚马逊地区近 800 名女性的研究发现，APOE4 基因可能有助于繁育更多后代。生育上的好处可能是它在人类演化过程中保留下来的原因。研究发现，携带 APOE4 基因的女性比不携带者体重略重，早一年生育，更几个月生育第一个孩子，生育的孩子数量也略多。",
+          "link": "https://www.solidot.org/story?sid=75786",
+          "publishedOn": "2023-08-14T06:34:58.000Z",
+          "wordCount": 148,
+          "title": "阿尔茨海默治病基因可能帮助祖先繁育更多后代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75785",
+          "author": null,
+          "description": "FTX 创始人 Sam Bankman-Fried（S.B.F.）原计划在今年冬天的斯坦福课堂上就科技伦理主题发表演讲。他去年底在巴哈马被捕，之后被引渡到美国受审。他被控盗取数十亿美元的客户资金去填补旗下对冲基金 Alameda Research 的损失。在支付了 2.5 亿美元的保释金之后他被软禁在父母家中，他的父母是斯坦福大学法学教授 Joseph Bankman 和 Barbara Fried。但上周五，他的保释被法官 Lewis A. Kaplan 撤销了，原因是他被指试图干扰证人。他不再住在父母位于斯坦福校园的房子内，而是关押在布鲁克林的拘留中心 Metropolitan Detention Center。Bankman-Fried 违反保释条件可能导致帮助担保 2.5 亿美元保释金的父母、斯坦福教授 Andreas Paepcke 以及前法学院院长 Larry Kramer 没收其提供的抵押品。",
+          "link": "https://www.solidot.org/story?sid=75785",
+          "publishedOn": "2023-08-14T05:30:28.000Z",
+          "wordCount": 174,
+          "title": "SBF 在保释取消前计划就科技伦理在斯坦福大学发表演讲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75784",
+          "author": null,
+          "description": "Sci-Hub 创始人 Alexandra Elbakyan 响应了 Z-Library 的请愿活动。她说，知识的自由获取是一项人权，将知识限制在付费墙内是一种对人权的侵犯。她表示，Sci-Hub 从未仅仅是一个盗版网站，它有着自己的政治议程，并为着一个更公平的社会而战。与此同时，Z-Library 从未关心政治，采用了半商业的运营模式。但几个月前，两位 Z-Library 创始成员被捕，域名被屏蔽。她认为仅仅与他人分享知识而被拘留是另一种对人权的侵犯。他们的行为与他们面临的惩罚是完全不对等的。Z-Library 现在改变了对政治的态度，加入了“知识的自由获取是一项人权”的战斗。",
+          "link": "https://www.solidot.org/story?sid=75784",
+          "publishedOn": "2023-08-14T04:57:21.000Z",
+          "wordCount": 153,
+          "title": "知识的自由获取是一项人权",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75783",
           "author": null,
@@ -3482,6 +3652,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/747627/",
+          "author": null,
+          "description": "图片来源：雷恩·波斯特尔/费米实验室 科技日报北京 8 月 14 日电 （记者张梦然）一个微小的摆动，却可能动摇当今科学基础。美国费米国家加速器实验室的物理学家发现新证据，表明缪子（μ子，一种亚原子粒子）的摆动程度远远超过了应有的程度，他们认为应有一种未知的力在推动它。这一结果如在“最终对决”中确定\n本文链接",
+          "link": "https://news.cnblogs.com/n/747627/",
+          "publishedOn": "2023-08-15T00:41:46.000Z",
+          "wordCount": 163,
+          "title": "最新实验表明缪子摆动远超应有程度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747630/",
+          "author": null,
+          "description": "进入 2023 年下半年，虽然智能手机的销量迟迟不见起色，但在局部战场，折叠屏手机仍旧保持着高增长的状态。近日，Counterpoint Research 披露的报告显示，2023 年 Q1 全球整体智能手机出货量下跌 14.2% 的背景下，可折叠手机的出货量同比增长 64% 至 250 万台。在 \n本文链接",
+          "link": "https://news.cnblogs.com/n/747630/",
+          "publishedOn": "2023-08-15T00:25:00.000Z",
+          "wordCount": 163,
+          "title": "小米 MIX Fold 3评测：旗舰影像+折叠屏，抢占智能手机的「制高点」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747629/",
+          "author": null,
+          "description": "8 月 14 日消息，据外媒报道，特斯拉 2017 年 11 月份推出的电动卡车 Semi，虽然在经历漫长的等待、多次推迟之后，在去年的 12 月份才正式开始交付，用于客户的运输，但特斯拉自身其实更早就已将 Semi 的原型车用于运输，此前曾多次在季度末被目睹参与转运特斯拉所生产的电动汽车。 特斯拉\n本文链接",
+          "link": "https://news.cnblogs.com/n/747629/",
+          "publishedOn": "2023-08-15T00:17:00.000Z",
+          "wordCount": 163,
+          "title": "特斯拉电动卡车Semi首次被目睹运输Cybertruck电动皮卡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747628/",
+          "author": null,
+          "description": "8 月 14 日消息，据外媒报道，今日，鸿海科技集团（也被称作富士康）公布了 2023 年第二季度财报。 财报显示，该公司二季度营收为 1.30 万亿新台币，同比下降 14%；毛利润为 836 亿新台币，同比下降 14%；营业利润为 309 亿新台币，同比下降 30%；净利润为 330 亿新台币，同\n本文链接",
+          "link": "https://news.cnblogs.com/n/747628/",
+          "publishedOn": "2023-08-15T00:12:00.000Z",
+          "wordCount": 163,
+          "title": "富士康2023年第二季度净利润同比下滑1% 但好于预期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747626/",
+          "author": null,
+          "description": "8 月 12 日，湖南岳阳，有网友爆料称，三荷机场的停车场立有告示，写道“涉密管制区域，禁止特斯拉入内”。机场公安接线人员表示确实贴有这样的告示。原因在于，特斯拉车辆带有某种模式，车主离开后会对车身周边环境进行录像。该工作人员说，现在很多单位都禁止特斯拉入内，机场员工的特斯拉也不能进入。 对此，特斯\n本文链接",
+          "link": "https://news.cnblogs.com/n/747626/",
+          "publishedOn": "2023-08-15T00:10:00.000Z",
+          "wordCount": 163,
+          "title": "特斯拉回应“机场禁止入内”：哨兵模式数据仅存储在车辆本地，无法远程查看",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747625/",
+          "author": null,
+          "description": "8 月 14 日消息，TechInsights 的数据显示，2023 年二季度苹果 iPhone 全球出货量同比下降 9.3%，为 4310 万部，市场份额为 16.0%。2023 年苹果并没有推出 iPhone SE，这也是该季度苹果出货量下降的原因之一。 并且，iPhone 此前的强势销售地区，\n本文链接",
+          "link": "https://news.cnblogs.com/n/747625/",
+          "publishedOn": "2023-08-15T00:05:00.000Z",
+          "wordCount": 163,
+          "title": "美国人买不过国人 中国首成iPhone最大市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747624/",
+          "author": null,
+          "description": "8 月 14 日消息，扎克伯格就“马扎笼斗”发声预示着两位超级富豪的格斗告吹。面对网友对此事的热烈关注，马斯克也终于在网友评论里做出了回应，马斯克回复“Zuck is a chicken（小扎是弱鸡）”，似乎是对扎克伯格单方面退出的一种回击。 此前扎克伯格在发文，他认为社交媒体X（原推特）拥有者马斯\n本文链接",
+          "link": "https://news.cnblogs.com/n/747624/",
+          "publishedOn": "2023-08-15T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "“马扎笼斗”告吹 马斯克发了一句有趣的回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747621/",
+          "author": null,
+          "description": "谁能想到，在雷军个人演讲的间隙「抽空」开产品发布会已成了小米的传统。 今年雷军带来了题为《成长》的演讲，在 1 个多小时的时间里讲述了雷军从大学时代到创业后的成长历程，最终着眼于小米跌跌撞撞的高端之路上。 没有谁的成功是理所当然的，就算是一向以努力、工作狂著称的雷军也一样。 大学时期，雷军用 2 年\n本文链接",
+          "link": "https://news.cnblogs.com/n/747621/",
+          "publishedOn": "2023-08-14T15:45:00.000Z",
+          "wordCount": 163,
+          "title": "小米杀疯了：对标 iPhone 的 MIX Fold 3 、价格屠夫 K60 Ultra……还有一条新的狗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747620/",
+          "author": null,
+          "description": "作者丨邱晓芬 编辑丨苏建勋 2023 年 8 月 14 日，雷军第四次年度演讲「成长」在国家会议中心举行。这次发布会上，雷军公布其在 AI 大模型上的进展和策略、发布了最新的旗舰折叠屏手机小米 MIX Fold、以及讲述了其创业三十年的心得体会。 在 AI 火热的今年，人工智能毫无例外也是小米无法缺\n本文链接",
+          "link": "https://news.cnblogs.com/n/747620/",
+          "publishedOn": "2023-08-14T15:30:00.000Z",
+          "wordCount": 163,
+          "title": "雷军年度演讲：小米手机全面拥抱大模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747623/",
+          "author": null,
+          "description": "摘要 新的 AI 浪潮下，中国最大办公协同 App 迎来新开局。 钉钉，迎来了新的发展阶段——成立 9 年之后，中国最大的办公 SaaS 应用，钉钉终于要「单飞」了。 8 月 14 日，极客公园获悉，阿里巴巴集团层面确定，钉钉将作为阿里集团内部的独立业务，进行独立发展。 在今年 3 月发布「1+6+\n本文链接",
+          "link": "https://news.cnblogs.com/n/747623/",
+          "publishedOn": "2023-08-14T15:10:00.000Z",
+          "wordCount": 163,
+          "title": "钉钉单飞，一个 2000 亿独角兽的新机会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747622/",
+          "author": null,
+          "description": "摘要 ISC 2023 上，360 发布首个安全行业大模型，并与 8 家企业达成大模型战略应用合作。 大模型正从理论走向实践，解决好安全、成本与可用性，抓住创新机遇，规避行业风险，是推动大模型落地的当务之急。 8 月 9 日，三六零集团在 ISC 2023 第十一届互联网安全大会上，发布了国内首个可\n本文链接",
+          "link": "https://news.cnblogs.com/n/747622/",
+          "publishedOn": "2023-08-14T15:00:00.000Z",
+          "wordCount": 163,
+          "title": "推动大模型 B 端落地，360 想怎么做？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747619/",
+          "author": null,
+          "description": "Meta 首席执行官马克・扎克伯格（Mark Zuckerberg）在 Facebook 上宣布，WhatsApp 在视频通话期间引入了屏幕共享的新功能，适用于安卓、iOS 和 Windows 平台，旨在提高与 Zoom、Google Meet 和 Microsoft Teams 等 App 的竞争\n本文链接",
+          "link": "https://news.cnblogs.com/n/747619/",
+          "publishedOn": "2023-08-14T13:26:00.000Z",
+          "wordCount": 163,
+          "title": "WhatsApp推出视频通话屏幕共享功能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747618/",
+          "author": null,
+          "description": "据新浪科技报道，随着阿里巴巴“1+6+N”组织变革的持续推进，阿里集团已明确钉钉继续作为阿里巴巴集团内独立业务，独立发展，加速孵化。阿里内部人士称，钉钉一直是阿里旗下的一个独立业务，在“1+6+N”组织变革前，钉钉由阿里云智能事业群分管。不久前，阿里云宣布将从阿里集团分拆上市，而钉钉则明确将独立发展\n本文链接",
+          "link": "https://news.cnblogs.com/n/747618/",
+          "publishedOn": "2023-08-14T13:22:00.000Z",
+          "wordCount": 163,
+          "title": "钉钉独立发展，阿里战略孵化创新业务加速",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747617/",
+          "author": null,
+          "description": "“生态是演化出来的，”谈及地平线生态建设的整体策略，地平线生态发展与战略规划副总裁李星宇如是说。 近年来，地平线将自身的业务聚焦在汽车赛道，截止目前已经对外发布了征程2、征程3、征程5 等多款征程系列车载智能芯片。车规级芯片推出之后，如何让征程系列芯片获得主机厂、Tier1 以及软硬件算法供应商的认\n本文链接",
+          "link": "https://news.cnblogs.com/n/747617/",
+          "publishedOn": "2023-08-14T13:18:00.000Z",
+          "wordCount": 163,
+          "title": "地平线李星宇：生态是地平线真正意义上的护城河",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747616/",
+          "author": null,
+          "description": "IT 之家 8 月 14 日消息，推特博主 Tesla China Analyst 近日透露，特斯拉“自动驾驶完全体”FSD 测试版已经向中国区用户推送，初期将以“影子模式”收集数据，在完成相关可行性的验证之后将逐步启动小规模试用。 而在更早之前，这位博主发文表示特斯拉在中国于 8 月 9 日推送了\n本文链接",
+          "link": "https://news.cnblogs.com/n/747616/",
+          "publishedOn": "2023-08-14T13:11:00.000Z",
+          "wordCount": 163,
+          "title": "消息称特斯拉 FSD 测试版已向部分国内用户推送",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747615/",
+          "author": null,
+          "description": "克雷西发自凹非寺 量子位公众号 QbitAI 《流浪地球3》的预告片来了？！ 总导演亲自认证那种。 只见装满了行星发动机的地球缓缓转动，接着画面切换到了发动机的特写…… 这段 72 秒的预告片是博主@数字生命卡兹克在微博、B站等多个平台同时发布的。 看这个 ID，应该是一位铁杆「球迷」了。 郭帆在微\n本文链接",
+          "link": "https://news.cnblogs.com/n/747615/",
+          "publishedOn": "2023-08-14T13:00:00.000Z",
+          "wordCount": 163,
+          "title": "AI版《流浪地球3》预告片流出，郭帆亲自转发（手动狗头）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747614/",
+          "author": null,
+          "description": "机器之心报道 编辑：泽南 其实只是铜在导电？ 最近，各国科学家有关韩国「室温超导」材料 LK-99 的研究陆续出炉，持悲观态度的人越来越多。 不过人们同时也认为，虽然可能不是超导，但 LK-99 所展现的特殊性质可能会推进凝聚态物理领域向前进步。人们对 LK-99 的认知仍远算不上清晰，对其本质的猜\n本文链接",
+          "link": "https://news.cnblogs.com/n/747614/",
+          "publishedOn": "2023-08-14T10:30:00.000Z",
+          "wordCount": 163,
+          "title": "论文与新视频来了，东南大学对室温超导LK-99奇特电阻行为的解释",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747613/",
+          "author": null,
+          "description": "特斯拉官方微博 8 月 14 日发文回应近日网友关心的特斯拉“哨兵模式”：哨兵模式（一些品牌也称为“守卫模式”）是目前主流智能汽车标配的一种智能安全配置，并非特斯拉独有。特斯拉车辆出厂时，该功能默认处于关闭状态，需要车主手动开启才能使用。目前特斯拉车辆的这些数据只离线存储在车内 USB 设备中，车主\n本文链接",
+          "link": "https://news.cnblogs.com/n/747613/",
+          "publishedOn": "2023-08-14T08:18:00.000Z",
+          "wordCount": 163,
+          "title": "特斯拉：已在中国建立数据中心，所有中国大陆市场车辆数据存储在境内",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747612/",
+          "author": null,
+          "description": "金磊西风发自凹非寺 量子位公众号 QbitAI 短短几分钟，读过博的和没读过博的人都沉默了。 就在最近，一款名为“读博模拟器”（PhD Simulator）的游戏，可谓是小火了一把。 因为它把整个读博士过程中的跌（狗）宕（血）起（剧）伏（情），淋漓尽致地展现了出来。 没错！主打的就是一个人间真实。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/747612/",
+          "publishedOn": "2023-08-14T08:11:00.000Z",
+          "wordCount": 163,
+          "title": "这个「读博模拟器」太逼真，来试试你能被劝退几次？（手动狗头）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747611/",
+          "author": null,
+          "description": "克雷西金磊发自凹非寺 量子位公众号 QbitAI 家人们，谁能想到这年头“做个人”居然成了件难事啊？ 最近就有一位可爱的妹子，被广大网友集体要求证明自己是人类。 究其原因，竟然是因为长得太像 AI 了…… （真的是蚌埠住了，在这道“证明题”面前，再“反人类”的验证码怕是都只能俯首称臣。） 不过先别急\n本文链接",
+          "link": "https://news.cnblogs.com/n/747611/",
+          "publishedOn": "2023-08-14T07:58:00.000Z",
+          "wordCount": 163,
+          "title": "美女新难题：如何自证不是AI",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/747554/",
           "author": null,
@@ -8991,36 +9361,6 @@
           "wordCount": 163,
           "title": "马斯克披露xAI：6年实现AGI特斯拉资源都能用！2万块N卡被曝到位",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745932/",
-          "author": null,
-          "description": "杨净发自凹非寺 量子位公众号 QbitAI 包括 GPT-4 在内等多个大模型惨遭人类攻击！还是大范围、多边形那种。 而且这个军团被爆个个来头不小。 包括社会学家李银河、心理学家李松蔚、中科院计算研究所王元卓等，覆盖环境、心理、法理、心理、教育、大数据、无障碍等多个领域。 他们专挑刁钻、陷阱的问题来\n本文链接",
-          "link": "https://news.cnblogs.com/n/745932/",
-          "publishedOn": "2023-07-16T08:11:00.000Z",
-          "wordCount": 163,
-          "title": "大模型惨遭人类大范围攻击！国内专家组团投毒，GPT-4也Hold不住",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745931/",
-          "author": null,
-          "description": "尚恩发自凹非寺 量子位公众号 QbitAI 未来五年内将不会有人类程序员。这是最近 AI 圈新晋嘴炮哥，Stability AI 首席执行官伊玛德·莫斯塔克又一惊人言论。此话一出，立刻引得一众科技圈大佬吐槽，直指大错特错。 ChatGPT 的出现催生出一批代码生成工具，AI 取代人类话题已久，但对“\n本文链接",
-          "link": "https://news.cnblogs.com/n/745931/",
-          "publishedOn": "2023-07-16T08:02:00.000Z",
-          "wordCount": 163,
-          "title": "ChatGPT时代程序员生存指南，这四步很关键｜IEEE Spectrum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/745930/",
-          "author": null,
-          "description": "金磊发自凹非寺 量子位公众号 QbitAI 偏微分方程（PDE，Partial Differential Equation），这个在流体动力学、天体物理学等领域的常客，现在有了新求解“姿势”。 深度学习三巨头之一的 Yann LeCun，在他自称“很酷”的最新研究中提出—— 自监督学习方法用在偏微分\n本文链接",
-          "link": "https://news.cnblogs.com/n/745930/",
-          "publishedOn": "2023-07-16T07:55:00.000Z",
-          "wordCount": 163,
-          "title": "LeCun「超酷」新成果：用自监督姿势打开偏微分方程",
-          "imageUrl": null
         }
       ]
     },
@@ -9029,6 +9369,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23255",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🐕 Bad practice: capturing a method reference\n@AidenRao：这篇文章讨论了在 Swift 中捕获方法引用的不良实践。文章指出，尽管在将方法引用作为参数传递给函数时不需要显式地使用 self 关键字，但实际上编译器会自动捕获对 self 的强引用，从而可能导致循环引用的问题，且编译器不会对此发出警告。\n🐕 Objective-C Internals\n@Smallfly：虽然 Swift 已经成为官方默认的编程语言，但在国内大部分大型应用依然由 Objective-C 主导，并且熟练掌握 Objective-C 对理解底层系统实现有较大的帮助。该博客分享了一系列剖析 Objective-C 内部实现的文章，涉及到类的实现、isa 指针、实例变量、以及内存管理等等。每一篇文章简短又不失深度，有需要的同学可以查漏补缺。\n🐕 How to Create Callback-like Behavior Using AsyncStream in Swift\n@Barney：文章详细探讨了如何在 Swift 中使用 AsyncStream 实现类似回调的行为，尤其聚焦于跟踪下载操作。\nSwift Concurrency Revolution：概述了 AsyncStream 是如何革新异步代码处理的。\nReplacing Old Methods & Creating Example：通过模拟下载操作示例，演示了 AsyncStream 如何替换基于闭包的传统方法。\nAsyncStream Implementation & Considerations：深入解…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23255",
+          "publishedOn": "2023-08-14T07:20:51.000Z",
+          "wordCount": 601,
+          "title": "老司机 iOS 周报 #255 | 2023-08-07",
+          "imageUrl": "https://opengraph.githubassets.com/1424b07a12748442e2deae5165dc11da954549c4bb646a7c0ace433347b8d8fa/SwiftOldDriver/iOS-Weekly/releases/tag/%23255"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23256",
           "author": null,
