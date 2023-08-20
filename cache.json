@@ -54,16 +54,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 264 期）：Elasticsearch 的启示",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n秘鲁首都利马是一个神奇的城市，建在面向太平洋的悬崖之上。要去海滩，还要下山。（via）\n开源软件如何赚钱？\n众所周知，开源软件很难赚钱，尤其是 GPL 许可证的代码。\n\nGPL 规定，必须向使用者提供源码，并且使用者有权重新发布源码。\n这就是说，别人可以免费分发你的软件，所以你无法靠出售软件获利。\n\n既然卖不了软件，那么能不能卖服务呢，出售代码的支持、定制、咨询服务？\n我一直认为是可以的。证据就是有一家软件公司，依靠软件支持服务，赚到了大钱，还上市了。\n这家公司就是红帽公司，它出售 Linux 企业级支持和咨询服务，1999年成功上市，2019年被 IBM 以340亿美元的高价收购。\n\n但是，这个成功故事在上个月嘎然而止。突然之间，所有人惊觉，软件客服的商业模式再也行不通了。\n下面我就来说说，到底发生了什么事。\n红帽的主要产品，就是它自己的 Linux 发行版，叫做 RHEL（Red Hat Enterprise Linux 的缩写）。它卖的是这个发行版的支持服务。\n\n根据 GPL 许可证，它必须免费提供源码，所以市场上有很多它的克隆版。那些不愿意买红帽服务的公司，就用克隆版，很多互联网大厂都这样做。\n以前，最流行的红帽克隆版是 CentOS。它甚至比红帽本身的使用量都要大。\n\n自从红帽被 IBM 收购以后，就觉得克隆版对生意的冲击太大了。它就收购了 CentOS，并在两年前把它停掉，改成自家的测试版，起名为 CentOS Stream，等于让社区帮它找 Bug。\n这件事让很多人不爽，但是红帽的源码是公开的，一个克隆版没了，那就再推其他克隆版。现在最流行的克隆版有两个：Alma Linux 和 …",
-          "link": "http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html",
-          "publishedOn": "2023-07-21T00:01:19.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 263 期）：开源软件如何赚钱？",
-          "imageUrl": null
         }
       ]
     },
@@ -677,26 +667,6 @@
           "wordCount": 667,
           "title": "我的技术学习，与独立开发的理想之路",
           "imageUrl": "https://cdn.sspai.com/2023/07/22/321dc3e871a66fa58e4b8c814bcb43d4.png"
-        },
-        {
-          "id": "https://sspai.com/post/81363",
-          "author": "SimonYoung",
-          "description": "又名：啃了一下午AppleScript，我搞了这些奇技淫巧（一）\n\n需要用到的软件工具：推荐BetterTouchTool1或者Keyboard Maestro2\n\n关键问题\n今年回归到MacOS上搞论文、敲代码，Safari逐渐成为主力浏览器。连接多屏使用时，往往将Safari置于副屏固定位置上，搜索资料时能够扭头就去处理。\n\n但往往在打开标签页比较多的情况下，使用快捷键一路Ctrl+W下去，不小心关闭了最后一个Tab页，然后整个Safari窗口退出了！于是不得不再从Dock栏里面唤醒Safari，然后重新给她调整位置，打断了工作节奏不说，过程还很繁琐。\n那么在即将关闭最后一个Tab的时候，屏蔽掉Ctrl+W或者新建一个标签页，从而使Safari不至于关闭整个窗口，就成为了一个亟待解决的痛点。（印象中在Windows的Edge上有保留最后一个Tab的设置，但在Safari上没有找到。）\n现有方案\nGoogle了一下发现似乎是个老问题了34，解决方案包括但不限于：\n\n“屏蔽Safari的Ctrl+W快捷键，或者修改关闭Tab为其它按键”。这种方案虽一劳永逸，但有些因噎废食了。\n“添加Run AppleScript 动作，在按下Ctrl+W时弹出提示框”。但这不是一个end-to-end的方案。（甚至我觉得还不如不用快捷键）\n“重新打开 Safari后，只需 ⇧+⌘+T 即可恢复误关之前的全部标签页”。解决不了重新唤醒要调整位置的关键问题。\n为Safari写固定的位置脚本或者换用Edge、Chrome等。\n\n解决方案\nAppleScript代码\n思路很简单，就是当前Tab页数量为1时重定向到HomePage，或者新打开标签页再关闭当前页。\n上AppleScript代码：\ntell window 1 of application \"Safari\"\nif the number of tabs > 1 then\nclose current tab ----当目前窗口标签数量为1时，关闭标签页\nelse\ntell application \"System Events\"\nset frontmost of process \"Safari\" to true\nkeystroke \"t\" using {command down} ---新建Tab页\nend tell\ndelay 0.3 ----稍微延迟一下，不然有很大概率在关闭时又退出了窗口。\nclose tab 0 ---关闭之前到最后一个Tab\nend if\nend tell\n \n可以借用以下其中一个软件来使用上面的代码。\n\n使用BetterTouchTool覆盖Ctrl+W，配置如图所示。\n\n使用Keyboard Maestro覆盖Ctrl+W，配置如图所示\n\n \n\n使用系统自带的脚本自动化方法。（该方法我用的不熟，就不赘述了，这里5可以参考）。\n\n运行结果\n\n参考资料\n\nBetterTouchTool\nKeyboard Maestro\n防 Safari 下手抖误按 ⌘+Q\nHow to Keep Safari Open Even After Closing the Last Tab\n手把手教你用 AppleScript 模拟鼠标键盘操作，实现 macOS 系统的自动化操作\n\n最后\n\n啃了一下午AppleScript，我搞了这些奇技淫巧（二）\n                        ———为Mac上的微信读书设置快捷键。\n\n随缘更新",
-          "link": "https://sspai.com/post/81363",
-          "publishedOn": "2023-07-21T10:33:06.000Z",
-          "wordCount": 698,
-          "title": "调用AppleScript保留最后一个Safari 标签页",
-          "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/81331",
-          "author": "Ethan29",
-          "description": "以上是 Google 自 2013 年以来发布的已经停售的各款 Chromecast，它们运行精简版的 ChromeOS 操作系统，主要功能为将传统电视、显示器升级为网络电视，使其具有播放网络媒体的功能。用户主要是在手机或者电脑上选择要观看的内容，然后将其“Cast”到电视或显示器上。\n下面这个是 Google 于 2020 年 9 月发布的 Chromecast with Google TV。\n\n时隔 3 年，如今这款设备依然是 Google 发布的性能最强的 Chromecast：\n\n芯片：Amlogic S905D3\nCPU：1.9 GHz Quad-Core ARM Cortex-A55\nGPU：Mali-G31 MP2\n\n内存：2 GB\n存储空间：8 GB\n分辨率：4K, 60 FPS\n视频格式：Dolby Vision, HDR10, HDR10+, HLG\n音频格式：Dolby Digital, Dolby Digital Plus, Dolby Atmos\n\n相比于之前的历代 Chromecast，最新的 Chromecast with Google TV 在具备“Cast”功能的同时，还加入了交互式的用户界面和遥控器。这就使它的形态接近于一个电视盒子，所以我更宁愿用“Google TV”（以下均使用“Google TV”来代替“Chromecast with Google TV”） 来称呼它。\n作为一个“盒子玩家”，我手里有 Google TV、TiVo Stream 4K、Shield TV、芝杜 Z9X 和 Apple TV，当然也有国内的小米盒子。在所有这些盒子当中，可以看到 Google TV 的体积是最小的，但它的整体体验一点都不差。\n各种电视盒子\nGoogle TV 的外观\n\nGoogle TV 真的很小，薄薄的一块，就像一块用剩没多少的香皂。…",
-          "link": "https://sspai.com/post/81331",
-          "publishedOn": "2023-07-21T03:13:22.000Z",
-          "wordCount": 885,
-          "title": "虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验",
-          "imageUrl": "https://cdn.sspai.com/2023/07/20/cb5cfc9cd167f302a11fe57610f31e85.png"
         }
       ]
     },
@@ -775,6 +745,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75841",
+          "author": null,
+          "description": "WinRAR 修复了一个高危漏洞 CVE-2023-40477，该漏洞允许远程攻击者通过引诱受害者打开一个特制的 RAR 压缩文件去执行任意代码。该漏洞需要欺骗用户因此危险等级评分略低为 7.8/10。该漏洞是 Zero Day Initiative 的 研究员 goodbyeselene 发现的，2023 年 6 月 8 日报告给开发商 RARLAB，漏洞存在于恢复卷处理过程中，是未能正确验证用户提供的数据导致的。RARLAB 在 8 月 2 日释出 WinRAR v6.23 修复了该漏洞。WinRAR 用户需要尽可能快的升级。WinRAR v6.23 还修复了另一个会导致错误文件初始化的漏洞。",
+          "link": "https://www.solidot.org/story?sid=75841",
+          "publishedOn": "2023-08-19T11:24:48.000Z",
+          "wordCount": 175,
+          "title": "WinRAR 高危漏洞允许黑客在用户打开压缩文件时运行程序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75840",
+          "author": null,
+          "description": "过去几个月，用户通过社交网络和官方论坛报告西部数据旗下的闪迪 Extreme 系列固态硬盘存在缺陷，会导致硬盘里储存的数据被抹掉。尽管释出了固件修复，但问题仍然存在。受影响的型号包括 SanDisk Extreme Portable 4TB (SDSSDE61-4T00)、SanDisk Extreme Pro Portable 4TB (SDSSDE81-4T00)、SanDisk Extreme Pro Portable 2TB (SDSSDE81-2T00)、SanDisk Extreme Pro Portable 1TB (SDSSDE81-1T00) 和Western Digital My Passport 4TB (WDBAGF0040BGY)。本周加州居民 Nathan Krum 向圣何塞联邦法庭提起诉讼，寻求集体诉讼资格，代表 2023 年 1 月以来购买受影响硬盘的用户。诉讼指控西部数据未能履行最基本的承诺，即销售的硬盘产品能安全的储存数据。",
+          "link": "https://www.solidot.org/story?sid=75840",
+          "publishedOn": "2023-08-18T16:20:41.000Z",
+          "wordCount": 176,
+          "title": "西部数据闪迪固态硬盘被指不能安全的储存数据",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75839",
           "author": null,
@@ -3344,96 +3334,6 @@
           "wordCount": 195,
           "title": "Dolphin 项目公开任天堂法务部对该项目的立场",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75581",
-          "author": null,
-          "description": "Shawn the R0ck 写道：本文详细的总结了数字军火行业的历史以及现状，数字军火涉及0-day和N-day漏洞和漏洞利用的生态，作者介绍了在行业全盛时期的情况，快速衰败的原因和进入平稳期后的形态，这篇文章不仅可以让公众有机会了解数字军火行业，更重要的是可以给安全工程师，安全分析师，CISO（首席安全官）和其他机构决策者一个参考，在赛博世界中，武器化漏洞利用是攻击者的破局之道，而对于防御的一方来说只有理解了武器化漏洞利用和数字军火行业才能更好的打造属于自身的赛博堡垒，0ldsk00l黑客们经历的“Hacking for fun and profit”早在斯诺登大爷那会儿就一去不返，伴随而来的是不可避免的”This is cyber, sir!”时代下的网络战，这些历史或多或少都在这篇文章中有所提及，不论什么时代性的背景，我们都应该谦卑，这样至少在面对The Desert of the Real时降低看花眼的概率。",
-          "link": "https://www.solidot.org/story?sid=75581",
-          "publishedOn": "2023-07-21T10:50:26.000Z",
-          "wordCount": 164,
-          "title": "数字军火行业的兴衰及调整 - 趋势与更新",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75580",
-          "author": null,
-          "description": "华尔街日报援引知情人士的消息报道，与中国政府有关联的黑客侵入了美国驻华大使尼古拉斯·伯恩斯(Nicholas Burns)的电子邮箱，据信至少有数十万封美国政府的个人邮件在这次攻击中外泄。同样受到此次网络间谍攻击的还有负责东亚事务的助理国务卿康达(Daniel Kritenbrink)。此次间谍活动的影响范围尚无法确定。伯恩斯和康达的收件箱虽然仅限非保密邮件，但可能已经让黑客得以深入了解美国为拜登政府高级官员最近一系列访华行程所做的规划...在今天举行的外交部例行记者会上，外交部发言人毛宁对此问题回应称，“我的同事此前已回答过相关问题，我不再重复。”",
-          "link": "https://www.solidot.org/story?sid=75580",
-          "publishedOn": "2023-07-21T10:39:02.000Z",
-          "wordCount": 144,
-          "title": "外交部回应中国黑客入侵驻华大使电邮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75579",
-          "author": null,
-          "description": "NYT 援引匿名知情人士的消息报道，Google 正在测试能生成新闻报道的 AI 工具，并尝试把它推销给《纽约时报》、《华盛顿邮报》和《华尔街日报》母公司新闻集团在内的新闻机构。该 AI 工具的内部代号为 Genesis，能吸收包含当前事件细节在内的信息，然后生成新闻稿件。Google 认为它可以作为记者的个人助手，自动完成部分任务，让记者将时间集中到其它任务上。Google 将其视为一种负责任的技术，有助于引导出版行业远离生成式 AI 的诱惑。",
-          "link": "https://www.solidot.org/story?sid=75579",
-          "publishedOn": "2023-07-21T09:59:02.000Z",
-          "wordCount": 165,
-          "title": "Google 测试能撰写新闻的 AI 工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75578",
-          "author": null,
-          "description": "《GeroScience》期刊刊登的一项研究显示，适度运动有助于改善老年人的认知。在研究中，一组健康的中老年人(55-78岁)被随机分为两组：实验组每周进行三次低强度的自行车运动，持续三个月，对照组继续正常的日常运动(对照组)。结果显示，与对照组相比，运动组在执行功能方面表现出显著的改善。值得注意的是，当按年龄分析数据时，轻度运动的好处在老年人(68-78岁)中尤为明显。这种改善背后的潜在大脑机制涉及前额皮质有效激活的增加。换句话说，执行功能高，而相应的大脑激活相对较低。这些结果表明，即使是三个月的轻度运动也能增强大脑的功能网络。",
-          "link": "https://www.solidot.org/story?sid=75578",
-          "publishedOn": "2023-07-21T08:39:02.000Z",
-          "wordCount": 143,
-          "title": "适度运动有助于改善老年人的认知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75577",
-          "author": null,
-          "description": "随着 Chrome 115 的发布，Google 宣布开始向所有 Chrome 用户启用隐私沙盒相关 API。隐私沙盒（Privacy Sandbox）将取代第三方 Cookie，它跟踪用户的兴趣，允许广告商根据兴趣展示广告，而用户可以管理兴趣并对其归类分组。隐私沙盒代表着广告行业的一次巨大变化。Chrome 115 标志着隐私沙盒相关的 API GA（普遍可用），开发者可对其进行测试。Google 的目标是到 8 月底对 99% 的用户启用隐私沙盒相关 API，第三方 Cookie 将会继续保留一段时间。从 2024 年开始，Google 将对 1% 的 Chrome 用户禁用第三方 Cookie，然而到 2024 年底完全淘汰第三方 Cookie。",
-          "link": "https://www.solidot.org/story?sid=75577",
-          "publishedOn": "2023-07-21T07:54:57.000Z",
-          "wordCount": 189,
-          "title": "Google 开始向所有 Chrome 用户推送隐私沙盒 API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75576",
-          "author": null,
-          "description": "台积电将其在美国的第一座芯片工厂的投产时间推迟到 2025 年，原计划是 2024 年。台积电给出的理由是人才短缺，该公司此前曾抱怨美国员工不够努力，它最近宣布将向美国工厂派遣更多的台湾员工，但这一举措仍然不足以让工厂按计划投产。台积电位于亚利桑那州的芯片工厂预计将使用 4 纳米工艺制造芯片，苹果将会是该工厂的大客户之一。台积电最新的财报显示营收下降，它将之归因于中国经济复苏缓慢和消费电子市场低迷。",
-          "link": "https://www.solidot.org/story?sid=75576",
-          "publishedOn": "2023-07-21T06:40:59.000Z",
-          "wordCount": 147,
-          "title": "台积电以人才短缺为由推迟美国芯片厂投产时间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75575",
-          "author": null,
-          "description": "英国监管机构通信管理局（Ofcom）的报告显示，TikTok 是 12-15 岁青少年最流行的新闻源。TikTok 的受欢迎源于其强大的推荐算法。研究发现，28% 的 12-15 岁青少年将 TikTok 作为单一新闻来源，其次是 YouTube 和 Instagram 的 25%。如果将 BBC iPlayer、电台、网站和电视频道都考虑进去，BBC 是这一年龄组比例最高的新闻来源，占到了 39%。16-24 岁年龄组通过手机社媒消费新闻的可能性比成年人高 30%，他们也比成年人更可能消费网络新闻。他们比成年人更少访问传统新闻网站（6% v 26%）。44% 的年轻人将 Instagram 作为单一新闻来源，BBC One 和 Facebook 的比例为 33%。广播电视新闻仍然是 70% 的英国成年人最主要的新闻来源。",
-          "link": "https://www.solidot.org/story?sid=75575",
-          "publishedOn": "2023-07-21T06:22:12.000Z",
-          "wordCount": 177,
-          "title": "TikTok 是英国青少年最主要的新闻源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75574",
-          "author": null,
-          "description": "Google 联合创始人布林(Sergey Brin)又回来工作了。近几个月这位亿万富豪通常每周到位于加州芒廷维尤的办公室工作三到四天，与研究人员一起努力开发下一个 AI 系统。知情人士说，布林去年底曾在 Google 办公室参加过有关 AI 的会议，但现在他参与的频率和强度都有所提高。与 2019 年辞去 Alphabet  高管职务后采取的相对不插手的做法相比，布林的新立场有了明显变化。他与一群研究人员密切合作，打造期待已久的 AI 模型 Gemini。他们讨论了“损失曲线”等技术问题，“损失曲线”是一种衡量 AI 程序随时间变化的性能的方法，布林每周都会召集员工讨论新的 AI 研究。知情人士说，布林还涉及了人事事务，比如聘用抢手的研究人员。Gemini 是 Google 试图打造的一款通用型 AI 模型，可与 OpenAI 的 GPT-4 相媲美。该项目预计会在今年晚些时候推出。",
-          "link": "https://www.solidot.org/story?sid=75574",
-          "publishedOn": "2023-07-21T05:34:38.000Z",
-          "wordCount": 189,
-          "title": "Google 联合创始人 Sergey Brin 重返公司专注于 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75573",
-          "author": null,
-          "description": "著名黑客凯文·米特尼克(Kevin Mitnick)于 7 月 16 日因胰腺癌去世，年仅 59 岁。米特尼克出生于洛杉矶，他在 1990 年代参与盗窃大量文件入侵不同公司计算机网络等一系列犯罪行为，被称为当时的头号黑客通缉犯。2000 年出狱之后改头换面，成为安全顾问、演说家和畅销书作者。他与人合作完成了四部书，其中三部与计算机安全相关，还有一部是个人自传——《The Art of Deception: Controlling the Human Element of Securit》、《The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers》、《Ghost in the Wires: My Adventures as the World's Most Wanted Hacker》和《The Art of Invisibility》。",
-          "link": "https://www.solidot.org/story?sid=75573",
-          "publishedOn": "2023-07-20T13:42:54.000Z",
-          "wordCount": 205,
-          "title": "Kevin Mitnick 去世，享年 59 岁",
-          "imageUrl": null
         }
       ]
     },
@@ -3442,6 +3342,36 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/747884/",
+          "author": null,
+          "description": "今年上半年 AI 大模型随着 Chatgpt 和 Midjourney 的出圈爆火，迎来了属于它的 Iphone 时刻，很多学生都开始用 AI 写论文了。以至于需要用反 AI 的软件来区别哪个是 AI 写的论文，哪个是人写的。 但不知道大家有没有一种感觉，就是，有点乱。上半年发布的 AI 大模型太多\n本文链接",
+          "link": "https://news.cnblogs.com/n/747884/",
+          "publishedOn": "2023-08-19T11:06:59.000Z",
+          "wordCount": 163,
+          "title": "看完5大AI测评，让你一天摸鱼4小时！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747883/",
+          "author": null,
+          "description": "余承东和华为汽车，正在遭遇新老对手的又一轮冲击。 8 月 14 日，华为智选车有了新进展——在工信部 374 批新车公示中，出现了华为与奇瑞合作的 Luxeed 品牌首款轿车的申报信息，该车将定名为智界 S7。 然而，与智界 S7 一齐登场的，还有吉利与百度合作的极越 01。该车型将由吉利主导，百度\n本文链接",
+          "link": "https://news.cnblogs.com/n/747883/",
+          "publishedOn": "2023-08-19T11:02:00.000Z",
+          "wordCount": 163,
+          "title": "余承东只能斗“智”了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/747882/",
+          "author": null,
+          "description": "西风发自凹非寺 量子位公众号 QbitAI 教授们真被 ChatGPT 逼急了—— 不等到开学，就表示新一学期考核要用回最原始的纸质考试或改用口试。 大费周折，为的就是防止考试中学生用 ChatGPT 作弊。 还沉浸在美好暑期生活中的学生们，大概率还没意识到开学要迎接啥。 这还得归因于 ChatGP\n本文链接",
+          "link": "https://news.cnblogs.com/n/747882/",
+          "publishedOn": "2023-08-19T02:11:40.000Z",
+          "wordCount": 163,
+          "title": "为防学生用ChatGPT作弊，大学教授开始恢复纸质考试或改用口试",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/747881/",
           "author": null,
@@ -8870,316 +8800,6 @@
           "publishedOn": "2023-07-21T15:05:00.000Z",
           "wordCount": 163,
           "title": "阿里晒2023财年成绩单：“淘宝10年老店”超170万家 万霖、蒋凡成为阿里合伙人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746346/",
-          "author": null,
-          "description": "文太平洋科技 最近几年，印度在国内的形象主打一个反差： 一边是印度罚了小米 48 亿巨款，并且对中国公司“倍加关照”，普通民众认为印度已经成为“养蛊”之地，不值得再投入； 另一边，被割肉的小米坚持扩大在印投入，甚至连“不付全款就不交车”，被大家视作“人间清醒”的比亚迪，也被爆出将投资 70 亿元在印\n本文链接",
-          "link": "https://news.cnblogs.com/n/746346/",
-          "publishedOn": "2023-07-21T11:17:00.000Z",
-          "wordCount": 163,
-          "title": "印度为什么赶不走中国公司？苹果告诉你答案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746345/",
-          "author": null,
-          "description": "文财经故事荟，作者王舒然，编辑万天南 “1.5 元买到了甜啦啦的冰鲜柠檬水” “6 元拿下原价 16 元一杯的 Tims 鲜萃咖啡，咖啡爱好者的快活” “抢到了 6 份一块钱的古茗，还有 1 份 1 块钱的瑞幸美式咖啡” 在刚过去的 7 月 18 日美团“神券节官方直播间”开播当日，不乏有美团用户在\n本文链接",
-          "link": "https://news.cnblogs.com/n/746345/",
-          "publishedOn": "2023-07-21T11:00:00.000Z",
-          "wordCount": 163,
-          "title": "美团直播：排头兵先行，主力军未动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746344/",
-          "author": null,
-          "description": "近日，IDC 发布《中国人工智能公有云服务市场份额 2022》报告。腾讯云凭借其 2022 年在计算机视觉、对话式 AI 等领域的领先优势，营收增速达到 124.6%，成为国内收入增速最快的公有云厂商。 报告显示，不仅收入增速位居国内各厂商之首，腾讯云整体市场份额也稳居 AI 公有云市场份额“第一梯\n本文链接",
-          "link": "https://news.cnblogs.com/n/746344/",
-          "publishedOn": "2023-07-21T10:51:00.000Z",
-          "wordCount": 163,
-          "title": "增速第一！IDC报告：腾讯云位列AI公有云市场“第一梯队”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746343/",
-          "author": null,
-          "description": "今日（21 日），“董宇辉回应被指江郎才尽”引发关注。 7 月 20 日，董宇辉在东方甄选直播间说：“有朋友说董宇辉你现在已经江郎才尽，为赋新词强说愁，我就当你是在夸我。江郎才尽的前提是啥？是曾经有才，他至少肯定了我的过去。” 图片来源：东方甄选直播间视频截图 利用董宇辉蹭流量？俞敏洪：我和他不是上\n本文链接",
-          "link": "https://news.cnblogs.com/n/746343/",
-          "publishedOn": "2023-07-21T10:45:00.000Z",
-          "wordCount": 163,
-          "title": "董宇辉回应被指江郎才尽：至少肯定了我的过去！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746342/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者 云鹏 编辑 心缘 “AppleGPT”，一时间炸了锅。 正在很多人讨论 AIGC（生成式 AI）这波为什么少了苹果公司的时候，彭博社曝出猛料：苹果也在做“AppleGPT”，在 AI 大模型领域有所动作。 但消息仅仅停留于此，并没有更多细节流出，给人留下了不\n本文链接",
-          "link": "https://news.cnblogs.com/n/746342/",
-          "publishedOn": "2023-07-21T10:35:00.000Z",
-          "wordCount": 163,
-          "title": "AppleGPT，装不下苹果的AI野心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746341/",
-          "author": null,
-          "description": "品玩 7 月 21 日讯，据新浪科技报道，AMD 董事长兼 CEO 苏姿丰表示，除了台积电，AMD 还将考虑由其他代工厂商来生产 AMD 设计的芯片，以确保供应链的弹性。但苏姿丰同时承认，寻找其他适合的代工厂商并不容易，因为台积电在芯片制造行业一直占据主导地位，并拥有尖端技术。苏姿丰还对利用台积电的\n本文链接",
-          "link": "https://news.cnblogs.com/n/746341/",
-          "publishedOn": "2023-07-21T10:28:00.000Z",
-          "wordCount": 163,
-          "title": "AMD CEO苏姿丰：将考虑台积电以外的其他代工厂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746340/",
-          "author": null,
-          "description": "自从去年一月微软宣布以 687 亿美元的现金收购暴雪（游戏开发和互动媒体娱乐领域的大厂），一年半时间过去了，这桩交易却还是面临一些变数。7 月 19 日，动视暴雪方面宣布，微软和动视暴雪达成约定，将微软对动视暴雪收购的截止期限延后至 10 月 18 日。两家公司有了更充裕的时间安抚反垄断机构，并完成\n本文链接",
-          "link": "https://news.cnblogs.com/n/746340/",
-          "publishedOn": "2023-07-21T10:22:00.000Z",
-          "wordCount": 163,
-          "title": "微软收购暴雪现转机，国服回归有望？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746339/",
-          "author": null,
-          "description": "海豚模拟器 (Dolphin) 是一款跨平台的开源模拟器，支持在 Windows、Linux、macOS、Android 上模拟运行任天堂 GameCube 和 Wii 游戏。 今年 3 月，Dolphin 开发团队宣布将于今年第 2 季度登陆 Steam 平台，但在 5 月，团队在收到任天堂的警告\n本文链接",
-          "link": "https://news.cnblogs.com/n/746339/",
-          "publishedOn": "2023-07-21T10:11:00.000Z",
-          "wordCount": 163,
-          "title": "开源模拟器 Dolphin 放弃上架 Steam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746338/",
-          "author": null,
-          "description": "《GeroScience》期刊刊登的一项研究显示，适度运动有助于改善老年人的认知。在研究中，一组健康的中老年人(55-78 岁)被随机分为两组：实验组每周进行三次低强度的自行车运动，持续三个月，对照组继续正常的日常运动(对照组)。结果显示，与对照组相比，运动组在执行功能方面表现出显著的改善。值得注意\n本文链接",
-          "link": "https://news.cnblogs.com/n/746338/",
-          "publishedOn": "2023-07-21T10:03:00.000Z",
-          "wordCount": 163,
-          "title": "适度运动有助于改善老年人的认知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746337/",
-          "author": null,
-          "description": "据界面新闻报道，美国白宫公告称，美国总统拜登 7 月 21 日在白宫召集七家领先的人工智能公司——亚马逊、Anthropic、谷歌、Inflection、Meta、微软和 OpenAI，并宣布这些公司已自愿承诺，帮助实现人工智能技术安全、可靠和透明的发展。这些公司做出的自愿承诺强调了人工智能未来的三\n本文链接",
-          "link": "https://news.cnblogs.com/n/746337/",
-          "publishedOn": "2023-07-21T07:20:00.000Z",
-          "wordCount": 163,
-          "title": "Meta、OpenAI等公司向白宫承诺，将负责任地开发人工智能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746336/",
-          "author": null,
-          "description": "随着 Chrome 115 的发布，Google 宣布开始向所有 Chrome 用户启用隐私沙盒相关 API。隐私沙盒（Privacy Sandbox）将取代第三方 Cookie，它跟踪用户的兴趣，允许广告商根据兴趣展示广告，而用户可以管理兴趣并对其归类分组。隐私沙盒代表着广告行业的一次巨大变化。C\n本文链接",
-          "link": "https://news.cnblogs.com/n/746336/",
-          "publishedOn": "2023-07-21T07:10:00.000Z",
-          "wordCount": 163,
-          "title": "Google 开始向所有 Chrome 用户推送隐私沙盒 API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746296/",
-          "author": null,
-          "description": "近日，格灵深瞳人脸识别和人脸比对算法协助警方锁定一名 2001 年被拐儿童，让“寻子 22 年”的雷武泽一家得以重新团聚。 2001 年 10 月 9 日，三岁半的川川在被邻居带出游玩时被人贩子抱走拐卖，此后 22 年，川川的父母走遍了大半个中国寻找孩子的下落，贴传单、登广告、求助媒体报道、直播寻子\n本文链接",
-          "link": "https://news.cnblogs.com/n/746296/",
-          "publishedOn": "2023-07-21T00:49:44.000Z",
-          "wordCount": 163,
-          "title": "AI寻亲记｜格灵深瞳助力寻回22年前被拐儿童",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746295/",
-          "author": null,
-          "description": "7 月 20 日消息，近期奥迪被曝出正在考虑直接从中国本土电动汽车企业购买一个电动平台的授权，用来缩短其车型的开发时间。对此上汽表示，上汽集团和奥迪已达成共识，双方将通过合作加快电动车开发。双方一致认为，中国汽车市场正在经历前所未有的巨大转型，因此将进一步深化战略合作。 据此前报道，奥迪正在与上汽进\n本文链接",
-          "link": "https://news.cnblogs.com/n/746295/",
-          "publishedOn": "2023-07-21T00:49:11.000Z",
-          "wordCount": 163,
-          "title": "正式官宣！上汽集团确认将与奥迪共同开发电动车平台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746294/",
-          "author": null,
-          "description": "7 月 20 日消息，天眼查 App 显示，7 月 19 日，北京新东方文旅有限公司成立，注册资本 10 亿人民币，法定代表人、董事长为俞敏洪，经营范围含旅游业务、旅游开发项目策划咨询、组织文化艺术交流活动、文艺创作、互联网销售等。股东信息显示，该公司由新东方教育科技集团有限公司全资持股。 今年 4\n本文链接",
-          "link": "https://news.cnblogs.com/n/746294/",
-          "publishedOn": "2023-07-21T00:40:00.000Z",
-          "wordCount": 163,
-          "title": "新东方10亿成立文旅公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746293/",
-          "author": null,
-          "description": "7 月 20 日消息，2024 款哪吒S正式上市，共推出 6 款车型，包括纯电及增程两种动力模式，售价区间为 15.98 万-26.98 万元。新款车型新增了两款 200km 续航的增程版本，并主要对配置等方面进行了升级。 2024 款哪吒S基本延续了现款的外观设计，整体造型运动感十足，并拥有同级超\n本文链接",
-          "link": "https://news.cnblogs.com/n/746293/",
-          "publishedOn": "2023-07-21T00:40:00.000Z",
-          "wordCount": 163,
-          "title": "2024款哪吒S上市：15.98万元起，提供纯电及增程两种动力可选",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746292/",
-          "author": null,
-          "description": "天文学家发现了一行为类似脉冲星的神秘天体 GPM J1839-10，但已知的脉冲星至少每分钟闪烁一次，而 GPM J1839–10 的两次脉冲间隔 22 分钟，科学家对其背后的物理学原理一无所知。脉冲星的爆发间隔很短暂，间隔从一分钟到几毫秒。对历史存档数据的搜索发现，GPM J1839–10 的信号\n本文链接",
-          "link": "https://news.cnblogs.com/n/746292/",
-          "publishedOn": "2023-07-21T00:32:00.000Z",
-          "wordCount": 163,
-          "title": "神秘天体每 20 分钟闪烁一次",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746288/",
-          "author": null,
-          "description": "品玩 7 月 20 日讯，据 711 便利店官网显示，日前 711 在中国台湾地区开设了五家 X-Store 便利店，主打“拿了就走（Grab and Go）”体验，店内设有多个传感器跟踪顾客拿取的商品信息，顾客出门口后即可自动结账。 据悉，顾客需要使用手机扫描门口闸机的二维码，经过验证后方可进入便\n本文链接",
-          "link": "https://news.cnblogs.com/n/746288/",
-          "publishedOn": "2023-07-21T00:28:00.000Z",
-          "wordCount": 163,
-          "title": "711 推出 X-Store 无人便利店：ChatGPT当客服，商品出门自动结账",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746291/",
-          "author": null,
-          "description": "据网站监测平台 Downdetecter.com 称，WhatsApp 出现故障，全球超过 20 万用户受到影响。 据报道，WhatsApp 在美国东部时间 7 月 19 日下午 4 点左右出现宕机。随后 WhatsApp 在 Twitter 上向用户通报了连接故障。 \"我们正在迅速解决 Whats\n本文链接",
-          "link": "https://news.cnblogs.com/n/746291/",
-          "publishedOn": "2023-07-21T00:22:00.000Z",
-          "wordCount": 163,
-          "title": "WhatsApp在全球范围内宕机，超20万用户受影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746290/",
-          "author": null,
-          "description": "人工智能技术“出圈”后，越来越多网络攻击者对生成人工智能工具表现出极大“兴趣”。从 Bleeping Computer 网站披露的信息来看，暗网市场目前有数十万个 OpenAI 证书待售。 据悉，技术不熟练和经验丰富的网络犯罪分子都可以使用这些工具，创建更具诱惑力的钓鱼电子邮件（电子邮件可以为目标专\n本文链接",
-          "link": "https://news.cnblogs.com/n/746290/",
-          "publishedOn": "2023-07-21T00:15:00.000Z",
-          "wordCount": 163,
-          "title": "成千上万的 OpenAI 凭证在暗网上待售",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746289/",
-          "author": null,
-          "description": "品玩 7 月 20 日讯，据 moneycontro 报道，微软、OpenAI 和 Cohere 等公司正在测试使用合成数据来训练 AI。 据 Cohere 首席执行官 Aiden Gomez 表示，由于 Reddit、Twitter 等公司的向企业收取的数据搜集费用太高，所以他们选择了合成数据。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/746289/",
-          "publishedOn": "2023-07-21T00:08:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI 和 Cohere 等 AI 公司或因数据采集成本转向合成数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746287/",
-          "author": null,
-          "description": "品玩 7 月 20 日讯，据“Tech 星球”报道，腾讯音乐旗下一款名为“未伴”的 AI 机器人聊天 App 已经在近期开启测试。 未伴是一个集 AI 陪聊、AI 伴侣写真等多个功能于一体的 AI 聊天产品，用户可以“选择 App 已经预制的 AI 伴侣，或根据用户自身要求创造一个 AI 伴侣”。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/746287/",
-          "publishedOn": "2023-07-21T00:00:00.000Z",
-          "wordCount": 163,
-          "title": "腾讯音乐推出虚拟聊天机器人“未伴”，AI 伴侣可随机可自定义",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746285/",
-          "author": null,
-          "description": "文｜新博弈，作者｜半盏茶 面对抖音在本地生活市场的激进动作，美团的回应也越来越积极。 7 月 18 日，美团再度以直播的形式开启“18 神券节”。与以往不同的是，这是美团 APP 在大面积更新首页后的第一场“18 神券节”，目前已有 50% 的用户可在首页看到平台独立的直播入口。而持续加码直播，被业\n本文链接",
-          "link": "https://news.cnblogs.com/n/746285/",
-          "publishedOn": "2023-07-20T16:31:00.000Z",
-          "wordCount": 163,
-          "title": "美团“应战”抖音",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746286/",
-          "author": null,
-          "description": "文｜青橙财经，作者丨方诗意，编辑丨解药方 “第二增长曲线”这件事情成了大厂的热门话题。 从单一业务发家的大厂们纷纷建立起自己的业务网络，试图分解业务过度单一带来的风险，百度也不例外。 智能驾驶、萝卜快跑、文心一言、青禾手机，百度没少折腾。但一顿操作猛如虎，一看股价很平稳，再一看财报，核心营收还是来自\n本文链接",
-          "link": "https://news.cnblogs.com/n/746286/",
-          "publishedOn": "2023-07-20T16:10:00.000Z",
-          "wordCount": 163,
-          "title": "百度仍然春意盎然",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746282/",
-          "author": null,
-          "description": "文｜甲子光年，作者｜李晗、朱悦，编辑｜赵健 谁也无法想到，在这一轮 AIGC 浪潮中，一些 AI 公司还没来得及颠覆行业，自己却快被颠覆了。 7 月 12 日，美国 AIGC 独角兽 Jasper 联合创始人 Dave Rogenmoser 在职场社交网站 LinkedIn 发布公告，“鉴于行业的巨\n本文链接",
-          "link": "https://news.cnblogs.com/n/746282/",
-          "publishedOn": "2023-07-20T16:00:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI正在杀死创业公司？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746283/",
-          "author": null,
-          "description": "文｜电厂，作者｜严利婷，编辑｜高宇雷 特斯拉“规模优先”的竞争策略所带来冲击仍在持续。 7 月 20 日，特斯拉对外披露了截至 6 月 30 日的 Q2 财务报告。数据显示，今年 Q2，特斯拉实现营收 249.3 亿美元，超出市场预期的 245.1 亿美元，并创下了单季营收的历史新高，与此同时，单季\n本文链接",
-          "link": "https://news.cnblogs.com/n/746283/",
-          "publishedOn": "2023-07-20T15:33:00.000Z",
-          "wordCount": 163,
-          "title": "降价，特斯拉听谁的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746281/",
-          "author": null,
-          "description": "整理郑丽媛 出品 CSDN（ID：CSDNnews） 今日，殡仪服务公司 DignityMemorial 发布的一则讣告令无数技术人深感叹惋： 被称为 \" 世界头号黑客 \" 的凯文・米特尼克（Kevin David Mitnick），在与胰腺癌抗争一年多之后，确认于 2023 年 7 月 16 日去\n本文链接",
-          "link": "https://news.cnblogs.com/n/746281/",
-          "publishedOn": "2023-07-20T15:22:00.000Z",
-          "wordCount": 163,
-          "title": "“世界头号黑客” Kevin Mitnick 去世，59 年传奇人生落幕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746280/",
-          "author": null,
-          "description": "基于大语言模型的生成式 AI 终究还是「惹众怒」了！ 近日，8500 多名小说、非小说和诗歌作者联合签署了一份致生成式 AI 领导者的公开信，呼吁 OpenAI、Alphabet、Meta、Stability AI、IBM 和 Microsoft 的首席执行官就在训练 AI 时使用受版权保护的材料的\n本文链接",
-          "link": "https://news.cnblogs.com/n/746280/",
-          "publishedOn": "2023-07-20T15:11:00.000Z",
-          "wordCount": 163,
-          "title": "拒绝「白嫖」！数千名作家发声：生成式 AI 也得付版权费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746279/",
-          "author": null,
-          "description": "年中趁着高通骁龙 8 Gen 2 领先版推出的时间点，努比亚发布了 Z50S Pro，在 Z50 和 Z50 Ultra 之间补完久违的大杯款，也缀上了改款升级的 S 字母。 因为新机用上最新的高通骁龙 8 Gen 2 领先版，相机和设计都获得了全面升级，自然而然，相比于两款 Z50 机器，它又多了\n本文链接",
-          "link": "https://news.cnblogs.com/n/746279/",
-          "publishedOn": "2023-07-20T15:00:00.000Z",
-          "wordCount": 163,
-          "title": "努比亚 Z50S Pro 体验：挑战一英寸！完成度超高的 35mm 主摄手机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746278/",
-          "author": null,
-          "description": "演员们从未想过，也许有一天，打败自己的对手可能会是自己的「数字替身」。 7 月 13 日，代表约 16 万名演员的工会-美国电视和广播艺人联合会（SAG-AFTRA）在与聘用演员的制片厂和流媒体服务公司的合同谈判破裂后，正式宣布午夜后开始罢工。 这一次罢工，演员们更像是为捍卫人类的影途而战。 ▲ 图\n本文链接",
-          "link": "https://news.cnblogs.com/n/746278/",
-          "publishedOn": "2023-07-20T15:00:00.000Z",
-          "wordCount": 163,
-          "title": "AI 颠覆「眼见为实」，梅西弄了个「假梅西」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746276/",
-          "author": null,
-          "description": "7 月 20 日消息，根据彭博社报道，微软首席执行官萨蒂亚・纳德拉（Satya Nadella）薪酬在生成式 AI 的助推下，包含股权赠款、薪金、花红及股息等在内，总薪酬收入已经超过 10 亿美元（IT 之家备注：当前约 72.3 亿元人民币）。 而其中最大的一笔进项是纳德拉所持有的微软股票，自 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/746276/",
-          "publishedOn": "2023-07-20T14:32:00.000Z",
-          "wordCount": 163,
-          "title": "股票回报率超 1000%，报告称纳德拉薪酬超过 10 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746275/",
-          "author": null,
-          "description": "作者周炎 编辑云鹏 连续八个季度的疲软，让全球智能手机产业亟需一剂振奋剂。 不久后就要面世的 iPhone 15 被寄予厚望。 就在前几天，某证券公司的一则消息称 iPhone 15 系列将涨价近 1500 元；今日，来自彭博社的消息又传出 iPhone 将接入苹果秘密研发的聊天机器人 AppleG\n本文链接",
-          "link": "https://news.cnblogs.com/n/746275/",
-          "publishedOn": "2023-07-20T14:26:00.000Z",
-          "wordCount": 163,
-          "title": "今年的iPhone 15 约吗？iPhone 15系列爆料大全",
           "imageUrl": null
         }
       ]
