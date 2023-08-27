@@ -54,16 +54,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n上海市宝山区在长江入海口，建了一个\"长滩观光塔\"，直径25.7米，高180米。特别之处在于，这个塔其实是长江隧道的排风塔，只不过在外部安装了玻璃幕墙，增加了观光、餐厅等功能。（via）\nElasticsearch 的启示\n上月的\"红帽事件\"，说明开源软件的\"客服模式\"行不通，我在上一期已经写了自己的看法。\n那么，开源软件如何赚钱呢？既不能卖软件，又不能卖支持服务，该怎么办呢？\n我一直思考这个问题，觉得行业的发展、个人的前途，都跟它有关系。\n\n我现在的看法是，只剩下一种模式是可行的，开源软件只有这样才能商业化，那就是 Elasticsearch 的模式。\n\nElasticsearch 是著名的搜索软件，市场份额非常大，很多大型网站的背后都是它。\n2004年，以色列程序员谢伊·巴农（Shay Banon）为了方便妻子查找菜谱，写了一个简单的搜索工具，这就是 Elasticsearch 的由来。\n\n一开始，Elasticsearch 采用最宽松的 Apache 许可证，几乎没有任何限制，你怎么用都可以。\n后来，谢伊·巴农拿了风投，成立了公司，雇了程序员，就必须有收入，否则公司就要裁员关门。\n他想到的办法，就是提供云服务。你不必自己搭建搜索了，我搭建好了，你买了就能用。这样你比较省心，我也有收入了。\n\n但是，他万万没有想到，这种模式也行不通。原因是开源软件不是独占性的，如果你的软件太成功，其他人也可以提供服务，而且卖得更便宜，最终把你打败，拿到更大的市场份额。\nElasticsearch 倒霉的地方在于，遇到的竞争对手是亚马逊，世界第一的云服务商。\n亚马逊不花一分钱，拿到 Elasticsearch 的…",
-          "link": "http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html",
-          "publishedOn": "2023-07-28T00:04:01.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 264 期）：Elasticsearch 的启示",
-          "imageUrl": null
         }
       ]
     },
@@ -787,36 +777,6 @@
           "wordCount": 633,
           "title": "正确打开「刻意练习」的三个要素——你的练习可能只是在浪费时间",
           "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/81501",
-          "author": "南壹",
-          "description": "差不多一年前，我在少数派第一次写文章，介绍了我作为独立开发者开发的第一个 app ——「写点啥」，那是我人生中第一篇阅读量超过 10万+ 的文章，也感受到了来自少数派用户的热情和与众不同。一年后的今天，我发布了「写点啥」的 1.0 版本，想在少数派上与大家聊聊在开发这个里程碑版本的思考。\n \n为什么是 1.0\n作为一款首次以独立开发者身份开发的 app，不管是在产品形态上还是功能完整度上，我觉得都是有所欠缺的，所以最初我将版本号设定在 0.1.0，希望通过版本的不断迭代，让「写点啥」更加饱满，为用户提供更多有价值的功能，只有在找准了未来方向和功能上一定程度的满足了用户的基本需求后，「写点啥」的版本号才该来到 1.0。\n作为一个里程碑式的版本，「写点啥」已经满足了用户找寻创作灵感、自由创作、通过标签管理文章、在 iPad 和 macOS 上使用大屏更方便的写作等写作类 app 的基本需求，而且经过一年多来不断收到用户的反馈，「写点啥」也奠定了围绕「题目」这个核心概念，来帮助用户进行创作，同时，也与市面上其它的写作类 app 形成差异化。\n1.0 版本有哪些变化\n标签功能\n标签功能是每一个写作类 app 都必须有的功能，但「写点啥」直到 1.0 版本才支持用户为自己的文章打上标签，这主要因为在「写点啥」初期，身兼数职的我在精力有限的情况下，认为标签功能并不是最紧迫的，我把更多的精力投入到 iPad 版本的开发中，但是随着用户在「写点啥」中创作的文章越来越多，用户反馈最多的也是希望能支持标签来管理自己的文章，同时，我认为标签功能也是「写点啥」满足写作类 app 基本功能的一个标识，所以标签功能作为这一版的主要功能之一，优先进行了开发。\n\nAI建议\n在 1.0 版本之前，写点啥有近 4 个月没有过版本更新。这 4 个月的时间里，一部分时间用在开发新功能上，另一部分我花费了很大的精力…",
-          "link": "https://sspai.com/post/81501",
-          "publishedOn": "2023-07-28T09:39:52.000Z",
-          "wordCount": 768,
-          "title": "作为开发者，聊聊「写点啥」1.0 版本的思考",
-          "imageUrl": "https://cdn.sspai.com/2023/07/26/c19b79c8f936727feaf9519a9de0f05a.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81527",
-          "author": "皮塔张",
-          "description": "写这篇文章时，我在家附近的一家咖啡店里。\n我的降噪耳机部分隔绝了旁边几桌客人的聊天声，而我又打开一个很喜欢用的白噪音 App，播放雨声。\n现在周围的人别想通过有趣的谈话内容让我分神了，完美😄。\n你可能想问，这和本文的主题有什么关系吗？\n当然有关系。\n \n仔细想想，白噪音是刚需吗？\n我想对于大多数人来说，它不是必不可少的需求。\n但在某些特定场景下，比如今天坐在咖啡店里想专注又不想听音乐的我来说，它是刚需。\n记账其实也是类似。\n \n对于大多数人来说，自己有多少钱，心里大概都有数。\n这时，记账便不是一个刚需。\n换句话说，不记账，人照样能活。\n但是，在某些场景下，比如想攒钱消费的都市白领、背负房贷的大厂打工人、收入不多的职场新手或者正努力实现FIRE生活的理想主义者，记账，或者说掌握自己究竟有多少钱，是刚需。\n \n其实记账背后的逻辑就是想要知道我自己有几斤几两，从而摆正自己的位置。\n有句话说得好：“没有金刚钻，不揽瓷器活。”\n有些人记忆力好，能准确地记得自己有 53 万 8 千 6 百块的存款，ta 们知道自己的“金刚钻”有多锋利。\n但对剩下的人来说，每次想知道自己的财富总值都需要掏出计算器挨个加减一遍，所以可能一直都对自己真实的资产概况缺少准确认知，ta 们不知道自己能不能“揽瓷器活”。\n \n很有意思，最想掌握资产全貌以应对人生中的各种突发情况的中产阶级，往往也是最难以坚持记账的人群。\n比中产们更富裕的人，要么有人帮 ta 们记账，要么没有记账的强烈需求（可能钱花不完）。\n比中产们贫困的人，可能不得不精打细算，ta 们记账是为了精细控制自己的花销，需求足够强烈，能坚持。\n但是中产们，ta 们每个月的收入可能正好够花，有时候还能有些剩余，一个月下来可能总资产变化不大。\n费时费力的记账看起来并没有太明显的好处，所以经常会忘记、漏记，最后导致放弃。\n \n那记账到底有没有好处？\n当然有…",
-          "link": "https://sspai.com/post/81527",
-          "publishedOn": "2023-07-28T09:04:22.000Z",
-          "wordCount": 702,
-          "title": "聊聊记账，以及它为什么知易行难。",
-          "imageUrl": "https://cdn.sspai.com/2023/07/28/f1854c9f572a99114877deba3625505c.png"
-        },
-        {
-          "id": "https://sspai.com/post/81564",
-          "author": "Expo",
-          "description": "前端页面\n简介\n部署前端页面有多种方法，你可以选择最适合你项目需求和你自己技术背景的方式。以下是一些常见的部署方式：\n\nFTP上传： 这是最传统的方式，将你的前端文件（HTML，CSS，JavaScript等）上传到你的web服务器。大多数的web主机提供FTP访问，这也是小型项目的快速部署方式。\n使用Git： 如果你的服务器支持Git，你可以设置一个Git仓库，并使用**git push**命令部署你的前端页面。这种方式方便版本控制，也支持多人协作。\n使用SSH： 可以通过SSH将你的文件推送到你的服务器，这个过程可以通过脚本自动化。\n使用云服务： 像AWS S3，Google Cloud Storage，Azure Storage等服务可以托管静态网站，通常它们提供了很好的性能和安全性。\n使用专门的前端部署服务： 服务如Netlify，Vercel等，这些平台通常提供一站式服务，包括版本控制，持续集成，HTTPS和CDN等。\n使用CDN服务： 这些服务可以将你的站点部署到全球的服务器上，加速访问速度。例如，Cloudflare，Akamai等。\n容器化部署： 使用如Docker等工具，将前端应用容器化，然后在Kubernetes等容器编排平台进行部署。\n\n以上的部署方式有的适合小型项目，有的适合大型项目，有的需要更多的技术知识，选择哪一种方式取决于你的具体需求。\nNginx\n配置Nginx来为前端页面提供服务通常需要以下步骤：\n步骤1：上传代码\n首先，你需要将你的前端代码上传到服务器上的某个目录，比如 /var/www/mywebsite。\n步骤2：创建Nginx配置文件\nNginx的配置文件通常位于 /etc/nginx/ 目录下，具体路径可能会因服务器的不同而略有不同。在该目录下，你通常会找到一个叫做 sites-available 的目录。在这个目录下，你可以为每…",
-          "link": "https://sspai.com/post/81564",
-          "publishedOn": "2023-07-28T07:39:11.000Z",
-          "wordCount": 1728,
-          "title": "前端页面部署方式的全面解析与比较",
-          "imageUrl": "https://cdn.sspai.com/2023/07/28/9c50d6e6b9dc547cf7989137684dfd6f.png"
         }
       ]
     },
@@ -895,6 +855,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75904",
+          "author": null,
+          "description": "华盛顿州立大学的研究人员在《Journal of Neuroscience》期刊上发表论文，报告激活基底前脑的星形胶质细胞能让小鼠一直保持清醒，没有表现出任何睡意的迹象。星形胶质细胞是神经胶质细胞的一种亚型，能调控不同大脑和身体的功能。研究人员一直调查它在睡眠和清醒过程中的作用。他们使用遗传和化学技术可逆的改变小鼠基底前脑中星形胶质细胞的活性。研究人员观察到，激活基底前脑的星形胶质细胞导致小鼠连续几个小时保持清醒，而且没有表现出任何睡意。研究人员表示，这项研究或有助于创造出能长时间让人保持清醒的药物，比如轮班工人不会昏昏欲睡，宇航员、飞行员、士兵、医疗人员、急救人员可以在较长时间内无需睡眠。",
+          "link": "https://www.solidot.org/story?sid=75904",
+          "publishedOn": "2023-08-26T13:04:10.000Z",
+          "wordCount": 143,
+          "title": "激活基底前脑的星形胶质细胞让小鼠不休不眠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75903",
+          "author": null,
+          "description": "部分 Windows 10 和 Windows 11 用户在安装了最新预览版更新 KB5029351 后遭遇了错误信息为 UNSUPPORTED_PROCESSOR 的蓝屏死机。微星公司现在证实该问题与其主板相关，它在官方声明中称使用 MSI 600/700 系列主板的用户遭遇了蓝屏死机，如果该补丁没有自动卸载，那么建议用户回滚 BIOS 到上一个版本，然后卸载 KB5029351。微软表示受影响的操作系统版本包括 Windows 10 21H2/22H2 和 Windows 11 22H2，它表示在多次蓝屏死机之后系统应该会自动卸载该补丁。",
+          "link": "https://www.solidot.org/story?sid=75903",
+          "publishedOn": "2023-08-26T11:07:26.000Z",
+          "wordCount": 169,
+          "title": "Windows 最近更新导致的蓝屏死机与微星主板相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75902",
+          "author": null,
+          "description": "纽约时报（NYT）、CNN、路透社、澳大利亚广播公司（ABC）、芝加哥论坛报、以及 Australian Community Media 旗下的坎培拉时报和纽卡斯尔先驱报等媒体都屏蔽了 OpenAI 的网络爬虫 GPTBot 抓取其网站上的内容。大语言模型需要海量数据进行训练，但数据的版权问题引发了很多争议。这些媒体公司都是本月内在 robots.txt 文件中禁止了 GPTBot 的访问。部分媒体还屏蔽了另一个被用于 AI 项目的爬虫程序 CCBot。CNN 证实它屏蔽了 GPTBot，但没有评论是否就其内容被 AI 系统使用采取进一步的行动。",
+          "link": "https://www.solidot.org/story?sid=75902",
+          "publishedOn": "2023-08-26T10:47:32.000Z",
+          "wordCount": 188,
+          "title": "NYT、CNN 和 ABC 屏蔽 OpenAI 的 GPTBot 爬取内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75901",
+          "author": null,
+          "description": "Shawn the R0ck 写道：现代网络安全运营中心主要依赖于两个关键要素：基于agent的安全解决方案，在台式机、笔记本和服务器操作系统上运行；以及威胁分析系统，通常称为安全信息与事件管理（SIEM）系统或扩展检测与响应（XDR）系统充当安全大脑的角色。然而，网络安全行业面临两个主要挑战。首先，大多数安全解决方案未能在操作系统（OS）及OS以下层面提供全面的威胁检测，导致这一关键领域容易受到攻击。安全大脑本身或者周边的安全产品被攻陷并不是一件有趣的事情，安全领域最尴尬之处莫过于次。其次，威胁分析系统通常缺乏与最佳安全实践相一致的强大保护措施，这可能无意中导致安全漏洞。针对这些挑战，HardenedVault开发了一种基于开源SIEM/XDR工具Wazuh的解决方案，以展示HardenedVault可以如何解决这些问题。该工具与VED无缝集成，扩展了对Linux内核运行时的监控维度，实时监控漏洞提权、容器逃逸和rootkit，同时提供了其他安全措施，如CIS合规性，为已识别的威胁提供了强大的解决方案。VED能够将SIEM/XDR的监控维度扩展到Linux内核运行时，以应对特权升级、容器逃逸和Rootkits等安全威胁，这是一个强大的增强功能。通过整合这一功能，VED可以为内核中潜在的安全威胁提供全面的可见性和检测能力。这确保了主动防御，并增强了系统的整体安全状态，从而保护系统免受复杂的攻击和未经授权的访问尝试。目前，HardenedVault在AWS上提供了Hardened SIEM/XDR，方便集成和部署。对于那些有兴趣在自建机房环境中实施类似解决方案的用户，HardenedVault将乐意提供帮助。",
+          "link": "https://www.solidot.org/story?sid=75901",
+          "publishedOn": "2023-08-26T03:45:05.000Z",
+          "wordCount": 150,
+          "title": "守护者的零之曙光：Hardened SIEM/XDR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75900",
+          "author": null,
+          "description": "根据 Gitlab 的官方文档，它正准备支持联邦宇宙协议 ActivityPub。ActivityPub 是一个 W3C 标准，其最知名的实现是去中心化微博客服务 Mastodon 以及 Reddit 的去中心化替代 Lemmy。Gitlab 允许用户创建各自的实例，但实例之间如何互动？通过支持 ActivityPub 不同 Gitlab 实例之间可以互相关注（或叫订阅），创建分支（fork）、可以递交合并请求，可以就合并请求展开讨论，然后合并代码。Gitlab 将逐步实现 ActivityPub 的功能，首先是社交功能，实现跨实例的订阅，最终实现跨实例合并请求。",
+          "link": "https://www.solidot.org/story?sid=75900",
+          "publishedOn": "2023-08-26T03:42:11.000Z",
+          "wordCount": 172,
+          "title": "Gitlab 支持将 ActivityPub 协议用于合并请求",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75899",
           "author": null,
@@ -3414,96 +3424,6 @@
           "wordCount": 154,
           "title": "研究发现保守派比自由派接收到了更多虚假信息",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75646",
-          "author": null,
-          "description": "特斯拉一直夸大其电动汽车的续航里程，当实际续航里程远低于宣传时，车主会认为汽车出问题了。路透社的调查发现，这些车主会投诉并预约服务检查汽车续航问题。这种情况是如此之多，以至于特斯拉成立了一个特别团队“Diversion Team”取消此类预约 。路透的报道称，多年来特斯拉通过操纵里程估计软件夸大汽车的潜在行驶距离。一位知情人士称，十年前特斯拉出于营销目的编写了测距算法，向司机显示充满电后可行驶距离的乐观预测。一旦电量低于 50% 之后，算法将向司机展示更真实的续航里程预测。这一命令来自高层，很有可能就是 CEO 马斯克(Elon Musk)。一位 Model 3 特斯拉车主称，汽车实际续航里程甚至不到宣传的一半，特别是寒冷的天气里。他认为汽车有问题，因此预约了检查服务，但随后收到了两条短信，通知他远程检查电池没有问题，因此“我们想取消你的访问”。据称，Diversion Team 团队的经理告诉员工，每取消一次预约可为公司节省 1000 美元。",
-          "link": "https://www.solidot.org/story?sid=75646",
-          "publishedOn": "2023-07-28T11:58:02.000Z",
-          "wordCount": 156,
-          "title": "特斯拉夸大续航里程以至于车主认为车坏了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75645",
-          "author": null,
-          "description": "俄罗斯政府以叛国罪判处网络安全公司 Group-IB CEO  Ilya Sachkov 14 年徒刑。Group-IB 是俄罗斯最大的网络安全公司之一，Sachkov 是其联合创始人，他已关押近两年。Sachkov 在 2003 年创办了 Group-IB，因曝光和破坏一系列大规模网络犯罪活动而名声大振，他在 2021 年 9 月以叛国罪名遭到逮捕，但政府拒绝透露指控细节，他则拒绝认罪。Group-IB 几年前将其总部搬到了新加坡，到今年 4 月退出了俄罗斯市场。该公司在一份声明中表示，其创始人在关押前几个月被拒绝了与外界通信的权利——不能打电话也不能写信，朋友家人也无法访问。Group-IB 称其创始人被剥夺了公正审判的机会——所有案件材料都保密，所有听证会都秘密举行。在他被捕之后，彭博社曾报道称他向美国提供了与 Fancy Bear 相关的情报，该行动旨在影响 2016 年美国大选。",
-          "link": "https://www.solidot.org/story?sid=75645",
-          "publishedOn": "2023-07-28T09:31:25.000Z",
-          "wordCount": 182,
-          "title": "俄罗斯判处 Group-IB CEO 14 年徒刑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75644",
-          "author": null,
-          "description": "过去几年 AMD 推出了多款采用 3D 缓存技术（3D V-Cache）的桌面处理器，大幅增加了 L3 缓存，显著提升了对缓存敏感的应用如游戏的性能。现在，AMD 宣布了首款采用 3D 缓存技术的笔记本用处理器 Ryzen 9 7945HX3D——16 核 Ryzen 9 7945HX 的 3D 缓存版本，L3 缓存增加了 64MB 达到 144MB。AMD 称，相比标准版 7945HX，3D 版本的热设计功耗（TDP）越低性能优势越明显：45W 下 7945HX3D 的性能提升最高 23%，70W 下性能提升最高 11%。AMD 表示它的游戏性能平均提升 15%。目前只有华硕的 ROG Strix Scar 17 笔记本采用了 7945HX3D，上市时间 8 月 22 日，价格未披露，但不会低于 3300 美元——这是配备 7945HX 的相同型号笔记本的定价。",
-          "link": "https://www.solidot.org/story?sid=75644",
-          "publishedOn": "2023-07-28T07:51:06.000Z",
-          "wordCount": 202,
-          "title": "AMD 宣布第一款笔记本用的 3D 缓存处理器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75643",
-          "author": null,
-          "description": "微软日本透露，将开始在日本提供能更安全地处理政府和企业机密信息的生成式 AI ChatGPT。通过在日本国内的数据中心完成原本在海外进行的信息处理，将为必须严格管理信息的政府打开使用 ChatGPT 的大门。微软透露，已在美国和欧洲面向政府及企业提供无需跨区域即可完成 ChatGPT 所需信息处理的服务，日本是第三例，也是亚洲首例。在法律规定必须在封闭环境下使用数据的银行等行业，业务中使用ChatGPT也将变得更加容易。",
-          "link": "https://www.solidot.org/story?sid=75643",
-          "publishedOn": "2023-07-28T07:01:21.000Z",
-          "wordCount": 156,
-          "title": "日本版 ChatGPT 将在本国境内处理信息",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75642",
-          "author": null,
-          "description": "索尼宣布其 PS5 游戏机的销量突破了 4000 万台。PS5 在 2021 年 7 月销量突破 1000 万，2022 年 10 月突破 2500 万。索尼在新闻稿中并没有将 PS5 称为是该公司历史上销量增长最快的游戏机，这反应了 PS5 在供应问题解决之后增长放缓的情况。索尼的 PS5 和微软 Xbox 游戏机最近几年都遭遇了供应链问题，导致供不应求。供应问题目前已经缓解，索尼今年以来也增加了游戏机的出货量。今年第一季度出货量达到了 630 万台，而去年同期只有 200 万台。",
-          "link": "https://www.solidot.org/story?sid=75642",
-          "publishedOn": "2023-07-28T06:39:28.000Z",
-          "wordCount": 185,
-          "title": "索尼 PS5 游戏机销量突破 4000 万",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75641",
-          "author": null,
-          "description": "美国证券交易委员会（SEC）实施了新规则，要求上市公司在被认为重大的网络安全事件发现四天内予以披露。所谓重大事件是指上市公司股东在做出投资决策时认为重大的事件。SEC 还要求外国私人发行人（foreign private issuers）在发生网络攻击后提供同等程度的披露。新的规则将在 12 月或《联邦公报（Federal Register）》上发表 30 天后生效，小型公司给予额外 180 天的推迟执行。特殊情况下，如果美国司法部长认为立即披露网络安全事件会对国家安全或公共安全构成重大风险，那么也可以推迟披露。",
-          "link": "https://www.solidot.org/story?sid=75641",
-          "publishedOn": "2023-07-28T05:54:13.000Z",
-          "wordCount": 155,
-          "title": "SEC 要求上市公司在发现重大网络攻击四天内披露",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75640",
-          "author": null,
-          "description": "huzheng 写道：星际译王苹果版发布！\nhttps://ports.macports.org/port/stardict/\n\nhttps://sourceforge.net/projects/stardict-4/files/MacOSX/stardict-3.0.5-beta1-macosx-2.tar.bz2/download\n\n黑客背单词苹果版发布：\nhttp://downloads.sourceforge.net/reciteword/reciteword-0.8.6-beta1-macosx-2.tar.bz2/download\n\n胡正\nhttp://www.huzheng.org",
-          "link": "https://www.solidot.org/story?sid=75640",
-          "publishedOn": "2023-07-28T05:21:43.000Z",
-          "wordCount": 147,
-          "title": "星际译王苹果版发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75639",
-          "author": null,
-          "description": "世界最大的游戏公司将拥有众多知名的视觉小说 IP。日本游戏公司 VISUAL ARTS 通过官方博客宣布，社长马场隆博退休，其职位由天云玄树（丘野塔也）接替，腾讯成为公司大股东，而 VISUAL ARTS 变成了腾讯的子公司。VISUAL ARTS 旗下的 Key 社发布了《Kanon》、《AIR》和《CLANNAD》等大量知名视觉小说。",
-          "link": "https://www.solidot.org/story?sid=75639",
-          "publishedOn": "2023-07-27T14:09:07.000Z",
-          "wordCount": 161,
-          "title": "腾讯收购日本游戏公司 VISUAL ARTS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75638",
-          "author": null,
-          "description": "如果进展顺利，四年后我们将会目睹核动力火箭引擎的首次发射。NASA 周三宣布与美国国防部合作，最快于 2027 年发射核动力火箭引擎。NASA 在该项目上投资 3 亿美元，为太空运输开发下一代推进系统。项目负责人 Anthony Calomino 表示 NASA 考虑使用该系统飞往火星。传统的火箭如果要飞往火星需要准备大量的燃料，而且整个航行至少需要六个月时间。核动力火箭要方便快捷得多，但其设计有挑战性，监管上也有难度。而许多科学家和工程师认为，火星之旅的唯一可行方案是核推进。洛马将是该项目的主承包商，将组装实验核热反应堆飞行器（X-NTRV）及其引擎。BWX Technologies 作为洛马的合作伙伴开发核反应堆和燃料。",
-          "link": "https://www.solidot.org/story?sid=75638",
-          "publishedOn": "2023-07-27T14:00:18.000Z",
-          "wordCount": 158,
-          "title": "NASA 研发核推进火箭系统",
-          "imageUrl": null
         }
       ]
     },
@@ -3512,6 +3432,86 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/748273/",
+          "author": null,
+          "description": "IT 之家 8 月 26 日消息，根据国外科技媒体 MySmartPrice 报道，一款型号为 A3904 的苹果 iPhone 15 系列机型现身印度监管机构 BIS 之后，今天再次发现了型号为 A3900 的新款 iPhone 15 机型。 BIS 监管认证文件中并未包含相关的规格和参数信息，目\n本文链接",
+          "link": "https://news.cnblogs.com/n/748273/",
+          "publishedOn": "2023-08-26T09:00:00.000Z",
+          "wordCount": 163,
+          "title": "型号 A3090，又一款苹果 iPhone 15 机型现身监管机构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/748272/",
+          "author": null,
+          "description": "本文来源：时代财经 作者：林心林 宣布自营快递业务两个月，菜鸟集团旗下菜鸟速递正忙着“招兵买马”。 图片来源：图虫创意 按照菜鸟集团 CEO 万霖的规划，菜鸟速递是今年菜鸟重点建设的国内物流业务产品。 然而，快递市场的竞争早已陷入胶着状态，极兔递交 IPO 招股书、顺丰出售经济型快递丰网、韵达市占率\n本文链接",
+          "link": "https://news.cnblogs.com/n/748272/",
+          "publishedOn": "2023-08-26T06:30:00.000Z",
+          "wordCount": 163,
+          "title": "菜鸟下场做快递60天：快递小哥“卷”时效工作量骤增，站点月薪过万招人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/748271/",
+          "author": null,
+          "description": "阿里大文娱，悄然蜕变中。 文爱捞 编陈梅希 一款名为“妙鸭”的相机，正在朋友圈走红。 在这款相机上，用户可以借助 AIGC 技术，将原生态的照片转化为高科技的数字分身、大片写真，无需走出家门，就能拥有“苗寨小妹”“故宫写真”“千禧辣妹”等多个分身。9 块 9 接地气的价格，让追求性价比的年轻人很难不\n本文链接",
+          "link": "https://news.cnblogs.com/n/748271/",
+          "publishedOn": "2023-08-26T06:22:00.000Z",
+          "wordCount": 163,
+          "title": "阿里大文娱的四个“进击时刻”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/748270/",
+          "author": null,
+          "description": "来源：封面新闻 封面新闻记者雷强 8 月 25 日，东方甄选公布了从去年 6 月 1 日至今年 5 月 31 日的 2023 财年全年业绩。数据显示，东方甄选全年带货 GMV 达到 100 亿元，净利润为 9.71 亿元，总订单数达到 1.36 亿单。 自 2022 年 4 月上线首款自营产品以来，\n本文链接",
+          "link": "https://news.cnblogs.com/n/748270/",
+          "publishedOn": "2023-08-26T06:10:00.000Z",
+          "wordCount": 163,
+          "title": "东方甄选公布首个全年业绩：GMV达100亿元，订单数超过1.3亿单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/748269/",
+          "author": null,
+          "description": "近年来，Intel 制定了 4 年掌握 5 代制程技术的 IDM 2.0 战略，决心在 2025 年重回半导体领先地位。在这个战略中，IFS 芯片代工业务的重要性与 x86 芯片生产相当。为了推动该业务的发展，Intel 对该部分业务进行了独立核算，并积极争取客户。 其中，备受关注的 18A（1.8\n本文链接",
+          "link": "https://news.cnblogs.com/n/748269/",
+          "publishedOn": "2023-08-26T06:00:00.000Z",
+          "wordCount": 163,
+          "title": "Intel首个1.8nm客户曝光：联发科看上了18A工艺",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/748268/",
+          "author": null,
+          "description": "新智元报道 编辑：桃子 CMU 全新多模态模型 GILL，能够生成图像、检索图像，还能进行多模态对话。 GPT-4 多模态能力恐怕是要再等等了。 近日，来自 CMU 的研究人员全新提出了一种多模态模型 GILL。 论文地址：https://arxiv.org/pdf/2305.17216.pdf 它\n本文链接",
+          "link": "https://news.cnblogs.com/n/748268/",
+          "publishedOn": "2023-08-26T03:09:00.000Z",
+          "wordCount": 163,
+          "title": "GPT-4生图未解禁？CMU华人博士新作，大模型GILL能生图能检索，人人可玩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/748267/",
+          "author": null,
+          "description": "新智元报道 编辑：润 Lumina 【新智元导读】PEW 研究所在收集了海量信息之后指出：全社会的工作都会受到 AI 冲击。女性、亚裔、受过大学教育和收入较高的打工人受到 AI 的影响会更大。 面对汹涌而来的 AI 革命巨浪，打工人到底是能屹立潮头，还是被无情地拍到沙滩上。 各行各业的打工人都有自己\n本文链接",
+          "link": "https://news.cnblogs.com/n/748267/",
+          "publishedOn": "2023-08-26T01:40:00.000Z",
+          "wordCount": 163,
+          "title": "AI淘汰打工人进度公布，女性，亚裔，白领工作首当其冲！无人能独善其身",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/748266/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS AI 版本回归符号主义，有多少人工，就有多少智能！ ChatGPT 掀起了一股「生成式 AI」的浪潮，所有任务都可以通过对话的方式生成答案，实现了接口、模型架构的统一。 不过生成式 AI 也有缺陷，比如可控性很差，生成的结果经常是「胡编乱造」，非常难以预测、不可解释；在复杂\n本文链接",
+          "link": "https://news.cnblogs.com/n/748266/",
+          "publishedOn": "2023-08-26T01:33:00.000Z",
+          "wordCount": 163,
+          "title": "马库斯总结16项「可信AI」要求，符号主义+神经网络携手打造AGI！40年前的Cyc成版本答案",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/748265/",
           "author": null,
@@ -8720,326 +8720,6 @@
           "publishedOn": "2023-07-28T13:10:00.000Z",
           "wordCount": 163,
           "title": "ChatGPT被「神秘代码」攻破安全限制！毁灭人类步骤脱口而出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746759/",
-          "author": null,
-          "description": "萧箫发自凹非寺 量子位公众号 QbitAI ICML 2023 时间检验奖出炉！ 今年和往年一样，也是一篇获奖论文和两篇亚军（Runners Up），均从 ICML 2023 的论文集中选出，“在过去 10 年里持续产生影响力”。 其中，获奖论文的第一作者是 Hinton 弟子 Richard Ze\n本文链接",
-          "link": "https://news.cnblogs.com/n/746759/",
-          "publishedOn": "2023-07-28T13:00:00.000Z",
-          "wordCount": 163,
-          "title": "北大校友论文获ICML时间检验奖，Hinton弟子一作，生成式AI受关注",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746758/",
-          "author": null,
-          "description": "腾讯科技讯，作为推动人工智能蓬勃发展的芯片设计公司英伟达的联合创始人、首席执行官，黄仁勋参与了公司日常运营的方方面面，其中甚至包括审核销售代表计划对相对较小的潜在客户说些什么。 英伟达组织结构图显示，有许多公司高管向黄仁勋汇报工作，这也反映出他深度参与公司日常运营。 知情人士称，大约 40 名高管向\n本文链接",
-          "link": "https://news.cnblogs.com/n/746758/",
-          "publishedOn": "2023-07-28T12:40:51.000Z",
-          "wordCount": 163,
-          "title": "揭秘黄仁勋的管理法则：直管40个高管，每一款产品都过问",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746757/",
-          "author": null,
-          "description": "西风发自凹非寺 量子位公众号 QbitAI 特斯拉十年前的瓜被爆出来了—— 严重夸大续航里程数！ 服务中心都被投诉淹了，曾成立秘密团队压制。 据路透社爆料，特斯拉高管曾要求设计师编写算法操纵仪表盘上的显示，给车主“过于乐观”的续航预测。（据说是马斯克下达的指示） 直到电池电量低于 50%，仪表盘显示\n本文链接",
-          "link": "https://news.cnblogs.com/n/746757/",
-          "publishedOn": "2023-07-28T10:10:00.000Z",
-          "wordCount": 163,
-          "title": "特斯拉秘密团队被曝光：专门压制负面，熬过虚标阶段",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746756/",
-          "author": null,
-          "description": "新智元报道 编辑：拉燕润 OpenAI 下线 AI 检测器，ICML 获奖水印论文被同校研究打脸：AIGC 无法检测，水印检测器都无效！ OpenAI 刚刚把自家的文本检测器 Classifier 给下线了，总共上线才半年。 今年年初，OpenAI 兴致勃勃地发布了 Classifier，宣称有了它\n本文链接",
-          "link": "https://news.cnblogs.com/n/746756/",
-          "publishedOn": "2023-07-28T10:00:00.000Z",
-          "wordCount": 163,
-          "title": "准确性极低！OpenAI下架AI检测器，ICML杰出论文被打脸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746755/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 AI 可控核聚变新突破！DeepMind 最新研究用 RL 算法，将等离子体形状精度提升 65%，为「人造太阳」精准放电指明道路。 AI 可控核聚变，指日可待。 秘密研发 3 年，DeepMind 去年宣称，首次成功用 AI 控制「托卡马克」内部等离子体。其重磅成果登上 N\n本文链接",
-          "link": "https://news.cnblogs.com/n/746755/",
-          "publishedOn": "2023-07-28T09:48:00.000Z",
-          "wordCount": 163,
-          "title": "「人造太阳」精准放电！DeepMind实现AI可控核聚变新突破",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746754/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 昨天，整个科学家都被韩国团队的室温超导论文炸翻了。更奇怪的是，两个半小时后，另一篇内容相似的论文也在 arXiv 上横空出世，论文作者却不尽相同。业内对此质疑、爆料不断，整个事件疑云重重。 韩国科学家表示，已经开发出临界温度大于等于 400K（127 摄氏度）的室温常压超导\n本文链接",
-          "link": "https://news.cnblogs.com/n/746754/",
-          "publishedOn": "2023-07-28T09:39:00.000Z",
-          "wordCount": 163,
-          "title": "7人分诺奖，韩国室温超导团队内讧？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746753/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 好困 最近，来自国内的研究团队提出了一种全新的 RLTF 技术，可以利用程序的单元测试反馈信号，无需基于人工的人类反馈（RLHF），来自动化提升 LLM 的代码生成能力。 「程序合成」或「代码生成」任务的目标是根据给定的描述生成可执行代码，最近有越来越多的研究采用强化学习（\n本文链接",
-          "link": "https://news.cnblogs.com/n/746753/",
-          "publishedOn": "2023-07-28T09:31:00.000Z",
-          "wordCount": 163,
-          "title": "国内团队提出全新RLTF框架，刷新SOTA！大模型生成代码质量更高bug更少",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746752/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子好困 搜狗原 CMO 洪涛官宣即将入职百川智能。 据鞭牛士独家报道，搜狗原 CMO 洪涛将于下周入职百川智能，负责商业化方面业务。 洪涛本人也在社交平台确认了，自己即将入职的消息。 今年 4 月，前搜狗 CEO 王小川，联手原搜狗 COO 茹立云创办了 AI 大模型公司「百川智\n本文链接",
-          "link": "https://news.cnblogs.com/n/746752/",
-          "publishedOn": "2023-07-28T09:22:00.000Z",
-          "wordCount": 163,
-          "title": "搜狗三剑客齐聚「百川智能」！搜狗原CMO洪涛下周入职王小川新公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746751/",
-          "author": null,
-          "description": "新智元报道 编辑：好困 最近，来自马里兰、三星和南加大的研究人员提出了一种利用 LLM 自动识别和删除低质量数据的数据选择策略——AlpaGasus，不仅在测试中优于原始的 Alpaca，而且训练速度更快。 近期，指令微调（IFT）已经被作为预训练大语言模型（LLMs）获得指令遵循能力的关键训练阶段\n本文链接",
-          "link": "https://news.cnblogs.com/n/746751/",
-          "publishedOn": "2023-07-28T09:15:00.000Z",
-          "wordCount": 163,
-          "title": "训练14分钟，超越Alpaca！华人团队发布「飞天羊驼」，基于LLM的数据过滤新范式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746750/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 Meta 首次公开 2020 美国大选算法影响的研究。4 篇论文同登 Science 和 Nature，力证自家社交平台会不会造成政治两极分化。 你知道，算法究竟是如何影响美国大选的吗？ 今天，「Meta 的算法影响 2020 年美国选举」研究登上了 Science 封面。\n本文链接",
-          "link": "https://news.cnblogs.com/n/746750/",
-          "publishedOn": "2023-07-28T09:02:00.000Z",
-          "wordCount": 163,
-          "title": "算法操控2020美国总统大选登Science封面！Meta首次祭出4篇研究，自证清白，两极分化无解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746749/",
-          "author": null,
-          "description": "图片来源：视觉中国 在自动驾驶这条赛道上，越来越多人选择离开。 2023 年刚刚过半，据钛媒体 App 观察，已有 19 起自动驾驶相关的高层人事变动事件发生，其中 16 起是离职事件。既涉及到图森未来、千挂科技、Momenta 这样的自动驾驶技术公司，百度、阿里、华为这样的头部互联网公司，也有车企\n本文链接",
-          "link": "https://news.cnblogs.com/n/746749/",
-          "publishedOn": "2023-07-28T08:50:00.000Z",
-          "wordCount": 163,
-          "title": "自动驾驶“刹车”：离职与裁员交织",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746748/",
-          "author": null,
-          "description": "文真故研究室，作者 林秋艺，编辑 龚正‍‍‍‍‍ 2012 年 2 月 13 日，蔡浩宇、刘伟、罗宇皓、靳志成四位研究生，在上海交通大学闵行校区的 D32 宿舍，拿出各自的家当，成立了米哈游，注册资本 10 万元。 1 个多月后的 3 月 19 日，由于靳志成拿到思科的 offer，米哈游召开临时股\n本文链接",
-          "link": "https://news.cnblogs.com/n/746748/",
-          "publishedOn": "2023-07-28T08:40:00.000Z",
-          "wordCount": 163,
-          "title": "错过米哈游的人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746747/",
-          "author": null,
-          "description": "文海豚投研 $Meta.US 今晨（北京时间 7 月 27 日）发布了 2023 年第二季度财报。除了 VR 业务拉胯已经不足为奇外，广告业务的表现再次远超预期。结合最近 Meta 的一连番操作（Advantage+、Reels），至少短中期来看，Meta 的社交地位进一步被夯实，公司的经营效率提升\n本文链接",
-          "link": "https://news.cnblogs.com/n/746747/",
-          "publishedOn": "2023-07-28T08:32:00.000Z",
-          "wordCount": 163,
-          "title": "TikTok 失势，Meta 彻底重生",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746746/",
-          "author": null,
-          "description": "文连线出行，作者周雄飞 做换电到底亏不亏钱？ 自换电模式诞生以来，就被视为是一种重资产和重投入的补能模式，因此当蔚来成立之初将换电作为主要的补能模式后，业内就对蔚来这门生意一直有这样的疑问。 现在，蔚来给出了答案。在蔚来 2023 年 NIO Power Day 上，蔚来联合创始人、总裁秦力洪坦诚道\n本文链接",
-          "link": "https://news.cnblogs.com/n/746746/",
-          "publishedOn": "2023-07-28T08:28:00.000Z",
-          "wordCount": 163,
-          "title": "被认为是“亏本买卖”，蔚来要怎么让换电生意盈利？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746745/",
-          "author": null,
-          "description": "文读懂财经 ChatGPT 的出现，几乎就等于敲响搜索的丧钟，是很多人都有的看法。 就连前谷歌第 23 位员工、Gmail 的创建者之一 Paul Buchheit 都说，像 ChatGPT 这样的人工智能聊天机器人将摧毁谷歌，就像当年搜索引擎彻底干掉黄页电话簿一样。 但是，两份财报打破了人们这一预\n本文链接",
-          "link": "https://news.cnblogs.com/n/746745/",
-          "publishedOn": "2023-07-28T08:21:00.000Z",
-          "wordCount": 163,
-          "title": "打破ChatGPT颠覆质疑，谷歌还是那个谷歌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746695/",
-          "author": null,
-          "description": "7 月 27 日消息，Facebook 母公司 Meta 在周三公布了第二季度财报，称其 Reality Labs 部门亏损了 37 亿美元。Reality Labs 致力于开发元宇宙所需的虚拟现实和增强现实技术。 自去年初以来，该部门总亏损已经达到了约 213 亿美元。 Reality Labs \n本文链接",
-          "link": "https://news.cnblogs.com/n/746695/",
-          "publishedOn": "2023-07-28T01:06:48.000Z",
-          "wordCount": null,
-          "title": "Meta元宇宙部门一年半来亏掉210多亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746694/",
-          "author": null,
-          "description": "最近，中国车企屡次成海外车企的“技术供应商”，这很可能成为中国品牌与外资品牌新的发展趋势和合作模式。吉利与雷诺成立合资公司，在全球范围内研发、制造和供应混合动力总成和燃油动力总成；奥迪与上汽合作，开发全新电动车型。此外，有报道称，零跑也将向某海外车企出口技术，加上之前丰田和比亚迪合作，其实也都体现了\n本文链接",
-          "link": "https://news.cnblogs.com/n/746694/",
-          "publishedOn": "2023-07-28T01:00:00.000Z",
-          "wordCount": null,
-          "title": "大众要市场，小鹏想搞钱",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746693/",
-          "author": null,
-          "description": "7 月 27 日消息，韩国三星电子周四公布 2023 年第二季度财报。财报显示，三星电子第二季度营收为 60.01 万亿韩元（约合 472 亿美元），同比下滑 22.3%，与最初预估的 60 万亿韩元基本持平；运营利润为 6700 亿韩元（约合 5.27 亿美元），同比下滑 95.2%，但较今年第一\n本文链接",
-          "link": "https://news.cnblogs.com/n/746693/",
-          "publishedOn": "2023-07-28T00:54:43.000Z",
-          "wordCount": null,
-          "title": "三星电子Q2营收472亿美元，净利13.5亿环比增9.6%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746692/",
-          "author": null,
-          "description": "7 月 27 日，南都记者获悉，近日一则视频显示，车主购买理想 L9 新车损坏后卖给修理厂，修理厂更换配件后发现车辆“被远程锁车”。针对此事，理想汽车相关负责人回应南都记者称，该车辆曾在非理想授权网点自行维修，之前维修或更换后的车辆配件，可能与整车软件存在不匹配的情况，导致用户车辆出现问题。其表示，\n本文链接",
-          "link": "https://news.cnblogs.com/n/746692/",
-          "publishedOn": "2023-07-28T00:41:00.000Z",
-          "wordCount": null,
-          "title": "理想汽车损坏更换配件后“被远程锁车”？车企：后台无此功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746691/",
-          "author": null,
-          "description": "新东方教育科技（集团）有限公司（新东方，09901.HK, EDU.US）在第四财季录得强劲增长。 7 月 26 日，新东方公布了截至 2023 年 5 月 31 日的 2023 财年第四财季及全年业绩，新东方第四财季实现净营收 8.606 亿美元，上财年同期为 5.24 亿美元，同比增长 64.2\n本文链接",
-          "link": "https://news.cnblogs.com/n/746691/",
-          "publishedOn": "2023-07-28T00:39:24.000Z",
-          "wordCount": null,
-          "title": "新东方上季度扭亏，出国考试准备业务增52%，俞敏洪：对新业务有信心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746690/",
-          "author": null,
-          "description": "IT 之家 7 月 27 日消息，索尼集团的游戏部门周四表示，其 PlayStation 5 主机的销量已经超过了 4000 万台。该公司称，供应链问题已经得到缓解，使得库存能够满足市场需求。 索尼互动娱乐（Sony Interactive Entertainment）的首席执行官吉姆・瑞安（Jim\n本文链接",
-          "link": "https://news.cnblogs.com/n/746690/",
-          "publishedOn": "2023-07-28T00:31:00.000Z",
-          "wordCount": null,
-          "title": "索尼 PS5 主机销量突破 4000 万台，供应充足",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746689/",
-          "author": null,
-          "description": "美国罗切斯特大学 Ranga Dias 团队的室温超导研究疑云尚未消散，韩国量子能源研究中心（Q-centre ）、高丽大学等团队的研究人员再次投下一记“尚未经同行评议”的重磅。研究团队宣布成功合成了世界上第一个室温常压超导体，即在常压条件下，一种改性的铅-磷灰石(命名为 LK-99) 能够在 12\n本文链接",
-          "link": "https://news.cnblogs.com/n/746689/",
-          "publishedOn": "2023-07-28T00:28:31.000Z",
-          "wordCount": null,
-          "title": "韩国团队室温超导开启人类新纪元？3小时内提交两篇论文，样品被指有瑕疵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746688/",
-          "author": null,
-          "description": "作者：普子胥 出品｜网易科技《态℃》栏目 手牵手，一起走。 7 月 26 日晚间，小鹏汽车创始人何小鹏，晒出与大众汽车集团(中国)董事长贝瑞德合照，宣布双方达成战略合作。 具体而言，大众汽车集团与小鹏达成股份购买协议，小鹏汽车将以每 ADS（美国存托股票，每股 ADS 代表两股A类普通股）15 美元\n本文链接",
-          "link": "https://news.cnblogs.com/n/746688/",
-          "publishedOn": "2023-07-28T00:25:17.000Z",
-          "wordCount": null,
-          "title": "小鹏汽车，命不该绝？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746687/",
-          "author": null,
-          "description": "科技日报讯 （记者刘霞）美国科学家开展的一项新研究显示，由杏仁、燕麦、大米和大豆制成的植物奶的营养成分通常少于牛奶。他们的研究表明，大多数植物奶的蛋白质含量低于牛奶，而且，植物奶的钙和维生素D含量也比牛奶低三分之一。相关论文已提交近期于波士顿举行的美国营养学会年会“营养 2023”。 此前的研究已经\n本文链接",
-          "link": "https://news.cnblogs.com/n/746687/",
-          "publishedOn": "2023-07-28T00:25:03.000Z",
-          "wordCount": null,
-          "title": "大多数植物奶的蛋白和钙含量低于牛奶",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746686/",
-          "author": null,
-          "description": "作者：普子胥 出品｜网易科技《态℃》栏目 忧患意识极强的俞敏洪，或许猜中了这次的故事结局。 7 月 26 日，东方甄选发布公告称:“因规则要求，抖音平台自营产品店铺、自营产品直播间暂停营业 3 天。” 焦虑的情绪蔓延到资本市场。7 月 27 日，东方甄选股价收盘报 30.2 港元/股，下跌 6.5%\n本文链接",
-          "link": "https://news.cnblogs.com/n/746686/",
-          "publishedOn": "2023-07-28T00:24:28.000Z",
-          "wordCount": null,
-          "title": "俞敏洪最害怕的事情，还是发生了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746685/",
-          "author": null,
-          "description": "睡眠对生存至关重要的观点得到了普遍存在的行为支持，最早的动物明显存在类似睡眠状态的观点，以及严重的睡眠不足可能是致命的事实。这种致死率的原因尚不清楚。 2020 年 6 月 4 日，美国哈佛医学院 Dragana Rogulja 团队在 Cell 在线发表题为“Sleep Loss Can Caus\n本文链接",
-          "link": "https://news.cnblogs.com/n/746685/",
-          "publishedOn": "2023-07-28T00:20:41.000Z",
-          "wordCount": null,
-          "title": "睡眠不足致死的机制在于肠道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746684/",
-          "author": null,
-          "description": "科技日报北京 7 月 27 日电 （记者张梦然）据日本东京大学官网最新报道，该校研究人员首次将 2D 打印、折纸和化学方法相结合，创造了一种实现快速制造 3D 物体而不会产生任何废料的方法，新方法可使材料几秒钟内即完成自动折叠。 复杂物体的 3D 打印通常需要很长时间，因为打印过程必须铺设大量的 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/746684/",
-          "publishedOn": "2023-07-28T00:13:05.000Z",
-          "wordCount": null,
-          "title": "几秒钟完成的3D物体制造法出现",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746683/",
-          "author": null,
-          "description": "科技日报北京 7 月 27 日电 （记者张梦然）美国西弗吉尼亚大学研究人员实现了在原子水平上观察合成 DNA，从而了解了如何改变其结构以增强其剪刀功能。更多地了解这些合成 DNA 反应，或是未来解锁医学新技术的关键。研究结果发表在最近出版的《自然》子刊《通信·化学》上。 原子细节可以为人们提供一个路\n本文链接",
-          "link": "https://news.cnblogs.com/n/746683/",
-          "publishedOn": "2023-07-28T00:11:15.000Z",
-          "wordCount": null,
-          "title": "科学家捕获合成DNA原子视图",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746681/",
-          "author": null,
-          "description": "Twitter 的经典标识「小蓝鸟」，被马斯克更换为了「X」。 不知道马斯克在火速抬上「X」之前，有没有意识到「小蓝鸟」在用户心里的分量。 或者说，他一清二楚，但完全不在乎，更想经营自己的个人品牌。 这场「灭鸟」运动仍在发酵，成了一场愈演愈烈的讨论。 Twitter 告别「小蓝鸟」，但很多人都在怀念\n本文链接",
-          "link": "https://news.cnblogs.com/n/746681/",
-          "publishedOn": "2023-07-27T13:20:00.000Z",
-          "wordCount": null,
-          "title": "马斯克用X杀死「小蓝鸟」，是一次审美大降级吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746682/",
-          "author": null,
-          "description": "新一代工业革命正在席卷全球。伴随我国进入高质量发展轨道，科学、人才、教育三位一体融合发展已经刻不容缓。我国基础学科人才紧缺成了不争的事实。值得一提的是，多位教育专家表示，拔尖人才培养不仅是大学的事，更应在中小学加大早期发现培养力度。 中国人才研究会超常人才专业委员会会长、清华大学心理学系系主任刘嘉表\n本文链接",
-          "link": "https://news.cnblogs.com/n/746682/",
-          "publishedOn": "2023-07-27T13:11:00.000Z",
-          "wordCount": null,
-          "title": "猿辅导“青少年科学探索基金”正式成立 助力拔尖人才培养",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746680/",
-          "author": null,
-          "description": "据大疆车载官方消息，大疆车载正式宣布其全新一代智能驾驶解决方案命名为“成行”（chéng xíng）。 成行平台最初在今年 4 月的电动汽车百人会上亮相。该平台最大的特点，是以低至 32TOPS 的算力，7V/9V 的纯视觉配置，通过“强视觉在线实时感知、无高精地图依赖、无激光雷达依赖”，实现了包括\n本文链接",
-          "link": "https://news.cnblogs.com/n/746680/",
-          "publishedOn": "2023-07-27T13:10:00.000Z",
-          "wordCount": null,
-          "title": "大疆新一代智能驾驶解决方案命名“成行平台”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/746679/",
-          "author": null,
-          "description": "最近，Hackread 分享了一个恶意聊天机器人 WormGPT 的详细信息，该聊天机器人是为帮助网络犯罪分子进行非法活动而创建的。现在，暗网上又出现了一个名为 FraudGPT 的聊天机器人。这是一个基于订阅的人工智能聊天机器人，可以为网络犯罪分子执行各种任务，帮助他们成功发起网络钓鱼活动和诈骗。\n本文链接",
-          "link": "https://news.cnblogs.com/n/746679/",
-          "publishedOn": "2023-07-27T13:00:00.000Z",
-          "wordCount": null,
-          "title": "又一“邪恶版”ChatGPT出现，专为网络犯罪而生",
           "imageUrl": null
         }
       ]
