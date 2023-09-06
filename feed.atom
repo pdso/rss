@@ -2,10 +2,374 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-05T00:58:35.581Z</updated>
+    <updated>2023-09-06T00:59:35.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[柔软机械手几乎“复制”人手]]></title>
+        <id>https://news.cnblogs.com/n/749848/</id>
+        <link href="https://news.cnblogs.com/n/749848/"/>
+        <updated>2023-09-06T00:41:47.000Z</updated>
+        <summary type="html"><![CDATA[柔软机械手正在抓握物体。图片来源：阿尔维斯等/《机器人和仿生系统》 科技日报北京 9 月 4 日电 （记者张梦然）基于柔性材料的机器人可以很好地复制人类和动物的外观、动作和能力。虽然现已开发出无数柔性机器人，但由于其组件成本高昂或制造工艺复杂很难大规模生产。葡萄牙科英布拉大学研究人员最新开发了一款机
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔚来：已侦破恶意攻击信息系统案件 相关嫌疑人已抓获]]></title>
+        <id>https://news.cnblogs.com/n/749851/</id>
+        <link href="https://news.cnblogs.com/n/749851/"/>
+        <updated>2023-09-06T00:18:00.000Z</updated>
+        <summary type="html"><![CDATA[在去年 12 月份，蔚来汽车因用户数据遭不法人士泄露而受到社会广泛关注，当时蔚来汽车创始人、董事长兼 CEO 李斌就曾因此事道歉，并表示坚决不与犯罪行为妥协。而在 9 月 5 日晚，蔚来官方正式公布了该事件的调查结果。 9 月 5 日，蔚来法务部在微博发文，更新部分恶意侵害蔚来和用户合法权益案件的进
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度绑定？苹果与Arm签署长达近20年的芯片合作协议]]></title>
+        <id>https://news.cnblogs.com/n/749850/</id>
+        <link href="https://news.cnblogs.com/n/749850/"/>
+        <updated>2023-09-06T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[9 月 6 日消息，英国芯片设计公司 ARM 于当地时间周二提交的最新 IPO 文件显示，苹果公司已经与 ARM 就芯片技术授权签署了一项“延续至 2040 年以后”的新合作协议。 周二，ARM 在最新提交的文件中公布了首次公开募股(IPO)的定价，每股 ADS 定价在 47-51 美元之间，IPO
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开售一周，华为Mate 60 Pro倒卖生意火爆，小县城里也要加价六七百元]]></title>
+        <id>https://news.cnblogs.com/n/749849/</id>
+        <link href="https://news.cnblogs.com/n/749849/"/>
+        <updated>2023-09-06T00:07:00.000Z</updated>
+        <summary type="html"><![CDATA[本文来源：时代财经 作者：王婷 华为 Mate 60 系列图源：时代财经 9 月 5 日，华为 Mate 60 Pro 销售进入第 8 天，想要以原价购得这款手机仍然是难上加难，由经销商、华强北背包客、黄牛参与的倒卖生意丝毫没有降温。 “今天还在卖，目前在加价。”9 月 5 日下午，湖北手机零售商李
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外媒：马斯克过度曝光了]]></title>
+        <id>https://news.cnblogs.com/n/749847/</id>
+        <link href="https://news.cnblogs.com/n/749847/"/>
+        <updated>2023-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9 月 6 日消息，特斯拉首席执行官埃隆·马斯克（Elon Musk）习惯用各种话题吸引公众注意力，但留住关注度的代价越来越高。他有可能是曝光过度吗？ 前一段时间，马斯克声称要与 Facebook 母公司 Meta 首席执行官马克·扎克伯格（Mark Zuckerberg）贴身肉搏，但无更进一步进展
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 14 将禁止对系统证书的修改]]></title>
+        <id>https://www.solidot.org/story?sid=75997</id>
+        <link href="https://www.solidot.org/story?sid=75997"/>
+        <updated>2023-09-05T15:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Android 操作系统正日益封闭，最新的 Android 14 将进一步限制对系统证书的修改。Google 是从 2016 年发布的 Android 7（Nougat）起将设备上信任 CA 列表的权力从用户转移到设备供应商和第三方应用开发者。以前 Android 系统允许用户创建自己的 CA 并信任它，拦截设备上的 HTTPS 流量，查看设备上正在发送和接收的内容，可以进行修改或阻止。即将在未来几个月释出的 Android 14 将 CA 证书的管理转移到了一个独立更新的组件，由 Google Play 提供更新。一方面它对普通用户的安全是好事，但另一方面它进一步限制了开发者，即使 root 设备也将无法修改系统证书。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果新一代产品被迫拥抱 USB-C]]></title>
+        <id>https://www.solidot.org/story?sid=75996</id>
+        <link href="https://www.solidot.org/story?sid=75996"/>
+        <updated>2023-09-05T14:45:42.000Z</updated>
+        <summary type="html"><![CDATA[因为欧盟强制要求到明年底移动设备制造商必须采用通用的 USB-C 充电端口，苹果 9 月 12 日举行的新品发布会上将推出使用 USB-C 的新 iPhone 15 手机和新 AirPods Pro 无线耳机。苹果不会提及欧盟的要求，而是将称之为消费者的重大胜利。苹果消费者的新连接器未来将能与其它非苹果产品兼容了。苹果移动设备之前广泛使用的是私有的 Lightning 连接器。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加拿大囚犯被限制只能使用 1990 年代的技术]]></title>
+        <id>https://www.solidot.org/story?sid=75995</id>
+        <link href="https://www.solidot.org/story?sid=75995"/>
+        <updated>2023-09-05T14:33:23.000Z</updated>
+        <summary type="html"><![CDATA[自加拿大联邦监狱去年开设亚马逊账号以来，囚犯们购买了价值 13 万美元的老式游戏机，原因是几十年前的安全政策限制他们购买新一代游戏机。加拿大惩教署（Correctional Service Canada 或 CSC）的政策禁止囚犯购买任何能与外界沟通的技术。这意味着在加拿大监狱，光盘没有消失，智能电视不存在，超级任天堂游戏机还在流行。自亚马逊成为 CSC 首个电商供应商以来，囚犯们购买的都是几十年前的产品，比如索尼的 PS1，任天堂的 Super Nintendo、Nintendo 64，以及 Game Boy 和 Game Boy Advance。其中 PS1 是监狱里最流行的游戏机，购买量多达 159 台，CSC 的政策禁止购买任何一代的 Xbox。PC 也停留在 1990 年代，囚犯不能使用比 Windows 98 更新的操作系统，办公软件不能超过 Microsoft Office 97。编译器或编程也都是不允许的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因电动汽车中国汽油需求今年将达到峰值]]></title>
+        <id>https://www.solidot.org/story?sid=75994</id>
+        <link href="https://www.solidot.org/story?sid=75994"/>
+        <updated>2023-09-05T13:08:01.000Z</updated>
+        <summary type="html"><![CDATA[中石化最近公布的一份报告预测，中国的汽油需求将在今年达到峰值。这比早先的预测提前了两年。中石化是中国最大的能源巨头，它说汽油将开始走下坡路不会是无的放矢。过去二十年中国是精制油产品如汽油柴油全球增长的最主要推手。但随着电动汽车的普及，化学燃料的需求开始下降。插电式汽车占乘用车总销量的比例已从 2020 年的 6% 提高到了 2023 年 8 月的接近四成。中石化的报告还指出，相比私家汽车，网约车更可能是电动汽车，电动汽车占网约车的比例接近四成。电动汽车也比燃油汽车更高效，滴滴的数据显示电动汽车的行驶里程占到了总里程的五成。全国有 22 个城市已经要求新网约车必须是电动或混动汽车。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 对人类的威胁究竟有多大]]></title>
+        <id>https://www.solidot.org/story?sid=75993</id>
+        <link href="https://www.solidot.org/story?sid=75993"/>
+        <updated>2023-09-05T10:04:02.000Z</updated>
+        <summary type="html"><![CDATA[AI 的先驱们正在为这项技术的哪种危险最可怕而争论不休。末日论者担心，被训练来寻求奖励的 AI 系统最终可能会有隐藏的追求权力的冲动，在执行我们的愿望时无意中伤害人类，或者干脆超越人类，掌握我们的命运。AI 伦理与公平领域的专家们担心的是这些工具如何无意或有意地剥削工人、加深数以百万计人的不平等。他们希望科技公司和监管机构执行培训标准和技术，以减少这种威胁。一些伦理学研究者表示，他们并不完全否定有关人类生死存亡的风险，只是认为应该把这作为有更明确定义的现有问题的一部分来解决。一些末日论者认为，通向灾难的道路很可能来自伦理学界所强调的问题，比如大量炮制的虚假信息导致政府被推翻或引发战争的后果。双方都希望能够揭开 AI 思考方式的黑箱，即所谓的可解释性问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏]]></title>
+        <id>https://sspai.com/post/82701</id>
+        <link href="https://sspai.com/post/82701"/>
+        <updated>2023-09-05T09:00:22.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大家。
+希望这份「社区速递」能帮你发现更多有趣的内容分享。如果你有任何栏目内容或首页改版建议，也欢迎在评论区留言反馈。
+
+本周精选
+工具分享
+如果你关心笔记工具数据安全和选择问题，《如果笔记工具公司倒闭了，你的笔记还能接着用吗？》这篇文章就比较适合你阅读。作者玉树芝兰回应了读者的疑问，分析了可能导致笔记无法查看和调用的原因，并从全面的视角审视了笔记数据安全和选择笔记工具的重要性。
+
+不管你是使用本地存储还是选择远程存储，对于那些记录大量笔记并精心整理的人来说，保护数据安全至关重要。
+《折腾指北：Python 开发环境管理》是由作者Latexbeta撰写的文章，不仅提供了虚拟环境管理的参考方式，并通过作者的测试证实了其有效性。相比网上许多只介绍单一虚拟环境管理工具的文章，本文通过作者的折腾经历提供了一些比较和意见供读者参考。
+本文并非针对新手的友好教程，读者需要具备一定的基础和对工具如 Windows PowerShell 和 Bash 的了解。
+《33字幕: 快速制作双语字幕，识别外语更准确》介绍了一款名为33字幕的AI字幕软件，旨在快速制作双语字幕，准确性是其关注的重点。借助开源的语音识别模型Whisper，33字幕实现了出色的识别准确度，尤其擅长于英语和小语种，在音频识别、翻译、分离音色等方面提供了实用的技术和推荐服务。
+
+《App+1 | 每一个目标都值得被善待, 用《目标罐头》管理你的目标吧!》是由作者小罐头仔撰写的文章，作为一个打工人，作者分享了在工作中长时间没有设定明确目标的感受，追求晋升和跳槽的心底渴望逐渐变得模糊。通过成为独立开发者，作者逐渐看清自己内心真…]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新研究揭示清朝灭亡的原因]]></title>
+        <id>https://www.solidot.org/story?sid=75992</id>
+        <link href="https://www.solidot.org/story?sid=75992"/>
+        <updated>2023-09-05T08:41:32.000Z</updated>
+        <summary type="html"><![CDATA[日本大阪大学、上海师范大学等机构的研究人员在《PLOS ONE》上发表论文，对清朝灭亡的原因给出了更全面的解释。研究人员发现了三大因素加剧了社会政治压力：首先是 1700-1840 年间人口增长四倍，导致人均土地减少，农村人口陷入贫困。其次，人口暴涨也导致了精英职位的竞争加剧，在竞争者人数大幅增长的同时，授予的最高学位数量却减少了，在 1796 年达到最低点。此类功名是获得官位的前提，这种不匹配制造了一大群心怀不满的精英野心家，人类历史上最血腥的内战太平天国运动就是由未能考取功名的失败精英领导的。第三，镇压的成本上升、人均生产率下降，白银储备枯竭和鸦片进口导致的贸易逆差增加，导致了国家财政负担加剧。这些因素最终导致了清朝的灭亡。社会紧张局势在 1840-1890 年间达到峰值。清朝统治者也认识到压力的加剧，它一直持续到 1912 年也凸显了其结构的牢固。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟最严数字监管名单即将公布！苹果、微软据传名列其中]]></title>
+        <id>https://news.cnblogs.com/n/749846/</id>
+        <link href="https://news.cnblogs.com/n/749846/"/>
+        <updated>2023-09-05T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[财联社 9 月 5 日讯（编辑周子意）欧盟最严数字监管法案终于要对科技行业出手了。周三（9 月 6 日），欧盟将公布首批受《数字市场法案（DMA）》监管的服务清单。 这份清单将列出一些 DMA 中定义的“守门人（gatekeeper）”，这指的是一些处于绝对垄断地位的科技巨头。 欧盟该法案于去年底正
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被迫重回办公位，硅谷打工人和远程办公自由说再见｜焦点分析]]></title>
+        <id>https://news.cnblogs.com/n/749845/</id>
+        <link href="https://news.cnblogs.com/n/749845/"/>
+        <updated>2023-09-05T08:31:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜胡依婷 编辑｜袁斯来 向来推崇灵活的硅谷大厂再也无法容忍员工脱离掌控。 根据外媒报道，最近，亚马逊因为要求雇员返回办公室工作遭遇几千个员工抵制。亚马逊没有动摇，反而更进了一步：要求外地员工必须在 2024 年上半年搬到办公室，如果不想去总部，那就必须去分部。一部分员工不愿意或不能妥协，选择离职。
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米之家部分直营店“变”专卖店，小米持续推行降本增效]]></title>
+        <id>https://news.cnblogs.com/n/749844/</id>
+        <link href="https://news.cnblogs.com/n/749844/"/>
+        <updated>2023-09-05T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[界面新闻记者｜伍洋宇 9 月 4 日，界面新闻记者从多处独立信源了解到，今年上半年，小米向经销商提出了小米之家直营店转让的政策。转入经销商之手的小米之家，保持原有地址和门店名称，只是性质上转为专卖店模式。 从交易方式上来说，小米相关负责人会与有意向的经销商协商具体转让价格。但理论上而言，经销商仅用承
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上市前考虑融资100亿-200亿元？阿里云：不予置评]]></title>
+        <id>https://news.cnblogs.com/n/749843/</id>
+        <link href="https://news.cnblogs.com/n/749843/"/>
+        <updated>2023-09-05T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[《科创板日报》4 日讯，有消息称，阿里云考虑从国有公司融资至多 28 亿美元，在香港上市前考虑融资 100 亿至 200 亿元人民币。对此，阿里云相关人士回应称：暂时不予置评。（记者黄心怡）
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIY大佬自制离子推进器火了，近300万网友围观：星际迷航就是这吧]]></title>
+        <id>https://news.cnblogs.com/n/749842/</id>
+        <link href="https://news.cnblogs.com/n/749842/"/>
+        <updated>2023-09-05T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[丰色发自凹非寺 量子位公众号 QbitAI 让橡胶气球化身“热气球”，匀速飞行： 让泡沫板变身“小快艇”，水上前进： 家人们，DIY 大佬又来整活了—— 让如上两个物件产生动力的可不是什么小玩具，而是离子等离子推进器（ionic plasma thruster）。 是的没错，这个被用于航天领域的高级
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年编程语言榜单，Python继续领跑！SQL在工作需求中夺魁]]></title>
+        <id>https://news.cnblogs.com/n/749841/</id>
+        <link href="https://news.cnblogs.com/n/749841/"/>
+        <updated>2023-09-05T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：Lumina IEEE Spectrum 2023 年度编程语言榜单排名揭晓，Python 稳坐多项第一。 随着科技的迅速发展，编程语言已成为现代社会不可或缺的一部分： 无论是网站开发、移动应用、人工智能还是嵌入式系统，编程语言都扮演着关键角色。 当下流行的 AI 人工智能大多是通
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型爆发！百度智能云千帆2.0全面升级，讯飞星火正式开放]]></title>
+        <id>https://news.cnblogs.com/n/749840/</id>
+        <link href="https://news.cnblogs.com/n/749840/"/>
+        <updated>2023-09-05T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：好困 9 月 5 日，百度智能云宣布千帆大模型平台实现 2.0 全面升级；同日，讯飞星火认知大模型面向全民开放。 就在刚刚，百度智能云重磅发布，千帆大模型平台实现 2.0 全面升级。 结合近日文心一言等首批大模型的上线，意味着大模型产业落地将全面开闸！ 百度智能云千帆大模型平台升级
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4写代码不如ChatGPT，误用率高达62%！加州大学两位华人开源代码可靠性基准RobustAPI]]></title>
+        <id>https://news.cnblogs.com/n/749839/</id>
+        <link href="https://news.cnblogs.com/n/749839/"/>
+        <updated>2023-09-05T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：LRS 代码能否跑起来的不是判断可靠性的标准，用语言模型写代码还需要考虑生产环境下的预期外输入。 大型语言模型（LLM）在理解自然语言和生成程序代码方面展现出了非凡的性能，程序员们也开始在编码过程中使用 Copilot 工具辅助编程，或是要求 LLM 生成解决方案。 经过几版迭代后
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLHF再也不需要人类了！谷歌团队研究证明，AI标注已达人类水平]]></title>
+        <id>https://news.cnblogs.com/n/749838/</id>
+        <link href="https://news.cnblogs.com/n/749838/"/>
+        <updated>2023-09-05T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：编辑部 ChatGPT 横空出世后，RLHF 成为研究人员关注的焦点。谷歌最新研究提出，不用人类标注，AI 标注偏好后，也能取得与 RLHF 一样的效果。 如果说，RLHF 中的「人类」被取代，可行吗？ 谷歌团队的最新研究提出了，用大模型替代人类，进行偏好标注，也就是 AI 反馈强
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽大博后被顶会ACL拒稿，只因arXiv迟交半小时？学者圈震怒，发誓再也不投ACL]]></title>
+        <id>https://news.cnblogs.com/n/749837/</id>
+        <link href="https://news.cnblogs.com/n/749837/"/>
+        <updated>2023-09-05T07:22:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：编辑部 一篇出色的 ACL 论文，竟因为匿名期后半小时上传到 arXiv 就被拒？ACL 引来了一大波声讨！ ACL，惹众怒了！ 今天早上，整个 AI 社区都因这个帖子而掀起轩然大波—— 纽约大学博后研究员 Naomi Saphra 表示，自己刚刚从 ACL 那里收到了一份直接拒稿
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只要一句话、30秒，AI就能做个PPT？]]></title>
+        <id>https://news.cnblogs.com/n/749836/</id>
+        <link href="https://news.cnblogs.com/n/749836/"/>
+        <updated>2023-09-05T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[“ 的确可能有很多人浪费时间在 PPT 上，就像浪费时间在其他事情上一样。 ” 说这话的不是别人，正是发明 PPT 的老爷子——罗伯特 · 加斯金斯。 而能让 PPT 之父都忍不住吐槽的，其实总结起来就是一句话：天下打工人苦 PPT 久矣。 且不说有些明星，开个记者会都要带个 PPT 了。 不少年轻
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉Model 3闪现上新，它这次也想玩豪华了]]></title>
+        <id>https://news.cnblogs.com/n/749835/</id>
+        <link href="https://news.cnblogs.com/n/749835/"/>
+        <updated>2023-09-05T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[鸽了无数次的新款 Model 3 ，这次是真来了。 没有发布会、没有线上直播，直接上线官网开售，直球得很特斯拉。 官方给新款取了个 “ 焕新版 ” 的花名，但实际外观上也没名字说得那么焕然一新。 除了明显更修长纤细的前后大灯，以及全新设计的轮毂，其他位置的变化甚至需要拿着放大镜找不同。 像是前翼子板
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中科院限制院士公开发表与专业领域无关的学术意见]]></title>
+        <id>https://www.solidot.org/story?sid=75991</id>
+        <link href="https://www.solidot.org/story?sid=75991"/>
+        <updated>2023-09-05T07:01:20.000Z</updated>
+        <summary type="html"><![CDATA[中国科学院上个月发布的新版《中国科学院院士行为规范（试行）》引起了关注。新版《规范》第五章禁止行为规定：]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《魔兽世界》硬核模式一天删9万个号，玩家们却爱得死去活来]]></title>
+        <id>https://news.cnblogs.com/n/749834/</id>
+        <link href="https://news.cnblogs.com/n/749834/"/>
+        <updated>2023-09-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近，许许多多的外网主播在玩《 魔兽世界 》的时候破防了。 像是这种双手捂脸的状态几乎在每一个主播身上都发生过，比如著名法师玩家 Xaryu，在他的新角色死后直接戴上了痛苦面具。 这边还有一个女主播，因为不小心开启了 PVP 模式，被敌对阵营的玩家追杀致死后也陷入了沉默。 稍微暴躁点的俄罗斯主播，一
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone15全系登岛？苹果秋季发布会前瞻来了！]]></title>
+        <id>https://news.cnblogs.com/n/749833/</id>
+        <link href="https://news.cnblogs.com/n/749833/"/>
+        <updated>2023-09-05T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[嘿，一年一度的苹果新品预测前瞻来了！ 差评公众号老粉应该都知道每年咱们都有一个 “ 保留节目 ”，那就是在苹果秋季发布会正式召开前，会对果子即将发布的新品做个预测和前瞻。 而就在前阵子，苹果已经正式官宣，将会在北京时间 9 月 13 号凌晨 1 点举办特别活动，不出意外的话，全新的 iPhone 1
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌浏览器的重大更新，目的是更好地投广告]]></title>
+        <id>https://news.cnblogs.com/n/749832/</id>
+        <link href="https://news.cnblogs.com/n/749832/"/>
+        <updated>2023-09-05T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[大家应该知道，目前在浏览器领域，谷歌主导的 Chrome 系完全处于垄断地位。 加起来接近 80% 的市占率，让谷歌的浏览器成为了事实上的标准。 可以说，只要扛住舆论压力，谷歌甚至能独自决定一项技术的死活。 这种能力看起来问题不大，但是和谷歌的其他业务结合起来，就显得有些微妙了。 说的就是你，世界超
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脑成像显示抑郁症青少年对父母的批评更敏感]]></title>
+        <id>https://www.solidot.org/story?sid=75990</id>
+        <link href="https://www.solidot.org/story?sid=75990"/>
+        <updated>2023-09-05T06:20:40.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Psychological Medicine》上的一项研究，脑成像显示抑郁症青少年对父母的批评更敏感对赞扬更不敏感。荷兰 Leiden 大学的研究人员招募了 20 名年龄在 13.5-18 岁之间诊断有轻度慢性抑郁症和重度急性抑郁症的荷兰青少年。他们还招募了 59 名 12-18 岁无抑郁症的健康青少年作为对照组。青少年的父母也被邀请参加研究。研究人员用 MRI 扫描了他们对批评赞扬等反馈的大脑活动。结果显示，健康和抑郁症青少年在受到批评后情绪都会下降，在受到赞扬之后情绪都会上升。但抑郁症青少年对赞扬不太敏感情绪提升有限，对负面情绪则更为敏感。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本考虑解散导致安倍晋三遇刺的统一教会]]></title>
+        <id>https://www.solidot.org/story?sid=75989</id>
+        <link href="https://www.solidot.org/story?sid=75989"/>
+        <updated>2023-09-05T05:20:09.000Z</updated>
+        <summary type="html"><![CDATA[日本考虑解散导致前首相安倍晋三遇刺的统一教会。安倍晋三于去年 7 月参与街头演讲时遇刺，凶手为山上彻也，他的动机主要是针对与安倍晋三有关联的教会统一教。该教会由韩国人文鲜明创办，他的母亲信仰该教会并有大笔捐款，被认为导致了家庭破产。日本政府可能最早将于下个月下令解散统一教。根据日本的宗教公司法，如果一个组织被认为明确存在严重损害公共福利的行为，法庭可以下达解散命令。被解散的团体将被剥夺宗教法人地位，失去企业税和财产税以及捐款收入税的豁免。但它们可以以其它方式继续运营。如奥姆道理教在 1995 年被剥夺宗教法人后，改名为 Aleph，继续招募成员和募捐。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notepad++ 漏洞允许执行任意代码]]></title>
+        <id>https://www.solidot.org/story?sid=75988</id>
+        <link href="https://www.solidot.org/story?sid=75988"/>
+        <updated>2023-09-05T05:00:24.000Z</updated>
+        <summary type="html"><![CDATA[流行的开源代码编辑器 Notepad++ 发现了多个缓冲溢出漏洞，允许攻击者执行任意代码。Notepad++ 尚未发布补丁修复漏洞。GitHub Security Lab 的安全研究员 Jaroslav Lobačevski 发现，Notepad++ 使用的部分函数和库存在堆缓冲区写溢出和堆缓冲区读取溢出漏洞，这些漏洞的风险评分从 5.5（中危）到 7.8（高危）不等。他是在四月底报告了漏洞，但直到 Notepad++ 发布最新版本 v8.5.6 漏洞仍然没有修复，因此根据披露政策公开了漏洞和 PoC。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用环境掌控习惯——简易无形的习惯养成法]]></title>
+        <id>https://sspai.com/post/82641</id>
+        <link href="https://sspai.com/post/82641"/>
+        <updated>2023-09-05T02:45:11.000Z</updated>
+        <summary type="html"><![CDATA[习惯形成性格，性格决定命运
+我们听过不少关于习惯的名言警句，都知道良好的习惯有助于我们实现人生目标。
+可是，知易行难，一个习惯的养成并非易事，有没有什么办法，可以真正帮助我们培养持久的习惯，并且终生受益呢？答案是肯定的，在《掌控习惯》这本书中，作者给出了他的解答。
+习惯如何形成
+要知道如何培养习惯，我们首先需要知道，一个习惯是由哪些要素组成。
+在书中，作者用了 4 个步骤来概括，提示——渴求——行为——奖励。任何习惯的养成都会经历这个顺序的 4 个阶段，为避免晦涩的科学名词解释，我们先用日常的生活为例，来帮助你更好地理解这个过程。
+习惯的 4 个阶段
+当我们经过路边的炸串店时，香味就是一种提示；闻到香味，产生食欲是渴求；吃下炸串是行为；吃下炸串时获得的满足感就是奖励。这样我们就发现，每次闻到香味，就意味着附近有好吃的东西，吃下它们可以获得食欲的饱腹和满足感。久而久之，我们形成了一种闻到香味就想吃东西的行为模式，也称之为习惯。
+在习惯的行为模式中，提示负责触发大脑启动某种行为，渴求则是习惯的核心动力，反应是我们面对渴求时做出的回应，奖励就是我们行动的最终目的，例如获得满足感、成就感。
+任何习惯的养成都包含了这一整套的步骤，只要影响其中的任何一个阶段，都有利于我们建立良好的习惯，或者克服坏习惯。
+在我们的日常生活中， 大约 90% 以上的行为都是习惯主导，我们起床，刷牙，洗脸，出门，工作，这一切都已经内化在习惯的行为过程中，不需要我们动用任何大脑思考，这帮助我们大大节省时间，省去了多余的精力来思索今天需要做什么。
+同时，因为习惯的存在，我们会有一种「每天都是在重复前一天」的感觉，这或许是习惯带来的副作用，特别是当这个副作用跟坏习惯、或者跟无趣的事情相挂钩的时候，我们总是会感到不适和难受。
+相反，良好的习惯则为我们建立井然有序、充实愉悦的人生状态。那么，我们应该如何去获得这种自由…]]></summary>
+        <author>
+            <name>Lars漫步</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软澳大利亚数据中心因人手不足发生宕机事故]]></title>
         <id>https://www.solidot.org/story?sid=75987</id>
@@ -407,6 +771,47 @@ Walkman 的痛点
 因此忠忠在快速试错后转行了B端，并且在使用Element之后发现了一些bug，本着自己对开源的热爱，他在git上提交了修改，因此进入了Element Plus的核心团队，目…]]></summary>
         <author>
             <name>yz坨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制作自动化任务，随时用手机获取你所在地区的辐射值]]></title>
+        <id>https://sspai.com/post/82619</id>
+        <link href="https://sspai.com/post/82619"/>
+        <updated>2023-09-04T02:09:03.000Z</updated>
+        <summary type="html"><![CDATA[说到检测辐射，大家可能首先想到的就是盖革计数器。虽然盖格计数器确实可以检测环境中的电离辐射（电离辐射能够撕裂原子或分子，而电磁辐射则是如光和无线电波的能量传输。简单说就是电磁辐射无害，电离辐射才是包括我们常说的核辐射），不过我还是建议大家不要盲目购买盖革计数器，因为前一句话就讲了，它只能检测环境中的电离辐射，用来测试食品等产品的辐射值并不靠谱。
+
+如果你像我这样在之前已经购买了盖格计数器，又想要检测自己购买的产品，可以把盖革计数器和目标物体一起用保鲜膜包起来并放置两个小时以上，这样数据准确度会高一些。下面的辐射也都指电离辐射。
+
+而如果你想要直到自己周围环境的辐射值，那么更加没有必要购买盖格计数器，价格不便宜，而且没有放射性物体标定也不知道准不准。其实我们国家在很久之前就有在全国各个地区做环境辐射值的持续监测，已经持续了很多年，数据也是公开可查的，数据肯定会比我们自己检测更加靠谱。那么今天我就来给大家分享两个我自己做的自动化任务，让你可以轻松随时随地查看自己地区的环境辐射值。
+
+有 iOS 和 Android 两个平台的自动化任务，大家可以根据自己的手机型号选择。
+
+数据来源
+辐射值的数据来源于生态环境部辐射环境监测技术中心（RMTC），大家可以在网站首页 -> 环境质量 -> 实时数据里面看到各个地区的环境辐射值，我分享的自动化任务也是基于这个数据。
+生态环境部辐射环境监测技术中心的全国空气吸收剂量率发布系统
+这个系统的单位是 nGy/h，意思是测量地每小时的吸收剂量值。 每个地方都有自己的天然本底辐射水平，这个值的正常范围在 30-200nGy/h 之间。我们可以在系统里面看到核电站附近的 nGy/h 水平会比普通地方高一点，而在数据实时性方面，生态环境部辐射环境监测中心的数据是每天更新一次。
+另外，香港天文台也有实时监测香港辐射水平的数据源，数据是每小时更新一次，单位是微希沃特/小时 (µSv/h)，正在值为短时间不超过 2.5µSv/h。
+香港天文台的实施香港辐射水平监测
+Android：Tasker 任务
+任务地址：辐射数据
+手动导入的 Github 任务地址（上面打不开的话）：Fairyex-Tasks 获取环境辐射值（欢迎 Star）
+
+手动导入：Tasker -> 长按任务 Tab -> 导入任务 -> 选择下载好的 xml 文件
+
+通过上面的地址导入之后，我们需要打开任务详情，将数据地址和地区改为我们自己所在的区域。比如广东深圳，先通过这个链接直接进入各个省份的监测点，然后再点击自己所在的省，这个链接就是我们要的数据地址。比如广东就是 https://data.rmtc.org.cn/gis/listsation0_100M.html。任务默认就是广东省的地址，广东省的读者可以跳过这步。
+然后再将地区的变量改为我们自己所在的区域，比如「深圳」或者「广州」，之后你就可以用你自己喜欢的各种方式调用这个任务了，比如快捷方式或者语音助手等等。比如我就习惯把这些提示类的任务放到电源菜单的快捷卡片里面，点一下就可以看到。
+通过电源快捷菜单查看辐射值数据
+这个任务其实难度不高，大家也可以尝试自己来实现，原理就是通过链接获取网页源码，然后再通过一个正则表达式提取你所在区域相关的数据，最后再提示。你也可以将最后一步的提示改为其他你想要执行的操作。
+iOS：快捷指令
+任务地址：查看辐射值
+快捷指令也是类似，我们导入之后，需要在快捷指令中打开任务详情，然后把链接和地区改成我们所在的区域。之后就直接可以通过点击任务或者 Siri 来调用任务查看辐射值了。
+快捷指令执行效果
+总结
+在当前社会中，随着科技的发展，信息获取变得更为便捷，而在面对环境健康问题时，我们更应该理性看待，获取真实、准确的信息，避免盲目恐慌或轻信谣言。盖革计数器虽然是一个检测电离辐射的好工具，但它的使用和解读需要专业知识，随意使用可能会导致误解。幸运的是，我们的政府和相关机构为我们提供了实时、可靠的环境辐射数据。而通过如今的自动化技术，我们可以更方便地获取和查看这些数据，更好地保护自己和家人的健康。
+同时，对于那些对辐射或其他环境因素有担忧的人来说，最好的方法是不断学习和了解，获取权威的信息和知识，这样才能做出明智的选择和决策。希望这次分享能够帮助大家更好地了解周围的环境辐射情况，并增强大家的环境保护意识。
+最后，希望每个人都能珍惜我们的地球，从我做起，为建设一个更加美好的生态环境而努力。]]></summary>
+        <author>
+            <name>Fairyex</name>
         </author>
     </entry>
     <entry>
@@ -11238,207 +11643,6 @@ AsyncStream Implementation & Considerations：深入解…]]></summary>
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专访声网教育业务负责人钱奋：大模型会带来教育赛道竞争的进一步增强]]></title>
-        <id>https://news.cnblogs.com/n/747242/</id>
-        <link href="https://news.cnblogs.com/n/747242/"/>
-        <updated>2023-08-07T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[图源：Pixabay 2023 年，ChatGPT 引爆了全球对 AIGC 的广泛关注，科技界、知识界、教育界也围绕其正在引发的一系列深刻的连锁反应激烈争论。 芥末堆持续关注教育前沿与最新的科技动态，对于“大模型＋教育”的诸多可能性，乃至大模型与人类文明的关系，我们充满好奇。而这些问题，我们渴望行业
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯格：Threads 未来几周内将新增搜索功能和网页版]]></title>
-        <id>https://news.cnblogs.com/n/747241/</id>
-        <link href="https://news.cnblogs.com/n/747241/"/>
-        <updated>2023-08-07T12:48:00.000Z</updated>
-        <summary type="html"><![CDATA[马克・扎克伯格 8 月 5 日在其对标推特的社交平台「Thread」上发文，谈到了他对这个全新平台的评价和愿景。 「这里的社区正在按照我所预料的来发展，我想要建立一个长期且充满活力的 App。在未来，尽管还有很多事情要做，但我依然对我们团队运营的步伐感到兴奋。搜索功能和（完整的）网页版将在未来几周内
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Quest 3 VR 头显已现身 FCC，9 月 27 日公布更多信息]]></title>
-        <id>https://news.cnblogs.com/n/747240/</id>
-        <link href="https://news.cnblogs.com/n/747240/"/>
-        <updated>2023-08-07T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[近日，Meta 公司在美国联邦通信委员会（FCC）的数据库中注册了一款新型 VR 头显，这意味着该设备已经获得了在美国销售的许可。根据 UploadVR 网站的报道，这款新设备很可能就是 Meta 公司已经宣布即将推出的 Quest 3 头显。 Meta 公司承诺，Quest 3 头显将比前代产品 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里云serverless应用引擎2.0，正式公测！]]></title>
-        <id>https://news.cnblogs.com/n/747239/</id>
-        <link href="https://news.cnblogs.com/n/747239/"/>
-        <updated>2023-08-07T12:36:00.000Z</updated>
-        <summary type="html"><![CDATA[今天，阿里云 Serverless 应用引擎 SAE2.0 正式公测上线！全面升级后的 SAE2.0 具备极简体验、标准开放、极致弹性三大优势，应用冷启动全面提效，秒级完成创建发布应用，应用成本下降 40% 以上。 此外，阿里云还带来容器服务 Serverless 版、函数计算、第八代高主频计算实例
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现在同伴身后游泳可减少 40% 阻力]]></title>
-        <id>https://www.solidot.org/story?sid=75726</id>
-        <link href="https://www.solidot.org/story?sid=75726"/>
-        <updated>2023-08-07T11:27:32.000Z</updated>
-        <summary type="html"><![CDATA[在洪水来临时，手拉手朝水排成一排是很容易全都被水冲倒的。但如果朝着水排成一列，那么阻力会小很多，不容易倒下。游泳的情况类似。法国研究人员的分析显示，在同伴身后游泳可减少 40% 阻力。根据测量结果和计算机模拟数据，研究人员发现，一名游泳运动员在同伴身后游泳，可以减少 40% 水对身体的阻力。如果一名游泳运动员必须与对手并肩，那么在对方臀部的水平面游泳可以减少约 30% 的阻力。与研究人员交谈过的运动员都有类似经历，即与另一个人平行或从其身边经过游泳既累又难。这与研究结果一致。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富国银行客户年内第二次遭遇存款消失]]></title>
-        <id>https://www.solidot.org/story?sid=75725</id>
-        <link href="https://www.solidot.org/story?sid=75725"/>
-        <updated>2023-08-07T10:56:45.000Z</updated>
-        <summary type="html"><![CDATA[富国银行客户年内第二次遭遇存款消失，也就是原本存入的款项没有出现在账户内。富国银行发言人表示问题只影响少数客户，大部分已经解决，剩余的少部分将很快得以解决。富国银行客户在今年 3 月遭遇了类似的问题，该公司将上半年的问题归咎于一个未具体说明的技术问题。最新事故受影响的客户遍及美国各地。一位阿拉斯加居民  Jeani Cortez 说她原本要用周三存入的款项支付本月的房租、煤气费、电费和互联网费用。周五富国银行的代表通知她要在等三到五个工作日才能提款。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国汽车出口量上半年跃居世界第一]]></title>
-        <id>https://www.solidot.org/story?sid=75724</id>
-        <link href="https://www.solidot.org/story?sid=75724"/>
-        <updated>2023-08-07T10:16:26.000Z</updated>
-        <summary type="html"><![CDATA[中国汽车工业协会的数据显示，主要企业的汽车出口量在 1～6 月同比增长 76%，达到 214 万辆。日本汽车工业协会发布的同一时期的日本的汽车出口量为 202 万辆(同比增长 17%)，中国首次超过日本。纯电动汽车(EV)等新能源汽车出口占整体的 25%。除了日美欧汽车厂商撤出的俄罗斯之外，中国对欧洲的出口也有所增加。在中国国内消费疲软的背景下，中国在全球汽车市场的影响力有可能进一步提升。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《芭比》成为第一部票房突破 10 亿美元的女性导演作品]]></title>
-        <id>https://www.solidot.org/story?sid=75723</id>
-        <link href="https://www.solidot.org/story?sid=75723"/>
-        <updated>2023-08-07T10:01:09.000Z</updated>
-        <summary type="html"><![CDATA[截至上周日，格蕾塔·葛韦格(Greta Gerwig)执导的《芭比》(Barbie)票房达到了 10.3 亿美元，成为第一部由女性导演执导的、票房超 10 亿美元的美国电影。《芭比》也成为自新冠疫情以来仅有的六部票房达到 10 亿美元的影片之一。根据 Box Office Mojo 的数据，自新冠疫情暴发以来，只有另外五部电影的票房超过了 10 亿美元。其中包括《超级马力欧兄弟大电影》，以及《阿凡达：水之道》、《蜘蛛侠：英雄无归》、《壮志凌云：独行侠》和《侏罗纪世界3》。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《博德之门III》同时在线玩家数超过 81 万]]></title>
-        <id>https://www.solidot.org/story?sid=75722</id>
-        <link href="https://www.solidot.org/story?sid=75722"/>
-        <updated>2023-08-07T09:52:48.000Z</updated>
-        <summary type="html"><![CDATA[在最大 PC 数字发行平台 Steam，上周正式发布的《博德之门》系列续作《博德之门III》周末同时在线玩家数突破 81 万，为今年至今第二高，仅次于年初发布的《Hogwarts Legacy》——最高同时玩家数超过 87 万。Larian 工作室开发的《博德之门III》将 cRPG 这一游戏类别带到了主流。游戏包含了 174 小时的过场和 1.7 万个可能结局，这一规模是史无前例的，以至于游戏从上周四发布至今完成评测的媒体没有几家（目前评分 95/100）。总部位于比利时根特(Ghent)的 Larian 工作室有 450 名雇员，过去六年一直在专注于开发《博德之门III》。公司成立于 1996 年，早期游戏销量乏善可陈，它的第一款畅销游戏是 2014 发布的《神界原罪（Divinity: Original Sin）》，售出了逾 50 万份拷贝，2017 年发布的续作《神界原罪2》更是大受好评，两个月售出逾百万份拷贝。它在 cRPG 作品上的成功吸引了威世智（Wizards Of The Coast）的注意，邀请该工作室制作著名 cRPG 游戏《博德之门》系列的续作。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳大利亚现金流通量下降]]></title>
-        <id>https://www.solidot.org/story?sid=75721</id>
-        <link href="https://www.solidot.org/story?sid=75721"/>
-        <updated>2023-08-07T08:42:47.000Z</updated>
-        <summary type="html"><![CDATA[澳大利亚正在迈向无现金社会，该国流通中的现金首次出现下降。根据澳大利亚央行 Reserve Bank of Australia 的数据，上一个财年流通中的现金减少了逾 10 亿澳元。现金使用减少可能会给老年人和偏远地区居民的生活产生影响。犯罪分子也会受到冲击，因为他们严重依赖于现金交易。央行此前对消费者支付趋势的调查显示，三分之一的澳大利亚人认为自己是“低现金用户”，意味着在面对面交易中使用现金的比例不足二成。2019 年半数居民都认为是“低现金用户”。央行的数据显示，目前流通中的现金只有 1013 亿澳元，为 2019年  11 月以来的最低水平。5 澳元纸币、20 澳元纸币和 50 澳元纸币的数量都在急剧减少，100 澳元纸币略有增长，但整体也呈放缓趋势。预计未来几年现金使用将继续减少，支票到 2030 年将完全消失。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戴森的创新公式：「发现」问题，「发明」未来]]></title>
-        <id>https://news.cnblogs.com/n/747238/</id>
-        <link href="https://news.cnblogs.com/n/747238/"/>
-        <updated>2023-08-07T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[摘要 把一项已有的技术用在一个全新的场景上，一款属于未来的产品就出现了。 当大语言模型、人工智能牢牢吸引住人们的目光时，依然有人年轻人在物理世界，尝试，从材质和技术上，创造出用户体验绝佳的产品。 在这场主题为「寻找未来发明家」的设计竞赛中，参赛的作品不乏加湿器、木制儿童玩具等市场上已经出现和成熟的产
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁集团旗下子公司Antfin将出售印度“支付宝”Paytm 10.3%股份]]></title>
-        <id>https://news.cnblogs.com/n/747237/</id>
-        <link href="https://news.cnblogs.com/n/747237/"/>
-        <updated>2023-08-07T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[8 月 7 日消息，据外媒报道，Paytm 创始人兼首席执行官（CEO）Vijay Shekhar Sharma 将通过其海外全资子公司 Resilient Asset Management B.V.（以下简称 Resilient）增持印度“支付宝”Paytm 10.3% 的股份。 据外媒报道，他将
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高通投资 RISC-V 芯片]]></title>
-        <id>https://www.solidot.org/story?sid=75720</id>
-        <link href="https://www.solidot.org/story?sid=75720"/>
-        <updated>2023-08-07T07:43:55.000Z</updated>
-        <summary type="html"><![CDATA[ARM 正面临开源指令集架构 RISC-V 的挑战和竞争。这家英国芯片设计公司的最大客户高通正投资开发 RISC-V 芯片。高通、恩智浦（NXP）、北欧半导体（Nordic Semiconductor）、博世（Bosch）和内存巨头英飞凌联合成立一家合资公司，该公司旨在推动 RISC-V 的全球普及。合资公司一开始将主要面向汽车应用，然后逐渐扩大到物联网和移动这一高通最大的市场。RISC-V 可自由定制，无需像 ARM 那样支付版税。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国科学家在激光核聚变实验中第二次实现输出能量超过输入能量]]></title>
-        <id>https://www.solidot.org/story?sid=75719</id>
-        <link href="https://www.solidot.org/story?sid=75719"/>
-        <updated>2023-08-07T03:24:05.000Z</updated>
-        <summary type="html"><![CDATA[美国能源部劳伦斯利弗莫尔国家实验室的国家点火设施在 7 月 30 日进行的激光核聚变实验中第二次实现了输出能量超过输入能量。相关研究报告将在晚些时候公布。国家点火设施在去年 12 月 5 日的实验中首次实现了聚变反应的净能量增益，即从聚变实验中产生的能量多于输入激光的能量——输入 2.05 MJ（megajoules） 输出 3.15 MJ。可控核聚变被认为能提供无限的清洁能源。国家点火设施的这一突破距离实用还有很远的距离。它的工作原理是使用 192 台激光器将氢燃料球加热到超过 1 亿摄氏度，并施加逾 1000 亿倍地球大气气压的压力，使氢原子聚变并释放能量。这一过程模拟了太阳的核聚变。最新实验的输出能量提高到了 3.5 MJ。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了让你一秒完成摘抄，「一念」做了哪些努力？]]></title>
-        <id>https://sspai.com/post/81817</id>
-        <link href="https://sspai.com/post/81817"/>
-        <updated>2023-08-07T01:41:01.000Z</updated>
-        <summary type="html"><![CDATA[我觉得市面上的剪藏软件步骤太多、速度太慢。
-我很懒，当我复制时不想手动切第二个软件再粘帖，我想要一款无需跳出当前浏览的App，即可无感完成摘抄的工具。于是我做了「一念」：现在，只需要选中想要摘录的句子，点击复制即可完成收集。
-
-提倡保存句子是一念相较于其他剪藏软件比较独特的地方：文章太长，要表达的观点太多，容易堆积不看。而句子很短，一般只有一个观点，易于回忆和整理。同时我们还补充了自动关联、打标签、回顾等功能，方便管理碎片的灵感。
-为了做好摘抄这件事情，我们花了4年的时间。（全文约2500字，阅读时长约七分钟）
-一念的历程
-2020年以前，我的主力机一直是安卓。
-从最开始的小米2，我喜欢将小米便签直接放在桌面，然后复制我觉得很好的句子，再回到桌面快速粘贴。
-再到后面遇到了方片收集：那种直接复制，不需要切换App粘贴的爽感打动了我。再到后来锤子系统自带的闪念胶囊，能够自动保存剪切板内容并变为便签，我想，我从来都是这类产品的用户。
-于我而言，我喜欢复制很多拓宽我认知的句子，以求保留下作者写下这句话当时的心境。这对于我来说不仅仅只是一个句子那么简单，我好似能够透过作者的这句话，去用他的思维和价值观去观测一些事情，获得了一种通灵式的直觉。
-
-可是随着Android 10的出现，Google对【应用在后台读取剪切板】的行为进行了一刀切后，各大手机厂商跟进，剪藏类App自此销声匿迹。与此同时，我在Android 10更新前一个月做了自己的剪藏App：「一念」。可谓是四九年进入国军（调侃）。
-但我心里一直对那种在手机上随心所欲复制，然后自动保存为灵感的体验念念不忘。
-所以我们Android 10之后又做了许多尝试，通过切换键盘保存，通过选中菜单后的额外选项保存...最后我们找到了一个很优雅的方案：复制后点击悬浮窗保存。
-今年7月，我们也在iOS上同样也找到了类似的优雅方案，一次技术巧合我…]]></summary>
-        <author>
-            <name>海玮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入理解 Observation - 原理，back porting 和性能]]></title>
-        <id>https://onevcat.com/2023/08/observation-framework/</id>
-        <link href="https://onevcat.com/2023/08/observation-framework/"/>
-        <updated>2023-08-07T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[SwiftUI 遵循 Single Source of Truth 的原则，只有修改 View 所订阅的状态，才能改变 view tree 并触发对 body 的重新求值，进而刷新 UI。最初发布时，SwiftUI 提供了 @State、@ObservedObject 和 @EnvironmentObject 等属性包装器进行状态管理。在 iOS 14 中，Apple 添加了 @StateObject，它补全了 View 中持有引用类型实例的情况，使得 SwiftUI 的状态管理更加完善。 在订阅引用类型时，ObservableObject 扮演着 Model 类型的角色，但它存在一个严重的问题，即无法提供属性粒度的订阅。在 SwiftUI 的 View 中，对 ObservableObject 的订阅是基于整个实例的。只要 ObservableObject 上的任何一个 @Published 属性发生改变，都会触发整个实例的 objectWillChange 发布者发出变化，进而导致所有订阅了这个对象的 View 进行重新求值。在复杂的 SwiftUI 应用中，这可能会导致严...]]></summary>
-        <author>
-            <name>OneV's Den</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯格：尽管日活用户数量暴跌 但Threads正走上预期轨道]]></title>
-        <id>https://news.cnblogs.com/n/747180/</id>
-        <link href="https://news.cnblogs.com/n/747180/"/>
-        <updated>2023-08-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[8 月 6 日消息，Meta 首席执行官马克·扎克伯格(Mark Zuckerberg)表示，对于公司旗下新社交网络 Threads 来说，这是“不错的一周”，尽管日活跃用户数量出现大幅下降。 扎克伯格周五在 Threads 上发帖称，社区“正走上我预期的轨道”。然而，市场研究公司 Sensor T
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为吸引员工重返办公室 Google 提供特价园区酒店]]></title>
-        <id>https://www.solidot.org/story?sid=75718</id>
-        <link href="https://www.solidot.org/story?sid=75718"/>
-        <updated>2023-08-06T13:03:10.000Z</updated>
-        <summary type="html"><![CDATA[Google 全职员工只需支付 99 美元一晚就可以入住山景城总部的园区酒店，这一夏季特价活动将持续到 9 月 30 日。此举旨在吸引 Google 员工重返办公室工作。Google 的特价活动称，员工不需要通勤早起上班，可以多睡一小时。该酒店位于 Google 新园区，去年开业，占地 42 英亩，毗邻 NASA Ames 研究中心，可容纳 4000 人。在 Google 内部论坛，有员工开玩笑的说，夏季住在公司总部园区会破坏“工作生活的平衡”。员工们指出，一天 99 美元，一个月需要花 3000 美元，并不比自己租房便宜，当然酒店设施要高级得多。如果价格减少到 60 美元，无疑更合算。还有人猜测，在公司削减差旅预算之后，此举可能有助于减少酒店空置率。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
