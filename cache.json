@@ -59,6 +59,46 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/82828",
+          "author": "麦可",
+          "description": "你好，我是麦可，一位热衷于个人知识管理、效率管理、习惯养成和目标跟踪的新晋少数派er。\n同时我也是一位资深的软件开发工程师，近几个月我都在忙着整理我的 Notion 空间，在使用 Notion 的过程中，我开发了一款微信公众号文章剪藏小程序，可以非常方便快捷的实现一键同步微信公众号文章到 Notion。\n在阅读这篇文章之前，你也可以先行扫码体验一下：\n\n产品设计背景\n最近几个月跟随二一的笔记软件测评的 B 站视频和少数派的Notion课程逐步开始使用 Notion， 并将工作和生活迁移到 Notion 上来进行管理。\n由于自己平常关注了很多优秀的微信公众号创作者，经常会发现并收藏一些优质的公众号文章，非常希望能将微信收藏中的精华文章也同步到 Notion 中来进行管理存储，而 Notion 在微信剪藏这一块相对于其他笔记软件如印象笔记、flomo、cubox 来说算是功能缺失了。\n目前的解决办法可能是通过借助 flomo 、cubox 或者浏览器这种软件来进行二次同步。抛开 flomo 和 cubox 的同步机制和收费策略，从我个人的感觉来说，这个操作流程就有点不完美(bieniu)，我希望可以更纯粹的使用一款笔记软件就能完成这件事。\n另一方面，我非常喜欢 flomo 对于灵感随笔的记录方式以及回顾的设计，在接触 Notion 之前，我记录一些碎片化的知识、待办事项和灵感等等都是通过微信或者钉钉发送给自己（把自己置顶），这种记录方式结合微信钉钉的置顶和聊天记录查找非常的方便。\n当我用了 Notion 并逐渐接触了一些知识管理的方法论后，我发现这就是GTD里的第一步收集啊，我把我的想法灵感和待办事项放到收纳箱，然后去逐一进行审视处理。\n基于我的这两个使用场景，以及 Notion API 强大的开放能力，我尝试着做了这样一款工具： NotionMPClipper ，希望对大家也…",
+          "link": "https://sspai.com/post/82828",
+          "publishedOn": "2023-09-11T06:42:01.000Z",
+          "wordCount": 719,
+          "title": "Notion 微信剪藏小程序，一键剪藏公众号文章！这是我的开发故事 ......",
+          "imageUrl": "https://cdn.sspai.com/2023/09/10/cb219709dee5453426e654b9441e439a.png"
+        },
+        {
+          "id": "https://sspai.com/post/82803",
+          "author": "碌木",
+          "description": "体验过Stable Diffusion之后一直觉得生成的图片对于我个人而言都没什么用处，实在不甘心，于是在想做个东西用上这些图片。\n头脑风暴时得知Photoshop beta版支持AI创作功能（用于更改图片局部内容），再加上PS完善的图层功能和插件支持，完全可以做一个在左右两张图片中找出不同之处玩法（即找茬类玩法）的游戏。\n为了实现这个想法：\n· 需要简化和规范化Photoshop的导出操作，开发了一个Photoshop插件，已开源 https://github.com/whimsy-ai/ilp_photoshop_plugin\n· 定义了一个格式名为ilp（是Image Layers package的缩写）的文件，用于存放所需的数据（封面图片文件、背景图片文件、图层图片文件、图层坐标和大小数据）\n· 基于这个文件格式内容，开发了文件编码解码器，已开源 https://github.com/whimsy-ai/ilp_file_codec\n· 最后就是游戏本体了（已在一些应用商店上架，链接在下文），已开源 https://github.com/whimsy-ai/find_up\n游戏中文名为《找起来！》，英文名自然而然的就叫《Find Up!》了。\n在找茬这个经典的玩法之上实现了两处创新：\n1、在游戏内集成了游戏编辑器，支持玩家自己制作游戏内容并保存为ilp文件，等以后制作者多起来后，不用再担心不够玩了。\n2、支持任意搭配已解锁的图层后导出图片，例如作为壁纸使用。\n \nSteam版\nhttps://store.steampowered.com/app/2550370/_/\n微软商店版\nhttps://www.microsoft.com/store/productid/9N99R98Z0QR3?ocid=pdpshare\n安卓版（暂时只有Google Play，由于我是个人开发者没有公司资质，国内的应用商店比较难上架，请见谅）\nhttps://play.google.com/store/apps/details?id=whimsy_ai.find_up\n因为苹果的开发者账号每年都要交688元我觉得太贵了，所以暂时没有苹果系列。\n版本较多，制作了一个表格，个人推荐Steam版，功能是最全的。\n\n\n功能的差别Steam版微软商店版安卓版\n游戏✅✅\n✅\n没有购置服务器，所以暂时只能玩游戏本身自带的几张图片了\n\n游戏编辑器✅✅\n❌\n不在便携设备上支持这个功能，作用有限\n\n游戏内的分享功能\n✅\n支持Steam创意工坊功能，下方有截图\n❌❌\n保存图片✅✅✅\n\nSteam截图游戏内的Steam创意工坊功能截图订阅创意工坊的文件后，就可以玩了把游戏玩法融入到了游戏图标的设计中，然后用游戏图标制作了一个游戏内容。\n \n游戏编辑器功能，需要搭配Photoshp和专门开发的PS插件使用\n \n保存图片功能，左边是已解锁的图层，可以任意搭配图层保存自己喜欢的图片",
+          "link": "https://sspai.com/post/82803",
+          "publishedOn": "2023-09-09T08:44:37.000Z",
+          "wordCount": 615,
+          "title": "开发了一个支持玩家制作内容的找茬类小游戏",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/82793",
+          "author": "熊猫别熬夜",
+          "description": "前言\n最近发现一款特别好用的标签插件：Tag Folder，可以像文件夹一样显示 Obsidian 的标签：\n\n最主要的功能是通过它获取的标签文件列表可以快速定位到某一个文件，如何设置下图，不想 Obsidian 自带的标签点击后要搜索一会儿才会出结果，这个是直接列出存在标签的文件。\n\n关闭未标记文档归类到根目录下的选项\n默认设置是会把没有打标签的文档归类到根目录下，像我这种一开始没有怎么打标签的人，这种空白的标签的文档有很多，在设置里面可以把这个选项关了。\n\n它会把没打标记的文档归类到 _untagged 的虚拟标签文件下，并不会真的给你的文档打上 _untagged 标签。\n排除不想要的标签\n不过如果你不喜欢这个 _untagged 标签，不想把它显示在界面下，或者不想让某个的标签显示到界面上时，同样可摘设置里面设置排除标签选项：\n\n这里面的其他的一些选项就不逐一介绍了，插件本身设置选项就介绍的很清楚了。\n建立标签分级面板\n我主要关注的功能是这个功能：\"点击标签时，在标签文件夹内搜索标签\"：\n\n并且当你按住 Ctrl 键继续单击其他标签时，它会继续加上该标签达到多重标签筛选的效果，这就引起我的兴趣了，就是说如果我建立了一个类似标签面的存在，我只需要通过点击我想要的标签就可以快速筛选，我个人比较喜欢 Zotero 一行行排序起来的标签，不过 Obsidian 里面大多数是嵌套，排序的话就太多了，于是就想利用 Catllout 来对每个标签等级为一级的标签作为一个 Catllout 收集，然后下面就是它的子标签，且并不显示父标签，就是像 Zotero 那样直接单独显示一个子标签，实现结果如下：\n\ndataviewjs 代码\n```dataviewjs\nlet tags = {};\ndv.pages(\"\").file.etags.distinct()\n  .filter(t …",
+          "link": "https://sspai.com/post/82793",
+          "publishedOn": "2023-09-09T05:16:47.000Z",
+          "wordCount": 1122,
+          "title": "Obsidian技巧：通过多个标签快速定位文件(by TagFolder)",
+          "imageUrl": "https://cdn.sspai.com/2023/09/08/ada7f0236a148c33ee18771a1f2e1763.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82799",
+          "author": "Mepomax",
+          "description": "前言\n写在 iPadOS 17 正式上市前。我对 iPadOS 一直都有一些期待，但始终没有得到满足。\n\n在过去两年的 iPad 升级路线中，苹果对于 iPadOS 的改进策略似乎并不是我原来以为的纯正的 Pro 路线。而是以 Pro 级别的 App 为核心，构建多平台通用能力，加强 Apple Pencil 和 Magic keyboard 两大官方生产力配件以及其他外接设备的专业体验。\n\n更独立，还是和 iOS 更紧密\n早期 iPad 的操作系统就是 iOS ，在 iOS13 同期更名为 iPadOS 时，似乎是向外界展示打破和 iOS 界限的姿态。但现在，iPadOS 和 iOS 等其他系统的关联反而更紧密了，自己独有的特点越来越少。\n\n锁定屏幕的个性化和小组件是从 iOS 来的而台前调度又是和 Mac 共用的一套模式。似乎只有带上 Apple pencil 才能证明 iPad 的独特作用。\n全平台的特性并不是缺点，但当苹果的开发资源明显倾斜于跨平台的新功能体验时，iPadOS 独有的功能会自然而然受到挤压。这种成本和研发回报更高的方式显然是不够极致的。现在的 iPadOS 可以说是把曾经想摆脱的「iOS」外壳又长了回来。\niPadOS 17\n\niPadOS 17 ：更有本事，更显你本色。\nEven more capable. Even more you.\n\n从苹果的宣传词上就能看出这一代系统更新的重心。更有本事代表专业和效率，更显本色代表个性化和视觉改进。过度解读的话，一句话后半部分的内容可能更重要一些，苹果对 Pro 的体验可能真的没有那么执着。\n为了更清晰的阐述我的观点，一起来看看 iPadOS 17 的这些功能变化。\n锐评 iPadOS 17 更新点\n那么接下来就快速锐评一些我关注的更新点。\n锁屏&小组件等一系列更新\n\n锁屏界面实时活动\n锁定屏幕个性化\n锁屏显…",
+          "link": "https://sspai.com/post/82799",
+          "publishedOn": "2023-09-09T05:10:30.000Z",
+          "wordCount": 775,
+          "title": "生产力向左，iPadOS 向右",
+          "imageUrl": "https://cdn.sspai.com/2023/09/08/25516b72cda813b43f62f676b8df45ca.jpg"
+        },
+        {
           "id": "https://sspai.com/post/82764",
           "author": "有想法的徐同学",
           "description": "我叫徐同学，是一个产品经理兼设计师。\n去年 8 月中旬，我的新 App 「Arrrt」上架了 App Store，9 月又逐渐上架了各大主流应用平台，到现在差不多一周年。\n「Arrrt」是一个随身美术馆，在这里用户可以「每天邂逅一幅世界名画及其背后的故事」。\n一年以来，「Arrrt」获得了苹果、华为、OPPO、小米等应用商店的精选推荐累计十余次，也遇到了很多热爱艺术的用户。\n\n趁着上线一周年，想在少数派更多分享一下打造产品的故事，以及背后的思考。\n为什么做 Arrrt？\n首先，我本身很喜欢逛展、逛美术馆。欣赏艺术作品是件很幸福的事，但线下看画的机会毕竟不常有，疫情那几年，更是变得困难。\n再看线上，虽然已经有一些网站和 App 可以欣赏这些名画，但体验大多不够好。\n于是就有了这个想法：做一个分享世界名画的 App，并且它的界面设计、交互体验、介绍文字，都应该和这些艺术作品匹配，也能带来美与惊喜。\nArrrt 的功能与设计\nArrrt 的功能和操作，尽可能做了减法，让用户只需专注于画作本身。\n进入首页，一幅当天展出的画作，挂在素净的墙面上。画作的边框、名称，包括每一个小小的 icon，都会根据这幅画来选定色彩。这个页面前后改了很多版，最后选择了这个，最接近我们在美术馆和一幅画相遇的感觉。\n\n点击画作，便会轻盈地放大、展开（这个展开速度我们也调整了很久），出现画作介绍，有画作中英文名、作者国籍生卒、创作年代等基本信息，还有一些关于内容主题、风格特征、画家故事的分享。\n这个过程就像我们逛线下美术馆，走着走着，邂逅一幅画，先直接地被它所吸引、惊艳、打动，再通过博物馆的简要介绍，了解这幅画背后的创作者和故事。\n\n如果喜欢画作，可以收藏、下载与分享——下载的画作都是高清原图，可以看到纤毫毕现的笔触。\n向左滑动 Arrrt，可以进入到专题页面。在这里可以按照流派、题材、特辑，多维度地探索艺术世界。\n\n向右滑动 Arrrt，可以进入到设置页面。特别提一下艺术图标，是我们自己很喜欢的小功能——不过这个功能需要先成为付费会员哈哈。 \n\n我还设计了 3 款桌面小组件，添加到手机桌面，就像一面墙上挂了画，而且是每日自动更新的画——不仅是装饰，也是一份特别的期待。\nArrrt 的内容\nArrrt 的画作选择和介绍文字上，我们给自己定了 3 条标准：\n1. 中文原创\n之前看已有产品，画作介绍基本是直接复制博物馆的英文内容，再直译成中文。这样不仅有版权问题，而且语言生涩——字全部认识，连在一起可能就看不懂。我们从一开始就选择了中文原创，这么做时间和人力成本更高，但阅读体验更友好。\n2. 尽可能准确\n画作的基本信息，我们均以权威博物馆提供的信息为准，延伸介绍也会先做多渠道搜索与核对，让内容尽可能准确与真实——比如我们不会说梵高割掉自己的「耳朵」，因为其实割掉的是「耳垂」。\n3. 离生活更近\n做这个产品的初衷，就是让艺术变得更加触手可及。选择每一天的画作时，我们也在努力找到这些艺术经典和日常生活的连接。 \n\n比如苹果发布会的那天，我们会分享另一个惊世骇俗的苹果。\n比如我们会告诉你，这幅画很适合作为手机壁纸。\n我们还会根据时节，推出各种有意思的特展。\nArrrt 不是什么？\n说了这么多 Arrrt 是什么、有什么，还想说下「它不是什么」。这一点也是我对产品定位或者说差异化的思考。\nArrrt 不是一个「艺术学习平台」\n每天欣赏这些画作，阅读相关的介绍，当然可以积累知识、提升鉴赏能力，但这些内容都是轻量的，不会那么系统、深度、专业。如果要深入地学习艺术知识，还是建议选择专业书籍或者课程；如果想比较快地概览艺术史，推荐贡布里希的《艺术的故事》，看完这本书再看Arrrt，会更有意思。\nArrrt 也不是一个「艺术素材库」\n素材库追求的是「海量」，而我们则追求像美术馆那样「精选」，更不会为了「全面」而无视画作版权规则（我们对画作的选择和应用均符合国际国内版权规范）。\nArrrt 存在的价值\n当时筹备这个产品的时候，好几位朋友表示担心：是不是太小众了？非艺术领域的人看了有什么用？\n我倒比较淡定，一方面原本的计划就是做一系列小而美的 App，另一方面我也相信：欣赏美这件事，并不受专业职业的限制，也并不是每一件事都要导向“实用价值”。\n就像哥德的一句话：「要想逃避这个世界，没有什么比艺术更可靠的途径；要想与这个世界结合,也没有什么比艺术更可靠的途径。」\n如果这间小小的艺术馆，能在快节奏的日常，为你带来一点诗意和柔软，Arrrt 的价值也就实现了。\n送码\n在评论区说说你对 Arrrt 的看法和建议，我们将在 9 月 17 日选出 6 位读者分别送出 1 个年度会员兑换码以及 5 个月度会员兑换码。",
@@ -827,26 +867,6 @@
           "wordCount": 676,
           "title": "万物皆有联系",
           "imageUrl": "https://cdn.sspai.com/2023/08/14/4a3ba233d3e0a465e96dd114ecd49478.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81966",
-          "author": "GoodTheme",
-          "description": "在之前的一篇文章里，我分享了在律师工作中，给自己写了个工具管理案件项目的经历。最近，我终于又有了一些时间来改善界面和功能，让它在可以记录项目的同时，也能够被用于知识管理。\n这个过程总体是愉快的，每一点小的改进都让人有成就感。比方说，在参考了电脑上其他应用程序的界面后，我学着在左侧按钮选项上增加了一个“选中”标签的移动小动画。即使是这样的无用改动，都足以让我有个好的心情继续探索。\n对比之下，最后一步的打包工作称得上是噩梦，这足足花费了我两天多的时间，数十次地往返于失败——再尝试——再失败之间，心态和睡眠质量都差了许多。\n因此，在这篇文章中，一方面，我将简单介绍工具的使用方法，分享最近的改进成果，以推介给同行或者其他有类似项目/知识管理需求的朋友使用。另一方面，流水帐式地记录一下打包 PyQt 和 sqlite3 程序过程中遇到的各种坑和教训，以我为戒。\n一、简单的介绍\n你可以在这里，或这里（网盘）下载到更新后的版本。其中，zip 格式为 Windows 版本，dmg 格式为 macOS 版本，source code 为源文件，供修改或自行编译使用。\n我是在 m1 macOS 环境开发，在虚拟机（Windows 11 arm）中打包为 Windows 版本的，也许有针对不同系统考虑不周之处，或者无法使用的情况。对于这些问题，欢迎与我联系，我会争取（职业病式备注：指在时间精力有限的情况下进行尝试但因知识和技术限制而不保证能成功）修正它。\n（一）项目\n管理项目是我设计这个程序的初衷所在，基本结构是“项目-案件-案件信息”。\n在左侧的项目列表中，可以按标签和加入顺序来筛选项目，也可以通过搜索框直接搜索需要的项目。在项目列表的右键菜单中，可以对项目和案件进行基本的编辑操作，例如置顶或把案件更换到其他项目里。\n对于预设了项目文件夹的项目，可以在列表上双击打开文件夹。点开状态栏图标的“访达…",
-          "link": "https://sspai.com/post/81966",
-          "publishedOn": "2023-08-13T10:44:03.000Z",
-          "wordCount": 748,
-          "title": "给自己写一个案件管理工具（二）",
-          "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/81976",
-          "author": "Alanthink",
-          "description": "房间为何总是快速从整洁变成乱七八糟的状态？为什么已经打散的拼图碎片永远不会自发地重新聚合成一个整体?\n这几天偶然了解到了“熵增定律”，查了下资料，发现对于这些现象有另一种新奇的解释。同时，“熵增定律”对我们的人生成长也有深刻的启发。但最终，培养时刻保持愉悦心态的能力，才是最重要的。\n\n什么是熵？\n熵是热力学中的一个概念，用来描述系统的无序程度或混乱程度。熵越高，系统越无序；熵越低，系统越有序。简单来说，熵是一个描述系统混乱无序程度的指标。\n可以想象一下房间里雪花纸屑的散乱程度来理解熵。纸屑整齐平放在桌上时,系统有序,熵很低。当纸屑被扔得到处飞散时,系统变得很无序,熵增加了；书桌上文件书本平整排放时,桌面系统有序,熵很低。当文件书本乱七八糟时,桌面系统无序,熵很高。\n\n​​​什么是熵增定律？\n根据热力学第二定律，一个孤立系统的熵总是增加或不变，而不会减少。这意味着孤立的系统总是朝着更加混乱无序的方向演进。在这过程中，熵不断变多，直到达到熵最大化。\n例如食物腐败变质的过程,就是一个从有序的生物分子变为无序的简单分子的演变过程。\n熵增定律的本质？\n熵增定律的本质，就是一个孤立系统在没有外力的干扰下，自发地走向混乱和衰亡。\n最大熵状态是什么?\n系统达到最混乱无序的状态；\n做有用功的能量已消耗殆尽；\n系统内的能量已经几乎消耗殆尽，系统各部分之间不存在可利用的温度差、压力差等,无法再产生驱动工作的推动力；\n系统达到稳定平衡的状态，各种变化过程不再发生，系统所有运动都停止。\n此时系统变得毫无生气、死气沉沉，进入“热寂”状态。\n如同湖水平静无波无流动——湖面水达到分子运动的最随机状态,宏观静止平衡；亦像已燃尽的木柴，只剩灰烬——木柴化学能完全释放,只剩无用的灰烬。一切归于沉寂。\n\n现在让我们回到开头列举的两个现象，试着用熵增定律来解释一下这两个现象：\n最开始房间整齐干净,各样物品有序放置。…",
-          "link": "https://sspai.com/post/81976",
-          "publishedOn": "2023-08-13T03:35:54.000Z",
-          "wordCount": 600,
-          "title": "人生“负熵”与培养时刻保持愉悦心态的能力",
-          "imageUrl": "https://cdn.sspai.com/"
         }
       ]
     },
@@ -861,6 +881,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23260",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新手推荐\n🐕 Hidden feature: static properties\n@极速男孩：Swift 的静态属性具有一项隐藏特性：它们是隐式懒加载的，只在首次访问时初始化。这意味着，即使应用中有许多静态属性，它们也不会在应用启动时全部初始化，从而优化性能。若尝试显式地用 lazy 关键字声明静态属性，Swift 会报错，因为静态属性已经是懒加载的。\n文章\n🐕 C++ 知识体系总结：语言核心与代码工程\n@莲叔：这篇文章初看下属于谁看了必然会收藏但大概率不会看的文章。但看完后又给我很不一样的体感，虽然文章较长而且涉及的点比较多，但并不是单纯追求大而全，而是围绕 C++ 一些常用的新特性进行了介绍，根据我的经验在现代 C++ 的项目里几乎都会用到里面介绍的特性，同时每个特性都包含示例代码帮忙理解，大幅提高了学习的效率。对于工作中需要和 C++ 打交道的同学来说是很不错的资料。\n🐎 The new Swift section in binaries built with Swift 5.9 and Xcode 15, __TEXT/__constg_swift\n@kemchenj：Swift 在运行时经常需要遍历查询类型的元信息，但 Swift 编译链接后的二进制产物里，类型的元信息是各自分散的，导致启动时会频繁触发 page fault，并且 CPU 缓存命中率也会下降。\n在即将发布的 Swift 5.9 里，编译器会将这些信息集中存放到各自的 Section 里，改善前面提到的问题。\n🐕 一线大厂程序员的考公上岸心得\n@老驴：一篇和我们之前推荐的很不一样的文章，是一位之前在微软的 Edge …",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23260",
+          "publishedOn": "2023-09-11T06:20:59.000Z",
+          "wordCount": 556,
+          "title": "老司机 iOS 周报 #260 | 2023-09-11",
+          "imageUrl": "https://opengraph.githubassets.com/8202b8c3074c80431f626d6b549adb87d2cb5f95b67b48ce33b67c4758902209/SwiftOldDriver/iOS-Weekly/releases/tag/%23260"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23259",
           "author": null,
@@ -924,6 +954,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76050",
+          "author": null,
+          "description": "Linus Torvalds 释出了 Linux 6.6-rc1，标志着合并窗口的关闭。备受瞩目的写时复制文件系统 Bcachefs 再一次未能进入内核主线。Linux 6.6 的新特性包括：EEVDF 调度器，令 AMD chiplet CPU 受益的工作队列变更，实验性引入 DRM 持续集成(CI)，KSMBD 稳定，HP BIOS 设置驱动，AMD Dynamic Boost Control，ReiserFS   标记为准备移除，英特尔 Shadow Stack 支持，等等。",
+          "link": "https://www.solidot.org/story?sid=76050",
+          "publishedOn": "2023-09-11T14:11:37.000Z",
+          "wordCount": 179,
+          "title": "Linux 6.6-rc1 释出，Bcachefs 未能合并",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76049",
+          "author": null,
+          "description": "IEEE Specctrum 宣布它的 2023 年的年度编程语言排名。Python 语言不仅高居第一，而且领先优势巨大。Python 几乎无所不能无处不在，是炙手可热的 AI 的助力器。SQL 是最广泛使用的工作语言，但程序员不太可能就仅仅靠 SQL 获得一份工作。雇主通常需要员工同时掌握 SQL 和其它语言如 Java 或 C++。相对于 高性能或资源敏感类型的任务，Java 和类 C 语言比 Python 更受欢迎。JavaScript 语言的流行度次于 Python 和 Java 位居第三。",
+          "link": "https://www.solidot.org/story?sid=76049",
+          "publishedOn": "2023-09-11T11:14:47.000Z",
+          "wordCount": 188,
+          "title": "IEEE Specctrum 的年度语言是 Python 和 SQL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76048",
+          "author": null,
+          "description": "下月将是美国政府律师在华盛顿联邦法庭上指控微软非法打压竞争的 25 周年。这起具有里程碑意义的案件发生在微软称霸科技行业的鼎盛时期，最终法官下令拆分该公司，不过该裁决在上诉中被推翻。周二华盛顿的一个法庭将再次成为美国司法部遏制科技巨头的历史性努力的焦点。它对 Google 提起的诉讼，是针对最新一代占主导地位的科技公司提起的第一起诉讼。许多法律观察人士表示，这一结果将是对美国监管机构雄心勃勃的法律战略的一次重要考验，并有助于确定其在控制大型科技公司方面所做的更广泛努力。如果 Google 获胜，它的商业模式将无需改变。如果它失利，目前美国司法部尚未表态将会寻求何种改正方法。批评者希望拆分 Google，但法律专家认为不太可能。",
+          "link": "https://www.solidot.org/story?sid=76048",
+          "publishedOn": "2023-09-11T08:58:52.000Z",
+          "wordCount": 152,
+          "title": "Google 面临自微软以来最大的美国反垄断诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76047",
+          "author": null,
+          "description": "全球仍然高度依赖燃煤火电，煤电新增装机速度超过淘汰。中国是全球最大的煤炭消费国，其电力来源的一半以上依赖煤炭。法国卫星数据公司 Kayrros 的数据显示，中国 7 月日均煤炭火力发电量比 1 年前增长了 14.2%。国际能源机构（IEA） 7 月的报告显示，2022 全球第二大煤炭消费国印度的煤炭需求增长了 8%。印度尼西亚增长 36%，成为世界第五大消费国。预计全球整体需求也将在 2023 年创出历史新高。",
+          "link": "https://www.solidot.org/story?sid=76047",
+          "publishedOn": "2023-09-11T08:18:53.000Z",
+          "wordCount": 155,
+          "title": "全球仍然高度依赖燃煤火电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76046",
+          "author": null,
+          "description": "训练 AI 模型所需的计算量是惊人的，需要昂贵的英伟达芯片，还需要大量的水去冷却数据中心。微软最近承认，OpenAI 最先进的大语言模型 GPT-4 是在微软位于爱荷华州的数据中心训练的，冷却用水抽取自浣熊河和得梅因河的分水岭。微软在其《2022 年环境可持续性报告》中披露，从 2021 年到 2022 年，该公司全球用水量大幅增长了 34%，接近 17 亿加仑，相比前几年，用水量急剧增加被认为源于 AI 研究，包括生成式 AI 以及微软与 OpenAI 的合作。此前有研究团队估计，每向 ChatGPT 提出 5 到 50 个提示或问题时，ChatGPT 会喝下 500 毫升的水。Google 也报告其数据中心用水量增长了五分之一，这也被认为与 AI 研究相关。OpenAI 和微软都表示正致力于提高 AI 模型训练效率。",
+          "link": "https://www.solidot.org/story?sid=76046",
+          "publishedOn": "2023-09-11T07:54:35.000Z",
+          "wordCount": 192,
+          "title": "微软和 Google 训练 AI 模型增加了水的消耗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76045",
+          "author": null,
+          "description": "去年九月 NASA 执行双小行星重定向测试(DART)任务的飞船成功撞击了名为 Dimorphos 的小行星。这是世界首次行星防御技术演示，撞击成功偏转了小行星轨道。撞击后的小行星产生了一片碎石场，天文学家利用哈勃望远镜在观测中了发现了数十个直径 4–7 米之间大石块。加州高中 Thacher School 的教师 Jonathan Swift 和其学生使用学校望远镜对 Dimorphos 展开了后续观测，发现其行为异常。在撞击一个多月后，Dimorphos 在持续放慢速度。一种解释是撞击后产生的大石块再次碰撞了小行星表面，进一步改变了其轨道。ESA 计划发射探测器 Hera，将在 2026 年抵达 Dimorphos，有望揭示更多信息。",
+          "link": "https://www.solidot.org/story?sid=76045",
+          "publishedOn": "2023-09-11T06:31:19.000Z",
+          "wordCount": 169,
+          "title": "一所高中对小行星 Dimorphos 的观测发现其行为异常",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76044",
+          "author": null,
+          "description": "两年前萨尔瓦多宣布将比特币作为美元之外的第二种法币，此举旨在降低跨境交易成本以及推动支付数字化。该国的汇款收入占到了 GDP 的五分之一。萨尔瓦多政府还多次斥巨资购买比特币。两年之后，比特币对于该国的金融系统没有产生任何影响。经济学家称该国的工资、服务和商品等一切经济行为仍然是以美元支付的。而比特币的币值相比两年前下跌了一半。居民基本不使用比特币汇款，对于加密货币缺乏信任。今年五月进行的一项调查显示，71% 的回应者表示加密货币没能改善家庭经济状况。对于起伏巨大的比特币币值，一位报贩认为简直是抢劫。至今为止不到 2% 跨境汇款是通过加密货币和数字钱包完成的，政府购买的比特币损失了 4540 万美元。",
+          "link": "https://www.solidot.org/story?sid=76044",
+          "publishedOn": "2023-09-11T05:44:43.000Z",
+          "wordCount": 149,
+          "title": "萨尔瓦多的比特币法币实验推行两年后",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76043",
+          "author": null,
+          "description": "Meta Platforms 正在开发一款新的 AI 系统，预计其功能将 OpenAI 提供的最先进模型一样强大。根据 Meta 的目标，其新 AI 模型将比两个月前发布的 Llama 2 强大数倍。新 AI 模型计划明年上线。Meta 目前正在搭建这项工作所需的数据中心，并购置更多的英伟达 H100 芯片。CEO 扎克伯格(Mark Zuckerberg)正推动这个新模型像 Meta 早些时候的 AI 产品一样实现开源，从而可以免费提供给构建 AI 驱动工具的公司。",
+          "link": "https://www.solidot.org/story?sid=76043",
+          "publishedOn": "2023-09-11T03:35:15.000Z",
+          "wordCount": 183,
+          "title": "Meta 开发新 AI 模型挑战 OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76042",
+          "author": null,
+          "description": "微软官方博客上月底表示，最新释出的 Windows 11 Insider Preview Build 23531 将在欧洲经济区（不包括英国）尊重用户的默认浏览器设置，Windows 系统组件将用默认浏览器而不是系统预装的 MS Edge 打开链接。然而测试显示，微软没有改变 Windows 11 的任何行为。AI 助手 Copilot、开始菜单、任务栏和桌面搜索、Windows Spotlight 以及微软第一方应用如 Outlook 等上的 Web 链接仍然强行使用 Edge 打开，没有使用用户默认的浏览器。在挪威和德国的测试结果都一样。",
+          "link": "https://www.solidot.org/story?sid=76042",
+          "publishedOn": "2023-09-11T03:05:24.000Z",
+          "wordCount": 173,
+          "title": "测试显示微软并没有改变欧洲地区 Edge 浏览器行为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76041",
+          "author": null,
+          "description": "美国内华达州和俄勒冈州交界的一个火山口发现了世界储藏量最大的锂矿床，其储量估计高达 2000-4000 万吨，超过了玻利维亚盐滩下发现的锂矿床。分析显示，火山口的粘土岩含有 1.3%- 2.4% 的锂。被称为 McDermitt 的火山口形成于 1640 万年前，当时喷发了大约 1000 平方公里的岩浆。火山口填满了富含钠钾锂的岩浆，岩浆冷却之后形成了火山岩和火成岩，风化后产生富含锂的颗粒。地质学家表示，如果储量估计正确，那么这将改变全球锂的价格、供应安全和相关地缘政治。",
+          "link": "https://www.solidot.org/story?sid=76041",
+          "publishedOn": "2023-09-10T15:29:38.000Z",
+          "wordCount": 152,
+          "title": "美国发现世界最大的锂矿床",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76040",
+          "author": null,
+          "description": "三大社交平台发布的反疫苗宣传视频中，有 12 个人占到相当大的比例。其中一人因其频道被 YouTube 封杀而提起诉讼。但法庭做出了有利于 YouTube 的裁决， 认为 YouTube 没有义务托管反疫苗宣传视频。Joseph Mercola 以违反用户合同和阻止他访问其视频为由索赔 7.5 万美元。法官 Laurel Beeler 表示，在 YouTube 以违反 COVID-19 和疫苗相关的社区准则封杀其频道后，它没有义务托管 Mercola 的内容。法庭认为 YouTube 没有违规行为，因为服务条款中没有规定要 YouTube 维护特定内容或成为用户内容的储存网站。法庭驳回了诉讼，且没有允许原告修改诉状。",
+          "link": "https://www.solidot.org/story?sid=76040",
+          "publishedOn": "2023-09-10T14:58:02.000Z",
+          "wordCount": 175,
+          "title": "法庭裁决 YouTube 没有义务托管反疫苗宣传视频",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76039",
+          "author": null,
+          "description": "当夏季电力需求超过供应时，美国德州电力部门 Electric Reliability Council of Texas (ERCOT)会推行一项政策，鼓励高耗电企业停产或减少运营活动，以将更多电力留在电网。高耗电企业可以从中积累名为能源信用（energy credits）的积分换取现金。比特币矿场是耗电大户，一家位于德州的矿场披露该公司上个月通过减产获得的收入远远超过挖矿所得。Riot Platforms 称它上个月从德州电力部门获得了 3170 万美元的收入，而它的矿机上个月共挖出 333 个比特币，其价值不到 900 万美元。该矿场去年 8 月也通过类似方法获得了 950 万美元。",
+          "link": "https://www.solidot.org/story?sid=76039",
+          "publishedOn": "2023-09-10T14:25:55.000Z",
+          "wordCount": 160,
+          "title": "比特币矿场从德州电力部门获得的收入超过挖矿所得",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76038",
           "author": null,
@@ -3503,36 +3653,6 @@
           "wordCount": 149,
           "title": "罗马共和国晚期的律师",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75780",
-          "author": null,
-          "description": "去年二月，俄罗斯入侵乌克兰占领了人类历史上最严重核灾难发生地切尔诺贝利。随后传感器显示当地的辐射值提高了。乌克兰核监管机构认为，这可能是由于重型军用车辆搅动了仍然受到 1986 年事故污染的土壤造成的。这一解释被广泛接受。但一组环境学家发表论文认为搅动土壤不可能造成辐射值提高，认为真正的原因是电子战武器造成的干扰。现在一位网络安全专家 Ruben Santamarta 在分析了数据模式后认为辐射值提高很可能是网络攻击造成的，黑客远程或能直接访问服务器的人纂改了数据。如果数据真的被操纵，这可能会破坏对辐射监测系统的信任，改变数据公开发表的方法。辐射监测系统的数据是接近实时公布的，如果数据能被纂改，那么攻击者能在数据被验证前引发公众恐慌。",
-          "link": "https://www.solidot.org/story?sid=75780",
-          "publishedOn": "2023-08-12T14:46:19.000Z",
-          "wordCount": 146,
-          "title": "研究员认为切尔诺贝利辐射值被操纵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75779",
-          "author": null,
-          "description": "2008 年 8 月初，几位 MIT 学生准备在拉斯维加斯举行的黑客大会  Defcon 上谈论他们找到方法免费搭乘波士顿的地铁系统。但波士顿地铁管理机构 MBTA 提起了诉讼并获得了限制令，禁止他们发表演讲。演讲被取消，但学生们制作的幻灯片在与会者中间广泛传播并发布在网上。2021 年夏天 15 岁高中生 Matty Harris 和 Zachary Bertocchi 在搭乘波士顿地铁时谈论了此事，他们好奇是否能重复 MIT 学生的工作，实现免费搭乘地铁。他们一开始认为不可能，因为此事被广泛报道，波士顿地铁应该早就修复了问题。他们发现，波士顿地铁并没有修复问题。他们在今年举行的 Defcon 黑客大会上谈论了他们的研究结果，这一次没人起诉他们。两名高中生和他们的黑客朋友 Noah Gibson 和 Scott Campbell 扩展了 MIT 学生的工作。MIT 学生当时针对的是磁卡，而 MBTA 已经淘汰了磁卡采用了 RFID 非接触式智能卡 CharlieCard。他们对卡进行了逆向工程，能对卡片任意充值，甚至能提供可以无限免费乘车的 MBTA 员工卡。这几位青少年称，MBTA 邀请他们前往其总部，并礼貌的请求他们隐藏部分技术细节，增加其他黑客复制的难度。",
-          "link": "https://www.solidot.org/story?sid=75779",
-          "publishedOn": "2023-08-12T14:28:42.000Z",
-          "wordCount": 188,
-          "title": "两名青少年时隔 15 年再次破解波士顿地铁卡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75778",
-          "author": null,
-          "description": "德州要求成人网站验证用户年龄的法律将于 9 月 1 日生效，知名成人网站 Pornhub、成人行业组织 Free Speech Coalition，以及多家网站运营者和行业成员于 8 月 4 日向德州西区地方法院提起诉讼，寻求阻止该法律的实施。原告方认为该法律违反了美国宪法以及联邦的通信规范法。起诉书认为，法案使用了最无效但限制最严格的方法最实现保护未成年人的目的，而未成年人很容易通过 VPN 或 Tor 绕过。原告认为，基于设备的内容过滤是更有效的限制未成年人访问成人内容的方法，“但这种更有效限制更少的方法对德州并不重要，因为它的真正目的不是保护未成年人，而是压制受宪法保护的言论自由。”",
-          "link": "https://www.solidot.org/story?sid=75778",
-          "publishedOn": "2023-08-12T13:39:52.000Z",
-          "wordCount": 161,
-          "title": "Pornhub 等就年龄验证法律起诉德州",
-          "imageUrl": null
         }
       ]
     },
@@ -3541,6 +3661,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/750178/",
+          "author": null,
+          "description": "科技日报北京 9 月 11 日电 （记者刘霞）美国和法国天文学家发现了首个“星系气泡”，这是一个难以想象的巨大宇宙结构，被认为是宇宙大爆炸后遗留在银河系“后院”的化石残骸。这个气泡横跨约 10 亿光年，宽度是银河系的 1 万倍，距离银河系仅 8.2 亿光年。相关论文刊发于最新一期《天体物理杂志》。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/750178/",
+          "publishedOn": "2023-09-12T00:40:09.000Z",
+          "wordCount": 163,
+          "title": "天文学家发现巨大“星系气泡”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750177/",
+          "author": null,
+          "description": "电商的低价战争仍在持续。 近期，京东宣布下调自营商品包邮门槛的消息传递出火药味。此前在京东购买自营商品，订单金额满 99 元才能包邮，如今门槛已经降到 59 元。有分析指出，这一番动作让整个电商行业更加内卷。 今年以来，以阿里、京东和拼多多为代表的三家电商巨头开始围绕着低价进行竞争，在争抢用户、商家\n本文链接",
+          "link": "https://news.cnblogs.com/n/750177/",
+          "publishedOn": "2023-09-12T00:13:00.000Z",
+          "wordCount": 163,
+          "title": "除了低价，电商没有别的招",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750175/",
+          "author": null,
+          "description": "坑多、钱少，麻烦多。 定焦（dingjiaoone）原创 作者向园 编辑方展博 午夜 1 点的直播间，一位女主播还在引导用户购买团购券。“她”是王力餐饮店的主播，最长记录持续卖货 13 个小时，偶尔有路过的观众提问，“她”也没有回应。 这位主播并非真人，是王力花两千多元买来的数字人，使用权一年。 “\n本文链接",
+          "link": "https://news.cnblogs.com/n/750175/",
+          "publishedOn": "2023-09-12T00:07:35.000Z",
+          "wordCount": 163,
+          "title": "抖音“嫌弃”数字人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750174/",
+          "author": null,
+          "description": "记者严利婷 特斯拉在纯电市场卷，比亚迪则在混动市场卷，两大巨头持续搅动电动车的变革浪潮。 9 月 6 日，作为比亚迪海洋网的重磅战略车型，预热数月的海豹 DM-i 正式上市。新车共设有 6 种不同的车型，本次上市发布会之前，这款车已经在刚刚闭幕的成都车展上启动预售，当时，官方给出的预售价为 17.6\n本文链接",
+          "link": "https://news.cnblogs.com/n/750174/",
+          "publishedOn": "2023-09-12T00:07:04.000Z",
+          "wordCount": 163,
+          "title": "比亚迪二度进攻B级轿车市场 海豹DM-i起售价下探至16.68万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750176/",
+          "author": null,
+          "description": "\"这家华为授权体验店跟我说要绑两年‘碎屏险’，不绑不给买。\"\"不加‘碎屏险’的钱，买不到或不让买，授权店 6999 元还不够赚吗？\"……近日，华为 Mate60 系列一经发售便引发抢购热潮，虽然一机难求已见怪不怪，但有不少网友发文吐槽\"捆绑\"销售很离谱。 根据网友所说的华为 Mate60 系列被\"捆\n本文链接",
+          "link": "https://news.cnblogs.com/n/750176/",
+          "publishedOn": "2023-09-12T00:07:00.000Z",
+          "wordCount": 163,
+          "title": "不加“碎屏险”买不到！华为Mate 60“捆绑”保险被吐槽，究竟咋回事？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750173/",
+          "author": null,
+          "description": "9 月 11 日，王腾通过其个人微博宣布，在结束两年线下轮岗后重新回到小米总部，已担任 Redmi 品牌发言人、Redmi 市场部总经理。王腾透露，本月会发布新品 Note 13 系列。\n本文链接",
+          "link": "https://news.cnblogs.com/n/750173/",
+          "publishedOn": "2023-09-12T00:06:45.000Z",
+          "wordCount": 163,
+          "title": "王腾重回小米总部，担任Redmi市场部总经理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750172/",
+          "author": null,
+          "description": "IT 之家 9 月 11 日消息，SpaceX 今年几乎每天都在进行发射，该公司日前从肯尼迪航天中心发射的火箭目前刷新了单年猎鹰 9 号火箭发射纪录，这次任务是 SpaceX 今年第 62 次使用猎鹰 9 号或猎鹰重型火箭进行发射，截至 IT 之家发稿，SpaceX 又发射了一枚猎鹰火箭，如果算上 \n本文链接",
+          "link": "https://news.cnblogs.com/n/750172/",
+          "publishedOn": "2023-09-12T00:06:25.000Z",
+          "wordCount": 163,
+          "title": "SpaceX 刷新单年猎鹰火箭发射纪录，今年发射已达 64 次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750171/",
+          "author": null,
+          "description": "克雷西发自凹非寺 量子位公众号 QbitAI 大模型的推理速度，仅仅一个月就提高了一倍！ 英伟达近日官宣给 H100 推出了“鸡血包”——专用于 LLM 推理的加速程序。 或许这下可以不用空等明年才能交付的 GH200 了（手动狗头）。 GPU 的运算能力一直影响着大模型的表现，无论是硬件提供者还是\n本文链接",
+          "link": "https://news.cnblogs.com/n/750171/",
+          "publishedOn": "2023-09-12T00:05:00.000Z",
+          "wordCount": 163,
+          "title": "老黄给H100打鸡血：英伟达推出大模型加速包，Llama2推理速度翻倍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750170/",
+          "author": null,
+          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 提示词中加上“深呼吸”，AI 大模型数学成绩就能再涨 8.4 分！ 谷歌 DeepMind 团队最新发现，用这个新“咒语”（Take a deep breath）结合大家已经熟悉的“一步一步地想”（Let’s think step by step），大模型\n本文链接",
+          "link": "https://news.cnblogs.com/n/750170/",
+          "publishedOn": "2023-09-12T00:03:00.000Z",
+          "wordCount": 163,
+          "title": "大模型靠“深呼吸”数学再涨8分！AI自己设计提示词效果胜人类",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750169/",
+          "author": null,
+          "description": "贾浩楠发自副驾寺智能车参考公众号 AI4Auto 成熟的“擎天柱”，已经可以自己出去赚钱了。 此时此刻，遍及华东、华北、华南、西北…几乎全国所有主要货运干线上，都有智能重卡承运商单。 高速路段由卡车智能驾驶系统完全承担驾驶任务，自主控制油门、刹车，自主车道保持、自动巡航： 以及根据实时路况自主或拨杆\n本文链接",
+          "link": "https://news.cnblogs.com/n/750169/",
+          "publishedOn": "2023-09-12T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "中国智能卡车遥遥领先：卡车NOA落地5000万公里0事故，全球首个",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750168/",
+          "author": null,
+          "description": "丰色发自凹非寺 量子位公众号 QbitAI 马斯克最新直播的端到端自动驾驶： 特斯拉 FSD V12，是如何炼成的？ 传记作家 Walter Isaacson 在他即将出版的《Elon Musk》中，提前剧透了一部分内容。 据介绍，为了实现完全神经网络而非代码控制，该系统每天从特斯拉车队获取约160\n本文链接",
+          "link": "https://news.cnblogs.com/n/750168/",
+          "publishedOn": "2023-09-11T13:10:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克的端到端自动驾驶怎么炼成的？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750167/",
+          "author": null,
+          "description": "白交发自凹非寺 量子位公众号 QbitAI 尴尬了，物理论文把 ChatGPT 按钮也复制了进去。 结果不仅通过了两个月同行评审，甚至最终在杂志上公开发表。 而发现这一现象的正是知名打假人法国图卢兹大学副教授Guillaume Cabanac，曾入选 Nature 年度十大人物。 Nature 最新\n本文链接",
+          "link": "https://news.cnblogs.com/n/750167/",
+          "publishedOn": "2023-09-11T13:00:00.000Z",
+          "wordCount": 163,
+          "title": "尴尬了！用ChatGPT写论文忘删生成按钮，出版商：撤稿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750166/",
+          "author": null,
+          "description": "AITO 问界正在加快新车上市步伐。华为终端 9 月 10 日宣布，将于 9 月 12 日发布问界 M7 大五座新车。随着新车发布，AITO 问界车型矩阵将囊括 M5、M5 纯电版、M5 智驾版、M5 纯电智驾版、M7、M7 大五座，AITO 问界第四季度还拟发布 M9。 AITO 问界是华为与赛力\n本文链接",
+          "link": "https://news.cnblogs.com/n/750166/",
+          "publishedOn": "2023-09-11T12:50:00.000Z",
+          "wordCount": 163,
+          "title": "问界将发布新M7车型，华为“造车”窗口期还有多久？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750165/",
+          "author": null,
+          "description": "2023 年上半年，商汤智能汽车业务营收 0.84 亿元，同比下滑 30.5% 图源：商汤科技官网 文顾翎羽刘以秦 编辑 刘以秦 近日，有消息称 AI 公司商汤科技将分拆其智能汽车业务“绝影”，并独立融资。一位商汤人士向《财经十一人》确认了这一消息。商汤相关负责人表示，对于市场传言，公司不予置评。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/750165/",
+          "publishedOn": "2023-09-11T12:45:00.000Z",
+          "wordCount": 163,
+          "title": "商汤智能汽车业务或将分拆独立融资",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750164/",
+          "author": null,
+          "description": "9 月 11 日消息，据外媒报道，知名市场研究公司 Sensor Tower 上周开始裁员。来自多方渠道的信息显示，包括首席营销官、首席财务官和首席产品官在内的数名高管悉数被裁。 Sensor Tower 是一家研究移动应用市场的数据分析公司。据统计，公司上周裁掉了 270 多名员工中的 40 多名\n本文链接",
+          "link": "https://news.cnblogs.com/n/750164/",
+          "publishedOn": "2023-09-11T12:40:00.000Z",
+          "wordCount": 163,
+          "title": "市场分析公司Sensor Tower宣布裁员：CFO、CMO等高管也未能幸免",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750163/",
+          "author": null,
+          "description": "前两天，一个老生常谈的话题引爆了互联网，连续两天上了微博热搜。 它叫「 信息茧房 」。 不少人之前就听过这词，也了解过它，但这次大家反应这么大，是因为这是他们第一次，如此直观地面对信息茧房。 事情是这样的。 有网友发现，在一个内容关于情侣吵架的视频下方，不同账号看到的评论区是不一样的。 他的账号看到\n本文链接",
+          "link": "https://news.cnblogs.com/n/750163/",
+          "publishedOn": "2023-09-11T12:32:00.000Z",
+          "wordCount": 163,
+          "title": "男性和女性的评论区不一样，算法连这也不放过了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750162/",
+          "author": null,
+          "description": "图片来源：ICphoto 9 月 10 日深夜，阿里巴巴新任董事会主席蔡崇信发布全员信称，已按计划完成集团管理职务交接，由他接任集团董事会主席职务，吴泳铭出任集团 CEO。尽管启用老人比较意外，但这也是阿里早已预告过的人事更替。 同时，阿里董事会还接受了张勇卸任阿里云董事长与 CEO 职务的请求该职\n本文链接",
+          "link": "https://news.cnblogs.com/n/750162/",
+          "publishedOn": "2023-09-11T08:10:00.000Z",
+          "wordCount": 163,
+          "title": "彻底告别张勇，阿里巴巴的元老们又陆续回来了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750161/",
+          "author": null,
+          "description": "在 9 月 10 日开幕的浦江创新论坛上，中国商用飞机有限责任公司党委书记、董事长贺东风介绍了“中国大飞机的创新发展”，其中提到国产 C919 客机目前已交付 2 架飞机，订单已经达到 1061 架。 去年东航接收了全球首架 C919 客机，并于上半年投入商业运营。目前东航共接收了两架 C919 飞\n本文链接",
+          "link": "https://news.cnblogs.com/n/750161/",
+          "publishedOn": "2023-09-11T08:00:00.000Z",
+          "wordCount": 163,
+          "title": "国产C919飞机订单超千架，正在设计的宽体客机也改名了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750160/",
+          "author": null,
+          "description": "9 月 1 日，特斯拉 Model 3 焕新版正式上市，为这个发布了 7 年的老车型注入了新的活力。 但令人始料未及的是，Model 3 的起售价从原来的 23.19 万元，上涨到了 25.99 万元，长续航版本的售价更是来到了 29.59 万元。 这让人不禁生疑，幅度如此之大的价格上调是否合理？尤\n本文链接",
+          "link": "https://news.cnblogs.com/n/750160/",
+          "publishedOn": "2023-09-11T07:53:00.000Z",
+          "wordCount": 163,
+          "title": "即将降价？Model 3 的定价背后，藏着特斯拉的小心机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750159/",
+          "author": null,
+          "description": "近日，一名德国工程师和汽车爱好者在海外社交媒体发文表示，大众汽车的技术总监格鲁尼茨（Grünitz）宣称，大众汽车在纯电动汽车上赚不到钱，目前仍需内燃机业务来维持利润，将放慢新纯电车型的推出速度。 对此，特斯拉 CEO 埃隆·马斯克评论道，包括大众在内的传统汽车制造商必须迅速转向自动驾驶电动汽车，否\n本文链接",
+          "link": "https://news.cnblogs.com/n/750159/",
+          "publishedOn": "2023-09-11T07:45:00.000Z",
+          "wordCount": 163,
+          "title": "大众高管称放缓推出纯电新车型速度，马斯克警告“必须迅速转型”",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/750097/",
           "author": null,
@@ -8780,66 +9100,6 @@
           "wordCount": 163,
           "title": "GPT-4最强平替更新！UC伯克利发布Vicuna v1.5，支持4K和16K上下文，刷新SOTA，LeCun转赞",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747546/",
-          "author": null,
-          "description": "梦晨克雷西发自凹非寺 量子位公众号 QbitAI 炼大模型最佳 GPU英伟达 H100，全部卖空了！ 即使现在立即订购，也要等2024 年 Q1 甚至 Q2才能用上。 这是与英伟达关系密切的云厂商 CoreWeave 对华尔街日报透露的最新消息。 从 4 月初开始，供应就变得异常紧张。仅仅一周之内，\n本文链接",
-          "link": "https://news.cnblogs.com/n/747546/",
-          "publishedOn": "2023-08-13T03:54:00.000Z",
-          "wordCount": 163,
-          "title": "老黄赢麻了！英伟达H100订单排到24年，马斯克都坐不住了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747545/",
-          "author": null,
-          "description": "萧箫发自凹非寺 量子位公众号 QbitAI 哪怕只有几十个神经元，AI 也能出现泛化能力！ 这是几个谷歌科学家在搞正经研究时，“不经意间”发现的新成果。 他们给一些很简单的 AI 模型“照了个X光”——将它们的训练过程可视化后，发现了有意思的现象： 随着训练时间增加，一些 AI 会从“死记硬背”的状\n本文链接",
-          "link": "https://news.cnblogs.com/n/747545/",
-          "publishedOn": "2023-08-13T02:30:00.000Z",
-          "wordCount": 163,
-          "title": "谷歌发现大模型「领悟」现象！训练久了不再死记，多么痛的领悟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747544/",
-          "author": null,
-          "description": "西风发自凹非寺 量子位公众号 QbitAI 物理界 67 年前预言的“恶魔”现世了！ 不过别慌，此恶魔非彼恶魔，不吃小孩（手动狗头）。 它来自于 1956 年理论物理学家 David Pines 的预言——固体金属中，通常情况下具有质量和电荷的电子，可以结合形成的一种无质量、电中性，且不与光发生相互\n本文链接",
-          "link": "https://news.cnblogs.com/n/747544/",
-          "publishedOn": "2023-08-13T01:00:00.000Z",
-          "wordCount": 163,
-          "title": "物理学家67年前预测的「恶魔」现世登Nature：偶然在超导体中发现",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747543/",
-          "author": null,
-          "description": "西风明敏发自凹非寺 量子位公众号 QbitAI AI 工具秒做电商图，一张只要一块钱，成本直降 99%！ 随便上传一张照片，服饰不变，改头换脸： 足不出户即可配入各种背景，光影也能自然呈现： 小哥哥也有哦，还能自动补全扩展，任意改变图片大小： 哪怕没有真人图，只有人台照，也可展示上身效果： 甚至可以\n本文链接",
-          "link": "https://news.cnblogs.com/n/747543/",
-          "publishedOn": "2023-08-12T13:20:00.000Z",
-          "wordCount": 163,
-          "title": "电商模特1元购，人图背景随便换！国产AI工具降本99%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747542/",
-          "author": null,
-          "description": "尚恩发自凹非寺 量子位公众号 QbitAI Arm 今年 9 月上市，亚马逊也想来参一脚了！ 据路透社消息，亚马逊正在接触 Arm，希望作为锚定投资者参与 Arm 的首次 IPO。 目前，包括苹果、三星电子、英伟达、英特尔在内的多家公司，都计划在 Arm 美股上市后立即投资。 不过据消息人士称，这些\n本文链接",
-          "link": "https://news.cnblogs.com/n/747542/",
-          "publishedOn": "2023-08-12T13:10:00.000Z",
-          "wordCount": 163,
-          "title": "科技巨头抢在Arm上市前砸钱，苹果英伟达跟进，IPO估值或达600亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747541/",
-          "author": null,
-          "description": "8 月 12 日消息，根据中国证券监督管理委员会 8 月 10 日发布的公告，全球激光雷达及解决方案提供商图达通（Innovusion）计划发行 21382252 股普通股，并计划在纳斯达克交易所上市。 中国企业在美上市原本不需要向本国监管机构报告，不过中国证监会在 2021 年底出台了新规，强制实\n本文链接",
-          "link": "https://news.cnblogs.com/n/747541/",
-          "publishedOn": "2023-08-12T13:00:00.000Z",
-          "wordCount": 163,
-          "title": "蔚来汽车LiDAR供应商Innovusion计划纳斯达克上市",
-          "imageUrl": null
         }
       ]
     },
@@ -8848,6 +9108,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23260",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新手推荐\n🐕 Hidden feature: static properties\n@极速男孩：Swift 的静态属性具有一项隐藏特性：它们是隐式懒加载的，只在首次访问时初始化。这意味着，即使应用中有许多静态属性，它们也不会在应用启动时全部初始化，从而优化性能。若尝试显式地用 lazy 关键字声明静态属性，Swift 会报错，因为静态属性已经是懒加载的。\n文章\n🐕 C++ 知识体系总结：语言核心与代码工程\n@莲叔：这篇文章初看下属于谁看了必然会收藏但大概率不会看的文章。但看完后又给我很不一样的体感，虽然文章较长而且涉及的点比较多，但并不是单纯追求大而全，而是围绕 C++ 一些常用的新特性进行了介绍，根据我的经验在现代 C++ 的项目里几乎都会用到里面介绍的特性，同时每个特性都包含示例代码帮忙理解，大幅提高了学习的效率。对于工作中需要和 C++ 打交道的同学来说是很不错的资料。\n🐎 The new Swift section in binaries built with Swift 5.9 and Xcode 15, __TEXT/__constg_swift\n@kemchenj：Swift 在运行时经常需要遍历查询类型的元信息，但 Swift 编译链接后的二进制产物里，类型的元信息是各自分散的，导致启动时会频繁触发 page fault，并且 CPU 缓存命中率也会下降。\n在即将发布的 Swift 5.9 里，编译器会将这些信息集中存放到各自的 Section 里，改善前面提到的问题。\n🐕 一线大厂程序员的考公上岸心得\n@老驴：一篇和我们之前推荐的很不一样的文章，是一位之前在微软的 Edge …",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23260",
+          "publishedOn": "2023-09-11T06:20:59.000Z",
+          "wordCount": 556,
+          "title": "老司机 iOS 周报 #260 | 2023-09-11",
+          "imageUrl": "https://opengraph.githubassets.com/8202b8c3074c80431f626d6b549adb87d2cb5f95b67b48ce33b67c4758902209/SwiftOldDriver/iOS-Weekly/releases/tag/%23260"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23259",
           "author": null,
