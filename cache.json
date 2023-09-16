@@ -69,6 +69,26 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/82927",
+          "author": "李雨",
+          "description": "起源\n以前，经常有朋友给我说一个事情，让我记着。但是，当到结果眼时，我经常就忘记了，搞的十分刚发。或者，有时候某些说过某些固执的言语，但是又过段时间说相反的话，或者干出与但是言语不同的事。\n所以，我就想做个能记录朋友间事情和承诺的工具，让一些事情能进行提醒，且能对性格、言语和承诺有据可查。\n但是，在设计这个工具时候，我发现，其实我们更缺的是一个类似 CRM 的朋友管理工具。\n因为，我逐渐发现，我们在日常使用 app 记录很多内容时，其实都是以某个人维度的。比如，记录日记、设置待办、记账、纪念日等，其实都是和某个人息息相关。甚至，80% 的记录都是和人有关的。\n那么，我们也应该需要一个从人的角度来记录的工具。也就是从朋友维度，记录一些内容。\n在则，如何和所有朋友保持良好的关系？我们除了真诚待人，也需要合理的方法来维护朋友的关系。既然有方法，那么也可以有一款称手的工具。\n特别是，我们情商低一些，粗心一些，口笨一些，我们更需要这样一款工具来帮助自己。\n两者一结合，我觉得我们需要的就是一款类似 CRM(客户关系管理系统)的工具。能将我们的朋友资料，交友过程管理起来，给出恰当的提醒和智能的建议。\n所以，我就准备开发「我是鱼」这样一款个人使用的朋友关系管理工具。类似 CRM 一样，「我是鱼」就是FRM（Friends Relationship Management）。\n目标\n我在app设计上，「我是鱼」主要是帮助大家和朋友维护一个良好关系。所以，定了这样一些产品的目标：\n1.可以记录朋友的基础信息（当然不限于朋友，亲朋好友）。比如：爱好、口味等等。\n2.可以记录与朋友间的往来或者事情。比如，一些重要的话、重要的事、见面的来往、金钱的       往来等等。\n    是要将这些内容，结构化的分门别类记录。而不仅仅是个备忘录。\n3.能够通过标签、分类等，对朋友和圈子进行划分。\n4.能够在与…",
+          "link": "https://sspai.com/post/82927",
+          "publishedOn": "2023-09-15T02:11:50.000Z",
+          "wordCount": 661,
+          "title": "管理朋友关系，应该也需要好用的人际关系 app",
+          "imageUrl": "https://cdn.sspai.com/2023/09/13/4645b5365c5b16bc51469c7319d07931.png"
+        },
+        {
+          "id": "https://sspai.com/post/82856",
+          "author": "Ankisan",
+          "description": "在先前的文章（《一个人也可以是「大厂」：三年程序员的生活规划心路分享》、《\n为了重拾对生活的「掌控感」，我做了一款 iOS 应用》）中，笔者分享了我的生活规划整体思路，以及任务和目标应该怎么设置。但不免感觉需要关注的点太多了，对于想要改变现状的朋友上手较为复杂。\n回顾我过去的工作生活，如果选择最重要的一个观点，那就是“要管理你的精力，而非时间”。\n为什么这么说？\n我们能从自己过去的生活中轻松找到各种各样的支撑案例：游泳只需要不到半个小时，就足够让你饿得腿软。初高中一节课45分钟，大部分时间都是左耳进而右耳出，只有少数的时间在专注地吸收。坐在桌前能磨磨蹭蹭数小时，但全神贯注干活之后发现半小时已经够完成大半了。\n如果你有很多时间却只有一点精力，就仿佛之前被工作掏空的我，周末磨磨蹭蹭或许能做一点点事情，但大多时候也只能休息和放松。如果只有一点时间却有很多精力，全神贯注下高强度冲刺反而能达到不错的效果。\n因此在笔者眼中，精力就好比小说中武林高手的内力，大部分时候抠搜地使用，要用时集中一点全力出手。\n\n \n本文围绕精力管理，分为如下几个部分：\n\n精力是什么\n怎么增加我的精力\n怎么节省我的精力\n一套今天就能开始的精力修炼秘籍\n《生活规划》助你修炼\n\n精力是什么\n精力一般是体力和精神力合称，但是现代生活中我们主要从事的是脑力劳动，消耗和使用的是精神力，因此后文的精力没有特别说明的话，一般指的都是精神力。\n《精力管理》一书中将精力拆分成了体能、情感、思维、意志四个维度，个人感觉属于高阶玩法，对于大部分人来说，统一看作是练武的内力进行管理就已经足够了。\n现在回想我们的一天，刚起床的时候大脑迷迷糊糊，进入工作状态后精神抖擞，下班后感觉被榨干只想葛优躺。反复对比这三个状态，你大概就能感知到自己的精力了。\n影响精力因素有很多，有自然周期的影响，例如女生的大姨妈或者男生的精神大姨妈。也有饮食、情绪、…",
+          "link": "https://sspai.com/post/82856",
+          "publishedOn": "2023-09-15T01:54:05.000Z",
+          "wordCount": 622,
+          "title": "时间不重要，重要的是你的精力",
+          "imageUrl": "https://cdn.sspai.com/2023/09/11/25ac4b962e709e1690f15e66c347ac3e.png"
+        },
+        {
           "id": "https://sspai.com/post/82929",
           "author": "Ennea",
           "description": "Via 浏览器\n前言\n虽然说现在很多内容都困在 APP 里面，但 Web 生态依然能大大的扩展手机的应用场景，我大部分时间刷少数派用的都是手机浏览器，Web 浏览器是我在移动端最常用的工具类软件，也是应用开发的热点，各式各样的浏览器琳琅满目。受限于移动平台的性能，很多手机浏览器要么就是功能简陋，要么就是太过沉重。国产大厂浏览器被劣质信息流塞满，Chrome 功能简陋，Firefox 官方版本现在依然只能安装少数插件，kiwi 和狐猴可以安装插件也是我之前主用的手机浏览器，却有些笨重，夸克是我很喜欢的一款手机浏览器，也用了很久，现在功能也非常强大，不过很多功能其实都不是浏览器本身的功能，书签也无法多端互通，我现在更多的把 ta 作为一个工具箱来使用。\n在 Via 浏览器 最新版支持多级书签文件夹同步后，Via 浏览器渐渐的成为了我的主力浏览器，并惊奇的发现虽然 Via 安装包不到 2 M 大小，却已经强悍到几乎可以满足我对浏览器的所有需求，以前需要用浏览器插件实现的功能大部分都能实现。使用 Via 的感觉就像是热刀切黄油，非常丝滑，指哪打哪，是我目前使用的最为趁手的手机浏览器。\n云 ☁️\n我对手机浏览器的第一个需求就是能够与电脑端浏览器同步书签，这样电脑保存的链接可以随时在手机里打开，手机上浏览的网页添加书签后同样可以在电脑进一步处理。Chrome 谷歌家的同步在国内不可用，Edge 微软同步倒是可以正常使用，不过 Edge 本土化不够、功能欠缺。之前我是使用能够安装插件的浏览器，比如 kiwi 浏览器和狐猴浏览器，安装 floccus bookmarks sync 插件，使用坚果云 Webdav 在不同设备间同步书签，电脑端也是用 Chrome、Firefox 安装 floccus 插件来同步书签，使用方法可参考 Floccus - 跨平台浏览器「书签同步」插件。\n而 Vi…",
@@ -89,6 +109,16 @@
           "imageUrl": "https://cdn.sspai.com/2023/09/11/5ab20f6931570d0064812f6863b779ed.png"
         },
         {
+          "id": "https://sspai.com/post/82849",
+          "author": "Jonny_Yu",
+          "description": "想换车已经很久了，虽然一直在看车，也一直在修我的旧车。旧车是大学同学送给我的，他离开北京回家之后，这辆车带不走就给了我。刚拿到的时候因为在学校里风吹日晒了大半年，本来就已经锈迹斑斑，前变速线还是断的，去车店里花钱换了一根，什么也不懂，就这样先骑着了。\n从毕业那天开始，我基本上每天都会骑它。在平安工作的一年多里，我没坐过地铁，没打过车，每一天，每一次，都是骑这辆自行车。下雨，我就穿一件冲锋衣，冲过去，到公司再用纸擦干头发，擦干裤子；冬天极寒的天气，我买了面罩，眼罩，把自己包裹得严丝合缝，带上厚厚的手套，对抗寒风。这辆车陪我去了太多地方，因为实在太旧，我也一直随意地把它锁在路边，没有人偷。\n \n\n想换新车，是因为大修了好几次，一直没有彻底修好。后变速器不太好使，前叉避震完全生锈了，刹车片上的油污也一直没洗掉，即使我换了全新的刹车盘和来令片，过了两天还是继续出现啸叫的情况，刹车也没有那么灵敏。我彻底放弃了。\n至于买什么车， 也有很大的讲究。一直是想换公路车，山地在城市道路里没有太大意义。弯把公路的操控还是不太熟练，感觉风险比较高，再加上最近平把公路车大热，于是就选择了平把公路。\n当然平把公路里也有很多选择，比如最近大火的Escape1，喜德盛的极速300，还有一些没那么火的车型。选来选去，最后还是选了迪卡侬的Speed900\nSpeed900和escape1是同一个价位，但是单论配置完全被escape1吊打，油刹、变速、前叉，都不如escape1。唯一的高配就是挡泥板（笑死），speed900可能是唯一原厂配备挡泥板的车型，而且这块挡泥板非常好看，和轮组完美贴合，毫无违和感，并且是软塑料的材质，很有质感。买这台车的人估计有一半是冲着这个挡泥板去的。\nSpeed900的另一个广为诟病的特性是激进的几何，导致骑行姿势趴得很低，很难受。但这个其实反而是我需要的，这款车的定位就是快速通勤，如何定义一个快速呢，就在轻量化的车身和几何设计上。对我来说，赶时间的通勤速度非常重要，Speed900可以让我在每一个红绿灯快速起步，赶上打卡:)\n不选择escape1的另一个原因是我其实想要一个单盘变速，Speed900 1x8的变速能很好满足我的需求，因为之前骑山地的时候就知道自己不喜欢前后变来变去，不需要那么宽的使用场景，再加上变速器也是个难伺候的主，维护很麻烦，所以能精简一点就精简一点，单盘很香。\n另一个最大的优点就是颜值，二八大杠加上极具动感的下杠，美鼠了。\n这段时间每天20km骑下来，整体感受还是挺好的，路况好的时候轻轻松松上30-35，避震有点像Model 3的感觉，很震，也很扎实，32c的胎安全感也很足，过弯过井盖的时候都很有信心。\n \n\n说完了优点要开始说缺点了。\n首先是脚踏很一般，不够润，就是个普通的塑料脚踏。\n其次刹车不是油刹，虽然反应也很灵敏，但我也不知道为什么很容易被污染，就下雨骑过一次，也没有溅到油，刹车性能就开始下降，而且越来越差，中间我洗过两次，各种方法都用过，收效甚微，准备洗车的时候让师傅处理了，我没办法了。\n最后是这个激进的几何设计，确实趴久了手疼，不得不买了个手套。\n \n\n总体上我认为Speed900是定位比较小众的一台车，适合像我这样有快速通勤需求的人群。如果是打算专业混骑行圈，escape1的配置确实会更香。",
+          "link": "https://sspai.com/post/82849",
+          "publishedOn": "2023-09-14T02:08:41.000Z",
+          "wordCount": 608,
+          "title": "第一台平把公路车 Speed900",
+          "imageUrl": "https://cdn.sspai.com/2023/09/11/ea1f6fd808177bc761ad0bddef948540.jpg"
+        },
+        {
           "id": "https://sspai.com/post/82928",
           "author": "LEO",
           "description": "大概在十年前，当时国内还未普及智能手表和手环的时候，我通过海淘和漫长的等待，终于拿到了第二代 Jawbone UP2 智能手环，当时最让我着迷的是它的睡眠监测功能，后来也尝试了 Sleep Cycle ，睡前仪式感满满的将手机放枕边，充着电记录睡眠，随着时间的推移，新鲜感渐渐消失，我也没有坚持使用下去。\n后来，在我买到自己的第一个Apple Watch Series 3 时，付费下载了AutoSleep，开始尝试戴着 Apple Watch入睡，自动监测替代了手动记录，这个习惯一直持续了好几年，直至今日。\n当我在告诉身边的朋友我想做一款睡眠App时，他们问的最多的问题是： 「市面上已经有这么多睡眠App了，你为什么还要做一款新的？」、「记睡眠准不准？」以及「用这些 App真的就会睡的好吗？」\n这三个问题一直贯穿着我开发 NapNap 的始终，作为经常熬夜失眠星人，想和大家聊聊在睡眠这件事上的思考。\n为什么要做 NapNap？\n在用过众多睡眠应用当中，AutoSleep 凭借独特的算法优势和无需手动开启的便利脱颖而出，它的睡眠记录和身体感受最为接近，而且可以根据个人习惯进行手动调整和修正。然而，它也是最复杂和难用的一个，很多人吐槽复杂的图表和臃肿的功能模块，每个仪表盘上数字都试图跳出来刺激你，你不知道为什么要看这些，也不知道要做些什么。作为备受推崇推的睡眠代表应用之一，开发者从中已经赚的足够多，但却从未看到有任何改进产品交互体验的意愿。\n\n幸运的是，由于 Apple Health 的开放性，我们可以在用户授权后获得 Apple Watch 和第三方App的睡眠数据，睡眠记录就交给已经非常优秀的睡眠应用，而我们只需要专注把睡眠结果以更好的形式呈现出来。\n或许你已经猜到了，NapNap的第一个目标是：「赏心悦目，一瞥即见」，我们希望打造一款轻量、界面精美且易用的睡眠App。\n\n …",
@@ -97,6 +127,16 @@
           "wordCount": 729,
           "title": "【送码】花180天做了一款睡眠日历App：NapNap开发的幕后故事",
           "imageUrl": "https://cdn.sspai.com/2023/09/14/9781811f2a5021af41a1038bd7ea1c74.png"
+        },
+        {
+          "id": "https://sspai.com/post/82858",
+          "author": "aGeng",
+          "description": "一、为什么想构建自己的阅读系统？\n\n首先肯定是希望自己能够更加高效地读更多的书，其次不想受到这个过程中太多的琐碎细节所打扰，想把尽可能多的精力放在读和思考上面\n为了使自己的阅读更加稳定，把阅读当作一个持续长期的事情来对待\n反过来让自己更加认真对待阅读这一件事情\n系统是一个具备弹性和稳定的高效管理方法\n\n二、我的阅读系统介绍\nⅠ、两个对象--书和工具\n图示1.两个对象​\n每个有一定阅读基础的人最开始几乎就是在这两者之间晃动，找书，在哪里阅读？在哪里标记？等等，但随着自己的阅读需求的提升，我们希望这两者之间能够更高效地互动，我们也能更方便地管理它们。那最开始我们需要做的就是对它们有一个大致的认识和定位，就像图中所描述的那样，所有书首先对我来说就是有未知（即我都不知道的书）和想读的书两类，而每一个工具根据我的需求和它们的功能都有一个清晰的定位。当然这样清晰的划分不是一蹴而就的，我只是想说明在通过阅读系统更高效地进行管理之前，我们应该对于这两个我们经常直接接触的对象有一个自己的大致划分和定位，也是我们构建系统的基础。\nⅡ、系统逻辑--阅读流\n前面介绍的两个对象--书和工具，大致说明了在阅读系统我们会面临的两个基本实体，而这里介绍的‘阅读流’则是从过程的角度说明如何通过我们的需求将书和工具有机地串联互动起来。\n图示2.阅读流​\n1. 发现书\n在这一步我所做的就是尽可能去发现一些我感兴趣的或者我根本不知道的但是值得阅读的书，现在其实大致有两部分来源，第一便是书店或者图书馆，第二是一些我平时收集整理的一些其他来源，比如某个播客，某个阅读类博主，某个你敬佩的人的推荐书单等等。这两部分就是我发现书的主要途径，将那些我未知的书变成我想读但未读的书。\n2. 组建未读书库\n在上一步发现了更多的想读的书之后，我们肯定是无法将它们短期内立即读完的，所以我们需要组建一个未读书库来对它们进行一个管理，既可…",
+          "link": "https://sspai.com/post/82858",
+          "publishedOn": "2023-09-13T08:55:46.000Z",
+          "wordCount": 601,
+          "title": "我的阅读系统",
+          "imageUrl": "https://cdn.sspai.com/2023/09/13/cf52a49b20157350791e4986ed16cca8.jpg"
         },
         {
           "id": "https://sspai.com/post/82904",
@@ -857,26 +897,6 @@
           "wordCount": 622,
           "title": "技术人的转型与转身",
           "imageUrl": "https://cdn.sspai.com/2023/08/15/f12ee9ac99e914cc91372d24f5728a86.png"
-        },
-        {
-          "id": "https://sspai.com/post/82132",
-          "author": "Another_Dayu",
-          "description": "SMS\n过去，人们在手机上使用的信息交流模式是短消息（SMS）和只支持简单文本和图像传递的多媒体信息服务（MMS）。时至今日，短信也是一种比较固定的交流方式。\nFrom https://blog.avochato.com/sms-vs-mms\n \n \nRCS\n在因特网与移动电话行业不断成长的同时，移动电话系统厂商也相继推出了谷歌讯息与讯息等产品。这类软件将短信（传统通信运营商提供的服务，蜂窝网络连接）与社交软件（采用 IP互联网协议）结合起来，为用户提供了更好的互动体验，可以更加顺畅地发送多媒体文件和附件，还添加了很多新的功能，比如消息已读等。\n\nIMessage、Whatsapp、微信、Google Message 统称为“Over The Top”（OTT）。OTT 应用程序需要互联网连接，而 SMS 需要移动网络连接。\n\n但 Google message (绿色消息气泡）和 imessage （蓝色消息气泡）之间并不是互通的。在美国的部分地区，年轻人之间甚至形成了同辈压力（Peer pressure），大家更喜欢收到蓝色消息气泡的消息。有趣的是这一现象似乎并没有在欧洲出现。\nFrom https://www.android.com/get-the-message/\n \n \n为此，Google 推出了一项名为 RCS（Rich Communication Suite）的技术。该协议被认为是移动通信系统的新一代通信协议。只需要一个电话号码，不需要添加任何朋友，不需要任何 APP，就可以自由交流，且兼容 iOS、安卓两种操作系统。\nFrom https://jibe.google.com/\n \n但是，直到近期 RCS 才开始在安卓系统的最新版本作为默认选项使用，并推出加密服务。\nApple 至今没有对 RCS 协议做出回应。\nWaveform 的电台这两年也在持续讨论这个话题，感兴趣的可以听一下这三期：iMessage Should Support RCS、Google Hits Back at iMessage、Google Turns on RCS by Default。\nNews\n近期，Google 又在推一种新的端到端加密协议 – Messaging Layer Security (MLS) protocol。使用这种协议，理论上可以在两个不同的平台间发送和接收信息，即不仅可以在安卓和 iOS 间发送和接收信息，还可以从 Google message 发送信息到 Telegram，并保持端到端加密的特性。\nFrom： https://messaginglayersecurity.rocks/\n相对于 RCS，MLS 又迈出了一步，有望实现真正的统一标准，但仍面临诸多挑战。首先，iMessage 所构筑的壁垒至今尚未被突破。其次，其他聊天应用可能更倾向于巩固自身在行业中的地位，而不是追求普适性，以免陷入平庸化。此外，谷歌自身也存在许多类似功能的产品尚未融合为一体。\n对于消费者来说，MLS 看上去挺不错的，使用简单，不需要很多学习成本。但这样一来，我们与手机号之间的联系就更紧密了。\n根据 RCS 推广的经验，MLS 可能要 2-3 年才能慢慢普及。",
-          "link": "https://sspai.com/post/82132",
-          "publishedOn": "2023-08-17T10:20:13.000Z",
-          "wordCount": 714,
-          "title": "信息传输协议 – 从 SMS 到 MLS（Messaging Layer Security）",
-          "imageUrl": "https://cdn.sspai.com/2023/08/17/4f0d6e95f2fa37df5ab95c2f8b8285e5.png"
-        },
-        {
-          "id": "https://sspai.com/post/82037",
-          "author": "SIMON_",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n全文共计 5818 字，85 张图片，预计阅读完需要 30 分钟。\n写在前面\n\n来日本两年之久，印象里的出游很少做细致的计划。但是由于这次行程的时间有限，想去的地方又比较多，因此特别详细计划了本次行程。\n在计划之初，本想一路向南，最终抵达鹿儿岛。但仔细研究行程后，发现往返的路程非常耗时，于是修改了我们的出行计划，将旅游区域限定在北九州（九州北部地区）。因此，从北九州落地后，我们计划直奔福冈，而后搭乘新干线前往大分县的别府，之后前往熊本的阿苏火山，最后去熊本市区，结束本次九州的行程。\n福冈\n抵达福冈的第一晚，和九州的友人会合，吃了当地最为有名的「モツ鍋」后，由于第二天的行程计划非常紧凑，因此早早回酒店休息，准备第二天的行程了。\n\n第二天一早，我们直接在福冈的公交车站搭乘旅人号巴士，前往太宰府天满宫。\n\n经过 40 分钟的车程，我们抵达了太宰府车站。在进入太宰府观光之前，千万不要错过这条商店林立的小街。吉普力的周边店、当地的特色小吃梅枝餅、隈研吾亲自操刀设计的星巴克店，都藏匿于这条商店街上。\n\n这家星巴克的设计非常特别，整个门头使用了 2000 余根木条构建而成，是这条商业街上的显著地标之一。我们在这里驻足的同时，也有很多游客在这里驻足打卡。\n\n走进这个由数千条木头构建的奇特空间，能够感受到这座建筑独有的方向感和流动感。在这里稍作停留，可以感受到正午的阳光透过木条的天顶挥洒进来，形成一道独特的光柱。\n从星巴克简单的拍照打卡后，我们继续沿着商店街前行，径直来到了太宰府门前。\n\n太宰府天满宫所供奉的菅原道真（或称天神）是学问、文化和艺术…",
-          "link": "https://sspai.com/post/82037",
-          "publishedOn": "2023-08-17T02:15:43.000Z",
-          "wordCount": 700,
-          "title": "日本浮生录 02：漫步北九州，感受自然和人文之美",
-          "imageUrl": "https://cdn.sspai.com/2023/08/15/5d3c11288639beb7189b3da5a951809f.jpg"
         }
       ]
     },
@@ -944,6 +964,156 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76100",
+          "author": null,
+          "description": "德国图宾根大学的研究人员首次发现乌鸦能执行统计推理。研究人员已经发现乌鸦具有复杂的数字能力，表现出抽象思维，在决策时深思熟虑。在最新的实验中，研究人员测试了乌鸦的统计推理能力。研究人员首先训练两只乌鸦啄触摸屏上的不同图像以获取食物。他们随后显著增加了先啄后吃的难度，引入了概率的概念，乌鸦不是每次啄图像都能获得食物奖励。乌鸦很快学会了不同图像与获得奖励的概率之间的关联。他们让乌鸦在两幅图像进行选择，每幅图像对应不同奖励概率。在 10 天训练和 5000 次试验后，研究人员发现乌鸦持续选择高概率奖励的图像，显示它们具有使用统计推理的能力。在间隔一个月后，乌鸦仍然能记住奖励概率。",
+          "link": "https://www.solidot.org/story?sid=76100",
+          "publishedOn": "2023-09-15T15:42:12.000Z",
+          "wordCount": 145,
+          "title": "研究发现乌鸦能使用统计逻辑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76099",
+          "author": null,
+          "description": "美国公司 Smart Tire Company 通过众筹平台 Kickstarter 销售世界第一种使用形状记忆合金 nitinol 的自行车轮胎。nitinol 是 NASA 为其火星漫游车设计的由镍和钛构成的形状记忆合金，能通过温度训练记住其形状。Smart Tire Company 承诺其开发的 Metl 轮胎永远不会瘪胎，可以终身使用。Metl 轮胎售价不菲，一对 500 美元，是传统自行车轮胎的十倍以上，可以方便安装在公路车或碎石路自行车的轮圈上。该公司承诺 2024 年 6 月交付。通过 Kickstarter 购买是有风险的。",
+          "link": "https://www.solidot.org/story?sid=76099",
+          "publishedOn": "2023-09-15T14:55:22.000Z",
+          "wordCount": 175,
+          "title": "永远不会瘪胎的自行车轮胎通过 Kickstarter 销售",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76098",
+          "author": null,
+          "description": "TikTok 因违反欧盟关于处理儿童账号的数据保护法 GDPR 而被罚 3.45 亿欧元。负责在欧盟监管 TikTok 的爱尔兰数据监管机构表示，这款中国视频应用多次违反 GDPR 规则：其儿童用户账号默认设置公开；允许公众对这些账号发表评论；不检查通过“家庭配对”访问儿童账号的成年人是否是父母或监护人；没有考虑其平台上 13 岁以下儿童在公开场合所面临的风险。TikTok 表示该公司已经解决了调查中发现的问题，从 2021 年开始所有未成年人的新旧账号都默认设为私有，只有获得用户批准的账号才能访问其内容。TikTok 表示它非常不赞同爱尔兰数据监管机构的决定，尤其是罚款金额。",
+          "link": "https://www.solidot.org/story?sid=76098",
+          "publishedOn": "2023-09-15T14:08:34.000Z",
+          "wordCount": 168,
+          "title": "TikTok 因违反欧盟儿童数据保护法被罚 3.45 亿欧元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76097",
+          "author": null,
+          "description": "Unity 公司最近宣布的基于安装量的新付费模式是如此不得人心，以至于它的员工对雇主发出了死亡威胁。新付费模式在游戏行业引发了开发者们的强烈抗议：有游戏工作室宣布将在新付费模式生效的同一天下架游戏，有游戏工作室宣布未来不会使用 Unity 引擎，还有众多工作室抵制了 Unity 的广告产品进行抗议。本周四 Unity 以收到可信死亡威胁的理由关闭了德州奥斯丁和加州旧金山的办公室。旧金山警方称，一名员工使用社交网络对雇主发出了威胁。这名员工的工作地点位于加州之外的一个办公室。",
+          "link": "https://www.solidot.org/story?sid=76097",
+          "publishedOn": "2023-09-15T13:12:37.000Z",
+          "wordCount": 153,
+          "title": "Unity 员工向公司发出死亡威胁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76096",
+          "author": null,
+          "description": "知名漫画家 Bill Willingham 宣布从 9 月 15 日起其《童话中人（Fables）》系列漫画 IP 进入公有领域。原因是他对出版商 DC 漫画日益不满，但没有精力与 DC 漫画打官司，因此与其让《童话中人》落在坏人手中，不如送给所有人，至少其中一部分人会是好人。《童话中人》系列第一集发表于 2002 年，2015 年完结。故事讲述了童话寓言故事中形形色色的人物因敌人魔君（The Adversary）的入侵和征服而逃离了各自的世界，在纽约市创建了一个叫童话镇的秘密社区，漫画以该镇警长大坏狼（Bigby Wolf），副镇长白雪公主等为主角，讲述了他们如何处理童话镇中的各种麻烦和冲突。2013 年推出的游戏《The Wolf Among Us》是《童话中人》的前传。",
+          "link": "https://www.solidot.org/story?sid=76096",
+          "publishedOn": "2023-09-15T10:54:55.000Z",
+          "wordCount": 163,
+          "title": "漫画家宣布将其《童话中人（Fables）》系列漫画捐给所有人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76095",
+          "author": null,
+          "description": "2023 年度搞笑诺贝尔奖（Ig Nobel）公布了获奖名单。搞笑诺贝尔奖创建于 1991 年，是对诺贝尔奖的善意戏仿，表彰那些令人发笑但又发人深思的研究。今年化学/地质学奖授予了英国古生物学家 Jan Zalasiewicz，他解释了为什么科学家喜欢舔石头。他指出，用舌头润湿表面有助于更清晰的突出化石和矿物的纹理，这一做法可追溯到 18 世纪的采矿工程师 Giovanni Arduino。文学奖授予了 Chris Moulin 等人，他们让学生一遍又一遍的抄写同一个单词然后研究其感受。机械工程奖授予了 Faye Yap 等人，研究将死蜘蛛用作机器人抓握工具，他们将这一新兴研究领域称之为“necrobotics”。医学奖授予了 Christine Pham 等人，他们研究了死人两鼻孔中的鼻毛数是否相同，结果发现每个鼻孔的平均鼻毛数在 120-122 根之间，长度在 0.81-1.035 厘米之间。营养学奖授予了日本科学家宫下芳明和中村裕美，他们的研究发现使用通电的筷子或吸管可改变饮食的味道。这是日本连续 17 年获得搞笑诺贝尔奖。教育学奖授予了 Katy Tam 等人，他们系统性的研究了教师和学生的无聊感。",
+          "link": "https://www.solidot.org/story?sid=76095",
+          "publishedOn": "2023-09-15T09:57:24.000Z",
+          "wordCount": 174,
+          "title": "2023 年搞笑诺贝尔奖宣布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76094",
+          "author": null,
+          "description": "加密货币交易所 CoinEX 的热钱包遭到入侵，被盗走了价值 5300 万美元的加密货币。区块链安全公司 PeckShield 称，入侵发生在 9 月 12 日，黑客盗走了价值 1900 万美元的以太坊，1100 万美元的波场币，640 万美元的 Smart Chain Coin ($BSC)、600 万美元的比特币(BTC)，以及大约 295,000 美元的 Polygon ($MATIC)。被盗总损失 4300 万美元。但 CertiK Alert 将 CoinEx 损失估计提高到了 5300 万美元。CoinEx 表示所有受损的客户都会获得全额赔偿，在所有安全风险都消除前它暂停了充值和提现服务。",
+          "link": "https://www.solidot.org/story?sid=76094",
+          "publishedOn": "2023-09-15T08:14:04.000Z",
+          "wordCount": 190,
+          "title": "黑客从 CoinEX 窃取了 5300 万美元加密货币",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76093",
+          "author": null,
+          "description": "苹果本周宣布的 iPhone 15 Pro 是第一款支持开源智能家居协议 Thread 的智能手机。Thread 是设计用于物联网产品的基于 IPv6 的低功耗网状网络技术。维护推广该协议的 Thread Group 联盟于 2014 年成立，其成员包括 Arm、Google 子公司 Nest Labs、三星、高通、NXP 等。苹果在 2018 年加入该联盟，并在 2020 年推出了首款 Thread 产品 HomePod Mini。支持 Thread 协议意味着 iPhone 15 Pro 可以直接与 Thread 设备通信。",
+          "link": "https://www.solidot.org/story?sid=76093",
+          "publishedOn": "2023-09-15T06:58:39.000Z",
+          "wordCount": 197,
+          "title": "iPhone 15 Pro 是第一款支持开源智能家居协议 Thread 的智能手机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76092",
+          "author": null,
+          "description": "因收到死亡威胁，Unity 周四取消了计划中的员工会议（town hall），关闭了两个办事处。游戏引擎开发商 Unity 本周在游戏行业引发了激烈争议，该公司宣布从 2024 年 1 月 1 日起施行基于安装量的收费模式，游戏每安装一次收取最多 0.2 美元。Unity 引擎被广泛用于手游和独立游戏开发。对免费手游而言，这可能意味着开发商基本赚不到钱了。而且这种模式显然容易滥用，勒索组织可以使用僵尸网络对目标游戏进行大规模的安装卸载，向受害者勒索金钱。Unity 的做法引发了批评，部分知名游戏工作室已经发表声明将在 2024 年 1 月 1 日下架其游戏。",
+          "link": "https://www.solidot.org/story?sid=76092",
+          "publishedOn": "2023-09-15T06:29:53.000Z",
+          "wordCount": 165,
+          "title": "Unity 在死亡威胁之后关闭办事处",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76091",
+          "author": null,
+          "description": "一项新发现显示：与那些拥有早起习惯的人相比，晚睡晚起的人患糖尿病风险增加了 19%。此前研究发现，睡眠时间更不规律的人患糖尿病和心血管疾病的风险更高，而晚睡晚起的人更可能有不规律的睡眠模式。研究团队分析了 2009—2017 年间从护士健康研究 Ⅱ 中收集的 63676 名女护士的数据，其中包括自我报告的睡眠类型、饮食质量、体重和体重指数（BMI）、睡眠时间、吸烟行为、饮酒、体力活动和糖尿病家族史。研究小组根据参与者的自我报告和医疗记录确定了她们的健康状况。在考虑了种种生活方式因素后，研究发现，晚睡晚起与糖尿病风险增加 19% 相关。此外，生活方式最健康的人中，只有 6% 的人属于晚睡晚起型。在那些生活方式最不健康的人中，25% 是晚睡晚起型。",
+          "link": "https://www.solidot.org/story?sid=76091",
+          "publishedOn": "2023-09-15T06:02:23.000Z",
+          "wordCount": 153,
+          "title": "晚睡晚起或增加糖尿病风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76090",
+          "author": null,
+          "description": "Google 正着手解决学校对其 Chromebook 寿命太短的抱怨，宣布将为 Chromebook 通过长达十年的软件更新支持。新政策将于明年生效。从 2024 年开始，如果 Chromebook 是在 2021 年之后发布的，那么它将自动获得十年的更新；如果 Chromebook 是在 2021 年前发布的，并且正在使用中，那么用户和 IT 管理者将会拥有选项延长十年自动更新。Google 称即使 Chromebook 不再收到自动更新，它们仍然是可以继续使用的。但在现实中，部分教育软件在自动更新结束之后会停止工作。",
+          "link": "https://www.solidot.org/story?sid=76090",
+          "publishedOn": "2023-09-15T05:57:50.000Z",
+          "wordCount": 165,
+          "title": "Chromebook 将获得十年的更新支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76089",
+          "author": null,
+          "description": "备受瞩目的 Google 反垄断诉讼案本周开庭。美国司法部指控该公司非法维持其搜索业务的垄断地位。其一是与智能手机制造商和浏览器开发商达成的默认搜索交易。Google 每年向 AT&T 等移动运营商、苹果等设备制造商和 Mozilla 等浏览器开发商支付 100 亿美元维持其默认搜索位置，抵御竞争对手确保市场份额接近九成。证据显示 Google 早在 2000 年代中期就寻求通过获得移动设备的默认搜索位置而吸引大量搜索查询。绝大部分用户是不会修改默认搜索的。其二是 Google 深知其行为受到密切留意，因此鼓励员工不要留下永久性记录。该公司有一项名为 Communicate with Care 的政策，建议 Google 员工在聊天应用中谈论敏感对话时关闭历史记录，也就是记录会在 24 小时后删除。Google 高管早在 2003 年就表示要对反垄断保持敏感。该公司的敏感术语包括市场份额，Google 高管要求用查询份额替代。其它敏感主题包括：避免讨论“规模”和“网络效应”，“锁死”或“锁定”用户/合作伙伴，“捆绑”产品等等。",
+          "link": "https://www.solidot.org/story?sid=76089",
+          "publishedOn": "2023-09-15T05:39:28.000Z",
+          "wordCount": 177,
+          "title": "美国指 Google 通过搜索默认交易巩固其垄断地位",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76088",
+          "author": null,
+          "description": "勒索组织 Scattered Spider 利用社交工程方法攻击了米高梅等西方公司，此举旨在勒索赎金。攻击者首先从社交网络如职业社交网站 LinkedIn 查找目标公司的员工，然后用英语冒充他们致电技术支持部门（Help Desk），索要访问网络所需的密码或凭证。该组织的黑客声称获取初始访问权限仅仅花了 10 分钟。经营赌场和酒店的米高梅集团本周遭到网络攻击，导致服务大规模瘫痪，到本周三仍然没有完全恢复。Google 子公司 Mandiant 的 CTO Charles Carmakal 推测该组织的成员在英国或欧洲。",
+          "link": "https://www.solidot.org/story?sid=76088",
+          "publishedOn": "2023-09-14T15:45:07.000Z",
+          "wordCount": 169,
+          "title": "勒索组织 Scattered Spider 利用社交工程攻击了米高梅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76087",
+          "author": null,
+          "description": "总部位于拉脱维亚、已被俄罗斯屏蔽的俄语独立媒体 Meduza 披露，它的联合创始人 Galina Timchenko 的 iPhone 手机感染了以色列公司 NSO Group 的间谍软件 Pegasus。Meduza 的 IT 主管在 6 月 23 日打电话给 Timchenko 叫她立即回办公室。一天前她将从苹果公司收到的一条警告消息转发给了 IT 部门。这条消息称她的手机遭到了国家支持黑客的攻击。她创办的新闻媒体一直遭到俄罗斯的攻击，对于此类警告她日益熟悉。IT 部门寻求 Access Now 和公民实验室的专家帮助调查此次攻击。安全研究人员的快速评估得出了一个结论：手机感染了 Pegasus，时间是在 2023 年 2 月 10 日。此后攻击者掌握了她的几乎所有信息。Timchenko 是第一位被确认感染 Pegasus 的俄罗斯记者。Access Now 推测可能是哈萨克斯坦或阿塞拜疆应俄罗斯要求执行了此次攻击。",
+          "link": "https://www.solidot.org/story?sid=76087",
+          "publishedOn": "2023-09-14T15:20:21.000Z",
+          "wordCount": 195,
+          "title": "Meduza 联合创始人的 iPhone 手机感染了间谍软件 Pegasus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76086",
+          "author": null,
+          "description": "由于辐射水平高于可接受阈值，法国命令苹果暂停销售 iPhone 12。管理无线电频率的法国监管机构国家频谱管理局（ANFR）建议苹果公司，如果它无法通过软件更新解决问题，那么就必须召回在法国销售的全部 iPhone 12 手机。苹果需要在两周内做出回应。苹果已经告诉媒体，它对 ANFR 的评估持不同意见，它已经向 ANFR 递交了自己以及第三方的结果，显示 iPhone 12 符合规定。ANFR 称它在随机抽样测试中发现两部 iPhone 12 不符合欧盟标准。",
+          "link": "https://www.solidot.org/story?sid=76086",
+          "publishedOn": "2023-09-14T14:57:22.000Z",
+          "wordCount": 169,
+          "title": "法国以辐射超标暂停 iPhone 12 销售",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76085",
           "author": null,
@@ -3523,116 +3693,6 @@
           "wordCount": 155,
           "title": "纽约大学向脑死亡患者移植的猪肾连续工作 32 天",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75827",
-          "author": null,
-          "description": "纽约时报和 OpenAI 可能会对簿公堂。该报的律师考虑采取法律行动以保护版权。纽约时报和 OpenAI 已就其新闻报道的许可协议展开了为期数周的谈判，但进展不顺。如果纽约时报对 OpenAI 提起诉讼，这将是 AI 时代最引人注目的版权纠纷。一位参与谈判的人士表示，如果 AI 工具在答案中重述了纽约时报的报道，那么用户访问时报网站的可能性将会大大降低。而根据美国联邦法律，如果联邦法官发现 OpenAI 非法复制时报新闻报道去训练 AI 模型，那么法庭可以命令 OpenAI 销毁 ChatGPT 的数据集，迫使该公司仅使用获得授权的数据重建数据集。联邦版权法还允许对每项蓄意的侵权行为收取最高 15 万美元的罚款。",
-          "link": "https://www.solidot.org/story?sid=75827",
-          "publishedOn": "2023-08-17T11:15:31.000Z",
-          "wordCount": 169,
-          "title": "纽约时报考虑对 OpenAI 采取法律行动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75826",
-          "author": null,
-          "description": "澎湃报道称，最近面临愈来愈大监管压力以及大规模裁员的最大加密货币交易所币安可能是规模最大的分布式公司。赵长鹏于 2017 年在上海创立币安，在中国对加密货币交易所发布禁令之后迁移到日本，在日本金融监管机构对其发出警告之后，它不再公布公司总部所在地。报道称，币安员工远程分散在世界各地，可能很多人从入职到离职都没见过自己的几位同事。统计数据显示，币安员工分布在 69 个不同的国家或地区，其中新加坡 176人，英国 78人，阿联酋 75人，公司创始人赵长鹏和何一都在迪拜。如果根据城市来排名的话，迪拜将会排名第一。有 65 个人在迪拜，64 个人在伦敦和 16 个人在阿姆斯特丹。",
-          "link": "https://www.solidot.org/story?sid=75826",
-          "publishedOn": "2023-08-17T10:00:49.000Z",
-          "wordCount": 153,
-          "title": "币安可能是规模最大的分布式公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75825",
-          "author": null,
-          "description": "加州旧金山分校和澳大利亚昆士兰大学的 3 个研究团队在《自然》等期刊上发表论文，将血小板第Ⅳ因子（PF4）确定为逆转衰老的共同信使——3 种独立的对衰老的干预措施，包括寿命蛋白klotho 注射、年轻血液输送和运动，焦点都聚集在这一血小板因子上。简单来说，血液因子 PF4 的逆衰效果是使免疫系统看起来更年轻，它减少了所有活跃的促衰老免疫因子，让大脑炎症减少、可塑性增强，最终，认知能力也得到了提升。可能有人会说，运动难道不是简易且副作用最小的方式吗？但对很多有健康问题、行动不便或年事已高的人来说，锻炼几乎是不可能的，而从不同角度发现共同的逆衰关键，正是适用所有人的药物研发的着手点。",
-          "link": "https://www.solidot.org/story?sid=75825",
-          "publishedOn": "2023-08-17T09:44:42.000Z",
-          "wordCount": 151,
-          "title": "血小板因子被认为是逆转衰老的关键",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75824",
-          "author": null,
-          "description": "Linus Sebastian 的 YouTube 帝国 Linus Media Group 正处于危机之中，它被控盗窃、道德沦丧以及性骚扰。\n该公司暂停了所有视频制作，CEO Terren Tong 表示将聘请外部调查员调查性骚扰指控。危机始于另一个 YouTube 频道 Gamers Nexus 在 8 月 15 日发表视频《The Problem with Linus Tech Tips: Accuracy, Ethics, & Responsibility》 ，称 Linus Tech Tips 系列频道重量不重质，匆忙发布了大量视频，但这些视频中的数据存在大量的事实错误，有时候是明知故犯，并非是无意造成的错误。Gamers Nexus 对 Linus Tech Tips 的道德提出了质疑。接着是该公司的前雇员 Madison Reeve 在 X 上发表了一系列帖子，称工作环境损害了她的精神健康。",
-          "link": "https://www.solidot.org/story?sid=75824",
-          "publishedOn": "2023-08-17T08:59:07.000Z",
-          "wordCount": 200,
-          "title": "Linus Tech Tips 暂停视频制作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75823",
-          "author": null,
-          "description": "纽约大学市场营销学教授 Scott Galloway 称在拒绝与马斯克（Elon Musk）见面后他的 X 账号被锁定了逾两周时间。路透社上月底发表调查报告称，特斯拉夸大了其电动汽车的续航里程，以至于车主经常以为电池出问题，需要联络特斯拉检查电池，而此类要求是如此之多以至于特斯拉设立了一个专门的团队去取消此类的检查（因为检查是要花钱的）。Galloway 在 X 上发帖讽刺说，尽管如此“你完全应该把 X 当银行用”。马斯克正试图将 X 打造为类似微信的万能应用，包含支付购物等功能。\nGalloway 在 Threads 上称，马斯克认为这是对他不公平的攻击，想要和他见面，但他拒绝了。两天后他的 X 账号就没法访问了。Galloway 还以 Galloway 指数著称，原因是他很多的金融相关预测都是错误的，所以反着押注其建议会带来更高回报。",
-          "link": "https://www.solidot.org/story?sid=75823",
-          "publishedOn": "2023-08-17T08:14:15.000Z",
-          "wordCount": 172,
-          "title": "纽约大学教授称在拒绝与马斯克见面后他的 X 账号被锁定",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75822",
-          "author": null,
-          "description": "因中国监管机构在本周二的截止日期未批准交易，英特尔终止了对以色列公司 Tower Semiconductor 的收购，令芯片巨人扩大代工业务的计划受挫。Tower 在以色列本土和全球其他一些地方建有生产线。按照英特尔之前的计划，Tower 将处理成熟制程芯片的代工生产，而英特尔将围绕其较先进制程的芯片生产线打造自己的芯片代工生产业务。收购失败将使英特尔重整业务之路面临更大困难。这是美国芯片公司第二宗因中国监管机构未批准而收购失败的案例，上一次是高通以 440 亿美元收购恩智浦（NXP）。",
-          "link": "https://www.solidot.org/story?sid=75822",
-          "publishedOn": "2023-08-17T06:48:26.000Z",
-          "wordCount": 160,
-          "title": "因监管问题英特尔终止对 Tower Semiconductor 的收购",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75821",
-          "author": null,
-          "description": "Adobe 和微软 Office 应用今年先后宣布停止支持 PostScript Type 1 字体。PostScript 是 Adobe 在 1980 年代为专业数字排版开发的大纲字体规范编码的字体文件。PostScript 让文字和图像的自由缩放、旋转和移动成为可能，今天大部分打印机都依赖于 PostScript 或其后续技术 PDF。PostScript 最重要的字体就是 Type 1。为了避免 Adobe 一家独大，苹果在 1990 年代创建 TrueType，并将其授权给微软。Adobe 和微软后来合作开发了 OpenType 字体格式去取代 TrueType 和 PostScript Type 1。MS Office 的 Windows 版本早在 2013 年就停止支持 Type 1，本周它的 Mac 版本也终止了对 Type 1 字体的支持。此举有可能对旧的文件造成兼容性问题，在新版本 Office 应用中打开旧文件可能会显示字体缺失的错误信息，而应用在尝试替代 Type 1 字体时也可能导致布局问题。",
-          "link": "https://www.solidot.org/story?sid=75821",
-          "publishedOn": "2023-08-17T06:37:54.000Z",
-          "wordCount": 211,
-          "title": "Adobe 和微软停止支持 PostScript Type 1 字体可能导致部分旧文件的兼容性问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75820",
-          "author": null,
-          "description": "特斯拉推出了 Model S 和 Model X 的廉价版，价格减少 1 万美元，单次充电续航里程减少约 80 英里。Model S SR 售价 78,490 美元，续航里程从 405 英里降至 320 英里，减少 85 英里；Model X SR 售价 88,490 美元，续航里程从 348 英里降至 269 英里，减少 79 英里。廉价版本和标准版本的电池其实是一样的，特斯拉用软件锁定了续航里程。仅仅改动下软件就让特斯拉对汽车进行差异化销售，无需对汽车本身、装配或零部件进行物理修改。",
-          "link": "https://www.solidot.org/story?sid=75820",
-          "publishedOn": "2023-08-17T03:31:46.000Z",
-          "wordCount": 197,
-          "title": "特斯拉廉价版 Model S 和 Model X 用软件锁定了续航里程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75819",
-          "author": null,
-          "description": "科学家基本上解开了 LK-99 之谜，确认它不是超导体。LK-99 的故事始于 7 月底，当时首尔创业公司 Quantum Energy Research Centre 的 Sukbae Lee 和 Ji-Hoon Kim 领导的团队发表了一篇预印本，声称发现了第一种室温环境压力超导体 LK-99。此前发现的所有超导体都需要极端的低温和极端的高压。全世界数十个实验室随后展开了研究，尝试复制这一发现。专家们现在可以自信地说，证据显示 LK-99 不是超导体。LK-99 是由铜、铅、磷和氧组成的化合物，它的硫化铜杂质是导致电阻急剧下降和部分悬浮的原因，使其看起来与超导体展现出的属性相似。",
-          "link": "https://www.solidot.org/story?sid=75819",
-          "publishedOn": "2023-08-17T03:01:42.000Z",
-          "wordCount": 165,
-          "title": "LK-99 不是超导体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75818",
-          "author": null,
-          "description": "Firefox 合并了 Wayland fractional-scale-v1 协议，支持 Linux 下的浏览器分数缩放。目前该功能默认关闭，可通过设置 widget.wayland.fractional-scale.enabled 启用。另一个主流浏览器 Google Chrome/Chromium 是在今年初合并了 Wayland fractional-scale-v1 协议代码。Linux 下的主要浏览器，以及 KDE Plasma/KWin 和 GNOME 桌面都加入了对 Wayland 分数缩放的支持。",
-          "link": "https://www.solidot.org/story?sid=75818",
-          "publishedOn": "2023-08-16T14:23:06.000Z",
-          "wordCount": 175,
-          "title": "Firefox 加入 Wayland 分数缩放支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75817",
-          "author": null,
-          "description": "《自然》的调查显示，科学家纷纷退出以前叫 Twitter 现在叫 X 的社交网站，转到 Mastodon 或其它替代。Emilia Jarochowska 在 2016 年加入 Twitter 时希望该平台有助于提升其事业，帮助她联络同行和找到新的工作机会。去年 12 月她决定关闭账号，认为继续使用有损其声誉。自马斯克 (Elon Musk)接手 Twitter 以来，他推行了一系列备受争议的政策。他的做法令众多的科学家重新考虑 X 的价值，很多人选择了离开。《自然》联系了逾 17 万曾经或现在仍然是 Twitter 用户的科学家，约 9200 人做出了回应。逾半数人表示他们减少了在该平台的使用时间，不到 7% 的人完全停止使用该平台。大约 46% 的人加入了其他社交平台，如 Mastodon、Bluesky、Threads 和 TikTok。其中最受欢迎的替代是去中心化平台 Mastodon。不过 Mastodon 规模太小是其劣势。英国曼彻斯特教育学院的 Mark Carrigan 说，我们所熟知的 Twitter 已经死了，学术界越早接受越好。",
-          "link": "https://www.solidot.org/story?sid=75817",
-          "publishedOn": "2023-08-16T13:48:04.000Z",
-          "wordCount": 197,
-          "title": "科学家退出 Twitter 加盟 Mastodon",
-          "imageUrl": null
         }
       ]
     },
@@ -3641,6 +3701,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/750470/",
+          "author": null,
+          "description": "随着折叠屏手机的问世，有关折叠屏的产品也越来越多，近日，海信激光电视官方微博发文称，120 寸可折叠激光电视，9 月 19 日见。在消费者的传统观念当中，只有小屏幕才能够折叠，电视那么大即使能折叠又有什么必要呢？ 众所周知，屏幕这东西一定是越大越好，各大电视厂商也是将电视越做越大，但同时又产生一个让\n本文链接",
+          "link": "https://news.cnblogs.com/n/750470/",
+          "publishedOn": "2023-09-15T14:25:00.000Z",
+          "wordCount": 163,
+          "title": "继可折叠手机后可折叠电视也来了，海信将全球首发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750469/",
+          "author": null,
+          "description": "文 江闻道商学苑，作者南游子 01 既已争过，再无不甘、不舍？ 9 月 10 日，是张勇卸任阿里董事会主席与 CEO 的日子。由蔡崇信接任阿里董事会主席，吴泳铭出任 CEO，这些都是 6 月初既定好的事。 但事临头，阿里还是炸了锅。原因是这一天张勇还卸任了阿里云的一切职务，将它们统统交给了吴泳铭。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/750469/",
+          "publishedOn": "2023-09-15T14:18:00.000Z",
+          "wordCount": 163,
+          "title": "阿里变老，阿里焕新，阿里颠覆阿里",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750468/",
+          "author": null,
+          "description": "文定焦，作者布鲁斯，编辑向园 中国最赚钱的互联网公司中，大部分都靠广告赚钱。 360 集团创始人兼 CEO 周鸿祎曾说过，互联网就三种商业模式，一种是卖东西，一种是卖广告，还有一种是以游戏为代表的增值服务。互联网企业发展至今，依旧没离开这三种模式。其中广告模式，是不少互联网企业最擅长，也最依赖的业务\n本文链接",
+          "link": "https://news.cnblogs.com/n/750468/",
+          "publishedOn": "2023-09-15T14:10:00.000Z",
+          "wordCount": 163,
+          "title": "互联网广告回暖，哪家巨头赢麻了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750467/",
+          "author": null,
+          "description": "文科技新知 过去的表现并不能保证将来的结果。”这是大多数金融理财模型的小字。 在产品业务内部，这被称之为模型漂移、衰退或过时。事情会发生变化，模型性能会随着时间的推移而下降。最终的衡量标准是模型质量指标，可以是准确率、平均错误率，也可以是一些下游业务的 KPI，比如点击率。 没有任何模型可以永远有效\n本文链接",
+          "link": "https://news.cnblogs.com/n/750467/",
+          "publishedOn": "2023-09-15T14:00:00.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT笨了，还是老了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750466/",
+          "author": null,
+          "description": "文松果财经 造车新势力阿维塔近期消息不断。 8 月 31 日，阿维塔宣布完成B轮融资，规模达到 30 亿元，投后估值近 200 亿元。随后的 9 月 2 日，阿维塔科技宣布 8 月共交付新车 1975 辆，略高于上月的 1786 辆，稳居 30 万以上纯电 SUV 头部阵营。9 月 5 日，阿维塔在\n本文链接",
+          "link": "https://news.cnblogs.com/n/750466/",
+          "publishedOn": "2023-09-15T13:52:00.000Z",
+          "wordCount": 163,
+          "title": "阿维塔30亿元融资背后：价格战再席卷，如何守住品牌底线？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750465/",
+          "author": null,
+          "description": "9 月 15 日消息，据外媒报道，业内人士透露，在 2024 年底前开始大规模生产后，芯片代工商台积电位于日本熊本的晶圆厂预计将于 2025 年实现盈利。 台积电成立于 1987 年，是全球最大的晶圆代工半导体制造厂，该公司的客户包括苹果、高通、华为等等。 2021 年 11 月 9 日，该公司宣布\n本文链接",
+          "link": "https://news.cnblogs.com/n/750465/",
+          "publishedOn": "2023-09-15T13:45:00.000Z",
+          "wordCount": 163,
+          "title": "消息称台积电日本晶圆厂预计将在2025年实现盈利",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750464/",
+          "author": null,
+          "description": "新京报贝壳财经讯（记者白金蕾） 9 月 15 日，腾讯宣布旗下的腾讯混元大模型已首批通过《生成式人工智能服务管理暂行办法》备案，将正式上线，并陆续面向公众开放。 腾讯混元大模型是由腾讯全链路自研的实用级大模型，拥有超千亿参数规模、预训练语料超 2 万亿 tokens，具备强大的中文创作能力，复杂语境\n本文链接",
+          "link": "https://news.cnblogs.com/n/750464/",
+          "publishedOn": "2023-09-15T12:12:00.000Z",
+          "wordCount": 163,
+          "title": "腾讯混元大模型首批通过备案，将陆续对公众开放",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750463/",
+          "author": null,
+          "description": "近期，北京百度网讯科技有限公司与高通无线通信技术（中国）有限公司在北京签署非约束性战略合作谅解备忘录，将在 XR 领域展开全面战略合作。通过此次战略合作的宣布，双方期望在未来开展深度的技术、市场与生态合作，其中包括双方将在 XR 技术、生成式 AI、数字人、产业上下游协同等方面，围绕元宇宙+生态+行\n本文链接",
+          "link": "https://news.cnblogs.com/n/750463/",
+          "publishedOn": "2023-09-15T12:07:00.000Z",
+          "wordCount": 163,
+          "title": "百度希壤与高通达成战略合作，打造新一代元宇宙基础设施平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750462/",
+          "author": null,
+          "description": "游戏引擎的制造商 Unity 本周宣布将对开发者收取一定比例的费用，这让许多开发者重新考虑是否要选择其主要竞争对手 Epic Games 的 Unreal Engine（虚幻引擎）。 Epic Games 也趁机作出反应，已经开始为苹果 Vision Pro 提供原生的 Unreal Engine \n本文链接",
+          "link": "https://news.cnblogs.com/n/750462/",
+          "publishedOn": "2023-09-15T12:00:00.000Z",
+          "wordCount": 163,
+          "title": "Epic Games 考虑为苹果 Vision Pro 头显提供原生虚幻引擎支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750461/",
+          "author": null,
+          "description": "动点科技获悉，SHEIN 宣布将在 5 年内投入超 10 亿元（约 1.55 亿美元）持续推进其可持续发展战略“evoluSHEIN”中的支柱项目“平等赋能”（Equitable Empowerment），用于支持包括设计师、供应商、女性与青年群体、弱势人群等在内的全球各社区发展。 据了解，“evo\n本文链接",
+          "link": "https://news.cnblogs.com/n/750461/",
+          "publishedOn": "2023-09-15T08:53:00.000Z",
+          "wordCount": 163,
+          "title": "5年投入超10亿，SHEIN持续赋能供应商、设计师等社区",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750460/",
+          "author": null,
+          "description": "银联国际宣布，与阿联酋主流金融机构 RAK 银行合作，开通后者旗下所有商家支持银联闪付。至此，阿联酋成为中东首个全部商户 POS 终端支持银联闪付的国家，这意味着消费者可在当地便捷使用银联卡“闪付”功能和银联手机闪付。 在阿联酋，所有 ATM 和商家 POS 终端已都可用银联卡。在此基础上，顺应当地\n本文链接",
+          "link": "https://news.cnblogs.com/n/750460/",
+          "publishedOn": "2023-09-15T08:45:00.000Z",
+          "wordCount": 163,
+          "title": "阿联酋全部商户 POS 终端支持银联手机闪付",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750459/",
+          "author": null,
+          "description": "GameLook 报道/如果你是身处游戏行业的从业者，那你绝对不会错过行业近期的大新闻：Unity 宣布，该公司将于 2024 年开始，按照游戏安装量向使用 Unity 引擎的游戏开发商收费，每次安装最高可收取 0.2 美元。 作为全球游戏业应用最为广泛的游戏引擎，Unity 的这一新政对全球游戏开\n本文链接",
+          "link": "https://news.cnblogs.com/n/750459/",
+          "publishedOn": "2023-09-15T08:34:00.000Z",
+          "wordCount": 163,
+          "title": "Unity收安装费，休闲大厂Miniclip高管算了笔账，超休闲真的要死了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750458/",
+          "author": null,
+          "description": "日前，2013 年诺贝尔化学奖得主、美国国家科学院院士迈克尔·莱维特在上海出席 2023ESG 全球领导者大会时表示：使用 ChatGPT 之后，自己的智力提高了 50%。 他认为，ChatGPT 不仅仅是一个搜索模型，它是一个语言模型，它是一个智慧，可以训练它拥有 2500 种的讲话方式。 迈克尔\n本文链接",
+          "link": "https://news.cnblogs.com/n/750458/",
+          "publishedOn": "2023-09-15T08:28:00.000Z",
+          "wordCount": 163,
+          "title": "诺奖得主称使用 ChatGPT 自己智力提高 50%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750457/",
+          "author": null,
+          "description": "据中国国家铁路集团有限公司消息，今年铁路中秋国庆黄金周运输自 9 月 27 日开始，至 10 月 8 日结束，为期 12 天，全国铁路预计发送旅客 1.9 亿人次。 昨日，中秋假期临近，不少网友提前加入抢票大军，开始抢购 9 月 28 日的火车票。 抢购过程中，有网友吐槽系统显示余票充足，但是仍需排\n本文链接",
+          "link": "https://news.cnblogs.com/n/750457/",
+          "publishedOn": "2023-09-15T08:22:00.000Z",
+          "wordCount": 163,
+          "title": "12306 回应假期车票秒光",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750456/",
+          "author": null,
+          "description": "据 X 用户@Chris Zheng 爆料，特斯拉中国取得重大进展，暂定将于明年第一季度发布 FSD。从时间来看，将发布的是 FSD V12。 近日，马斯克在 All-In Podcast 2023 峰会上提到 FSD 测试版时表示，它非常接近「在不受监管的情况下，比人类司机更安全」这一目标。 也就\n本文链接",
+          "link": "https://news.cnblogs.com/n/750456/",
+          "publishedOn": "2023-09-15T08:17:00.000Z",
+          "wordCount": 163,
+          "title": "消息称特斯拉中国暂定明年第一季度发布 FSD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750455/",
+          "author": null,
+          "description": "你站在路边，看到一辆鲜亮的跑车呼啸而过，你可能会脑补出这样的车主形象 —— 一位成功的商业精英，或是一个血气方刚的年轻人。 类似的，当你走进一位亲朋好友的车库，发现他开着一辆六座 SUV，你可能也会不自觉地认为他是一为更注重家庭和实用性的好爸爸。 ▲图片来自：理想汽车 不少人都会根据车型来判断车主的\n本文链接",
+          "link": "https://news.cnblogs.com/n/750455/",
+          "publishedOn": "2023-09-15T08:11:00.000Z",
+          "wordCount": 163,
+          "title": "买辆车，你就清楚我是什么人了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750454/",
+          "author": null,
+          "description": "9 月 15 日消息，据外媒报道，如此前分析师和研究机构所预期的一样，苹果公司在 9 月 13 日凌晨推出的 iPhone 15 系列智能手机，全系采用 USB-C 接口，不再是闪电接口，iPhone 也提前满足了欧盟在充电接口方面的规定。 iPhone 15 转向 USB-C 接口，也就意味着相关\n本文链接",
+          "link": "https://news.cnblogs.com/n/750454/",
+          "publishedOn": "2023-09-15T08:00:00.000Z",
+          "wordCount": 163,
+          "title": "苹果已开始销售USB-C接头有线耳机 价格同此前版本一样",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750453/",
+          "author": null,
+          "description": "9 月 15 日消息，对于社交媒体平台来说，一年一度的美国假日购物季历来是广告收入最多的时期。但曾经习惯在社交媒体平台推特上打广告的品牌们纷纷表示，他们计划将今年假日购物季期间的广告费用投到其他平台，从推特更名而来的X平台不太可能在假日购物季前赢回广告商的青睐。 埃隆·马斯克(Elon Musk)选\n本文链接",
+          "link": "https://news.cnblogs.com/n/750453/",
+          "publishedOn": "2023-09-15T07:55:00.000Z",
+          "wordCount": 163,
+          "title": "X年内扭亏无望：品牌方已将假日购物季预算转投其他平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750452/",
+          "author": null,
+          "description": "为了提升服务质量，本次通话将会被录音。 每一个拨打过企业客服的人，想必对于这句话都耳熟能详。但「如果不同意录音，请按 1 。」这句，你只会从苹果客服电话中听到。 在 iOS 17 琳琅满目的一众新功能里，隐私的升级似乎是最不起眼的那个，但在苹果内部，它是被奉为圭臬不可撼动的信条。 在今年秋季发布会结\n本文链接",
+          "link": "https://news.cnblogs.com/n/750452/",
+          "publishedOn": "2023-09-15T07:50:00.000Z",
+          "wordCount": 163,
+          "title": "对话苹果软件工程高级副总裁 Craig Federighi：最好的安全就像安全气囊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750451/",
+          "author": null,
+          "description": "自华为 Mate60 系列突然上市以来，关于全新的华为 Mate60 系列的相关报道几乎每天都充斥着大家眼前的屏幕，仿佛在无声地宣告着：“王者归来”！ 在智能手机市场上，华为一直以来都是备受瞩目的品牌之一，旗下的 Mate 系列始终以领先科技提升用户体验，不断探索科技创新的新高度，大屏幕、长续航、麒\n本文链接",
+          "link": "https://news.cnblogs.com/n/750451/",
+          "publishedOn": "2023-09-15T07:40:00.000Z",
+          "wordCount": 163,
+          "title": "华为Mate60 Pro评测：王者归来 高性能与创新设计的完美结合",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/750401/",
           "author": null,
@@ -8939,186 +9199,6 @@
           "publishedOn": "2023-08-17T13:00:00.000Z",
           "wordCount": 163,
           "title": "微脉发布大语言模型健康管理应用“CareGPT”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747810/",
-          "author": null,
-          "description": "据 The Information 报道，企业软件公司 Databricks 正在与投资者进行早期讨论，以寻求新的现金注入，总额可能达数亿美元。 据两位知情人士说，Databricks 在最近两个财年（截至今年 1 月）总共亏损约 9 亿美元（不包括折旧和摊销），而此次投资谈判是在该公司接近收支平衡\n本文链接",
-          "link": "https://news.cnblogs.com/n/747810/",
-          "publishedOn": "2023-08-17T12:55:00.000Z",
-          "wordCount": 163,
-          "title": "Databricks 在亏损 3.8 亿美元后，正在寻求筹集更多资金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747809/",
-          "author": null,
-          "description": "文闻旅派，作者孙均 小红书上的用户“种草”又惹麻烦了！ 近日小红书用户发文推介香港不同“免费住宿”地点，其中提到香港中文大学，称校园有部分地方可以过夜。 8 月 14 日，香港中文大学官网发文对此内容进行了澄清，表示有关传言及报道与事实不符，校园对外开放时间为早上 9 时至晚上 9 时，所有访客不得\n本文链接",
-          "link": "https://news.cnblogs.com/n/747809/",
-          "publishedOn": "2023-08-17T12:46:00.000Z",
-          "wordCount": 163,
-          "title": "小红书的十年：“媛”聚地、争议艺人、美元基金尴尬期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747808/",
-          "author": null,
-          "description": "图片来源@视觉中国 文太平洋科技 2020 年，小米成立十周年，雷军举办了自己的第一次年度演讲。从这一年开始，雷军把“年度演讲”办成了“年货”，每年 8 月如期而至。 2020 年雷军年度演讲主题是“相信自己，一往无前”，2021 是“我的梦想，我的选择”，2022 是“挫败的馈赠”，今年是“成长”\n本文链接",
-          "link": "https://news.cnblogs.com/n/747808/",
-          "publishedOn": "2023-08-17T07:40:00.000Z",
-          "wordCount": 163,
-          "title": "谁还看雷军年度演讲？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747807/",
-          "author": null,
-          "description": "文数字光年，作者陆楷，编辑陈实 百度造车，迎来最新进展。 8 月 14 日，吉利控股集团（以下简称“吉利集团”）发布消息称，吉利旗下全新汽车机器人品牌“极越”正式发布，极越品牌旗下首款车型正式命名为“极越 01”。 上述消息称，极越品牌根植于吉利与百度的多年深度协同合作，并作为双方“汽车机器人战略合\n本文链接",
-          "link": "https://news.cnblogs.com/n/747807/",
-          "publishedOn": "2023-08-17T07:25:00.000Z",
-          "wordCount": 163,
-          "title": "百度造车，回到老路上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747765/",
-          "author": null,
-          "description": "科技日报北京 8 月 16 日电 （记者张佳欣）据《自然》杂志 16 日报道，英国剑桥大学领导的一个国际研究团队找到了一种控制有机半导体中光和量子“自旋”相互作用的方法，即使在室温下也能发挥作用，为潜在的量子应用开辟了新前景。 几乎所有量子技术都涉及自旋。电子运动时通常会形成稳定的电子对，一个电子自\n本文链接",
-          "link": "https://news.cnblogs.com/n/747765/",
-          "publishedOn": "2023-08-17T00:49:09.000Z",
-          "wordCount": 163,
-          "title": "室温下量子材料实现“自旋”控制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747764/",
-          "author": null,
-          "description": "虽然你可能每天都在用钉钉，但我想你应该没有完全用过钉钉上的所有功能。 钉钉目前的用户数量已经超过 6 亿，服务的企业组织数超过 2300 万，从大公司到小店铺，每个组织都能在钉钉上找到适合自己的解决方案。 这意味着钉钉的功能足够全面，但从另一个角度来说，这也意味着它的功能多的眼花缭乱，功能太多，选项\n本文链接",
-          "link": "https://news.cnblogs.com/n/747764/",
-          "publishedOn": "2023-08-17T00:00:00.000Z",
-          "wordCount": 163,
-          "title": "你每天用来打卡的钉钉，居然藏着「ChatGPT」「Midjourney」和「Notion」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747763/",
-          "author": null,
-          "description": "这还是宁德时代第一次开线下新品发布会。 宁德时代的首场线下发布会来得的确是恰如其分，2023 年是全球动力电池的又一个「大年」，今年上半年，全球动力电池装机量创下了新高。在过去的 6 个月间，全球动力电池装机量同比增长 50%，总量数据突破 300 GWh，达到 304.3 GWh。 宁德时代，就是\n本文链接",
-          "link": "https://news.cnblogs.com/n/747763/",
-          "publishedOn": "2023-08-16T14:47:00.000Z",
-          "wordCount": 163,
-          "title": "充电10分钟，行驶400公里！宁德时代发布新电池，以后充电和加油一样快",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747762/",
-          "author": null,
-          "description": "随着以 ChaTGPT 为代表的生成式 AI 爆火，AI 技术发展的狂潮被彻底点燃，求贤若渴的 AI 人才也成了当下最为稀缺的人力资源。 美国企业也处于这股 AI 人才的招聘热潮之中，为了吸引顶级人才，一些美国公司甚至愿意支付超过七位数（人民币）的年薪。 这一趋势在求职网站上已经略显端倪。 ▲ 图片\n本文链接",
-          "link": "https://news.cnblogs.com/n/747762/",
-          "publishedOn": "2023-08-16T14:44:00.000Z",
-          "wordCount": 163,
-          "title": "千里马难求，七位数年薪也招不到 AI 人才",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747761/",
-          "author": null,
-          "description": "据财联社报道，在今天上午的 2023 中国数字经济创新发展大会上，腾讯高级执行副总裁、云与智慧产业事业群 CEO 汤道生宣布腾讯云 TI 平台正式上架。 汤道生表示，“腾讯云 TI 平台支持行业最新、最流行的开源模型，如 Llama 2、Falcon、Dolly 等，可直接部署调用，全程低代码操作。\n本文链接",
-          "link": "https://news.cnblogs.com/n/747761/",
-          "publishedOn": "2023-08-16T14:32:00.000Z",
-          "wordCount": 163,
-          "title": "腾讯云TI平台正式上架，支持Llama 2等行业最新开源模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747760/",
-          "author": null,
-          "description": "阿里云推出数字人视频生成工具 Live Portait，上传一张照片和一段文本或语音即可生成一段开口说话的数字人视频，可应用于视频直播、聊天机器人、企业营销等场景。目前，该工具已在魔搭社区创空间开放体验。据介绍，Live Portait 相关技术已被 CVPR、ICCV 等国际 AI 顶会收录。\n本文链接",
-          "link": "https://news.cnblogs.com/n/747760/",
-          "publishedOn": "2023-08-16T14:27:00.000Z",
-          "wordCount": 163,
-          "title": "魔搭社区上线AI视频生成工具Live Portait，可一键让照片开口说话",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747759/",
-          "author": null,
-          "description": "阿里达摩院今日发布多癌影像分析通用模型，可检测、分割和诊断八种主要的高发致死癌症，据称有助于实现多癌统一诊断，降低漏诊概率。 针对市面上医疗 AI 模型出现的高假阳性、漏检等问题，达摩院医疗 AI 团队联合中山大学肿瘤防治中心、四川省肿瘤医院、浙大附属第一医院、盛京医院、广东省人民医院等单位，提出了\n本文链接",
-          "link": "https://news.cnblogs.com/n/747759/",
-          "publishedOn": "2023-08-16T14:21:00.000Z",
-          "wordCount": 163,
-          "title": "阿里达摩院发布癌症分析通用模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747758/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者三北 编辑漠影 智东西 8 月 16 日报道，过去半年，越来越多的行业已经接入了大模型。 如果将大模型比作一道“佳肴大餐”，那么大模型平台就是供大厨烹饪的“厨房”。菜好不好吃，厨房的作用至关重要。当下，越来越多的“xx 行业首个大模型”诞生，大模型行业落地进入\n本文链接",
-          "link": "https://news.cnblogs.com/n/747758/",
-          "publishedOn": "2023-08-16T14:15:00.000Z",
-          "wordCount": 163,
-          "title": "引入33个大模型，百度智能云千帆大模型平台的“破茧时刻”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747757/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 编译 香草 编辑 李水青 谷歌“复仇者联盟”要面向 OpenAI 全军出击了！ 智东西 8 月 16 日消息，据 The Information 独家报道，谷歌于 4 月新合并的 AI SWAT 团队正在为秋季大型发布会做准备，将发布代号为 Gemini 的大模型\n本文链接",
-          "link": "https://news.cnblogs.com/n/747757/",
-          "publishedOn": "2023-08-16T14:04:00.000Z",
-          "wordCount": 163,
-          "title": "谷歌百人“复仇者联盟”出击！将发对标GPT-4的大模型，26位研发主管名单流出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747756/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者徐珊 编辑云鹏 智东西 8 月 16 日报道，今天魔珐科技在上海举办了超写实 3D 虚拟人新品发布会，并推出三款 3D 虚拟人终端产品：魔珐有言 3D 虚拟人视频 AIGC 平台、魔珐有光 3D 虚拟人直播 AIGC 平台以及魔珐有灵 3D 虚拟人服务 AIG\n本文链接",
-          "link": "https://news.cnblogs.com/n/747756/",
-          "publishedOn": "2023-08-16T13:55:00.000Z",
-          "wordCount": 163,
-          "title": "对话魔珐科技CEO柴金祥：首推三款消费级终端产品，AIGC的终点是3D虚拟人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747755/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者铭滟 编辑云鹏 智东西 8 月 16 日消息，刚刚一加正式发布了一加 Ace 2 Pro 系列。其搭载高通骁龙 8 第二代旗舰芯片，配备 24GB 超级内存，采用 LPDDR5X 规格，并支持 UFS4.0 的 1TB 存储。 一加 Ace 2 Pro 支持超\n本文链接",
-          "link": "https://news.cnblogs.com/n/747755/",
-          "publishedOn": "2023-08-16T13:44:00.000Z",
-          "wordCount": 163,
-          "title": "一加Ace 2 Pro首发相机Deco天线融合技术，跑分破173w，售价2999起",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747754/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者 云鹏 编辑 心缘 智东西 8 月 16 日报道，刚刚在 WAVE SUMMIT 深度学习开发者大会 2023 上，包括百度首席技术官王海峰在内的多位百度高管登台演讲并发布了一系列新技术和产品，对于大模型对人工智能产业发展的意义，王海峰进行了重点解读。 百度飞\n本文链接",
-          "link": "https://news.cnblogs.com/n/747754/",
-          "publishedOn": "2023-08-16T13:33:00.000Z",
-          "wordCount": 163,
-          "title": "背靠800万开发者，百度大模型推理能力提升20倍，首发超级助理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747753/",
-          "author": null,
-          "description": "编译 铭滟 编辑徐珊 智东西 8 月 16 日消息，据 The Verge 报道，三年疫情过后，视频会议软件风光不再。视频会议软件从之前的工作生活必备，逐步回归电话沟通的功能本质。 在疫情隔离时，为了居家办公和网课，视频会议软件成为了一种“刚需”。但随着线下生活秩序恢复正常，视频会议软件热度下降。尽\n本文链接",
-          "link": "https://news.cnblogs.com/n/747753/",
-          "publishedOn": "2023-08-16T13:22:00.000Z",
-          "wordCount": 163,
-          "title": "视频会议热度下降，Zoom也让员工回公司上班",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/747752/",
-          "author": null,
-          "description": "作者 唐飞 来源价值星球 Planet 健身行业正在加速洗牌、加速分化。 7 月底，乐刻运动举办“百城万店”战略发布会，现场宣布未来 5 年内进入 100 个城市，开到 1 万家门店。同日，乐刻发布两大子品牌瑜伽品牌馆“YOGAPOD 小瑜荚”和健身子品牌“闪电熊猫”。目前上述品牌矩阵均开放加盟。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/747752/",
-          "publishedOn": "2023-08-16T13:11:00.000Z",
-          "wordCount": 163,
-          "title": "线上狂飙、线下洗牌，健身行业进入下半场",
           "imageUrl": null
         }
       ]
