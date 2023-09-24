@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T00:58:28.981Z</updated>
+    <updated>2023-09-24T01:03:58.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[铅中毒导致的死亡和 IQ 损失超过预期]]></title>
+        <id>https://www.solidot.org/story?sid=76174</id>
+        <link href="https://www.solidot.org/story?sid=76174"/>
+        <updated>2023-09-23T14:54:25.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Lancet Planetary Health》期刊上的最新模型估计，铅中毒导致的死亡和 IQ 损失远远超过此前的预期。铅中毒会导致心脏病和大脑发育等一系列问题，含铅汽油已在全世界被禁止使用，但人们仍然可能通过食物、土壤、炊具、肥料、化妆品、铅酸汽车电池等接触到铅。世界银行的两名经济学家通过模型估计，2019 年有 550 万成年人死于铅暴露导致的心脏病，其中九成生活在中低收入国家。研究还估计，2019 年全球五岁以下儿童因铅中毒累计损失了 7.65 亿 IQ 分数，其中 95% 发生在发展中国家。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla 研究发现浏览器选择屏展示时机很关键]]></title>
+        <id>https://www.solidot.org/story?sid=76173</id>
+        <link href="https://www.solidot.org/story?sid=76173"/>
+        <updated>2023-09-23T10:57:35.000Z</updated>
+        <summary type="html"><![CDATA[欧盟的 Digital Markets Act (DMA)要求从 2024 年起为用户提供浏览器选择屏，让用户选择自己喜欢的浏览器，而不是使用默认的浏览器，同时为浏览器开发商提供一个公平竞争的机会。那么浏览器选择屏是否真的有效，如何设计最公平？Mozilla 和哈佛商学院的研究人员在德国、西班牙和波兰招募了 1.2 万人测试不同的浏览器选择屏设计、内容和时机安排。就时机安排而言，应该让用户在设备设置期间选择浏览器，而不是在打开预设的默认浏览器时展示选择屏。因为设置设备时用户需要就不同的设置做出决定，而打开预设浏览器显示选择屏则可能会打断消费者的工作流。研究人员称，小的设计变化都会影响有效性，他们认为浏览器选择屏不会一夜之间改变浏览器市场，但精心设计的选择屏至少是向正确的方向前进。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果修复了正被利用的 0day]]></title>
+        <id>https://www.solidot.org/story?sid=76172</id>
+        <link href="https://www.solidot.org/story?sid=76172"/>
+        <updated>2023-09-23T09:54:29.000Z</updated>
+        <summary type="html"><![CDATA[苹果释出了 iOS 16.7 和 iOS 17.0.1，修复了两个正被间谍软件公司 Intellexa 利用的 0day——CVE-2023-41992 和 CVE-2023-41993。漏洞是 Google 安全团队 Threat Analysis Group (TAG)与公民实验室合作发现的，上周报告给了苹果，苹果在短时间内就释出了紧急更新。Google 安全博客公布了漏洞细节。漏洞利用是通过中间人攻击执行的，当目标通过 HTTP 访问网站，一个中间人可以拦截流量将伪造的数据返回给目标，迫使目标访问不同的网站。Intellexa 的利用链组合使用了三个漏洞，整个过程不需要用户互动——即所谓的零点击攻击。TAG 团队还观察到攻击者使用相似的漏洞利用链，在埃及的 Android 设备上安装间谍软件。安全研究人员督促 Chrome 用户启用 HTTPS-First Mode 以抵御中间人攻击。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从多巴胺到美拉德，小红书潮流的尽头是优衣库]]></title>
+        <id>https://news.cnblogs.com/n/750916/</id>
+        <link href="https://news.cnblogs.com/n/750916/"/>
+        <updated>2023-09-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[不论时尚如何轮回，基本款总是长青。 作为面向男女老少的基础款品牌，优衣库的大多数衣服无功无过，主打一个好穿。 但它也正在越来越变得时尚，既有小香风、辣妹 T 等单品，也能自由搭配出春夏多巴胺和秋冬美拉德的色系。 身为平平无奇的基础款信徒，在受邀参加今年秋冬新品沙龙的时候，反而是看似不那么时尚的优衣库
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI年入10亿美元，大模型商业化走到哪一步了？]]></title>
+        <id>https://news.cnblogs.com/n/750915/</id>
+        <link href="https://news.cnblogs.com/n/750915/"/>
+        <updated>2023-09-23T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜锌财经，作者｜孙鹏越，编辑｜大风 OpenAI 又又又进化了。 北京时间 9 月 21 日凌晨，OpenAI 公司宣布，距离上个版本 17 个月后，文生图 AI 工具迎来了第三个版本 DALL·E 3。 据了解，DALL·E 3 将和 ChatGPT 集成，不仅可以用 prompt（提示词）设计
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投产15亿元建设昆山产业园，星巴克继续重仓中国掘金]]></title>
+        <id>https://news.cnblogs.com/n/750914/</id>
+        <link href="https://news.cnblogs.com/n/750914/"/>
+        <updated>2023-09-23T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[9 月 19 日，星巴克中国咖啡创新产业园 (以下简称 “产业园” ) 正式在江苏昆山落成投产，标志着中国在星巴克全球各市场内率先实现 “从生豆到咖啡” 垂直产业链的规模化整合。 钛媒体 APP 了解到，产业园建设期间追加两轮投资，总投资额 15 亿人民币（约 2.2 亿美元），是星巴克在华打造咖啡
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李佳琦风波还没平息， 24小时工作的AI主播已席卷直播间]]></title>
+        <id>https://news.cnblogs.com/n/750913/</id>
+        <link href="https://news.cnblogs.com/n/750913/"/>
+        <updated>2023-09-23T06:34:00.000Z</updated>
+        <summary type="html"><![CDATA[欢迎新进直播间的宝子们，有什么问题可以打在公屏上…… 眼前的女主播面带微笑地娓娓道来，背课文似的介绍产品卖点，语速和情绪如妆容般稳定，不用喝水和休息，更不会像李佳琦那样头痛得要死。 多看几分钟就会发现，她的脖子基本不怎么动，手势和表情只有几套，偶尔口型还对不上，这才将 AI 的身份彻底暴露出来。 更
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软必应聊天改善隐私保护：不保存有敏感信息的聊天记录]]></title>
+        <id>https://news.cnblogs.com/n/750912/</id>
+        <link href="https://news.cnblogs.com/n/750912/"/>
+        <updated>2023-09-23T06:25:00.000Z</updated>
+        <summary type="html"><![CDATA[9 月 23 日消息，根据 Windows 爱好者 @Leopeva64 分享的最新信息，必应聊天改善了对用户隐私信息的保护。如果聊天内容涉及账号等敏感信息，不会保存相关的聊天记录。 @Leopeva64 在推文中分享了一张截图，表示首次在必应聊天面板中看到该对话框，其标题为“本次对话不会保存”。 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度版AI医生叫板ChatGPT：会看CT片子，也会分诊管理]]></title>
+        <id>https://news.cnblogs.com/n/750911/</id>
+        <link href="https://news.cnblogs.com/n/750911/"/>
+        <updated>2023-09-23T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[能力“接近三甲医院的主治临床医生”，但离完全替代还得跨监管、性能的好几个坎。 文周鑫雨 编辑邓咏仪 脊髓栓系综合征（TCS），一种在新生儿中发病率约为 0.005~0.025% 的罕见病，近日被 ChatGPT 成功诊断——此前，不幸罹患 TCS 的 Alex 已经问诊了 17 名医生。 ChatG
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型能成为手机厂商的救命稻草吗？]]></title>
+        <id>https://news.cnblogs.com/n/750910/</id>
+        <link href="https://news.cnblogs.com/n/750910/"/>
+        <updated>2023-09-23T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[文硅基研究室，作者白嘉嘉 把大模型装进手机，成为了今年手机厂商最爱讲的故事。 华为、小米、OPPO、vivo、苹果都写起了大模型「上机」的同题作文。其中率先落地的华为智能助手小艺，无需用户准确说出功能名，凭直觉表达需求，小艺就能理解并执行。部分行业人士认为，手机市场格局会被重构，能够更成熟应用大模型
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“轻伤”的九号，险胜小牛]]></title>
+        <id>https://news.cnblogs.com/n/750909/</id>
+        <link href="https://news.cnblogs.com/n/750909/"/>
+        <updated>2023-09-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文陆玖商业评论 ‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍在智能电动两轮车赛道，小牛电动和九号两个品牌的发展速度和竞争态势，一直被当做判断行业走势的风向标。 而今年上半年，他们过得都不算太好。财报数据显示，小牛电动上半年营收 12.46 亿元，同比下降 11.19%，净利润亏损 0.62 亿元；九号公司
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity 公布修改后的收费方案]]></title>
+        <id>https://www.solidot.org/story?sid=76171</id>
+        <link href="https://www.solidot.org/story?sid=76171"/>
+        <updated>2023-09-23T04:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Unity 公布了修改后的收费方案，事实上放弃了备受争议的根据安装量收费的模式。Unity 在公开信中表示：Unity Personal 构建的游戏不收取 Runtime Fee，上限从 10 万美元增加到 20 万美元，取消 Made with Unity 启动画面要求；12 个月收入低于 100 万美元不收取 Runtime Fee；Runtime Fee 将从 2024 年后发布的   Unity LTS 版本开始适用，现有的游戏和正在开发中的游戏不受影响，除非开发者选择升级到明年发布的 LTS 版本；适用于 Runtime Fee 的游戏将有一个上限，或者是收入的 2.5%，或者是根据开发者自我报告的每月新玩家人数计费，取最低值。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能生10个孩子，是马斯克最不起眼的特点]]></title>
+        <id>https://news.cnblogs.com/n/750908/</id>
+        <link href="https://news.cnblogs.com/n/750908/"/>
+        <updated>2023-09-23T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[文智谷趋势 沃尔特·艾萨克森，美国著名传记作家，写传记通常有两个标准： 一：这人得是个天才，二：这人已经死了。 乔布斯、爱因斯坦、达芬奇、本杰明·富兰克林，都符合。 至今为止的两个例外，一个是刚过完 100 岁生日的美国前国务卿基辛格，另一个就是正值壮年的马斯克。 埃隆·马斯克的新传记上市首周，即售
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞猪导演“酱香茅房”闹剧 背后是流量焦虑]]></title>
+        <id>https://news.cnblogs.com/n/750907/</id>
+        <link href="https://news.cnblogs.com/n/750907/"/>
+        <updated>2023-09-23T02:16:00.000Z</updated>
+        <summary type="html"><![CDATA[文酒管财经，统筹劳殿，编辑阿聪 近日，飞猪的“酱香大床房”话题热度居高不下。 999 元即可入住位于三亚的茅台大酒店，还可获赠一瓶飞天茅台？然而开售几分钟就被下架。 正当外界视“酱香大床房”为茅台继“酱香拿铁”、“酒心巧克力”后的又一跨界爆品之时，飞猪发布声明指出，这一套餐并非三亚海棠湾茅台度假村方
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国反垄断机构让步，微软收购动视暴雪即将落定]]></title>
+        <id>https://news.cnblogs.com/n/750906/</id>
+        <link href="https://news.cnblogs.com/n/750906/"/>
+        <updated>2023-09-23T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[微软并购动视暴雪案迎来重大进展。 钛媒体 APP 于 9 月 22 日下午发现，动视暴雪官网发布了一封公司 CEO 鲍比·考迪克（Bobby Kotick）的内部信。在内部信中，考迪克向全体员工分享了动视暴雪出售的最新进展。 考迪克表示，英国竞争和市场管理局（Competition and Mark
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞猪、携程们的下半场：吃工具属性老本，补内容短板]]></title>
+        <id>https://news.cnblogs.com/n/750905/</id>
+        <link href="https://news.cnblogs.com/n/750905/"/>
+        <updated>2023-09-23T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜互联网江湖 作为游客、景区和 OTA 平台们共同的一场狂欢盛宴——“十一”黄金周，一直以来都备受社会各界的关注。 尤其是今年，作为疫情后的第一个超级黄金周，多个旅游机构平台的预测数据都显示，这个假期将会是沉寂了三年的国内在线旅游业们的一场丰收节。 或许正因如此，有部分 OTA 玩家们似乎是提前嗨
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch双指互点两下手势将从watchOS 10.1开始启用]]></title>
+        <id>https://news.cnblogs.com/n/750904/</id>
+        <link href="https://news.cnblogs.com/n/750904/"/>
+        <updated>2023-09-23T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[据 YouTube 热门科技频道 MKBHD 的主持人表示，Apple Watch Series 9 和 Apple Watch Ultra 2 的新双指互点两下手势将从 watchOS 10.1 开始启用。 watchOS 10.1 的第一个测试版很可能在下周发布，苹果公司宣布软件更新将于下个月推
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS 2022 17.7 发布，带来.NET 和 C++ 开发新功能及性能增强]]></title>
+        <id>https://news.cnblogs.com/n/750903/</id>
+        <link href="https://news.cnblogs.com/n/750903/"/>
+        <updated>2023-09-23T01:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio 2022 17.7正式发布，带来了大量的功能和改进，基于社区的反馈为开发者带来高水平的开发者体验。新版本包含与 .NET 和 C++ 开发相关的一些新特性，并提高了整体性能。最新版本已提供下载。 Visual Studio 2022 17.7 包含了一些生产力特性。Sol
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因违反反垄断法 欧盟重新对英特尔处以4亿美元罚款]]></title>
+        <id>https://news.cnblogs.com/n/750902/</id>
+        <link href="https://news.cnblogs.com/n/750902/"/>
+        <updated>2023-09-23T01:41:00.000Z</updated>
+        <summary type="html"><![CDATA[北京时间 9 月 22 日晚间消息，欧盟反垄断监管机构欧盟委员会今日表示，已重新对英特尔处以 3.7636 亿欧元（约合 4.026 亿美元）的罚款，原因是英特尔滥用其在 PC 芯片市场的主导地位来打压竞争对手。 早在 2009 年 5 月，欧盟就认定英特尔垄断罪名成立，并对其处以 10.6 亿欧元
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前华为副总裁史耀宏已离职创业，进军工商业储能 | 36碳独家]]></title>
+        <id>https://news.cnblogs.com/n/750901/</id>
+        <link href="https://news.cnblogs.com/n/750901/"/>
+        <updated>2023-09-23T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[文王方玉 编辑苏建勋 储能风口下，又有一位大企业高管离职加入储能创业大潮。 36 碳从多个独立信源处获悉，前华为副总裁、华为云与计算中国区总裁史耀宏已离职创业，成立了江苏极光云能科技有限公司（以下简称“极光云能”），聚焦于工商业储能业务。工商资料显示，极光云能成立日期为 2023 年 7 月 18 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软 Surface 四大产品线更新]]></title>
+        <id>https://news.cnblogs.com/n/750900/</id>
+        <link href="https://news.cnblogs.com/n/750900/"/>
+        <updated>2023-09-23T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[当地时间 9 月 21 日，微软推出 Surface Laptop Studio 2、Surface Laptop Go 3、Surface Go 4、Surface Hub3 等一系列新产品。 Surface Laptop Studio 2 官方称这是目前「功能最强大的 Surface」，其性能将
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[越南互联网企业VNG拟推迟上市：腾讯GIC蚂蚁集团是股东]]></title>
+        <id>https://news.cnblogs.com/n/750899/</id>
+        <link href="https://news.cnblogs.com/n/750899/"/>
+        <updated>2023-09-23T01:24:00.000Z</updated>
+        <summary type="html"><![CDATA[雷递网雷建平 9 月 22 日 据外媒透露，越南互联网企业 VNG Ltd（股票代码 VNG）准备推迟赴美上市，直到市场需求改善。VNG 原计划要募资 1.5 亿美元。 VNG 做出这一决定前，软银集团旗下的半导体设计公司 Arm 和食品杂货配送公司 Instacart 都曾一度跌破发行价。营销和数
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 亿人的小红书：时机、摇摆和决心]]></title>
+        <id>https://news.cnblogs.com/n/750898/</id>
+        <link href="https://news.cnblogs.com/n/750898/"/>
+        <updated>2023-09-23T01:18:00.000Z</updated>
+        <summary type="html"><![CDATA[理解小红书不是去看它做了什么，而是看它没做什么。 文高洪浩 编辑丨钱杨 小红书最早的产品形态是 7 个 PDF，是一系列由创始团队亲自采写、约稿的境内外购物指南。那是十年前，移动互联网时代已经开启，可创始团队给人的印象是个杂志编辑部。 十年后，日活跃用户攀升到 1 亿，小红书成为一款大众产品、一个丰
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果“含恨”续约高通背后：数千工程师造不出小小调制解调器芯片]]></title>
+        <id>https://news.cnblogs.com/n/750897/</id>
+        <link href="https://news.cnblogs.com/n/750897/"/>
+        <updated>2023-09-23T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[财联社 9 月 22 日讯（编辑马兰）苹果一直追求更轻、更快、更自主的 iPhone，这也是它不断将芯片等硬件转回内部研发的原因之一。但在 iPhone 15 上市前，其宣布与高通续约的现实显然代表了自研道路上遇到一些挫折。 苹果一直试图开发自己的 5G 调制解调器芯片，一方面，自研的调制解调器芯片
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve 对 Linux 和开源社区的贡献]]></title>
+        <id>https://www.solidot.org/story?sid=76170</id>
+        <link href="https://www.solidot.org/story?sid=76170"/>
+        <updated>2023-09-22T15:44:38.000Z</updated>
+        <summary type="html"><![CDATA[在本周举行的开源欧洲峰会上，与 Valve 合作的开源咨询公司 Igalia 谈论了 Valve 及其合作伙伴对 Linux 和开源社区的贡献。Valve 的掌机 Steam Deck 运行的操作系统 SteamOS 是基于 Arch Linux，以及 GNU 用户空间和 systemd，桌面模式为 KDE Plasma，Valve 资助了相关程序的改进。Valve 的 Steam Play/Proton 利用   了 Wine 项目，使用了 DXVK / VKD3D-Proton 等开源项目，在这些领域的持续改进对 Linux 游戏和爱好者有重大价值。Igalia 工程师参与了 Valve 在 AMD 色彩管理等方面的工作，如通过启用新的内核功能改进 Steam Play 支持。Valve 工程师还参与了 Mesa OpenGL 和 Vulkan 驱动以及内核图形驱动组件的改进。在 Linux 图形驱动上的贡献让整个 Linux 桌面生态系统都受益。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2017-2023 年近 500 品牌退出智能手机市场]]></title>
         <id>https://www.solidot.org/story?sid=76169</id>
@@ -11003,611 +11273,6 @@ New slivers，支持组合使用
         <link href="https://news.cnblogs.com/n/748265/"/>
         <updated>2023-08-25T13:16:00.000Z</updated>
         <summary type="html"><![CDATA[新智元报道 编辑：Aeneas 好困 《时代周刊》用 4 张图告诉我们，为什么 AI 发展的发展不太可能放缓，只可能加快。 在过去的十年里，AI 系统发展的速度令人惊叹。 2016 年 AlphaGo 在围棋比赛中击败李世石，就是一个开始。现在，AI 已经可以比人类更好地识别图像和语音，通过商学院考
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney画出七夕神图，震惊网友！局部重绘功能上新，马斯克和小扎对战八角笼]]></title>
-        <id>https://news.cnblogs.com/n/748264/</id>
-        <link href="https://news.cnblogs.com/n/748264/"/>
-        <updated>2023-08-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：Aeneas Midjourney 上新的局部重绘功能，让大神网友笔下诞生了一幅七夕神图。 七夕节刚过，小编一上网就被大神画的七夕神图惊到了。 圆月之下，一对神颜眷侣在桥上相拥，远山楼阁，眼前红树，水汽氤氲，夜景迷醉。 这幅图来自知名 AIGC 大神网友「歸藏」。 提示词如下——「
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中风瘫痪18年，AI让她再次「开口说话」！脑机接口模拟表情，数字化身当嘴替｜Nature]]></title>
-        <id>https://news.cnblogs.com/n/748263/</id>
-        <link href="https://news.cnblogs.com/n/748263/"/>
-        <updated>2023-08-25T12:50:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：编辑部 中风‍后，瘫痪的 Ann 失语了 18 年。就在最近，脑机接口和数字化身，竟让她能用面部表情「说话」了。 同一天，Nature 双发「脑机接口」重磅研究，足以改变整个人类！ 30 岁那年，一次毁灭性的中风，让一位 47 岁加拿大女性几乎完全瘫痪，此后失语 18 年。 幸运地
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类首个Y染色体完整序列问世！补齐最后一块基因拼图｜Nature]]></title>
-        <id>https://news.cnblogs.com/n/748262/</id>
-        <link href="https://news.cnblogs.com/n/748262/"/>
-        <updated>2023-08-25T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[丰色发自凹非寺 量子位公众号 QbitAI 终于，人类Y染色体的完整序列被科学家弄清楚了。 这意味着，人类泛基因组的最后一块拼图被拼上。 这项重磅研究刊登在最新一期 Nature 之上。 该序列提供了人类Y染色体完整的 62,460,029 个碱基对。 其中有 30,000,000 个是本次新发现的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney遇劲敌！谷歌AI绘画4大牛创业，Ideogram拿下1.2亿天使融资]]></title>
-        <id>https://news.cnblogs.com/n/748261/</id>
-        <link href="https://news.cnblogs.com/n/748261/"/>
-        <updated>2023-08-25T12:31:00.000Z</updated>
-        <summary type="html"><![CDATA[梦晨发自凹非寺 量子位公众号 QbitAI AI 绘画王座上的 MidJourney，终于迎来强劲对手。 最新挑战者 Ideogram 横空出世，开局就靠免费注册吸引众多目光。 最瞩目的特性：在图中精准生成文字，英伟达科学家范麟熙直接毫不客气地用它画了一个“It’s over, MidJourney
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推理1760亿参数的BLOOMZ，性能时延仅3.7秒 | 最“in”大模型]]></title>
-        <id>https://news.cnblogs.com/n/748260/</id>
-        <link href="https://news.cnblogs.com/n/748260/"/>
-        <updated>2023-08-25T12:23:00.000Z</updated>
-        <summary type="html"><![CDATA[编者按： 本文作者是 Hugging Face 的机器学习工程师 Régis Pierrard，并于 2023 年 3 月 28 日发布于 Hugging Face Blog[1]。感谢 Régis Pierrard 授权我们翻译和转发本文。 本文介绍了如何在 Habana® Gaudi®2[2]上
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内首款AI搜索首发实测：0广告支持多轮追问，搜索结果自动总结]]></title>
-        <id>https://news.cnblogs.com/n/748259/</id>
-        <link href="https://news.cnblogs.com/n/748259/"/>
-        <updated>2023-08-25T11:23:00.000Z</updated>
-        <summary type="html"><![CDATA[梦晨衡宇发自凹非寺 量子位公众号 QbitAI AI 大模型搅局搜索这事，又热闹起来了。 谷歌除了推出 Bard，也开始在传统搜索上实验 AI 增强；微软必应悄悄增加 GPT-4 启用开关；创业公司 Perplexity.ai 也出了新版本。 国内方面，也出现一个新物种：首款 AI 搜索产品“天工 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tor 项目宣布抵御 DoS 攻击的 Proof-of-Work Defense]]></title>
-        <id>https://www.solidot.org/story?sid=75895</id>
-        <link href="https://www.solidot.org/story?sid=75895"/>
-        <updated>2023-08-25T11:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Tor 项目宣布了设计抵御 DoS 攻击的工作量防御机制（Proof-of-Work Defense）。工作量证明 PoW 是一种动态的反应机制，在正常工作条件下保持休眠。当 onion 服务面临压力时，PoW 将提示传入的客户端连接连续执行复杂操作，onion 服务将根据客户端的工作量水平进行连接优先排序。此举旨在将 DoS 攻击的成本增加到难以维持的水平，优先考虑合法流量，抑制攻击流量。onion 服务因为优先考虑客户的隐私混淆 IP 地址而容易遭到  DoS 攻击，传统的基于 IP 的速率限制无效，因此 Tor 项目设计了一种工作量证明机制，在不影响客户隐私的同时遏制 DoS 攻击。如果攻击者向 onion 服务发送大量连接请求，PoW 防御会启动增加访问 .onion 网站所需的计算量。增加的计算量对绝大部分设备是可控的，所耗费时间从 5 毫秒到 30 毫秒。攻击流量增加，工作量就会增加，最多需要 1 分钟的工作量。整个过程对用户是不可见的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 岁前吸烟更容易上瘾更难戒掉]]></title>
-        <id>https://www.solidot.org/story?sid=75894</id>
-        <link href="https://www.solidot.org/story?sid=75894"/>
-        <updated>2023-08-25T10:32:57.000Z</updated>
-        <summary type="html"><![CDATA[欧洲心脏病学会年会 ESC Congress 2023 上发表的一项调查结果称，随着人们年龄的增长，吸烟的成瘾性会降低，并且更容易戒烟。20 岁之前开始吸烟的人对烟草的上瘾程度更高，且更难戒烟。日本的调查数据显示，较晚开始吸烟的人每天吸 22 支烟，较早开始吸烟的人每天吸烟数量较多，达 25 支。较早开始吸烟者成功戒烟的人数不到一半 ，仅 46%。而较晚开始吸烟者成功戒烟的比例为 56%。日本京都国立医院组织京都医疗中心的研究作者 Koji Hasekawa 博士说：“我们的研究结果表明，过早开始吸烟与较高的尼古丁依赖性有关，即使在青年时期也是如此。这项研究表明，将购买烟草的法定年龄提高到 22 岁或以上，可以减少尼古丁成瘾和面临不良健康后果风险的人数。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[32k上下文可商用！羊驼进化成长颈鹿，“开源大模型之最”]]></title>
-        <id>https://news.cnblogs.com/n/748258/</id>
-        <link href="https://news.cnblogs.com/n/748258/"/>
-        <updated>2023-08-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[丰色发自凹非寺 量子位公众号 QbitAI 号称“世界首个上下文长度达 32k 的开源可商用大模型”来了。 名字“简单粗暴”，就叫“长颈鹿”（Giraffe），基于 130 亿规模的 Llama-2 打造。 如作者所言，原始的 Llama-2 和 Llama-1 都只有 4k 上下文，很难真正在企业
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 支持从 Chrome 导入扩展]]></title>
-        <id>https://www.solidot.org/story?sid=75893</id>
-        <link href="https://www.solidot.org/story?sid=75893"/>
-        <updated>2023-08-25T08:56:44.000Z</updated>
-        <summary type="html"><![CDATA[Firefox 已经实现了 WebExtensions 扩展系统，它现在允许 Firefox 用户从 Chrome 等浏览器导入部分扩展。该功能还在测试中，没有默认启用。用户需要修改 about:config，修改 browser.migrate.chrome.extensions.enabled 的值为 True 后就可以启用该功能。用户可以从菜单 > 设置 > 导入数据中选择 Chrome 导入扩展。Firefox 实现的 WebExtensions 与 Chrome 不完全兼容，目前仅限于 部分扩展。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节造芯新进展：编码提升30%、转码“以一当百”，服务火山引擎]]></title>
-        <id>https://news.cnblogs.com/n/748257/</id>
-        <link href="https://news.cnblogs.com/n/748257/"/>
-        <updated>2023-08-25T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[允中整理自火山引擎 量子位公众号 QbitAI 去年 7 月，外界曾有字节造芯传闻，字节跳动副总裁杨震原在媒体采访中回应称，公司无通用芯片商业计划，没有涉足 CPU、GPU 等通用芯片业务。 自研芯片探索主要围绕自身视频推荐业务展开，研发团队将为字节跳动大规模视频推荐服务专用场景定制硬件优化，如视频
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[102岁统计学传奇C.R.Rao去世：他的一生经历「统计学的一个世纪」]]></title>
-        <id>https://news.cnblogs.com/n/748256/</id>
-        <link href="https://news.cnblogs.com/n/748256/"/>
-        <updated>2023-08-25T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[鱼羊发自凹非寺 量子位公众号 QbitAI 统计学传奇大师C. R. Rao 去世了，享年 102 岁。 学过统计学的人都对他的名字不陌生—— Cramér–Rao 不等式正是以他和 Harald Cramér的名字命名。 而他在《统计与真理》扉页上写下的一句话，也在中文世界广为流传： 在终极的分析
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[既“躺不平”又“卷不赢”，漩涡之中的ARM该如何自救？]]></title>
-        <id>https://news.cnblogs.com/n/748255/</id>
-        <link href="https://news.cnblogs.com/n/748255/"/>
-        <updated>2023-08-25T08:27:00.000Z</updated>
-        <summary type="html"><![CDATA[来源：智能相对论 国产 ARM 红海竞争，趋同下的内卷已不可避免。 在日益白热化的市场情况中，面对“长板不够长，短板太明显”的 ARM 生态，以及 X86 和全面自研两条路线国产 CPU 的围猎，昔日芯片霸主 ARM 正陷入尴尬之境：既躺不平，又卷不赢。 如何“自救”？成为摆在 ARM 和国产 AR
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国科学技术大学联手新加坡管理大学，推出图像生成模型CgT-GAN]]></title>
-        <id>https://news.cnblogs.com/n/748254/</id>
-        <link href="https://news.cnblogs.com/n/748254/"/>
-        <updated>2023-08-25T08:19:00.000Z</updated>
-        <summary type="html"><![CDATA[据 Arxiv 页面显示，中国科学技术大学近日联手新加坡管理大学发布一款图像生成模型 CgT-Gan。 CgT-GAN 通过将图像纳入训练过程，使模型能够“看到”真实的视觉模态。具体来说，研究团队采用对抗训练来教导 CgT-GAN 模型模仿外部文本语料库的短语，同时利用基于 CLIP 的奖励机制提供
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[裸鼹鼠长寿基因延长了小鼠寿命]]></title>
-        <id>https://www.solidot.org/story?sid=75892</id>
-        <link href="https://www.solidot.org/story?sid=75892"/>
-        <updated>2023-08-25T08:15:41.000Z</updated>
-        <summary type="html"><![CDATA[罗切斯特大学的研究人员成功将裸鼹鼠长寿基因转移到小鼠身上，改善了小鼠的健康并延长了其寿命。裸鼹鼠以其长寿和衰老相关疾病的抵抗能力而知名。通过将加强细胞修复和保护的特定基因引入到小鼠身上，研究人员为解开衰老的秘密和延长人类寿命提供了令人兴奋的可能性。裸鼹鼠的寿命最高能达到 41 岁，是同等大小啮齿类动物的十倍。而且随着年龄的增长，裸鼹鼠通常不会患上神经退行性疾病、心血管疾病、关节炎和癌症等衰老相关疾病。研究人员此前发现，hyaluronic acid (HMW-HA) 是裸鼹鼠抗癌能力的关键。研究人员对小鼠进行基因改造，引入了裸鼹鼠 hyaluronan synthase 2 基因版本，该基因负责制造产生 HMW-HA 的蛋白质。实验显示，相比普通小鼠，基因改造版的小鼠更健康，中位寿命延长了约 4.4%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查显示，三分之一美国投资者愿意相信AI给出的投资建议]]></title>
-        <id>https://news.cnblogs.com/n/748253/</id>
-        <link href="https://news.cnblogs.com/n/748253/"/>
-        <updated>2023-08-25T08:12:00.000Z</updated>
-        <summary type="html"><![CDATA[据 CointeleGraph 报道，美国理财规划顾问认证协会（CFP Board）日前公布的问卷调查结果显示，约三分之一的受访的美国投资人表示，愿意听从生成式 AI 提供的财务投资建议。 这次调查在今年 7 月初进行，CFP Board 针对一千一百多名成年投资人进行了调查。调查结果显示，有 31
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17.68 万元起 比亚迪海豹DM-i开启预售：狙击合资燃油B级车]]></title>
-        <id>https://news.cnblogs.com/n/748252/</id>
-        <link href="https://news.cnblogs.com/n/748252/"/>
-        <updated>2023-08-25T08:08:00.000Z</updated>
-        <summary type="html"><![CDATA[8 月 25 日消息，比亚迪海洋网全新插混中型轿车海豹 DM-i 开启预售，共推出六款配置车型，纯电续航分为 121km 和 200km 两个版本，预售价区间为 17.68-24.68 万元，预计将于近期正式上市。 海豹 DM-i 整体采用了比亚迪“海洋美学”设计理念打造，确实与海豹有几分相似。前脸
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉入局，大功率无线充电与“边走边充”还有多远？]]></title>
-        <id>https://news.cnblogs.com/n/748251/</id>
-        <link href="https://news.cnblogs.com/n/748251/"/>
-        <updated>2023-08-25T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文能链研究院 马斯克曾表示，与 250 千瓦、350 千瓦功率的超级充电站比，电动汽车无线充电显得“低效无能”。言外之意，短期不会布局无线充电。 但话音刚落不久，特斯拉就宣布收购德国无线充电公司 Wiferion，收购价格高达 7600 万美元，约 5.4 亿人民币。这家公司成立于 2016 年，专
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 发布代码生成 AI 模型 Code Llama]]></title>
-        <id>https://www.solidot.org/story?sid=75891</id>
-        <link href="https://www.solidot.org/story?sid=75891"/>
-        <updated>2023-08-25T07:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Meta 发布了它的代码生成 AI 模型 Code Llama。类似 GitHub Copilot 和 Amazon CodeWhisperer，以及 StarCoder、StableCode 和 PolyCoder 等开源 AI 代码生成模型，Code Llama 支持为 Pytho、C++、Java、 PHP、Typescript (Javascript)、C# 和 Bash 等编程语言补完代码和调试。Code Llama 是 Llama 2 的编程专用版本，有 7B、13B 和 34B 参数三个版本，使用 500B tokens 的代码和代码相关数据进行训练。其中 7B 参数的版本可以单张 GPU 上运行，7B 和 13B 参数版本更适合实时代码补完之类的任务，而 34B 参数版本更适合作为编程助手使用。Code Llama 采用和 Llama 2 相同的许可证，可作为研究和商业使用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一场关于华为5G手机回归的变局]]></title>
-        <id>https://news.cnblogs.com/n/748250/</id>
-        <link href="https://news.cnblogs.com/n/748250/"/>
-        <updated>2023-08-25T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[文商隐社，作者第二人生，编辑 齐马 关于华为将推出 5G 手机的爆料、讨论、辟谣每年都有，但今年的声量似乎格外大，颇有山雨欲来风满楼的感觉。 前段时间，腾讯《深网》在一篇文章中援引某渠道商消息，称华为终端 BG 首席运营官何刚曾在视频会议中透露过，“10 月份之后，华为会有重大消息公布”，并且有华为
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM模拟AI芯片登Nature：能效提升14倍，语音识别速度提升7倍]]></title>
-        <id>https://news.cnblogs.com/n/748249/</id>
-        <link href="https://news.cnblogs.com/n/748249/"/>
-        <updated>2023-08-25T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[智东西（公众号：zhidxcom） 编译 香草 编辑 李水青 智东西 8 月 24 日消息，8 月 23 日，IBM 研究中心发布了一款新型模拟 AI 芯片，在语音识别和转录等自然语言处理 AI 任务上，其能源效率较传统芯片提升约 14 倍，相关论文已刊发于国际顶刊 Nature。 据介绍，这款芯片
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大主播的气，快手不想再受了]]></title>
-        <id>https://news.cnblogs.com/n/748248/</id>
-        <link href="https://news.cnblogs.com/n/748248/"/>
-        <updated>2023-08-25T07:29:00.000Z</updated>
-        <summary type="html"><![CDATA[文螺旋实验室，作者牧歌，编辑坚果 时至今日，恐怕已经没有哪个快手主播，再敢拍着桌子和官方叫板了。 曾经一度在快手社区内横行无阻的主播家族，如今皆已经乖乖夹起尾巴。近日，快手宣布无限期封禁知名主播二驴，此前，他因在青岛户外直播时编造剧本进行摆拍，被当地公安机关通报处罚。 二驴在快手平台坐拥 4800 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-Mobile计划在未来五周内裁员5000人 约占员工总数的7%]]></title>
-        <id>https://news.cnblogs.com/n/748247/</id>
-        <link href="https://news.cnblogs.com/n/748247/"/>
-        <updated>2023-08-25T07:22:00.000Z</updated>
-        <summary type="html"><![CDATA[8 月 25 日消息，据外媒报道，当地时间周四，T-Mobile 宣布，计划在未来五周内裁员 5000 人（约占员工总数的7%），以削减开支。 该公司 CEO 迈克尔-希沃特（Michael Sievert）在发给员工的电子邮件中表示，吸引和留住客户的成本要“比前几个季度高得多”。 他说，此次裁员将
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[造车两年半拿到汽车生产资质，小米汽车还缺什么？]]></title>
-        <id>https://news.cnblogs.com/n/748246/</id>
-        <link href="https://news.cnblogs.com/n/748246/"/>
-        <updated>2023-08-25T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[文智行驾道 从 2020 年 3 月，雷军宣布小米进军汽车行业至今，已经过去了两年半。随着“小米汽车 2024 年上半年量产”的时间节点逐渐临近，近期，关于小米汽车的爆料一时间又多了起来。 8 月 19 日，雷军微博发布了一张小米总裁卢伟冰等人手持“为小米汽车而战”横幅的照片，该条微博定位为新疆。与
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能家居设计师如何打造全屋智能-智能别墅案例]]></title>
-        <id>https://sspai.com/post/82266</id>
-        <link href="https://sspai.com/post/82266"/>
-        <updated>2023-08-25T07:02:36.000Z</updated>
-        <summary type="html"><![CDATA[文章目录：
-
-项目概况
-系统介绍
-设计施工
-安装调试
-交付试运行
-项目总结
-
-    GIRA KNX系统集成Apple Homekit智能家居别墅设计案例
-
-1.项目概况
-1.1 项目介绍
-
-这套智能别墅的项目案例是在宁波, 通过前期的沟通,客户的需求也很明确: 智能家居系统使用德国进口的吉徕GIRA-KNX智能家居系统以及整合苹果的Homekit智能家居平台, 要求控制全宅的灯光,窗帘,暖通,门禁等系统, 使用GIRA的可视对讲系统以及配套的GIRA-G1中控屏实现全屋智能控制和可视对讲功能; 
-监控系统还是使用海康威视的方案,无线网络系统使用美国UBNT公司的UniFi无线WiFi解决方案,有线网络系统则是使用H3C的商用网络设备,后期客户需要自行增加软路由设备,这套网络系统也是非常灵活. 
-
-整套智能家居系统既可以使用GIRA原厂的Gira Smart Home 软件APP进行控制也可以使用苹果的‘家庭APP’集成到Homekit系统进行控制,本地控制使用了GIRA的KNX智能温控面板, 一块面板集成控制了灯光/窗帘/空调/地暖/场景的控制,使得房间墙面非常干净整洁,是极简主义者的福音.
-1.2项目流程
-很多客户向我咨询做智能家居时，对整个项目的流程都不太清楚，根据我十多年做项目的经验总结了一下整个智能家居工程的施工流程，方便客户整体把握整个装修工程的进度安排以及了解智能家居的各个施工环节以及流程。
-
-2.系统介绍
-我们这套智能别墅案例设计使用了以下这些系统,简单做一下介绍:
-
-2.1智能系统介绍
-a.智能照明系统 (包含灯光场景，灯具调光，智能插座控制，德国GIRA KNX智能系统)
-b.智能遮阳系统 (包含电动窗帘，电动卷帘控制，德国GIRA KNX智能系统)
-c.智能温控系统 (包含水机中央空调，地暖控制，德国GIRA KNX智能系统)
-d.对讲门禁系统 (包…]]></summary>
-        <author>
-            <name>大盗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内容的未来，是广告还是用户付费？]]></title>
-        <id>https://sspai.com/post/82309</id>
-        <link href="https://sspai.com/post/82309"/>
-        <updated>2023-08-25T07:00:08.000Z</updated>
-        <summary type="html"><![CDATA[看了一篇媒体平台Medium的合伙人Ev Williams写的文章，标题是《付费内容的合理性》The rationalization of publishing | by Ev Williams | Medium
-文章探讨的内容是广告和付费两种内容模式，哪一个更合理。文章开头就直接爆言：仅靠广告的内容商业模式已经被证明是失败的，而那些能提供优质信息的个人或公司，才能建立更强大的业务，并且消费者将得到更好的内容服务。
-恰好，我的主业就是内容生产者，也就是自媒体，我们团队的业务，同时具备广告属性和内容付费属性，聊一聊我的思考。
-我们知道，在纸媒时代，报纸的主要盈利并不在于人们的付费，而在于广告收入，实际上，人们买那份报纸的钱，还抵不上印刷成本加上运输成本，如果只算这个钱，可以说是卖一份赔一份。
-后来数字媒体到来了，人人可以发表内容的自媒体时代也就随时到来，由于不再存在印刷成本，并且发布的内容通过互联网可以触达更多的读者，所以数字媒体完全可以只靠广告就维持生存。
-如果说这种模式真的很好，那倒是一个很理想的双赢局面，一方面，所有读者都可以通过互联网免费获取信息；另一方面，创作者也能实现盈利，甚至把业务做得很大。
-从传统纸媒时代到数字媒体时代，从官媒时代到自媒体时代，前20年确实也就是这种基于广告的商业模式支撑了整个行业，在国内，从公众号到B站，从抖音到小红书，似乎把流量做大、接商单成了一条内容创作者必走的道路。
-早先因为支付困难、信任问题，内容创作者从消费者那里获取收入是一件很难的事儿，现在做到这一点依然很难，但主要问题已经不在基础设施层面了。这一点国内的创作者比国外要幸运一些，很多平台都提供了很好的内容支付支持，只要你能说服读者掏钱，完成支付不是一件很难的事儿。
-我们回到行业发生改变的一开始，情况是这样的，因为对读者收费很难，创作者们很自然地寻求广告收入，那时候的广告内容主要是小…]]></summary>
-        <author>
-            <name>孙彬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[内测邀请]对谈：播客连麦录制、剪辑、分发一体化社区]]></title>
-        <id>https://sspai.com/post/82344</id>
-        <link href="https://sspai.com/post/82344"/>
-        <updated>2023-08-25T06:58:52.000Z</updated>
-        <summary type="html"><![CDATA[当一个播客主需要与自己的拍档或嘉宾远程连麦并录音时需要怎么做？无论是头部主播还是普通主播，都需要准备两款软件，一款用于连麦，一款用于录音。还需要拍档或者嘉宾把他们录制的本地音频传给自己用于后期剪辑，再使用Audition或者其他剪辑软件进行剪辑，最后发布到各个平台上。
-为什么需要两款软件才能完成远程连麦的播客语音录制呢？因为大多数连麦软件是以会议、社交为主要消费场景，核心在于“听得见”，大多数内容并没有留存下来的价值，所以音质的好与坏并不重要、更遑论这些软件的录制受网络波动影响，经常会出现音画不同步、电流音等问题。所以这个时候还需要一款录音软件用于录制播客主或者其嘉宾的干音，保证声音流畅、音质可听。
-后续还需要通过专业剪辑软件进行剪辑处理，但无论是音频还是视频的剪辑软件，要么是功能过剩带来极高的上手门槛，要么不匹配播客的场景，所以一直以来，播客的创作就是各种坎坷，一个播客主想要发布一个“合格”的“播客”无异于过五关斩六将。
-基于以上的诉求，我们开发了一款将播客连麦录制、剪辑、分发一体化的社区产品，当前产品还在小规模内测阶段，还有很多不足，在未来的开发过程中，我们会把这些不足一点点补齐。
-如何解决播客主连麦录制的痛点？
-我们在做产品策划的时候，定下了三个目标：
-
-录制的声音不能受任何网络波动
-音质一定要在我们的力所能及的范围内做到最好
-针对播客的实际录制场景，一定要做多轨的素材录制
-
-最后根据我们的技术调研最终确立了以本地录制为核心，4Mbps视频码率以及192Kbps音频码率的质量标准。虽然受限于手机本身的麦克风效果，录出来的音质肯定是不如罗德麦克风，但是面向大多数播客主及其嘉宾应当是够用了。
-录出来的素材质量
-当然要保证录制质量和连麦的流畅度，《对谈》对网络也有一定的要求，起码要有15M的上下行速度，根据上海电信最便宜的宽带套餐，100M下行和20M上行来看，我们应当是满…]]></summary>
-        <author>
-            <name>对谈App</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUJI ROCK 不完全攻略]]></title>
-        <id>https://sspai.com/post/82423</id>
-        <link href="https://sspai.com/post/82423"/>
-        <updated>2023-08-25T04:56:18.000Z</updated>
-        <summary type="html"><![CDATA[写在前面
-千呼万唤的攻略终于写完啦。
-FUJI ROCK 的历史
-FUJI ROCK 其实源自 1997 年在富士山脚下的天神山滑雪场办的一个音乐节。后来才把会场转移到现在的新泻县苗场滑雪场。一共举办了 26 届（算上今年 2023 年的话），其中 2020 年由于新冠疫情停办一年。
-关于 FUJI ROCK 的 Title 多到数不胜数，什么“亚洲最好的户外音乐节”，什么“世界三大音乐节之一”，什么“世界上最干净的音乐节”等等。当然，这些都非浪得虚名，而是实至名归。
-FUJI ROCK 最让人着迷的一点，是他们坚持的「自然与音乐和谐共存」理念。
-在 FUJI 会场，你能随处可见停在人们身上的蜻蜓。在露营区你能碰到好多小昆虫。在露营区深处说不定还会碰到山上的熊。
-如何买票
-来 FUJI ROCK 最重要的当然是门票。FUJI ROCK 的门票也有好多种，包括入场券、露营区门票、停车券、PLUS 等。
-入场券
-今年入场券价格分三段，越早买越便宜，当然临近演出日期也会有跳车的。FUJI ROCK 是允许转票的。我就是签证下来之后才收的三日通票，兑换手环时只需要给工作人员看一下邮箱里的电子二维码和购票人的护照信息就行，过程十分流畅。
-
-露营区门票
-选择露营的小伙伴别忘了要买露营区门票，否则是没办法进入露营区的，今年价格为 5000 日元/人。
-PLUS
-至于 PLUS 则是可以买饭、买周边不需要排队，以及专属休息区等特权，但价格高昂。其实可以几个人拼一个 PLUS，省去好多排队时间挺值的。
-如何去会场
-乐迷组织的大巴
-第一次去 FUJI ROCK 嫌自己倒车麻烦的其实比较推荐坐乐迷自己组织的大巴。比如我这次就坐的群主 Kun 哥的大巴，早上 8:30 左右从新宿出发，中间路过服务区会停 2-3 次，最后 13:00 到达会场门口，费用是 350 RMB。
-下面这张照片就是我在新宿…]]></summary>
-        <author>
-            <name>Wonz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脑机接口让瘫痪者以意念“发声”]]></title>
-        <id>https://www.solidot.org/story?sid=75890</id>
-        <link href="https://www.solidot.org/story?sid=75890"/>
-        <updated>2023-08-25T03:53:21.000Z</updated>
-        <summary type="html"><![CDATA[《自然》发表的两篇论文报告了新的脑机接口装置，不仅能将大脑活动解码为语言，而且比当前所有技术都更迅速、更准确且覆盖词汇量更大。这一成果展示了在帮助严重瘫痪人群恢复沟通能力方面的技术进步。由斯坦福大学团队开发的脑机接口装置，可以通过插入大脑的细电极阵列收集单个细胞的神经活动，并训练人工神经网络来解码病人想说的话。在该装置的帮助下，一名肌萎缩性侧索硬化症病人能以每分钟 62 个词的速度进行交流，这种语速是此前类似装置的 3.4 倍，更接近自然对话（每分钟约 160 个词）。在另一项研究中，加州旧金山团队开发了一种基于不同方法获取大脑活动的脑机接口装置，其电极覆盖在大脑表面并侦测许多细胞的活动，可以将大脑信号同时转化为三种输出形式：文字、语音和控制一个头像。研究人员训练了一个深度学习模型解码一名患者的神经数据，该患者因脑干中风而严重瘫痪，收集数据时病人无声地说出句子。脑信号到文字的转译速度中位数为每分钟 78 个词（错误率为 25%）；脑信号转译为语音时，372 词汇量下错误率为28.2%，词汇量越小，错误率越低。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微星泄露英特尔 14 代酷睿处理器性能，比上一代平均提升 3%]]></title>
-        <id>https://www.solidot.org/story?sid=75889</id>
-        <link href="https://www.solidot.org/story?sid=75889"/>
-        <updated>2023-08-25T03:42:12.000Z</updated>
-        <summary type="html"><![CDATA[微星不小心泄露了产品培训视频，其中包括一张幻灯片披露了英特尔即将推出的下一代酷睿系列处理器的性能，平均提升 3%，主要变化是能效核心（E 核）和性能核心数量（P 核）的配置，通过增加 E 核的数量，芯片巨人设法实现了两位数的多核性能提升。14 代酷睿处理器和 13 代相差不大，其中 Core i7-14700K 有 12 个 E 核，上一代的 Core i7-13700K 只有 8 个 E 核。Core i9-14900K 仍然是 8P+16E 配置，Core i5-14600K 也是  6P+8E 的配置。14 代酷睿仍然是采用 Intel 7 工艺，提供了更高的 DDR5 频率支持，平均性能提升 3%。其中 Core i7-14700K 因为增加了 4 个 E 核，多核性能提升了 17%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用obsidian搭建我的个人知识管理工作流]]></title>
-        <id>https://sspai.com/post/82012</id>
-        <link href="https://sspai.com/post/82012"/>
-        <updated>2023-08-25T01:52:22.000Z</updated>
-        <summary type="html"><![CDATA[在尝试了印象笔记、苹果原生备忘录、notion 等笔记类工具之后，我最终选择了 Obsidian 来进行个人知识管理。
-我曾经沉迷于印象笔记构建层层叠叠、等级分明的文件夹体系，喜欢苹果原生备忘录的简单快捷、多端同步，热衷于 notion 漂亮炫酷得如个人主页一般的界面设置……
-但这些，是笔记体系或是个人知识管理的核心吗？
-笔记体系的核心应该是笔记本身，而不是其他任何附加。
-个人知识管理专家 Tiago Forte 把笔记体系分为了三种类型：
-
-以文件夹为核心的笔记体系：设立一层层文件夹来管理笔记，好处是乍一看很规整，但物理隔绝了笔记，很难让笔记间能产生化学反应
-以标签为核心的笔记体系：注重给笔记打标签，好处是打破了笔记之间的文件夹壁垒，以更多维度让不同笔记得以连接，但打标签本身是一件很复杂且繁琐的事情
-以笔记为核心的笔记体系：不再依赖文件夹或标签，强调每一篇笔记的原子性、自主性和独立性，通过笔记本身相互连接。
-
-在以笔记为核心的笔记体系中，你 100% 的精力、注意力都会在笔记本身，而不需要额外花时间去想该给笔记打什么标签、放进哪个文件夹里。
-文本本身就是最好的检索标签，所以不需要对笔记过度打标签。也不需要费心去想某个笔记该放进哪个文件夹。因为即便是靠标签或文件夹找到了某篇笔记，你依然得扫读一遍确认相关性。
-因此，我希望我的笔记工具可以：
-
-即开即用，不用花心思装饰
-能建立起笔记间的连结
-存储稳定不会丢失
-有知识采集插件
-方便查找笔记
-多端同步
-免费
-
-这些，对比下来几个笔记工具，Obsidian 是最能满足我现阶段需求的一款。
-01｜我的 Obsidian 文件夹设置
-我在 Obsidian 中的文件夹是按照我的个人知识管理工作流所涉及到的步骤来进行设置的，更像是一个归档整理，而不是用来精细化地分类笔记本身。
-
-我没有严格按照《卡片笔记写作法》里的分类进行设置，因为我不想…]]></summary>
-        <author>
-            <name>小梨笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html"/>
-        <updated>2023-08-25T00:06:22.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-甘肃瓜州的戈壁滩上，有一座头像雕塑《汉武大帝》。两千多年前，汉武帝曾经派遣军队，在此处战胜过匈奴。这个头像高达12.5米，采用红砂岩材质，通过 3D 雕刻逐块拼装而成。（via）
-生产力是形容机器，不是形容人
-程序员创业以后，还喜欢写书，真是绝无仅有。我只知道一个例子。
-贾森·弗里德（Jason Fried）和戴维·汉森（David Heinemeier Hansson），是互联网公司 37signals 的主要创始人。他们除了写程序，就喜欢写书。
-
-他们已经写了四本书，都很出名，全部有中文版。
-《实干》（Getting Real），2006
-《重来》（Rework），2010
-《远程》（Remote），2013
-《何必工作狂》（It Doesn't Have to Be Crazy at Work），2018
-
-这四本书，我全部看过，都是小册子，收录了很多短文，解释他们的创业思想。
-这些文章的主旨，简单说就是一句话：如何创办一家"小而美"的互联网公司。
-他们只有几十个人，没有拿过一分钱风险投资，但是活得非常好，每年有几千万美元的收入。他们的书就是解释他们的创业哲学。
-我最近读完了他们的第四本书，正式的中文书名叫作《重来3：跳出疯狂的忙碌》（电子工业出版社，2020），英文书名为"It Doesn't Have to Be Crazy at Work"（直译就是《何必工作狂》）。
-
-其中，有一篇文章特别发人深思，提出了一个我从未意识到的观点，今天想分享给大家。
-文章说，不要用"生产力"这个词评价程序员，因为它是评价机器的。
-
-"生产力"这个词，英文为 productive，它的高低用产品的多少来…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[顺丰二次冲上市，需要直播带货故事推一把]]></title>
-        <id>https://news.cnblogs.com/n/748201/</id>
-        <link href="https://news.cnblogs.com/n/748201/"/>
-        <updated>2023-08-24T23:40:00.000Z</updated>
-        <summary type="html"><![CDATA[文一刻商业，作者麦卡，编辑以安 又一家快递公司计划二次上市，这次是行业头部选手顺丰。 2023 年 8 月 1 日，顺丰控股发布公告称，将申请在港交所上市，在股东大会决议有效期内（即经公司股东大会审议通过之日起 18 个月，或同意延长的其他期限）择机完成本次发行并上市。 随后在股东大会上，顺丰董事长
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一年向老外卖百万件手机壳，Custype如何深耕跨境电商？]]></title>
-        <id>https://news.cnblogs.com/n/748200/</id>
-        <link href="https://news.cnblogs.com/n/748200/"/>
-        <updated>2023-08-24T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[文增长工场，作者晚乔、徐伟，编辑徐伟， 出海找机会，已经成为越来越多品牌、商家的共识。 但现实中，由于文化、消费习惯的差异，大部分品牌、商家发现无法将国内的产品思路、营销打法复制到海外，面临“水土不服”的困境。 向成功者取经，是减少走弯路的最好办法。 最近，我们走访了一个专注手机壳的轻奢品牌 Cus
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度： 云歇了，广告撑门面]]></title>
-        <id>https://news.cnblogs.com/n/748199/</id>
-        <link href="https://news.cnblogs.com/n/748199/"/>
-        <updated>2023-08-24T23:22:00.000Z</updated>
-        <summary type="html"><![CDATA[文海豚投研 北京时间 8 月 22 日港股盘后，$百度 .US（9888.HK；BIDU.O）发布了 2023 年二季度财报。由于爱奇艺业务变化已经发生多个季度，并且有望逐步走通商业模式，因此这次我们除了看百度核心业务之外，也会在最后单独讨论下 $爱奇艺 .US 的情况。 先说总体观感：百度核心的业
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity中国：团结引擎9月起内测，AI 技术将渗透游戏开发全过程]]></title>
-        <id>https://news.cnblogs.com/n/748198/</id>
-        <link href="https://news.cnblogs.com/n/748198/"/>
-        <updated>2023-08-24T23:19:00.000Z</updated>
-        <summary type="html"><![CDATA[8 月 23 日下午，实时 3D 内容创作与运营平台 Unity 中国在上海发布全新的团结引擎创世版。 相比 Unity 海外产品，团结引擎以 Unity 2022 LTS 为基础，基于中国本土原创性开发优化与拓展，不仅提供 AI 技术支持，兼容 Windows、 Linux、Android、iOS
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么是小红书长出了「轻社交」]]></title>
-        <id>https://news.cnblogs.com/n/748197/</id>
-        <link href="https://news.cnblogs.com/n/748197/"/>
-        <updated>2023-08-24T23:12:00.000Z</updated>
-        <summary type="html"><![CDATA[文吴怼怼，作者斯维奇‍‍‍‍‍‍ 在小红书有一个 1.9 亿浏览量的 tag 叫「#走不出去的评论区」，点赞量达数万的热门笔记，发帖人都是粉丝数量只有几百乃至几十人的素人博主，评论区八仙过海各显神通，精辟的评论常常会获得超过笔记本身的点赞数。 可以分享自己边缘生活经验，一个精心洗净养护的毛绒绒的宠物
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记账体系的建立和完善]]></title>
-        <id>https://sspai.com/post/82414</id>
-        <link href="https://sspai.com/post/82414"/>
-        <updated>2023-08-24T17:35:22.000Z</updated>
-        <summary type="html"><![CDATA[可能因为我是 ISTJ，天生喜欢规律性的事情，总之，很多人坚持不下来的记账我却轻而易举坚持下来了。但是，单纯的记账是没有意义的，我们需要充分发挥记账的作用，管理好自己的财务水平，知乎上的一个答主将后面的过程总结为分析和预算，我觉得相当贴切，所以开篇就先简单介绍一下这个体系：
-
-跟踪：跟踪各账户（银行账户、信用卡、理财产品、股票账户等）情况，也就是我们通常情况下说起“记账”所指代的内容，需要我们保持记账的准确，设置合理的分类与标签供分析阶段使用，同时定期进行对账，补录缺失的流水或直接调整账户余额以便和实际情况匹配。
-分析：一是通过资产管理界面掌握自己的总资产变化情况及各账户资产所占的比重；二是通过定期对比收入和支出及时发现入不敷出的风险，定位其中不健康的项目，从而能够修正自己的消费习惯；三是通过各分类支出来指导下一个周期的预算制定，从而能够有效控制自己的消费水平。另外，还可以通过分析自己的投资收益情况指导自己的投资理财计划，分析总的收入构成指导构建多样化的收入体系，提高收入的稳定性。
-预算：建立预算并按预算消费是控制支出的有效方法，一种是针对未来的大项建立预算，比如装修、婚礼、旅行。另一种是通过一段时间记账后，基本了解自己的消费情况，按照已有的记账历史记录建立预算跟踪和控制每月开支。
-
-目前为止，我累计使用一羽记账已经466天了，加上此前一年多的随手记使用历史，以及一段时间的手记历史，我的记账经验也算丰富，正文主要就介绍我自己应用这个体系的方法。需要注意的是，以下所有内容都基于我使用的一羽记账 App，其他记账 app 不一定有相应的功能。
-跟踪
-跟踪的重点是在记账 app 中有针对性地设置和使用分类、标签、备注等功能，分类设置不好，就很难有效地进行分析和预算制定，记账就失去了意义。这一节主要介绍如何合理分类，此外，还对记账中遇到的退款、报销等复杂情况作说明。
-合理分类
-首先…]]></summary>
-        <author>
-            <name>书藏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国遭遇全方面的极端气候]]></title>
-        <id>https://www.solidot.org/story?sid=75888</id>
-        <link href="https://www.solidot.org/story?sid=75888"/>
-        <updated>2023-08-24T15:58:38.000Z</updated>
-        <summary type="html"><![CDATA[美国遭遇了全方面的极端气候：西南部遭受创纪录降雨和热带风暴引发的洪水，中部和南部遭遇了热浪，在野火摧毁夏威夷毛伊岛两周后更多火灾在太平洋西北地区肆虐。气候科学家表示，这是对全球暖化如何增加致命事件的风险和后果的真实观察。虽然难以衡量气候变化在特定天气事件中的确切作用，但科学家认识到全球暖化会在整体上增加极端气候现象的频率和严重程度。一个暖化的世界更可能出现热浪和干旱，而干燥的气候会增加野火的风险。更温暖的海洋是热带风暴和飓风形成的重要因素。温暖的大气会含有更多水分，使得雨水更多，更可能引发洪水。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapsus$ 组织的两名青少年黑客被定罪]]></title>
-        <id>https://www.solidot.org/story?sid=75887</id>
-        <link href="https://www.solidot.org/story?sid=75887"/>
-        <updated>2023-08-24T15:38:29.000Z</updated>
-        <summary type="html"><![CDATA[松散的黑客组织 Lapsus$ 的两名成员：18 岁的 Arion Kurtaj 和另一名 17 岁少年被控入侵了多家知名公司，窃取数据并以威胁泄露数据为由进行勒索。 Arion Kurtaj 被认为是 Lapsus$ 的领导人之一，他去年两次因为 Lapsus$ 相关黑客活动而被捕。他被控入侵了金融科技公司 Revolut、拼车服务商 Uber 和游戏开发商 Rockstar Games。在保释期间，他使用化名 teapotuberhacker 泄露了正在开发中的《侠盗猎车 6( Grand Theft Auto 6)》游戏视频。他通过黑客活动窃取了逾 300 个 BTC，绝大部分钱都花在赌博或被其他黑客盗走了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻人都不看电视了，为什么电视反而越卖越大？]]></title>
-        <id>https://news.cnblogs.com/n/748196/</id>
-        <link href="https://news.cnblogs.com/n/748196/"/>
-        <updated>2023-08-24T14:39:00.000Z</updated>
-        <summary type="html"><![CDATA[文太平洋科技 你有多久没有打开客厅里的电视了？或者说，你有多久没有好好看过一次电视了？ 打开微博、小红书、知乎，“为什么现在的年轻人都不看电视了？”“还有人看电视吗？”类似话题层出不穷，且往往有着很高的讨论度。 这些平台又恰恰是主打年轻人的社区，因此，似乎很容易让人在“年轻人”和“不看电视”之间画上
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 如何将生成式 AI 变成万能工具]]></title>
-        <id>https://www.solidot.org/story?sid=75886</id>
-        <link href="https://www.solidot.org/story?sid=75886"/>
-        <updated>2023-08-24T14:38:19.000Z</updated>
-        <summary type="html"><![CDATA[一家机器人创业公司的 CTO 今年初表示，他们起初以为要费很大劲才能构建机器人用的 ChatGPT，结果发现很多情况下 ChatGPT 可以直接给机器人用。在 ChatGPT 等大语言模型流行起来前，AI 模型是一种专用工具。在机器人等特定领域使用 AI 模型，需要投入大量时间和金钱创建一个专用的 AI 模型，而且 AI 模型只能在该领域使用。举例来说，Google 的 AlphaFold 是一个预测蛋白质折叠的 AI 模型，用蛋白质结构数据进行训练，也只能与蛋白质结构一起工作。因此这位 CTO 根据以往经验认为，要让机器人受益于生成式 AI，他们需要为机器人创建专门的生成式 AI 模型。结果他的团队发现，在很多情况下，可以用现成的 ChatGPT 去控制机器人，甚至不需要专门训练。从医疗保险到半导体设计，很多领域的技术专家都得出了类似的结论。ChatGPT 如何将生成式 AI 变成万能工具的？]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 收购 AI软件公司 Mipsology，将加强 AMD AI 软件开发能力]]></title>
-        <id>https://news.cnblogs.com/n/748195/</id>
-        <link href="https://news.cnblogs.com/n/748195/"/>
-        <updated>2023-08-24T14:31:00.000Z</updated>
-        <summary type="html"><![CDATA[据 AMD 官网显示，AMD 宣布收购 AI 软件公司 Mipsology。 AMD 表示， Mipsology 的软件团队将加入 AMD AI Group，帮助进一步加快 AMD 的客户参与度并扩展 AMD 的 AI 软件开发能力。该团队将帮助开发 AMD 完整的人工智能软件堆栈，扩展 AMD 的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本核污水今日入海，这帮黑客怒了！]]></title>
-        <id>https://news.cnblogs.com/n/748194/</id>
-        <link href="https://news.cnblogs.com/n/748194/"/>
-        <updated>2023-08-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[自 2011 年东日本大地震以来，日本谋划已久的福岛核电站核污水排海计划已于 8 月 24 日下午起正式施行，预计排污周期长达 30 年，整个海洋及其生物都有可能遭受难不可逆的毁灭性打击。 据现场媒体报道，经过 17 分钟的流淌，核污染水经由 1 公里的海底隧道流进太平洋。据现场媒体报道，福岛附近海
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App 备案来袭，开发者如何应对选型]]></title>
-        <id>https://news.cnblogs.com/n/748193/</id>
-        <link href="https://news.cnblogs.com/n/748193/"/>
-        <updated>2023-08-24T13:22:00.000Z</updated>
-        <summary type="html"><![CDATA[网站 ICP 备案已施行了很久，我们也非常清楚必须在进行 ICP 备案后，网站才能在大陆范围合法运营，并且用户可以通过域名正常访问网站。 但是月初出了新规，明年起，国内的 App 也要像网站一样进行备案了。想必大家也是早已经听到过这个刷屏的新闻，随便说一声小程序也是。 在管理日益强化的背景下，开发者
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
