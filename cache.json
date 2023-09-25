@@ -785,6 +785,36 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=76177",
+          "author": null,
+          "description": "一名网友通过微博发帖称，自己通过 Github 为境外公司远程工作而被河北承德双桥公安分局处罚 1058000 元——没收全部“违法所得”。这位网友公布的行政处罚决定书称，“2019 年 9 月-2022 年 11 月期间”，他在家中使用电力设备擅自使用非法定信道进行国际联网，为一家境外公司提供网络顾问服务，违法所得共 1058000 余元。根据《中华人民共和国计算机信息网络国际联网管理暂行规定》第六条和第十四条，以及《中华人民共和国计算机信息网络国际联网管理暂行规定实施办法》第七条和第二十二条第一款，罚款 200 元，没收违法所得 1058000 元。《暂行规定》第六条规定“计算机信息网络直接进行国际联网，必须使用邮电部国家公用电信网提供的国际出入口信道。任何单位和个人不得自行建立或者使用其他信道进行国际联网”，第十四条规定“违反本规定第六条、第八条和第十条的规定的，由公安机关责令停止联网，给予警告，可以并处 15000 元以下的罚款；有违法所得的，没收违法所得”。这位网友表示将对处罚决定提起行政诉讼。",
+          "link": "https://www.solidot.org/story?sid=76177",
+          "publishedOn": "2023-09-24T14:47:05.000Z",
+          "wordCount": 160,
+          "title": "网友称为境外公司远程工作被没收所有违法所得",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76176",
+          "author": null,
+          "description": "Google 通过支持文档披露，Gmail 将从明年 1 月起停止支持基本 HTML 视图。基本 HTML 视图旨在解决 Gmail 无法加载或加载太慢的问题——比如浏览器不被支持或网速太慢，它只包含  Gmail 基本功能，没有新版本 Gmail 加入的日益臃肿的与邮件无关的功能，如聊天、拼写检查、富文本格式，等等。如果以后用户还会遇到加载问题，Google 建议用户使用 Gmail 应用或邮件客户端。",
+          "link": "https://www.solidot.org/story?sid=76176",
+          "publishedOn": "2023-09-24T10:59:20.000Z",
+          "wordCount": 178,
+          "title": "Gmail 将从明年 1 月起停止支持基本 HTML 视图",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76175",
+          "author": null,
+          "description": "欧盟就英特尔在 2002-2007 年之间阻止竞争对手 AMD 进入市场而对其罚款 4 亿美元（3.76 亿欧元）。这起反垄断诉讼可追溯到 2009 年，当时欧盟就英特尔的反垄断行为开出了创纪录的 11.3 亿美元罚款。英特尔隐藏回扣等行为因缺乏伤害证据而在上诉中驳回，但欧盟委员会维持了英特尔向 PC 厂商付费限制或推迟推出 AMD 产品的指控。举例来说，2002-2005 年英特尔向惠普付费要求其不得通过直销渠道向中小企业提供采用 AMD CPU 的电脑；英特尔付费给宏碁公司，要求其将 AMD 笔电的推出时间从 2003 年底推迟到 2004 年初；英特尔付费给联想公司，要求其将 AMD 笔电的推出时间推迟六个月。欧盟委员会已就被驳回的回扣指控提起上诉，如果上诉法院裁定回扣也违反反垄断法，英特尔可能面临更多罚款。",
+          "link": "https://www.solidot.org/story?sid=76175",
+          "publishedOn": "2023-09-24T03:39:16.000Z",
+          "wordCount": 192,
+          "title": "欧盟就英特尔付钱给 PC 厂商阻止 AMD 进入市场而罚款 4 亿美元",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=76174",
           "author": null,
           "description": "根据发表在《Lancet Planetary Health》期刊上的最新模型估计，铅中毒导致的死亡和 IQ 损失远远超过此前的预期。铅中毒会导致心脏病和大脑发育等一系列问题，含铅汽油已在全世界被禁止使用，但人们仍然可能通过食物、土壤、炊具、肥料、化妆品、铅酸汽车电池等接触到铅。世界银行的两名经济学家通过模型估计，2019 年有 550 万成年人死于铅暴露导致的心脏病，其中九成生活在中低收入国家。研究还估计，2019 年全球五岁以下儿童因铅中毒累计损失了 7.65 亿 IQ 分数，其中 95% 发生在发展中国家。",
@@ -3493,86 +3523,6 @@
           "wordCount": 143,
           "title": "激活基底前脑的星形胶质细胞让小鼠不休不眠",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75903",
-          "author": null,
-          "description": "部分 Windows 10 和 Windows 11 用户在安装了最新预览版更新 KB5029351 后遭遇了错误信息为 UNSUPPORTED_PROCESSOR 的蓝屏死机。微星公司现在证实该问题与其主板相关，它在官方声明中称使用 MSI 600/700 系列主板的用户遭遇了蓝屏死机，如果该补丁没有自动卸载，那么建议用户回滚 BIOS 到上一个版本，然后卸载 KB5029351。微软表示受影响的操作系统版本包括 Windows 10 21H2/22H2 和 Windows 11 22H2，它表示在多次蓝屏死机之后系统应该会自动卸载该补丁。",
-          "link": "https://www.solidot.org/story?sid=75903",
-          "publishedOn": "2023-08-26T11:07:26.000Z",
-          "wordCount": 169,
-          "title": "Windows 最近更新导致的蓝屏死机与微星主板相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75902",
-          "author": null,
-          "description": "纽约时报（NYT）、CNN、路透社、澳大利亚广播公司（ABC）、芝加哥论坛报、以及 Australian Community Media 旗下的坎培拉时报和纽卡斯尔先驱报等媒体都屏蔽了 OpenAI 的网络爬虫 GPTBot 抓取其网站上的内容。大语言模型需要海量数据进行训练，但数据的版权问题引发了很多争议。这些媒体公司都是本月内在 robots.txt 文件中禁止了 GPTBot 的访问。部分媒体还屏蔽了另一个被用于 AI 项目的爬虫程序 CCBot。CNN 证实它屏蔽了 GPTBot，但没有评论是否就其内容被 AI 系统使用采取进一步的行动。",
-          "link": "https://www.solidot.org/story?sid=75902",
-          "publishedOn": "2023-08-26T10:47:32.000Z",
-          "wordCount": 188,
-          "title": "NYT、CNN 和 ABC 屏蔽 OpenAI 的 GPTBot 爬取内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75901",
-          "author": null,
-          "description": "Shawn the R0ck 写道：现代网络安全运营中心主要依赖于两个关键要素：基于agent的安全解决方案，在台式机、笔记本和服务器操作系统上运行；以及威胁分析系统，通常称为安全信息与事件管理（SIEM）系统或扩展检测与响应（XDR）系统充当安全大脑的角色。然而，网络安全行业面临两个主要挑战。首先，大多数安全解决方案未能在操作系统（OS）及OS以下层面提供全面的威胁检测，导致这一关键领域容易受到攻击。安全大脑本身或者周边的安全产品被攻陷并不是一件有趣的事情，安全领域最尴尬之处莫过于次。其次，威胁分析系统通常缺乏与最佳安全实践相一致的强大保护措施，这可能无意中导致安全漏洞。针对这些挑战，HardenedVault开发了一种基于开源SIEM/XDR工具Wazuh的解决方案，以展示HardenedVault可以如何解决这些问题。该工具与VED无缝集成，扩展了对Linux内核运行时的监控维度，实时监控漏洞提权、容器逃逸和rootkit，同时提供了其他安全措施，如CIS合规性，为已识别的威胁提供了强大的解决方案。VED能够将SIEM/XDR的监控维度扩展到Linux内核运行时，以应对特权升级、容器逃逸和Rootkits等安全威胁，这是一个强大的增强功能。通过整合这一功能，VED可以为内核中潜在的安全威胁提供全面的可见性和检测能力。这确保了主动防御，并增强了系统的整体安全状态，从而保护系统免受复杂的攻击和未经授权的访问尝试。目前，HardenedVault在AWS上提供了Hardened SIEM/XDR，方便集成和部署。对于那些有兴趣在自建机房环境中实施类似解决方案的用户，HardenedVault将乐意提供帮助。",
-          "link": "https://www.solidot.org/story?sid=75901",
-          "publishedOn": "2023-08-26T03:45:05.000Z",
-          "wordCount": 150,
-          "title": "守护者的零之曙光：Hardened SIEM/XDR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75900",
-          "author": null,
-          "description": "根据 Gitlab 的官方文档，它正准备支持联邦宇宙协议 ActivityPub。ActivityPub 是一个 W3C 标准，其最知名的实现是去中心化微博客服务 Mastodon 以及 Reddit 的去中心化替代 Lemmy。Gitlab 允许用户创建各自的实例，但实例之间如何互动？通过支持 ActivityPub 不同 Gitlab 实例之间可以互相关注（或叫订阅），创建分支（fork）、可以递交合并请求，可以就合并请求展开讨论，然后合并代码。Gitlab 将逐步实现 ActivityPub 的功能，首先是社交功能，实现跨实例的订阅，最终实现跨实例合并请求。",
-          "link": "https://www.solidot.org/story?sid=75900",
-          "publishedOn": "2023-08-26T03:42:11.000Z",
-          "wordCount": 172,
-          "title": "Gitlab 支持将 ActivityPub 协议用于合并请求",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75899",
-          "author": null,
-          "description": "AMD 公布了 FidelityFX Super Resolution version 3(FSR 3)的更多细节。FSR 是 AMD 的开源采样提升技术，是英伟达 DLSS 和英特尔 XeSS 的竞争对手。FSR 3 支持 AMD 的 Radeon RX 5000、6000 和 7000 系列显卡，推荐 6000 和 7000 系列；英特尔 Arc 显卡，英伟达 RTX 20、30 和 40 系列显卡，索尼 PS5 和 Xbox Series X/S 游戏机。英伟达 DLSS 和英特尔 XeSS 都依赖机器学习硬件生成内插像素和帧，FSR 3 不依赖特定硬件，使用游戏中的运动矢量数据生成内插像素。多款游戏预计会在 9 月加入对 FSR 3 的支持。",
-          "link": "https://www.solidot.org/story?sid=75899",
-          "publishedOn": "2023-08-25T16:24:09.000Z",
-          "wordCount": 209,
-          "title": "AMD 公布 FSR 3 细节",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75898",
-          "author": null,
-          "description": "阿里巴巴周五开源了能理解图像和完成更复杂对话的 AI 模型 Qwen-VL 和 Qwen-VL-Chat。阿里巴巴称，Qwen-VL 基于 Qwen-7B，可以以图像、文本、检测框作为输入，并以文本和检测框作为输出，它使用了约 1.5B 的图文数据训练。在四大类多模态任务的标准英文测评中上，Qwen-VL 均取得同等通用模型大小下最好效果；支持英文、中文等多语言对话，端到端支持图片里中英双语的长文本识别；支持多图输入和比较，指定图片问答，多图文学创作等；相比于目前其它开源 LVLM使用的 224 分辨率，Qwen-VL 是首个开源的 448 分辨率的 LVLM 模型。更高分辨率可以提升细粒度的文字识别、文档问答和检测框标注。Qwen-VL 和 Qwen-VL-Chat 使用名为 Tongyi Qianwen LICENSE AGREEMENT 的许可证，有限制条件，如果商业使用，则需要从阿里巴巴获得授权。",
-          "link": "https://www.solidot.org/story?sid=75898",
-          "publishedOn": "2023-08-25T16:07:36.000Z",
-          "wordCount": 180,
-          "title": "阿里巴巴开源能理解图像的 AI 模型 Qwen-VL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75897",
-          "author": null,
-          "description": "Canonical 官方博客讨论了即将在 10 月释出的 Ubuntu 23.10，它公布了一系列 Ubuntu 桌面数据：有逾 600 万桌面用户，这一数字是基于检查桌面特定更新的设备数量，不包含藏身于企业防火墙或代理之后的设备；根据  Stack Overflow 的调查，Ubuntu 桌面占到 Linux 开发者桌面市场的 27%，是最流行的开发者用发行版；在 Steam 平台的 Linux 玩家中，Ubuntu 也是最流行的桌面发行版。",
-          "link": "https://www.solidot.org/story?sid=75897",
-          "publishedOn": "2023-08-25T15:55:34.000Z",
-          "wordCount": 174,
-          "title": "Ubuntu 桌面有逾 600 万用户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75896",
-          "author": null,
-          "description": "不到一年时间，《星际公民(Star Citizen)》这个开发了十多年至今不知道发布日期的游戏筹集的资金再次增加了一亿美元突破了六亿美元。它是至今为止开发费用最昂贵的游戏。根据维基百科的数据，《星际公民》的开发费用遥遥领先于开放世界 3A 游戏如《赛博朋克2077》、《侠盗猎车V》和《荒野大镖客2》。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行募资，许多募资其实就是销售游戏内的虚拟物品如各种型号的飞船。2018 年它筹集到 2 亿美元，五年之后突破 6 亿美元，但游戏何时发布仍然是未知数。",
-          "link": "https://www.solidot.org/story?sid=75896",
-          "publishedOn": "2023-08-25T14:58:30.000Z",
-          "wordCount": 164,
-          "title": "《星际公民(Star Citizen)》筹款突破六亿美元",
-          "imageUrl": null
         }
       ]
     },
@@ -3581,6 +3531,126 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/750928/",
+          "author": null,
+          "description": "科技日报北京 9 月 24 日电 （记者张梦然）在一项针对小鼠的新研究中，美国加州大学洛杉矶分校、哈佛大学和瑞士联邦理工学院的一个研究团队开发出一种基因疗法，该疗法在小鼠身上得到证明，可刺激脊髓损伤后的神经再生，并能引导特定神经元重新连接到目标区域，从而恢复活动能力。该研究 22 日发表在《科学》杂\n本文链接",
+          "link": "https://news.cnblogs.com/n/750928/",
+          "publishedOn": "2023-09-25T00:47:52.000Z",
+          "wordCount": 163,
+          "title": "再生神经元恢复瘫痪小鼠行走能力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750927/",
+          "author": null,
+          "description": "把专业创作者的商业价值梳理清楚。 9 月的上海陆家嘴地铁站，走廊墙上的 14 幅油画让白领们停下了通勤的脚步，他们短暂、好奇地打量着画里的主角。 主角们是各行业的从业者，不过却和典型的职业人士给人的刻板印象不同。画中的一位金融分析师并没有身着西装做报告，而是窝在椅子上小憩。他因为高强度出差和工作，练\n本文链接",
+          "link": "https://news.cnblogs.com/n/750927/",
+          "publishedOn": "2023-09-24T14:20:00.000Z",
+          "wordCount": 163,
+          "title": "知乎的商业增长新解法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750926/",
+          "author": null,
+          "description": "9 月 23 日晚，杭州第 19 届亚运会开幕式精彩呈现，向世界奉献了一场精彩绝伦的视觉盛宴，数实融合成为最大亮点。作为亚运官方合作伙伴、技术服务方的支付宝用技术助力开幕式首创了虚实交互、人人可参与的两大经典时刻：超 1 亿数字火炬手跑出支付宝 App 汇聚大莲花点燃主火炬，实现全球首个数字点火仪式\n本文链接",
+          "link": "https://news.cnblogs.com/n/750926/",
+          "publishedOn": "2023-09-24T14:13:00.000Z",
+          "wordCount": 163,
+          "title": "支付宝助力开幕式首创两大经典时刻：超1亿数字人1秒点火、现场万人AR互动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750925/",
+          "author": null,
+          "description": "快科技 9 月 23 日消息，华为今年的强势回归，属实让整个手机圈都感到惊讶，随之而来的就是行业竞争更激烈了，苹果也深感这一点。 郭明錤给出的报告显示，为了抢占更多高端用户，苹果追加 iPhone 15 Pro Max 订单至 3500 万部，同比增长 25%，对比 14 Pro Max 去年出货量\n本文链接",
+          "link": "https://news.cnblogs.com/n/750925/",
+          "publishedOn": "2023-09-24T13:12:00.000Z",
+          "wordCount": 163,
+          "title": "苹果、华为血拼开始！顶配iPhone15加单超3千万部、Mate 60全线缺货加单千万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750924/",
+          "author": null,
+          "description": "来源：商业财经网 近年来 ， 鹅厂在游戏开发上的表现一直备受争议。作为中国最大的科技公司之一 ， 它仅用 20 年不到的时间就拿下了国内游戏的半壁江山。然而 ， 这位行业巨头却屡屡遭受大家的批评和质疑 ， 归根结底就是因为抄袭。 最近 ， 他们力捧的全新派对游戏圆梦之星又陷入抄袭风波。我原本以为这只\n本文链接",
+          "link": "https://news.cnblogs.com/n/750924/",
+          "publishedOn": "2023-09-24T13:09:00.000Z",
+          "wordCount": 163,
+          "title": "腾讯新游戏被指控抄袭：照搬玩家自创地图，官方不道歉反而控评",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750923/",
+          "author": null,
+          "description": "扁形动物通过荧光染色显示不同的细胞类型和蛋白质。图片来源：塞巴斯蒂安· 纳杰勒/巴塞罗那基因组调控中心 科技日报记者张梦然 扁形动物只有差不多一粒沙那么大，以一些浅海岩石表面的藻类和微生物为食。它简单到没有任何身体部位或器官。 然而，西班牙巴塞罗那基因组调控中心研究人员在最新一期《细胞》杂志上发表论\n本文链接",
+          "link": "https://news.cnblogs.com/n/750923/",
+          "publishedOn": "2023-09-24T09:51:23.000Z",
+          "wordCount": 163,
+          "title": "远古海洋动物“讲述”神经元起源的故事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750922/",
+          "author": null,
+          "description": "IT 之家 9 月 24 日消息，腾势汽车官方宣布腾势 D9 第 10 万台量产车下线！ 据介绍，腾势 D9 从首台量产到第 10 万台下线仅用 11 个月，成为最快达到 10 万台量产车的新能源豪华车型。此外，腾势 D9 今年 1-8 月累计销量全品类 MPV 市场第一！ 作为一款中大型高端新能源\n本文链接",
+          "link": "https://news.cnblogs.com/n/750922/",
+          "publishedOn": "2023-09-24T07:45:00.000Z",
+          "wordCount": 163,
+          "title": "比亚迪：腾势 D9 历时 11 个月完成第 10 万台量产车下线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750921/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 好困 最近，一项研究发现，大模型身上存在一种「逆转诅咒」，即使学会「A是B」，它们也无法推理出「B是A」！ 大语言模型，竟然存在一种「逆转诅咒」？ 所谓逆转，也就是说，一个训练于「A是B」的语言模型能否推广到「B是A」呢？ 例如，当我们教会一个模型「乔治·华盛顿是美国\n本文链接",
+          "link": "https://news.cnblogs.com/n/750921/",
+          "publishedOn": "2023-09-24T06:22:00.000Z",
+          "wordCount": 163,
+          "title": "GPT-4被曝重大缺陷，35年前预言成真！所有LLM正确率都≈0，惹Karpathy马库斯惊呼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750920/",
+          "author": null,
+          "description": "李佳琦“祸从口出”之后，不止是他，带货主播这个群体，乃至整个直播带货行业，都成为众矢之的。 一些观点认为，主播并不创造价值，是所谓的“套利者”，消灭赚佣金的主播，商品就会更便宜。然而，这个结论果真成立吗？ 事实可能并非如此。 之前，李佳琦未出现在直播间的几个月里，商品并没有更便宜；狂欢中的国货，也并\n本文链接",
+          "link": "https://news.cnblogs.com/n/750920/",
+          "publishedOn": "2023-09-24T06:15:00.000Z",
+          "wordCount": 163,
+          "title": "没有李佳琦，商品会更便宜吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750919/",
+          "author": null,
+          "description": "【手机中国新闻】9 月 13 日，苹果的 iPhone 15 系列正式发布。今年的 iPhone 15 系列机型有不少升级，尤其是全系采用 Type-C 接口这一点更是让不少消费者拍手称赞。如今，安卓手机的 micro USB 接口基本已经被淘汰，iPhone 开始使用 Type-C 接口的话，意味\n本文链接",
+          "link": "https://news.cnblogs.com/n/750919/",
+          "publishedOn": "2023-09-24T06:10:00.000Z",
+          "wordCount": 163,
+          "title": "苹果门店：iPhone 15不能使用安卓充电线 可能会烧机！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750918/",
+          "author": null,
+          "description": "DoNews9 月 23 日消息，华为 Mate 60 RS 玄黑色真机现已在微博曝光，看着还是陶瓷的。该机看起来同样采用了 Mate 60 系列机型的两段式设计，但是与现有机型相比拥有明显不同。 Mate 60 RS 后壳大量运用直线条，看起来棱角分明，与 Mate 60 系列的其他机型形成区隔。\n本文链接",
+          "link": "https://news.cnblogs.com/n/750918/",
+          "publishedOn": "2023-09-24T06:05:00.000Z",
+          "wordCount": 163,
+          "title": "华为Mate 60RS真机曝光：八边形镜头模组",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/750917/",
+          "author": null,
+          "description": "9 月 22 日，苹果的 iPhone15 正式销售，很多人第一时间就拿到了 iPhone15，然后开始晒机了，当然也有人吐槽。 从线上的情况来看，似乎一开始就破发了，特别是 PDD 这个杀价狂魔，直接就降了 400-500 元下来。 不过在线下，情况就不一样了，目前很多有现货的店，除了 iPhon\n本文链接",
+          "link": "https://news.cnblogs.com/n/750917/",
+          "publishedOn": "2023-09-24T06:00:00.000Z",
+          "wordCount": 163,
+          "title": "扎心了，苹果iPhone15仅一天，销量就超过华为Mate60了",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/750916/",
           "author": null,
@@ -8989,96 +9059,6 @@
           "publishedOn": "2023-08-27T17:11:30.000Z",
           "wordCount": 163,
           "title": "迅速逼近ChatGPT！Llama 最新代码生成模型已经直追GPT-4了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/748273/",
-          "author": null,
-          "description": "IT 之家 8 月 26 日消息，根据国外科技媒体 MySmartPrice 报道，一款型号为 A3904 的苹果 iPhone 15 系列机型现身印度监管机构 BIS 之后，今天再次发现了型号为 A3900 的新款 iPhone 15 机型。 BIS 监管认证文件中并未包含相关的规格和参数信息，目\n本文链接",
-          "link": "https://news.cnblogs.com/n/748273/",
-          "publishedOn": "2023-08-26T09:00:00.000Z",
-          "wordCount": 163,
-          "title": "型号 A3090，又一款苹果 iPhone 15 机型现身监管机构",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/748272/",
-          "author": null,
-          "description": "本文来源：时代财经 作者：林心林 宣布自营快递业务两个月，菜鸟集团旗下菜鸟速递正忙着“招兵买马”。 图片来源：图虫创意 按照菜鸟集团 CEO 万霖的规划，菜鸟速递是今年菜鸟重点建设的国内物流业务产品。 然而，快递市场的竞争早已陷入胶着状态，极兔递交 IPO 招股书、顺丰出售经济型快递丰网、韵达市占率\n本文链接",
-          "link": "https://news.cnblogs.com/n/748272/",
-          "publishedOn": "2023-08-26T06:30:00.000Z",
-          "wordCount": 163,
-          "title": "菜鸟下场做快递60天：快递小哥“卷”时效工作量骤增，站点月薪过万招人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/748271/",
-          "author": null,
-          "description": "阿里大文娱，悄然蜕变中。 文爱捞 编陈梅希 一款名为“妙鸭”的相机，正在朋友圈走红。 在这款相机上，用户可以借助 AIGC 技术，将原生态的照片转化为高科技的数字分身、大片写真，无需走出家门，就能拥有“苗寨小妹”“故宫写真”“千禧辣妹”等多个分身。9 块 9 接地气的价格，让追求性价比的年轻人很难不\n本文链接",
-          "link": "https://news.cnblogs.com/n/748271/",
-          "publishedOn": "2023-08-26T06:22:00.000Z",
-          "wordCount": 163,
-          "title": "阿里大文娱的四个“进击时刻”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/748270/",
-          "author": null,
-          "description": "来源：封面新闻 封面新闻记者雷强 8 月 25 日，东方甄选公布了从去年 6 月 1 日至今年 5 月 31 日的 2023 财年全年业绩。数据显示，东方甄选全年带货 GMV 达到 100 亿元，净利润为 9.71 亿元，总订单数达到 1.36 亿单。 自 2022 年 4 月上线首款自营产品以来，\n本文链接",
-          "link": "https://news.cnblogs.com/n/748270/",
-          "publishedOn": "2023-08-26T06:10:00.000Z",
-          "wordCount": 163,
-          "title": "东方甄选公布首个全年业绩：GMV达100亿元，订单数超过1.3亿单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/748269/",
-          "author": null,
-          "description": "近年来，Intel 制定了 4 年掌握 5 代制程技术的 IDM 2.0 战略，决心在 2025 年重回半导体领先地位。在这个战略中，IFS 芯片代工业务的重要性与 x86 芯片生产相当。为了推动该业务的发展，Intel 对该部分业务进行了独立核算，并积极争取客户。 其中，备受关注的 18A（1.8\n本文链接",
-          "link": "https://news.cnblogs.com/n/748269/",
-          "publishedOn": "2023-08-26T06:00:00.000Z",
-          "wordCount": 163,
-          "title": "Intel首个1.8nm客户曝光：联发科看上了18A工艺",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/748268/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 CMU 全新多模态模型 GILL，能够生成图像、检索图像，还能进行多模态对话。 GPT-4 多模态能力恐怕是要再等等了。 近日，来自 CMU 的研究人员全新提出了一种多模态模型 GILL。 论文地址：https://arxiv.org/pdf/2305.17216.pdf 它\n本文链接",
-          "link": "https://news.cnblogs.com/n/748268/",
-          "publishedOn": "2023-08-26T03:09:00.000Z",
-          "wordCount": 163,
-          "title": "GPT-4生图未解禁？CMU华人博士新作，大模型GILL能生图能检索，人人可玩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/748267/",
-          "author": null,
-          "description": "新智元报道 编辑：润 Lumina 【新智元导读】PEW 研究所在收集了海量信息之后指出：全社会的工作都会受到 AI 冲击。女性、亚裔、受过大学教育和收入较高的打工人受到 AI 的影响会更大。 面对汹涌而来的 AI 革命巨浪，打工人到底是能屹立潮头，还是被无情地拍到沙滩上。 各行各业的打工人都有自己\n本文链接",
-          "link": "https://news.cnblogs.com/n/748267/",
-          "publishedOn": "2023-08-26T01:40:00.000Z",
-          "wordCount": 163,
-          "title": "AI淘汰打工人进度公布，女性，亚裔，白领工作首当其冲！无人能独善其身",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/748266/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS AI 版本回归符号主义，有多少人工，就有多少智能！ ChatGPT 掀起了一股「生成式 AI」的浪潮，所有任务都可以通过对话的方式生成答案，实现了接口、模型架构的统一。 不过生成式 AI 也有缺陷，比如可控性很差，生成的结果经常是「胡编乱造」，非常难以预测、不可解释；在复杂\n本文链接",
-          "link": "https://news.cnblogs.com/n/748266/",
-          "publishedOn": "2023-08-26T01:33:00.000Z",
-          "wordCount": 163,
-          "title": "马库斯总结16项「可信AI」要求，符号主义+神经网络携手打造AGI！40年前的Cyc成版本答案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/748265/",
-          "author": null,
-          "description": "新智元报道 编辑：Aeneas 好困 《时代周刊》用 4 张图告诉我们，为什么 AI 发展的发展不太可能放缓，只可能加快。 在过去的十年里，AI 系统发展的速度令人惊叹。 2016 年 AlphaGo 在围棋比赛中击败李世石，就是一个开始。现在，AI 已经可以比人类更好地识别图像和语音，通过商学院考\n本文链接",
-          "link": "https://news.cnblogs.com/n/748265/",
-          "publishedOn": "2023-08-25T13:16:00.000Z",
-          "wordCount": 163,
-          "title": "AI狂飙70年背后原因大揭秘！时代周刊4张图，揭露算法进化之谜",
           "imageUrl": null
         }
       ]
