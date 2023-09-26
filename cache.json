@@ -59,6 +59,76 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/81593",
+          "author": "HumanBait",
+          "description": "没错，又一个记帐应用 - AnyMoney。\n我们常借助多种工具来管理生活，包括对知识、时间、感情等的记录管理，并且一直在探索与改进。在此之外，生活中更基础和具有可行性的还是对个人可量化的东西的管理，比如对“钱物”的管理。基于此，我的思考是 AnyMoney - 整合物品管理的记帐软件。\nAnyMoney 将记帐、资产、物品管理结合在一起，较为全面地管理个人的实际拥有。记帐时新建或选择了物品，物品详情中就可以查看购买交易。以前我们可能这样做，记帐时备注买了什么，物品管理中录入购买的价格、时间等，这种割裂在 AnyMoney 中自然地联系了起来。\nAnyMoney 依然是全面的记帐软件。\n录入快捷，通过添加按钮、交易模板、小组件、双击底栏任一图标等方式都可完成录入。且有周、月两种日历视图方便定位日期以补记交易。\n录入\n支持分类预算、二级预算，可按照每月、每周、每年或者一次性来设置金额，精确控制消费。\n使用资产帐户和负债帐户的设计，轻松覆盖现金、银行卡、信用卡、网络平台帐户、贷款、借出、借入等多种个人资产类型，展现个人的资产负债结构。\n资产\n多币种支持，覆盖交易、资产帐户、预算等，且自动同步线上汇率。\n可快速方便地选择不同区间来显示消费分布图，且支持各分类的月支出、收入趋势图。\n报表\nAnyMoney 的物品管理很灵活。\n支持多级分类、多级位置、自定义状态，井井有条。\n物品分类、状态\n物品类型支持自定义属性，每种物品都能得到全面的记录。\n物品类型\nAnyMoney 很周到\n使用 iCloud 同步（可关闭），无需登录，并支持导出数据，你拥有自己的数据。\n实用小组件。\n支持 Face ID、Touch ID。\n支持夜间模式，支持主题色，支持多图标。\niPad 版不只是简单拉伸放大，且支持分屏。\niPad布局\nAnyMoney 改变很慢，但多年来一直在进步。",
+          "link": "https://sspai.com/post/81593",
+          "publishedOn": "2023-09-24T14:50:50.000Z",
+          "wordCount": 654,
+          "title": "记帐软件的新思考 AnyMoney",
+          "imageUrl": "https://cdn.sspai.com/2023/09/24/efaa24d20e5b7a980bc9bf5ef06ddf7e.png"
+        },
+        {
+          "id": "https://sspai.com/post/83182",
+          "author": "FavourHong",
+          "description": "使用 Markdown 语法进行演示文稿的创作，只关注内容本身而非格式。  \n有自定义模板加持，规范化 PPT 制作的同时，又不失个人特色。\nAwesome Marp v1.0 一次性提供了 6 种颜色主题，21 种局部样式，原生 Marp 不支持的页面分栏、导航进度栏等，Awesome Marp 都能很好地实现！\n如果对你有帮助，欢迎评论，期待交流~\n\n为什么要做 Awesome Marp？\n自从了解到 Marp 可以使用 Markdown 语法来创作 PPT 之后，我有两年多没有使用 PowerPoint 做过演示文稿了。\nMarp 内置的原生主题样式数量少，并且呈现效果不好看，所以一直以来我也在尝试自定义 CSS 文件，来打造符合个人审美的 theme。我在边改造边用的过程中，这套模板也得到了几位朋友的喜爱。于是索性简单写篇推文介绍一下，希望能给到你一些帮助~\n我给这套主题还起了个名字，Awesome Marp，算是一个阶段性总结吧。目前 v1.0 版本提供了六种主题，分别是深色、绿色、蓝色、红色、紫色和棕色。\n首先，先来看一张效果动图吧~\n\n怎么样？如果你也使用过 Marp 原生的 theme，一定会发现 Awesome-Marp 变化真的很大了。是的，我基于 Marp 的 default 主题，做了不小的改动。\n这是一个纯 CSS 的项目，所有的效果都是 CSS 语言实现的。因为并没有前端基础，所以我是一边学一边改，代码还有不少可以再完善优化的地方。但，完成比完善更重要嘛，一些小的问题可以日后迭代更新。于是，就决定将 Awesome Marp 上线了！\n本着「开箱即用」的原则，我将本项目文件夹打包上传到了GitHub和Gitee。你可以去那里下载项目文件夹，也可以在公众号后台获取链接（后文有回复码）~\n你需要了解的软件工具\n就三样：Markdown 语法、Mark…",
+          "link": "https://sspai.com/post/83182",
+          "publishedOn": "2023-09-24T04:19:51.000Z",
+          "wordCount": 751,
+          "title": "Awesome Marp：我开发了一整套 Marp 主题，Markdown 转换的 PPT 也可以很好看！",
+          "imageUrl": "https://cdn.sspai.com/2023/09/24/71d47ec818aa28fbff1b88fb19ba8139.png"
+        },
+        {
+          "id": "https://sspai.com/post/82881",
+          "author": "车不能快",
+          "description": "前言\n前段时间，我收到了来自wind studio的sin65，一把65%配列的客制化套件，在聊这把套件之前，我想先聊聊65%配列。\nSin65的配列图\n65%配列在客制化圈子中是一个非常常见的配列。如果你仔细观察，会发现很多客制化团队都以65%键盘为起点，开始自己的客制化之旅。\n或许是精打细算，也可能是天性使然，对于新人团队来说，选择65%配列是一个权衡之下最为合适的打算。键盘越小，实际上意味着内胆设计越可控。相比起早期的传统船壳结构，如今的客制化套件在结构设计方面需要更深厚的功底。同时，从设计方面来说，65%的紧凑布局使得正面可以自然而然的「公式化」，这对于那些把「客制化」完完全全当一门生意的团队而言，是一个非常好的理由来解释为什么正面设计相对简单。\nqk65 by嗯嗯\n另一方面，在一众小配列之中，65%配列相比许多更小的键盘配列，如60%或40%，它拥有一个明显的优势——实体方向键。尽管对于许多小配列用户而言，通过映射切层实现方向键功能已经成了家常便饭，但对于普罗大众来说，方向键是他们对于小配列要求最后的底线，这种需求和习惯的差异也导致了65%和60%键盘在受众方面的区别。不过我更喜欢60%配列，它具有更高的布局灵活性和更美观的对称性，但对于那些对方向键有较高依赖性的用户来说，65%配列显然占据着更有吸引力的位置。\n垃圾桶50 bySasachio\n说完配列我来简单介绍一下Wind Studio，Wind Studio是一个相对年轻的客制化团队，成立于2021年。虽然不算是老牌劲旅，但已经积累了一定的经验。在短短两年时间里，他们已经推出了五六款产品，还有一个颇为正式的官网。早期遇到过一些产品风波，不过一路走来的表现相对于大部分团队来说，倒是很「正规军」。\nWind Studio官网\n在这里不得不提一下这家工作室的首款65%产品——WIND X65，或许有些朋友要会心一…",
+          "link": "https://sspai.com/post/82881",
+          "publishedOn": "2023-09-23T16:40:16.000Z",
+          "wordCount": 690,
+          "title": "Sin65，逃逸的「ESC」，不只有逃逸的「ESC」。",
+          "imageUrl": "https://cdn.sspai.com/2023/09/23/37a90bd8be564f6a56d42123fe805e5a.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83167",
+          "author": "伍日辰",
+          "description": "个人知识管理方案\n以下是我对个人知识管理的一些思考。\n知识管理组织结构\n树形知识管理\n知识管理组织架构，通常人们使用\"文件夹\"的概念来管理知识。\"文件夹\"是一个树形结构, 典型的代表是杜威十进制图书分类法，但是这种结构主要弊端有以下几点\n分类过于简单，难以对信息进行有效区分\n分类过于复杂，多达上百个分类难以记忆\n操作步骤繁琐，先要定位文件位置，然后才能进行创建\n不利激发灵感，发现笔记之间有趣的联系\nMECE难以实现，因为信息（知识）的多义性不知要放在哪个类目合适\n前面三点可能就阻碍了百分之九十的人，这也是很多人电脑资料杂乱无章的原因。当然，也可以通过一些软件工具，或是操作范式来提升效率。如自动搜索、提示分类，自动跳转到相应位置等方法来实现。但是最后一点，分类归属具备很强的主观性，对于多个分类节点，不知如何选择，随便选择一个，或者索性放在根目录。有一个开源知识管理软件，Trilium 在这方面做出了探索。方法是在其中一个分类节点上建立文档，然后在其它可能的分类节点建立一个类似于指针的指向性副本，所做的编辑可以即时同步到各个副本。但仍存在信息冗杂的问题\n标签管理\n将知识，信息表述为一个块，块可能对应的是一个文件夹，文件，或是一段文字，对这个块打标签，标签可以是多个，通过对标签进行搜索。在此基础上也衍生了子标签，本质上还是树形结构。\n反链\n最近这几年，Roam 的大热让卡片盒笔记法 （Zettelkasten）这种原先局限于学术界的方法进入大众视野，也使得双链式笔记层出不穷。但是也存在以下局限\n表达效力有限\n笔记间建立的关联图，看着非常漂亮\n\n \n这实质上就是一个互引网络。稍微想一想，就会发现要得到这样的关系图，首先需要在笔记间建立许多关联。这是非常耗费时间的操作，而反向链接所能表达的语义，也非常依赖于它的精细程度，这也是为什么有人能将它吹捧上天，而在另一群人手里却没有什么效果\n…",
+          "link": "https://sspai.com/post/83167",
+          "publishedOn": "2023-09-23T08:58:14.000Z",
+          "wordCount": 609,
+          "title": "个人知识管理",
+          "imageUrl": "https://cdn.sspai.com/2023/09/23/b69f52d0cef9409140c6bce14f819d73.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83145",
+          "author": "ooops真糟糕",
+          "description": "初见这令人窒息的白\n9月16日，我前往深圳找朋友玩。在某遥遥领先的门店里面，我的朋友正在查看店内新款，而我的iPhone 13 Pro屏幕突然出现了1-2秒的闪烁，进而陷入了一片白色。\n视频截图-我朋友见状立刻进行了拍摄\n我以为只是我的设备在当前场合出现了过敏的情况，熟练地（？）进行了一次强行重启：音量上、音量下，长按侧边按键。iPhone也听话地熄灭，但亮起时，迎接我的并不是熟悉的黑底白色Apple Logo，而是同样的那片令人绝望的白色。\n我心想，不好，恐怕是硬件出了问题。\n慌张吗？算不上，更主要的是扑面而来的一阵心烦。现如今，即便是有足量的现金，没有智慧型行动电话，在城市生活中依旧算不上方便。\n抱着「一定约不上」的心态，借用朋友的手机，打开了Apple支持的网页版打算做个一个直营店的预约。此时，苹果要求我做双重验证——可以是发送弹窗验证码，也可以是发送短信——好周到，然而目前我一个都看不到，因为等待我的是一片刺眼且火热的白（刺眼：指亮度爆炸高但没有显示任何内容；火热：指机身在这样的情况下烫得不行）。最终，我是借用了朋友的Apple ID登陆，后惊讶地发现居然还能预约到Apple深圳万象城下午4:50的维修，立即轻轻点击。\n\n在午饭前也拨打了400电话，在让我选择音乐类型的时候选择了让它闭嘴，结果开着免提的手机安静得不像话，连针掉在地上都能听见——是的，经过漫长等待之后仍旧无法接通客服。\n前往门店\n提前两个多小时到达了门店。尽管iPhone 15系列还未有展示机，但这家Apple Store内的人仍是络绎不绝。我给门口的小哥大概说了一下：我提早到了，预约的设备不是出问题的设备，时间还没到，我先进去晃荡一下。说完就往里冲，他“哎哎哎”地叫住我，给我重新安排了一个号，但也告诉我因为暂无天才可用，让我在“这一列的那张桌子找个地方坐一下”。\n很幸运，没等多久，一位手脚麻利、雷厉…",
+          "link": "https://sspai.com/post/83145",
+          "publishedOn": "2023-09-22T08:52:04.000Z",
+          "wordCount": 624,
+          "title": "iPhone 13 Pro白屏之后的一周",
+          "imageUrl": "https://cdn.sspai.com/2023/09/25/a9c75b082d6f811a3f43a4ee27c8ec92.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83134",
+          "author": "PostMeridy",
+          "description": "虽然 2023 年还没过完，但我觉得今年内最满意的两次闲鱼购物已经可以确定下来了——其一是四月末只花了 2500 块钱成功捡漏的 Pixel 7 ，另一台就是今天的主角。\n自从八月末我加入了一个交易二手的频道，它就成了我每天必逛的地方之一，尽管我最初只是希望在上面出掉一些东西、并没有想着买入，但是当 10 号我刷到这样一条闲置的时候，我的手指立马就走不动路了：\n\n在我的印象里，直到 Galaxy S10 之前，三星的烧屏情况普遍是不容乐观的。并且那段时间的烧屏还不是单纯的亮度不均，而经常是一大片的粉红色瘢痕——对于我这种屏幕强迫症来说自然是无法接受，想要找到一台成色好的旧机型通常只能卡在可遇不可求的阶段...\n——但这样的旧机型还真就让我等到了。\n\n刚刚拿到手的一刻，这台迷夜黑的 Galaxy Note8 的入网许可证贴纸和型号标签已经因为长年累月的附着，在背板玻璃上留下了一圈极为顽固的残胶，最后不得不用上异丙醇才彻底清理干净。不过其余也正如出二手的老哥所说，不仅是背后的出场膜，甚至连顶部边框上 QUALCOMM® 4G 的小标签都还在。\n\n美中不足的就是，相比机身的其他部位，这台 Note8 屏幕玻璃的保存状况相对就没有那么好了，一些细微的划痕倒是其次，边缘曲面和上下边框一圈的疏油层老化是让我有些诧异的。或许在它前半段被用来做竞品分析的生涯里一直贴的是那种非全覆盖的钢化膜吧。\n《一种基于屏幕曲率的磨损分布》\n但瑕不掩瑜，一旦当你点亮这块 PPI 比 S23 Ultra 还高、完整无缺的 6.3 寸 Super AMOLED「全视曲面屏」，感觉到侧面弯曲的玻璃几乎让屏幕流进你手里的时候，不得不承认：曲面屏除了不好用之外，其余都还是挺好看的。\n\n虽然 S10 系列经常会被大家戏称为防爆盾，但要论真正的防爆盾始祖，恐怕还得是 Note8 ——横向排列的双摄和夹在中间的闪光灯与脉…",
+          "link": "https://sspai.com/post/83134",
+          "publishedOn": "2023-09-21T14:59:11.000Z",
+          "wordCount": 808,
+          "title": "救命，我被困在 2017 年了｜与 Galaxy Note8 的一周",
+          "imageUrl": "https://cdn.sspai.com/2023/09/21/cb30beca6765e1e54da1f4c6fca5c0b1.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83053",
+          "author": "Champagne",
+          "description": "不知从什么时候起，B站上开始流行起一种以场景歌单为选题的类型视频，常佐以极具氛围感的图片或视频背景，视频以一个歌单列表的音乐贯穿始终。\n来自B站up主「CHAOSLAB混沌实验室」\n当第一次见到这种视频时我就被击中了，击中我的，不是歌单，不是封面，是\n&\n这个符号。\n我们最常接受的音乐分类是这样的——Pop/Jazz/Folk/Dance/Hip Hop/Soul，简单，精确，这种分类最好的体现了一个音乐作品的风格流派和配器属性。你如果熟悉一种风格，那当个人曲库枯竭时，一种常见的操作就是：点击搜索框——🔍xx年代爵士，然后以一种命运的偶然来邂逅你未来一周的挚爱。\nvibee频道\n&符号所传达的，歌单可以打破风格、语言，就像刚才封面展示的，在咖啡馆窗下听着Dayoff和Jazz。那我们沿着这种共情的想象而更进一步，索性按照场景和氛围来制作歌单，在vibee 里，定义它为频道，就像收音机那种频道。\n\n听音乐的场景和氛围是一个很复杂的分类。\n随心而动，你可以定义一种氛围为悲伤和emo时听的音乐；随时而动，你可以定义一种适合黄昏雁过时听的音乐；随风而动，你可以定义一种雨落石涧时听的音乐。既然氛围和场景的粒度如此之小，那正如罗素所说\n\n须知参差多态，乃是幸福的本源\n\n那就没必要弥合这种粒度，按照它本来该有的样子，延伸出无限的氛围，所以现在你看到vibee 中已有的15个频道，没有任何排比句所构成的那种规整：\n\nBar & Lounge\nCafé & Bistro\nLofi Beats\nRainy Days\nK-Pop\n未竟，无限补充\n\n在不同的场景下，直接切换到符合氛围的频道，vibee 鼓励你懒惰，懒到不需要切歌（虽然我们在新款小组件上实现了这点，这是后话）。而达到这种懒惰，需要基于数据的，更需要基于人工的歌单来背书。\n交互小组件\n\nvibee的灵感很多来自经典的工业设计——博朗、索尼、苹果，或者一张融合经典元素的渲染图。基于触摸的、古典的、听觉的、故障的，这些是硬件经时间打磨之美。\n做一款融合音乐频道+精美小组件的App，希望不打开主体App也能独立运行，这是vibee的初衷，\n减少干扰。\niOS14推出的小组件是这一初衷的最佳载体，而iOS17的到来，无疑让这一特性发挥到极致。播放/暂停/上下曲切换/换频道，本来需要在锁屏和主App才能完成的动作，在小组件上就能完成App的所有功能。\n还可以做什么？动态性\n\nvibee 新款80电视小组件，左右两个区域——右侧负责控制，在iOS17上最为贴切；左侧显示歌名歌单和封面信息。静态图展示了小组件的一瞬，模糊和粗粝条纹是动画产生的故障感，而当它出现在你的屏幕上时，摩尔纹干涉所产生的频闪效果就如一个用了40年的老电视。\nvibee 往昔情怀小组件 & 当代摩登小组件\n对于过长的歌名，往昔情怀小组件和当代摩登小组件用走马灯的方式，让名称可以更清晰，这一特性，也将融入我们接下来的设计当中。\nvibee小组件的组合\n未来规划\n歌单：vibee会继续增加不同氛围场景下的歌单，并改善歌单的选择方式与推荐方式，加入一些轻量的推荐逻辑\n交互小组件：相信iOS上的小组件也会像安卓一样，不断增强交互与独立性，受益与此，vibee也会增加更多有趣的小组件\nstandby：下周即将增加standby小组件，路才刚刚开始\n上架之初的App Store编辑推荐\n福利\nvibee 去年末上架了App Store，至今已优化迭代了多个版本，已支持Apple Music和Spotify双平台，无论从小组件的数量还是歌单的更新，我们保持着对这一产品的热情，并将持续开发，因为音乐一直在我们左右，持续性是一个顺理成章的事。\nvibee 采取免费下载+内购的模式，你可以使用免费的小组件来丰富手机桌面，也可以获取免费的频道来收听相关场景下的音乐。但如果你愿意获取更多，你可以用一瓶可乐钱（3元）按月订阅，也可以用一杯瑞幸钱（13元）按年订阅，如果想一步到位，那28元的终身使用权会是一个更划算的选择。\n您可以留言告诉我您对哪个小组件感兴趣，我们会在月底之前随机送出一些按月订阅的会员码以供体验，如果您愿意购买，也可以通过私下方式联系我获得一些折扣，您可以通过vibee  App内的各种渠道联系到我。",
+          "link": "https://sspai.com/post/83053",
+          "publishedOn": "2023-09-21T05:03:03.000Z",
+          "wordCount": 628,
+          "title": "iOS17来了，音乐App才是交互小组件的最佳实践——vibee氛围歌单小组件",
+          "imageUrl": "https://cdn.sspai.com/2023/09/21/6ab03a5082604c056590306e8d77ba83.png"
+        },
+        {
           "id": "https://sspai.com/post/83051",
           "author": "Strigidae",
           "description": "讲正文前，先谈些题外话，渲染渲染氛围，也当是算不得自我介绍的“自我介绍”了，免得后面废话连篇，贻笑大方。用少数派连没有注册带注册后成为正式用户的时间，大约有两年左右，一直关注了不少站里的前辈们分享知识经验和其他领域的有趣玩意儿。看的多了，不免自己也手痒痒，想动手写上些文字来，权当是一种对工作流所谓“输出”的实践。\n我本身是 Apple 产品的用户，有一台 Windows，手上也有一部安卓，然而终究不拿他们作为主力来使用。所以假使大家愿意看、我后面还会写、编辑朋友愿意为我通过，接下来分享的内容可能也大多围绕 Apple 产品以及其他感兴趣的方向。我自以为还算是一个兴趣爱好相对广泛的人类个体，写起东西来可能也这里说些、那里说些，若有不专业、不客观、不严谨的地方，还希望读者海涵。\n说着后面恐有废话，现在倒是已经说了不少了，我就再“恬不知耻”一点，最后说几句本篇文章吧：一是本文无意教大家做事，也不算是一篇面向纯小白的详尽的教程，更不是什么自诩高深的推介。你全可以当一篇简单的看过即忘的互联网垃圾来看个乐子。若愿意读读，可当是我硬凑上来，与你分享思考心得一二。\n何必创作\n少数派已经有大量的文章来介绍种种不同的所谓“效率工具”，也有很多谈如何运用这些工具的“方法论”。我也是喜欢折腾些工具的人，最近两到三年左右，几乎把大部分能叫上来名字的“效率工具”统统尝试了一遍。然而有了“乱花渐欲迷人眼”之势的工具们究竟有没有帮到我实实在在的需求？我在不断地尝试中开始反思。契机一是看到张玉新老师所谓的“重器轻用”之说，二是读到 @玉树芝兰、@吕立青_JimmyLv 等老师一些关于效率反思的文章，另外站里的作者 @火箭君CC 的文章《在工具应用选择上，为什么我开始相信 Unix 哲学？》也给了我不少启发。特别是前几年看了“祖师爷”（只是戏称，切勿较真）卢曼（Niklas Luhmann）和他的 Zette…",
@@ -67,6 +137,16 @@
           "wordCount": 693,
           "title": "「新人报道」🧠“知识大脑”与“厚积薄发”，说说我的信息和思考",
           "imageUrl": "https://cdn.sspai.com/2023/09/19/4978345b50d7a99d9a8c28eac864b5d1.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83042",
+          "author": "EL_File4138",
+          "description": "748227、102072、68286、66743。这是我在写下这篇文章前，四个笔记库的字符数统计。算上这篇文章，我在 Obsidian 中写下的文字已经超过了一百万字。从有道笔记、OneNote、VNote 到 Obsidian，每一次对工具的权衡利弊与重新选择都是我对自己的笔记工作流，以及我的信息处理管线的重新审视与思考。\n这篇文章不仅限于 Obsidian 这一个工具，也不会围绕着几乎是匠气大于能力的双链笔记法继续陈词滥调。关键的是内容，而非工具：探讨如何高效的处理爆炸的信息输入，实际上是对思维的一种优化。作为自己第一篇在少数派上同步发布的文章，我希望能和各位读者分享我的这些体会，也希望能从互动中汲取更多经验，在生产力体验上共同精进。\n信息——输入与输出\n信息是什么？\n维基百科有言：“信息是反映（映射）事件的内容。”\n信息的本质在于流动。静止的信息不具有意义：事件需要发生、内容需要理解、知识需要应用。每一位信息工作者实际上都是一个输入与输出的中介，而其工作的基础是一个缓存体系。如果载体是人脑，那么缓存就是记忆；如果载体是纸张、电子设备，那么缓存就是笔记和文件。信息只有在中介间不断流动才能产生价值。\n因此，一个高效的信息处理管线可以简单的被归纳为如下的三个方面：\n\n输入：\n应当能够有效容纳几乎任何信息类型；\n应当尽最大可能以最原始的信息形式暂存；\n应当有适当的存储位置；\n\n缓存：\n应当有成体系的缓存层级：从即弃类信息（比如每天的新闻简报）、到需要短期存储（比如一个短期项目的素材）、再到需要长期甚至永久存储（比如知识与技能的佐证）；\n应当能有效管理和蒸馏信息；\n应当易于与思考配合；\n\n输出：\n应当有便捷的输出模式；\n应当能以多样化的信息类型输出内容；\n应当能持续稳定的输出优质内容，而不至于复制粘贴，不加思考；\n\n\n下文中，我将从笔记（着重于 Obsidian）和其他方面介…",
+          "link": "https://sspai.com/post/83042",
+          "publishedOn": "2023-09-19T07:26:58.000Z",
+          "wordCount": 925,
+          "title": "3 年、4 个库目录、100 万字——也谈我的 Obsidian 笔记工作流",
+          "imageUrl": "https://cdn.sspai.com/2023/09/19/e53b09b6b903757467276426ce6c6847.jpg"
         },
         {
           "id": "https://sspai.com/post/83048",
@@ -707,16 +787,6 @@
           "wordCount": 802,
           "title": "我用 5 分钟，读完了 80 分钟的视频",
           "imageUrl": "https://cdn.sspai.com/2023/08/28/e67e3a7576bfdd84c0dfea612aeca14c.png"
-        },
-        {
-          "id": "https://sspai.com/post/82448",
-          "author": "多吃肉少运动",
-          "description": "前言\n随着 Ai 的崛起，开发者的就业也越来越困难，好像疫情放开后整个世界都变了，全球都在经历经济下行的压力。那么作为个人开发者如何在工作之余获取额外收入呢？笔者也是个一般开发者，没有牛逼的技术实力，每天也是为以后的收入担忧，一直想着能搞个第二收入来源，以应对未来的危机，前前后后也尝试过很多东西，但都雷声大雨点小。如果你感兴趣的话请关注我，后续会继续更新我尝试过的赚钱副业。\n回到正题，今天我们先来说说通过开发小程序来赚广告费，我可以先告诉你结果，只要你稍微有点编程技术完全可以通过开发小程序从腾讯赚到钱，只不过是钱多钱少的问题，文章最后我会公布我的收入，绝对真实。\n小程序赚钱模式\n小程序依托微信生态，能很快带来流量，但是也带来了其他方面的问题，它对个人开发者不够友好。你在开发小程序的时候是要选择你的领域的，大部分涉及到在线支付的领域，明着来讲，涉及到好捞钱的领域都是需要企业资质的。因此个人开发者能通过小程序来赚钱的模式也就只剩下 2 种：\n•帮有企业资质的人开发小程序，收取报酬 •开发工具类、资源类的小程序，赚取广告费\n第一种要想有不错的收入还是靠熟人介绍，这样一般都能接受你的报价，否则基本上都是千元以内的报价，基本上你手上要是没有成品都很难赚到钱。\n第二种算是比较理想的模式了，当你开发的小程序累计独立访客 1000 以上，就可以开通流量主，这样你的小程序就可以赚取广告费了。这个门槛对于个人开发者确实比较难，因为大家都不擅长宣传。淘宝，闲鱼有帮刷访问量的，价格大概在 100 到 300 之间，但是好像容易被封，就是在你开通流量主后，腾讯会封了你的流量主，而且不能再开通。我看有人有成功的，也有失败的，建议还是不要尝试了。有这钱的话，你可以加一些帮点微信群，直接发你的小程序，让大家帮忙点一下，而后发个红包。如果不想花钱，你就每天加各种微信群，直接发你的小程序，坑定有人好奇点击，只…",
-          "link": "https://sspai.com/post/82448",
-          "publishedOn": "2023-08-26T19:35:09.000Z",
-          "wordCount": 658,
-          "title": "如何开发小程序 3 个月赚 6.18 元",
-          "imageUrl": "https://cdn.sspai.com/"
         }
       ]
     },
@@ -731,6 +801,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23262",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nWebP 堆缓冲区溢出 安全漏洞\n23 年 9 月 12 日 Libwebp 公布了一个高危漏洞 CVE-2023-4863，评级为 Critical(8.8) 。受影响方众多，包括 Chrome，Firefox 等浏览器；集成 libWebP 的客户端 APP，以及包括部分版本的 Electron、flutter 。列举部分受影响的组件：\nwebP(< 1.3.2)，推荐直接升级至 1.3.2\nElectron(< 26.2.2/25.8.2/24.8.3/22.3.24)\nflutter(< 3.13.4)\n由于漏洞已被公开，有被利用后攻击的风险（具体攻击方式不便展开），大家可以视项目情况进行升级。\n文章\n🐕 iOS 点九图 NinePatch 解析\n@Barney：文章主要介绍了 iOS 点九图的应用实战。有原理介绍也有代码，是非常具体的实践，值得学习。\n点九图制作生成。\nPNG 文件格式介绍和代码实践。\n🐕 开箱即用-移动网络 IPv6 浓度检测工具\n@含笑饮砒霜：本文介绍了一款移动网络 IPv6 浓度的检测工具，旨在推动 IPv6 技术的广泛应用。本文详细说明了该工具的背景、使用方法，以及如何通过抓包和数据分析来评估移动应用的 IPv6 流量占比，进而指导网络改进工作。此外，本文还提供了其他诸如手机抓包、Safari 调试等检测方法，以帮助读者更好地理解和推广 IPv6 技术在移动网络中的应用。\n🐎 Shake to undo in a SwiftUI app\n@zoeGuo：这篇文章介绍了如何在 SwiftUI 应用中实现\"摇一摇撤销\"的功能。作者从怎么在 SwiftUI 中…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23262",
+          "publishedOn": "2023-09-25T03:25:41.000Z",
+          "wordCount": 630,
+          "title": "老司机 iOS 周报 #262 | 2023-09-25",
+          "imageUrl": "https://opengraph.githubassets.com/256e5be863a251dc98bcb9d29e6fef836a63992c037033a1f64ca169c224954b/SwiftOldDriver/iOS-Weekly/releases/tag/%23262"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23261",
           "author": null,
@@ -784,6 +864,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76189",
+          "author": null,
+          "description": "Star Division 公司在 1985 年发布了私有办公软件套装 StarOffice，Sun Microsystems 在 2000 年公开了 StarOffice 源代码，随后 OpenOffice.org 诞生。甲骨文在 2010 年收购 Sun Microsystems 之后将 OpenOffice.org 相关商标和代码转让给了 Apache 软件基金会，创造了 Apache Open Office。LibreOffice 在 OpenOffice.org 源代码基础上活跃开发至今，相比之下 Apache Open Office 自 2014 年以来还没有发布大的更新。Apache 软件基金会是时候放弃 OpenOffice 了。",
+          "link": "https://www.solidot.org/story?sid=76189",
+          "publishedOn": "2023-09-25T16:01:36.000Z",
+          "wordCount": 189,
+          "title": "Apache 软件基金会是时候放弃 OpenOffice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76188",
+          "author": null,
+          "description": "勒索软件组织 Ransomed.vc 声称成功入侵了索尼集团，窃取了数据。这一说法尚未获得确认。该组织在其暗网网站上表示不会向索尼索要赎金，因为索尼不想支付赎金，所以它改为出售数据。Ransomed.vc 公布了部分数据作为证据，但看起来不是特别有说服力，它公布了内部登陆页面截图、内部 PPT 演示文件，多个 Java 文件等等。",
+          "link": "https://www.solidot.org/story?sid=76188",
+          "publishedOn": "2023-09-25T15:49:17.000Z",
+          "wordCount": 148,
+          "title": "勒索软件组织声称入侵索尼系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76187",
+          "author": null,
+          "description": "日本制药创业公司正在开发世界第一种牙齿再生药物，希望在 2030 年左右投入市场。Toregem Biopharma Co.预计 2024 年 7 月左右对健康成年人展开临床试验，确认药物的安全性。2018 年该公司成功在小鼠身上再生了牙齿。绝大数人都有牙蕾（tooth bud），有潜力生成为新牙，但牙蕾通常不会发育，而且随后会消失。研究团队开发出一种抗体药物，能抑制一种抑制牙齿生长的蛋白质。药物能作用于牙蕾，能刺激其生长。",
+          "link": "https://www.solidot.org/story?sid=76187",
+          "publishedOn": "2023-09-25T15:39:43.000Z",
+          "wordCount": 151,
+          "title": "日本公司开发牙齿再生药物",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76186",
+          "author": null,
+          "description": "盖蒂与英伟达合作发布了 Generative AI by Getty Images，完全使用盖蒂图库的授权图像训练的生成式 AI，将该工具生产的图像商业化会受到法律保护。该工具使用了英伟达的 Edify 模型。测试显示，盖蒂 AI 工具的图像质量与 OpenAI 的 DALL-E 3 相近，优于开源图像模型 Stable Diffusion。Getty 工具对用户生成图片的类型有限制，不允许生成任何真实人名的图像。盖蒂对此表示，它无意操纵或再现现实生活的事件。",
+          "link": "https://www.solidot.org/story?sid=76186",
+          "publishedOn": "2023-09-25T15:24:13.000Z",
+          "wordCount": 164,
+          "title": "盖蒂与英伟达发布用授权图像训练的生成式 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76185",
+          "author": null,
+          "description": "Meta 最快将于本周在其各社交媒体应用中发布具有鲜明个性的 AI 聊天机器人，以此吸引年轻用户。AI 机器人正在内部测试，Meta 预计会在周三开始的 Meta Connect 会议上宣布首批 AI 智能体(AI agent)。这些机器人将用来推动用户的参与，不过其中一些机器人也可能拥有与生产力相关的技能，比如帮助完成编码或其他任务的能力。Meta 正计划开发几十个 AI 个性聊天机器人。该公司还在开发一款产品，让名人和创作者可以使用自己的 AI 聊天机器人与粉丝和追随者互动。",
+          "link": "https://www.solidot.org/story?sid=76185",
+          "publishedOn": "2023-09-25T10:38:22.000Z",
+          "wordCount": 169,
+          "title": "Meta 准备推出具有个性的 AI 聊天机器人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76184",
+          "author": null,
+          "description": "NASA 执行小行星取样任务的探测器 OSIRIS-REx 携带的返回舱周日成功着陆在犹他州。探测器于 2016 年 9 月 8 日发射，任务是研究小行星 101955——或者叫贝努。它是一颗含碳的近地小行星，被视为是潜在威胁天体，是有可能会撞击地球的小天体之一。探测器于 2020 年 10 月 20 日成功在小行星上采样，2021 年 5 月 10 日开始返回地球。它送回地球的样本大约重 250 克。OSIRIS-REx 在完成送回样本任务之后开始飞向另一颗近地天体 Apophis，执行代号为 OSIRIS-APEX 的任务，Apophis 将于 2029 年飞到距离地球 2 万英里的位置，探测器将对其展开近距离观测。",
+          "link": "https://www.solidot.org/story?sid=76184",
+          "publishedOn": "2023-09-25T10:17:56.000Z",
+          "wordCount": 177,
+          "title": "NASA 执行小行星取样的探测器返回地面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76183",
+          "author": null,
+          "description": "亚马逊宣布向 AI 创业公司 Anthropic 投资至多 40 亿美元，推动 AI 军备竞赛升级。此前微软向 OpenAI 投资数十亿美元。作为交易的一部分，Anthropic 将用亚马逊的定制芯片构建 AI 软件，并使用亚马逊的 AWS 云计算服务。亚马逊则将整合 Anthropic 的 AI 技术。Anthropic 开发了 ChatGPT 之外另一个备受瞩目的 AI 聊天机器人 Claude 2，支持最高 100k 上下文。",
+          "link": "https://www.solidot.org/story?sid=76183",
+          "publishedOn": "2023-09-25T09:46:20.000Z",
+          "wordCount": 185,
+          "title": "亚马逊向 Anthropic 投资最多 40 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76182",
+          "author": null,
+          "description": "1933 年，奥地利业余昆虫学家 Oskar Scheibel 将其发现的一种当时未知的无眼洞穴甲虫命名为 Anophthalmus hitleri，其中第一个单词来自希腊语中的“无眼”，第二个 hitleri 指的就是当时的德国总理希特勒（Adolf Hitler）。几十年以来，分类学界中有很多人反对使用对大屠杀负有责任的人的名字命名物种。现在这个名字可能会改变，但原因不是名字，而是为了保护这种无眼甲虫，因为新纳粹们对这种甲虫的偏好导致其接近灭绝。除此之外，还有很多物种用种族主义、殖民主义或其它带有歧视意义的名字命名，比如墨索里尼蝴蝶（Hypopta mussolinii）。科学家正在争论是否改变类似的物种名称。一部分人支持，但有一部分人持反对立场。",
+          "link": "https://www.solidot.org/story?sid=76182",
+          "publishedOn": "2023-09-25T09:36:03.000Z",
+          "wordCount": 151,
+          "title": "科学家争论改变带有种族主义或歧视的物种名称",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76181",
+          "author": null,
+          "description": "流媒体巨头 Netflix 准备在本周五（9 月 29 日）寄出最后的 DVD 红色邮包。Netflix 成立于 1997 年，最初的主业就是以邮寄方式出租 DVD 和蓝光碟片。在高峰期，它每周处理 120 万张 DVD，雇佣了 50 名员工。如今它c只剩下 6 名员工处理碟片，而这一切也将在周五结束。Netflix DVD 部门总经理 Hank Breeggemann 表示：看到结局你会产生伤感，它在很长时间里是我们生活的重要部分。但万物皆有轮回。我们经历了 25 年的辉煌，改变了娱乐业，改变了在家观影的方式。Netflix 寄出的第一张 DVD 是《阴间大法师（Beetlejuice）》。在鼎盛期，Netflix 是邮政服务的第五大客户，经营着 58 家邮寄设施，128 个运输车队，能为其 98.5% 的客户提供一日送达服务。这项业务仍然有 100 万客户，为了缓和忠诚客户的强烈反应，Netflix 允许客户保留最后租借的碟片。",
+          "link": "https://www.solidot.org/story?sid=76181",
+          "publishedOn": "2023-09-25T06:54:45.000Z",
+          "wordCount": 191,
+          "title": "Netflix 准备寄出最后的 DVD 红色邮包",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76180",
+          "author": null,
+          "description": "日本研究团队报告，他们在探测器“隼鸟2号”采集的小行星“龙宫”沙粒样本中发现地球上盐的主要成分钠。这一发现可能有助于揭开地球诞生前的太阳系上物质如何存在、地球上海洋与生命的起源与进化之谜。“隼鸟2号”是在 2020 年 12 月将小行星“龙宫”样本送回地球。小行星地下物质不易受到宇宙射线影响，是揭开太阳系原貌的关键。研究团队对从“龙宫”表面与地下采集的沙粒样本进行分析，在易溶于热水的成分中发现含有相当多钠离子。此外还发现了有机硫分子。",
+          "link": "https://www.solidot.org/story?sid=76180",
+          "publishedOn": "2023-09-25T06:18:41.000Z",
+          "wordCount": 145,
+          "title": "“龙宫”样本中发现钠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76179",
+          "author": null,
+          "description": "加州伯克利的 Van Jacobson 1988 年在 SIGCOMM 会议上发表的论文《Congestion avoidance and control》为今天互联网的拥堵控制奠定了基础，此后的 35 年拥堵控制一直在改进。如果没有拥堵控制，正如图灵奖得主、以太网发明人 Bob Metcalfe 在 1995 年所预测的：随着消费者的互联网接入和 Web 驱动的流量快速增长，互联网将会崩溃。但互联网并没有崩溃，TCP 拥堵控制拯救了互联网。Jacobson 的论文位居引用次数最多的论文行列，它描述了慢启动、AIMD（加增乘减）、RTT 估计，以及用丢包作为拥塞信号。后来人们意识到丢包不是拥堵的唯一信号，还有延迟增加。延迟被认为是丢包发生前拥堵早期信号。",
+          "link": "https://www.solidot.org/story?sid=76179",
+          "publishedOn": "2023-09-25T05:44:07.000Z",
+          "wordCount": 166,
+          "title": "TCP 拥堵控制如何拯救了互联网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76178",
+          "author": null,
+          "description": "AI 模型需要大量“点击工人”对数据进行训练，比如教 AI 区分行人和棕榈树，或者组合描述暴力或性虐待的词语。“点击工人”通常来自低工资的南半球国家。比如 OpenAI 雇佣的一家外包公司在肯尼亚、乌干达和印度招募“点击工人”。但南半球国家懂芬兰语的很少。因此芬兰 AI 创业公司 Metroc 找到了监狱劳工帮助它训练大模型。40 多岁的女囚 Marmalade 就成为了一名“点击工人”，她的时薪为 1.54 欧元，轮班时间为 3 小时。芬兰以其开放式监狱闻名——囚犯可以在附近城镇工作或学习。但还有部分监狱是封闭式的，关押重刑犯。Marmalade 被判了 6 年，在一个终身监禁囚犯关押 12 年后可申请释放的国家，6 年是一个重刑。",
+          "link": "https://www.solidot.org/story?sid=76178",
+          "publishedOn": "2023-09-25T03:43:29.000Z",
+          "wordCount": 163,
+          "title": "芬兰囚犯帮助训练大模型",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76177",
           "author": null,
@@ -3483,46 +3683,6 @@
           "wordCount": 175,
           "title": "Linux 6.5 释出",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75907",
-          "author": null,
-          "description": "HashiCorp 公司创建的基础设施即代码软件 Terraform 最初是于 2014 年在 Mozilla Public License (v2.0) 许可证下开源的。它逐渐建立起一个由数以千计的用户、贡献者、客户、认证从业者、供应商，以及开源模块、库、插件和扩展生态系统组成的社区。但在 8 月 10 日，在几乎没有提前通知或社区反馈的情况下，HashiCorp 将 Terraform 的许可证从 MPL 切换到了非开源的 Business Source License (v1.1)。此举被认为威胁到了整个社区和生态系统。OpenTF 基金会宣布创建 Terraform 的分支，它已经申请成为 Linux 基金会的一部分。OpenTF 基金会表示，已经有四家公司承诺为项目提供 14 名全职工程师，预计该数字未来几周将会至少增加一倍。它指出过去两年 HashiCorp 公司只提供了大约 5 名全职工程师去维护 Terraform。",
-          "link": "https://www.solidot.org/story?sid=75907",
-          "publishedOn": "2023-08-27T12:11:08.000Z",
-          "wordCount": 194,
-          "title": "OpenTF 宣布创建 Terraform 分支",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75906",
-          "author": null,
-          "description": "加蓬于 8 月 26 日举行总统、议会和地方选举，当天主要 ISP 的网络服务被切断。当局表示此举旨在防止暴力的呼声蔓延。反对者认为此举旨在限制信息的自由传播，维护总统 Ali Bongo 家族对加蓬国家权力长达 56 年的统治。加蓬政府还在投票结束的当晚宣布了宵禁。加蓬在 2016 年举行的上一次总统选举曾引发大规模抗议，Ali Bongo 与反对派候选人的得票率非常接近，宪法法院还在宣布结果之后称选票已经烧掉无法重新计票。",
-          "link": "https://www.solidot.org/story?sid=75906",
-          "publishedOn": "2023-08-27T11:00:33.000Z",
-          "wordCount": 156,
-          "title": "加蓬在选举日断网",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75905",
-          "author": null,
-          "description": "Bugzilla 项目庆祝了诞生二十五周年，宣布成立了一个接受捐款的组织 Zarro Boogs Corporation，但用户的捐款无法抵税，因为软件开发在美国不被视为慈善事业，该组织不隶属于 Mozilla 基金会或与 Mozilla 基金会关联的实体。Bugzilla 是一个基于 Web 的 bug 跟踪系统和测试工具，最初是在 1998 年 4 月作为 Mozilla.org 项目的一部分发布的，开发语言是 Tcl。完整开源版本是在 1998 年 8 月 26 日发布的。因为 Perl 当时是更受欢迎的语言，9 月 15 日宣布完成了 Perl 移植。",
-          "link": "https://www.solidot.org/story?sid=75905",
-          "publishedOn": "2023-08-27T10:20:29.000Z",
-          "wordCount": 178,
-          "title": "Bugzilla 庆祝诞生二十五周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75904",
-          "author": null,
-          "description": "华盛顿州立大学的研究人员在《Journal of Neuroscience》期刊上发表论文，报告激活基底前脑的星形胶质细胞能让小鼠一直保持清醒，没有表现出任何睡意的迹象。星形胶质细胞是神经胶质细胞的一种亚型，能调控不同大脑和身体的功能。研究人员一直调查它在睡眠和清醒过程中的作用。他们使用遗传和化学技术可逆的改变小鼠基底前脑中星形胶质细胞的活性。研究人员观察到，激活基底前脑的星形胶质细胞导致小鼠连续几个小时保持清醒，而且没有表现出任何睡意。研究人员表示，这项研究或有助于创造出能长时间让人保持清醒的药物，比如轮班工人不会昏昏欲睡，宇航员、飞行员、士兵、医疗人员、急救人员可以在较长时间内无需睡眠。",
-          "link": "https://www.solidot.org/story?sid=75904",
-          "publishedOn": "2023-08-26T13:04:10.000Z",
-          "wordCount": 143,
-          "title": "激活基底前脑的星形胶质细胞让小鼠不休不眠",
-          "imageUrl": null
         }
       ]
     },
@@ -3531,6 +3691,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/751021/",
+          "author": null,
+          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 操作系统级 ChatGPT，微软还没搞出来，被开源项目先实现了—— 支持 Windows、Mac、Linux 三大系统，相当于直接和你的电脑对话。 指定文件夹下打开终端，一句话，所有 Word 文件秒变 PDF。 与单个文件互动，直接拖拽进来就行。 与应用\n本文链接",
+          "link": "https://news.cnblogs.com/n/751021/",
+          "publishedOn": "2023-09-25T16:41:00.000Z",
+          "wordCount": 163,
+          "title": "操作系统级ChatGPT爆火，实测能让电脑自己整理桌面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751020/",
+          "author": null,
+          "description": "克雷西发自凹非寺 量子位公众号 QbitAI 国产数学大模型，能力已经超过了 ChatGPT！ 最新榜单中，上海交大 GAIR 实验室出品的 Abel 专有大模型： 准确率高达 83.6%，在开源模型中位列第一。 据团队介绍，该模型是用挪威数学家尼尔斯·阿贝尔（Niels Abel）的名字命名的，以\n本文链接",
+          "link": "https://news.cnblogs.com/n/751020/",
+          "publishedOn": "2023-09-25T16:39:00.000Z",
+          "wordCount": 163,
+          "title": "数学能力超过ChatGPT！上海交大计算大模型登开源榜首",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751019/",
+          "author": null,
+          "description": "新智元报道 编辑：润 一张图揭示了 AI 算力 70 多年发展了 6.7 亿倍，未来 AI 各方面能力将全面超越人类，而真正令人期待的是，AI 行业才刚刚进入爆发前的萌芽期。 电子计算机于上世纪 40 年代诞生，而在计算机出现后的 10 年内，人类历史上的第一个 AI 应用就出现了。 70 多年过去\n本文链接",
+          "link": "https://news.cnblogs.com/n/751019/",
+          "publishedOn": "2023-09-25T16:37:00.000Z",
+          "wordCount": 163,
+          "title": "AI算力70年增长6.8亿倍，3个历史阶段见证AI技术指数级爆发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751018/",
+          "author": null,
+          "description": "新智元报道 编辑：润 Lumina Meta 的 AI 产品化之路，第一步可能就是先抄 Character.AI 的虚拟角色聊天功能。更多消息，周三 Meta Connect 大会揭晓。 面对用户不断被 Tiktok 抢走，日活不断下降的现实，Meta 给出的回应是——继续抄别家的产品。 根据外媒的\n本文链接",
+          "link": "https://news.cnblogs.com/n/751018/",
+          "publishedOn": "2023-09-25T16:31:00.000Z",
+          "wordCount": 163,
+          "title": "小扎发布虚拟聊天AI，竟「1：1复刻」Character.AI？用户吐槽：设定太老土了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751016/",
+          "author": null,
+          "description": "过去半年，你可能注意到潮流改变了，这种变化在网红身上最明显：曾经的加密货币网红一度变成元宇宙网红，现在则是 AI 网红。人们谈论的内容毫不费劲的从“web3 是未来”切换到“我将向你解释为什么 AI 会取代你”。根据新闻里的流行趋势，曾以谈论自动驾驶汽车知名的人会在接下来一周谈起超导体。 在数字时代\n本文链接",
+          "link": "https://news.cnblogs.com/n/751016/",
+          "publishedOn": "2023-09-25T16:26:00.000Z",
+          "wordCount": 163,
+          "title": "骗术转移的时代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751017/",
+          "author": null,
+          "description": "萧箫发自凹非寺 量子位公众号 QbitAI 制药行业的“专家版 ChatGPT”，终于来了！ 就在这两天，首个生物医药的千亿参数大模型产品ChatDD发布，不仅制药各阶段知识“样样通”，还能和药学专家进行对话，瞬间秒懂一些行业神秘“黑话”。 这和 AlphaFold2 直接加个 Chat 功能还不太\n本文链接",
+          "link": "https://news.cnblogs.com/n/751017/",
+          "publishedOn": "2023-09-25T16:20:00.000Z",
+          "wordCount": 163,
+          "title": "首个千亿生物医药ChatGPT！清华AIR聂再清：行业未来的超级应用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751015/",
+          "author": null,
+          "description": "如果说从 0 到1，是天赋占据主导。那么从 1 到 100，更多的是坚持。每一次锤炼，都是为了下一次更接近满分。 十三年前，苹果的 iPad 将平板电脑带入大众消费市场。彼时的国内品牌，仍在走模仿的路数，无论是传统 PC 厂商，还是新兴手机品牌，平板只是终端生态闭环的一个新故事。 新品类的诞生，需要\n本文链接",
+          "link": "https://news.cnblogs.com/n/751015/",
+          "publishedOn": "2023-09-25T16:16:00.000Z",
+          "wordCount": 163,
+          "title": "十年大作，华为开启平板发展大场面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751014/",
+          "author": null,
+          "description": "文六便士财经 随着华为 mate 60 和苹果 15 的发布，手机市场又掀起了一场角逐，然而就在这背后，小小的手机壳却在疯狂敛财。小小的配饰正在超越刚需本身带来更多的关注。 低成本的快乐 9 月已经过了大半，新手机也是应接不暇，各类“X”“Pro”“Mate”型号让人眼花缭乱。但是那个一直被认为“三\n本文链接",
+          "link": "https://news.cnblogs.com/n/751014/",
+          "publishedOn": "2023-09-25T16:08:00.000Z",
+          "wordCount": 163,
+          "title": "手机壳超好卖，刚需干不过的配饰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751013/",
+          "author": null,
+          "description": "加州州长加文·纽森（Gavin Newsom）否决了立法提案 316 号(Assembly Bill316)，该提案要求在自动大货车上配备人类驾驶员，车重超过 10，000 磅。据路透社报道，该提案在州议员中得到广泛支持，并得到了 Teamsters 和其他工会组织的支持。然而，州长在否决信中表示，\n本文链接",
+          "link": "https://news.cnblogs.com/n/751013/",
+          "publishedOn": "2023-09-25T16:01:00.000Z",
+          "wordCount": 163,
+          "title": "​加州州长否决要求自动大货车配备人类驾驶员的法案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751012/",
+          "author": null,
+          "description": "文松果财经，作者 Bonnie 作为目前 AI 领域的“神级产品”，ChatGPT 的诞生，即吹响了 AI 革命的号角，随后包括谷歌、微软、Meta 在内的国外科技公司，以及百度、华为、阿里、商汤科技、360、科大讯飞等在内的国内大厂，纷纷在短时间内推出了自家大模型产品。 但这场空前繁荣能持续多久，\n本文链接",
+          "link": "https://news.cnblogs.com/n/751012/",
+          "publishedOn": "2023-09-25T15:42:00.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT降温背后：大模型发展迎来真正转折点？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751011/",
+          "author": null,
+          "description": "文巍巍昆仑侠 近日，苹果 Apple Store 的官方在线商店悄然在微信小程序上线，引发市场热议。 作为曾经极力抵制小程序的苹果公司为何要做微信小程序呢？微信小程序和苹果 App Store 之间又有什么恩怨纠葛呢？ 本期和读者一起回顾一下微信小程序如何迅速崛起，以及腾讯和苹果两家巨头背后精彩的商\n本文链接",
+          "link": "https://news.cnblogs.com/n/751011/",
+          "publishedOn": "2023-09-25T15:35:00.000Z",
+          "wordCount": 163,
+          "title": "微信小程序和苹果App Store终有一战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751010/",
+          "author": null,
+          "description": "日本研究团队报告，他们在探测器“隼鸟 2 号”采集的小行星“龙宫”沙粒样本中发现地球上盐的主要成分钠。这一发现可能有助于揭开地球诞生前的太阳系上物质如何存在、地球上海洋与生命的起源与进化之谜。“隼鸟 2 号”是在 2020 年 12 月将小行星“龙宫”样本送回地球。小行星地下物质不易受到宇宙射线影响\n本文链接",
+          "link": "https://news.cnblogs.com/n/751010/",
+          "publishedOn": "2023-09-25T15:30:00.000Z",
+          "wordCount": 163,
+          "title": "“龙宫”样本中发现钠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751009/",
+          "author": null,
+          "description": "随着新能源汽车产业不断发展，电车充电需求持续增长。近期，小桔充电开启 929 能量节，答谢用户。 小桔充电 929 能量节时间为 9.11-9.29，持续 19 天，用户可通过小桔充电小程序、小桔充电支付宝小程序、小桔充电 APP、滴滴出行 APP、滴滴车主 APP 多个入口参与活动。 小桔充电 9\n本文链接",
+          "link": "https://news.cnblogs.com/n/751009/",
+          "publishedOn": "2023-09-25T15:25:00.000Z",
+          "wordCount": 163,
+          "title": "小桔充电开启929能量节 助力绿色出行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751008/",
+          "author": null,
+          "description": "摘要 不仅是大模型，亚马逊投出「一揽子计划」。 9 月 25 日下午，亚马逊在公司官网公布，向大模型公司 Anthropic 投资至多 40 亿美元，后者以拥有对标 ChatGPT 的聊天机器人 Claude 而闻名。 云计算公司大笔投资大模型公司，微软已经在今年 2 月开了个好头，以 100 亿美\n本文链接",
+          "link": "https://news.cnblogs.com/n/751008/",
+          "publishedOn": "2023-09-25T15:21:00.000Z",
+          "wordCount": 163,
+          "title": "280亿！亚马逊投了OpenAI最大敌人Anthropic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751007/",
+          "author": null,
+          "description": "9 月 25 日，大疆正式发布 mini 系列的新一代无人机 DJI Mini 4 Pro，定价 4788 元起。 和一年前推出的 Mini 3 Pro 比起来，新推出的 DJI Mini 4 Pro 总算用上了完整的全向避障和全向智能跟随功能，图传升级到了最大传输距离 20km 的 O4 图传。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/751007/",
+          "publishedOn": "2023-09-25T15:14:00.000Z",
+          "wordCount": 163,
+          "title": "DJI Mini 4 Pro 体验，最完整的入门级无人机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751006/",
+          "author": null,
+          "description": "根据 DigiTimes 的一份新报告，苹果可能准备在今年年底前发布第七代 iPad mini。 在一篇讨论 2023 年下半年全球平板电脑需求停滞的文章中，这家媒体预测，由于第四季度“小尺寸”iPad 的订单，苹果的市场份额将会上升。 尽管如此，彭博社的马克·古尔曼今年早些时候报道称，iPad m\n本文链接",
+          "link": "https://news.cnblogs.com/n/751006/",
+          "publishedOn": "2023-09-25T15:05:00.000Z",
+          "wordCount": 163,
+          "title": "苹果可能准备在今年年底前发布第七代iPad mini",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751005/",
+          "author": null,
+          "description": "智东西（公众号：zhidxcom） 作者：香草 编辑：漠影 智东西 9 月 25 日报道，今天，阿里云举办了一场大模型开源发布会，正式发布通义千问 140 亿参数模型 Qwen-14B 及对话模型 Qwen-14B-Chat，开源免费。 继开源社区口碑之作 Qwen-7B 之后，Qwen-14B 有\n本文链接",
+          "link": "https://news.cnblogs.com/n/751005/",
+          "publishedOn": "2023-09-25T15:00:00.000Z",
+          "wordCount": 163,
+          "title": "开发者用脚投票，通义千问风靡中英文AI社区，今日再开炸裂新模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751004/",
+          "author": null,
+          "description": "那个男人只说了三次「遥遥领先」，而且很腼腆。 北京时间 9 月 25 日，在长达两小时的华为秋季全场景新品发布会上，华为常务董事、终端 BG CEO、智能汽车解决方案 BU 董事长余承东，面对热情高涨的粉丝，只「腼腆」地说了三次人民群众喜闻乐见的那句「遥遥领先」。但还是让观看在线直播的观众心满意足了\n本文链接",
+          "link": "https://news.cnblogs.com/n/751004/",
+          "publishedOn": "2023-09-25T14:55:00.000Z",
+          "wordCount": 163,
+          "title": "除了刘德华和 2 万元的金表，华为都发布了什么新品？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751003/",
+          "author": null,
+          "description": "GameLook 报道/近日，英国竞争和市场管理局（CMA）对微软收购动视暴雪的交易给出了最终批准，这意味着，微软与动视暴雪的合并已经没有任何障碍，将于 2023 年完成。此前，CMA 曾对这一交易表示反对，担心其对云游戏市场的竞争造成不利影响。 据悉，微软于 2022 年 1 月宣布，将以每股 9\n本文链接",
+          "link": "https://news.cnblogs.com/n/751003/",
+          "publishedOn": "2023-09-25T14:50:00.000Z",
+          "wordCount": 163,
+          "title": "微软收购动视暴雪获英国最终批准，游戏业巨头合并即将完成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/751002/",
+          "author": null,
+          "description": "手机数码品牌正在全面拥抱即时零售。 9 月 25 日，美团闪购宣布，与华为达成战略合作。自今年 7 月达成合作意向以来，双方已开启门店入驻、产品上翻、系统对接等筹备工作。截至目前，首批 62 城超 1000 家华为授权体验店已入驻美团，消费者可享受华为正品商品最快 30 分钟到家服务。 今日举行的华\n本文链接",
+          "link": "https://news.cnblogs.com/n/751002/",
+          "publishedOn": "2023-09-25T14:45:00.000Z",
+          "wordCount": 163,
+          "title": "美团闪购与华为达成战略合作 首批62城超1000家门店已入驻",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/750928/",
           "author": null,
@@ -9068,6 +9428,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23262",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nWebP 堆缓冲区溢出 安全漏洞\n23 年 9 月 12 日 Libwebp 公布了一个高危漏洞 CVE-2023-4863，评级为 Critical(8.8) 。受影响方众多，包括 Chrome，Firefox 等浏览器；集成 libWebP 的客户端 APP，以及包括部分版本的 Electron、flutter 。列举部分受影响的组件：\nwebP(< 1.3.2)，推荐直接升级至 1.3.2\nElectron(< 26.2.2/25.8.2/24.8.3/22.3.24)\nflutter(< 3.13.4)\n由于漏洞已被公开，有被利用后攻击的风险（具体攻击方式不便展开），大家可以视项目情况进行升级。\n文章\n🐕 iOS 点九图 NinePatch 解析\n@Barney：文章主要介绍了 iOS 点九图的应用实战。有原理介绍也有代码，是非常具体的实践，值得学习。\n点九图制作生成。\nPNG 文件格式介绍和代码实践。\n🐕 开箱即用-移动网络 IPv6 浓度检测工具\n@含笑饮砒霜：本文介绍了一款移动网络 IPv6 浓度的检测工具，旨在推动 IPv6 技术的广泛应用。本文详细说明了该工具的背景、使用方法，以及如何通过抓包和数据分析来评估移动应用的 IPv6 流量占比，进而指导网络改进工作。此外，本文还提供了其他诸如手机抓包、Safari 调试等检测方法，以帮助读者更好地理解和推广 IPv6 技术在移动网络中的应用。\n🐎 Shake to undo in a SwiftUI app\n@zoeGuo：这篇文章介绍了如何在 SwiftUI 应用中实现\"摇一摇撤销\"的功能。作者从怎么在 SwiftUI 中…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23262",
+          "publishedOn": "2023-09-25T03:25:41.000Z",
+          "wordCount": 630,
+          "title": "老司机 iOS 周报 #262 | 2023-09-25",
+          "imageUrl": "https://opengraph.githubassets.com/256e5be863a251dc98bcb9d29e6fef836a63992c037033a1f64ca169c224954b/SwiftOldDriver/iOS-Weekly/releases/tag/%23262"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23261",
           "author": null,
