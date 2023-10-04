@@ -607,46 +607,6 @@
           "wordCount": 795,
           "title": "任彼变化无穷，我自岿然不动——写在 GRE General Test 再次改革之时",
           "imageUrl": "https://cdn.sspai.com/2023/09/04/6a136610c2f1798f507328a07956ce3d.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82260",
-          "author": "之北",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n在游泳时听歌的一个常见痛点是，耳机上存放的音乐内容越来越过时或者听腻了，要手动通过电脑来管理音乐，但是操作却非常麻烦。本文将会使用群晖（DS218+），通过简单的 USB Copy 或者自动化脚本来解决这个问题，实现自动帮耳机（Sony Walkman NW-WS623，以下统称 Walkman）更新歌曲。\n重要提示：本文将涉及编写并执行自定义脚本，存在一定安全风险。请不要轻易信任和运行不明来源的脚本，以免造成数据损坏或信息泄漏。请在自己完全理解的前提下谨慎操作。\nWalkman 的痛点\n夏天到了，游泳的最佳时节也到了。每次去游泳，游泳耳机是必不可少的，它让我在泳池里面不会那么枯燥了，只要戴上我心爱的 Walkman 扑通入水后，整个游泳馆就会只剩下我这最靓的仔。\n不过美中不足的是，除了偶尔会被蛙泳的人踹脸，就剩下我的 Walkman 里面的音乐却是几年前的这件事了。在这过去的几年里，我的个人音乐库里面的红心歌曲也已经更新了好多，现在有必要把 Walkman 里面的歌单更新一下了。\n上周末从游泳馆回家的路上，一直想着要更新歌单，想着想着，结果一进门，心里记着的事儿也就跟我扔在一边的游泳装备一样，啪嗒掉在了地上。\n直到隔天晚上，偶然瞥到游泳装备，这件需要解决的小麻烦这才又浮上心头。于是，那天晚上我大概花了一个小时才把这件事情搞定：\n\n把 Walkman 从游泳装备中取出；\n打开电脑；\n忘记连接线，又去我的杂物箱里面拿到数据连接线；\n把电脑跟 Walkman 连接；\n先清空 Walkman 里面 Music 文件夹；\n打开了我的音…",
-          "link": "https://sspai.com/post/82260",
-          "publishedOn": "2023-09-04T03:30:59.000Z",
-          "wordCount": 1012,
-          "title": "一日一技 | 群晖+Walkman，如何让游泳时听的歌总有新鲜感？",
-          "imageUrl": "https://cdn.sspai.com/2023/08/21/4cd1e1318659852c5c4f1a1f596984e5.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/82640",
-          "author": "yz坨",
-          "description": "由于产品经理这份工作的关系，我认识了非常多的设计师。又由于本身从事的事ToB+SAAS相关的领域，我认识的设计师们大多都是b端设计师。\n设计师在我心中一直是一个为爱发电浓度很高的职业，在当今国内热捧短平快的职场氛围中，设计师的职场地位更难以体现，在ToB领域尤其如此，领导层往往重视业务实用，轻视设计体验。那么身为b端设计师，会如何看待自己做过的工作和职业选择呢？\n今年开始，我和几位朋友一起开始了一档播客，播客的名字叫“唠叨无限”，其中“不被工作定义”这个系列，我们计划采访不同职业的朋友，聊聊他们怎么看待职业和工作的关系。\n \n \n在最近的一期里，我们有幸采访了Element Plus Design Figma设计资源的主要贡献者忠忠，他目前也是一名全职的个人AIGC模型训练师和内容创作者，我们就设计师如何规划自己的职业道路这个主题聊了聊。\n在figma里搜索Element Plus资源，忠忠的名字就在第一个忠忠在C站发布的B端应用型模型和Lora\n在聊天的过程中，我感受到忠忠是一位热爱设计，而且热爱公共服务方面设计的从业者，那么身为设计师，他是怎么一路走来的呢？\n一句话总结他给的建议：当你对职业感到迷茫，选择能构建值得回忆的经历的选项\n如何进入Element Plus Design团队？\n忠忠毕业于视觉设计专业，毕业后也从事了符合自己本专业的设计工作。最开始做C端设计是最符合自己的专业能力的，但他很快就感受到了C端设计不适合自己。\n“我觉得人的职业规划要尽力挖掘自己的优势，然后放大它，再避开自己的弱点。我的优势可能就是我更喜欢设计系统组件库这些系统性的构造，实际上让我去画运营海报界面，我是并不擅长的。”\n因此忠忠在快速试错后转行了B端，并且在使用Element之后发现了一些bug，本着自己对开源的热爱，他在git上提交了修改，因此进入了Element Plus的核心团队，目…",
-          "link": "https://sspai.com/post/82640",
-          "publishedOn": "2023-09-04T02:20:02.000Z",
-          "wordCount": 613,
-          "title": "为爱发电还是为钱折腰？与资深B端设计师聊了聊",
-          "imageUrl": "https://cdn.sspai.com/2023/09/03/784f6cf10fcbb48da728fea70fd294f9.png"
-        },
-        {
-          "id": "https://sspai.com/post/82619",
-          "author": "Fairyex",
-          "description": "说到检测辐射，大家可能首先想到的就是盖革计数器。虽然盖格计数器确实可以检测环境中的电离辐射（电离辐射能够撕裂原子或分子，而电磁辐射则是如光和无线电波的能量传输。简单说就是电磁辐射无害，电离辐射才是包括我们常说的核辐射），不过我还是建议大家不要盲目购买盖革计数器，因为前一句话就讲了，它只能检测环境中的电离辐射，用来测试食品等产品的辐射值并不靠谱。\n\n如果你像我这样在之前已经购买了盖格计数器，又想要检测自己购买的产品，可以把盖革计数器和目标物体一起用保鲜膜包起来并放置两个小时以上，这样数据准确度会高一些。下面的辐射也都指电离辐射。\n\n而如果你想要直到自己周围环境的辐射值，那么更加没有必要购买盖格计数器，价格不便宜，而且没有放射性物体标定也不知道准不准。其实我们国家在很久之前就有在全国各个地区做环境辐射值的持续监测，已经持续了很多年，数据也是公开可查的，数据肯定会比我们自己检测更加靠谱。那么今天我就来给大家分享两个我自己做的自动化任务，让你可以轻松随时随地查看自己地区的环境辐射值。\n\n有 iOS 和 Android 两个平台的自动化任务，大家可以根据自己的手机型号选择。\n\n数据来源\n辐射值的数据来源于生态环境部辐射环境监测技术中心（RMTC），大家可以在网站首页 -> 环境质量 -> 实时数据里面看到各个地区的环境辐射值，我分享的自动化任务也是基于这个数据。\n生态环境部辐射环境监测技术中心的全国空气吸收剂量率发布系统\n这个系统的单位是 nGy/h，意思是测量地每小时的吸收剂量值。 每个地方都有自己的天然本底辐射水平，这个值的正常范围在 30-200nGy/h 之间。我们可以在系统里面看到核电站附近的 nGy/h 水平会比普通地方高一点，而在数据实时性方面，生态环境部辐射环境监测中心的数据是每天更新一次。\n另外，香港天文台也有实时监测香港辐射水平的数据源，数据是每小时更新一次，单位是微希沃特/小时 (µSv/h)，正在值为短时间不超过 2.5µSv/h。\n香港天文台的实施香港辐射水平监测\nAndroid：Tasker 任务\n任务地址：辐射数据\n手动导入的 Github 任务地址（上面打不开的话）：Fairyex-Tasks 获取环境辐射值（欢迎 Star）\n\n手动导入：Tasker -> 长按任务 Tab -> 导入任务 -> 选择下载好的 xml 文件\n\n通过上面的地址导入之后，我们需要打开任务详情，将数据地址和地区改为我们自己所在的区域。比如广东深圳，先通过这个链接直接进入各个省份的监测点，然后再点击自己所在的省，这个链接就是我们要的数据地址。比如广东就是 https://data.rmtc.org.cn/gis/listsation0_100M.html。任务默认就是广东省的地址，广东省的读者可以跳过这步。\n然后再将地区的变量改为我们自己所在的区域，比如「深圳」或者「广州」，之后你就可以用你自己喜欢的各种方式调用这个任务了，比如快捷方式或者语音助手等等。比如我就习惯把这些提示类的任务放到电源菜单的快捷卡片里面，点一下就可以看到。\n通过电源快捷菜单查看辐射值数据\n这个任务其实难度不高，大家也可以尝试自己来实现，原理就是通过链接获取网页源码，然后再通过一个正则表达式提取你所在区域相关的数据，最后再提示。你也可以将最后一步的提示改为其他你想要执行的操作。\niOS：快捷指令\n任务地址：查看辐射值\n快捷指令也是类似，我们导入之后，需要在快捷指令中打开任务详情，然后把链接和地区改成我们所在的区域。之后就直接可以通过点击任务或者 Siri 来调用任务查看辐射值了。\n快捷指令执行效果\n总结\n在当前社会中，随着科技的发展，信息获取变得更为便捷，而在面对环境健康问题时，我们更应该理性看待，获取真实、准确的信息，避免盲目恐慌或轻信谣言。盖革计数器虽然是一个检测电离辐射的好工具，但它的使用和解读需要专业知识，随意使用可能会导致误解。幸运的是，我们的政府和相关机构为我们提供了实时、可靠的环境辐射数据。而通过如今的自动化技术，我们可以更方便地获取和查看这些数据，更好地保护自己和家人的健康。\n同时，对于那些对辐射或其他环境因素有担忧的人来说，最好的方法是不断学习和了解，获取权威的信息和知识，这样才能做出明智的选择和决策。希望这次分享能够帮助大家更好地了解周围的环境辐射情况，并增强大家的环境保护意识。\n最后，希望每个人都能珍惜我们的地球，从我做起，为建设一个更加美好的生态环境而努力。",
-          "link": "https://sspai.com/post/82619",
-          "publishedOn": "2023-09-04T02:09:03.000Z",
-          "wordCount": 681,
-          "title": "制作自动化任务，随时用手机获取你所在地区的辐射值",
-          "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/82648",
-          "author": "节奏大师阿茶",
-          "description": "Abstract\n这篇文章主要讲了我的信息管理系统是什么样子的以及它的设计思路。我的信息处理系统包含三个模块，分别是信息采集，轻度笔记以及重度笔记。三个模块分工明确，而这样的模式尽可能的降低了我记笔记的心智负担。而且整篇文章采用论文的写作格式，作为一种新的尝试，方便读者抓住长文逻辑。\nIntroduction\n作为一个喜欢从网上获取知识的人，这么多年一直困扰我的问题就在于如何将这些知识有效的整理起来为我所用。在早期，我的笔记是散落在各个设备上，微信公众号的内容会存到微信收藏。四处零落的笔记让我抓狂。我希望能够找到一种合适的记录笔记的问题。\n我开始思考到底怎样的一个笔记流程应该是什么样的，怎样才能让我更容易坚持这种方式记笔记，而不是又回到零散的状态。在多年的尝试之后，我总结出了一套我觉得还算有效的信息处理系统，它由多个软件组成，使用起来非常自然。\n在这篇文章中，首先，我会介绍一下我对整个信息处理系统的看法，包括设计原则，信息处理系统的三大要义，以及我本人信息处理系统的组成。然后阐述我为什么用这些软件来实现我的信息处理系统。\nTheory\n这一部分是我设计信息处理系统的原则\n信息处理系统的设计原则\n首先需要介绍一下我总结的信息处理系统的设计原则，准确的说，它同样适用于一切针对于个人或者小团队的原则。\n\n尽可能的减少流程本身带来的心智负担。\n\n对于个人来说，由于不需要考虑团队协同等一系列问题，且考虑到自控力的问题。在设计流程的时候以简单好用为主，能够最快的进入状态，或者说不需要每次整理的时候还要去思考该怎么做。不然会非常打击行为的积极性。\n一个高效简单的工作流可以减少操作难度，且非常容易持续。它能保证不管什么时候，你都可以使用它去做你要做的事情。\n信息处理系统的三大要义\n\n收藏的永远不等于你的，千万不要做一只仓鼠\n精简笔记\n笔记要由自己写\n\n让我们分别解释这三条内容。\n\n收藏的永…",
-          "link": "https://sspai.com/post/82648",
-          "publishedOn": "2023-09-03T15:18:09.000Z",
-          "wordCount": 637,
-          "title": "只需三步，帮你构建信息处理系统",
-          "imageUrl": "https://cdn.sspai.com/2023/09/05/727113a606f45d693716565928f7f5e6.png"
         }
       ]
     },
@@ -690,16 +650,6 @@
           "wordCount": 556,
           "title": "老司机 iOS 周报 #260 | 2023-09-11",
           "imageUrl": "https://opengraph.githubassets.com/8202b8c3074c80431f626d6b549adb87d2cb5f95b67b48ce33b67c4758902209/SwiftOldDriver/iOS-Weekly/releases/tag/%23260"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23259",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🐕 一文入门最热的 LLM 应用开发框架 LangChain\n@zoeGuo：LangChain 是一个用于开发由语言模型驱动的应用程序的框架。笔者认为 Langchain 解决了现在开发人工智能应用（以 GPT 模型为例）的一些切痛点：数据滞后、token 数量限制、不能进行联网、不能与其他数据源链接。文章逐一介绍了 LangChain 以下组件的使用：Models（模型）、Prompts（提示词）、Indexes（索引）、Chains（链）、Agents（代理）。简单示例了用 LangChain 加载 OpenAI 的模型，完成一次问答、通过谷歌搜索并返回答案、对超长文本进行总结、构建本地知识库问答机器人等几个 LangChain 实战。\n🐕 Adding teachable moments to your apps with TipKit\n在今年的 WWDC 中，苹果推出了 Tipkit，开发者可以通过 Tipkit 快速向应用中添加例如新手引导、新功能介绍等功能，并且 Tipkit 可以通过 iCloud 跨设备显示。本文是 Tipkit 使用的一个实战教程，想要了解这个新功能的同学，可以跟着示例快速实践并掌握如何使用。\n🐕 Mastering Thread Safety in Swift With One Runtime Trick\n@莲叔：作者首先简单的介绍了多线程开发中最典型会遇到的问题，然后介绍了在苹果平台中性能最好的锁：os_unfair_lock，同时介绍在了 Swift 中如何使用它。之后作者演示了如何通过 propertyWrapper 来更通用的实现原子化的变量…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23259",
-          "publishedOn": "2023-09-04T02:58:24.000Z",
-          "wordCount": 653,
-          "title": "老司机 iOS 周报 #259 | 2023-09-04",
-          "imageUrl": "https://opengraph.githubassets.com/7ee10f959a646c7e98b2ee708cadefa29c3610d6f56a6760a01b73b20577b122/SwiftOldDriver/iOS-Weekly/releases/tag/%23259"
         }
       ]
     },
@@ -714,6 +664,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76244",
+          "author": null,
+          "description": "印度警方以打击恐怖主义的名义扣押了左倾新闻网站 Newsclick.in 记者和讽刺作家的笔记本电脑和手机，两名记者被拘留。这次突击搜查是莫迪政府领导对记者采取的一系列行动的最新一起。莫迪政府正通过打压独立媒体控制国家在线上和线下的叙事，同时允许亲政府媒体不受惩罚的传播对少数族裔的虚假信息和仇恨信息。自莫迪在 2014 年上台以来，印度政府在反恐法律下指控了多名记者。该国政府还被指控在至少两名被捕者的设备上植入了证据。印度新闻俱乐部（Press Club of India）对 Newsclick 事件表达了关切。",
+          "link": "https://www.solidot.org/story?sid=76244",
+          "publishedOn": "2023-10-03T14:22:43.000Z",
+          "wordCount": 150,
+          "title": "印度用反恐法打击记者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76243",
+          "author": null,
+          "description": "Arm 周一警告其 Mali 系列 GPU 驱动漏洞 CVE-2023-4211 正被活跃利用。Mali GPU 被广泛用于 Google Pixels 等 Android 手机，Chromebook 等 Linux 设备。本地非特权用户可利用该漏洞访问已释放的内存。访问不再使用的系统内存是将恶意代码加载到攻击者可执行位置的一种常见机制。Arm 表示它已在 Bifrost、Valhall 和 Arm 第五代 GPU 架构内核驱动版本 r43p0 中修复了该漏洞，受影响的版本包括：Midgard 内核驱动版本 r12p0 - r32p0，Bifrost 驱动版本 r0p0 - r42p0，Valhall 驱动版本 r19p0 - r42p0，Arm 第五代 GPU 架构内核驱动版本 r41p0 - r42p0。高通芯片使用的是 Adreno GPU，使用高通芯片的 Android 手机不受影响。",
+          "link": "https://www.solidot.org/story?sid=76243",
+          "publishedOn": "2023-10-03T14:07:06.000Z",
+          "wordCount": 202,
+          "title": "Arm 警告其 GPU 驱动漏洞正被活跃利用",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76241",
           "author": null,
@@ -3273,106 +3243,6 @@
           "wordCount": 159,
           "title": "Cruise 无人出租车被指阻挡了救护车延误了救治时间",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75985",
-          "author": null,
-          "description": "在  6个月的时间里，当一种香味每晚在老年人的卧室里飘两个小时时，他们的记忆就会激增。事实上，在这项研究中，参与者的认知能力比对照组提高了 226%。研究人员此前发现，中度痴呆症患者在一段时间内每天两次接触多达 40 种不同的气味，可以提高他们的记忆力和语言技能，缓解抑郁，并提高他们的嗅觉能力。研究团队决定尝试将这些知识转化为一种简单且非侵入性的痴呆症治疗工具。研究人员表示，他们的研究结果证实了科学家们关于嗅觉和记忆之间联系的认识。研究小组下一步将研究该技术对诊断为认知丧失的人的影响。研究人员还表示，他们希望这一发现将导致对嗅觉治疗记忆障碍的更多研究。根据他们的研究，一款专为人们在家使用而设计的产品预计将于今年秋天上市。",
-          "link": "https://www.solidot.org/story?sid=75985",
-          "publishedOn": "2023-09-04T10:27:03.000Z",
-          "wordCount": 147,
-          "title": "研究发现香味能显著提升老年人的认知能力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75984",
-          "author": null,
-          "description": "华中师范大学黄双全教授团队的一项研究发现，地球九成开花植物依赖动物传粉。此前的评估估计，87.5% 的被子植物种是动物传粉的。该研究的方法是基于 40 多个群落中动物传粉的植物物种比例的平均值推断，群落中的物种总数约为有花植物（即被子植物）的 1%，即涉及的植物类群少。研究团队注意到另外一个问题，过去的报道中错误判断了一些植物类群的传粉模式，人们对一些植物的传粉模式存在误解，这将误导人们对真正依赖动物传粉的植物提出合理的保护措施，乃至影响有花植物传粉方式的精准统计。例如，昆栏树科的水青树是中国的本土植物，有绿色下垂的花序，文献中认为该种是风媒传粉，然而团队在湖北神农架实地观察到其花分泌相当体积的花蜜吸引了小型蜂类频繁访花，有效地传递水青树的花粉。研究团队分析结果表明，在有花植物中，64-68% 的科，88%的 属和 90% 的种依赖于动物传粉。",
-          "link": "https://www.solidot.org/story?sid=75984",
-          "publishedOn": "2023-09-04T10:17:46.000Z",
-          "wordCount": 151,
-          "title": "地球九成开花植物依赖动物传粉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75983",
-          "author": null,
-          "description": "根据 Interisle Consulting Group 的研究，美国国家顶级域名 .US 被广泛用于钓鱼攻击。研究人员分析了 2022 年 5 月 1 日至 2023 年 4 月 30 日期间的 600 万份钓鱼攻击报告，发现了 30,000 个 .US 钓鱼域名。其它主要国家的域名很少像 .US 那样广泛用于钓鱼。.US 由美国商务部的国家电信资讯管理局（NTIA）监管，但 NTIA 将其外包给了最大的域名注册商 GoDaddy。NTIA 要求 GoDaddy 采取措施确保域名注册者居住在美国或在美国有组织机构。GoDaddy 显然在这方面有欠缺。",
-          "link": "https://www.solidot.org/story?sid=75983",
-          "publishedOn": "2023-09-04T10:01:50.000Z",
-          "wordCount": 183,
-          "title": "美国国家域名 .US 被广泛用于钓鱼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75982",
-          "author": null,
-          "description": "大多数阴谋论驱动的运动背后的秘密是，他们的信仰核心包含有一丝的真实性。举例来说，反疫苗者将大型制药公司过去的行为作为医疗机构不可信任的证据。加密货币批评者 Ben McKenzie 表示，这一丝的真实性就是来骗你的。他说，加密货币社群做对的一件事是指出现有的金融制度存在严重缺陷。加密货币兴起于 2008 年金融危机之后并非巧合。所有人都同意，现有的金融和经济体系问题很多。而加密货币倡导人士说：我们可以解决所有问题。是的，我们可以解决这个问题——然后你们会变得非常富有。McKenzie 认为加密货币是史上最大的庞氏骗局。",
-          "link": "https://www.solidot.org/story?sid=75982",
-          "publishedOn": "2023-09-04T09:22:54.000Z",
-          "wordCount": 147,
-          "title": "为什么说加密货币是史上最大的庞氏骗局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75981",
-          "author": null,
-          "description": "美国佛罗里达人没有想到，在飓风 Idalia 袭击之后，他们的电动汽车或混动汽车会突然起火。当地消防部门发出警告，如果他们的汽车在过去二十四小时内接触到了飓风洪水带来的盐水，那么最好立即将汽车转移出车库。该警告适用于所有使用锂离子电池的车辆，包括电动滑板车和电动自行车。原因是海水中的盐分在干了之后会连接电池单元，制造短路导致起火。",
-          "link": "https://www.solidot.org/story?sid=75981",
-          "publishedOn": "2023-09-04T07:09:21.000Z",
-          "wordCount": 143,
-          "title": "电动汽车被海水浸泡可能会起火",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75980",
-          "author": null,
-          "description": "发表在《自然》期刊上的一项研究发现，过去二十年地球海洋的颜色发生了变化。曾经的深蓝色正在消失，愈来愈多的地方变绿了。研究人员分析了逾二十年的卫星观测数据，发现 56% 的海洋表面比二十年前更绿了。研究人员认为颜色的变化将影响海洋的食物网。气候变化可能是这一变化的主因，但研究认为颜色变化可能与海洋表面温度上升没有关联。研究人员认为需要展开更深入的研究。",
-          "link": "https://www.solidot.org/story?sid=75980",
-          "publishedOn": "2023-09-04T06:51:41.000Z",
-          "wordCount": 144,
-          "title": "研究发现地球海洋的颜色发生了变化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75979",
-          "author": null,
-          "description": "和心理学一样，历史学这一领域同样存在“重复性危机”。历史学者乐于根据片段的历史去讲述一个个具有戏剧性效果的故事，因为故事能引人关注并产生影响。但故事是事实的过滤器，它们丢弃了所有不符合故事的事实，只留下叙事者想要我们关注的内容。从这个意义上说，它们就像是意识形态。故事与随机性或结构性力量是不兼容的，它们依赖因果链和个人动机。新冠是不可能偶然出现的。它是某种阴谋。阴谋论不是理论，阴谋论其实就是故事。故事对我们怀疑和质疑的能力产生了麻醉作用。如果你阅读的历史书讲述了一个伟大的故事，这个故事巧妙的融入了你已经相信的主导叙事之中，那么你需要更多怀疑它的真实价值。",
-          "link": "https://www.solidot.org/story?sid=75979",
-          "publishedOn": "2023-09-04T06:38:48.000Z",
-          "wordCount": 141,
-          "title": "历史学领域的重复性危机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75978",
-          "author": null,
-          "description": "切尔诺贝利核事故后，德国野生动物体内的辐射水平大增。最近几年动物的辐射水平在下降，但野猪是例外。为什么德国和奥地利野猪体内的放射性同位素铯-137 的水平仍然惊人的高，而鹿和狍子却下降了？现在科学家破解这一谜团：放射性来源不是切尔诺贝利核事故，而是 1960 年代的核武器试验。研究人员分析了野猪体内铯的水平和来源。对收集的约 50 个样本的分析显示， 88% 的样本超过了德国对食品中放射性铯的监管标准。通过计算放射性同位素铯-135 和铯-137 的比例，研究人员发现核武器试验造成的污染占到了 10%-68%。研究人员猜测野猪可能从受污染的鹿松露蘑菇中摄入了铯。核武器试验和切尔诺贝利事故释放的放射性铯通过土壤扩散，被蘑菇吸收。",
-          "link": "https://www.solidot.org/story?sid=75978",
-          "publishedOn": "2023-09-04T05:20:49.000Z",
-          "wordCount": 151,
-          "title": "科学家破解德国野猪高放射性之谜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75977",
-          "author": null,
-          "description": "我们正目睹 Googe 宇宙的终结。过去二十年 Google 搜索是决定在线内容受欢迎度的无形之手。现在种种迹象显示 Google 宇宙的巅峰正在结束，或者已经结束。愈来愈多的人抱怨 Google 的搜索不再像以前那样精确。大型封闭式算法驱动社交网络如 Meta 的 Facebook 和 Instagram 的兴起，从 2010 年代起逐渐蚕食开放互联网。TikTok 之类的算法驱动视频社交网络被新一代网民用作主搜索引擎。Google Reader 在 2013 年关闭，博客圈的最后痕迹随之消失。Google Groups 的搜索功能多年来一直故障频频，博客服务 Blogger 仍然还在运作，但没有了 Google Reader 作为聚合中心，大多数内容创作者在 Facebook 和 Instagram 以及 TikTok 等平台上发表原创内容。开放互联网的可发现性一直受到侵蚀。最近围绕 Reddit 第三方 API 访问的抗议表明，更多的人将 Google 作为 Reddit 内容的搜索引擎。Google 在科技巨头中的地位在下滑，有人甚至承认应该给与苹果地图第二次机会，在几年前这是无法想象的。OpenAI ChatGPT 的巨大成功迫使 Google 与微软在构建一种完全不同类型的搜索上展开竞争。这一切可追溯到 Google 在网络广告上的巨大成功。",
-          "link": "https://www.solidot.org/story?sid=75977",
-          "publishedOn": "2023-09-03T15:52:59.000Z",
-          "wordCount": 199,
-          "title": "我们正目睹 Googe 宇宙的终结",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75976",
-          "author": null,
-          "description": "微软宣布未来发布的 Windows 将移除写字板应用。写字板应用最早是随 Windows 95 一起发布的，是一种简单的文字处理器，它的功能强于记事本但弱于 Microsoft Word。微软现在推荐用户将 Microsoft Word 用于富文本文件如.doc 和.rtf 的处理，将记事本用于纯文本文件如 .txt 的处理。Microsoft Word 是付费应用，它的开源替代 LibreOffice 最近释出了 v7.6。",
-          "link": "https://www.solidot.org/story?sid=75976",
-          "publishedOn": "2023-09-03T13:25:46.000Z",
-          "wordCount": 160,
-          "title": "微软淘汰写字板应用",
-          "imageUrl": null
         }
       ]
     },
@@ -3381,6 +3251,16 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/751292/",
+          "author": null,
+          "description": "字节跳动大力削减开支，2023 年第一季度实现近 60 亿美元的营业利润，比上一年同期几乎翻倍。 据《华尔街日报》此前报道，字节跳动自 2021 年以来业务已大有好转，2021 年还面临营业亏损达 70 亿美元的困境。 不过，据一份向员工披露的财务报告显示，尽管字节跳动的收入持续增长，2022 年增\n本文链接",
+          "link": "https://news.cnblogs.com/n/751292/",
+          "publishedOn": "2023-10-03T07:20:44.000Z",
+          "wordCount": 163,
+          "title": "字节跳动：估值骤降 5586 亿元",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/751291/",
           "author": null,
@@ -8540,226 +8420,6 @@
           "wordCount": 163,
           "title": "谷歌浏览器的重大更新，目的是更好地投广告",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749779/",
-          "author": null,
-          "description": "大多数阴谋论驱动的运动背后的秘密是，他们的信仰核心包含有一丝的真实性。举例来说，反疫苗者将大型制药公司过去的行为作为医疗机构不可信任的证据。加密货币批评者 Ben McKenzie 表示，这一丝的真实性就是来骗你的。他说，加密货币社群做对的一件事是指出现有的金融制度存在严重缺陷。加密货币兴起于 20\n本文链接",
-          "link": "https://news.cnblogs.com/n/749779/",
-          "publishedOn": "2023-09-04T09:11:00.000Z",
-          "wordCount": 163,
-          "title": "为什么说加密货币是史上最大的庞氏骗局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749778/",
-          "author": null,
-          "description": "在一项新的研究中，来自美国丹娜-法伯癌症研究所、布莱根妇女医院和布罗德研究所的研究人员发现一些癌前细胞从骨髓迁移到皮肤中经历阳光照射的地方可能触发它们出现基因变化，这是癌症的前兆。尽管这项研究着重关注一种罕见的癌症形式—母细胞性浆细胞样树突细胞肿瘤（blastic plasmacytoid dend\n本文链接",
-          "link": "https://news.cnblogs.com/n/749778/",
-          "publishedOn": "2023-09-04T09:04:00.000Z",
-          "wordCount": 163,
-          "title": "防晒很重要！Nature：揭示紫外线辐射在一种罕见的皮肤白血病产生中起作用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749777/",
-          "author": null,
-          "description": "智东西（公众号：zhidxcom） 作者云鹏 编辑心缘 8 天后，苹果秋季“春晚”即将开幕，今天甚至有人提前放出了疑似苹果 iPhone 15 Pro 的真机包装照片，吊足了胃口。 ▲网传 iPhone 15 Pro 真机包装谍照 不过在手机之外，苹果今年的新款 Apple Watch 上或许还藏了\n本文链接",
-          "link": "https://news.cnblogs.com/n/749777/",
-          "publishedOn": "2023-09-04T08:55:00.000Z",
-          "wordCount": 163,
-          "title": "苹果秋季春晚隐藏看点！Apple Watch工艺大改，这些大陆龙头被带飞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749776/",
-          "author": null,
-          "description": "9 月 4 日消息，贵州茅台与瑞幸咖啡推出的联名款咖啡“酱香拿铁”今日已经上架。 在瑞幸咖啡小程序上，这款“酱香拿铁”零售价 38 元/杯，使用优惠券后大约 19 元/杯。 瑞幸咖啡官微介绍，“酱香拿铁”每一杯都含有 53 度贵州茅台酒，使用白酒风味厚奶，酒精度低于 0.5%。 对于这一次与茅台推出\n本文链接",
-          "link": "https://news.cnblogs.com/n/749776/",
-          "publishedOn": "2023-09-04T08:47:00.000Z",
-          "wordCount": 163,
-          "title": "瑞幸茅台酱香拿铁上架 喝了能开车吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749775/",
-          "author": null,
-          "description": "日前被认为将和全新的 iPhone 15 系列正面硬刚的华为 Mate60 系列毫无预兆地未经发布便突然发售，打了整个数码圈以及众多消费者一个措手不及，“遥遥领先”的表现也带来了足够的惊喜。而与此同时，即将于 9 月 12 日（北京时间 9 月 13 日凌晨 1 点）正式亮相的 iPhone 15 \n本文链接",
-          "link": "https://news.cnblogs.com/n/749775/",
-          "publishedOn": "2023-09-04T08:42:00.000Z",
-          "wordCount": 163,
-          "title": "iPhone 15系列最新机模曝光：Pro版新增深蓝/泰坦灰两款配色",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749774/",
-          "author": null,
-          "description": "9 月 4 日消息，苹果 Vision Pro 的发布迫使其竞争对手进一步开发 AR 头显，其中包括 Meta。据韩国媒体 Maekyung 报道，Meta 已与 LG 合作，将于 2025 年推出高端 AR 设备，其定价将低于 Vision Pro 的 3499 美元（IT 之家备注：当前约 25\n本文链接",
-          "link": "https://news.cnblogs.com/n/749774/",
-          "publishedOn": "2023-09-04T08:36:00.000Z",
-          "wordCount": 163,
-          "title": "消息称Meta和LG合作开发新款高端AR头显，与苹果Vision Pro竞争",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749773/",
-          "author": null,
-          "description": "中国 AI 大模型全面“开闸”。 8 月 31 日，百度（文心一言）、抖音（云雀大模型）、智谱 AI（智谱清言）、中科院（紫东太初大模型）、百川智能（百川大模型）、商汤（商量 SenseChat 大模型）、MiniMax（ABAB 大模型）、上海人工智能实验室（书生通用大模型）共 8 个企业/机构官\n本文链接",
-          "link": "https://news.cnblogs.com/n/749773/",
-          "publishedOn": "2023-09-04T08:30:00.000Z",
-          "wordCount": 163,
-          "title": "中国130个大模型，难超越10亿营收的ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749772/",
-          "author": null,
-          "description": "我们正目睹 Googe 宇宙的终结。过去二十年 Google 搜索是决定在线内容受欢迎度的无形之手。现在种种迹象显示 Google 宇宙的巅峰正在结束，或者已经结束。愈来愈多的人抱怨 Google 的搜索不再像以前那样精确。 大型封闭式算法驱动社交网络如 Meta 的 Facebook 和 Inst\n本文链接",
-          "link": "https://news.cnblogs.com/n/749772/",
-          "publishedOn": "2023-09-04T08:20:00.000Z",
-          "wordCount": 163,
-          "title": "我们正目睹 Googe 宇宙的终结",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749771/",
-          "author": null,
-          "description": "FortiGuard 实验室的网络安全研究人员发现了几个影响 Windows 和 Mac 设备的 Adobe ColdFusion 漏洞。 远程攻击者可利用 Adobe ColdFusion 2021 中的验证前 RCE 漏洞，获取受影响系統的控制权力。 Adobe 已发布安全补丁来解决这些漏洞，但\n本文链接",
-          "link": "https://news.cnblogs.com/n/749771/",
-          "publishedOn": "2023-09-04T08:10:00.000Z",
-          "wordCount": 163,
-          "title": "影响Windows 和 macOS平台，黑客利用 Adobe CF 漏洞部署恶意软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749770/",
-          "author": null,
-          "description": "首先恭喜小鹏，喜嫁豪门。 不管你关不关注车圈新闻，你大概都已经知道了，大众出资 7 亿美元，以 15 美元/股的价格，收购了小鹏 5% 的股份，喜提股东身份，以「钞能力」收获目前中国智驾第一梯队能力者，双方承诺最早将在 2026 年推出第一款合资车型。 情人眼里出西施，若要问大众到底看中小鹏哪一点呢\n本文链接",
-          "link": "https://news.cnblogs.com/n/749770/",
-          "publishedOn": "2023-09-04T08:00:00.000Z",
-          "wordCount": 163,
-          "title": "小鹏 G9 改款将至？这里有 9 个改款方向",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749769/",
-          "author": null,
-          "description": "据界面新闻，从知情人士处获悉，快手研发线近日进行架构调整，取消基础技术部，成立基础平台部和基础设施部，原基础技术部的相关团队和职责分别并入新成立的两个部门。 原基础技术部负责人韦彬转任公司技术顾问，向快手高级副总裁于冰汇报。 同时，韦彬不再担任技术族服务端开发通道、技术运营通道委员长，服务端开发通道\n本文链接",
-          "link": "https://news.cnblogs.com/n/749769/",
-          "publishedOn": "2023-09-04T07:54:00.000Z",
-          "wordCount": 163,
-          "title": "快手研发线进行架构调整",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749768/",
-          "author": null,
-          "description": "©自象限原创 作者｜罗辑 提起自动驾驶，大家总难免怀抱一种悲观情绪。 支撑这种情绪的东西有很多，比如 2023 年上半年，自动驾驶仅完成 69 起融资，大额融资明显减少，经营困难的公司开始增多，长尾问题得不到解决，商业化落地不及预期等等。 困扰自动驾驶的问题是具体的，比如长尾问题的解决、法律法规和商\n本文链接",
-          "link": "https://news.cnblogs.com/n/749768/",
-          "publishedOn": "2023-09-04T07:45:00.000Z",
-          "wordCount": 163,
-          "title": "自动驾驶，又到黎明前？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749767/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 从手工规则、神经网络到 Transformer 基础模型，自然语言处理的未来是统一多模态，走向通用人工智能！ 过去十年间，仅靠简单的神经网络计算，以及大规模的训练数据支持，自然语言处理领域取得了相当大的突破，由此训练得到的预训练语言模型，如 BERT、GPT-3 等模型都提\n本文链接",
-          "link": "https://news.cnblogs.com/n/749767/",
-          "publishedOn": "2023-09-04T07:35:00.000Z",
-          "wordCount": 163,
-          "title": "NLP七十年！斯坦福教授Manning长文梳理：十年后的基础模型能成AGI吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749766/",
-          "author": null,
-          "description": "新智元报道 编辑：Lumina 二十多年来，谷歌搜索无形地决定了在线内容的潮起潮落。但到了今天，它的文化意义、地位以及影响力首次受到了质疑。 谷歌上搜索的第一件事是前斯坦福大学校长 Gerhard Casper 的名字。 1998 年，谷歌的两位创始人 Larry Page 和 Sergey Bri\n本文链接",
-          "link": "https://news.cnblogs.com/n/749766/",
-          "publishedOn": "2023-09-04T07:28:00.000Z",
-          "wordCount": 163,
-          "title": "谷歌霸权瓦解？从霸主到备受质疑：二十年塑造网络潮流的谷歌搜索陷入迷局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749764/",
-          "author": null,
-          "description": "新智元报道 编辑：润 Lumina 苏黎世大学联合因特尔开发的 Swift 无人机竞速系统击败 3 名人类世界冠军，飞行自动驾驶迎来新纪元！ 在下棋，办公，游戏这类脑力活动中，人类被 AI 碾压已经早就不是什么新闻了。 现在连极限竞速领域，人类的阵地也失守了！ 今天 Nature 的封面论文，内容是\n本文链接",
-          "link": "https://news.cnblogs.com/n/749764/",
-          "publishedOn": "2023-09-04T07:20:00.000Z",
-          "wordCount": 163,
-          "title": "击败3位人类世界冠军，登上Nature封面！AI无人机极限竞速开启自动驾驶新纪元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749763/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子好困 IOI 2023 大奖揭晓了！中国队喜获四金，四人团体位列第一。值得一提的是，这 4 名成员全都被保送清华。 全球最富盛名的第 35 届国际信息学奥林匹克竞赛（IOI 2023）获奖名单出炉了。 本届 IOI，共有金牌 30 枚、银牌 58 枚、铜牌 90 枚。 经过两天\n本文链接",
-          "link": "https://news.cnblogs.com/n/749763/",
-          "publishedOn": "2023-09-04T07:12:00.000Z",
-          "wordCount": 163,
-          "title": "中国团队勇夺IOI 2023金牌！4名少年全保送清华",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749762/",
-          "author": null,
-          "description": "新智元报道 作者：ILikeShuhuaMilk 本文关于基于人类反馈的强化学习（RLHF）进行了分析，结合 DeepSpeed-Chat 框架进行了成功的实践，同时也对实践过程中遇到的 bug 以及尝试 trick 进行了分享。 最近两月倒腾了一波 RLHF，从 ColossalAI 到 TRLX\n本文链接",
-          "link": "https://news.cnblogs.com/n/749762/",
-          "publishedOn": "2023-09-04T07:05:00.000Z",
-          "wordCount": 163,
-          "title": "北大硕士RLHF实践，基于DeepSpeed-Chat成功训练上自己的模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749761/",
-          "author": null,
-          "description": "新智元报道 编辑：Aeneas 好困 就在上周，陶哲轩被网友安利了用 AI 工具写代码。今天，他表示自己几十年工作流已被颠覆！此外，还有一篇 GitHub Copilot 全程加持的新论文即将发表。 数学大神陶哲轩发帖称，自己的写论文神器终于升级了！ 此前，他经常使用的工具是 TeXnicCente\n本文链接",
-          "link": "https://news.cnblogs.com/n/749761/",
-          "publishedOn": "2023-09-04T06:56:00.000Z",
-          "wordCount": 163,
-          "title": "陶哲轩新论文秘密武器曝光：用AI写LaTeX巨丝滑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749760/",
-          "author": null,
-          "description": "新智元报道 编辑：好困 近日，全球规模最大的大模型开发工具与社区 Colossal-AI，发布了全套 Llama 2 训练、微调、推理方案，可以为 700 亿参数模型的训练加速 195%。 ChatGPT 引发的大模型热潮愈演愈烈，全球科技巨头和明星初创争相入局，打造以 AI 大模型为核心的竞争力和\n本文链接",
-          "link": "https://news.cnblogs.com/n/749760/",
-          "publishedOn": "2023-09-04T06:48:00.000Z",
-          "wordCount": 163,
-          "title": "700亿参数Llama 2训练加速195%！训练/微调/推理全流程方案开源，0代码一站解决",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749759/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 最新科研神器 Nougat，可以把 PDF 中公示、文本提取出来。 做研究的童鞋们简直要狂喜！ 近来，Meta AI 研究人员推出一款 OCR 神器 Nougat，能够分分钟把 PDF 转换为 MultiMarkdown。 各种复杂数学公式、表格、文字、甚至是扫描版的 PDF\n本文链接",
-          "link": "https://news.cnblogs.com/n/749759/",
-          "publishedOn": "2023-09-04T06:41:00.000Z",
-          "wordCount": 163,
-          "title": "免费科研利器！Meta祭出Nougat，PDF格式转换，公式表格精准识别，扫描版文档也可以",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749716/",
-          "author": null,
-          "description": "文创业最前线，作者曹铭，编辑蛋总 美团构建的本地生活“护城河”，远比抖音预想的更加坚固。 “目前抖音已放弃亲自做外卖，曾经组建4-5 个团队试水外卖业务，现在都已解散，相关商务团队并入到店业务中，抖音没有招聘自己的骑手。”抖音服务商仓藤传媒 CEO 詹逸夫向「界面新闻·创业最前线」透露。 抖音曾尝试\n本文链接",
-          "link": "https://news.cnblogs.com/n/749716/",
-          "publishedOn": "2023-09-03T14:51:00.000Z",
-          "wordCount": 163,
-          "title": "抖音被迫放弃外卖，美团本地生活险胜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/749715/",
-          "author": null,
-          "description": "摘要 在宁波国际赛车场，极氪搭起了一个大秀场，用 ZEEKER 001 FR 狠狠秀了一把肌肉。 千呼万唤始出来，国产纯电超跑 ZEEKER 001 FR 终于在 9 月 1 日的 2023 极氪进化日亮相了。 一个很重要的数据是，它官方标注的零百加速性能（不考虑加速阶段，和特斯拉测试标准相同）已经\n本文链接",
-          "link": "https://news.cnblogs.com/n/749715/",
-          "publishedOn": "2023-09-03T14:45:00.000Z",
-          "wordCount": 163,
-          "title": "硬刚特斯拉 Model S，极氪秀出了「三板斧」",
-          "imageUrl": null
         }
       ]
     },
@@ -8797,16 +8457,6 @@
           "wordCount": 556,
           "title": "老司机 iOS 周报 #260 | 2023-09-11",
           "imageUrl": "https://opengraph.githubassets.com/8202b8c3074c80431f626d6b549adb87d2cb5f95b67b48ce33b67c4758902209/SwiftOldDriver/iOS-Weekly/releases/tag/%23260"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23259",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🐕 一文入门最热的 LLM 应用开发框架 LangChain\n@zoeGuo：LangChain 是一个用于开发由语言模型驱动的应用程序的框架。笔者认为 Langchain 解决了现在开发人工智能应用（以 GPT 模型为例）的一些切痛点：数据滞后、token 数量限制、不能进行联网、不能与其他数据源链接。文章逐一介绍了 LangChain 以下组件的使用：Models（模型）、Prompts（提示词）、Indexes（索引）、Chains（链）、Agents（代理）。简单示例了用 LangChain 加载 OpenAI 的模型，完成一次问答、通过谷歌搜索并返回答案、对超长文本进行总结、构建本地知识库问答机器人等几个 LangChain 实战。\n🐕 Adding teachable moments to your apps with TipKit\n在今年的 WWDC 中，苹果推出了 Tipkit，开发者可以通过 Tipkit 快速向应用中添加例如新手引导、新功能介绍等功能，并且 Tipkit 可以通过 iCloud 跨设备显示。本文是 Tipkit 使用的一个实战教程，想要了解这个新功能的同学，可以跟着示例快速实践并掌握如何使用。\n🐕 Mastering Thread Safety in Swift With One Runtime Trick\n@莲叔：作者首先简单的介绍了多线程开发中最典型会遇到的问题，然后介绍了在苹果平台中性能最好的锁：os_unfair_lock，同时介绍在了 Swift 中如何使用它。之后作者演示了如何通过 propertyWrapper 来更通用的实现原子化的变量…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23259",
-          "publishedOn": "2023-09-04T02:58:24.000Z",
-          "wordCount": 653,
-          "title": "老司机 iOS 周报 #259 | 2023-09-04",
-          "imageUrl": "https://opengraph.githubassets.com/7ee10f959a646c7e98b2ee708cadefa29c3610d6f56a6760a01b73b20577b122/SwiftOldDriver/iOS-Weekly/releases/tag/%23259"
         }
       ]
     }
