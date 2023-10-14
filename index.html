@@ -22,11 +22,215 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-10-13 datetime="2023-10-13T00:45:00.000Z">2023-10-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-10-13 datetime="2023-10-13T00:45:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-10-13 datetime="2023-10-13T14:07:33.000Z">2023-10-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-10-13 datetime="2023-10-13T14:07:33.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >奇客Solidot–传递最新科技情报</button>
+                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76336"
+                        open
+                      >
+                        <summary class="article-expander__title">数学家警告 NSA 可能在削弱后量子加密算法</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76336">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>伊利诺大学芝加哥分校的 Daniel Bernstein 警告 NSA 可能在削弱后量子加密算法（PQC）。他称美国国家标准技术研究院 (NIST) 有意掩盖了 NSA 在开发 PQC 新加密标准上的参与度。NIST 否认了这一指控。Bernstein 声称，NSA 正在积极的在新加密标准中加入秘密弱点，知道弱点的人将能更容易破解 PQC 密码。Bernstein 指出，PQC 候选算法之一的 Kyber512 存在问题，NIST 在评估时有误，使其看起来比实际的更安全。NIST 的 Dustin Moody 回应称，他们尊重他的意见但不同意他的说法。Moody 称在 Snowden 事件之后 NIST 加强了指导方针，确保透明度和安全性，重建信任。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76335"
+                        open
+                      >
+                        <summary class="article-expander__title">思科再次承认使用了硬编码密码</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76335">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>思科最近披露了 Cisco Emergency Responder 的一个漏洞 CVE-2023-20101，它包含了一个 root 账号的静态用户凭证，原本是为开发保留的，但不小心留在了最终用户产品中。攻击者可以使用该账号登陆受影响系统，以 root 用户权限执行任意命令。这远非第一次思科在其产品中使用了硬编码密码。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76334"
+                        open
+                      >
+                        <summary class="article-expander__title">Firefox 将使用 Fastly 作为 OHTTP 中继</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76334">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>云计算服务商 Fastly 宣布与 Mozilla 合作，Firefox 将使用 Fastly 作为 OHTTP 中继。OHTTP 代表 Oblivious HTTP，旨在加强网络连接的隐私性。传统的 HTTP 请求包含了能用于识别用户身份的元数据，比如浏览器的 User-Agent、网络信息如 AS(自治系统)和 IP 地址，这些信息组合起来能用于去匿名化用户身份。OHTTP 架构包含四层：客户端封装和加密旨在发送给目标的请求，但不是直接发送给目标，而是先发送给中继；中继在移除客户端的身份信息之后发送给网关，请求是加密的，它并不拥有密钥，因此不知道请求内容；网关收到去除隐私信息的请求版本之后对其进行解密和解封装，然后发送给目标；目标就是标准的 HTTP 服务，但不会收到客户端可能的身份信息。OHTTP 通过这种方法处理 HTTP 请求去加强隐私。当然不喜欢该功能的用户可以在 Firefox 工具栏输入 about:config 禁用 network.trr.use_ohttp（目前默认禁用）。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76333"
+                        open
+                      >
+                        <summary class="article-expander__title">CIP 为 6.1 kernel 提供十年支持</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76333">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Civil Infrastructure Platform（CIP）项目宣布将为 6.1 kernel 提供十年支持，也就是一直维护到 2032 年。此前 Linux 基金会宣布内核的 LTS 版本的支持时间将从六年减少到两年。CIP 维护内核的方式与 LTS 版本类似，其开发者也参与了 LTS 内核的评审和测试。为了延长维护时间，CIP 内核缩小了活跃支持的内核功能和目标架构的范围。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76332"
+                        open
+                      >
+                        <summary class="article-expander__title">英国监管机构批准微软收购动视暴雪</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76332">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>英国监管机构 Competition and Markets Authority (CMA) 周五批准了微软对动视暴雪的收购，为这笔 687 亿美元的交易扫清了最后障碍。此前微软的收购交易在全球主要地区都获得了批准，最后的障碍就是 CMA。为了让 CMA 批准交易，微软将动视暴雪的云游戏版权转让给了法国育碧。微软预计也将在今天——10 月 13 日周五——为这笔交易画上句号。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76331"
+                        open
+                      >
+                        <summary class="article-expander__title">微软为绘图应用加入基于 DALL-E 的文本图像生成功能</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76331">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>微软本周向 Windows Insiders 测试者推送了新版的绘图应用（Paint app），其中包括了 Paint Cocreator，基于 DALL-E 的 AI 文本图像生成功能，用户可通过简短文字去描述想要生成的内容，选择不同的艺术风格，然后点击 Create。Paint Cocreator 将生成一组图像供用户选择。微软称 AI 图像生成功能内置有内容过滤器，防止生成有害的、冒犯性的或不合适的图像。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76330"
+                        open
+                      >
+                        <summary class="article-expander__title">YouTube 超过 Netflix 成为美国青少年主要的视频来源</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76330">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>投行 Piper Sandler 的一项调查发现，美国青少年在 YouTube 上观看的视频时长超过了 Netflix。YouTube 占到了青少年每天视频消费时间总长的 29.1%，超过了 Netflix 的 28.7%。自春季以来，青少年 在YouTube 上的视频消费时间增加了一个百分点，而 Netflix 下降了逾两个百分点。调查结果凸显了流媒体业务的竞争激烈，以及 YouTube 作为免费视频网站的有利地位。Netflix 是付费订阅服务。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76329"
+                        open
+                      >
+                        <summary class="article-expander__title">台积电称 2 纳米芯片开发生态系统基本完成</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76329">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>台积电称其 2 纳米工艺引入了多项新技术，包括 GAA 晶体管、背面供电和超高性能金属绝缘体-金属（SHPMIM）电容器等，芯片设计师将需要使用全新的 EDA（electronic design automation）、模拟和验证工具。2 纳米工艺预计将要到 2025 年下半年投产，时间还充裕，相关工具也基本准备就绪。目前 Cadence、Synopsys、Ansys、Siemens EDA 等开发的 EDA 工具都已经获得台积电认证，芯片开发者可使用这些工具设计芯片。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76328"
+                        open
+                      >
+                        <summary class="article-expander__title">Tor Browser 13.0 释出</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76328">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Tor 项目释出了 Tor Browser 13.0，基于 Firefox ESR 115 的首个稳定版本。主要变化包括：更新了浏览器图标；新的主页，可切换到 DuckDuckGo 的 onion 版本进行搜索；更大的窗口，等等。其它更新包括：tor 0.4.8.7，OpenSSL 3.0.11，Firefox 115.3.1esr，等。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76326"
+                        open
+                      >
+                        <summary class="article-expander__title">Ubuntu 23.10 释出</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76326">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Canonical 释出了代号为 Mantic Minotaur 的 Ubuntu 23.10。主要新特性包括：新的安装程序提供了默认安装和完整完整选项，其中默认安装只安装操作系统必要的功能和工具，而完整安装包含了办公软件和游戏等，默认安装其实就类似之前的“最小安装”。此外用户还可以选择将 ZFS 作为主文件系统，以及选择设置 Trusted Platform Module (TPM)全磁盘加密。Canonical 用 Flutter 重写了 App Center，改善了性能，Canonical 的软件中心主推其 Snap 打包的应用。其它的变化包括：GNOME 45，6.5 kernel，限制非特权用户命名空间，等等。基于 Ubuntu 的其它版本如优麒麟也同步发布了 23.10 版。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -38,6 +242,406 @@
                   <a class="source-heading__link" href="https://news.cnblogs.com/">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751906/"
+                        open
+                      >
+                        <summary class="article-expander__title">AI写小说不完全指南：请注意，别被AI气死</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751906/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文｜林炜鑫 编辑｜邓咏仪 ChatGPT 从诞生的那天起，就让人看到了内容生成的巨大潜力，也让一大波辛苦码字的创作者瑟瑟发抖。都说 AI 可以写小说了，但到底 AI 行不行，写出来的东西怎么样？ 为了探究这个问题，一帮年轻人本着严谨的实践精神，真就举办了一届 AI 小说大赛。 这个点子最早诞生在一个
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751905/"
+                        open
+                      >
+                        <summary class="article-expander__title">越来越「丑」的宝马，在践行自己的信条</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751905/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>在几个月前，宝马正式发布 2024 款宝马 5 系，内部设计团队罕见地将「双肾」前脸格栅尺寸缩小，还为 BMW 5 系带来了全新设计语言。 ▲ 2024 款宝马 i5 宝马设计主管 Domagoj Dukec 在接受媒体采访时透露，内部团队在决定进气格栅的设计走向上已经达成了共识。以 5 系为分界线
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751904/"
+                        open
+                      >
+                        <summary class="article-expander__title">为音乐而生，索尼音频的变与不变</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751904/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>提起索尼的 Walkman，相信会勾起不少读者的怀旧情绪，可能不禁回想起当年怀揣着 CD 机、卡带机乃至后来被统称为随身听的数字音乐播放器时，戴着耳机沉浸于音乐世界里的时光。 从某种意义上，索尼 Walkman 开创了便携音乐的「耳机时代」，引领了音乐随身听的生活方式，并持续影响我们至今。 事实上，
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751903/"
+                        open
+                      >
+                        <summary class="article-expander__title">苹果M3芯片MacBook今年无望?消息称要明年才会推出</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751903/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>10 月 13 日消息，据外媒报道，在 6 月 6 日凌晨开始的全球开发者大会上推出搭载 M2 Ultra 芯片的 Mac Studio 和 Mac Pro 之后，分析师和研究机构也普遍预计 M2 系列芯片已全部推出，苹果后续推出的就将是 M3 系列，更有分析师预计苹果最快在今年 10 月份，就将推
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751902/"
+                        open
+                      >
+                        <summary class="article-expander__title">微软收购动视暴雪交易已获英国监管机构批准 为交易完成扫清道路</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751902/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>10 月 13 日消息，据外媒报道，微软以 687 亿美元收购动视暴雪的交易已获得英国监管机构英国竞争与市场管理局（CMA）的批准，这为这笔交易的完成扫清了道路。 据悉，微软是在 2022 年 1 月份宣布收购动视暴雪的，这笔交易总价达 687 亿美元。如果收购成功，这笔交易将是微软有史以来最大的交
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751901/"
+                        open
+                      >
+                        <summary class="article-expander__title">京东：关注到有谣言称“刘姓商人涉嫌违法被抓” 已报案</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751901/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>10 月 13 日消息，京东官方微博“京东发言人”发文称：我们关注到有谣言称“刘姓商人涉嫌违法被抓”，该谣言被别有用心的人刻意发布在京东相关新闻动态下，以混淆视听、操纵舆论。我们对此恶劣行径表示强烈愤慨，并已向公安机关报案。
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751900/"
+                        open
+                      >
+                        <summary class="article-expander__title">台积电称 2 纳米芯片开发生态系统基本完成</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751900/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>台积电称其 2 纳米工艺引入了多项新技术，包括 GAA 晶体管、背面供电和超高性能金属绝缘体-金属（SHPMIM）电容器等，芯片设计师将需要使用全新的 EDA（electronic design automation）、模拟和验证工具。2 纳米工艺预计将要到 2025 年下半年投产，时间还充裕，相关
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751899/"
+                        open
+                      >
+                        <summary class="article-expander__title">Ubuntu 23.10 释出</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751899/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Canonical 释出了代号为 Mantic Minotaur 的 Ubuntu 23.10。主要新特性包括：新的安装程序提供了默认安装和完整完整选项，其中默认安装只安装操作系统必要的功能和工具，而完整安装包含了办公软件和游戏等，默认安装其实就类似之前的“最小安装”。此外用户还可以选择将 ZFS 
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751898/"
+                        open
+                      >
+                        <summary class="article-expander__title">英伟达的「镰刀」，不是AI芯片</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751898/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文硅基研究室，作者白嘉嘉 英伟达又一次被推上了风口浪尖，这次不是因为它扶摇直上的业绩，而是过去将它捧在手心的微软、OpenAI、谷歌等人工智能排头兵起了「异心」。 据 The Information 报道，微软计划在下个月的年度开发者大会上推出首款为人工智能设计的芯片。这款芯片是为训练和运行大型语言
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751897/"
+                        open
+                      >
+                        <summary class="article-expander__title">大模型格局生变：OpenAI年收入高达13亿美元，竞争对手们却相继裁员倒闭</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751897/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>尽管风投们一直在寻找下一个 OpenAI，但 NFX 基金合伙人 Pete Flint 表示，投资者现在认识到，一些早期的创业公司只是有趣的实验，并不是伟大的企业，可能不会成功。 (图片来源：unsplash） 随着 ChatGPT 热潮带来 AI 行业快速变革，OpenAI 营收高增长，但其竞争对
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751896/"
+                        open
+                      >
+                        <summary class="article-expander__title">一款游戏赞助另一款游戏的电竞战队，是什么操作？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751896/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文镜象娱乐，作者丨顾贞观 一款游戏真金白银赞助另一款游戏的电竞赛事，放眼游戏史都极为炸裂。但现实中，永远有不按常理出牌的玩家。 近日，米哈游旗下游戏《崩坏：星穹铁道》宣布赞助《DOTA2》战队 LGD 和 AR 出征 TI12 国际邀请赛。一石激起千层浪，尽管《DOTA2》玩家“Deadgame”的
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751895/"
+                        open
+                      >
+                        <summary class="article-expander__title">抖音电商狂奔，但内容创作者不够用了</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751895/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文唐辰同学 抖音的内容创作者不够用了。 作为抖音的重度用户——手机屏幕使用时间排序里，绝大部分时间，都是微信第一，抖音排第二——最近明显感觉到抖音内容质量明显下降。同时，直播带货、品牌广告的比例明显增加。 粗略估计，抖音信息流里，10 条短视频，特别是晚间，至少有 3 条是直播带货，2 到 4 条是
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751894/"
+                        open
+                      >
+                        <summary class="article-expander__title">iPhone15系列持续遇冷，立讯精密该如何应对？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751894/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文侃见财经 相比于近期爆火的华为而言，苹果的日子恐怕没有那么好过了。 据《每日经济日报》的报道，iPhone15 系列手机“市场需求情况确实不理想。到现在现货还是很多，基本没什么人抢”；而从华强北多个第三方渠道的报价来看，iPhone 15 和 15 Plus 价格首发均是“破发”状态。 实际上，苹
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751893/"
+                        open
+                      >
+                        <summary class="article-expander__title">不吐不快！出海老兵首谈TikTok印尼电商的关停</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751893/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>钛媒体 App 出海参考特约作者：张平山海图创始人/CEO 出海参考运营编辑：甚平 最近 TikTok Shop 印尼关停的事情在国内讨论的沸沸扬扬。不过，有些文章表述严重失实，比如抖音海外版本被禁止，印尼政府禁止电商平台等等，完全没有真实性可言。因此，我先说明一下我在印尼对此事了解到的实际情况： 
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751892/"
+                        open
+                      >
+                        <summary class="article-expander__title">谷歌、苹果等科技巨头扎堆印度制造，凭啥是印度？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751892/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文江瀚视野 在世界制造市场之上，中国、美国、日本都是久负盛名的制造业大国，但是就在最近谷歌、苹果等几大科技企业都全面扎堆印度生产电子产品，让人不禁想问有那么多知名的生产国，为什么会是印度被看好？印度有什么不一样的地方吗？ 01 谷歌、苹果扎堆印度制造？ 据财联社的报道，Alphabet Inc. 旗
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751891/"
+                        open
+                      >
+                        <summary class="article-expander__title">毫末要搞技术，也要搞钱</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751891/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>为了快速实现商业化，毫末放大招了。 在 10 月 11 日的毫末 AI DAY 上，毫末一次性发布了 HP170、HP370、HP570 三款智驾产品，最低价格直接下探至 3000 元，打响了智驾产品千元级价格战。 另外，本次 AI DAY 也是毫末发布 DriveGPT 后的首次升级，而此次升级的
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751890/"
+                        open
+                      >
+                        <summary class="article-expander__title">FPGA江湖，山雨欲来</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751890/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文 半导体产业纵横 前不久，英特尔通过官网宣布将负责开发英特尔的 Agilex、Stratix 和其他 FPGA 产品的可编程解决方案部门（PSG）剥离，作为独立业务运营，目标是在两到三年后 IPO 中出售部分业务。 当英特尔正式宣布分拆 FPGA 业务时，FPGA 江湖的风又开始飞扬。 FPGA 
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751889/"
+                        open
+                      >
+                        <summary class="article-expander__title">减肥药板块走红点燃赛道，堪比ChatGPT式创新引发投资新机会</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751889/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文证券市场周刊，作者黎仕禹 诺和诺德的 GLP-1 药物司美格鲁肽不仅在减肥上效果明显，而且在降低心血管疾病上同样有着出色的临床试验结果，使市场对减肥药行业发展充满期待，助推投资者对板块的投资热情。 Wegovy 是诺和诺德研发的司美格鲁肽减重适应症的药品。在名人效应的加持下，Wegovy 销量暴增
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751888/"
+                        open
+                      >
+                        <summary class="article-expander__title">当“受害者亲属”走进直播间带货</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751888/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文盒饭财经，作者薛亚萍，编辑赵晋杰 “欢迎大家来到江歌妈妈直播间。” 继“在美遇害的北大硕士“章莹颖父亲章荣高之后，又一位新闻案件中的受害者亲属走进直播间带货。为了提醒首次进入直播间的观众，10 月 9 日晚江歌妈妈江秋莲的抖音直播间，开始滚动播放上述标语。 江秋莲是“江歌案”中江歌的母亲，她的女儿
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.cnblogs.com/n/751887/"
+                        open
+                      >
+                        <summary class="article-expander__title">这届年轻人，能在上门经济里“躺赢”吗？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/751887/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文趣解商业，作者李闻淇，编辑趣解商业 仿佛一切都回到了 2014 年 O2O 产业爆发的时候，曾经一度冷却的上门服务得益于年轻一代“懒人经济”的盛行，在这两年“春风吹又生”了。上门代厨、上门保洁、上门收纳，甚至上门喂养宠物等，花样百出的点对点的上门服务业态，越来越受到“Z世代”的欢迎。 家住北京的 
+本文链接</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -2382,6 +2986,43 @@ VR 的历史可以追溯至 20 世纪 60 年代，Philco （现被飞利浦收�
 我们先来谈第一步。
 让世界在我们的眼前呈现，这件事我们并不陌生，已然创造了一个赛博世界的我们，透过手机的屏幕，另一个世界的光映入眼中。把手机换成 VR 设备，道理也是一样的：…</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://sspai.com/post/83441"
+                        open
+                      >
+                        <summary class="article-expander__title">识图 - 找照片神器</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/83441">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sspai.com/2023/10/09/a8a5be34cd5b435981d6b43ff4087d61.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>如何在茫茫多照片的手机相册里找到照片呢？
+相信大家总会有找照片的时候，有时是想发朋友圈、有时是分享给家人朋友、有时是想搜集素材，甚至有时只是想躲在角落里默默回忆那段你专属的时光吧。这时，如果你手机里的照片不多，那就还好，翻翻相册就大概能找到了，但是，如果你和我朋友博哥一样，手机里存了 13 万张照片，那也够你喝一壶了。
+关于「找照片」：最快速找到照片
+我相信有些习惯整理照片的人会专门定时对照片进行分类、归类相册，甚至打标签，但可能这类人 1% 都不到吧，对于大多数像我一样的懒人，找照片主要靠翻。在「识图」里，怎么解决找照片的问题呢？
+搜时间
+找照片最自然的方式当然是回忆照片是什么时候拍的了，可能是 &#x27;2021 年 5 月‘ 拍的，或许你能清晰记得是 &#x27;2021 年 5 月 20 日‘ 那天，在「识图」里搜一搜： 
+
+注意搜索框里面的搜索词，当「识图」把搜索关键词识别成 &#x27;拍摄时间&#x27; 时，它会加一个黄色的底色。更好玩的是，识图不仅仅能识别 ’2021 年 5 月‘、’2021 年 5 月 20 日‘ 这种比较书面的表达，也能识别类似于 ’去年春节’、’大前年十一‘ 这种比较口语化的表达：
+
+搜地点
+除了搜时间，「搜地点」也是比较自然的搜索方式，我们大概会记得这张照片是在哪里拍的。比如我想找我在 &#x27;南京&#x27; 或者 &#x27;杭州&#x27; 拍的照片，我可以这样搜：
+
+看，搜索框里面的搜索词变成了绿色，说明「识图」已经识别到你想搜在南京、在杭州拍摄的照片。
+搜内容
+除了「搜时间」和「搜地点」，有的时候你清楚的知道自己要搜什么，比如我想找到我相册里面我拍的我们家狗狗的照片，我就直接搜 ‘可爱的狗狗’ 好了。又或者我想找几张和篮球相关的图片发朋友圈，那么就搜 ‘打篮球’：
+
+魔法：递进式搜索
+只是能单独搜「时间」、「地点」或「内容」虽然大多数时候能找到我们想要找到的照片，但是更好玩的魔法是，你可以任意…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -18097,1131 +18738,6 @@ Nelson &amp; Narens&#x27;s Model of Metacognition 
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76085"
-                        open
-                      >
-                        <summary class="article-expander__title">科技行业高管讨论 AI 未来</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76085">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>马斯克(Elon Musk)、盖茨(Bill Gates)、扎克伯格(Mark Zuckerberg)等科技行业的高管和名人周三参加了一场闭门会议，与 60 多名美国参议员就 AI 的各种可能性和风险展开了辩论。参议员们正在考虑通过立法监管 AI 技术。马斯克警告称，AI 有可能威胁到人类。盖茨则指出，AI 可能有助于解决全球饥饿问题。非营利组织 Center for Humane Technology 负责人Tristan Harris 警告开源 AI 系统会被滥用，如 Llama 2 模型能被用于获取制造危险生物化合物的指南。扎克伯格反驳说，类似的指南本来就可以在互联网上找到。扎克伯格告诉参议员，开源“使这些工具的获得变得民主化，这有助于公平竞争，促进个人和企业创新”。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76084"
-                        open
-                      >
-                        <summary class="article-expander__title">Google 裁减招聘职位</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76084">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>在 1 月大规模裁员 1.2 万人，接着子公司 Waymo 和 Waze 先后裁员之后，Google 又再次裁员，这次是针对招聘部门。Goolge 将在全球招聘部门裁员数百人。Google 负责招聘的副总裁 Brian Ong 告诉员工，未来几个季度需要招募的人数减少，因此减少招聘人员。Google 吸取了此前裁员的教训，没有立即切断被裁员工进入公司的机会。被裁的员工可以额外使用办公室一周时间，以及更长时间的在线服务。被裁员工可以与服务提供商协商制定离职后的医保方案。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76083"
-                        open
-                      >
-                        <summary class="article-expander__title">台积电美国芯片厂需要将芯片送回台湾封装</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76083">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>台积电位于美国亚利桑那州的芯片工厂被认为是一种没有什么用的镇纸，因为它仍然需要将芯片送回台湾封装。台积电在美国的第一座芯片工原计划在 2024 年投产，但因为人才短缺等问题推迟到 2025 年。它预计将使用 4 纳米工艺制造芯片，苹果将会是该工厂的大客户之一。然而台积电为苹果、英伟达或 AMD 等客户制造的芯片仍然要送回台湾封装，而台积电不太可能很快在美国建造芯片封装工厂。它已经在成本和人才方面遇到了麻烦。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76082"
-                        open
-                      >
-                        <summary class="article-expander__title">物理学家找到在水中写字的方法</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76082">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>人类书写和绘画的历史可以追溯到至少 3 万年前，但“在液体中写字”却一直是个难题。根据发表在《Small》杂志上的论文，一个由德国物理学家领导的国际团队找到了一种在水和其他液体基质中写字的独特方法。水不是一种书写媒介，这是因为墨水不断地移动和旋转，很快就会在水中扩散开，无法形成结构。研究团队想要设计出一种真正“在液体中写字”的方法。这样的方法必须能防止绘制线条快速扩散，并且书写者需要一支非常小的“笔”，当它在液体介质中移动时，不会激起太多的湍流。因为在液体中，移动的对象越小，产生的漩涡或涡流就越少。解决方案是：将墨水直接放入水中，并使用由离子交换树脂材料制成的微珠作为笔，直径在 20—50 微米之间，完全不会产生漩涡。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76081"
-                        open
-                      >
-                        <summary class="article-expander__title">Stability AI 宣布文本音乐生成模型 Audio Diffusion</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76081">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Stability AI 宣布了文本音乐生成模型 Audio Diffusion，允许任何人用简单的文本去生成音乐片段。Stability AI表示会在未来发布基于 Audio Diffusion 的开源模型和训练代码，允许你训练自己的音乐生成模型。Audio Diffusion 使用了音频库 AudioSparks 中超过 80 万首授权音乐训练，大约有 12 亿个参数，与最早发布的图像生成模型 Stable Diffusion 相当。Audio Diffusion 有免费和付费方案，免费版本允许每月生成 20 首最长 20 秒的音乐，付费版本提高到 500 首最长 90 秒。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76080"
-                        open
-                      >
-                        <summary class="article-expander__title">吸烟与端粒缩短相关</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76080">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>研究人员分析了英国生物银行的数据，其中包含了 50 万英国参与者的遗传和健康信息。他们研究了一个人是否现在吸烟，以前吸烟或从不吸烟，吸烟成瘾程度，他们抽了多少支烟(香烟消费的包装年数)，以及从血液测试中获得的白细胞端粒长度的信息。他们发现，在曾经吸烟的人群中，端粒长度有缩短的趋势，但在统计学上并不显著。吸烟数量较多的人白细胞端粒长度明显较短。吸烟可能导致白细胞端粒长度缩短，并且吸烟越多，缩短效果越强。端粒的长度是衰老的速度和细胞修复和再生能力的一个重要指标。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76079"
-                        open
-                      >
-                        <summary class="article-expander__title">瑞典犯罪组织利用 Spotify 洗钱</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76079">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>瑞典犯罪组织正在利用 Spotify 洗钱。与犯罪组织有关联的艺术家通过 Spotify 发布歌曲，犯罪组织则通过比特币等加密货币给相应的歌曲购买虚假流量，Spotify 会根据流量向艺术家支付分成，通过这一方法将黑钱洗白。一犯罪团队的匿名成员表示，该组织从 2019 年开始通过 Spotify 洗钱。他们购买的虚假流量经常会将相应歌曲送上榜单，还会因此吸引到真实流量。在瑞典，100 万次串流会获得约 40,000-60,000 瑞典克朗（相当于 2,800-4,300 英镑）的收入。Spotify 在一份声明中表示，操纵串流是整个行业面临的一大挑战，Spotify 一直在致力于解决该问题。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76078"
-                        open
-                      >
-                        <summary class="article-expander__title">Arm IPO 定价 51 美元，估值 545 亿美元</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76078">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>英国芯片设计公司 Arm 将 IPO 发行价设在每股 51 美元，为成为今年美国最大的 IPO 奠定了基础。按照这一发行价，Arm 完全稀释后的估值将达到 545 亿美元。这低于 Arm 母公司软银最近收购其 Vision Fund 所持 Arm 股份时对后者的 640 亿美元估值。Arm 股票将于周四开始在纳斯达克市场交易，股票代码为 ARM。Arm 将发行的股份都由软银出售，此次 IPO 计划融资约 50 亿美元。Arm 不生产芯片，但为芯片制造商提供重要的电路设计。Arm 成立于 1990 年，早年专注于新兴的移动电话市场，后来成为该行业的主导供应商。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >博客园_新闻</button>
-                  <a class="source-heading__link" href="https://news.cnblogs.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750395/"
-                        open
-                      >
-                        <summary class="article-expander__title">性能碾压Llama 2，全球下载量超500万，百川智能开源模型凭什么？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750395/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>智东西（公众号：zhidxcom） 作者漠影 编辑三北 随着“百模大战”进入小考时刻，已经有国产大模型交高分卷了。 9 月 1 日，网信办深度合成服务算法备案公告一声令下，国内头部大模型纷纷面向全社会开放服务，接受新的考验。 正值此时，有一个国产开源大模型已经横扫各大中英文测评榜单，不仅在基座模型测
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750394/"
-                        open
-                      >
-                        <summary class="article-expander__title">是苹果“虚标5G”，还是专家业余？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750394/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文 ICT 解读者-老解 在苹果秋季发布会前夕，某专家指责苹果手机在没有 5G 网络情况下“虚标 5G”成了网络热搜。 该专家在北京 10 号线地铁发现有人的 iPhone 手机角标显示为 5G 网络，而自己的华为手机只显示 4G，并且从运营商处了解到北京 10 号线地铁并没有部署 5G 网络，于是
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750393/"
-                        open
-                      >
-                        <summary class="article-expander__title">华为开启大反攻，Mate 60 Pro需求高于预期，下半年出货量提高20%至600万台</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750393/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>9 月 14 日，天风国际证券分析师郭明錤发文称，华为 Mate 60 Pro 机型需求高于预期，上调今年下半年出货量为 600 万台，提高 20%。 此前，华为在没有任何官方预热的情况下，开启了年度旗舰机型 Mate 60 Pro 的预售。预售分为两个渠道，线上由华为商城接受抢购预订、线下则仅在深
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750392/"
-                        open
-                      >
-                        <summary class="article-expander__title">华为的遥遥领先，刷屏了苹果发布会</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750392/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文伯虎财经 头一回，北京时间凌晨，在大洋彼岸开演的科技春晚——苹果秋季新品发布会没能刷屏社交媒体。 和去年“灵动岛”刷屏微博，全网一起“不愧是苹果”不同，这次发布会后，有关苹果新机流传的最广的梗还是蹭的因为失言而深陷舆论风波的带货顶流李佳琦： “看了一下苹果 15 克重 172 左右一万块钱的话一克
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750391/"
-                        open
-                      >
-                        <summary class="article-expander__title">为什么减肥容易反弹？因为脂肪细胞永远不会消失</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750391/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>不管你是否喜欢，我们的脂肪细胞会伴随终生，即使我们减肥成功。 随着数百万人带着减肥的新决心进入 2020 年，他们需要面对一个令人棘手的生理事实：无论减掉多少体重，他们身体中的脂肪细胞数目很可能实际上永远不会减少。 相反，我们的脂肪细胞只是简单地缩小体积，仍存留在组织中准备再次在摄入过剩能量时膨胀。
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750390/"
-                        open
-                      >
-                        <summary class="article-expander__title">瑞幸茅台vs库迪大米，县城咖啡之战的最后赢家是谁？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750390/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文五环外 OUTSIDE，作者刘奕然，编辑 车卯卯 真正的商战，只需要一个精准的对家 茅台咖啡爆火席卷互联网的第四天下午，库迪咖啡“米咖”即将上线的消息取代登顶。 深夜的酒对战暖胃的粥，咖啡界的商战开始向奇怪的方向走去。 库迪以“拒绝伤身”为主题推出新品，大家都能看出库迪这次阴阳怪气是摆上明面的、是
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750389/"
-                        open
-                      >
-                        <summary class="article-expander__title">苹果官宣“iOS手游引入主机3A游戏”！手游厂商将被最强对手痛击？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750389/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>GameLook 报道/被称作科技圈“春晚”的苹果秋季发布会于今日（9 月 13 日）凌晨正式举行。在接近一个半小时的活动中，苹果推出了包括 iPhone 15 在内的多款新品。相较之下，游戏圈最关注的方面，还是有哪些游戏现身发布会。 作为苹果发布会的老面孔，米哈游《原神》今年再次出现在发布会中。除
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750388/"
-                        open
-                      >
-                        <summary class="article-expander__title">网传腾讯获“今年最热二次元MMO”万代《蓝色协议》IP手游开发和全球发行权</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750388/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>GameLook 报道/二次元品类是今年行业最热门的类型，没有之一。不光有米哈游等垂类公司持续开花结果，网易也拿出讨论度颇高的《代号：无限大》……喧嚣过后更让人好奇，腾讯的二次元新产品储备在哪？ 自《原神》《崩坏：星穹铁道》在欧美打开局面后，二次元正在成长为全球性类型，影响力不再局限于中日韩市场，自
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750387/"
-                        open
-                      >
-                        <summary class="article-expander__title">浙大学者开发“睡美人”型智能材料，能按时按需变形</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750387/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>变形在我们生活中随处可见，有的一触即发，有的循序渐进。浙江大学化工学院教授谢涛与赵骞团队利用热致相分离水凝胶构建了可按需自发变形的形状记忆高分子，阐明了该类变形行为的机理及调控方法，并结合 4D 打印技术初步展现了该类材料用做医疗手术器件的独特潜力。相关成果以“起始回复时间可编程的形状记忆高分子”为
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750386/"
-                        open
-                      >
-                        <summary class="article-expander__title">当顺丰甩掉“丰网”之后</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750386/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文新眸，作者周尧 在卖掉丰网三个多月之后，顺丰控股股份有限公司（下称“顺丰”）在 8 月下旬向港交所提交了上市申请书。 这家于 1993 年由王卫创立的综合物流服务提供商，曾在 2017 年于深圳证券交易所上市，若此次赴港上市成功，顺丰将成为快递行业首家“A+H”股上市公司。 随后，在 8 月 28
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750385/"
-                        open
-                      >
-                        <summary class="article-expander__title">苹果手机也开始摆烂了</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750385/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文价值星球 Planet，作者 唐飞，编辑 刘景丰 有人说苹果 CEO 蒂姆·库克任职苹果 CEO 的十二年时间里，苹果的产品几乎没有超越乔布斯，无论是近几代的 iPhone 还是后来的 Apple Watch，这些东西更像是产品的迭代升级。 但不可否认的是，十多年里库克将这家企业从 2000 亿美
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750384/"
-                        open
-                      >
-                        <summary class="article-expander__title">翻车的李佳琦，退休的张勇，以及远去的狂热消费时代</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750384/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文商隐社，作者浩然 这两天的热点人物就是李佳琦。起因是 9 月 10 日晚李佳琦在为花西子带货时，有网友发弹幕表示 79 元的眉笔太贵，没想到简单的一句评论引起了李佳琦的狠狠开怼： “哪里贵了？不要乱说，花西子眉笔一直 79，国货品牌很难的，有时候找找自己原因，这么多年了工资涨没涨，有没有认真工作？
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750383/"
-                        open
-                      >
-                        <summary class="article-expander__title">按游戏下载量收费，全球开发者炸锅！Unity：90%以上客户不受影响</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750383/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>GameLook 报道/9 月 12 日晚，Unity 在官网发布公告称，将从 2024 开始向符合条件的游戏产品按安装量单次收费，价格区间为 0.01-0.2 美元之间。 这则消息公布之后立即引发全球开发者高度关注，考虑到 Unity 全球开发者有数百万，且在手游市场占据了引擎端 70% 左右的使
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750382/"
-                        open
-                      >
-                        <summary class="article-expander__title">迷失直播间的旅行社：都知道不赚钱，不做又不行</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750382/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文闻旅，作者 禹佳言 当下，李佳琦事件愈演愈烈。但事实上，用户在直播平台搜索低价的不只局限于美妆产品，还有旅游产品。 旅游放开以来，沐沐一直想再去一次泰国，一天意外地在直播间刷到 399 元泰国签证，相比之前落地签便宜了许多，便毫不犹豫付款下单。由于没有具体计划所以不着急核销，想着反正一年内可退。 
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750326/"
-                        open
-                      >
-                        <summary class="article-expander__title">英特尔宣布 Thunderbolt 5</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750326/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>英特尔宣布了它的新一代通用总线 Thunderbolt 5。Thunderbolt 5 将支持 80 Gbps 的双向带宽，两倍于 Thunderbolt 4；加上 40 Gbps 的下游带宽 Thunderbolt 5 的 Bandwidth Boost 最高能达到 120Gbps。它还支持最高 
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750325/"
-                        open
-                      >
-                        <summary class="article-expander__title">中国的 AI 热回归现实</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750325/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>对创业公司 Chingmu 的创始人 Zhang Haiwei 而言，构建自己的大语言模型（LLM）是不现实的。你需要几亿美元资金，需要与遥遥领先的科技巨头们展开竞争。 在 AI 热兴起前，百度和科大讯飞等公司早就对大模型之类的 AI 系统展开了多年研究。Zhang 的公司专注于 AI 应用，利用 
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750324/"
-                        open
-                      >
-                        <summary class="article-expander__title">电子制冷有望大幅缩小量子计算机的体积</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750324/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Google、IBM、亚马逊等公司正在建造基于超导电路的量子计算机，其中超导电路需要冷却到接近绝对零度。这些量子计算机依赖于名为 dilution refrigerators 的制冷系统将温度冷却到 1K 或以下。
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >少数派 -- Matrix</button>
-                  <a class="source-heading__link" href="https://sspai.com/matrix">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://sspai.com/post/82929"
-                        open
-                      >
-                        <summary class="article-expander__title">热刀切黄油，最趁手的手机浏览器——Via 浏览器再体验</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/82929">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sspai.com/2023/09/14/621b0e7d1e9bf464dd78b32852d283be.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Via 浏览器
-前言
-虽然说现在很多内容都困在 APP 里面，但 Web 生态依然能大大的扩展手机的应用场景，我大部分时间刷少数派用的都是手机浏览器，Web 浏览器是我在移动端最常用的工具类软件，也是应用开发的热点，各式各样的浏览器琳琅满目。受限于移动平台的性能，很多手机浏览器要么就是功能简陋，要么就是太过沉重。国产大厂浏览器被劣质信息流塞满，Chrome 功能简陋，Firefox 官方版本现在依然只能安装少数插件，kiwi 和狐猴可以安装插件也是我之前主用的手机浏览器，却有些笨重，夸克是我很喜欢的一款手机浏览器，也用了很久，现在功能也非常强大，不过很多功能其实都不是浏览器本身的功能，书签也无法多端互通，我现在更多的把 ta 作为一个工具箱来使用。
-在 Via 浏览器 最新版支持多级书签文件夹同步后，Via 浏览器渐渐的成为了我的主力浏览器，并惊奇的发现虽然 Via 安装包不到 2 M 大小，却已经强悍到几乎可以满足我对浏览器的所有需求，以前需要用浏览器插件实现的功能大部分都能实现。使用 Via 的感觉就像是热刀切黄油，非常丝滑，指哪打哪，是我目前使用的最为趁手的手机浏览器。
-云 ☁️
-我对手机浏览器的第一个需求就是能够与电脑端浏览器同步书签，这样电脑保存的链接可以随时在手机里打开，手机上浏览的网页添加书签后同样可以在电脑进一步处理。Chrome 谷歌家的同步在国内不可用，Edge 微软同步倒是可以正常使用，不过 Edge 本土化不够、功能欠缺。之前我是使用能够安装插件的浏览器，比如 kiwi 浏览器和狐猴浏览器，安装 floccus bookmarks sync 插件，使用坚果云 Webdav 在不同设备间同步书签，电脑端也是用 Chrome、Firefox 安装 floccus 插件来同步书签，使用方法可参考 Floccus - 跨平台浏览器「书签同步」插件。
-而 Vi…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://sspai.com/post/82844"
-                        open
-                      >
-                        <summary class="article-expander__title">为了知道时间都去哪了，我做了一款APP：「时间印迹」</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/82844">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sspai.com/2023/09/11/5ab20f6931570d0064812f6863b779ed.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>引言
-美国哲学家伯特兰·罗素提出过“世界五分钟前诞生的假说”，内容如下：
-
-The universe sprang into existence five minutes ago from nothing, with human memory and all other signs of history included
-
-翻译即：世界是在五分钟前诞生的。包括人类记忆和所有其他历史迹象在内。
-伯特兰·罗素
-这是个非常有趣的思想假说，事实上我也经常在想：如果这个世界就是在5分钟前诞生的，那它和45亿年前诞生，我们真的能感受到区别吗？
- 
-时间一直在我们身边不断的流逝，我们唯一能感知到它的就是通过记忆。
-但记忆却又总是那么不可靠，或者说它是有选择性的。我们能记得更久的往往是那些让我们有较大情绪波动的事情，比如我们大笑、我们流泪、以及我们所经历的那些爱恨情仇。而这些事的发生往往都是瞬间且短暂的。反观那些我们花时间较长的，比如工作、比如学习等，虽然花了很多时间，却因为没有造成较大的情绪波动，在记忆中就像是只经历了一瞬间，想想就觉得…“不公平”。
-而且我们对时间的记忆也常常都是“糊成一团”的。我们无法感知事情的长短，学习了30分钟感觉自己像是学习了2个小时；同样刷视频2小时，又感觉自己只看了30分钟。也不知道自己花时间最多事情在哪里，是工作、学习、锻炼还是娱乐？不知道
-时间感知的错位、记忆的消逝，以及明明我们经历了那么多的时间，却没有在我们的生命中留下太多清晰可见的“印迹”，想想就觉得…“很可惜”！
-就连树木都会因春夏秋冬的季节变化而为自己留下时间的印迹——年轮。而我们作为人却没有，以至于我们常常在感叹：
-时间都去哪了？
-
- 
-是啊，时间都去哪了？上个月10号做了什么？嗯…想不起来，可以理解。那前天呢，做了什么？…… OMG！我好像也忘了。
-就是因为对「过去」的看不清，让「未来」会怎…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://sspai.com/post/82849"
-                        open
-                      >
-                        <summary class="article-expander__title">第一台平把公路车 Speed900</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/82849">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sspai.com/2023/09/11/ea1f6fd808177bc761ad0bddef948540.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>想换车已经很久了，虽然一直在看车，也一直在修我的旧车。旧车是大学同学送给我的，他离开北京回家之后，这辆车带不走就给了我。刚拿到的时候因为在学校里风吹日晒了大半年，本来就已经锈迹斑斑，前变速线还是断的，去车店里花钱换了一根，什么也不懂，就这样先骑着了。
-从毕业那天开始，我基本上每天都会骑它。在平安工作的一年多里，我没坐过地铁，没打过车，每一天，每一次，都是骑这辆自行车。下雨，我就穿一件冲锋衣，冲过去，到公司再用纸擦干头发，擦干裤子；冬天极寒的天气，我买了面罩，眼罩，把自己包裹得严丝合缝，带上厚厚的手套，对抗寒风。这辆车陪我去了太多地方，因为实在太旧，我也一直随意地把它锁在路边，没有人偷。
- 
-
-想换新车，是因为大修了好几次，一直没有彻底修好。后变速器不太好使，前叉避震完全生锈了，刹车片上的油污也一直没洗掉，即使我换了全新的刹车盘和来令片，过了两天还是继续出现啸叫的情况，刹车也没有那么灵敏。我彻底放弃了。
-至于买什么车， 也有很大的讲究。一直是想换公路车，山地在城市道路里没有太大意义。弯把公路的操控还是不太熟练，感觉风险比较高，再加上最近平把公路车大热，于是就选择了平把公路。
-当然平把公路里也有很多选择，比如最近大火的Escape1，喜德盛的极速300，还有一些没那么火的车型。选来选去，最后还是选了迪卡侬的Speed900
-Speed900和escape1是同一个价位，但是单论配置完全被escape1吊打，油刹、变速、前叉，都不如escape1。唯一的高配就是挡泥板（笑死），speed900可能是唯一原厂配备挡泥板的车型，而且这块挡泥板非常好看，和轮组完美贴合，毫无违和感，并且是软塑料的材质，很有质感。买这台车的人估计有一半是冲着这个挡泥板去的。
-Speed900的另一个广为诟病的特性是激进的几何，导致骑行姿势趴得很低，很难受。但这个其实反而是我需要的，这款车的定位就是快速通勤，如何定义一个快速呢，就在轻量化的车身和几何设计上。对我来说，赶时间的通勤速度非常重要，Speed900可以让我在每一个红绿灯快速起步，赶上打卡:)
-不选择escape1的另一个原因是我其实想要一个单盘变速，Speed900 1x8的变速能很好满足我的需求，因为之前骑山地的时候就知道自己不喜欢前后变来变去，不需要那么宽的使用场景，再加上变速器也是个难伺候的主，维护很麻烦，所以能精简一点就精简一点，单盘很香。
-另一个最大的优点就是颜值，二八大杠加上极具动感的下杠，美鼠了。
-这段时间每天20km骑下来，整体感受还是挺好的，路况好的时候轻轻松松上30-35，避震有点像Model 3的感觉，很震，也很扎实，32c的胎安全感也很足，过弯过井盖的时候都很有信心。
- 
-
-说完了优点要开始说缺点了。
-首先是脚踏很一般，不够润，就是个普通的塑料脚踏。
-其次刹车不是油刹，虽然反应也很灵敏，但我也不知道为什么很容易被污染，就下雨骑过一次，也没有溅到油，刹车性能就开始下降，而且越来越差，中间我洗过两次，各种方法都用过，收效甚微，准备洗车的时候让师傅处理了，我没办法了。
-最后是这个激进的几何设计，确实趴久了手疼，不得不买了个手套。
- 
-
-总体上我认为Speed900是定位比较小众的一台车，适合像我这样有快速通勤需求的人群。如果是打算专业混骑行圈，escape1的配置确实会更香。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://sspai.com/post/82928"
-                        open
-                      >
-                        <summary class="article-expander__title">【送码】花180天做了一款睡眠日历App：NapNap开发的幕后故事</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/82928">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sspai.com/2023/09/14/9781811f2a5021af41a1038bd7ea1c74.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>大概在十年前，当时国内还未普及智能手表和手环的时候，我通过海淘和漫长的等待，终于拿到了第二代 Jawbone UP2 智能手环，当时最让我着迷的是它的睡眠监测功能，后来也尝试了 Sleep Cycle ，睡前仪式感满满的将手机放枕边，充着电记录睡眠，随着时间的推移，新鲜感渐渐消失，我也没有坚持使用下去。
-后来，在我买到自己的第一个Apple Watch Series 3 时，付费下载了AutoSleep，开始尝试戴着 Apple Watch入睡，自动监测替代了手动记录，这个习惯一直持续了好几年，直至今日。
-当我在告诉身边的朋友我想做一款睡眠App时，他们问的最多的问题是： 「市面上已经有这么多睡眠App了，你为什么还要做一款新的？」、「记睡眠准不准？」以及「用这些 App真的就会睡的好吗？」
-这三个问题一直贯穿着我开发 NapNap 的始终，作为经常熬夜失眠星人，想和大家聊聊在睡眠这件事上的思考。
-为什么要做 NapNap？
-在用过众多睡眠应用当中，AutoSleep 凭借独特的算法优势和无需手动开启的便利脱颖而出，它的睡眠记录和身体感受最为接近，而且可以根据个人习惯进行手动调整和修正。然而，它也是最复杂和难用的一个，很多人吐槽复杂的图表和臃肿的功能模块，每个仪表盘上数字都试图跳出来刺激你，你不知道为什么要看这些，也不知道要做些什么。作为备受推崇推的睡眠代表应用之一，开发者从中已经赚的足够多，但却从未看到有任何改进产品交互体验的意愿。
-
-幸运的是，由于 Apple Health 的开放性，我们可以在用户授权后获得 Apple Watch 和第三方App的睡眠数据，睡眠记录就交给已经非常优秀的睡眠应用，而我们只需要专注把睡眠结果以更好的形式呈现出来。
-或许你已经猜到了，NapNap的第一个目标是：「赏心悦目，一瞥即见」，我们希望打造一款轻量、界面精美且易用的睡眠App。
-
- …</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-09-13 datetime="2023-09-13T18:16:00.000Z">2023-09-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-09-13 datetime="2023-09-13T18:16:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >博客园_新闻</button>
-                  <a class="source-heading__link" href="https://news.cnblogs.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750323/"
-                        open
-                      >
-                        <summary class="article-expander__title">苹果告别躺赢时代</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750323/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文偲睿洞察，作者 Renee，编辑经纬 消费电子市场渐近寒冬，对内卷习以为常的手机厂商，已然把主意打到了天上：苹果、华为等多家厂商积极布局手机直连卫星的业务与产品。 （手机直连卫星的业务与产品图源：国盛证券） 我们能够预见的是，卫星直连的亮点也将快速被赶超。消费降级、手机换代周期越来越长，手机市场再
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750320/"
-                        open
-                      >
-                        <summary class="article-expander__title">飞行汽车真来了，2028年我国能实现低空自由飞行？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750320/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文新能源行业观察，作者和畅，编辑 秋水 近日，关于飞行汽车的最新消息，从德国慕尼黑传来了。 荷兰 PAL-V 飞行汽车公司在慕尼黑开设展厅，展出了一款三轮设计，可通过螺旋桨和尾桨完成飞行的飞行汽车 PAL-V Liberty。这款飞行汽车已经通过了严格的欧洲道路通行考核，可以正式挂牌上路，并将于 2
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750322/"
-                        open
-                      >
-                        <summary class="article-expander__title">“互联网教父”凯文·凯利谈ESG：技术终将创造奇迹</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750322/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>“我们面临的问题的确不少，但我们解决问题的能力也与日俱增。大家应该相信，我们能够创造出一个‘碳中和’的世界。”9 月 13 日的上海外滩，作为 2023ESG 全球领导者大会首日开场演讲嘉宾的凯文·凯利表达了他对实现“碳中和”、可持续发展的乐观态度。对于 ESG 的作用，他表示，就像飞机帮助了人类实
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750321/"
-                        open
-                      >
-                        <summary class="article-expander__title">盒马以“折扣店模式”对战山姆，胜算有多大？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750321/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文一刻商业，作者渡过，编辑 林凜 盒马和山姆的价格战还在继续。 上个月，从一块八寸的榴莲千层蛋糕开始，掀起了一场中国零售市场两大玩家的激烈商战。 经过盒马的主动拼杀，双方持续降价， 榴莲千层蛋糕的售价从 128 元降到了 85 元。 就在盒马与山姆以价格竞争 “兵来将挡”之际，美团买菜也加入了这场战
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750319/"
-                        open
-                      >
-                        <summary class="article-expander__title">低价半年考，京东得几分？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750319/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文财经故事荟 站在浙江诸暨嗡嗡嗡嗡的车间里，雷长彪捞起一双白蓝相间的运动袜，递了过去，“你猜猜，这双袜子多少钱？” “1.99 元一双，3.99 元 5 双，而且全国包邮”，不出意外，他的答案，等来了对方“哇呃”的一声惊叹。 做了近十年袜业电商的雷长彪，是相于中品牌的电商运营负责人。 过去，相于中京
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750318/"
-                        open
-                      >
-                        <summary class="article-expander__title">顺风车市场“老大”地位不保，嘀嗒出行四闯IPO能否如愿？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750318/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文异观财经，作者鬼神前鬼 在公司迎来成立九周年之际，嘀嗒出行又一次向港交所递交上市申请，这是嘀嗒出行继 2020 年 10 月 8 日、2021 年 4 月、2023 年 2 月 20 日之后第四次冲击 IPO，这次嘀嗒出行能否如愿叩开港交所的大门？ 嘀嗒出行也曾备受资本青睐，投资方包括蔚来资本、I
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750317/"
-                        open
-                      >
-                        <summary class="article-expander__title">AirPods全系历史：小小的塑料撬动千亿市场，它是怎么做到的？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750317/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文太平洋科技 在 2021 年，全球 True Wireless Stereo (TWS) 耳机行业的市场规模达到了 465 亿元人民币，全年出货量超过 3.1 亿台。在这个竞争激烈的领域里，全球范围内有数百个耳机品牌争夺市场份额。TWS 耳机已经从一个简单的配件，逐渐转变为人们出行的必备之物，成为
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750316/"
-                        open
-                      >
-                        <summary class="article-expander__title">潮水和质疑，SHEIN迎来拐点</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750316/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文节点商业组，作者零度 “浪大，鱼多。”谁也不曾想到，在已经十分拥挤的全球快时尚竞技赛上，一家从中国起家的“无名之辈”，以迅雷不及掩耳的速度，席卷全球市场，通过极致低价、极速上新、柔性供应链等“中国本土玩法”，将一众电商大佬打了一个措手不及。 就在两周前，一贯低调的 SHEIN 祭出成立以来最重要的
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750315/"
-                        open
-                      >
-                        <summary class="article-expander__title">拼多多“审慎出海” 时间窗口有多大？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750315/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文思辨财经 在分析企业时，“反直觉”往往十分有用。 如市场主流人士看待拼多多，总先入为主认为其很大程度上归因于“运气”，当宏观经济反弹不及预期时，消费者行为越发保守化，主打消费降级的拼多多当然获利。 咋一看非常有道理，且逻辑清晰，几乎被冠以 “市场主流意见”，但如果我们去看业务细节，则可以发现一些蹊
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750314/"
-                        open
-                      >
-                        <summary class="article-expander__title">李佳琦、东方甄选同日道歉，直播间是时候“去明星化”了？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750314/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文文娱价值官，作者刘娜娜，编辑美圻 9 月 11 日，距离双 11 刚好还有两个月，消费者却见证了电商两大平台的头部主播在同日内道歉。 无论是东方甄选对旗下主播关于“9.18”失言的诚恳认错；亦或李佳琦脱粉百万后在直播中梨花带雨的自责，两件事虽然毫无关联，却再次暴露出行业中潜藏已久的风险与问题。 近
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750313/"
-                        open
-                      >
-                        <summary class="article-expander__title">知网，知错就不改</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750313/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文财经新知 Pro 距离上一次因涉嫌垄断被罚 8760 万元后，短短十个月，知网再次被罚。 9 月 6 日，知网（CNKI）因违反必要原则收集个人信息、未经同意收集个人信息等多项违法行为，被网信办处以 5000 万元罚款。根据相关条例，违反个人信息保护法情节严重的，应处以 5000 万元或者上一年度
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750312/"
-                        open
-                      >
-                        <summary class="article-expander__title">没想到救活元宇宙的，竟然是ChatGPT？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750312/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>作者大海 ChatGPT 加上元宇宙有没有搞头？ 近日，有一个不起眼的消息却引发了整个科技行业的热烈探讨。有两家公司把元宇宙和 ChatGPT 融合在一起了。 MetaGaia 和文化品牌 Hello Kitty 母公司三丽鸥香港（Sanrio Hong Kong）宣布，已在 MetaGaia 的 
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750311/"
-                        open
-                      >
-                        <summary class="article-expander__title">「埃隆·马斯克传」读后</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750311/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文 ｜ 阑夕 绝大多数传记作品，本质上都是在厘清「天才即凡人」的道理，解构历史的必然，寻找浪潮的起点，把万里挑一的人生命运还原成触手可及的血肉之躯。 茨威格大概是一个例外，他写完「人类群星闪耀时」是在 1928 年，那会儿的欧洲还没有沦陷为昨日的世界，精致的凡尔赛体系看起来完美无瑕，连科学技术也被战
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750310/"
-                        open
-                      >
-                        <summary class="article-expander__title">月均销量刚破百，蔚小理远征欧洲</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750310/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文锌刻度，作者路世明‍‍，编辑大风 近日，比亚迪携海豹、宋 PLUS EV 冠军版、元 PLUS（海外命名为 BYD ATTO 3）、海豚、汉以及腾势 D9 亮相德国慕尼黑车展。同时，比亚迪宣布海豹正式在欧洲上市，并提供两个版本。 就在一个月多前，比亚迪曾披露过海外新能源汽车销量。2022 年 11
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750309/"
-                        open
-                      >
-                        <summary class="article-expander__title">消息称特斯拉及供应商未来两年将向墨西哥超级工厂投资150亿美元</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750309/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>9 月 13 日消息，据外媒报道，特斯拉在墨西哥新莱昂州的超级工厂，自马斯克在 3 月 1 日的投资者日活动上确认至今已有半年，虽然有关工厂的消息后续大量出现，但特斯拉目前还未公布超级工厂的规模、投资等具体的计划。 虽然特斯拉还只确认将在墨西哥建设超级工厂，用于生产下一代的电动汽车，但从多方的消息来
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750307/"
-                        open
-                      >
-                        <summary class="article-expander__title">iPhone 15 系列选购指南：4款新机怎么选？30秒不纠结</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750307/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>它来了它来了，它带着 Type-C 走过来了。它，就是苹果最新发布 iPhone 15 系列。 「果味坚守」与「果式创新」并存，远看它似乎一样，近看它，发现处处不一样。 万众瞩目的 iPhone 15 系列，是你想要的吗？ iPhone 15 变化速览 不出意料，iPhone 15 系列的明显变化有
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.cnblogs.com/n/750308/"
-                        open
-                      >
-                        <summary class="article-expander__title">微软和甲骨文将于9月14日宣布最新合作消息</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.cnblogs.com/n/750308/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>9 月 13 日消息，据外媒报道，微软发布声明称，它和甲骨文将于当地时间 9 月 14 日星期四下午 1 点公布最新的合作消息。 声明称，微软董事长兼首席执行官萨蒂亚·纳德拉（Satya Nadella）和甲骨文董事会主席兼首席技术官拉里·埃里森（Larry Ellison）将宣布最新合作情况。 甲
-本文链接</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >奇客Solidot–传递最新科技情报</button>
-                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76077"
-                        open
-                      >
-                        <summary class="article-expander__title">Mozilla 释出紧急更新修复正被利用的 Firefox 0day</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76077">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Mozilla 释出紧急更新修复了一个正被利用的 0day 漏洞，该漏洞影响 Firefox 和 Thunderbird。漏洞编号为 CVE-2023-4863，由 WebP 库(libwebp)中的堆缓冲区溢出引起，会导致崩溃到任意代码执行，攻击者能通过恶意 WebP 图像利用该漏洞。Mozilla 释出了 Firefox 117.0.1、Firefox ESR 115.2.1、Firefox ESR 102.15.1、Thunderbird 102.15.1 和 Thunderbird 115.2.2 修复漏洞。漏洞利用的细节尚未披露。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76076"
-                        open
-                      >
-                        <summary class="article-expander__title">Linux 应用 Free Download Manager 秘密植入后门三年之久</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76076">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>卡巴斯基研究人员披露了一个秘密植入后门三年之久的 Linux 应用 Free Download Manager。网站  freedownloadmanager[.]org 向 Linux 用户提供应用 Free Download Manager，但从 2020 年开始，该域名会不定时的将用户重定向到另一个域名 deb.fdmpkg[.]org 下载恶意版本。恶意版本包含了脚本会下载两个可执行文件到 /var/tmp/crond 和 /var/tmp/bs 中，脚本然后使用 cron 定时任务调度器每 10 分钟执行一次 /var/tmp/crond 中的文件，这意味着设备被永久植入了后门。安全研究人员发现，攻击者会收集系统信息、浏览历史、保存的密码、加密钱包文件以及云服务（AWS、Google Cloud、Oracle Cloud Infrastructure 和 Azure）凭证等数据，将窃取的数据上传到其控制的服务器。恶意域名的重定向在 2022 年结束，该行动目前处于不活跃状态。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76075"
-                        open
-                      >
-                        <summary class="article-expander__title">英特尔宣布 Thunderbolt 5</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76075">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>英特尔宣布了它的新一代通用总线 Thunderbolt 5。Thunderbolt 5 将支持 80 Gbps 的双向带宽，两倍于 Thunderbolt 4；加上 40 Gbps 的下游带宽 Thunderbolt 5 的 Bandwidth Boost 最高能达到 120Gbps。它还支持最高 240 瓦功率。Thunderbolt 从第三代开始使用 USB Type-C (USB-C) 端口。它的应用场景包括了扩展坞站、外接显示器、外置显卡等等。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76074"
-                        open
-                      >
-                        <summary class="article-expander__title">外交部回应苹果手机被限制使用</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76074">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>在周三外交部例行新闻发布会上，发言人毛宁回应了日本记者有关部分中国政府机关禁止使用苹果手机的提问。毛宁称，“中国没有出台禁止购买和使用苹果等外国品牌手机的法律法规和政策文件。但我们近期确实注意到，有媒体曝出苹果手机有关安全事件。中国政府高度重视网络和信息安全，对内外资企业一视同仁、平等对待。我们希望在华经营的所有手机企业都能够严格遵守《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》等法律法规，加强信息安全管理，保护消费者存储在手机中的数据不被任何个人、任何组织窃取，确保信息安全。”</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;76073"
-                        open
-                      >
-                        <summary class="article-expander__title">中国的 AI 热回归现实</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;76073">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>对创业公司 Chingmu 的创始人 Zhang Haiwei 而言，构建自己的大语言模型（LLM）是不现实的。你需要几亿美元资金，需要与遥遥领先的科技巨头们展开竞争。在 AI 热兴起前，百度和科大讯飞等公司早就对大模型之类的 AI 系统展开了多年研究。Zhang 的公司专注于 AI 应用，利用 OpenAI 的模型去分析人和物如何移动，将其应用于动画和运动训练。他认为今年是 AI 内卷化的一年。内卷是中国流行的一个术语，描述了一种疯狂竞争的状态，每个人都愈来愈辛苦的工作，但回报愈来愈少。AI 行业的新人即使有足够的资金，也不太可能脱颖而出。在 AI 领域，成本之外还有计算能力和计算芯片供应的挑战。与硅谷的同行一样，中国的创业公司也掀起了 AI 热。AI 被普遍认为将给科技行业和整个经济带来一场革命。但它们很快就回归现实。革命性的应用尚未出现，训练 AI 使用的芯片则面临短缺，限制了增长。在日益挑战性的经济环境中，AI 面临更多的内卷。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -19229,8 +18745,8 @@ Speed900的另一个广为诟病的特性是激进的几何，导致骑行姿势
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/pdso/rss/actions/runs/6502686306">
-        <time id="build-timestamp" datetime="2023-10-13T01:02:33.484Z">2023-10-13T01:02:33.484Z</time>
+      <a class="footer-link" href="https://github.com/pdso/rss/actions/runs/6514557168">
+        <time id="build-timestamp" datetime="2023-10-14T00:59:23.285Z">2023-10-14T00:59:23.285Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
