@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T00:59:23.340Z</updated>
+    <updated>2023-10-15T01:05:23.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Herculaneum 纸草卷轴首个文字在 AI 帮助下成功识别]]></title>
+        <id>https://www.solidot.org/story?sid=76345</id>
+        <link href="https://www.solidot.org/story?sid=76345"/>
+        <updated>2023-10-14T15:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Herculaneum 纸草卷轴是庞贝附近一座私人别墅图书馆的藏品，因公元 79 年维苏威火山而被掩埋，在高温下碳化。1752 年它们被挖掘出来。它们非常脆弱，处理不当就会变成灰烬。如何阅读无法打开的卷轴？这个问题持续了数百年。2019 年肯塔基大学 EduceLab 的  Brent Seales 教授使用粒子加速器对 Herculaneum 卷轴进行了成像，生成了分辨率达 4 µm 的 3D CT 扫描。他的团队还扫描拍摄了有可见墨水的卷轴碎片。企业家 Nat Friedman 和 Daniel Gross 对该项目产生了兴趣，他们在 2023 年 3 月发起挑战赛 Vesuvius Challenge，奖励能识别卷轴文字的人。8 月参赛者 Casey Handmer 报告在 CT 扫描中发现了看起来像是墨水的“裂纹图案”。SpaceX 暑期实习生 Luke Farritor 开始对裂纹图案训练一个机器学习模型，每一个新裂纹的发现都帮助改进了模型。模型很快揭露了人眼看不见的裂纹痕迹，他发现了卷轴的第一个文字——ΠΟΡΦΥΡΑϹ ——意思是紫色的。他赢得了 4 万美元的 First Letters Prize 奖。另一名参赛者 Youssef Nader 也在同一区域发现了相同文字，她作为第二名赢得了 1 万美元。Casey Handmer 作为墨水痕迹的首位发现者获得了 1 万美元的 First Ink Prize。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 年 Q3 PC 出货量跌势放缓，但苹果暴跌逾二成]]></title>
+        <id>https://www.solidot.org/story?sid=76344</id>
+        <link href="https://www.solidot.org/story?sid=76344"/>
+        <updated>2023-10-14T14:09:58.000Z</updated>
+        <summary type="html"><![CDATA[PC 出货量过去几个季度一直在下滑，最新数据显示跌势放缓，但苹果公司是例外。市场分析公司 IDC、Gartner 和 Canalys 都公布了 2023 年第三季度的 PC 出货量报告，显示出货量下滑 7%-9%，但趋势正在放缓，苹果公司是最大的输家，其出货量下滑了 23%-29%。以 IDC 的报告为例：PC 出货量 6820 万，同比下跌 7.6%，其中苹果下跌 23.1%；Gartner 称出货量 6430 万台，同比下跌 9%，其中苹果下跌 24.2%。Canalys 称出货量 6560 万台，同比下跌 7%，其中苹果下跌 29.1%。分析师预测 PC 市场已经触底准备反弹了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联想准备推出运行 Android 定制操作系统的设备]]></title>
+        <id>https://www.solidot.org/story?sid=76342</id>
+        <link href="https://www.solidot.org/story?sid=76342"/>
+        <updated>2023-10-14T13:19:33.000Z</updated>
+        <summary type="html"><![CDATA[最大的 PC 制造商准备推出运行基于 Android 定制操作系统的设备。这些设备运行 Esper Foundation OS，基于 Android 11，提供季度安全补丁和三年支持。该操作系统通过与一个互补的移动设备管理平台(MDM)捆绑起来，提供单一视图的远程部署、管理和更新设备功能。首款运行 Esper Foundation 的设备将是一体机 ThinkCentre M70a，配备最高 12 代英特尔 Core i9 CPU，16GB DDR4 内存和最高 512GB SSD。年底前联想还将推出多款 Esper Foundation 设备，包括 ThinkCentre M70q、M90n-1 IoT 和 ThinkEdge SE30 v2。这些设备针对的是企业级市场，联想希望通过提供 Windows 以及 Google ChromeOS 的替代吸引企业用户。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯宾赛宣布动视正式加入微软]]></title>
+        <id>https://news.cnblogs.com/n/751921/</id>
+        <link href="https://news.cnblogs.com/n/751921/"/>
+        <updated>2023-10-14T12:11:00.000Z</updated>
+        <summary type="html"><![CDATA[经过 20 个月的拉锯，微软正式完成这桩举世瞩目的收购行动，斯宾赛代表公司正式欢迎动视-暴雪-King 加入微软大家庭： 斯宾赛赞美动视游戏用户，宣称玩家是动视游戏的根基，能邀请大家加入微软社群是我司的荣幸。对于那些拒不加入的顽固分子，他又大度地表示无论玩家热衷哪个平台，只要能带动大家一起玩，结果就
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「砍」遍全球的Temu，盯上了卖家的钱包？]]></title>
+        <id>https://news.cnblogs.com/n/751920/</id>
+        <link href="https://news.cnblogs.com/n/751920/"/>
+        <updated>2023-10-14T12:07:00.000Z</updated>
+        <summary type="html"><![CDATA[「核心提示」 曾经承诺免佣金，一旦开始收费，后续是否会有更多收费项？ 作者 陈法善 编辑 刘杨 跨境电商，正经历冰火两重天。 一方面，SHEIN、Temu、TikTok、速卖通等平台在海外攻城略地，涨势惊人。 据商务部副部长郭婷婷在发布会上透露，与疫情前 2019 年同期相比，2023 年前 8 个
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中资比特币矿场在美引发国家安全担忧]]></title>
+        <id>https://www.solidot.org/story?sid=76341</id>
+        <link href="https://www.solidot.org/story?sid=76341"/>
+        <updated>2023-10-14T12:01:08.000Z</updated>
+        <summary type="html"><![CDATA[2021 年中国禁止比特币矿场作业之后，很多中资矿场都迁移到了美国。而这些位于美国境内的比特币矿场因其位置引发了国家安全担忧。部分矿场的位置靠近关键设施，比如位于怀俄明州的美国空军核导弹基地微软数据中心。美国担心中国可能在这些地方从事间谍活动，或者破坏美国的重要基础设施。美国得州因其对加密货币挖矿有激励措施而吸引了大量中资矿场。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山姆圈中产，俞敏洪偷师]]></title>
+        <id>https://news.cnblogs.com/n/751919/</id>
+        <link href="https://news.cnblogs.com/n/751919/"/>
+        <updated>2023-10-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[出品｜虎嗅商业消费组 作者｜黄青春 题图｜视觉中国 一则雪球爆料再次将东方甄选拽到了舆论中心。 10 月 12 日，雪球用户爆料称，东方甄选于 10 月 11 日向员工开放 App 付费会员内部测试，并根据反馈内容持续迭代优化，预计本月即将全面上线。 据悉，东方甄选付费会员定价为 199 元/年，会
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter/X 被控非法解雇挑战重返办公室政策的员工]]></title>
+        <id>https://www.solidot.org/story?sid=76340</id>
+        <link href="https://www.solidot.org/story?sid=76340"/>
+        <updated>2023-10-14T11:27:06.000Z</updated>
+        <summary type="html"><![CDATA[美国国家劳资关系委员会旧金山分支周五指控马斯克（Elon Musk）的 Twitter/X 非法解雇了挑战重返办公室政策的高级软件工程师岳峣。马斯克在收购 Twitter 之后给员工发邮件，要求他们重返办公室工作，如果他们能来但没有现身办公室，就视为辞职并被接受。岳峣当时在 Twitter 发帖建议同事不要辞职，让马斯克解雇，因为辞职什么也得不到。她还在公司的 Slack 频道上发布了类似的信息。有很多同事响应了她的建议。五天后，她被以违反公司政策的理由解雇。她认为这是公司报复她组织同事不要辞职。被解雇前她在 Twitter 工作了 12 年零 3 周。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告别电影荒：日本电影观看全指南]]></title>
+        <id>https://sspai.com/post/83412</id>
+        <link href="https://sspai.com/post/83412"/>
+        <updated>2023-10-14T10:46:25.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐 
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+自诩资深影迷的我，此前看的大多是欧美影片，对日本电影的了解非常有限，看过的作品也仅限于小津安二郎、黑泽明、宫崎骏、是枝裕和等国际名导演的知名影片。
+今年开始，通过学习日语的契机，我开启了一段意料之外的日本电影之旅。1近几个月里，集中观看了上百部日本电影，大多是这二十年来的口碑佳片，以真人影片为主（相对于动画电影），剧情片和文艺片为主，也不排斥商业片和小众 cult 片。虽不算多，但应该算是有所启蒙了。
+接下来，我通过这半年的观影心得，在「看什么」和「去哪里看」这两个方面，给大家提供一些经验分享。友情提示，本文没有任何利益牵涉，所有软件都是我的个人推荐，大家安心阅读。
+如何找到好的日本电影？
+对于经常片荒的朋友，首先要解决的问题就是：如何找到好影片。
+通用的方法，比如搜索豆瓣高分片单、新片推荐，或者在 B 站或国内视频网站搜索，依靠影视博主和播客推荐，这里我不再赘述，给大家分享一些专属于日影的好方法。
+大众渠道
+最方便的方法，就是通过日本国内类似「豆瓣」的网站，自行探索影片，既能利用各种关键词（演员、导演、影片类型、播放平台等）有效检索，又能看到日本观众对电影的评分。比较好用的网站，有 Filmarks、eiga.com、moviewalker 等。
+Filmarks
+首先重点介绍一下 Filmarks。这是我最推荐、个人使用最频繁的网站。原因有如下几点：
+手机版和电脑端的 Filmarks 界面。一站推荐影片、搜索影片简介、提供收藏和评论等。
+片单全、人气高。Filmarks 片单丰富，不但有电影，也有电视剧和动画，本国和外国的…]]></summary>
+        <author>
+            <name>知道分子吴先先</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根据输入内容生成图片，谷歌开始测试「生成式搜索体验」功能]]></title>
+        <id>https://news.cnblogs.com/n/751918/</id>
+        <link href="https://news.cnblogs.com/n/751918/"/>
+        <updated>2023-10-14T04:48:00.000Z</updated>
+        <summary type="html"><![CDATA[10 月 13 日消息，谷歌本周在 Search Labs 平台中，增加了一项新的「生成式搜索体验」（Search Generative Experience）功能，主要是根据用户输入内容，从而生成对应图片。 在启用相关功能后，用户可以直接在相关搜索页面中进行测试。 例如用户输入「请画一张戴着厨师帽
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龙芯中科国内首个芯片封装基地项目在鹤壁投产]]></title>
+        <id>https://news.cnblogs.com/n/751917/</id>
+        <link href="https://news.cnblogs.com/n/751917/"/>
+        <updated>2023-10-14T04:41:00.000Z</updated>
+        <summary type="html"><![CDATA[据鹤壁日报报道，10 月 12 日下午，龙芯中科芯片封装基地项目投产仪式在鹤壁科创新城举行。龙芯中科芯片封装基地位于鹤壁科创新城百佳智造产业园，是龙芯中科在全国布局的首个芯片封装项目。 项目一期今年 4 月正式动工，建成千级洁净厂房 402 平方米、万级洁净厂房 226 平方米、恒温恒湿库房 92 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯人事任命：曾宇负责 PCG 和 IEG 技术线，何毅进兼任 PCG 信息服务线负责人]]></title>
+        <id>https://news.cnblogs.com/n/751916/</id>
+        <link href="https://news.cnblogs.com/n/751916/"/>
+        <updated>2023-10-14T04:38:00.000Z</updated>
+        <summary type="html"><![CDATA[腾讯 IEG 与 PCG 两大事业群发生人事变动。10 月 13 日，界面新闻了解到，腾讯内部发布人事任命，由腾讯副总裁曾宇兼任 IEG（互动娱乐事业群）技术负责人，同时继续负责 PCG（内容与平台事业群）技术线。 曾宇为腾讯技术老兵，公开资料显示，曾宇于 2002 年加入腾讯，先后负责腾讯研发线管
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两名晚期肝癌患者经CAR-T细胞治疗，实现无瘤生存逾7年]]></title>
+        <id>https://news.cnblogs.com/n/751915/</id>
+        <link href="https://news.cnblogs.com/n/751915/"/>
+        <updated>2023-10-14T04:33:00.000Z</updated>
+        <summary type="html"><![CDATA[摘要：相关论文发表在英文期刊《癌症通讯》上。 最近，上海交通大学医学院附属仁济医院翟博团队关于 CAR-T 细胞（嵌合抗原受体T细胞）治疗晚期肝细胞癌的随访数据研究发表在英文期刊《癌症通讯》上，为免疫细胞治疗肝癌等实体瘤提供了新的数据支持和研究策略。据介绍，这项研究采用的靶向 GPC3 蛋白的 CA
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年“双11”来了！时间表公布：天猫比京东早一天]]></title>
+        <id>https://news.cnblogs.com/n/751914/</id>
+        <link href="https://news.cnblogs.com/n/751914/"/>
+        <updated>2023-10-14T04:25:00.000Z</updated>
+        <summary type="html"><![CDATA[一年一度的"双 11"还是来了。 10 月 13 日消息，京东、天猫、苏宁都已经公布了 2023 年"双 11"时间表。天猫 10 月 22 日开始，京东、苏宁 10 月 23 日开始。 天猫今年双 11 预售期新增了抢跑玩法，将在 10 月 22 日晚 20 点预售玩法会场上线，消费人群在会场页面
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“周杰伦”被抢疯了]]></title>
+        <id>https://news.cnblogs.com/n/751913/</id>
+        <link href="https://news.cnblogs.com/n/751913/"/>
+        <updated>2023-10-14T01:34:00.000Z</updated>
+        <summary type="html"><![CDATA[沉寂了三年的演出市场终于迎来了爆发。今年以来，一个有意思的现象是，不论是 80 后、90 后，还是 00 后，仿佛任何年龄段的受众不是在看演唱会的路上，就是在抢演唱会票的路上。 据中国演出行业协会公布的《2023 上半年全国演出市场简报》显示，上半年全国大型演唱会、音乐节演出多达 506 场，观众人
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从保障车队到歌迷优惠司机奖励 滴滴多重举措助力周杰伦上海演唱会]]></title>
+        <id>https://news.cnblogs.com/n/751912/</id>
+        <link href="https://news.cnblogs.com/n/751912/"/>
+        <updated>2023-10-14T01:28:00.000Z</updated>
+        <summary type="html"><![CDATA[10 月 12 日至 15 日，周杰伦演唱会在上海体育场举办。演唱会期间，作为公共交通的补充，在主管部门和警方的指导下，滴滴组建了演唱会保障车队，每晚散场后疏散乐迷助其快速离场。滴滴演唱会保障车队的运营路线为上海体育场9/10 号门至徐家汇地铁站 （漕溪北路百脑汇附近），现场观众可在工作人员的指引下
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube 超过 Netflix 成为美国青少年主要的视频来源]]></title>
+        <id>https://news.cnblogs.com/n/751911/</id>
+        <link href="https://news.cnblogs.com/n/751911/"/>
+        <updated>2023-10-14T01:23:00.000Z</updated>
+        <summary type="html"><![CDATA[投行 Piper Sandler 的一项调查发现，美国青少年在 YouTube 上观看的视频时长超过了 Netflix。YouTube 占到了青少年每天视频消费时间总长的 29.1%，超过了 Netflix 的 28.7%。自春季以来，青少年在 YouTube 上的视频消费时间增加了一个百分点，而 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软为绘图应用加入基于 DALL-E 的文本图像生成功能]]></title>
+        <id>https://news.cnblogs.com/n/751910/</id>
+        <link href="https://news.cnblogs.com/n/751910/"/>
+        <updated>2023-10-14T01:18:00.000Z</updated>
+        <summary type="html"><![CDATA[微软本周向 Windows Insiders 测试者推送了新版的绘图应用（Paint app），其中包括了 Paint Cocreator，基于 DALL-E 的 AI 文本图像生成功能，用户可通过简短文字去描述想要生成的内容，选择不同的艺术风格，然后点击 Create。Paint Cocreato
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 将使用 Fastly 作为 OHTTP 中继]]></title>
+        <id>https://news.cnblogs.com/n/751909/</id>
+        <link href="https://news.cnblogs.com/n/751909/"/>
+        <updated>2023-10-14T01:12:00.000Z</updated>
+        <summary type="html"><![CDATA[云计算服务商 Fastly 宣布与 Mozilla 合作，Firefox 将使用 Fastly 作为 OHTTP 中继。OHTTP 代表 Oblivious HTTP，旨在加强网络连接的隐私性。传统的 HTTP 请求包含了能用于识别用户身份的元数据，比如浏览器的 User-Agent、网络信息如 A
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思科再次承认使用了硬编码密码]]></title>
+        <id>https://news.cnblogs.com/n/751908/</id>
+        <link href="https://news.cnblogs.com/n/751908/"/>
+        <updated>2023-10-14T01:08:00.000Z</updated>
+        <summary type="html"><![CDATA[思科最近披露了 Cisco Emergency Responder 的一个漏洞 CVE-2023-20101，它包含了一个 root 账号的静态用户凭证，原本是为开发保留的，但不小心留在了最终用户产品中。攻击者可以使用该账号登陆受影响系统，以 root 用户权限执行任意命令。这远非第一次思科在其产品
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学家警告 NSA 可能在削弱后量子加密算法]]></title>
+        <id>https://news.cnblogs.com/n/751907/</id>
+        <link href="https://news.cnblogs.com/n/751907/"/>
+        <updated>2023-10-14T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[伊利诺大学芝加哥分校的 Daniel Bernstein 警告 NSA 可能在削弱后量子加密算法（PQC）。他称美国国家标准技术研究院 (NIST) 有意掩盖了 NSA 在开发 PQC 新加密标准上的参与度。NIST 否认了这一指控。Bernstein 声称，NSA 正在积极的在新加密标准中加入秘密
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软宣布完成对动视暴雪的收购]]></title>
+        <id>https://www.solidot.org/story?sid=76339</id>
+        <link href="https://www.solidot.org/story?sid=76339"/>
+        <updated>2023-10-13T15:13:17.000Z</updated>
+        <summary type="html"><![CDATA[在英国监管机构批准之后，微软负责游戏业务的 CEO Phil Spencer 宣布完成对动视暴雪的收购，并发布了一则视频庆祝，其中组合了动视暴雪的游戏 IP 和微软已有的游戏 IP，包括使命召唤、魔兽世界、King 的著名手游糖果粉碎传奇，等等。Spencer 表示准备着手将动视暴雪的游戏加入到它的订阅服务 Game Pass 中。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因用户翻译的语言含有仇恨言论 Canonical 移除了 Ubuntu 23.10 镜像]]></title>
+        <id>https://www.solidot.org/story?sid=76338</id>
+        <link href="https://www.solidot.org/story?sid=76338"/>
+        <updated>2023-10-13T15:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Canonical 在刚刚释出 Ubuntu 23.10 数小时之后，就因为使用的众包翻译语言包含有仇恨言论而移除了 ISO 镜像下载。来自第三方工具的众包用户翻译进入了 Ubuntu 软件包，结果发现包含有仇恨言论。Canonical 称将在纠正问题之后重新发布镜像。根据网上截图，存在问题是乌克兰语言包，其中被发现含有反犹言论。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt 23.05.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=76337</id>
+        <link href="https://www.solidot.org/story?sid=76337"/>
+        <updated>2023-10-13T14:30:02.000Z</updated>
+        <summary type="html"><![CDATA[用于路由器等设备的发行版 OpenWrt 释出了 23.05.0，距离上一个版本 22.03.0 约一年一个月。OpenWrt 23.05.0 的新特性包括：支持逾 1790 款设备，比 22.03.0 增加了 200 多款；默认加密库从 wolfssl 切换到 mbedtls，mbedtls 体积更小，LTS 长期支持和 ABI 稳定，支持 TLS 1.3，不过用户仍然可以手动切换到 wolfssl；支持用 Rust 语言编写的程序。其它软件方面的更新：musl libc 1.2.4、glibc 2.37、gcc 12.3.0、binutils 2.40，Linux kernel 5.15.134，busybox 1.36.1，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学家警告 NSA 可能在削弱后量子加密算法]]></title>
         <id>https://www.solidot.org/story?sid=76336</id>
@@ -324,6 +594,29 @@
         <summary type="html"><![CDATA[Canonical 释出了代号为 Mantic Minotaur 的 Ubuntu 23.10。主要新特性包括：新的安装程序提供了默认安装和完整完整选项，其中默认安装只安装操作系统必要的功能和工具，而完整安装包含了办公软件和游戏等，默认安装其实就类似之前的“最小安装”。此外用户还可以选择将 ZFS 作为主文件系统，以及选择设置 Trusted Platform Module (TPM)全磁盘加密。Canonical 用 Flutter 重写了 App Center，改善了性能，Canonical 的软件中心主推其 Snap 打包的应用。其它的变化包括：GNOME 45，6.5 kernel，限制非特权用户命名空间，等等。基于 Ubuntu 的其它版本如优麒麟也同步发布了 23.10 版。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[远离喧嚣的自在，新西兰旅程片段]]></title>
+        <id>https://sspai.com/post/83411</id>
+        <link href="https://sspai.com/post/83411"/>
+        <updated>2023-10-13T05:19:59.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐 
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+去年和太太在上海解封后登记结婚，疫情以及各种原因也打乱了我们的节奏，至今都还没有办什么像样的仪式和婚礼，也是我一直觉得愧对太太的地方。好在最近趁着都有空的间隙，用上了婚假和年假，让我们终于在新西兰完成了迟到一年的蜜月之旅。
+出发前经历航班延迟取消，再订票，从虹桥赶到浦东
+新西兰本身是很容易的选择，自己 DIY 签证所需要的材料不复杂，时间也算可控，再结合机票价格等因素，很快就锁定了新西兰和澳大利亚两个国家。而太太是魔戒忠实粉丝，再结合我们对观星都非常感兴趣，于是就轻松做了选择。
+在《魔戒》取景地 Castle Hill
+疫情期间很少长途旅行，短途自驾游我们也比较随性，感觉做攻略的技能都要遗失了，为了这次两周的行程，我拿出了许久都没有的钻研精神，制定路线行程，安排食宿。最后这一切都非常值得，因为新西兰的旅游体验远超出了我们预期。而我想用这篇文章记录一些片段，作为整个旅程的收尾，锁定些许记忆与画面。
+奥克兰街拍
+景色风光
+新西兰给我们最大的感受是这里地貌，景色风光的多样性和密度都很大。可能在国内新疆，西藏也能找到相同壮美的风光，但却可能没有那么容易到达。又或者便利性、舒适性和商业配套的成熟度略有欠缺。相同景色的地方没我体验好，相同体验的地方没我便宜，和我一样便宜的地方又玩不到这么多景点和内容，新西兰主打的就是一个「均衡无短板」。
+自驾在路上
+自驾是新西兰最经典的游玩方式，而我们也恰好很喜欢自驾，自由决定时间路线，保留偶遇惊喜的可能也愿意迎接突如其来的意外。前面提到了新西兰丰富的景色，在著名的 6 号公路自驾途中，我们就经历了一侧是草…]]></summary>
+        <author>
+            <name>johnbens</name>
         </author>
     </entry>
     <entry>
@@ -9262,500 +9555,6 @@ Nelson & Narens's Model of Metacognition 
         <link href="https://www.solidot.org/story?sid=76097"/>
         <updated>2023-09-15T13:12:37.000Z</updated>
         <summary type="html"><![CDATA[Unity 公司最近宣布的基于安装量的新付费模式是如此不得人心，以至于它的员工对雇主发出了死亡威胁。新付费模式在游戏行业引发了开发者们的强烈抗议：有游戏工作室宣布将在新付费模式生效的同一天下架游戏，有游戏工作室宣布未来不会使用 Unity 引擎，还有众多工作室抵制了 Unity 的广告产品进行抗议。本周四 Unity 以收到可信死亡威胁的理由关闭了德州奥斯丁和加州旧金山的办公室。旧金山警方称，一名员工使用社交网络对雇主发出了威胁。这名员工的工作地点位于加州之外的一个办公室。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯混元大模型首批通过备案，将陆续对公众开放]]></title>
-        <id>https://news.cnblogs.com/n/750464/</id>
-        <link href="https://news.cnblogs.com/n/750464/"/>
-        <updated>2023-09-15T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[新京报贝壳财经讯（记者白金蕾） 9 月 15 日，腾讯宣布旗下的腾讯混元大模型已首批通过《生成式人工智能服务管理暂行办法》备案，将正式上线，并陆续面向公众开放。 腾讯混元大模型是由腾讯全链路自研的实用级大模型，拥有超千亿参数规模、预训练语料超 2 万亿 tokens，具备强大的中文创作能力，复杂语境
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度希壤与高通达成战略合作，打造新一代元宇宙基础设施平台]]></title>
-        <id>https://news.cnblogs.com/n/750463/</id>
-        <link href="https://news.cnblogs.com/n/750463/"/>
-        <updated>2023-09-15T12:07:00.000Z</updated>
-        <summary type="html"><![CDATA[近期，北京百度网讯科技有限公司与高通无线通信技术（中国）有限公司在北京签署非约束性战略合作谅解备忘录，将在 XR 领域展开全面战略合作。通过此次战略合作的宣布，双方期望在未来开展深度的技术、市场与生态合作，其中包括双方将在 XR 技术、生成式 AI、数字人、产业上下游协同等方面，围绕元宇宙+生态+行
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games 考虑为苹果 Vision Pro 头显提供原生虚幻引擎支持]]></title>
-        <id>https://news.cnblogs.com/n/750462/</id>
-        <link href="https://news.cnblogs.com/n/750462/"/>
-        <updated>2023-09-15T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[游戏引擎的制造商 Unity 本周宣布将对开发者收取一定比例的费用，这让许多开发者重新考虑是否要选择其主要竞争对手 Epic Games 的 Unreal Engine（虚幻引擎）。 Epic Games 也趁机作出反应，已经开始为苹果 Vision Pro 提供原生的 Unreal Engine 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫画家宣布将其《童话中人（Fables）》系列漫画捐给所有人]]></title>
-        <id>https://www.solidot.org/story?sid=76096</id>
-        <link href="https://www.solidot.org/story?sid=76096"/>
-        <updated>2023-09-15T10:54:55.000Z</updated>
-        <summary type="html"><![CDATA[知名漫画家 Bill Willingham 宣布从 9 月 15 日起其《童话中人（Fables）》系列漫画 IP 进入公有领域。原因是他对出版商 DC 漫画日益不满，但没有精力与 DC 漫画打官司，因此与其让《童话中人》落在坏人手中，不如送给所有人，至少其中一部分人会是好人。《童话中人》系列第一集发表于 2002 年，2015 年完结。故事讲述了童话寓言故事中形形色色的人物因敌人魔君（The Adversary）的入侵和征服而逃离了各自的世界，在纽约市创建了一个叫童话镇的秘密社区，漫画以该镇警长大坏狼（Bigby Wolf），副镇长白雪公主等为主角，讲述了他们如何处理童话镇中的各种麻烦和冲突。2013 年推出的游戏《The Wolf Among Us》是《童话中人》的前传。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[室内岩馆17次，这是我的记录。]]></title>
-        <id>https://sspai.com/post/82795</id>
-        <link href="https://sspai.com/post/82795"/>
-        <updated>2023-09-15T10:09:33.000Z</updated>
-        <summary type="html"><![CDATA[为什么想攀岩？
-
-好奇心的驱使，从看书、听播客得知优胜美地国家公园（Yosenmite National Park） 是著名的攀岩圣地，与法国枫丹白露（Fontainebleau）齐名。
-之前经常在家自己跟着手机APP动缺少互动性，希望能感受线下社群的氛围。
-不能只在脑子里想，先行动起来，试一试又不会损失什么。
-
-关于攀岩
-攀岩的分类
-
-抱石：是一种纯粹的岩石攀岩。它关注的是在巨石上进行一系列移动来完成相对较短距离的攀登。抱石运动长度可以很短，距离地面不超过3-4步，当距离地面较高时，长度可以长些。为了增加抱石运动的长度，攀岩者会在巨石或小岩面周围攀上爬下。
-
- 
-
-顶绳攀岩：绳索固定在岩壁顶端，往往是永久性的，攀登者将自己系在绳索一端，另一端穿过一个保护装置后由另一个人抓车。随着攀登者不断上升，第二个人要不断拉紧绳索。这样如果攀登者意外坠落，第二个人能很快拉住绳索防止坠落。当攀登者到达顶部后，他就能利用绳索返回地面。
-
-领攀：两名攀登者向时攀登。领爬者将自己系在绳索一端。另一个人带着绳索，并将它穿过保护装置。领爬者上升过程中会将绳索卡进固定间隔的固定锚点处。如果领爬者坠落，固定锚点的支撑再加上第二人通过保护装置拉紧绳索，就能有效防止坠落。理论上，领爬者坠落的距离仅仅是他与下部锚点距离的两倍。
-抱石和顶绳均有室内外场所，领攀一般是户外。
-
-我的攀岩之路
-寻找岩馆
-目前身处深圳，大大小小的岩馆通过大众点评来统计的话超过10家，其中南山区分布最多1上班南山住在宝安，我选择了一家宝安的岩馆，无论是通过地铁还是公交车都能抵达，距离我家大概1.5KM左右即便走路也能过去，减少了对该项运动的抵触感。之后通过大众点评购买周末体验套餐（当日不限时日票+30分钟教练指导入门+攀岩鞋租赁）。
-开始攀岩
-攀岩馆里有什么
-墙：我所在的岩馆目前拥有5面墙，包含平衡墙（向外倾斜5度）/5度墙/15度墙…]]></summary>
-        <author>
-            <name>Mariposas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年搞笑诺贝尔奖宣布]]></title>
-        <id>https://www.solidot.org/story?sid=76095</id>
-        <link href="https://www.solidot.org/story?sid=76095"/>
-        <updated>2023-09-15T09:57:24.000Z</updated>
-        <summary type="html"><![CDATA[2023 年度搞笑诺贝尔奖（Ig Nobel）公布了获奖名单。搞笑诺贝尔奖创建于 1991 年，是对诺贝尔奖的善意戏仿，表彰那些令人发笑但又发人深思的研究。今年化学/地质学奖授予了英国古生物学家 Jan Zalasiewicz，他解释了为什么科学家喜欢舔石头。他指出，用舌头润湿表面有助于更清晰的突出化石和矿物的纹理，这一做法可追溯到 18 世纪的采矿工程师 Giovanni Arduino。文学奖授予了 Chris Moulin 等人，他们让学生一遍又一遍的抄写同一个单词然后研究其感受。机械工程奖授予了 Faye Yap 等人，研究将死蜘蛛用作机器人抓握工具，他们将这一新兴研究领域称之为“necrobotics”。医学奖授予了 Christine Pham 等人，他们研究了死人两鼻孔中的鼻毛数是否相同，结果发现每个鼻孔的平均鼻毛数在 120-122 根之间，长度在 0.81-1.035 厘米之间。营养学奖授予了日本科学家宫下芳明和中村裕美，他们的研究发现使用通电的筷子或吸管可改变饮食的味道。这是日本连续 17 年获得搞笑诺贝尔奖。教育学奖授予了 Katy Tam 等人，他们系统性的研究了教师和学生的无聊感。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的知识管理心得]]></title>
-        <id>https://sspai.com/post/82970</id>
-        <link href="https://sspai.com/post/82970"/>
-        <updated>2023-09-15T09:20:11.000Z</updated>
-        <summary type="html"><![CDATA[伴随着国产笔记软件的崛起，在市面上涌现了越来越多的笔记软件，有的是在手机移动端使用，有的支持跨平台云同步使用，还有的支持各种各样的插件以及数不清的模版可以结合，等等等等。我想10多篇的文章都介绍不完当前这些笔记软件的各种功能，面对这些天花乱坠的笔记软件，我想还是应该从我们自身对知识管理需求的出发，不能因为各种看着功能高级的软件而去抛弃对于我们来说最为高效的管理方式，进而丢失了我们对于知识本身的思考。
-在经过一段时间对自我知识管理的分析，我决定分享一下我对自己知识管理的思考，并提供给大家一种方案来参考。
-一、我的需求分析
-在当前这个阶段中，我将自己与知识的交互划分为以下几类：
-我的需求示意图
-①技术知识管理
-由于是计算机专业，在日常中需要大量接触互联网中的论坛、博客信息。看到浏览器都快盛不下的标签们，对于一些优秀的博客、技术文档中的一些关键信息等需要统一整理到一个地方去。这点对于在日常的项目中，显得尤为重要。
-②学术管理
-目前还在研究生阶段，面对在学术搜索中产生的学术资料轰炸，尤其需要对感兴趣的论文资料进行一个统一管理。并需要在论文阅读过程中对需要精读论文进行一个细致的阅读和整理。并需要根据阅读论文后，将自己通过阅读的内容与自我思考结合在一起，这点对于细致自己的思考尤为重要。
-③生活管理
-在日常生活中难免要接触各种杂七杂八的信息。按照类别，可以分为人际交往、美食、社会资讯、穿搭、商品等和自身生活有关的内容。对于生活管理中的内容，我自认为不用太过整齐，本身工作和学习已经很累了，对自己的生活还是允许些杂乱吧。
-④规划管理
-这往往是对自己中长期想做的事情进行一个细致的规划。可以是今年计划完成的事项，未来的长期计划，理财规划管理，旅行计划等。
-二、知识管理的自我思考
-在对自我的需求划分明确化后，然后就需要如何来实现这些需求。从这个角度出发，首先是主力设备的选择以及管理的原则。
-主力设…]]></summary>
-        <author>
-            <name>时间进行的小宇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5年投入超10亿，SHEIN持续赋能供应商、设计师等社区]]></title>
-        <id>https://news.cnblogs.com/n/750461/</id>
-        <link href="https://news.cnblogs.com/n/750461/"/>
-        <updated>2023-09-15T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[动点科技获悉，SHEIN 宣布将在 5 年内投入超 10 亿元（约 1.55 亿美元）持续推进其可持续发展战略“evoluSHEIN”中的支柱项目“平等赋能”（Equitable Empowerment），用于支持包括设计师、供应商、女性与青年群体、弱势人群等在内的全球各社区发展。 据了解，“evo
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿联酋全部商户 POS 终端支持银联手机闪付]]></title>
-        <id>https://news.cnblogs.com/n/750460/</id>
-        <link href="https://news.cnblogs.com/n/750460/"/>
-        <updated>2023-09-15T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[银联国际宣布，与阿联酋主流金融机构 RAK 银行合作，开通后者旗下所有商家支持银联闪付。至此，阿联酋成为中东首个全部商户 POS 终端支持银联闪付的国家，这意味着消费者可在当地便捷使用银联卡“闪付”功能和银联手机闪付。 在阿联酋，所有 ATM 和商家 POS 终端已都可用银联卡。在此基础上，顺应当地
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity收安装费，休闲大厂Miniclip高管算了笔账，超休闲真的要死了？]]></title>
-        <id>https://news.cnblogs.com/n/750459/</id>
-        <link href="https://news.cnblogs.com/n/750459/"/>
-        <updated>2023-09-15T08:34:00.000Z</updated>
-        <summary type="html"><![CDATA[GameLook 报道/如果你是身处游戏行业的从业者，那你绝对不会错过行业近期的大新闻：Unity 宣布，该公司将于 2024 年开始，按照游戏安装量向使用 Unity 引擎的游戏开发商收费，每次安装最高可收取 0.2 美元。 作为全球游戏业应用最为广泛的游戏引擎，Unity 的这一新政对全球游戏开
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诺奖得主称使用 ChatGPT 自己智力提高 50%]]></title>
-        <id>https://news.cnblogs.com/n/750458/</id>
-        <link href="https://news.cnblogs.com/n/750458/"/>
-        <updated>2023-09-15T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[日前，2013 年诺贝尔化学奖得主、美国国家科学院院士迈克尔·莱维特在上海出席 2023ESG 全球领导者大会时表示：使用 ChatGPT 之后，自己的智力提高了 50%。 他认为，ChatGPT 不仅仅是一个搜索模型，它是一个语言模型，它是一个智慧，可以训练它拥有 2500 种的讲话方式。 迈克尔
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12306 回应假期车票秒光]]></title>
-        <id>https://news.cnblogs.com/n/750457/</id>
-        <link href="https://news.cnblogs.com/n/750457/"/>
-        <updated>2023-09-15T08:22:00.000Z</updated>
-        <summary type="html"><![CDATA[据中国国家铁路集团有限公司消息，今年铁路中秋国庆黄金周运输自 9 月 27 日开始，至 10 月 8 日结束，为期 12 天，全国铁路预计发送旅客 1.9 亿人次。 昨日，中秋假期临近，不少网友提前加入抢票大军，开始抢购 9 月 28 日的火车票。 抢购过程中，有网友吐槽系统显示余票充足，但是仍需排
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称特斯拉中国暂定明年第一季度发布 FSD]]></title>
-        <id>https://news.cnblogs.com/n/750456/</id>
-        <link href="https://news.cnblogs.com/n/750456/"/>
-        <updated>2023-09-15T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[据 X 用户@Chris Zheng 爆料，特斯拉中国取得重大进展，暂定将于明年第一季度发布 FSD。从时间来看，将发布的是 FSD V12。 近日，马斯克在 All-In Podcast 2023 峰会上提到 FSD 测试版时表示，它非常接近「在不受监管的情况下，比人类司机更安全」这一目标。 也就
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客从 CoinEX 窃取了 5300 万美元加密货币]]></title>
-        <id>https://www.solidot.org/story?sid=76094</id>
-        <link href="https://www.solidot.org/story?sid=76094"/>
-        <updated>2023-09-15T08:14:04.000Z</updated>
-        <summary type="html"><![CDATA[加密货币交易所 CoinEX 的热钱包遭到入侵，被盗走了价值 5300 万美元的加密货币。区块链安全公司 PeckShield 称，入侵发生在 9 月 12 日，黑客盗走了价值 1900 万美元的以太坊，1100 万美元的波场币，640 万美元的 Smart Chain Coin ($BSC)、600 万美元的比特币(BTC)，以及大约 295,000 美元的 Polygon ($MATIC)。被盗总损失 4300 万美元。但 CertiK Alert 将 CoinEx 损失估计提高到了 5300 万美元。CoinEx 表示所有受损的客户都会获得全额赔偿，在所有安全风险都消除前它暂停了充值和提现服务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[买辆车，你就清楚我是什么人了？]]></title>
-        <id>https://news.cnblogs.com/n/750455/</id>
-        <link href="https://news.cnblogs.com/n/750455/"/>
-        <updated>2023-09-15T08:11:00.000Z</updated>
-        <summary type="html"><![CDATA[你站在路边，看到一辆鲜亮的跑车呼啸而过，你可能会脑补出这样的车主形象 —— 一位成功的商业精英，或是一个血气方刚的年轻人。 类似的，当你走进一位亲朋好友的车库，发现他开着一辆六座 SUV，你可能也会不自觉地认为他是一为更注重家庭和实用性的好爸爸。 ▲图片来自：理想汽车 不少人都会根据车型来判断车主的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果已开始销售USB-C接头有线耳机 价格同此前版本一样]]></title>
-        <id>https://news.cnblogs.com/n/750454/</id>
-        <link href="https://news.cnblogs.com/n/750454/"/>
-        <updated>2023-09-15T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[9 月 15 日消息，据外媒报道，如此前分析师和研究机构所预期的一样，苹果公司在 9 月 13 日凌晨推出的 iPhone 15 系列智能手机，全系采用 USB-C 接口，不再是闪电接口，iPhone 也提前满足了欧盟在充电接口方面的规定。 iPhone 15 转向 USB-C 接口，也就意味着相关
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X年内扭亏无望：品牌方已将假日购物季预算转投其他平台]]></title>
-        <id>https://news.cnblogs.com/n/750453/</id>
-        <link href="https://news.cnblogs.com/n/750453/"/>
-        <updated>2023-09-15T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[9 月 15 日消息，对于社交媒体平台来说，一年一度的美国假日购物季历来是广告收入最多的时期。但曾经习惯在社交媒体平台推特上打广告的品牌们纷纷表示，他们计划将今年假日购物季期间的广告费用投到其他平台，从推特更名而来的X平台不太可能在假日购物季前赢回广告商的青睐。 埃隆·马斯克(Elon Musk)选
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话苹果软件工程高级副总裁 Craig Federighi：最好的安全就像安全气囊]]></title>
-        <id>https://news.cnblogs.com/n/750452/</id>
-        <link href="https://news.cnblogs.com/n/750452/"/>
-        <updated>2023-09-15T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[为了提升服务质量，本次通话将会被录音。 每一个拨打过企业客服的人，想必对于这句话都耳熟能详。但「如果不同意录音，请按 1 。」这句，你只会从苹果客服电话中听到。 在 iOS 17 琳琅满目的一众新功能里，隐私的升级似乎是最不起眼的那个，但在苹果内部，它是被奉为圭臬不可撼动的信条。 在今年秋季发布会结
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为Mate60 Pro评测：王者归来 高性能与创新设计的完美结合]]></title>
-        <id>https://news.cnblogs.com/n/750451/</id>
-        <link href="https://news.cnblogs.com/n/750451/"/>
-        <updated>2023-09-15T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[自华为 Mate60 系列突然上市以来，关于全新的华为 Mate60 系列的相关报道几乎每天都充斥着大家眼前的屏幕，仿佛在无声地宣告着：“王者归来”！ 在智能手机市场上，华为一直以来都是备受瞩目的品牌之一，旗下的 Mate 系列始终以领先科技提升用户体验，不断探索科技创新的新高度，大屏幕、长续航、麒
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 15 Pro 是第一款支持开源智能家居协议 Thread 的智能手机]]></title>
-        <id>https://www.solidot.org/story?sid=76093</id>
-        <link href="https://www.solidot.org/story?sid=76093"/>
-        <updated>2023-09-15T06:58:39.000Z</updated>
-        <summary type="html"><![CDATA[苹果本周宣布的 iPhone 15 Pro 是第一款支持开源智能家居协议 Thread 的智能手机。Thread 是设计用于物联网产品的基于 IPv6 的低功耗网状网络技术。维护推广该协议的 Thread Group 联盟于 2014 年成立，其成员包括 Arm、Google 子公司 Nest Labs、三星、高通、NXP 等。苹果在 2018 年加入该联盟，并在 2020 年推出了首款 Thread 产品 HomePod Mini。支持 Thread 协议意味着 iPhone 15 Pro 可以直接与 Thread 设备通信。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity 在死亡威胁之后关闭办事处]]></title>
-        <id>https://www.solidot.org/story?sid=76092</id>
-        <link href="https://www.solidot.org/story?sid=76092"/>
-        <updated>2023-09-15T06:29:53.000Z</updated>
-        <summary type="html"><![CDATA[因收到死亡威胁，Unity 周四取消了计划中的员工会议（town hall），关闭了两个办事处。游戏引擎开发商 Unity 本周在游戏行业引发了激烈争议，该公司宣布从 2024 年 1 月 1 日起施行基于安装量的收费模式，游戏每安装一次收取最多 0.2 美元。Unity 引擎被广泛用于手游和独立游戏开发。对免费手游而言，这可能意味着开发商基本赚不到钱了。而且这种模式显然容易滥用，勒索组织可以使用僵尸网络对目标游戏进行大规模的安装卸载，向受害者勒索金钱。Unity 的做法引发了批评，部分知名游戏工作室已经发表声明将在 2024 年 1 月 1 日下架其游戏。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[晚睡晚起或增加糖尿病风险]]></title>
-        <id>https://www.solidot.org/story?sid=76091</id>
-        <link href="https://www.solidot.org/story?sid=76091"/>
-        <updated>2023-09-15T06:02:23.000Z</updated>
-        <summary type="html"><![CDATA[一项新发现显示：与那些拥有早起习惯的人相比，晚睡晚起的人患糖尿病风险增加了 19%。此前研究发现，睡眠时间更不规律的人患糖尿病和心血管疾病的风险更高，而晚睡晚起的人更可能有不规律的睡眠模式。研究团队分析了 2009—2017 年间从护士健康研究 Ⅱ 中收集的 63676 名女护士的数据，其中包括自我报告的睡眠类型、饮食质量、体重和体重指数（BMI）、睡眠时间、吸烟行为、饮酒、体力活动和糖尿病家族史。研究小组根据参与者的自我报告和医疗记录确定了她们的健康状况。在考虑了种种生活方式因素后，研究发现，晚睡晚起与糖尿病风险增加 19% 相关。此外，生活方式最健康的人中，只有 6% 的人属于晚睡晚起型。在那些生活方式最不健康的人中，25% 是晚睡晚起型。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromebook 将获得十年的更新支持]]></title>
-        <id>https://www.solidot.org/story?sid=76090</id>
-        <link href="https://www.solidot.org/story?sid=76090"/>
-        <updated>2023-09-15T05:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Google 正着手解决学校对其 Chromebook 寿命太短的抱怨，宣布将为 Chromebook 通过长达十年的软件更新支持。新政策将于明年生效。从 2024 年开始，如果 Chromebook 是在 2021 年之后发布的，那么它将自动获得十年的更新；如果 Chromebook 是在 2021 年前发布的，并且正在使用中，那么用户和 IT 管理者将会拥有选项延长十年自动更新。Google 称即使 Chromebook 不再收到自动更新，它们仍然是可以继续使用的。但在现实中，部分教育软件在自动更新结束之后会停止工作。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国指 Google 通过搜索默认交易巩固其垄断地位]]></title>
-        <id>https://www.solidot.org/story?sid=76089</id>
-        <link href="https://www.solidot.org/story?sid=76089"/>
-        <updated>2023-09-15T05:39:28.000Z</updated>
-        <summary type="html"><![CDATA[备受瞩目的 Google 反垄断诉讼案本周开庭。美国司法部指控该公司非法维持其搜索业务的垄断地位。其一是与智能手机制造商和浏览器开发商达成的默认搜索交易。Google 每年向 AT&T 等移动运营商、苹果等设备制造商和 Mozilla 等浏览器开发商支付 100 亿美元维持其默认搜索位置，抵御竞争对手确保市场份额接近九成。证据显示 Google 早在 2000 年代中期就寻求通过获得移动设备的默认搜索位置而吸引大量搜索查询。绝大部分用户是不会修改默认搜索的。其二是 Google 深知其行为受到密切留意，因此鼓励员工不要留下永久性记录。该公司有一项名为 Communicate with Care 的政策，建议 Google 员工在聊天应用中谈论敏感对话时关闭历史记录，也就是记录会在 24 小时后删除。Google 高管早在 2003 年就表示要对反垄断保持敏感。该公司的敏感术语包括市场份额，Google 高管要求用查询份额替代。其它敏感主题包括：避免讨论“规模”和“网络效应”，“锁死”或“锁定”用户/合作伙伴，“捆绑”产品等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活的平衡]]></title>
-        <id>https://sspai.com/post/82961</id>
-        <link href="https://sspai.com/post/82961"/>
-        <updated>2023-09-15T02:23:50.000Z</updated>
-        <summary type="html"><![CDATA[不知不觉，独居生活已经是第三年了。可能在旁人看来，我自己的这三年蛮平稳的，不过从我自己的视角上，可以说非常跌宕起伏。
-记得刚刚开始工作，既兴奋又安心，可能是因为当时刚刚从求职的泥潭里爬上来。不过，这种开心没有持续多久，下面的问题就接踵而来。我需要打理好自己的财务问题，虽然说家里可以支持，但工作之后如果继续张口向家里要钱，其实挺不好意思的；班级的同龄人环境没了，我需要主动寻找和建立自己的社交圈子；需要自己做家务、做饭，安排自己每一天的日常；需要处理房租、保险、办理各种手续；需要学习、阅读，处理自己的心理问题；旅行和一些想做的事需要做远期规划，不然根本无法实现；需要尽可能在专业上谋求发展……
-当然了，这些事情本身并不一定是痛苦的，其中有一些相当令人兴奋。但是要把所有这些东西协调好很不容易。我发现我经常在一段时间里，把许多时间和精力放在一个方面上，顾不上去做其他的事情。有的时候，这会让我的心理状态失衡；有的时候，如果误掉某些deadline，这种状态真的会造成一些实质性的严重后果。
-所以我想，生活大概就是这样吧，像走平衡木一样，需要把握好重心。或者说像打羽毛球一样，可能要跑到场地边缘接球，但如果想接到下一个，最好先回到场地中央。下面我想聊聊自己生活里发现的一些平衡，权且作为对自己的一次观察和记录。
-家务和其他
-这里所说的家务，不仅指洗衣服擦地，也指各种维持日常生活所必需的活动，比如购物、查缴水电费等等。对我来说，显然还没有富裕到可以随意请人来替我打理的程度。而且即使我可以，一个陌生人来随便动我的东西，恐怕我心理上也接受不了，所以这样的事必须要自己面对了。
-其实原本这可能不算一个平衡，毕竟谁不希望做家务的时间越少越好呢。但是慢慢地我发现，投入适当的时间多做一些事，能极大地提高生活质量。最明显的莫过于做饭，因为我自己还在减肥，所以饮食结构非常重要。最近重新开始做饭，相比吃外卖的日子，…]]></summary>
-        <author>
-            <name>Sylvan_Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管理朋友关系，应该也需要好用的人际关系 app]]></title>
-        <id>https://sspai.com/post/82927</id>
-        <link href="https://sspai.com/post/82927"/>
-        <updated>2023-09-15T02:11:50.000Z</updated>
-        <summary type="html"><![CDATA[起源
-以前，经常有朋友给我说一个事情，让我记着。但是，当到结果眼时，我经常就忘记了，搞的十分刚发。或者，有时候某些说过某些固执的言语，但是又过段时间说相反的话，或者干出与但是言语不同的事。
-所以，我就想做个能记录朋友间事情和承诺的工具，让一些事情能进行提醒，且能对性格、言语和承诺有据可查。
-但是，在设计这个工具时候，我发现，其实我们更缺的是一个类似 CRM 的朋友管理工具。
-因为，我逐渐发现，我们在日常使用 app 记录很多内容时，其实都是以某个人维度的。比如，记录日记、设置待办、记账、纪念日等，其实都是和某个人息息相关。甚至，80% 的记录都是和人有关的。
-那么，我们也应该需要一个从人的角度来记录的工具。也就是从朋友维度，记录一些内容。
-在则，如何和所有朋友保持良好的关系？我们除了真诚待人，也需要合理的方法来维护朋友的关系。既然有方法，那么也可以有一款称手的工具。
-特别是，我们情商低一些，粗心一些，口笨一些，我们更需要这样一款工具来帮助自己。
-两者一结合，我觉得我们需要的就是一款类似 CRM(客户关系管理系统)的工具。能将我们的朋友资料，交友过程管理起来，给出恰当的提醒和智能的建议。
-所以，我就准备开发「我是鱼」这样一款个人使用的朋友关系管理工具。类似 CRM 一样，「我是鱼」就是FRM（Friends Relationship Management）。
-目标
-我在app设计上，「我是鱼」主要是帮助大家和朋友维护一个良好关系。所以，定了这样一些产品的目标：
-1.可以记录朋友的基础信息（当然不限于朋友，亲朋好友）。比如：爱好、口味等等。
-2.可以记录与朋友间的往来或者事情。比如，一些重要的话、重要的事、见面的来往、金钱的       往来等等。
-    是要将这些内容，结构化的分门别类记录。而不仅仅是个备忘录。
-3.能够通过标签、分类等，对朋友和圈子进行划分。
-4.能够在与…]]></summary>
-        <author>
-            <name>李雨</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时间不重要，重要的是你的精力]]></title>
-        <id>https://sspai.com/post/82856</id>
-        <link href="https://sspai.com/post/82856"/>
-        <updated>2023-09-15T01:54:05.000Z</updated>
-        <summary type="html"><![CDATA[在先前的文章（《一个人也可以是「大厂」：三年程序员的生活规划心路分享》、《
-为了重拾对生活的「掌控感」，我做了一款 iOS 应用》）中，笔者分享了我的生活规划整体思路，以及任务和目标应该怎么设置。但不免感觉需要关注的点太多了，对于想要改变现状的朋友上手较为复杂。
-回顾我过去的工作生活，如果选择最重要的一个观点，那就是“要管理你的精力，而非时间”。
-为什么这么说？
-我们能从自己过去的生活中轻松找到各种各样的支撑案例：游泳只需要不到半个小时，就足够让你饿得腿软。初高中一节课45分钟，大部分时间都是左耳进而右耳出，只有少数的时间在专注地吸收。坐在桌前能磨磨蹭蹭数小时，但全神贯注干活之后发现半小时已经够完成大半了。
-如果你有很多时间却只有一点精力，就仿佛之前被工作掏空的我，周末磨磨蹭蹭或许能做一点点事情，但大多时候也只能休息和放松。如果只有一点时间却有很多精力，全神贯注下高强度冲刺反而能达到不错的效果。
-因此在笔者眼中，精力就好比小说中武林高手的内力，大部分时候抠搜地使用，要用时集中一点全力出手。
-
- 
-本文围绕精力管理，分为如下几个部分：
-
-精力是什么
-怎么增加我的精力
-怎么节省我的精力
-一套今天就能开始的精力修炼秘籍
-《生活规划》助你修炼
-
-精力是什么
-精力一般是体力和精神力合称，但是现代生活中我们主要从事的是脑力劳动，消耗和使用的是精神力，因此后文的精力没有特别说明的话，一般指的都是精神力。
-《精力管理》一书中将精力拆分成了体能、情感、思维、意志四个维度，个人感觉属于高阶玩法，对于大部分人来说，统一看作是练武的内力进行管理就已经足够了。
-现在回想我们的一天，刚起床的时候大脑迷迷糊糊，进入工作状态后精神抖擞，下班后感觉被榨干只想葛优躺。反复对比这三个状态，你大概就能感知到自己的精力了。
-影响精力因素有很多，有自然周期的影响，例如女生的大姨妈或者男生的精神大姨妈。也有饮食、情绪、…]]></summary>
-        <author>
-            <name>Ankisan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里新CEO“吴妈”，那个马云最信任的人]]></title>
-        <id>https://news.cnblogs.com/n/750401/</id>
-        <link href="https://news.cnblogs.com/n/750401/"/>
-        <updated>2023-09-15T00:46:57.000Z</updated>
-        <summary type="html"><![CDATA[题图｜阿里巴巴，图中左一为“吴妈”吴泳铭 出品｜虎嗅商业消费组 作者｜苗正卿 当 9 月 12 日下午，阿里巴巴集团（下称“阿里”）CEO 吴泳铭出现在“5 年陈”员工的授戒仪式上时，很多阿里员工第一次面对面见到这位花名“东邪”、昵称“吴妈”的阿里十八罗汉。 这是一场巧妙的见面。在 9 月 10 日
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 裁减招聘职位]]></title>
-        <id>https://news.cnblogs.com/n/750400/</id>
-        <link href="https://news.cnblogs.com/n/750400/"/>
-        <updated>2023-09-15T00:34:24.000Z</updated>
-        <summary type="html"><![CDATA[在 1 月大规模裁员 1.2 万人，接着子公司 Waymo 和 Waze 先后裁员之后，Google 又再次裁员，这次是针对招聘部门。 Goolge 将在全球招聘部门裁员数百人。Google 负责招聘的副总裁 Brian Ong 告诉员工，未来几个季度需要招募的人数减少，因此减少招聘人员。Googl
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“夜猫子”比“早起鸟”更易患糖尿病]]></title>
-        <id>https://news.cnblogs.com/n/750399/</id>
-        <link href="https://news.cnblogs.com/n/750399/"/>
-        <updated>2023-09-15T00:30:14.000Z</updated>
-        <summary type="html"><![CDATA[图片来源：美国杜克大学官网 科技日报北京 9 月 14 日电 （记者张佳欣）美国布列根和妇女医院研究人员的一项新发现显示：与那些拥有早起习惯的人相比，晚睡晚起的人患糖尿病风险增加了 19%。相关研究发表在新一期《内科医学年鉴》上。 睡眠类型或昼夜节律偏好，指的是一个人偏好的睡觉和醒来时间。有的人是“
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄仁勋管理万亿英伟达的疯狂方法：没有计划、没有汇报、没有层级]]></title>
-        <id>https://news.cnblogs.com/n/750398/</id>
-        <link href="https://news.cnblogs.com/n/750398/"/>
-        <updated>2023-09-15T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[丰色发自凹非寺 量子位公众号 QbitAI 今年最为风头无两的半导体公司，无疑是市值已超 1 万亿的英伟达。 让人没想到的是，老黄居然有着特别、甚至说是近乎疯狂的管理方式： 没有计划、没有汇报、没有明确层级。 曝光称： 直接管理 40 名下属，信奉扁平化就是力量； 等人汇报就晚了，要对公司这个系统做
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年内最大IPO来了！Arm上市首日大涨近25%，市值超650亿美元]]></title>
-        <id>https://news.cnblogs.com/n/750397/</id>
-        <link href="https://news.cnblogs.com/n/750397/"/>
-        <updated>2023-09-15T00:05:00.000Z</updated>
-        <summary type="html"><![CDATA[今年以来全球最大规模 IPO 来了！ 当地时间 9 月 14 日， Arm 控股有限公司（“Arm”）正式在纳斯达克全球精选市场（Nasdaq Global Select Market）挂牌交易。Arm 股票代码为“ARM”，发行价定为每股 51.00 美元；开盘上涨 10%，报 56.10 美元；
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 271 期）：非线性的世界，线性的你]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html"/>
-        <updated>2023-09-15T00:04:11.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-五菱汽车有一款概念车型，将"宏光 mini EV"改成了六轮的小货车，配备一个非常迷你的车斗。虽然不一定实用，但是看上去相当可爱，可惜只有样车，不确实是否投产。（via）
-非线性的世界，线性的你
-纳瓦尔（Naval Ravikant）是一位美国风险投资家，写过一组系列文章《如何致富》（How to get rich），非常出名。
-
-他的文章后来结集出版，成了畅销书。国内引进了，中文书名叫做《纳瓦尔宝典：财富与幸福指南》，在豆瓣被列为"2022年度商业经管图书第一名"。
-
-周刊摘录过他的很多言论，很有启发。我把它们放在一起，大家再看看。
-既懂得制造，又懂得销售，你就是无敌的。(第 94 期)
-小心，尝到自由的滋味，可能会让你失业。（第 105 期）
-致富关键是找到"个人-市场-产品"这三者交叉的那个点。（第 107 期）
-做你喜欢的事，直到你喜欢去做。（第 184 期）
-如果你有原创性，就可以避开竞争。基本上，如果你与别人发生竞争，那是因为你们在做同样的事情。（第 258 期）
-今天我想分享，他去年的一个访谈，与美国最红的播客主持人 Joe Rogan 对谈。
-
-他说了一段话，发人深思。
-"新人企业家的常见错误，就是认为结果是可预测的。如果我长期努力工作，就应该会得到某种成果。"
-"实际上，你的成果是不可预测的。你工作多么努力并不重要，重要的是你在做什么、与谁一起工作、以及在哪里工作。 "
-他的意思是，很多人有一个思维误区：他们认为"努力"与"成果"是正比例关系，工作越努力，越可能获得好成果。
-实际上根本不是这样，努力与成果之间，没有必然关系。
-"你每天都会看到，那些赚最多钱的人，工作时间根本不长…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA设立不明非正常现象研究主管 强调“外星人来过”的概率很低]]></title>
-        <id>https://news.cnblogs.com/n/750396/</id>
-        <link href="https://news.cnblogs.com/n/750396/"/>
-        <updated>2023-09-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[财联社 9 月 15 日讯（编辑史正丞）美国国家航天航空局（NASA）周四宣布，根据独立研究小组的推荐，将设立不明非正常现象（UAP）研究主管，以更好地研究那些无法从科学角度解释的观测结果。 （来源：NASA） UAP 的全称叫做 Unidentified Anomalous Phenomena，而
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勒索组织 Scattered Spider 利用社交工程攻击了米高梅]]></title>
-        <id>https://www.solidot.org/story?sid=76088</id>
-        <link href="https://www.solidot.org/story?sid=76088"/>
-        <updated>2023-09-14T15:45:07.000Z</updated>
-        <summary type="html"><![CDATA[勒索组织 Scattered Spider 利用社交工程方法攻击了米高梅等西方公司，此举旨在勒索赎金。攻击者首先从社交网络如职业社交网站 LinkedIn 查找目标公司的员工，然后用英语冒充他们致电技术支持部门（Help Desk），索要访问网络所需的密码或凭证。该组织的黑客声称获取初始访问权限仅仅花了 10 分钟。经营赌场和酒店的米高梅集团本周遭到网络攻击，导致服务大规模瘫痪，到本周三仍然没有完全恢复。Google 子公司 Mandiant 的 CTO Charles Carmakal 推测该组织的成员在英国或欧洲。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meduza 联合创始人的 iPhone 手机感染了间谍软件 Pegasus]]></title>
-        <id>https://www.solidot.org/story?sid=76087</id>
-        <link href="https://www.solidot.org/story?sid=76087"/>
-        <updated>2023-09-14T15:20:21.000Z</updated>
-        <summary type="html"><![CDATA[总部位于拉脱维亚、已被俄罗斯屏蔽的俄语独立媒体 Meduza 披露，它的联合创始人 Galina Timchenko 的 iPhone 手机感染了以色列公司 NSO Group 的间谍软件 Pegasus。Meduza 的 IT 主管在 6 月 23 日打电话给 Timchenko 叫她立即回办公室。一天前她将从苹果公司收到的一条警告消息转发给了 IT 部门。这条消息称她的手机遭到了国家支持黑客的攻击。她创办的新闻媒体一直遭到俄罗斯的攻击，对于此类警告她日益熟悉。IT 部门寻求 Access Now 和公民实验室的专家帮助调查此次攻击。安全研究人员的快速评估得出了一个结论：手机感染了 Pegasus，时间是在 2023 年 2 月 10 日。此后攻击者掌握了她的几乎所有信息。Timchenko 是第一位被确认感染 Pegasus 的俄罗斯记者。Access Now 推测可能是哈萨克斯坦或阿塞拜疆应俄罗斯要求执行了此次攻击。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国以辐射超标暂停 iPhone 12 销售]]></title>
-        <id>https://www.solidot.org/story?sid=76086</id>
-        <link href="https://www.solidot.org/story?sid=76086"/>
-        <updated>2023-09-14T14:57:22.000Z</updated>
-        <summary type="html"><![CDATA[由于辐射水平高于可接受阈值，法国命令苹果暂停销售 iPhone 12。管理无线电频率的法国监管机构国家频谱管理局（ANFR）建议苹果公司，如果它无法通过软件更新解决问题，那么就必须召回在法国销售的全部 iPhone 12 手机。苹果需要在两周内做出回应。苹果已经告诉媒体，它对 ANFR 的评估持不同意见，它已经向 ANFR 递交了自己以及第三方的结果，显示 iPhone 12 符合规定。ANFR 称它在随机抽样测试中发现两部 iPhone 12 不符合欧盟标准。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
