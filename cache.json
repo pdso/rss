@@ -24,16 +24,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 273 期）：任正非的三篇最新谈话",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 十一假期，周刊休息，节后再见。）\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n哥伦比亚最著名的艺术家费尔南多·博特罗 （Fernando Botero）本月去世，享年91岁。他喜欢创作胖乎乎的、有滑稽感的人物和动物，上图是他的雕塑《猫》。2016年，他来中国开作品展，我还去看了。（via）\nUnity 的安装费，游戏业的缩影\nUnity 是一个顶级的游戏引擎，很多著名的手机游戏和网页游戏都用它开发，比如《王者荣耀》和《原神》。\n\n它的官网这样说：\"排名前1000名的手机游戏开发商，70%选择了 Unity\"。\n\n它按月收费，只要游戏的年收入超过20万美元，就要向它付费，游戏收入越高，费用越多。\n9月12日，它突然宣布，改变收费政策。从明年元旦开始，除了原有费用，还增加了一笔安装费。\n\n游戏年收入超过20万美元，并且用户安装超过20万次以后，每次新的安装都要向 Unity 付费0.20美元。\n简单计算一下，这会让游戏公司增加多少支出。如果一个游戏每年有100万次下载，那么扣除前20万次，剩下的要向 Unity 支付16万美元的安装费。要是游戏年收入为30万美元，就等于超过一半的收入没了。\n这项费用对于小型游戏公司，打击尤其严重。因为它们往往采用免费游戏和云游戏模式，依靠广告为生。根据一项统计，游戏里面的每次广告展示，平均收入为0.02美元，如果想要覆盖0.2美元的安装费，就意味着，每一位玩家都必须多看至少10次广告。\n难怪 Unity 的收费公告一发布，开发者顿时群情激愤，纷纷谴责 Unity 太过份，杀鸡取卵，大家开始研究怎么从 Unity 迁移到其他引擎。\n\n我看到的评论里面，只有一篇文章为 Unity 说话（下图），认为它也…",
-          "link": "http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html",
-          "publishedOn": "2023-09-22T00:07:00.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影",
-          "imageUrl": null
         }
       ]
     },
@@ -437,26 +427,6 @@
           "wordCount": 609,
           "title": "个人知识管理",
           "imageUrl": "https://cdn.sspai.com/2023/09/23/b69f52d0cef9409140c6bce14f819d73.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83145",
-          "author": "ooops真糟糕",
-          "description": "初见这令人窒息的白\n9月16日，我前往深圳找朋友玩。在某遥遥领先的门店里面，我的朋友正在查看店内新款，而我的iPhone 13 Pro屏幕突然出现了1-2秒的闪烁，进而陷入了一片白色。\n视频截图-我朋友见状立刻进行了拍摄\n我以为只是我的设备在当前场合出现了过敏的情况，熟练地（？）进行了一次强行重启：音量上、音量下，长按侧边按键。iPhone也听话地熄灭，但亮起时，迎接我的并不是熟悉的黑底白色Apple Logo，而是同样的那片令人绝望的白色。\n我心想，不好，恐怕是硬件出了问题。\n慌张吗？算不上，更主要的是扑面而来的一阵心烦。现如今，即便是有足量的现金，没有智慧型行动电话，在城市生活中依旧算不上方便。\n抱着「一定约不上」的心态，借用朋友的手机，打开了Apple支持的网页版打算做个一个直营店的预约。此时，苹果要求我做双重验证——可以是发送弹窗验证码，也可以是发送短信——好周到，然而目前我一个都看不到，因为等待我的是一片刺眼且火热的白（刺眼：指亮度爆炸高但没有显示任何内容；火热：指机身在这样的情况下烫得不行）。最终，我是借用了朋友的Apple ID登陆，后惊讶地发现居然还能预约到Apple深圳万象城下午4:50的维修，立即轻轻点击。\n\n在午饭前也拨打了400电话，在让我选择音乐类型的时候选择了让它闭嘴，结果开着免提的手机安静得不像话，连针掉在地上都能听见——是的，经过漫长等待之后仍旧无法接通客服。\n前往门店\n提前两个多小时到达了门店。尽管iPhone 15系列还未有展示机，但这家Apple Store内的人仍是络绎不绝。我给门口的小哥大概说了一下：我提早到了，预约的设备不是出问题的设备，时间还没到，我先进去晃荡一下。说完就往里冲，他“哎哎哎”地叫住我，给我重新安排了一个号，但也告诉我因为暂无天才可用，让我在“这一列的那张桌子找个地方坐一下”。\n很幸运，没等多久，一位手脚麻利、雷厉…",
-          "link": "https://sspai.com/post/83145",
-          "publishedOn": "2023-09-22T08:52:04.000Z",
-          "wordCount": 624,
-          "title": "iPhone 13 Pro白屏之后的一周",
-          "imageUrl": "https://cdn.sspai.com/2023/09/25/a9c75b082d6f811a3f43a4ee27c8ec92.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83134",
-          "author": "PostMeridy",
-          "description": "虽然 2023 年还没过完，但我觉得今年内最满意的两次闲鱼购物已经可以确定下来了——其一是四月末只花了 2500 块钱成功捡漏的 Pixel 7 ，另一台就是今天的主角。\n自从八月末我加入了一个交易二手的频道，它就成了我每天必逛的地方之一，尽管我最初只是希望在上面出掉一些东西、并没有想着买入，但是当 10 号我刷到这样一条闲置的时候，我的手指立马就走不动路了：\n\n在我的印象里，直到 Galaxy S10 之前，三星的烧屏情况普遍是不容乐观的。并且那段时间的烧屏还不是单纯的亮度不均，而经常是一大片的粉红色瘢痕——对于我这种屏幕强迫症来说自然是无法接受，想要找到一台成色好的旧机型通常只能卡在可遇不可求的阶段...\n——但这样的旧机型还真就让我等到了。\n\n刚刚拿到手的一刻，这台迷夜黑的 Galaxy Note8 的入网许可证贴纸和型号标签已经因为长年累月的附着，在背板玻璃上留下了一圈极为顽固的残胶，最后不得不用上异丙醇才彻底清理干净。不过其余也正如出二手的老哥所说，不仅是背后的出场膜，甚至连顶部边框上 QUALCOMM® 4G 的小标签都还在。\n\n美中不足的就是，相比机身的其他部位，这台 Note8 屏幕玻璃的保存状况相对就没有那么好了，一些细微的划痕倒是其次，边缘曲面和上下边框一圈的疏油层老化是让我有些诧异的。或许在它前半段被用来做竞品分析的生涯里一直贴的是那种非全覆盖的钢化膜吧。\n《一种基于屏幕曲率的磨损分布》\n但瑕不掩瑜，一旦当你点亮这块 PPI 比 S23 Ultra 还高、完整无缺的 6.3 寸 Super AMOLED「全视曲面屏」，感觉到侧面弯曲的玻璃几乎让屏幕流进你手里的时候，不得不承认：曲面屏除了不好用之外，其余都还是挺好看的。\n\n虽然 S10 系列经常会被大家戏称为防爆盾，但要论真正的防爆盾始祖，恐怕还得是 Note8 ——横向排列的双摄和夹在中间的闪光灯与脉…",
-          "link": "https://sspai.com/post/83134",
-          "publishedOn": "2023-09-21T14:59:11.000Z",
-          "wordCount": 808,
-          "title": "救命，我被困在 2017 年了｜与 Galaxy Note8 的一周",
-          "imageUrl": "https://cdn.sspai.com/2023/09/21/cb30beca6765e1e54da1f4c6fca5c0b1.jpg"
         }
       ]
     },
@@ -504,6 +474,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76410",
+          "author": null,
+          "description": "马斯克(Elon Musk)宣布 Twitter/X 将推出两种新的订阅套餐，其中一种便宜，包含全部功能，有广告，另一种较贵，没有广告。Twitter/X 此前已经推出了月费 8 美元的 X Premium 订阅服务，开始在新西兰和菲律宾对新用户测试年费 1 美元的付费服务。马斯克自去年 10 月收购 Twitter 以来一直尝试通过对用户收费和吸引广告商来增加收入。但在马斯克解雇了大部分员工解散了内容审查团队之后广告商减少了广告投放。",
+          "link": "https://www.solidot.org/story?sid=76410",
+          "publishedOn": "2023-10-21T10:41:03.000Z",
+          "wordCount": 160,
+          "title": "Twitter/X 将推出两种新的订阅套餐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76409",
+          "author": null,
+          "description": "托管了逾 3.65 万个开源 AI 模型的 Hugging Face 证实其网站在中国被屏蔽，原因未知。Hugging Face 也托管了来自中国科技公司的开源模型。Hugging Face 在一份声明中表示它对中国的法规无能为力。中国用户早在今年 5 月就在该公司论坛抱怨了访问问题，至少从 9 月 12 日开始，Hugging Face 在中国就完全无法访问。中国屏蔽 Hugging Face 可能的原因是新的法规要求生成式 AI 限制特定内容。Hugging Face 成立于 2016 年，是生成式 AI 热的最大受益者之一。开发者可使用该平台在机器学习项目上展开协作或共享数据集。它的运作方式类似于微软旗下的代码托管平台 GitHub。",
+          "link": "https://www.solidot.org/story?sid=76409",
+          "publishedOn": "2023-10-21T09:34:53.000Z",
+          "wordCount": 180,
+          "title": "Hugging Face 被屏蔽",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76408",
+          "author": null,
+          "description": "耐克大中华区发布了内部备忘录，宣布推出新的混合工作模式。在新模式下，每周在公司工作四天，时间为每周一至周四。新的工作模式将于 2024 年 1 月 8 日正式执行，范围仅限于办公室员工。据国家统计局最新数据显示，9 月份，全国企业就业人员周平均工作时间为 48.8 小时。按一天 8 小时工作时间计算，全国打工人 9 月份的每周平均要工作 6.1 天。此前国内也有多家企业宣布了更短的工作时间，如乐视视频年初发全员信表示，公司将执行每周四天半工作制，具体为每周三实行弹性的半天工作制，考勤时间调整为连续的 5 小时，比如上午 10 点至下午 3 点、上午 11 点至下午 4 点都是符合规定的。",
+          "link": "https://www.solidot.org/story?sid=76408",
+          "publishedOn": "2023-10-21T02:23:08.000Z",
+          "wordCount": 167,
+          "title": "耐克在中国推行四天工作制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76407",
+          "author": null,
+          "description": "引用对维基百科至关重要，但它的引用经常会指向已失效的链接、不正确的信息或不可靠的来源。Samaya AI 公司的研究人员开发了神经网络系统 SIDE，能帮助维基百科整理其条目中不准确或不完整的参考来源，提高其质量和可靠性。系统能分析引用来源是否能支持条目中的相关断言，为不支持的引用提供更好的参考来源。该工具能为维基百科的编辑和内容审核者节省时间。",
+          "link": "https://www.solidot.org/story?sid=76407",
+          "publishedOn": "2023-10-20T15:07:44.000Z",
+          "wordCount": 148,
+          "title": "AI 帮助维基百科整理引用链接",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76406",
+          "author": null,
+          "description": "俄罗斯历史最悠久的 XMPP 服务 jabber.ru 的管理员 oxpa 在 10 月 16 日遇到了一个令其困惑不已的问题：客户端通过端口 5222 (XMPP STARTTLS)连接服务器时出现了证书过期的警告，但服务器上使用的所有证书都在有效期内。受影响的机器包括 Hetzner 的一台专用服务器和 Linode 的两台虚拟服务器，都托管在德国。这些服务器上的端口 5222 显然遭遇了中间人攻击。调查人员在 Hetzner 服务器的内核日志里发现了不同寻常的记录：2023 年 7 月 18 日其物理网络连接丢失了 19 秒。攻击者使用了 Let’s Encrypt 颁发的 TLS 证书，通过透明 MiTM 代理劫持了端口 5222 上的加密 STARTTLS 连接。这次攻击由于其中一个 MiTM 证书过期而被发现，该证书尚未重新颁发。此次中间人攻击至少持续了 6 个月，很可能是 Hetzner 和 Linode 被迫设置的，用于执行合法拦截。",
+          "link": "https://www.solidot.org/story?sid=76406",
+          "publishedOn": "2023-10-20T14:45:33.000Z",
+          "wordCount": 192,
+          "title": "jabber.ru 遭中间人攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76405",
+          "author": null,
+          "description": "安全公司 Malwarebytes 警告，攻击者正通过 Google 广告引诱用户访问开源密码管理器 KeePass 的钓鱼网站。但最值得注意的是攻击者的策略。攻击者使用国际化域名编码（Punycode）注册了 KeePass 的钓鱼网站，钓鱼域名和 KeePass 官方域名在视觉上的差异非常小，无疑会让很多人上当。在浏览器上看到的域名  ķeepass[.]info 实际上是国际化域名编码 xn--eepass-vbb[.]info。用户通过钓鱼网站下载的 KeePass 包含的恶意代码属于 FakeBat 恶意程序家族。",
+          "link": "https://www.solidot.org/story?sid=76405",
+          "publishedOn": "2023-10-20T14:22:55.000Z",
+          "wordCount": 162,
+          "title": "攻击者用国际化域名编码让钓鱼网站域名模仿 KeePass",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76404",
+          "author": null,
+          "description": "WikiLeaks 创始人 Julian Assange 预计将在明年初被授予罗马荣誉公民。52 岁的 Assange 自 2019 年以来一直关押在伦敦戒备森严的 Belmarsh 监狱里，他因为泄露美国机密军事文件和外交电报而被通缉。他的支持者认为对其的指控是出于政治动机，而美国则表示泄露机密文件会危及生命。让他成为罗马荣誉公民的动议是由左翼党派五星运动的 Virginia Raggi 推动的，她表示 Assange 是言论自由的象征，而言论自由对真正的民主制度至关重要。他因为从事记者的工作而被剥夺了自由。罗马议会本周二批准了动议，启动了荣誉公民程序。Raggi 希望能在圣诞节前完成，但也可能拖到明年初。意大利还有几个城市授予或准备授予 Assange 公民身份，其中北部的雷焦艾米利亚（Reggio Emilia）上个月授予了他公民身份，那不勒斯也将很快宣布。",
+          "link": "https://www.solidot.org/story?sid=76404",
+          "publishedOn": "2023-10-20T13:55:42.000Z",
+          "wordCount": 169,
+          "title": "Julian Assange 将被授予罗马荣誉公民",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76403",
           "author": null,
@@ -2853,136 +2893,6 @@
           "wordCount": 146,
           "title": "骗术转移的时代",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76166",
-          "author": null,
-          "description": "根据发表在《自然》期刊上的论文，对小鼠的研究表明，听到新生儿的啼哭声可以触发催产素的释放，催产素是一种控制母亲母乳释放的大脑化学物质。研究人员发现，一旦受到刺激，这种激素洪流会持续大约5分钟，然后逐渐减少，使母亲能够喂养它们的孩子，直到它们吃饱或再次开始哭泣。研究发现，当幼鼠开始哭泣时，声音信息会传递到它母亲大脑中一个叫做丘脑后层内核的区域。然后这个感觉中枢向位于下丘脑的释放催产素的脑细胞(神经元)发送信号。催产素的增加只发生在哺乳母鼠身上，而不会发生在从未生育过的母鼠身上。",
-          "link": "https://www.solidot.org/story?sid=76166",
-          "publishedOn": "2023-09-22T10:54:46.000Z",
-          "wordCount": 142,
-          "title": "婴儿哭泣诱导母亲释放催产素",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76165",
-          "author": null,
-          "description": "Google 旗下的 AI 子公司 DeepMind 研发的蛋白质结构预测模型 AlphaFold 获得了拉斯克奖的基础医学研究奖，拉斯克奖颁发三个奖项，另外两个是临床医学研究奖和医学科学特殊成就奖。Demis Hassabis 博士和 John Jumper 博士领导 AlphaFold 团队借助 AI 系统成功解决了蛋白质结构预测难题，实现了准确性和速度的巨大突破。James Fujimoto、David Huang和Eric Swanson 发明的光学相干断层扫描（OCT）技术赢得了临床医学研究奖，OCT 使医生能够迅速检测并治疗影响视力的视网膜疾病，从而拯救了数百万人的视力。医学科学特殊成就奖授予了 Piet Borst。",
-          "link": "https://www.solidot.org/story?sid=76165",
-          "publishedOn": "2023-09-22T10:18:50.000Z",
-          "wordCount": 169,
-          "title": "DeepMind 的蛋白质结构预测模型获拉斯克奖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76164",
-          "author": null,
-          "description": "前不久遭到网络攻击导致大部分服务瘫痪至今还没有恢复的米高梅集团正在紧急招聘一位 Red Hat Linux 系统管理员，时薪 110 美元（相当于年薪 40 万美元），但有条件：在新的 IT 环境重建起来前每周工作七天每天工作十小时，候选人必须是美国公民，非绿卡或 H1B 签证持有者，工作截至 10 月 15 日。在遭到勒索组织攻击之后，米高梅的计算机问题持续了 10 天，每天损失最多 8400 万美元。米高梅的竞争对手凯撒娱乐也披露遭到了网络攻击，但其运营基本没有受到影响，据报道它向自称 Scattered Spider 的勒索组织支付 1500 万美元赎金，以换取数据安全的承诺。",
-          "link": "https://www.solidot.org/story?sid=76164",
-          "publishedOn": "2023-09-22T09:43:25.000Z",
-          "wordCount": 175,
-          "title": "米高梅紧急招聘 Linux 管理员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76163",
-          "author": null,
-          "description": "苹果的 iPhone 手机不支持 RCS 标准。RCS 代表 Rich Communication Services，比短信或彩信支持更多的功能，兼容于支持 RCS 标准的运营商和厂商的消息应用。因为不兼容，iPhone 手机发送给 Android 手机的消息不支持高级功能如视频。对此问题，苹果 CEO 库克（Tim Cook）曾建议消费者给妈妈买一部 iPhone。Google 一直尝试向苹果施压，督促其采用 RCS。在最新的广告 iPager 中，Google 指出 iPager 使用过时的通信技术给 Android 发送短信，而使用逾三十年历史的 SMS 技术存在很多能感受到的缺点。",
-          "link": "https://www.solidot.org/story?sid=76163",
-          "publishedOn": "2023-09-22T08:42:57.000Z",
-          "wordCount": 181,
-          "title": "Google 再次通过广告施压苹果采用 RCS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76162",
-          "author": null,
-          "description": "木星卫星欧罗巴是太阳系少数几个可能存在适宜生命生存条件的行星之一。它的冰冻表面之下被认为存在液态咸海洋，但尚未确定海洋中是否含有生命所需的化学物质如碳。根据发表在本周《科学》期刊上的两篇论文，天文学家利用 NASA 韦伯望远镜的数据，发现欧罗巴冰冻表面特定区域有二氧化碳。分析表明，二氧化碳可能源自地下海洋而不是陨石等外部来源。它是在最近的地质时间尺度沉积的。这一发现对欧罗巴海洋的潜在可居住性具有重要意义。韦伯望远镜发现，欧罗巴表面二氧化碳最丰富的区域是 Tara Regio。",
-          "link": "https://www.solidot.org/story?sid=76162",
-          "publishedOn": "2023-09-22T07:46:48.000Z",
-          "wordCount": 145,
-          "title": "韦伯望远镜在欧罗巴表面发现碳",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76161",
-          "author": null,
-          "description": "Matrix 项目宣布用户现在可通过 Element X 客户端体验下一代协议 Matrix 2.0 的新功能。Matrix 是一个端对端加密、去中心化的即时通讯系统，它没有中心服务器，通过网桥与其它平台互通。不精确统计显示公网上有 111,873,374 个 Matrix ID，之所以说不精确是因为逾半数公网服务器不报告统计数据，此外还有很多私有网络服务器。Matrix 有着不断增长的庞大生态系统。Matrix 2.0 的新功能包括：Sliding Sync (即时登陆/启动/同步)，Native OIDC (行业标准的身份认证系统)，Native Group VoIP (端对端加密的语音和视频会议群聊) ，Faster Joins 等。",
-          "link": "https://www.solidot.org/story?sid=76161",
-          "publishedOn": "2023-09-22T06:46:01.000Z",
-          "wordCount": 174,
-          "title": "Matrix 2.0：Matrix 的未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76160",
-          "author": null,
-          "description": "微软将于 9 月 26 日释出 Windows 11 的下一个重大更新 v23H2。Windows 11 23H2 的新功能包括 AI 驱动的 Windows Copilot、重新设计的文件资源管理器、为数字笔用户提供的 Ink Anywhere、改进画图应用、新的音量混合器、原生 RAR 和 7-zip 文件支持等。其中 Windows Copilot 将 Bing Chat 功能带到了桌面上，鉴于 Bing Chat 不支持中国用户使用，Windows Copilot 的情况可能类似，微软官方博客声明“具体功能依据不同市场而有所不同”。原生 RAR 和 7-zip 文件支持只是解压相应格式的压缩文件，并不支持创建，创建 RAR 压缩文件仍然需要应用 WinRAR。",
-          "link": "https://www.solidot.org/story?sid=76160",
-          "publishedOn": "2023-09-22T05:54:45.000Z",
-          "wordCount": 208,
-          "title": "微软将在 9 月 26 日释出 Windows 11 23H2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76159",
-          "author": null,
-          "description": "视频会议在新冠疫情期间爆炸式增长，但网络摄像头的分辨率相比你的智能手机上的摄像头普遍要差很多。为什么不能把智能手机作为网络摄像头使用？第三方软件可以帮助实现这一目标。从 Android 14 开始，你无需再安装第三方应用，Android 14 可以直接将智能手机变成网络摄像头。当你将 Android 手机插到 PC 上时，它会提供选项改变 USB 模式，包括文件传输/Android Auto (MTP)、USB tethering (NCM)、MIDI 或 PTP，Android 14 加入了一个新的选项 USB webcam，选择该选项之后，USB 模式会切换到 UVC (USB Video Class)，将你的手机变成网络摄像头。不过该功能不是开箱即用，需要启用一个 Linux 内核配置CONFIG_USB_CONFIGFS_F_UVC。",
-          "link": "https://www.solidot.org/story?sid=76159",
-          "publishedOn": "2023-09-22T05:08:26.000Z",
-          "wordCount": 177,
-          "title": "Android 14 支持将智能手机作为网络摄像头使用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76158",
-          "author": null,
-          "description": "思科达成了以 280 亿美元收购 Splunk 的协议，这是该公司至今金额最高的一笔收购。此举被认为有助于推动该公司基于 AI 的数据分析能力。Splunk 成立于 2003 年，主要是提供监控和数据分析软件，而思科的主营是网络设备硬件，这笔收购也有助于加强思科的软件业务。思科是以每股 157 美元现金的方式收购 Splunk，相比 Splunk 周三的收盘价溢价 31%。这笔交易预计将会在 2024 年底完成，这次并购不需要中国监管部门的批准。",
-          "link": "https://www.solidot.org/story?sid=76158",
-          "publishedOn": "2023-09-22T04:45:00.000Z",
-          "wordCount": 170,
-          "title": "思科 280 亿美元收购 Splunk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76157",
-          "author": null,
-          "description": "苹果最新发布的 iPhone 15 未采用自研调制解调器芯片，此前它已经在该芯片上已花费数年时间、投入数以十亿美元计的资金进行研发。2018 年 CEO 库克(Tim Cook)下令开始设计和制造调制解调器芯片，并为此招募了数千名工程师。调制解调器芯片可将 iPhone 连接到无线运营商的网络，此前它依赖于高通的技术。据熟悉该项目的前公司工程师和高管说，完成这款芯片所遇到的障碍主要是苹果自己造成的。去年年底的测试发现，该芯片速度太慢，容易过热。另外该芯片的电路板太大，占据了半部 iPhone 的面积，因而无法使用。据估计，苹果公司去年为这类芯片向高通支付了逾 72 亿美元。",
-          "link": "https://www.solidot.org/story?sid=76157",
-          "publishedOn": "2023-09-21T15:35:09.000Z",
-          "wordCount": 154,
-          "title": "苹果自研调制解调器芯片进展不顺",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76156",
-          "author": null,
-          "description": "SpaceX Falcon 9 火箭使用的第一级 B1058 创造 17 次飞行记录。美国东部夏令时周二 11:38 p.m.(周三 0338 GMT)，Falcon 9 火箭从佛罗里达州卡纳维拉尔角太空军基地发射升空，将 22 颗第二代 Starlink 卫星送入轨道。火箭第一级成功着陆在无人驳船上，这是 B1058 的第 17 次发射，此前包括 B1058 在内 Falcon 9 火箭有两个第一级完成了 16 次发射任务。B1058 的首次发射是在 2020 年 5 月 20 日执行 Crew Dragon Demo 2 载人飞行演示任务，之后的任务包括 ANASIS-II、CRS-21、Transporter-1、Transporter-3，以及 10 次 Starlink 发射。它的第 16 次任务是 7 月进行的 Starlink 6-5，将 22 颗第二代 Starlink V2 mini 卫星送入轨道。",
-          "link": "https://www.solidot.org/story?sid=76156",
-          "publishedOn": "2023-09-21T15:27:54.000Z",
-          "wordCount": 218,
-          "title": "SpaceX Falcon 9 火箭第一级创造 17 次飞行记录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76155",
-          "author": null,
-          "description": "Alphabet 旗下从事无人出租车业务的子公司 Waymo 宣布将在洛杉矶开展六次每次持续数周的测试或者叫观光之旅，让当地居民体验下无人出租车。测试将在洛杉矶的圣莫尼卡和威尼斯海滩、世纪城、西好莱坞、中城、韩国城以及市中心分不同时间段展开，时间从 10 月 11 日持续到 3 月 3 日。感兴趣的洛杉矶居民可以提前预约，收到票之后可以在服务区域内的规定的时间内免费使用。",
-          "link": "https://www.solidot.org/story?sid=76155",
-          "publishedOn": "2023-09-21T15:10:32.000Z",
-          "wordCount": 156,
-          "title": "Waymo 将在洛杉矶测试无人驾驶出租车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76154",
-          "author": null,
-          "description": "默多克(Rupert Murdoch) 将辞去福克斯和新闻集团的董事长职位。他在父亲于 1952 年去世后接手了多家报纸，在长达 70 年里创建了一个媒体帝国，彻底改革了新闻和娱乐行业，也使得得他成为世界最有影响力最受争议的媒体大亨之一。默多克将于 11 月的公司年度会议上辞去其职位，改为担任名誉主席，他的长子 Lachlan Murdoch 将从新闻集团的联席董事长变成唯一的董事长，兼任福克斯公司的执行董事长和 CEO。92 岁的默多克在给员工的一份备忘录中表示，他在整个职业生涯中一直专注于新闻和观点，这一点不会改变，但现在是时候承担不同角色了。他称赞其长子是有激情有原则的领导人，将领导公司走向未来。",
-          "link": "https://www.solidot.org/story?sid=76154",
-          "publishedOn": "2023-09-21T14:44:45.000Z",
-          "wordCount": 154,
-          "title": "默多克辞去福克斯和新闻集团董事长职务",
-          "imageUrl": null
         }
       ]
     },
@@ -2991,6 +2901,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/752344/",
+          "author": null,
+          "description": "神童、书呆子、亿万富翁，5% 的“可能”成为美国总统，这是A面。 洗钱、诈骗犯、破产清算，把红杉、淡马锡通通拉下水，这是B面。 一个人从A面到B面，需要多长时间？ 答案是9 天。 这个人名叫 Sam Bankman-Fried，一个有亿点点黑色幽默的名字，人们都叫他，SBF。 SBF 是一个 90 \n本文链接",
+          "link": "https://news.cnblogs.com/n/752344/",
+          "publishedOn": "2023-10-21T02:26:52.000Z",
+          "wordCount": 163,
+          "title": "一篇小作文，320亿美元清零，币圈90后首富喜提世纪审判",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752343/",
+          "author": null,
+          "description": "10 月 20 日，位于北京大望路商圈的盒马X会员店开业；盒马方面表示，这预示着会员店竞争已经从郊区挺进城市中心。 据盒马方面表示，该X会员建国路店面积近 2 万平米，原址沃尔玛超市于今年 3 月份结束 16 年运营；新店开业后，盒马X会员店数量达到 10 家，分布于北京、上海、南京、苏州等地，首店\n本文链接",
+          "link": "https://news.cnblogs.com/n/752343/",
+          "publishedOn": "2023-10-21T02:26:25.000Z",
+          "wordCount": 163,
+          "title": "盒马X会员店落地北京CBD：5公里半径实现最快“1小时达”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752342/",
+          "author": null,
+          "description": "10 月 20 日消息，拉卡拉（300773.SZ）发布 2023 第三季度业绩报告，公司前三季度实现营收 44.24 亿元，实现归母净利润 6.22 亿元，同比增长 50%，扣非后归母净利润 4.81 亿元，同比增长 55%。 其中，第三季度实现营收 14.55 亿元，归属于上市公司股东的净利润 \n本文链接",
+          "link": "https://news.cnblogs.com/n/752342/",
+          "publishedOn": "2023-10-21T02:24:00.000Z",
+          "wordCount": 163,
+          "title": "拉卡拉2023三季报：营收14.55亿元，净利润1.10亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752341/",
+          "author": null,
+          "description": "在这个持续降温的 10 月，A股半导体板块久违地回暖了。 10 月 19 日上午，多支算力芯片概念股出现上涨：“AI 芯片第一股”之称的寒武纪高开 20%，直接涨停；“国产 GPU 芯片龙头”景嘉微大涨 11%；做电路保险丝的好利科技，也凭借控股子公司合肥曲速跻身算力概念，股价上涨达 10%…… 1\n本文链接",
+          "link": "https://news.cnblogs.com/n/752341/",
+          "publishedOn": "2023-10-21T02:23:00.000Z",
+          "wordCount": 163,
+          "title": "英伟达芯片一片难求，国产替代趁势崛起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752340/",
+          "author": null,
+          "description": "上周，芯片龙头台积电办了疫情后的首场公司运动会。董事长刘德音在现场宣布给基层员工发亿元红包，平均每人可以领 1.6 万元新台币，换算成人民币大约 3630 元。 10 月 19 日，台积电发布三季报，当季净利润尽管同比下滑 25%，仍有 65 亿美元。CEO 魏哲家表示，预计芯片市场很快就会触底。为\n本文链接",
+          "link": "https://news.cnblogs.com/n/752340/",
+          "publishedOn": "2023-10-21T02:20:00.000Z",
+          "wordCount": 163,
+          "title": "台积电离不开东亚",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752339/",
+          "author": null,
+          "description": "界面新闻记者杨冰柯 距离上一次在杭州高调拿地近三年后，蚂蚁集团又一次豪掷 15.36 亿拿地。 10 月 19 日，杭州出让了两宗商地。其中留下单下单元 XH1312-29 地块（原杭州正大青春宝总部地块），东面紧邻蚂蚁集团 2020 年竣工的现总部所在地A空间，北面紧邻西溪路，与合生国贸、珀莱雅南\n本文链接",
+          "link": "https://news.cnblogs.com/n/752339/",
+          "publishedOn": "2023-10-21T02:16:00.000Z",
+          "wordCount": 163,
+          "title": "蚂蚁集团超15亿拿下杭州定制地块，三年前的之江总部地还未开工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752338/",
+          "author": null,
+          "description": "据上海规划和自然管理局网站，米哈游全资子公司日前以 10.772 亿元拿下位于上海徐汇区漕河泾开发区核心地段一地块，和它目前总部所在地属同一街道。 公示文件显示，该 xh215-02A 地块用途为科研设计用地，期限 50 年。根据按披露信息算，地块建筑计容面积约 9.8 万平方米，相当于每平米 1.\n本文链接",
+          "link": "https://news.cnblogs.com/n/752338/",
+          "publishedOn": "2023-10-21T02:12:00.000Z",
+          "wordCount": 163,
+          "title": "米哈游的 10 亿元新项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752337/",
+          "author": null,
+          "description": "奈飞（Netflix）在好莱坞罢工的乌云之下，有可能明年都交不出《怪奇物语》最终季，不过眼下，它交出了一份漂亮的财报。 当地时间 10 月 18 日，奈飞发布第三季度财报。其中全球净增订阅用户 876 万，远超华尔街预期的 620 万。这也是继 2020 年第二季度疫情高峰时的 1010 万新增订户\n本文链接",
+          "link": "https://news.cnblogs.com/n/752337/",
+          "publishedOn": "2023-10-21T02:08:00.000Z",
+          "wordCount": 163,
+          "title": "奈飞飘红的业绩里有根刺",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752336/",
+          "author": null,
+          "description": "·在传统冯·诺伊曼架构下，计算和存储分离。而北极点芯片使存储单元在物理上尽可能接近计算单元中的计算元件。北极点芯片由 256 个计算单元组成，每个计算单元都有内存，通过消除片外内存，将计算与片上内存交织在一起。这些计算单元以一种网络连接在一起，设计灵感来自于人类大脑。 北极点处理器芯片消除了频繁访问\n本文链接",
+          "link": "https://news.cnblogs.com/n/752336/",
+          "publishedOn": "2023-10-21T02:00:00.000Z",
+          "wordCount": 163,
+          "title": "IBM开发新芯片为AI提速：消除片外内存，灵感来自大脑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752335/",
+          "author": null,
+          "description": "IT 之家 10 月 20 日消息，据彭博社当地时间周三报道，美国多名作家近日向纽约联邦法院提起诉讼，指控 Meta、微软等科技巨头未经许可使用他们的作品来训练 AI 模型。 图源 Pixabay 这一作家团体周二提交了拟议集体版权诉讼，文件称 Meta 和微软采用了具有争议的“Books3”数据集\n本文链接",
+          "link": "https://news.cnblogs.com/n/752335/",
+          "publishedOn": "2023-10-21T01:53:00.000Z",
+          "wordCount": 163,
+          "title": "因使用盗版书训练AI模型，Meta、微软等巨头被被美国多名作家起诉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752333/",
+          "author": null,
+          "description": "10 月 20 日消息，社交媒体 Facebook 母公司 Meta 的首席人工智能研究员杨立昆（YannLeCun）在接受采访时表示，人工智能现在很愚蠢，根本不用监管。他声称，早期阻碍人工智能的种种尝试会扼杀竞争。 杨立昆是 2018 年图灵奖得主，也是计算机视觉和神经网络领域的领军人物。他的工作\n本文链接",
+          "link": "https://news.cnblogs.com/n/752333/",
+          "publishedOn": "2023-10-21T01:50:00.000Z",
+          "wordCount": 163,
+          "title": "Meta首席AI研究员杨立昆：现在的AI很蠢，监管别来管我们",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752334/",
+          "author": null,
+          "description": "10 月 20 日消息，美国联邦通信委员会（FCC）周四同意为某些设备开放新的频段，这对增强现实（AR）和虚拟现实（VR）可穿戴设备的发展非常有帮助。 FCC 成员一致投票决定将 6GHz 频段开放给所谓的“一类新的超低功耗设备”，比如可穿戴技术。 FCC 预计此举将推动可穿戴技术、AR/VR 等尖\n本文链接",
+          "link": "https://news.cnblogs.com/n/752334/",
+          "publishedOn": "2023-10-21T01:45:00.000Z",
+          "wordCount": 163,
+          "title": "FCC同意为AR/VR等开放6GHz频段，Meta、苹果和谷歌等兴奋",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752332/",
+          "author": null,
+          "description": "10 月 20 日消息，2023 天猫双 11 新闻发布会现场，淘天集团首席执行官戴珊提出两个双 11 目标，第一，要办一届快乐的天猫双 11，让用户开心地来、快乐地逛，给消费者带来节日的快乐；第二，要帮助品牌商家获取最大规模用户增长，沉淀品牌资产、提升品牌力，成为一年中最大的增长机会。 戴珊指出，\n本文链接",
+          "link": "https://news.cnblogs.com/n/752332/",
+          "publishedOn": "2023-10-21T01:45:00.000Z",
+          "wordCount": 163,
+          "title": "淘天集团CEO戴珊：要办一届快乐的天猫双11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752331/",
+          "author": null,
+          "description": "10 月 20 日消息，美国时间周四，数字货运经纪公司 Convoy 告知全体员工，由于“大规模货运衰退”，公司将关闭核心业务。此前一周，供应链软件初创公司 Flexport 宣布将裁员约 20%。 Convoy 总部位于西雅图，旨在颠覆分散、低技术含量、通过电话和传真联系卡车司机和客户的货运经纪业\n本文链接",
+          "link": "https://news.cnblogs.com/n/752331/",
+          "publishedOn": "2023-10-21T01:40:00.000Z",
+          "wordCount": 163,
+          "title": "一度估值38亿美元，美国一独角兽宣布关闭核心业务，曾想颠覆货运经纪业务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752330/",
+          "author": null,
+          "description": "崔玉贤/文 华为回归，就如一股冲击波，搅动了整个手机市场。这时候，其他手机厂商要如何应对？这似乎是各家手机厂商都需要思考的命题，OPPO 也不例外。在 10 月 19 日新一代折叠旗舰机 OPPO Find N3 发布会后，OPPO 首席产品官刘作虎在接受网易科技等媒体采访时坦言，已经与团队聊过此话\n本文链接",
+          "link": "https://news.cnblogs.com/n/752330/",
+          "publishedOn": "2023-10-21T01:38:00.000Z",
+          "wordCount": 163,
+          "title": "如何看待华为回归？刘作虎：不过度焦虑，OPPO发力新商务人群",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752329/",
+          "author": null,
+          "description": "反腐是大公司永恒的主题，对于现金流巨大的制造业而言尤其重要。 文丨吴晓宇李梓楠 编辑丨王海璐 《晚点 Auto》从多方独立信源处获悉，小鹏汽车副总裁、采购部负责人李丰被停职调查后，小鹏的采购部门目前由刘永杰接手。刘永杰现任小鹏汽车供应链管理总监，向小鹏汽车 CEO 何小鹏汇报。 9 天前，小鹏汽车在\n本文链接",
+          "link": "https://news.cnblogs.com/n/752329/",
+          "publishedOn": "2023-10-21T01:33:00.000Z",
+          "wordCount": 163,
+          "title": "晚点独家丨车圈反腐风暴：小鹏反腐进展，刘永杰接手采购部",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752328/",
+          "author": null,
+          "description": "财联社 10 月 20 日电，科大讯飞在三季报业绩说明会上针对近日美国政府进一步收紧对尖端人工智能芯片的出口管制事项表示，前述管制对将大模型构建在英伟达算力上的大模型厂商会产生较大影响，但科大讯飞已于 2023 年初与华为昇腾启动专项攻关，合力打造我国通用人工智能新底座，让国产大模型架构在自主创新的\n本文链接",
+          "link": "https://news.cnblogs.com/n/752328/",
+          "publishedOn": "2023-10-21T01:28:00.000Z",
+          "wordCount": 163,
+          "title": "科大讯飞回应美国AI芯片出口管制：华为昇腾910B能力基本可对标英伟达A100",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752327/",
+          "author": null,
+          "description": "文 / 道哥 近日，2023 百度世界大会在人工智能与科技创业领域掀起了广泛关注。本次大会上，李彦宏的演讲题目是 \" 手把手教你做 AI 原生应用 \"，点明了百度对于 AI 原生应用的重视。 同样在大会上，面向 AI 原生应用开发，百度集团执行副总裁、百度智能云事业群总裁沈抖宣布，发布“千帆 AI \n本文链接",
+          "link": "https://news.cnblogs.com/n/752327/",
+          "publishedOn": "2023-10-21T01:25:00.000Z",
+          "wordCount": 163,
+          "title": "百度智能云：升级「云智一体」战略，「千帆AI」蔚然成军",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752326/",
+          "author": null,
+          "description": "财联社 10 月 21 日讯（编辑赵昊）当地时间周五（10 月 20 日），强生制药集团旗下的制药公司杨森（Janssen）在官网宣布，公司研发的抗登革病毒药物“JNJ-1802”取得了令人鼓舞的数据。 新闻稿称，与安慰剂相比，JNJ-1802 可以诱导人体产生针对登革热的抗病毒活性，同时安全且耐受\n本文链接",
+          "link": "https://news.cnblogs.com/n/752326/",
+          "publishedOn": "2023-10-21T01:20:00.000Z",
+          "wordCount": 163,
+          "title": "事关全球一半人口！强生抗登革热药物的初步数据令人鼓舞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752325/",
+          "author": null,
+          "description": "【手机中国新闻】近日，手机中国注意到小米的 MIUI 公众号已经更名为小米澎湃 OS（Xiaomi HyperOS），这预示着 MIUI 即将成为历史。小米的雷军此前透露，小米已经为小米澎湃 OS 的研发准备了很长时间。从 2014 年 IoT 业务开始初具规模，小米便开始了探索式开发和验证，而新系\n本文链接",
+          "link": "https://news.cnblogs.com/n/752325/",
+          "publishedOn": "2023-10-21T01:16:00.000Z",
+          "wordCount": 163,
+          "title": "小米MIUI公众号更名为小米澎湃OS！MIUI将成历史",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/752317/",
           "author": null,
@@ -7899,236 +8009,6 @@
           "publishedOn": "2023-09-23T01:11:00.000Z",
           "wordCount": 163,
           "title": "苹果“含恨”续约高通背后：数千工程师造不出小小调制解调器芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750893/",
-          "author": null,
-          "description": "9 月 22 日消息，消息人士透露，微软决定取消一些实验性产品，比如 Surface 耳机，以便更专注于人工智能领域。 据了解，微软首次推出 Surface 耳机是在 2018 年，随后在 2020 年推出了改进版。然而，2022 年的秋季新品发布会上并未展示原计划中每两年更新一次的新款 Surfa\n本文链接",
-          "link": "https://news.cnblogs.com/n/750893/",
-          "publishedOn": "2023-09-22T12:45:00.000Z",
-          "wordCount": 163,
-          "title": "消息称微软取消Surface耳机等产品，以便更专注于AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750892/",
-          "author": null,
-          "description": "衡宇发自凹非寺 量子位公众号 QbitAI 刚刚，诺奖风向标——拉斯克奖宣布了 2023 年得主！ 其中获奖者有 AlphaFold 的两名发明者，来自谷歌 DeepMind 的 CEO Demis Hassabis 和 AlphaFold 一作 John Jumper。 他俩怒刷存在感，拿下了基础\n本文链接",
-          "link": "https://news.cnblogs.com/n/750892/",
-          "publishedOn": "2023-09-22T12:40:00.000Z",
-          "wordCount": 163,
-          "title": "47岁DeepMind创始人斩获“诺奖风向标”！AlphaFold上榜拉斯克奖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750891/",
-          "author": null,
-          "description": "9 月 22 日消息，美国网络安全网站 CyberNews 获得的卫星跟踪数据显示，埃隆·马斯克（Elon Musk）旗下的 SpaceX 最近两个月损失了 200 多颗星链卫星，目前尚未找到具体原因。 据数据显示，这是 SpaceX 失去卫星数量的新纪录。在 7 月 18 日至 9 月 18 日期\n本文链接",
-          "link": "https://news.cnblogs.com/n/750891/",
-          "publishedOn": "2023-09-22T12:30:00.000Z",
-          "wordCount": 163,
-          "title": "SpaceX在两个月内损失200多颗星链卫星 原因尚未确定",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750890/",
-          "author": null,
-          "description": "又被质疑“在一起”，比亚迪这个“大哥”不好做。 作者赵普 编辑丨高远山 来源野马财经 就在比亚迪仰望 U8 上市当天，一则“机车大佬”起诉比亚迪延迟交付的消息被公开，并在长城汽车之后，再度质疑谁敢和比亚迪“在一起”。 9 月 20 日，微博用户“松散小雷”发消息称，松散科技（北京）有限公司（简称“松\n本文链接",
-          "link": "https://news.cnblogs.com/n/750890/",
-          "publishedOn": "2023-09-22T12:20:00.000Z",
-          "wordCount": 163,
-          "title": "“机车大佬”状告比亚迪交付“违规品”，比亚迪反击：与事实不符",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750889/",
-          "author": null,
-          "description": "财联社 9 月 22 日讯（记者王碧微）四款 iPhone 15 系列新机今日正式开始发售，无论是线下实体店还是线上渠道，苹果新品仍展现着自己“顶流”的实力。但若对比往年，今年苹果新品的热度有所下降。 新品的溢价情况，一直被市场用来评价苹果新机的需求热度。记者实探的深圳益田假日广场苹果直营店外，现场\n本文链接",
-          "link": "https://news.cnblogs.com/n/750889/",
-          "publishedOn": "2023-09-22T12:10:00.000Z",
-          "wordCount": 163,
-          "title": "官网仍需等待50天、二手溢价却远低往年iPhone 15系列还能“躺赢”吗？|行业观察",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750888/",
-          "author": null,
-          "description": "IT 之家 9 月 22 日消息，AITO 问界汽车今日针对此前一系列网传质疑作出回应，主要针对空间表现、底盘悬架和安全性等方面进行一一说明。 IT 之家附前情提要：据“电动星球”报道，一位理想汽车工作人员在推荐自家 L7 车型时，针对“友商产品”问界 M7 进行一系列“科普”，质疑了问界 M7 非\n本文链接",
-          "link": "https://news.cnblogs.com/n/750888/",
-          "publishedOn": "2023-09-22T12:00:00.000Z",
-          "wordCount": 163,
-          "title": "问界回应网传质疑：华为投入研发团队超千人，装载承重超630kg",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750887/",
-          "author": null,
-          "description": "完整的全栈技术布局证明蔚来的大额研发投入没有白花，经历过 2019 年的生存危机也让蔚来对自己的风险管理能力有充分自信，但自信和自负有些时候只是一线之差 文｜刘丁尹路 过去一周，蔚来身上 （NYSE：NIO） 发生了两个重要新闻： 第一，9 月 19 日，蔚来股价大跌 17%，引发广泛关注。 第二，\n本文链接",
-          "link": "https://news.cnblogs.com/n/750887/",
-          "publishedOn": "2023-09-22T11:50:00.000Z",
-          "wordCount": 163,
-          "title": "一边大额亏损，一边大力投入，蔚来到底咋想的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750886/",
-          "author": null,
-          "description": "记者何畅 编辑高宇雷 9 月 22 日，苹果新品正式开售。除了线上释放库存，中国大陆的 43 家 Apple Store 线下零售店也迎来了前去取货的消费者，这些一周前第一批晒出下单截图的用户，又将率先开箱上手。抢购要与时间赛跑，取货同样如此。以北京三里屯店为例，早上 8 点前，门口就已排起了长队，\n本文链接",
-          "link": "https://news.cnblogs.com/n/750886/",
-          "publishedOn": "2023-09-22T11:40:00.000Z",
-          "wordCount": 163,
-          "title": "iPhone 15首销：既然“没什么人买 ”，为什么更多平台要卖？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750885/",
-          "author": null,
-          "description": "9 月 22 日消息，据外媒报道，本月初有消息称特斯拉得克萨斯超级工厂将暂停生产 Model Y 和电动皮卡 Cybertruck，对工厂的 2 号和 3 号总装线进行升级。 而从航拍人士给出的消息来看，已暂停生产 Model Y 和 Cybertruck 的特斯拉得克萨斯超级工厂，还将停产一段时间\n本文链接",
-          "link": "https://news.cnblogs.com/n/750885/",
-          "publishedOn": "2023-09-22T11:33:00.000Z",
-          "wordCount": 163,
-          "title": "航拍人士：特斯拉得克萨斯超级工厂可能停产至月底",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750884/",
-          "author": null,
-          "description": "9 月 22 日消息，近日，有市场消息称，菜鸟集团将于数周内正式向港交所递交招股说明书，最快明年上半年在港挂牌上市。对此，菜鸟方面向媒体回应称，不予置评。 今年 5 月，阿里在财报中披露，董事会批准启动探索菜鸟集团上市，目标是在未来 12 到 18 个月完成这项上市计划。 菜鸟集团为消费者、淘天集团\n本文链接",
-          "link": "https://news.cnblogs.com/n/750884/",
-          "publishedOn": "2023-09-22T11:25:00.000Z",
-          "wordCount": 163,
-          "title": "消息称菜鸟将于数周内递表港交所 官方不予置评",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750883/",
-          "author": null,
-          "description": "文盒饭财经，作者刘星志，编辑赵晋杰 在华为 Mate 60 系列发布大半个月后，蔚来牌手机姗姗来迟。 9 月 21 日中午，蔚来 CEO 李斌一身酷似乔布斯的穿搭登台，从牛仔裤口袋里掏出了“One more thing”——蔚来手机 NIO Phone。 这部手机早已成为此次蔚来创新科技日活动上最引\n本文链接",
-          "link": "https://news.cnblogs.com/n/750883/",
-          "publishedOn": "2023-09-22T08:00:00.000Z",
-          "wordCount": 163,
-          "title": "偷家华为，李斌慢了一步",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750882/",
-          "author": null,
-          "description": "文解码 Decode 进入 2023 年，快递行业其实明显感觉到了暖意： 今年前 8 个月，我国快递业务量（不包含邮政集团包裹业务）累计完成 814.6 亿件，增长 15.9%。 在最近出炉的快递公司半年报里，净利润也都是正向增长，最高的顺丰甚至达到了 66.23%。 但反映到资本市场，却是遍地寒意\n本文链接",
-          "link": "https://news.cnblogs.com/n/750882/",
-          "publishedOn": "2023-09-22T07:50:00.000Z",
-          "wordCount": 163,
-          "title": "快递股为何集体被低估？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750881/",
-          "author": null,
-          "description": "文深潜 atom，作者车悟饭 2023 年 9 月 21 日举办的 NIO IN 2023 蔚来创新科技日活动上，蔚来发布了首款智能手机产品 NIO Phone。该产品搭载了高通骁龙 8 Gen 2 领先版处理器，12GB+512GB 版售价 6499 元。 在这场发布会上，蔚来创始人李斌讲了一个趣\n本文链接",
-          "link": "https://news.cnblogs.com/n/750881/",
-          "publishedOn": "2023-09-22T07:40:00.000Z",
-          "wordCount": 163,
-          "title": "6499元起售，蔚来手机会不会重蹈格力覆辙？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750880/",
-          "author": null,
-          "description": "文锦缎 自 8 月底华为发布 Mate 60 手机以来，市场始终处于一种“遥遥领先”的兴奋中。 在华为被制裁的 1500 多天里，流量依然忙碌地游走在一场又一场的新品发布会中，人们似乎达成了一种共识，闭口不谈热闹之下的隐忧——是不是我们技术研发的速度和轨迹被安全距离所圈定，只能亦步亦趋的跟随在“别人\n本文链接",
-          "link": "https://news.cnblogs.com/n/750880/",
-          "publishedOn": "2023-09-22T07:31:00.000Z",
-          "wordCount": 163,
-          "title": "当华为再度煽动翅膀，手机市场格局将如何演变？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750879/",
-          "author": null,
-          "description": "文新营销 NewMarketing “虽然小红书两三年前就开始做电商，但今年才是真正意义上的第一年。”侵尘文化创始人林尘说。 这也是很多从业者的共同感受。此前，对于“自己的核心优势到底是啥”等关键问题，小红书貌似没有想得太清楚，一直处于尝试阶段——比如，直播间曾走过娱乐打赏逻辑，而不是像现在这样坚定\n本文链接",
-          "link": "https://news.cnblogs.com/n/750879/",
-          "publishedOn": "2023-09-22T07:22:00.000Z",
-          "wordCount": 163,
-          "title": "小红书做电商，还需跨过几道坎？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750878/",
-          "author": null,
-          "description": "近日，便利店连锁品牌便利蜂在北京、天津、上海、南京四个城市拿出 2000 家门店资源对外开放加盟。对于成立于 2017 年的便利蜂而言，这属于石破天惊之举。 便利蜂于 2017 年成立于北京，创始人为去哪网创始人庄辰超。便利蜂从创立伊始，最显著的标签就是高举数字化的大旗，强调系统对从前端门店、员工到\n本文链接",
-          "link": "https://news.cnblogs.com/n/750878/",
-          "publishedOn": "2023-09-22T07:11:00.000Z",
-          "wordCount": 163,
-          "title": "便利蜂终于向加盟“低头”，掏21万加盟费须全职参与",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750877/",
-          "author": null,
-          "description": "文定焦，作者向园、星星、布鲁斯、温故、翰墨，编辑翰墨 最近，行业内的公关危机一波接一波。 先是李佳琦反驳花西子眉笔贵的事情引发了一轮李佳琦个人的舆论危机，同时也把花西子以及一波国货品牌推到了风口浪尖。 事情过去后十余天，花西子发了一封道歉信，网友纷纷不买账。很快，“花西子道歉信一半篇幅宣传品牌”“花\n本文链接",
-          "link": "https://news.cnblogs.com/n/750877/",
-          "publishedOn": "2023-09-22T07:03:00.000Z",
-          "wordCount": 163,
-          "title": "公关人，“背锅侠”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750876/",
-          "author": null,
-          "description": "文犀牛娱乐，作者 方正，编辑朴芳 某朝皇后因被奸臣所害命丧朝堂，岂料再睁眼时她成了现代豪门太太。灵机一动的皇后盯着情敌问小叔子：“我是正妻，只要我还在一日，她就算进门了也只是小妾，难道还敢爬我头上作妖？她想死么？”…… 这就是爆款小程序短剧《哎呀！皇后娘娘来打工》的开场剧情，该剧最近被行业广为热议的\n本文链接",
-          "link": "https://news.cnblogs.com/n/750876/",
-          "publishedOn": "2023-09-22T06:50:00.000Z",
-          "wordCount": 163,
-          "title": "拆解小程序短剧“一天进账1200万”商业真相",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750875/",
-          "author": null,
-          "description": "文 智能相对论，作者 K 星 iPhone 偷懒式的 15 代机型发布，让市场大跌眼镜，虽然在莫名的宗教虔诚下依旧卖得很好，但苹果走下神坛之巅已经板上钉钉。 但是，苹果从最高处摔落，却依旧在神坛之上，iPhone15 拉胯这并不意味着国产手机就能趁机崛起、抢占其市场，真正能反攻苹果、改变市场心智站位\n本文链接",
-          "link": "https://news.cnblogs.com/n/750875/",
-          "publishedOn": "2023-09-22T06:40:00.000Z",
-          "wordCount": 163,
-          "title": "iPhone 15拉胯，国产手机用折叠屏大反攻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750874/",
-          "author": null,
-          "description": "文雷达财经，作者莫恩盟，编辑深海 一个是深耕本地生活服务领域多年的美团，一个则是靠短视频起家、又靠直播业务不断壮大的抖音，两个原本看似不搭界的选手在中国互联网的地盘上狭路相逢，朝着彼此的腹地发起进攻。 作为本地生活服务领域毋庸置疑的“老大哥”，美团并非高枕无忧。面对月活超 7 亿的流量巨头抖音在本地\n本文链接",
-          "link": "https://news.cnblogs.com/n/750874/",
-          "publishedOn": "2023-09-22T06:30:00.000Z",
-          "wordCount": 163,
-          "title": "抖音美团攻防战，谁主沉浮？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750823/",
-          "author": null,
-          "description": "财联社 9 月 22 日讯（编辑史正丞）当地时间周四，美国科技公司微软在纽约举办秋季发布会，除了常规的 Surface 硬件升级外，今天的重头戏依然是 AI。 微软 CEO 纳德拉在开场时表示，当年他加入微软时，公司的目标是让每个家庭，每张办公桌上都拥有电脑。而现在公司对 AI 助手 Copilot\n本文链接",
-          "link": "https://news.cnblogs.com/n/750823/",
-          "publishedOn": "2023-09-22T00:05:00.000Z",
-          "wordCount": 163,
-          "title": "微软秋季发布会：Windows的AI时代从下周开始 Office也将在11月跟进",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750821/",
-          "author": null,
-          "description": "文氨基观察 欧洲“股王”易主了。 进入 9 月份，诺和诺德市值超越了原霸主路易威登(LV)，成为欧洲市值第一。从最新数据来看，诺和诺德市值为 4184 亿美元，LV 则在 3900 亿美元左右徘徊，差距似乎有越拉越大的趋势。 并非 LV 不努力。2023 年以来，LV 市值小幅上涨，大象仍在起舞。只\n本文链接",
-          "link": "https://news.cnblogs.com/n/750821/",
-          "publishedOn": "2023-09-22T00:00:00.000Z",
-          "wordCount": 163,
-          "title": "诺和诺德市值超LV，严肃医疗消费品化时代来了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/750822/",
-          "author": null,
-          "description": "9 月 21 日下午消息，华为今天下午内部正式发文，华为光产品线总裁靳玉志任职智能汽车解决方案 BU CEO，余承东升任智能汽车解决方案 BU 董事长。 知情人士表示，此次变动是公司基于当前业务做出的正常调整，不是重大变动，华为智能汽车解决方案 BU 的业务也没有变化。 此前有媒体报道称，近期华为智\n本文链接",
-          "link": "https://news.cnblogs.com/n/750822/",
-          "publishedOn": "2023-09-21T23:55:00.000Z",
-          "wordCount": 163,
-          "title": "华为正式发文：余承东升任车业务董事长 靳玉志接任CEO",
           "imageUrl": null
         }
       ]
