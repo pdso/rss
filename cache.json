@@ -417,26 +417,6 @@
           "wordCount": 916,
           "title": "巧用 Word 邮件合并，半自动生成活动照片记录文档",
           "imageUrl": "https://cdn.sspai.com/2023/09/28/9bc6498adc5579736e0b0e9c8dcf2095.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83313",
-          "author": "玉树芝兰",
-          "description": "兼谈遇到问题时，如何扩展思路，问出实质性的好问题\n\n在知识星球上，星友「日月雨路」提问：\n\n请教：\n\n之前看过树义老师对于 logseq 笔记的分享，觉得双向链接和日记的功能很赞，果断舍弃印象笔记，几个月陆陆续续把历史笔记都迁移过来了，但目前遇到问题：\n\n因所有文件都是本地私有化部署（主要用家里 mac 电脑），办公电脑并不太方便安装 logseq 笔记，不适宜把一些私人文件和日记同步在办公电脑中（有用 icloud 同步，手机同步慢且不好操作）。\n\n导致在办公时：\n\n \n\n有好的想法没法及时输入到 logseq 中，只能先写在其他比如 wps 中，回到家里再同步；\n\n\n \n\n历史笔记没法在办公室进行搜索借鉴；\n\n\n所以：是否有好的办法或解决方案、思路？比如输入时，在办公电脑用使用其他工具，可以做到跟 logseq 笔记同步。或者直接使用 logseq 网页版本？可以做到在线使用。\n\n我认为要长期使用好一款笔记，主要还是要能及时使用，检索以前的笔记和经验，为我所用。\n\n另，不知道老师平时工作时有好的想法时，是如何整理并系统化输出的？\n\n我觉得，星友「日月雨路」提出了一个很好的问题。我相信，不少读者在自己选用笔记工具的时候，可能也遇到过类似的纠结与疑惑。所以，我专门撰写一篇文章，回答星友「日月雨路」的问题。也把它一并免费分享给你，当做这个长假的礼物。\n以下是我的回答：\n咱们先来简单说说隐私和同步的问题。\n一些个人隐私的记录（例如日记、账本等），同步到工作电脑上确实颇不合适。你可以将它们划分到不同的笔记库。工作电脑只同步「工作」这一部分内容就好，其他隐私数据不要同步过来。那么如果你在工作场合需要综合查询不同笔记库的内容，该怎么办呢？咱们后文会做出回应。\n下面咱们来重点谈谈快速采集、整理与同步的问题。\n事先说明，我没有按照你的预期路径来回答，即讨论如何「使用 Logseq 」或者…",
-          "link": "https://sspai.com/post/83313",
-          "publishedOn": "2023-09-30T08:28:45.000Z",
-          "wordCount": 764,
-          "title": "一款笔记工具用着很好，但有部分功能不满足我的需求，怎么办？",
-          "imageUrl": "https://cdn.sspai.com/2023/09/30/a5436e2a2cce9b7484189c6ba5080127.png"
-        },
-        {
-          "id": "https://sspai.com/post/83193",
-          "author": "张子豪John",
-          "description": "在 9 月 21 日的 Microsoft Event 上，微软发布多款软硬件新品，同时宣布 Windows 11 将在 9 月 26 日进行更新。微软在这一次的更新中为 Windows 完善了现代化 UI 的文件资源管理器，带来了Windows 备份，开发人员主页，音量合成器等150多项更新，但最值得关注的是 Windows Copilot，以及为画图、图片等应用带来的 AI 功能。从微软与 OpenAI 的关系，似乎就注定了微软会持续地为自己的产品带去人工智能的能力。\n初步介绍\n在更新后的 Windows 11 中，微软将 AI 功能集成到整个系统，用户不再需要到 Edge 中使用 Bing AI，而是可以在任何场景下，点击状态栏的 Copilot 图标，或者使用快捷键 WIN + C ，就可以在屏幕的最右侧直接使用，而原本显示的内容也会自动缩放，分屏等操作也会自动在当前的页面大小下进行划分。整个应用给人的初印象，是把 Bing Chat 的网页以 Electron 应用的形式提供给了用户。\nCopilot 会自动占据屏幕的最右侧，且自动设置在总是在顶部，而桌面部分也会自动调节大小。\n功能特点\n \nCopilot 推出已经有一段时间了，之前的 Logo 也与这次发布的不同。在我目前所在的内测预览版本中，Copilot 能够完成一些非常简单的与系统交互的工作，像是截图，打开某些应用，很有一种之前呼出 Cortana （Windows 在 Copilot 提供服务之前的语音助手）来完成一些打开应用程序这方面工作的感觉，它算不上应用到了大语言模型技术的智能。\n我也尝试在 Edge 里面打开一个网页让它对当前页面进行总结，似乎是做到了；但是在 Chrome 或者其他页面的时候，它有时候又会提示没有办法访问到你的屏幕或者给出错误的答案。这个时候，当我们点击浏览器地址栏的时候，复制…",
-          "link": "https://sspai.com/post/83193",
-          "publishedOn": "2023-09-30T00:50:27.000Z",
-          "wordCount": 896,
-          "title": "Windows Copilot：操作系统层面的 AI 助手？",
-          "imageUrl": "https://cdn.sspai.com/2023/09/25/ff5d25e673e4a63afbb7692ba5766a70.jpg"
         }
       ]
     },
@@ -484,6 +464,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76473",
+          "author": null,
+          "description": "发表于《科学》和《细胞》的两项研究表明，黑猩猩会经历更年期，其他数十种哺乳动物中的雌性的寿命的长短会超过其繁殖能力存在的时间。更年期对于人类来说是正常的生理阶段。其间，随着卵子储备的减少、怀孕所需的激素水平下降，最终月经周期停止。而研究人员所能确定的存在死亡前繁殖减少甚至停止现象的，只有少数物种的雌性，比如虎鲸。研究人员通过通过人口统计学测量，确定了雌性黑猩猩在最后一次繁衍后能存活多久，发现平均存活时长为 8 年，占雌性黑猩猩成年期的 20%。而这一数字在科学家统计的几乎所有其他物种中接近 0%。但黑猩猩的繁殖后阶段长度仍然比不上人类，后者成年后 40% 至 70% 的时间都处于繁殖后阶段。",
+          "link": "https://www.solidot.org/story?sid=76473",
+          "publishedOn": "2023-10-29T14:20:43.000Z",
+          "wordCount": 154,
+          "title": "更年期在哺乳动物中可能十分普遍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76472",
+          "author": null,
+          "description": "通用汽车旗下的自动驾驶子公司 Cruise 暂停了全美的无人出租车运营。此前加州以其自动驾驶出租车对公共安全构成危险为由撤销了其无人运营许可证，该公司的出租车可以有司机监督的情况下继续运营。10 月 2 日一位行人被一辆汽车撞倒，正好倒在 Cruise 的无人出租车行进路线上，汽车碾过了行人，在停下来前将其拖了大约 6 米。Cruise 表示正在与监管机构合作调查这起事故，其工程师正在改善出租车对这种极端罕见事故的应对能力。美国国家公路交通安全管理局（NHTSA）已经宣布将对 Cruise 展开调查，它收到了两起 Cruise 无人出租车造成行人受伤的报告。Cruise 称它主动暂停全部无人出租车运营，检查其流程、系统和工具，反思如何重建公众信任。",
+          "link": "https://www.solidot.org/story?sid=76472",
+          "publishedOn": "2023-10-29T14:14:15.000Z",
+          "wordCount": 160,
+          "title": "Cruise 暂停全美的无人出租车运营",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76471",
+          "author": null,
+          "description": "波士顿动力的 YouTube 账号发布了一则新视频，演示了它的四足机器狗 Spot 在 ChatGPT 的帮助下用不同语音和口音流畅说话，它能用英国绅士或女孩的口音与人对话。这项成就是一次黑客马拉松的成果，工程师尝试将 ChatGPT、语音识别软件等 AI 技术与 Spot 结合，创造出某种令人毛骨悚然的结果。机器狗能扮演不同的角色，其中之一是导游机器人。在视频中 Spot 说，“欢迎来到波士顿动力，我是 Spot，你的导游机器人。” Spot 看起来对波士顿动力的建筑物布局相当了解，能根据与人的对话做出反应，比如对话者说口渴了，机器人能将人引导到有咖啡机的零食区。",
+          "link": "https://www.solidot.org/story?sid=76471",
+          "publishedOn": "2023-10-29T13:17:20.000Z",
+          "wordCount": 165,
+          "title": "波士顿动力让机器狗用 ChatGPT 说话",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76470",
           "author": null,
@@ -2843,66 +2853,6 @@
           "wordCount": 155,
           "title": "瑞士冰川体积两年损失十分之一",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76232",
-          "author": null,
-          "description": "AMD 释出了原计划二季度末但最终在三季度末发布的新一代上采样技术 FSR 3。目前只有两款游戏《Forspoken》和《Immortals of Aveum》支持，AMD 表示未来会有更多游戏加入 FSR 3，源代码将通过 GPUOpen.com 发布。FSR 3 类似英伟达的 DLSS3，但不是基于英伟达的私有 CUDA 核心，而是基于软件，两大特性包括支持帧生成，以及新的 Native AA 质量模式。FSR 3 支持 AMD 的 RX 5000 到 7000 系列显卡，也支持英伟达的 RTX 20 和 30 系列显卡。",
-          "link": "https://www.solidot.org/story?sid=76232",
-          "publishedOn": "2023-09-30T10:49:44.000Z",
-          "wordCount": 185,
-          "title": "AMD 发布 FSR 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76231",
-          "author": null,
-          "description": "作为逃税调查的一部分，印度税务部门搜查了联想位于本地治理（Puducherry）联邦属地的一座工厂以及位于班加罗尔市的一个办事处。调查人员搜查了联想雇员的笔记本电脑，并在搜查期间和之后尝试联系联想的高管。联想证实了这次搜查，表示正配合当局调查，提供一切可能需要的支持。联想表示它遵守了每个司法管辖区的所有适用法律、法规和要求。印度税务部门本周早些时候还调查了伟创力位于泰米尔纳德邦的设施。",
-          "link": "https://www.solidot.org/story?sid=76231",
-          "publishedOn": "2023-09-30T08:44:58.000Z",
-          "wordCount": 141,
-          "title": "印度查税联想办事处",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76230",
-          "author": null,
-          "description": "苹果更新了“App 信息”中“在中国大陆的供应情况”，要求 App 有备案号才能在中国大陆的 App Store 中上架。这意味着大部分外国应用将无法通过 App Store 在中国区提供下载。苹果称：中国工业和信息化部（MIIT）要求 App 必须具备有效的互联网信息服务提供者（ICP）备案号。此外，游戏 App 必须取得网络游戏出版物号。图书和报刊杂志 App 必须持有中国国家新闻出版署（NPPA）颁发的《网络出版服务许可证》。包含宗教内容的 App 必须持有中国国家宗教事务局（NRAA）颁发的《互联网宗教信息服务许可证》。新闻 App 必须持有中国国家互联网信息办公室（CAC）颁发的《互联网新闻信息服务许可证》。如果你已经或计划在中国大陆的 App Store 中提供上述类型的 App，则必须提供相关信息和证明文件。如果 App 符合上述情况，请在“App 信息”页面的相应位置填写 ICP 备案信息。为方便 Apple 验证你的网络游戏出版物号，请上传游戏的 ISBN（国际标准书号）核发单或批复文件，以及最新营业执照的副本。此外，你还可以上传相应运营单位的授权协议。为方便 Apple 验证你的出版许可，请上传《网络出版服务许可证》或中国国家新闻出版署颁发的其他相关许可、授权方提供的出版许可授权书、营业执照、ICP 许可证或类似的证明文件。为方便 Apple 验证你的互联网宗教信息服务许可，请上传《互联网宗教信息服务许可证》、授权方提供的许可授权书、营业执照、ICP 许可证或类似的证明文件。为方便 Apple 验证你的互联网新闻信息服务许可，请上传《互联网新闻信息服务许可证》、授权方提供的许可授权书、营业执照、ICP 许可证或类似的证明文件。",
-          "link": "https://www.solidot.org/story?sid=76230",
-          "publishedOn": "2023-09-30T07:47:04.000Z",
-          "wordCount": 193,
-          "title": "苹果中国 App Store 将不允许未备案应用上架",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76229",
-          "author": null,
-          "description": "对于登陆月球南极地区的印度探测器月船 3 号，中国科学院院士欧阳自远认为其登陆地点距离南极还比较远。他解释道：“月球的自转轴与黄道面法线的夹角只有1.5度，几乎垂直黄道面。我们通常参照地球的情况，把月球上纬度88.5度到90度的区域称为月球的‘南极’极区与‘北极’极区。”根据测算，“月船3号”的着陆点与月球“南极极区”的最短距离还有 619 公里，距离极区还很远。因此，欧阳自远表示：“错了！‘月船3号’着陆地点不在月球‘南极’、不在月球‘南极’的极区，也不在‘南极极区附近’。”他认为，客观、真实地说，“月船3号”着陆在月球南纬69.37度、东经32.35度的位置。",
-          "link": "https://www.solidot.org/story?sid=76229",
-          "publishedOn": "2023-09-29T15:36:50.000Z",
-          "wordCount": 146,
-          "title": "欧阳自远认为印度月球探测器登陆地点距离南极还比较远",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76228",
-          "author": null,
-          "description": "在瑞士 Biel 举行的 GNU Hacker 会议上，Richard Stallman 透露他被诊断患有淋巴瘤。他没有透露更多健康信息，只是表示病情是可控制的，他预计还能活好多年。淋巴瘤是一种比较常见的癌症。某些型态的淋巴瘤可能必须采用所谓“观察等待”的策略，而某些型态则可治愈。在美国，霍奇金氏淋巴瘤的五年整体存活率约 87%，而非霍奇金氏淋巴瘤则为 72%。",
-          "link": "https://www.solidot.org/story?sid=76228",
-          "publishedOn": "2023-09-29T15:23:36.000Z",
-          "wordCount": 161,
-          "title": "Richard Stallman 透露他被诊断患有癌症",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76227",
-          "author": null,
-          "description": "Mozilla 设立的 Mastodon 实例 Mozilla.Social 开放使用。Mozilla 是在去年底宣布将在 Mozilla.Social 上测试一个可公开访问的联邦宇宙（Fediverse）实例。去中心化社交服务的核心开放标准是 ActivityPub。ActivityPub 是一个 W3C 标准，允许人人都加入到一个联邦宇宙中，用户可以设立自己的域名、制定自己的政策和社区规则，确定自己的隐私设置，使用自己的账号与其他人互动。微博客服务 Mastodon 是目前最知名的 ActivityPub 项目。Mozilla 此前表示，Mozilla.Social 的内容政策不同于其它社交平台，不自诩是一个中立的平台，它认为中立经常充当了允许恶意和骚扰行为的借口。Mozilla.Social 的内容政策是建立在 Mozilla 宣言所阐述的目标和价值观之上。不喜欢这些规则的人可以自由的加入其它平台。",
-          "link": "https://www.solidot.org/story?sid=76227",
-          "publishedOn": "2023-09-29T15:10:48.000Z",
-          "wordCount": 170,
-          "title": "Mozilla Social 实例开放使用",
-          "imageUrl": null
         }
       ]
     },
@@ -2911,6 +2861,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/752745/",
+          "author": null,
+          "description": "摘要：中国航天员乘组完成在轨交接。 10 月 29 日，神舟十六号、神舟十七号航天员乘组进行交接仪式，两个乘组移交了中国空间站的钥匙。 截至目前，神舟十六号航天员乘组已完成全部既定任务，将于 10 月 31 日乘坐神舟十六号载人飞船返回东风着陆场。 神舟十六号飞行任务是中国载人航天工程进入空间站应用\n本文链接",
+          "link": "https://news.cnblogs.com/n/752745/",
+          "publishedOn": "2023-10-30T00:59:43.000Z",
+          "wordCount": 163,
+          "title": "中国航天员乘组完成在轨交接，“博士乘组”将于10月31日返回地球",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752744/",
+          "author": null,
+          "description": "IT 之家 10 月 29 日消息，据博主 @钢炮同学啊，蔚来汽车今日举办 NIO Phone 手机的“车手互联”体验沙龙活动，车手互联负责人李赟对部分网传消息进行了回应。 此前，网上有传闻称蔚来手机 NIO Phone 是由 OPPO 代工的，其内置系统 SkyUI 基于魅族的 Flyme，李赟对\n本文链接",
+          "link": "https://news.cnblogs.com/n/752744/",
+          "publishedOn": "2023-10-30T00:58:36.000Z",
+          "wordCount": 163,
+          "title": "蔚来回应“NIO Phone手机是否OPPO代工”：确实谈过合作但没成功",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752743/",
+          "author": null,
+          "description": "新智元报道 编辑：润贝果 【新智元导读】《Nature》发表了一篇对全球的博士后的调查采访，大多数人认为像 ChatGPT 这样的聊天机器人工具极大地便利了自己的科研与日常工作，表示出对这项技术革命性工具的强大潜力。 在《Nature》对全球的博士后进行的调查表明，有三分之一的的受访者正在使用 AI\n本文链接",
+          "link": "https://news.cnblogs.com/n/752743/",
+          "publishedOn": "2023-10-30T00:57:37.000Z",
+          "wordCount": 163,
+          "title": "Nature | 全世界1/3博士后每天使用ChatGPT，不用AI工具影响找工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752742/",
+          "author": null,
+          "description": "kid 投稿自凹非寺 量子位公众号 QbitAI 北大团队最新研究发现：随机 token 都能诱发大模型出现幻觉！ 比如喂给大模型（Vicuna-7B）一段“乱码”，它就莫名其妙弄错了历史常识。 或者是简单修改提示词，大模型也会掉入陷阱。 Baichuan2-7B、InternLM-7B、ChatG\n本文链接",
+          "link": "https://news.cnblogs.com/n/752742/",
+          "publishedOn": "2023-10-30T00:53:09.000Z",
+          "wordCount": 163,
+          "title": "北大团队：诱导大模型“幻觉”只需一串乱码！大小羊驼全中招",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752741/",
+          "author": null,
+          "description": "近日，太二酸菜鱼疑似遭大众点评“屏蔽”一事备受关注，最终以太二酸菜鱼和大众点评发布联合声明告终。 值得注意的是，双方的这场“小插曲”，发生在太二酸菜鱼在抖音上首次进行直播卖货的第二天，如今，抖音直播也逐渐成了越来越多餐饮企业的新阵地。 大众点评与太二风波 持续数日的太二酸菜鱼（下称“太二”）疑似遭大\n本文链接",
+          "link": "https://news.cnblogs.com/n/752741/",
+          "publishedOn": "2023-10-30T00:51:13.000Z",
+          "wordCount": 163,
+          "title": "大众点评疑似下架太二风波背后：餐饮企业拥抱抖音流量，线上平台怎么选",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752740/",
+          "author": null,
+          "description": "根据多家媒体报道，克莱斯勒母公司 Stellantis 集团与全美汽车工人联合会(UAW)达成初步协议，将结束为期六周的罢工。就在几天前，福特汽车也与工会达成了初步协议。 与此同时，UAW 与通用汽车的协议尚未达成。不过，媒体引述知情人士消息称，谈判仍在继续进行，在福特和 Stellantis 均达\n本文链接",
+          "link": "https://news.cnblogs.com/n/752740/",
+          "publishedOn": "2023-10-30T00:48:26.000Z",
+          "wordCount": 163,
+          "title": "美国汽车业大罢工接近终局，工会赢了，美国车要继续涨价了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752739/",
+          "author": null,
+          "description": "文 / 八真 华为交出了一份满血复活的成绩单。 数据显示，2023 年前三季度，华为实现营收 4566 亿元，同比增长 2.4%；初步估算，净利润约 730.56 亿元，是 2022 年全年净利润（356 亿元）的两倍以上；报告期净利润率高达 16%，相较去年同期净利润率 6.1%，大幅提高。 对于\n本文链接",
+          "link": "https://news.cnblogs.com/n/752739/",
+          "publishedOn": "2023-10-30T00:47:26.000Z",
+          "wordCount": 163,
+          "title": "前三季大赚730亿，谁在给华为「补能」？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752738/",
+          "author": null,
+          "description": "IT 之家 10 月 30 日消息，OpenAI 目前正在为 ChatGPT Plus 会员推出新的测试版功能，有用户反馈，这次更新包括了上传文件和处理文件的能力，以及多模态支持。这意味着用户不需要从 GPT-4 的下拉菜单中选择像 Browse with Bing 这样的模式，而是根据上下文自动猜\n本文链接",
+          "link": "https://news.cnblogs.com/n/752738/",
+          "publishedOn": "2023-10-30T00:46:24.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT测试新功能：可自动根据上下文选择相关工具使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752737/",
+          "author": null,
+          "description": "“我们从始至终，就想跟特斯拉打一仗。”10 月 28 日，极越 CEO 夏一平在接受澎湃新闻等媒体采访时如是说。 一天之前的 10 月 27 日，夏一平带领的极越历经两年零四个月的时间终于把首款产品推上市。极越是吉利控股旗下高端智能汽车机器人品牌，由吉利控股集团和百度联手打造，其前身正是百度和吉利合\n本文链接",
+          "link": "https://news.cnblogs.com/n/752737/",
+          "publishedOn": "2023-10-30T00:34:07.000Z",
+          "wordCount": 163,
+          "title": "极越01上市，CEO夏一平：不想用低价换销量，目标明年月销过万辆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752736/",
+          "author": null,
+          "description": "10 月 28 日消息，据知情人士透露，谷歌已经同意在此前投资的基础上，再向 OpenAI 竞争对手 Anthropic 至多投资 20 亿美元。此举可能促使人工智能领域的初创公司加剧竞争，以争取首先取得下一个重大突破。 知情人士说，谷歌同意先期向 Anthropic 投资 5 亿美元，并同意随着时\n本文链接",
+          "link": "https://news.cnblogs.com/n/752736/",
+          "publishedOn": "2023-10-30T00:32:49.000Z",
+          "wordCount": 163,
+          "title": "传谷歌同意向OpenAI竞争对手Anthropic至多投资20亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752735/",
+          "author": null,
+          "description": "「核心提示」 三年半亏损超过两百亿，负债率远高于行业平均水平，极兔如何撑起千亿市值？ 作者 宋子豪 编辑 刘杨 10 月 27 日，极兔速递正式在港交所主板挂牌上市，发行价为每股 12 港元，全球发售约 3.266 亿股股份，募资金额约为 35.28 亿港元。按照发行价计算，极兔市值约 1057 亿\n本文链接",
+          "link": "https://news.cnblogs.com/n/752735/",
+          "publishedOn": "2023-10-30T00:32:21.000Z",
+          "wordCount": 163,
+          "title": "三年烧两百亿的极兔，撑得起千亿市值吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752734/",
+          "author": null,
+          "description": "摘要 正式发布汽车前，雷军又做了一次施法前摇。 小米又开了一次发布会，不出意外地吸引了科技圈和众多米粉的关注，也不出意外地仍然没有公布汽车业务的进展。 对于消费者来说，这次发布会上小米带来了一系列全新产品：包括数字高端旗舰小米 14 系列，以及 Xiaomi Watch S3、小米电视 S Pro \n本文链接",
+          "link": "https://news.cnblogs.com/n/752734/",
+          "publishedOn": "2023-10-29T10:25:39.000Z",
+          "wordCount": 163,
+          "title": "雷军已经想好了小米「全家桶」的新故事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752733/",
+          "author": null,
+          "description": "别说人了，但凡是个杂食动物，就很难不对高脂高热量的好吃的食指大动。我不是在阴阳比起肉更爱蔬菜的人，只是从进化角度来说，如有机会，饱食热量的确是上上之选。 当然，每天每夜火锅炸鸡冰淇淋肯定不可取，但逢年过节总得吃几天好的，应该没啥吧？ 本周，《自然·免疫学》杂志发表了一项有意思的研究，德国科学团队发现\n本文链接",
+          "link": "https://news.cnblogs.com/n/752733/",
+          "publishedOn": "2023-10-29T09:53:25.000Z",
+          "wordCount": 163,
+          "title": "《自然》子刊：天降大餐竟是免疫毒药！科学家发现，偶尔一顿高脂大餐，会短期抑制免疫，增加对病原体的易感性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752732/",
+          "author": null,
+          "description": "近日，索尼推出了一款新形态的音箱——积木音箱 HT-AX7。 顾名思义，这是一款能够分体组合使用的音箱。顶部的小圆饼能拆出来变成一个简单的无线音箱。 先来看看包装，索尼在 WF-1000XM4 那段时间开始启用了环保包装。这个白色又带点类似巧克力碎片小黑点的椭圆形包装，刚好能够把一整个 HT-AX7\n本文链接",
+          "link": "https://news.cnblogs.com/n/752732/",
+          "publishedOn": "2023-10-29T03:56:19.000Z",
+          "wordCount": 163,
+          "title": "索尼 HT-AX7 体验：像积木一样分拆组合，索尼用真无线耳机的玩法做了一款音响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752731/",
+          "author": null,
+          "description": "《Wired》杂志发表文章 \"The GitHub Black Market That Helps Coders Cheat the Popularity Contest\"，介绍了交易 GitHub Stars 的地下黑市。 GitHub 平台托管项目的受欢迎程度能够为部分程序员和创业公司打开一扇大\n本文链接",
+          "link": "https://news.cnblogs.com/n/752731/",
+          "publishedOn": "2023-10-29T03:55:04.000Z",
+          "wordCount": 163,
+          "title": "国外物价高，6 美元只能买 50 个 GitHub stars",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752730/",
+          "author": null,
+          "description": "Canalys 发布的最新数据显示，2023 年第三季度，中国智能手机市场出货连续两个季度下跌平缓，同比下滑5% 至 6670 万部。 除了荣耀以 18% 的市场份额重返第一之外，另外一大看点就是，华为通过 Mate 60 系列的发布，市场份额持续攀升，逐渐逼近头部厂商。 Canalys 公布的数据\n本文链接",
+          "link": "https://news.cnblogs.com/n/752730/",
+          "publishedOn": "2023-10-29T03:53:10.000Z",
+          "wordCount": 163,
+          "title": "华为新麒麟芯将全线普及！高中低端全面采用 改写竞争格局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752729/",
+          "author": null,
+          "description": "2023 vivo 开发者大会将于 11 月 1 日（下周三）举行，届时，全新系统 OriginOS 4 会正式发布，Slogan 为“流畅好用，智有妙用”。 vivo 品牌副总裁贾净东透露，OriginOS 4 在计算机算法技术上更进一步。 据介绍，OriginOS 4 行业首发虚拟显卡、异构计算\n本文链接",
+          "link": "https://news.cnblogs.com/n/752729/",
+          "publishedOn": "2023-10-29T03:52:17.000Z",
+          "wordCount": 163,
+          "title": "vivo OriginOS 4下周发布！行业首发虚拟显卡：系统更流畅 支持光追",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752728/",
+          "author": null,
+          "description": "随着小米 14 系列评测解禁，有博主和网友发现，澎湃 OS 的开机画面依然显示“Powered by Android”，系统参数信息安卓版本基于 Android 14。 有业内人士表示，目前来看，澎湃 OS 还处于初级阶段，技术积累和市场推广都需要时间。以兼容安卓为卖点，以此帮助用户实现平滑转移。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/752728/",
+          "publishedOn": "2023-10-29T03:52:01.000Z",
+          "wordCount": 163,
+          "title": "小米澎湃OS开机画面显示仍基于安卓 业内人士：国产厂商摆脱安卓需要时间",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752727/",
+          "author": null,
+          "description": "US v. Google 反垄断案凸显了默认设置的重要性，即使 Google 是搜索市场上最出色的产品，切换搜索引擎对用户而言也十分容易，但搜索巨人为了成为浏览器和手机等不同产品的默认搜索引擎而在 2021 年支付了多达 263 亿美元的费用。这个数字是美国司法部在询问 Google 搜索业务负责人\n本文链接",
+          "link": "https://news.cnblogs.com/n/752727/",
+          "publishedOn": "2023-10-29T03:48:35.000Z",
+          "wordCount": 163,
+          "title": "Google 在 2021 年为默认搜索交易支付了 263 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752726/",
+          "author": null,
+          "description": "部分 Android 14 用户遭遇了某种“勒索软件”攻击，不过该勒索软件是 Google 开发的，Google 开发者目前似乎对此不太重视，将该 bug 的处理标记为中优先级。bug 主要影响使用了多配置文件的用户，多用户配置文件系统允许在一台设备上创建多个账号，允许将工作数据和个人数据分隔开来。\n本文链接",
+          "link": "https://news.cnblogs.com/n/752726/",
+          "publishedOn": "2023-10-29T03:47:51.000Z",
+          "wordCount": 163,
+          "title": "Android 14 bug 会锁定多配置文件用户的设备",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/752723/",
           "author": null,
@@ -7979,226 +8129,6 @@
           "publishedOn": "2023-10-01T14:28:00.000Z",
           "wordCount": 163,
           "title": "蔚来迎来质变时刻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751249/",
-          "author": null,
-          "description": "文深渡 Cross，作者方块三 近几年，字节在搜索入口上落子频频，似乎已经成为了互联网行业每年的保留节目。 2020-2021 年，确定下注搜索赛道的字节，先后建立了头条搜索、抖音搜索两个内部生态的搜索入口。且于 2021 年底将头条搜索团队融入到抖音事业部，实现二合一，意图谋划“视频+图文”的新型\n本文链接",
-          "link": "https://news.cnblogs.com/n/751249/",
-          "publishedOn": "2023-09-30T12:22:00.000Z",
-          "wordCount": 163,
-          "title": "再抢搜索入口，张一鸣对李彦宏发动“闪电”战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751248/",
-          "author": null,
-          "description": "为了应对财务危机，游戏行业巨头 Epic Games 即将开启一次大规模裁员。 彭博社于美国时间 9 月 28 日爆料，Epic Games 将整体裁员 16%，大约 830 名员工将离开 Epic Games。 几个小时后，Epic Games 首席执行官蒂姆·斯维尼（Tim Sweeney）发布\n本文链接",
-          "link": "https://news.cnblogs.com/n/751248/",
-          "publishedOn": "2023-09-30T12:16:00.000Z",
-          "wordCount": 163,
-          "title": "Epic Games将裁员16%，财务收入状况堪忧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751247/",
-          "author": null,
-          "description": "文智行驾道 又是一年十一长假，看各路人马堵在路上、饭店、旅游景区，已经成为了互联网不可错过的段子盛筵。但要说哪个群体最惨，恐怕非“电动爹”车主们莫属。出城堵、上高速堵、下高速堵，就连充电也要接着堵，充电站到处车满为患，等着充电的车都可以环绕地球多少圈了。 交通运输部预计，今年中秋、国庆假期期间，全国\n本文链接",
-          "link": "https://news.cnblogs.com/n/751247/",
-          "publishedOn": "2023-09-30T12:10:00.000Z",
-          "wordCount": 163,
-          "title": "长假开电车，容易哭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751246/",
-          "author": null,
-          "description": "IT 之家 9 月 30 日消息，苹果首席执行官蒂姆・库克（Tim Cook）近日在接受《独立报》采访时，他表示每晚都会使用 Vision Pro 头显一段时间，并坚信空间计算的未来，将其描述为 Aha Moment。 库克在采访中表示：“现阶段人们对于头显的看法存在巨大差异，在佩戴过后可能会改变他\n本文链接",
-          "link": "https://news.cnblogs.com/n/751246/",
-          "publishedOn": "2023-09-30T12:00:00.000Z",
-          "wordCount": 163,
-          "title": "库克看好Vision Pro头显前景 称佩戴者会感受到“顿悟时刻”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751245/",
-          "author": null,
-          "description": "传统的节日中秋节，也是团圆的日子。很多公司都会给员工发一些礼物，近日华为不少员工在网上晒出的中秋节礼物就让人十分羡慕，因为里面居然有一部华为 Mate60 手机。 从华为员工在社交媒体上晒出的图片来看，他们收到的中秋节礼物十分丰厚，其中最吸引眼球的就是一部华为 Mate60 手机，这是华为最新推出的\n本文链接",
-          "link": "https://news.cnblogs.com/n/751245/",
-          "publishedOn": "2023-09-30T11:55:00.000Z",
-          "wordCount": 163,
-          "title": "华为员工中秋节礼物包括Mate 60手机 节前发一批下一批在12月",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751244/",
-          "author": null,
-          "description": "分析师郭明錤表示，目前苹果公司对 Apple Car 的研究已经“完全失去了知名度”。他说，如果苹果不采取某种收购策略来进军汽车市场，那么‌Apple Car‌就不太可能在未来几年内投入批量生产。 诚然，2023 年‌Apple Car‌‌的传闻很少，这让我们几乎无法洞察苹果目前的动向。Apple \n本文链接",
-          "link": "https://news.cnblogs.com/n/751244/",
-          "publishedOn": "2023-09-30T11:50:00.000Z",
-          "wordCount": 163,
-          "title": "几个月没有Apple Car的消息了 2026年无法发布？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751243/",
-          "author": null,
-          "description": "据彭博社报道，早在 2020 年，微软就曾考虑将必应搜索引擎出售给苹果。如果收购成功，必应将取代谷歌，成为苹果设备上的默认搜索引擎。 微软高管曾与苹果服务主管埃迪·库伊会面，讨论一项潜在的交易，但谈判只是试探性的，没有取得进展。 据彭博社报道，苹果没有推进交易，是因为它从谷歌那里赚到了钱，也因为它担\n本文链接",
-          "link": "https://news.cnblogs.com/n/751243/",
-          "publishedOn": "2023-09-30T11:45:00.000Z",
-          "wordCount": 163,
-          "title": "2020年 微软就曾考虑将必应搜索引擎出售给苹果",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751242/",
-          "author": null,
-          "description": "Node.js 团队近期发布了 20. 6.0 版本，对环境变量配置、模块解析、模块自定义进行提升，同样还有对 C++ 垃圾回收的实验性支持。 本次更新中为开发人员新增了对 .env文件的内置支持功能.这类文件采用 INI 文件格式，提供对环境变量的简单配置方法。开发者可通过命令行指令 node -\n本文链接",
-          "link": "https://news.cnblogs.com/n/751242/",
-          "publishedOn": "2023-09-30T11:40:00.000Z",
-          "wordCount": 163,
-          "title": "Node.js 2023 版本发布：加速 JavaScript 开发",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751241/",
-          "author": null,
-          "description": "9 月 29 日消息，诺基亚携手德国i.safe MOBILE GmbH 公司，推出诺基亚 HHRA501x 和诺基亚 IS540.1 两款坚固型手机，主要适用于石油、天然气、采矿和化工等工业环境，通过了严苛的耐用性测试。 诺基亚表示，用户可以在爆炸风险的地方（例如 ATEX Zone 1 级别）和\n本文链接",
-          "link": "https://news.cnblogs.com/n/751241/",
-          "publishedOn": "2023-09-30T11:35:00.000Z",
-          "wordCount": 163,
-          "title": "诺基亚与合作伙伴推出两款坚固型手机 适用于工业环境",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751240/",
-          "author": null,
-          "description": "OPPO 小布助手公布了 OPPO 公布安第斯大模型（AndesGPT）的最新进展，该模型登上 SuperCLUE 测评基准的 9 月排行榜。 据介绍，AndesGPT 为 OPPO 自主训练的生成式大语言模型，在 8 月初开始随着 OPPO 智能助理小布启动对外邀测，旨在对传统语音助手进行内核级升\n本文链接",
-          "link": "https://news.cnblogs.com/n/751240/",
-          "publishedOn": "2023-09-30T11:28:00.000Z",
-          "wordCount": 163,
-          "title": "OPPO公布安第斯大模型最新进展 知识与百科能力测试仅次于GPT4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751239/",
-          "author": null,
-          "description": "9 月 29 日消息，极氪汽车宣布登陆中东海湾四国，于 9 月 29 日在上海分别与阿联酉 AW ROSTAMANI 集团、沙特 WALLAN 集团、卡塔尔 BLUE LAKE MOTORS、巴林Y.K. ALMOAYYED&SONS 集团签署了国家级总代协议，将共建中东四国极氪销售服务网络。 IT\n本文链接",
-          "link": "https://news.cnblogs.com/n/751239/",
-          "publishedOn": "2023-09-30T11:22:00.000Z",
-          "wordCount": 163,
-          "title": "极氪汽车进入海湾四国 已同多家集团签署总代协议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751238/",
-          "author": null,
-          "description": "9 月 30 日消息，据国外媒体报道，日本经济产业省正在探讨向半导体巨头美光科技的广岛工厂提供最多 1900 亿日元（约合人民币 93 亿元）规模的补贴。 美光将在广岛工厂引进最尖端生产设备“极紫外光（EUV）光刻装置”，还计划 2026 年起量产新一代 DRAM（动态随机存取内存）。 日本还决定向\n本文链接",
-          "link": "https://news.cnblogs.com/n/751238/",
-          "publishedOn": "2023-09-30T11:18:00.000Z",
-          "wordCount": 163,
-          "title": "外媒：日本考虑向美光科技提供1900亿日元补贴",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751237/",
-          "author": null,
-          "description": "IT 之家 9 月 30 日消息，据彭博社援引“熟悉内情”的人士称，欧盟正在对 AI 芯片市场涉嫌“反竞争”的滥用行为展开早期调查，其中英伟达占据主导地位。 据报道，欧盟委员会一直以非正式手段来收集有关“GPU 领域潜在滥用市场优势地位行为”的意见，以了解未来是否有必要进行干预。不过在初期阶段，这些\n本文链接",
-          "link": "https://news.cnblogs.com/n/751237/",
-          "publishedOn": "2023-09-30T11:10:00.000Z",
-          "wordCount": 163,
-          "title": "因涉嫌AI芯片“反竞争”行为 消息称欧盟对英伟达展开早期调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751236/",
-          "author": null,
-          "description": "快科技 9 月 30 日消息，9 月 12 日，问界全新 M7 正式发布，共提供 5 款车型，起售价为 24.98 万至 32.98 万元。 日前，问界汽车公布了中秋节战报，显示 9 月 29 日问界新 M7 大定量突破 2400 台，要知道这只是假期首日的数据，国庆节还没到就已经爆单了，可以说销量\n本文链接",
-          "link": "https://news.cnblogs.com/n/751236/",
-          "publishedOn": "2023-09-30T11:00:00.000Z",
-          "wordCount": 163,
-          "title": "假期爆单！问界新M7单日大定超2400台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751235/",
-          "author": null,
-          "description": "腾讯科技讯，苹果首席执行官蒂姆·库克（Tim Cook）最近在欧洲进行访问。在最后一站英国访问期间，库克先后拜会威廉王子和凯特王妃，访问了位于伦敦超级综合体——巴特西发电站的苹果总部和附近的圣玛丽罗马天主教小学。库克在英国访问期间表示，苹果正积极研究生成式人工智能技术，并表示公司在英国和 AI 领域\n本文链接",
-          "link": "https://news.cnblogs.com/n/751235/",
-          "publishedOn": "2023-09-30T10:14:07.000Z",
-          "wordCount": 163,
-          "title": "苹果CEO库克：承认开发ChatGPT式产品 承诺在AI领域扩招",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751234/",
-          "author": null,
-          "description": "摘要 我有一个更好的想法，但，可能不赚钱。 作者｜一涛 编辑｜靖宇 工程师基因 如果只用一个词描述谷歌的气质，「工程师」应该是最精髓的。从两个小细节就可以看出： 1、公司的名字「Google」来源于「googol」，没有多少人会认识这个单词，它的意思是 10 的 100 次方，1 后面有整整 100\n本文链接",
-          "link": "https://news.cnblogs.com/n/751234/",
-          "publishedOn": "2023-09-30T08:20:00.000Z",
-          "wordCount": 163,
-          "title": "Google 25 周年｜ 2.0——从「X」到「Alphabet」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751233/",
-          "author": null,
-          "description": "法国人工智能初创公司 Mistral AI 宣布推出其首款大语言模型 Mistral 7B 是一个，号称是迄今为止同规模产品中最强大的语言模型；在 Apache-2.0 许可下开源，可完全免费使用，不受任何限制。 Mistral AI 是一个成立仅六个月的初创公司，于 6 月份筹集了 1.18 亿美\n本文链接",
-          "link": "https://news.cnblogs.com/n/751233/",
-          "publishedOn": "2023-09-30T08:10:00.000Z",
-          "wordCount": 163,
-          "title": "Mistral AI 发布 73 亿参数模型，“碾压” Llama 2 13B",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751232/",
-          "author": null,
-          "description": "统信 UOS 官方宣布，微信和 QQ 再次全新升级，现已上线统信 UOS 应用商店。 微信 2.1.8 版本更新（原生适配统信 UOS） 微信自 2021 年底首次适配统信 UOS 以来，经过多次版本更新优化，于近日发布 2.1.8 版本，并正式上线统信 UOS 应用商店。 聊天信息搜索 在聊天窗口\n本文链接",
-          "link": "https://news.cnblogs.com/n/751232/",
-          "publishedOn": "2023-09-30T08:00:35.000Z",
-          "wordCount": 163,
-          "title": "微信、QQ 全新 UOS 版本发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751231/",
-          "author": null,
-          "description": "摘要 一切的一切，开始于那句「我有个更好的想法」。 作者｜年糕 编辑｜靖宇 20 世纪末，千禧年「世界末日」的预言，并不能浇灭信息技术大爆炸给人们带来的 Y2K 热情。使用拨号「小猫」上网的年轻人，丝毫不怀疑互联网带来的「赛博世界」，会早于世界末日来临。 1998 年，和微软在浏览器大战中打的火热的\n本文链接",
-          "link": "https://news.cnblogs.com/n/751231/",
-          "publishedOn": "2023-09-30T07:42:00.000Z",
-          "wordCount": 163,
-          "title": "Google 25 周年｜1.0 少年心气",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751230/",
-          "author": null,
-          "description": "摘要 芯片大佬还没有放弃，头显厂商更不能躺平。 国庆假期前一天，Meta 公司发布了最新的 VR 头显 Quest 3，轻薄的设计，更强调虚拟与现实融合的混合现实体验，采用高通最新的骁龙 XR2 Gen2 芯片，只卖 499 美元，可以说相当亲民。 不过，当天 Meta CEO 扎克伯格用在 Que\n本文链接",
-          "link": "https://news.cnblogs.com/n/751230/",
-          "publishedOn": "2023-09-30T07:38:00.000Z",
-          "wordCount": 163,
-          "title": "想要取代手机的 XR 头显，苦苦搭建底层基础",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751220/",
-          "author": null,
-          "description": "科技日报北京 9 月 27 日电 （记者张佳欣）日本冲绳科学技术大学院大学（OIST）、德国凯泽斯劳滕大学和斯图加特大学的科学家团队合作，利用量子力学原理设计并制造出一种引擎。这是根据粒子在极小尺度上遵守的特殊规则开发的引擎，它不依赖于传统的燃料燃烧方式。相关论文发表在 27 日《自然》杂志上。 自\n本文链接",
-          "link": "https://news.cnblogs.com/n/751220/",
-          "publishedOn": "2023-09-30T00:58:32.000Z",
-          "wordCount": 163,
-          "title": "高效量子引擎开发或将推动量子革命",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/751219/",
-          "author": null,
-          "description": "科技日报北京 9 月 27 日电 （记者刘霞）一个国际天文学家团队在最新一期《天体物理学杂志》上发表论文称，他们利用詹姆斯·韦布空间望远镜（JWST）提供的数据发现，像银河系这样的星系在整个宇宙中占主导地位，而且非常常见，其中很多星系已经超过 100 亿岁“高龄”。最新研究或将改写宇宙演化理论。 银\n本文链接",
-          "link": "https://news.cnblogs.com/n/751219/",
-          "publishedOn": "2023-09-30T00:13:47.000Z",
-          "wordCount": 163,
-          "title": "早期宇宙惊现大量类银河系星系",
           "imageUrl": null
         }
       ]
