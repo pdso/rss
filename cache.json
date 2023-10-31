@@ -49,6 +49,26 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/83941",
+          "author": "雷墨阅读",
+          "description": "维克托·迈尔-舍恩伯格等在《框架思维》中指出，高手做事都有自己的框架。框架能够帮助我们准确定义问题、设计策略，并深入把握事物的本质。\n在我看来，卡片笔记阅读法就是在我脑子里建构的第一个符合个人需求的阅读框架。根据我之前写的文章《究竟什么是“效率”，为什么要提高“效率”》对效率本质的定义，采用卡片笔记阅读法后，我的阅读效率确实显著得到提高。\n例如，在卡片笔记阅读法的帮助下，我每年的阅读量从之前的不到2本到现在的不少于100本，并且能够保持大概每三天左右输出一篇文章。我深切感受到这个框架对于提高个人学习和知识管理的有效性。\n因此，我希望将自己在提升阅读效率方面所积累的经验和总结分享出来，以帮助更多的人受益。\n本文将从卡片笔记阅读法的简介、卡片笔记阅读法与传统阅读方法的区别、如何实践卡片笔记阅读法以及案例分析等四个方面向大家介绍这种高效的阅读方法。\n\n \n01\n \n卡片笔记阅读法的简介\n实际上，今天我要介绍的“卡片笔记阅读法”是我在学习了《卡片笔记写作法：如何实现从阅读到写作》这本书后，逐渐构建出的一套学习和阅读框架。这本书主要强调了卡片笔记在写作过程中的优势和有效性。\n \n而我在学习卢曼卡片笔记写作法的原则后，将其应用到自己的实际阅读工作流程中，逐渐形成了这套拥有自己独特视角的卡片笔记阅读法。\n卡片笔记阅读法侧重于在阅读过程中主动思考、总结和分类信息的重要性，旨在建立属于自己的有机知识体系，以便于后续的复习、回顾和应用。\n操作的方法通常包括以下步骤：首先，将阅读过程中的笔记记录在独立于书本的、格式标准统一的卡片上。然后，根据不同的卡片类型，将其存放入相应的卡片盒中。同时需要，对卡片进行整理、分组或标签化，以便于组织、回顾和应用知识。\n每张卡片通常只会包含一个观点、概念、引用、事实或其他关键信息。并且，通过添加标签和相互链接，我们可以形成新的创意思维，并建构属于自己的知识体系。\n…",
+          "link": "https://sspai.com/post/83941",
+          "publishedOn": "2023-10-29T13:33:12.000Z",
+          "wordCount": 595,
+          "title": "卡片笔记阅读法：提升阅读效率的有效框架",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/83937",
+          "author": "别为馒头",
+          "description": "9 月 25 日，OpenAI 在其官网宣布为其 ChatGPT 产品新增语音对话和图像对话功能。\n10 月 19 日，OpenAI 宣布图片生成模型 DALL・E 3 对所有 Plus 用户开放。\n图 / OpenAI 官网\n短短一月不到，从文字到语音、图片，ChatGPT 这个当下最热门的 AIGC 应用，悄悄完成了向多模态的华丽变身。\n多模态是什么？为什么 AI 厂商都在追求多模态？对于普通用户而言，ChatGPT 的新功能赋予了它哪些新的角色？\n能看懂图片的多模态模型牛在哪？\n暂且抛开「多模态」的定义不谈，我们就来说说大模型「看懂图片」这件事。\n还记得你第一次听说 GPT-4 是什么时候吗？\n距离 OpenAI 在 3 月 14 日发布 GPT-4 模型，已经过去了将近半年的时间。发布会上，最令人影响深刻的莫过于 GPT-4 向世人展现的超强的多模态能力。通过纸上手绘的草图生成完整的网页代码，这要求 AI 模型不仅「看得见」，更要「看得懂」。\nGPT-4 发布会演示 （图源网络）\n这和我们常见的 OCR 方式不同。\n原有的让大模型「看见」图片的方式，是先将图片进行光学字符识别（OCR)，再将识别出的字符传递给大模型。然而，光学字符识别只能得到对应的字符，撑死也就包含字符在图片中的位置信息，对于非字符信息，自然是无能为力的。\n比如上图的手绘草图生成网页代码的例子，大模型首先要分析图片，辨认出位于本子上的草图以及上面的文字和框架，再根据要求，把草图的排版还原到网页代码中。这种对图片中抽象信息乃至整体的理解能力，是原有的 OCR 方案所不具备的。\n那么，我们难道从来没有过识别图片内容的模型吗？\n当然不是。\n曾经有视频博主测试过各家手机厂商的无障碍辅助功能，发现一线厂商大都会为视障人士提供物体识别功能。打开摄像头，软件可以分析取景框中的画面，并用相对自然的语言为用户描述。比…",
+          "link": "https://sspai.com/post/83937",
+          "publishedOn": "2023-10-29T11:40:37.000Z",
+          "wordCount": 884,
+          "title": "ChatGPT 大更新：迈入多模态的世界",
+          "imageUrl": "https://cdn.sspai.com/2023/10/29/4a7f8405823eaf98b32b70d46312d340.jpg"
+        },
+        {
           "id": "https://sspai.com/post/83892",
           "author": "橙猫涉影",
           "description": "日记功能到现在有660+了，作为摄影，经常需要查看天气，但又希望很轻松就能看到天气信息，最早设计的日记模板，就带有天气Header，这个和风天气的模板一用就是2年，但因为涉及到JS文件的调用，看着那一堆代码我都不想再去改动任何部分。在Obsidian日记的使用中，一直希望如果日记功能像很多日历一样加入节假日、农历等功能，那该多cool。毕竟家人农历生日记忆起来真的痛苦。\n\n这次利用聚合数据API和Obsidian的Templater、日记功能，为日记注入节假日功能，刚好看到有节气、农历、黄历的，就一起加进来了，毕竟来都来了，加多一些也无妨。\n\n准备\n\n聚合数据API，注册后有3个免费的API，需谨慎选择，这是我选了3个万年历之后才发现的！\nObsidian功能：核心功能-日记、第三方插件-Templater，不多说，Ob用户必备的功能了。\n\nObsidian配置\n把日记功能和Templater功能的模板文件夹都设置到同一个文件夹上，日记功能需要具体设置到模板md文件上。\n \n\n为Templater插件配置模板文件夹即可\n\nTemplator相关功能实现\n在模板文件夹的日记模板中(案例只展示API功能)，编写代码(10来行即可)获取API数据，根据聚合数据的API接口文档发送请求，成功后会收到数据，根据相关接口文档解析，并且格式化填入到日记中。具体代码块如下：\n<%*\n    const apiKey = \"填入你的API Key\"\n    let apiDate = tp.date.now(\"YYYY-MM-DD\") //日期格式需根据API的接口文档\n    let ApiAdress = \"http://apis.juhe.cn/fapig/calendar/day\"//API的接口文档提供\n    let apiUrl = ApiAdress + `?date=` +…",
@@ -432,6 +452,16 @@
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
         {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23265",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\niOS & iPadOS 17.2 Beta & Xcode 15.1 Beta 2 Release\n上周苹果发布了 iOS & iPadOS 17.2 、watchOS 10.2 、Xcode 15.1 等系列 Beta 版本的更新。较为重要的信息如下：\nSwiftUI 新增了 API _logChanges() 方便开发者在 Debug 下打印 SwiftUI 的变更。与 _printChanges() 区别仅在于 _logChanges() 会将日志也打印到系统控制台中。此 API 对所有 iOS/iPadOS/watchOS 等都有效。\n对使用 Xcode 15.0 构建包含 swift 代码的 App 会较老的 MAC 版本 (10.13) 启动时崩溃，workaround 方案是添加 $(TOOLCHAIN_DIR)/usr/lib/swift-5.0/macosx/libswiftAppKit.dylib 到 Other Linker Flags 中，此问题在 15.1 Beta 中已修复。详见：swift/issues/68163。\n文章\n🐎 Bad practice: not using Phantom Types\n@Damien：这篇文章讨论了在 Swift 编程中使用虚类型（Phantom Types）引发的错误。作者首先构造了 2 个示例对象，使用虚函数并且导致了错误的行为。随后提出了改进的方案，从而避免了错误的代码行为，想了解 Swift 虚函数感兴趣的同学不妨一读。\n🐎 Designing for spatial computing: from iOS and …",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23265",
+          "publishedOn": "2023-10-30T03:11:29.000Z",
+          "wordCount": 575,
+          "title": "老司机 iOS 周报 #265 | 2023-10-30",
+          "imageUrl": "https://opengraph.githubassets.com/e835290fc076722ae435d5337c1a4ca858b1bc4266f5b0f76e75c65700b05494/SwiftOldDriver/iOS-Weekly/releases/tag/%23265"
+        },
+        {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23264",
           "author": null,
           "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🌟 🐎 云音乐如何「搭」出新首页\n@JonyFang：本文介绍了云音乐如何通过可视化搭建系统支撑新版首页这样的核心场景，提出一套基于性能、动态化和精细化运营角度的解决方案。文章还探讨了动态化能力的重要性、各种动态化方案的能力和性能表现、针对不同业务诉求做出合适选择的必要性。\n🌟 🐕 【iOS】一段防护代码引发的内存风暴\n@Cooper Chen：本文详细描述了腾讯音乐在一次防护代码导致的 OOM 问题上进行排查的过程，不仅详细解释了内存分析问题从基建到详细手段的步骤，也从另一个侧面说明了 Runloop 和 Autoreleasepool 的关系。值得一提的是，这个 OOM 问题的原因是 CF 不同版本在 __CFRunLoopDoObservers 里面遍历 observer 的实现方式不同导致，采用数组方式的高版本系统会出现上述的 OOM 问题，这对于安全气垫相关需求开发同学有着极高的参考价值。\n🌟 🐢 Swift Parameter Packs\n@享耳先森：Swift 5.9 已经发布，除了广为人知的 Macros，还有一项比较少人提到的是 Parameter Packs，本文介绍了 Parameter Packs 的三种使用场景，如想更深入的理解 Swift 5.9 的更新，建议阅读另一篇：What’s new in Swift 5.9?\n🐕 Xcode 15以下版本调试 iOS 17 设备\n@含笑饮砒霜：这是在 Apple 开发论坛上讨论的，关于无法使用 Xcode 14.x 版本调试 iOS 17 设备的问题。最终找到一个行之有效的可行路径。先在终端中运行 defau…",
@@ -464,6 +494,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76483",
+          "author": null,
+          "description": "Mozilla 宣布向基于 Debian 的发行版(如 Debian、Ubuntu、Linux Mint 等)提供 Firefox Nightly 版的 .deb 包。这意味着基于 Debian 或 Ubuntu 的发行版用户可以更容易的通过 APT 包管理器安装更新 Firefox Nightly 版。此外，在额外的编辑器优化和安全加固的帮助下 Firefox Nightly 版的 .deb 包性能更强。",
+          "link": "https://www.solidot.org/story?sid=76483",
+          "publishedOn": "2023-10-30T14:47:04.000Z",
+          "wordCount": 194,
+          "title": "Mozilla 开始提供 Firefox Nightly 的 .deb 包",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76482",
+          "author": null,
+          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 6.6。主要新特性包括：新任务调度器 EEVDF（代表 Earliest Eligible Virtual Deadline First），支持英特尔的防止堆栈缓冲区溢出的安全机制 Shadow Stack，tmpfs 文件系统配额支持和用户扩展属性，显著改进 io_uring 的异步 Direct I/O 性能，fchmodat2() 系统调用，初步支持无缓冲头支持构建内核，kmalloc() 随机性，等等。更多可浏览 KernelNewbies 6.6。",
+          "link": "https://www.solidot.org/story?sid=76482",
+          "publishedOn": "2023-10-30T14:38:26.000Z",
+          "wordCount": 172,
+          "title": "Linux 6.6 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76481",
+          "author": null,
+          "description": "2019 年 1 月登陆月球表面的嫦娥四号搭载了名为月球微型生态系统的装置，这是一个由重庆大学牵头研制的总重 2.608 千克的生物科普试验载荷罐，里面装有种子和昆虫卵，以测试植物和昆虫是否可以于地球外共同生长。该实验载荷罐中除了马铃薯、油菜、棉花、拟南芥、果蝇、酵母 6 种生物，还有 18 毫升水、空气、土壤、热控与两个相机，可以在零下 60 度到零下 80 度内稳定保持适宜生物生存的温度。实验持续了 9 天，在着陆器进入月夜缺乏太阳能后结束，所有生物也都死亡。四年之后，中国科学家分别在《Microgravity Science and Technology》和《Acta Astronautica》上报告了实验结果。实验旨在评估强辐射、强光和低重力环境对地球陆地生物生长和健康的影响。结果显示植物能在这一严酷条件下生长，但其安全性未知，还需要进一步研究。论文主要作者表示，为了在月球和火星上建立基地，人类不可能从地球上运送太多资源，需要就地取材，因此植物种植实验非常重要。",
+          "link": "https://www.solidot.org/story?sid=76481",
+          "publishedOn": "2023-10-30T11:27:28.000Z",
+          "wordCount": 161,
+          "title": "中国科学家报告了嫦娥四号生物生长结果",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76480",
+          "author": null,
+          "description": "一位在毒物控制中心工作的医生被控用致命剂量的痛风药物秋水仙素毒杀妻子。30 岁的 Connor Bowman 被控二级谋杀，他的妻子、32 岁的药剂师 Betty 于 8 月 20 日去世，他声称其妻死于高炎症疾病噬血细胞性淋巴组织细胞增生症(HLH)。警方在调查中发现两人关系恶化，正在协商离婚，Connor 还被发现负债累累，能从妻子死亡中获得 50 万美元的人寿保险金。法医认为死因可疑，需要尸检，而 Connor 则坚持立即火化。尸检发现她的血液中含有高浓度的秋水仙素。她并没有诊断有痛风，医生也没有开过秋水仙素。秋水仙素有剧毒，但因工作方式有毒和无毒的剂量界限模糊。它导致的死亡通常表现为心血管功能衰退，心律失常或心脏骤停等。其致死剂量被认为是每公斤超过 0.8 毫克。警方调查了 Connor 的网络浏览历史，发现他曾将 Betty 的体重乘以 0.8，并从网上购买了液体秋水仙素。他还查询了浏览历史是否可以在法庭上使用，并搜索 VPN 但一开始错误输入为 bpn。",
+          "link": "https://www.solidot.org/story?sid=76480",
+          "publishedOn": "2023-10-30T09:57:06.000Z",
+          "wordCount": 168,
+          "title": "毒物专家用痛风药物毒杀妻子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76479",
+          "author": null,
+          "description": "耐药性细菌病原体数量的增加令人担忧。普通药物对传染病无效的风险越来越大。全球科学家都在寻找新的有效化合物。近几十年来，市场上并没有很多对抗细菌病原体的新物质。一个国际科学家团队发现并破译了一种新抗生素的作用方式。从美国北卡罗来纳州的土壤样本中分离出来的土壤细菌 Eleftheria terrae 亚种 carolina，它能产生新的抗生素化合物 clovibactin，以保护自己免受竞争细菌的侵害。Clovibactin 这种抗生素在攻击细菌细胞壁方面非常有效，包括多重耐药的“超级细菌”。研究人员证明，clovibactin 对细菌细胞壁成分的焦磷酸盐基团具有非常选择性和高特异性的结合，能通过破坏细胞壁杀死细菌。",
+          "link": "https://www.solidot.org/story?sid=76479",
+          "publishedOn": "2023-10-30T08:15:41.000Z",
+          "wordCount": 149,
+          "title": "新抗生素或能对抗超级细菌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76478",
+          "author": null,
+          "description": "科学家首次成功启动了世界最小的粒子加速器。研究报告发表在《自然》期刊上。该加速器被称为纳米光子电子加速器（nanophotonic electron accelerator），只有硬币大小，由一个小型芯片构成，其中包含有微型真空管组成的数千柱状物。研究人员通过向柱状物发射微激光束加速电子，加速管长 0.5 毫米，是欧洲大强子对撞机 27 公里长的加速管隧道的 5400 万分之一，他们将电子的能量从 28.4âkeV 加速到 40.7âkeV。微型加速器的一个备受瞩目的应用是靶向癌症放射性治疗，它的体积小到可以内置在内窥镜中，直接靶向癌细胞区域进行放射性治疗，减少放射治疗的副作用。",
+          "link": "https://www.solidot.org/story?sid=76478",
+          "publishedOn": "2023-10-30T08:04:29.000Z",
+          "wordCount": 153,
+          "title": "科学家测试世界最小的粒子加速器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76477",
+          "author": null,
+          "description": "Google Chrome 将移除对 Theora 视频编解码器的支持。Theora 是 Xiph.Org 开发的开源视频有损压缩编解码器格式，在 VP9 和 AV1 的时代它的使用率日益减少。加上对多媒体编解码器的 0day 攻击日益增加，Google 以减少安全风险的理由决定未来几个月移除对 Theora 的支持。Safari 以及 Chrome 的 Android 版本都未支持 Theora。Google 将首先逐渐禁用对 Theora 的支持，到明年 1 月 100% 禁用，到明年 3 月释出 Chrome 123 稳定版时移除 Theora 编解码器。",
+          "link": "https://www.solidot.org/story?sid=76477",
+          "publishedOn": "2023-10-30T06:17:32.000Z",
+          "wordCount": 193,
+          "title": "Google Chrome 将移除对 Theora 视频编解码器的支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76476",
+          "author": null,
+          "description": "微软释出了 Windows 11 22H2 的预览版累计补丁 KB5031455，加入了对 11 种新压缩存档格式的原生支持，这些格式包括 .rar、.7z、.tar、.tar.gz、.tar.bz2、.tar.zst、.tar.xz、.tgz、.tbz2、.tzst 和 .txz，但密码加密文件尚未支持。微软是在开源库 libarchive 的帮助下实现对这些存档格式的支持，这意味着它未来预计会加入对 LZH、LZH 和 XAR 等其它格式的支持。KB5031455 目前是可选更新，Windows 11 用户需要手动检查更新然后选择下载安装。微软预计会在 11 月的例行更新中向用户推送该补丁。",
+          "link": "https://www.solidot.org/story?sid=76476",
+          "publishedOn": "2023-10-30T06:05:04.000Z",
+          "wordCount": 179,
+          "title": "Windows 11 支持 11 种新压缩存档格式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76475",
+          "author": null,
+          "description": "为了减少攻击面，Linux 内核已支持在构建时启用或禁用 32 位应用，然而大部分发行版为了让 32 位用户空间应用正常运行而选择了启用。现在 Linux 6.7 的最新补丁将启用或禁用 32 位应用支持的权力交给了用户。Linux 发行版未来可以默认关闭 32 位应用支持，想要运行 32 位旧应用的用户可以添加 a32_emulation=1 来启用该支持，不再需要重构内核。",
+          "link": "https://www.solidot.org/story?sid=76475",
+          "publishedOn": "2023-10-30T05:54:08.000Z",
+          "wordCount": 174,
+          "title": "Linux 6.7 将允许在启动时禁用或启用 32 位应用支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76474",
+          "author": null,
+          "description": "粮食生产是温室气体排放的重要来源，其中肉类生产占到了全球温室气体排放的三分之一。美国是最大的牛肉消费国，但并不是所有人都吃牛肉。研究显示，12% 的美国人消耗了该国牛肉消费总量的五成。研究人员称，很多人可能意识不到牛肉对健康和环境的影响。研究表明，牛肉生产造成了逾 42 亿吨球碳排放。消费牛肉对环境的影响是鸡肉的 10 倍，是豆类的 50 倍以上。而红肉被认为会增加患心脏病的风险。美国的牛肉消费者以男性和年龄在 50-65 岁之间的人为主。相比亚裔和黑人，白人更可能消费牛肉。男性大量消费牛肉有着历史原因。《Red Meat Republic》一书的作者指出，从历史上看，在美国成为成功人士就需要吃牛肉。它被认为与男性气质相关联。",
+          "link": "https://www.solidot.org/story?sid=76474",
+          "publishedOn": "2023-10-29T15:54:54.000Z",
+          "wordCount": 156,
+          "title": "12% 的美国人消耗了该国牛肉消费总量的五成",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76473",
           "author": null,
@@ -2823,36 +2953,6 @@
           "wordCount": 167,
           "title": "Linux 基金会如果是一家软件公司，它的规模将是世界最大",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76235",
-          "author": null,
-          "description": "牛津是中世纪英格兰的暴力之都，而该市的学生是最致命的暴力团。在伦敦、约克和牛津三座城市中间，牛津的人均凶杀率是另外两座城市的 4-5 倍。在凶手背景已知的谋杀案中，75% 被称为“clericus”，而 72% 的受害者身份同样是“clericus”。中世纪的 clericus 通常就是指学生。中世纪谋杀地图（Medieval Murder Maps）项目的首席调查员 Manuel Eisner 教授表示，牛津之类的中世纪大学城存在着产生暴力的多个条件：他们都是男性；年龄在 14-21 岁之间，这个年龄段是暴力和冒险的高峰期；摆脱了家庭、教区和公会严格控制的年轻人被送入到一个充斥着武器、能接触到酒馆和性工作者的环境。在 14 世纪早期，牛津是欧洲最重要的学术中心之一，当地有大约 7000 名居民，其中 1500 名是学生。研究人员估计这个时期牛津的凶杀率为每 10 万人 60-75 人，比 21 世纪牛津高 50 倍。年轻男学生和酒精的混合通常是暴力的火药桶。",
-          "link": "https://www.solidot.org/story?sid=76235",
-          "publishedOn": "2023-09-30T15:56:51.000Z",
-          "wordCount": 170,
-          "title": "牛津学生是中世纪英格兰的致命杀手",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76234",
-          "author": null,
-          "description": "奥地利、法国、德国、波兰和瑞士本周五公布了有记录以来最热的九月。今年预计将成为有记录以来最热的一年。法国气象局表示，该国 9 月平均气温约为 21.5 摄氏度，比 1991-2020 年的基线高出 3.5 到 3.6 摄氏度。德国气象局 DWD 表示，本月是有国家记录以来最热的 9 月，比 1961-1990 年的基线高出近 4 摄氏度。波兰气象研究所宣布，9 月气温比平均水平高出 3.6 摄氏度，是 100 多年前有记录以来最热的月份。奥地利和瑞士等阿尔卑斯山国家的国家气象机构也记录了有记录以来最热的 9 月。此前的研究显示，由于全球暖化，瑞士冰川体积两年内减少了十分之一。",
-          "link": "https://www.solidot.org/story?sid=76234",
-          "publishedOn": "2023-09-30T15:14:34.000Z",
-          "wordCount": 174,
-          "title": "欧洲多国 9 月气温创纪录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76233",
-          "author": null,
-          "description": "瑞士冰川体积两年损失十分之一。瑞士科学院的分析发现，瑞士冰川体积今年减少了 4%，而去年减少了 6%。过去两年是冰川体积损失最多的两年。冰川监测机构 Glamos 负责监测 176 座冰川，但最近停止了对中部 St Annafirn 冰川的监测，因为基本上没冰了。Glamo 负责人 Matthias Huss 表示，随着冰损失的速度加快，小型冰川正在消失，大型的冰川则在缩小。",
-          "link": "https://www.solidot.org/story?sid=76233",
-          "publishedOn": "2023-09-30T15:07:07.000Z",
-          "wordCount": 155,
-          "title": "瑞士冰川体积两年损失十分之一",
-          "imageUrl": null
         }
       ]
     },
@@ -2861,6 +2961,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/752807/",
+          "author": null,
+          "description": "财联社 10 月 31 日电，苹果发布 3 纳米 MAC 芯片，分别是 M3、M3 PRO 和 M3 MAX。 据了解，M3 配备 8 核 CPU，10 核 GPU，24GB 统一内存，速度最高比 M2 提升 20%； M3 Pro 配备 12 核 CPU，18 核 GPU，36GB 统一内存，速度\n本文链接",
+          "link": "https://news.cnblogs.com/n/752807/",
+          "publishedOn": "2023-10-31T01:00:57.000Z",
+          "wordCount": 163,
+          "title": "搭载M3系列芯片，苹果发新款MacBook Pro，起价12999元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752806/",
+          "author": null,
+          "description": "摘要 到了欧洲用市场换技术的时候了。 在小鹏与大众签约之后，人们都在猜测，下一个「反向合资」的会是谁？ 如今，靴子终于落地。 10 月 26 日，Stellantis N.V.（下称「斯特兰蒂斯」）和零跑汽车宣布：斯特兰蒂斯集团计划投资约 15 亿欧元（约合 116 亿元），以获得零跑汽车约 20%\n本文链接",
+          "link": "https://news.cnblogs.com/n/752806/",
+          "publishedOn": "2023-10-31T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "零跑百亿聘礼「下嫁」玛莎拉蒂母公司，意味着什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752805/",
+          "author": null,
+          "description": "搜狗创始人、百川智能创始人兼 CEO 王小川 国内大模型技术竞争加速，继讯飞星火、智谱推出最新产品之后，百川也迎来了新的大模型成果。 钛媒体获悉，10 月 30 日上午，王小川创立的 AI 大模型公司“百川智能”宣布，推出 Baichuan2-192K 大模型，其上下文窗口长度高达 192K，能够处\n本文链接",
+          "link": "https://news.cnblogs.com/n/752805/",
+          "publishedOn": "2023-10-30T13:42:46.000Z",
+          "wordCount": 163,
+          "title": "王小川公布最新大模型，号称全球最长上下文，是GPT-4的14倍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752804/",
+          "author": null,
+          "description": "文定焦，作者布鲁斯，编辑向园 “0 粉丝账号可接、3-7 天出单，有手就能赚钱。我自己第 4 天就出单了，目前已经变现 4 万+。” 任何一个想做副业的人，看到这样的帖子都难免心动。 这就是今年最火的副业之一——小说推文。 你有没有在抖音等短视频平台上看到过这样的短视频？画面中是地铁跑酷的视频，配音\n本文链接",
+          "link": "https://news.cnblogs.com/n/752804/",
+          "publishedOn": "2023-10-30T12:49:08.000Z",
+          "wordCount": 163,
+          "title": "在抖音追小说，养肥了谁？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752803/",
+          "author": null,
+          "description": "文另镜 高通刚发布新一代旗舰芯片骁龙 8 Gen 3，第二天小米新品发布会便紧随而上。 10 月 26 日晚间，一场主题为《跨越时刻》的小米澎湃 OS 暨 Xiaomi 14 系列新品发布会提前上演。在谈及小米 14 系列产品时，小米集团创始人、董事长兼 CEO 雷军很激动，并用让人印象深刻的词来形\n本文链接",
+          "link": "https://news.cnblogs.com/n/752803/",
+          "publishedOn": "2023-10-30T10:02:03.000Z",
+          "wordCount": 163,
+          "title": "小米澎湃OS诞生，雷军「急着」赶进度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752802/",
+          "author": null,
+          "description": "文锌刻度，作者 黎炫岐，编辑 文婕 “天，看了一下午土狗短剧太上头了” “只有我一个人在追这么土的小短剧吗？” “一口气狂追三部虐恋短剧，根本停不下来” …… 几年间，人们对微短剧的态度悄然改变，曾被疯狂群嘲的“歪嘴龙王”已经成为过去式，又土又上头的爆款剧突然让人欲罢不能。 而仅在今年上半年，这条赛\n本文链接",
+          "link": "https://news.cnblogs.com/n/752802/",
+          "publishedOn": "2023-10-30T09:58:23.000Z",
+          "wordCount": 163,
+          "title": "超5亿人“上头”，“抖快号”和“爱优腾”再战微短剧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752801/",
+          "author": null,
+          "description": "文极客公园 GeekPark，作者连冉，编辑 郑玄 即将上映的好莱坞科幻电影《AI 创始者》中，一个原本为人类服务的人工智能在洛杉矶引爆了核弹。 比电影更加科幻的是，现实中，AI 公司们已经开始担忧起这样的场景真的出现在现实世界。 近日，OpenAI 表示出于对 AI 系统安全性的考虑，公司正在成立\n本文链接",
+          "link": "https://news.cnblogs.com/n/752801/",
+          "publishedOn": "2023-10-30T09:54:30.000Z",
+          "wordCount": 163,
+          "title": "担忧 AI 向人类扔核弹，OpenAI 是认真的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752800/",
+          "author": null,
+          "description": "10 月 30 日，三七互娱发布 2023 年第三季度报告。公司第三季度实现营业收入 42.82 亿元，同比上升 19.42%，归属于上市公司股东的净利润 9.66 亿元，同比增加 72.06%，较上年同期相比呈现良好的业绩上升态势，二季度上线新产品陆续进入稳定增长期，强劲拉动营业收入和利润提升。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/752800/",
+          "publishedOn": "2023-10-30T09:53:05.000Z",
+          "wordCount": 163,
+          "title": "三七互娱第三季度归母净利润同比增长72%，战略深化高质量发展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752799/",
+          "author": null,
+          "description": "知名网络安全公司 HackerOne 近日宣布，自 2012 年成立以来，其漏洞赏金计划已向白帽和漏洞研究人员发放了超 3 亿美元的奖励。 HackerOne 提供了一个漏洞赏金平台，将企业与白帽的安全专业知识、资产发现、持续评估和流程增强相结合，以发现和弥补数字攻击面中的漏洞。这些白帽可凭借发现的\n本文链接",
+          "link": "https://news.cnblogs.com/n/752799/",
+          "publishedOn": "2023-10-30T09:28:57.000Z",
+          "wordCount": 163,
+          "title": "HackerOne 已向白帽支付了超 3 亿美元漏洞赏金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752798/",
+          "author": null,
+          "description": "体重多少最健康，最长寿？ 在过去的 25 年里，美国人超重和肥胖的患病率急剧上升，超过一半的成年人都处于超重或肥胖状态，众所周知，BMI（身高体重指数，即体重的公斤数除以身高米数的平方）升高，可导致多种代谢疾病，包括糖尿病、高血压和冠心病等，这些疾病是美国人过早死亡的主要原因之一。 然而，最近一些 \n本文链接",
+          "link": "https://news.cnblogs.com/n/752798/",
+          "publishedOn": "2023-10-30T09:26:07.000Z",
+          "wordCount": 163,
+          "title": "微胖更长寿！55万人长达20年随访调查：相比于标准体重人群，微胖人群死亡风险降低5%！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752797/",
+          "author": null,
+          "description": "作者丨郭 思 编辑丨陈彩娴 大模型之战进入了下半场，在中国企业争先恐后抢发“自研”的类 ChatGPT 之后，竞争不再是从 0 到 1 的有与无之争。而变成落于实处，各家大模型肉搏，能否产生出真正的效用。 不用深度参与 AI 调研，大众也可以发现自然语言处理（NLP）是大模型研发最活跃的领域。在这样\n本文链接",
+          "link": "https://news.cnblogs.com/n/752797/",
+          "publishedOn": "2023-10-30T09:23:30.000Z",
+          "wordCount": 163,
+          "title": "成本降低50%，智谱GLM背刺GPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752796/",
+          "author": null,
+          "description": "上游存储价格回升使得手机厂商在未来一段时间转变产品竞争策略，目前看来，OPPO 已经在各个段位产品线里加大了京东方供应占比。 10 月 24 日 ，一加携手京东方共同打造的东方屏在重庆发布。据雷峰网了解，东方屏是一加与京东方提前 2 年联合预研共投入上亿的研发资金打造的新一代屏幕。该屏幕具有高亮度、\n本文链接",
+          "link": "https://news.cnblogs.com/n/752796/",
+          "publishedOn": "2023-10-30T09:21:15.000Z",
+          "wordCount": 163,
+          "title": "接下来要卷屏幕，一加联合京东方推出东方屏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752795/",
+          "author": null,
+          "description": "10 月 30 日，昆仑万维宣布开源百亿级大语言模型「天工」Skywork-13B 系列，并罕见地配套开源了 600GB、150B Tokens 的超大高质量开源中文数据集。 昆仑万维「天工」Skywork-13B 系列目前包括 130 亿参数的两大模型：Skywork-13B-Base 模型、Sk\n本文链接",
+          "link": "https://news.cnblogs.com/n/752795/",
+          "publishedOn": "2023-10-30T09:20:30.000Z",
+          "wordCount": 163,
+          "title": "昆仑万维开源「天工」13B系列大模型，0门槛商用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752794/",
+          "author": null,
+          "description": "作者丨郭 思 编辑丨陈彩娴 ChatGPT 热潮引发的百模大战，在持续了大半年之后，模型的参数已经卷到极限，越来越多的公司开始意识到，百模大战的下半场，落地应用才是值得卷的地方。 而当聚光灯打在 OPPO 这个手机厂商之上，我们会发现，下半场才是 OPPO 的主战场。 Canalys 数据显示，20\n本文链接",
+          "link": "https://news.cnblogs.com/n/752794/",
+          "publishedOn": "2023-10-30T09:19:15.000Z",
+          "wordCount": 163,
+          "title": "为每个用户提供专属定制服务，OPPO 安第斯大模型的新卷法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752793/",
+          "author": null,
+          "description": "和很多车圈一把手不同，李想在入局车圈之后所推崇的对象并非亨利福特，也不是马斯克，而是从未造过车的苹果公司创始人乔布斯。 作为乔布斯的信徒，李想从不讳言理想汽车就是要向苹果学习。对苹果产品逻辑和简洁风格的推崇，在发布会的风格上、在现有的理想 SUV 车型中都有体现。 李想认为，苹果的产品理念有两个核心\n本文链接",
+          "link": "https://news.cnblogs.com/n/752793/",
+          "publishedOn": "2023-10-30T09:17:14.000Z",
+          "wordCount": 163,
+          "title": "超10000个评测点，理想汽车为什么要做「细节控」？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752792/",
+          "author": null,
+          "description": "前有大众入股小鹏，中有中东投资蔚来，今有欧洲百年汽车豪门入股零跑。 10 月 26 日，零跑汽车官宣，Stellantis 集团计划向零跑投资约 15 亿欧元以获取零跑汽车约 20% 的股权，其将在零跑汽车董事会拥有 2 个席位。同时，双方将成立一家合资公司——零跑国际。 用 15 亿欧元买了零跑 \n本文链接",
+          "link": "https://news.cnblogs.com/n/752792/",
+          "publishedOn": "2023-10-30T09:14:56.000Z",
+          "wordCount": 163,
+          "title": "零跑的「技术出海」，领跑的「最佳姿态」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752791/",
+          "author": null,
+          "description": "仅从充电启动到结束的纯充电时长，蔚来的用户约 30 到 40 分钟。几款主流增程车，在蔚来桩上的纯充电时长是 50 到 60 分钟。 不久前，蔚来能源高级副总裁沈斐在社交平台上透露道。他认为，增程车型的充电速度要比纯电车型慢上一倍，最终增程车型的充电时间将会是纯电车型的两倍。 ▲ 蔚来能源高级副总裁\n本文链接",
+          "link": "https://news.cnblogs.com/n/752791/",
+          "publishedOn": "2023-10-30T09:13:22.000Z",
+          "wordCount": 163,
+          "title": "造增程车的小米，正在「紧急避险」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752790/",
+          "author": null,
+          "description": "TikTok Shop 全托管业务日 GMV 已达 200-300 万美金，其中美国站点增至 100 万美金，美国站点跨境业务的目标是今年年底日 GMV500 万美金。今年黑五后，TikTok Shop 可能为了提高 GMV 持续调整组织架构，也将在 2024 年开拓新的国家业务线。 黑五来临之际，\n本文链接",
+          "link": "https://news.cnblogs.com/n/752790/",
+          "publishedOn": "2023-10-30T09:10:43.000Z",
+          "wordCount": 163,
+          "title": "TikTok美国跨境GMV年底或将冲刺日均500万美金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752789/",
+          "author": null,
+          "description": "作者丨郭 思 编辑丨陈彩娴 目前，开源大模型已经成为 AI 领域中的热门话题。 中信所报告近期指出，目前超过一半国内发布的大模型已经实现了开源，其中开源的主力是高校和科研机构，如清华大学的 ChatGLM-68、复旦大学的 MOSS 以及百度的文心系列大模型。在这其中，自然语言处理是大模型研发最活跃\n本文链接",
+          "link": "https://news.cnblogs.com/n/752789/",
+          "publishedOn": "2023-10-30T08:29:00.000Z",
+          "wordCount": 163,
+          "title": "书生浦语灵笔开源之后，「007作家」能否走向工位？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/752788/",
+          "author": null,
+          "description": "为了减少攻击面，Linux 内核已支持在构建时启用或禁用 32 位应用，然而大部分发行版为了让 32 位用户空间应用正常运行而选择了启用。现在 Linux 6.7 的最新补丁将启用或禁用 32 位应用支持的权力交给了用户。Linux 发行版未来可以默认关闭 32 位应用支持，想要运行 32 位旧应用\n本文链接",
+          "link": "https://news.cnblogs.com/n/752788/",
+          "publishedOn": "2023-10-30T08:21:39.000Z",
+          "wordCount": 163,
+          "title": "Linux 6.7 将允许在启动时禁用或启用 32 位应用支持",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/752745/",
           "author": null,
@@ -8138,6 +8438,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23265",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\niOS & iPadOS 17.2 Beta & Xcode 15.1 Beta 2 Release\n上周苹果发布了 iOS & iPadOS 17.2 、watchOS 10.2 、Xcode 15.1 等系列 Beta 版本的更新。较为重要的信息如下：\nSwiftUI 新增了 API _logChanges() 方便开发者在 Debug 下打印 SwiftUI 的变更。与 _printChanges() 区别仅在于 _logChanges() 会将日志也打印到系统控制台中。此 API 对所有 iOS/iPadOS/watchOS 等都有效。\n对使用 Xcode 15.0 构建包含 swift 代码的 App 会较老的 MAC 版本 (10.13) 启动时崩溃，workaround 方案是添加 $(TOOLCHAIN_DIR)/usr/lib/swift-5.0/macosx/libswiftAppKit.dylib 到 Other Linker Flags 中，此问题在 15.1 Beta 中已修复。详见：swift/issues/68163。\n文章\n🐎 Bad practice: not using Phantom Types\n@Damien：这篇文章讨论了在 Swift 编程中使用虚类型（Phantom Types）引发的错误。作者首先构造了 2 个示例对象，使用虚函数并且导致了错误的行为。随后提出了改进的方案，从而避免了错误的代码行为，想了解 Swift 虚函数感兴趣的同学不妨一读。\n🐎 Designing for spatial computing: from iOS and …",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23265",
+          "publishedOn": "2023-10-30T03:11:29.000Z",
+          "wordCount": 575,
+          "title": "老司机 iOS 周报 #265 | 2023-10-30",
+          "imageUrl": "https://opengraph.githubassets.com/e835290fc076722ae435d5337c1a4ca858b1bc4266f5b0f76e75c65700b05494/SwiftOldDriver/iOS-Weekly/releases/tag/%23265"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23264",
           "author": null,
