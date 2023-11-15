@@ -2,10 +2,383 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T01:03:01.197Z</updated>
+    <updated>2023-11-15T01:03:38.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tumblr 还活着]]></title>
+        <id>https://www.solidot.org/story?sid=76619</id>
+        <link href="https://www.solidot.org/story?sid=76619"/>
+        <updated>2023-11-14T15:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Tumblr 在 2018 年禁止成人内容之后被认为走向了死亡，上周一份泄露的内部备忘录披露它的母公司 Automattic 正将大部分员工转移到其它部门。公司 CEO Matt Mullenweg 随后在他的 Tumblr 主页公开了备忘录全文并回答用户提问。对这一消息，部分 Tumblr 核心用户反而认为是好事，因为这意味着网站不会添加不受欢迎的功能或不被用户接纳的 UI 变更。Mullenweg 还披露了用户数据：Tumblr 的月活用户有 1150 万，但付费用户仅仅只有 27,000 人，仅占活跃用户总数的 0.2%。Tumblr 的年订阅费用为 29.99 美元。Mullenweg 称如果有 10% 到 20% 的用户付费，那么 Tumblr 将能永远运营下去。然而一周过去了，没人再讨论此事，一切又恢复如常，Tumblr 还活着。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 起诉两名滥用 DMCA 通知的越南男子]]></title>
+        <id>https://www.solidot.org/story?sid=76618</id>
+        <link href="https://www.solidot.org/story?sid=76618"/>
+        <updated>2023-11-14T15:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Google 在加州起诉了两名越南男子 Nguyen Van Duc 和 Pham Van Thien，他们被控使用 65 个 Google 账号对多达 62 万个网址发送欺诈性的 DMCA 删除通知。Google 称他们将版权法中的 DMCA 通知武器化，旨在破坏竞争对手的生意。滥用 DMCA 通知并非新鲜事，因为此类行为通常不会有任何后果。Google 通过诉讼试图向恶意使用 DMCA 通知的人发出警告——“它受够了”。Google 称，被告系统性的滥用删除请求，旨在从搜索结果里删除竞争对手的网址。其中一位客户每年在 Google 搜索广告上投入了数千万美元，因为欺诈性的 DMCA 删除通知导致其在假日期间流量大幅下降，损失 500 万美元。Google 自己也损失了 200 万到 300 万美元。 
+
+
+
+Google 希望获得赔偿，并禁止被告使用其产品或服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚刚，出行行业首个！百亿估值玩家联合国有运营商开卷大模型]]></title>
+        <id>https://news.cnblogs.com/n/753629/</id>
+        <link href="https://news.cnblogs.com/n/753629/"/>
+        <updated>2023-11-14T14:53:00.000Z</updated>
+        <summary type="html"><![CDATA[杨净衡宇发自凹非寺 量子位公众号 QbitAI 首个落地的交通出行大模型，它来了! 这两年的出行行业，有的卷补贴、规模，有的卷自动驾驶、卷定制车，终于有人开始卷大模型了！ 名为“阡陌”，背后是国家队级别的选手：T3 出行和中国电信。 △T3 出行与中国电信战略签约 T3 出行，出行领域快速崛起的明星
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丹麦关键基础设施在上半年遭遇网络攻击]]></title>
+        <id>https://www.solidot.org/story?sid=76617</id>
+        <link href="https://www.solidot.org/story?sid=76617"/>
+        <updated>2023-11-14T14:41:45.000Z</updated>
+        <summary type="html"><![CDATA[SektorCERT 披露丹麦关键基础设施在今年五月遭遇了该国历史上最大规模的网络攻击。有 22 家公司遭到入侵，部分公司被迫切断与外界的网络接入断开所有非必要网络连接。攻击者利用了未修复的 Zyxel 防火墙漏洞，还利用了多个尚未公布的 0day 漏洞。SektorCERT 研究人员表示，攻击由多个组织发起，其中至少一个与俄罗斯情报机构的 Sandworm 行动相关。Zyxel 防火墙漏洞是在 4 月爆出的，允许远程攻击者无需身份验证完全控制防火墙，许多使用 Zyxel 的组织以为防火墙是由供应商更新的，但实际上 Zyxel 的软件是免费的，获得安全补丁则需要付费。还有很多组织根本不知道网络中存在有问题的设备。这种情况使得攻击者可以利用已公开的漏洞发动攻击。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[决定论和自由意志]]></title>
+        <id>https://www.solidot.org/story?sid=76616</id>
+        <link href="https://www.solidot.org/story?sid=76616"/>
+        <updated>2023-11-14T13:06:17.000Z</updated>
+        <summary type="html"><![CDATA[当你饥饿时你就不再是你自己。用《Determined: A Science of Life Without Free Will》一书作者、斯坦福大学神经生物学家 Robert Sapolsky 的话说，饥饿和压力水平决定着你的行为，无论你是患有胎儿酒精综合征，还是在一个更注重个人自由而不是共有责任的文化中长大，或者相信存在一个无所不知无所不能复仇之神。激素、神经递质，以及当前和历史环境决定着你将如何决定如何选择。这一却你无法选择也无法控制。Sapolsky 不反对我们拥有自由意志的概念，他只是没有找到。勇气、胆识、意志力、坚持不懈和自我克制都由前额叶皮层控制，由成长的环境塑造。而成长环境是我们无法选择或控制的。他写这本书的目的是让我们重新思考道德责任、谴责和赞扬。尽管世界是决定论的，但我们可以学会改变观点和行为。《Free Agents: How Evolution Gave Us Free Will》一书的作者 Kevin Mitchell 则站在另一边，他认为自由意志来自于大脑和身体的整体组织，由演化驱动。由某种尚未确定的方式，我们的整体大于部分之和。他甚至得出细菌也有自由意志的结论。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型免费实战教学，百度算法工程师从0-1教你搭建AI原生应用]]></title>
+        <id>https://news.cnblogs.com/n/753628/</id>
+        <link href="https://news.cnblogs.com/n/753628/"/>
+        <updated>2023-11-14T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[百度智能云千帆大模型平台官方出品的《大模型应用实践》实训营本周正式上线！11 月 16 日起将展开为期三周的大模型课程教学。全程免费！ 这是百度智能云推出的首个系列课程，课程内容满满干货，课程讲师大咖云集。本系列课程将专注应用教学，采用实训营的方式，带企业开发者和个人开发者零基础完成大模型应用开发！
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小扎羡慕哭了！国产消费级AR眼镜双11卖破2万单，空间计算时代正式开启]]></title>
+        <id>https://news.cnblogs.com/n/753627/</id>
+        <link href="https://news.cnblogs.com/n/753627/"/>
+        <updated>2023-11-14T10:05:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 作者：摩羯商业评论 编辑：编辑部 虽然小扎搞元宇宙让 Meta 烧光了三百亿，但我们这边的双 11 却出了一个爆品——Rokid 的 AR 产品已经卖出了 2 万台，直接刷新行业纪录！ 近年来，双 11 期间吸引眼球的新闻是越来越少，原因无外乎是平台增长见顶了，单品爆款难出现了，直播带货
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICLR 2024论文审稿结果出炉！7000+高产论文创新纪录，扩散模型占比最高]]></title>
+        <id>https://news.cnblogs.com/n/753626/</id>
+        <link href="https://news.cnblogs.com/n/753626/"/>
+        <updated>2023-11-14T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：桃子好困 ICLR 2024 论文审稿终于出结果了，今年 7000 多片论文提交，创下有史以来最新记录。 ICLR 2024 审稿结果公布了！ ICLR 是机器学习领域重要的学术会议之一，每年举办一次。2024 年是第十二届，将在奥地利维也纳 5 月 7 日-11 日召开。 根据 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攻击者利用已披露高危漏洞攻击工行美国子公司]]></title>
+        <id>https://www.solidot.org/story?sid=76615</id>
+        <link href="https://www.solidot.org/story?sid=76615"/>
+        <updated>2023-11-14T09:42:59.000Z</updated>
+        <summary type="html"><![CDATA[工行美国子公司 ICBC Financial Services 上周遭到勒索软件攻击，与俄罗斯有关联的勒索软件组织 LockBit 与此次攻击相关。攻击者利用最近披露的高危漏洞入侵工行系统，此事凸显了及时打补丁的重要性。攻击者利用的一个漏洞是思杰(Citrix)在 10 月 10 日披露的 CitrixBleed 高危漏洞 CVE-2023-4966，危险等级 9.4/10，可远程利用，无用户互动，无特殊权限，低复杂度。攻击发生之后，工行隔离了部分系统，切断了与美国国债市场以及为其结算交易的纽约梅隆银行平台的连接，开始手动清算交易。工商尚未透露是否向黑客支付赎金。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNC斯坦福等曝光GPT-4V意外漏洞，被人类哄骗数出8个葫芦娃！LeCun和Jim Fan震惊了]]></title>
+        <id>https://news.cnblogs.com/n/753625/</id>
+        <link href="https://news.cnblogs.com/n/753625/"/>
+        <updated>2023-11-14T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：编辑部 最近，GPT-4V 接连被曝重大缺陷，会把吉娃娃认成松饼，只要一被忽悠就会同意图中的葫芦娃中有 8 个！ 不过，最近大家发现，只要打乱布局，GPT-4V 就会被曾经解决的著名计算机视觉难题——「吉娃娃还是松饼」，再次难倒…… UCSC 教授 Xin Eric Wang 表示
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最强AI芯片H200震撼发布！性能飙升90%，Llama 2推理速度翻倍，大批超算中心来袭]]></title>
+        <id>https://news.cnblogs.com/n/753624/</id>
+        <link href="https://news.cnblogs.com/n/753624/"/>
+        <updated>2023-11-14T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：编辑部 刚刚，英伟达发布了目前世界最强的 AI 芯片 H200，性能较 H100 提升了 60% 到 90%，还能和 H100 兼容。算力荒下，大科技公司们又要开始疯狂囤货了。 英伟达的节奏，越来越可怕了。 就在刚刚，老黄又一次在深夜炸场——发布目前世界最强的 AI 芯片 H200
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙大拿下唯一最佳论文奖，中国团队喜获三项大奖！ACM MultiMedia 2023奖项揭幕]]></title>
+        <id>https://news.cnblogs.com/n/753623/</id>
+        <link href="https://news.cnblogs.com/n/753623/"/>
+        <updated>2023-11-14T09:18:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：LRS 【新智元导读】ACM MM 2023 上中国团队获三项大奖，多媒体领域再获新突破。 近日，2023 ACM MultiMedia 会议落下帷幕，中国大陆团队在这次国际会议上收获满满。 其中，浙江大学团队、南京航空航天大学团队和清华大学团队的成果在 3072 篇投稿的论文（录
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“蔚小理”加速分化，理想汽车率先上岸，蔚来小鹏亏损挣扎]]></title>
+        <id>https://news.cnblogs.com/n/753622/</id>
+        <link href="https://news.cnblogs.com/n/753622/"/>
+        <updated>2023-11-14T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[理想汽车再度拿出了一份超过市场预期的三季报，向千亿营收规模企业的目标逼近。 根据披露的财报数据显示，2023 年三季度，理想汽车总营收为 346.8 亿元，同比增长 271.2%，今年前三季度累计营收总额达到 821.2 亿元。从当前增长态势来看，今年理想汽车有极大可能性成为首个达成千亿营收规模的造
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夸克发布自研千亿级参数大模型]]></title>
+        <id>https://news.cnblogs.com/n/753621/</id>
+        <link href="https://news.cnblogs.com/n/753621/"/>
+        <updated>2023-11-14T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 14 日消息，阿里巴巴智能信息事业群发布全栈自研、千亿级参数的夸克大模型，将应用于通用搜索、医疗健康、教育学习、职场办公等众多场景。同时，夸克 App 将借助自研大模型全面升级，加速迈向年轻人工作、学习、生活的 AI 助手。 近期，在 CMMLU 权威大模型性能评测中，夸克大模型成绩位列榜
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontier 超算继续高居 Top 500 榜首]]></title>
+        <id>https://www.solidot.org/story?sid=76614</id>
+        <link href="https://www.solidot.org/story?sid=76614"/>
+        <updated>2023-11-14T08:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Top 500 项目公布了最新的超算榜单，美国田纳西州橡树岭国家实验室（ORNL）的 Frontier 超算再次高居榜首。Frontier 由 HPE Cray EX 制造，使用 AMD EPYC 64C 2GHz 处理器，共 8,699,904 个核心，峰值性能 1.194 Exaflop/s。目前还在建造中的阿贡国家实验室 Aurora 超算排名第二，使用英特尔的 Xeon CPU Max 9470 52C 2.4GHz 和英特尔 Data Center GPU，目前的性能 585 PFlop/s，完成建造之后将达到 2 Exaflop/s。微软云计算 Microsoft Azure 超算 Eagle 排名第三，使用英特尔 Xeon Platinum 8480C 48C 2GHz 和英伟达 H100 GPU，性能 561.2 PFlop/s。日本的 ARM 超算富岳从上半年的第二降至第四名，性能 442 PFlop/s。芬兰欧洲超算中心的新超算 LUMI 排在第五，使用第三代 AMD EPYC 处理器，共 2,220,288 个核心，性能 309 PFlop/s。第六是意大利超算 Leonardo，性能 174 PFlop/s，第七 IBM Summit（148.6 PFlop/s），之后是 IBM Sierra，神威太湖之光， Perlmutter，英伟达超算 Selen，天河二号 A。排名前十的超算两台使用了 AMD EPYC 处理器，两台使用 IBM Power 处理器，ARM 处理器一台，五台使用了英特尔的至强处理器。在 Top 500 中，美国从上次的 150 台增加到 161 台，中国从 134 台减少到 104 台，欧洲从 133 台增加到 143 台。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[唯品会公布2023年第三季度财报：净营收228亿元 Non-GAAP净利润18亿元]]></title>
+        <id>https://news.cnblogs.com/n/753620/</id>
+        <link href="https://news.cnblogs.com/n/753620/"/>
+        <updated>2023-11-14T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[财联社 11 月 14 日电，唯品会今日发布的 2023 年第三季度财报显示，第三季度，唯品会实现净营收 228 亿元，同比增长 5.3%；Non-GAAP 净利润 18 亿元，同比增长 15.5%。同时，三季度 GMV 为 425 亿元，同比增长 13.1%；活跃用户数 4250 万，同比增长 3
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快人类2000年！中科大AI化学家登Nature子刊，可在火星上制造氧气]]></title>
+        <id>https://news.cnblogs.com/n/753619/</id>
+        <link href="https://news.cnblogs.com/n/753619/"/>
+        <updated>2023-11-14T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[寻找火星上过去的生命迹象，并在火星上建造适宜生存的潜在居住地，是人类梦寐以求的目标。 而火星制氧，是人类移居火星前首先需要解决的难题之一。 尽管 NASA 此前已成功验证可以在火星本地制造出氧气——“毅力”号火星车搭载的制氧设备在 16 次制氧实验中共制造出 122 克氧气（相当于一只小狗呼吸 10
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克传记电影要开拍了，谁演马斯克最合适？]]></title>
+        <id>https://news.cnblogs.com/n/753618/</id>
+        <link href="https://news.cnblogs.com/n/753618/"/>
+        <updated>2023-11-14T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 14 日消息，世界首富埃隆·马斯克（Elon Musk）的传记电影要开拍了！这部电影改编自沃尔特·艾萨克森（Walter Isaacson）的最新传记，将由达伦·阿罗诺夫斯基（Darren Aronofsky）执导。那么，谁会成为马斯克的最佳扮演者呢？ 据报道，独立电影公司 A24 已经获
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疯狂小杨哥：套子里的流量新王]]></title>
+        <id>https://news.cnblogs.com/n/753617/</id>
+        <link href="https://news.cnblogs.com/n/753617/"/>
+        <updated>2023-11-14T07:22:00.000Z</updated>
+        <summary type="html"><![CDATA[每年的双十一，各大平台的直播间里都是“1，2，3 上链接”的叫卖声，主播们为扩大推销声量造势，今年的双十一大家似乎并不满足于各立山头，每天的热搜隐秘地冒出一些硝烟味道。 据南都大数据研究院数据显示，“疯狂的小杨哥”在 10 月 24 日“#双十一美妆节”主题的三场直播中，总计 GMV 销售额达 85
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通抄苹果这份作业，为何刚刚10个月就叫停了]]></title>
+        <id>https://news.cnblogs.com/n/753616/</id>
+        <link href="https://news.cnblogs.com/n/753616/"/>
+        <updated>2023-11-14T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 14 日消息，今年 1 月份高通公司宣布推出卫星通信技术 Snapdragon Satellite，如今 10 个月过去了，这一计划并没有什么客户。高通最近宣布终止项目，通知铱星公司解除合作关系。 iPhone 14 于去年上市，主要新功能之一是“通过卫星进行紧急 SOS”。在正常使用情况
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任何活动都比久坐对心脏有益]]></title>
+        <id>https://news.cnblogs.com/n/753615/</id>
+        <link href="https://news.cnblogs.com/n/753615/"/>
+        <updated>2023-11-14T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[由英国心脏基金会（BHF）支持并发表在《欧洲心脏杂志》上的一项研究，首次评估了 24 小时内不同运动模式与心脏健康的关系。研究发现，中等强度的活动对心脏健康最有益，其次是轻度活动、站立和睡眠，而久坐对心脏健康最为不利。 心血管疾病是指所有心脏和循环系统疾病，是全球第一大死亡原因。2021 年，三分之
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼泊尔以破坏社会和谐为由封杀 TikTok]]></title>
+        <id>https://www.solidot.org/story?sid=76613</id>
+        <link href="https://www.solidot.org/story?sid=76613"/>
+        <updated>2023-11-14T07:09:47.000Z</updated>
+        <summary type="html"><![CDATA[尼泊尔以内容不利于社会和谐为由封杀了字节跳动旗下的短视频应用 TikTok。TikTok 的月活用户多达 10 亿，此前已被印度等国以及美国蒙大拿州等封杀。尼泊尔通信和 IT 部部长 Rekha Sharma 称，该平台传播了恶意内容。禁令将即时生效，电信部门已收到指令。尼泊尔国大党（Nepali Congress）的高层领导 Gagan Thapa 则对禁令提出质疑，认为是限制言论自由。尼泊尔当地媒体称，过去四年该国登记了愈 1600 起与 TikTok 相关的网络犯罪案件。TikTok 是尼泊尔第三大社交平台，它在年轻人中间最受欢迎，而 YouTube 和 Facebook 在所有年龄段都受欢迎。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2人开发、同时在线41万！Roblox上爆火新游《Blade Ball》啥玩法？]]></title>
+        <id>https://news.cnblogs.com/n/753614/</id>
+        <link href="https://news.cnblogs.com/n/753614/"/>
+        <updated>2023-11-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GameLook 报道/据 Roblox 最近的财报显示，该公司 2023Q3 收入同比增长了 38% 至 7.13 亿美元，DAU 同比也增长了 20%，达到 7020 万。作为对比，海外最大的 PC 游戏分销平台 Steam 每天的同时在线人数峰值也才超过 3100 万。 作为一个以青少年和未成
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李开复的开源模型被发现是对 LLaMA 的重构]]></title>
+        <id>https://www.solidot.org/story?sid=76612</id>
+        <link href="https://www.solidot.org/story?sid=76612"/>
+        <updated>2023-11-14T06:57:58.000Z</updated>
+        <summary type="html"><![CDATA[李开复创办的 AI 公司零一万物（01.AI）前几天发布了它的开源大模型 Yi-34B，公布的基准测试结果显示虽然模型参数少于其它大模型，但性能更出色。在 Hugging Face 的讨论区，开发者很快指出 Yi-34B 其实是对 Meta 开源大模型 LlaMa 的重构，最明显的变化是改了几个名字。它的开源许可证也没有提及 LlaMa。它也没有公布调试数据，让其他人能复现其基准测试结果。零一万物的估值高达 10 亿美元，已跻身独角兽行列。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[指针没用好，一行代码让公司损失 6000 万美元]]></title>
+        <id>https://news.cnblogs.com/n/753613/</id>
+        <link href="https://news.cnblogs.com/n/753613/"/>
+        <updated>2023-11-14T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[1990 年 1 月 15 日，AT&T 的新泽西运营中心检测到大范围的系统故障，网络显示屏上出现了大量红色警告。 尽管试图排除故障，但网络故障仍持续了 9 个小时，导致呼叫连接故障率达到 50%。 AT&T 因此损失了 6000 多万美元，6 万多名美国人的电话完全无法接通。 此外，500 个航班
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH 连接的比特翻转错误能暴露密钥]]></title>
+        <id>https://news.cnblogs.com/n/753612/</id>
+        <link href="https://news.cnblogs.com/n/753612/"/>
+        <updated>2023-11-14T06:43:00.000Z</updated>
+        <summary type="html"><![CDATA[比特翻转（Bitflips）是指储存在电子设备上的个别比特发生翻转的事件，比如从 0 变为 1 或反之亦然。导致比特翻转的自然因素主要包括宇宙射线、功率波动和温度等。自然导致的比特翻转发生概率极低，可能几百万次才会出现一次。但研究人员报告，如果在 SSH 加密连接建立期间发生了此类错误，连接使用的私
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 向苹果支付了 Safari 搜索广告收入的 36%]]></title>
+        <id>https://news.cnblogs.com/n/753611/</id>
+        <link href="https://news.cnblogs.com/n/753611/"/>
+        <updated>2023-11-14T06:38:00.000Z</updated>
+        <summary type="html"><![CDATA[在 US v. Google 反垄断案中为 Google 辩护的芝加哥大学教授 Kevin Murphy 在法庭上披露，用户通过苹果 Safari 浏览器搜索 Google 产生的广告收入，其中 36% 会支付给苹果。Google 和苹果早在 2002 年就建立了合作关系，Google 成为苹果 S
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李开复的开源模型被发现是对 LLaMA 的重构]]></title>
+        <id>https://news.cnblogs.com/n/753610/</id>
+        <link href="https://news.cnblogs.com/n/753610/"/>
+        <updated>2023-11-14T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[李开复创办的 AI 公司零一万物（01.AI）前几天发布了它的开源大模型 Yi-34B，公布的基准测试结果显示虽然模型参数少于其它大模型，但性能更出色。在 Hugging Face 的讨论区，开发者很快指出 Yi-34B 其实是对 Meta 开源大模型 LlaMa 的重构，最明显的变化是改了几个名字
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 向苹果支付了 Safari 搜索广告收入的 36%]]></title>
+        <id>https://www.solidot.org/story?sid=76611</id>
+        <link href="https://www.solidot.org/story?sid=76611"/>
+        <updated>2023-11-14T06:30:42.000Z</updated>
+        <summary type="html"><![CDATA[在 US v. Google 反垄断案中为 Google 辩护的芝加哥大学教授 Kevin Murphy 在法庭上披露，用户通过苹果 Safari 浏览器搜索 Google 产生的广告收入，其中 36% 会支付给苹果。Google 和苹果早在 2002 年就建立了合作关系，Google 成为苹果 Safari 的默认搜索引擎，过去几年 Google 每年为此向苹果支付了数十亿美元。因苹果的 iPhone 手机是美国最流行的智能手机，双方在默认搜索上的合作是这起反垄断案关注的重点，美国司法部认为这是 Google 非法维持其在搜索引擎和搜索广告市场主导地位的证据。Google 和苹果都反对披露双方协议的细节。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米13u可能是当前最好的旅拍相机]]></title>
+        <id>https://sspai.com/post/84372</id>
+        <link href="https://sspai.com/post/84372"/>
+        <updated>2023-11-14T00:35:58.000Z</updated>
+        <summary type="html"><![CDATA[小米13u可能并不是一台完美的手机，但可能是当前5000价位最值得选择的相机。
+（本文将站在相机角度浅评此机）
+
+   引言
+在5000元新相机市场，只能买到索尼zv1,Nikon z30 佳能powershot等入门机型，其优势各有不同但后期投入均较为大，最影响拍摄的便是焦段问题，要么是zv1的24-70，要么是尼康18-55，甚至是佳能的定焦。为了更长或更广的焦段，不得不购入新镜头或者更换机器。更多的经济投入是一个问题，且携带多枚镜头在旅行中是一件极大降低拍摄欲望的事情。作为旅拍机来讲，拍的到比拍的好更为重要，笔者从前使用黑卡7，24-200的焦段使其成为一台合格的旅拍机器，但是其难以直视的直出效果，使后期成为必要，在一天的舟车劳顿后，后期并不是一件让人愉快的事情。而一台既拥有大范围焦段，又拥有不错直出质量的机器，小米13u似乎是我的唯一选择。
+
+优点：
+1硬件
+小米13u拥有12mm,24mm,64.8mm（官方裁切为75mm，可以手动变焦回2.7x即原生焦段）,120mm.四颗定焦镜头，其中24mm为1英寸，其余为1/2.5英寸，其中除12mm超广角外均有可用度高的光学防抖，尤其在拍摄视频时有不错表现。屏幕则是一块全局最高亮度800nit的2k屏幕，在烈日下使用的确不如取景器，但此屏幕素质与亮度已经超过绝大部分相机机身屏幕，重量250g但是手机的造型使握持感较差。电池大约可以亮屏使用6-7小时，4k录制4小时。综合来讲，焦段覆盖合理，同价位最好的屏幕与机身防抖功能。
+2软件
+四颗镜头均为5000万像素，常规拍摄时四合一输出1200万，徕卡色调仅在1200万下可用，值得一提的是四颗镜头均可输出5000万像素jpg图像或1200万raw文件，仅有24mm主摄可以同时输出5000万raw或5000万ultraraw。1200万下四颗镜头均支持万物追焦和hdr，对于拍摄运动物体有很大帮助。在光线充足情况下，按下快门便可成片，拍摄体验接近苹果，这点好评。
+机内算法带来的超强宽容度，多种色彩预设和滤镜，全景 人像模式提高可玩性。
+录像四摄均支持4k60p或杜比视界下4k30p,防抖效果均高度可用,直出色彩优秀不泛白，专业模式下甚至全焦段支持4k60p10bitlog。
+其专业模式与大多数手机类似，拥有摄影和拍照两模式，所有参数可调节，自定义程度高。
+
+下面让我们看看实拍样片：（可惜的是少数派要求大小限制，无法上传原图）
+长焦带来的压缩感可以使画面变得更平（使近大远小变得不明显），进而达到更强的散点透视效果：
+徕卡生动120mm徕卡生动75mm
+超广角带来更广的视角，使开阔场景的近景更突出，使画面更立体
+徕卡生动12mm
+主摄大底可以带来自然舒适的焦外，近摄可用的对焦距离使其可以拍摄微小主体
+主摄裁切微距主摄外接微距镜头徕卡经典24mm
+几乎不可见的锐化效果使动物毛发自然
+徕卡生动75mm
+徕卡经典自带高对比和浓郁色泽
+徕卡经典75mm
+机内算法堆栈带来及其可用的高宽容度，在下列极限场景下可完美展现。
+徕卡生动12mm全景模式
+快速可用的对焦能力与无攻击性的外观使街拍更容易
+主摄裁切徕卡鲜艳50mm
+由120mm机内5000万裁切得到的240mm也差强人意（大体令人满意）
+徕卡生动 裁切240mm
+高对比单色滤镜有伊尔福pan100的味道
+徕卡高对比滤镜   75mm
+最后来泼一泼冷水
+对于专业摄影玩家，这台相机的raw宽容度让人难以接受，后期空间严重小于同级别相机，哪怕是15年前的d200也拥有更加宽阔的调色范围。
+这糟糕的握持感很难长时间握于手中伺机而拍，预览状态依然大量消耗电量，高强度拍摄并不可行。
+
+写在最后
+作为个人摄影爱好者，我认为这确实是5000元价位段最适合家用或旅拍的照相机，很多时候一台相机的便携性决定了它的使用频率，常规单反的后期时间成本也成为拍摄欲望的阻碍，的确希望市场上能有像黑卡七一样的新品，但是各家相机厂商在入门市场，的确毫无良心可言，手机的发展几乎断绝了卡片机的生存空间，也感谢雷老板能做出类似的设备，填补我们这类小众需求。13u绝对算不上一部完美的手机，但它却是入门相机市场中的最佳选择。]]></summary>
+        <author>
+            <name>fim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH 连接的比特翻转错误能暴露密钥]]></title>
+        <id>https://www.solidot.org/story?sid=76610</id>
+        <link href="https://www.solidot.org/story?sid=76610"/>
+        <updated>2023-11-13T16:02:27.000Z</updated>
+        <summary type="html"><![CDATA[比特翻转（Bitflips）是指储存在电子设备上的个别比特发生翻转的事件，比如从 0 变为 1 或反之亦然。导致比特翻转的自然因素主要包括宇宙射线、功率波动和温度等。自然导致的比特翻转发生概率极低，可能几百万次才会出现一次。但研究人员报告，如果在 SSH 加密连接建立期间发生了此类错误，连接使用的私钥会被暴露。最新的攻击只影响使用 RSA 算法的密钥。研究人员检查了过去七年扫描互联网收集的约 32 亿 SSH 签名，其中大约 10 亿个签名使用了 RSA 算法。在这 10 亿个 RSA 签名中，有百万分之一的主机私钥会被暴露。虽然几率非常低，但仍然值得注意。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 混淆包被发现隐藏了秘密后门]]></title>
         <id>https://www.solidot.org/story?sid=76609</id>
@@ -857,6 +1230,25 @@ DEVONThink
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一日一技｜为短期内高频使用软件分配快捷键]]></title>
+        <id>https://sspai.com/post/84324</id>
+        <link href="https://sspai.com/post/84324"/>
+        <updated>2023-11-10T10:01:54.000Z</updated>
+        <summary type="html"><![CDATA[起因
+有这么一些应用，我们日常并不太使用，但在一段特殊时期内格外倚重，例如我会在准备考试时高频使用 MarginNote ，在准备旅行计划时高频使用地图软件。而高频使用意味着频繁的切换，于是自然想到为这些应用分配特定的启动快捷键，省去在「command + tab」切换菜单中来回寻索之苦，但这同时带来几点不便，一则每次分配快捷键都要进入诸如 Keyboard Maestro / BTT 的自动化应用进行配置，不免麻烦；二则这些并不日常使用的应用占据了宝贵的快捷键资源，不免浪费，长此以往也难以记忆。对此比较优雅的解决方案是：选择某个固定的快捷键，专门用于启动此类短期高频使用软件，在工作伊始，自动化地将此快捷键分配到当前应用上，下一次需要使用其他短期高频应用时，重新自动化地分配即可。
+解决方案
+核心是两个操作：「将快捷键绑定至当前应用」和「按下快捷键启动应用」，两者的逻辑都可以使用 apple script 完成，快捷键的参与则可以借助自动化软件。整体方案如下：先编写第一段脚本取出当前应用的应用名称，存入 Keyboard Maestro 中作为变量 frontApp 的值，再在 KM 中创建 Macro，以固定的快捷键作为 trigger，运行第二段脚本，脚本内编写从 KM 取回 frontApp 的值并启动相应应用的逻辑。
+在「快捷指令」中编写第一段脚本在「Keyboard Maestro」中创建 Macro 并编写第二段脚本
+同时想要提及的是，之所以选择「快捷指令」来承载绑定的逻辑，是因为把指令 pin 到程序坞后可以便捷地从诸如「alfred」的启动器中调用，使用 KM 来完成当然也没问题。
+从「alfred」调用的效果
+最后
+快捷指令获取
+Macro 获取]]></summary>
+        <author>
+            <name>ackii</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[天文学家称太阳比以前认为的要略小]]></title>
         <id>https://www.solidot.org/story?sid=76591</id>
         <link href="https://www.solidot.org/story?sid=76591"/>
@@ -1190,6 +1582,27 @@ DEVONThink
         <summary type="html"><![CDATA[苹果 MacBook Pro 笔电标准型号过去十年配备的内存一直是 8GB，2023 年售价 1599 美元的型号仍然是 8GB。相比之下，Windows PC 笔电标准型号基本上都是 16GB 或 32GB。8GB 内存是不是太少了，而且它还在 CPU、GPU 和神经网络引擎之间共享？苹果全球产品营销副总裁 Bob Borchers 接受机器学习工程师 Lin YilYi 采访时称，苹果 M 系列芯片和软件栈的内存效率非常高，MacBook Pro 上 的 8GB 内存相当于 PC 的 16 GB 内存。Borchers 表示，苹果对内存的使用非常有效，使用了内存压缩，采用统一内存架构。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十年编程之路]]></title>
+        <id>https://sspai.com/post/84310</id>
+        <link href="https://sspai.com/post/84310"/>
+        <updated>2023-11-09T14:25:10.000Z</updated>
+        <summary type="html"><![CDATA[时光荏苒，回首望去，自系统接触编程已近十年，这篇月刊就写写这十年的编程之路吧。
+深得周围小朋友的羡慕，家里小时候是开网吧的，因此我对电脑游戏向来比较熟悉，但未曾设想过以后会走向编程的道路。2007 年的时候，初中组织了一波 Pascal 的奥赛班我也半途而废了， 2013 年高考之后报了教育技术学专业，这是一个在教育学院里和计算机稍稍沾些边的理科专业。如果按照正常的轨迹发展，想着大概毕业以后凭着专业的教师资格回老家的中小学当一名老师吧。
+但一切在 2014 年的年初发生了改变。
+2014：初识
+年初那会儿那段逼近死亡的经历给我带来了巨大的变化，后面的每一天都有向死而生的感觉。如同《存在主义心理治疗》中对死亡焦虑的剖析：“死亡的觉察使人们脱离对琐事的关心，为生命提供深入、强烈而完全不同的观点。”也是自那之后，我的人生观发生了重大的转变——人生目标定为想要为世界留下些什么。我不愿按照之前的既定之路走完一生，于是重新安排生活的优先级，努力找寻未来人生的方向，恰好那时有一门 VB 的课程我很感兴趣，也是 VB 让我正式敲开了编程的大门。
+记得接触 VB 那会儿自己开发文字 RPG，每天晚上搞到一两点仍意犹未尽。
+
+姓名大乐斗最终迭代了 6 个版本：
+
+那段时间的每个深夜里，满怀激动地开发着游戏，这种心情哪怕是现在回忆起来也仍未有任何衰减。现在想来，那恐怕就是最纯粹的热爱吧。
+因为课程表现优异，被老师拉进了项目组，之后自学了 Java Swing 和数据库，做了一些游戏化的课件和管理平台。
+在 VB 和 Java Swing 时期我开发的 GUI 小玩具们都是直连数据库的（不敢相信），为了弥补上中间的桥梁，也是因为向往做一些联网应用，于是又学了 ASP.Net 和 JSP，那个时候不管开发什么 API 都是直接 Struct + Hibernate + Spring 一套撸上去。那个…]]></summary>
+        <author>
+            <name>Airing</name>
         </author>
     </entry>
     <entry>
@@ -10329,214 +10742,6 @@ Percento 4.0 新增简洁好用的图表，帮助你快速进行财务决策
         <summary type="html"><![CDATA[今天地球的平均气温已比工业化前高 1.2C ，科学家预测到 2030 年北极的夏天可能会没有冰。随着北极地区永久冻土的融化，除了会将甲烷等温室气体排放到大气层外，休眠了数千甚至数万年的病原体也可能会苏醒再次现身。人类祖先可能没有暴露在这些病原体下，因此现代人类会缺乏抵抗能力。此类“僵尸病毒”可能是气候变化对人类健康带来的另一个风险。北极的暖化速度高于地球的其它地区。病毒学家 Jean-Michel Claverie 的研究团队去年报告，从西伯利亚永久冻土中提取出的多种古代病毒仍然具有传染性。今年夏天，研究人员报告复活了一条休眠了 46,000 年的蛔虫。Claverie 警告，如果五万年前的尼安德特人是死于一种未知的病毒，这种病毒如果重新现身，可能会对人类构成危险。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智驾红利，小鹏还能吃多久？]]></title>
-        <id>https://news.cnblogs.com/n/752011/</id>
-        <link href="https://news.cnblogs.com/n/752011/"/>
-        <updated>2023-10-16T13:02:00.000Z</updated>
-        <summary type="html"><![CDATA[文偲睿洞察，作者 Renee，编辑孙越 “金九”车企的销量战绩已然揭晓：比亚迪、特斯拉依旧引领风骚，吉利、广汽、长安等老牌厂商紧随其后。 在备受市场瞩目的蔚小理阵营中，理想借助增程式优势，顺利完成新老产品交接，销量飙至 35000 以上； 蔚来的车型交替并不顺利，直到今年 5 月，压箱底产品新款 E
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投资者劝马斯克：特斯拉与其降价促销，不如花钱打广告]]></title>
-        <id>https://news.cnblogs.com/n/752010/</id>
-        <link href="https://news.cnblogs.com/n/752010/"/>
-        <updated>2023-10-16T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[10 月 16 日消息，特斯拉很少花钱打广告，但随着销量增长放缓和为提振汽车销量而采取降价策略，让很多投资者感到不安。尤其是降价可能会导致特斯拉今年收入减少数十亿美元。而通用汽车、福特和其他汽车制造商每年在大型媒体上的广告支出超过 200 亿美元。 以下是翻译内容： 从很多方面来看，加里·布莱克(G
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米王化否认新系统命名 MiOS / CNMIOS / Mina]]></title>
-        <id>https://news.cnblogs.com/n/752009/</id>
-        <link href="https://news.cnblogs.com/n/752009/"/>
-        <updated>2023-10-16T12:50:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 10 月 16 日消息，近日多方爆料称，MIUI 14 会是小米 MIUI 最后一个正式的大版本，后续自研 OS 被网友猜测为 MiOS，甚至还有人 P 图叫 CNMIOS，引发了不少关注。 今日下午，小米集团公关部总经理王化进行了回应，表示 MIOS、MiOS、CNMIOS 都是错的，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际奥运会宣布电竞奥运会]]></title>
-        <id>https://www.solidot.org/story?sid=76353</id>
-        <link href="https://www.solidot.org/story?sid=76353"/>
-        <updated>2023-10-16T10:40:31.000Z</updated>
-        <summary type="html"><![CDATA[国际奥运会宣布了电竞奥运会的计划。电竞比赛越来越多的的出现在各种运动赛事中，并吸引了愈来愈多的人观看比赛。在印度孟买举行的国际奥委会第 141 届会议的开幕式上，奥委会主席 Thomas Bach 表示，新成立的国际奥委会电竞委员会将研究创建该赛事，他表示通过举办的各种电竞活动，“我们成功的将奥林匹克和电竞社区凝聚在一起。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达继续允许员工选择远程办公]]></title>
-        <id>https://www.solidot.org/story?sid=76352</id>
-        <link href="https://www.solidot.org/story?sid=76352"/>
-        <updated>2023-10-16T10:27:21.000Z</updated>
-        <summary type="html"><![CDATA[因 AI 火爆而进入市值万亿美元公司俱乐部的英伟达没有强制要求员工重返办公室。英伟达在全球有约 2.6 万名员工，CEO 黄仁勋继续允许员工无限期远程办公。英伟达让员工自行决定在家里、咖啡馆还是办公室工作。责员工体验的副总裁 Beau Davidson 表示，该公司认为这种安排是平衡员工个人生活和工作义务、同时为未来做准备的一种方式，他们可以专注于自己一生的工作。与此同时，其它科技公司对要求员工重返办公室日益强硬。黄仁勋表示，员工喜欢混合工作环境，“我对此非常满意。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家利用 ChatGPT 背后的技术构建用于科学发现的 AI]]></title>
-        <id>https://www.solidot.org/story?sid=76351</id>
-        <link href="https://www.solidot.org/story?sid=76351"/>
-        <updated>2023-10-16T10:03:16.000Z</updated>
-        <summary type="html"><![CDATA[一个国际科学家团队正利用 ChatGPT 背后的技术构建用于科学发现的 AI 工具。该项目被称为 Polymathic AI，研究人员已经在 arXiv 上发表了一系列论文预印本。ChatGPT 是利用从互联网上搜集的文本数据集进行训练，而 Polymathic AI 将从不同科学领域的数值数据和物理模拟进行训练，帮助科学家对从超巨星到地球气候的各种现象进行建模。从已有的预训练大模型开始，而不是从头构建科学模型，要更快更准确。研究人员表示，Polymathic AI 有望展示不同领域之间可能被忽视的共性和联系。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropbox CEO 为远程办公模式辩护]]></title>
-        <id>https://www.solidot.org/story?sid=76350</id>
-        <link href="https://www.solidot.org/story?sid=76350"/>
-        <updated>2023-10-16T08:33:35.000Z</updated>
-        <summary type="html"><![CDATA[科技巨头们纷纷恢复办公室工作模式，而 Dropbox 仍然坚持远程工作。公司 CEO Drew Houston 称员工不是可控制的资源，他们是有选择的。Houston 在 2007 年创办 Dropbox 后一直担任公司 CEO。Dropbox 原本也是办公室办公，但在新冠疫情之后全面拥抱远程办公。Houston 已经习惯了这种模式，对其他科技公司的高管没有支持这一模式感到困惑。Houston 及其团队发现，每个季度进行多次 2-3 天异地办公对员工最合适，它提供了对办公室办公最热烈支持者所想要的文化联系和头脑风暴，同时免除了员工因通勤和单调会议而产生的疲惫感。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brad Smith 如何利用微软的游说机器赢得动视暴雪的交易]]></title>
-        <id>https://www.solidot.org/story?sid=76349</id>
-        <link href="https://www.solidot.org/story?sid=76349"/>
-        <updated>2023-10-16T06:51:15.000Z</updated>
-        <summary type="html"><![CDATA[Brad Smith 是在美国政府几乎要成功分拆微软的情况下担任了软件巨人的首席法务官，2015 年开始担任公司总裁，在他的领导下微软向监管机构展示了更为和解的一面。Smith 主张对公司要对监管机构更透明。尽管如此，微软面临的压力仍然是愈来愈大。在微软收购动视暴雪面临来自英国监管机构的反对之后 Smith 也罕见的表达了情绪，称此举对英国不利，这是微软“40 年里最黑暗的一天”。但微软仍然成功说服了英国监管机构，达成了妥协，最终让交易获得批准。微软每年在法务和游说上投入了逾 10 亿美元，其法务政务团队多达 2000 人。它甚至在联合国设立了办事处。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软准备弃用 NTLM 作为身份认证协议]]></title>
-        <id>https://www.solidot.org/story?sid=76348</id>
-        <link href="https://www.solidot.org/story?sid=76348"/>
-        <updated>2023-10-16T06:24:44.000Z</updated>
-        <summary type="html"><![CDATA[微软的 Windows 操作系统过去二十年一直使用 Kerberos 作为默认的身份认证协议，但在部分情况下操作系统会使用 NTLM（NT LAN Manager）。微软现在表示它准备扩大 Kerberos 的使用，最终弃用 NTLM。微软称，Kerberos 提供了更好的安全保障，比 NTLM 更具有扩展性，这是它作为 Windows 首选默认协议的原因。 微软称，它将逐渐减少 NTLM 的使用，采用数据驱动的方法去监视 NTLM 使用的减少情况，确定何时可以禁用 NTLM。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老司机 iOS 周报 #263 | 2023-10-16]]></title>
-        <id>https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23263</id>
-        <link href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23263"/>
-        <updated>2023-10-16T02:16:26.000Z</updated>
-        <summary type="html"><![CDATA[老司机 iOS 周报，只为你呈现有价值的信息。
-你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
-新闻
-ICP 备案上线
-国庆节前夕，苹果审核商店也正式上线了 ICP 备案。目前新 APP 需要填写备案号才能提交审核；老 APP 目前不填备案号也能正常提审（预计是明年 4 月强制执行）。
-中国工业和信息化部（MIIT）要求 App 必须具备有效的互联网信息服务提供者（ICP）备案号。此外，游戏 App 必须取得网络游戏出版物号。图书和报刊杂志 App 必须持有中国国家新闻出版署（NPPA）颁发的《网络出版服务许可证》。包含宗教内容的 App 必须持有中国国家宗教事务局（NRAA）颁发的《互联网宗教信息服务许可证》。新闻 App 必须持有中国国家互联网信息办公室（CAC）颁发的《互联网新闻信息服务许可证》。如果你已经或计划在中国大陆的 App Store 中提供上述类型的 App，则必须提供相关信息和证明文件。
-Xcode 15.1 Beta Release Note
-Xcode 15.1 Beta 版本发布，除了常规的新 SDK 发布，这次一条相对重要的信息是，从 15.1 开始，X86/64 的 芯片组（也就是 Intel CPU）不再能够开发 VisionOS ，必须使用 silicon 系列芯片组（俗称 M 系列），15.0 的时候还是支持 X86/64 的，此次放弃 X86/64 令人担忧苹果后续对老机型的支持。
-文章
-🐕 Migrating Ice Cubes to the SwiftUI Observation framework
-@AidenRao：这篇文章介绍了作者将他的开源 Mastodon 客户端 Ice Cubes 迁移到了…]]></summary>
-        <author>
-            <name>Release notes from iOS-Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老司机 iOS 周报 #263 | 2023-10-16]]></title>
-        <id>https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23263</id>
-        <link href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23263"/>
-        <updated>2023-10-16T02:16:26.000Z</updated>
-        <summary type="html"><![CDATA[老司机 iOS 周报，只为你呈现有价值的信息。
-你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
-新闻
-ICP 备案上线
-国庆节前夕，苹果审核商店也正式上线了 ICP 备案。目前新 APP 需要填写备案号才能提交审核；老 APP 目前不填备案号也能正常提审（预计是明年 4 月强制执行）。
-中国工业和信息化部（MIIT）要求 App 必须具备有效的互联网信息服务提供者（ICP）备案号。此外，游戏 App 必须取得网络游戏出版物号。图书和报刊杂志 App 必须持有中国国家新闻出版署（NPPA）颁发的《网络出版服务许可证》。包含宗教内容的 App 必须持有中国国家宗教事务局（NRAA）颁发的《互联网宗教信息服务许可证》。新闻 App 必须持有中国国家互联网信息办公室（CAC）颁发的《互联网新闻信息服务许可证》。如果你已经或计划在中国大陆的 App Store 中提供上述类型的 App，则必须提供相关信息和证明文件。
-Xcode 15.1 Beta Release Note
-Xcode 15.1 Beta 版本发布，除了常规的新 SDK 发布，这次一条相对重要的信息是，从 15.1 开始，X86/64 的 芯片组（也就是 Intel CPU）不再能够开发 VisionOS ，必须使用 silicon 系列芯片组（俗称 M 系列），15.0 的时候还是支持 X86/64 的，此次放弃 X86/64 令人担忧苹果后续对老机型的支持。
-文章
-🐕 Migrating Ice Cubes to the SwiftUI Observation framework
-@AidenRao：这篇文章介绍了作者将他的开源 Mastodon 客户端 Ice Cubes 迁移到了…]]></summary>
-        <author>
-            <name>Release notes from iOS-Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[求求双11，别再搞预售了]]></title>
-        <id>https://news.cnblogs.com/n/751940/</id>
-        <link href="https://news.cnblogs.com/n/751940/"/>
-        <updated>2023-10-15T23:53:00.000Z</updated>
-        <summary type="html"><![CDATA[怀念最初的双 11 国庆长假一过，各大电商平台和商家正在为即将到来的双 11 摩拳擦掌。 可是作为支撑双 11 庞大销售额的消费者，却有着一个非常朴素的愿望。“今年能不能别再搞预售了？”多位消费者告诉「市界」，电商大促中他们最讨厌的就是预售，直接实在点减钱不好吗？“很怀念双 11 刚出现的时候，那个
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[问界和理想正打架呢，结果二线豪车们快被锤爆了]]></title>
-        <id>https://news.cnblogs.com/n/751939/</id>
-        <link href="https://news.cnblogs.com/n/751939/"/>
-        <updated>2023-10-15T23:46:00.000Z</updated>
-        <summary type="html"><![CDATA[这段时间，问界是捷报频传。 新款 M7 在上市不到一个月，不仅收获了 5 万份大订订单，还创造了一天卖 7000 台的奇迹。 一份大定交 5000，光是定金收入，问界已经到账 2.5 亿，而且大定意味着车主即便反悔，这笔钱也是不给退的。 要知道老款 M7 所有销量加起来，都凑不出 5 万台。真就是 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有望为下一代 Switch 游戏机外观，任天堂公布新掌机专利]]></title>
-        <id>https://news.cnblogs.com/n/751938/</id>
-        <link href="https://news.cnblogs.com/n/751938/"/>
-        <updated>2023-10-15T23:40:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 10 月 13 日消息，任天堂今天公开了一项名为“便携式游戏设备”的掌机专利，其中显示了一台类似现有 Switch Lite 游戏机的机型。 IT 之家注意到，相关专利顶部及正面类似于当下的 Switch Lite 机型，但底部开孔更类似于传统 Switch 平板外形。 ▲ 专利图正面 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周杰伦演唱会“硬刚”黄牛，“强实名制”显威力]]></title>
-        <id>https://news.cnblogs.com/n/751937/</id>
-        <link href="https://news.cnblogs.com/n/751937/"/>
-        <updated>2023-10-15T23:33:00.000Z</updated>
-        <summary type="html"><![CDATA[雷达财经鸿途出品文莫恩盟编深海 10 月 12 日，为期四天的周杰伦 2023“嘉年华”世界巡回演唱会，在上海正式开唱。然而，万千歌迷翘首以待之际，“周杰伦演唱会前黄牛集体退票”的话题却引发不少网友围观。 据媒体报道，有黄牛透露，之所以在演唱会开始前退票，是因为主办方之前答应录入信息的承诺无法兑现。
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 耗电量将与国家相当]]></title>
-        <id>https://www.solidot.org/story?sid=76347</id>
-        <link href="https://www.solidot.org/story?sid=76347"/>
-        <updated>2023-10-15T14:30:12.000Z</updated>
-        <summary type="html"><![CDATA[训练 AI 和运行 AI 都是能量密集过程。AI 公司 Hugging Face 报告称，其多语言文本生成 AI 工具在训练期间消耗了约 433 MWH 的电力，足以为 40 个普通美国家庭供电一年。荷兰阿姆斯特丹自由大学的 Alex de Vries 指出，每当 AI 工具生成文本或图像时，它也会使用大量的计算能力和能源。例如 ChatGPT 每天运行可能需要 564 MWH 的电力。虽然，世界各地的公司都在努力提高 AI 硬件和软件的效率，以降低这种工具消耗的能源，但机器效率的提高往往会增加需求。最终，技术进步将导致资源使用的净增加，这种现象被称为杰文斯悖论。De Vries 说：“提高这些工具的效率和易用性的结果可能是，我们允许更多的应用程序和更多的人使用它。”研究人员估计，如果每一次 Google 搜索都使用 AI，每年将需要大约 29.2 TWH 的电力，这相当于爱尔兰一年的用电量。到 2027年全球 AI 相关的用电量预计每年将增加 85~134 TWH。这相当于荷兰、阿根廷、瑞典等国家的年用电量。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传国内社交网站对部分用户推行前台实名制]]></title>
-        <id>https://www.solidot.org/story?sid=76346</id>
-        <link href="https://www.solidot.org/story?sid=76346"/>
-        <updated>2023-10-15T13:44:25.000Z</updated>
-        <summary type="html"><![CDATA[过去十年，中国国内社交网站实行的政策是后台实名前台自愿。根据微博上的消息，前台实名制即将到来：10 月底之前，100万粉丝的自媒体账号前台展示真实姓名；12 月份，50 万粉的自媒体账号前台展示真实姓名；10万粉的自媒体账号，在后台完成身份证实名认证，且在前台展示职业信息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软宣布收购交易完成，动视暴雪成为其全资子公司]]></title>
-        <id>https://news.cnblogs.com/n/751936/</id>
-        <link href="https://news.cnblogs.com/n/751936/"/>
-        <updated>2023-10-15T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[该来的终究要来。 经过了一年多的长跑，微软动用 687 亿美元巨资收购动视暴雪的企划终于尘埃落定。 这一企划早在 2022 年 1 月首次提出，随后受到了各国监管部门的审核。其中最坚定的反对者，是英国的反垄断机构：竞争与市场管理局（CMA）。 2022 年 7 月，CMA 开启了对微软并购案长达大半
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
         </author>
     </entry>
 </feed>
