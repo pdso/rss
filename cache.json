@@ -89,6 +89,16 @@
           "imageUrl": "https://cdn.sspai.com/2023/11/15/0df53fa3c2dec249b22a838eee72178b.jpg"
         },
         {
+          "id": "https://sspai.com/post/84443",
+          "author": "GoodTheme",
+          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n一、写在前面\n作为 MacBook 十年老用户，让我换 Windows 电脑是很难的。但我有时又确实需要 Windows 软件，这种时候常常就需要用到虚拟机或模拟器。目前，虚拟 Windows 操作系统的应用程序，我用过付费的 Parallels Desktop 和免费版的 UTM；直接运行 Windows 软件而无需安装操作系统的，我用过付费的 CrossOver 和免费的 Whisky。有时不能用，有时不好用，费的心思很多，实际效果有限，且每年都得重新付费以获得更新。每次运行新软件，最难受的地方莫过于在几个软件中来回切换尝试，控制变量找问题，更新也未必总是解决问题，而可能是创造新的困难。\n最近买了一台迷你主机，决定彻底解决这个问题，方法也很直观——用 MacBook 远程访问放在家里的 Windows 11 操作系统主机即可。一番折腾之后，实际效果不错。现在，我不论在家或在外，只要有网，就可以远程打开家里的电脑主机，用更为熟悉的 MacBook 键盘、触控板和屏幕远程使用 Windows 操作系统。\n一个额外的惊喜是，在 iPad 上打开相同的远程控制软件时，我的 iPad 变成了 Windows 平板，可以触屏，可以使用 Apple Pencil，利用 Mac 和 iPad 的通用控制，还可以使用 Mac 的键鼠和触控板。\n我的 Windows 平板（伪）\n写这篇文章，一方面是记录实现的过程，以便于我在未来搬家 / 换路由器 / 换网时能够回忆起这番操作；另一方面，也分享一下方法，给有兴趣采用同样方案使用 Mac 和 Wi…",
+          "link": "https://sspai.com/post/84443",
+          "publishedOn": "2023-11-15T17:47:46.000Z",
+          "wordCount": 1361,
+          "title": "一份 macOS / iOS 远程使用 Windows 操作系统的笔记",
+          "imageUrl": "https://cdn.sspai.com/2023/11/17/article/5b135ef4-32af-c800-a1e6-c58bbf054924.png"
+        },
+        {
           "id": "https://sspai.com/post/84417",
           "author": "accelee",
           "description": "普通人一开始记账最容易陷入的误区主要有三个，一开始就认为记账是一件简单的事情，想要把每笔账的记得清清楚楚的完美注意倾向，认为单式记账就行，复式记账是一座难以逾越的高山不愿意去学习。\n一开始就认为记账是一件简单的事情，记账就是记录每日的支出，这有什么难的？\n作为记账小白，刚一开始觉得记账是一件很简单的事情，不就是记录自己的收入和支出么这有啥难的。怀有这种想法的人遇到的最大的问题可能是一遇到一点难题不知道怎么做就放弃了记账，因为思想上完全没有准备。对于普通人来说，收入每月就发生一次非常好记，剩下的基本都是支出，只要按照发生的时候记录下来就行了，这有啥难的呢？这通常都是没有记账经验的初出茅庐的人的想法，我一开始也是这样。有两个因素在共同起促成了这种想法，一方面是你有所接触和了解，并不是完全没有碰过，你就会下意识的认为自己理解这件事情。另一方面真实的情况是你对这件事情缺乏深入的理解，看不到更多的细节，但是你一开始并没有意识到。\n如果是一件你完全没有经验的事情，例如芯片设计，你是不会碰到这样的问题，因为你根本不会有对理解芯片设计这件事情有错觉。但是对于记账这件事情，很多人是有这样的错觉的，我一开始也是这样。但是随着记录的越来越多，你就会逐渐发现很多不知道该如何去处理的问题，于是就想要搞清楚到底问题在哪里，于是就去学习相关的知识，逐渐的才发现之前的自己有多么的天真。想要通过自己对于收入和支出的粗浅的理解就把账记录的清清楚楚的，进而进行有意义的分析是不知者无畏的一种表现。\n经历了这十多年的记账实践，我逐渐的发现记账越来越清晰，记账不是一件困难的事情，甚至可以说记账是一件简单的事情，起码从理解的层面上来看。回头看我走了很多的弯路，因为那个时候没有太多的针对个人和家庭记账经验，自己在黑暗中摸索了很长时间才逐渐的找到了出口。\n我对于一个记账的新手有几点建议，首先如果你不是一个科班的会计或着财务…",
@@ -634,6 +644,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76654",
+          "author": null,
+          "description": "以网红 Caryn Marjorie 为参照对象的虚拟女友服务 CarynAI 在服务商 Forever Voices CEO 兼创始人 John Meyer 因试图对自家公寓纵火而被捕后停止了服务。CarynAI 的付费用户是在 Telegram 频道与其对话，该频道的信息显示虚拟女友服务从 10 月 23 日起停止运行。Caryn Marjorie 在一份声明中表示，由于不可预见的情况她终止了与 Forever Voices 的合作，她希望 John Meyer 及其家人能从心理健康危机中恢复。她表示将会继续推动 CarynAI 服务，她正与 Banter AI 公司合作开发另一个 AI 伴侣 CarynAI 2.0。",
+          "link": "https://www.solidot.org/story?sid=76654",
+          "publishedOn": "2023-11-17T15:01:29.000Z",
+          "wordCount": 196,
+          "title": "CEO 入狱虚拟女友失效",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76653",
+          "author": null,
+          "description": "WHO 宣布成立一个新的社会联系委员会，旨在应对孤独这一紧迫的健康威胁，将促进社会联系作为优先事项，并加速在所有收入水平国家推广解决方案。社会隔离（即缺乏社会联系）和孤独（即因与他人无联系而生成的社会疼痛）普遍存在。有人认为隔离和孤独主要影响高收入国家的老年人，其实不然，隔离和孤独影响着全世界所有年龄组人群的健康和福祉。四分之一的老年人有社会隔离感，而且所有区域的比率大致相似。根据研究结果，青少年中有 5-15% 的人感到孤独。而这些数字很可能估计不足。缺乏社会联系带来的早亡风险与其他众所周知的风险因素（如吸烟，过度饮酒，缺乏身体活动，肥胖和空气污染等）相当，甚至更大。社会隔离也会严重影响身心健康；研究表明，它与焦虑和抑郁有关，可使患心血管疾病的风险增加 30%。",
+          "link": "https://www.solidot.org/story?sid=76653",
+          "publishedOn": "2023-11-17T14:23:04.000Z",
+          "wordCount": 165,
+          "title": "WHO 宣布孤独为全球公共卫生问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76652",
+          "author": null,
+          "description": "剑桥词典将\"幻觉（hallucinate）\"选为 2023 年的年度单词。随着 AI 聊天机器人的兴起，这个动词被赋予了新的含义。幻觉的原意是在因健康状况或服用药物的情况下“仿佛看到、听到、感觉到或闻到”不存在的东西。随着 ChatGPT 等 AI 聊天机器人的流行，“幻觉”的新含义与 AI 产生虚假信息有关。剑桥词典称，生成式 AI 是强大但远非完美的工具，我们在与之互动时需要知道它的潜在强项和当前存在的弱点。AI 的幻觉提醒我们，人类需要将批判性思维技能运用到此类工具的使用中。大模型的可靠性取决于算法学习的信息，人类的专业知识比以往任何时候都重要。",
+          "link": "https://www.solidot.org/story?sid=76652",
+          "publishedOn": "2023-11-17T14:17:14.000Z",
+          "wordCount": 178,
+          "title": "剑桥词典将幻觉（hallucinate）选为 2023 年的年度单词",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76651",
+          "author": null,
+          "description": "阿里巴巴表示不再推进云智能集团的完全分拆，理由是受到上月底生效的美国出口管制措施影响。阿里巴巴称，这些新的限制可能会对云智能集团提供产品和服务的能力以及履行现有合同的能力产生重大不利影响。该公司还称，将专注建立云智能集团可持续增长的模型。阿里巴巴原本计划将该业务分拆，并在 2024 年 5 月前上市。这本是将这家企业巨头拆分成六大业务集团的历史性架构重组计划的一部分。阿里云是亚洲最大的公有云服务提供商，按收入计算，智能云业务是仅次于阿里巴巴国内电商板块的第二大业务。",
+          "link": "https://www.solidot.org/story?sid=76651",
+          "publishedOn": "2023-11-17T13:33:03.000Z",
+          "wordCount": 160,
+          "title": "阿里巴巴以美国芯片出口管制为由放弃分拆云计算业务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76650",
+          "author": null,
+          "description": "2005 年美国有 8891 份报纸，到 2024 年这一数字预计将会减少到 6000 份，减少的主要是地方性报纸。有很多仍然存活的地方性报纸以前是每天出版的日报，现在变成了每周才出版一次的周报。地方性媒体以每周超过两份的速度减少。美国有 204 个县——占总数的 6.4%——没有了本地媒体。1562 个县只剩下一个本地新闻来源——通常是周报，其中 228 个县的新闻媒体也面临消失的风险。分析人士担心，缺乏优质的本地新闻可能会对民主构成威胁。",
+          "link": "https://www.solidot.org/story?sid=76650",
+          "publishedOn": "2023-11-17T13:19:48.000Z",
+          "wordCount": 170,
+          "title": "美国三分之一的地方报纸消失",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76649",
+          "author": null,
+          "description": "Signal 协议是事实上的端对端加密协议标准，被 WhatsApp、Google Messages 等流行消息应用采用。现在 Signal 基金会披露了 Signal 消息应用以及相关开发的运营成本。Signal 基金会是非盈利组织，它的资金主要来自于捐款，它不会永久储存用户数据，但临时储存也是要花一大笔钱的，用户注册使用的第三方短信验证等服务也是要花钱。Signal 称每年的运营费用逾千万美元，预计到 2025 年运营费用将达到 5000 万美元。截至 11 月的 2023 年基础设施费用为 1400 万美元，其中储存 130 万美元，服务器 290 万美元，注册费 600 万美元，带宽 280 万美元，其它服务 70 万美元。",
+          "link": "https://www.solidot.org/story?sid=76649",
+          "publishedOn": "2023-11-17T12:58:18.000Z",
+          "wordCount": 190,
+          "title": "Signal 披露其运营成本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76648",
+          "author": null,
+          "description": "三星证实黑客在长达一年时间内窃取了英国客户的个人数据。三星向受影响客户发送邮件称，攻击者利用了未披露名字的第三方应用的漏洞，在 2019 年 7 月 1 日到 2020 年 6 月 30 日之间访问了在三星英国商店购物的客户个人信息。三星称它直到三年后的 2023 年 11 月 13 日才发现这次入侵。三星通知受影响客户，黑客可能已获取了姓名、电话号码、 邮政地址和电子邮件地址等信息。",
+          "link": "https://www.solidot.org/story?sid=76648",
+          "publishedOn": "2023-11-17T11:01:12.000Z",
+          "wordCount": 175,
+          "title": "三星证实黑客在长达一年时间内窃取了英国客户的个人数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76647",
+          "author": null,
+          "description": "为了遵守欧洲经济区的数字市场法，微软将允许欧洲部分国家的用户卸载 Edge 浏览器、从 Windows Search 中移除必应、在 Widgets Board 中关闭 Microsoft News 和广告。英国、美国以及其它国家不太可能推行相同政策。这不是微软第一次“特别对待”欧洲经济区的 Windows 11 用户，此前它为了遵守数字市场法而改变了捆绑 Teams 视频会议工具的方式，使用用户选择的默认浏览器而不是 Edge 打开链接。",
+          "link": "https://www.solidot.org/story?sid=76647",
+          "publishedOn": "2023-11-17T09:00:55.000Z",
+          "wordCount": 182,
+          "title": "微软将允许欧洲经济区用户卸载 Edge 和移除必应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76646",
+          "author": null,
+          "description": "Google Chrome 官方博客宣布将从 2024 年 6 月起在 Chrome Dev、Canary 和 Beta 中自动禁用 Manifest V2 扩展。Chrome Web Store 也不再允许安装 Manifest V2 扩展。它鼓励开发者更新扩展迁移到 Manifest V3。Manifest V3 扩展系统受争议之处是它限制了 WebRequest API 的功能，用 declarativeNetRequest 替代了 WebRequest。广告屏蔽扩展如 uBlock Origin 会受到影响，因为它们使用 WebRequest 在广告下载前屏蔽其请求。禁用 Manifest V2 扩展意味着 uBlock Origin 会在明年年中被禁用。开发者已经释出了使用 Manifest V3 的精简版本uBO Lite，其功能弱于原版。原版未来只能在 Firefox 等浏览器上使用。",
+          "link": "https://www.solidot.org/story?sid=76646",
+          "publishedOn": "2023-11-17T07:31:49.000Z",
+          "wordCount": 231,
+          "title": "Google Chrome 将在 2024 年禁用 Manifest V2 扩展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76645",
+          "author": null,
+          "description": "在《金融时报》周四报道 IBM 的广告出现在支持希特勒和纳粹的帖子旁边之后，IBM 暂停了 X 上的广告投放。Media Matters 的一项研究也发现，苹果、甲骨文和康卡斯特旗下 Xfinity 和 Bravo 的广告与支持纳粹的内容相邻。周三，马斯克赞同 X 上的一个帖子，该帖子支持反犹阴谋论，即犹太人对白人怀有“辩证仇恨”。马斯克在回复该帖时写道：“你说的是事实真相。”更糟糕的是，马斯克周四在 X 上说，白人“不被允许为自己的种族感到骄傲”（这是一名极右翼用户推文中的话），这“超级糟糕”。IBM 在一份声明中说：“IBM 对仇恨言论和歧视零容忍，在我们调查这一完全不可接受的情况的同时，我们立即暂停了 X 上的所有广告。”",
+          "link": "https://www.solidot.org/story?sid=76645",
+          "publishedOn": "2023-11-17T06:21:41.000Z",
+          "wordCount": 187,
+          "title": "IBM 从 X/Twitter 撤下广告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76644",
+          "author": null,
+          "description": "名为 Alphv/BlackCat 的勒索软件组织向 SEC 投诉受害者未按照规定在四个工作日内披露数据被窃取事件。勒索软件组织声称它入侵了加州金融软件公司 MeridianLink，窃取了其客户数据，要求支付赎金否则将泄露窃取的数据。为了增加获得赎金的几率，该组织称已经向 SEC 投诉 MeridianLink，指控该公司未按 7 月公布的规定及时披露数据泄露。BlackCat 黑客称他们是在 11 月 7 日入侵了 MeridianLink，没有加密文件只是窃取了数据。MeridianLink 发言人证实遭到网络攻击，但尚未确认有客户数据被盗，称该公司的调查没有发现有未经许可访问其生产平台的证据，如果发现有客户数据被盗，将按照法律要求发布通知。",
+          "link": "https://www.solidot.org/story?sid=76644",
+          "publishedOn": "2023-11-17T05:59:06.000Z",
+          "wordCount": 182,
+          "title": "勒索软件组织向 SEC 投诉受害者未及时披露数据泄露",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76643",
+          "author": null,
+          "description": "苹果出人意料的宣布明年 iPhone 将支持 Google 力推的 RCS 消息标准。RCS 代表 Rich Communication Services，比短信或彩信支持更多功能，如视频和加密，兼容支持 RCS 标准的运营商和厂商的消息应用。苹果的决定是在监管机构以及 Google 和三星等竞争对手施压下做出的。此外 RCS 也发展成为一个更成熟的消息平台。苹果此举意味着明年晚些时候 Android 用户将能正常看到苹果用户发送的 iMessage 消息。",
+          "link": "https://www.solidot.org/story?sid=76643",
+          "publishedOn": "2023-11-17T05:26:40.000Z",
+          "wordCount": 184,
+          "title": "苹果宣布将在明年支持 RCS 标准",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76642",
           "author": null,
@@ -3103,136 +3233,6 @@
           "wordCount": 181,
           "title": "RowPress 能在部署了 RowHammer 保护措施的 DRAM 中诱发比特翻转",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76394",
-          "author": null,
-          "description": "国家新闻出版署下发关于实施网络游戏精品出版工程的通知，其中包括“传播社会主义核心价值观。以社会主义核心价值观为引领，把正确价值取向融入游戏主线剧情和玩法规则，弘扬真善美、贬斥假恶丑，抵制泛娱乐化等不良倾向，反对拜金主义、享乐主义、极端个人主义等畸形价值观。弘扬爱国主义、集体主义、社会主义精神，推出一批青少年题材游戏作品，注重道德养成、人格塑造、思维训练，传递向上向善的价值观，培养阳光刚健的审美取向，塑造可亲可敬的英雄形象。聚焦游戏本质，匡正算法规则，摒弃‘氪金’‘氪肝’，以有爱有益有趣的玩法和故事，愉悦身心、温润心灵、启智增慧。”所谓氪金就是需要在游戏中大量充值，氪肝是指像工作一样需要在游戏中花费大量时间做各种日常任务。",
-          "link": "https://www.solidot.org/story?sid=76394",
-          "publishedOn": "2023-10-19T13:02:47.000Z",
-          "wordCount": 144,
-          "title": "新闻出版署希望网游抛弃氪金氪肝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76393",
-          "author": null,
-          "description": "由索尼和本田共同出资的索尼·本田移动出行在日本首次公开了纯电动汽车“AFEELA”的试制车。目标是通过乘客在车内欣赏数字内容持续收费，从而实现用软件赚钱的“移动智能手机”。AFEELA 配备了高通骁龙处理器。通过 5G 与云服务连接，在自主开发的操作系统上提供内容。驾驶席前是一整排触控屏，可以欣赏电影和音乐。车辆加速时的马达音可以改变成与喜欢的电影风格一致的特效音。还可以在副驾驶席上连接 PS5 的控制器玩游戏。索尼·本田移动出行的目标是，建立除销售车辆外还通过持续的收费收入来赚钱的“Recurring（循环）”业务模式。设想通过受理内容购买和驾驶辅助功能的申请来获得收益。",
-          "link": "https://www.solidot.org/story?sid=76393",
-          "publishedOn": "2023-10-19T10:20:42.000Z",
-          "wordCount": 146,
-          "title": "日本电动汽车公司寻求通过软件获得持续收入",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76392",
-          "author": null,
-          "description": "营养专家多年来已经认识到，富含脂肪和糖的西方饮食可能是导致肥胖的原因，但关于罪魁祸首：摄入过多卡路里的争论一直存在，那么是具体的食物，如碳水化合物或脂肪吗？这导致一些团体建议减少糖，一些减少碳水化合物的摄入量，而另一些则认为关键是减少高脂肪食物。发表在《肥胖》上的一篇论文表明，这些理论并非互不相容，它们都可以以一个真正的驱动因素为中心，以一条统一的途径结合在一起：果糖。果糖存在于食糖和高果糖玉米糖浆中。果糖也可以在体内由碳水化合物合成。当果糖被代谢时，它会降低体内的活性能量(被称为ATP或三磷酸腺苷)，从而导致饥饿和食物摄入。",
-          "link": "https://www.solidot.org/story?sid=76392",
-          "publishedOn": "2023-10-19T09:59:12.000Z",
-          "wordCount": 142,
-          "title": "果糖可能是肥胖问题的核心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76391",
-          "author": null,
-          "description": "Google 宣布 Google Play Protect 将在侧载应用安装时扫描是否是恶意程序。所谓侧载应用是指从非官方应用商店下载的应用。绝大部分恶意应用都是通过非官方应用商店传播的。Google 称 Play Protect 将在安装时对应用代码进行深度扫描，将各个部分的信息发送到 Google 服务进行评估，实时分析完成之后将向用户展示结果，用户将会知道安装应用是否安全或者是否有害。Google 将首先在印度推出该功能，之后扩大到其它所有国家。",
-          "link": "https://www.solidot.org/story?sid=76391",
-          "publishedOn": "2023-10-19T09:54:07.000Z",
-          "wordCount": 157,
-          "title": "Google 将在侧载应用安装时进行扫描",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76390",
-          "author": null,
-          "description": "乌克兰网络活动人士 Ukrainian Cyber Alliance 黑入了勒索软件组织 Trigona 的服务器，拷贝然后清空了所有数据。他们拷贝了源代码和数据库记录，其中可能有解密密钥。黑客是利用了已知的远程提权漏洞  CVE-2023-22515 入侵了 Trigona 的服务器，他们首先建立了一个可靠的立足点，然后在完全未被发现的情况下绘制了勒索软件组织的网络基础设施。接下来他们提取了 Trigona 所有信息，包括开发环境、加密货币热钱包、源代码和数据库记录。他们不清楚其中是否有解密密钥，表示如果发现将会公开。",
-          "link": "https://www.solidot.org/story?sid=76390",
-          "publishedOn": "2023-10-19T09:14:25.000Z",
-          "wordCount": 161,
-          "title": "乌克兰活动人士入侵勒索软件组织 Trigona 的服务器清空所有数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76389",
-          "author": null,
-          "description": "Google 安全团队 Threat Analysis Group (TAG) 称，中俄黑客组织正在利用一个前不久修复的 WinRAR 高危漏洞 CVE-2023-40477。该漏洞是安全公司 Group IB 发现的，8 月 2 日释出的 WinRAR v6.23 修复了该漏洞，但有很多用户尚未更新。该漏洞允许远程攻击者通过引诱受害者打开一个特制的 RAR 压缩文件去执行任意代码。攻击者可以伪造文件扩展，在伪造的 .jpg 或 .txt 等文件格式中隐藏恶意脚本。当受害者打开文件，攻击者可以远程执行代码，安装恶意软件。Google 研究人员观察到俄罗斯黑客组织 Sandworm  9 月初冒充乌克兰的无人机作战训练学校发送恶意邮件，其中包含了压缩文件链接去利用 WinRAR 漏洞。另一个俄罗斯黑客组织 Fancy Bear 同样以乌克兰用户为目标。",
-          "link": "https://www.solidot.org/story?sid=76389",
-          "publishedOn": "2023-10-19T08:50:45.000Z",
-          "wordCount": 182,
-          "title": "中俄黑客正在利用已修复的 WinRAR 漏洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76388",
-          "author": null,
-          "description": "亚马逊正在测试两项提高仓库自动化的新技术，其中之一是双足人形机器人 Digit。Digit 由 Agility Robotics 制造，该公司去年获得了亚马逊的投资。亚马逊称，Digit 能以新颖的方式在仓库中和角落里移动、抓取和处理商品。它的大小和形状非常适合为人类设计的建筑物。Digit 的初步用途是帮助员工回收周转箱，这是一种高度重复的过程。一旦箱子里的物品取出，就需要拾取和移动空的周转箱。仓库里使用的机器人通常是轮式的，很少用双足，轮式的移动速度要快得多。",
-          "link": "https://www.solidot.org/story?sid=76388",
-          "publishedOn": "2023-10-19T08:35:00.000Z",
-          "wordCount": 148,
-          "title": "亚马逊在仓库测试双足机器人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76387",
-          "author": null,
-          "description": "2019 年 3 月 13 日，时年 29 岁的 Jimmy  Zhong 报警，称价值数十万美元的加密货币被盗。他称自己是比特币的投资者。但接下来发生的事情并非如 Zhong 所预料的。由于警方的调查进展缓慢，Zhong 雇佣了私家侦探。当私家侦探指出盗窃者很可能是熟人后，Zhong 备受挫折，不愿意接受。私家侦探说，Jimmy 想要被爱，想要朋友。在镇上，Zhong 以挥霍无度闻名，他看起来没有收入来源，但却过着极为奢侈的生活，在路易威登和古驰店里购物，购买了豪车和多栋房子。他告诉朋友自己很早就参与了比特币挖矿。他早在 2009 年就涉足了加密货币，中本聪就是在这一年发明了比特币。在他花天酒地的同时，美国国税局的一组特工正在调查 2012 年暗网市场丝绸之路发生的 5 万比特币被盗案。这些比特币今天的价值超过了 30 亿美元，为史上金额最高的加密货币盗窃案。虽然无法识别黑客的身份，但比特币使用的区块链是公开的，调查人员能看到黑客将被盗的比特币从一个账号转到另一个账号，使用混币器模糊来源。最终黑客犯了一个小错误，将 800 美元的加密货币转移到了一个实名制交易所，转入的账号是用 Zhong 的名字注册的。调查人员发现，Zhong 确实在 2009 年就参与了比特币，帮助完善了比特币软件，并在关键问题上如减少区块链大小上贡献了想法。他是比特币的核心开发者之一，但同时也是史上金额最高的比特币盗窃者之一。他的律师试图说服法官不要判刑，因为其盗窃行为没有给美国政府造成任何伤害，他盗窃时的比特币在 2012 年只值 65 万美元，如今超过 30 亿美元，美国政府从中获利了 30 亿美元。他最终被判刑 1 年零 1 天，他的狗 Chad 现在和一位朋友住在一起。",
-          "link": "https://www.solidot.org/story?sid=76387",
-          "publishedOn": "2023-10-19T07:43:27.000Z",
-          "wordCount": 199,
-          "title": "丝绸之路比特币盗窃者 Jimmy Zhong 的秘密生活",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76386",
-          "author": null,
-          "description": "两周前在网络犯罪论坛兜售 23andMe 客户数据的黑客再次泄露了数百万 23andMe 客户的基因数据。23andMe 提供基因检测服务，它此前表示攻击者利用的是撞库攻击。所谓撞库攻击是指通过已泄露的用户密码信息生成字典表，尝试批量登录其它网站，获取可以登录的用户账号。名叫 Golem 的黑客在 BreachForums 上发布了新的 23andMe 数据集，包含了 400 万用户，Golem 声称其中包含了生活在美国和西欧的最富有的人的数据。23andMe 表示正对此展开调查。黑客自称拥有 300TB 的 23andMe 客户数据。",
-          "link": "https://www.solidot.org/story?sid=76386",
-          "publishedOn": "2023-10-19T06:27:58.000Z",
-          "wordCount": 168,
-          "title": "黑客再次泄露数百万 23andMe 客户数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76385",
-          "author": null,
-          "description": "根据 Brave 浏览器项目 GitHub 页面上的讨论和媒体的报道，Brave 在用户不知情下安装了 VPN 软件，无论用户有没有订阅它的 VPN 服务。Brave 是在 2022 年中与 VPN 和防火墙方案提供商 Guardian 合作推出 Brave Firewall + VPN，月费为 9.99 美元。从 Brave v1.59.117 开始，如果用户有管理权限，浏览器会在其安装文件夹下安装 VPN 服务 Brave Vpn Wireguard Service 和 Brave Vpn Service，两个服务都被标记为手动启动。Brave 工程副总裁 Brian Clifton 表示，理想的情况是 VPN 服务应该在购买后安装而不是浏览器安装时安装。这次事故被认为是无意中造成的。",
-          "link": "https://www.solidot.org/story?sid=76385",
-          "publishedOn": "2023-10-19T05:45:54.000Z",
-          "wordCount": 206,
-          "title": "Brave 在 Windows 用户电脑里安装了 VPN 软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76384",
-          "author": null,
-          "description": "根据发表在 PLOS ONE 期刊上的一篇论文，研究人员根据过去二十年的考古发掘得出结论：尼安德特人与智人一样聪明。尼安德特人有着比人类祖先更大的大脑，他们能控制火，知道如何生火和维持火苗稳定燃烧，知道用火烹饪、取暖和防御，他们甚至在其居住的洞穴中赋予火重要的地位。这项研究改变了我们对于尼安德特人的传统看法。长期以来他们被认为能力和智力上弱于智人，被视为两种完全不同的物种，如今科学家倾向于认为尼安德特人和智人是同一物种的不同形式。尼安德特人还知道如何用药，甚至能做成功的手术和照料残疾人。",
-          "link": "https://www.solidot.org/story?sid=76384",
-          "publishedOn": "2023-10-19T05:19:48.000Z",
-          "wordCount": 145,
-          "title": "尼安德特人与智人一样聪明",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76383",
-          "author": null,
-          "description": "科技领袖周二表示，AI 将对劳动力带来巨大变革，将会消除许多职业，要求社会重新思考人们如何度过时间。从医生到作家的各类专业人士已经在担心 A I会完全取代某些岗位。但 Adobe 的数字媒体业务总裁 David Wadhwani 称，尽管存在相关担忧，但他认为 AI 是一种能促进就业而不是让人失业的工具。他表示，Adobe 的Firefly等工具可以生成图像和标识，让更多人成为创意专业人士。风险资本家 Vinod Khosla 称，目前对 AI 的大多数风投都将赔钱。AI 投资已进入炒作阶段，只有高度自律的投资者才能通过押注这项变革性技术而获利。Khosla 还警告说不要将先进AI模型背后的代码公之于众。一些技术专家主张公开代码可以促进这项技术的发展。他说：“你不会将曼哈顿计划开源。”",
-          "link": "https://www.solidot.org/story?sid=76383",
-          "publishedOn": "2023-10-18T15:24:11.000Z",
-          "wordCount": 171,
-          "title": "科技领袖称 AI 将改变拥有一份工作的意义",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76382",
-          "author": null,
-          "description": "因为最近的 Unity 引擎引入受争议的安装量收费模式事件，独立游戏发行平台 itch.io 发起了 Jump Ship Jam 游戏开发马拉松活动。卡牌类 Roguelike 游戏《杀戮尖塔（Slay the Spire）》开发商 Mega Crit 工作室在三周时间内实验使用开源引擎 Godot 开发了套牌构筑自走棋游戏《Dancing Duelists》，支持 Windows、Linux 和 Mac 三大平台。Mega Crit 称，游戏是免费的，但如果玩家觉得好玩可以考虑向 Godot 项目捐款。Godot 项目目前的每月捐款接近了 5 万欧元。",
-          "link": "https://www.solidot.org/story?sid=76382",
-          "publishedOn": "2023-10-18T14:11:36.000Z",
-          "wordCount": 187,
-          "title": "Mega Crit 发布用开源引擎 Godot 开发的游戏",
-          "imageUrl": null
         }
       ]
     },
@@ -3241,6 +3241,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/753862/",
+          "author": null,
+          "description": "11 月 17 日消息，据外媒报道，两位知情人士透露，谷歌将推迟发布其大语言模型 Gemini，发布时间从原定的今年 11 月份推迟到了 2024 年第一季度。 据外媒报道，谷歌的 Gemini 项目旨在与 AI 聊天机器人 ChatGPT 背后的开发商 OpenAI 在对话式人工智能（AI）领域展\n本文链接",
+          "link": "https://news.cnblogs.com/n/753862/",
+          "publishedOn": "2023-11-17T13:38:00.000Z",
+          "wordCount": 163,
+          "title": "消息称谷歌将推迟至明年第一季度发布大语言模型Gemini",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753861/",
+          "author": null,
+          "description": "11 月 17 日消息，据外媒报道，当地时间周四，电动汽车制造商 Lucid 集团推出第二款车型 Lucid Gravity 豪华电动 SUV。 外媒称，Lucid 集团的目标是成为电动汽车市场的有力竞争者，而 Gravity SUV 的开发是实现这一目标的重要一步。 Lucid Gravity 是\n本文链接",
+          "link": "https://news.cnblogs.com/n/753861/",
+          "publishedOn": "2023-11-17T13:32:00.000Z",
+          "wordCount": 163,
+          "title": "Lucid集团推出Gravity电动SUV：续航708公里 将于明年底开始生产",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753860/",
+          "author": null,
+          "description": "据彭博社援引知情人士消息表示，美团正在考虑收购 Delivery Hero 在东南亚地区的 foodpanda 业务，希望以此探索在国内市场之外的多元化发展途径。 知情人士称，美团已经同 Delivery Hero 就该事宜进行了谈判，不过该谈判结果目前有待确定。彭博社表示，双方均未对此传言置评。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/753860/",
+          "publishedOn": "2023-11-17T13:28:00.000Z",
+          "wordCount": 163,
+          "title": "美团或考虑收购Delivery Hero的东南亚foodpanda业务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753859/",
+          "author": null,
+          "description": "摘要 这是阿里集团换帅后第一次对外释放战略思考。 文幸芙 编辑郑玄 这是一个不平静的财报发布日。 在阿里发布 2024 财年第二财季财报时，阿里宣布不再彻底分拆云智能集团，后者本是阿里「1+6+N」组织变革中分拆计划最彻底的子集团。阿里管理层称，随着美国扩大出口管制规则，分拆可能无法实现股东增值的效\n本文链接",
+          "link": "https://news.cnblogs.com/n/753859/",
+          "publishedOn": "2023-11-17T13:22:00.000Z",
+          "wordCount": 163,
+          "title": "阿里告别自己的上一个时代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753858/",
+          "author": null,
+          "description": "众所周知，人眼之所以能看见色彩斑斓的世界，是因为不同波长的光反射到了我们眼里，波长较长的光成为了明艳的红色，波长较短的光则是深郁的蓝色，而当大部分可见波长的光线不可见时，就有了黑色。 2019 年 5 月，苹果公司提交了一项名为 「使阳极氧化部件具备哑光黑色外观」的专利。 阳极氧化是近几年在电子设备\n本文链接",
+          "link": "https://news.cnblogs.com/n/753858/",
+          "publishedOn": "2023-11-17T13:17:00.000Z",
+          "wordCount": 163,
+          "title": "M3 MacBook Pro 评测：Mac 可以打游戏了，但这不是它最大的亮点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753857/",
+          "author": null,
+          "description": "2023 年了，你的手机用上无线充电了吗？ 最近，无线充电联盟（WPC）宣布下一代无线充电标准 Qi v2.0 产品即将落地，能够提供磁性功能、更快的充电、更高的效率，以及更多便利性。 需要先说明的是，Qi 意思是「关键能量」，是一种由无线充电联盟制定的互连标准，能够实现短距离低功率无线感应式电力传\n本文链接",
+          "link": "https://news.cnblogs.com/n/753857/",
+          "publishedOn": "2023-11-17T13:07:00.000Z",
+          "wordCount": 163,
+          "title": "Qi2 标准即将落地，Android 手机也能用上苹果 MagSafe 同款无线充",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753856/",
+          "author": null,
+          "description": "为了遵守欧洲经济区的数字市场法，微软将允许欧洲部分国家的用户卸载 Edge 浏览器、从 Windows Search 中移除必应、在 Widgets Board 中关闭 Microsoft News 和广告。英国、美国以及其它国家不太可能推行相同政策。这不是微软第一次“特别对待”欧洲经济区的 Win\n本文链接",
+          "link": "https://news.cnblogs.com/n/753856/",
+          "publishedOn": "2023-11-17T13:00:00.000Z",
+          "wordCount": 163,
+          "title": "微软将允许欧洲经济区用户卸载 Edge 和移除必应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753855/",
+          "author": null,
+          "description": "11 月 15 日，小米汽车第一款车型 SU7 正式亮相工信部申报目录，正式宣告小米汽车拿到“准生证”，可以开启量产。据悉，新车定位“C级生态科技轿车”，外观照也引来网友一阵感叹“是保时捷出了轨，还是特斯拉劈了腿？”虽然这话从侧面肯定了小米汽车的颜值，但外界最关心的还是售价。当前，新能源汽车市场还陷\n本文链接",
+          "link": "https://news.cnblogs.com/n/753855/",
+          "publishedOn": "2023-11-17T08:33:00.000Z",
+          "wordCount": 163,
+          "title": "小米汽车，年轻人可能买不起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753854/",
+          "author": null,
+          "description": "来源：远川研究所 随着电商平台双十一战报陆续出炉，熟悉的大红字体和亲切的加粗格式迎面扑来。但定睛一看，统计口径含蓄了许多。 活跃用户、品牌成交额、店播等数据登上前台，作为重头戏的总成交额被默契的忽略。 与往年用小程序、Excel 表格满天飞的气氛相比，今年双十一话题度可以算大不如前。 节前造势期间，\n本文链接",
+          "link": "https://news.cnblogs.com/n/753854/",
+          "publishedOn": "2023-11-17T08:22:00.000Z",
+          "wordCount": 163,
+          "title": "今年的双十一静悄悄",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753853/",
+          "author": null,
+          "description": "作者 朱晓宇 来源豹变 眼下小米汽车最拿不准的就是定价问题：定价太高，可能影响销量；定价太低，影响品牌形象，以及怎么算清利润率的账。 赌上雷军所有声誉的小米汽车，终于拿到了“准生证”。 11 月 15 日，工信部网站上第 377 批《道路机动车辆生产企业及产品公告》新产品公示显示，两款小米牌纯电动轿\n本文链接",
+          "link": "https://news.cnblogs.com/n/753853/",
+          "publishedOn": "2023-11-17T08:11:00.000Z",
+          "wordCount": 163,
+          "title": "小米汽车上路，就差米粉的“30万”了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753852/",
+          "author": null,
+          "description": "作者路世明 来源锌财经 如果说汽车圈最近谁最烦躁，何小鹏当属第一人。 近一个月多来，关于小鹏汽车的“麻烦事”接二连三。先是何小鹏与余承东就 AEB 技术拉开了一场线上激辩，引发行业热议；再是小鹏掀起一场内部反腐行动，原小鹏汽车副总裁、采购部负责人李丰被停职调查；紧接着超 1500 名小鹏 P7 车主\n本文链接",
+          "link": "https://news.cnblogs.com/n/753852/",
+          "publishedOn": "2023-11-17T08:00:00.000Z",
+          "wordCount": 163,
+          "title": "输给余承东后，小鹏的冬天有点头大",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753851/",
+          "author": null,
+          "description": "奇偶派（jioupai）原创 作者 范文 10 月 24 日，李佳琦开始了今年双 11 首场直播，据统计，李佳琦直播间共上架约 400 个商品，根据每个商品页面的售价，和销量数据进行初步统计，本场直播的 GMV95 亿元。虽然这个数字相比去年少了一半，但考虑到今年整体消费水平，这个销量其实不算差。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/753851/",
+          "publishedOn": "2023-11-17T07:50:00.000Z",
+          "wordCount": 163,
+          "title": "双十一前李佳琦被围攻，从一开始就注定了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753850/",
+          "author": null,
+          "description": "作者｜张翌楠 “我知道他们现在很困难，但是已经延期 4 次了，这次无论如何要发起回购，我们也没法跟 LP 交代，也别让我太难做。” William 在咖啡店挂掉电话后，眼睛依然没有离开手机，在屏幕上划拉了几下，大概是因为微信跳出了几条新的未读。在沉默的 2 分钟后，他才幽幽扣下手机，发出一声有些自嘲\n本文链接",
+          "link": "https://news.cnblogs.com/n/753850/",
+          "publishedOn": "2023-11-17T07:40:00.000Z",
+          "wordCount": 163,
+          "title": "中年投资人和他越不过的“山丘”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753849/",
+          "author": null,
+          "description": "来源：字母榜 几天前，一位纠结保研还是去 TOP2 互联网公司工作的大学生，在社交平台寻求网友们的建议，他特地给这家互联网注明了“总部北京”。总部在北京的 TOP2 互联网公司显然是字节，而将阿里或是腾讯排到字节身后的这种排法，乍看并不准确。 但昨日外媒的一则报道证明了它的准确性。 据 The in\n本文链接",
+          "link": "https://news.cnblogs.com/n/753849/",
+          "publishedOn": "2023-11-17T07:30:00.000Z",
+          "wordCount": 163,
+          "title": "字节和腾讯的猫鼠游戏，换位了吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753848/",
+          "author": null,
+          "description": "王自如是本来就向往去成熟的体制里做一人之下的高层，还是在创业过程里慢慢被种种不可抗力折磨，变得畏惧前进和变化？ 作者丨牧歌 来源丨螺旋实验室 多年之后，王自如一定会后悔接受了这次采访，正如后悔当年和罗永浩面对面公开辩论一样。 和老罗的那次辩论，等于是以王自如自身的窘迫衬托了老罗的犀利形象。而这一次的\n本文链接",
+          "link": "https://news.cnblogs.com/n/753848/",
+          "publishedOn": "2023-11-17T07:20:00.000Z",
+          "wordCount": 163,
+          "title": "网红入职大厂，结局大多不自如",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753847/",
+          "author": null,
+          "description": "撰文 吴先之 来源光子星球 太平洋两岸重新刮起了春风，资本市场也变得躁动起来。 双十一刚结束，跨境电商巨头 SHEIN（希音）赴美 IPO 的消息不胫而走。尽管 SHEIN 官方人士仍然用“暂无回应”与“不太清楚”回应外界关注，但多家主流媒体引述知情人士消息指出，SHEIN 已经秘密完成交表，此番赴\n本文链接",
+          "link": "https://news.cnblogs.com/n/753847/",
+          "publishedOn": "2023-11-17T07:10:00.000Z",
+          "wordCount": 163,
+          "title": "SHEIN秘密交表与背后的疑云",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753846/",
+          "author": null,
+          "description": "作者张浅浅 出品零态 LT（ID：LingTai_LT） 游戏爱好者昭昭经常在虎牙、斗鱼、B站和抖音四个平台横跳。“具体用哪个平台，还得看内容。”据她说，像世界级的电竞比赛，谁有转播权、谁更高清，就用哪个平台。日常的话，会跟着主播走，“主播在哪里她就去哪里。” “最爱斗鱼的 Doinb，几乎每天都看\n本文链接",
+          "link": "https://news.cnblogs.com/n/753846/",
+          "publishedOn": "2023-11-17T07:00:00.000Z",
+          "wordCount": 163,
+          "title": "游戏直播双子星“水逆”2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753845/",
+          "author": null,
+          "description": "文｜商业秀，作者崔思，编辑 张弘一 今年双十一悄然落幕，依然是战报“缺席”。 淘天、京东等也没有刷屏的销售额和 GMV，代之以“全面增长”和“齐创新高”，更不要提零点收官后的狂欢了。 甚至有网友贴出了今年双十一的销售额数据。没有对比就没有伤害，和往年相比，2023 年综合所有电商平台的销售额仅为 2\n本文链接",
+          "link": "https://news.cnblogs.com/n/753845/",
+          "publishedOn": "2023-11-17T06:51:00.000Z",
+          "wordCount": 163,
+          "title": "今年双11销售额连10万都不到，中小商家另寻出路",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753844/",
+          "author": null,
+          "description": "文定焦，作者黎明，编辑方展博 中国的大模型创业很火，但有些公司可能跑偏了。 “百模大战”这半年，大大小小的科技公司，都推出了自己的大模型。仿佛不发布一个大模型，就不配坐上通往 AI 时代的列车。 这造成一种现象：高度雷同，同质竞争。大家一蜂窝扑上来，重复造轮子。 11 月 15 日在深圳举行的西丽湖\n本文链接",
+          "link": "https://news.cnblogs.com/n/753844/",
+          "publishedOn": "2023-11-17T06:44:00.000Z",
+          "wordCount": 163,
+          "title": "大模型创业，李彦宏指了条路",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753843/",
+          "author": null,
+          "description": "文砺石商业评论，作者张军智 俞敏洪的新东方，卧虎藏龙。 高途集团（跟谁学）的创始人陈向东，朴新教育创始人沙云龙，真格基金的王强、徐小平、包凡一，峰瑞资本创始人李丰，新航道国际教育创始人胡敏，韦林文化创始人朱伟，锤子科技创始人罗永浩，比特币首富李笑来……都曾在新东方担任过高管和名师。 据俞敏洪 5 年\n本文链接",
+          "link": "https://news.cnblogs.com/n/753843/",
+          "publishedOn": "2023-11-17T06:36:46.000Z",
+          "wordCount": 163,
+          "title": "俞敏洪：我是一个特别懦弱的人",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/753793/",
           "author": null,
@@ -8689,126 +8889,6 @@
           "publishedOn": "2023-10-19T15:06:00.000Z",
           "wordCount": 163,
           "title": "年底将突破15000门店，瑞幸将如何打造百年品牌？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752252/",
-          "author": null,
-          "description": "今年中国智能手机市场，出现了新的信号。 折叠屏手机的大众时代终于来临，为并不乐观的市场注入一针强心剂，成为恢复增长的重要支撑。 根据 IDC 报告显示，今年一季度，全球智能手机市场销量同比下降 13%，但折叠屏手机销量大涨 64%。二季度，折叠屏手机出货量的增速高达 173%。可以说，与直板智能手机\n本文链接",
-          "link": "https://news.cnblogs.com/n/752252/",
-          "publishedOn": "2023-10-19T09:40:00.000Z",
-          "wordCount": 163,
-          "title": "OPPO让折叠机超越直板旗舰成为可能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752251/",
-          "author": null,
-          "description": "文盒饭财经，作者 刘星志，编辑王靖 发起“价格战”近一年后，特斯拉今年三季度多项业绩指标大幅下滑，低于外界预期。 美东时间 10 月 18 日，特斯拉公布第三季度业绩。今年三季度，特斯拉营收 233.5 亿美元，分析师预期为 240.6 亿美元；毛利率 17.9%，分析师预期分析师预期 18％；GA\n本文链接",
-          "link": "https://news.cnblogs.com/n/752251/",
-          "publishedOn": "2023-10-19T09:30:00.000Z",
-          "wordCount": 163,
-          "title": "特斯拉的“大空头”，是马斯克那张嘴",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752250/",
-          "author": null,
-          "description": "文音乐先声，作者 朋朋，编辑范志辉 这一代年轻人从入职那一天，就开始期待退休。 直面汗牛充栋的文件、永无止境的会议、让人棘手的职场关系，他们总会从内心发出振聋发聩地提问，“我什么时候可以退休啊？” 掰掰手指一算，可能还有三十年。 但总有年轻人能够另辟蹊径，虽然还没有退休，但已经开始享受退休生活。 上\n本文链接",
-          "link": "https://news.cnblogs.com/n/752250/",
-          "publishedOn": "2023-10-19T09:22:00.000Z",
-          "wordCount": 163,
-          "title": "逃避内卷的年轻人，盯上了老年大学的音乐课",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752249/",
-          "author": null,
-          "description": "文读懂财经 进入 2023 年后，新能源汽车已经再无“蔚小理”。如今，理想市值 354 亿美元，比蔚来（146 亿美元）和小鹏（133 亿美元）加起来的市值还要高。上半年，理想卖出 13.9 万台车，同样超过蔚来（5.4 万）和小鹏（4.1 万）销量之和。 蔚小理分化，很大程度上得益于理想押注增程式\n本文链接",
-          "link": "https://news.cnblogs.com/n/752249/",
-          "publishedOn": "2023-10-19T09:22:00.000Z",
-          "wordCount": 163,
-          "title": "理想市值超蔚来1倍，一场属于增程式的胜利",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752248/",
-          "author": null,
-          "description": "在不断下滑的手机市场，折叠屏成为了一个“闪光点”，去年超 60% 的增速，和行业的负增长形成了鲜明的对比。IDC 报告显示，今年第二季度，中国折叠屏手机市场出货量的增速高达 173%。一个明确的信号是，属于折叠屏的时代来了。 经过 5 年的发展，折叠屏手机从早期第一阶段的技术探索，到第二阶段的问题优\n本文链接",
-          "link": "https://news.cnblogs.com/n/752248/",
-          "publishedOn": "2023-10-19T09:15:00.000Z",
-          "wordCount": 163,
-          "title": "补足折叠屏影像短板，OPPO发布Find N3手机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752247/",
-          "author": null,
-          "description": "文 CBNData 从 2009 年到 2023 年，双 11 已行至第 15 年。它由天猫开始，如今已成为电商行业的年度最重磅节点，被寄予了诸多厚望，今年双 11 尤为如此。 从大的层面来说，当消费回归理性、消费信心处于修复进程，今年双 11 无疑关乎着大促价值的重新定义，是消费行业展现阶段性复苏\n本文链接",
-          "link": "https://news.cnblogs.com/n/752247/",
-          "publishedOn": "2023-10-19T09:07:00.000Z",
-          "wordCount": 163,
-          "title": "今年双11，除了低价，各平台还在拼什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752246/",
-          "author": null,
-          "description": "文海豚投研 奈飞北京时间 10 月 19 日凌晨发布了 2023 年第三季度财报。三季度，受益打击账户共享和广告支持套餐的推出，奈飞的用户订阅数再次超预期。 但真正令市场兴奋的利好（盘后上涨 12%），其实是管理层释放的多个利好（指引、回购等）。海豚君认为其中最关键的，是宣布即将在重点地区涨价。 具\n本文链接",
-          "link": "https://news.cnblogs.com/n/752246/",
-          "publishedOn": "2023-10-19T08:50:00.000Z",
-          "wordCount": 163,
-          "title": "增长被质疑？奈飞涨价回击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752245/",
-          "author": null,
-          "description": "文观潮新消费，作者 张凌寒，编辑 杜仲 8 月 26 日，杭州首家 Costco 开业。开业首日，人流火爆，车库排队都需要一个小时起，原定于 9 点开门的商场将时间提前了 40 分钟，十点多便开始限制人流。 这是 Costco 在中国大陆开设的第五家门店。此前每一次新店开业，都会迎来这样火爆的场景。\n本文链接",
-          "link": "https://news.cnblogs.com/n/752245/",
-          "publishedOn": "2023-10-19T08:40:00.000Z",
-          "wordCount": 163,
-          "title": "传统商超接连闭店，仓储会员店一路狂飙",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752244/",
-          "author": null,
-          "description": "两周前在网络犯罪论坛兜售 23andMe 客户数据的黑客再次泄露了数百万 23andMe 客户的基因数据。23andMe 提供基因检测服务，它此前表示攻击者利用的是撞库攻击。所谓撞库攻击是指通过已泄露的用户密码信息生成字典表，尝试批量登录其它网站，获取可以登录的用户账号。名叫 Golem 的黑客在 \n本文链接",
-          "link": "https://news.cnblogs.com/n/752244/",
-          "publishedOn": "2023-10-19T08:30:00.000Z",
-          "wordCount": 163,
-          "title": "黑客再次泄露数百万 23andMe 客户数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752243/",
-          "author": null,
-          "description": "得益于其高效的清洁效率，洗地机正成为席卷清洁电器赛道的新势力品类。奥维云网（AVC）推总数据显示，过去 4 年内，洗地机市场规模已经从不足 1 亿元上升至 99.7 亿元，市场上累计出现的洗地机品牌可高达 200 个，仅 2022 年以来，已上市的洗地机新品就超过 150 款。赛道拥挤源于爆发式增长\n本文链接",
-          "link": "https://news.cnblogs.com/n/752243/",
-          "publishedOn": "2023-10-19T08:20:00.000Z",
-          "wordCount": 163,
-          "title": "不用“吸力”的戴森如何再造洗地新标杆？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752242/",
-          "author": null,
-          "description": "俞敏洪做独立电商的野心还在继续扩大。 继自建 APP 后，10 月 17 日，东方甄选正式上线付费会员制度。消费者花 199 元/年成为会员后，即可享受付费会员专属权益，包括百款自营品 88 折、一年 12 张会员券、66 元券包入会礼等，付费会员一年预计最高可省 12000 元。目前，东方甄选官方\n本文链接",
-          "link": "https://news.cnblogs.com/n/752242/",
-          "publishedOn": "2023-10-19T08:10:00.000Z",
-          "wordCount": 163,
-          "title": "谁会花199元买东方甄选会员？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752241/",
-          "author": null,
-          "description": "10 月 19 日消息，昨日，京东即时零售三公里模式发布，京东即时零售正式公布“五年行动计划”：将助力超 200 万本地中小实体门店数字化转型，为社会提供超 1000 万个灵活就业岗位，并联合生态伙伴带动万亿消费。 据介绍，京东即时零售的三公里模式，是以京东开放平台为主导，围绕即时需求、本地供给、即\n本文链接",
-          "link": "https://news.cnblogs.com/n/752241/",
-          "publishedOn": "2023-10-19T07:58:00.000Z",
-          "wordCount": 163,
-          "title": "京东即时零售三公里模式发布，京东到家11.11将投入亿元资源扶持新入驻及中小商家",
           "imageUrl": null
         }
       ]
