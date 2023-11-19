@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 275 期）：彼得·蒂尔的实验",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n上图是最近落成的成都科幻馆，位于成都市郫都区菁蓉湖畔，可用于举办展览、会议等各种活动。10月18日，第81届世界科幻大会和雨果奖在这里开幕。（via）\n加密通信的最后一块拼图\n十一期间，世界最大的 CDN 服务商 Cloudflare 发了一篇博客文章，宣称解决了\"加密通信的最后一块拼图\"。\n\n这件事挺重要的，可能会影响很多人，本周我想好好谈谈。\n我先问大家，HTTPS 链接是加密通信吗？\n\n你可以说它是，因为通信内容确实是加密的，外界无法窥测和篡改。\n但是，它又不是彻底的加密通信，有一个地方是不加密的，那就是域名。中间人可以看到，你访问什么网站。\n为什么域名不加密呢？\n因为加密的密钥放在服务器上，而服务器只有知道域名，才知道发送哪一把密钥。所以，密钥的发送，必须在知道域名之后。\nCloudflare 解决的就是这个问题，它发明了一种新技术，叫做 ECH。\n\nECH 非常巧妙地解决了域名加密。它采用双层格式，也就是说，域名分了两层。外层是明文的，统一发送到 cloudflare-ech.com，内层是加密的，存放真正的域名。\n中间人只能看到你在访问 cloudflare-ech.com，看不到内层的域名，从而达到保密的效果。\n好了，技术介绍就说到这里，下面就是我的感想。我当时一看到 ECH 的细节，不禁就产生了疑问。\n如果 cloudflare-ech.com 发生故障，或者种种原因无法访问，那么所有 Cloudflare 托管的网站是否都无法访问？\n这是很现实的问题，因为 Cloudflare 是世界最大 CDN 服务商，很多网站都放在上面。而且，它对免费用户都启用了 ECH，还无法关闭（这是…",
-          "link": "http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html",
-          "publishedOn": "2023-10-20T00:15:40.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 274 期）：加密通信的最后一块拼图",
-          "imageUrl": null
         }
       ]
     },
@@ -68,6 +58,26 @@
       "feedUrl": "https://rsshub.app/sspai/matrix",
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
+        {
+          "id": "https://sspai.com/post/84486",
+          "author": "果铺知道",
+          "description": "Tabletops 是 Michael Steeber 的新闻周刊，本文原文发表于 2022 年 8 月，原作者授权果铺知道翻译。\n\nApple Store 时光机\nhttps://michaelsteeber.com/timemachine\n生活中有些地方，我们流连忘返：那些已经不再存在的地方、那些感到奇妙的地方、那些在即将消逝在时间的迷雾中时，在我们记忆的边缘徘徊、闪耀的地方。\n有时这些地方是深刻的，就像童年的家；有时它们又很简单，就像公园里一张喜欢的长椅，或着一家商场里的商店。我们总是希望也许什么时候能再一次去到那些地方。\n时间穿梭与现实\n这便是 Apple Store Time Machine 的意义所在。我重现了四家标志性的 Apple Store 零售店：Tysons Corner、Standford Shopping Center、Fifth Avenue 和 Infinite Loop，让你可以在内部自由探索。在时光机里，每家店都与它在盛大开幕日的模样完全一致。每一个细节都被考虑到，包括最后的 iPod 和盒装软件。这是目前为止，我最接近时光旅行的一次。\n\nThe Apple Store Time Machine 是一款完全免费的 Mac app，适用于 Apple silicon 和 Intel 处理器的 Mac 电脑。希望你能玩得和我创造他时一样快乐。\nhttps://michaelsteeber.com/timemachine\n如何搭一台时光机\n打小开始，我就对那些已经不复存在的地方着迷。历史上的村落、模型里的乡镇、路边的旧明信片让我浮想联翩 — 它们开启了一道通往遥不可及的时代的传送门。Apple Store Time Machine 也不例外。\n做到这儿的时候，我知道我已经沉迷了\n时光机里的四家 Apple Store 都是在 Blender 中 …",
+          "link": "https://sspai.com/post/84486",
+          "publishedOn": "2023-11-18T10:36:33.000Z",
+          "wordCount": 816,
+          "title": "Tabletops | Apple Store 时光机：踏上时光机，重温四家标志性 Apple Store 的盛大开幕日",
+          "imageUrl": "https://cdn.sspai.com/2023/11/17/d35184767db4ee0b88e65083a621231f.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84459",
+          "author": "一坨菜酱",
+          "description": "2022年10月，我选择主动从工作了3年的内容公司辞职了。\n当我开始写这篇文章时，过去工作中写周报、写年终汇报、晋升报告的毛病又浮现出来。\n我要认真汇报这一年我都做了些什么吗？是不是要写得看起来很厉害才显得我没有在无所事事？或者，别人会觉得我很散漫吗？\n现在的我：别人怎么看关我什么事？\n\n我必须坦率而真诚地写下的每一行字。\n\n辞职一年，我历经了不同的情绪和生活阶段：\n2022年10月-1月 混乱期\n \n这个阶段我把辞职生活当成上班，什么都想要。\n我那时候也信奉一句话，“自由职业，不过就是换了地方办公”。\n我每天起床得比上班还早，规划好每个小时干什么，勤快地联络各种客户，接各种活，还要强求自己同时备考雅思，每天学英语，学插画。如果浪费了时间，我就懊悔自责。\n因为干眼症的频繁复发，眼睛胀痛，这样的日子没有持续几周，我就差点精神衰弱了。\n我发现，我没办法同时做那么多的事情，中学时期的学习焦虑又冒了上来，甚至去准备去医院看想要确诊多年的ADHD（但因当时疫情在广州小爆发而被迫取消了）。\n我在想，我这么拼命，那我为什么不去上班呢？上班的工资更高啊，还缴五险一金呢。\n我不上班，不是为了更灵活地生活吗？\n2023年2月-4月 小小的回暖期\n \n这个阶段放松了很多，看了很多书，在接稿和自媒体上都有新的突破。\n年后因为一次在自媒体上小的顿悟，小红书的关注量从1K突然涨到了6K，小红书广告开始接到手软，但也很快来到了瓶颈期。\n2023年5月-8月 低落期+休息期\n我开始学会休息这个课题。\n开始经常走出门，去公园里躺着，去和公园里的小猫咪一起晒太阳发呆。\n\n一个人开始背起背包体验绿皮火车，坐两天两夜的火车去西宁看电影节，每天看看看电影，在西宁夜市吃吃喝喝的日子，好不快乐。\n回广州的路上，去西安看兵马俑（差点没被挤死），体验了传说中五星级青旅，背包十年。\n\n \n2023年9月-11月 小小的拐点期…",
+          "link": "https://sspai.com/post/84459",
+          "publishedOn": "2023-11-16T11:46:04.000Z",
+          "wordCount": 601,
+          "title": "失业一年后，我现在怎么样了",
+          "imageUrl": "https://cdn.sspai.com/2023/11/16/c0d16d810aec2c5cefb1febe9519a0ec.jpeg"
+        },
         {
           "id": "https://sspai.com/post/84373",
           "author": "XNOM",
@@ -567,16 +577,6 @@
           "wordCount": 622,
           "title": "做个数字避难者：从改变数字习惯开始",
           "imageUrl": "https://cdn.sspai.com/2023/10/19/fd40740c1b6b8cae4b2422034e980612.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83718",
-          "author": "噩梦飘雷",
-          "description": "前言\n大家好，我是噩梦飘雷~\n熟悉SSD的朋友都知道，目前绝大多数国产SSD都使用了联芸主控+长江存储NAND颗粒的方案。\n\n而在今年上半年，国产方案SSD以猛虎下山之势席卷了整个国内存储市场，PCIe4.0 SSD的价格壁垒在短时间内就被击溃，618期间国产PCIe4.0 SSD的价格一度被卷到了2毛多1G的样子，同时倒逼国外SSD厂商随之大幅降价。可以说，SSD的平价之路国产方案功不可没。\n去年双11期间上市的海康存储C4000，是市面上第一款使用了X3-9070颗粒的国产SSD，实际表现也让人惊喜，性能又强，温度又低，是国产SSD的优秀代表之一。\n\n今年海康存储推出了最新的PCIe4.0 SSD，型号为海康A4000，搭载了长江存储X3-6070颗粒。\n\n本来我自己也对QLC SSD有些疑虑，恰逢海康A4000发布后，出于好奇入手了一条2T版本，想测试一下国产QLC SSD的实际表现到底如何。\n没想到海康A4000的测试结果真的很让人出乎意料，缓内性能极其优异，直接颠覆了我对QLC SSD的偏见。\n\n这让我一下子就来了兴趣，就很好奇在QLC领域，国产SSD与国外品牌的SSD到底孰强孰弱？现在QLC SSD的技术和性能表现发展到什么水平了？\n于是我找来了其他3款2T容量的QLC SSD，进行了深入详细的横向测评比较，希望能给大家提供一些选购参考。\n\n由于测试项目较多，本文篇幅较长，全文8000字左右，在这里先简单列一下本文的提纲。大家可以根据需要跳转到相应部分阅读，没耐心的朋友也可以一拉到底直接看总结。\n\n测试和整理图表的工作量属实有些大，飘雷用了半个月的业余时间才整理出这篇横评报告。在这儿真心求个关注点赞收藏三连，拜谢拜谢！\n\n▶️️横评选手介绍\n除了海康A4000以外，本次参与横评的其他三位选手分别是Solidigm P41 Plus、英睿达P3 Plus和金士顿N…",
-          "link": "https://sspai.com/post/83718",
-          "publishedOn": "2023-10-20T05:09:46.000Z",
-          "wordCount": 715,
-          "title": "国产QLC颗粒依然YYDS？4款QLC SSD硬核横评，看看谁是性价比之王",
-          "imageUrl": "https://cdn.sspai.com/2023/10/20/0cb0c4ad2367993c7e953325d8f1b529.jpeg"
         }
       ]
     },
@@ -644,6 +644,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76659",
+          "author": null,
+          "description": "11 月 19 日是 《半条命（Half-Life ）》上市二十五周年。为庆祝这一纪念日，Valve 在 Steam 平台上对《半条命》限时免费，并释出了更新，包括四张新的多人地图，支持宽屏和 OpenGL Overbright 光照，支持 Steam Deck，正确的 UI 缩放支持最高分辨率 3840x1600，平衡多人游戏，等等。Valve 还在 YouTube 上释出了纪录片《Half-Life: 25th Anniversary Documentary》，回顾了游戏的制作过程。",
+          "link": "https://www.solidot.org/story?sid=76659",
+          "publishedOn": "2023-11-18T13:25:34.000Z",
+          "wordCount": 179,
+          "title": "《半条命》发布二十五周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76658",
+          "author": null,
+          "description": "去年全世界公路上行驶的电动汽车有逾 2000 万辆，电动巴士和卡车等有约 130 万辆，但双轮的电动单车和电动摩托的数量超过 2.8 亿，它们的使用频率更高，它们的流行减少的石油需求高达每天 100 万桶，约占全球石油总需求的 1%。电动汽车需要建造对应的充电基础设施，它们的维护和运行成本虽然低于汽油汽车，但相比双轮电动车仍然要高得多。举例来说，如果你每周五天骑电动单车上下班行驶 20 公里，那么你一年的充电费用只需要 20 美元。美国研究人员估计，如果电动单车出行量占到所有车辆出行量的 11%，那么交通排放量将下降约 7%。电动单车对于短距离行驶更方便更环保。",
+          "link": "https://www.solidot.org/story?sid=76658",
+          "publishedOn": "2023-11-18T12:56:07.000Z",
+          "wordCount": 175,
+          "title": "2.8 亿辆电动单车减少的石油需求远高于电动汽车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76657",
+          "author": null,
+          "description": "在马斯克（Elon Musk）点赞反犹阴谋论推文之后，苹果、迪士尼、华纳兄弟探索、派拉蒙环球、狮门和康卡斯特 (Comcast) 等媒体巨头都从 X/Twitter 上撤下广告。非盈利组织 Media Matters 此前的研究发现，IBM、苹果、甲骨文和康卡斯特的广告与支持纳粹的内容相邻。马斯克已经表示对 Media Matters 提起诉讼。对于马斯克近期的行为，X Out Hate 组织呼吁媒体巨头们不要通过广告支出为 X 提供资金。",
+          "link": "https://www.solidot.org/story?sid=76657",
+          "publishedOn": "2023-11-18T12:31:20.000Z",
+          "wordCount": 181,
+          "title": "苹果、迪士尼等都从 X/Twitter 撤下广告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76656",
+          "author": null,
+          "description": "在发生管理层震荡之后，三位 OpenAI 资深 AI 研究员辞职：研究总监 Jakub Pachocki，AI 风险团队负责人 Aleksander Madry 以及任职七年的研究员 Szymon Sidor。Jakub Pachocki 领导了 GPT-4 以及可能的 GPT-5 的预训练。在 Sam Altman 被解雇之后辞职的联合创始人 Greg Brockman 也是 ChatGPT 和 GPT-4 的核心开发者。目前对 OpenAI  内部发生了什么外界所知不详。",
+          "link": "https://www.solidot.org/story?sid=76656",
+          "publishedOn": "2023-11-18T10:33:43.000Z",
+          "wordCount": 202,
+          "title": "三位 OpenAI 资深 AI 研究员辞职",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76655",
+          "author": null,
+          "description": "OpenAI 董事会出人意料的宣布解雇 CEO Sam Altman，CTO Mira Murati 担任临时 CEO，该决定即时生效。OpenAI 董事会在声明称，Sam Altman 在与董事会的沟通中不始终坦诚，阻碍了董事会履行职责的能力，董事会不再对他继续领导 OpenAI 的能力抱有信心。OpenAI 联合创始人兼总裁 Greg Brockman 随后发表声明宣布辞职。向 OpenAI 投资了数十亿美元的微软也对这一消息倍感震惊，CEO 纳德拉(Satya Nadella)在一份声明中表示将会与继续合作关系。",
+          "link": "https://www.solidot.org/story?sid=76655",
+          "publishedOn": "2023-11-18T05:27:12.000Z",
+          "wordCount": 194,
+          "title": "OpenAI 董事会解雇了 CEO Sam Altman",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76654",
           "author": null,
@@ -3143,96 +3193,6 @@
           "wordCount": 169,
           "title": "Julian Assange 将被授予罗马荣誉公民",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76403",
-          "author": null,
-          "description": "IBM 的研究人员在《科学》期刊上发表论文，提出了受脑启发的芯片架构 NorthPole，它能将计算与记忆相结合，并以低能耗高效地处理数据。自计算机诞生以来，计算过程一直以处理器为中心，记忆内存与计算是分离的。然而在记忆内存和计算之间穿梭传输大量数据会在能耗、处理带宽和速度方面付出高昂的代价。这在新兴的和先进的实时 AI 应用（如脸部识别、物体检测和行为监控等）中尤其明显，这些应用需要快速获取海量数据。因此，大多数现代计算机架构正在迅速达到物理和处理瓶颈，而且鉴于所涉及的能源成本不断增长，其在经济、技术和环境上都面临着无法持续的风险。NorthPole  是一种将计算与记忆内存交织于单个芯片上的神经推理架构，对 ResNet50 的测试显示，它能将每瓦每秒帧数 (FPS) 的能量指标提高 25 倍，每个晶体管的 FPS 的空间指标提高 5 倍，相对于同类技术延迟的时间指标降低 22 倍。",
-          "link": "https://www.solidot.org/story?sid=76403",
-          "publishedOn": "2023-10-20T09:58:07.000Z",
-          "wordCount": 171,
-          "title": "受脑启发的低功耗 AI 推理芯片 NorthPole",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76402",
-          "author": null,
-          "description": "女性被诊断为焦虑症的可能性几乎是男性的两倍，但青春期前的男孩和女孩被诊断为焦虑症的可能性几乎相同。加州戴维斯的一项研究发现，大脑在青春期的变化可能解释了男女对压力的不同反应。根据发表在 PNAS 期刊上的论文，对雄性和雌性鼠的实验发现，睾酮是导致两性对社会压力反应差异的关键激素。没有睾丸激素的雄性和雌性小鼠在与潜在攻击者互动时，其杏仁核的大脑活动水平异常高。但小鼠如果受到睾丸激素的影响，其神经活动没有出现增加的情况。",
-          "link": "https://www.solidot.org/story?sid=76402",
-          "publishedOn": "2023-10-20T09:52:37.000Z",
-          "wordCount": 144,
-          "title": "研究揭示男女焦虑差异的生理机理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76401",
-          "author": null,
-          "description": "OpenAI 正与投资者就以 860 亿美元的估值出售股票进行谈判，这一估值约为 6 个月前的3倍。AI 的进步改变了市场对该行业领先公司的胃口。如果 OpenAI 的目标股价达到这一水平，这家总部位于旧金山、开发 ChatGPT 聊天机器人的公司将成为全球估值最高的私营公司之一。OpenAI 今年 4 月从微软等公司筹资时的估值为  290 亿美元。知情人士称，OpenAI 一直在与现有投资者讨论要约收购，让员工能出售其股票。员工可能会出售多达 10 亿美元的股票，但大部分人也可能选择继续持有股票。此举旨在让员工从公司成功中受益。",
-          "link": "https://www.solidot.org/story?sid=76401",
-          "publishedOn": "2023-10-20T09:15:13.000Z",
-          "wordCount": 171,
-          "title": "OpenAI 寻求以 860 亿美元估值出售股票",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76400",
-          "author": null,
-          "description": "苹果 CEO 库克(Tim Cook)正在中国穿梭访问。这次旋风式访问没有提前宣布，行程包括顺道巡视苹果专卖店，参观一家主要供应商，并与包括中国商务部长王文涛在内的多位高级官员会面。这是库克在大约七个月内第二次访华，凸显了苹果公司与这个世界第二大经济体日益复杂的关系。中国既是该公司的制造中心和重要的消费市场，也是重大风险的来源。根据 Counterpoint Research 的数据，苹果最新的 iPhone 15 系列机型在发布后的前 17 天内销量较去年同类 iPhone 14 系列机型下降了 10%。",
-          "link": "https://www.solidot.org/story?sid=76400",
-          "publishedOn": "2023-10-20T07:19:44.000Z",
-          "wordCount": 164,
-          "title": "苹果 CEO 库克突然访华",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76399",
-          "author": null,
-          "description": "微软、Google、MIT 的研究人员与古腾堡项目合作制作了 5000 本开放授权的有声读物，音频总时长 3.5 万小时，包含了虚构和非虚构类作品，每个人都能找到适合自己的内容。研究人员的论文《Large-Scale Automatic Audiobook Creation》发表在预印本平台 arXiv.org，他们指出，对于视障人士、年轻儿童，甚至语言新手来说，有声读物能“显著提高文学作品的易读性”。这批有声读物 The Project Gutenberg Open Audiobook Collection 可以通过各大平台的播客应用获取。",
-          "link": "https://www.solidot.org/story?sid=76399",
-          "publishedOn": "2023-10-20T07:15:02.000Z",
-          "wordCount": 175,
-          "title": "Microsoft AI 为古腾堡项目录制了 5000 本有声书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76398",
-          "author": null,
-          "description": "Google 官方博客宣布将开始在印度生产 Pixel 智能手机，首款机型是 Pixel 8，预计 2024 年初上市，将成为“印度制造”计划的一部分。这标志着 Google 加入了苹果等公司的行列，将供应链迁移到了中国之外的地区。Google 博客称，过去几年印度已经成为世界级的制造业中心。它表示已在印度 27 个城市设立了 28 个 Pixel 手机服务中心。",
-          "link": "https://www.solidot.org/story?sid=76398",
-          "publishedOn": "2023-10-20T05:43:15.000Z",
-          "wordCount": 169,
-          "title": "Google 开始在印度生产 Pixel 手机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76397",
-          "author": null,
-          "description": "托管预印本平台 arXiv 的康奈尔大学宣布从 Simons 基金会和美国国家科学基金会获得了逾一千万美元的资助。这笔资金将用于将 arXiv 迁移到云端，对代码进行现代化，保证可靠、容错和可访问。arXiv 将雇佣多名软件开发者去支持代码现代化工作，康奈尔的计算机科学系将开发新的搜索和推荐技术，将在确保隐私的情况下测试和部署。arXiv 将通过生成 HTML 和 PDF 版本的内容改进视障人士的可访问性。arXiv 创办于 1991 年， 创始人 Paul Ginsparg 在 2001 年加入了康奈尔大学后 arXiv 由康奈尔大学图书馆托管。它的总论文数在去年突破了 200 万篇。",
-          "link": "https://www.solidot.org/story?sid=76397",
-          "publishedOn": "2023-10-20T05:11:23.000Z",
-          "wordCount": 178,
-          "title": "arXiv 平台收到 1000 万美元资助",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76396",
-          "author": null,
-          "description": "从细菌到蓝鲸，生物体内的细胞数量超过了地球上沙粒估计数量的一万亿倍，比宇宙中所有恒星都要大一百万倍。根据最新估计，曾经存活过的细胞数量还要大 10 个数量级。这些计算可以帮助科学家更好地了解地球的繁殖力，并预测未来的生命形式如何使用碳。卡尔顿大学地质学家 Peter Crockford 团队将现有的海洋、土壤和地下微生物的数量与大型生物体的细胞数量相结合，开始了盘点工作。结果确认大约 10^30 个细胞是曾经存活过的细胞总数的起点，其中大部分是蓝藻。把所有都计算进去，大约有10^39到 10^40 个细胞存在过。研究人员的计算表明，这些数字正在接近上限，地球根本没有资源来支持超过 10^41 个细胞。",
-          "link": "https://www.solidot.org/story?sid=76396",
-          "publishedOn": "2023-10-19T15:30:56.000Z",
-          "wordCount": 153,
-          "title": "地球存在过的活细胞数量比星星更多",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76395",
-          "author": null,
-          "description": "2015 年研究人员报告了 RowHammer 攻击，一个用户级应用程序反复访问 DDR 内存芯片的特定区域可以导致比特翻转。比特翻转（Bitflips）是指储存在电子设备上的个别比特发生翻转的事件，比如从 0 变为 1 或反之亦然。内存厂商在后续产品中加入了抵御 RowHammer 攻击的保护措施，主要是限制程序在给定时间内打开和关闭目标芯片区域的次数。现在研究人员报告了被称为 RowPress 的新技术，能在部署了 RowHammer 保护措施的 DRAM 中诱发比特翻转。RowPress 不是反复访问挑选的特定区域，而是让其保持更长的打开时间。研究人员表示，这不是一次攻击，只是表明引发比特翻转的方法有很多。",
-          "link": "https://www.solidot.org/story?sid=76395",
-          "publishedOn": "2023-10-19T15:21:04.000Z",
-          "wordCount": 181,
-          "title": "RowPress 能在部署了 RowHammer 保护措施的 DRAM 中诱发比特翻转",
-          "imageUrl": null
         }
       ]
     },
@@ -3241,6 +3201,196 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/753882/",
+          "author": null,
+          "description": "摩尔线程创始人、CEO 张建中 在美国新一轮半导体出口管制环境下，国内 GPU（图形处理器）芯片公司完成了一轮融资。 钛媒体 App 11 月 17 日消息，据企查查数据显示，11 月 15 日，国内 GPU 芯片公司摩尔线程完成B+ 轮融资，金额为数亿元人民币，注册资本由 2379.8368 万元\n本文链接",
+          "link": "https://news.cnblogs.com/n/753882/",
+          "publishedOn": "2023-11-18T15:53:03.000Z",
+          "wordCount": 163,
+          "title": "国内GPU芯片公司摩尔线程完成B+轮融资，上周刚完成人员优化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753881/",
+          "author": null,
+          "description": "文｜甲子光年科技产业智库，作者｜苏霍伊‍‍，编辑｜王博 当计时器数到 139 秒时，猎鹰 9 号（Falcon 9）火箭在空中爆炸，残骸落入大西洋。 这是猎鹰 9 号自 2010 年开始执行发射任务以来，首次在发射过程中爆炸。 “就像肚子被打了一拳（gut wrenching）。”Lewis Hon\n本文链接",
+          "link": "https://news.cnblogs.com/n/753881/",
+          "publishedOn": "2023-11-18T08:42:00.000Z",
+          "wordCount": 163,
+          "title": "SpaceX前华裔高管：真实的马斯克，跟畅销书里的不一样",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753880/",
+          "author": null,
+          "description": "吴泳铭就任阿里巴巴集团 CEO、阿里云董事长兼 CEO 后的第一次财报业绩电话会，就做出了与前任 CEO 截然不同的决定。 11 月 17 日晚间，阿里巴巴集团发布 2024 财年第二季度业绩公告。财报显示，该季度阿里巴巴收入为人民币 2247.90 亿元（308.10 亿美元），同比增长 9%。经\n本文链接",
+          "link": "https://news.cnblogs.com/n/753880/",
+          "publishedOn": "2023-11-18T08:34:00.000Z",
+          "wordCount": 163,
+          "title": "从阿里巴巴集团到阿里云，都换了一个答案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753879/",
+          "author": null,
+          "description": "ChatGPT 之父、OpenAI 前 CEO Sam Altman 全球关注度最高的 AI 公司突发公告，宣布领导层换届。 钛媒体 App 获悉，北京时间 11 月 18 日上午，OpenAI 董事会宣布领导层换届，原 CEO 山姆·奥特曼（Sam Altman）被免去 CEO 职务并离开董事会和\n本文链接",
+          "link": "https://news.cnblogs.com/n/753879/",
+          "publishedOn": "2023-11-18T08:25:00.000Z",
+          "wordCount": 163,
+          "title": "人事巨震！“ChatGPT之父”奥特曼被OpenAI董事会开除，马斯克预言成现实",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753878/",
+          "author": null,
+          "description": "文｜吴怼怼，作者｜夏天 抖音神曲，怎么越来越少了？ 这两年通过抖音走红的歌曲并不少，《孤勇者》《若把你》《爱如火》《乌梅子酱》，但这其中能被划分为是大众意义上抖音神曲的音乐并不多。 通常意义上的抖音神曲，是流量歌曲制作商，套路化、模版化创造出的专门适配于抖音短视频的歌曲。其发行和走红几乎都是通过抖音\n本文链接",
+          "link": "https://news.cnblogs.com/n/753878/",
+          "publishedOn": "2023-11-18T08:19:00.000Z",
+          "wordCount": 163,
+          "title": "抖音神曲，消失了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753877/",
+          "author": null,
+          "description": "文雷达财经，作者孟帅，编辑深海 “今天的阿里面对着快速发展的新技术和市场的新变化。无论过去的商业模式有多成功，我们都必须翻篇归零，唤醒重新创业的心态，保持高度灵活的决策机制”，面对履职后阿里交出的首份财报，新任 CEO 吴泳铭在财报电话会上如是说道。 财报显示，第三季度阿里的收入同比增长9% 至 2\n本文链接",
+          "link": "https://news.cnblogs.com/n/753877/",
+          "publishedOn": "2023-11-18T04:13:27.000Z",
+          "wordCount": 163,
+          "title": "马云减持，分拆上市“刹车”，阿里一夜没了1400多亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753876/",
+          "author": null,
+          "description": "三星证实黑客在长达一年时间内窃取了英国客户的个人数据。三星向受影响客户发送邮件称，攻击者利用了未披露名字的第三方应用的漏洞，在 2019 年 7 月 1 日到 2020 年 6 月 30 日之间访问了在三星英国商店购物的客户个人信息。三星称它直到三年后的 2023 年 11 月 13 日才发现这次入\n本文链接",
+          "link": "https://news.cnblogs.com/n/753876/",
+          "publishedOn": "2023-11-18T03:54:04.000Z",
+          "wordCount": 163,
+          "title": "三星证实黑客在长达一年时间内窃取了英国客户的个人数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753875/",
+          "author": null,
+          "description": "以网红 Caryn Marjorie 为参照对象的虚拟女友服务 CarynAI 在服务商 Forever Voices CEO 兼创始人 John Meyer 因试图对自家公寓纵火而被捕后停止了服务。CarynAI 的付费用户是在 Telegram 频道与其对话，该频道的信息显示虚拟女友服务从 10\n本文链接",
+          "link": "https://news.cnblogs.com/n/753875/",
+          "publishedOn": "2023-11-18T03:51:54.000Z",
+          "wordCount": 163,
+          "title": "CEO 入狱虚拟女友失效",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753874/",
+          "author": null,
+          "description": "11 月 18 日消息，亚马逊游戏部门裁员约 180 人之后，该公司再次解雇了数百名负责 Alexa 语音助手的员工。 根据 GeekWire 披露的一份内部备忘录，亚马逊解雇了位于美国和加拿大办事处的数百名 Alexa 团队成员。 亚马逊 Alexa 和 Fire TV 副总裁丹尼尔・劳施（Dan\n本文链接",
+          "link": "https://news.cnblogs.com/n/753874/",
+          "publishedOn": "2023-11-18T03:50:26.000Z",
+          "wordCount": 163,
+          "title": "亚马逊再裁数百名Alexa员工 重心倾向于生成式AI项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753873/",
+          "author": null,
+          "description": "人工智能初创公司 OpenAI 当地时间 11 月 17 日发布声明，宣布 CEO 山姆·奥特曼将离开公司，现首席技术官米拉·穆拉蒂被任命为临时 CEO，公司仍在物色 CEO 的继任人选。 OpenAI 另外宣布，公司联合创始人格雷格·布罗克曼 (Greg Brockman) 将卸任董事长，但会继续\n本文链接",
+          "link": "https://news.cnblogs.com/n/753873/",
+          "publishedOn": "2023-11-18T03:46:05.000Z",
+          "wordCount": 163,
+          "title": "OpenAI联合创始人兼董事长格雷格·布罗克曼确认将离职",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753872/",
+          "author": null,
+          "description": "近日，网易举报雀巢及其代理公司向其等客户提供的二手制冰机等存在重大食品安全隐患问题，雀巢方面回应称，此次事件中提及的制冰机并非由雀巢生产或提供。 对此，网易再度回应，称「雀巢作为其一级代理商的监管方，应明确承担起相关安全风险管控责任，并对其违规行为予以处罚或公示，而非将责任转嫁或推卸给一级代理商」。\n本文链接",
+          "link": "https://news.cnblogs.com/n/753872/",
+          "publishedOn": "2023-11-18T03:39:18.000Z",
+          "wordCount": 163,
+          "title": "网易再回应举报雀巢：称雀巢作为监管方不应推卸责任",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753871/",
+          "author": null,
+          "description": "11 月 16 日，美国证交会 (SEC) 官网披露的 144 文件显示，马云家族信托 JC Properties Limited 和 JSP Investment Limited 拟于 11 月 21 日出售阿里巴巴创始人股份，分别减持 500 万股美国存托股份（ADS）。 按美东时间 11 月 \n本文链接",
+          "link": "https://news.cnblogs.com/n/753871/",
+          "publishedOn": "2023-11-18T03:38:50.000Z",
+          "wordCount": 163,
+          "title": "马云办公室：坚定看好阿里，仍会长期持有阿里股票",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753870/",
+          "author": null,
+          "description": "极氪首款纯电轿车 007 昨日开启预售，价格为 22.99 万元起，2024 年 1 月上市交付。极氪汽车宣布，极氪 007 预售开启 3 小时，预订突破 1 万台。 据了解，极氪 007 长宽高分别为 4865、1900、1450mm，轴距 2928mm，定位纯电中型轿车。 新车采用 Hidden\n本文链接",
+          "link": "https://news.cnblogs.com/n/753870/",
+          "publishedOn": "2023-11-18T03:36:35.000Z",
+          "wordCount": 163,
+          "title": "极氪首款纯电轿车 007 预售开启",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753869/",
+          "author": null,
+          "description": "据上证报，记者从格力电器方面获悉，就近期多个自媒体为了获取流量，恶意剪辑相关视频、使用低俗污秽言辞侮辱诽谤公司高管，格力电器已就多个侮辱诽谤事件向公安机关报案。 当前，公安机关均已受理并立案。 格力电器方面表示，网络不是法外之地。公司将采取法律措施坚决维护企业及员工的合法权益，对任何恶意中伤和造谣行\n本文链接",
+          "link": "https://news.cnblogs.com/n/753869/",
+          "publishedOn": "2023-11-18T03:34:01.000Z",
+          "wordCount": 163,
+          "title": "格力就自媒体侮辱诽谤高管报案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753868/",
+          "author": null,
+          "description": "分析机构 TechInsights 昨日发布的报告显示，今年双十一大促期间，智能手机销量同比下降 16%。然而，高端机型的销售强劲；折叠屏手机和游戏手机的销量份额同比增长。 苹果在销量和价值方面保持领先地位， iPhone 15、iPhone 15 Pro Max、iPhone 15 Pro 和 i\n本文链接",
+          "link": "https://news.cnblogs.com/n/753868/",
+          "publishedOn": "2023-11-18T03:33:21.000Z",
+          "wordCount": 163,
+          "title": "TechInsights：智能手机双11销量下滑16%，苹果、小米、荣耀卖得最好",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753866/",
+          "author": null,
+          "description": "11 月 17 日消息，中国科学院大气物理研究所在近日发布了首个具有自主知识产权的地球系统数值模型，并宣布释放其源代码。该模型集成了大气环流、海洋环流、陆面过程等 8 个分系统模式，通过耦合器实现地球各圈层间物质、能量的交换。这款模型可用于研究气候与环境演变规律，预测未来地球系统变化，为防灾减灾及应\n本文链接",
+          "link": "https://news.cnblogs.com/n/753866/",
+          "publishedOn": "2023-11-18T03:30:22.000Z",
+          "wordCount": 163,
+          "title": "我国首个自主知识产权地球系统模型发布：性能位居世界前列",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753864/",
+          "author": null,
+          "description": "腾讯新闻《潜望》 纪振宇发自硅谷 美国时间 11 月 17 日午间，OpenAI 首席执行官，被称为“ChatGPT 之父”的山姆·奥特曼突遭董事会罢免。 OpenAI 在当天发布的官方声明称，董事会启动了一项特别的调查，结论是奥特曼在与董事会沟通过程中没有完全的坦诚，因此董事会丧失了对其继续领导公\n本文链接",
+          "link": "https://news.cnblogs.com/n/753864/",
+          "publishedOn": "2023-11-18T03:29:09.000Z",
+          "wordCount": 163,
+          "title": "揭秘“ChatGPT之父”突遭罢免内幕：从开发者大会起，几件事已有征兆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753865/",
+          "author": null,
+          "description": "文甲子光年科技产业智库，作者｜罗鸿胤，编辑｜王博、苏霍伊 *本文为麻省理工学院（MIT）学者罗鸿胤独家供稿，「甲子光年」经其授权后编辑发布。罗鸿胤是人工智能领域的青年科学家、MIT 计算机学与人工智能实验室（CSAIL）的博士后研究员，主要关注自然语言处理方向，包括自训练算法、蕴含模型、语言模型推理\n本文链接",
+          "link": "https://news.cnblogs.com/n/753865/",
+          "publishedOn": "2023-11-18T03:26:23.000Z",
+          "wordCount": 163,
+          "title": "MIT学者独家撰文：ChatGPT的瓶颈与解药",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/753863/",
+          "author": null,
+          "description": "腾讯新闻《一线》 纪振宇 11 月 17 日发自硅谷 人工智能初创公司 OpenAI 美国时间 11 月 17 日突发声明，宣布公司首席执行官山姆·奥特曼将离开公司，公司现首席技术官米拉·穆拉蒂被任命为临时首席执行官。OpenAI 称，接任 CEO 的人选仍在确认过程中。 OpenAI 在声明中称，\n本文链接",
+          "link": "https://news.cnblogs.com/n/753863/",
+          "publishedOn": "2023-11-18T01:05:25.000Z",
+          "wordCount": 163,
+          "title": "突发！“ChatGPT 之父”奥特曼被 OpenAI 董事会罢免",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/753862/",
           "author": null,
@@ -8609,286 +8759,6 @@
           "publishedOn": "2023-10-21T01:16:00.000Z",
           "wordCount": 163,
           "title": "小米MIUI公众号更名为小米澎湃OS！MIUI将成历史",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752317/",
-          "author": null,
-          "description": "10 月 20 日消息，快手科技在港交所发布公告宣布，宿华辞任董事长，由 CEO 程一笑兼任，该调整将于 2023 年 10 月 29 日生效。公告显示，由于需要专注其他事务，自 2023 年 10 月 29 日起，宿华不再担任董事会董事长，将继续担任执行董事和薪酬委员会成员，其不同投票权不会发生变\n本文链接",
-          "link": "https://news.cnblogs.com/n/752317/",
-          "publishedOn": "2023-10-20T12:30:00.000Z",
-          "wordCount": 163,
-          "title": "宿华辞任快手科技董事长 CEO程一笑兼任",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752316/",
-          "author": null,
-          "description": "「核心提示」 威马汽车创始人沈晖以善于融资著称，但威马想要破解困局，只靠“钱”还不够。 作者 陈法善 编辑 刘杨 出海、上市，还是欠账、停工……关于威马汽车的种种猜测，以一纸“预重整申请”落定。 10 月 10 日晚间，威马汽车科技集团有限公司发布《告知函》称，上海市第三中级人民法院于 10 月 7\n本文链接",
-          "link": "https://news.cnblogs.com/n/752316/",
-          "publishedOn": "2023-10-20T08:00:00.000Z",
-          "wordCount": 163,
-          "title": "困局中的威马：花光400亿，连保安都请不起了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752315/",
-          "author": null,
-          "description": "明敏萧箫发自凹非寺 量子位公众号 QbitAI 最卖座的安卓手机，竟然要实装大模型了？！ 还是发布即可用那种——新版手机系统直接搭载，不整虚的。 要知道，虽然国产大模型百花齐放，但手机端“百模大战”，可以说是才刚进入热身阶段。 自研大模型的手机厂商已有不少，但真正装进手机系统中的，还几乎没有。 搞出\n本文链接",
-          "link": "https://news.cnblogs.com/n/752315/",
-          "publishedOn": "2023-10-20T07:50:58.000Z",
-          "wordCount": 163,
-          "title": "没绷住，vivo提前“泄密”大模型能力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752314/",
-          "author": null,
-          "description": "鱼羊发自凹非寺 量子位公众号 QbitAI 预印本网站 arXiv，可算有钱了！ 最新消息，arXiv 刚刚获得一笔超 1000 万美元的捐款，资金来源是西蒙斯基金会和美国国家科学基金会。 arXiv 官方表示，这笔钱将被用来把论文存储库迁移到云端，并对其代码进行现代化改造—— 根据 arXiv 此\n本文链接",
-          "link": "https://news.cnblogs.com/n/752314/",
-          "publishedOn": "2023-10-20T07:40:00.000Z",
-          "wordCount": 163,
-          "title": "arXiv可算有钱搞服务器了：新获1000万美元捐款，正在线火热招人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752313/",
-          "author": null,
-          "description": "明敏发自凹非寺 量子位公众号 QbitAI 我就说嘛，提示工程正在消失，这篇新研究即可解释原因。 AI 圈百万粉丝大V的一条推特，可把大家给惊到了。 要知道，提示工程可是 ChatGPT 趋势中的大热词。由它衍生出的新岗位提示工程师年薪可高达几十万美元，“未来人人都要学会提示工程”的观点更是引发热议\n本文链接",
-          "link": "https://news.cnblogs.com/n/752313/",
-          "publishedOn": "2023-10-20T07:30:00.000Z",
-          "wordCount": 163,
-          "title": "提示工程夭折？MIT斯坦福让大模型主动提问，自己搞懂你想要什么",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752312/",
-          "author": null,
-          "description": "衡宇发自凹非寺 量子位公众号 QbitAI 大模型初创公司智谱 AI，自曝已完成超 25 亿人民币融资！ 这个数字已经高过许多 AI 创企的现有估值。 更重要的是，这 25 亿元融资只是“今年累计”，今年以前，智谱 AI 已经进行过（至少）3 轮融资。 难怪乎 9 月就已经有市场消息传出，作为国内大\n本文链接",
-          "link": "https://news.cnblogs.com/n/752312/",
-          "publishedOn": "2023-10-20T07:19:00.000Z",
-          "wordCount": 163,
-          "title": "清华系百亿估值大模型公司自曝：年内已融资25亿！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752311/",
-          "author": null,
-          "description": "西风发自凹非寺 量子位公众号 QbitAI 清华开源通用智能体 XAgent，登上 GitHub 热榜，狂揽 1400+ 星。 各种任务都能做，让它使用 python 来分析给定的数据，分分钟搞定： 数学题也难不倒它： 编制最有影响力的心理学读书清单，并对每本书做简要总结这种操作就更不在话下： （上\n本文链接",
-          "link": "https://news.cnblogs.com/n/752311/",
-          "publishedOn": "2023-10-20T07:11:00.000Z",
-          "wordCount": 163,
-          "title": "清华版AutoGPT登GitHub热榜！复杂任务轻松搞定，能自己训练模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752310/",
-          "author": null,
-          "description": "角逐 AI 军备赛，巨头们纷纷下场。 作者郑伟 来源 融中财经（ID：thecapital） ChatGPT 一夜爆火，掀起了产业界对于 AI 大模型的追逐，也吹响了“百模大战”的号角。为了与 OpenAI 的 ChatGPT 抗衡，各方纷纷下注。电商巨头亚马逊近期也开始在 AI 领域频频发力，并向\n本文链接",
-          "link": "https://news.cnblogs.com/n/752310/",
-          "publishedOn": "2023-10-20T07:00:00.000Z",
-          "wordCount": 163,
-          "title": "300亿！亚马逊祭出AI赛道最大规模投资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752309/",
-          "author": null,
-          "description": "文孟永辉 我们丝毫都无法抵消直播带货的出现给电商行业的发展带来的新能量。从某种意义上来讲，直播带货打开了电商重启流量的大门。然而，如果无法给双十一赋予新的内涵与意义，而仅仅只是将直播带货看成是电商玩家们激活流量的「强心针」，那么，等到整个电商行业被直播带货所「绑架」，或许，最后受伤的依然是电商平台本\n本文链接",
-          "link": "https://news.cnblogs.com/n/752309/",
-          "publishedOn": "2023-10-20T06:50:00.000Z",
-          "wordCount": 163,
-          "title": "李佳琦们的「面子」，双十一的「里子」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752307/",
-          "author": null,
-          "description": "文镜象娱乐，作者栗子酒 近日，由曾舜晞、田曦薇等主演的《田耕纪》热度持续走高，该剧改编自网文作者弱颜的“种田文”《重生小地主》，相较于大多古装剧涉及世家大族的恩怨情仇，此类内容更贴近古代平民，围绕普通人的家长里短展开叙事。 随着释出内容逐渐增多，不少观众已经将《田耕纪》列入“下饭清单”，剧中新颖的设\n本文链接",
-          "link": "https://news.cnblogs.com/n/752307/",
-          "publishedOn": "2023-10-20T06:43:00.000Z",
-          "wordCount": 163,
-          "title": "“电子榨菜”的配方是什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752308/",
-          "author": null,
-          "description": "36 氪获悉，阿里达摩院发布业内首个遥感 AI 大模型。据介绍，该模型可识别农田、农作物、建筑等，提升灾害防治、自然资源管理、农业估产等遥感应用的分析效率。目前，该模型已在 AI Earth 地球科学云平台开放使用。\n本文链接",
-          "link": "https://news.cnblogs.com/n/752308/",
-          "publishedOn": "2023-10-20T06:40:00.000Z",
-          "wordCount": 163,
-          "title": "阿里达摩院发布遥感AI大模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752306/",
-          "author": null,
-          "description": "文极客公园 GeekPark，作者周永亮，编辑 郑玄 特斯拉的增长神话，正在走向尽头。 今天，特斯拉发布了备受关注的 2023 财年第三季度财报。受到继续降价提振需求的影响，特斯拉的毛利润、营业利润以及净利润等核心数据全面下滑。 数据显示，特斯拉第三季度总营收为 233.50 亿美元，较上年同期的 \n本文链接",
-          "link": "https://news.cnblogs.com/n/752306/",
-          "publishedOn": "2023-10-20T06:36:00.000Z",
-          "wordCount": 163,
-          "title": "利润大降 44%，马斯克：这让我想起了特斯拉「至暗时刻」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752305/",
-          "author": null,
-          "description": "文追问 NextQuestion，作者铸雪，编辑 lixia 近年来，随着深度学习技术的发展，医疗人工智能（医疗 AI）在基于视网膜图像判定人体健康状况、诊断潜在眼部和全身性疾病等领域，具有巨大潜力。然而，AI 模型的开发往往需要大量的标记，这些标记通常只针对特定任务，因而对不同临床应用的泛化能力十\n本文链接",
-          "link": "https://news.cnblogs.com/n/752305/",
-          "publishedOn": "2023-10-20T06:28:00.000Z",
-          "wordCount": 163,
-          "title": "只看了你一“眼”，AI 就能预测帕金森？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752304/",
-          "author": null,
-          "description": "文窄播，作者肖超，监制邵乐乐 盒马的全面转型折扣经营模式又有新动作。 10 月 13 日，盒马宣布以打造价格竞争力为核心目标，启动盒马鲜生事业部（盒马鲜生、盒马 mini）的折扣化变革。盒马同时特别强调，折扣化并非是简单低价，而是差异化商品竞争、垂直供应链、极致营运成本的综合体现。 这被称为是盒马成\n本文链接",
-          "link": "https://news.cnblogs.com/n/752304/",
-          "publishedOn": "2023-10-20T06:21:00.000Z",
-          "wordCount": 163,
-          "title": "盒马到底做过多少新业态",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752303/",
-          "author": null,
-          "description": "文六便士财经 被全球带货王埃隆马斯克带货的减肥针大放异彩，然而为了美丽，人们已经不是第一次努力了。躺着就能瘦成了人们的追求目标。 肥胖已成为严重的全球性医疗问题和社会问题，目前多肽药物已经在全球市场被证实了确切的临床疗效和广泛地应用前景。但是，那些为了更瘦而使用司美格鲁肽的人群是不是应该不被考虑在这\n本文链接",
-          "link": "https://news.cnblogs.com/n/752303/",
-          "publishedOn": "2023-10-20T06:15:00.000Z",
-          "wordCount": 163,
-          "title": "用司美格鲁肽和玻尿酸的或许是同一批人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752302/",
-          "author": null,
-          "description": "今年，ChatGPT 的火爆，吹响了新一轮 AI 竞赛的号角。在 AIGC 的热潮下，多个行业以及产业链被重塑，包括英伟达等公司，也迎来了新的发展机遇。IDC 预计，中国 AI 市场规模将以 24.4% 的复合年均增长率增长，有望在 2025 年超过 184.3 亿美元。 需要指出的是，AIGC 的\n本文链接",
-          "link": "https://news.cnblogs.com/n/752302/",
-          "publishedOn": "2023-10-20T06:07:00.000Z",
-          "wordCount": 163,
-          "title": "AIGC时代创意人才需求提升，Adobe联合网易有道推出了创意设计在线课程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752301/",
-          "author": null,
-          "description": "文极派 Daily，作者吕敬之，编辑惠鹏权 在我国，增程式电动车（以下简称为“增程车”）是伴随着“技术落后”出现的，似乎一直以来都是一个不怎么被看好的存在。 作为增程车的代表，理想一度以卖“小家电”被同行和消费者所诟病，甚至有业内人士认为增程车算不上真正意义的“新势力”。 然而，从今年 6 月开始，\n本文链接",
-          "link": "https://news.cnblogs.com/n/752301/",
-          "publishedOn": "2023-10-20T06:00:00.000Z",
-          "wordCount": 163,
-          "title": "谁买了增程式电动车？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752300/",
-          "author": null,
-          "description": "国产咖啡的姿态还有多少种？资本市场遭遇寒冬，咖啡赛道依旧火热。在瑞幸、库迪、Manner 等品牌加速线下扩店的同时，精品零售咖啡也在以更灵活的姿态撕开市场的口子。 凭借“开创新品类”冻干咖啡的方式，三顿半曾奇袭精品速溶咖啡赛道，一度成为诸多新消费领域创业者和品牌的标榜对象，并在市场验证，精品与速溶不\n本文链接",
-          "link": "https://news.cnblogs.com/n/752300/",
-          "publishedOn": "2023-10-20T05:50:00.000Z",
-          "wordCount": 163,
-          "title": "精品速溶咖啡的新姿态，三顿半想离用户更近",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752299/",
-          "author": null,
-          "description": "文伯虎财经，作者漫步恒天 近日，战略投资的“火”烧到了自动驾驶领域。 10 月 12 日，滴滴自动驾驶宣布获广汽集团投资。广汽集团全资子公司广汽资本与广州开发区投资集团将按同等比例共同出资设立专项基金，投资滴滴自动驾驶不超过 1.49 亿美元（约合人民币 10.88 亿元），刷新了今年自动驾驶领域的\n本文链接",
-          "link": "https://news.cnblogs.com/n/752299/",
-          "publishedOn": "2023-10-20T05:44:00.000Z",
-          "wordCount": 163,
-          "title": "滴滴自动驾驶再获10亿+融资，滴滴在下一盘大棋？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752298/",
-          "author": null,
-          "description": "文真故研究室，作者郑思芳，编辑 龚正 继用一块榴莲千层与山姆打赢肉搏战之后，盒马扩大了“战争规模”。近日盒马宣布，将打折的商品一口气扩展到 5000 多款，平均降价 20%，并表示这不是“闪电战”，而是“持久战”，大众无需爆买囤货。 盒马鲜生发起的这场自我变革，有两个目标。小目标是先革自己的命，把价\n本文链接",
-          "link": "https://news.cnblogs.com/n/752298/",
-          "publishedOn": "2023-10-20T05:33:00.000Z",
-          "wordCount": 163,
-          "title": "降价20%，盒马接住精致穷的中产们",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752260/",
-          "author": null,
-          "description": "10 月 20 日消息，日本汽车制造商丰田周四表示，他们已经签署了一项协议，从 2025 年开始采用特斯拉的北美充电标准（NACS）技术。 丰田是全球销量最大的汽车制造商。此前，福特、通用和日产等制造商已经采用了特斯拉的 NACS 标准，这使得特斯拉的 NACS 标准有望成为整个行业的标准，比竞争对\n本文链接",
-          "link": "https://news.cnblogs.com/n/752260/",
-          "publishedOn": "2023-10-20T00:22:00.000Z",
-          "wordCount": 163,
-          "title": "丰田将从2025年开始采用特斯拉汽车充电标准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752259/",
-          "author": null,
-          "description": "10 月 20 日消息，美国时间周四，人工智能初创企业 OpenAI 宣布向 ChatGPTPlus 付费用户和企业版客户开放新版图像生成器 DALL-E3 的访问权限。 DALL-E 3 模型已经整合到 ChatGPT 中。OpenAI 表示已为该模型准备了安全缓解堆栈，以支持其扩展版本。 DAL\n本文链接",
-          "link": "https://news.cnblogs.com/n/752259/",
-          "publishedOn": "2023-10-20T00:20:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI向ChatGPT付费用户开放DALL-E 3访问权限",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752258/",
-          "author": null,
-          "description": "《科创板日报》10 月 19 日讯（记者张洋洋） 一年一度的“双 11”即将来临，各大电商平台目前正在摩拳擦掌进行预热，各大平台也都发布了各自的“双 11”布局。 ▍小红书、B站加码直播带货 《科创板日报》记者从多名知情人士处了解到，今年B站将采取一系列商业化手段，包括整合营销、APP 端改版及 U\n本文链接",
-          "link": "https://news.cnblogs.com/n/752258/",
-          "publishedOn": "2023-10-20T00:17:00.000Z",
-          "wordCount": 163,
-          "title": "“双11”各大电商平台怎么玩？天猫京东拼低价 小红书B站等平台忙直播和推流",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752257/",
-          "author": null,
-          "description": "界面新闻记者李京亚 10 月 19 日消息，据媒体报道，有知情人士透露，OpenAI 正在洽谈以 860 亿美元的估值出售现有员工股份，但 OpenAI 尚未确定分配方案，条款仍有可能发生变化。 早在今年二季度，OpenAI 就曾出售过一波员工股份给风险投资机构，当时媒体报道称该公司账面价值约为 3\n本文链接",
-          "link": "https://news.cnblogs.com/n/752257/",
-          "publishedOn": "2023-10-20T00:15:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI以860亿美元估值融资，是利好老员工还是有其他目的？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752256/",
-          "author": null,
-          "description": "雷递网乐天 10 月 19 日 腾讯南非大股东 Naspers 旗下荷兰互联网投资旗舰 Prosus 昨日宣布，为继续其增值的开放式股票回购计划，将其持有的 9600 万股腾讯股票以凭证形式存入香港中央结算及交收系统，这相当于腾讯1% 的股权。 此次非物质化并不反映 Prosus 和 Naspers\n本文链接",
-          "link": "https://news.cnblogs.com/n/752256/",
-          "publishedOn": "2023-10-20T00:10:00.000Z",
-          "wordCount": 163,
-          "title": "腾讯股价创年内新低：大股东Prosus拟再减持9600万股",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752255/",
-          "author": null,
-          "description": "雷达财经鸿途出品文莫恩盟编深海 10 月 19 日下午，京东 2023 年 11.11 启动发布会在位于北京的京东集团总部大楼正式拉开帷幕。早在此次发布会举行前的 10 月 16 日，京东就已提前发布预告称，本次京东双 11 大促将于 10 月 23 日晚 8 点正式开场。 在此次举行的发布会上，京\n本文链接",
-          "link": "https://news.cnblogs.com/n/752255/",
-          "publishedOn": "2023-10-20T00:05:00.000Z",
-          "wordCount": 163,
-          "title": "刘强东将低价进行到底，京东双11主打“真便宜”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752254/",
-          "author": null,
-          "description": "特斯拉第三季度过得并不好。 美东时间 10 月 18 日，特斯拉发布了截至 9 月 30 日的第三季度业绩报告。从数据基本面来看，低于市场的营收表现、四年以来最低的毛利率等表现都在展示着特斯拉业务经营现实骨感的一面。 截至当日收盘，特斯拉股价报 242.68 美元，跌 4.78%，市值一夜蒸发 38\n本文链接",
-          "link": "https://news.cnblogs.com/n/752254/",
-          "publishedOn": "2023-10-20T00:00:00.000Z",
-          "wordCount": 163,
-          "title": "Cybertruck难增产，特斯拉降本难敌亏损扩张",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/752253/",
-          "author": null,
-          "description": "瑞幸始终活跃在人们的视线中，在品牌成长的道路上愈战愈勇。日前的瑞幸咖啡合作伙伴大会上，瑞幸咖啡联合创始人、董事长兼首席执行官郭谨一掷地有声地宣布，目前瑞幸咖啡门店数已超过 13000 家，客户数超 1.7 亿，预计年底将达到 15000 家门店。 其实，就在今年二季度末，瑞幸刚迈入「万店俱乐部」，在\n本文链接",
-          "link": "https://news.cnblogs.com/n/752253/",
-          "publishedOn": "2023-10-19T15:06:00.000Z",
-          "wordCount": 163,
-          "title": "年底将突破15000门店，瑞幸将如何打造百年品牌？",
           "imageUrl": null
         }
       ]
