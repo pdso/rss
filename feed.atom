@@ -2,10 +2,458 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T01:05:34.422Z</updated>
+    <updated>2023-11-22T01:06:30.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[紫铜可作量子设备理想“开关”]]></title>
+        <id>https://news.cnblogs.com/n/754068/</id>
+        <link href="https://news.cnblogs.com/n/754068/"/>
+        <updated>2023-11-22T00:55:39.000Z</updated>
+        <summary type="html"><![CDATA[科技日报北京 11 月 21 日电 （记者张佳欣）量子科学家发现了一种罕见的现象，这种现象可能是在量子设备中创造一个在绝缘体和超导体之间切换的“完美开关”的关键。这项由英国布里斯托尔大学领导并发表在新一期《科学》杂志上的研究发现，紫铜中存在这两种相反的电子态。 在热或光等小刺激的推动下，材料中的微小
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“三体星”或改变对恒星演化理解]]></title>
+        <id>https://news.cnblogs.com/n/754067/</id>
+        <link href="https://news.cnblogs.com/n/754067/"/>
+        <updated>2023-11-22T00:50:25.000Z</updated>
+        <summary type="html"><![CDATA[一颗周围有圆盘的恒星（Be 星，前景）和其外部部分已被剥离的伴星（背景）的艺术渲染图。 图片来源：欧洲空间局 科技日报北京 11 月 21 日电 （记者张梦然）B型发射星（Be 星）迄今一直被认为存在于双星系统中，但英国利兹大学科学家的一项新研究表明，大质量 Be 星实际上可能位于“三体星”状态中。
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing 公司的消息应用被发现是安全灾难]]></title>
+        <id>https://news.cnblogs.com/n/754066/</id>
+        <link href="https://news.cnblogs.com/n/754066/"/>
+        <updated>2023-11-22T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[一加联合创始人裴宇（Carl Pei）创办的手机公司 Nothing 上周发布了它的消息应用 Nothing Chats，该消息应用源自 Sunbird app，它立即被发现存在严重安全问题，不到 24 小时就被迫从 Google 应用商店 Play Store 下架。 Nothing Chats 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直播电商价值再审视：低价之外，是什么吸引品牌与用户]]></title>
+        <id>https://news.cnblogs.com/n/754065/</id>
+        <link href="https://news.cnblogs.com/n/754065/"/>
+        <updated>2023-11-22T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[图片来源@视觉中国 文窄播，作者曲暖 尽管各家平台都没有公布具体的销售数额，但第三方数据平台显示，今年双 11 的总体成交额徘徊在低个位数。其中，此前动辄增速高达三位数的直播电商，今年增速仅仅维持在 20% 左右，天花板已然可见。 存量当头，舆论战则甚嚣尘上，平台与主播、主播与主播之间争执不断。先是
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国司法部寻求对币安罚款逾 40 亿美元]]></title>
+        <id>https://news.cnblogs.com/n/754064/</id>
+        <link href="https://news.cnblogs.com/n/754064/"/>
+        <updated>2023-11-22T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[为了结束对世界最大加密货币交易所长达数年的刑事调查，美国司法部寻求对币安罚款逾 40 亿美元。作为和解协议的一部分，币安的创始人赵长鹏可能在美国面临刑事指控，以结束对其涉嫌洗钱、银行欺诈和违反制裁行为的调查。赵长鹏目前居住在阿联酋，而阿联酋与美国之间没有引渡协议。但赵长鹏可以主动前往美国投案。双方达
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 120 将支持新的隐私控制请求头 Sec-GPC]]></title>
+        <id>https://news.cnblogs.com/n/754063/</id>
+        <link href="https://news.cnblogs.com/n/754063/"/>
+        <updated>2023-11-22T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 即将正式释出的 Firefox 120 将支持新的隐私控制请求头 Sec-GPC，以表明用户是否同意一个网站或一项服务向第三方出售或共享其个人信息，类似 Do Not Track，它仍然是一项自愿遵守的隐私标准。Firefox 120 还将默认启用 WebAssembly GC 扩展
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Up主爆氪46万后被虐退游，SLG手游因何让人上头？]]></title>
+        <id>https://news.cnblogs.com/n/754062/</id>
+        <link href="https://news.cnblogs.com/n/754062/"/>
+        <updated>2023-11-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文眸娱 当 Up 主入坑这款手游后，才在痛苦中逐渐意识到：自己的部队，有一半永远在想着怎么划水；自己的盟友，随时都有可能跳出来背刺；只有自己的敌人，越打越多，源源不断。直播间里却是一片喜气洋洋，弹幕刷屏飘过： “恭喜 Up 主，玩到真三国了。” 8 月 7 日，B站 Up 主“一叮当猫一”（后简称叮
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波音 787 飞机首次降落南极机场]]></title>
+        <id>https://www.solidot.org/story?sid=76684</id>
+        <link href="https://www.solidot.org/story?sid=76684"/>
+        <updated>2023-11-21T14:08:03.000Z</updated>
+        <summary type="html"><![CDATA[能搭载 300 多名乘客的波音 787 客机上周成功降落在南极的 Troll 机场。机上共搭载了 45 人，以及 12 吨研究设备。挪威极地研究所所长 Camilla Brekke 表示这次客机降落具有里程碑的意义。Troll 机场是长 3000 米的蓝色冰带，只在 10 月到次年 3 月冬季来临前运营近半年时间。没有迹象表明 Troll 机场计划支持商业飞行，挪威极地研究所主要专注于改善物流促进极地研究。支持更大型的飞机有助于减少旅行次数，对环境也更有益。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告预测地球气温将比工业化前水平高出 2.9°C]]></title>
+        <id>https://www.solidot.org/story?sid=76683</id>
+        <link href="https://www.solidot.org/story?sid=76683"/>
+        <updated>2023-11-21T13:44:36.000Z</updated>
+        <summary type="html"><![CDATA[联合国环境规划署发表了《2023年排放差距报告》。报告发现，自 2015 年签署《巴黎协定》以来，我们已经取得了一些进展。在通过《巴黎协定》时，根据当时的现有政策，2030 年的温室气体排放量预计将增加 16%。现在预计增幅为 3%。然而 2030 年的预计排放量必须减少 28%，才能走上实现《巴黎协定》2°C目标的路径，减少 42% 才有可能实现 1.5°C度目标。按照目前的情况，全面落实《巴黎协定》下的无条件国家自主贡献将使全世界走上在本世纪内将温度升幅控制在比工业化前水平高出 2.9°C 的轨道。全面落实有条件的国家自主贡献方案可将升温幅度降至 2.5°C。报告呼吁所有国家加速推进整个经济系统的低碳发展转型。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tim Sweeney 称腾讯并不控制 Epic]]></title>
+        <id>https://www.solidot.org/story?sid=76682</id>
+        <link href="https://www.solidot.org/story?sid=76682"/>
+        <updated>2023-11-21T13:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Epic vs Google 的反垄断案中，Epic CEO Tim Sweeney 被问到腾讯对该公司业务的影响。腾讯收购了 Epic 的少数股权，Sweeney 强调他才是公司的控股股东，腾讯并不控制 Epic。法庭上公布的邮件显示，Google 曾考虑投资或收购 Epic，Google 高管 Dave Sobota 在邮件中表示，搜索巨人要么从腾讯手中收购股份以获得对 Epic 的更多控制，要么与腾讯合作收购 Epic 的 100% 股权。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高效固态电热泵有望改变空调]]></title>
+        <id>https://www.solidot.org/story?sid=76681</id>
+        <link href="https://www.solidot.org/story?sid=76681"/>
+        <updated>2023-11-21T11:30:36.000Z</updated>
+        <summary type="html"><![CDATA[气候变化之下热浪频繁出现，愈来愈多的人依赖空调熬过炎热的气候，然而空调同时也是全球暖化的重要来源。自一个世纪前发明以来，空调的基本原理没有发生改变。它需要消耗大量能量，使用名为制冷剂的有害化学物质。空调的问题在于其核心技术：蒸汽压缩，将储存的氢氟碳化合物冷却剂从液体转化为气体，期间吸收热量，将热量从室内移出。氢氟碳化合物是温室气体，泄露到大气中后会吸收大量热。研究人员上周在《科学》期刊上发表论文，报告了一种高效固态电热泵原型。它使用电场和一种特殊陶瓷而不是冷却剂和压缩机加热和冷却空气。电热泵使用电热材料，其中的原子具有电场偏极化，有“正”极和“负”极。当置于电场中时，材料中的原子运动将从无序变为有序。这意味着熵的下降。根据热力学定律，系统的总熵永远不会下降。它在某个地方下降那么一定会在其它地方增加。研究人员表示他们的原型尚未做好商业化准备，但随着进一步的完善，电热泵的效率能与现有的热泵相竞争。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国司法部寻求对币安罚款逾 40 亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=76680</id>
+        <link href="https://www.solidot.org/story?sid=76680"/>
+        <updated>2023-11-21T10:12:11.000Z</updated>
+        <summary type="html"><![CDATA[为了结束对世界最大加密货币交易所长达数年的刑事调查，美国司法部寻求对币安罚款逾 40 亿美元。作为和解协议的一部分，币安的创始人赵长鹏可能在美国面临刑事指控，以结束对其涉嫌洗钱、银行欺诈和违反制裁行为的调查。赵长鹏目前居住在阿联酋，而阿联酋与美国之间没有引渡协议。但赵长鹏可以主动前往美国投案。双方达成的协议可能最快将在本月底公布，但形势并未稳定，可能会发生变化。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊提供生成式 AI 免费教程]]></title>
+        <id>https://www.solidot.org/story?sid=76679</id>
+        <link href="https://www.solidot.org/story?sid=76679"/>
+        <updated>2023-11-21T09:59:52.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊开始提供生成式 AI 免费教程，帮助世界各地的学习者拓展关键技能。亚马逊称它的研究显示，73% 的雇主将招募 AI 人才作为首要任务，但其中四分之三的雇主找不到他们需要的 AI 人才。雇主预计，如果员工提高 AI 技能，他们的工资将上涨 47%。AI 将成为业务开展方式中不可或缺的一部分，93% 的企业预计未来五年将在其组织中使用 AI 解决方案。亚马逊的学习计划被称为 AI Ready。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CEO道歉并辞职后 Cruise另一联合创始人也宣布辞职]]></title>
+        <id>https://news.cnblogs.com/n/754061/</id>
+        <link href="https://news.cnblogs.com/n/754061/"/>
+        <updated>2023-11-21T09:51:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 21 日消息，据外媒报道，近一段时间，人工智能公司 OpenAI 的董事会解雇联合创始人兼 CEO Sam Altman 备受关注，随后多名高管离职，引发了部分投资者及员工的不满，770 名员工中的近 500 人，已要求董事会辞职并请回被他们解雇的 Altman。 而从外媒最新的报道来看，
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X/Twitter 起诉 Media Matters]]></title>
+        <id>https://news.cnblogs.com/n/754060/</id>
+        <link href="https://news.cnblogs.com/n/754060/"/>
+        <updated>2023-11-21T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[如果马斯克（Elon Musk）的 X/Twitter 不喜欢你，它会分析你的一举一动。X/Twitter 在德州起诉了媒体监督组织 Media Matters，该组织此前发表研究称 X 平台允许知名公司投放的广告与反犹推文和仇恨言论展示在一起。苹果、迪士尼、IBM 和康卡斯特（Comcast）等随
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AR眼镜制造商Rokid已完成1.12亿美元C轮融资 估值10亿美元]]></title>
+        <id>https://news.cnblogs.com/n/754059/</id>
+        <link href="https://news.cnblogs.com/n/754059/"/>
+        <updated>2023-11-21T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 21 日消息，据外媒报道，增强现实（AR）眼镜制造商 Rokid 已完成 1.12 亿美元C轮融资，此轮融资由 NetDragon Websoft Holdings Ltd. 领投，使该公司的估值达到 10 亿美元。 据外媒报道，该公司将利用这笔新资金扩大海外业务，加速其增强现实技术的开发
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 120 将支持新的隐私控制请求头 Sec-GPC]]></title>
+        <id>https://www.solidot.org/story?sid=76678</id>
+        <link href="https://www.solidot.org/story?sid=76678"/>
+        <updated>2023-11-21T09:37:15.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 即将正式释出的 Firefox 120 将支持新的隐私控制请求头 Sec-GPC，以表明用户是否同意一个网站或一项服务向第三方出售或共享其个人信息，类似 Do Not Track，它仍然是一项自愿遵守的隐私标准。Firefox 120 还将默认启用 WebAssembly GC 扩展，支持 Dart 和 Kotlin 等新语言在浏览器上运行。其他功能包括：当 Chromium 和 Firefox 都作为 Snap 包格式安装在设备上，Ubuntu Linux 用户可以 Chromium 导入数据； Windows 和 Linux 上的画中画支持角捕捉（corner snapping）；支持 light-dark() CSS 颜色函数，CSS 支持 lh 和 rlh 行高单位，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宁德时代和Stellantis签署谅解备忘录 在欧洲市场向其供应磷酸铁锂电池]]></title>
+        <id>https://news.cnblogs.com/n/754058/</id>
+        <link href="https://news.cnblogs.com/n/754058/"/>
+        <updated>2023-11-21T09:37:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 21 日消息，据外媒报道，今日，Stellantis 集团和宁德时代宣布签署了一份谅解备忘录（MoU），以在欧洲市场向 Stellantis 集团供应磷酸铁锂（LFP）电池，助力 Stellantis 在欧洲市场的电动汽车生产。 Stellantis 表示，为了进一步支持其电气化战略，这两
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因拒绝支付赎金勒索软件组织泄露波音 45GB 数据]]></title>
+        <id>https://news.cnblogs.com/n/754057/</id>
+        <link href="https://news.cnblogs.com/n/754057/"/>
+        <updated>2023-11-21T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[因拒绝支付赎金，勒索软件组织 LockBit 泄露了波音公司大约 45GB 的数据。这次网络攻击发生在 10 月 27 日，波音在同一天承认遭到网络攻击，表示没有影响到飞行安全。因未在两周内支付赎金，LockBit 公开了波音的数据，其中包括云计算公司 Citrix 的文件、安全控制、电邮备份等。安
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典]]></title>
+        <id>https://sspai.com/post/84538</id>
+        <link href="https://sspai.com/post/84538"/>
+        <updated>2023-11-21T09:28:56.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大家。
+希望这份「社区速递」能帮你发现更多有趣的内容分享。如果你有任何栏目内容或首页改版建议，也欢迎在评论区留言反馈。
+
+本周精选
+工具分享
+文章《「播客学英语」iOS app - 听播客，看文本，学英语，记单词》里，作者 Josscii 推出了一款名为「播客学英语」的 iOS app，旨在通过结合播客听力学习和文本查词记单词，为英语学习者提供更便捷的学习方式。Josscii分享了选择播客学习的理由，并探讨了在实践中遇到的痛点——词汇量不足和播客没有提供文本的问题。他认为这款 app 是为了简化学习过程，尤其是对于那些在学习英语时遇到了困扰的人。文章还详细介绍了app的功能，包括听播客、看文本查单词、生词库管理等。
+
+在《把照片回忆放在桌面：文字是最美的标签》里，Shobek介绍了「识图 App」入选 App Store 本周编辑推荐的情况，以及新版更新中提供的功能，讨论了如何通过文字为照片配上标签，使回忆更加温馨和感人。
+
+经验与思考
+在这篇《复盘阅读和写作：我好像没有飞翔的力量了》里，作者鱼玄子回顾了自己的阅读和写作经历。通过对大学时代梦到飞行的回忆，作者探讨了阅读对自由思考的重要性，透过个人经历，表达了阅读对于塑造自主意识和理解世界的力量，以及在追求美好未来中的积极作用。
+
+在《个人、家庭记账的误区》中，作者 accelee 探讨了个人和家庭记账时容易陷入的误区。他指出初学者可能存在对记账过于简单的误解，认为只需记录每日支出，却忽略了记账的深度和复杂性。通过分析普通人的思维误区，作者分享了自己十多年的记账实践经验，并给记账新手提出了建议，强调了深入理解记账的重要性。…]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软开源 Terminal Chat]]></title>
+        <id>https://news.cnblogs.com/n/754056/</id>
+        <link href="https://news.cnblogs.com/n/754056/"/>
+        <updated>2023-11-21T09:28:00.000Z</updated>
+        <summary type="html"><![CDATA[微软宣布开源其 AI 聊天功能 Terminal Chat 的工作，邀请开发人员尝试体验并参与构建。“Windows Terminal 团队致力于提高透明度，我们希望让开源社区有机会帮助我们定义 terminal 应用程序中的人工智能。” Terminal Chat 是 Windows Termin
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI“政变”最新反转：微软搅局、伊利亚反水、奥特曼大概率回归]]></title>
+        <id>https://news.cnblogs.com/n/754055/</id>
+        <link href="https://news.cnblogs.com/n/754055/"/>
+        <updated>2023-11-21T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[作者吴狄 出品零态 LT（ID：LingTai_LT） OpenAI“宫斗大戏”最新反转又又又来了！ 据美国福布斯新闻网报道，当地时间 20 日，美国 OpenAI 公司超过 700 名员工签署联名信，要求该公司董事会辞职。 信中称，除非董事会辞职并恢复前 CEO 山姆·奥特曼和前总裁格雷格·布罗克
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李开复的零一大模型套壳LLaMA算抄袭吗？]]></title>
+        <id>https://news.cnblogs.com/n/754054/</id>
+        <link href="https://news.cnblogs.com/n/754054/"/>
+        <updated>2023-11-21T09:13:00.000Z</updated>
+        <summary type="html"><![CDATA[作者：游云庭 近日，李开复投资的零一万物公司被爆其大模型“Yi”使用了 Facebook 母公司 META 的 LLaMA 大模型（全称为“Large Language Model META AI”）的开源代码，对外却没有提及。套壳却不说明的做法引来了大量质疑。对此，该公司致歉称：正在各开源平台重新
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨晚，超级PE卖了麦当劳]]></title>
+        <id>https://news.cnblogs.com/n/754053/</id>
+        <link href="https://news.cnblogs.com/n/754053/"/>
+        <updated>2023-11-21T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[凯雷退出。 作者 I 周佳丽 杨继云 报道 I 投资界 PEdaily 尘埃落定。 昨晚（11 月 20 日），凯雷集团宣布，麦当劳全球同意收购凯雷在麦当劳中国内地、香港及澳门战略合作公司中持有的少数股权。交易完成后，中信联合体将继续持有 52% 的股份，麦当劳全球作为少数股东，持股比例将由 20%
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奥特曼带队入职微软！Ilya刚刚首次发声：我很后悔]]></title>
+        <id>https://news.cnblogs.com/n/754052/</id>
+        <link href="https://news.cnblogs.com/n/754052/"/>
+        <updated>2023-11-21T08:29:15.000Z</updated>
+        <summary type="html"><![CDATA[丰色发自凹非寺 量子位公众号 QbitAI OpenAI 宫斗大剧迎来（暂时的）“大结局”： 与董事会谈判崩掉，奥特曼加入微软！ 双方已同时官宣： 就在几分钟前，Ilya 发表了推文： “我很后悔。我从没想过要伤害 OpenAI。我将尽我所能让公司重新团结起来。” 消息一出，大伙都麻了，彻底麻了！ 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing 公司的消息应用被发现是安全灾难]]></title>
+        <id>https://www.solidot.org/story?sid=76677</id>
+        <link href="https://www.solidot.org/story?sid=76677"/>
+        <updated>2023-11-21T08:22:39.000Z</updated>
+        <summary type="html"><![CDATA[一加联合创始人裴宇（Carl Pei）创办的手机公司 Nothing 上周发布了它的消息应用 Nothing Chats，该消息应用源自 Sunbird app，它立即被发现存在严重安全问题，不到 24 小时就被迫从 Google 应用商店 Play Store 下架。Nothing Chats 的卖点是允许用户使用苹果的账号和密码在 Android 上登陆 iMessage——这听起来就不像是好事，声称支持端对端加密，结果被发现明文储存信息，身份验证令牌通过 HTTP 发送，意味着中间人可以拦截并读取你的消息。Text.com 的调查发现，当用户收到一条消息或一则附件，在客户端请求确认前它们在服务端是未加密的。它还发布了一个概念验证应用能从服务器上提取出号称端对端加密的信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软230页报告，像素级评估GPT-4前沿科研能力：潜力无限速速上车！]]></title>
+        <id>https://news.cnblogs.com/n/754051/</id>
+        <link href="https://news.cnblogs.com/n/754051/"/>
+        <updated>2023-11-21T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：润 alan 微软 AI4Science 部门发布 230 页报告，详细描述了 GPT-4 为代表的大语言模型在生物，药物发现，计算化学，偏微分方程，材料设计等 5 个科研领域的应用潜力。而且，作者还把目前 GPT-4 表现不好的地方也贴心地标记出来，防止科研人员踩雷。 LLM 作
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开箱大模型营销神器，满眼都是：有劲、有用、有意思]]></title>
+        <id>https://news.cnblogs.com/n/754050/</id>
+        <link href="https://news.cnblogs.com/n/754050/"/>
+        <updated>2023-11-21T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[衡宇鱼羊发自凹非寺 量子位公众号 QbitAI 大模型对百度的重构，十分迅捷地渗入到了商业腹地。 怎么说？就看现在的互联网广告投放模式，那真是大大变样。 比如想整个营销方案，只要把需求“说”给大模型听，idea 就能自动生成。 投放广告全流程，也都能通过跟 AI 的对话直接搞定。 而如果我们揭开全新
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4不会图形推理？“放水”后准确率依然只有33%]]></title>
+        <id>https://news.cnblogs.com/n/754049/</id>
+        <link href="https://news.cnblogs.com/n/754049/"/>
+        <updated>2023-11-21T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[克雷西发自凹非寺 量子位公众号 QbitAI GPT-4 的图形推理能力，竟然连人类的一半都不到？ 美国圣塔菲研究所的一项研究显示，GPT-4 做图形推理题的准确率仅有 33%。 而具有多模态能力的 GPT-4v 表现更糟糕，只能做对 25% 的题目。 △虚线表示 16 项任务的平均表现 这项实验结
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD 14.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=76676</id>
+        <link href="https://www.solidot.org/story?sid=76676"/>
+        <updated>2023-11-21T07:07:18.000Z</updated>
+        <summary type="html"><![CDATA[FreeBSD 项目释出了 FreeBSD 14.0-RELEASE。主要新特性包括：OpenSSH 更新至 v9.5p1；OpenSSL 更新至 v3.0.12；bhyve 虚拟机管理程序支持 TPM 和 GPU 透传；FreeBSD 在 amd64 和 arm64 平台支持最多 1024 个内核；ZFS 更新至 OpenZFS v2.2，显著改进性能；实验性 ZFS 镜像可用于 AWS 和 Azure；TCP 默认拥塞控制机制设为 CUBIC，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排排坐，吃果果：趣谈 Apple Store 各色座椅]]></title>
+        <id>https://sspai.com/post/84523</id>
+        <link href="https://sspai.com/post/84523"/>
+        <updated>2023-11-21T07:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐 
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+Tabletops 是 Michael Steeber 的新闻周刊，本文原文发表于 2023 年 2 月，原作者授权果铺知道翻译。
+
+有那么一些 Apple 产品是无论你花多少钱都买不到的，比如说：立方体。我说的不是那个立方体，也不是另一个立方体，而是这些个立方体：
+
+如果 Apple 准备开一项新业务的话，那 Hermin Miller 大概要开始担心了，至少，来自我的读者们的电子邮件是这么说的。比起 Apple Store 的其他方方面面，更多人关心的 Apple 在店里使用的各种家具。
+我想，这主要是因为在 Apple Store 里，椅子从不找那种万用百搭的。就算有那么一种意外你真的找到一张能花钱购买到的椅子，它们也并不会像旧金山机场休息室那个已经烂大街的蛋椅一样散落的到处都是，以至于变得平淡无奇。
+这次，我将尝试把过去和现在 Apple Store 里的所有座椅来一个大盘点。这篇文章也将成为一篇参考，所以如果你发现有任何遗漏或者错误时请联系我，我将更新网页版上的文章内容。如果你是对 Boardroom 里的椅子感兴趣的话，欢迎你阅读我以前写的另一篇文章。
+注：本文并非一篇赞助软文，也不会附带任何推广链接。我的目的可不是给你推销东西。
+高脚凳
+Apple The Grove，图片来自 @ledtasso
+Bar Stool 64 — Alvar Aalto / Artek：2001–2015
+这张用在 Genius Bar 的长椅可谓是整篇 Apple Store 椅子故事的序言。早期门店的椅子使用透明的喷漆，呈现出木材…]]></summary>
+        <author>
+            <name>果铺知道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因拒绝支付赎金勒索软件组织泄露波音 45GB 数据]]></title>
+        <id>https://www.solidot.org/story?sid=76675</id>
+        <link href="https://www.solidot.org/story?sid=76675"/>
+        <updated>2023-11-21T06:48:44.000Z</updated>
+        <summary type="html"><![CDATA[因拒绝支付赎金，勒索软件组织 LockBit 泄露了波音公司大约 45GB 的数据。这次网络攻击发生在 10 月 27 日，波音在同一天承认遭到网络攻击，表示没有影响到飞行安全。因未在两周内支付赎金，LockBit 公开了波音的数据，其中包括云计算公司 Citrix 的文件、安全控制、电邮备份等。安全分析师称，波音的邮件等数据对恶意攻击者非常有价值。安全公司 MalwareHunter 认为，泄露数据可能来自于波音在 2006 年收购的 Aviall。如果 Aviall 的系统在过去 17 年已经与波音深度整合，那么问题将会很严重。如果整合程度不高，那么 LockBit 只是入侵了 Aviall 的网络，问题不那么严重。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X/Twitter 起诉 Media Matters]]></title>
+        <id>https://www.solidot.org/story?sid=76674</id>
+        <link href="https://www.solidot.org/story?sid=76674"/>
+        <updated>2023-11-21T04:58:02.000Z</updated>
+        <summary type="html"><![CDATA[如果马斯克（Elon Musk）的 X/Twitter 不喜欢你，它会分析你的一举一动。X/Twitter 在德州起诉了媒体监督组织 Media Matters，该组织此前发表研究称 X 平台允许知名公司投放的广告与反犹推文和仇恨言论展示在一起。苹果、迪士尼、IBM和 康卡斯特（Comcast）等随后都暂停在 X 上投放广告。X 在诉讼中称：“Media Matters 在知情的情况下恶意制造并排图片，将广告商在 X 公司社交媒体平台上发布的帖子，与新纳粹和白人民族主义边缘内容放在一起。”Media Matters 设立了一个测试账号，以证明 X 的算法能将广告与争议言论展示在一起。它的做法是不停的刷新和滚动时间线。在起诉书中，X 称 Media Matters 通过这种方法每小时看到的广告数是普通用户的 13-15 倍，直到发现它需要的内容——有争议内容与广告商的付费推文展示在一起。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：在将秋未秋时，到访一次京都]]></title>
+        <id>https://sspai.com/post/84446</id>
+        <link href="https://sspai.com/post/84446"/>
+        <updated>2023-11-21T03:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐 
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+对于很多人来说，京都可能算不上是一座陌生的城市。她以她悠久的历史和由内而外散发的丰厚底蕴，成为访日游客的热门目的地。在任意一个搜索引擎里输入「京都」，你都能找到根本读不完的游记和攻略，这是一座不缺故事的城市。
+
+四时之景不同，而乐亦无穷也。
+
+用欧阳修《醉翁亭记》里的这句话来形容京都是再适宜不过的。无论什么季节，一年四季到访京都都是独具韵味的，秋天的京都则以漫山遍野的红叶而闻名。
+作为一名足球迷，这次访日的契机，源于跟随自己的主队浙江队赴日「远征」。好吧，实际上只是打着「远征」的一次旅行，但是终归是要跟随亚冠比赛的时间节奏走，所以才有了这次「完美错过」红叶季的旅程。虽然没有踩着红叶季的节奏访问这座古都，在这座城市停留的时间也只有两天，不过，将秋未秋的京都在我心里烙下的印记是难以磨灭的。我想把这如花火般短暂一瞬的美记录下来。成为文字后，这份回忆将不仅独属于我，这便是我想写下这篇文章的原因。
+你的京都印象，来源于哪里？
+这是一个「千人千面」的问题。无论是川端康成的《古都》、三岛由纪夫的《金阁寺》，还是无数以京都为背景的文学或影视作品，虽然她本不需要以这种方式出名，但这座城市早已以无数种多样的方式在许多人心中留下了难以磨灭的印象，这或许也是游客们愿意到访京都「朝圣」的原因。
+金阁寺
+
+金阁寺的美是无与伦比的。
+
+我对京都这座城市的初印象，来源于三岛由纪夫的《金阁寺》。在三岛由纪夫的书中，金阁寺其美无俦，以致主人公希望在大火中将自己的肉身同闪着金光的金阁寺一同走向毁灭。
+尽管在行前已经查阅过金阁寺的背景资料，了解到这座寺院的规模并不大、…]]></summary>
+        <author>
+            <name>Wataru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超越Notion和Roam Research：RemNote揭秘，考试笔记如何事半功倍！]]></title>
+        <id>https://sspai.com/post/84501</id>
+        <link href="https://sspai.com/post/84501"/>
+        <updated>2023-11-20T18:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Notion擅长数据库，Roam Research和Logseq专注于无压记录，Obsidian则擅长高度定制以满足笔记需求。它们在不同领域各有所长，有人选择将所有笔记集中在一起，即所谓的All-in-One。然而，在考试和考证领域，由于存在需要反复练习的大量知识点，这些笔记软件都未能很好地满足复习需求。因此，它们采用插件的方式和Anki等间隔练习软件联动。尽管Logseq可以复习卡片，但做得并不够好，无法很好地满足记笔记的同时快速制作不同类型的卡片并自定义回顾算法的需求。而这一切都能在RemNote里完全免费实现，没有任何限制。正所谓分久必合，合久必分。将所有笔记混合在一起并不一定是明智之举。因此，我选择单独将需要重复练习的内容单独放在由MIT开发的RemNote里。
+RemNote里有很多很复杂的功能，说实话学习成本也略高，但就单纯制卡这一项，学起来不超过5分钟。而且考证、考试这么重要，没时间让你去把玩那些需要付费的复杂功能，就用好这一项就行了。下面让我们来看看如何制作不同的卡片。
+制作普通卡片
+快捷输入：》》或者>>
+是的，即便输入的是中文输入法下的书名号，也会自动识别并转换为卡片。箭头前的文本为正面，箭头后的文本为背面。
+
+普通卡片默认只制作一张仅能复习背面的卡片。如果想要制作一张双面的普通卡片，只需点击箭头，不仅能预览卡片，还能选择中间的双箭头将其调整为双面卡片。
+
+制作多行卡片
+快捷输入：》》》或者>>>
+普通卡片适合一句话能讲完的，但如果你想要对知识点进行结构化拆分，那就需要用到多行卡片了。方法极其简单，就是多加一个书名号。
+
+如图最后一句，默认的多行卡片的背面是会同时出现的，这明显不符合一些有步骤的知识点。切换成顺序多行卡片的方式也很简单，有两种。
+第一种：点击箭头，然后勾选右下角的“Test One-by-One”。
+第二种：在切换到卡片背面时，输入“1.…]]></summary>
+        <author>
+            <name>Delmar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去年 20 个省人口负增长]]></title>
+        <id>https://www.solidot.org/story?sid=76673</id>
+        <link href="https://www.solidot.org/story?sid=76673"/>
+        <updated>2023-11-20T14:34:43.000Z</updated>
+        <summary type="html"><![CDATA[国家统计局编著出版的《中国统计年鉴2023（官网尚未发布）》公布了 31 个省份的人口出生率、死亡率和自然增长率数据。数据显示，2022 年有 9 个省份的人口出生率超过千分之八（8‰）；有 20 个省份人口自然增长率（人口自然增加数（出生人数-死亡人数）/同期平均总人口数）为负，比上一年增加 7 个。在人口出生率方面，有 14 个省份超过了全国平均水平（6.77‰），其中有4个省份超过了 1%，分别是西藏、贵州、青海和宁夏，均来自西部地区。有 5 个省份人口出生率处于 8‰ 到 9‰ 之间，分别是海南、广西、甘肃、广东和云南。2022 年全年广东出生人口 105.2 万人，连续三年成为唯一一个出生人口超 100 万的省份，广东已经连续五年成为第一生育大省。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊训练超大模型奥林匹斯]]></title>
+        <id>https://www.solidot.org/story?sid=76672</id>
+        <link href="https://www.solidot.org/story?sid=76672"/>
+        <updated>2023-11-20T14:27:19.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊正在训练代号为奥林匹斯（Olympus）的超大规模语言模型。知情人士称它有两万亿个参数，相比下 OpenAI 的 GPT-4 模型据报道有大约 1 万亿个参数。奥林匹斯团队由 Alexa 前负责人 Rohit Prasad  领导，直接向 CEO Andy Jass 汇报工作。亚马逊认为拥有自己的大模型会让其 AWS 业务更有吸引力，企业客户希望能在 AWS 上访问到性能最好的大模型。目前还没有奥林匹斯发布的时间表。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软周二补丁日实施二十周年]]></title>
         <id>https://www.solidot.org/story?sid=76671</id>
@@ -241,6 +689,35 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析了十篇社区热文，我通过GPTs创造了一个少数派写作AI助手]]></title>
+        <id>https://sspai.com/post/84487</id>
+        <link href="https://sspai.com/post/84487"/>
+        <updated>2023-11-20T08:59:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 在最新的开发者大会上，隆重的推出了GPTs，这次更新大大降低了开发AI工具的门槛，为普通创作者提供了前所未有的机会。它不仅意味着我们可以更容易地接触和利用这些强大的工具，还意味着我们可以更加自由地创造和表达。
+写作本身就是GPT模型较为擅长的领域，我不禁去思考，能不能利用GPTs开发一个博客的写作工具，帮助我们进行提升写作水平，统一写作风格。说干就干，我决定以少数派作为实验对象，创造一个少数派写作的AI小助手。
+
+写作指南的创建
+要制作一个少数派风格的AI小助手，自然要首先明白，少数派社区欢迎哪些内容，其文章的写作风格是什么样的，并得到一个具体的写作指南。
+我具象这个目标的思路是：
+
+从少数派上获取热门的样本文章；
+result_ind：分别对这些样本文章进行内容、结构、风格的总结；
+再对这些result_ind进行整合，得到一个总体的写作指南。
+
+获取样本文章
+我选取了首页上“热门”板块中最近的10个“社区内容”的文章来进行进行尝试。首先将这些文章全部收藏进了Cubox中。
+
+分析文章并获得result_ind
+之后我打算把这些文章输入chatGPT中进行分析。最开始想要使用chatGPT读取文件的功能进行直接分析。但是尝试后发现，最近可能是因为算力的问题，经常会出现：上传文件出错，读取文件出错（文件本身只有203k，原先数十m的文件都可以正常读取），文件只读取前面小半部分的问题。所以最后还是选择使用插件（WebPilot）直接读取网页内容。
+总结过程中出现问题
+接着使用上图给定的prompt进行总结，很快出现了新的问题。文章中包含了少数派的引导信息，这很显然会干扰到我们的结果。所以我调整了prompt，增加了“请忽略其中关于少数派社区的引导内容”的语句。
+
+最终的prompt：你好，我会每次给你发送一篇文章，我需要你读取每篇文章的内容并进行拆解总结，请忽略…]]></summary>
+        <author>
+            <name>EurekaLab</name>
         </author>
     </entry>
     <entry>
@@ -10397,453 +10874,6 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，
         <link href="https://news.cnblogs.com/n/752442/"/>
         <updated>2023-10-23T13:29:00.000Z</updated>
         <summary type="html"><![CDATA[10 月 23 日消息，从今年 5 月 28 日开始，中国商飞打造的国产大飞机“C919”已经正式开启商业载客，目前已经入列 2 架。 据中国商飞介绍，目前 C919 订单数已经达到 1061 架，并且已经交付 2 架。 随着 C919 步入正轨运行，中国商飞还开启了下一代飞机的研发，近日 C919
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 将能隐藏用户 IP 地址]]></title>
-        <id>https://www.solidot.org/story?sid=76421</id>
-        <link href="https://www.solidot.org/story?sid=76421"/>
-        <updated>2023-10-23T10:22:22.000Z</updated>
-        <summary type="html"><![CDATA[Google Chrome 开发者在邮件列表上披露了名为 IP Protection 的新隐私保护功能，利用代理服务器隐藏用户的 IP 地址。类似第三方 cookie，IP 地址能用于跟踪用户，相比 cookie 它缺乏有效的保护手段。Google 开发者提出的 IP Protection 将是可选启用，分阶段推出，只对一组特定的域名使用代理服务器隐藏 IP，这些域名被认为会跟踪用户。第一阶段是测试，Google 将使用自己的代理服务器对自己的域名代理请求，此举主要是为了测试基础设施，给自己更多时间精选准备代理的域名列表。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威马申请破产，新能源汽车用户未来何去何从？]]></title>
-        <id>https://news.cnblogs.com/n/752441/</id>
-        <link href="https://news.cnblogs.com/n/752441/"/>
-        <updated>2023-10-23T10:06:23.000Z</updated>
-        <summary type="html"><![CDATA[TechWeb 文/卞海川 近日，曾经与蔚来汽车、小鹏汽车并称“新势力三巨头”的威马汽车申请破产了，此消息一出引起业内不小的震动，而感受到震动最大的则是威马汽车的用户们。 不知是巧合，还是其他原因，就在威马申请破产的同时，在威马提交破产申请后不久，就有车主反映，自己的威马汽车出现了联网失败，车机系统
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些以色列芯片公司已被美国企业收购？]]></title>
-        <id>https://news.cnblogs.com/n/752440/</id>
-        <link href="https://news.cnblogs.com/n/752440/"/>
-        <updated>2023-10-23T10:05:29.000Z</updated>
-        <summary type="html"><![CDATA[TechWeb 文 / 新喀鸦 以色列拥有着非常丰富的芯片产业，苹果、三星、高通等众多全球顶尖的芯片公司都在以色列开设了研发中心，以色列的特拉维夫甚至被誉为“第二硅谷”。以色列本国也有着很多芯片领域优秀的初创公司，不过这些公司很多在发展到一定阶段或者取得一定突破之后会被其它国家的公司收购。不少以色列
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微博CEO吐槽：理想L9汽车OTA升级后辅助驾驶车道保持不居中]]></title>
-        <id>https://news.cnblogs.com/n/752439/</id>
-        <link href="https://news.cnblogs.com/n/752439/"/>
-        <updated>2023-10-23T10:00:31.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 10 月 23 日消息，微博 CEO @来去之间发文吐槽，理想 L9 在 OTA 升级过后辅助驾驶车道保持不居中，“特别右侧有大车时候超车太瘆人了，有时候右侧大车贴左行驶，还会自动刹一下。” 原文如下： 有一段没开长途，这次开了全程 NOA 冷汗好几次…… 这 L9 以前 NOA 居中很
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长城汽车回应欧盟反补贴调查：快速推进欧洲工厂选址工作 不会放慢出海]]></title>
-        <id>https://news.cnblogs.com/n/752438/</id>
-        <link href="https://news.cnblogs.com/n/752438/"/>
-        <updated>2023-10-23T09:59:40.000Z</updated>
-        <summary type="html"><![CDATA[10 月 23 日消息，今日，针对欧盟委员会决定对进口自中国的纯电动载人汽车发起反补贴调查一事，长城汽车方面表示，每个企业都需要公平公正的贸易环境，长城汽车也会尊重每一个地区的市场规则。中欧汽车产业有着广泛的合作空间和共同利益，双方深入合作四十多年，早已形成“你中有我，我中有你”的格局。 “长城汽车
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆 Pocket 3 手持云台相机价格曝光]]></title>
-        <id>https://news.cnblogs.com/n/752437/</id>
-        <link href="https://news.cnblogs.com/n/752437/"/>
-        <updated>2023-10-23T09:58:36.000Z</updated>
-        <summary type="html"><![CDATA[大疆日前宣布，将于 10 月 25 日 21:00 举行发布会，预计发布其备受瞩目的新品 —— OSMO Pocket 3 手持云台相机。 据「￼Quadro_News」最新消息，大疆 OSMO Pocket 3 手持云台相机的起售价为 531 美元（当前约合人民币 3887 元）。 据此前爆料消息
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信聊天消息提示功能更新]]></title>
-        <id>https://news.cnblogs.com/n/752436/</id>
-        <link href="https://news.cnblogs.com/n/752436/"/>
-        <updated>2023-10-23T09:57:16.000Z</updated>
-        <summary type="html"><![CDATA[近日，许多网友发现，微信对消息弹窗进行了升级优化，用户在微信打开聊天、朋友圈、公众号推文等页面时，也能收到消息提示。 在微信中，点击「我」-「设置」-「消息通知」，可以看到新增了「微信内消息横幅」以及「横幅显示内容」选项。 显示内容分别为仅显示「你收到了 1 条消息」；显示朋友名称、群聊名；显示朋友
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首次！我国计划实施近地小行星防御任务]]></title>
-        <id>https://news.cnblogs.com/n/752435/</id>
-        <link href="https://news.cnblogs.com/n/752435/"/>
-        <updated>2023-10-23T09:56:07.000Z</updated>
-        <summary type="html"><![CDATA[据人民网，「未来 15 年，中国深空探测将在月球探测、行星探测、运载技术等三个领域，论证实施十大工程任务」。 10 月 22 日在安徽合肥召开的中国科协年会主论坛上，中国探月工程总设计师、深空探测实验室主任兼首席科学家、中国工程院院士吴伟仁在报告中介绍了中国深空探测未来 15 年的计划。 我国在行星
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯或将再战 XR，并计划代理 Meta 旗下的 VR 头显 Oculus Quest]]></title>
-        <id>https://news.cnblogs.com/n/752434/</id>
-        <link href="https://news.cnblogs.com/n/752434/"/>
-        <updated>2023-10-23T09:54:56.000Z</updated>
-        <summary type="html"><![CDATA[据界面新闻报道，近期 B 站博主「电丸科技 AK」发布的一条视频在 VR 圈引发反响。 该博主表示，腾讯原已解散自研 XR 团队，但受到苹果 Vision Pro 发布的影响，又在今年 8 月开始重组 XR 团队，并计划代理 Meta 旗下的 VR 头显 Oculus Quest，参考腾讯与任天堂的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称，苹果将在 iOS 18 上推出生成式 AI 功能]]></title>
-        <id>https://news.cnblogs.com/n/752433/</id>
-        <link href="https://news.cnblogs.com/n/752433/"/>
-        <updated>2023-10-23T09:53:54.000Z</updated>
-        <summary type="html"><![CDATA[据 MacRumors 报道，海通国际证券分析师 Jeff Pu 表示，苹果计划最早在 2024 年年底开始在 iPhone 和 iPad 上采用生成式 AI 技术。 Jeff Pu 在一份研究报告中表示，他的供应链调查表明，苹果将在接下来的两年内部署数百台人工智能服务器，以实现这一技术的应用。 他
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新 Model 3 开售，Cybertruck 下月交付，可特斯拉居然卖不动了？]]></title>
-        <id>https://news.cnblogs.com/n/752432/</id>
-        <link href="https://news.cnblogs.com/n/752432/"/>
-        <updated>2023-10-23T09:52:39.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉赚钱越来越难了。 特斯拉今早刚发布的三季度财报显示，其财务业绩和去年同期相比出现了一定程度的下滑。 具体来看，受汽车销售价格下降和成本上升的压力，特斯拉的营收和利润指标均有下降，总营收同比下降 9%，达到 234 亿美元；毛利为 41.8 亿美元，同比下降 22%；GAAP 净利润为 18.5
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft AI 为古腾堡项目录制了 5000 本有声书]]></title>
-        <id>https://news.cnblogs.com/n/752431/</id>
-        <link href="https://news.cnblogs.com/n/752431/"/>
-        <updated>2023-10-23T09:51:28.000Z</updated>
-        <summary type="html"><![CDATA[微软、Google、MIT 的研究人员与古腾堡项目合作制作了 5000 本开放授权的有声读物，音频总时长 3.5 万小时，包含了虚构和非虚构类作品，每个人都能找到适合自己的内容。研究人员的论文《Large-Scale Automatic Audiobook Creation》发表在预印本平台 arX
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 帮助维基百科整理引用链接]]></title>
-        <id>https://news.cnblogs.com/n/752430/</id>
-        <link href="https://news.cnblogs.com/n/752430/"/>
-        <updated>2023-10-23T09:50:33.000Z</updated>
-        <summary type="html"><![CDATA[引用对维基百科至关重要，但它的引用经常会指向已失效的链接、不正确的信息或不可靠的来源。Samaya AI 公司的研究人员开发了神经网络系统 SIDE，能帮助维基百科整理其条目中不准确或不完整的参考来源，提高其质量和可靠性。系统能分析引用来源是否能支持条目中的相关断言，为不支持的引用提供更好的参考来源
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铠侠与西部数据预计将在本月宣布合并]]></title>
-        <id>https://news.cnblogs.com/n/752429/</id>
-        <link href="https://news.cnblogs.com/n/752429/"/>
-        <updated>2023-10-23T09:49:43.000Z</updated>
-        <summary type="html"><![CDATA[日本半导体巨头铠侠控股与美国合作方西部数据公司（WD）预计最早将在本月宣布合并。合并后的公司将成为最大的 NAND 闪存制造商。西数股东将持有合并后公司逾五成股权，其余股权归属铠侠股东。铠侠的高管团队一开始预计会在新公司占据主导，但之后可能会逐渐改变。根据 TrendForce 的数据，新公司在 N
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太阳磁极在消失]]></title>
-        <id>https://news.cnblogs.com/n/752428/</id>
-        <link href="https://news.cnblogs.com/n/752428/"/>
-        <updated>2023-10-23T09:48:54.000Z</updated>
-        <summary type="html"><![CDATA[太阳磁极正在消失。但不要恐慌，这是太阳 11 年活动周期的一部分。过去几年，太阳的活动一直在加强，耀斑等太阳喷发在增加。对地球人类而言不明显的地方是，太阳活动也在侵蚀它的流体磁场，导致两个磁极几乎完全失去电荷。随着时间的推移，磁场将发生逆转，当太阳活动减弱磁场将会逐渐增强。目前太阳处于第 25 个周
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[力量锻炼有助于减少高蛋白饮食健康风险]]></title>
-        <id>https://news.cnblogs.com/n/752427/</id>
-        <link href="https://news.cnblogs.com/n/752427/"/>
-        <updated>2023-10-23T09:48:14.000Z</updated>
-        <summary type="html"><![CDATA[膳食蛋白质提供必需的营养物质，控制体内各种各样的过程，可以影响健康和寿命。蛋白质的摄入通常被认为是有益的，可以促进肌肉的生长和力量，尤其是在与运动相结合的情况下。然而，对于久坐不动的人来说，摄入过多的蛋白质会增加患心脏病、糖尿病和死亡的风险。为了研究运动是否能防止高蛋白饮食的有害影响，研究人员在小鼠
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁集团旗下语雀崩了：在线文档及官网均无法打开 官方称紧急恢复中]]></title>
-        <id>https://news.cnblogs.com/n/752426/</id>
-        <link href="https://news.cnblogs.com/n/752426/"/>
-        <updated>2023-10-23T09:47:24.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 10 月 23 日消息，据多位 IT 之家读者反馈，蚂蚁集团旗下的在线文档编辑与协同工具语雀疑似出现服务器故障，在线文档和官网目前均无法打开。 对此，语雀官微回应称，语雀出现网络故障，导致无法访问，此故障不会影响用户在语雀存储的数据，不会引起数据丢失，目前正在紧急恢复中。 语雀是蚂蚁集团
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[力量锻炼有助于减少高蛋白饮食健康风险]]></title>
-        <id>https://www.solidot.org/story?sid=76420</id>
-        <link href="https://www.solidot.org/story?sid=76420"/>
-        <updated>2023-10-23T08:58:09.000Z</updated>
-        <summary type="html"><![CDATA[膳食蛋白质提供必需的营养物质，控制体内各种各样的过程，可以影响健康和寿命。蛋白质的摄入通常被认为是有益的，可以促进肌肉的生长和力量，尤其是在与运动相结合的情况下。然而，对于久坐不动的人来说，摄入过多的蛋白质会增加患心脏病、糖尿病和死亡的风险。为了研究运动是否能防止高蛋白饮食的有害影响，研究人员在小鼠身上进行了一项渐进式阻力力量训练计划。在三个月的时间里，这些动物每周三次在轨道上拉一辆负重越来越重的推车，或者在同样的时间里拉一辆没有负重的相同的推车。一组小鼠喂食低蛋白饮食(7%的热量来自蛋白质)，另一组喂食高蛋白饮食(36%的热量来自蛋白质)。然后研究小组比较了不同组的身体组成、体重和代谢指标，如血糖。结果显示：高蛋白饮食会损害久坐不动的小鼠的代谢健康；与低蛋白饮食的小鼠相比，这些小鼠获得了多余的脂肪量。但在体重增加的小鼠中，高蛋白饮食导致了肌肉的增长，尤其是在前臂，并保护动物免受脂肪的增加。力量运动并没有保护小鼠免受高蛋白对血糖控制的影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太阳磁极在消失]]></title>
-        <id>https://www.solidot.org/story?sid=76419</id>
-        <link href="https://www.solidot.org/story?sid=76419"/>
-        <updated>2023-10-23T08:32:00.000Z</updated>
-        <summary type="html"><![CDATA[太阳磁极正在消失。但不要恐慌，这是太阳 11 年活动周期的一部分。过去几年，太阳的活动一直在加强，耀斑等太阳喷发在增加。对地球人类而言不明显的地方是，太阳活动也在侵蚀它的流体磁场，导致两个磁极几乎完全失去电荷。随着时间的推移，磁场将发生逆转，当太阳活动减弱磁场将会逐渐增强。目前太阳处于第 25 个周期的中间阶段，这一周期始于 2019 年 12 月。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X 付费蓝标用户传播了 74% 的以哈冲突虚假信息]]></title>
-        <id>https://www.solidot.org/story?sid=76418</id>
-        <link href="https://www.solidot.org/story?sid=76418"/>
-        <updated>2023-10-23T06:55:49.000Z</updated>
-        <summary type="html"><![CDATA[根据 NewsGuard 的分析，X/Twitter 平台上的付费蓝标用户传播了 74% 的以哈战争虚假信息。在 10 月 7 日开始的第一周冲突中，NewsGuard 分析了点赞、转发、回复和收藏最多的前 250 个包含错误信息的推文，发现 其中 186 个帐户（74%）获得 X 的验证，其传播的虚假信息包括乌克兰向哈马斯出售武器，以色列高级官员被哈马斯抓获的视频。在马斯克（Elon Musk）开放 X/Twitter 的蓝标认证前，该标记是为知名用户和记者保留的。马斯克还解散了公司的内容审核团队。他的众多做法都让广告商疏远了该平台。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果计划在 Siri、Xcode 等产品中整合 AI]]></title>
-        <id>https://www.solidot.org/story?sid=76417</id>
-        <link href="https://www.solidot.org/story?sid=76417"/>
-        <updated>2023-10-23T06:09:55.000Z</updated>
-        <summary type="html"><![CDATA[苹果计划在 Siri、Xcode 等产品中整合 AI。苹果已建立了自己的大模型 Ajax，在此基础上还创建了一个聊天机器人服务， 部分工程师称之为“苹果GPT”。下一步的关键是确定该技术是否能应对竞争对手，以及苹果如何将其实际应用到产品中。负责 AI 的高级副总裁 John Giannandrea 的团队正在改进 Siri。这个更智能的 Siri 版本最早可能会在明年准备就绪，但这项技术仍然让人感到担忧，而且苹果的 AI 功能可能需要更长的时间才能在产品线中普及。苹果软件工程团队也在考虑将生成式 AI 集成到 Xcode 等开发工具中，这可以帮助开发人员更快地编写新应用，使其与微软的 GitHub Copilot 等服务保持一致。苹果公司内部正在争论如何部署生成式 AI：完全在设备上运行、基于云运行或介于两者之间。部署在设备上会运行得更快，并有助于保护隐私，但通过云部署大模型将允许更高级的操作。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铠侠与西部数据预计将在本月宣布合并]]></title>
-        <id>https://www.solidot.org/story?sid=76416</id>
-        <link href="https://www.solidot.org/story?sid=76416"/>
-        <updated>2023-10-23T05:19:25.000Z</updated>
-        <summary type="html"><![CDATA[日本半导体巨头铠侠控股与美国合作方西部数据公司（WD）预计最早将在本月宣布合并。合并后的公司将成为最大的 NAND 闪存制造商。西数股东将持有合并后公司逾五成股权，其余股权归属铠侠股东。铠侠的高管团队一开始预计会在新公司占据主导，但之后可能会逐渐改变。根据 TrendForce 的数据，新公司在 NAND 闪存领域将占 34.3% 份额，超过了三星的 31.1%，以及 SK 海力士的 17.8%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ragnar Locker 勒索软件组织的主要成员在欧洲被捕]]></title>
-        <id>https://www.solidot.org/story?sid=76415</id>
-        <link href="https://www.solidot.org/story?sid=76415"/>
-        <updated>2023-10-23T05:02:02.000Z</updated>
-        <summary type="html"><![CDATA[在欧洲刑警组织等机构的协调下，欧洲多国对 Ragnar Locker 勒索软件组织的主要成员展开了突击行动。该组织的关键成员于 10 月 16 日在法国巴黎被捕，其在捷克的家遭到搜查。另外五名嫌疑人分别在西班牙和拉脱维亚接受询问。Ragnar Locker 的基础设施在荷兰、德国和瑞典查封，暗网上的数据泄露网站在瑞典被关闭。Ragnar Locker 自 2019 年 12 月以来一直很活跃，它攻击了世界各地的基础设施，因此被认为具有高威胁优先度。它采用了双重勒索策略，除了加密数据还通过窃取数据威胁泄露勒索受害者。它在 2020 年曾攻击了日本知名游戏公司 Capcom，最近攻击了葡萄牙国家航空公司和以色列的一家医院。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国限制石墨出口]]></title>
-        <id>https://www.solidot.org/story?sid=76414</id>
-        <link href="https://www.solidot.org/story?sid=76414"/>
-        <updated>2023-10-23T02:37:47.000Z</updated>
-        <summary type="html"><![CDATA[商务部和海关总署 10 月 20 日发布公告称，决定自 12 月 1 日起，对石墨等实施出口管制，中国企业未经相关部门审查并获得许可，将无法出口。石墨是电动汽车的主要材料，作为车载电池的负极材料使用。根据美国地质调查局(USGS)的数据，中国占世界石墨产量的 65%。在高纯度石墨不可或缺的车载电池用负极材料领域，中国企业掌握了八成以上的份额。日本和欧洲的纯电动汽车相关企业有可能陷入采购困难。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星电子挑战6G数据传输纪录]]></title>
-        <id>https://news.cnblogs.com/n/752364/</id>
-        <link href="https://news.cnblogs.com/n/752364/"/>
-        <updated>2023-10-23T00:47:23.000Z</updated>
-        <summary type="html"><![CDATA[科技日报讯 （记者薛严）为评估下一代网络蜂窝设备，韩国三星电子表示将在美国得克萨斯州普莱诺周边 1 公里距离内，进行 12.7GHz—13.25GHz 频段的 6G 测试。三星电子美国分部日前已向美国联邦通信委员会（FCC）申请无线电频率使用许可。 2021 年底，三星电子曾在得克萨斯州针对 500
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[眼睛的分子年龄首次确定]]></title>
-        <id>https://news.cnblogs.com/n/752363/</id>
-        <link href="https://news.cnblogs.com/n/752363/"/>
-        <updated>2023-10-23T00:46:16.000Z</updated>
-        <summary type="html"><![CDATA[科技日报讯 （记者张梦然）一组研究人员通过分析手术过程中常规取出的微小眼液滴，绘制了来自眼内不同细胞类型的近 6000 种蛋白质的图谱。美国斯坦福大学研究人员在 10 月 19 日的《细胞》杂志发表论文称，他们使用人工智能模型根据这些数据创建了一个“蛋白质组时钟”，可根据健康人的蛋白质谱判断其眼睛的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你追我赶！英伟达、Meta同日宣布机器人重磅成果]]></title>
-        <id>https://news.cnblogs.com/n/752362/</id>
-        <link href="https://news.cnblogs.com/n/752362/"/>
-        <updated>2023-10-23T00:35:56.000Z</updated>
-        <summary type="html"><![CDATA[《科创板日报》10 月 21 日讯（编辑宋子乔） 如今，科技巨头主动肩负起机器人研发的重任，正你追我赶奔赴下一场科技盛宴。当地时间 10 月 20 日，英伟达、Meta 各自发布了重磅机器人训练工具。 英伟达开发的 AI 代理 Eureka 可以教会机器人复杂的运动控制技能，比如转笔、打开抽屉和柜子
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析师：苹果最早将于明年底将生成式AI整合到iPhone和iPad中]]></title>
-        <id>https://news.cnblogs.com/n/752361/</id>
-        <link href="https://news.cnblogs.com/n/752361/"/>
-        <updated>2023-10-23T00:34:37.000Z</updated>
-        <summary type="html"><![CDATA[10 月 22 日消息，有报道称，海通国际证券分析师蒲得宇最近认为，预计苹果最早会在 2024 年底将生成式人工智能技术整合到 iPhone 和 iPad 中。 蒲得宇在研究报告中表示，根据苹果供应链的调查表明，未来两年内，苹果将通过设立上千个人工智能服务器来实现这一目标。 蒲得宇预计，苹果会将云端
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外媒：NASA与SpaceX因登月计划推迟而关系紧张]]></title>
-        <id>https://news.cnblogs.com/n/752360/</id>
-        <link href="https://news.cnblogs.com/n/752360/"/>
-        <updated>2023-10-23T00:33:53.000Z</updated>
-        <summary type="html"><![CDATA[10 月 22 日消息，美国宇航局（NASA）是埃隆·马斯克（Elon Musk）旗下火箭公司 SpaceX 最重要的客户，该机构总共已向后者授予近 120 亿美元的合同。然而，由于 SpaceX 拖延建造用于 NASA 下一次登月任务的关键设备，导致这对合作伙伴的关系日益紧张。 据知情人士透露，近
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宿华辞任快手董事长背后：两位创始人的进与退]]></title>
-        <id>https://news.cnblogs.com/n/752359/</id>
-        <link href="https://news.cnblogs.com/n/752359/"/>
-        <updated>2023-10-23T00:33:21.000Z</updated>
-        <summary type="html"><![CDATA[雷递网雷建平 10 月 21 日 在辞任快手 CEO 职务两年后，昨日，快手联合创始人宿华正式宣布辞任快手董事长职务。 10 月 20 日晚间，快手科技发布公告宣布，由于需要专注其他事务，自 2023 年 10 月 29 日起，宿华不再担任董事会董事长，将继续担任执行董事和薪酬委员会成员，其不同投票
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曝华为正在清理骁龙机型库存 即将全面切换产品线！]]></title>
-        <id>https://news.cnblogs.com/n/752358/</id>
-        <link href="https://news.cnblogs.com/n/752358/"/>
-        <updated>2023-10-23T00:28:15.000Z</updated>
-        <summary type="html"><![CDATA[【手机中国新闻】此前，和其他绝大部分手机厂商不同，华为旗下大量的机型使用的都是自家的麒麟芯片。但是在最近几年，麒麟芯片受到阻碍，华为不得不采购和使用高通的骁龙平台，直到今年的 8 月底，Mate60 系列的问世才改变了这一情况。 而近日，手机中国注意到，有爆料人士透露，华为正在清理老款机型的库存，它
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“不造芯片”黄仁勋：回到30岁 我绝对不会创办英伟达]]></title>
-        <id>https://news.cnblogs.com/n/752357/</id>
-        <link href="https://news.cnblogs.com/n/752357/"/>
-        <updated>2023-10-23T00:27:19.000Z</updated>
-        <summary type="html"><![CDATA[快科技 10 月 22 日消息，成立 30 周年之际，英伟达创始人兼首席执行官黄仁勋在近期的一期访谈节目中，聊了很多英伟达在这 30 年里遇到的各种问题，也分享了自己的愿景。 他想让所有人明白，英伟达为什么能一路走到现在，而英伟达的未来又在哪里。 当被问到如果现在回到 30 岁时，再次走进当初决定创
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[耐克宣布：将实行每周四天工作制！]]></title>
-        <id>https://news.cnblogs.com/n/752356/</id>
-        <link href="https://news.cnblogs.com/n/752356/"/>
-        <updated>2023-10-23T00:26:20.000Z</updated>
-        <summary type="html"><![CDATA[据橙市互动 10 月 20 日消息，耐克大中华区近日发布内部信，宣布推出新的混合工作模式。在新模式下，每周在公司工作四天，时间为每周一至周四。新的工作模式将于 2024 年 1 月 8 日正式执行，范围仅限于办公室员工。 耐克大中华区发布的内部信 今年以来，已有多家公司宣布实行四天工作制。 6 月 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家探测到最远快速射电暴]]></title>
-        <id>https://news.cnblogs.com/n/752355/</id>
-        <link href="https://news.cnblogs.com/n/752355/"/>
-        <updated>2023-10-23T00:16:43.000Z</updated>
-        <summary type="html"><![CDATA[科技日报讯 （记者张佳欣）据发表在最新一期《科学》杂志上的论文，一个国际团队发现了一次持续不到一毫秒的宇宙无线电波暴发。这是迄今探测到的距离最远的一次“快速射电暴”（FRB），欧洲南方天文台的甚大望远镜确定其来源于一个极其遥远的星系，它的光来自 80 亿年前。该 FRB 也是迄今观测到的能量最高的天
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迄今运行AI最快芯片“北极”面世]]></title>
-        <id>https://news.cnblogs.com/n/752354/</id>
-        <link href="https://news.cnblogs.com/n/752354/"/>
-        <updated>2023-10-23T00:15:13.000Z</updated>
-        <summary type="html"><![CDATA[科技日报讯 （记者刘霞）美国 IBM 公司最新推出了一款类脑芯片“北极”，其运行由人工智能驱动的图像识别算法的速度是同类商业芯片的 22 倍，能效是同类芯片的 25 倍。相关研究论文发表于 10 月 19 日出版的《科学》杂志。 “北极”芯片将其计算模块与存储信息的模块交织在一起，允许每个计算核心像
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科举制阴影之下的中国社会]]></title>
-        <id>https://www.solidot.org/story?sid=76413</id>
-        <link href="https://www.solidot.org/story?sid=76413"/>
-        <updated>2023-10-22T16:05:19.000Z</updated>
-        <summary type="html"><![CDATA[MIT 斯隆商学院的黄亚生教授谈论了科举制对整个中国社会的深远影响。今年有近 1300 万人参加高考，约 260 万人参加公务员考试（录取名额只有 3.71 万个）。高考和公考都源自隋朝的科举，清朝在 1905 年将其废除。在这之前，科举是帝国官僚机构的主要选拔途径。科举纯粹是背诵，是基于儒家经典。而儒家经典有 40 万个字和短语，男孩通常 3-5 岁起就开始背诵。科举只对男性开放，竞争非常激烈，明代有 100 万人定期参加各级资格考试，只有 400 人进入最后的会试。明代乡试的平均通过率为 4%，比被哈佛录取还要难。科举产生的文凭主义今天仍然盛行，很多官员都声称拥有博士学位。科举对整个社会的影响是巨大的，它需要男性人口投入大量的时间、精力和认知投资。国家垄断了最好的人力资本，间接剥夺了社会获得人才的机会，巩固了帝国的专制制度。科举是早熟的产物，是反流动性的流动渠道，将所有的向上流动性集中在国家所占有的一个渠道内。社会被排挤，随着时间的推移，由于缺乏优秀的人力资本，社会开始萎缩。这是专制力量的根源。科举推动了知识的普及，在明朝真正的文盲可能少之又少。但与此同时，帝国从未出现过有组织的知识学派，类似英国皇家学会之类的机构。宋朝的东林书院随着起创办人的去世而消失，明朝的东林党被宦官镇压，只存在了 22 年。帝国有很多知识分子，但缺乏知识阶级。科举是中国不成熟社会的早熟产物，它垄断了考生的时间和精力。明朝的数据显示，通过会试的考生平均年龄为 32 岁，而当时中国人口的平均寿命要比今天短得多。以归有光（1507年1月6日—1571年2月5日）为例，他 34 岁通过乡试，59 岁才考取进士，64 岁去世。对他以及许多人来说，科举是一生的事业。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老司机 iOS 周报 #264 | 2023-10-23]]></title>
-        <id>https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23264</id>
-        <link href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23264"/>
-        <updated>2023-10-22T15:14:49.000Z</updated>
-        <summary type="html"><![CDATA[你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
-文章
-🌟 🐎 云音乐如何「搭」出新首页
-@JonyFang：本文介绍了云音乐如何通过可视化搭建系统支撑新版首页这样的核心场景，提出一套基于性能、动态化和精细化运营角度的解决方案。文章还探讨了动态化能力的重要性、各种动态化方案的能力和性能表现、针对不同业务诉求做出合适选择的必要性。
-🌟 🐕 【iOS】一段防护代码引发的内存风暴
-@Cooper Chen：本文详细描述了腾讯音乐在一次防护代码导致的 OOM 问题上进行排查的过程，不仅详细解释了内存分析问题从基建到详细手段的步骤，也从另一个侧面说明了 Runloop 和 Autoreleasepool 的关系。值得一提的是，这个 OOM 问题的原因是 CF 不同版本在 __CFRunLoopDoObservers 里面遍历 observer 的实现方式不同导致，采用数组方式的高版本系统会出现上述的 OOM 问题，这对于安全气垫相关需求开发同学有着极高的参考价值。
-🌟 🐢 Swift Parameter Packs
-@享耳先森：Swift 5.9 已经发布，除了广为人知的 Macros，还有一项比较少人提到的是 Parameter Packs，本文介绍了 Parameter Packs 的三种使用场景，如想更深入的理解 Swift 5.9 的更新，建议阅读另一篇：What’s new in Swift 5.9?
-🐕 Xcode 15以下版本调试 iOS 17 设备
-@含笑饮砒霜：这是在 Apple 开发论坛上讨论的，关于无法使用 Xcode 14.x 版本调试 iOS 17 设备的问题。最终找到一个行之有效的可行路径。先在终端中运行 defau…]]></summary>
-        <author>
-            <name>Release notes from iOS-Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老司机 iOS 周报 #264 | 2023-10-23]]></title>
-        <id>https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23264</id>
-        <link href="https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23264"/>
-        <updated>2023-10-22T15:14:49.000Z</updated>
-        <summary type="html"><![CDATA[你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。
-文章
-🌟 🐎 云音乐如何「搭」出新首页
-@JonyFang：本文介绍了云音乐如何通过可视化搭建系统支撑新版首页这样的核心场景，提出一套基于性能、动态化和精细化运营角度的解决方案。文章还探讨了动态化能力的重要性、各种动态化方案的能力和性能表现、针对不同业务诉求做出合适选择的必要性。
-🌟 🐕 【iOS】一段防护代码引发的内存风暴
-@Cooper Chen：本文详细描述了腾讯音乐在一次防护代码导致的 OOM 问题上进行排查的过程，不仅详细解释了内存分析问题从基建到详细手段的步骤，也从另一个侧面说明了 Runloop 和 Autoreleasepool 的关系。值得一提的是，这个 OOM 问题的原因是 CF 不同版本在 __CFRunLoopDoObservers 里面遍历 observer 的实现方式不同导致，采用数组方式的高版本系统会出现上述的 OOM 问题，这对于安全气垫相关需求开发同学有着极高的参考价值。
-🌟 🐢 Swift Parameter Packs
-@享耳先森：Swift 5.9 已经发布，除了广为人知的 Macros，还有一项比较少人提到的是 Parameter Packs，本文介绍了 Parameter Packs 的三种使用场景，如想更深入的理解 Swift 5.9 的更新，建议阅读另一篇：What’s new in Swift 5.9?
-🐕 Xcode 15以下版本调试 iOS 17 设备
-@含笑饮砒霜：这是在 Apple 开发论坛上讨论的，关于无法使用 Xcode 14.x 版本调试 iOS 17 设备的问题。最终找到一个行之有效的可行路径。先在终端中运行 defau…]]></summary>
-        <author>
-            <name>Release notes from iOS-Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[余承东的起死回生，全靠“学习”爱马仕？]]></title>
-        <id>https://news.cnblogs.com/n/752353/</id>
-        <link href="https://news.cnblogs.com/n/752353/"/>
-        <updated>2023-10-22T14:11:00.000Z</updated>
-        <summary type="html"><![CDATA[出品丨虎嗅汽车组 作者丨周到 编辑丨张博文 头图丨视觉中国 从盘桓于谷底到一飞冲天，余承东和问界汽车在过去半年的日子，过得相当戏剧化。 在销量持续“半死不活”超过 6 个月后，问界 M7 随着新款大 5 座车型的发布迎来了起飞。在 9 月 12 日发布会后，当月交付量冲到了 5248 辆。 更“可怕
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有关部门依法对富士康旗下企业进行税务稽查和用地情况调查]]></title>
-        <id>https://news.cnblogs.com/n/752351/</id>
-        <link href="https://news.cnblogs.com/n/752351/"/>
-        <updated>2023-10-22T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[环球时报-环球网报道记者邢晓婧 刘欣 22 日，《环球时报》记者从消息人士处独家获悉，税务部门近期依法对富士康集团在广东、江苏等地的重点企业进行税务稽查，自然资源部门对富士康在河南、湖北等地的重点企业用地情况进行现场调查。 税务部门对富士康旗下企业税务稽查资料图 厦门大学台湾研究院副院长张文生 20
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
