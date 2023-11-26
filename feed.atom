@@ -2,10 +2,225 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T01:01:45.168Z</updated>
+    <updated>2023-11-26T01:08:47.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科学家探测到逾三十年以来最强宇宙射线]]></title>
+        <id>https://news.cnblogs.com/n/754306/</id>
+        <link href="https://news.cnblogs.com/n/754306/"/>
+        <updated>2023-11-25T13:39:38.000Z</updated>
+        <summary type="html"><![CDATA[科学家探测到逾三十年来能量最强的宇宙射线，研究报告发表在《科学》期刊上。其确切来源未知，部分科学家猜测可能是由未知物理现象产生的。至今探测到的最强宇宙射线是 1991 年发现的 Oh-My-God 粒子，其能量高达 320 EeV（1 EeV 等于 10^18 伏）。最新探测到的宇宙射线能量为 24
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIMP 3.0 计划在 2024 年 5 月发布]]></title>
+        <id>https://news.cnblogs.com/n/754305/</id>
+        <link href="https://news.cnblogs.com/n/754305/"/>
+        <updated>2023-11-25T13:37:25.000Z</updated>
+        <summary type="html"><![CDATA[图像编辑自由软件项目 GIMP 宣布备受期待的 GIMP 3.0 计划在 2024 年 5 月发布。开发者今年初的计划是 2023 年内释出的。GIMP 项目主开发和维护者 Jehan Pages 在 Patreon 上宣布了这一消息，功能冻结定在 12 月中旬，之后用约 5 个月时间修 bug。 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.3 释出]]></title>
+        <id>https://news.cnblogs.com/n/754304/</id>
+        <link href="https://news.cnblogs.com/n/754304/"/>
+        <updated>2023-11-25T13:36:21.000Z</updated>
+        <summary type="html"><![CDATA[PHP 语言释出了 8.3 版本。主要新特性包括：类型化类常量，动态获取类常量，新增 #[\Override] 属性，只读属性深拷贝，新增 json_validate () 函数，新增 Randomizer::getBytesFromString () 方法，新增 Randomizer::getFl
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度地图AI向导大升级：多个目的地一句话搞定]]></title>
+        <id>https://news.cnblogs.com/n/754303/</id>
+        <link href="https://news.cnblogs.com/n/754303/"/>
+        <updated>2023-11-25T13:30:19.000Z</updated>
+        <summary type="html"><![CDATA[快科技 11 月 25 日消息，百度地图升级“AI 向导”功能，规划多个目的地一句话就能搞定。 过去，当我们有多个目的地需要规划一条路线时，需要通过手动一条条添加途径点来解决。 现在，喊一声“小度小度”，告诉 TA 想去哪里，要路过哪里。 例如说一句“我想去星巴克，路上加个油”就能直接生成路线。 想
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最大冰山加速移动]]></title>
+        <id>https://www.solidot.org/story?sid=76720</id>
+        <link href="https://www.solidot.org/story?sid=76720"/>
+        <updated>2023-11-25T10:23:42.000Z</updated>
+        <summary type="html"><![CDATA[科学家 24 日观测到名为 A23a 的南极冰山开始向大洋移动，这是该冰山自 1986 年脱离南极海岸线后三十多年来的首次移动，脱离之后它搁浅在 Weddell 海。该冰山面积接近 4000 平方公里，是目前世界上最大的冰山。科学家表示，这座冰山从 2020 年开始以极缓慢的速度移动，现在移动速速开始加快，照此下去，冰山可能对非洲南部的海上运输造成影响。因此将密切关注其运动轨迹。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notepad++ 发布二十周年]]></title>
+        <id>https://www.solidot.org/story?sid=76719</id>
+        <link href="https://www.solidot.org/story?sid=76719"/>
+        <updated>2023-11-25T09:58:52.000Z</updated>
+        <summary type="html"><![CDATA[开源文本编辑器 Notepad++ 释出了 v8.6，庆祝发布二十周年。2003 年 11 月 23 日 Notepad++ 在托管平台 SourceForge 释出了 v1.0 版本。从 v1.0 到 v8.6，Notepad++ 项目共发布了 238 个正式版本，其中排除了因为严重 bug 而撤回的版本。开发者侯今吾说，项目一开始，从编程到网页设计到推广到 logo 设计到用户交互都是一个人，好消息坏消息都是所有事情一个人干。随着 Notepad++ 的流行，他不再需要一个人干所有事情了，一个社区形成了。他向所有贡献者表示了感谢。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国展示申威 SW26010-Pro 处理器]]></title>
+        <id>https://www.solidot.org/story?sid=76718</id>
+        <link href="https://www.solidot.org/story?sid=76718"/>
+        <updated>2023-11-25T09:30:30.000Z</updated>
+        <summary type="html"><![CDATA[在 Supercomputing 23 上，申威介绍了神威太湖之光使用的申威处理器 SW26010 的升级版本 SW26010-Pro。神威太湖之光目前排名 Top 500 超算榜单的第 11 名，使用新处理器的神威海洋之光能排在第二名，仅次于美国橡树岭国家实验室的 Frontier 超算。SW26010 完成研发是在 2016 年，而 SW26010-Pro 是在 2020-2021 年。两者的基本架构相同，SW26010-Pro 由 6 个核心组（Core Groups）和 1 个协议处理单元（PPU）构成，每个核心组包含 64 个计算处理元素，相比下 SW26010 只有 4 个核心组，它支持的内存控制器从 DDR3 升级到 DDR4-3200。每个核心组都有自己的内存控制器，配备 16 GB 内存，理论带宽 307.2 GB/s，一个芯片能访问  96 GB 主内存，相比 SW26010 的 32 GB 有显著提升。核心组每个核心共享 8 MB L2 缓存。它的峰值 FP64 性能达到了 13.8 TFLOPS，相比下上一代 SW26010 为 2.9 TFLOPS，性能翻了两翻。但它的内存带宽未能与计算吞吐量相匹配，内存带宽成为了它的性能瓶颈。神威海洋之光包含了 107,136 个 SW26010-Pro 处理器节点，峰值 FP64 性能 1481.05 Pflop/s，仅次于 Frontier 的 1821.84 Pflop/s。分析师认为，在实际任务中芯片需要大量的优化工作，它的纸面计算性能很强，像是为了完成某个指标，而不是为了更快解决现实中的计算问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[茅台鸡尾酒官宣，周杰伦代言，每瓶 539 元]]></title>
+        <id>https://news.cnblogs.com/n/754301/</id>
+        <link href="https://news.cnblogs.com/n/754301/"/>
+        <updated>2023-11-25T03:25:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，茅台生态农业公司与 MOJT 莫其托在厦门举办了「微醺时代」新品发布会，宣布推出共同研发的「贵州味道」系列鸡尾酒：辛辣贝瑞、蓝莓酸、蓝莓丝令。 此次，茅台不仅带来了年轻人喜爱的鸡尾酒，还选择了周杰伦作为产品代言人及首席品鉴官，相关话题一度冲上微博热搜。 据悉，「贵州味道」系列鸡尾酒市场建议零售
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长安汽车最新回应：网传入股华为车 BU 信息「不属实」]]></title>
+        <id>https://news.cnblogs.com/n/754300/</id>
+        <link href="https://news.cnblogs.com/n/754300/"/>
+        <updated>2023-11-25T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[11 月 23 日，网传长安 3000 亿元入股华为智能汽车解决方案 BU，当日长安汽车股价一度逼近涨停。 据第一财经报道，昨日，长安汽车战略规划部门负责人向记者表示，长安汽车与华为已建立战略合作，双方在阿维塔、深蓝汽车上均有深度合作，但网络流传信息与事实不符。 23 日，有消息称，车 BU 将从华
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马云成立马家厨房公司]]></title>
+        <id>https://news.cnblogs.com/n/754299/</id>
+        <link href="https://news.cnblogs.com/n/754299/"/>
+        <updated>2023-11-25T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[国家企业信用信息公示系统网站显示，11 月 22 日，杭州马家厨房食品有限公司成立，法定代表人为 PAU JASON JOHN，注册资本 1000 万人民币。 经营范围含食品销售（仅销售预包装食品）、货物进出口、食用农产品批发、日用品批发、酒店管理、技术服务等。 其中，经营范围中的「销售预包装食品」
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[截至今年第三季度，国内手机均价已达 3480 元]]></title>
+        <id>https://news.cnblogs.com/n/754298/</id>
+        <link href="https://news.cnblogs.com/n/754298/"/>
+        <updated>2023-11-25T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[市场调研机构「GfK 中国」发布 2023 年第三季度市场报告。数据显示，今年中国手机市场整体销量预计为 2.7 亿台，与去年基本持平，2024 年将有一定回暖，但整体增幅不大。 同时，各个渠道的表现也存在差异：线上市场销量相对较为稳定，线下销量有一定程度的下滑。 报告指出，中国手机市场的均价在 2
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为无人代客泊车视频曝光，可自动泊车、接驾、倒车避让]]></title>
+        <id>https://news.cnblogs.com/n/754297/</id>
+        <link href="https://news.cnblogs.com/n/754297/"/>
+        <updated>2023-11-25T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[昨日，一段智界 S7 无人代客泊车视频曝光。视频中，在无人驾驶的状态下，智界 S7 熟练完成礼让行人、倒车避让、极限会车、自动泊车、自动接驾等一系列操作。 此前，在 11 月 9 日的华为智慧出行发布会上，余承东宣布智界 S7 首发无人代客泊车，支持主动避障、随叫随到。 智界 S7 为华为与奇瑞联合
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达推迟发布中国特供版 H20 AI 芯片]]></title>
+        <id>https://news.cnblogs.com/n/754296/</id>
+        <link href="https://news.cnblogs.com/n/754296/"/>
+        <updated>2023-11-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[据路透社报道，消息人士透露，英伟达已告知中国客户，其专为中国区设计的 HGX H20 AI 芯片，推迟到明年第一季度推出。 据芯片咨询公司 SemiAnalysis 本月报道，英伟达现已开发出针对中国区的最新改良版系列芯片：HGX H20、L20 PCle 和 L2 PCle，最早将于 11 月 1
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果获 iPhone 新专利：屏幕内嵌电动滤光器，防止被窥]]></title>
+        <id>https://news.cnblogs.com/n/754295/</id>
+        <link href="https://news.cnblogs.com/n/754295/"/>
+        <updated>2023-11-25T02:55:00.000Z</updated>
+        <summary type="html"><![CDATA[美国商标和专利局（USPTO）近日授予苹果公司一项关于关于 iPhone 的设计专利，通过在屏幕内嵌「电控滤光器」，可以控制屏幕的偏振程度。 具体来说，这项专利旨在通过在屏幕中间添加一个偏振层来增强隐私保护。 这个偏振层可以过滤某些颜色，确保屏幕只有从正面看时才能完全显示。 在常规模式下，屏幕正常显
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[它号称 ChatGPT 最强平替，大更新后表现如何]]></title>
+        <id>https://news.cnblogs.com/n/754294/</id>
+        <link href="https://news.cnblogs.com/n/754294/"/>
+        <updated>2023-11-25T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[如果问当下最强的 AI 助手是哪个？那毋庸置疑，绝对是 ChatGPT。 前不久 ChatGPT 猝不及防地崩了，直接在网上炸出一大批重度用户。靠它完成作业的的学生党，一时之间面对论文无从下笔，靠它「续命」的打工人更是连班都不想上了。 今年以来，ChatGPT 每隔一段时间就会「暴毙」，号称其最强平
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉一个月涨价 4 次，它可能憋了一个「大招」]]></title>
+        <id>https://news.cnblogs.com/n/754293/</id>
+        <link href="https://news.cnblogs.com/n/754293/"/>
+        <updated>2023-11-25T02:42:00.000Z</updated>
+        <summary type="html"><![CDATA[近 1 个月的时间里，特斯拉涨了 4 次价。 10 月 27 日，Model Y 高性能版价格上调 1.4 万元 11 月 9 日，Model 3 长续航焕新版价格上调 1500 元，Model Y 长续航版价格上调 2500 元 11 月 14 日，Model 3 焕新版价格上调 1500 元，M
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年IEEE Fellow名单揭晓：「视觉智能」领域十余位华人学者入选！]]></title>
+        <id>https://news.cnblogs.com/n/754292/</id>
+        <link href="https://news.cnblogs.com/n/754292/"/>
+        <updated>2023-11-25T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，国际电气与电子工程师协会（IEEE）公布了 2024 年新晋 Fellow 名单。 本次共从被提名的 949 名候选人中选出 323 名 IEEE Fellow，其中华人学者有 116 位，占总人数的 36% 左右。 IEEE Fellow 是 IEEE 授予成员的最高荣誉，每年由 IEEE 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 8 极致性能优化 Non-GC Heap]]></title>
+        <id>https://news.cnblogs.com/n/754291/</id>
+        <link href="https://news.cnblogs.com/n/754291/"/>
+        <updated>2023-11-25T02:28:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 .NET8 里面 JIT 引入了一个新的机制，叫做 Non-GC Heap。JIT 可以确保相关对象分配在 Non-GC Heap 上，该堆像其名称一样，不受 GC 管理。JIT 需要保证这个对象没有被 GC 引用，并且在这个对象的生命周期内一直是根对象 (不会被 GC 消灭的对象) 的状态。
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 遭遇 DDoS 攻击]]></title>
+        <id>https://www.solidot.org/story?sid=76716</id>
+        <link href="https://www.solidot.org/story?sid=76716"/>
+        <updated>2023-11-24T13:53:11.000Z</updated>
+        <summary type="html"><![CDATA[从 11 月 18 日到 22 日，3D 开源建模软件项目 Blender 遭遇了持续五天的 DDoS 攻击，网站还一度下线。目前未知攻击者发起者身份及其动机，攻击者专注于发动拒绝服务攻击，因此项目和用户数据未受影响。Blender  是通过迁移到 CloudFlare 的 DDoS 缓解服务之后才解决问题。攻击在 23 日停止，网站恢复正常。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.3 释出]]></title>
+        <id>https://www.solidot.org/story?sid=76715</id>
+        <link href="https://www.solidot.org/story?sid=76715"/>
+        <updated>2023-11-24T12:46:05.000Z</updated>
+        <summary type="html"><![CDATA[PHP 语言释出了 8.3 版本。主要新特性包括：类型化类常量，动态获取类常量，新增 #[\Override] 属性，只读属性深拷贝，新增 json_validate() 函数，新增 Randomizer::getBytesFromString() 方法，新增 Randomizer::getFloat() 和 Randomizer::nextFloat() 方法，命令行 linter 支持多个文件，新的类、接口和函数，此外还有性能改进、bug 修复等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GIMP 3.0 计划在 2024 年 5 月发布]]></title>
         <id>https://www.solidot.org/story?sid=76714</id>
@@ -10385,422 +10600,6 @@ GPT-4 发布会演示 （图源网络）
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新东方2024财年第一季度净利润1.65亿美元 同比增长150%]]></title>
-        <id>https://news.cnblogs.com/n/752707/</id>
-        <link href="https://news.cnblogs.com/n/752707/"/>
-        <updated>2023-10-27T10:13:19.000Z</updated>
-        <summary type="html"><![CDATA[10 月 26 日消息，新东方发布截至 2023 年 8 月 31 日止的 2024 财年第一季度财务业绩，该季度新东方净营收 11 亿美元，同比增长 47.7%；经营利润 2.051 亿美元，同比增长 163.0%； 股东应占净利润 1.654 亿美元，同比增长 150.6%。 新东方董事会执行主
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波士顿动力公司利用ChatGPT将Spot机器狗变成会说话的导游]]></title>
-        <id>https://news.cnblogs.com/n/752706/</id>
-        <link href="https://news.cnblogs.com/n/752706/"/>
-        <updated>2023-10-27T10:09:12.000Z</updated>
-        <summary type="html"><![CDATA[10 月 27 日消息，据外媒报道，当地时间周四，韩国现代汽车公司旗下的人形机器人公司波士顿动力（Boston Dynamics）在 YouTube 上分享了一段 8 分钟的新视频，展示了其四足机器人 Spot 的语言能力，这要归功于 ChatGPT。 视频显示，该公司的 Spot 化身“导游”，用
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昆仑万维前三季度净利润3.3亿元 不再对AI上下游行业外进行控股型投资]]></title>
-        <id>https://news.cnblogs.com/n/752705/</id>
-        <link href="https://news.cnblogs.com/n/752705/"/>
-        <updated>2023-10-27T10:08:11.000Z</updated>
-        <summary type="html"><![CDATA[10 月 27 日消息，昆仑万维发布了 2023 年第三季度及前 3 季度业绩报告。 第三季度，昆仑万维营业收入 12.6 亿元，同比增长 9.27%；归属于上市公司股东的净亏损为 2983 万元；归属于上市公司股东的扣除非经常性损益的净亏损为 3729 万元。 今年前三季度，昆仑万维营业收入 36
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯格称 Threads App 月活用户数接近一亿]]></title>
-        <id>https://www.solidot.org/story?sid=76465</id>
-        <link href="https://www.solidot.org/story?sid=76465"/>
-        <updated>2023-10-27T10:07:18.000Z</updated>
-        <summary type="html"><![CDATA[在 Meta 季度财报电话会议上，CEO 扎克伯格 (Mark Zuckerberg) 披露了旗下微博客应用 Threads 的最新数据，称 Threads 的月活跃用户数接近一亿。Threads 在推出不到一周的时间里注册用户就超过了一亿人，此后增长放缓。一亿活跃用户要比注册用户一亿瞩目得多，该服务目前尚未向欧盟用户开放使用。扎克伯格表示，Meta 的目标是让 Threads 成为十亿用户的公共对话平台，比其竞争对手（aka X/Twitter）要更为积极正面些。鉴于马斯克（Elon Musk）在 X 平台上的各种受争议行为，扎克伯格设定的要求是非常低的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本核聚变装置初期实验取得成功]]></title>
-        <id>https://news.cnblogs.com/n/752704/</id>
-        <link href="https://news.cnblogs.com/n/752704/"/>
-        <updated>2023-10-27T10:06:45.000Z</updated>
-        <summary type="html"><![CDATA[日本量子科学技术研究开发机构宣布，以实现可控核聚变目标的实验设施 JT-60SA 初期实验取得成功，实现了被称为“First Plasma”的第一阶段目标。JT-60SA 于 2020 年在茨城县建成。该设施为稳定维持核聚变反应所需的高温等离子体而积累相关知识，可对国际联合计划“国际热核聚变实验堆（
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗马教宗鼓励儿童学习编程]]></title>
-        <id>https://news.cnblogs.com/n/752703/</id>
-        <link href="https://news.cnblogs.com/n/752703/"/>
-        <updated>2023-10-27T10:06:03.000Z</updated>
-        <summary type="html"><![CDATA[罗马教宗方济各（Pope Francis）支持了一项旨在鼓励儿童学习编程的全球项目。Code with Pope 将通过免费的在线学习平台 Codeforia 为欧洲、非洲和拉美 11-15 岁的学生提供 Python 编程教育，弥合全球“教育上明显的差距”。项目发起人是 Cosmose AI 创始
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理想发文回应理想L9失控致1死3伤事故：不存在车机失控问题]]></title>
-        <id>https://news.cnblogs.com/n/752702/</id>
-        <link href="https://news.cnblogs.com/n/752702/"/>
-        <updated>2023-10-27T10:05:05.000Z</updated>
-        <summary type="html"><![CDATA[10 月 27 日消息，近日在山西太原发生了一起“理想 L9 高速路事故致 1 死 3 伤”的事故，一时间引起了不小的关注。同时有家属在一理想汽车专卖店前维护权益，车上写着：“理想汽车，车机失控，车毁人亡”。 据了解，该事故发生在 2023 年 7 月 27 日，根据维权家属的描述，“当时这台理想 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新神经网络在语言归纳能力上接近人类]]></title>
-        <id>https://news.cnblogs.com/n/752701/</id>
-        <link href="https://news.cnblogs.com/n/752701/"/>
-        <updated>2023-10-27T10:03:45.000Z</updated>
-        <summary type="html"><![CDATA[研究人员在 AI 领域取得了一项突破，他们开发出一种神经网络系统，具有类似人类的语言归纳能力。AI 系统能将新学到的单词应用于现有词汇和新的上下文背景中。这种能力被称为系统归纳，是人类认知的重要组成部分。研究人员测试了 ChatGPT 使用的模型，虽然 ChatGPT 具有令人称奇的自然语言对话能力
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 公布了实现 no-GIL Python 的计划]]></title>
-        <id>https://news.cnblogs.com/n/752700/</id>
-        <link href="https://news.cnblogs.com/n/752700/"/>
-        <updated>2023-10-27T10:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Python 指导委员会宣布接受 PEP 703（Making the Global Interpreter Lock Optional，让全局解释器锁成为可选），公布了实现 no-GIL（或称为自由线程）Python 详细的路线图。CPython 的全局解释器锁（GIL）阻止了同时多线程执行代码，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肾结石治疗取得突破]]></title>
-        <id>https://www.solidot.org/story?sid=76464</id>
-        <link href="https://www.solidot.org/story?sid=76464"/>
-        <updated>2023-10-27T09:35:33.000Z</updated>
-        <summary type="html"><![CDATA[华盛顿大学医学院在肾结石治疗上取得了突破。新的粉碎肾结石技术被称为 burst wave lithotripsy，使用了超声波扫描枪和声波，可以在患者清醒的情况下粉碎结石，无需麻醉，能在 10 分钟或更短时间内缓解患者的痛苦。这项技术也有助于宇航员前往火星，因为长时间太空飞行的宇航员有更高的风险患结石。NASA 在过去十年一直在资助这项研究。这项技术目前处于临床试验阶段。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 首席科学家 Ilya Sutskever 谈对人工智能未来的担忧]]></title>
-        <id>https://news.cnblogs.com/n/752699/</id>
-        <link href="https://news.cnblogs.com/n/752699/"/>
-        <updated>2023-10-27T09:29:00.000Z</updated>
-        <summary type="html"><![CDATA[据《麻省理工科技评论》，OpenAI 联合创始人兼首席科学家 Ilya Sutskever 表示： 他目前的首要任务不是构建下一代 GPT 模型或图像制作工具 DALL-E，而是找出如何阻止人工智能失控的方法。 他与 OpenAI 的同事 Jan Leike 一起组建了一个团队，专注于研究他们所谓的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac将迎来一大波更新 ？不用熬夜的苹果发布会，或将发布这些新品]]></title>
-        <id>https://news.cnblogs.com/n/752698/</id>
-        <link href="https://news.cnblogs.com/n/752698/"/>
-        <updated>2023-10-27T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[「One More Thing」虽迟但到，苹果今年的最后一场新品发布会要来了。 「这一次，我们早上见」。苹果难得地照顾了早睡人，将于北京时间 10 月 31 日的上午 8 点召开线上发布会。 邀请函隐藏了不少彩蛋，比如 Apple Logo 最后变换成 Happy Mac 笑脸，也就是常见的 Fin
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩托罗拉展示全新可弯曲概念手机]]></title>
-        <id>https://news.cnblogs.com/n/752697/</id>
-        <link href="https://news.cnblogs.com/n/752697/"/>
-        <updated>2023-10-27T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[在联想科技世界大会上，摩托罗拉创新研究团队的 Lexi Valasek 展示了 Moto 最新的可弯曲概念手机。 这款概念手机配备了柔性 OLED 屏幕，能向后弯曲，像手镯一样环绕在手腕上。 与 2016 年展示的版本相比，新款柔性概念手机在设计和功能上都有所进步，可以实现更多的操作。 这款手机的背
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆发布 Osmo Pocket 3 口袋云台相机]]></title>
-        <id>https://news.cnblogs.com/n/752696/</id>
-        <link href="https://news.cnblogs.com/n/752696/"/>
-        <updated>2023-10-27T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大疆发布全新口袋云台相机 —— Osmo Pocket 3，售价 3499 元起。 据介绍，Osmo Pocket 3 采用云台增稳技术，搭载 1 英寸 CMOS 传感器，等效像素尺寸可达 3.2μm，配备 f / 2.0 光圈镜头，等效 20mm 焦段，用户可拍摄 4K / 120fps 高清流畅
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米 14即将首发高通骁龙8 Gen3 ，和往年8系旗舰芯片有点不一样]]></title>
-        <id>https://news.cnblogs.com/n/752695/</id>
-        <link href="https://news.cnblogs.com/n/752695/"/>
-        <updated>2023-10-27T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[虽然本次 2023 高通骁龙峰会上，PC 芯片骁龙 X Elite 抢走了骁龙 8 Gen3 的不少风头，不过只此一份的 Android 手机旗舰芯片，加上马上就是小米 14 系列的首发以及性能解禁，也帮骁龙 8 Gen3 挣回了热度。 节奏提前，AI 当道，今年的骁龙 8 Gen3，和往年的 8 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新势力想要拉满仪式感，还得向百年车企取取经]]></title>
-        <id>https://news.cnblogs.com/n/752694/</id>
-        <link href="https://news.cnblogs.com/n/752694/"/>
-        <updated>2023-10-27T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[世界上没有足够的黑暗来熄灭哪怕一根小蜡烛的光。—— 罗伯特 · 奥尔登 蜡烛作为一种光源，不仅能用来照明，温暖柔和的烛光也是友谊和好客的一种延伸。 在爱尔兰，旅馆窗台上摇曳的烛光，是一道古老的讯号，代表这家旅馆仍有空余的房间可以接待旅人。这种富有人情味的的传统，后来还流传到许多酒店和无数个家庭中。 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[又一家新势力与巨头车企达成合作，零跑的「技术批发」成了]]></title>
-        <id>https://news.cnblogs.com/n/752693/</id>
-        <link href="https://news.cnblogs.com/n/752693/"/>
-        <updated>2023-10-27T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[今早，Stellantis 集团与零跑汽车正式达成战略合作。Stellantis 集团将投资 15 亿欧元（约合人民币 116 亿元）获取零跑汽车 20% 的股权，成为战略股东。 作为交易的一部分，Stellantis 和零跑汽车计划以 51:49 的比例，共同组建「零跑国际」合资企业。双方的合作关
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚，最「卷」物流企业极兔上市：4 年干到东南亚第一、3 年干到中国第五]]></title>
-        <id>https://news.cnblogs.com/n/752692/</id>
-        <link href="https://news.cnblogs.com/n/752692/"/>
-        <updated>2023-10-27T08:22:00.000Z</updated>
-        <summary type="html"><![CDATA[摘要 步步高出钱出力，创始人敢想敢做。 10 月 27 日，极兔速递在港交所正式挂牌上市。上市发行价最终定于 12 港元/股，IPO 募资超过 50 亿港元，按发行价计算上市后的极兔总市值达到 1057 亿港元（约合人民币 989 亿元）。是除中通（约 191 亿美元）、顺丰（约 1919 亿元人民
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能驾驶，终于从PPT变成了竞争力]]></title>
-        <id>https://news.cnblogs.com/n/752691/</id>
-        <link href="https://news.cnblogs.com/n/752691/"/>
-        <updated>2023-10-27T08:17:27.000Z</updated>
-        <summary type="html"><![CDATA[摘要 降价大法好。 「你会为智能驾驶功能花钱买单吗？」 这原本是一个再正常不过的关于智能汽车产品功能卖点的讨论，不过在很长一段时间里，它其实并没有被认真讨论的价值。 最根本的原因有以下两点。 第一，前些年关于智能电动汽车的讨论还主要集中在「电动化」层面，补能才是大部分消费者的最大公约焦虑因素。所以，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铠侠和西数的合并谈判中断]]></title>
-        <id>https://www.solidot.org/story?sid=76463</id>
-        <link href="https://www.solidot.org/story?sid=76463"/>
-        <updated>2023-10-27T07:46:26.000Z</updated>
-        <summary type="html"><![CDATA[前身为东芝半导体业务部门的铠侠控股与合作方美国西部数据公司推进的经营合并磋商已经中断。原因是未能获得向铠侠间接出资的韩国SK海力士的同意，合并的必要条件尚未齐备。由于面向智能手机等的产品需求低迷，半导体存储器市场行情恶化。如果无法实现合并，就不得不调整通过经营合理化谋求生存的战略。相关人士透露称依然有重启磋商的可能性，情况存在变数。合并后的新公司预计将与韩国三星电子比肩，成为全球规模最大的半导体存储器厂商。SK海力士对出现新的强大竞争对手保持警惕。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Mint 准备支持 Wayland]]></title>
-        <id>https://www.solidot.org/story?sid=76462</id>
-        <link href="https://www.solidot.org/story?sid=76462"/>
-        <updated>2023-10-27T06:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Debian 发行版总是用《玩具总动员》系列中的玩具名字命名，《玩具总动员》中有一个小男孩叫 Sid，他会去破坏玩具，因此 Debian 用 Sid 命名它的不稳定分支，Sid 会破坏玩具，破坏 Debian，因此 Sid 中的软件包是不稳定的。基于 Debian 的发行版 Linux Mint 用女孩的名字命名，每个版本都有她的罗密欧（Romeo），罗密欧会伤她的心，因此罗密欧中的软件包是不稳定的。开发者表示，如果用户想要帮助他们测试不稳定的软件，可以在 Software Sources 中启用罗密欧。开发者同时表示，Linux Mint 准备支持 Wayland，但短时间内不会用它替代 Xorg。Cinnamon 6.0 将提供对 Wayland 的实验性支持，默认仍然是 Xorg。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaijin 开源 《战争雷霆》使用的引擎]]></title>
-        <id>https://www.solidot.org/story?sid=76461</id>
-        <link href="https://www.solidot.org/story?sid=76461"/>
-        <updated>2023-10-27T05:58:38.000Z</updated>
-        <summary type="html"><![CDATA[在俄罗斯创办、目前总部位于匈牙利的游戏开发商 Gaijin Entertainment 开源了它的热门战争类网游《战争雷霆》使用的 Dagor 引擎，源代码采用 BSD 3-Clause 许可证托管在 GitHub 上。这意味着其他人几乎可以不受限制的修改和使用该引擎。《战争雷霆》于 2012 年上线，国区版本此前由腾讯代理。在上线十多年之后，根据 Steam 的统计数据，它的同时在线玩家仍然有 2.5 万以上，是 Steam 上最热门的游戏之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客能利用旁路攻击让 Safari 泄露密码]]></title>
-        <id>https://www.solidot.org/story?sid=76460</id>
-        <link href="https://www.solidot.org/story?sid=76460"/>
-        <updated>2023-10-27T05:46:47.000Z</updated>
-        <summary type="html"><![CDATA[研究人员披露了针对 Mac、iPad 和 iPhone 上 Safari 浏览器的瞬态执行旁路攻击，并将其命名为 iLeakage。利用 iLeakage，攻击者可以在用户浏览恶意网页时通过预测执行获取其它网页的敏感信息如密码。CPU 预测执行漏洞 Spectre 自六年前披露以来，虽然主要芯片供应商英特尔和 AMD 等公司采取了措施缓解漏洞，但新的漏洞利用仍然不断的被发现。iLeakage 利用的是苹果设备使用的 A 和 M 系列 CPU 的旁路漏洞，研究人员利用它成功恢复了 YouTube 观看历史记录和 Gmail 收件箱内容（登录状态下）以及密码管理器 LastPass 自动填充的  Instagram 密码。该漏洞预计影响所有苹果设备，苹果已经实现了缓解措施，但尚未默认启用，目前仅能在  macOS Ventura 13.0 以及更高版本中启用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火星或曾是河流星球]]></title>
-        <id>https://news.cnblogs.com/n/752656/</id>
-        <link href="https://news.cnblogs.com/n/752656/"/>
-        <updated>2023-10-27T00:48:19.000Z</updated>
-        <summary type="html"><![CDATA[科技日报北京 10 月 26 日电 （记者刘霞）美国科学家对“好奇”号火星车传回的数据开展分析后发现，火星上的大部分陨石坑可能曾经是适宜生命居住的河流，火星可能曾经是一个河流星球。相关论文发表于最新一期《地球物理研究快报》杂志。 在最新研究中，美国宾夕法尼亚州立大学地球科学助理教授本杰明·卡德纳斯等
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[导致晕车的脑细胞找到]]></title>
-        <id>https://news.cnblogs.com/n/752655/</id>
-        <link href="https://news.cnblogs.com/n/752655/"/>
-        <updated>2023-10-27T00:34:14.000Z</updated>
-        <summary type="html"><![CDATA[科技日报北京 10 月 26 日电 （记者张佳欣）一项在老鼠身上进行的新研究可能解开了困扰部分人许久的谜团——晕动病。据最新一期《美国国家科学院院刊》报道，西班牙巴塞罗那自治大学的研究人员表示，他们已经弄清楚大脑中的哪些细胞会误解内耳、眼睛和腿部的感觉信号，从而导致令人痛苦的晕动病。研究结果表明，晕
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克收购Twitter满一年，为其提供贷款的银行将遭受近20亿美元的损失]]></title>
-        <id>https://news.cnblogs.com/n/752654/</id>
-        <link href="https://news.cnblogs.com/n/752654/"/>
-        <updated>2023-10-27T00:17:11.000Z</updated>
-        <summary type="html"><![CDATA[10 月 27 日消息，在特斯拉首席执行官埃隆·马斯克（Elon Musk）去年同意斥资 440 亿美元收购X（前身为推特）时，美国多家银行向其提供了 130 亿美元贷款。然而短短一年后，这些银行准备抛售这些债务，哪怕为此承受 20 亿美元的损失也在所不惜。 2022 年 10 月，包括摩根士丹利、
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澎湃OS首批仅支持两款机型被骂惨！小米高管紧急改口]]></title>
-        <id>https://news.cnblogs.com/n/752653/</id>
-        <link href="https://news.cnblogs.com/n/752653/"/>
-        <updated>2023-10-27T00:16:07.000Z</updated>
-        <summary type="html"><![CDATA[【手机中国新闻】在不久前结束的小米发布会上，除了新的小米 14 系列机型外，小米新的澎湃 OS 系统也是许多人关注的焦点。不过新系统发布会最后所公布的首批升级机型一栏中，却仅有小米 14 和 Redmi K60 至尊版两款机型，这让不少小米用户非常失望，相关微博下也聚集了不少表达不满的用户。不过不久
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊Q3营收1431亿美元 净利润99亿美元同比暴涨241%]]></title>
-        <id>https://news.cnblogs.com/n/752652/</id>
-        <link href="https://news.cnblogs.com/n/752652/"/>
-        <updated>2023-10-27T00:15:03.000Z</updated>
-        <summary type="html"><![CDATA[10 月 27 日消息，美国当地时间周四，零售巨头亚马逊公布了截至 9 月 30 日的 2023 年第三季度财报。财报显示，第三季度亚马逊营收 1431 亿美元，同比增长 13%，分析师平均预期为 1415.6 亿美元；运营利润为 112 亿美元，同比暴增 348%，分析师平均预期为 77.1 亿美
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疯狂截胡中国制造，它会是下一个“世界工厂”？]]></title>
-        <id>https://news.cnblogs.com/n/752651/</id>
-        <link href="https://news.cnblogs.com/n/752651/"/>
-        <updated>2023-10-27T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[张默从未去过墨西哥，对那里的一切都不了解，更不用说他所在的家具公司要去墨西哥北部建厂了。有多少不确定性因素，他现在还无法估算。 但全球很不稳定的经济形势，这些担忧显得有点儿微不足道。 2018 年中美贸易战后，关税和物流成本迅速上涨，张默公司一笔千万美元订单物流费用上涨了 6 倍不止，“但又不能不做
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 275 期）：彼得·蒂尔的实验]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html"/>
-        <updated>2023-10-27T00:05:35.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-令人意想不到，上图这栋看上去很时尚的建筑，竟然是印度的第三个南极考察站---- Bharathi 站，建于2012年。（via）
-彼得·蒂尔的实验
-彼得·蒂尔（Peter Thiel，1967-）是美国著名的风险投资家。
-
-他有两件事，非常有名。第一件，1998年参与创办 PayPal，四年后以15亿美元被收购，他获利5500万美元。
-第二件，他是 Facebook 的第一个投资人。2004年，Facebook 还没成立，他就给了扎克伯格50万美元。八年后，这笔投资价值20亿美元。
-他还出过一本畅销书，书名叫《从0到1》。这是2012年他的斯坦福大学创业课的讲义。
-
-今天不谈这些事情，我只想谈谈，他的一个离经叛道的实验，让我有极大的共鸣。
-这个实验就是验证，创业者到底要不要读（完）大学。
-彼得·蒂尔一直认为，很多有才华的年轻人，都被大学耽误了。 虽然他本人是斯坦福大学的文学学士和法学博士，但是他公开说，自己读完学位，只是因为不知道还能干什么。
-"我看到那些与我一样的年轻人，而感到内疚。
-你不知道自己的人生该做什么，所以你拿到了本科学位。你不知道本科学位可以做什么，所以你又拿到了研究生学位。
-我就是这样选择了法学院，那是一个人不知道还能做什么时的安全选择。我对自己的大学生活没有什么大遗憾，但如果重来一次，我会思考更多的选择。"
-他的言下之意就是，如果当年有人指点，告诉他怎么创业，他可能也会退学。
-
-2010年，他做了一个空前大胆的决定，成立"蒂尔奖学金"（Thiel Fellowship），每年资助20名左右的大学生，一人10万美元，条件是你必须退学创业。
-舆论一片哗然，指责他极其不负责任，进行错…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔第三季度营收141.6亿美元同比降8% 连续第七个季度营收同比下滑]]></title>
-        <id>https://news.cnblogs.com/n/752650/</id>
-        <link href="https://news.cnblogs.com/n/752650/"/>
-        <updated>2023-10-27T00:04:00.000Z</updated>
-        <summary type="html"><![CDATA[10 月 27 日消息，当地时间周四，英特尔公布截至 2023 年 9 月 30 日的第三季度财报。财报显示，第三季度英特尔营收 141.6 亿美元，同比下滑8%，而分析师平均预期为 135.3 亿美元；按照通用会计准则计算，第三季度英特尔净利 2.97 亿美元，同比下滑 71%，合每股盈利 0.0
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗马教宗鼓励儿童学习编程]]></title>
-        <id>https://www.solidot.org/story?sid=76459</id>
-        <link href="https://www.solidot.org/story?sid=76459"/>
-        <updated>2023-10-26T15:23:07.000Z</updated>
-        <summary type="html"><![CDATA[罗马教宗方济各（Pope Francis）支持了一项旨在鼓励儿童学习编程的全球项目。Code with Pope 将通过免费的在线学习平台 Codeforia 为欧洲、非洲和拉美 11-15 岁的学生提供 Python 编程教育，弥合全球“教育上明显的差距”。项目发起人是 Cosmose AI 创始人 Miron Mironiuk，他将在梵蒂冈与教宗见面，他表示并不期望教宗会深入了解 Python。这不是教宗第一次鼓励年轻人学编程，2019 年在非营利组织 Code.org 技术帮助下他写了一行代码。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰黑客与情报机构合作入侵俄罗斯银行]]></title>
-        <id>https://www.solidot.org/story?sid=76458</id>
-        <link href="https://www.solidot.org/story?sid=76458"/>
-        <updated>2023-10-26T15:06:40.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰黑客组织 KibOrg 和 NLB 声称成功入侵了俄罗斯最大的民营银行阿尔法银行（Alfa-Bank）。作为证据，他们在其博客上公布了阿尔法银行内部数据库的屏幕截图，以及多名俄罗斯人的私人信息。黑客称银行的数据库包含有逾 3000 万条记录，其中包括客户的姓名、出生日期、账号和电话号码。一位匿名的乌克兰情报官员表示情报机构 SBU 帮助黑客入侵了阿尔法银行。这位官员没有披露更多细节。黑客们表示将与调查记者分享从阿尔法银行获得的数据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给你的Obsidian日记增加农历、天气、节假日功能]]></title>
-        <id>https://sspai.com/post/83892</id>
-        <link href="https://sspai.com/post/83892"/>
-        <updated>2023-10-26T14:49:31.000Z</updated>
-        <summary type="html"><![CDATA[日记功能到现在有660+了，作为摄影，经常需要查看天气，但又希望很轻松就能看到天气信息，最早设计的日记模板，就带有天气Header，这个和风天气的模板一用就是2年，但因为涉及到JS文件的调用，看着那一堆代码我都不想再去改动任何部分。在Obsidian日记的使用中，一直希望如果日记功能像很多日历一样加入节假日、农历等功能，那该多cool。毕竟家人农历生日记忆起来真的痛苦。
-
-这次利用聚合数据API和Obsidian的Templater、日记功能，为日记注入节假日功能，刚好看到有节气、农历、黄历的，就一起加进来了，毕竟来都来了，加多一些也无妨。
-
-准备
-
-聚合数据API，注册后有3个免费的API，需谨慎选择，这是我选了3个万年历之后才发现的！
-Obsidian功能：核心功能-日记、第三方插件-Templater，不多说，Ob用户必备的功能了。
-
-Obsidian配置
-把日记功能和Templater功能的模板文件夹都设置到同一个文件夹上，日记功能需要具体设置到模板md文件上。
- 
-
-为Templater插件配置模板文件夹即可
-
-Templator相关功能实现
-在模板文件夹的日记模板中(案例只展示API功能)，编写代码(10来行即可)获取API数据，根据聚合数据的API接口文档发送请求，成功后会收到数据，根据相关接口文档解析，并且格式化填入到日记中。具体代码块如下：
-<%*
-    const apiKey = "填入你的API Key"
-    let apiDate = tp.date.now("YYYY-MM-DD") //日期格式需根据API的接口文档
-    let ApiAdress = "http://apis.juhe.cn/fapig/calendar/day"//API的接口文档提供
-    let apiUrl = ApiAdress + `?date=` +…]]></summary>
-        <author>
-            <name>橙猫涉影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本核聚变装置初期实验取得成功]]></title>
-        <id>https://www.solidot.org/story?sid=76457</id>
-        <link href="https://www.solidot.org/story?sid=76457"/>
-        <updated>2023-10-26T13:02:44.000Z</updated>
-        <summary type="html"><![CDATA[日本量子科学技术研究开发机构宣布，以实现可控核聚变目标的实验设施 JT-60SA 初期实验取得成功，实现了被称为“First Plasma”的第一阶段目标。JT-60SA 于 2020 年在茨城县建成。该设施为稳定维持核聚变反应所需的高温等离子体而积累相关知识，可对国际联合计划“国际热核聚变实验堆（ITER）”的技术开发进行补充。JT-60SA 的核心部分高约 16 米，直径约 13 米，在使用等离子体的聚变实验设施中，大小仅次于 ITER。实际的核聚变和发电将在建设原型堆（下一阶段任务）之后进行验证。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
