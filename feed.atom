@@ -2,10 +2,216 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T01:08:47.291Z</updated>
+    <updated>2023-11-27T01:05:13.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[细菌能储存记忆并将其代代相传]]></title>
+        <id>https://news.cnblogs.com/n/754322/</id>
+        <link href="https://news.cnblogs.com/n/754322/"/>
+        <updated>2023-11-27T01:03:50.000Z</updated>
+        <summary type="html"><![CDATA[大肠杆菌的显微镜图像。图片来源：美国国立卫生研究院 科技日报讯 （记者刘霞）美国得克萨斯大学奥斯汀分校科学家发现，包括大肠杆菌在内的一些细菌，会利用铁含量的多少存储不同行为的信息，这些信息在对某些刺激的反应中被激活。研究显示，这些由铁产生的“记忆”至少持续了四代，到第七代就消失了。最新发现在预防和对
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI神秘Q*毁灭人类？爆火「Q*假说」竟牵出世界模型，全网AI大佬长文热议]]></title>
+        <id>https://news.cnblogs.com/n/754321/</id>
+        <link href="https://news.cnblogs.com/n/754321/"/>
+        <updated>2023-11-27T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：Aeneas 好困 传闻中 OpenAI 的Q*，已经引得 AI 大佬轮番下场。AI2 研究科学家 Nathan Lambert 和英伟达高级科学家 Jim Fan 都激动的写下长文，猜测Q*和思维树、过程奖励模型、AlphaGo 有关。人类离 AGI，已是临门一脚了？ OpenA
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘宝缘何取消“双12”？活动早已偏离初心，二季度淘宝天猫线上GMV下降]]></title>
+        <id>https://news.cnblogs.com/n/754320/</id>
+        <link href="https://news.cnblogs.com/n/754320/"/>
+        <updated>2023-11-26T16:10:18.000Z</updated>
+        <summary type="html"><![CDATA[淘宝“双 12”取消了，取而代之的是“淘宝年终好价节”。 红星资本局发现，经过 11 年的发展，“双 12”早已偏离 2012 年推出时的初心，逐渐与“双 11”趋同，反倒是竞争对手拼多多（PDD.US）真的培育出了 SNS（Social Networking Services，社交网络服务）特征。
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipeWire 1.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=76723</id>
+        <link href="https://www.solidot.org/story?sid=76723"/>
+        <updated>2023-11-26T14:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Linux 平台的音频视频串流工具 PipeWire 正式释出了 1.0 版本，它之前的版本号是 0.3.xx，PipeWire 1.0 维持了与 0.3.xx 系列的 API/ABI 兼容性，两者之间的区别并不大，0.3.xx 就相当稳定，已经成为主流 Linux 发行版默认的音频服务器，1.0 版本主要是包括了众多的改进和修复。PipeWire 是在 2017 年释出第一个版本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新 CRISPR 系统为基因编辑带来希望]]></title>
+        <id>https://www.solidot.org/story?sid=76722</id>
+        <link href="https://www.solidot.org/story?sid=76722"/>
+        <updated>2023-11-26T14:08:53.000Z</updated>
+        <summary type="html"><![CDATA[单细胞细菌和古细菌使用 CRISPR 系统保护自己免受噬菌体的侵害。CRISPR 系统通常由两部分组成：识别并结合噬菌体 DNA 或 RNA 的“引导RNA”分子，以及在引导RNA指示的位点切割或干扰遗传物质的酶。到目前为止，研究人员已经确定了六种 CRISPR 系统，分别从 I 命名到 VI。它们有不同的特性，包括使用酶的类型，以及它们如何识别、结合和切割RNA或DNA。用于基因工程的 CRISPR-cas9 系统被归类为 II 型，其他类型的 CRISPR 特征可能对其他方面有用。MIT 的张锋团队开发了一种名为 FLSHclust 的算法去寻找不同的 CRISPR 系统。他们发现了大约 13 万个基因以某种方式与 CRISPR 相关，其中 188 个是以前从未见过的，他们在实验室测试了几个基因以了解它们的作用。实验结果揭示了 CRISPR 系统用来攻击噬菌体的各种策略，包括解开 DNA 双螺旋结构，以及以允许基因插入或删除的方式切割 DNA。他们还发现了“抗 CRISPR”的 DNA 片段，这可能有助于噬菌体逃避细菌的防御。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valeo 起诉英伟达窃取其源代码]]></title>
+        <id>https://www.solidot.org/story?sid=76721</id>
+        <link href="https://www.solidot.org/story?sid=76721"/>
+        <updated>2023-11-26T13:59:51.000Z</updated>
+        <summary type="html"><![CDATA[法国汽车公司 Valeo 起诉英伟达窃取其源代码。此案与前 Google 和 Uber 工程师 Anthony Levandowski 案件有相似之处：Mohammad Moniruzzaman 曾任职于 Valeo 公司，后来辞职加盟了英伟达公司，在新公司担任了一个高级职位，当时 Valeo 和英伟达在先进辅助驾驶技术开发上有合作关系，而 Moniruzzaman 也参与了该项目。在 2022 年一次两家公司参加的视频会议上，他共享了其电脑屏幕，其中包含了 Valeo 公司的源代码文件，被 Valeo 员工注意到并截屏。Valeo 调查发现他在加盟英伟达时带走了数万份文件和 6GB 源代码。Moniruzzaman 已经承认了窃取软件的罪行。英伟达的律师则声称该公司对 Valeo 的源代码和商业机密没有兴趣。但 Valeo 仍然提起了诉讼，认为它的源代码帮助英伟达节省了数百万甚至数亿美元的开发费用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文旅新东方，提着猪头找错了庙门？]]></title>
+        <id>https://news.cnblogs.com/n/754319/</id>
+        <link href="https://news.cnblogs.com/n/754319/"/>
+        <updated>2023-11-26T07:45:35.000Z</updated>
+        <summary type="html"><![CDATA[文｜旅业网 自新东方豪掷 10 亿成立文旅公司，至今已有整 4 个月。4 个月来，新东方文旅显然秉持着俞敏洪埋头实干型的风格，少说多干，所以外界对其进展知之甚少，却也饶有兴味。 国家旅业注意到，自成立以来，新东方文旅已推出不少打包线路产品，其中最具有标志性意义的，当属价格相当震撼的“梦江南—21 天
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被荷兰要求“补税”6400万元，对九号公司影响多大？]]></title>
+        <id>https://news.cnblogs.com/n/754318/</id>
+        <link href="https://news.cnblogs.com/n/754318/"/>
+        <updated>2023-11-26T07:39:47.000Z</updated>
+        <summary type="html"><![CDATA[文｜趣解商业，作者李文溪，编辑趣解商业 又一家出海业务强势的公司，遭遇了海外的“罚单”。 九号公司(689009.SH)11 月 18 日发布公告称，其子公司 Segway Discovery Europe B.V.（SDEBV）收到荷兰海关财政部出具的《税务事项通知书》，要求补缴工业产品关税、反倾
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赵明为荣耀上市定调后，还面临这些关键问题]]></title>
+        <id>https://news.cnblogs.com/n/754317/</id>
+        <link href="https://news.cnblogs.com/n/754317/"/>
+        <updated>2023-11-26T07:36:49.000Z</updated>
+        <summary type="html"><![CDATA[文｜极点商业，作者｜刘珊珊，编辑｜杨铭 脱离华为三年来，有关荣耀上市消息持续不断。特别是最近，消息不断发酵引发业界和投资者的广泛关注。 11 月 20 日晚，一条重磅消息传出：原深圳市水务（集团）有限公司董事长吴晖已在上月加入荣耀终端有限公司，或将担任董事长一职。原荣耀董事长万飚，则被调整为副董事长
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直播之后又开超市，国美何时迎来转机？]]></title>
+        <id>https://news.cnblogs.com/n/754316/</id>
+        <link href="https://news.cnblogs.com/n/754316/"/>
+        <updated>2023-11-26T07:35:33.000Z</updated>
+        <summary type="html"><![CDATA[文伯虎财经，作者灵灵 刚过去不久的“双 11”，各大电商平台之间摩拳擦掌，互不示弱。 曾经也站在聚光灯下的国美，却没有了动静。据《南方周末》报道，10 月 30 日，国美电器总部大大小小的会议室、办公区、接待室都已上锁，只有零星的工作人员和保洁人员走动。 反倒是大促过后，凭借着“国美超市”，国美又掀
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开马家厨房，拟减持阿里，马云仍在“江湖”]]></title>
+        <id>https://news.cnblogs.com/n/754315/</id>
+        <link href="https://news.cnblogs.com/n/754315/"/>
+        <updated>2023-11-26T07:31:03.000Z</updated>
+        <summary type="html"><![CDATA[文｜雷达财经，作者｜孟帅，编辑｜深海 尽管早已从阿里的管理一线隐退，但哪怕马云只是一个微小的动作，互联网“江湖”上也会激起片片涟漪。 11 月 22 日，由马云持股 99.9% 的杭州大井头贰拾贰号文化艺术有限公司对外投资成立了一家名为杭州马家厨房食品有限公司的企业。外界根据备案的经营范围推测，马云
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[短剧站上风口，品牌营销如何搭便车？]]></title>
+        <id>https://news.cnblogs.com/n/754314/</id>
+        <link href="https://news.cnblogs.com/n/754314/"/>
+        <updated>2023-11-26T07:29:26.000Z</updated>
+        <summary type="html"><![CDATA[文｜增长工场，作者｜相青，编辑｜晓鹏 今年，短剧凶猛几乎是所有人的共识。 《逃出大英博物馆》破圈，7 天内给作者带来 555 万粉丝；《无双》播出 8 天，收入超 1 亿元；中文在线股价 7 天翻倍…… 据《2023 年上半年微短剧市场报告》，今年上半年，国内重点网络微短剧上线量是 481 部，超过
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI的闹剧，真的源于小题大做么？]]></title>
+        <id>https://news.cnblogs.com/n/754313/</id>
+        <link href="https://news.cnblogs.com/n/754313/"/>
+        <updated>2023-11-26T07:27:23.000Z</updated>
+        <summary type="html"><![CDATA[文｜阑夕 随着 Sam Altman 重新回到 OpenAI 执掌大权，那场儿戏般的宫斗终于告一段落，前日参加一场连麦，谈到对于 OpenAI 的追剧过程以及盲点，其实信息量相当大，尤其是前阿里巴巴算法专家、心识宇宙创始人陶芳波老师的分享对我的启发性很高。 陶老师也是最近被转发巨多的这篇文章的作者，
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真场景炼大模型，夸克借 AI 再次「提速」]]></title>
+        <id>https://news.cnblogs.com/n/754312/</id>
+        <link href="https://news.cnblogs.com/n/754312/"/>
+        <updated>2023-11-26T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[摘要 「学霸」AI 是如何练成的？ 大模型技术进入人们视野已经 1 年，带来的生产效率提高有目共睹。然而，真正的现象级应用还没有诞生，留下了极大的机会。 阿里、腾讯、百度、字节等公司，纷纷宣布用大模型重构其原有应用，拼多多最近也被曝光加入自研大模型的行列。而近期，另一个令人期待的玩家，也加入了战局。
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn资料分析显示：苹果员工离职后最可能去谷歌]]></title>
+        <id>https://news.cnblogs.com/n/754311/</id>
+        <link href="https://news.cnblogs.com/n/754311/"/>
+        <updated>2023-11-26T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[一项对科技行业 LinkedIn 个人资料的分析显示，最受前苹果员工欢迎的目的地是谷歌。 不出所料，它也显示出人们正在朝着相反的方向跳槽，尽管苹果的员工最有可能来自英特尔、微软或亚马逊。 在苹果的案例中，分析发现员工最有可能从以下企业进入苹果公司： 1. 英特尔 2. 微软 3. 亚马逊 4. 谷歌
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正在憋大招？Apple Watch明年可能会有这些升级]]></title>
+        <id>https://news.cnblogs.com/n/754310/</id>
+        <link href="https://news.cnblogs.com/n/754310/"/>
+        <updated>2023-11-26T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[有传言称，2024 年可能是 Apple Watch 非常重要的一年。 重新设计 第一代 Apple Watch 于 2015 年 4 月发售，我们即将迎来苹果第一款可穿戴设备问世 10 周年。 据彭博社的马克·古尔曼报道，苹果正在计划对 Apple Watch 进行重大重新设计，以配合其 10 周
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《柳叶刀》子刊：睡眠不够，运动来……凑不了！超10年随访发现，运动来带的认知益处，会被睡眠不足抵消！]]></title>
+        <id>https://news.cnblogs.com/n/754309/</id>
+        <link href="https://news.cnblogs.com/n/754309/"/>
+        <updated>2023-11-26T03:13:00.000Z</updated>
+        <summary type="html"><![CDATA[近年来，阿尔茨海默病和相关痴呆症越来越受到关注，大家都意识到了，随着年龄增长，保持健康的认知功能是多么重要的事情。 生活方式是认知功能的一类重要影响因素，例如运动和睡眠，运动较少，睡眠质量不佳均与认知表现较差有关[1]，世界卫生组织指南也推荐，认知功能正常和轻度认知障碍的成年人应通过运动减少认知功能
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[耗时7年打造，迪士尼「冰雪奇缘」园区最大彩蛋竟是它 | 对话幻想工程师]]></title>
+        <id>https://news.cnblogs.com/n/754308/</id>
+        <link href="https://news.cnblogs.com/n/754308/"/>
+        <updated>2023-11-26T03:07:00.000Z</updated>
+        <summary type="html"><![CDATA[一个（亚）热带城市开冰雪奇缘园区，代入感稍弱哈哈 当我们上周分享位于香港迪士尼的全球首个《冰雪奇缘》主题园区的抢先体验时，一位读者留下了这个评论。 真的，香港是一个到了 11 月平均气温还能达到 25℃ 的城市，要在这里建造一个拥有「冰雪魔法」的世界注定充满挑战。 所幸在于，向来以「造梦」著称的迪士
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁在县城喝35元一杯的星巴克？]]></title>
+        <id>https://news.cnblogs.com/n/754307/</id>
+        <link href="https://news.cnblogs.com/n/754307/"/>
+        <updated>2023-11-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文｜彭倩 编辑｜乔芊 平均 9 小时开出一家的星巴克门店如今都在哪里？ 答案大概率是县城。 四川广安、陕西安康，湖南吉首、山西阳泉、江西萍乡……今年一季度，星巴克进入超过 10 个新城市，都是中国的四五线城市。 去年 9 月，星巴克提出要在中国加速扩张，到 2025 年门店开至 9000 家。上述计
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家探测到逾三十年以来最强宇宙射线]]></title>
         <id>https://news.cnblogs.com/n/754306/</id>
@@ -10371,232 +10577,6 @@ GPT-4 发布会演示 （图源网络）
         <link href="https://news.cnblogs.com/n/752726/"/>
         <updated>2023-10-29T03:47:51.000Z</updated>
         <summary type="html"><![CDATA[部分 Android 14 用户遭遇了某种“勒索软件”攻击，不过该勒索软件是 Google 开发的，Google 开发者目前似乎对此不太重视，将该 bug 的处理标记为中优先级。bug 主要影响使用了多配置文件的用户，多用户配置文件系统允许在一台设备上创建多个账号，允许将工作数据和个人数据分隔开来。
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[晚点独家｜腾讯企业服务不再设收入增长目标，转为加速扭亏]]></title>
-        <id>https://news.cnblogs.com/n/752723/</id>
-        <link href="https://news.cnblogs.com/n/752723/"/>
-        <updated>2023-10-28T12:58:33.000Z</updated>
-        <summary type="html"><![CDATA[从做项目到做产品。 文丨高洪浩 编辑丨黄俊杰 《晚点 LatePost》获悉，腾讯云与智慧产业事业群从今年开始，不再强调收入目标，腾讯总办对其的主要考核方式也改为以减亏为导向的利润指标。CSIG 主要涵盖腾讯多个企业服务相关的业务，包括腾讯云、腾讯会议、智慧零售、智慧交通等。 根据 2022 年财报
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 14 bug 会锁定多配置文件用户的设备]]></title>
-        <id>https://www.solidot.org/story?sid=76470</id>
-        <link href="https://www.solidot.org/story?sid=76470"/>
-        <updated>2023-10-28T11:53:48.000Z</updated>
-        <summary type="html"><![CDATA[部分 Android 14 用户遭遇了某种“勒索软件”攻击，不过该勒索软件是 Google 开发的，Google 开发者目前似乎对此不太重视，将该 bug 的处理标记为中优先级。bug 主要影响使用了多配置文件的用户，多用户配置文件系统允许在一台设备上创建多个账号，允许将工作数据和个人数据分隔开来。受影响的设备包括了 Pixel 6、 6a、7、7a、Pixel Fold 和 Pixel Tablet。用户报告他们或者遭遇了死循环，或者卡在了启动界面，日志文件里包含了大量错误信息如 Failed to open directory /data/media/0: Structure needs cleaning。部分用户报告无法访问存储空间，启动应用会显示存储空间不足的错误信息。Google 的迟钝反应可能更令用户担忧。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 在 2021 年为默认搜索交易支付了 263 亿美元]]></title>
-        <id>https://www.solidot.org/story?sid=76469</id>
-        <link href="https://www.solidot.org/story?sid=76469"/>
-        <updated>2023-10-28T09:58:20.000Z</updated>
-        <summary type="html"><![CDATA[US v. Google 反垄断案凸显了默认设置的重要性，即使 Google 是搜索市场上最出色的产品，切换搜索引擎对用户而言也十分容易，但搜索巨人为了成为浏览器和手机等不同产品的默认搜索引擎而在 2021 年支付了多达 263 亿美元的费用。这个数字是美国司法部在询问 Google 搜索业务负责人 Prabhakar Raghavan 时披露的。根据 Google 母公司 Alphabet 最近公布的财报，它的搜索广告业务过去三个月的收入为 440 亿美元，去年的收入为 1650 亿美元。广告业务（其中包括 YouTube 广告）整体利润略少于 900 亿美元。263 亿美元意味着 Google 放弃了搜索收入的 16% 和利润的 29%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极氪 001 FR 正式发布，和布加迪同场竞技，76.9 万元让友商笑不出来]]></title>
-        <id>https://news.cnblogs.com/n/752722/</id>
-        <link href="https://news.cnblogs.com/n/752722/"/>
-        <updated>2023-10-28T08:50:33.000Z</updated>
-        <summary type="html"><![CDATA[这样的车，友商们 5 年内造不出来！ 站在极氪 001 FR 旁的极氪 CEO 安聪慧自信说道。 零百 2.02 秒，1300 马力，76.9 万元，这是安聪慧自信的来源。 今晚，极氪 001 FR 正式发布，并由基米 · 莱科宁，为首批车主进行交付。不可思议的是，和一个多月前的首次亮相相比，这辆车
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发布首款 AI PC，联手英伟达，联想的 AI 新浪潮有什么不一样]]></title>
-        <id>https://news.cnblogs.com/n/752721/</id>
-        <link href="https://news.cnblogs.com/n/752721/"/>
-        <updated>2023-10-28T08:49:47.000Z</updated>
-        <summary type="html"><![CDATA[在 AI 与芯片竞争如日中天的 2023 年，想同时得到英伟达和 AMD 的鼎力支持绝非易事，但联想是个例外；想让英特尔和高通为同一个品牌站台难如登天，但联想也是个例外。 10 月 24 日，NVIDIA、AMD、英特尔、高通、微软等科技公司 CEO 罕见地出席同一场活动，那是第九届联想 TechW
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了让年轻人更好的买平替，阿里的1688要做“线上山姆”了]]></title>
-        <id>https://news.cnblogs.com/n/752720/</id>
-        <link href="https://news.cnblogs.com/n/752720/"/>
-        <updated>2023-10-28T08:48:06.000Z</updated>
-        <summary type="html"><![CDATA[在“抠门经济”的热潮下，如今的消费者正在变着花样的寻找便宜的“平替”工厂货”。 在这股潮流的推动下，做了二十余年 B2B 厂货直销业务的阿里巴巴 1688，成为了新一代年轻人的新选择。 据 1688 产品总经理张晓丹介绍，1688 每年有 1 个亿的用户，其中有 6000 万为买家，买家中约有一半为
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[碾压行人并拖拽数米后，Cruise无人车被叫停]]></title>
-        <id>https://news.cnblogs.com/n/752719/</id>
-        <link href="https://news.cnblogs.com/n/752719/"/>
-        <updated>2023-10-28T08:46:22.000Z</updated>
-        <summary type="html"><![CDATA[图片来源：Cruise 官网 无人驾驶公司 Cruise 最近遇到了大麻烦。 10 月 24 日，加利福尼亚州机动车辆管理局（DMV）宣布立即暂停 Cruise 的无人驾驶车辆部署，并暂扣其无人驾驶测试许可。 自从今年 8 月获准开始 24 小时运营之后，Cruise 便饱受争议。上个月，Cruis
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米14 Pro评测：不止于性能的旗舰，高端化的阶段胜利]]></title>
-        <id>https://news.cnblogs.com/n/752718/</id>
-        <link href="https://news.cnblogs.com/n/752718/"/>
-        <updated>2023-10-28T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[最近两年，高端化已经成为了手机行业的主旋律。根据 Counterpoint Research 数据显示，中国智能手机平均售价自 2014 年以来持续上涨，2022 年达到 385 美元。其中售价在 500 美元以上的高端智能手机市场占有率增加到 26% 以上，且仍处于增长趋势。 单价的提升带来了更好
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用 ChatGPT 等大模型训练，波士顿动力将 Spot 机器狗变成“会说话的导游”]]></title>
-        <id>https://news.cnblogs.com/n/752717/</id>
-        <link href="https://news.cnblogs.com/n/752717/"/>
-        <updated>2023-10-28T08:40:35.000Z</updated>
-        <summary type="html"><![CDATA[波士顿动力公司在其官方 YouTube 频道上传了一段视频，展示了波士顿动力机器狗的“语言能力”。视频中，波士顿动力机器狗化身“导游”带领工作人员参观自家公司的各种设施。 这只机器狗目前能够回答问题，在发出声音的同时，“嘴巴”也可以随之张开。据介绍，波士顿机器狗目前之所以可以开口说话，是因为工程师们
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特年度工程总结，数据感人，什么代码减少 60 万行、节省 1 亿美元]]></title>
-        <id>https://news.cnblogs.com/n/752716/</id>
-        <link href="https://news.cnblogs.com/n/752716/"/>
-        <updated>2023-10-28T08:38:10.000Z</updated>
-        <summary type="html"><![CDATA[推特官方帐号发布了一年的工程总结，亮点数据包括： 彻底重构 For you 服务和排名系统，代码行数从 700K 减少到 70K，减少了 90%，计算占用量减少了 50%，帖子吞吐量增加了 80%。 重构了技术栈的 API 中间件层，并简化了架构，删除超过 10 万行代码和数千个未使用的内部端，消除
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯克：Meta 明年投入更多工程和计算资源到 AI 领域]]></title>
-        <id>https://news.cnblogs.com/n/752715/</id>
-        <link href="https://news.cnblogs.com/n/752715/"/>
-        <updated>2023-10-28T08:35:28.000Z</updated>
-        <summary type="html"><![CDATA[当地时间 10 月 25 日，在 2023 财年第三季度财报电话会上，Meta CEO 扎克伯格强调，相信生成式 AI 的相关技术将让人们使用各种应用程序的方式变得更有意义。在未来，Meta 甚至有可能会利用 AI 来根据用户的兴趣为他们直接生成内容。 扎克伯格表示，AI 将帮助使用 Meta 各大
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 24.04 进入开发阶段，代号 Noble Numbat]]></title>
-        <id>https://news.cnblogs.com/n/752714/</id>
-        <link href="https://news.cnblogs.com/n/752714/"/>
-        <updated>2023-10-28T08:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Canonical 的 Utkarsh Gupta 在一封发送给 Ubuntu 开发邮件列表的电子邮件中宣布，Ubuntu 24.04 现已开放供开发，并透露了该版本的代号为 “Noble Numbat”。 我们很高兴地宣布，Noble Numbat 现已开放开发。自动同步已启用，并将很快运行。和往
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滴滴助老深入社区 23年老年智慧出行志愿服务行动启动]]></title>
-        <id>https://news.cnblogs.com/n/752713/</id>
-        <link href="https://news.cnblogs.com/n/752713/"/>
-        <updated>2023-10-28T08:23:25.000Z</updated>
-        <summary type="html"><![CDATA[10 月 25 日，在全国老龄办、中国老龄协会支持下，滴滴联合中国老年学和老年医学学会、中国老龄事业发展基金会，在宋庆龄同志故居召开“2023 年老年智慧出行志愿服务行动”启动仪式，交通运输部运输服务司副司长宣登殿、中国老龄协会宣传部副主任岳琳琳等相关领导出席。 2023 年 10 月-12 月，“
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客能利用旁路攻击让 Safari 泄露密码]]></title>
-        <id>https://news.cnblogs.com/n/752712/</id>
-        <link href="https://news.cnblogs.com/n/752712/"/>
-        <updated>2023-10-28T08:22:31.000Z</updated>
-        <summary type="html"><![CDATA[研究人员披露了针对 Mac、iPad 和 iPhone 上 Safari 浏览器的瞬态执行旁路攻击，并将其命名为 iLeakage。利用 iLeakage，攻击者可以在用户浏览恶意网页时通过预测执行获取其它网页的敏感信息如密码。CPU 预测执行漏洞 Spectre 自六年前披露以来，虽然主要芯片供应
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花旗计划为其40000多名程序员部署生成式AI]]></title>
-        <id>https://news.cnblogs.com/n/752711/</id>
-        <link href="https://news.cnblogs.com/n/752711/"/>
-        <updated>2023-10-28T01:09:57.000Z</updated>
-        <summary type="html"><![CDATA[北京时间 10 月 27 日晚间消息，据报道，随着华尔街继续拥抱人工智能这项新兴的技术，花旗集团（Citigroup）计划为其 4 万多名程序员中的绝大部分使用生成性人工智能（GAI）。 作为小型试点项目的一部分，花旗集团开始允许大约 250 名开发人员率先体验生成式人工智能。明年，花旗集团计划将该
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界尽头的扫地机器人]]></title>
-        <id>https://www.solidot.org/story?sid=76468</id>
-        <link href="https://www.solidot.org/story?sid=76468"/>
-        <updated>2023-10-27T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Amundsen–Scott 南极科考站可能是地球上最孤立的地区。在南半球的夏季，这里有大约 150 名科学家和工作人员，到了冬季人数缩小到了 40 名左右。从 2 月中旬 到 10 月下旬，生活在南极站的人基本上是与世隔绝。他们只能靠自己，没有来自外界的食物、燃料、零部件等的运送。除非发生了最紧急的医疗情况，才会有飞机尝试抵达南极站。虽然南极科考站的工作人员是季节性轮换的，但这里有四名永久居民：Bert，iRobot 的 Roomba 652 扫地机器人，2018 年来到南极站；Ernie，2019 年抵达，型号为 Roomba 690；另外两个扫地机器人 Sam 和 Frodo 稍后抵达。它们做着扫地机器人该做的事情：保持地面清洁。但同时也为工作人员提供了某种安慰作用。为了保护当地生态系统，《南极条约》禁止养宠物、种植植物甚至是泥土。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学术界的了不起的盖茨比曲线]]></title>
-        <id>https://www.solidot.org/story?sid=76467</id>
-        <link href="https://www.solidot.org/story?sid=76467"/>
-        <updated>2023-10-27T14:55:22.000Z</updated>
-        <summary type="html"><![CDATA[了不起的盖茨比曲线（Great Gatsby Curve）是基于加拿大经济学家  Miles Corak 的研究，他统计了 21 个国家的数据，得出“社会不公平程度”与“代际收入弹性”基本正相关的结论。这说明一个国家的社会不公平程度越高，父辈的收人水平对下一代收入水平的影响越大，子女处于父辈的经济阶层的可能性就越高。它的名字源自菲茨杰拉德（Francis Scott Fitzgerald）的《了不起的盖茨比》，这部小说讲述了美国爵士时代的代际财富差距和新富阶层，主角盖茨比出生贫穷，但后来赚了很多钱，显著提高了他的社会层次。英国研究人员在预印本平台 arXiv 发表论文，分析了 22 个学科中逾 24.5 万对导师学生组合以及他们所出版论文的系谱数据，发现学术界也存在了不起的盖茨比曲线，即学术影响的不平等与学术影响的跨代持续性之间正相关，导师影响力与被指导者影响力随着时间相关性日益增加，这意味着学术界的代际流动性下降。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaijin 开源 《战争雷霆》使用的引擎]]></title>
-        <id>https://news.cnblogs.com/n/752710/</id>
-        <link href="https://news.cnblogs.com/n/752710/"/>
-        <updated>2023-10-27T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[在俄罗斯创办、目前总部位于匈牙利的游戏开发商 Gaijin Entertainment 开源了它的热门战争类网游《战争雷霆》使用的 Dagor 引擎，源代码采用 BSD 3-Clause 许可证托管在 GitHub 上。这意味着其他人几乎可以不受限制的修改和使用该引擎。《战争雷霆》于 2012 年上
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯格称 Threads App 月活用户数接近一亿]]></title>
-        <id>https://news.cnblogs.com/n/752709/</id>
-        <link href="https://news.cnblogs.com/n/752709/"/>
-        <updated>2023-10-27T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[在 Meta 季度财报电话会议上，CEO 扎克伯格 (Mark Zuckerberg) 披露了旗下微博客应用 Threads 的最新数据，称 Threads 的月活跃用户数接近一亿。Threads 在推出不到一周的时间里注册用户就超过了一亿人，此后增长放缓。一亿活跃用户要比注册用户一亿瞩目得多，该服
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解密冷战卫星照片揭示了数百个以前未发现的罗马要塞]]></title>
-        <id>https://www.solidot.org/story?sid=76466</id>
-        <link href="https://www.solidot.org/story?sid=76466"/>
-        <updated>2023-10-27T13:13:21.000Z</updated>
-        <summary type="html"><![CDATA[解密的冷战间谍卫星照片揭示了数百个以前未发现的罗马帝国要塞。考古学家分析了 1960s 和 1970s 拍摄的航空照片，在叙利亚和伊拉克发现了 396 个以前未知的罗马要塞遗址。研究报告发表在本周出版的《Antiquity》期刊上。法国耶稣会探险家 Antoine Poidebard 曾在 1934 年利用飞机记录了该地区 116 个堡垒构成的某种防御工事。历史学家认为它们是为了防御来自阿拉伯和波斯的入侵，以及游牧部落的掠夺。但最新分析显示，罗马帝国的边境是一个具有高度流动性的跨境贸易场所，这些要塞支持了该地区的贸易、通讯和军事运输系统，是为了保护商队，促进交易，而不是暴力冲突。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌联合创始人布林的超大型飞艇获准试飞，使用非易燃的氦气]]></title>
-        <id>https://news.cnblogs.com/n/752708/</id>
-        <link href="https://news.cnblogs.com/n/752708/"/>
-        <updated>2023-10-27T13:11:50.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 10 月 26 日消息，据 IEEE Spectrum 报道，谷歌联合创始人谢尔盖・布林（Sergey Brin）于 2015 年创立了一家名为 LTA Research 的公司，专门研发用于人道主义和货物运输的飞艇。该公司于 9 月初获得了美国联邦航空管理局（FAA）颁发的特殊适航证书
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
