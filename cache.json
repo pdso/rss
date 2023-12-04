@@ -647,16 +647,6 @@
           "wordCount": 590,
           "title": "把\"世界\"装进口袋 - 图小小相册APP",
           "imageUrl": "https://cdn.sspai.com/2023/11/03/c71e01412e0db7e09e5ba727bdd1dd79.png"
-        },
-        {
-          "id": "https://sspai.com/post/84137",
-          "author": "玉树芝兰",
-          "description": "「十项全能」的 ChatGPT ，用起来感受如何？\n\n之前，作为 ChatGPT Plus 用户，如果你集齐下面这五个模式，就会成为别人羡慕的对象。\n\n但现在，人们更加期盼的，是下面这个提示的出现：\n\n这个提示，意味着你的 GPT-4 已经不再是「一专」（只能使用某一模式），而是「多能」（根据需要自动调用不同模式的功能）。\n例如你可以让 ChatGPT 看到一幅图（原本的基础模式），然后让它自动理解总结图片的内容，并且要求它绘制出类似的图片（原本的 DALLE）模式。当然，你还可以让它自动编程（原本的 Advanced Data Analysis 模式）或者访问网络（原本的 Browse with Bing 或者插件模式）。\n这样一来，用户的想象力就可以变成特别有趣有用的实践过程。例如王佩老师，就让 ChatGPT 绘制简笔画。他对绘制结果很满意。\n\n见贤思齐，于是我又把自己的微信头像传上去了。要求 ChatGPT (GPT-4 All Tools）：\n\n画成皮克斯风格\n\n于是，我获得了这样的图像：\n\n呃，除了人物不像我，以及背景多了一只狐狸，我没有啥可抱怨的……\n同时生成的，还有另外一幅作品。咱们也放大看看。\n\n可这…… 也太不像我了啊。于是，我提出了这样的要求：\n\n画成皮克斯风格，注意人物一定要像。\n\n这次 GPT-4 全模式 (All Tools) 的绘图结果是这样的：\n\n这个…… 你要非得说像我，我无话可说。\n我查看了对应的提示词：\n\nPhoto of a cheerful man outdoors, wearing a light blue polo shirt and a backpack. He is Asian, with short black hair, smiling warmly with a backdrop of mountains covere…",
-          "link": "https://sspai.com/post/84137",
-          "publishedOn": "2023-11-04T08:34:31.000Z",
-          "wordCount": 890,
-          "title": "如何用 GPT-4 全模式（All Tools）帮你高效学习和工作？",
-          "imageUrl": "https://cdn.sspai.com/2023/11/04/bbc4855336a65285d1b754daefa9cb5b.png"
         }
       ]
     },
@@ -724,6 +714,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76786",
+          "author": null,
+          "description": "尽管关于人类需要对气候变化负责上达成了科学共识，但仍然有三分之一的人口对此表示怀疑或认为有争议。这一现象部分要归因于过去几十年的虚假信息宣传。瑞士日内瓦大学的研究人员制定了针对虚假信息宣传的六种心理干预措施。他们对 12 个国家的 6,816 名参与者进行了测试。结果显示干预措施的保护作用非常小，当人们第二次暴露在虚假信息下后保护作用就消失了。研究人员表示，看起来虚假信息比科学信息有着更强有力的说服力。他们认为需要对此展开更进一步的研究。",
+          "link": "https://www.solidot.org/story?sid=76786",
+          "publishedOn": "2023-12-03T14:44:17.000Z",
+          "wordCount": 161,
+          "title": "研究显示三分之一的人仍然怀疑人类需要对气候变化负责",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76785",
+          "author": null,
+          "description": "为摆脱对进口石油天然气的依赖，淘汰肮脏的燃煤火电，中国在风能和太阳能领域投入了大量资金，同时也建造了数十座新核电站。根据国际原子能机构的数据，过去十年中国新增 37 座核反应堆，总数达到 55 座。同期拥有 93 座反应堆的美国只增加了两座。中国的目标是每年安装 6-8 座核反应堆，国家核能监管机构表示有能力每年新增 8-10 座核反应堆。目前中国在建的核反应堆有 22 座，比其他任何国家都多。西方的核能增长陷入了停滞，原因有很多。核反应堆需要大量前提投资，需要多年时间建造。该行业受到了严格监管。中国通过廉价贷款，提供土地和许可证，为国有能源公司的核电开发铺平了道路。上网补贴等方法将核电价格降至了每兆瓦时 70 美元，而美国为 105 美元，欧盟为 160 美元。",
+          "link": "https://www.solidot.org/story?sid=76785",
+          "publishedOn": "2023-12-03T14:00:16.000Z",
+          "wordCount": 175,
+          "title": "中国在建核电站比其他任何国家都多",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76784",
+          "author": null,
+          "description": "知名作家尼尔·盖曼（Neil Gaiman）在接受冰岛电视台采访时谈及了对互联网和社交媒体现状的看法。他说，“我喜欢写博文，而在微博时代我越来越少的写博文了。”他的博文通常发表在自己的网站 neilgaiman.com 上。他表示怀念那种以理智愉快的方式与世界对话去构建一个社区的时光。他说，有意思的是人们正离开社交网络。Twitter 已经完了，已成为过去，它现在变成了 X。Twitter 的微博替代如 Threads 和 Bluesky 都无法重现 Twitter 往昔的荣光。盖曼认为博客时代可能会重新到来，人们可能会重新通过博文找到你和我。盖曼目前是 Twitter 替代 Bluesky 的狂热用户，至少对他而言，这个时代尚未到来。",
+          "link": "https://www.solidot.org/story?sid=76784",
+          "publishedOn": "2023-12-03T13:21:51.000Z",
+          "wordCount": 176,
+          "title": "Blog 是否可能回归？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76783",
           "author": null,
@@ -3233,46 +3253,6 @@
           "wordCount": 160,
           "title": "最强大离子引擎通过了合格性测试",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76530",
-          "author": null,
-          "description": "商业太空站有可能短时间内难以准备就绪，NASA 已经做好了应对之策。官员表示，如果到 2020 年代末商业太空站还无法做好准备接替国际空间站，空间站将在 2030 年之后继续运行。目前到 2020 年代末退役国际空间站的计划并不是强制性的，而是取决于商业公司在商业空间站上的进展。NASA 对商业空间站的要求是至少一次能容纳两名宇航员，这一数字少于目前的国际空间站。NASA 不希望从国际空间站过渡到商业空间站过程中出现管理不善等问题，削弱美国在该领域的实力。",
-          "link": "https://www.solidot.org/story?sid=76530",
-          "publishedOn": "2023-11-04T12:44:26.000Z",
-          "wordCount": 162,
-          "title": "NASA 准备让国际空间站一直运行到 2030 年之后",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76529",
-          "author": null,
-          "description": "Mozilla 计划在 Firefox v120 发布后不久为 Android 版本提供移动扩展，它督促开发者评估其代码，为此做好准备。Firefox 扩展编辑经理 Scott DeVaney 表示，在 12 月开放移动扩展时 AMO [addons.mozilla.org] 上将至少有 200 个新扩展。Mozilla 从 2019 年开始就考虑提供移动版扩展，但因为安全等方面的担忧而进展缓慢。允许 Android 版 Firefox 用户下载和安装未经仔细审查的扩展会带来安全风险，尤其是考虑到手机通常存储了敏感数据，比如支付卡和个人信息。在桌面生态系统中，浏览器扩展也一直是恶意软件和滥用的常见来源。即使存在安全风险，浏览器的可扩展性一直是 Open Web 的定义特征之一。",
-          "link": "https://www.solidot.org/story?sid=76529",
-          "publishedOn": "2023-11-04T12:28:38.000Z",
-          "wordCount": 173,
-          "title": "Mozilla 督促开发者为移动版扩展做好准备",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76528",
-          "author": null,
-          "description": "作为战略投资，Arm 宣布收购了树莓派（Raspberry Pi）少数股权。树莓派是流行的单板电脑，一直使用的是基于 Arm 架构的 SoC，其最新产品是刚刚上市的 Raspberry Pi 5。Arm 与树莓派有着长期的合作关系，收购少数股权或有助于阻止树莓派转投开源架构 RISC-V，发布使用基于 RISC-V 架构的单板电脑。",
-          "link": "https://www.solidot.org/story?sid=76528",
-          "publishedOn": "2023-11-03T15:00:46.000Z",
-          "wordCount": 159,
-          "title": "Arm 收购树莓派少数股权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76527",
-          "author": null,
-          "description": "在乐队解散逾五十年后，四名披头士成员约翰·列侬、保罗·麦卡特尼、乔治·哈里森和林戈·斯塔尔合作发布了他们的最后一首歌《Now And Then》。约翰在 1980 年被枪杀，乔治在 2001 年因肺癌去世，因此这首歌是在数字技术的帮助下完成的。披头士乐队是 20 世纪最有影响力也是唱片销量最高的乐队。《Now And Then》由彼得·杰克逊（Peter Jackson）的团队制作，此前他们制作了披头士的音乐纪录片。《Now And Then》最初是以练习磁带的形式录制在约翰的家中。杰克逊的团队开发出一种机器学习技术，能从模拟录音中分离出单个人或乐器的声音。保罗和林戈分别录制了他们的新版本，团队雇佣了一位弦乐编曲家和一位吉他手分别编排弦乐部分和吉他部分，最后完成了这首歌。披头士乐队 YouTube 官方频道这首歌在 24 小时内的播放量逾 500 万次。",
-          "link": "https://www.solidot.org/story?sid=76527",
-          "publishedOn": "2023-11-03T14:18:41.000Z",
-          "wordCount": 169,
-          "title": "披头士乐队发布了他们的最后一首歌《Now And Then》",
-          "imageUrl": null
         }
       ]
     },
@@ -3281,6 +3261,96 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/754761/",
+          "author": null,
+          "description": "据 IT 之家，11 月 30 日发表在《先进科学》杂志上的一项最新研究，科学家们研发出了一种新型的“微型人体细胞机器人”。这种“人体细胞机器人”由人体细胞构成，有望在未来发现癌症、修复受损组织，甚至清除血管中的斑块。 美国塔夫茨大学与哈佛大学的研究团队合作，成功研发出了这种直径在 30 到 500\n本文链接",
+          "link": "https://news.cnblogs.com/n/754761/",
+          "publishedOn": "2023-12-04T00:32:00.000Z",
+          "wordCount": 163,
+          "title": "人体细胞机器人问世：有自然寿命，可修复受损组织",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/754760/",
+          "author": null,
+          "description": "11 月 25 日，江苏镇江经济开发区法院一个手机尾号为“999999”的靓号经过 24 小时拍卖后，拍出了 2614.5892 万元的“天价”。根据公告时间，买家需在 12 月 3 日前交付尾款。 据现代快报，记者多方了解获悉，截至最终期限，买家并未付款，并称自己“拍错了”。 “999999”靓号\n本文链接",
+          "link": "https://news.cnblogs.com/n/754760/",
+          "publishedOn": "2023-12-04T00:28:00.000Z",
+          "wordCount": 163,
+          "title": "“999999”手机号被拍出2614万！买家：拍错了……",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/754759/",
+          "author": null,
+          "description": "12 月 1 日，多家新能源车企发布了 11 月的销量。数据显示，今年前 11 个月，大部分新能源车企均难以实现年度销量目标。红星资本局统计的 11 家新能源车企中，仅有理想汽车一家提前完成销量目标。比亚迪还差 11%，12 月的销量需要达到 32.8 万辆，比 11 月增长 8.6%。而 CNMO\n本文链接",
+          "link": "https://news.cnblogs.com/n/754759/",
+          "publishedOn": "2023-12-04T00:22:00.000Z",
+          "wordCount": 163,
+          "title": "大部分新能源车企年销量目标难完成 车市开启降价潮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/754758/",
+          "author": null,
+          "description": "IT 之家 12 月 3 日消息，据澎湃新闻今日报道，工信部近日就网友“关于保障老旧手机用户基础通信功能的建议”作出回复。 该网友留言提到，现在国家大力发展 5G 通信技术，但我国有大量人群还在用老旧手机、按键手机等电子设备，部分基础电信运营商借网络升级之名，违规把 2G、3G、4G 基础通信信号基\n本文链接",
+          "link": "https://news.cnblogs.com/n/754758/",
+          "publishedOn": "2023-12-04T00:18:00.000Z",
+          "wordCount": 163,
+          "title": "工信部回复网友“保障老旧手机基础通信”：2G/3G退网是必然选择",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/754757/",
+          "author": null,
+          "description": "12 月 4 日消息，微软联合创始人比尔·盖茨（Bill Gates）表示，世界可能无法实现《巴黎协定》将气温上升控制在 2 摄氏度以下的目标。 在迪拜举行的联合国年度会议上，盖茨在接受采访时说：“尽管我们还没有达到我们的最高期望，但在阻止气候变化方面正取得进展。”他提到，这（第二十八届联合国气候变\n本文链接",
+          "link": "https://news.cnblogs.com/n/754757/",
+          "publishedOn": "2023-12-04T00:11:00.000Z",
+          "wordCount": 163,
+          "title": "比尔·盖茨：控制全球升温2摄氏度已不可能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/754756/",
+          "author": null,
+          "description": "12 月 4 日消息，英伟达首席执行官黄仁勋不久前宣称，超级人工智能（AI）将在五年内赶超人类。对此，Facebook 母公司 Meta 首席科学家、深度学习先驱杨立昆（Yann LeCun）的观点截然相反。他认为，超智能不会很快到来。 Meta 最近在旧金山举行了一场媒体活动，庆祝其基础人工智能研\n本文链接",
+          "link": "https://news.cnblogs.com/n/754756/",
+          "publishedOn": "2023-12-04T00:08:00.000Z",
+          "wordCount": 163,
+          "title": "Meta首席科学家杨立昆驳黄仁勋：超智能不会很快到来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/754755/",
+          "author": null,
+          "description": "快科技 12 月 3 日消息，RTX 4090 已从 11 月 17 日起被禁止在中国内地和港澳区域生产、销售，各个销售渠道也都陆续下了架(当然也有少数顽固派)，而今在各家显卡厂商的官网上，RTX 4090 也正在陆续消失。 耕升是最彻底的，已经找不到一丝一毫 RTX 4090 产品的踪影。 影驰也\n本文链接",
+          "link": "https://news.cnblogs.com/n/754755/",
+          "publishedOn": "2023-12-04T00:04:00.000Z",
+          "wordCount": 163,
+          "title": "彻底拜拜！国内显卡厂商正悄悄删除RTX 4090",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/754754/",
+          "author": null,
+          "description": "12 月 4 日消息，近日，外媒披露了 OpenAI 首席执行官萨姆·奥特曼(Sam Altman)认为与埃隆·马斯克(Elon Musk)产生不和的原因：“人们的目标方向越接近，就越容易有分歧。” 两人曾共进晚餐，也曾同台讲话。他们合作创立 OpenAI 要追溯到 2015 年马斯克庆祝自己 44\n本文链接",
+          "link": "https://news.cnblogs.com/n/754754/",
+          "publishedOn": "2023-12-04T00:00:00.000Z",
+          "wordCount": 163,
+          "title": "萨姆·奥特曼谈与马斯克不和原因：目标方向越接近，就越有分歧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/754753/",
+          "author": null,
+          "description": "杨净 衡宇发自凹非寺量子位 | 公众号 QbitAI OpenAI 刚刚向开发者宣布，那个要给大家分收益的商店，今年它上不了线了！ 没错，GPTs 商店要推迟到明年年初，才能与大家见面。 而且这个决定是被迫的——所有的一切都与犹在眼前的 OpenAI 内讧事件息息相关。 就像 ChatGPT 团队在\n本文链接",
+          "link": "https://news.cnblogs.com/n/754753/",
+          "publishedOn": "2023-12-03T02:03:21.000Z",
+          "wordCount": 163,
+          "title": "OpenAI内讧更多细节曝光！奥特曼离间董事会失败，GPTs商店被迫推迟发布",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/754752/",
           "author": null,
@@ -8649,196 +8719,6 @@
           "publishedOn": "2023-11-04T13:06:00.000Z",
           "wordCount": 163,
           "title": "《生命代谢》：研究发现普通膳食营养素能消除血管斑块",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753100/",
-          "author": null,
-          "description": "谷歌宣布放弃其备受争议的 Web Environment Integrity API 提案，转而开发 Android WebView Media Integrity API。 今年 5 月份，谷歌在开发者邮件列表中宣布了其 Web Environment Integrity API，旨在作为一种限制\n本文链接",
-          "link": "https://news.cnblogs.com/n/753100/",
-          "publishedOn": "2023-11-04T13:02:44.000Z",
-          "wordCount": 163,
-          "title": "谷歌放弃 Web Environment Integrity API 提案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753099/",
-          "author": null,
-          "description": "出门问问 Mobvoi 官微消息，11 月 4 日，出门问问自研大模型“序列猴子”正式向全社会开放。即日起，广大用户可登陆基于“序列猴子”的 AI 写作助手奇妙文或 AI 开放平台体验。\n本文链接",
-          "link": "https://news.cnblogs.com/n/753099/",
-          "publishedOn": "2023-11-04T12:49:51.000Z",
-          "wordCount": 163,
-          "title": "出门问问大模型“序列猴子”向全社会开放",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753098/",
-          "author": null,
-          "description": "众所周知，我国多年来一直是“肝癌大国”，且超过七成的肝细胞癌（HCC）患者，还是乙型肝炎病毒（HBV）的感染者[1]，HBV 也早早就被实锤参与 HCC 发生发展，所以怎么看都该对 HBV 感染者常规开展筛查，没毛病吧？ 事情还真没这么简单。当前具备实用性的 HCC 筛查手段，仍主要是超声检查和甲胎\n本文链接",
-          "link": "https://news.cnblogs.com/n/753098/",
-          "publishedOn": "2023-11-04T12:46:00.000Z",
-          "wordCount": 163,
-          "title": "《自然·癌症》：肝癌早筛突破！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753097/",
-          "author": null,
-          "description": "文/周雄飞 来源/连线出行 合资车企一词，放在 1978 年的中国市场中，显得新鲜且充满希望。 当时，我国汽车工业已经历了 20 多年的发展，虽已形成了较为完整的工业生产体系，但与日本和欧美等国家相比，还是存在较大的差距。 为了追赶上差距，国家开始向全球汽车企业发出邀请，试图用“市场换技术”，中外合\n本文链接",
-          "link": "https://news.cnblogs.com/n/753097/",
-          "publishedOn": "2023-11-04T02:54:48.000Z",
-          "wordCount": 163,
-          "title": "“老合资”退场、“新合资”上台，合资车四十年沉浮录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753096/",
-          "author": null,
-          "description": "AI 到底是变革还是泡沫？ 作者 王王 来源硅兔赛跑 Sam Altman 又出手了。这次他投资了一个只有 5 个人的 RPA 早期团队 Induced AI，两位联合创始人 Aryan Sharma 和 Ayush Pathak，一个 18 岁，一个 19 岁。 不只是 Sam Altman，Si\n本文链接",
-          "link": "https://news.cnblogs.com/n/753096/",
-          "publishedOn": "2023-11-04T02:53:04.000Z",
-          "wordCount": 163,
-          "title": "Sam Altman再出手，投资了两个不到20岁的小创业者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753095/",
-          "author": null,
-          "description": "一凡发自副驾寺 智能车参考公众号 AI4Auto 广汽三菱，正式宣布倒闭。 这是第一家倒下的日系合资车企，黯然退场之外，资产处理和员工去向也引发了人们广泛关注。 根据官方公告，三菱在中国的生产设施将由广汽埃安接手，三分之一劳动力也转签埃安，但几乎都是年轻人。 其他的三分之二，曾经据称每月享受着高达 \n本文链接",
-          "link": "https://news.cnblogs.com/n/753095/",
-          "publishedOn": "2023-11-04T02:51:46.000Z",
-          "wordCount": 163,
-          "title": "三菱败退中国：年轻员工转入新势力，其他近2000人就地遣散",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753093/",
-          "author": null,
-          "description": "Tech 星球（微信 ID：tech618） 文 林京王琳 本着“我可以买贵的，但不能买贵了”的原则，这届年轻人正在所有消费领域扫货，这一次他们把目标瞄准了薅老年福利的羊毛。 年轻人报名参加老年夕阳红旅行团，8 天新疆游的价格只要 4000 多元，而日常面向年轻人的旅行团动辄上万元；年轻人打卡以老年\n本文链接",
-          "link": "https://news.cnblogs.com/n/753093/",
-          "publishedOn": "2023-11-04T02:49:01.000Z",
-          "wordCount": 163,
-          "title": "去夕阳团、老年大学、老年食堂薅羊毛，年轻人“蹭老式”消费真赚到了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753094/",
-          "author": null,
-          "description": "苹果的冰与火 作者丨白嘉嘉 来源丨硅基研究室 苹果再次交上一份‘喜忧参半’的季度财报。 11 月 3 日，苹果公布了 2023 财年新财季财报数据，2023 年第三季度，苹果总营收达 895 亿美元，季度净利润为 230 亿美元，稀释后每股收益 1.46 美元。作为对比，去年同期苹果总营收为 901\n本文链接",
-          "link": "https://news.cnblogs.com/n/753094/",
-          "publishedOn": "2023-11-04T02:47:00.000Z",
-          "wordCount": 163,
-          "title": "苹果财报里的预警：卖不动的中国场、滞后的AI布局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753092/",
-          "author": null,
-          "description": "出品｜三言 Pro 作者｜DorAemon 这两天看到一个段子，笑出猪叫。 网友说，现在点开某电商 App 带来的安心感觉是其他 App 所不能的，因为你完全不担心一不小心就跳转到该电商 App。 大笑之余，心里却产生深深的共鸣。 以前，各 App 的开屏广告就非常烦人。虽然广告会“贴心”的设置跳过\n本文链接",
-          "link": "https://news.cnblogs.com/n/753092/",
-          "publishedOn": "2023-11-04T02:46:37.000Z",
-          "wordCount": 163,
-          "title": "现在看手机都得稳稳端着，生怕动一下就跳转电商app了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753091/",
-          "author": null,
-          "description": "过去一年，小鹏汽车都在从组织架构、产品等各方面进行调整。近日，何小鹏在接受采访时回忆称，自己不仅“干掉”10 高管，还“干掉”不少中层管理，甚至整个电芯团队，因为他们竟然偷偷摸摸地做了一个电芯的厂。 何小鹏表示，“以前什么都要集体决策，后来我想通了，不集体决策，我来决策。谁不坚定，就去掉谁。”（懂车\n本文链接",
-          "link": "https://news.cnblogs.com/n/753091/",
-          "publishedOn": "2023-11-04T02:43:58.000Z",
-          "wordCount": 163,
-          "title": "一年“干掉”10个高管，何小鹏：谁不坚定，就去掉谁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753090/",
-          "author": null,
-          "description": "尽管在三季度仅贡献了一周的销量，但 iPhone 15 系列依然助推苹果 iPhone 成为当季财报中的亮点——三季度唯一实现同比增长的硬件产品。 北京时间 11 月 3 日凌晨，苹果公布 2023 财年第四财季（即 2023 年第三季度）财报，该季度苹果营收 895 亿美元，同比下滑 0.7%；净\n本文链接",
-          "link": "https://news.cnblogs.com/n/753090/",
-          "publishedOn": "2023-11-04T02:41:23.000Z",
-          "wordCount": 163,
-          "title": "苹果的焦虑，iPhone降价治不好",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753089/",
-          "author": null,
-          "description": "11 月 2 日周四，电商和云计算巨头亚马逊的创始人与前 CEO、世界第三富翁贝佐斯在社交媒体上宣布，他要正式“为爱走天涯”了！ 贝佐斯发长文称，他将正式从亚马逊总部所在地——美国华盛顿州西雅图市搬到佛罗里达州迈阿密市定居，理由是“我的父母、未婚妻都住在那里，蓝色起源火箭公司的业务也更多迁到那边”。\n本文链接",
-          "link": "https://news.cnblogs.com/n/753089/",
-          "publishedOn": "2023-11-04T02:40:36.000Z",
-          "wordCount": 163,
-          "title": "贝佐斯“为爱走天涯”：将从定居30年的西雅图搬到迈阿密，只为离心爱之人更近",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753088/",
-          "author": null,
-          "description": "财联社 11 月 4 日电，开发 ChatGPT 的 OpenAI 公司预计将在下周一举行的首次开发者大会上宣布产品改进，使其人工智能模型更便宜，功能更强大。该公司首席执行官 Altman 向与会者承诺，将推出“一些很棒的新东西”。这场为期一天的活动在旧金山市政厅附近的一个荒凉地区举行，吸引了来自世\n本文链接",
-          "link": "https://news.cnblogs.com/n/753088/",
-          "publishedOn": "2023-11-04T02:40:09.000Z",
-          "wordCount": 163,
-          "title": "OpenAI下周一召开首次开发者大会 将宣布产品改进",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753087/",
-          "author": null,
-          "description": "长征七号改运载火箭发射瞬间。记者刘洋摄 新海南客户端、南海网 11 月 3 日消息（记者刘洋）北京时间 2023 年 11 月 3 日 22 时 54 分，我国在文昌航天发射场使用长征七号改运载火箭，成功将通信技术试验卫星十号发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。该卫星主要用于开展多\n本文链接",
-          "link": "https://news.cnblogs.com/n/753087/",
-          "publishedOn": "2023-11-04T02:39:23.000Z",
-          "wordCount": 163,
-          "title": "我国在文昌成功发射通信技术试验卫星十号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753086/",
-          "author": null,
-          "description": "清华大学官微 11 月 4 日凌晨消息，中国共产党党员、中国科学院院士、国际著名摩擦学专家、原摩擦学国家重点实验室创始人、清华大学机械工程系教授温诗铸同志，因病医治无效，于 2023 年 11 月 3 日在北京逝世，享年 91 岁。 温诗铸院士 1932 年 11 月 2 日出生于江西丰城，1955\n本文链接",
-          "link": "https://news.cnblogs.com/n/753086/",
-          "publishedOn": "2023-11-04T02:38:29.000Z",
-          "wordCount": 163,
-          "title": "中国科学院院士、国际著名摩擦学专家温诗铸逝世，享年91岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753085/",
-          "author": null,
-          "description": "今日凌晨，打假网红“铁头”发布视频向东方甄选和董宇辉道歉： “大家好我是铁头惩恶扬善，很郑重的、正式的在这里给东方甄选和董宇辉道歉。 我在 10 月 9 号直播时声称：故事是要钱的，你那份产品 50 块钱，那个故事可能就要 40 块钱过期的毒鸡汤，听完以后觉得你提升了文化，毛都不是。对以上言论，我非\n本文链接",
-          "link": "https://news.cnblogs.com/n/753085/",
-          "publishedOn": "2023-11-04T02:37:58.000Z",
-          "wordCount": 163,
-          "title": "网红铁头向东方甄选道歉：非常后悔和自责",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753084/",
-          "author": null,
-          "description": "11 月 3 日消息，美国当地时间周四，苹果发布截至 9 月 30 日的 2023 财年第四财季（对应 2023 年第三季度）财报。财报显示，苹果第四财季营收 895 亿美元，同比下滑1%；净利润为 230 亿美元，同比增长 10.8%；每股收益 1.46 美元，同比增长 13%。尽管苹果第四财季营\n本文链接",
-          "link": "https://news.cnblogs.com/n/753084/",
-          "publishedOn": "2023-11-04T02:35:10.000Z",
-          "wordCount": 163,
-          "title": "苹果第四财季电话会议实录：中国手机厂商重新崛起会否会影响苹果在华增长，库克回应",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753083/",
-          "author": null,
-          "description": "柔性 3D 显示在下一代可穿戴、智能电子科技领域具有重要意义。近日，中国科学技术大学庄涛涛研究员课题组和俞书宏院士团队成功研发出可打印的手性圆偏振发光材料并展示了材料在柔性 3D 图像显示方面的应用，有望为 3D 智能交互的实现提供新途径。相关研究成果日前发表于《科学-进展》。 手性是自然界中一种重\n本文链接",
-          "link": "https://news.cnblogs.com/n/753083/",
-          "publishedOn": "2023-11-04T02:31:38.000Z",
-          "wordCount": 163,
-          "title": "基于圆偏振发光的柔性3D显示器件取得进展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753081/",
-          "author": null,
-          "description": "文新媒科技评论 今年 9 月，欧盟委员会主席冯德莱恩宣布将对中国出口电动汽车发起反补贴调查，理由是捍卫遭遇“人为压低价格”挑战的欧洲汽车产业。 近日，欧盟委员会正式宣布，已通过抽样方式确定对比亚迪、上汽集团和吉利汽车三家中国车企启动反补贴调查。 靴子落地，比亚迪、上汽和吉利似乎也早已料想到会被“抽中\n本文链接",
-          "link": "https://news.cnblogs.com/n/753081/",
-          "publishedOn": "2023-11-03T14:24:24.000Z",
-          "wordCount": 163,
-          "title": "中国车企，想进欧洲不容易",
           "imageUrl": null
         }
       ]
