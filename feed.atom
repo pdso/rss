@@ -2,10 +2,260 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-10T01:08:57.926Z</updated>
+    <updated>2023-12-11T01:05:53.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[消息称余承东“正面回应”问界汽车冬测争议：坑人测试、误导民众]]></title>
+        <id>https://news.cnblogs.com/n/759193/</id>
+        <link href="https://news.cnblogs.com/n/759193/"/>
+        <updated>2023-12-11T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 12 月 11 日消息，国内汽车媒体 AutoLab 昨晚在微博发文称，余承东在微信朋友圈就此前问界 M7 参与《2023 懂车帝冬测》的测试结果进行表态：坑人的测试，误导民众！科学与严谨才是应该遵循的基本规则！ 关于问界 M7 车型“冬测”结果存在争议的始末，IT 之家此前已有详细报道
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单分子量子纠缠首次实现]]></title>
+        <id>https://news.cnblogs.com/n/759192/</id>
+        <link href="https://news.cnblogs.com/n/759192/"/>
+        <updated>2023-12-11T00:47:05.000Z</updated>
+        <summary type="html"><![CDATA[科技日报北京 12 月 10 日电 （记者刘霞）美国两个科研团队在 7 日出版的《科学》杂志上分别刊文称，他们首次让单个的分子处于量子纠缠状态。在这种奇怪的状态下，分子之间即使相距遥远也能同时相互关联、相互作用。研究团队指出，这项研究为很多应用奠定了基础，包括构建更好的量子计算机、量子模拟器和传感器
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈勃望远镜在陀螺仪问题后恢复科学观测]]></title>
+        <id>https://www.solidot.org/story?sid=76848</id>
+        <link href="https://www.solidot.org/story?sid=76848"/>
+        <updated>2023-12-10T16:04:32.000Z</updated>
+        <summary type="html"><![CDATA[NASA 表示哈勃望远镜在陀螺仪问题后恢复了科学观测。自 1990 年发射至今，34 岁的哈勃仍然在为天文学家提供有价值的数据。但它的硬件确实在老化中。2009 年宇航员在最后一次航天飞机维修飞行中为哈勃安装了 6 个新陀螺仪。其中 3 个目前已经失效，正常运行中的 3 个中的一个最近几个月出现了问题。因为陀螺仪问题哈勃在上个月先后两次进入安全模式。按照目前的预测，哈勃将会在 2030 年代中期重返大气层。去年 NASA 和 SpaceX 进行了一项可行性研究，使用 SpaceX 的 Dragon 飞船延长哈勃的寿命，甚至可能使用飞船上的宇航员去对哈勃进行维修，替换陀螺仪肯定是重中之重。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员披露专门针对泰国的 Linux 秘密恶意程序]]></title>
+        <id>https://www.solidot.org/story?sid=76847</id>
+        <link href="https://www.solidot.org/story?sid=76847"/>
+        <updated>2023-12-10T15:40:39.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 Group-IB 的研究人员披露了专门针对泰国公司的 Linux 恶意程序 Krasue。Krasue 是远程访问木马，活跃时间始于 2020 年，主要针对泰国电信公司。它包含了多个 rootkit 支持不同 Linux 内核版本，它集成了三个开源的 rootkit 包：Diamorphine，Suterusu 和 Rooty，通过挂钩 kill() 系统调用等隐藏活动和逃避检测。研究人员猜测它是作为攻击链的后期阶段部署的，旨在维持对入侵主机的访问。他们相信 Krasue 与微软安全博客在 2022 年披露的 XorDdos Linux 木马是同一位作者或至少能访问其源代码。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds 谈 Linux 现状]]></title>
+        <id>https://www.solidot.org/story?sid=76846</id>
+        <link href="https://www.solidot.org/story?sid=76846"/>
+        <updated>2023-12-10T15:20:09.000Z</updated>
+        <summary type="html"><![CDATA[在 Linux 基金会举行的日本开源峰会上，Linus Torvalds 谈论了 Linux 现状。对于内核社区的维护者，Torvalds 指出找到开发者很容易，但 Linux 维护者并非是很多人以为的无所不能的超级开发者。要成为一名维护者，他们需要具有对其他人代码水平高低优劣的鉴别能力。这种能力有些人可能是天生的，但更多的人需要训练，需要有很多年的经验。此外维护者之间还需要相互合作。Torvalds 说，代码的优劣是有标准的，但人际关系处理起来则难得多。比如部分维护者想要推动不同方向的目标，其他维护者则想要推动另一个方向，这种情况下压力是很大的。Torvalds 本人就经常出言不逊。2018 年他短暂离开内核专注于改变脾气，之后他就变得更温和了。他说开源不仅仅是关于代码，沟通也很重要。Torvalds 还谈论了内核引入 Rust 语言支持，他表示需要更长时间 Rust 才能证明它能在内核开发中扮演重要角色。对 AI 和大语言模型，Torvalds 表示辅助编程不是什么新鲜事。对大模型的幻觉问题，他说即使没有 AI 人类也是天天犯错误，这没什么可担心的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老鼠有“自我意识”吗？科学家刚刚证实，老鼠通过了“镜子测试”]]></title>
+        <id>https://news.cnblogs.com/n/759191/</id>
+        <link href="https://news.cnblogs.com/n/759191/"/>
+        <updated>2023-12-10T14:45:47.000Z</updated>
+        <summary type="html"><![CDATA[药明康德内容团队编辑 “镜子测试”，是一项评估动物自我认知能力的经典测试，只有极少部分动物能顺利通过。而就在最近，神经科学领域权威期刊《Neuron 上线》的一篇新论文表明，又有一种动物跻身“测试通过”的名单，那就是为人类生物医学研究做出了杰出贡献的动物：小鼠。利用这种实验动物，研究人员还进一步破解
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万字长文专访“AI之父”Geoffrey Hinton： 我使用ChatGPT之后，为什么也开始害怕现在AI技术？]]></title>
+        <id>https://news.cnblogs.com/n/759190/</id>
+        <link href="https://news.cnblogs.com/n/759190/"/>
+        <updated>2023-12-10T14:05:38.000Z</updated>
+        <summary type="html"><![CDATA[来源：AI 深度研究员 Geoffrey Hinton has spent a lifetime teaching computers to learn. Now he worries that artificial brains are better than ours. AI 之父 Geoffr
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型 SLAM 侧信道攻击曝光，英特尔、AMD 和 Arm 处理器均受影响]]></title>
+        <id>https://news.cnblogs.com/n/759189/</id>
+        <link href="https://news.cnblogs.com/n/759189/"/>
+        <updated>2023-12-10T03:56:27.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 12 月 9 日消息，来自阿姆斯特丹自由大学的 VUSec 研究团队近日发现了名为 SLAM（Spectre over LAM）的新型侧信道攻击方式。 团队表示这种攻击方式可以影响现有英特尔、AMD、Arm 公司的处理器，而且后续产品短期内无法有效修复。 这种时序攻击方式主要利用处理器安
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一周内第二位！苹果(AAPL.US)高层巨变 传iPhone和手表设计副总裁将于明年离职]]></title>
+        <id>https://news.cnblogs.com/n/759188/</id>
+        <link href="https://news.cnblogs.com/n/759188/"/>
+        <updated>2023-12-10T03:53:53.000Z</updated>
+        <summary type="html"><![CDATA[智通财经 APP 获悉，据媒体援引知情人士的消息，负责 iPhone 和 Apple Watch 产品设计的苹果(AAPL.US)产品设计副总裁 Tang Tan 将在明年 2 月离职。Tan 的上司是苹果硬件工程副总裁 John Ternus。Tan 的离职导致整个硬件工程部门进行了调整。在 Ta
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5个被封禁的千万级网红今何在：有的复出被封，有的销声匿迹]]></title>
+        <id>https://news.cnblogs.com/n/759187/</id>
+        <link href="https://news.cnblogs.com/n/759187/"/>
+        <updated>2023-12-10T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[据成都商报报道，12 月 6 日晚，网红小杨哥的徒弟"红绿灯的黄"重新开始直播。其账号动态显示直播从 19:57 开始，不过仅直播了 3 分钟便被封禁，#小黄开播几分钟直播间被封#这一话题也迅速冲上热搜第一位。上游新闻（报料邮箱 baoliaosy@163.com）记者搜索发现，除了"红绿灯的黄"，
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI承认GPT-4变懒：暂时无法修复]]></title>
+        <id>https://news.cnblogs.com/n/759186/</id>
+        <link href="https://news.cnblogs.com/n/759186/"/>
+        <updated>2023-12-10T02:43:00.000Z</updated>
+        <summary type="html"><![CDATA[梦晨发自凹非寺 量子位公众号 QbitAI 对于越来越严重的 GPT-4 偷懒问题，OpenAI 正式回应了。 还是用的 ChatGPT 账号。 我们已收到相关反馈！自 11 月 11 日以来没有更新过模型，所以这当然不是故意造成的。 模型行为可能是不可预测的，我们正在调查准备修复它。 也就是短时间
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟就全球首个AI监管法达成初步协议，有哪些干货？]]></title>
+        <id>https://news.cnblogs.com/n/759185/</id>
+        <link href="https://news.cnblogs.com/n/759185/"/>
+        <updated>2023-12-10T02:36:09.000Z</updated>
+        <summary type="html"><![CDATA[记者安晶 12 月 8 日，在经过一周的马拉松式谈判和激烈争论后，欧盟委员会、欧洲议会和欧盟成员国代表就《人工智能法案》（AI Act）达成初步协议，新法案涉及包括 ChatGPT 在内的通用目的 AI 系统。 这是全球首份针对 AI 监管的全面法规，意在从保护人类基本权利和不阻碍人工智能行业发展之
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉将发布2023年假日更新：气囊弹开时可自动打电话报警]]></title>
+        <id>https://news.cnblogs.com/n/759184/</id>
+        <link href="https://news.cnblogs.com/n/759184/"/>
+        <updated>2023-12-10T02:35:15.000Z</updated>
+        <summary type="html"><![CDATA[12 月 10 日消息，特斯拉下周将发布 2023 年假日更新，包括重大改进，比如安全气囊在碰撞中打开时，车辆可以自动拨打 911 报警电话。 美国时间周四，特斯拉宣布将于下周进行更新，并强调了其他即将推出的功能，比如支持苹果播客（Apple Podcasts）、支持后排屏幕蓝牙耳机、带有 3D 视
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为余承东谈“遥遥领先”：非常不易，需研发创新和强大技术投入]]></title>
+        <id>https://news.cnblogs.com/n/759183/</id>
+        <link href="https://news.cnblogs.com/n/759183/"/>
+        <updated>2023-12-10T02:34:12.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 12 月 10 日消息，据 @鹏鹏君驾到 ，华为常务董事、终端 BG CEO、智能汽车解决方案 BU 董事长余承东日前在 2023 华为花粉年会现场讲述了“遥遥领先”背后的故事。 余承东表示，大家把他过去十几年中，在发布会上说过的“遥遥领先”剪到一起编成段子，但实际上只有“领先比较多”的
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米辟谣汽车发布会定档：有考虑这个时间，其他内容全是假的]]></title>
+        <id>https://news.cnblogs.com/n/759182/</id>
+        <link href="https://news.cnblogs.com/n/759182/"/>
+        <updated>2023-12-10T02:32:00.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 12 月 9 日消息，小红书博主“电玩科技”今日发文，称小米内部已经“敲定”28 日在北京举行小米汽车亮相发布会，将主要描述新车外观、内饰设计、性能操控、智能座舱及智能驾驶等方面的卖点，届时还会公布新车的预售价格。同时，雷军已经多次检查了现场用到的 PPT，并将亲自进行演讲。 对此，博主
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朱雀三号火箭预计于2025年具备首飞能力]]></title>
+        <id>https://news.cnblogs.com/n/759181/</id>
+        <link href="https://news.cnblogs.com/n/759181/"/>
+        <updated>2023-12-10T02:28:13.000Z</updated>
+        <summary type="html"><![CDATA[央广网北京 12 月 9 日消息 12 月 9 日，中国酒泉卫星发射中心在官方微信号发布消息称，朱雀二号遥三运载火箭发射成功。 以上图片由蓝箭航天提供 北京时间 2023 年 12 月 9 日 07 时 39 分，朱雀二号遥三运载火箭在我国酒泉卫星发射中心发射升空，将搭载的鸿鹄卫星、天仪 33 卫星
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内忧外患，斗鱼变“病鱼”？]]></title>
+        <id>https://news.cnblogs.com/n/759180/</id>
+        <link href="https://news.cnblogs.com/n/759180/"/>
+        <updated>2023-12-10T02:24:50.000Z</updated>
+        <summary type="html"><![CDATA[雷达财经出品文莫恩盟编深海 在不少喜欢看游戏直播的用户心中，斗鱼这个直播平台再熟悉不过。而斗鱼的名字，其实与一种原产地为东南亚国家、因喜斗而得名的鱼类同名。只是曾经被“一把手”陈少杰寄予满满斗志的斗鱼，如今似乎成为了一条“病鱼”。 刚刚出炉的三季报，斗鱼单季度营收同比减少 24.42%，而这已是其连
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI首席科学家一周没去公司，马斯克：可以考虑来我这里]]></title>
+        <id>https://news.cnblogs.com/n/759179/</id>
+        <link href="https://news.cnblogs.com/n/759179/"/>
+        <updated>2023-12-10T02:20:00.000Z</updated>
+        <summary type="html"><![CDATA[12 月 10 日消息，特斯拉 CEO 埃隆·马斯克（Elon Musk）表示， OpenAI 首席科学家伊利亚·苏茨凯弗(Ilya sutskever)应该考虑跳槽去 xAI 或特斯拉。 上个月，苏茨凯弗与其他 OpenAI 董事会成员一起罢免了萨姆·奥特曼（Sam Altman），原因含糊不清，
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[取消双12、改名好价节，淘宝能否解开大促式微困局？]]></title>
+        <id>https://news.cnblogs.com/n/759178/</id>
+        <link href="https://news.cnblogs.com/n/759178/"/>
+        <updated>2023-12-10T02:19:00.000Z</updated>
+        <summary type="html"><![CDATA[淘宝年终好价节将于今日晚 8 点正式开启。此前，“淘宝取消双 12”登上微博热搜，引发网友热议，但事实上，淘宝双 12 还是如期来临，只是将名字改为淘宝年终好价节。 淘宝方面表示，相比往年的双 12 大促，今年重磅推出的淘宝年终好价节将在折扣力度上大幅提升。“年终好价节”的新名字背后，似乎承载着淘宝
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量产线控转向，特斯拉CyberTruck开起来是什么感觉？]]></title>
+        <id>https://news.cnblogs.com/n/759177/</id>
+        <link href="https://news.cnblogs.com/n/759177/"/>
+        <updated>2023-12-10T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[作者 Amy 编辑 德新 近日，擎天柱机器人持汤姆逊冲锋枪测试 Cybertruck 防弹性能视频爆火。 虽然最后被证实视频是合成的，但是马斯克和众多外网博主也都测试了 CyberTruck 的防弹性能，看来不锈钢车身的确能扛得过子弹。 在持枪合法的国度，用户买台军工级的皮卡放家里的确能扛不少事。 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新能源车价格战打到10万，现在是买车好时候吗？]]></title>
+        <id>https://news.cnblogs.com/n/759176/</id>
+        <link href="https://news.cnblogs.com/n/759176/"/>
+        <updated>2023-12-10T02:11:00.000Z</updated>
+        <summary type="html"><![CDATA[图片来源@视觉中国 文智行驾道 按照过往经验，春节前三个月往往是每年车市销量高峰，车企并不愁卖。但今年的情况显然不同，距离春节还有两个月，从今年 3 月开打的价格战不仅没有任何停息的征兆，反而越发激烈。 相比之前，这一次新能源车价格战的主战场变成了 10 万元左右的家用车，连今年年初以“998 一统
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毛利率重回两位数，蔚来度过最危险的时刻了？]]></title>
+        <id>https://news.cnblogs.com/n/759175/</id>
+        <link href="https://news.cnblogs.com/n/759175/"/>
+        <updated>2023-12-10T02:07:00.000Z</updated>
+        <summary type="html"><![CDATA[图片来源@视觉中国 文读懂财经 在新能源新势力里，蔚来是起伏最大的公司，甚至没有之一。 在今年的港股市场上，蔚来是为数不多股价下跌的新能源汽车公司。年初至今，蔚来股价跌超 24%，理想股价涨超 80%，小鹏涨超 61%，比亚迪股份涨超 12%。 蔚来股价疲软背后，一个很重要的原因是，在新能源汽车竞争
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作群，“逼疯”打工人]]></title>
+        <id>https://news.cnblogs.com/n/759174/</id>
+        <link href="https://news.cnblogs.com/n/759174/"/>
+        <updated>2023-12-10T02:04:22.000Z</updated>
+        <summary type="html"><![CDATA[文定焦，作者向园、星星、布鲁斯、翰墨、温故，编辑翰墨 自从有了微信工作群，打工人的工作和生活就再也无法分开了。而工作群中的职场礼仪，更是逼疯了一众职场人。 近日就有一个热搜是“因为在群里回复一个‘好”离职了”，事情的起因是某网友正在忙着处理工作，看到领导发了通知，立马回复了“好”，被领导指责“这个答
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QQ音乐持续涨价，网易云音乐直接掀桌]]></title>
         <id>https://news.cnblogs.com/n/759173/</id>
@@ -15,6 +265,16 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 年全球气温可能首次比工业化前高出 1.5℃]]></title>
+        <id>https://www.solidot.org/story?sid=76845</id>
+        <link href="https://www.solidot.org/story?sid=76845"/>
+        <updated>2023-12-09T15:58:44.000Z</updated>
+        <summary type="html"><![CDATA[英国国家气象局预测，2024 年可能是全球平均地表温度比工业化前时代高出 1.5℃ 以上的第一年。根据预测，2024 年有 27% 的可能比 1850—1900 年的平均气温高出 1.5℃。但这一可能性或比 27% 更高，因为 2023年的气温超出预期。在 2023 年之前的10年里，全球平均地表温度一直在英国气象局年初预测的范围内。但对于创纪录的 2023年，与工业化前相比 1—10 月的平均升温为 1.4℃，高于 2022 年底预测的 1.1℃—1.3℃。部分原因可能是目前的厄尔尼诺现象比预期的更强。在厄尔尼诺期间，不断变化的风将温暖的海水传播到整个太平洋，暂时使大气变暖。此外 2022 年汤加水下火山的喷发还向平流层注入了大量水蒸气，具有变暖效应。更重要的是，南半球的气温比预期的要高，原因尚不完全清楚。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -10540,223 +10800,6 @@ Apple Vision Pro 挑战赛
         <summary type="html"><![CDATA[微软联合创始人比尔盖茨在 COMDEX 1982 上观摩了 VisiCorp 的 GUI 软件套装 Visi On 的演示以及了解了苹果的 GUI 软件之后，微软开始着手开发它的图形用户界面操作系统。盖茨招募了施乐 PARC 原视窗系统的核心开发者 Scott A. McGregor 担任 Windows 1.0 的开发负责人。1983 年 11 月 10 日微软在纽约举行新闻发布会宣布了 Windows 1.0。微软希望在 1984 年 4 月推出，但因为内存管理等方面的 bug 需要解决，Windows 1.0 直到 1985 年 11 月 20 日才正式发布。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软撤回了 OneDrive 的退出调查]]></title>
-        <id>https://www.solidot.org/story?sid=76596</id>
-        <link href="https://www.solidot.org/story?sid=76596"/>
-        <updated>2023-11-11T12:51:25.000Z</updated>
-        <summary type="html"><![CDATA[微软正通过愈来愈恼人的方法向用户强推它的产品，最新的尝试是云储存和同步应用 OneDrive，如果用户想要退出 OneDrive，微软会要求你解释，而且解释是强制性的，你不选择的话退出按钮将一直保持灰色，用户无法关闭应用。在媒体曝光之后，微软告诉媒体这是一项测试，仅向少数用户推出，目前已经恢复正常。软件巨人在声明中称，从 11 月 1 日到 8 日，一小部分 OneDrive 用户在关闭应用时会看到一个对话框，要求提供选择关闭该应用的原因。微软称，此类用户反馈有助于他们为改进产品质量而不懈努力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Altman亲手复刻「Grok」，背刺马斯克！定制GPT正式开放，最全第三方市场已出]]></title>
-        <id>https://news.cnblogs.com/n/753465/</id>
-        <link href="https://news.cnblogs.com/n/753465/"/>
-        <updated>2023-11-11T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：桃子好困 ChatGPT 宕机风暴后，OpenAI 已经正式开放产品新功能。甚至，Altman 不忘嘲讽马斯克，复刻了一个 Grok。 经过 ChatGPT 大范围宕机后，Altman 今天突然宣布，开发者大会上的所有产品更新，所有 PLUS 用户都上手用了。 对此，有人已经花了整
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客入侵ChatGPT，OpenAI微软全被搞崩！「苏丹匿名者」：是我干的]]></title>
-        <id>https://news.cnblogs.com/n/753464/</id>
-        <link href="https://news.cnblogs.com/n/753464/"/>
-        <updated>2023-11-11T07:44:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：编辑部 搞炸世界上最先进的 AI 公司，只需要最朴素的手法？黑客组织「苏丹匿名者」宣布对 ChatGPT 宕机负责！ ChatGPT 的大规模宕机，竟是由于黑客攻击？ 昨天的大规模宕机，把大家都吓坏了。 ChatGPT 在过去 24 小时内，一直在经历零星的中断。每个试图登录的用户
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老黄H100再破纪录，4分钟训完GPT-3！全新「特供版」H20、L20和L2曝光，性能史诗级缩水]]></title>
-        <id>https://news.cnblogs.com/n/753463/</id>
-        <link href="https://news.cnblogs.com/n/753463/"/>
-        <updated>2023-11-11T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：桃子好困 英伟达 H100 再次刷榜了，不到 4 分钟就训完 GPT-3，比 6 月成绩提升 3 倍。另外，特供版 H20、L20 和 L2 性能全都爆出。 H100 再次在 MLPerf 中刷新了记录！ 英伟达超算 NVIDIA Eos 在 GPT-3 模型的基准测试中，只用了 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nature｜AI检测器又活了？成功率高达98%，吊打OpenAI]]></title>
-        <id>https://news.cnblogs.com/n/753462/</id>
-        <link href="https://news.cnblogs.com/n/753462/"/>
-        <updated>2023-11-11T07:28:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：润 alan OpenAI 都搞不定的问题，被堪萨斯大学的一个研究团队解决了？他们开发的学术 AI 内容检测器，准确率高达 98%。如果将这个技术再学术圈广泛推广，AI 论文泛滥的可能得到有效缓解。 现在 AI 文本检测器，几乎没有办法有效地区分 AI 生成的文字和人类的文字。 就
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每天≥1罐含糖饮料，患肝癌和慢性肝病死亡风险高68-85%！JAMA子刊：近10万人20.9年随访得到惊人发现]]></title>
-        <id>https://news.cnblogs.com/n/753461/</id>
-        <link href="https://news.cnblogs.com/n/753461/"/>
-        <updated>2023-11-11T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[众所周知，糖吃多了不好。我国于 2016 年推出的《中国居民膳食指南（2016）》首次提及了“控糖”的概念，推荐每人每天添加糖摄入量不超过 50g，最好控制在 25g 以下。 25g 添加糖是个什么概念呢？ 一瓶 500mL 的可乐中约含 53g 糖，相当于 13 块左右的方糖块儿；几乎一口吨完的养
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正式开源！网易有道上线“易魔声”语音合成引擎]]></title>
-        <id>https://news.cnblogs.com/n/753460/</id>
-        <link href="https://news.cnblogs.com/n/753460/"/>
-        <updated>2023-11-11T07:14:56.000Z</updated>
-        <summary type="html"><![CDATA[11 月 10 日，网易有道正式上线“易魔声”开源语音合成（TTS）引擎，所有用户可免费在开源社区 GitHub 进行下载使用，通过其提供的 web 界面及批量生成结果的脚本接口，轻松实现音色的情感合成与应用。 据悉，“易魔声”是一款有道自研 TTS 引擎，目前支持中英文双语，包含 2000 多种不
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[减肥可以让大脑的衰老速度减慢9个月]]></title>
-        <id>https://news.cnblogs.com/n/753459/</id>
-        <link href="https://news.cnblogs.com/n/753459/"/>
-        <updated>2023-11-11T03:19:50.000Z</updated>
-        <summary type="html"><![CDATA[研究表明，改变饮食习惯，多食新鲜蔬菜，少食加工食品，对大脑的生物年龄有着神奇的影响。 一项于 4 月份发表的研究显示，采用地中海饮食，食用大量蔬菜、海鲜和全谷物，甚至只是遵循饮食指南，都能减缓肥胖导致的大脑衰老迹象，仅减重1% 就有明显效果。 18 个月后，参与者的大脑扫描显示，其大脑年龄比预期年龄
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球每2700万年有一次神秘的“心跳”]]></title>
-        <id>https://news.cnblogs.com/n/753458/</id>
-        <link href="https://news.cnblogs.com/n/753458/"/>
-        <updated>2023-11-11T03:18:32.000Z</updated>
-        <summary type="html"><![CDATA[在过去 2.6 亿年里，恐龙来了又走，盘古大陆分裂成了我们今天看到的大陆和岛屿，人类迅速且不可逆转地改变了我们生活的世界。但是在这一切中，似乎地球一直在保持着时间。对古代地质事件的研究表明，我们的星球每 27 万年左右就有一次缓慢而稳定的地质活动的“心跳”。 这一次次密集的地质事件包括火山活动、物种
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[草莓可能是对抗认知能力下降的秘密武器]]></title>
-        <id>https://news.cnblogs.com/n/753457/</id>
-        <link href="https://news.cnblogs.com/n/753457/"/>
-        <updated>2023-11-11T03:17:45.000Z</updated>
-        <summary type="html"><![CDATA[一个关于草莓消费的新研究发现了一些有益的结果，每天吃这种受欢迎的水果可以帮助减少中年人在晚年发展痴呆症的风险。这对草莓爱好者来说是个好消息。 我们可能会认为一天一苹果可以保医生远离，但科学研究开始表明，草莓也有同样的功效。在 2022 年，研究人员发现，将蓝莓添加到每天饮食中的糖尿病前期(也称为胰岛
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曝智谱AI以200亿人民币估值寻求新一轮融资]]></title>
-        <id>https://news.cnblogs.com/n/753456/</id>
-        <link href="https://news.cnblogs.com/n/753456/"/>
-        <updated>2023-11-10T17:33:58.000Z</updated>
-        <summary type="html"><![CDATA[衡宇发自凹非寺 量子位公众号 QbitAI 百亿清华系国产大模型公司智谱 AI，被曝正以200 亿人民币估值，寻求新一轮融资。 就在 20 天前，智谱 AI 首次官方宣布，年内已经累计完成 25 亿元的融资。当时的市场传言是，早在 9 月，这家公司的市场估值就已经飙升到 120 亿人民币。 这使其成
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥特曼投资前苹果员工创立，这家公司AI硬件炸圈，可访问ChatGPT]]></title>
-        <id>https://news.cnblogs.com/n/753455/</id>
-        <link href="https://news.cnblogs.com/n/753455/"/>
-        <updated>2023-11-10T17:33:09.000Z</updated>
-        <summary type="html"><![CDATA[明敏发自凹非寺 量子位公众号 QbitAI 你的下一部手机，何必是手机？ 喏，就是这样一个别在衣领上的小玩意，已经支持访问 ChatGPT了。 它能胜任诸多智能手机能干的事，且更方便。 按一下即可开启智能语音助手，让它打电话、写短信、整理邮件等。 转动手掌就能切换按键选项。 点一下手指表示确认，有点
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意念操纵机器人成真！李飞飞团队打造，做家务玩游戏样样能行]]></title>
-        <id>https://news.cnblogs.com/n/753454/</id>
-        <link href="https://news.cnblogs.com/n/753454/"/>
-        <updated>2023-11-10T17:26:13.000Z</updated>
-        <summary type="html"><![CDATA[西风发自凹非寺 量子位公众号 QbitAI 斯坦福李飞飞、吴佳俊带队让《阿凡达》意念操控照进了现实！ 现在，只需要动动脑子就能操纵机器人。 想吃寿喜锅不用自己动手，切菜备菜、倒入食材，机器人一气呵成： 做饭、烹茶样样都行： 忙完还能顺便把桌面清理了： 你以为这就完了？这个机器人玩起游戏来也是一把好手
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度网盘进化成学习神器：音视频转文稿、加字幕，一键生成PPT！]]></title>
-        <id>https://news.cnblogs.com/n/753453/</id>
-        <link href="https://news.cnblogs.com/n/753453/"/>
-        <updated>2023-11-10T17:22:40.000Z</updated>
-        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 你绝对想不到现在最 fashion 的学习“姿势”是什么—— 百度网盘！ 你以为只是拿它用来存储课件、资料吗？ 不不不，现在的百度网盘已经不是“你以为的你以为”，摇身一变成了妥妥的学习神器。 例如你想学习一下现在巨火的提示工程（Prompt Enginee
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的阅读方法]]></title>
-        <id>https://sspai.com/post/84307</id>
-        <link href="https://sspai.com/post/84307"/>
-        <updated>2023-11-10T14:15:28.000Z</updated>
-        <summary type="html"><![CDATA[写在前面的话
-作为一名知识工作者的基本特征就是能够利用知识和信息来创造价值，但这些能够帮助他创造价值的知识不是他与生俱来的，他需要在工作的过程中持续的吸收外部的信息和知识，将这些知识转换为他自身的一部分，然后才能利用这些知识去创造价值。因此，高效的吸收新的信息和知识是一个知识工作者的核心竞争力。
-但相信读者对于高效学习的难度都深有体会。我们经常听到类似这样的论述：这次培训的内容不错，但我不知道日常工作要怎么用；这本书我之前读过，但我现在已经不记得它在说什么了；这个函数的用法我每次到都要去Google搜一下，我永远记不住。也就是说，要真正把新的知识内化成我们的一部分并且在一个新的时间和空间中自如的运用这些知识是非常有难度的一件事情。
-知识的载体有很多种（视频，音频或者文本等），而不同的载体又需要不同的工具和方法来与之进行互动。因此这篇文章会从最常见的数字媒体上的文本为对象，来介绍我是如何学习新知识的。这篇文章中提到的工具和App有以下几个：
-
-iPad + Mac
-Safari
-Freeform
-DEVONThink
-
-尽管我本人使用这些App来进行阅读，但文章中介绍的方法只使用了这些App的基础功能，读者可以根据自己的实际情况选择适合自己的App。下面就开始本文的主题。
-阅读的三个步骤
-我的阅读方法可以分为以下三个步骤：
-
-标记并摘录重要内容
-针对摘录的内容建立思维导图
-将思维导图转换为笔记
-
-下面针对每一个步骤进行详细的介绍。
-标记并摘录重要内容
-
-如上图所示，左侧是Safari，其中已经打开了我想要阅读的文本，这里使用的是来自Martin Fowler的一篇介绍Feature Toggle的文章（读者并不需要对这个概念有所了解，接下来介绍的方法并不需要了解这个概念本身）；右侧是DEVONThink，可以让我记录在阅读过程中想要摘录的文本或者图片。
-
-在阅读的过程中，如果…]]></summary>
-        <author>
-            <name>Colin_Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首只胚胎干细胞系“嵌合猴”诞生]]></title>
-        <id>https://www.solidot.org/story?sid=76595</id>
-        <link href="https://www.solidot.org/story?sid=76595"/>
-        <updated>2023-11-10T13:44:46.000Z</updated>
-        <summary type="html"><![CDATA[中国研究人员首次公布了一只活产“嵌合猴”研究的具体细节。这只“嵌合猴”由同一种猴子的两个基因的不同胚胎细胞组成。据介绍，该技术此前已在大鼠和小鼠身上实现，但迄今为止还未在其他物种，包括非人类灵长类动物身上实现，此次成功当属首例。研究由中国科学院和华大基因研究所合作完成，相关论文刊登在《细胞》（Cell）杂志上。论文通讯作者、中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）研究员刘真介绍：“我们在两年半前得到了这只活产的嵌合猴，这只嵌合猴在活产后存活了 10 天。在目前阶段，我们的成功率仍然有限，在 12 个胚胎当中，我们只得到了 2 只嵌合猴，不过猴子在自然状态下的生产成功率为 70%，体外受精的情况下为 40%，所以我想我们接近 20% 的成功率也不算太坏。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[路透调查披露 SpaceX 数百起未报告工伤]]></title>
-        <id>https://www.solidot.org/story?sid=76594</id>
-        <link href="https://www.solidot.org/story?sid=76594"/>
-        <updated>2023-11-10T13:37:30.000Z</updated>
-        <summary type="html"><![CDATA[路透调查披露了 SpaceX 至少有 600 起此前未报告的工伤事故，其中美国海军陆战队退役军人 Lonnie LeBlanc 因头部受伤死亡。美国职业安全与健康管理局的调查人员在调查之后要求改进安全，但马斯克（Elon Musk）的火箭公司此后仍然无视工人安全法规，自 LeBlanc 于 2014 年 6 月去世之后又发生了至少 600 起工人受伤事故，有很多人伤势严重。现任和前任员工表示，训练不足和过度疲劳的员工为满足马斯克紧迫的太空任务期限而跳过基本安全程序，工作场所因而混乱无序。十多名现任和前任员工表示，SpaceX 自创办以来采取的立场是员工要对保护自己负有责任。马斯克本人在参观 SpaceX 工厂时对安全问题也漫不经心：员工表示他有时会玩新火焰喷射器，不鼓励员工穿黄色安全服，因为他不喜欢明亮的颜色。宽松的安全文化部分源于马斯克对官僚主义的蔑视，部分源自 SpaceX 内部的信念，即它正领导一项紧急任务：在太空中为濒死的地球建立一个避难所。因投诉工作场所问题而被解雇的航空电子工程师 Tom Moline 表示，埃隆认为 SpaceX 的使命是尽快登陆火星以拯救人类，这一信念渗透到了公司各个部门。如果会妨碍这一目标的实现，公司会抛开一切，其中包括工人的安全。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4999！这款智能眼镜在进博会上火了，团队已获阿里千万元战略投资]]></title>
-        <id>https://news.cnblogs.com/n/753452/</id>
-        <link href="https://news.cnblogs.com/n/753452/"/>
-        <updated>2023-11-10T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[允中发自凹非寺 量子位公众号 QbitAI “戴上眼镜，我可以一边逛展，一边看到二维码扫描出来的数字信息，了解更多展品的细节。” 在进博会的人工智能体验区，不少参观者戴着一款智能眼镜开始逛展。 这款智能眼镜，是由奇点临近打造的全天候智能眼镜。11 月 8 日，奇点临近开售了 QIDI ONE 开发者
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
         </author>
     </entry>
 </feed>
