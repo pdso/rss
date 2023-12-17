@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 279 期）：网络社区的悲剧",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n鸡鸣驿位于河北省张家口，是中国现存最大的古代驿站遗址，当年供邮差休息和更换马匹。（via）\n棘手的 AI 版权\nAI 是一个新事物，带来了很多前所未有的问题。\n最棘手、最有争议、也最有意思的，大概就是版权问题。\n\n具体来说，就是下面这个问题：AI 训练（学习）时，能不能使用版权材料，从而具备模仿版权所有者的能力？\n举例来说，前一段时间，网上出现了\"AI 孙燕姿\"，有人用孙燕姿的歌曲作为训练材料，让 AI 模仿孙燕姿的声音，演唱其他歌手的歌曲。\n\n我问大家，这有没有侵犯孙燕姿的版权？\n一种观点是，侵犯版权了，因为未经授权就模仿了孙燕姿的声音。如果听任 AI 模仿孙燕姿，真人还没唱，AI 就先唱了，以后谁还会花钱去听真人演唱？\n另一种观点是，没有侵犯版权，因为 AI 是学习孙燕姿的声音，而不是复制。AI 唱的是孙燕姿本人没有唱过的歌曲，属于 AI 的创作，所以不存在侵犯版权。\n你赞成哪一种观点？\n\n这个问题有趣的地方在于，如果把 AI 换成人，就没有争议了。\n假设有一个小姑娘，刻苦模仿孙燕姿，终于有一天，可以用一模一样的声音演唱了，这个小姑娘有没有侵犯孙燕姿的版权？\n我相信，所有的人都会认同，这不是侵权行为。一个人模仿另一个人的特点，并不侵犯后者的版权。 \n我模仿梵高的风格画画，模仿鲁迅的风格写作，模仿那些最优秀的程序员的风格编程，达到了可以乱真的地步。只要我创作的是自己的作品，就都是合理合法的行为。那么为什么 AI 做同样的事情，就会被认为侵权呢？\n\n但是，又不能完全把 AI 等同于真人。模仿梵高的画家千千万，丝毫不影响梵高真迹的价值，换成 AI 就不一定了。\n如果允许\"AI 孙燕姿\"与\"真孙燕姿…",
-          "link": "http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html",
-          "publishedOn": "2023-11-17T00:10:10.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 278 期）：棘手的 AI 版权",
-          "imageUrl": null
         }
       ]
     },
@@ -667,26 +657,6 @@
           "wordCount": 816,
           "title": "Tabletops | Apple Store 时光机：踏上时光机，重温四家标志性 Apple Store 的盛大开幕日",
           "imageUrl": "https://cdn.sspai.com/2023/11/17/d35184767db4ee0b88e65083a621231f.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84180",
-          "author": "Shobek",
-          "description": "入选 App Store 的本周编辑推荐\n在上周，「识图 App」入选了 App Store 的本周编辑推荐，真好啊！感谢 App Store 官方给这款小工具的认可。\nApp Store 的本周编辑推荐\n新版更新：把温馨回忆放在桌面\n在上一篇介绍「识图 App」的文章里，尝试解决我们日常在使用 iOS 系统相簿和照片里面的最高频的场景，如何快速地找到照片，通过文字、时间、地点的不同组合可以精确地定位到我们想找的那张照片，或分享给朋友、或收藏起来：\n \n \n但是，除了用文字去搜索之外，我们还怎么能发掘我们照片里的宝藏呢？相信我们大家都拍了许多的照片，有那些美美的自拍照，有和恋人当时牵手的摸样，有和家人在一起的温馨瞬间，有曾到过另一座城市的随手抓拍，有猫猫狗狗的呆呆萌萌，甚至还有那些回不去的时光。如果，我们能把相框放在手机桌面，每次点亮屏幕，都能看到那些差点被遗忘的老照片，或许能给我们带来一点点温暖，让回忆的阳光洒到今天。\n如果只是桌面相框，iOS 系统自带的 ”回忆 Widget“ 就能满足需求，但是只是照片，我们常常会忘了是在哪里拍的，在什么时候拍的，甚至忘记了照片里的内容。而文字，是照片最美的标签，如果在展示照片的同时，也能自动配上文字，会不会更有温度呢，更感人呢。所以「识图 」尝试给图片配上最优美的文字，并支持在桌面添加小组件，就像这样：\n\n如果您的手机升级到了 iOS 17，也可以添加「识图 」锁屏小组件。大箭同学有个闲置的 iPhone 手机，他用「识图 Widget 」把它改造成了一个电子相框：\n\n配文：照片的最美标签\n我们想给照片配上最优美的文字，希望「识图 」能看懂照片的内容，能用文字把照片的内容进行总结、提炼和修饰，希望那些文字能打动人心，能给你的照片打上最美的标签。\n给宠物配文\n这只可爱的狗狗是宋老师家的，名字叫 Hard，别看他照片里很是乖巧，拆家的时…",
-          "link": "https://sspai.com/post/84180",
-          "publishedOn": "2023-11-17T09:15:47.000Z",
-          "wordCount": 747,
-          "title": "把照片回忆放在桌面：文字是最美的标签",
-          "imageUrl": "https://cdn.sspai.com/2023/11/18/863203b823ed0eb9bd0095156960013d.png"
-        },
-        {
-          "id": "https://sspai.com/post/84479",
-          "author": "牛头嘿嘿",
-          "description": "OPPO在11月16日召开了OPPO开发者大会，并且正式发布了ColorOS 14。作为从一加1时代就开始使用绿厂机器的我，也在第一时间升级了体验了。我体验的设备为OPPO Find X6 Pro，本次我比较关注的功能为跨端文件、手机连接以及流体云。\n跨端文件\n\n说到手机与电脑之间的互联，做的最好的就是苹果了，iphone和Mac电脑之间的连接，共享剪切板、隔空投送都是效率提升的大杀器，用过一次就离不开了。 纵观Android平台，虽然各家都提供了自己的连接PC的解决方案，但基本上只支持Window平台，而且使用体验十分糟糕，还不如不用。当然，只有vivo家的原子套件例外，操作体验可以达到媲美苹果设备间的互联，而且多平台支持，即便使用Mac也能连接vivo手机，当时使用vivo x90 pro+的那些日子里，我每天都会使用原子套件。\n\n这次的ColorOS 14提出了随身工作台的概念，利用跨端文件功能，实现局域网和互联网内的手机与电脑互联。这个功能最早在OPPO Find X6 Pro发布前，预计在ColorOS 13实现，但后来（猜测）由于工期的原因挪到了ColorOS 14上。\n\n电脑打开OPPO 云服务的网站（ https://cloud.oppo.com/ ），登录自己的OPPO账号，即可开始使用该功能。与前代相比，ColorOS 14多了一个 跨端文件 的功能入口。 网页端进行登录操作后，手机上需要进行确认才可登录，跨端查看文件时，手机通知栏都有提示。\n\n文件传输方面，支持互联网和局域网两种传输模式（应该很少有人会使用互联网传输吧？），检测到电脑和手机在同一局域网中，提示使用局域网传输，但需要在电脑本地安装一个证书。\n\n官网关于证书的说明：\n安全证书是什么？\n当您连接的设备两端都处于同一局域网时，可通过安装安全证书显著提升数据的传输速度，更快、更安全地上传或下载文…",
-          "link": "https://sspai.com/post/84479",
-          "publishedOn": "2023-11-17T09:15:29.000Z",
-          "wordCount": 654,
-          "title": "ColorOS 14新体验：跨端文件、手机连接和流体云",
-          "imageUrl": "https://cdn.sspai.com/"
         }
       ]
     },
@@ -754,6 +724,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76899",
+          "author": null,
+          "description": "Firefox 的 Android 版本开始支持逾 450 个扩展，涵盖了反跟踪隐私保护、广告拦截器、生产力工具、串流音乐、用户界面个性化等各个方面，允许用户根据需要定制移动浏览器。Android 版 Firefox 此前只支持有限的几个扩展，主要是屏蔽广告的 uBlock Origin。今年 8 月 Mozilla 宣布完成了支持开放扩展生态系统所需的基础设施建设，开始逐渐对 Android 用户开放更多浏览器扩展。",
+          "link": "https://www.solidot.org/story?sid=76899",
+          "publishedOn": "2023-12-16T10:29:13.000Z",
+          "wordCount": 189,
+          "title": "Firefox Android 版支持逾 450 个扩展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76898",
+          "author": null,
+          "description": "Stability AI 发布了能根据单幅图像生成对象各个角度视图的模型 Stable Zero123。Stable Zero123 是基于 Stable Diffusion 1.5，生成一个视图消耗的内存与 Stable Diffusion 1.5 相同，但如果要生成 3D 视图需要更多时间和更多内存，建议 24GB。Stable Zero123 目前只支持研究目的的非商业使用。代码和权重发布在 Hugging Face 上。",
+          "link": "https://www.solidot.org/story?sid=76898",
+          "publishedOn": "2023-12-15T15:46:40.000Z",
+          "wordCount": 202,
+          "title": "Stability AI 发布单幅图像生成 3D 对象的 Stable Zero123",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76897",
           "author": null,
@@ -3203,106 +3193,6 @@
           "wordCount": 170,
           "title": "美国三分之一的地方报纸消失",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76649",
-          "author": null,
-          "description": "Signal 协议是事实上的端对端加密协议标准，被 WhatsApp、Google Messages 等流行消息应用采用。现在 Signal 基金会披露了 Signal 消息应用以及相关开发的运营成本。Signal 基金会是非盈利组织，它的资金主要来自于捐款，它不会永久储存用户数据，但临时储存也是要花一大笔钱的，用户注册使用的第三方短信验证等服务也是要花钱。Signal 称每年的运营费用逾千万美元，预计到 2025 年运营费用将达到 5000 万美元。截至 11 月的 2023 年基础设施费用为 1400 万美元，其中储存 130 万美元，服务器 290 万美元，注册费 600 万美元，带宽 280 万美元，其它服务 70 万美元。",
-          "link": "https://www.solidot.org/story?sid=76649",
-          "publishedOn": "2023-11-17T12:58:18.000Z",
-          "wordCount": 190,
-          "title": "Signal 披露其运营成本",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76648",
-          "author": null,
-          "description": "三星证实黑客在长达一年时间内窃取了英国客户的个人数据。三星向受影响客户发送邮件称，攻击者利用了未披露名字的第三方应用的漏洞，在 2019 年 7 月 1 日到 2020 年 6 月 30 日之间访问了在三星英国商店购物的客户个人信息。三星称它直到三年后的 2023 年 11 月 13 日才发现这次入侵。三星通知受影响客户，黑客可能已获取了姓名、电话号码、 邮政地址和电子邮件地址等信息。",
-          "link": "https://www.solidot.org/story?sid=76648",
-          "publishedOn": "2023-11-17T11:01:12.000Z",
-          "wordCount": 175,
-          "title": "三星证实黑客在长达一年时间内窃取了英国客户的个人数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76647",
-          "author": null,
-          "description": "为了遵守欧洲经济区的数字市场法，微软将允许欧洲部分国家的用户卸载 Edge 浏览器、从 Windows Search 中移除必应、在 Widgets Board 中关闭 Microsoft News 和广告。英国、美国以及其它国家不太可能推行相同政策。这不是微软第一次“特别对待”欧洲经济区的 Windows 11 用户，此前它为了遵守数字市场法而改变了捆绑 Teams 视频会议工具的方式，使用用户选择的默认浏览器而不是 Edge 打开链接。",
-          "link": "https://www.solidot.org/story?sid=76647",
-          "publishedOn": "2023-11-17T09:00:55.000Z",
-          "wordCount": 182,
-          "title": "微软将允许欧洲经济区用户卸载 Edge 和移除必应",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76646",
-          "author": null,
-          "description": "Google Chrome 官方博客宣布将从 2024 年 6 月起在 Chrome Dev、Canary 和 Beta 中自动禁用 Manifest V2 扩展。Chrome Web Store 也不再允许安装 Manifest V2 扩展。它鼓励开发者更新扩展迁移到 Manifest V3。Manifest V3 扩展系统受争议之处是它限制了 WebRequest API 的功能，用 declarativeNetRequest 替代了 WebRequest。广告屏蔽扩展如 uBlock Origin 会受到影响，因为它们使用 WebRequest 在广告下载前屏蔽其请求。禁用 Manifest V2 扩展意味着 uBlock Origin 会在明年年中被禁用。开发者已经释出了使用 Manifest V3 的精简版本uBO Lite，其功能弱于原版。原版未来只能在 Firefox 等浏览器上使用。",
-          "link": "https://www.solidot.org/story?sid=76646",
-          "publishedOn": "2023-11-17T07:31:49.000Z",
-          "wordCount": 231,
-          "title": "Google Chrome 将在 2024 年禁用 Manifest V2 扩展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76645",
-          "author": null,
-          "description": "在《金融时报》周四报道 IBM 的广告出现在支持希特勒和纳粹的帖子旁边之后，IBM 暂停了 X 上的广告投放。Media Matters 的一项研究也发现，苹果、甲骨文和康卡斯特旗下 Xfinity 和 Bravo 的广告与支持纳粹的内容相邻。周三，马斯克赞同 X 上的一个帖子，该帖子支持反犹阴谋论，即犹太人对白人怀有“辩证仇恨”。马斯克在回复该帖时写道：“你说的是事实真相。”更糟糕的是，马斯克周四在 X 上说，白人“不被允许为自己的种族感到骄傲”（这是一名极右翼用户推文中的话），这“超级糟糕”。IBM 在一份声明中说：“IBM 对仇恨言论和歧视零容忍，在我们调查这一完全不可接受的情况的同时，我们立即暂停了 X 上的所有广告。”",
-          "link": "https://www.solidot.org/story?sid=76645",
-          "publishedOn": "2023-11-17T06:21:41.000Z",
-          "wordCount": 187,
-          "title": "IBM 从 X/Twitter 撤下广告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76644",
-          "author": null,
-          "description": "名为 Alphv/BlackCat 的勒索软件组织向 SEC 投诉受害者未按照规定在四个工作日内披露数据被窃取事件。勒索软件组织声称它入侵了加州金融软件公司 MeridianLink，窃取了其客户数据，要求支付赎金否则将泄露窃取的数据。为了增加获得赎金的几率，该组织称已经向 SEC 投诉 MeridianLink，指控该公司未按 7 月公布的规定及时披露数据泄露。BlackCat 黑客称他们是在 11 月 7 日入侵了 MeridianLink，没有加密文件只是窃取了数据。MeridianLink 发言人证实遭到网络攻击，但尚未确认有客户数据被盗，称该公司的调查没有发现有未经许可访问其生产平台的证据，如果发现有客户数据被盗，将按照法律要求发布通知。",
-          "link": "https://www.solidot.org/story?sid=76644",
-          "publishedOn": "2023-11-17T05:59:06.000Z",
-          "wordCount": 182,
-          "title": "勒索软件组织向 SEC 投诉受害者未及时披露数据泄露",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76643",
-          "author": null,
-          "description": "苹果出人意料的宣布明年 iPhone 将支持 Google 力推的 RCS 消息标准。RCS 代表 Rich Communication Services，比短信或彩信支持更多功能，如视频和加密，兼容支持 RCS 标准的运营商和厂商的消息应用。苹果的决定是在监管机构以及 Google 和三星等竞争对手施压下做出的。此外 RCS 也发展成为一个更成熟的消息平台。苹果此举意味着明年晚些时候 Android 用户将能正常看到苹果用户发送的 iMessage 消息。",
-          "link": "https://www.solidot.org/story?sid=76643",
-          "publishedOn": "2023-11-17T05:26:40.000Z",
-          "wordCount": 184,
-          "title": "苹果宣布将在明年支持 RCS 标准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76642",
-          "author": null,
-          "description": "上个月，教育心理学家 Ronald Beghetto 要求一组研究人员和教育专业人士与他设计的聊天机器人交流。这些聊天机器人基于 ChatGPT，但强化了创造力。参与者的反馈非常积极，认为比原版的 ChatGPT 好得多。教育工作者担心 ChatGPT 会让学生在作业中更容易作弊，但 Beghetto 等人则尝试将 ChatGPT 变成帮助教育的工具。部分教育者将大模型视为潜在的“思想伙伴”，成本比人类导师更便宜，相比人类，它们可以随叫随到。AI 聊天机器人有可能成为一对一的辅导教育软件，辅导学生逐步解决问题，激发批判性思维，或者像 Beghetto 的实验那样增强用户的创造力。",
-          "link": "https://www.solidot.org/story?sid=76642",
-          "publishedOn": "2023-11-16T15:59:03.000Z",
-          "wordCount": 176,
-          "title": "ChatGPT 进入教室",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76641",
-          "author": null,
-          "description": "在内核中加入代码相对容易，移除代码则更为困难。Linux 6.7 移除了对英特尔安腾（ia64）架构的支持，令少数 ia64 忠实用户颇为不满，他们抱着微弱的希望，对 ia64 的支持能在一年内恢复。英特尔在 1990 年代末开发了只支持 64 位的安腾架构，2000 年发布的 Linux 2.3.43 加入了对 ia64 的支持。而 AMD 则在同一时间推出了兼容 32 位的 x86-64 架构，它更受欢迎，迫使英特尔跟随 AMD 的脚步，英特尔只推出了几款 ia64 产品。内核则一直保留了对 ia64 的支持。但随着与 ia64 代码相关的 bug 引起内核开发者的注意，他们开始讨论移除对 ia64 的支持。虽然最初的讨论没有产生结果，但在今年 5 月，内核维护者再次提出移除该架构时获得了更多认同。Debian ia64 维护者建议在下一个内核 LTS 版本发布后移除。Linux 6.6 是最新的 LTS 版本，6.7 正式移除了支持。故事似乎结束了。但部分 ia64 忠实用户对此表达了不满，称他们正在努力解决该架构相关问题，结果却看到架构被移除了。Linus Torvalds 提议在一年后再考虑是否让它重返内核。然而 glibc 库的维护者也开始讨论移除对 ia64 的支持。",
-          "link": "https://www.solidot.org/story?sid=76641",
-          "publishedOn": "2023-11-16T15:40:05.000Z",
-          "wordCount": 209,
-          "title": "拯救安腾架构",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76640",
-          "author": null,
-          "description": "面向英国年轻人的 YAY UK（Young Animator of the Year）公布了 2023 年的获奖者：16 岁的 Euan Garbut 赢得了 15-18 年龄组的最佳动画奖：他在一分钟内描述了未来世界机器人给人类制作食物的过程。主办方称，该奖项由英国动画和 VFX 工作室的专业人士评选，开源 3D 建模软件 Blender 让年轻一代制作出令人称奇的动画成为可能。Euan Garbut 称他用 Blender 制作动画，Davinci Resolve 用于颜色分级 (colour grading)。",
-          "link": "https://www.solidot.org/story?sid=76640",
-          "publishedOn": "2023-11-16T14:19:28.000Z",
-          "wordCount": 210,
-          "title": "16 岁少年用 Blender 创建的动画赢得了英国 YAY UK 动画奖",
-          "imageUrl": null
         }
       ]
     },
@@ -3311,6 +3201,46 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/759551/",
+          "author": null,
+          "description": "文｜财经故事荟，作者｜王舒然，编辑｜万天南 在外界将 Temu 联想成亚马逊“你死我活”般的劲敌时，亚马逊对这位对手的态度却似乎有些“暧昧”。 亚马逊甚至大方为 Temu 导流。 Temu App 的下载链接就挂在亚马逊的 App 商店中，并且很多评论上写着价格比亚马逊便宜很多，这种做法让人直呼“格\n本文链接",
+          "link": "https://news.cnblogs.com/n/759551/",
+          "publishedOn": "2023-12-16T09:31:32.000Z",
+          "wordCount": 163,
+          "title": "Temu们围攻亚马逊：一场或被低估的错位竞争",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/759550/",
+          "author": null,
+          "description": "文｜吴怼怼，作者｜斯维奇 “在领悟什么道理后，你的人生开始轻松起来？” “什么算是人生的顶级享受？” “你最意外的一笔收入是什么？” 这些高赞问答经过一批知乎「倒爷」截图发上小红书，零成本吸引流量，运营得风生水起。 一天数篇，这样经过检验的优质内容总会有一篇被大数据送到合适的受众手中，分分钟浏览量破\n本文链接",
+          "link": "https://news.cnblogs.com/n/759550/",
+          "publishedOn": "2023-12-16T09:23:29.000Z",
+          "wordCount": 163,
+          "title": "知乎“倒爷”，折射文字社区20年浮沉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/759549/",
+          "author": null,
+          "description": "文伯虎财经，作者梦得 2022 年 3 月陈睿首次提出，公司要在 2024 年实现盈亏平衡，而这需要B站三大创收业务，游戏、直播和广告齐头并进。但现在的情况是，前路未卜。 11 月 29 日，B站发布了 2023 年第三季度业绩。财报显示，本季度B站营收 58.1 亿元人民币，与 2022 年同期持\n本文链接",
+          "link": "https://news.cnblogs.com/n/759549/",
+          "publishedOn": "2023-12-16T09:21:53.000Z",
+          "wordCount": 163,
+          "title": "B站：赚钱有限，想象力无限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/759548/",
+          "author": null,
+          "description": "作者丨王悦 编辑丨陈彩娴 12 月 16 日中午，AI 科技评论获悉：上海人工智能实验室主任、商汤科技创始人、香港中文大学信息工程学系教授汤晓鸥去世。 经多位独立信源确认，此消息属实，目前等待官方发布讣告。 20 世纪 60 年代末，汤晓鸥出生于辽宁鞍山，1996 年博士毕业之后，他回国在香港中文大\n本文链接",
+          "link": "https://news.cnblogs.com/n/759548/",
+          "publishedOn": "2023-12-16T08:37:46.000Z",
+          "wordCount": 163,
+          "title": "哀悼 ！中国计算机视觉领军者、商汤创始人汤晓鸥去世",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/759547/",
           "author": null,
@@ -8749,186 +8679,6 @@
           "publishedOn": "2023-11-17T13:17:00.000Z",
           "wordCount": 163,
           "title": "M3 MacBook Pro 评测：Mac 可以打游戏了，但这不是它最大的亮点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753857/",
-          "author": null,
-          "description": "2023 年了，你的手机用上无线充电了吗？ 最近，无线充电联盟（WPC）宣布下一代无线充电标准 Qi v2.0 产品即将落地，能够提供磁性功能、更快的充电、更高的效率，以及更多便利性。 需要先说明的是，Qi 意思是「关键能量」，是一种由无线充电联盟制定的互连标准，能够实现短距离低功率无线感应式电力传\n本文链接",
-          "link": "https://news.cnblogs.com/n/753857/",
-          "publishedOn": "2023-11-17T13:07:00.000Z",
-          "wordCount": 163,
-          "title": "Qi2 标准即将落地，Android 手机也能用上苹果 MagSafe 同款无线充",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753856/",
-          "author": null,
-          "description": "为了遵守欧洲经济区的数字市场法，微软将允许欧洲部分国家的用户卸载 Edge 浏览器、从 Windows Search 中移除必应、在 Widgets Board 中关闭 Microsoft News 和广告。英国、美国以及其它国家不太可能推行相同政策。这不是微软第一次“特别对待”欧洲经济区的 Win\n本文链接",
-          "link": "https://news.cnblogs.com/n/753856/",
-          "publishedOn": "2023-11-17T13:00:00.000Z",
-          "wordCount": 163,
-          "title": "微软将允许欧洲经济区用户卸载 Edge 和移除必应",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753855/",
-          "author": null,
-          "description": "11 月 15 日，小米汽车第一款车型 SU7 正式亮相工信部申报目录，正式宣告小米汽车拿到“准生证”，可以开启量产。据悉，新车定位“C级生态科技轿车”，外观照也引来网友一阵感叹“是保时捷出了轨，还是特斯拉劈了腿？”虽然这话从侧面肯定了小米汽车的颜值，但外界最关心的还是售价。当前，新能源汽车市场还陷\n本文链接",
-          "link": "https://news.cnblogs.com/n/753855/",
-          "publishedOn": "2023-11-17T08:33:00.000Z",
-          "wordCount": 163,
-          "title": "小米汽车，年轻人可能买不起",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753854/",
-          "author": null,
-          "description": "来源：远川研究所 随着电商平台双十一战报陆续出炉，熟悉的大红字体和亲切的加粗格式迎面扑来。但定睛一看，统计口径含蓄了许多。 活跃用户、品牌成交额、店播等数据登上前台，作为重头戏的总成交额被默契的忽略。 与往年用小程序、Excel 表格满天飞的气氛相比，今年双十一话题度可以算大不如前。 节前造势期间，\n本文链接",
-          "link": "https://news.cnblogs.com/n/753854/",
-          "publishedOn": "2023-11-17T08:22:00.000Z",
-          "wordCount": 163,
-          "title": "今年的双十一静悄悄",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753853/",
-          "author": null,
-          "description": "作者 朱晓宇 来源豹变 眼下小米汽车最拿不准的就是定价问题：定价太高，可能影响销量；定价太低，影响品牌形象，以及怎么算清利润率的账。 赌上雷军所有声誉的小米汽车，终于拿到了“准生证”。 11 月 15 日，工信部网站上第 377 批《道路机动车辆生产企业及产品公告》新产品公示显示，两款小米牌纯电动轿\n本文链接",
-          "link": "https://news.cnblogs.com/n/753853/",
-          "publishedOn": "2023-11-17T08:11:00.000Z",
-          "wordCount": 163,
-          "title": "小米汽车上路，就差米粉的“30万”了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753852/",
-          "author": null,
-          "description": "作者路世明 来源锌财经 如果说汽车圈最近谁最烦躁，何小鹏当属第一人。 近一个月多来，关于小鹏汽车的“麻烦事”接二连三。先是何小鹏与余承东就 AEB 技术拉开了一场线上激辩，引发行业热议；再是小鹏掀起一场内部反腐行动，原小鹏汽车副总裁、采购部负责人李丰被停职调查；紧接着超 1500 名小鹏 P7 车主\n本文链接",
-          "link": "https://news.cnblogs.com/n/753852/",
-          "publishedOn": "2023-11-17T08:00:00.000Z",
-          "wordCount": 163,
-          "title": "输给余承东后，小鹏的冬天有点头大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753851/",
-          "author": null,
-          "description": "奇偶派（jioupai）原创 作者 范文 10 月 24 日，李佳琦开始了今年双 11 首场直播，据统计，李佳琦直播间共上架约 400 个商品，根据每个商品页面的售价，和销量数据进行初步统计，本场直播的 GMV95 亿元。虽然这个数字相比去年少了一半，但考虑到今年整体消费水平，这个销量其实不算差。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/753851/",
-          "publishedOn": "2023-11-17T07:50:00.000Z",
-          "wordCount": 163,
-          "title": "双十一前李佳琦被围攻，从一开始就注定了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753850/",
-          "author": null,
-          "description": "作者｜张翌楠 “我知道他们现在很困难，但是已经延期 4 次了，这次无论如何要发起回购，我们也没法跟 LP 交代，也别让我太难做。” William 在咖啡店挂掉电话后，眼睛依然没有离开手机，在屏幕上划拉了几下，大概是因为微信跳出了几条新的未读。在沉默的 2 分钟后，他才幽幽扣下手机，发出一声有些自嘲\n本文链接",
-          "link": "https://news.cnblogs.com/n/753850/",
-          "publishedOn": "2023-11-17T07:40:00.000Z",
-          "wordCount": 163,
-          "title": "中年投资人和他越不过的“山丘”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753849/",
-          "author": null,
-          "description": "来源：字母榜 几天前，一位纠结保研还是去 TOP2 互联网公司工作的大学生，在社交平台寻求网友们的建议，他特地给这家互联网注明了“总部北京”。总部在北京的 TOP2 互联网公司显然是字节，而将阿里或是腾讯排到字节身后的这种排法，乍看并不准确。 但昨日外媒的一则报道证明了它的准确性。 据 The in\n本文链接",
-          "link": "https://news.cnblogs.com/n/753849/",
-          "publishedOn": "2023-11-17T07:30:00.000Z",
-          "wordCount": 163,
-          "title": "字节和腾讯的猫鼠游戏，换位了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753848/",
-          "author": null,
-          "description": "王自如是本来就向往去成熟的体制里做一人之下的高层，还是在创业过程里慢慢被种种不可抗力折磨，变得畏惧前进和变化？ 作者丨牧歌 来源丨螺旋实验室 多年之后，王自如一定会后悔接受了这次采访，正如后悔当年和罗永浩面对面公开辩论一样。 和老罗的那次辩论，等于是以王自如自身的窘迫衬托了老罗的犀利形象。而这一次的\n本文链接",
-          "link": "https://news.cnblogs.com/n/753848/",
-          "publishedOn": "2023-11-17T07:20:00.000Z",
-          "wordCount": 163,
-          "title": "网红入职大厂，结局大多不自如",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753847/",
-          "author": null,
-          "description": "撰文 吴先之 来源光子星球 太平洋两岸重新刮起了春风，资本市场也变得躁动起来。 双十一刚结束，跨境电商巨头 SHEIN（希音）赴美 IPO 的消息不胫而走。尽管 SHEIN 官方人士仍然用“暂无回应”与“不太清楚”回应外界关注，但多家主流媒体引述知情人士消息指出，SHEIN 已经秘密完成交表，此番赴\n本文链接",
-          "link": "https://news.cnblogs.com/n/753847/",
-          "publishedOn": "2023-11-17T07:10:00.000Z",
-          "wordCount": 163,
-          "title": "SHEIN秘密交表与背后的疑云",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753846/",
-          "author": null,
-          "description": "作者张浅浅 出品零态 LT（ID：LingTai_LT） 游戏爱好者昭昭经常在虎牙、斗鱼、B站和抖音四个平台横跳。“具体用哪个平台，还得看内容。”据她说，像世界级的电竞比赛，谁有转播权、谁更高清，就用哪个平台。日常的话，会跟着主播走，“主播在哪里她就去哪里。” “最爱斗鱼的 Doinb，几乎每天都看\n本文链接",
-          "link": "https://news.cnblogs.com/n/753846/",
-          "publishedOn": "2023-11-17T07:00:00.000Z",
-          "wordCount": 163,
-          "title": "游戏直播双子星“水逆”2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753845/",
-          "author": null,
-          "description": "文｜商业秀，作者崔思，编辑 张弘一 今年双十一悄然落幕，依然是战报“缺席”。 淘天、京东等也没有刷屏的销售额和 GMV，代之以“全面增长”和“齐创新高”，更不要提零点收官后的狂欢了。 甚至有网友贴出了今年双十一的销售额数据。没有对比就没有伤害，和往年相比，2023 年综合所有电商平台的销售额仅为 2\n本文链接",
-          "link": "https://news.cnblogs.com/n/753845/",
-          "publishedOn": "2023-11-17T06:51:00.000Z",
-          "wordCount": 163,
-          "title": "今年双11销售额连10万都不到，中小商家另寻出路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753844/",
-          "author": null,
-          "description": "文定焦，作者黎明，编辑方展博 中国的大模型创业很火，但有些公司可能跑偏了。 “百模大战”这半年，大大小小的科技公司，都推出了自己的大模型。仿佛不发布一个大模型，就不配坐上通往 AI 时代的列车。 这造成一种现象：高度雷同，同质竞争。大家一蜂窝扑上来，重复造轮子。 11 月 15 日在深圳举行的西丽湖\n本文链接",
-          "link": "https://news.cnblogs.com/n/753844/",
-          "publishedOn": "2023-11-17T06:44:00.000Z",
-          "wordCount": 163,
-          "title": "大模型创业，李彦宏指了条路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753843/",
-          "author": null,
-          "description": "文砺石商业评论，作者张军智 俞敏洪的新东方，卧虎藏龙。 高途集团（跟谁学）的创始人陈向东，朴新教育创始人沙云龙，真格基金的王强、徐小平、包凡一，峰瑞资本创始人李丰，新航道国际教育创始人胡敏，韦林文化创始人朱伟，锤子科技创始人罗永浩，比特币首富李笑来……都曾在新东方担任过高管和名师。 据俞敏洪 5 年\n本文链接",
-          "link": "https://news.cnblogs.com/n/753843/",
-          "publishedOn": "2023-11-17T06:36:46.000Z",
-          "wordCount": 163,
-          "title": "俞敏洪：我是一个特别懦弱的人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753793/",
-          "author": null,
-          "description": "在内核中加入代码相对容易，移除代码则更为困难。Linux 6.7 移除了对英特尔安腾（ia64）架构的支持，令少数 ia64 忠实用户颇为不满，他们抱着微弱的希望，对 ia64 的支持能在一年内恢复。 英特尔在 1990 年代末开发了只支持 64 位的安腾架构，2000 年发布的 Linux 2.3\n本文链接",
-          "link": "https://news.cnblogs.com/n/753793/",
-          "publishedOn": "2023-11-17T01:00:08.000Z",
-          "wordCount": 163,
-          "title": "拯救安腾架构",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753792/",
-          "author": null,
-          "description": "砸了几十亿美元、耗时五年多，苹果给 iPhone“换芯”的愿望还是落空。 2018 年来，苹果投入数以千计的人力，斥资数十亿美元，研发手机调制解调器芯片、国内又称基带芯片，致力于用自研芯片取代 iPhone 中的高通芯片。美东时间 11 月 16 日周四，媒体传出苹果研发仍滞后的坏消息。 媒体获悉，\n本文链接",
-          "link": "https://news.cnblogs.com/n/753792/",
-          "publishedOn": "2023-11-17T00:56:53.000Z",
-          "wordCount": 163,
-          "title": "消息称苹果自研5G基带开发再“难产”，将推迟到2026年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753791/",
-          "author": null,
-          "description": "新浪科技讯，北京时间 11 月 16 日晚间消息，阿里巴巴（NYSE： BABA；HKEX： 9988）今日发布了截至 2023 年 9 月 30 日的 2024 财年第二财季财报：营收为 2247.90 亿元，同比增长9%。净利润为 266.96 亿元，而上年同期净亏损 224.67 亿元；Non\n本文链接",
-          "link": "https://news.cnblogs.com/n/753791/",
-          "publishedOn": "2023-11-17T00:55:27.000Z",
-          "wordCount": 163,
-          "title": "阿里云智能集团2024财年Q2营收276.48亿元 同比增长2%",
           "imageUrl": null
         }
       ]
