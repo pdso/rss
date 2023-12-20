@@ -59,6 +59,26 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/85179",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大家。\n希望这份「社区速递」能帮你发现更多有趣的内容分享。如果你有任何栏目内容或首页改版建议，也欢迎在评论区留言反馈。\n\n本周精选\n工具分享\n在《Airy 轻助理：效率工具与AI结合的神奇小工具》一文中，作者 Null 介绍了一款名为 Airy 轻助理的效率工具。该工具巧妙结合了 AI 技术，为 macOS 和 Win11 用户提供了一体化的界面，整合了多种效率工具，包括翻译、待办事项管理、chatGPT 等。通过设计精良的搜索框和快捷键，Airy轻助理提供了流畅的效率体验，不仅简化了电脑操作，还引入了「魔法复制」交互方式，使得用户能够在不离开当前界面或记忆额外快捷键的情况下完成翻译等任务。\n\n《隐藏在Mac刘海下的效率工具 - Folder Hub》是由作者 Lessimore 撰写的文章，着重探讨了在 Mac 系统中一些交互上的痛点，重点介绍了一款名为 Folder Hub 的效率工具。作者详细列举了在 Mac 使用过程中的交互不便之处，强调了 Folder Hub 如何解决这些问题，提高工作效率。\n在《2023年12月，重新测评Android平板上的各大输入法》一文中，作者 cabins 重新评估了 Android 平板上各大输入法的性能。文章首先介绍了更新的 Gboard Beta 版本，并以客观的态度评价了多个输入法在 2023 年 12 月的表现。通过测试维度包括光标跟随、实体键盘输入、双拼和五笔支持、键盘自动收起等，最后，作者对各输入法进行了详细评测，并给出了推荐指数。\n经验与思考\n《看完Sam Altman的斯坦福创业课，我学到了什么？》是由作者 Bay的…",
+          "link": "https://sspai.com/post/85179",
+          "publishedOn": "2023-12-19T09:10:46.000Z",
+          "wordCount": 912,
+          "title": "社区速递 025 | 刘海工具、百元耳机以及千奇百怪的放松姿势",
+          "imageUrl": "https://cdn.sspai.com/12/19/2023/article/ba42d234-e07b-cd29-fa78-126ef5271d7c.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85095",
+          "author": "奕口大锅天上来",
+          "description": "笔者家中网络上次升级后，是以软路由做主路由，然后三台MX4200+1台MX2001 无线MESH完成的无线覆盖。但是领势MX系列的固件只能在路由模式下开启无线Mesh。这样即便是光猫桥接软路由拨号，无线接入的设备也是多了一层NAT。而华硕在AP模式下的可自定义设置项是远远高于其他两家，而且AiMesh 2.0完全可以工作在AP模式下，所以本次升级还是将目光瞄准了华硕ASUS/玩家国度ROG的路由器，完成无线组网。有游戏下载需求一定要降低NAT类型，也就是减少路由层级。\n\n申请公网IP、光猫改桥接、路由拨号一套组合拳下来，就没啥问题了。多一层路由转发，就降低一层。先前是主路由拨号+无线路由固定IP的模式，但给了公网IP所以还算可用。如果是NAT D这种，不管是打游戏还是P2P下载就都不灵了，基本上也就只能刷刷视频。当然对于Xbox、Switch、Play Station这类的游戏影音设备，记得开启路由的Upnp功能，要不然还是不能玩。\n\n选型要根据具体需求确定，现阶段规划思路就是保证正房的100平米保证2.5Gbps有线+满血2.4Gbps的Wi-Fi 6下全覆盖，东西厢房、主院与东小院保证500Mbps左右的的无线覆盖。\n\n而且采用AiMesh2.0的话，后续升级扩大覆盖高速率面积，只需要添加足够的节点就能够保证网速达标。国内很多家庭在装修之时都没有考虑网络覆盖的问题，所以有一阵信号放大/中继器的销量就不低，但是无线中继的层级越多，网速越慢延迟越高。因为Wi-Fi本质是个半双工的传输模式，每过一层速度都要减半。Mesh就是规避无线中继的逐级减半问题，才应运而生的。双频Mesh实际也存在多级掉速的问题，而且这些双频AX路由器基本都是中低端的价格和配置。所以主节点和主干子节点最好还是要选择三频的，其他边缘节点可以选择双频这些更便宜的。各家的三频路由都是单有一路无线回程，在保证你…",
+          "link": "https://sspai.com/post/85095",
+          "publishedOn": "2023-12-18T14:33:03.000Z",
+          "wordCount": 605,
+          "title": "如何设计2.5G家用内网，聊聊我的选购安装思路",
+          "imageUrl": "https://cdn.sspai.com/2023/12/15/2add74be53d91a8cbbbd894cd917ae58.jpg"
+        },
+        {
           "id": "https://sspai.com/post/85009",
           "author": "莫顿街5号儿",
           "description": "本文参加「放轻松」征文活动\n身为一个i人，上班是一种煎熬；而身为一个绝不想被人控制的INTJ，听控制欲极强的领导发不合理的号、施不科学的令，那真无异于酷刑。\n当你发现这个世界就是一个巨大的草台班子，你的努力似乎只是一种可笑的自我催眠时，下班飞奔回家后的时光就是每天的曙光。\n压力山大怎么解压？\n写日记\n正经人谁会写日记啊？但是！打工人哪有不疯的！！！\n日记、手帐，在工作后逐一拾起。其实初二开始写日记，没有间断地写到高三。大学后似乎压力没有那么大了，人也懒了，生活也丰富了，日记便第一个被我放弃。工作三年后，不满于成年人世界的残酷现实，开始重拾日记，此时的我更注重书写体验，就图一个开心！\nMoleskine的周记本和灯塔的横间笔记本\n收破烂\n我最近一段时间迷上了收破烂然后进行改造，什么保温袋、咖啡杯套、吃完的坚果盒、硬纸壳子，都是我的收藏对象。\n我的本职工作是法务，枯燥无聊，所以我特别享受拿到一个破烂儿然后奇思妙想把它改造成可用之物的过程。我也大言不惭地向同事们收集他们点咖啡后要扔的袋子、杯套。\n咖啡杯套\n我是一个实用主义，所以网上那种把咖啡杯套组合成五角星、把咖啡杯套剪下来做拼贴画的用法实难合我心意。咖啡杯套在我家的用法是作为分隔收纳的分隔，辅以曲别针组合，收纳能力立马up up！\n\n \n咖啡袋\n上个月我终于拥有了我的飘窗书桌，不用再和家属抢桌子用了！我对收纳分区分类很痴迷，所以我自己的抽屉内部分区一定要合理！一个大抽屉随便放东西的话其实放不了多少，但是如果分隔开，每个东西都在自己的小隔间里，收纳能力就很强了。所以我用咖啡袋做了抽屉的分区收纳，目前还没有足够多的东西填满，但是这个分区很合理，我超级满意！\n\n好看的咖啡袋还有一个妙用，就是做纸巾盒。同事点的皮耶和V&A联名咖啡，袋子被我做成了纸巾盒，教程网上随便一搜就有。但是我最为得意的点在于，我用2023年台历的小磁铁贴在了纸巾盒里面，直接上墙1节省桌面空间！这要是网上买一个磁吸纸巾盒，还这么好看，没60下不来吧！\n\n保温袋\n说到保温袋，可真的是人类之光！放在冰箱里面做分区收纳有三大好处：收纳力强、方便打扫、延缓蔬果的保鲜期。\n\n洗衣凝珠盒\n洗衣凝珠盒带盖，加配子母扣，真的是很不错的收纳小盒！盖子防尘，子母扣方便拿取更换。我会用贴纸或者丙烯马克笔涂鸦来进行进一步的改造，身价瞬间翻几倍！\n书桌旁边的小小杂物桶\n各类纸盒\n\n \n\n零食塑料/铁盒\n\n \n象牌气泡水瓶\n气泡水玻璃瓶的用法可以说是太广泛了！搭配不同的盖儿、头儿就能改造很多东西。以前租房的时候搭配油壶嘴，就是调料瓶，全部统一，强迫症福音。最重要的是用脏了不用洗，直接丢掉换新的！\n搬进自己的新家之后买了山姆的重力油瓶，但是使用感说实话还不如以前的象牌自制调料瓶，只不过花重金买的，暂时就先不换了。\n不过气泡水瓶依然可以改造：\n\n \n身不由己的成年人世界，是晚上飞机落地之后还得继续强颜欢笑附和着领导哈哈哈，然后再说些言不由衷的屁话惹领导哈哈哈。\n坐上出租车后一秒冷脸，怒视着看不到尽头的夜色，心里骂着没有客体的脏话。\n但早有过来人告诉你，哪里都是一样的，我们都终将在这个操蛋的世界里被激怒，再慢慢平静地接受这一切愤怒，慢慢理所应当，活在这个莫名其妙的成人世界里。\n无论在哪里，都有一样的权力争夺，一样的桃色新闻，一样的勾心斗角，一样的虚伪逢迎。你没得选择，你只能选择是认怂还是跟这个世界对着干、然后承担胳膊拧不过大腿的后果。胳膊拧大腿的时候，没人觉得你是悲壮，你只是这个世界的小丑，为那些权势者的空虚寂寞的无敌生活平添笑料而已。\n所以，还是需要一点点浪费时间的爱好，让我有暂时跳出这个框架的可能。压力和痛苦更多来源于自己对这个世界的期望和现实世界的差距，可以说是理想主义；而这些减压大法，是我与这个糟糕世界共处的方式。",
@@ -657,26 +677,6 @@
           "wordCount": 593,
           "title": "超越Notion和Roam Research：RemNote揭秘，考试笔记如何事半功倍！",
           "imageUrl": "https://cdn.sspai.com/2023/11/19/9ca49c4c58f154169f6ea723f2346a83.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84487",
-          "author": "EurekaLab",
-          "description": "OpenAI 在最新的开发者大会上，隆重的推出了GPTs，这次更新大大降低了开发AI工具的门槛，为普通创作者提供了前所未有的机会。它不仅意味着我们可以更容易地接触和利用这些强大的工具，还意味着我们可以更加自由地创造和表达。\n写作本身就是GPT模型较为擅长的领域，我不禁去思考，能不能利用GPTs开发一个博客的写作工具，帮助我们进行提升写作水平，统一写作风格。说干就干，我决定以少数派作为实验对象，创造一个少数派写作的AI小助手。\n\n写作指南的创建\n要制作一个少数派风格的AI小助手，自然要首先明白，少数派社区欢迎哪些内容，其文章的写作风格是什么样的，并得到一个具体的写作指南。\n我具象这个目标的思路是：\n\n从少数派上获取热门的样本文章；\nresult_ind：分别对这些样本文章进行内容、结构、风格的总结；\n再对这些result_ind进行整合，得到一个总体的写作指南。\n\n获取样本文章\n我选取了首页上“热门”板块中最近的10个“社区内容”的文章来进行进行尝试。首先将这些文章全部收藏进了Cubox中。\n\n分析文章并获得result_ind\n之后我打算把这些文章输入chatGPT中进行分析。最开始想要使用chatGPT读取文件的功能进行直接分析。但是尝试后发现，最近可能是因为算力的问题，经常会出现：上传文件出错，读取文件出错（文件本身只有203k，原先数十m的文件都可以正常读取），文件只读取前面小半部分的问题。所以最后还是选择使用插件（WebPilot）直接读取网页内容。\n总结过程中出现问题\n接着使用上图给定的prompt进行总结，很快出现了新的问题。文章中包含了少数派的引导信息，这很显然会干扰到我们的结果。所以我调整了prompt，增加了“请忽略其中关于少数派社区的引导内容”的语句。\n\n最终的prompt：你好，我会每次给你发送一篇文章，我需要你读取每篇文章的内容并进行拆解总结，请忽略…",
-          "link": "https://sspai.com/post/84487",
-          "publishedOn": "2023-11-20T08:59:00.000Z",
-          "wordCount": 580,
-          "title": "分析了十篇社区热文，我通过GPTs创造了一个少数派写作AI助手",
-          "imageUrl": "https://cdn.sspai.com/2023/11/17/3b287cc8a62835a33f971369b38b516c.png"
-        },
-        {
-          "id": "https://sspai.com/post/84505",
-          "author": "Wonz",
-          "description": "写在前面\n先说一下背景，我之前在一家互联网公司做程序员，后来经历裁员之后，因为在理想与现实之间摇摆不定，就过了一段「整理自己」的生活，期间写下了 《在没有工作的时候整理自己：往前看，别回头》 这篇文章。之后出去旅行了一段时间，去了好多地方，深圳广州佛山南京杭州上海日本西安，最后回到北京之后，找了一家鸡尾酒吧做调酒师。\n看上去其实转变挺大的，但其实也不算一时兴起，毕竟喝鸡尾酒是我的一个爱好，喜欢去不同城市的鸡尾酒吧喝点不一样的鸡尾酒。\n但是酒客当多了之后，自然就会想了解一下其中的学问。自己之前看过一些鸡尾酒的科普介绍文章，了解到一些鸡尾酒架构、威士忌产地等知识。但还是心里痒痒，正好现在在 Gap，就尝试了一下新的职业道路，也算是一种重新认识自己的方式吧。\n学到了哪些\n当调酒师的这些日子里，因为工种和之前做的程序员工作可谓是千差万别，体验绝对是不一样的。\n鸡尾酒的科普\n关于鸡尾酒的一些科普知识，我是自己在网上看一些文章学习的。比如六大基酒、常用利口酒、鸡尾酒架构、酒杯的选择等。\n熟悉酒的味道\n\n理论的知识除了需要用大脑进行记忆外，更多的是需要熟悉。\n\n对于一名酒客来说，一杯酒好喝就是好喝。而调酒师需要做的就是，如何让这个「好喝」的标准让更多人能接受。\n在基酒和利口酒的记忆过程中，其实也需要自己进行品尝，熟悉味道。\n而向客人介绍酒比如威士忌时，也需要熟悉酒的产地、风味等。\n调酒\n在来酒吧做调酒师之前，我只在家自己调过 Whisky Sour 威士忌酸、Gin & Tonic 金汤力这两款酒。工具有限，手法粗糙，谈不上专业。\n而自己上班的这家酒吧之前喝过好几次，非常认可这家店的酒，这也是我选择来这家店学习的一个主要原因。\n我的老板在我看来是一个在调酒方面非常有天赋的人。调酒的天赋体现在鸡尾酒的创作上，从独一无二的草本酒单到不同季节的季节限定酒单，再到平均每个月一次的展览特调酒单。足…",
-          "link": "https://sspai.com/post/84505",
-          "publishedOn": "2023-11-19T16:02:07.000Z",
-          "wordCount": 658,
-          "title": "当我调酒时，我在想些什么",
-          "imageUrl": "https://cdn.sspai.com/2023/11/20/1af2beaee4956c6b32dfa344a316f433.jpg"
         }
       ]
     },
@@ -730,16 +730,6 @@
           "wordCount": 580,
           "title": "老司机 iOS 周报 #269 | 2023-11-27",
           "imageUrl": "https://opengraph.githubassets.com/f5af55932977a6cd381af3d9063b24a29a6911f267d61b7425651ea7d551ce00/SwiftOldDriver/iOS-Weekly/releases/tag/%23269"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23268",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新手推荐\nGenerating Random Numbers Elegantly in Swift \n@zoeGuo：文章介绍了在 Swift 中使用 RandomNumberGenerator 实现产生随机数的方式。写法优雅，可以产生自己任意范围的随机数，线程安全，还会根据 Swift 运行的平台来决定实现随机数的 api。\n文章\n🐎 Reasoning about protocols\n@J_Knight_：本文作者结合代码实例介绍了在 Swift 中面向协议编程的几个应用场景（动态派发，类泛型，编译期约束和实现合成）。\n🐕 在 Airbnb 爱彼迎解锁 SwiftUI\n@AidenRao： 这篇文章介绍了 Airbnb 在 iOS 应用中采用 SwiftUI 替代原有的 UI 框架 Epoxy 的实践。 也解释了为什么他们决定在 Airbnb 中使用 SwiftUI，并详细介绍了如何将 SwiftUI 集成到 Airbnb 的界面设计中。一个很好的实践，可以作为大家引入 SwiftUI 的参考。\n🐕 The complete guide to iOS & macOS development in Neovim\n@Smallfly：使用 Xcode 开发大型项目的体验一言难尽，这篇文章手把手教你如何在 Neovim 搭建 iOS&macOS 开发环境。支持的功能主要有：\n代码补全（Code Completion）\n代码检查与格式化（Linting & Formatting）\n构建、运行与测试（Build, Run & Test）\n调试（Debugging）\n所有这些一起至少覆盖了 90% 以…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23268",
-          "publishedOn": "2023-11-20T02:41:14.000Z",
-          "wordCount": 550,
-          "title": "老司机 iOS 周报 #268 | 2023-11-20",
-          "imageUrl": "https://opengraph.githubassets.com/7c5a6ead2f62e15faf8b0f349a28fe6062b801fde31ecf54bcbc75470bbbd433/SwiftOldDriver/iOS-Weekly/releases/tag/%23268"
         }
       ]
     },
@@ -754,6 +744,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76928",
+          "author": null,
+          "description": "根据《伊索寓言》：一只口渴的乌鸦找水喝，它发现了一个水罐。但水太浅罐口太窄它够不着。它于是将卵石一个个丢进水罐提高水位最终喝到了水。这个故事有数千年历史，至今动物学家仍然用它测试乌鸦的工具使用能力。根据发表在《Nature Communications》期刊上的一项研究，科学家使用非侵入式放射性示踪剂 18F-fluorodeoxyglucose (FDG)和正电子发射断层扫描(PET)，观察乌鸦在使用工具获取食物时哪部分大脑活跃。他们发现，熟练使用工具的乌鸦大脑激活了运动学习和触觉控制中心，不太熟练的乌鸦激活了大脑感觉和高阶处理中心。这表明工具使用能力与特定记忆和肌肉控制相关。研究人员还发现，雌性乌鸦比雄性更擅长使用工具。",
+          "link": "https://www.solidot.org/story?sid=76928",
+          "publishedOn": "2023-12-19T15:27:36.000Z",
+          "wordCount": 160,
+          "title": "当乌鸦使用工具时它们的大脑发生了什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76927",
+          "author": null,
+          "description": "大众汽车正在拥抱电动汽车潮流，其中包括用触摸屏取代传统的物理按钮。但消费者对此表达了不满。现在大众回应批评，将在新车型中重新引入物理按钮，这个改变将从 ID 2 概念车开始。在 ID 2 中，触摸屏下方有一排背光物理按钮。通过这些按钮，车主可以更容易访问常用的调整空调功能。ID.2 还配备了一个音量按钮和一个大的中心旋钮。物理按钮突出了触摸感知，车主可以靠感觉控制按钮，无需将眼睛从公路转向车内。",
+          "link": "https://www.solidot.org/story?sid=76927",
+          "publishedOn": "2023-12-19T14:20:13.000Z",
+          "wordCount": 163,
+          "title": "大众汽车将在新车型中重新引入物理按钮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76926",
+          "author": null,
+          "description": "美国犹他州高等法院一致裁决，根据美国宪法第五修正案所赋予的拒绝自证其罪的权利，犯罪嫌疑人可以拒绝向警方提供手机密码。本案中的嫌疑人是 Alfonso Valdez，他因为绑架和袭击前女友被捕，警方获得了对手机的搜查令，但无法破解其密码。Valdez 拒绝提供密码。他初审因此被判有罪，但上诉法院推翻了有罪判决，认为他有权拒绝提供密码，以此为由进行定罪侵犯了他的宪法权利。州高等法院维持了上诉法院的裁决。本案可能会递交到美国最高法院，由最高法院判断第五修正案是否适用于解锁手机。",
+          "link": "https://www.solidot.org/story?sid=76926",
+          "publishedOn": "2023-12-19T13:27:34.000Z",
+          "wordCount": 159,
+          "title": "法庭裁决犯罪嫌疑人可以拒绝向警方提供手机密码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76925",
+          "author": null,
+          "description": "上周释出的 Windows 11 例行更新 KB5033375 破坏了部分 Windows 11 设备的 Wi-Fi 连接。用户在 Reddit、Twitter 和微软的社区平台报告了问题，多所大学还发表声明建议学生卸载 KB5033375。问题主要影响启用了快速转换/快速漫游的企业无线网络，家用无线网络基本未受影响。此外，问题主要影响 Windows 11 v22H2 或 v23H2，Windows 10 基本未受影响。",
+          "link": "https://www.solidot.org/story?sid=76925",
+          "publishedOn": "2023-12-19T10:51:07.000Z",
+          "wordCount": 204,
+          "title": "Windows 11 本月更新 KB5033375 破坏了部分设备的 Wi-Fi 连接",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76924",
+          "author": null,
+          "description": "冰岛一座火山周一开始喷发，危及到了附近的 Svartsengi 地热发电厂和 Grindavik 镇。冰岛火山学家 Thorvaldur Thordarson 表示正在考虑最坏的情况，火山距离主要基础设施只有 2 公里。冰岛从 10 月底以来就监测到了数千次地震，11 月宣布进入紧急状态，疏散了有逾 3000 人的 Grindavik 镇。火山喷发在冰岛并不罕见，该国有大约 130 座火山，它位于两个板块的交界处，火山和地震活动频发。它最著名的火山 Katla 自 1721 年以来喷发了 5 次，间隔时间从 34-78 年，上一次是 1918 年。对于最新的喷发，冰岛政府从上个月开始就在地热发电厂周围修建防御墙，保护其免受熔岩流的影响。发电厂向全国供电，它中断供电不会影响首都 Reykjavik。",
+          "link": "https://www.solidot.org/story?sid=76924",
+          "publishedOn": "2023-12-19T10:12:54.000Z",
+          "wordCount": 185,
+          "title": "冰岛火山喷发，危及附近的发电厂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76923",
+          "author": null,
+          "description": "亚马逊与《战锤40K》系列桌游发行商 Games Workshop 联合宣布正在制作基于该系列的电影和电视剧，知名演员兼游戏粉丝亨利·卡维尔（Henry Cavill）将担任执行制作人，他可能也会参演部分剧集。两家签署了完整协议，亚马逊获得了开发相关剧集的独家权利。Games Workshop 表示可能至少需要两年时间，《战锤40K》粉丝才能看到相关剧集上线亚马逊的串流服务 Prime Video。《战锤40K》系列始于 1987 年，有着奇幻科幻背景，其中的种族有人类和异形等等。",
+          "link": "https://www.solidot.org/story?sid=76923",
+          "publishedOn": "2023-12-19T08:36:26.000Z",
+          "wordCount": 166,
+          "title": "亚马逊将制作基于《战锤40K》桌游的电影电视剧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76922",
+          "author": null,
+          "description": "《Journal of Alzheimer's Disease》上的一项研究发现，体育活动与大脑中对记忆和学习很重要的区域的大小增加有关。研究人员分析了 10,125 人的 MRI 脑部扫描，发现经常进行散步、跑步或体育运动等体育活动的人，大脑关键区域的容量更大。这包括帮助处理信息的灰质和连接大脑不同区域的白质，以及对记忆很重要的海马体。首席研究员 Cyrus A. Raji 表示:“我们的研究支持了早期的研究，即体育锻炼对大脑有益。运动不仅可以降低患痴呆症的风险，还有助于保持大脑的大小，这对我们年龄的增长至关重要。”无论是每天散步还是最喜欢的运动，定期的体育活动对我们的大脑健康都有持久的好处。",
+          "link": "https://www.solidot.org/story?sid=76922",
+          "publishedOn": "2023-12-19T08:04:41.000Z",
+          "wordCount": 168,
+          "title": "锻炼与大脑健康相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76921",
+          "author": null,
+          "description": "巴基斯坦前总理伊姆兰·汗使用 AI 在狱中参加竞选。伊姆兰·汗自今年 8 月起遭到关押，被控泄露国家机密，他本人反驳称指控是捏造的，旨在防止他参加明年 2 月的大选。伊姆兰·汗领导的巴基斯坦正义运动党周日举办了一场虚拟集会，在 AI 帮助下发表了一则 4 分钟的信息，NetBlocks 监测到巴基斯坦的互联网受到干扰，与政府以前审查伊姆兰·汗网络活动的做法一致。正义运动党称，伊姆兰·汗通过律师发送了一份速记脚本，然后用 AI 公司 ElevenLabs 的工具使用伊姆兰·汗的声音给文本配上音频，在 Facebook、X 和 YouTube 上进行的 5 小时直播活动末尾播出。",
+          "link": "https://www.solidot.org/story?sid=76921",
+          "publishedOn": "2023-12-19T07:53:35.000Z",
+          "wordCount": 185,
+          "title": "伊姆兰·汗使用 AI 在狱中竞选",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76919",
+          "author": null,
+          "description": "Meta CEO 扎克伯格(Mark Zuckerberg)正在夏威夷第四大岛屿考艾岛秘密建造豪华避难所。相关建筑工人还签署了保密协议，但这并没有阻止泄密。扎克伯格早在 2014 年就开始在当地大肆购买土地，甚至还利用空壳公司起诉当地居民，引发强烈反弹。可能是为了安抚当地民众的情绪，扎克伯格及其妻子 Priscilla Chan 自 2018 年以来向该岛非盈利组织捐赠了逾 2000 万美元。正在建造的避难所占地 5,000 平方英尺，地堡和豪宅之间还有隧道连接，整个项目耗资逾 2.7 亿美元。",
+          "link": "https://www.solidot.org/story?sid=76919",
+          "publishedOn": "2023-12-19T06:40:28.000Z",
+          "wordCount": 172,
+          "title": "扎克伯格在夏威夷秘密建造庞大避难所",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76918",
+          "author": null,
+          "description": "Flipboard 开始支持 ActivityPub 协议，加入了联邦宇宙。ActivityPub 是一个开放去中心化社交网络协议，被 Mastodon、Pixelfed 和 PeerTube 等应用使用，支持 ActivityPub 协议的平台之间可以实现互操作。Flipboard 用户未来几个月可以发现联邦宇宙发布的内容，联邦宇宙用户也可以发现 Flipboard 上的内容。Flipboard 目前还处于测试阶段，将从明年 1 月开始逐渐扩大对联邦宇宙的支持。",
+          "link": "https://www.solidot.org/story?sid=76918",
+          "publishedOn": "2023-12-19T05:34:19.000Z",
+          "wordCount": 185,
+          "title": "Flipboard 支持 ActivityPub 协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76917",
+          "author": null,
+          "description": "Mozilla 释出了 Firefox 121，其中 Linux 版默认启用 Wayland，未使用基于 Wayland 桌面环境的 Linux 用户仍然可以用 X.Org/X11。其它新特性包括：macOS 加入语音控制命令支持，加入强制为站内链接添加下划线的选项，创建 PDF 的浮动按钮，WebAssembly 的尾调用消除支持，等等。",
+          "link": "https://www.solidot.org/story?sid=76917",
+          "publishedOn": "2023-12-19T05:19:45.000Z",
+          "wordCount": 191,
+          "title": "Firefox 121 释出，Linux 版默认启用 Wayland",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76916",
+          "author": null,
+          "description": "2020 年 8 月 Mozilla 在裁员时砍掉了 Servo 引擎团队的大部分成员。Servo 是用 Rust 语言开发的实验性浏览器引擎项目。Servo 项目之后脱离 Mozilla 成为一个独立项目，由 Linux 基金会托管，旨在为其它项目提供一个嵌入的高性能的、安全的渲染引擎。本周一，Servo 官方博客回顾了 2023 年，称项目的活跃度显著增加：有 53 名贡献者，比去年的 22 人增加了 140%；递交了 1037 pull requests (比去年的 215 增加 382% ) 和 2485 commits (比去年的 523 增加 375%)。个人贡献者对项目的健康度至关重要：在人类递交的 pull requests 中，30% 来自非 Igalia 的开发者，18% 来自非审阅者。Servo 项目现在提供了一个可用的 minibrowser UI，支持离屏渲染，更新了实验性的 WebGPU 支持等。",
+          "link": "https://www.solidot.org/story?sid=76916",
+          "publishedOn": "2023-12-18T15:48:58.000Z",
+          "wordCount": 210,
+          "title": "Servo 项目的活跃度在增加",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76915",
           "author": null,
@@ -3173,116 +3283,6 @@
           "wordCount": 158,
           "title": "微软周二补丁日实施二十周年",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76670",
-          "author": null,
-          "description": "一位 Mozilla Firefox 用户在 Reddit 论坛上报告了一个异常情况：在新标签页打开一个 YouTube 视频时不知为何加载超级慢。其他 Firefox 用户很快发现 YouTube 的 polymer 脚本中有一行人为引入 5 秒加载延迟的代码：“setTimeout(function(){c();a.resolve(1)},5E3);”，根据上下文，该代码被认为是 YouTube 最近采取的反广告屏蔽扩展的功能的一部分。使用流行广告屏蔽扩展 UBO 的用户可以在过滤器中加入“www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)”来绕过这段恼人的加载延迟。",
-          "link": "https://www.solidot.org/story?sid=76670",
-          "publishedOn": "2023-11-20T12:14:08.000Z",
-          "wordCount": 199,
-          "title": "Firefox 用户访问 YouTube 时人为加入了 5 秒加载延迟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76669",
-          "author": null,
-          "description": "一项研究发现，体重健康的人在白天消耗更多能量，此时大多数人都在活动和吃饭。而肥胖的人在晚上消耗更多能量，此时大多数人都在睡觉。研究还发现，在白天，肥胖者的胰岛素激素水平更高，这表明身体在更努力地使用葡萄糖，即一种富含能量的糖。研究作者表示不确定哪个是因哪个是果。共有 30 人自愿参与这项研究，参与者在一个专门设计的昼夜节律研究实验室呆了 6 天。这项研究遵循了一项严格的昼夜节律研究方案，其中包括一个时间表，旨在让参与者在每天的不同时间保持清醒和睡眠。每睡一段时间后，志愿者都会被唤醒进食，并在每天剩下的时间里参加各种测试。一项测试让参与者戴着口罩锻炼，口罩与一种名为间接量热计的机器相连，该机器可以测量呼出的二氧化碳，并有助于估计能源使用量。同时还收集参与者的血液样本，以测量每天进食相同食物后的血糖水平。",
-          "link": "https://www.solidot.org/story?sid=76669",
-          "publishedOn": "2023-11-20T10:23:11.000Z",
-          "wordCount": 160,
-          "title": "肥胖者晚上消耗更多能量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76668",
-          "author": null,
-          "description": "Google DeepMind 最近发布的 AI 音乐生成模型 Lyria 会使用 SynthID 在生成的音乐中嵌入人耳听不见的水印。此举便于跟踪 AI 音乐的来源。DeepMind 称，人耳应该听不到，也不会影响聆听体验。即使音轨压缩、加速或减速，或者加入噪音，水印仍然能检测出来。DeepMind 称，SynthID 的工作原理是通过将音频波转变为显示声音频谱如何随时间演变的二维可视化。",
-          "link": "https://www.solidot.org/story?sid=76668",
-          "publishedOn": "2023-11-20T09:43:19.000Z",
-          "wordCount": 182,
-          "title": "Google 在 AI 生成音乐中嵌入了听不见的水印",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76667",
-          "author": null,
-          "description": "在董事会上周五解雇 CEO Sam Altman 以及重返公司的谈判失败之后，微软 CEO 纳德拉（Satya Nadella)宣布 Sam Altman 以及 OpenAI 联合创始人 Greg Brockman 及其同事加入微软领导它的一个先进 AI 研究团队。纳德拉同时表示继续与 OpenAI 保持合作关系。微软对 OpenAI 投资了数十亿美元，投资额可能达到百亿美元。作为合作关系的一部分，微软是 OpenAI 的独家云合作伙伴，其云服务为所有 OpenAI 工作负载提供支持。",
-          "link": "https://www.solidot.org/story?sid=76667",
-          "publishedOn": "2023-11-20T09:19:42.000Z",
-          "wordCount": 205,
-          "title": "Sam Altman 和 Greg Brockman加入微软领导其 AI 研究团队",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76666",
-          "author": null,
-          "description": "在历尽逾三十年的搜索之后，在超级计算机的帮助下，数学家发现了第九个 Dedekind 数。Dedekind 数由德国数学家 Richard Dedekind 在 1897 年定义，其核心是布尔函数（即其值为 false 或 true），它是将 n 个布尔变量作为输入，生成另一个布尔变量作为输出的函数。前六个 Dedekind 数都非常简单，D(1)是 2，之后是 3、6、20、168、7581，后面的数愈来愈大。1991 年当时最强大超算之一的 Cray-2 花了 200 小时计算出 D(8)，32 年后德国帕德博恩大学的数学家使用 Noctua 2 超算和现场可编程门阵列(FPGA)计算出 D(9)为 286 386 577 668 298 411 128 469 151 667 598 498 812 366，这是一个 42 位的数。D(10)无疑也要花费很长时间才可能发现。",
-          "link": "https://www.solidot.org/story?sid=76666",
-          "publishedOn": "2023-11-20T07:50:25.000Z",
-          "wordCount": 209,
-          "title": "数学家发现第九个 Dedekind 数",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76665",
-          "author": null,
-          "description": "国际货币基金组织(IMF)董董事总经理 Kristalina Georgieva 表示，央行数字货币（CBDC）有取代现金的潜力，但还需要时间去普及。它发布了一份 CBDC 参考指南。IMF 称，逾一百个国家在探索 CBDC。多家央行已经启动了试点，或者推出了 CBDC。国际清算银行 2022 年的一项调查显示，在接受调查的 86 家央行中，93% 表示在探索 CBDC，58% 表示可能或可能在短期或中期发行零售 CBDC 。但大西洋理事会的数据显示，截至今年 6 月，只有 11 个国家采用 CBDC，53 个国家处于前期规划阶段，46 个国家还在研究。",
-          "link": "https://www.solidot.org/story?sid=76665",
-          "publishedOn": "2023-11-20T06:51:24.000Z",
-          "wordCount": 182,
-          "title": "央行数字货币有望取代现金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76664",
-          "author": null,
-          "description": "河南周口联通被曝为了强迫用户更换光猫，公司在后台停掉用户的宽带账号，导致用户无法上网，然后让工程师上门“维修”，谎称光猫损坏，需要花 299 元换新。更换完后，联通再在后台恢复用户的网络。联通公司不仅对老用户进行这种强制更换光猫的行为，还会在给新用户装机的时候，故意使用破旧光猫，也就是之前强迫用户换新留下的，而在过一段时间之后，又会告诉用户使用的是旧光猫无法匹配，必须换新。联通公司还会故意关掉用户的短信服务，在后台增加增值业务，之后再把短信功能打开，以此牟利。周口联通回应称，全力配合省公司调查组进行调查核实。",
-          "link": "https://www.solidot.org/story?sid=76664",
-          "publishedOn": "2023-11-20T05:43:34.000Z",
-          "wordCount": 158,
-          "title": "河南联通被曝故意停掉用户宽带账号以更换光猫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76663",
-          "author": null,
-          "description": "OpenAI 董事会上周五出人意料的解雇了 CEO Sam Altman，此后 OpenAI 的高管和投资者采取行动想让 Sam Altman 恢复原职。据彭博社援引未具名知情人士的消息称，在解雇事件之后部分投资者考虑将所持 OpenAI 股份价值减记为零，这将危及 OpenAI 未来的融资。微软 CEO 纳德拉（Satya Nadella)也对 OpenAI 董事会的决定非常恼火。周六晚上，包括临时 CEO Mira Murati 在内的多位 OpenAI 高管和数十名员工在 Twitter 上发表心形表情符号，表达对 Altman 的支持。但周日晚上，联合创始人兼董事长 Ilya Sutskever 通知员工，董事会与 Altman 的谈判破裂，他不会再次担任 CEO，Twitch 联合创始人 Emmett Shear 将担任临时 CEO。",
-          "link": "https://www.solidot.org/story?sid=76663",
-          "publishedOn": "2023-11-20T05:36:18.000Z",
-          "wordCount": 216,
-          "title": "Emmett Shear 担任 OpenAI 临时 CEO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76662",
-          "author": null,
-          "description": "自由软件向量图形编辑器 Inkscape 项目释出了 v1.3.1，修复了 逾 70 个 bug，其中 逾 30 个是崩溃或挂起 bug。释出该版本是为了庆祝项目诞生二十周年。Inkscape 项目诞生于 2003 年，2020 年发布了 1.0 版本。而 Inkscape 项目是另一个最早发布于 2000 年的 sodipod 项目的分支，sodipod 项目则是最早发布于 1998 年的 Gill 项目的分支。",
-          "link": "https://www.solidot.org/story?sid=76662",
-          "publishedOn": "2023-11-19T13:50:26.000Z",
-          "wordCount": 196,
-          "title": "Inkscape 庆祝诞生 20 周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76661",
-          "author": null,
-          "description": "沟迎风海葵可能是已知第一种“向日性”动物。它们的触角指向太阳，像植物一样追随太阳的运动。研究人员表示，沟迎风海葵的身体组织中有共生藻类，这些藻类利用光合作用为动物“伴侣”提供食物。研究团队注意到，他们所在研究所水族馆里的沟迎风海葵会把触角指向从附近窗户射进来的太阳光。当窗帘关上时，海葵的触角迅速陷入混乱。窗帘一打开，这些触角在几分钟内又开始追随太阳。在实验室环境下，科学家使用缓慢移动的光源开展实验，海葵的行为也如出一辙。对海葵开展的进一步实验表明，就像追踪太阳的植物一样，海葵的运动主要受太阳光中蓝光波长的影响。当研究小组漂白海葵，去除它们的藻类“伴侣”时，“向日”行为完全消失了。藻类在光合作用过程中会产生活性超高的氧基化学物质，这些化合物会在海葵组织内积累，这可能是阳光触发动物触角移动的一种方式。",
-          "link": "https://www.solidot.org/story?sid=76661",
-          "publishedOn": "2023-11-19T13:37:17.000Z",
-          "wordCount": 157,
-          "title": "海葵被发现具有向日性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76660",
-          "author": null,
-          "description": "直径约 60 公里的主带小行星 319 Leona 将于 12 月 12 日从参宿四前方飞过。参宿四是猎户座中第二亮的恒星，它是一颗红巨星，已进入了生命的末期，距离地球约 650 光年，在 2020 年它曾因为光芒过于黯淡而引发关注。当 Leona 从它前方飞过时它的光将被遮挡几秒钟，天文学家通过这次事件将能收集到有关恒星和小行星的很多信息。一等星被遮住的掩星事件是十分罕见的，大约每几十年才发生一次，参宿四是夜空中第十亮的星星，在 12 月 12 日 01:17 UTC 你将有机会通过肉眼或望远镜观察到这次事件。",
-          "link": "https://www.solidot.org/story?sid=76660",
-          "publishedOn": "2023-11-19T13:34:27.000Z",
-          "wordCount": 195,
-          "title": "小行星将在 12 月 12 日从参宿四前方飞过",
-          "imageUrl": null
         }
       ]
     },
@@ -3291,6 +3291,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/760736/",
+          "author": null,
+          "description": "文赛博汽车 L3 级自动驾驶，因其“有条件的自动驾驶”定义，一直处在一个比较尴尬的位置，行业测试、落地进展一直比较缓慢。 但就这么几天，似乎一夜之间 L3 级自动驾驶测试牌照跟“不要钱似的撒花式”发放。 先是 12 月 14 日，宝马集团宣布，搭载 L3 级别自动驾驶功能的车辆，在上海市正式获得高快\n本文链接",
+          "link": "https://news.cnblogs.com/n/760736/",
+          "publishedOn": "2023-12-19T10:41:48.000Z",
+          "wordCount": 163,
+          "title": "奔驰们L3级自动驾驶测试牌照，还不是进入市场的门票",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760735/",
+          "author": null,
+          "description": "Flipboard 开始支持 ActivityPub 协议，加入了联邦宇宙。ActivityPub 是一个开放去中心化社交网络协议，被 Mastodon、Pixelfed 和 PeerTube 等应用使用，支持 ActivityPub 协议的平台之间可以实现互操作。Flipboard 用户未来几个月\n本文链接",
+          "link": "https://news.cnblogs.com/n/760735/",
+          "publishedOn": "2023-12-19T09:37:00.000Z",
+          "wordCount": 163,
+          "title": "Flipboard 支持 ActivityPub 协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760734/",
+          "author": null,
+          "description": "文太平洋科技 被 ChatGPT 压制了一整年的谷歌，终于在 AI 大模型领域亮出了大招，推出了 AI 模型 Gemini，6 分钟的演示视频直接刷爆全球互联网。 “打爆 GPT-4”“最强 AI”“这不就是钢铁侠里的贾维斯吗！”在谷歌的演示视频里，Gemini 展现出了颇具科幻色彩的能力，让各路看\n本文链接",
+          "link": "https://news.cnblogs.com/n/760734/",
+          "publishedOn": "2023-12-19T09:31:00.000Z",
+          "wordCount": 163,
+          "title": "“造假”的谷歌，暴露了AI大模型行业的致命问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760733/",
+          "author": null,
+          "description": "·“Apollo 开放平台 9.0 拥有极强场景通用能力，适配环节减少 40% 、代码阅读量减少 90%、代码调试量减少 80%，可以实现‘开箱即用’，一周内就能完成自动驾驶车辆闭环。” 12 月 19 日，百度推出 Apollo 开放平台的全新升级版本——Apollo 开放平台 9.0。 据百度自\n本文链接",
+          "link": "https://news.cnblogs.com/n/760733/",
+          "publishedOn": "2023-12-19T09:23:00.000Z",
+          "wordCount": 163,
+          "title": "百度发布Apollo开放平台9.0：代码调试量减少80%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760732/",
+          "author": null,
+          "description": "12 月 19 日消息，据外媒报道，当地时间周四，OpenAI 宣布成立新的 Preparedness 团队，该团队致力于确保前沿人工智能（AI）模型的安全。 今年 10 月份的时候，OpenAI 就宣布，它将组建一个名为 Preparedness 的新团队，以评估和减轻与人工智能相关的“灾难性风险\n本文链接",
+          "link": "https://news.cnblogs.com/n/760732/",
+          "publishedOn": "2023-12-19T09:18:00.000Z",
+          "wordCount": 163,
+          "title": "OpenAI宣布成立Preparedness团队 对前沿模型进行安全评估",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760731/",
+          "author": null,
+          "description": "Mozilla 释出了 Firefox 121，其中 Linux 版默认启用 Wayland，未使用基于 Wayland 桌面环境的 Linux 用户仍然可以用 X.Org/X11。其它新特性包括：macOS 加入语音控制命令支持，加入强制为站内链接添加下划线的选项，创建 PDF 的浮动按钮，Web\n本文链接",
+          "link": "https://news.cnblogs.com/n/760731/",
+          "publishedOn": "2023-12-19T09:13:00.000Z",
+          "wordCount": 163,
+          "title": "Firefox 121 释出，Linux 版默认启用 Wayland",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760730/",
+          "author": null,
+          "description": "《Journal of Alzheimer's Disease》上的一项研究发现，体育活动与大脑中对记忆和学习很重要的区域的大小增加有关。研究人员分析了 10,125 人的 MRI 脑部扫描，发现经常进行散步、跑步或体育运动等体育活动的人，大脑关键区域的容量更大。这包括帮助处理信息的灰质和连接大脑不\n本文链接",
+          "link": "https://news.cnblogs.com/n/760730/",
+          "publishedOn": "2023-12-19T09:10:00.000Z",
+          "wordCount": 163,
+          "title": "锻炼与大脑健康相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760729/",
+          "author": null,
+          "description": "12 月 19 日消息，今日，有消息称，抖音正和阿里洽谈收购饿了么，“目前已经到了谈价格阶段，如果谈判顺利，预计春季后就能落地。” 还有消息称，此次收购价格大概在 70 多亿美元。 对此，抖音方面向媒体回应称，彭博社没有这个报道，抖音也没有这个计划。 据 36 氪报道，饿了么内部人士对此回应称，双方\n本文链接",
+          "link": "https://news.cnblogs.com/n/760729/",
+          "publishedOn": "2023-12-19T09:02:00.000Z",
+          "wordCount": 163,
+          "title": "消息称抖音正洽谈收购饿了么 双方否认",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760728/",
+          "author": null,
+          "description": "12 月 19 日，摩尔线程首个全国产千卡千亿模型训练平台——摩尔线程 KUAE 智算中心揭幕仪式在北京成功举办，宣告国内首个以国产全功能 GPU 为底座的大规模算力集群正式落地。与此同时，摩尔线程联合国内众多合作伙伴发起并成立了摩尔线程 PES -KUAE 智算联盟和摩尔线程 PES-大模型生态联\n本文链接",
+          "link": "https://news.cnblogs.com/n/760728/",
+          "publishedOn": "2023-12-19T08:55:00.000Z",
+          "wordCount": 163,
+          "title": "摩尔线程首个千卡智算中心落地，从算力到生态全面加速大模型发展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760727/",
+          "author": null,
+          "description": "来源Tech 星球 文林京 自去年 10 月，社区团购业务美团优选更名“次日达超市”之后，主打 30 分钟送达的生鲜电商业务美团买菜，在 12 月 1 日也正式更名为“小象超市”。这意味着，上线五年，美团买菜正式从生鲜电商，转型成为全品类零售平台。 据美团方面向 Tech 星球介绍，更名是希望与业务\n本文链接",
+          "link": "https://news.cnblogs.com/n/760727/",
+          "publishedOn": "2023-12-19T08:47:00.000Z",
+          "wordCount": 163,
+          "title": "美团买菜更名小象超市，大厂即时零售战事升级",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760726/",
+          "author": null,
+          "description": "·星河动力C及C+ 轮融资 11 亿元人民币，资金将用于智神星一号可重复使用液体运载火箭技术研发以及相关生产、试验和发射设施建设等。智神星一号计划 2024 年正式实施入轨首飞。 智神星一号液体运载火箭。 12 月 18 日，商业航天企业北京星河动力航天科技股份有限公司宣布已于 9 月完成总额 11\n本文链接",
+          "link": "https://news.cnblogs.com/n/760726/",
+          "publishedOn": "2023-12-19T08:42:00.000Z",
+          "wordCount": 163,
+          "title": "星河动力完成11亿元融资，资金用于研发智神星一号液体火箭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760725/",
+          "author": null,
+          "description": "文/李乐 编辑/子夜 临近年底，今年略显沉寂的直播电商行业，连炸两颗“惊雷”，一时间硝烟弥漫。 谁也未曾料及，点燃这波战火的双方，竟是公司 CEO 和台前的大主播—— 前有快手顶流主播辛巴徒弟蛋蛋怒对辛选集团 CEO，公开“逼宫”，走马上任不到一年的 CEO 管倩被解聘，辛巴前合伙人蓝山接任 CEO\n本文链接",
+          "link": "https://news.cnblogs.com/n/760725/",
+          "publishedOn": "2023-12-19T08:35:00.000Z",
+          "wordCount": 163,
+          "title": "踩进同一个“坑”后，俞敏洪、辛巴紧急补课",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760724/",
+          "author": null,
+          "description": "12 月 18 日消息，今日晚间罗永浩在社交媒体发布文章称，东方甄选一定会继续推进“去董宇辉化”。只有完成“去董宇辉化”，才能讲得通电商公司或品牌产品公司的故事，而这两种类型的公司估值是天壤之别。 怎么看东方甄选对董宇辉的新任命？罗永浩提到，如果没有相对公正的、实质性的股权和酬劳授予，即使给了“集团\n本文链接",
+          "link": "https://news.cnblogs.com/n/760724/",
+          "publishedOn": "2023-12-19T08:24:00.000Z",
+          "wordCount": 163,
+          "title": "罗永浩：东方甄选一定会继续推进“去董宇辉化”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760723/",
+          "author": null,
+          "description": "虽有挑战，但难度可控” 作者｜王磊楚门 小米汽车，真是易热搜体质。 几乎每天都能看到关于小米汽车的新进展，先是外观曝光，后是电池配置信息泄露，而最新的热搜是，小米 SU7 实拍图遭泄露，小米或索赔 300 万。。 从泄密的图片来看，SU7 的造型非常年轻运动，很有 taycan 的味道，尾翼升起来后\n本文链接",
+          "link": "https://news.cnblogs.com/n/760723/",
+          "publishedOn": "2023-12-19T08:18:00.000Z",
+          "wordCount": 163,
+          "title": "雷军：担心小米汽车没人买，更怕卖太火",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760722/",
+          "author": null,
+          "description": "约翰·巴丁说过，芯片是轮子之后人类最重要的发明。1958 年，当工程师杰克·基尔比成功将电子器件集成到一块半导体材料上之后，人类开启了电子技术历史的新纪元。 高通，芯片历史上不可或缺的重要一员，从最初的只是为了打发退休时间，发挥余热的 7 人，到如今的 5 万多名员工，从默默无闻到如今的芯片及智能计\n本文链接",
+          "link": "https://news.cnblogs.com/n/760722/",
+          "publishedOn": "2023-12-19T08:10:00.000Z",
+          "wordCount": 163,
+          "title": "高通孟樸：希望大家称我们为“中国高通”而不是“高通中国”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760721/",
+          "author": null,
+          "description": "12 月 19 日消息，昨日晚间，甘肃临夏州积石山县发生 6.2 级地震，青海省海东市民和县震感强烈，震区发生人员伤亡，部分水、电、交通、通讯等基础设施受损。 截至发稿，阿里、腾讯、字节跳动、京东等互联网企业纷纷宣布为震区捐助款项或物资，驰援震区应急救灾、灾后重建等工作。 阿里巴巴：捐赠 5 万箱救\n本文链接",
+          "link": "https://news.cnblogs.com/n/760721/",
+          "publishedOn": "2023-12-19T08:00:00.000Z",
+          "wordCount": 163,
+          "title": "腾讯、阿里、字节等多家互联网企业驰援甘肃 捐款总额已超1亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760720/",
+          "author": null,
+          "description": "“当靠着能力巨大的员工来构建商业模式和发展时，老板是在为员工打工。” 文｜《中国企业家》记者赵东山 编辑｜李薇 头图来源｜东方甄选抖音视频截图 时隔 8 天，董宇辉终于又回归了东方甄选直播间。 不同于两天前在俞敏洪直播间回应“小作文”事件时垂头丧气的状态，董宇辉昨晚在东方甄选直播间露出了笑容，侃侃而\n本文链接",
+          "link": "https://news.cnblogs.com/n/760720/",
+          "publishedOn": "2023-12-19T07:50:00.000Z",
+          "wordCount": 163,
+          "title": "俞敏洪：心甘情愿为董宇辉打工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760719/",
+          "author": null,
+          "description": "明敏发自凹非寺 量子位公众号 QbitAI AI 魔改 OpenAI 内斗大戏…… 这晋江味儿要冲出屏幕了！ Ilya 就是这样的人，对待身边的人冷漠如冰，对待工作却不择手段…… △来自知乎@Midreal 小助手 而且剧情还不那么离谱，AI 自由发挥下很多点都符合逻辑。 “所以我们在评估投资回报率\n本文链接",
+          "link": "https://news.cnblogs.com/n/760719/",
+          "publishedOn": "2023-12-19T07:40:00.000Z",
+          "wordCount": 163,
+          "title": "AI把OpenAI内斗魔改成晋江文学，插图也能画，网友冲崩服务器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760718/",
+          "author": null,
+          "description": "快科技 12 月 18 日消息，知名爆料人马克·古尔曼最近表示，苹果公司有望在 2024 年推出一款采用全新设计的 Apple Watch X 手表，支持\"睡眠呼吸暂停监测\"与\"血糖监测\"两项功能。 据悉，\"睡眠呼吸暂停监测\"功能需要苹果内置的多项传感器，监测人体是否会在睡眠时出现\"呼吸暂停\"迹象，\n本文链接",
+          "link": "https://news.cnblogs.com/n/760718/",
+          "publishedOn": "2023-12-19T07:30:00.000Z",
+          "wordCount": 163,
+          "title": "古尔曼：苹果明年有望推出能测血糖的手表",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760717/",
+          "author": null,
+          "description": "IT 之家 12 月 19 日消息，特斯拉最新假日更新引发争议，部分车主在安装更新后发现车载娱乐系统中的 Disney + 快捷应用图标消失了，疑似被移除。这一举动恰逢特斯拉 CEO 埃隆・马斯克与迪士尼 CEO 鲍勃・艾格发生公开争执，引发外界猜测这是否与此相关，进而质疑马斯克是否利用职权将私人恩\n本文链接",
+          "link": "https://news.cnblogs.com/n/760717/",
+          "publishedOn": "2023-12-19T07:20:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克与迪士尼CEO发生争执后，特斯拉车载 Disney + 应用被隐藏",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/760649/",
           "author": null,
@@ -8530,256 +8730,6 @@
           "wordCount": 163,
           "title": "GPT-4不会图形推理？“放水”后准确率依然只有33%",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753976/",
-          "author": null,
-          "description": "马斯克的星舰，第二次试飞终于来了！ 短暂的叫停之后，倒计时恢复，众人的欢呼声中，装有 33 个猛禽发动机的助推器带着航天器升空，点火时发出巨大的轰鸣，火焰明亮，上升时的轨迹笔直而瑰丽。 当时间来到 2 分 50 秒左右，一二级成功分离，但随后一级爆炸成一团火球，没能按计划受控在海上溅落。 ▲ 一二级\n本文链接",
-          "link": "https://news.cnblogs.com/n/753976/",
-          "publishedOn": "2023-11-20T11:41:00.000Z",
-          "wordCount": 163,
-          "title": "马斯克的星舰又炸了，但有两个好消息",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753975/",
-          "author": null,
-          "description": "11 月 16 日晚发布的阿里巴巴集团最新一季财报爆点很多：阿里云不再分拆、盒马 IPO 搁置，但菜鸟 IPO 照常进行，且这个季度，对比国内其他快递公司来看，菜鸟 25% 的营收增速跑到了行业第一。 从业绩表现来看，菜鸟和国际电商的协同、合力表现极佳：国际电商收入同比增长 53%，其中国际零售电商\n本文链接",
-          "link": "https://news.cnblogs.com/n/753975/",
-          "publishedOn": "2023-11-20T11:33:27.000Z",
-          "wordCount": 163,
-          "title": "阿里巨轮急转，菜鸟IPO仍正常进行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753974/",
-          "author": null,
-          "description": "在历尽逾三十年的搜索之后，在超级计算机的帮助下，数学家发现了第九个 Dedekind 数。 Dedekind 数由德国数学家 Richard Dedekind 在 1897 年定义，其核心是布尔函数（即其值为 false 或 true），它是将 n 个布尔变量作为输入，生成另一个布尔变量作为输出的函\n本文链接",
-          "link": "https://news.cnblogs.com/n/753974/",
-          "publishedOn": "2023-11-20T11:28:36.000Z",
-          "wordCount": 163,
-          "title": "数学家发现第九个Dedekind数",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753973/",
-          "author": null,
-          "description": "自由软件向量图形编辑器 Inkscape 项目释出了 v1.3.1，修复了逾 70 个 bug，其中逾 30 个是崩溃或挂起 bug。释出该版本是为了庆祝项目诞生二十周年。Inkscape 项目诞生于 2003 年，2020 年发布了 1.0 版本。而 Inkscape 项目是另一个最早发布于 20\n本文链接",
-          "link": "https://news.cnblogs.com/n/753973/",
-          "publishedOn": "2023-11-20T11:27:00.000Z",
-          "wordCount": 163,
-          "title": "Inkscape 庆祝诞生 20 周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753972/",
-          "author": null,
-          "description": "GameLook 报道/昨日，一年一度的 Unite 2023 创作者大会在阿姆斯特丹正式召开。作为该公司最重要的产品发布活动，Unity 此次拿出了多项颇有看点的技术升级向开发者展示。 其中最有看点的无疑是 Unity 自家的生成式 AI 功能“靴子落地”，作为目前为数不多尝试在生产环境中搭载生成\n本文链接",
-          "link": "https://news.cnblogs.com/n/753972/",
-          "publishedOn": "2023-11-20T11:25:10.000Z",
-          "wordCount": 163,
-          "title": "Unity官宣Unity 6引擎，生成式AI工具开放内测，有何看点？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753962/",
-          "author": null,
-          "description": "惊天 60 小时持续反转，夺权大戏再生新变局。 作者 香草 来源 智东西 智东西 11 月 20 日报道，就在刚刚，持续两天半的《硅谷风云之年度 OpenAI 夺权大戏》终于迎来尾声：据外媒 The Information 报道，OpenAI 联合创始人、首席科学家、董事会董事伊利亚·苏特斯科夫（I\n本文链接",
-          "link": "https://news.cnblogs.com/n/753962/",
-          "publishedOn": "2023-11-20T09:59:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI政变再反转！Sam Altman失败，董事会又换了新CEO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753968/",
-          "author": null,
-          "description": "财联社 11 月 20 日讯（编辑刘蕊）近期，OpenAI CEO 奥特曼被解雇消息震惊了全球商界和科技界。 在 OpenAI“政变”大戏跌宕起伏上演的同时，由奥特曼创立的数字代币“世界币”（Worldcoin）的币值也如坐过山车一般上蹿下跳，成为近期加密领域波动最大的代币之一。 奥特曼创立的世界币\n本文链接",
-          "link": "https://news.cnblogs.com/n/753968/",
-          "publishedOn": "2023-11-20T09:58:45.000Z",
-          "wordCount": 163,
-          "title": "OpenAI“政变”扰乱币圈？奥特曼所创“世界币”经历惊魂周末",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753964/",
-          "author": null,
-          "description": "1、这是一场引发全球关注的人事巨变大戏。当所有人都以为 OpenAI 创始人 Sam Altman 被扫地出门。他今天以访客身份杀了个回马枪。当所有人都以为奥特曼的谈判奏效，将重掌 OpenAI 时，微软 CEO 纳德拉说奥特曼已经加入微软。刚刚，微软首席执行官纳德拉宣布，OpenAI 创始人 Sa\n本文链接",
-          "link": "https://news.cnblogs.com/n/753964/",
-          "publishedOn": "2023-11-20T09:53:46.000Z",
-          "wordCount": 163,
-          "title": "商业的归商业，关于OpenAI奥特曼加入微软的6点看法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753961/",
-          "author": null,
-          "description": "腾讯科技讯，11 月 20 日消息，微软首席执行官纳德拉宣布，OpenAI 创始人山姆·奥特曼（Sam Altman）和布罗克曼（Brockman）将加入微软。随后，奥特曼转发了他的推特。 此后，纳德拉再次转发回复奥特曼称，非常高兴奥特曼可以加入新团队（全新的高级人工智能研究团队），并担任首席执行官\n本文链接",
-          "link": "https://news.cnblogs.com/n/753961/",
-          "publishedOn": "2023-11-20T09:42:35.000Z",
-          "wordCount": 163,
-          "title": "一文读懂OpenAI动荡始末：奥特曼跳槽微软，OpenAI另立CEO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753966/",
-          "author": null,
-          "description": "财联社 11 月 20 日讯（编辑刘蕊）上个周末，OpenAI 高层“政变”的消息如同平地惊雷，吸引了全球科技圈人士的目光。 美国时间 11 月 17 日，OpenAI 突然宣布解雇 CEO 山姆·奥特曼（Sam Altman），而后，在 OpenAI 的投资者的施压下，公司董事会正与奥特曼谈判，奥\n本文链接",
-          "link": "https://news.cnblogs.com/n/753966/",
-          "publishedOn": "2023-11-20T09:20:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI“政变”内幕：奥特曼拟成立AI芯片公司 秘密寻求巨额融资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753971/",
-          "author": null,
-          "description": "【CNMO 新闻】近日，CNMO 注意到，印度电子和信息技术部部长阿什维尼·维什瑙表示，已有戴尔、惠普、鸿海和联想等 27 家公司获得针对 IT 硬件的生产挂钩激励计划（PLI）批准，“其中 23 家已准备好立即开始生产，4 家公司将在 90 天内启动生产”。维什瑙表示，这 27 项申请将带来近 3\n本文链接",
-          "link": "https://news.cnblogs.com/n/753971/",
-          "publishedOn": "2023-11-20T09:18:00.000Z",
-          "wordCount": 163,
-          "title": "印度：戴尔惠普等27家公司已获IT硬件生产挂钩激励批准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753967/",
-          "author": null,
-          "description": "评述当前的阿里是一件非常困难的事情，一方面从理性角度判断，自“1+6+N”这一史上最大组织架构之后，前线业务部门的主观能动性以及资源调配能力随之提高（与此前大中台模式下资源配置主要在集团已有天壤之别），这对于改善企业经营质量，尤其是对淘天企业的松绑都大有裨益，也因此自组织架构调整之后，市场大多还是给\n本文链接",
-          "link": "https://news.cnblogs.com/n/753967/",
-          "publishedOn": "2023-11-20T09:17:00.000Z",
-          "wordCount": 163,
-          "title": "“巨变”再现：阿里改革已无退路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753970/",
-          "author": null,
-          "description": "“价格战打起来，我们顶多是忍一忍，别人是在流血。” 文丨吴晓宇 编辑丨王海璐 在中高端 SUV 之后，20 万-25 万元新能源轿车市场的竞争也变激烈起来。据《晚点 Auto》统计，广州车展亮相的新能源轿车至少有 15 款，在这个区间有 5 款车。 极氪也发布了第二款轿车，价格对标特斯拉 Model\n本文链接",
-          "link": "https://news.cnblogs.com/n/753970/",
-          "publishedOn": "2023-11-20T09:16:00.000Z",
-          "wordCount": 163,
-          "title": "从极氪 001 到 007，安聪慧又回到了熟悉的战场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753969/",
-          "author": null,
-          "description": "IT 之家 11 月 20 日消息，据外媒 IAM 报道，诺基亚日前在印度德里高等法院对 OPPO 提起诉讼。 据悉，诺基亚寻求禁令以阻止 OPPO 在该国销售其专利侵权产品，并要求 OPPO 遵循诺基亚提出的 FRAND 条款（IT 之家注：FRAND 条款即公平、合理及非歧视条款，主要用于反价格\n本文链接",
-          "link": "https://news.cnblogs.com/n/753969/",
-          "publishedOn": "2023-11-20T09:15:00.000Z",
-          "wordCount": 163,
-          "title": "诺基亚在印向 OPPO 发起专利诉讼，要求其遵循 FRAND 费用条款",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753965/",
-          "author": null,
-          "description": "腾讯控股与阿里巴巴近期相继发布财报。 中国互联网公司“赚钱”一哥的宝座阶段性易主或许已成定局，字节跳动超越腾讯、阿里成为中国营业利润最高的互联网公司。 财报显示，腾讯控股 2023 年第三季度净利润（期内盈利）367.81 亿元人民币，归母净利润（本公司权益持有人应占盈利）361.82 亿元。阿里巴\n本文链接",
-          "link": "https://news.cnblogs.com/n/753965/",
-          "publishedOn": "2023-11-20T09:10:00.000Z",
-          "wordCount": 163,
-          "title": "超越阿里、腾讯：字节跳动晋级中国最赚钱的互联网公司？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753963/",
-          "author": null,
-          "description": "出品：新浪财经创投 Plus 作者：shu 据多家媒体报道，快时尚跨境电商 SHEIN 近日已向纽约证券交易所秘密提交了招股申请文件，目标估值超 900 亿美元。部分投资机构和投资者受邀参加路演，公司距离敲钟上市似乎仅一步之遥。 值得玩味的是，SHEIN 一如既往地对 IPO 进程讳莫如深。此番秘密\n本文链接",
-          "link": "https://news.cnblogs.com/n/753963/",
-          "publishedOn": "2023-11-20T09:00:00.000Z",
-          "wordCount": 163,
-          "title": "营收放缓、估值缩水、诉讼缠身 秘密递表的SHEIN还剩多少想象空间？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753959/",
-          "author": null,
-          "description": "亚马逊旗下视频流媒体网站 Twitch 前高管 Emmett Shear 在社交平台X发文称今天接到电话，邀请他考虑一个千载难逢的机会：成为 OpenAI 的临时首席执行官。 在与家人商量并思考了几个小时后，他接受了。 此前有报道称，OpenAI 联合创始人兼首席科学家 Ilya Sutskever\n本文链接",
-          "link": "https://news.cnblogs.com/n/753959/",
-          "publishedOn": "2023-11-20T09:00:00.000Z",
-          "wordCount": 163,
-          "title": "Twitch前高管Emmett Shear：接受成为OpenAI临时首席执行官",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753952/",
-          "author": null,
-          "description": "智东西 11 月 20 日消息，据 The Information 报道，今天中午（旧金山时间周日晚间），OpenAI 首席科学家伊利亚·苏特斯科夫（Ilya Sutskever）宣布阿尔特曼将不会重返 OpenAI 担任 CEO。苏特斯科夫告诉员工，经过董事会以及其余领导和投资者的谈判，亚马逊旗下\n本文链接",
-          "link": "https://news.cnblogs.com/n/753952/",
-          "publishedOn": "2023-11-20T08:56:42.000Z",
-          "wordCount": 163,
-          "title": "阿尔特曼不会回归数十名员工辞职 | 纳德拉：OpenAI前总裁和CEO将加入微软",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753958/",
-          "author": null,
-          "description": "新智元报道 编辑：润 alan 为什么 AI 教父 Geoffrey Hinton 在自己退休之时，警告人类，自己为人类开启的 AI 之门，会通向人类无法控制的未来 Geoffrey Hinton 一生都在教计算机学习。现在他担心人造大脑会控制人类的未来。 纽约客记者面对面深度采访了 Hinton，\n本文链接",
-          "link": "https://news.cnblogs.com/n/753958/",
-          "publishedOn": "2023-11-20T08:28:00.000Z",
-          "wordCount": 163,
-          "title": "为什么AI教父Hinton会恐惧自己亲手创造的人工智能？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753957/",
-          "author": null,
-          "description": "新智元报道 来源：智源社区 11 月 3 日，机器学习泰斗 Michael Jordan 发表了题为 Contracts, Uncertainty， and Incentives in Decentralized Machine Learning（去中心化机器学习中的契约、不确定性和激励）的主旨报告\n本文链接",
-          "link": "https://news.cnblogs.com/n/753957/",
-          "publishedOn": "2023-11-20T08:13:00.000Z",
-          "wordCount": 163,
-          "title": "机器学习泰斗Michael Jordan最新报告：去中心化机器学习中的契约、不确定性和激励",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753914/",
-          "author": null,
-          "description": "IT 之家 11 月 19 日消息，据 36 氪报道，理想汽车为了加快智能驾驶的研发进度，选择了自动驾驶公司轻舟智航作为其智驾供应商，协助其在 Pro 版车型上实现高阶智能驾驶功能。目前，轻舟智航的部分员工已经到理想汽车驻场开发。 理想汽车的智能驾驶主要分为两个版本，即高配的 AD Max 和基础的\n本文链接",
-          "link": "https://news.cnblogs.com/n/753914/",
-          "publishedOn": "2023-11-20T00:45:37.000Z",
-          "wordCount": 163,
-          "title": "消息称理想智驾自研之外引入供应商，李想亲自盯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753913/",
-          "author": null,
-          "description": "来源：环球时报 环球时报驻美国特约记者冯亚仁环球时报记者刘明 多家广告商近日相继宣布暂停对社交平台X（原推特）的广告投放，因为美国左翼非营利组织“美国媒体事务”称发现多家企业在X上投放的广告与“反犹”帖文一起呈现。与此同时，白宫也谴责执掌X的马斯克“令人厌恶地宣扬”反犹太主义。马斯克则反击称，将于 \n本文链接",
-          "link": "https://news.cnblogs.com/n/753913/",
-          "publishedOn": "2023-11-20T00:45:08.000Z",
-          "wordCount": 163,
-          "title": "社交平台X陷“反犹”风波！马斯克威胁起诉，被批是“恶霸”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753912/",
-          "author": null,
-          "description": "IT 之家 11 月 19 日消息，特斯拉 Cybertruck 的续航能力引发质疑，一辆原型车显示其续航里程只有 267 英里（IT 之家备注：约 430 公里）。 本周早些时候，一段特斯拉 Cybertruck 原型车的视频流出，其中包含了对这款电动皮卡车内饰清晰的展示。 值得一提的是，从视频中\n本文链接",
-          "link": "https://news.cnblogs.com/n/753912/",
-          "publishedOn": "2023-11-20T00:43:27.000Z",
-          "wordCount": 163,
-          "title": "特斯拉 Cybertruck 续航能力遭质疑，原型车暗示不足 300 英里",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753911/",
-          "author": null,
-          "description": "11 月 20 日消息，据彭博援引知情人士透露，美国人工智能初创公司 OpenAI 的一些高管和投资者正努力让萨姆·奥特曼(Sam Altman)恢复首席执行官一职，但在董事会人员组成以及岗位分工问题上陷入僵局。知情人士表示，尽管谈判仍在进行中，但解决方案可能很快就会出台。 上周五被解雇的 Open\n本文链接",
-          "link": "https://news.cnblogs.com/n/753911/",
-          "publishedOn": "2023-11-20T00:42:45.000Z",
-          "wordCount": 163,
-          "title": "外媒：OpenAI董事会原则上同意辞职 奥特曼以游客身份现身总部",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/753910/",
-          "author": null,
-          "description": "来源：中国新闻网 中新网青岛 11 月 19 日电 (胡耀杰张孝鹏)青岛农业大学 19 日发布消息称，中国首只全流程采用国产设备、试剂和耗材培育的体细胞克隆猫在该校的哺乳动物体细胞克隆基地内诞生。这只克隆猫的诞生证明中国在动物克隆领域具有了完整的产业链。 青岛农业大学生命科学学院赵明辉博士介绍说，2\n本文链接",
-          "link": "https://news.cnblogs.com/n/753910/",
-          "publishedOn": "2023-11-20T00:40:44.000Z",
-          "wordCount": 163,
-          "title": "中国首只全流程国产化培育的克隆猫在山东青岛诞生",
-          "imageUrl": null
         }
       ]
     },
@@ -8827,16 +8777,6 @@
           "wordCount": 580,
           "title": "老司机 iOS 周报 #269 | 2023-11-27",
           "imageUrl": "https://opengraph.githubassets.com/f5af55932977a6cd381af3d9063b24a29a6911f267d61b7425651ea7d551ce00/SwiftOldDriver/iOS-Weekly/releases/tag/%23269"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23268",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新手推荐\nGenerating Random Numbers Elegantly in Swift \n@zoeGuo：文章介绍了在 Swift 中使用 RandomNumberGenerator 实现产生随机数的方式。写法优雅，可以产生自己任意范围的随机数，线程安全，还会根据 Swift 运行的平台来决定实现随机数的 api。\n文章\n🐎 Reasoning about protocols\n@J_Knight_：本文作者结合代码实例介绍了在 Swift 中面向协议编程的几个应用场景（动态派发，类泛型，编译期约束和实现合成）。\n🐕 在 Airbnb 爱彼迎解锁 SwiftUI\n@AidenRao： 这篇文章介绍了 Airbnb 在 iOS 应用中采用 SwiftUI 替代原有的 UI 框架 Epoxy 的实践。 也解释了为什么他们决定在 Airbnb 中使用 SwiftUI，并详细介绍了如何将 SwiftUI 集成到 Airbnb 的界面设计中。一个很好的实践，可以作为大家引入 SwiftUI 的参考。\n🐕 The complete guide to iOS & macOS development in Neovim\n@Smallfly：使用 Xcode 开发大型项目的体验一言难尽，这篇文章手把手教你如何在 Neovim 搭建 iOS&macOS 开发环境。支持的功能主要有：\n代码补全（Code Completion）\n代码检查与格式化（Linting & Formatting）\n构建、运行与测试（Build, Run & Test）\n调试（Debugging）\n所有这些一起至少覆盖了 90% 以…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23268",
-          "publishedOn": "2023-11-20T02:41:14.000Z",
-          "wordCount": 550,
-          "title": "老司机 iOS 周报 #268 | 2023-11-20",
-          "imageUrl": "https://opengraph.githubassets.com/7c5a6ead2f62e15faf8b0f349a28fe6062b801fde31ecf54bcbc75470bbbd433/SwiftOldDriver/iOS-Weekly/releases/tag/%23268"
         }
       ]
     }
