@@ -59,6 +59,16 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/85136",
+          "author": "PaulLeon",
+          "description": "Matrix 首页推荐  \nMatrix  是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n最近有点时间在 mac 上开始游戏和模拟器（果然我这种爱折腾的人就爱在 windows 折腾生产力，在 mac 上折腾游戏），结果发现了一个比较有意思的 bug。\n触发过程\n通过 Ryujinx Switch 模拟器把游戏添加游戏快捷路径（即：右键菜单的 Create Application Shortcut 功能）；然后，在「应用程序」文件夹中把对应的. app 文件夹删除。\n应用程序文件夹里已经找不到文件任何包含 Pok 字符的文件\n此时在启动台中应该无法再看见该应用的图标，但事实是，该图标有概率会保留；\n我的宝可梦 · 朱游戏图标就很神奇的保留了下来\n甚至利用 Lemon 这种卸载工具也没办法卸载……\nLemon 上也完全查不到这个 APP\n问题分析\n一开始本以为这是个系统级的 bug，查了会资料，大多推荐用 cleam my mac 或者 lemon 卸载，但是实测无用。要不就是找不到应用，要不就是卸载完后依旧在启动台有个图标。\n更有甚者建议我把那个图标丢到文件夹的下一页眼不见心不烦……\n原本已经准备放弃的时候，我猛然间发现如果通过 mac 的 steam 安装游戏并打开启动台直接启动游戏选项时，启动台会生成图标但文件夹中不会有相应的 app 文件生成。\n这一现象给了我灵感，我意识到启动台的应用图标并不是和「应用程序」文件夹一一对应的，有另外的配置文件或数据库与之对应。\n通过对启动台包名 com.apple.dock.launchpad 的查找，我终于找到了位于犄角旮旯的配置文件。很幸运，这个文件是个没加密过的 Sqlite 3 数据库文件，通过简单的 sql 语句我就查明白了数据库各个表的结构。\n可以直接通过系统自带的 sqlite 命令查询修改数据库\n于是最终的解决办法应运而生。\n解决方法\n\n打开 Finder\n按下 command+shift+G 启动前往窗口\n在前往中输入地址 /private/var/folders 后回车\nmac 这功能藏的够深的，生怕我们乱搞系统配置文件吗，连文件路径跳转都要管……\n在当前文件路径下搜索 com.apple.dock.launchpad 这个文件夹\n就是这个文件夹\n进入后有个文件夹 叫 db\n如图\n打开终端，通过 cd 命令进入该文件夹\n如果觉得手打路径太复杂，直接在 cd 之后把那个 db 文件夹拖到终端窗口就自动把路径带出了\n确认路径无误后在终端输入：\n\nsqlite3 db \"delete from apps where title=' 应用名称 ';\"&&killall Dock`\n \n命令大概意思是：删除数据库中的对应应用名称的那行数据，并重启整个 Dock + 启动台程序\n看见窗口跳动后即成功\n图标终于清理了\n接下来还有啥？\n大概研究了一下，感觉有类似需求的人还挺多的，准备抽空花点时间写个简单的 Mac 小工具，实现可视化的启动台图标管理。说不定还能把启动台的各类图标自定义？或者做些奇特的操作？\n各位如果有比较有意思的想法都可以留言，我研究研究是否能够实现。\n> 下载 少数派 2.0 客户端、关注 少数派公众号，解锁全新阅读体验 📰\n> 实用、好用的 正版软件，少数派为你呈现 🚀",
+          "link": "https://sspai.com/post/85136",
+          "publishedOn": "2023-12-20T03:30:47.000Z",
+          "wordCount": 716,
+          "title": "一日一技 | 妙用终端清理 macOS 启动台顽固图标",
+          "imageUrl": "https://cdn.sspai.com/2023/12/17/d56bd1fdbe27adda707ff893965cb1aa.png"
+        },
+        {
           "id": "https://sspai.com/post/85179",
           "author": "Matrix机器人",
           "description": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大家。\n希望这份「社区速递」能帮你发现更多有趣的内容分享。如果你有任何栏目内容或首页改版建议，也欢迎在评论区留言反馈。\n\n本周精选\n工具分享\n在《Airy 轻助理：效率工具与AI结合的神奇小工具》一文中，作者 Null 介绍了一款名为 Airy 轻助理的效率工具。该工具巧妙结合了 AI 技术，为 macOS 和 Win11 用户提供了一体化的界面，整合了多种效率工具，包括翻译、待办事项管理、chatGPT 等。通过设计精良的搜索框和快捷键，Airy轻助理提供了流畅的效率体验，不仅简化了电脑操作，还引入了「魔法复制」交互方式，使得用户能够在不离开当前界面或记忆额外快捷键的情况下完成翻译等任务。\n\n《隐藏在Mac刘海下的效率工具 - Folder Hub》是由作者 Lessimore 撰写的文章，着重探讨了在 Mac 系统中一些交互上的痛点，重点介绍了一款名为 Folder Hub 的效率工具。作者详细列举了在 Mac 使用过程中的交互不便之处，强调了 Folder Hub 如何解决这些问题，提高工作效率。\n在《2023年12月，重新测评Android平板上的各大输入法》一文中，作者 cabins 重新评估了 Android 平板上各大输入法的性能。文章首先介绍了更新的 Gboard Beta 版本，并以客观的态度评价了多个输入法在 2023 年 12 月的表现。通过测试维度包括光标跟随、实体键盘输入、双拼和五笔支持、键盘自动收起等，最后，作者对各输入法进行了详细评测，并给出了推荐指数。\n经验与思考\n《看完Sam Altman的斯坦福创业课，我学到了什么？》是由作者 Bay的…",
@@ -77,6 +87,26 @@
           "wordCount": 605,
           "title": "如何设计2.5G家用内网，聊聊我的选购安装思路",
           "imageUrl": "https://cdn.sspai.com/2023/12/15/2add74be53d91a8cbbbd894cd917ae58.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85115",
+          "author": "吴异人",
+          "description": "前言\n        在使用iPhone 12 Pro Max近三年后，我在10月底在官网购买了iPhone 15 Pro Max（11月10日到）。购买手机后，我也先一步购买各式各样的配件，如钢化膜、手机壳、数据线、无线充电器等。通过这一个月的体验，在TESTV粉丝俱乐部鼓励下，我简单分享一下自己的主观使用体验。\niPhone 15 Pro Max\n        首先，我承认这代苹果确实是挤牙膏式的升级。但对于我来说，12升级到15，体验是存在的提升。外观上，当你拿起来就能感觉这一代圆润的手感，而不是12 Pro Max给人一言难尽的手感。翻到背面，15代硕大的镜头的模组，让我顿时觉得12代镜头模组挺小巧别致。\n\n        摄影上，我不是专业的摄影师，给不了什么专业的评价。苹果的摄影1200万像素与4800万像素在很多的时候，给我也没有太大的区别。这并不意味着是食之无味，弃之可惜，若镜头再不升级，苹果纯属是固步自封的蠢货。不过当你需要使用到变焦的时候，4800万像素和5倍长焦给人的感觉还是实打实，拍远处的景色，不再是糊成一团。\n使用15 Pro Max 5倍长焦拍摄的风景\n        最后，当我想继续挤牙膏般说出这一代的优点，我发觉我写不下去。我突然扪心自问，为什么继续选择苹果手机？理由真的很苍白，是因为我已经形成苹果生态（有平板、手表、耳机），离开它总感觉沉没成本很大。亦或者是，在2011年的时候购买了iPod touch，2012年购买iPhone 4s后，造就一种对苹果的喜爱。而这喜爱终究会否消散，有待苹果以后的表现。\n        主观评分：7/10分\n手机壳\n        虽然这一代我选择购买Apple Care +，但你要我刚开始就彻底无壳无膜放飞，暂时做不到。并且再好看的原色钛金属，依然挡不住一颗换装（壳）的心。我目前使用有两个壳，分别是苹果…",
+          "link": "https://sspai.com/post/85115",
+          "publishedOn": "2023-12-17T11:33:42.000Z",
+          "wordCount": 666,
+          "title": "是但求其测—iPhone 15 Pro Max及配件篇",
+          "imageUrl": "https://cdn.sspai.com/2023/12/15/ece74e6747c8e1d298a163308b113325.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85128",
+          "author": "少数派84392992",
+          "description": "重新升级上架了新的Tabs Fast Easy插件，在浏览体验和功能特性上做了大的改动修改。让标签管理变得更简单，增加一键点击即可激活专注模式，轻松组织标签，和单tab分屏和全屏聚焦等多项功能。可以快捷提升工作和学习时的效率与专注和浏览体验。\n发到了producthunt上试了下风评，过了会看数据有些人试用，感觉东西应该可以解决tab页部分场景\n\n \n具体的一些功能特性如下\n 🚀 高效标签管理：垂直布局的标签和自动标签分组，轻松管理多个标签\n\n🔒 标签冻结与缓存：减少资源消耗，快速恢复标签状态，提高电脑性能。\n\n 🎨 自定义主题：根据您的偏好定制冻结界面主题，打造个性化的浏览体验。\n\n 📂 灵活的打开方式：多样化的标签打开选项，满足不同场景下的需求。\n\n💡 聚焦阴影：一键开启聚焦模式，通过阴影效果减少干扰，专注核心内容。\n\n 🖥️ 窗体与标签页分屏：同时浏览多个网页，高效对比信息，无缝多任务处理。\n\n \n\n🔗 智能URL适配：自动识别并适应特定网站，常访问页面提供定制化体验。\n🎥 全屏模式选项：无干扰和全聚焦全屏模式，创造沉浸式阅读和工作环境。\n\n \n下载地址体验\ngoogle应用市场：https://chrome.google.com/webstore/detail/tabs-fast-easy/falglioamaogaliloglbhkannkjlpjil\n\nEdge市场(https://microsoftedge.microsoft.com/addons/detail/tabs-fast-easy/lmadmbajnghkbjjhpdeaejdkhhggmdoc)\n大家有什么问题或者建议，欢迎一起讨论",
+          "link": "https://sspai.com/post/85128",
+          "publishedOn": "2023-12-17T11:30:20.000Z",
+          "wordCount": 599,
+          "title": "改变你的 tab 页浏览方式:精简、聚焦专注和分屏管理等体验",
+          "imageUrl": "https://cdn.sspai.com/2023/12/17/ace08877c178e85b8b1aca5f3424e3ee.png"
         },
         {
           "id": "https://sspai.com/post/85009",
@@ -627,56 +657,6 @@
           "wordCount": 831,
           "title": "Tabletops | 旗舰 Apple Store 真的存在吗？到底什么才叫 Apple Store 旗舰店",
           "imageUrl": "https://cdn.sspai.com/2023/11/22/dbb2ad031cdb1a6f90b2a648bcfc5653.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/84538",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大家。\n希望这份「社区速递」能帮你发现更多有趣的内容分享。如果你有任何栏目内容或首页改版建议，也欢迎在评论区留言反馈。\n\n本周精选\n工具分享\n文章《「播客学英语」iOS app - 听播客，看文本，学英语，记单词》里，作者 Josscii 推出了一款名为「播客学英语」的 iOS app，旨在通过结合播客听力学习和文本查词记单词，为英语学习者提供更便捷的学习方式。Josscii分享了选择播客学习的理由，并探讨了在实践中遇到的痛点——词汇量不足和播客没有提供文本的问题。他认为这款 app 是为了简化学习过程，尤其是对于那些在学习英语时遇到了困扰的人。文章还详细介绍了app的功能，包括听播客、看文本查单词、生词库管理等。\n\n在《把照片回忆放在桌面：文字是最美的标签》里，Shobek介绍了「识图 App」入选 App Store 本周编辑推荐的情况，以及新版更新中提供的功能，讨论了如何通过文字为照片配上标签，使回忆更加温馨和感人。\n\n经验与思考\n在这篇《复盘阅读和写作：我好像没有飞翔的力量了》里，作者鱼玄子回顾了自己的阅读和写作经历。通过对大学时代梦到飞行的回忆，作者探讨了阅读对自由思考的重要性，透过个人经历，表达了阅读对于塑造自主意识和理解世界的力量，以及在追求美好未来中的积极作用。\n\n在《个人、家庭记账的误区》中，作者 accelee 探讨了个人和家庭记账时容易陷入的误区。他指出初学者可能存在对记账过于简单的误解，认为只需记录每日支出，却忽略了记账的深度和复杂性。通过分析普通人的思维误区，作者分享了自己十多年的记账实践经验，并给记账新手提出了建议，强调了深入理解记账的重要性。…",
-          "link": "https://sspai.com/post/84538",
-          "publishedOn": "2023-11-21T09:28:56.000Z",
-          "wordCount": 884,
-          "title": "社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典",
-          "imageUrl": "https://cdn.sspai.com/11/21/2023/article/9eec9389-2db8-7a9c-4319-220c00afb7ee.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84478",
-          "author": "凉糕",
-          "description": "前言\n文献检索与阅读对于科研工作者的重要性是不言而喻的。在不同的情境（研究阶段）下，检索与阅读的方式会有不同：一是在涉足陌生领域时，我们主动地，集中地搜集和阅读，目的是快速了解该领域的发展历史与现状；二是正在进行一个研究时，我们已经对领域内的情况有了较为全面的把握，阅读文献更多地呈现被动、分散的特点，即依赖文献推送或不定期地查阅重点期刊，重点研究团队成果，目的是从最新的研究中得到借鉴和启发，并适时优化自己的技术路线。\n本文将针对第二种情境，分享我的文献追踪习惯和工具。我是工科背景，观点以及所介绍的方式方法不免有局限性，请读者见谅。\n我的学术前沿追踪习惯\nGoogle Scholar，微信公众号和Web of Science。\n在开启学术生涯的前期，我习惯使用 Google Scholar 进行文献的订阅，这应该是我们最基础也是最常使用的工具了。 Google Scholar 通过电子邮件的方式进行提醒。在我看来，方式过于老派，我打开邮箱时不一定进入了阅读的状态，加之邮箱的“永久”存储功能，不免产生稍后阅读的惰性。\n相比之下，阅读微信公众号更加便捷。而我的老板和师兄弟间也经常分享公众号上的研究速递。我在家庭服务器Home Server实践中提到过，我很讨厌在微信内阅读公众号：一是消息在时间排序上是乱序的；二是在内容上无法按照类别浏览，我无法让大脑做到在科研内容和娱乐内容间迅速切换；三是在浏览时会插播很多推荐内容，但我并不感兴趣；四是没有阅读记录，我无法判断哪些文章读过了，也无法标记稍后阅读，我的“文件传输助手”也就充当了“稍后阅读”的功能。\n沙师弟误入 & 文件传输助手版“稍后阅读”\n但不可否认，微信公众号内还是有很多有价值的文章、资讯。也有很多服务提供了微信公众号的内容订阅，比如Feeddd和WeRSS的订阅服务。但这些服务或是实时性不高，比如几天甚至几周才会更新一次；或是…",
-          "link": "https://sspai.com/post/84478",
-          "publishedOn": "2023-11-21T08:34:17.000Z",
-          "wordCount": 741,
-          "title": "高效追踪学术前沿动态",
-          "imageUrl": "https://cdn.sspai.com/2023/11/17/4144f08a53132b08864579e714fff816.png"
-        },
-        {
-          "id": "https://sspai.com/post/84523",
-          "author": "果铺知道",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\nTabletops 是 Michael Steeber 的新闻周刊，本文原文发表于 2023 年 2 月，原作者授权果铺知道翻译。\n\n有那么一些 Apple 产品是无论你花多少钱都买不到的，比如说：立方体。我说的不是那个立方体，也不是另一个立方体，而是这些个立方体：\n\n如果 Apple 准备开一项新业务的话，那 Hermin Miller 大概要开始担心了，至少，来自我的读者们的电子邮件是这么说的。比起 Apple Store 的其他方方面面，更多人关心的 Apple 在店里使用的各种家具。\n我想，这主要是因为在 Apple Store 里，椅子从不找那种万用百搭的。就算有那么一种意外你真的找到一张能花钱购买到的椅子，它们也并不会像旧金山机场休息室那个已经烂大街的蛋椅一样散落的到处都是，以至于变得平淡无奇。\n这次，我将尝试把过去和现在 Apple Store 里的所有座椅来一个大盘点。这篇文章也将成为一篇参考，所以如果你发现有任何遗漏或者错误时请联系我，我将更新网页版上的文章内容。如果你是对 Boardroom 里的椅子感兴趣的话，欢迎你阅读我以前写的另一篇文章。\n注：本文并非一篇赞助软文，也不会附带任何推广链接。我的目的可不是给你推销东西。\n高脚凳\nApple The Grove，图片来自 @ledtasso\nBar Stool 64 — Alvar Aalto / Artek：2001–2015\n这张用在 Genius Bar 的长椅可谓是整篇 Apple Store 椅子故事的序言。早期门店的椅子使用透明的喷漆，呈现出木材…",
-          "link": "https://sspai.com/post/84523",
-          "publishedOn": "2023-11-21T07:00:22.000Z",
-          "wordCount": 944,
-          "title": "排排坐，吃果果：趣谈 Apple Store 各色座椅",
-          "imageUrl": "https://cdn.sspai.com/2023/11/20/b6ac7afabe651c882531d842aed8e847.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84446",
-          "author": "Wataru",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n对于很多人来说，京都可能算不上是一座陌生的城市。她以她悠久的历史和由内而外散发的丰厚底蕴，成为访日游客的热门目的地。在任意一个搜索引擎里输入「京都」，你都能找到根本读不完的游记和攻略，这是一座不缺故事的城市。\n\n四时之景不同，而乐亦无穷也。\n\n用欧阳修《醉翁亭记》里的这句话来形容京都是再适宜不过的。无论什么季节，一年四季到访京都都是独具韵味的，秋天的京都则以漫山遍野的红叶而闻名。\n作为一名足球迷，这次访日的契机，源于跟随自己的主队浙江队赴日「远征」。好吧，实际上只是打着「远征」的一次旅行，但是终归是要跟随亚冠比赛的时间节奏走，所以才有了这次「完美错过」红叶季的旅程。虽然没有踩着红叶季的节奏访问这座古都，在这座城市停留的时间也只有两天，不过，将秋未秋的京都在我心里烙下的印记是难以磨灭的。我想把这如花火般短暂一瞬的美记录下来。成为文字后，这份回忆将不仅独属于我，这便是我想写下这篇文章的原因。\n你的京都印象，来源于哪里？\n这是一个「千人千面」的问题。无论是川端康成的《古都》、三岛由纪夫的《金阁寺》，还是无数以京都为背景的文学或影视作品，虽然她本不需要以这种方式出名，但这座城市早已以无数种多样的方式在许多人心中留下了难以磨灭的印象，这或许也是游客们愿意到访京都「朝圣」的原因。\n金阁寺\n\n金阁寺的美是无与伦比的。\n\n我对京都这座城市的初印象，来源于三岛由纪夫的《金阁寺》。在三岛由纪夫的书中，金阁寺其美无俦，以致主人公希望在大火中将自己的肉身同闪着金光的金阁寺一同走向毁灭。\n尽管在行前已经查阅过金阁寺的背景资料，了解到这座寺院的规模并不大、…",
-          "link": "https://sspai.com/post/84446",
-          "publishedOn": "2023-11-21T03:30:12.000Z",
-          "wordCount": 637,
-          "title": "城市漫步指南：在将秋未秋时，到访一次京都",
-          "imageUrl": "https://cdn.sspai.com/2023/11/16/66604dbb40b8f6eba0841f99d84b9fa5.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/84501",
-          "author": "Delmar",
-          "description": "Notion擅长数据库，Roam Research和Logseq专注于无压记录，Obsidian则擅长高度定制以满足笔记需求。它们在不同领域各有所长，有人选择将所有笔记集中在一起，即所谓的All-in-One。然而，在考试和考证领域，由于存在需要反复练习的大量知识点，这些笔记软件都未能很好地满足复习需求。因此，它们采用插件的方式和Anki等间隔练习软件联动。尽管Logseq可以复习卡片，但做得并不够好，无法很好地满足记笔记的同时快速制作不同类型的卡片并自定义回顾算法的需求。而这一切都能在RemNote里完全免费实现，没有任何限制。正所谓分久必合，合久必分。将所有笔记混合在一起并不一定是明智之举。因此，我选择单独将需要重复练习的内容单独放在由MIT开发的RemNote里。\nRemNote里有很多很复杂的功能，说实话学习成本也略高，但就单纯制卡这一项，学起来不超过5分钟。而且考证、考试这么重要，没时间让你去把玩那些需要付费的复杂功能，就用好这一项就行了。下面让我们来看看如何制作不同的卡片。\n制作普通卡片\n快捷输入：》》或者>>\n是的，即便输入的是中文输入法下的书名号，也会自动识别并转换为卡片。箭头前的文本为正面，箭头后的文本为背面。\n\n普通卡片默认只制作一张仅能复习背面的卡片。如果想要制作一张双面的普通卡片，只需点击箭头，不仅能预览卡片，还能选择中间的双箭头将其调整为双面卡片。\n\n制作多行卡片\n快捷输入：》》》或者>>>\n普通卡片适合一句话能讲完的，但如果你想要对知识点进行结构化拆分，那就需要用到多行卡片了。方法极其简单，就是多加一个书名号。\n\n如图最后一句，默认的多行卡片的背面是会同时出现的，这明显不符合一些有步骤的知识点。切换成顺序多行卡片的方式也很简单，有两种。\n第一种：点击箭头，然后勾选右下角的“Test One-by-One”。\n第二种：在切换到卡片背面时，输入“1.…",
-          "link": "https://sspai.com/post/84501",
-          "publishedOn": "2023-11-20T18:39:35.000Z",
-          "wordCount": 593,
-          "title": "超越Notion和Roam Research：RemNote揭秘，考试笔记如何事半功倍！",
-          "imageUrl": "https://cdn.sspai.com/2023/11/19/9ca49c4c58f154169f6ea723f2346a83.jpg"
         }
       ]
     },
@@ -744,6 +724,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76940",
+          "author": null,
+          "description": "Stanford Internet Observatory 的研究发现，被 Google 和 Stable Diffusion 等 AI 产品使用的机器学习数据库 LAION-5B 包含了 3,226 幅疑似儿童色情图像，其中 1,008 幅已被外部验证。LAION 组织已暂时将数据库下线，以在重新发布前确保它是安全的。Large-scale Artificial Intelligence Open Network（LAION）是一个为机器学习创建开源工具的非营利组织，它从开放网络中抓取了逾 50 亿幅图像，其中可能会混入儿童色情 （CSAM）材料。而在大部分国家，传播儿童色情材料都是非法的。LAION 组织也早就认识到数据库包含 CSAM 的可能性。他们承认无法保证所有儿童色情材料都被移除。",
+          "link": "https://www.solidot.org/story?sid=76940",
+          "publishedOn": "2023-12-20T15:17:22.000Z",
+          "wordCount": 187,
+          "title": "LAION 机器学习数据库发现包含儿童色情",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76939",
+          "author": null,
+          "description": "大象大脑更大，鼠类的脑身体质量比更高，鲸鱼的大脑神经元更多。人类大脑为什么如此特别？人类大脑每天消耗近 50 克糖，这是已知与身体新陈代谢有关的最高能量需求之一。神经科学家推测，如此高能量需要的原因是大脑中发生的信息传递量。研究人员对 30 名 20-50 岁的惯用右手的健康成年人进行大脑成像，他们发现所有大脑中能量消耗和信号传递是同步变化的。而大脑皮层部分区域信息传递通路的能量需求比感觉运动区域高出约 70%。不仅仅信号传递需要能量，调制信号也需要。人类大脑花了很多能量使用血清素、多巴胺或去甲肾上腺素等神经调质调制神经传递。",
+          "link": "https://www.solidot.org/story?sid=76939",
+          "publishedOn": "2023-12-20T14:53:25.000Z",
+          "wordCount": 163,
+          "title": "人类大脑细胞在信号传递上用掉了大量能量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76938",
+          "author": null,
+          "description": "基于堪萨斯大学田间和温室实验的一项研究表明，种植的多元化能提高农业产量，原因是病原体的专业化。病原体抑制低多元化群落的产量。研究人员称，单一栽培——在大片地区种植单一作物——是由技术原因而不是生物原因驱动的。多元化栽培让对植物有害的土壤病原体很难茁壮成长。虽然作物轮作和其他农业和园艺实践长期以来一直反映出植物混合的好处，但这项新研究为支持这一观察的一个重要机制提供了确凿的数据。",
+          "link": "https://www.solidot.org/story?sid=76938",
+          "publishedOn": "2023-12-20T14:19:05.000Z",
+          "wordCount": 157,
+          "title": "研究人员发现多元化种植相比单一栽培的好处",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76937",
+          "author": null,
+          "description": "本月初，微软披露了一个与打印机相关的 bug：没有连接惠普打印机的 Windows 用户的系统中突然安装了惠普打印机软件。微软没有公开解释问题的根源，但被认为与打印机元数据有关。它现在释出了一个工具 KB5034510: Microsoft Printer Metadata Troubleshooter Tool，该工具将从系统中移除所有惠普打印机软件和相关数据（如果用户没有使用惠普打印机）。微软发布了 4 个版本，针对 Arm 和 x86 系统分别提供了 32 位 和 64 位版本。",
+          "link": "https://www.solidot.org/story?sid=76937",
+          "publishedOn": "2023-12-20T13:33:11.000Z",
+          "wordCount": 177,
+          "title": "微软发布工具修复错误安装到系统中的惠普打印软件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76936",
+          "author": null,
+          "description": "科学家发现，随着昆虫数量的减少，花逐渐放弃吸引传统授粉者，转而演化出自我授粉。生长在巴黎附近的三色堇（pansies）相比 20-30 年前的野生三色堇，花朵小了 10%，花蜜少了 20%，昆虫也很少光顾。植物为昆虫产生花蜜，昆虫的回报是帮助它们在彼此之间授粉。这种互惠关系是经历数百万年的共同演化发展而来的。但今天的三色堇与其昆虫授粉者之间出现了恶性循环：花蜜减少，昆虫也减少光顾。研究人员发现三色堇正朝着自我授粉演化，这在短期内有利但可能会限制其适应未来环境变化的能力。植物的演变如此之快令科学家感到吃惊。欧洲各地都报告昆虫数量在减少。德国自然保护区的一项研究发现，1989-2016 年落在陷阱中的昆虫总重量下降了 75%。此前研究发现，野生三色堇自我授粉比例过去 20 年增加了 25%。",
+          "link": "https://www.solidot.org/story?sid=76936",
+          "publishedOn": "2023-12-20T11:36:19.000Z",
+          "wordCount": 165,
+          "title": "随着昆虫数量的减少植物花演化出自我授粉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76935",
+          "author": null,
+          "description": "无论喜欢不喜欢，加拿大将强制推广电动汽车，本周公布的新法规要求在 2035 年前停售新的燃油汽车和卡车。汽车制造商需要在 12 年内逐步淘汰内燃机汽车、卡车和 SUV，每年逐步增加销售的电动汽车车型比例。2026 年的比例是 20%，2027 年提高到 23%，2028 年 34%，2029 年 43%，2030 年需要达到 60%。最终到 2035 年达到 100%。环境部长 Steven Guilbeault 表示政府正在制定新的国家建筑规范，鼓励普及充电站。",
+          "link": "https://www.solidot.org/story?sid=76935",
+          "publishedOn": "2023-12-20T10:05:11.000Z",
+          "wordCount": 185,
+          "title": "加拿大将在 2035 年前停售燃油汽车卡车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76934",
+          "author": null,
+          "description": "勒索组织 Rhysida 在其暗网网站泄露了索尼旗下知名工作室 Insomniac Games 的 1.67TB 内部文件，其中包括未发布游戏素材和剧情，未来游戏发布路线图，公司内部通信、员工个人数据如护照扫描和薪酬数据，等等。Rhysida 称选择 Insomniac 是因为它一家成功的工作室，它勒索价值 200 万美元的比特币赎金，但 Insomniac 拒绝支付。Rhysida 于是在其暗网网站泄露了这些数据。这是游戏史上规模最大的泄密事件之一。",
+          "link": "https://www.solidot.org/story?sid=76934",
+          "publishedOn": "2023-12-20T09:47:43.000Z",
+          "wordCount": 191,
+          "title": "勒索组织泄露索尼工作室 Insomniac Games 的 1.67TB 内部文件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76933",
+          "author": null,
+          "description": "今天的互联网上有数十亿网民，每天产生数以万亿计的字节。要了解互联网上正在发生什么事比以往任何时候都难。互联网早就摧毁了单一文化的概念，但今天的网络生态系统加入了新的复杂度：TikTok 不透明的推荐系统，网站付费墙的流行，Twitter/X 在马斯克领导下崩溃，大部分社交媒体网站新闻相关性的削弱。根据意识形态和浏览习惯，每个人可能都会有独特的在线体验。我们拿着哈哈镜观察互联网，试图从扭曲中看世界。以 TikTok 为例，该平台最受瞩目的视频不是关于加沙冲突或歌星 Taylor Swift，而是化妆教程、食物 ASMR、炫耀巨型家猫...这些视频你可能从未看过。其它社交平台也有类似的现象。这种混乱是互联网碎片化的一个特征，它给人产生了两种相反现象同时发生的印象：流行内容以惊人的规模被消费，但流行度和名人却被弱化和孤立化了。我们生活在一个比以往任何时候更容易幸福的不知道其他人正在消费什么的世界。人们也比以往任何时候更容易过度看重那些看似流行但实际受限制的信息或趋势。",
+          "link": "https://www.solidot.org/story?sid=76933",
+          "publishedOn": "2023-12-20T08:10:34.000Z",
+          "wordCount": 163,
+          "title": "没人知道互联网正在发生什么事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76932",
+          "author": null,
+          "description": "因测试违规，丰田子公司大发停止全部车型出货。大发是在今年 4 月宣布 4 款海外车型的侧面碰撞安全性进行确认的测试认证程序存在违规行为。随后展开的进一步调查发现，除了耐久性等安全方面之外，尾气等环保方面的数据也存在篡改现象。调查大发违规问题的第三方委员会表示，新认定了 174 项违规行为，最早的是在 1989 年。2022 年度大发的全球产量超过 170 万辆，大约一半在日本国内生产。",
+          "link": "https://www.solidot.org/story?sid=76932",
+          "publishedOn": "2023-12-20T06:47:12.000Z",
+          "wordCount": 168,
+          "title": "丰田大发因测试违规停止全部车型出货",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76931",
+          "author": null,
+          "description": "安全桌面操作系统 Qubes OS 释出了 4.2 版本。Qubes OS 使用一组被称为 Qubes 的虚拟机将不同功能隔离开来，每一个应用程序都运行在各自的沙盒中，确保一个程序有安全漏洞不会影响到其它程序。Qubes OS 4.2 主要变化包括：Dom0 升级到 Fedora 37，Xen 升级到 v4.17，默认 Debian 模板升级到 Debian 12，默认 Fedora 和 Debian 模板使用 Xfce 而非 GNOME 桌面，多个 GUI 应用重写，PipeWire 支持，等等。",
+          "link": "https://www.solidot.org/story?sid=76931",
+          "publishedOn": "2023-12-20T06:29:02.000Z",
+          "wordCount": 200,
+          "title": "Qubes OS 4.2.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76930",
+          "author": null,
+          "description": "NASA 用一只追逐激光的橙色虎斑猫视频演示了深空激光传输。15 秒长的超高清视频是从 NASA Psyche 飞船从 3000 万公里外传输到加州理工 Palomar 天文台，耗时不到 2 分钟，测试了系统最大速率 267 Mbps。Psyche 是在 10 月搭乘 SpaceX Falcon Heavy 火箭升空，目标是位于火星和木星之间小行星带的灵神星，距离地球 40 亿公里，灵神星被认为富含贵金属，潜在开采价值巨大。视频于 12 月 11 日传输到地球，NASA 在本周发布。激光通信的传输速度是目前深空飞行器使用的无线电系统传输速度的百倍。NASA 计划进行多次深空激光传输测试，但下一次不会用这只猫咪了。",
+          "link": "https://www.solidot.org/story?sid=76930",
+          "publishedOn": "2023-12-20T06:17:39.000Z",
+          "wordCount": 189,
+          "title": "NASA 用猫咪视频演示深空激光高速传输",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76929",
+          "author": null,
+          "description": "当 Laura Simone Lewis 和同事时隔数个月或数年重遇大猿时，他们受到了热烈的欢迎。她说，它们似乎记住了他们，即使分开了好几年。她的预感是正确的。根据发表在 PNAS 期刊上的研究，黑猩猩和倭黑猩猩能记住几年或几十年未见的老朋友。这意味着我们的近亲具有类似人类的记住老朋友和家人的能力，这是形成更复杂社会的关键组成部分。Lewis 说，一个极端的例子是一只倭黑猩猩有近 27 年没有见过妹妹和侄子，但还是认出了它们。这可能是有记录以来持续时间最长的非人类记忆。",
+          "link": "https://www.solidot.org/story?sid=76929",
+          "publishedOn": "2023-12-19T15:54:05.000Z",
+          "wordCount": 166,
+          "title": "黑猩猩和倭黑猩猩能记住几十年未见的老朋友",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76928",
           "author": null,
@@ -3173,116 +3273,6 @@
           "wordCount": 191,
           "title": "Tim Sweeney 称腾讯并不控制 Epic",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76681",
-          "author": null,
-          "description": "气候变化之下热浪频繁出现，愈来愈多的人依赖空调熬过炎热的气候，然而空调同时也是全球暖化的重要来源。自一个世纪前发明以来，空调的基本原理没有发生改变。它需要消耗大量能量，使用名为制冷剂的有害化学物质。空调的问题在于其核心技术：蒸汽压缩，将储存的氢氟碳化合物冷却剂从液体转化为气体，期间吸收热量，将热量从室内移出。氢氟碳化合物是温室气体，泄露到大气中后会吸收大量热。研究人员上周在《科学》期刊上发表论文，报告了一种高效固态电热泵原型。它使用电场和一种特殊陶瓷而不是冷却剂和压缩机加热和冷却空气。电热泵使用电热材料，其中的原子具有电场偏极化，有“正”极和“负”极。当置于电场中时，材料中的原子运动将从无序变为有序。这意味着熵的下降。根据热力学定律，系统的总熵永远不会下降。它在某个地方下降那么一定会在其它地方增加。研究人员表示他们的原型尚未做好商业化准备，但随着进一步的完善，电热泵的效率能与现有的热泵相竞争。",
-          "link": "https://www.solidot.org/story?sid=76681",
-          "publishedOn": "2023-11-21T11:30:36.000Z",
-          "wordCount": 158,
-          "title": "高效固态电热泵有望改变空调",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76680",
-          "author": null,
-          "description": "为了结束对世界最大加密货币交易所长达数年的刑事调查，美国司法部寻求对币安罚款逾 40 亿美元。作为和解协议的一部分，币安的创始人赵长鹏可能在美国面临刑事指控，以结束对其涉嫌洗钱、银行欺诈和违反制裁行为的调查。赵长鹏目前居住在阿联酋，而阿联酋与美国之间没有引渡协议。但赵长鹏可以主动前往美国投案。双方达成的协议可能最快将在本月底公布，但形势并未稳定，可能会发生变化。",
-          "link": "https://www.solidot.org/story?sid=76680",
-          "publishedOn": "2023-11-21T10:12:11.000Z",
-          "wordCount": 166,
-          "title": "美国司法部寻求对币安罚款逾 40 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76679",
-          "author": null,
-          "description": "亚马逊开始提供生成式 AI 免费教程，帮助世界各地的学习者拓展关键技能。亚马逊称它的研究显示，73% 的雇主将招募 AI 人才作为首要任务，但其中四分之三的雇主找不到他们需要的 AI 人才。雇主预计，如果员工提高 AI 技能，他们的工资将上涨 47%。AI 将成为业务开展方式中不可或缺的一部分，93% 的企业预计未来五年将在其组织中使用 AI 解决方案。亚马逊的学习计划被称为 AI Ready。",
-          "link": "https://www.solidot.org/story?sid=76679",
-          "publishedOn": "2023-11-21T09:59:52.000Z",
-          "wordCount": 180,
-          "title": "亚马逊提供生成式 AI 免费教程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76678",
-          "author": null,
-          "description": "Mozilla 即将正式释出的 Firefox 120 将支持新的隐私控制请求头 Sec-GPC，以表明用户是否同意一个网站或一项服务向第三方出售或共享其个人信息，类似 Do Not Track，它仍然是一项自愿遵守的隐私标准。Firefox 120 还将默认启用 WebAssembly GC 扩展，支持 Dart 和 Kotlin 等新语言在浏览器上运行。其他功能包括：当 Chromium 和 Firefox 都作为 Snap 包格式安装在设备上，Ubuntu Linux 用户可以 Chromium 导入数据； Windows 和 Linux 上的画中画支持角捕捉（corner snapping）；支持 light-dark() CSS 颜色函数，CSS 支持 lh 和 rlh 行高单位，等等。",
-          "link": "https://www.solidot.org/story?sid=76678",
-          "publishedOn": "2023-11-21T09:37:15.000Z",
-          "wordCount": 208,
-          "title": "Firefox 120 将支持新的隐私控制请求头 Sec-GPC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76677",
-          "author": null,
-          "description": "一加联合创始人裴宇（Carl Pei）创办的手机公司 Nothing 上周发布了它的消息应用 Nothing Chats，该消息应用源自 Sunbird app，它立即被发现存在严重安全问题，不到 24 小时就被迫从 Google 应用商店 Play Store 下架。Nothing Chats 的卖点是允许用户使用苹果的账号和密码在 Android 上登陆 iMessage——这听起来就不像是好事，声称支持端对端加密，结果被发现明文储存信息，身份验证令牌通过 HTTP 发送，意味着中间人可以拦截并读取你的消息。Text.com 的调查发现，当用户收到一条消息或一则附件，在客户端请求确认前它们在服务端是未加密的。它还发布了一个概念验证应用能从服务器上提取出号称端对端加密的信息。",
-          "link": "https://www.solidot.org/story?sid=76677",
-          "publishedOn": "2023-11-21T08:22:39.000Z",
-          "wordCount": 182,
-          "title": "Nothing 公司的消息应用被发现是安全灾难",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76676",
-          "author": null,
-          "description": "FreeBSD 项目释出了 FreeBSD 14.0-RELEASE。主要新特性包括：OpenSSH 更新至 v9.5p1；OpenSSL 更新至 v3.0.12；bhyve 虚拟机管理程序支持 TPM 和 GPU 透传；FreeBSD 在 amd64 和 arm64 平台支持最多 1024 个内核；ZFS 更新至 OpenZFS v2.2，显著改进性能；实验性 ZFS 镜像可用于 AWS 和 Azure；TCP 默认拥塞控制机制设为 CUBIC，等等。",
-          "link": "https://www.solidot.org/story?sid=76676",
-          "publishedOn": "2023-11-21T07:07:18.000Z",
-          "wordCount": 193,
-          "title": "FreeBSD 14.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76675",
-          "author": null,
-          "description": "因拒绝支付赎金，勒索软件组织 LockBit 泄露了波音公司大约 45GB 的数据。这次网络攻击发生在 10 月 27 日，波音在同一天承认遭到网络攻击，表示没有影响到飞行安全。因未在两周内支付赎金，LockBit 公开了波音的数据，其中包括云计算公司 Citrix 的文件、安全控制、电邮备份等。安全分析师称，波音的邮件等数据对恶意攻击者非常有价值。安全公司 MalwareHunter 认为，泄露数据可能来自于波音在 2006 年收购的 Aviall。如果 Aviall 的系统在过去 17 年已经与波音深度整合，那么问题将会很严重。如果整合程度不高，那么 LockBit 只是入侵了 Aviall 的网络，问题不那么严重。",
-          "link": "https://www.solidot.org/story?sid=76675",
-          "publishedOn": "2023-11-21T06:48:44.000Z",
-          "wordCount": 189,
-          "title": "因拒绝支付赎金勒索软件组织泄露波音 45GB 数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76674",
-          "author": null,
-          "description": "如果马斯克（Elon Musk）的 X/Twitter 不喜欢你，它会分析你的一举一动。X/Twitter 在德州起诉了媒体监督组织 Media Matters，该组织此前发表研究称 X 平台允许知名公司投放的广告与反犹推文和仇恨言论展示在一起。苹果、迪士尼、IBM和 康卡斯特（Comcast）等随后都暂停在 X 上投放广告。X 在诉讼中称：“Media Matters 在知情的情况下恶意制造并排图片，将广告商在 X 公司社交媒体平台上发布的帖子，与新纳粹和白人民族主义边缘内容放在一起。”Media Matters 设立了一个测试账号，以证明 X 的算法能将广告与争议言论展示在一起。它的做法是不停的刷新和滚动时间线。在起诉书中，X 称 Media Matters 通过这种方法每小时看到的广告数是普通用户的 13-15 倍，直到发现它需要的内容——有争议内容与广告商的付费推文展示在一起。",
-          "link": "https://www.solidot.org/story?sid=76674",
-          "publishedOn": "2023-11-21T04:58:02.000Z",
-          "wordCount": 197,
-          "title": "X/Twitter 起诉 Media Matters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76673",
-          "author": null,
-          "description": "国家统计局编著出版的《中国统计年鉴2023（官网尚未发布）》公布了 31 个省份的人口出生率、死亡率和自然增长率数据。数据显示，2022 年有 9 个省份的人口出生率超过千分之八（8‰）；有 20 个省份人口自然增长率（人口自然增加数（出生人数-死亡人数）/同期平均总人口数）为负，比上一年增加 7 个。在人口出生率方面，有 14 个省份超过了全国平均水平（6.77‰），其中有4个省份超过了 1%，分别是西藏、贵州、青海和宁夏，均来自西部地区。有 5 个省份人口出生率处于 8‰ 到 9‰ 之间，分别是海南、广西、甘肃、广东和云南。2022 年全年广东出生人口 105.2 万人，连续三年成为唯一一个出生人口超 100 万的省份，广东已经连续五年成为第一生育大省。",
-          "link": "https://www.solidot.org/story?sid=76673",
-          "publishedOn": "2023-11-20T14:34:43.000Z",
-          "wordCount": 188,
-          "title": "去年 20 个省人口负增长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76672",
-          "author": null,
-          "description": "亚马逊正在训练代号为奥林匹斯（Olympus）的超大规模语言模型。知情人士称它有两万亿个参数，相比下 OpenAI 的 GPT-4 模型据报道有大约 1 万亿个参数。奥林匹斯团队由 Alexa 前负责人 Rohit Prasad  领导，直接向 CEO Andy Jass 汇报工作。亚马逊认为拥有自己的大模型会让其 AWS 业务更有吸引力，企业客户希望能在 AWS 上访问到性能最好的大模型。目前还没有奥林匹斯发布的时间表。",
-          "link": "https://www.solidot.org/story?sid=76672",
-          "publishedOn": "2023-11-20T14:27:19.000Z",
-          "wordCount": 176,
-          "title": "亚马逊训练超大模型奥林匹斯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76671",
-          "author": null,
-          "description": "微软安全响应中心上周庆祝了周二补丁日实施二十周年。所谓周二补丁日是指在每个月的第二个星期二推送安全补丁。在统一采用周二补丁日前，安全补丁的发布是零零散散的，这种零散的模式给 IT 工作者和组织部署重要补丁带来了挑战。微软率先提出的可预测的补丁发布时间表改变了这一状况。",
-          "link": "https://www.solidot.org/story?sid=76671",
-          "publishedOn": "2023-11-20T13:03:16.000Z",
-          "wordCount": 158,
-          "title": "微软周二补丁日实施二十周年",
-          "imageUrl": null
         }
       ]
     },
@@ -3291,6 +3281,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/760812/",
+          "author": null,
+          "description": "据《中国企业家》报道，戴威赴美后创办的连锁小型咖啡店 About Time Coffee 原本仅有 5 家门店，如今 4 家已经显示“已永久关停”。 图片来源：每经特约记者 Zoe 摄 根据界面新闻报道，有接近该项目的知情人士透露，About Time Coffee 目前的运营已经陷入困境，资金链遇\n本文链接",
+          "link": "https://news.cnblogs.com/n/760812/",
+          "publishedOn": "2023-12-20T10:20:00.000Z",
+          "wordCount": 163,
+          "title": "ofo还有15亿押金没退，创始人戴威美国创业又到失败边缘！知情人透露原因",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760811/",
+          "author": null,
+          "description": "新智元报道 编辑：Mindy 苹果新发布适用于苹果芯片的机器学习框架 MLX，MLX 是一个类似于 NumPy 的阵列框架，旨在为使用苹果硬件的研究人员简化 ML 模型的训练和部署。 一直以来，英伟达 CUDA 称霸天下，使得它在 AI 领域的势力不可动摇。 对于许多人来说，都希望打破这个护城河，比\n本文链接",
+          "link": "https://news.cnblogs.com/n/760811/",
+          "publishedOn": "2023-12-20T10:10:00.000Z",
+          "wordCount": 163,
+          "title": "苹果版CUDA来了！专为自家芯片打造，M3 Max可跑每秒迭代2.8次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760810/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 好困 来自中科大等机构的联合团队提出了一种全新的方法——SciGuard，可以保护 AI for Science 模型，防止生物、化学、药物等领域模型不会被不当使用。与此同时，团队还建立了首个专注于化学科学领域安全的基准测试——SciMT-Safety。 「我们的实验失控了\n本文链接",
+          "link": "https://news.cnblogs.com/n/760810/",
+          "publishedOn": "2023-12-20T10:00:00.000Z",
+          "wordCount": 163,
+          "title": "GPT-4化身邪恶化学家！中国科大等发布首个「科学风险」基准和SciGuard大模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760809/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 OpenAI「登月计划」笃定了超级人工智能必定会到来，甚至近在眼前。而在 LeCun 看来，实现 AGI 还很遥远，打造出世界模型仅是这第一步。 通用 AGI，或许近在咫尺。 OpenAI 下一步「登月计划」，就是实现人类期待已久的超级人工智能，而到达这一步的前提是——解决\n本文链接",
+          "link": "https://news.cnblogs.com/n/760809/",
+          "publishedOn": "2023-12-20T09:50:00.000Z",
+          "wordCount": 163,
+          "title": "OpenAI「登月计划」剑指超级AI！LeCun提出AGI之路七阶段，打造世界模型是首位",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760808/",
+          "author": null,
+          "description": "新智元报道 编辑：Mindy 全新代码大模型 Magicoder，不到 7B 参数，就能在代码生成领域与顶级代码模型不相上下。 开源「代码大模型」来了！ UIUC 清华团队的研究人员发布了 Magicoder，不到 7B 参数，就能在代码生成领域与顶级代码模型不相上下。 值得一提的是，Magicod\n本文链接",
+          "link": "https://news.cnblogs.com/n/760808/",
+          "publishedOn": "2023-12-20T09:40:00.000Z",
+          "wordCount": 163,
+          "title": "编码碾压ChatGPT！UIUC清华联手发布7B参数Magicoder，代码数据权重全开源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760807/",
+          "author": null,
+          "description": "新智元报道 编辑：润好困 最近，两位哈佛辍学生共同创立的 AI 芯片公司，估值已达 3400 万美元，并计划明年交付一款名为「Sohu」的 AI 推理加速芯片——其 LLM 推理性能达到 H100 的 10 倍，而单价吞吐量更是高达 140 倍。 像 Pika 一样的神级创业故事又要再次上演了？ 两\n本文链接",
+          "link": "https://news.cnblogs.com/n/760807/",
+          "publishedOn": "2023-12-20T09:30:00.000Z",
+          "wordCount": 163,
+          "title": "推理性能超H100十倍！21岁华裔小哥哈佛辍学开发AI加速芯片「Sohu」，2人公司估值3400万刀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760806/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 Gemini 自曝自己是文心一言，听之虽然好笑，背后原因却令人忧心：互联网语料或许已经被 AI 严重污染，而且全球都陷入了高质量数据荒，最早在明年将面临枯竭！ 谷歌 Gemini，又出丑闻了！ 昨天上午，网友们激动地奔走相告：Gemini 承认自己是用文心一言训练中文语料的\n本文链接",
+          "link": "https://news.cnblogs.com/n/760806/",
+          "publishedOn": "2023-12-20T09:20:00.000Z",
+          "wordCount": 163,
+          "title": "Gemini自曝文心一言牵出重大难题，全球陷入高质量数据荒？2024年或将枯竭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760805/",
+          "author": null,
+          "description": "新智元报道 编辑：Aeneas 最近，这张号称「或许是 2024 年最重要的 AI 图之一」的图开始热转，可以看到，开源本地模型，已经取代了大规模、基于云的昂贵封闭模型，这种转变令人兴奋、着迷。 最近，这张图开始在 AI 社区热转，连 LeCun 也转发了。 这张图直观地展现了 AI 开源社区和私有\n本文链接",
+          "link": "https://news.cnblogs.com/n/760805/",
+          "publishedOn": "2023-12-20T09:10:00.000Z",
+          "wordCount": 163,
+          "title": "「2024年最重要AI图」疯狂热转！开源AI模型正在超越专有模型，LeCun大赞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760804/",
+          "author": null,
+          "description": "新智元报道 编辑：润 alan 2023 这个大模型爆发的元年即将过去，展望未来，比尔盖茨，李飞飞，吴恩达等人对 2024 年人工智能的发展作出了自己的预测。 2023，可以说是人工智能的春天。 在过去的一年里，ChatGPT 成为家喻户晓的名字， 这一年中，AI 和 AI 公司的各种变革，让我们震\n本文链接",
+          "link": "https://news.cnblogs.com/n/760804/",
+          "publishedOn": "2023-12-20T09:00:00.000Z",
+          "wordCount": 163,
+          "title": "李飞飞吴恩达等2024年AI十大预测！GPU短缺，AI智能体一年内大爆发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760803/",
+          "author": null,
+          "description": "戴珊——这个曾被认为是阿里最有权力的女人，在这艘巨轮负重前行之下，也被换掉了。 12 月 20 日，继 6 月、9 月两次人事巨变后，阿里短短几个月又宣布了第三次高管变动，这一次阿里元老吴泳铭身上的担子又被加了一码，一人身兼三个 CEO。而戴珊则成了又一个张勇，从掌管阿里最有钱的部门调去负责一项新业\n本文链接",
+          "link": "https://news.cnblogs.com/n/760803/",
+          "publishedOn": "2023-12-20T08:50:00.000Z",
+          "wordCount": 163,
+          "title": "阿里最有权力的女人下去了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760802/",
+          "author": null,
+          "description": "“朋友一生一起走，那些日子不再有。” 董宇辉和俞敏洪现身东方甄选直播间 12 月 18 日，一度消失在公众视野的董宇辉回到了东方甄选直播间，和俞敏洪一起吃火锅、唠家常、聊杜甫的诗，在线人数一度超过 400 万人，不少观众感慨：熟悉的董宇辉似乎回来了。 就在一天时间里，董宇辉不再是“售货员”，如今他拥\n本文链接",
+          "link": "https://news.cnblogs.com/n/760802/",
+          "publishedOn": "2023-12-20T08:44:00.000Z",
+          "wordCount": 163,
+          "title": "烫手董宇辉：俞敏洪的斗争和妥协",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760801/",
+          "author": null,
+          "description": "文｜互联网江湖，作者｜刘致呈 大股东百度再次减持了携程。 根据公开的 SEC 文件显示，百度最近减持了携程 238.67 万股，套现 8086.12 万美元。据不完全统计，百度近三个月从携程套现累计超过 1.5 亿美元。 根据 2023 年 1 月底公布的股权信息，携程董事长梁建章持股为 4.4%，\n本文链接",
+          "link": "https://news.cnblogs.com/n/760801/",
+          "publishedOn": "2023-12-20T08:33:00.000Z",
+          "wordCount": 163,
+          "title": "携程赚钱，百度变现，携程V字反弹要结束了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760800/",
+          "author": null,
+          "description": "文｜一刻商业，作者刘贝，编辑白杨 今年 7 月，凭借“9.9 元拍 AI 写真”服务，妙鸭相机成为了国内 AIGC 领域第一个破圈的C端产品，短时间内一度冲上 App store 应用榜前五。不过妙鸭相机并未持续火爆下去，上线仅仅一个月后，其热度便开始下降。 11 月 20 日，妙鸭相机新推出了“A\n本文链接",
+          "link": "https://news.cnblogs.com/n/760800/",
+          "publishedOn": "2023-12-20T08:22:00.000Z",
+          "wordCount": 163,
+          "title": "妙鸭不想被遗忘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760799/",
+          "author": null,
+          "description": "相信不少人和小编一样，是酸奶的“死忠粉”——早餐给自己做个水果燕麦酸奶碗，好看、美味又健康；饱餐之后，不得喝杯酸奶解解腻；闲来无事，忍不住来杯酸奶作为加餐…… 若你要问小编为啥要喝酸奶？原因很简单，好喝呗！谁能在炎热的夏天拒绝一个冰冰凉凉、酸酸甜甜的东西呢？ 当然啦，酸奶不只是美味的“花瓶”，长期喝\n本文链接",
+          "link": "https://news.cnblogs.com/n/760799/",
+          "publishedOn": "2023-12-20T08:11:00.000Z",
+          "wordCount": 163,
+          "title": "酸奶不仅减肥还有益代谢！Nature子刊：仅3个月饮用这种常见饮品，能显著改善血糖稳态和脂肪肝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760798/",
+          "author": null,
+          "description": "当一众科技巨头在生成式 AI 赛道打得火热时，一旁的苹果却显得有些静默。 而今天苹果发布了一篇生成式 AI 的研究论文，难得向我们展示了他们在这一领域的最新突破。 这篇论文详细介绍了一项名为 HUGS（Human Gaussian Splats）的生成式 AI 技术。简言之，得益于这一技术的加持，我\n本文链接",
+          "link": "https://news.cnblogs.com/n/760798/",
+          "publishedOn": "2023-12-20T08:02:00.000Z",
+          "wordCount": 163,
+          "title": "分身术来了，苹果发布 AI 新技术，30 分钟打造你的「数字化身」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760797/",
+          "author": null,
+          "description": "文｜Foodaily 每日食品 Lyra Liu 最近一年，咖啡市场持续升温。头部品牌纷纷立下千店、万店目标，高频次更新的新品和 IP 联名也不断为消费者带来新鲜感，还有越来越多的新锐咖啡品牌获得融资。 当人们都在关注咖啡市场新品时，Foodaily 发现，国内有大量的品牌开始在店内免费发放咖啡渣。\n本文链接",
+          "link": "https://news.cnblogs.com/n/760797/",
+          "publishedOn": "2023-12-20T07:53:00.000Z",
+          "wordCount": 163,
+          "title": "以前没人要的咖啡渣，现在成了“香饽饽”？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760796/",
+          "author": null,
+          "description": "在 2013 年，正值智能手机纷纷萌芽茁壮成长的时代，苹果在 WWDC 开发者大会上释出一枚重磅炸弹：全新设计语言的 iOS 7 正式面世！这标志着 iPhone 也迎来了最大的一次革新升级。 苹果软件工程高级副总裁克雷格·费德里吉，以他标志性的白发和帅气形象，在调侃了其他厂商繁琐的文件传输方式之后\n本文链接",
+          "link": "https://news.cnblogs.com/n/760796/",
+          "publishedOn": "2023-12-20T07:45:00.000Z",
+          "wordCount": 163,
+          "title": "苹果的 AirDrop，为什么越来越难用了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760795/",
+          "author": null,
+          "description": "12 月 20 日下午消息，针对阿里考虑出售盒马的传闻，盒马回应称，不实传闻。 今日早间，阿里集团董事长蔡崇信发布全员信宣布，阿里集团 CEO、淘天集团董事长吴泳铭将兼任淘天集团 CEO。 有媒体报道称，已经拆分出去的几个业务，吴泳铭已做出了一系列资本规划：盒马已经在考虑出售、饿了么或将有新的资本动\n本文链接",
+          "link": "https://news.cnblogs.com/n/760795/",
+          "publishedOn": "2023-12-20T07:30:00.000Z",
+          "wordCount": 163,
+          "title": "阿里考虑出售盒马？盒马回应：不实传闻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760794/",
+          "author": null,
+          "description": "总部位于美国佛罗里达州迈阿密的共享电动滑板车公司 Bird Global 在该州申请破产保护。该公司在一份法庭文件中列出了 1 亿至 5 亿美元的资产和负债。 Bird Global 于 2017 年由优步前高管特拉维斯·范德赞登（Travis VanderZanden）创立，一度成为估值最快达到 \n本文链接",
+          "link": "https://news.cnblogs.com/n/760794/",
+          "publishedOn": "2023-12-20T07:23:00.000Z",
+          "wordCount": 163,
+          "title": "优步前高管创立的美国电动滑板车公司Bird申请破产保护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/760793/",
+          "author": null,
+          "description": "消息源 Brad Lynch 近日发布推文，表示苹果在 Vision Pro 头显的岗前培训中，禁止员工使用“VR”词汇。 他在推文中表示，苹果明确要求其员工，在向用户展示和宣传过程中，不得使用“VR”这个单词，而是重点强调“神奇”（magical）和“新”（new）印象。 他在后续和网友的互动中透\n本文链接",
+          "link": "https://news.cnblogs.com/n/760793/",
+          "publishedOn": "2023-12-20T07:18:00.000Z",
+          "wordCount": 163,
+          "title": "消息称苹果培训员工介绍Vision Pro头显时禁用“VR”单词",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/760736/",
           "author": null,
@@ -8599,136 +8789,6 @@
           "publishedOn": "2023-11-22T00:00:00.000Z",
           "wordCount": 163,
           "title": "Up主爆氪46万后被虐退游，SLG手游因何让人上头？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754061/",
-          "author": null,
-          "description": "11 月 21 日消息，据外媒报道，近一段时间，人工智能公司 OpenAI 的董事会解雇联合创始人兼 CEO Sam Altman 备受关注，随后多名高管离职，引发了部分投资者及员工的不满，770 名员工中的近 500 人，已要求董事会辞职并请回被他们解雇的 Altman。 而从外媒最新的报道来看，\n本文链接",
-          "link": "https://news.cnblogs.com/n/754061/",
-          "publishedOn": "2023-11-21T09:51:00.000Z",
-          "wordCount": 163,
-          "title": "CEO道歉并辞职后 Cruise另一联合创始人也宣布辞职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754060/",
-          "author": null,
-          "description": "如果马斯克（Elon Musk）的 X/Twitter 不喜欢你，它会分析你的一举一动。X/Twitter 在德州起诉了媒体监督组织 Media Matters，该组织此前发表研究称 X 平台允许知名公司投放的广告与反犹推文和仇恨言论展示在一起。苹果、迪士尼、IBM 和康卡斯特（Comcast）等随\n本文链接",
-          "link": "https://news.cnblogs.com/n/754060/",
-          "publishedOn": "2023-11-21T09:45:00.000Z",
-          "wordCount": 163,
-          "title": "X/Twitter 起诉 Media Matters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754059/",
-          "author": null,
-          "description": "11 月 21 日消息，据外媒报道，增强现实（AR）眼镜制造商 Rokid 已完成 1.12 亿美元C轮融资，此轮融资由 NetDragon Websoft Holdings Ltd. 领投，使该公司的估值达到 10 亿美元。 据外媒报道，该公司将利用这笔新资金扩大海外业务，加速其增强现实技术的开发\n本文链接",
-          "link": "https://news.cnblogs.com/n/754059/",
-          "publishedOn": "2023-11-21T09:40:00.000Z",
-          "wordCount": 163,
-          "title": "AR眼镜制造商Rokid已完成1.12亿美元C轮融资 估值10亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754058/",
-          "author": null,
-          "description": "11 月 21 日消息，据外媒报道，今日，Stellantis 集团和宁德时代宣布签署了一份谅解备忘录（MoU），以在欧洲市场向 Stellantis 集团供应磷酸铁锂（LFP）电池，助力 Stellantis 在欧洲市场的电动汽车生产。 Stellantis 表示，为了进一步支持其电气化战略，这两\n本文链接",
-          "link": "https://news.cnblogs.com/n/754058/",
-          "publishedOn": "2023-11-21T09:37:00.000Z",
-          "wordCount": 163,
-          "title": "宁德时代和Stellantis签署谅解备忘录 在欧洲市场向其供应磷酸铁锂电池",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754057/",
-          "author": null,
-          "description": "因拒绝支付赎金，勒索软件组织 LockBit 泄露了波音公司大约 45GB 的数据。这次网络攻击发生在 10 月 27 日，波音在同一天承认遭到网络攻击，表示没有影响到飞行安全。因未在两周内支付赎金，LockBit 公开了波音的数据，其中包括云计算公司 Citrix 的文件、安全控制、电邮备份等。安\n本文链接",
-          "link": "https://news.cnblogs.com/n/754057/",
-          "publishedOn": "2023-11-21T09:32:00.000Z",
-          "wordCount": 163,
-          "title": "因拒绝支付赎金勒索软件组织泄露波音 45GB 数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754056/",
-          "author": null,
-          "description": "微软宣布开源其 AI 聊天功能 Terminal Chat 的工作，邀请开发人员尝试体验并参与构建。“Windows Terminal 团队致力于提高透明度，我们希望让开源社区有机会帮助我们定义 terminal 应用程序中的人工智能。” Terminal Chat 是 Windows Termin\n本文链接",
-          "link": "https://news.cnblogs.com/n/754056/",
-          "publishedOn": "2023-11-21T09:28:00.000Z",
-          "wordCount": 163,
-          "title": "微软开源 Terminal Chat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754055/",
-          "author": null,
-          "description": "作者吴狄 出品零态 LT（ID：LingTai_LT） OpenAI“宫斗大戏”最新反转又又又来了！ 据美国福布斯新闻网报道，当地时间 20 日，美国 OpenAI 公司超过 700 名员工签署联名信，要求该公司董事会辞职。 信中称，除非董事会辞职并恢复前 CEO 山姆·奥特曼和前总裁格雷格·布罗克\n本文链接",
-          "link": "https://news.cnblogs.com/n/754055/",
-          "publishedOn": "2023-11-21T09:21:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI“政变”最新反转：微软搅局、伊利亚反水、奥特曼大概率回归",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754054/",
-          "author": null,
-          "description": "作者：游云庭 近日，李开复投资的零一万物公司被爆其大模型“Yi”使用了 Facebook 母公司 META 的 LLaMA 大模型（全称为“Large Language Model META AI”）的开源代码，对外却没有提及。套壳却不说明的做法引来了大量质疑。对此，该公司致歉称：正在各开源平台重新\n本文链接",
-          "link": "https://news.cnblogs.com/n/754054/",
-          "publishedOn": "2023-11-21T09:13:00.000Z",
-          "wordCount": 163,
-          "title": "李开复的零一大模型套壳LLaMA算抄袭吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754053/",
-          "author": null,
-          "description": "凯雷退出。 作者 I 周佳丽 杨继云 报道 I 投资界 PEdaily 尘埃落定。 昨晚（11 月 20 日），凯雷集团宣布，麦当劳全球同意收购凯雷在麦当劳中国内地、香港及澳门战略合作公司中持有的少数股权。交易完成后，中信联合体将继续持有 52% 的股份，麦当劳全球作为少数股东，持股比例将由 20%\n本文链接",
-          "link": "https://news.cnblogs.com/n/754053/",
-          "publishedOn": "2023-11-21T09:06:00.000Z",
-          "wordCount": 163,
-          "title": "昨晚，超级PE卖了麦当劳",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754052/",
-          "author": null,
-          "description": "丰色发自凹非寺 量子位公众号 QbitAI OpenAI 宫斗大剧迎来（暂时的）“大结局”： 与董事会谈判崩掉，奥特曼加入微软！ 双方已同时官宣： 就在几分钟前，Ilya 发表了推文： “我很后悔。我从没想过要伤害 OpenAI。我将尽我所能让公司重新团结起来。” 消息一出，大伙都麻了，彻底麻了！ \n本文链接",
-          "link": "https://news.cnblogs.com/n/754052/",
-          "publishedOn": "2023-11-21T08:29:15.000Z",
-          "wordCount": 163,
-          "title": "奥特曼带队入职微软！Ilya刚刚首次发声：我很后悔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754051/",
-          "author": null,
-          "description": "新智元报道 编辑：润 alan 微软 AI4Science 部门发布 230 页报告，详细描述了 GPT-4 为代表的大语言模型在生物，药物发现，计算化学，偏微分方程，材料设计等 5 个科研领域的应用潜力。而且，作者还把目前 GPT-4 表现不好的地方也贴心地标记出来，防止科研人员踩雷。 LLM 作\n本文链接",
-          "link": "https://news.cnblogs.com/n/754051/",
-          "publishedOn": "2023-11-21T08:20:00.000Z",
-          "wordCount": 163,
-          "title": "微软230页报告，像素级评估GPT-4前沿科研能力：潜力无限速速上车！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754050/",
-          "author": null,
-          "description": "衡宇鱼羊发自凹非寺 量子位公众号 QbitAI 大模型对百度的重构，十分迅捷地渗入到了商业腹地。 怎么说？就看现在的互联网广告投放模式，那真是大大变样。 比如想整个营销方案，只要把需求“说”给大模型听，idea 就能自动生成。 投放广告全流程，也都能通过跟 AI 的对话直接搞定。 而如果我们揭开全新\n本文链接",
-          "link": "https://news.cnblogs.com/n/754050/",
-          "publishedOn": "2023-11-21T08:12:00.000Z",
-          "wordCount": 163,
-          "title": "开箱大模型营销神器，满眼都是：有劲、有用、有意思",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754049/",
-          "author": null,
-          "description": "克雷西发自凹非寺 量子位公众号 QbitAI GPT-4 的图形推理能力，竟然连人类的一半都不到？ 美国圣塔菲研究所的一项研究显示，GPT-4 做图形推理题的准确率仅有 33%。 而具有多模态能力的 GPT-4v 表现更糟糕，只能做对 25% 的题目。 △虚线表示 16 项任务的平均表现 这项实验结\n本文链接",
-          "link": "https://news.cnblogs.com/n/754049/",
-          "publishedOn": "2023-11-21T08:07:00.000Z",
-          "wordCount": 163,
-          "title": "GPT-4不会图形推理？“放水”后准确率依然只有33%",
           "imageUrl": null
         }
       ]
