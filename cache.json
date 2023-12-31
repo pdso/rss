@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 281 期）：新基建的政策选择",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n四川德阳的\"凯州新城规划展览馆\"，设计了一条穿过建筑物的走廊，从荷塘直到背后的山顶。为此，建筑物中间还开了一个大尺度的洞口，以此强调人与自然的对话。（via）\n机器点餐与宅文化\n现在的快餐店，都有点餐机。\n你可以去柜台点餐，也可以机器点餐。\n\n假设两者同样方便（都不用排队），你会选择哪一种，柜台点餐 vs 机器点餐？\n这个问题是一个荷兰程序员提出的。有一天，他在阿姆斯特丹的一家餐馆吃午餐，突然注意到，新进来的顾客更喜欢机器点餐。\n明明再走两步就是柜台，可以跟店员面对面点餐，但是这些人还是选择机器点餐。\n这个老外不禁陷入了沉思：这是普遍现象吗，人们更喜欢与机器互动，而不是与人互动？\n\n最终，他得出结论：机器点餐有很多优点，所以人们更愿意选择这种方式。\n（1）流程标准化。点餐机的每一步，都已经设计好了，你不会无从下手，并且所有商品都有详细介绍。\n（2）效率更高。人工点餐要跟店员沟通，为了避免出错，通常需要强调和重复，这样就比较慢。更不要提，有时候还听不清对方的话。\n（3）体验更好。机器点餐时，你有时间思考和犹豫，不会有人催促你；即使点了奇怪的东西，也不会有人用异样的眼神看着你；如果点错了，可以无限次从头再来；就算不想要了，也不会尴尬。\n因为上面这些原因，人们更愿意机器点餐，而不是找店员点餐，这是毫不奇怪的。\n用户的这种心态，再加上信息技术的配合，使得人际交流迅速减少，人机互动大量取代人与人的互动：快递员变成快递柜，餐馆变成外卖 App，课堂教学变成视频点播......\n\n人际交流减少的一个重要表现，就是\"宅文化\"的兴起。\n越来越多的年轻人，长时间呆在家里，当宅男宅女，不与外界互动。一个很大原因就是，…",
-          "link": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html",
-          "publishedOn": "2023-12-01T00:14:11.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 280 期）：机器点餐与宅文化",
-          "imageUrl": null
         }
       ]
     },
@@ -717,36 +707,6 @@
           "wordCount": null,
           "title": "Emacs高手修炼手册 （2023年，Emacs 29）",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/84702",
-          "author": "Songchan",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n缘起\n2020 年，晖哥与我进行了第一次长途摩旅，当时我们在安徽南部山区遛了一圈，印象深刻，想着以后有机会每年都出去走走该多好。后面的故事大家都知道了，新冠肺炎疫情不期而至。2022 年年底，疫情管控结束，再来一次摩旅的想法从心头涌现，但三年疫情让很多东西变得不确定，兜兜转转。时间来到了 2023 年 10 月初，行程还没有最终确定。当时我想，这次无论如何也要出发，即使一个人，好在出发前两周，晖哥告诉我他可以，于是时隔三年我们再一次出发了。\n准备工作\n路线\n这次的目的地定在浙江东部地区，离我们的居住地都不远，我在浙江丽水，晖哥在江苏苏州。最开始做路线规划的时候，准备沿 228 国道串起这趟旅程，来一次浙东山海之旅，了解之后放弃了这条思路，原因是 228 国道浙江段沿线实在是太发达了，车多人多工厂多，不适合摩旅。偶然机会，了解到「浙东唐诗之路」的概念，一座天姥山，半部《全唐诗》，诗仙李白更是给出了「天姥连天向天横，势拔五岳掩赤城」的好评，好家伙，没想到浙东地区具有如此深厚的历史积淀，跟着古人的足迹似乎是不错的思路。\n有了方向，后面就简单了，先了解目标区域可以玩的地方并在地图上进行标注，结合路程确定过夜的地点，行程就确定了。最终，我们将这次摩旅集合地点定在绍兴市，接着取道宁波拜访官方认证的跑山圣地四明山，然后在新昌和天台深入探访唐诗之路的精华，在括苍山完成一次露营之后各回各家。\n\n行李装备\n在人口稠密的区域摩旅，其实没有太多行李需要携带，一路上补给很容易获得。除了必要的证件、手机、急救包以外，以下就骑行装备、行李系统、露营装备、摄影…",
-          "link": "https://sspai.com/post/84702",
-          "publishedOn": "2023-12-01T03:30:45.000Z",
-          "wordCount": 712,
-          "title": "诗之所向，素履以往：我的浙东摩旅记录",
-          "imageUrl": "https://cdn.sspai.com/2023/11/28/ae30501a60a5fb3fe81696dc49db496a.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84758",
-          "author": "Zoe_Story_Lab",
-          "description": "本来是玩了双子之后有感而发想写一个感受，写着写着就发现一不小心写了小4k字😂。\n真是话唠本唠了。。。几个部分👇\n\n内容设定与玩法\n游戏艺术设计\n游戏剧情\n游戏体验（慎，会涉及剧透）\n一些思考\n\nso，如果没有玩过《双子Gemini》，可以看1.2.3三个部分；如果已经玩过，感兴趣可以直接滑到后面，看个人向的游戏体验部分。\n \n手动分割线\n \n坦诚来讲，我玩过的游戏不是很多。\n《王者荣耀》是之前大四的时候疯狂玩的一款游戏，虽然表面上在（实际上也在）准备考研，但是那个时候对未来会何去何从充满了迷茫。\n于是《王者荣耀》就成了无解问题的替代方案，无意识地躲进游戏中转移自己的注意力。\n印象深刻的游戏也就那么几款而已。\n纪念碑谷（Monument Valley）、房间（The Room）、格莉丝的旅程（Gris）都是因为画风精美，立意鲜明的主题，以及充满故事感的剧情而让我印象深刻。\n巧遇《双子》之后，我的list就又更新了💃，这¥3花的真值！\n顺便补一句，双子的英文名为Gemini - A Journey of Two Stars。\n内容设定与玩法\n \n官方对双子的介绍为：\n\n《双子座-双星之旅》是一部关于两颗星星一起飞向天堂的互动诗歌和视频游戏。\n在《双子座》中，玩家控制着一颗降落到地球上的星星的运动。很快，它遇到了另一颗星星，一颗有着自己的意图和个性的小星星。两颗恒星一起探索神秘的空间，分享欢乐的时刻，克服障碍。通过旅程，玩家来了解更多关于小星星的知识，以及如何美丽地飞行。在完成一次游戏后，玩家解锁本地双人模式，与家人、朋友或伙伴分享体验。\n双子座的故事是无声的。它让玩家可以自由地通过对世界和机制的有趣探索来确定其隐喻的含义。\n飞得高，走得远，享受。\n\nEchostone工作室官网对游戏的介绍\n \n综上，简单一点来说，《双子Gemini》是两颗星星一起探索神秘空间的故事。\n但…",
-          "link": "https://sspai.com/post/84758",
-          "publishedOn": "2023-11-30T14:43:33.000Z",
-          "wordCount": null,
-          "title": "游戏《双子Gemini》，不离不弃的陪伴者之歌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/84757",
-          "author": "雷墨阅读",
-          "description": "“不写，就无法思考。”\n这是德国社会学家卢曼在1992年的一次访谈中提到的观点。在阅读这句话时，你是否也会有感触？对于写作和思考之间的微妙关系，你又如何理解呢？\n实际上，这句话在申克·阿伦斯所著的《卡片笔记写作法：如何实现从阅读到写作》一书中被引用，用以阐述卢曼关于思考和写作之间紧密联系的观点。理解这个观点，对于我们深入理解这本书有着至关重要的影响。\n在日常生活和学习中，我们经常接触到各种各样的观点。然而，并非所有观点都容易理解，有时我们对观点的理解也可能不够透彻。\n在本文中将进一步探讨观点的定义、理解观点的重要性以及有效理解观点的标准。此外，还将介绍如何借助Obsidian笔记软件制作观点卡，通过个性化的观点卡卡片笔记，有效促进对观点的理解和应用。\n通过这种方式，我希望为大家提供一个具体且实用的方法，以更好地理解和应用日常生各种观点。\n\n01\n \n观点的定义\n \n观点是个人对某个问题、主题或事物的看法、立场或意见。它是基于个体的思考、经验、知识和价值观形成的，具有主观性。观点是我们思考和表达自己对世界的理解和看法的重要方式。\n对于同一个观点，我们会有不同的解读。\n举个例子，樊登老师在很多次分享中都有提到一个观点：“你在管教孩子过程中，如果你使劲特别大，感觉特别累，孩子也特别痛苦，那么一定是方法错了。要管好孩子，要先管好自己。”不同的家长可能会有不同的理解。\n家长A可能理解为，如果在教育孩子时过度用力、感到非常累，而孩子也感到非常痛苦，那么就需要反思自己采用的教育方法是否合适。\n家长B可能理解为，要成功地教育孩子，首先要关注和管理自己的情绪、行为和态度。只有家长能够掌控好自己，才能给予孩子正确的引导和积极的榜样。\n而我在Obsidian笔记软件中记录的理解是：做好父母的角色是一个需要不断学习和成长的过程。父母需要通过学习来适应孩子的成长变化，了解最新的育儿知识和方法，才能建…",
-          "link": "https://sspai.com/post/84757",
-          "publishedOn": "2023-11-30T14:05:14.000Z",
-          "wordCount": 594,
-          "title": "Obsidian卡片笔记法：如何有效理解一个观点",
-          "imageUrl": "https://cdn.sspai.com/"
         }
       ]
     },
@@ -814,6 +774,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77014",
+          "author": null,
+          "description": "2023 年最令人震惊的科技故事可能不是 AI 的进步，而是政治精英们突然对一种目前不存在、可能永远也不会存在的 AGI（通用人工智能）感到恐惧。政客们纷纷举办 AI 峰会和制定 AI 法规防止 AI 失控。政客们似乎深陷其中信以为真。英国保守党议员、下议院科技委员会成员 Katherine Fletcher 说，有一天一台觉醒的计算机可能会决定杀死地球上的每一头牛。英国首相苏纳克（Rishi Sunak）也对 AGI 可能会像传染病和核战争那样对人类构成生存威胁表达了担忧。2023 年最瞩目的科技故事是 AI 神话对媒体和政策精英所产生的普遍而全面的影响。",
+          "link": "https://www.solidot.org/story?sid=77014",
+          "publishedOn": "2023-12-30T14:18:29.000Z",
+          "wordCount": 180,
+          "title": "精英们为何突然恐惧 AI？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77013",
+          "author": null,
+          "description": "GitHub 面向编程的聊天机器人 Copilot Chat 开放提供给所有用户——付费用户，以及经过认证的教师、学生和开源项目维护者可免费使用。Copilot Chat 基于 OpenAI 的大模型 GPT-4，为软件开发应用场景进行了微调。开发者可以以自然语言输入提示实时获得指导，如要求 Copilot Chat 解释概念、检测漏洞或编写单元测试。Copilot Chat 已整合在微软的 IDE 工具 Visual Studio Code 和 Visual Studio 中，可通过侧边栏访问。",
+          "link": "https://www.solidot.org/story?sid=77013",
+          "publishedOn": "2023-12-30T13:32:28.000Z",
+          "wordCount": 196,
+          "title": "GitHub 的编程问答机器人 Copilot Chat GA",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77012",
           "author": null,
@@ -3123,126 +3103,6 @@
           "wordCount": 187,
           "title": "NIH 暂停被举报操纵数据的中风候选药物临床试验",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76778",
-          "author": null,
-          "description": "CoinGecko 的统计显示，过去五年逾四分之三的 web3 游戏失败。web3 游戏又被称为 GameFi 或区块链游戏，基于区块链技术，旨在炒币和销售虚拟商品。在 2017 年 CryptoKitties 成功推出之后，2018 年有 422 款 web3 游戏发布，但当年就有 307 款失败，而 2019 年 和 2020 年的失败率都超过九成。2018-2023 年发布的 2817 款 web3 游戏有 2127 款失败，失败率 75.5%。",
-          "link": "https://www.solidot.org/story?sid=76778",
-          "publishedOn": "2023-12-01T12:47:02.000Z",
-          "wordCount": 194,
-          "title": "逾四分之三的 web3 游戏失败",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76777",
-          "author": null,
-          "description": "Windows 用户报告系统上突然安装了惠普打印机软件，而他们的机器并没有连接任何惠普公司的设备。该问题同时影响 Windows 10 和 11 用户。一位 Reddit 用户说，“我以为只有我遇到。我没有安装它，它突然出现在开始菜单的新应用程序中。”另一位用户表示检查了 Microsoft Store 的事件日志后发现系统早上安装了惠普的软件，而自己并没有任何惠普设备。微软对此发表声明称已经了解此事，会很快公布更多信息。",
-          "link": "https://www.solidot.org/story?sid=76777",
-          "publishedOn": "2023-12-01T12:11:04.000Z",
-          "wordCount": 171,
-          "title": "Windows 用户报告系统上突然安装了惠普打印机软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76776",
-          "author": null,
-          "description": "美国蒙大拿州众议院今年四月批准了一项在全州范围内禁止 TikTok 的法案，禁令将于 2024 年 1 月 1 日生效。法案将禁止 TikTok 在该州内运营，也将禁止应用商店在该州内提供 TikTok。TikTok 在今年五月对此提起上诉，认为禁令违反了宪法第一修正案的言论自由权利。本周法官以禁令超越州权和侵犯用户宪法权力将其否决。法官曾在听证会上质疑为何美国没有其它州效仿蒙大拿州禁止 TikTok，该禁令对于保护其用户的数据是否必要，该州是否是在搞家长式作风。",
-          "link": "https://www.solidot.org/story?sid=76776",
-          "publishedOn": "2023-12-01T10:26:43.000Z",
-          "wordCount": 177,
-          "title": "法官推翻了蒙大拿州对 TikTok 的禁令",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76775",
-          "author": null,
-          "description": "从今天开始，Google 将对账号进行大清洗。今年五月搜索巨人通过官方博客宣布从 12 月 1 日起永久删除超过两年时间不活跃/不登陆的账号。Google 表示此举旨在防止遗弃的账号被入侵后用于发送垃圾邮件：不活跃账号启用二因素认证的可能性不到活跃账号的十分之一，一旦遭到入侵，会用于发送垃圾信息和身份盗窃。删除账号还可以释放储存空间节省成本。这项删除政策只针对个人账号，付费企业账号如 Google Workspace 和 Google One 不受影响。Google 承诺会在账号删除前发送多轮通知。",
-          "link": "https://www.solidot.org/story?sid=76775",
-          "publishedOn": "2023-12-01T10:02:42.000Z",
-          "wordCount": 173,
-          "title": "Google 从今天开始删除不活跃时间逾两年的账号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76774",
-          "author": null,
-          "description": "Google Threat Analysis Group 研究人员报告了三个正被利用 0day，影响苹果所有系统和 Chrome。苹果周四释出了安全更新，修复了两个正被利用的漏洞 CVE-2023-42916 和 CVE-2023-42917，两个漏洞都位于苹果操作系统广泛使用的 WebKit 引擎中，其中之一是越界读取，允许黑客在使用 WebKit 的应用处理特制网络内容时窃取敏感信息；另一个是内存损坏 bug，允许存在漏洞的设备执行恶意代码。Google Chrome 本周二释出了更新修复了 7 个漏洞，其中之一是正被利用的 0day CVE-2023-6345，该漏洞为整数溢出，位于浏览器的 Skia 组件中。",
-          "link": "https://www.solidot.org/story?sid=76774",
-          "publishedOn": "2023-12-01T06:53:39.000Z",
-          "wordCount": 196,
-          "title": "Google 研究人员发现了三个正被利用 0day 影响苹果系统和 Chrome",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76773",
-          "author": null,
-          "description": "哈佛大学天体物理学教授 Avi Loeb 前不久筹建了资金，启动了一项打捞 2014 年 1 月 8 日在巴布亚新几内亚 Manus 岛附近坠落的星际天体残骸的行动。他找到了 25 个小型球体，对其分析后声称该星际天体与太阳系完全不同，可能是技术先进的外星文明的存在证据。但独立分析否定了 Loeb 的猜测，他找到的小型球体与煤灰最相似，煤灰是工业革命以来人类活动产生的陆地污染物。这一发现否定了 Loeb 的所有主张。",
-          "link": "https://www.solidot.org/story?sid=76773",
-          "publishedOn": "2023-12-01T06:16:35.000Z",
-          "wordCount": 173,
-          "title": "哈佛教授声称的星际天体残余是工业污染物",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76772",
-          "author": null,
-          "description": "Valve 宣布从 2024 年 2 月 15 日起 Steam 将停止支持 macOS 10.13 (High Sierra) 和 10.14 (Mojave)，此后这些平台上的 Steam 将不再收到任何更新，Valve 不再保证这些平台上的 Steam 功能能正常运行。值得一提的是，苹果在 2019 年推出的 macOS 10.15 中停止支持 32 位应用，Mojave 是 macOS 上最后一代支持运行 32 位游戏的版本，Valve 此举也意味着很多 32 位游戏的生命事实上结束了。Valve 强烈建议 macOS 10.13/10.14\n用户升级到新版本，称它的统计显示逾 98% 的 Mac Steam 客户运行 macOS 10.15 或更高版本。",
-          "link": "https://www.solidot.org/story?sid=76772",
-          "publishedOn": "2023-12-01T05:54:58.000Z",
-          "wordCount": 228,
-          "title": "Steam 将停止支持 macOS Mojave，事实上结束 32 位游戏的生命",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76771",
-          "author": null,
-          "description": "1983 年 11 月 20 日，Borland 公司发布了 Turbo Pascal 的第一个版本。在软件行业 Turbo Pascal 是一款具有里程碑意义的产品，是第一款流行的集成开发环境（IDE），它取得了惊人的成功。1995 年 Borland 公司开发了替代 Turbo Pascal 的 Delphi，但此时的 Borland 也在微软的竞争下逐渐衰退，2008 年它将开发 IDE 的子公司 CodeGear 出售给了 Embarcadero Technologies，Delphi 系列产品由 Embarcadero 继续开发，该公司前不久释出了编译器的第 36 版——Embarcadero Delphi for Win32 compiler version 36.0（Delphi 12 Athens 的命令行编译器版本），版本号中 36 可以追溯到 1983 年的第一代 \n\n\nTurbo Pascal。",
-          "link": "https://www.solidot.org/story?sid=76771",
-          "publishedOn": "2023-12-01T05:33:55.000Z",
-          "wordCount": 212,
-          "title": "Turbo Pascal 诞生四十年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76770",
-          "author": null,
-          "description": "使用麒麟 9000S 芯片的 Mate60 Pro 智能手机的成功上市令很多人惊讶华为是如何打破美国的芯片出口管控的。金融时报（Ars 转载）援引消息来源披露了幕后的故事。麒麟 9000S 的内部开发代号是美国北卡城市 Charlotte，华为正在开发的其它芯片也使用美国城市命名，用美国城市命名旨在表达华为未来重返全球供应链的雄心壮志。因为台积电被禁止代工其芯片，华为只能在中芯国际身上押注。两家公司都被美国列入了出口黑名单。麒麟 9000S 用的是中芯国际的 7 纳米工艺，而中芯国际的 7 纳米工艺有两个版本，N+1和升级版 N+2，麒麟 9000S 用的是 N+2，使用的光刻机是效率较低的深紫外 (DUV) 光刻机，台积电和三星等则使用的是 效率更高的极紫外 (EUV) 光刻机。ASML 称，在 DUV 光刻机上实现 7 纳米需要 34 个光刻步骤，而 EUV 只需 9 个。额外的光刻步骤意味着更高的生产成本和更低的产量。知情人士称，在双方合作期间，中芯国际的上海工厂到处都能看到华为的工程师。麒麟 9000S 的风险量产良品率在 30% 以上，相比 90% 的良品率意味着成本至少增加两倍。华为和中芯国际依靠国家补贴弥补芯片成本过高的问题：华为在 2022 年获得了 65.5 亿元的补贴，而中芯国际过去三年的政府资助为 68.8 亿元。",
-          "link": "https://www.solidot.org/story?sid=76770",
-          "publishedOn": "2023-11-30T16:20:01.000Z",
-          "wordCount": 203,
-          "title": "华为如何打破美国的芯片出口管控？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76769",
-          "author": null,
-          "description": "一项新研究发现，经济危机期间男性自杀率会上升，而无论男女的心理健康都很差，其中女性更突出。工作类型和失业被发现是抑郁和焦虑等问题的主要诱因。研究人员分析了 2022 年 11 月 21 日前发表的 98 篇研究经济危机的论文，这些论文分析了 1990-20017 年之间发生的全球事件，包括全球金融危机（2008 年）；希腊债务危机（2007）；亚洲经济危机（1997）；韩国金融危机（1997）；芬兰（1991）和瑞典（1990）的经济衰退；等等。结果显示，金融危机期间和之后的自杀率普遍上升，其中男性最突出。因心理健康问题而住院的人数有所增加，其中女性和低收入人群最突出。",
-          "link": "https://www.solidot.org/story?sid=76769",
-          "publishedOn": "2023-11-30T15:43:25.000Z",
-          "wordCount": 167,
-          "title": "经济危机与男性自杀率上升相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76768",
-          "author": null,
-          "description": "华盛顿大学的一项研究发现，交通造成的空气污染会引起血压显著上升，这一影响能持续 24 小时，与高盐饮食的影响相当，可能会导致心血管问题。16 名年龄 22-45 岁之间的健康成年人在西雅图高峰时段作为乘客经历了 3 次乘车出行。其中两次汽车未过滤空气，交通导致的污染空气能进入汽车，而第三次汽车内安装了一台 Hepa（高效颗粒吸收）过滤器，但参与者不知道哪一次乘坐的汽车安装有过滤器。研究人员在两个小时的乘车出行之前、期间和之后测量了乘客的血压。与过滤空气相比，呼吸未经过滤的空气会导致血压升高超过 4.5 Hg（毫米汞柱）。大部分污染来自尾气排放或化石燃料燃烧，以及刹车和轮胎磨损。空气过滤器能减少 86% 的超细颗粒、86% 的黑碳和 60% 的 PM2.5 颗粒物，但对二氧化碳和氮氧化物等无效。研究人员表示如果你所在地区有严重的交通空气污染，那么最好关上窗户，并配备空气过滤器。",
-          "link": "https://www.solidot.org/story?sid=76768",
-          "publishedOn": "2023-11-30T14:45:05.000Z",
-          "wordCount": 175,
-          "title": "交通空气污染会引起血压上升",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76767",
-          "author": null,
-          "description": "Google DeepMind 开发出一种新 AI 工具 graphical networks for material exploration (GNoME)，使用深度学习帮助加快新材料的开发。从电动汽车电池到太阳能电池到微芯片，新材料推动了技术突破，但新材料的发现通常需要数月甚至数年的反复试验。GNoME 之于材料学相当于 AlphaFold 之于蛋白质折叠，在使用现有科学文献训练之后能预测候选材料的结构。它已经预测了 220 万种新材料的结构，其中逾 700 种已在实验室里创造出来，正进行测试。美国劳伦斯伯克利国家实验室的研究人员开发出一种自动化实验室，与 DeepMind 合作，将新材料的设计自动化。",
-          "link": "https://www.solidot.org/story?sid=76767",
-          "publishedOn": "2023-11-30T14:17:12.000Z",
-          "wordCount": 202,
-          "title": "Google DeepMind 新 AI 工具帮助创造出逾 700 种新材料",
-          "imageUrl": null
         }
       ]
     },
@@ -3251,6 +3111,26 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/761375/",
+          "author": null,
+          "description": "科技日报北京 12 月 29 日电 （记者张佳欣）向人体运送药物的主要挑战是能不断将药物准确送达病灶位置，同时确保它们留在病灶发挥作用。虽然运输药物已经取得进展，但监测药物仍存在挑战。它往往需要像活检这样的侵入性程序。据发表在《ACS 应用纳米材料》杂志上的一项研究，美国纽约大学坦登工程学院团队开发\n本文链接",
+          "link": "https://news.cnblogs.com/n/761375/",
+          "publishedOn": "2023-12-30T11:14:57.000Z",
+          "wordCount": 163,
+          "title": "科学家开发出自组装发光治疗蛋白",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761374/",
+          "author": null,
+          "description": "科技日报讯 （记者张梦然）美国罗切斯特大学研究人员报告了一种策略，用于了解在具有完全化学复杂性的溶剂中，分子如何失去量子相干性。这一发现为定制量子相干性分子，以及通过化学设计调节量子相干性打开了大门。研究成果发表在新一期《美国国家科学院院刊》上。 量子叠加的特性是新兴量子技术的基础，有望改变计算、通\n本文链接",
+          "link": "https://news.cnblogs.com/n/761374/",
+          "publishedOn": "2023-12-30T11:04:16.000Z",
+          "wordCount": 163,
+          "title": "新策略揭示量子退相干复杂性 为新兴量子技术奠定化学基础",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/761373/",
           "author": null,
@@ -8479,306 +8359,6 @@
           "publishedOn": "2023-12-02T04:34:58.000Z",
           "wordCount": 163,
           "title": "江淮汽车官宣与华为合作，将推出豪华电动汽车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754720/",
-          "author": null,
-          "description": "鱼羊发自凹非寺 量子位公众号 QbitAI 最强开源大模型，再次易主！ 就在刚刚，阿里云通义千问又双叒开源了，并且直接开大：甩出了 720 亿参数版本——在中国的开源大模型中，少见地直接对标最大号羊驼 Llama2-70B。此番登场，这个代号为 Qwen-72B 的模型在 10 个权威基准评测中刷新\n本文链接",
-          "link": "https://news.cnblogs.com/n/754720/",
-          "publishedOn": "2023-12-01T12:05:15.000Z",
-          "wordCount": 163,
-          "title": "国产720亿参数开源免费模型来了！对标Llama2 70B，一手实测在此",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754719/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 让大模型洗钱、制造炸弹、合成冰毒？GPT-4、 Claude 2 纷纷沦陷了。 让大模型成功越狱，还是有机可乘。 最近，研究人员研制了一种全新的自动化越狱的方法——「角色调节」（persona modulation）。 它使用越狱模型作为助手，为特定的有害行为创建新的越狱。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/754719/",
-          "publishedOn": "2023-12-01T11:15:00.000Z",
-          "wordCount": 163,
-          "title": "GPT-4合成冰毒！「角色调节」让大模型轻松越狱，成功率暴涨40%，成本不到14元，马库斯转赞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754718/",
-          "author": null,
-          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 马斯克在最新访谈上金句频出，除了大爆粗口痛骂广告商外，还谈了很多对 AI 的看法。 特别是对 OpenAI 近期动荡的看法。 他表示对 Sam Altman 的感觉很复杂，紧接着就借用《魔戒》表达了担忧：权力之戒会带来腐化，而权力之戒就在这里，所以……我也\n本文链接",
-          "link": "https://news.cnblogs.com/n/754718/",
-          "publishedOn": "2023-12-01T11:07:00.000Z",
-          "wordCount": 163,
-          "title": "马斯克：离AGI还有三年，Ilya道德感强，他认真了一定是严肃问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754717/",
-          "author": null,
-          "description": "作者：英特尔公司沈海豪、罗屿、孟恒宇、董波、林俊 编者按： 只需不到 9 行代码，就能在 CPU 上实现出色的 LLM 推理性能。英特尔®Extension for Transformer 创新工具包中的 LLM Runtime 为诸多模型显著降低时延，且首个 token 和下一个 token 的推\n本文链接",
-          "link": "https://news.cnblogs.com/n/754717/",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 163,
-          "title": "用上这个工具包，大模型推理性能加速达40倍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754716/",
-          "author": null,
-          "description": "白交发自凹非寺 量子位公众号 QbitAI 大厂周边，现在竟这么卷了？！ 量子位最近截取到一份，互联网科技大厂的程序员伴手礼…不仅好看实用，甚至还科技感满满，十分炫酷。乍一看还以为是显卡到了。 而为了保持神秘，这份周边一年也只有那么一天才可能得到。 我们仔细开箱探究了一番，确实不简单。 开箱程序员文\n本文链接",
-          "link": "https://news.cnblogs.com/n/754716/",
-          "publishedOn": "2023-12-01T07:00:00.000Z",
-          "wordCount": 163,
-          "title": "开箱蚂蚁集团程序员礼盒，现在大厂周边都往这个方向卷了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754715/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS DeepSpeed-FastGen 结合 MII 和 DeepSpeed-Inference 实现 LLM 高吞吐量文本生成。 GPT-4 和 LLaMA 这样的大型语言模型（LLMs）已在各个层次上成为了集成 AI 的主流服务应用。从常规聊天模型到文档摘要，从自动驾驶到各\n本文链接",
-          "link": "https://news.cnblogs.com/n/754715/",
-          "publishedOn": "2023-12-01T06:51:03.000Z",
-          "wordCount": 163,
-          "title": "LLM生成延迟降低50%！DeepSpeed团队发布FastGen：动态SplitFuse技术，提升2.3倍有效吞吐量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754714/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 就在刚刚，亚马逊云科技祭出了全新 AI「大杀器」Amazon Q。不仅只用两天时间就升级了上千款 Java 应用，更是将企业的数据屏障一举击穿。 最近的消费级大模型，可以说卷得相当厉害。 不仅多模态能力几乎全面铺开，而且上下文长度也已经飙到了 200K。 但对于企业来说，消\n本文链接",
-          "link": "https://news.cnblogs.com/n/754714/",
-          "publishedOn": "2023-12-01T06:40:00.000Z",
-          "wordCount": 163,
-          "title": "Amazon Q登场，云巨头开创企业级生成式AI新赛道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754713/",
-          "author": null,
-          "description": "新智元报道 编辑：润 Anthropic 的模型可解释性团队，从大模型中看到了它的「灵魂」——一个可解释的更高级的模型。 为了拆开大模型的「黑箱」，Anthropic 可解释性团队发表了一篇论文，讲述了他们通过训练一个新的模型去理解一个简单的模型的方法。 Anthropic 发表的一项研究声称能够看\n本文链接",
-          "link": "https://news.cnblogs.com/n/754713/",
-          "publishedOn": "2023-12-01T06:33:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI最强竞品Anthropic训练AI拆解LLM黑箱，意外窥见大模型「灵魂」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754712/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 继 AlphaFold 系列改变了生物学领域之后，谷歌 DeepMind 今日再发 Nature，全新 AI 工具 GNoME，成功预测 220 万种晶体结构，颠覆了材料学领域。 陶哲轩一直看好，ChatGPT 将颠覆数学证明，而如今，AI 在化学领域的潜力同样深不可测。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/754712/",
-          "publishedOn": "2023-12-01T06:26:00.000Z",
-          "wordCount": 163,
-          "title": "AI颠覆材料学！DeepMind研究登Nature，预测220万晶体结构赢人类800年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754711/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 ChatGPT 发布一周年，Sam Altman 重启 OpenAI。让我们从「权游落幕」开始，回顾 OpenAI 的「ChatGPT 年」。 ChatGPT 一周年之际，OpenAI 发文官宣：Sam Altman 重启 OpenAI！ 一年前的今天，他作为 CEO，正在\n本文链接",
-          "link": "https://news.cnblogs.com/n/754711/",
-          "publishedOn": "2023-12-01T06:18:00.000Z",
-          "wordCount": 163,
-          "title": "ChatGPT一周年，Altman霸气重返OpenAI！自曝回归内幕Ilya去向待定",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754710/",
-          "author": null,
-          "description": "新智元报道 编辑：拉燕 谷歌 DeepMind 全新提示技术「Step-Back Prompting」，让 LLM 性能拉满！ 前段时间，谷歌 DeepMind 提出了一种全新的「Step-Back Prompting」方法，直接让 prompt 技术变得脑洞大开。 简单来说，就是让大语言模型自己把\n本文链接",
-          "link": "https://news.cnblogs.com/n/754710/",
-          "publishedOn": "2023-12-01T06:10:00.000Z",
-          "wordCount": 163,
-          "title": "LLM准确率飙升27%！谷歌DeepMind提出全新「后退一步」提示技术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754709/",
-          "author": null,
-          "description": "新智元报道 编辑：LRS 国内团队实现对脑机接口汉语解码「零的突破」，系统覆盖了全部 407 个汉语拼音音节以及汉语发音特点，句子完全正确率高达 30%！ 今年八月，两篇背靠背《自然》文章展示了脑机接口在语言恢复方面的强大能力，单现有的语言脑机接口技术多是为「英文等字母语言」体系构建而成，针对「汉字\n本文链接",
-          "link": "https://news.cnblogs.com/n/754709/",
-          "publishedOn": "2023-12-01T06:00:00.000Z",
-          "wordCount": 163,
-          "title": "脑机接口重要突破！国内团队成功实现「全谱汉语解码」：Top 3准确率接近100%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754708/",
-          "author": null,
-          "description": "出品：新浪财经创投 Plus 作者：shu 接连搅动快餐、预制菜和连锁咖啡市场后，陆正耀又盯上了新式茶饮赛道。 据公开报道显示，连锁咖啡品牌库迪咖啡（下文简称：库迪）近日在社交媒体平台上宣布，将于 2024 年 1 月 1 日正式推出第二品牌“茶猫 Tea Cat”（下文简称：茶猫），目前首家内部测\n本文链接",
-          "link": "https://news.cnblogs.com/n/754708/",
-          "publishedOn": "2023-12-01T05:50:00.000Z",
-          "wordCount": 163,
-          "title": "库迪咖啡内测新品牌“茶猫” 第二曲线还是割韭菜新套路？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754707/",
-          "author": null,
-          "description": "作者陈彩娴董子博 编辑陈彩娴 ChatGPT 火遍全球后，中国的科技圈都隐约觉得：这并不是一个陌生的产品。 因为大约十年前，他们也在微软中国听一个年轻人讲过相似的故事。同是依托微软，同是对话机器人。 这个年轻人叫李笛，这个产品叫小冰。 过去十年，李笛与小冰一直被视为中国开放式 AI 对话的引领者。但\n本文链接",
-          "link": "https://news.cnblogs.com/n/754707/",
-          "publishedOn": "2023-12-01T05:40:00.000Z",
-          "wordCount": 163,
-          "title": "小冰无双",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754706/",
-          "author": null,
-          "description": "在赫尔辛基举行的 RovioCon 23 大会上，Supercell 新上任的营销主管（前汉堡王全球营销主管）Iwo Zakowski 以非常坦率的方式谈到了该公司的新精神。 在游戏行业，拥有 5 款数十亿美元级爆款产品的 Supercell 对所有人来说都不陌生，仅《部落冲突》一款产品就为这家芬兰\n本文链接",
-          "link": "https://news.cnblogs.com/n/754706/",
-          "publishedOn": "2023-12-01T05:27:00.000Z",
-          "wordCount": 163,
-          "title": "如何对抗买量大佬，Supercell分享：我们要成为流行文化的一部分！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754705/",
-          "author": null,
-          "description": "GameLook 报道/人工智能技术的诞生为人类带来了一场 AI 狂欢，但与此同时，也间接为法律界带来了新的灰色地带。围绕 AI 的版权问题，今年国内外已经产生了大量的法律争议。而近日，国内诞生了首个人工智能图像侵权案的判决案例。 据京 0491 民初 11279 号判决书显示，原告李某提告称，被告\n本文链接",
-          "link": "https://news.cnblogs.com/n/754705/",
-          "publishedOn": "2023-12-01T05:18:00.000Z",
-          "wordCount": 163,
-          "title": "意义重大：AI文生图国内第一案判决出炉，“AI图受到著作权保护”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754704/",
-          "author": null,
-          "description": "GameLook 报道/在 FPS 游戏史上，Valve（后简称“V社”）旗下的《半条命》（Half-Life）绝对是一款具有划时代意义的游戏。 从内容、设计上来看，这款游戏不仅开创了叙事 FPS 的时代，作为V社成立后的第一款游戏，它也是其传奇的开始。 而从商业上来看，在上线后近 6 年时间里，这\n本文链接",
-          "link": "https://news.cnblogs.com/n/754704/",
-          "publishedOn": "2023-12-01T05:10:00.000Z",
-          "wordCount": 163,
-          "title": "《半条命》纪录片G胖亲述：草台班子做游戏、传奇V社如何迈出第一步",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754703/",
-          "author": null,
-          "description": "文｜脑极体 我们都知道，大模型必须诞生应用才有价值。那么，哪种应用才能最快发挥出 AI 大模型的价值潜力，成为大模型落地的第一站？提起这个问题，很多人会首先回答：搜索。 这一方面是因为，在 ChatGPT 爆火之后，“大股东”微软首先就将其能力融入到 Bing 搜索中，并且一度宣布要凭借大模型优势，\n本文链接",
-          "link": "https://news.cnblogs.com/n/754703/",
-          "publishedOn": "2023-12-01T04:55:00.000Z",
-          "wordCount": 163,
-          "title": "大模型+搜索：一盘跳棋和三位选手",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754702/",
-          "author": null,
-          "description": "国产高算力智能驾驶芯片来了。 近日，国产智能驾驶解决方案独角兽——地平线，提前「透露」了最新一代智能驾驶芯片——征程 6 的部分内容。这款芯片的最高算力可达 560 TOPS，是目前算力最高的国产智驾芯片。其不仅支持以城区 NOA 为主的高阶智能驾驶需求，还满足低级别的智能辅助驾驶芯片。地平线表示，\n本文链接",
-          "link": "https://news.cnblogs.com/n/754702/",
-          "publishedOn": "2023-12-01T04:40:00.000Z",
-          "wordCount": 163,
-          "title": "地平线透露征程6系列芯片进展：明年4月发布，已有多家意向订单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754701/",
-          "author": null,
-          "description": "文消费最前线，作者罗弋 在业内普遍感叹拼多多市值即将超越阿里的同时，有关马云进军预制菜的消息也被传得沸沸扬扬。 这一度还拉动了A股预制菜概念板块整体上涨，资金净流入 4.59 亿元，其中国联水产上涨 14.35%，惠发食品涨停，大湖股份、春雪食品、全聚德、味知香等个股纷纷跟涨。 然而，这件事很快被马\n本文链接",
-          "link": "https://news.cnblogs.com/n/754701/",
-          "publishedOn": "2023-12-01T04:32:00.000Z",
-          "wordCount": 163,
-          "title": "除了预制菜，马云看上的餐饮界还剩下什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754658/",
-          "author": null,
-          "description": "使用麒麟 9000S 芯片的 Mate60 Pro 智能手机的成功上市令很多人惊讶华为是如何打破美国的芯片出口管控的。金融时报（Ars 转载）援引消息来源披露了幕后的故事。 麒麟 9000S 的内部开发代号是美国北卡城市 Charlotte，华为正在开发的其它芯片也使用美国城市命名，用美国城市命名旨\n本文链接",
-          "link": "https://news.cnblogs.com/n/754658/",
-          "publishedOn": "2023-12-01T00:20:00.000Z",
-          "wordCount": 163,
-          "title": "华为如何打破美国的芯片出口管控？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754657/",
-          "author": null,
-          "description": "出海狂飙一年，Temu 成长的速度在拼多多新一季财报中体现地淋漓尽致。 11 月 28 日，拼多多发布 Q3 财报，营收 688.4 亿元，与去年同期的 355 亿相比，增长接近一倍，利润也同比增长接近 50%。 去年 9 月初，Temu 正式出海。彼时，在跨境电商的竞争中，中国电商不乏强劲的出海选\n本文链接",
-          "link": "https://news.cnblogs.com/n/754657/",
-          "publishedOn": "2023-12-01T00:16:00.000Z",
-          "wordCount": 163,
-          "title": "Temu一年上线47个国家 海外版拼多多初长成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754656/",
-          "author": null,
-          "description": "11 月 29 日晚，阿里公益与淘宝头部主播蜜蜂惊喜社和音乐人胡海泉共同举办了一场名为“礼”遇蒹葭的教学式助农直播。 这场直播之所以被关注，是因为直接将“课堂”开到了 1700 公里之外的甘肃礼县。为此，蜜蜂惊喜社专门组织了 20 多人的直播团队，从杭州托运设备，高铁转汽车，辗转 10 多个小时来到\n本文链接",
-          "link": "https://news.cnblogs.com/n/754656/",
-          "publishedOn": "2023-12-01T00:12:00.000Z",
-          "wordCount": 163,
-          "title": "阿里公益联手蜜蜂惊喜社 奔赴一场1700公里外的教学式助农直播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754655/",
-          "author": null,
-          "description": "中国商报（记者贺阳）有细心的上海消费者发现，叮咚买菜开了家线下奥莱店。 “1.5 千克装的阿克苏苹果 9.9 元，400 克装的猪五花肉 7.9 元，950 毫升的鲜牛奶 7.9 元......”11 月 30 日，中国商报记者了解到，生鲜电商叮咚买菜开出的首家社区超市——叮咚奥莱，近日在上海松江九\n本文链接",
-          "link": "https://news.cnblogs.com/n/754655/",
-          "publishedOn": "2023-12-01T00:10:00.000Z",
-          "wordCount": 163,
-          "title": "叮咚买菜开出首家线下奥莱店 试水社区超市业态",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754654/",
-          "author": null,
-          "description": "腾讯大股东披露减持腾讯的具体收益。 当地时间 11 月 29 日，腾讯控股（0700.HK）的大股东、南非 Naspers 集团荷兰子公司 Prosus 披露最新业绩报告，数据显示，公司截至 9 月底的上半财年合并营收为 25.6 亿美元，同比增长 13%；核心收益同比增长 118% 至 20 亿美\n本文链接",
-          "link": "https://news.cnblogs.com/n/754654/",
-          "publishedOn": "2023-12-01T00:10:00.000Z",
-          "wordCount": 163,
-          "title": "腾讯大股东持续减持：4至9月减持1%，4月以来套现50亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754653/",
-          "author": null,
-          "description": "从 12 月 14 日起，addons.mozilla.org (AMO) 上标记为兼容 Android 的扩展将正式提供给 Firefox for Android 用户。Firefox 工程总监 Giorgio Natili 表示他们对开发者的热情和准备工作留下了深刻的印象，几周前他们预测届时能提\n本文链接",
-          "link": "https://news.cnblogs.com/n/754653/",
-          "publishedOn": "2023-12-01T00:07:00.000Z",
-          "wordCount": 163,
-          "title": "Firefox for Android 将在下个月提供逾 400 个扩展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754652/",
-          "author": null,
-          "description": "华盛顿大学的一项研究发现，交通造成的空气污染会引起血压显著上升，这一影响能持续 24 小时，与高盐饮食的影响相当，可能会导致心血管问题。16 名年龄 22-45 岁之间的健康成年人在西雅图高峰时段作为乘客经历了 3 次乘车出行。其中两次汽车未过滤空气，交通导致的污染空气能进入汽车，而第三次汽车内安装\n本文链接",
-          "link": "https://news.cnblogs.com/n/754652/",
-          "publishedOn": "2023-12-01T00:03:00.000Z",
-          "wordCount": 163,
-          "title": "交通空气污染会引起血压上升",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754651/",
-          "author": null,
-          "description": "财联社 12 月 1 日电，几位知情人士透露，OpenAI 仍坚持其允许员工出售所持公司股票的计划，并给潜在参与者额外一个月的时间来决定是否参与。知情人士曾经对媒体称，OpenAI 一直在洽谈出售股票，售股交易对这家人工智能先驱的估值达到 860 亿美元。但随着本月早些时候的公司内部动荡，导致首席执\n本文链接",
-          "link": "https://news.cnblogs.com/n/754651/",
-          "publishedOn": "2023-11-30T23:57:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI仍坚持售股计划 将给员工额外一个月时间考虑是否参与",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754650/",
-          "author": null,
-          "description": "11 月 30 日消息，据外媒报道，苹果向软银集团旗下芯片设计公司 Arm 支付的每颗芯片的专利费不到 30 美分。 Arm 在科技行业扮演着不可或缺的角色，该公司的业务重点是设计芯片，并将知识产权授权给苹果等公司。 据悉，Arm 最初是由多家科技公司组成的合资企业，而苹果是其中的创始成员之一。苹果\n本文链接",
-          "link": "https://news.cnblogs.com/n/754650/",
-          "publishedOn": "2023-11-30T23:55:00.000Z",
-          "wordCount": 163,
-          "title": "外媒：苹果为每颗芯片向Arm支付不到30美分专利费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754649/",
-          "author": null,
-          "description": "肿瘤会转移到其他组织和器官，这是癌症相关死亡的主要原因。骨骼是乳腺癌和前列腺癌等实体瘤转移的常见部位，但奇怪的是，同为骨骼，肿瘤转移却更加偏好脊柱等椎骨，而非手臂/腿骨等长骨。 1940 年代，有学者提出，这是由于血流的不同。类似咳嗽之类的力量作用会影响血液流动，将癌细胞震动到脊柱附近，并随之定植形\n本文链接",
-          "link": "https://news.cnblogs.com/n/754649/",
-          "publishedOn": "2023-11-30T23:53:14.000Z",
-          "wordCount": 163,
-          "title": "《自然》：破解癌细胞爱“啃”椎骨之谜！",
           "imageUrl": null
         }
       ]
