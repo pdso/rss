@@ -59,6 +59,16 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/85355",
+          "author": "Hessel",
+          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n引子\n在旷野之息发布六年后，终于在今年五月份玩上了续作《塞尔达传说·王国之泪》，游玩 30 小时后才发现完成任务后可以激活足迹模式，记录去过的地方以及轨迹回溯，这是前代旷野之息 DLC 中才有的功能。\n虽然我不是一个全收集玩家，但是对于王国之泪如此大的地图，很难单靠自己记住哪些地方去过，哪些地方尚未到访。因此，游戏中期，我便开始对照着足迹模式去没去过的区域探索。同时，轨迹回溯功能让你可以看到你在地图中是如何移动，如何被各类任务吸引而临时改变目的地，以及看到红叉时想起自己当时的弱智吧吧主行为。\n虽然随着毕业和工作的压力，王国之泪中的旅途暂时止步于 70 小时，但是这种探索和回溯的感觉让我非常留恋。\n王国之泪-足迹模式\n轨迹记录初试\n其实我算是很早的轨迹记录爱好者，从 Moves 开始，到短暂的替代品 Arc，再到足迹，我痴迷于将自己的生活轨迹量化记录下来，但用到后来总发现一些问题。\n首先是耗电，虽然是在后台记录轨迹，但是频繁调用 GPS 的时候难免会增加耗电。而后是回溯功能，我一直认可一个理念，记录是为了回溯，倘若没有回溯，记录便没有意义。因此，上面几个 app，除了足迹的生涯轨迹记录，我发现我无法对每日生活轨迹进行有意义的分析与回顾，我只能看到我在那一天先去了这里，再去了那里，就如同高德地图导航结束后的路径动画，初看惊艳，再看平庸。\n尤其对于当时还是大学生的我，每天的轨迹都是出奇的一致，三点一线的生活如一潭死水，偶尔周末的出行或许能荡起几层涟漪，转眼便又消散。因此很快我便对每日路径的记录失去了兴趣，转向了另一个大名鼎鼎的 app…",
+          "link": "https://sspai.com/post/85355",
+          "publishedOn": "2023-12-31T07:00:00.000Z",
+          "wordCount": 719,
+          "title": "App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册",
+          "imageUrl": "https://cdn.sspai.com/2023/12/26/d4798505afe9db0644af01f61d97e20f.jpg"
+        },
+        {
           "id": "https://sspai.com/post/85141",
           "author": "_东东_",
           "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n前言\n这几年有写博客的兴趣，虽然文章产出的不多，但是工具却用了不少：2021 年初次在服务器上部署 WordPress，到转向轻量级的 typecho，再到使用 github + hexo + vercel 的纯静态博客。\n这些工具固然好，但作为个人博客来说，博客其实就是个人笔记的输出，以上工具使笔记与博客之间产生强烈的割裂感，并不满足我的需求。\n但在这个 2023 年末，我终于找到了完美的博客发布体验 —— 基于 Trilium 共享功能的博客发布方案。\n先谈谈我的痛点\n博客与笔记割裂感强\n在我的知识管理框架中，笔记以原子笔记的形式存在，一条笔记只记录一个主题，通过双向链接的方式，某些笔记会聚合起来形成具有特定主题的文章，而将这些文章分享出去就成了博客。所以，博客与笔记本质上没有任何区别，无非就是具有特定观点的笔记聚合物。\n我的知识管理流程\n目前写博客的流程一般有以下几种：\n\nMarkdown 编辑器（typora、vscode） + 纯 Markdown 文本。\n传统笔记软件（印象笔记、joplin）+ 手动复制到博客\n知识管理工具（obsidian、notion） + Markdown + 自动化博客迁移插件\n\n但以上流程中笔记与博客实际上是处于一种分离状态，本质上是把自己的笔记复制一份并且部署到博客平台而已。当然还有些自带发布方案的工具，比如飞书、flowus、obsidian 的发布方案，但这些发布方案充其量只能算是一个方便他人浏览的分享功能，并称不上是一个博客。\n不方便修改\n修改博文是一件常有的事情，不论是静态博客…",
@@ -677,36 +687,6 @@
           "wordCount": null,
           "title": "当我们在旅游的时候，到底是在游什么？",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/84791",
-          "author": "天瞳月",
-          "description": "猎图(PicHound)是一款绝大部分功能免费强大而易于使用的谷歌浏览器插件，通过所见即所得的方式，让用户可以快速、轻松地管理和处理大量图片。\n \n \n💡 适合使用场景\n\n电商营销：商品分类级别搬迁。\n广告和营销人员：广告和营销人员可以使用猎图来管理他们的品牌和宣传图片。他们可以快速找到需要的图片，对其进行编辑和调整，然后导出到各种广告和媒体平台。\n设计师：设计师可以使用猎图来管理他们的设计资源库，包括图像、矢量图形、图标等等。\n内容创作者：内容创作者可以使用猎图来管理他们的博客、文章、演示文稿和视频图片。他们可以轻松地找到和选择适合他们内容的图片，以及对其进行编辑和美化。\n\n👉 快速安装\nChrome 应用商城\n💫 功能介绍\n作为一款专业的图片批量管理器，猎图(PicHound)提供了许多有用的功能，例如：\n窗口布局\n📌 使用最新技术 chrome.sidePanel 进行布局，可在浏览器窗口内置左右面板，不需要额外打开窗口。\n\n👉 过滤与匹配\n🖖 内置了强大的图片搜索引擎，可以帮助用户快速找到所需的图片，当前采集机制从打开页面即可进行实时收集，收录入数据库中，可快速通过图片类型与过滤条件进行筛选，当前支持一下的过滤条件\n\n图片类型\n图片的正则匹配\n如 输入 「 500px 」, 则只展示 500px 下面相关的图片信息\n\n来源地址的正则匹配\n同上\n\n图片宽度\n图片高度\n更多功能...\n\n👉 自定义选项卡\n🔥 不同的选项卡支持不同的过滤条件，只需要切换一下选项卡即可\n\n批量下载与实时模式\n⚙ 支持多张图片一起下载、边浏览边缓存机制…\n\n🧐 总结\n猎图(PicHound)是一款非常实用的图片批量管理工具，不仅可以帮助用户节省时间和精力，还可以提高工作效率和准确性。如果你经常需要处理大量图片，那么这款插件一定会让你受益匪浅。\n❓ 当前插件正在积极开发中，有任何问题与建议都可联系我。\n赠码\nhttps://mbd.pub/o/bread/ZJuYmZ5w?discount_code=CTZJIY# 访问此链接可以免费获得我的作品 [猎图(PicHound)-所见即所得的图片批量管理器] 。 请注意，优惠码可重复使用 100 次，不要轻易分享给别人。",
-          "link": "https://sspai.com/post/84791",
-          "publishedOn": "2023-12-02T05:27:46.000Z",
-          "wordCount": null,
-          "title": "「PicHound(猎图)」- 所见即所得的图片批量管理器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/84762",
-          "author": "星河Fx",
-          "description": "很久以前就想写一篇文章介绍自己的 EDC，但不知为何总是找不到感觉。就是那种，你说写吧也可以写，但总觉得差点什么、让人不愿动笔的，那种感觉。\n直到最近，因为一些契机，我的 EDC 物品们发生了一些变化，并呈现出一种新欢旧爱共存的状态时，我突然就感觉到，就是它们了，就写它们了。\n\n于是打开电脑，第一次在少数派的编辑器里，敲下了这些文字。\n我猜，看到上面这张图片的你，一定对位于 C 位黑胶唱片模样的物件最感兴趣，我们不妨从它开始讲起吧！\n这个精致美好的小本子，让我爱不释手\n前阵子一位手帐大神朋友突然给我发来微信，说要送我一个礼物，理由写得美好又诚恳：「我想把有些闲置在我这儿的本子，送给或许能更加欣赏和利用好它们的人。」\n大概是因为她知道我喜欢音乐，喜欢搜集唱片，又偏爱用纸笔记录生活，才想到把这个本子送给我。\n\n当然，收到本子前我并不知道它会是什么样子，直到打开包装后才忍不住发出惊叹：这个本子，做得过分精致了！\n 材质是真皮，质感温润、细腻、柔和，由手作人全手工制成，甚至封面黑胶唱片上的纹理都是手作人一点一点刻上去的。对此我只能说，匪夷所思，赞叹不已。\n\n惊艳我的细节还有——唱针是用按扣固定，可以旋转也可以取下；唱头和唱片下方隐藏有磁铁，移动到固定位置时会“嗒”地一声吸附上去。这么一个小设计，让我在无聊时总喜欢捧着它把玩。\n\n朋友帮我装了 crena 的 A7 宽版内页，薄而不透，用钢笔也不会洇墨，价格还不贵。活页的好处是可以自由更换，我已经看上了 crena 家一日一页的内页，等用完这套纸就买来换上。\n\n其实刚收到它时，我的第一反应是，如此贵重的本子我怎么舍得用它？不如放在柜子里收藏好了。朋友预判了我的预判，特意交代道：「请你一定舍得用它！皮具有使用痕迹什么的是很美好的事情，越用越是你的东西。」\n话都说到这个份上了，我只能恭敬不如从命，把它加入了我的 EDC 清单之中，有想法了…",
-          "link": "https://sspai.com/post/84762",
-          "publishedOn": "2023-12-02T02:57:06.000Z",
-          "wordCount": null,
-          "title": "适合的才是最好的，我的 EDC 好物分享",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/84768",
-          "author": "cabins",
-          "description": "写在前面的话\n《Emacs高手修炼手册》这个标题已经用了好几年了，但感觉自己始终没有达到自己心目中的〔高手〕的境界。所以我还是在〔修炼〕，用这个标题继续写一些自己的实践——当然更多的，还是配置。\n其实当我写2023这个2.0版本的时候，我一直在想，如何把这个系列写的跟之前的不一样。如果还是之前的样子，那么其实没有必要写新的一篇，读者也没有必要读新的一篇——我们都不喜欢水文。\n于是我回头看了自己这一年的使用上的变化，自己对比了自己在配置上的变化，我总结出了自己这篇文章需要有的特点：\n简洁，我的配置越来越简洁，代码行越来越少，但功能却不因此而变的简单；\n实用，Emacs终究还是一个工具，一个编辑器，一个可以让自己的想法得到验证的工具；\n速度，过去的一年，我有大量的时间是在使用Windows操作系统，所以速度对我来说，毫无疑问是一个挑战与要追求的点；\n虽然我在上面提到的这些特点，都是非常优美的词汇，但不可否认的是，我的这篇文章也有一些问题：\n不兼容旧版本，我的配置只兼容最新的版本，我希望自己（以及大家）能够尊重他们最新的努力，以及为最新版本付出更多的测试与反馈；\n追求新特性，这一点算优点也算缺点。比如29一出来，我就热烈的拥抱了treesit特性。\n我知道这样的一些特点，一定会有人喜欢，也一定会有人讨厌。但没关系，我们重在交流思路。如果你准备好了跟我一同前行，那么请升级你的Emacs到29版本，我们出发了。\n关于安装\n由于这是2.0版本，我们不在安装部分下大篇幅。你直接在官网下载你对应的操作系统的版本安装即可；或者使用你对应操作系统的包管理器（如apt，dnf，pacman，scoop，winget，homebrew等）进行安装即可。\n先说说early-init.el\n这个文件是被非常早的加载的一个文件，所以我们可以适当的用来优化一些启动方面的参数。例如：\n(setq gc-co…",
-          "link": "https://sspai.com/post/84768",
-          "publishedOn": "2023-12-02T02:56:25.000Z",
-          "wordCount": null,
-          "title": "Emacs高手修炼手册 （2023年，Emacs 29）",
-          "imageUrl": null
         }
       ]
     },
@@ -774,6 +754,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77018",
+          "author": null,
+          "description": "央行官网信息公示，同意支付宝变更为无实际控制人。蚂蚁集团表示，集团主要股东投票权结构调整方案于 2023 年 1 月对外公告，目前已履行完相关程序，并完成交割。该调整不会对相关公司的日常经营产生影响。根据 2023 年 1 月蚂蚁集团公告，集团主要股东投票权发生变化：由“马云及其一致行动人共同行使股份表决权”，调整为“包括蚂蚁集团管理层、员工代表和创始人马云在内的 10 名自然人分别独立行使股份表决权”。本次调整完成后，不再存在任何直接或间接股东单一或共同控制蚂蚁集团的情形，马云不再是蚂蚁集团的实际控制人。这进而导致马云不再是支付宝（中国）的实际控制人，只是这一变更需要支付机构的监管机关批复。",
+          "link": "https://www.solidot.org/story?sid=77018",
+          "publishedOn": "2023-12-31T15:07:17.000Z",
+          "wordCount": 166,
+          "title": "支付宝变更为无实际控制人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77017",
+          "author": null,
+          "description": "今天流行的 IDE 都配备了辅助编程工具如 Github Copilot，但这些工具都运行在云端而非本地。开源 IDE 的辅助编程工具需要能自由运行在本地。开发者 Justine Tunney 发布了在本地运行的 Emacs 辅助编程助手 Emacs Copilot。微软的很多 AI 工具都命名为 Copilot（如 Github Copilot, MS Copilot 和 Office365 Copilot），但 Copilot 并不是微软的商标，软件巨人目前申请的商标是 MICROSOFT COPILOT，尚未获得批准。本地运行的大模型对计算机性能有要求，如果使用 WizardCoder 34b，需要 Mac Studio M2 Ultra 或更高型号，普通 PC 可能需要使用性能略低的 WizardCoder-Python-13b。",
+          "link": "https://www.solidot.org/story?sid=77017",
+          "publishedOn": "2023-12-31T15:02:12.000Z",
+          "wordCount": 209,
+          "title": "在本地运行的 Emacs 辅助编程助手 Emacs Copilot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77016",
+          "author": null,
+          "description": "开源运动创始人之一的 Bruce Perens 接受采访谈论了后开源运动。他表示开源社区需要解决几个紧迫的问题：首先是开源许可证不再有效工作，企业发现了漏洞，GPL 许可证不再按照最初设计的意图那样运作，Red Hat 正以绕过 GPL 许可证的方式出售其企业发行版 RHEL。Red Hat 现在是 IBM 旗下公司，它在今年 6 月宣布停止按照 GPL 要求公开 RHEL 源代码。Perens 称，Red Hat 不再是以前的 Red Hat，而是 IBM 了。IBM 不再允许 RHEL 客户披露其制作的安全补丁源代码，如果披露，它会拒绝你继续成为 RHEL 客户。Perens 表示，压垮开源骆驼的另一根稻草是开源无法服务于普罗大众，普通用户是通过私有软件公司的系统如苹果 iOS 或 Google Android 使用上开源软件。iOS 或 Android 都是基于开源基础设施，但大部分应用都是私有的。开源运动所倡导的软件自由是有益于普通用户的，然而今天的开源软件却被用于监视甚至压迫用户。自由软件已有 50 年历史，开源运动也有 30 年历史，我们是时候应该反思下了，这就是他所谓的后开源运动。",
+          "link": "https://www.solidot.org/story?sid=77016",
+          "publishedOn": "2023-12-31T14:29:36.000Z",
+          "wordCount": 209,
+          "title": "Bruce Perens 谈后开源运动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77015",
+          "author": null,
+          "description": "丰田子公司大发承认伪造汽车安全测试结果超过 30 年，该公司已经全部停产。停产预计将至少持续到 1 月底，约 9000 名员工受到影响。上周调查大发违规问题的第三方委员会新认定了 174 项违规行为，最早可追溯到 1989 年，多达 64 款车型的安全测试结果被篡改，其中包括以丰田品牌销售的车型。大发主要生产面向亚洲市场的小型车，2022 年度全球产量超过 170 万辆，占整个丰田集团的一成以上。",
+          "link": "https://www.solidot.org/story?sid=77015",
+          "publishedOn": "2023-12-30T14:49:05.000Z",
+          "wordCount": 171,
+          "title": "丰田大发在发现长期违规之后全面停产",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77014",
           "author": null,
@@ -3083,26 +3103,6 @@
           "wordCount": 220,
           "title": "为什么 OpenAI 董事会想要解雇 Sam Altman",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76780",
-          "author": null,
-          "description": "处于活跃期的太阳于 11 月 29 日爆发了一个 M9.8 级耀斑，朝地球方向喷发了日冕物质抛射。这个移动速度快的日冕物质抛射预计将与前一天喷发的 3 个移动速度较慢的日冕物质抛射中的 2 个合并，它们将于 12 月 1 日抵达地球，将产生 G3 级强地磁风暴。地磁风暴强度范围从 G1 到 G5，G3 级地磁风暴会在高纬度地区引发输电系统的电压不稳，在北方产生极光。今晚北京的居民也有可能观察到微弱的极光。",
-          "link": "https://www.solidot.org/story?sid=76780",
-          "publishedOn": "2023-12-01T15:28:41.000Z",
-          "wordCount": 177,
-          "title": "太阳朝地球喷发了多个日冕物质抛射",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76779",
-          "author": null,
-          "description": "2022 年美国国家卫生研究所(NIH)批准了一项限制中风后脑损伤的实验性药物 3K3A-APC 的临床试验。该药物由南加州大学知名神经学家 Berislav Zlokovic 及其联合创办的 ZZ Biotech 研发，早期试验数据显示该药物有助于减少中风后的脑细胞死亡。由于它的治疗潜力，FDA 给予了其“快速通道”，将加快药物的审批。然而上个月中旬，《科学》期刊收到了举报，称该药物实际上会增加早期的死亡人数：在 2 期试验中，接受 3K3A-APC 的 66 名中风患者中有 6 人在第一周内死亡，相比下安慰剂组的 44 人只有 1 人死亡。死亡率在一个月后趋平。此外使用该药物的中风患者也出现更多的残疾。举报文件还显示，Zlokovic 实验室的数十篇论文疑似纂改数据以支持 3K3A-APC  已做好了人体试验的准备。NIH 随后暂停启动大规模临床试验，并发起了调查。",
-          "link": "https://www.solidot.org/story?sid=76779",
-          "publishedOn": "2023-12-01T15:06:03.000Z",
-          "wordCount": 187,
-          "title": "NIH 暂停被举报操纵数据的中风候选药物临床试验",
-          "imageUrl": null
         }
       ]
     },
@@ -3111,6 +3111,36 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/761378/",
+          "author": null,
+          "description": "在本周三举行的 37C3 会议上，德国柏林工业大学的三名研究人员演示了对特斯拉汽车的电压故障注入攻击，使用价值约 600 美元的工具，对特斯拉辅助驾驶系统 Autopilot 使用的电路板诱导 2 秒的电压下降，获取系统的 Root 权限，允许研究人员从系统中提取任意代码和用户数据。 研究人员甚至提\n本文链接",
+          "link": "https://news.cnblogs.com/n/761378/",
+          "publishedOn": "2023-12-31T03:02:51.000Z",
+          "wordCount": 163,
+          "title": "德国研究人员破解特斯拉的辅助驾驶系统解锁埃隆模式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761377/",
+          "author": null,
+          "description": "GitHub 面向编程的聊天机器人 Copilot Chat 开放提供给所有用户——付费用户，以及经过认证的教师、学生和开源项目维护者可免费使用。 Copilot Chat 基于 OpenAI 的大模型 GPT-4，为软件开发应用场景进行了微调。开发者可以以自然语言输入提示实时获得指导，如要求 Co\n本文链接",
+          "link": "https://news.cnblogs.com/n/761377/",
+          "publishedOn": "2023-12-31T02:21:34.000Z",
+          "wordCount": 163,
+          "title": "GitHub 的编程问答机器人 Copilot Chat GA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761376/",
+          "author": null,
+          "description": "据两位知情人士透露，由于 ChatGPT 产品的强劲增长，OpenAI 最近的年化收入超过了 16 亿美元，高于 10 月中旬的 13 亿美元。 这一数据（将前一个月的收入乘以 12）表明，尽管去年 11 月发生了管理层宫斗，为竞争对手提供了追逐其客户的机会，但该公司仍能保持向企业销售人工智能的业务\n本文链接",
+          "link": "https://news.cnblogs.com/n/761376/",
+          "publishedOn": "2023-12-31T01:45:06.000Z",
+          "wordCount": 163,
+          "title": "OpenAI据称年化收入增至超16亿美元",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/761375/",
           "author": null,
@@ -8159,206 +8189,6 @@
           "publishedOn": "2023-12-03T02:03:21.000Z",
           "wordCount": 163,
           "title": "OpenAI内讧更多细节曝光！奥特曼离间董事会失败，GPTs商店被迫推迟发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754752/",
-          "author": null,
-          "description": "村上春树曾说过，我一直以为人是慢慢变老的，其实不是，人是一瞬间变老的。你是否也有过类似的感觉——在某一个瞬间，突然觉得自己老了。 事实上，这种感受并非“空穴来风”，身体在某个特定的时间点上发生量变到质变的情况，又被称为「断崖式衰老」。 早在 2019 年，Nature Medicine 上刊登过一项\n本文链接",
-          "link": "https://news.cnblogs.com/n/754752/",
-          "publishedOn": "2023-12-02T09:55:32.000Z",
-          "wordCount": 163,
-          "title": "“断崖式衰老”发生在这两个岁数！首个适用于中国女性的“衰老时钟”出炉，比“身份证年龄”更精准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754751/",
-          "author": null,
-          "description": "12 月 1 日，阿里影业在港交所发布公告称，已经于 2023 年 11 月 30 日完成收购大麦网。 9 月 19 日，阿里影业公告，与阿里集团全资子公司阿里巴巴投资有限公司签订股份购买协议，阿里影业将附条件收购经营“大麦”品牌的 Pony Media Holdings Inc.(“目标公司”)的\n本文链接",
-          "link": "https://news.cnblogs.com/n/754751/",
-          "publishedOn": "2023-12-02T09:50:56.000Z",
-          "wordCount": 163,
-          "title": "斥资13亿港元 阿里影业完成收购大麦网全部股权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754750/",
-          "author": null,
-          "description": "IT 之家 12 月 2 日消息，根据美国商标和专利局（USPTO）公示的清单，苹果公司获得了一项 Vision Pro 头显的技术专利，可以联动多台头显，从而构建卓越的联机体验。 这项技术专利名称为《基于位置信息定向波形成的中继坞站和基站》，IT 之家附上专利设计草图如下，可以看到每台 Visio\n本文链接",
-          "link": "https://news.cnblogs.com/n/754750/",
-          "publishedOn": "2023-12-02T09:49:23.000Z",
-          "wordCount": 163,
-          "title": "苹果Vision Pro头显新专利：佩戴者可联机游戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754749/",
-          "author": null,
-          "description": "快科技 12 月 2 日消息，虽然何小鹏和余承东关于 AEB 之争最终以和解落下了帷幕，但相关话题依旧非常火热，近日，有媒体“AutoLab”进行了多车 AEB 测试，不出意外，搭载华为全套技术的阿维塔 11 夺得冠军。 测试项目分为很多项，包括静态和动态两大部分。 横置侧车身：阿维塔 11 成功刹\n本文链接",
-          "link": "https://news.cnblogs.com/n/754749/",
-          "publishedOn": "2023-12-02T09:18:00.000Z",
-          "wordCount": 163,
-          "title": "余承东没说大话！阿维塔11最新AEB测试出炉：95km/h车速可刹停",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754748/",
-          "author": null,
-          "description": "12 月 2 日消息，微软 MVP Loryan Strant 近日发布专栏文章，表示部分企业已开始推进部署 Copilot，对于企业客户来说，不要太相信 Copilot 提供相关信息。 这主要是因为三方面的原因，其一是当前部署力度还不够，其二是存在幻觉问题；第三就是可能泄露用户的个人信息。 部署力\n本文链接",
-          "link": "https://news.cnblogs.com/n/754748/",
-          "publishedOn": "2023-12-02T09:11:00.000Z",
-          "wordCount": 163,
-          "title": "微软MVP示警Copilot商业化存3大风险 客户请谨慎使用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754747/",
-          "author": null,
-          "description": "12 月 2 日消息，哪吒汽车正式发布 2024 款哪吒S新享版，共推出两个长续航车型：哪吒 S 715 新享版售价 19.98 万；哪吒 S 650AWD 新享版售价 22.98 万。 外观方面，新车延续了现款车型经典的轿跑造型设计。内饰方面，新车配备了同级最大的 17.6 英寸中控屏，以及 12\n本文链接",
-          "link": "https://news.cnblogs.com/n/754747/",
-          "publishedOn": "2023-12-02T09:07:00.000Z",
-          "wordCount": 163,
-          "title": "最高续航715公里 哪吒S新享版车型上市：售价19.98万元起",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754745/",
-          "author": null,
-          "description": "12 月 2 日消息，谷歌今天发布新闻稿，正式介绍推出了名为 Translatotron 3 的新 AI 模型，无需任何并行语音数据下，可以实现语音对语音的同声传译翻译。 谷歌于 2019 年推出了 Translatotron S2ST 系统，于 2021 年 7 月推出第 2 个版本，在 2023\n本文链接",
-          "link": "https://news.cnblogs.com/n/754745/",
-          "publishedOn": "2023-12-02T09:04:59.000Z",
-          "wordCount": 163,
-          "title": "AI同声传译新突破，谷歌发布Translatotron 3模型：可绕过文本转换步骤",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754746/",
-          "author": null,
-          "description": "OpenAI 首席执行官山姆・阿尔特曼（Sam Altman）上月出席 DevDay 活动时，原计划 12 月推出称为“GPT Store”的在线平台，不过官方近日宣布推迟该商城平台上线计划。 OpenAI 推出 GPT Store 的初衷，是让客户设计和部署他们自己的 GPT 版本，并在自定义数据\n本文链接",
-          "link": "https://news.cnblogs.com/n/754746/",
-          "publishedOn": "2023-12-02T09:00:00.000Z",
-          "wordCount": 163,
-          "title": "因“意外忙碌”，消息称 OpenAI 推迟至明年上线 GPT 商城",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754744/",
-          "author": null,
-          "description": "从今天开始，Google 将对账号进行大清洗。今年五月搜索巨人通过官方博客宣布从 12 月 1 日起永久删除超过两年时间不活跃/不登陆的账号。Google 表示此举旨在防止遗弃的账号被入侵后用于发送垃圾邮件：不活跃账号启用二因素认证的可能性不到活跃账号的十分之一，一旦遭到入侵，会用于发送垃圾信息和身\n本文链接",
-          "link": "https://news.cnblogs.com/n/754744/",
-          "publishedOn": "2023-12-02T08:59:36.000Z",
-          "wordCount": 163,
-          "title": "Google 从今天开始删除不活跃时间逾两年的账号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754743/",
-          "author": null,
-          "description": "CoinGecko 的统计显示，过去五年逾四分之三的 web3 游戏失败。web3 游戏又被称为 GameFi 或区块链游戏，基于区块链技术，旨在炒币和销售虚拟商品。在 2017 年 CryptoKitties 成功推出之后，2018 年有 422 款 web3 游戏发布，但当年就有 307 款失败\n本文链接",
-          "link": "https://news.cnblogs.com/n/754743/",
-          "publishedOn": "2023-12-02T08:58:40.000Z",
-          "wordCount": 163,
-          "title": "逾四分之三的 web3 游戏失败",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754742/",
-          "author": null,
-          "description": "芬兰科技公司 Jolla 的前管理层收购了 Jolla Ltd. 的全部业务和员工。 根据 Jolla 发布的新闻稿，Jolla Ltd 专注于操作系统和汽车软件的全部业务和员工将被转移到一家新公司，这家新公司已被 Jolla 前管理层收购。 由于乌克兰战争，俄罗斯在 Jolla 集团结构中的所有权\n本文链接",
-          "link": "https://news.cnblogs.com/n/754742/",
-          "publishedOn": "2023-12-02T08:53:29.000Z",
-          "wordCount": 163,
-          "title": "Sailfish OS 开发商 Jolla 已被其前管理层收购",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754741/",
-          "author": null,
-          "description": "近日，苹果公司发布紧急安全更新，此次更新修复了两个在攻击中被利用并影响 iPhone、iPad 和 Mac 设备的零日漏洞。据统计，自今年年初以来已修复的零日漏洞数量已达到 20 个。 本周三（11 月 29 日），苹果公司发布了一份公告，其中提到此次发现的零日漏洞很可能已被 iOS 16.7.1 \n本文链接",
-          "link": "https://news.cnblogs.com/n/754741/",
-          "publishedOn": "2023-12-02T08:49:58.000Z",
-          "wordCount": 163,
-          "title": "苹果紧急修复两大零日漏洞，影响iPhone、iPad 和 Mac 设备",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754740/",
-          "author": null,
-          "description": "导读：“分拆是张勇提出的，而且 2021 年就在酝酿了”。 来源 新皮层 NewNewThing 记者 吴洋洋何昕晔 编辑 王姗姗 阿里巴巴经历了惊魂一夜。 11 月 29 日晚间，拼多多市值一度超过阿里巴巴，成为最值钱的中国电商公司。而前一天，这家以低价著名的公司发布了一份 ：2023 年第三季度\n本文链接",
-          "link": "https://news.cnblogs.com/n/754740/",
-          "publishedOn": "2023-12-02T08:43:11.000Z",
-          "wordCount": 163,
-          "title": "马云说“我更坚信阿里会变，阿里会改”，阿里巴巴怎么了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754739/",
-          "author": null,
-          "description": "导语：从 2010 年的“七剑客”到 2012 年的“八大金刚”，从 2020 年九大合伙人的“二次创业”，到如今只剩下雷军与卢伟冰。小米合伙人们最终各奔东西。 周董石作者 砺石商业评论出品 1 松动的合伙人制度 2016 年，一向顺风顺水的小米手机遭到了成立以来的最大危机。 设计研发落后、更新换代\n本文链接",
-          "link": "https://news.cnblogs.com/n/754739/",
-          "publishedOn": "2023-12-02T04:47:02.000Z",
-          "wordCount": 163,
-          "title": "小米“合伙人”都在离雷军而去",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754738/",
-          "author": null,
-          "description": "财联社 12 月 1 日讯（编辑马兰）全球减肥药市场正在进行一场无声的厮杀。继诺和诺德与礼来之后，一家声名并不显赫的制药公司 Altimmune 也传出好消息。 该公司研发的培维肽（Pemvidutide）药物在中期研究中取得不错进展。结果显示，在为期 48 周的试验中，最高剂量的培维肽（2.4 毫\n本文链接",
-          "link": "https://news.cnblogs.com/n/754738/",
-          "publishedOn": "2023-12-02T04:45:06.000Z",
-          "wordCount": 163,
-          "title": "又一“减肥神药”将面世！新药物活性成分能打破“诺礼”相争格局吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754737/",
-          "author": null,
-          "description": "截至北京时间 12 月 1 日凌晨美股收盘，拼多多（PDD.Nasdaq）收盘市值超过阿里巴巴（BABA.Nasdaq），成为在美中概股中的市值第一股。 拼多多收涨 4.03%，报 147.44 美元/股，市值 1959 亿美元。同日阿里巴巴微涨 0.25%，报 74.86 美元/股，市值 1907\n本文链接",
-          "link": "https://news.cnblogs.com/n/754737/",
-          "publishedOn": "2023-12-02T04:43:45.000Z",
-          "wordCount": 163,
-          "title": "中国互联网行业分水岭？拼多多收盘市值超过阿里，成中概股市值第一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754736/",
-          "author": null,
-          "description": "IT 之家 12 月 1 日消息，小米汽车科技有限公司于 8 月 2 日备案了 xiaomiev.com 网站域名，当时并没有解析到网页，因此不确定是否为保护性注册。 IT 之家今日再次访问发现，xiaomiev.com 已经可以解析跳转了，不过并没有小米汽车相关内容，而是由小米官网的几张截图拼接而\n本文链接",
-          "link": "https://news.cnblogs.com/n/754736/",
-          "publishedOn": "2023-12-02T04:42:47.000Z",
-          "wordCount": 163,
-          "title": "小米汽车 xiaomiev.com 网站开放访问，目前仅为官网截图占位",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754735/",
-          "author": null,
-          "description": "财联社 12 月 1 日讯（编辑刘蕊）经过两年的延误，特斯拉终于将其大肆宣传已久的未来主义外观卡车 Cybertruck 交到了第一批客户的手中。 尽管速度、牵引能力、越野能力都表现出彩，但特斯拉的这款卡车仍然未能令市场满意——因为这款卡车的最终定价高达 60990 美元起，这比马斯克 2019 年\n本文链接",
-          "link": "https://news.cnblogs.com/n/754735/",
-          "publishedOn": "2023-12-02T04:37:20.000Z",
-          "wordCount": 163,
-          "title": "特斯拉Cybertruck正式交付 部分性能堪比跑车 缺点就是贵！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754734/",
-          "author": null,
-          "description": "《科创板日报》12 月 1 日讯（记者徐赐豪）因推广加密货币，足球明星 Cristiano Ronaldo（C罗）在遭遇的集体起诉中被要求赔偿超过 10 亿美元。这是近年来加密货币领域名人代言被索赔的最大案件。 该诉讼称，币安出售未注册的证券并在美国非法经营，并声称 Ronaldo 利用他的名人身份\n本文链接",
-          "link": "https://news.cnblogs.com/n/754734/",
-          "publishedOn": "2023-12-02T04:36:16.000Z",
-          "wordCount": 163,
-          "title": "C罗被索赔10亿美元 奥尼尔、库里等多位明星卷入 美国上演最大加密货币索赔案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/754733/",
-          "author": null,
-          "description": "界面新闻记者｜陆柯言 12 月 1 日晚间，江淮汽车（600418）发布公告称，将与华为终端有限公司签署《智能新能源汽车合作协议》。双方将基于华为智能汽车解决方案，在产品开发、 产制造、销售、服务等多个领域全面合作，打造豪华智能网联电动汽车。 根据协议，江淮汽车将负责双方合作车型的产品开发，并提供生\n本文链接",
-          "link": "https://news.cnblogs.com/n/754733/",
-          "publishedOn": "2023-12-02T04:34:58.000Z",
-          "wordCount": 163,
-          "title": "江淮汽车官宣与华为合作，将推出豪华电动汽车",
           "imageUrl": null
         }
       ]
