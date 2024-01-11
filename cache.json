@@ -59,6 +59,16 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/85171",
+          "author": "南山居氪",
+          "description": "Matrix 首页推荐  \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n我是南山居氪，致力于减弱大众对心理学的信息不对称；在少数派写一些软件体验的内容。这一次，我尝试新的写作风格，如果你喜欢的话，请在评论区告诉我。\n记得那个冬天，我对双链的概念一知半解，甚至都不太了解什么是 page，什么是 database。政治哲学的笔记在我手里像烫手山芋一样，令我措手不及。政治哲学课程给我打开了明智的大门，这种思维碰撞产生的快感是前所未有的经历的。巧的是，它也让我明白了什么是双链，以及什么是链接。\n在课堂上，老师的频繁提问和深思熟虑的话语使我不得不在早上 9 点钟尚未清醒之时，就开始反复记忆和回想。在寒冷阴沉的冬日清晨，即使大脑还未完全苏醒，我也必须在75分钟内持续地吸收信息并进行回顾。至于这两个过程是先后进行还是同时发生，我已经无法分辨了。\n那时候，在朋友的推荐下，我知道了 Heptabase；卡片加可视化关系在当时首屈一指，随即，我也支付了。上手很简单，在白板上面只需要双击新建卡片，输入内容，再用箭头相互连接它们；或者在白板上自由的摆放位置。\n我花了三个小时将所有的政治哲学笔记从 Notion 腾挪到了 Heptabase。在复制、分析和拆解这些内容时，我也对原来的笔记进行了复习和整理。完成后，卡片之间的关系以及知识核心在整理过程中逐渐显现出来。\n当整理完它们，我突然发现我记住了几乎全部的内容，它们之间的联系，霍布斯和洛克对于统一概念的不同解释，相关的原句甚至是章节或者是页码，我都可以记得十分清楚。结果就是，我在课堂上经常能准确回答老师的问题，当老师在找书里原文的时候，「我们一起看书的第……页」，我也能及…",
+          "link": "https://sspai.com/post/85171",
+          "publishedOn": "2024-01-10T03:00:00.000Z",
+          "wordCount": 1319,
+          "title": "Heptabase：重塑知识管理与学习的未来",
+          "imageUrl": "https://cdn.sspai.com/10/01/2024/article/3b5a4338-56a2-7dac-f131-d64aff4c2c4d.jpg"
+        },
+        {
           "id": "https://sspai.com/post/85481",
           "author": "ryoma1836",
           "description": "Matrix 首页推荐  \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n1. 前言\n自从之前写了《【让 IT 更简单】使用 Ubiquiti 全家桶对朋友家进行网络改造》 《【Rethinking IT】如何结合 Unifi 和 MikroTik 设备打造家庭网络》两篇文章后，相信给各位正在用 Unifi 或者打算使用 Unifi 的朋友应该有所帮助。\n那么，今天我就换个方向，不再讨论规划和安装 Unifi 网络设备，来研究研究如何了解家里的 Unifi 设备状况？\n这时候有朋友就会说，不是有 Unifi 官方的 Web 控制台，还有手机 App 嘛。没错，Unifi 在 UI 设计方面确实独树一帜，而且在其 Web 控制台和 App 中，每一个 Unifi 设备和客户端设备都有相应的 概览 页面和 洞察 页面，上面提供了 Unifi 设备和客户端设备的实时数据。\n但是，如果我希望研究一下某一段时间这个 Unifi 设备的历史数据，想看看这段时间该 Unifi 设备的负载情况，稳定性如何，客户端设备何时离线，是不是就无从得知了？\n\n其实，这个需求看起来就是需要一套 监控系统 啦。那么今天，就由我来给大家 解锁 Unifi 的新玩法！\n由于小弟我从未在互联网大厂 SRE 岗位工作过，只是一个小小乙方的服务器、存储设备上架搬运工，所以以下内容均为自己工作之余，在家利用 Homelab 环境瞎捣腾的，自然不是什么多高大上的东西。如果有什么写得不准确的地方，或者引用了错误的资料，还请各位大佬海涵！\n2. 组件介绍\n2.1. Prometheus & InfluxDB\n2.1.1. 时序数据库\n说 Prom…",
@@ -827,46 +837,6 @@
           "wordCount": 674,
           "title": "「大鸽饭」品牌设计与岭南文化符号",
           "imageUrl": "https://cdn.sspai.com/2023/12/08/91d33131144a4fd75a656e6248010c66.png"
-        },
-        {
-          "id": "https://sspai.com/post/85007",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大家。\n希望这份「社区速递」能帮你发现更多有趣的内容分享。如果你有任何栏目内容或首页改版建议，也欢迎在评论区留言反馈。\n\n本周精选\n工具分享\n《Google NotebookLM 初体验：更好的提问式学习》里，南山居氪 介绍了随着 Gemini 的发布更新后的 NotebookLM，通过实际体验了四个笔记本，展示了该工具相对于 chatGPT 和 chatPDF 的优势，使用户能够直接询问多个问题，同时具备可访问的引用段落，便于深度阅读。\n\n《2023 年 〇 基础学习 SwiftUI》里，PokeDesign 详细介绍了在2023年学习 SwiftUI 的基础知识，着重介绍了 SwiftUI 的历史和设计目标，强调其声明性语法、实时预览、自动化布局、数据驱动视图、可组合性、深度集成等主要特点，为开发者提供了构建现代、动态且易于维护用户界面的高效手段。\n《lattics ——让人爱上写作的可视化笔记软件》里，作者 Lars漫步 深入介绍了一款名为 Lattics 的可视化笔记软件。作者分享了对于 Lattics 的初次印象和内心的疑虑，逐步解释了这款软件的设计理念、使用逻辑以及简洁而实用的特点。Lattics 不仅简洁易上手，还兼具了笔记管理和写作功能，使其成为一款令人爱上写作的应用。\n经验与思考\n《PQ4R阅读法：提升阅读效率的有效方法！》里，雷墨阅读 在文章中分享了自己在2023年接近实现年初设定的阅读 100 本书的目标的经验。文章介绍了 PQ4R 阅读法，该方法旨在提升阅读效率和理解力，他不仅详细介绍了 PQ4R 阅读法的步骤，还强调了其在深入理解和消化书籍内容方…",
-          "link": "https://sspai.com/post/85007",
-          "publishedOn": "2023-12-12T09:32:50.000Z",
-          "wordCount": 1021,
-          "title": "社区速递 024 | NotebookLM、AI 整活以及绍兴之旅",
-          "imageUrl": "https://cdn.sspai.com/12/12/2023/article/7c1a9b57-968a-2475-3fab-2c3d9b093339.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84990",
-          "author": "Lessimore",
-          "description": "macOS的系统设计和交互都很干净和整洁，但仍旧有一些交互上的痛点难以忍受，让我们先来一一列举出来。\nmacOS的交互痛点：\n痛点一：\n假设我正在使用Word写PPT、浏览器写文章、开发工具写代码等等，这些正在工作的App我们暂时称它们为工作窗口，每当我需要访问桌面下的文件，我都需要将当前工作窗口移开，漏出桌面上的文件/文件夹，然后打开文件，如果遇到图片上传等场景，我们会将图片拖拽至工作窗口，然后再将工作窗口移动回来，这个操作在小屏的Mac上尤为常见，难道每次访问文件必须这样吗？\n痛点二：\n工作中我们一定会经历多个项目，为了便于区分和访问，每个项目我们都会创建一个文件夹，比如项目A文件夹，项目B文件夹，项目C文件夹，为了不让项目多了以至于桌面看起来很混乱，我一般都是在桌面先创建一个项目的文件夹，里面放了项目A文件夹，项目B文件夹，项目C文件夹等等；这样每次访问项目文件的时候我都需要这样：访问桌面项目文件夹 - 访问项目A  -  在项目A文件夹或者其子文件夹下寻找我需要的文件，访问路径非常的长。\n痛点三：\n当我访问完文件夹后，由于这个Finder窗口会遮挡当前的工作窗口，因此，要么我会习惯性的将其关闭，但是这就带来一个问题：当我再次需要访问这个项目中的文件的时候，我必须再次像痛点二中描述的那样，以非常长的路径打开项目文件夹去寻找我需要的文件；要么我激活当前工作窗口，这带来另一个问题：此时Finder窗口会被工作窗口遮挡，当我需要再次访问的时候，我需要将当前窗口移开，漏出Finder窗口，或者点击Finder激活其窗口，或者使用快捷键切换到Finder窗口，才能继续。随着使用增多，这种访问方式无疑会非常痛苦。\n痛点四：\n我习惯在全屏下工作窗口工作，但是这就带了了显而易见的问题，我如何访问桌面等位置的文件呢？我必须将取消全屏，然后再访问文件，然后再恢复全屏，这个操作导致太多人根本不愿意使用全屏工作。\n那么如何解决上面👆🏻的问题呢？\n解决方案\n我希望可以有一个固定的窗口，放置各个项目的文件夹，需要的时候我可以进行切换访问不同的项目文件夹，但是如果它常驻显示，那么会遮挡当前的工作窗口，因此我希望需要的时候显示，不需要的时候隐藏，另外我希望它在全屏下也可以工作，这样我就不需要退出全屏去寻找文件。这就是Folder Hub的能力。\nFolder Hub\nFolder Hub默认是完全不显示的，因为这会遮挡工作窗口，因此我为其设计了非常巧妙的显示方式，当鼠标移至刘海，则Folder Hub显示，移出Folder Hub窗口则隐藏，如下图所示：\nFolder Hub 预览功能\nFolder Hub可以创建工作空间，每个工作空间代表一个你要访问的项目，你可以在工作空间中放置项目的文件、文件夹。比如我创建了多个工作空间，有桌面、下载、ChatTab、I18n Studio等，当鼠标移动到桌面则会显示其中的文件和文件夹。如下图所示：\nFolder Hub工作空间切换\n当我需要寻找文件夹下的文件时，双击文件夹，工作方式类似Finder，通过下方的面包屑来在不同的文件夹之间跳转，如下图所示：\nFolder Hub导航功能\n当我找到目标文件时，比如我想上传图片，我可以直接拖拽图片到工作窗口，如下图所示：\nFolder Hub 拖拽功能\n我也可以选择其他的操作，比如在Finder中显示，使用指定的App打开等等。\nFolder Hub 使用指定App打开\n当然最好的点是它在全屏下可以工作，此时请不要使用鼠标移至刘海显示，因为这与系统的事件冲突，你可以使用快捷键 command + option + ↓ 来触发Folder Hub 窗口的显示和隐藏。\n更好的是当你使用多个显示屏的时候，鼠标位于哪个显示屏就可以在那个显示屏显示Folder Hub。\nFolder Hub有着与Dock的实现方式相似的显示与隐藏功能，有着与Finder相似的文件夹/文件交互操作，因此它近乎没有任何的学习成本，所有的交互设计我都尽可能的让其简洁与实用。\n总结\n \n官网：\n \nApp Store:\n \nFolder Hub作为一款发布当天就有用户付费，并且持续提出改进意见的产品，我会逐渐迭代来为其更多的功能和交互。\n不论它是否令人满意，非常愿意倾听你的意见和建议。",
-          "link": "https://sspai.com/post/84990",
-          "publishedOn": "2023-12-12T03:52:39.000Z",
-          "wordCount": 659,
-          "title": "隐藏在Mac刘海下的效率工具 - Folder Hub",
-          "imageUrl": "https://cdn.sspai.com/2023/12/12/41fef210140895684ff1027366c5dd94.png"
-        },
-        {
-          "id": "https://sspai.com/post/84980",
-          "author": "CCMODE",
-          "description": "如果你要投资时间和精力去学习某个课题，请先评估你的风险。\n\n阅读或者看视频时，遇到“深以为然”的内容，紧赶慢赶记到笔记上，生怕差一秒钟这份感知就会溜走。在网上看到逻辑通顺的技术贴，大略读读，复制一些段落到笔记里面，再加上几个标签分分类。兴致来了研究一个高深的内容，花一天时间整理了一大篇笔记放到我的知识宝库中。 \n我的笔记上囤积了不少这样“珍贵”的内容，像珠宝收藏家看着璀璨的钻石宝石摆在柜台上，内心收获感十足；买了一堆从不会翻开的哲学书，光是看着就感觉已经成功探究到世界的本原；收藏了一堆游戏技术贴，恍惚间已经看到自己在峡谷大杀四方了呢。\n摘要\n时间和精力是我们每个人手中有限的筹码，可是我们分配它的方式太过于随意，挥霍之后也无知无觉，却总在抱怨付出和回报不成正比。你真的确定自己的时间都分配在了有效的知识学习上了么？当你准备开始学习某个知识技能时，你的第一步是什么？\n当你想要学习一份知识技能，先别上头，问自己几个问题。\n\n我学习过相关的内容么？这是一份新的知识么？\n长久来看，我的三分钟热度有支撑么？\n我是“认同”还是“需要”\n\n我需要的是“观点”还是“方案”？\n一个我需要知道的“常识”\n一份可以参考的实践“方案”\n\n我将要在哪里用到它？\n提升能力和提高效率\n开拓新领域\n\n\n \n\n囤积知识\n我钻研过汇编语言语法，音视频处理原理，OpenCV 原理，花费大量时间去看一本又一本大部头书，翻译全英手册，写了一篇又一篇笔记。\n这些当然对我有帮助，但很有限。相当有限，我不是底层硬件工程师，不是音视频处理行业也用不上OpenCV，全英手册的翻译很耗费精力，没精力维持的知识后面都被我遗忘了。\n“为什么精心整理的知识，最后放在角落里落灰？”\n整理这些内容之前，我很少问自己，他们是出于什么样的需求？这些内容以后能够用的上么？我真的有时间剩余精力去维持推进么？\n如果用不上，整理这些知识的意义和我购买的…",
-          "link": "https://sspai.com/post/84980",
-          "publishedOn": "2023-12-12T02:07:00.000Z",
-          "wordCount": 629,
-          "title": "技术人员学习指南：请你先提问",
-          "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/84994",
-          "author": "PostMeridy",
-          "description": "五百多天之前，也就是去年的 7 月 3 号，我买下了一台星光色的 iPhone 13 mini，替换掉了此前使用一年多的二手 iPhone 8 ，正式加入了面容解锁的时代。\n\n选择在 7 月份买一台新 iPhone 其实是个有点尴尬的选择，因为再过两个月新一代的机型也就发布了，无论怎么算都会多少有一点「49 年入国军」的感觉。\n但幸好 iPhone 13 mini 不是——因为再过两个月，整个 iPhone mini 的产品线就被要苹果给砍掉了。\n\n为什么我要选择 mini\n手机一直以来都是一个实用主义属性很强的东西，虽然伴随着手机市场过去十年之间的「贴身肉搏」正在有向着饭圈 icon 滑落的趋势，但仍然无法掩盖手机是一件随身工具的本质。\n而至少在我的理解里，iPhone 13 mini 就是工具属性很强的那一类机型。它捉襟见肘的体积意味着它的能力很平均（或者说平庸），我 100% 的拿着 13 mini 就能保证发挥它 100% 的能力，而不会有任何形如「相机这么好我不用它拿个普利策奖岂不是浪费了」的焦虑。\n「没事，只有两个也很厉害了」\n另一方面，iPhone 13 mini 在我的使用习惯中是非常恰如其分的一环。如果你看过我以前的文章就会知道，我一直是个多持手机的用户，并且我的使用场景——比如拍照、支付、音乐、视频、同步等等——在各个设备之间摊的很平均，因此 iPhone 13 mini 的短板可以很轻松的分担给 Pixel ，同时用苹果优秀的本地化来弥补 Pixel 的一些不足。\n比如有时候是这样的\n换句话说，在我的使用习惯里，iPhone 13 mini 可以是一堆扬长避短的功能集合，而不是一台必须要能够面面俱到的设备。当然，除此之外也加上 13 mini 放在如今随处可见的玻璃手机中可以算是最精致的那一批，我就是单纯的由于曾经的 iPhone 5 而爱屋及乌而已。…",
-          "link": "https://sspai.com/post/84994",
-          "publishedOn": "2023-12-12T01:22:45.000Z",
-          "wordCount": 888,
-          "title": "喧嚣过后 ｜那些当初的 iPhone 13 mini 现在都怎么样了？",
-          "imageUrl": "https://cdn.sspai.com/2023/12/12/271384bfb3cdedfbf6dd2e7a5e5d4cec.jpg"
         }
       ]
     },
@@ -924,6 +894,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77103",
+          "author": null,
+          "description": "俗话说爱情是盲目的，但爱情是如何让人盲目的？根据发表在《Behavioral Sciences》期刊上的一项研究，澳大利亚研究人员调查了 1556 名自我识别为“恋爱中”的年轻人，观察了大脑行为激活系统（BAS）与爱情之间的联系。研究集中在他们对伴侣的情绪反应和行为，以及对伴侣的专注程度。研究发现，爱情会改变大脑活动，恋爱的对象会成为你生活的中心。",
+          "link": "https://www.solidot.org/story?sid=77103",
+          "publishedOn": "2024-01-10T13:12:47.000Z",
+          "wordCount": 161,
+          "title": "爱情如何改变我们的大脑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77102",
+          "author": null,
+          "description": "去年底俄罗斯黑客组织对乌克兰最大电信公司发动网络攻击，导致数百万人数天内无法上网。现在乌克兰黑客组织发动了报复攻击行动。自称 Blackjack 的乌黑客组织入侵了莫斯科 ISP M9com，清空了大约 20TB 的数据，破坏了 M9com 的官网、邮件服务器和网络保护服务等服务。黑客从其邮件服务器和客户数据库下载了逾 10 GB 数据，并通过暗网公开。黑客表示这是另一次更大规模网络攻击前的“热身攻击”。该组织被认为与乌克兰安全局（SBU）有关联。",
+          "link": "https://www.solidot.org/story?sid=77102",
+          "publishedOn": "2024-01-10T11:59:53.000Z",
+          "wordCount": 171,
+          "title": "乌克兰黑客报复俄罗斯破坏莫斯科 ISP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77101",
+          "author": null,
+          "description": "一场太空大战正在酝酿之中。一方是亿万富翁战队，他们正在近地轨道(LEO)上建造庞大的卫星宽带星座，如马斯克(Elon Musk)的 SpaceX 公司的 Starlink，以及贝索斯(Jeff Bezos)的 Project Kuiper。另一方则是 ViaSat 和 SES 等传统固定卫星运营商，还有不少对新太空经济发展方式日益不安的国家。换句话说，它们是对美国超大型卫星星座在太空战略领域的主导地位感到不安。去年 11 月迪拜举行的世界无线通信会议上，SpaceX、Kuiper 等 LEO 卫星运营商推动修改 25 年前制定的限制信号功率防止干扰促进频谱共享的规则，认为已经过时。但这一提议招致了传统固定卫星运营商的抗议，他们已经因为 Starlink 宽带卫星而失去客户，他们的反对在意料之中。但出乎意料的是巴西、印度尼西亚、日本等国也强烈反对。",
+          "link": "https://www.solidot.org/story?sid=77101",
+          "publishedOn": "2024-01-10T10:00:37.000Z",
+          "wordCount": 176,
+          "title": "卫星引发的新“星球大战”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77100",
+          "author": null,
+          "description": "NASA 于 2022 年底完成阿尔忒弥斯  I 号月球任务，这次飞行是无人，它计划在 2024 年 11 月进行首次载人月球飞行。为了解决猎户座飞船相关的问题，确保宇航员安全，NASA 现在更新了时间表，推迟月球载人飞行任务一年：2025 年 11 月执行阿耳忒弥斯 II 号任务，将搭载宇航员的猎户座飞船送往月球，环绕月球飞行后返回；  2026 年 9 月执行阿耳忒弥斯 III 号任务，两名宇航员将搭乘 SpaceX 的 Starship 登陆器登陆月球表面；2028 年 9 月执行阿耳忒弥斯 IV 号载人任务，首次使用升级版 Space Launch System 火箭，搭乘 Starship 登陆月球。",
+          "link": "https://www.solidot.org/story?sid=77100",
+          "publishedOn": "2024-01-10T09:00:55.000Z",
+          "wordCount": 198,
+          "title": "NASA 推迟阿耳忒弥斯月球载人飞行任务一年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77099",
+          "author": null,
+          "description": "在 CES 展会上，流媒体巨头 Netflix 公布了改编自刘慈欣同名小说的科幻剧《三体》预告片。《三体》在国内已有电视剧改编版本于去年初上映，共 30 集。Netflix 的改编版本要紧凑得多，仅为 8 集。Netflix 版本由《权力游戏》系列的 David Benioff  和 D.B. Weiss 与《真爱如血》的 Alexander Woo 担任主创，刘慈欣及其英文译者刘宇昆担任顾问。原版小说是于 2006 年在《科幻世界》杂志连载，同年获得中国科幻小说银河奖，2008 年发行单行本，2014 年由刘宇昆翻译成英文之后为西方读者所熟知。故事讲述了经历文革对世界感到失望的叶文洁向三体人发送信息邀请他们来到地球。",
+          "link": "https://www.solidot.org/story?sid=77099",
+          "publishedOn": "2024-01-10T07:43:36.000Z",
+          "wordCount": 184,
+          "title": "Netflix 公布《三体》预告片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77098",
+          "author": null,
+          "description": "因人为气候变化和厄尔尼诺气象事件，2023 年是有记录以来最热的一年。全球平均气温比工业化前的水平高出 1.48 摄氏度，距离 1.5 摄氏度的全球各国控制温度上升目标相去不远。2023 年全球各地都经历了创纪录的高温，很多地方经历了致命的热浪、灾难性的洪灾，而加拿大经历了持续数月的野火。根据欧洲哥白尼气候变化服务中心的数据，去年有 200 多天的气温创造了历史同期的全球温度纪录。气象学家预测 2024 年可能比 2023 年更暖和，可能会首次比工业化前的水平高出 1.5 摄氏度。",
+          "link": "https://www.solidot.org/story?sid=77098",
+          "publishedOn": "2024-01-10T06:40:35.000Z",
+          "wordCount": 174,
+          "title": "2023 年是有记录以来最热的一年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77097",
+          "author": null,
+          "description": "HPE（Hewlett Packard Enterprise）宣布以 140 亿美元或每股 40 美元全现金收购数据中心网络硬件制造商瞻博网络（Juniper Networks）。这笔交易预计会在年底或明年初完成。收购完成之后 HPE 现有的网络业务收入将翻一番，瞻博 CEO Rami Rahim 将领导合并后的网络业务部门。惠普是在 2015 年收购了网络硬件制造商 Aruba Networks，几个月后惠普分拆为两家公司：制造服务器和其它数据中心设备的 HPE，制造 PC 和打印机的 HP Inc.。瞻博网络成立于 1996 年，在网络设备市场上一直追赶思科。它最近一个季度的收入为 14 亿美元下降 1%，利润仅为 7600 万美元。HPE 的网络部门收入为 14 亿美元利润 4.01 亿美元，增长了 41%。",
+          "link": "https://www.solidot.org/story?sid=77097",
+          "publishedOn": "2024-01-10T06:14:41.000Z",
+          "wordCount": 203,
+          "title": "HPE 以 140 亿美元收购瞻博网络",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77096",
           "author": null,
@@ -3193,116 +3233,6 @@
           "wordCount": 178,
           "title": "2023 年 Google 搜索最多的新闻是巴以冲突",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76866",
-          "author": null,
-          "description": "乌克兰仍然处于战争中，但政府已经开始考虑重建了。重建需要大量资金。世界银行在年初估计需要逾 4100 亿美元。乌克兰正通过官方众筹平台 United24 寻求私人捐赠帮助重建。作为众筹的一部分，需要维修的建筑物会提供房屋地图，3D 渲染图，居民个人故事和希望回家的感言，部分甚至还提供了施工的现场直播。举例来说，一栋位于 Irpin 的 9 层公寓楼遭俄罗斯坦克炮轰后 390 位居民被迫撤离。",
-          "link": "https://www.solidot.org/story?sid=76866",
-          "publishedOn": "2023-12-12T10:13:37.000Z",
-          "wordCount": 168,
-          "title": "乌克兰通过众筹帮助重建",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76865",
-          "author": null,
-          "description": "加载缓慢？视频断断续续？问题根源是延迟。新互联网标准 L4S 正试图消除延迟，科技公司如苹果、Google、 Comcast 等都对该标准表达了兴趣。L4S 代表 Low Latency、Low Loss、Scalable Throughput，其目标是通过减少队列需要尽可能的减少数据包不必要的等待时间。通过缩短延迟反馈回路，你的设备能立即发现拥堵，然后采取措施解决问题。通常是减少数据发送量。L4S 能在维持大数据吞吐量的同时不增加延迟和增加数据传输时间。L4S 为数据包添加了一个传输过程中是否经历拥堵的指示器。如果发生拥堵，设备会进行调整，以防止拥堵变得更严重，并可能完全消除拥堵。L4S 尚未投入实用，但行业对其的兴趣正在加大。苹果在 iOS 16 和 macOS Ventura 中加入了对 L4S 的 Beta 支持，Comcast 与苹果、英伟达和 Valve 宣布合作标记流量。",
-          "link": "https://www.solidot.org/story?sid=76865",
-          "publishedOn": "2023-12-12T09:28:55.000Z",
-          "wordCount": 189,
-          "title": "新互联网标准 L4S 试图消除延迟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76864",
-          "author": null,
-          "description": "逾一年前，Tumblr 母公司 Automattic CEO Matt Mullenweg 宣布，轻博客服务将加入对 ActivityPub \n协议的支持。ActivityPub 是一个开放去中心化社交网络协议，被 Mastodon、Pixelfed 和串流服务 PeerTube \n等应用使用。但在 Tumblr 裁员和转移大部分员工到其它部门后，它是否继续推进 ActivityPub 支持计划备受怀疑。CEO Matt Mullenweg 现在表示该计划仍然在继续。Automattic 分配了一名员工到 Tumblr 从事 ActivityPub 整合，整合工作会在新的一年里继续。他同时指出，到目前为止，Automattic 尚未看到用户对联邦式社交媒体的巨大需求。WordPress 最近提供了 ActivityPub 插件，但目前用户不足 1 万。",
-          "link": "https://www.solidot.org/story?sid=76864",
-          "publishedOn": "2023-12-12T07:38:43.000Z",
-          "wordCount": 200,
-          "title": "Tumblr 对联邦宇宙协议 ActivityPub 的支持仍然在继续",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76863",
-          "author": null,
-          "description": "财新网报道，实施十年的裁判文书上网公开制度，或将转向。在最高法院主导下，“全国法院裁判文书库”将于 2024 年 1 月上线运行。和同样由最高法院主办的中国裁判文书网不同，全国法院裁判文书库仅供法院人士在内部专网检索裁判文书，律师、法学研究者以及更广泛的社会公众无法查阅。《关于建设全国法院裁判文书库的通知》由最高法院办公厅 2023 年 11 月 21 日下发至各高级法院。接近最高法院的人士向财新证实，《通知》内容属实。另有北京、江苏等省份不同层级法院的人士告诉财新，自 2022 年底以来，最高法院相关负责人已在多个内部会议上表示要建设对内使用的案例库，“把以前传到外网的文书统一传的内网”。前述地方法院人士均表示，近期已在着手上传案例。",
-          "link": "https://www.solidot.org/story?sid=76863",
-          "publishedOn": "2023-12-12T06:52:01.000Z",
-          "wordCount": 168,
-          "title": "裁判文书将只供内部查询",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76862",
-          "author": null,
-          "description": "The Browser Company 开发的新浏览器 Arc 今年早些时候发布了 1.0 版本，但只支持 Mac 和 iOS。现在它终于准备登陆了 Windows，它开始邀请 Windows 用户参与 Beta 测试。感兴趣的用户可以加入等待名单。The Browser Company 称到 1 月份会每周释放 1000 个名单。Arc 基于 Chromium 引擎，它尝试重新思考整个浏览器的 UI，用侧边栏取代了标签栏，提供了大量个性化选项。它结合了书签和标签，内置了笔记和可共享协作工具等。",
-          "link": "https://www.solidot.org/story?sid=76862",
-          "publishedOn": "2023-12-12T06:39:09.000Z",
-          "wordCount": 194,
-          "title": "Arc 浏览器准备发布 Windows 版",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76861",
-          "author": null,
-          "description": "因《堡垒之夜》内购分成引发的争议，Epic Games 先后就应用商店垄断起诉了苹果和 Google。虽然苹果 iOS 系统只有一个官方应用商店，不存在第三方应用商店，但苹果被认为没有滥用对应用商店市场的垄断，因此 Epic Games 诉苹果未取得成功。Android 市场存在众多第三方应用商店，但 Google 公司被发现通过与手机制造商、无线运营商和流行应用开发商达成秘密协议而遏制来自第三方应用商店的竞争，此举被认为违反了垄断法。本周一旧金山的一个陪审团一致裁定，搜索巨人违反了联邦和加州的反垄断法。法官将在未来几周内听取辩论，决定是否下令 Google 改变其商业行为。",
-          "link": "https://www.solidot.org/story?sid=76861",
-          "publishedOn": "2023-12-12T06:15:05.000Z",
-          "wordCount": 178,
-          "title": "陪审团裁决 Google 非法垄断应用商店",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76860",
-          "author": null,
-          "description": "中科院、美国和西班牙的研究人员在《Science Advanc》上发表研究报告，发现长城自然形成的生物土壤结皮能保护其免受侵蚀。研究人员发现，生物土壤结皮覆盖了 67% 的研究路段，它增强了长城的机械稳定性减少了侵蚀性。相比裸露的夯土，生物土壤结皮覆盖部分的孔隙度、持水能力、侵蚀性和盐度降低了 2%-48%，抗压强度、渗透阻力、剪切强度和骨料稳定性提高了 37%-321%。其保护功能主要取决于生物土壤结皮的特性、气候条件和结构类型。\n查看全文",
-          "link": "https://www.solidot.org/story?sid=76860",
-          "publishedOn": "2023-12-11T15:44:43.000Z",
-          "wordCount": 161,
-          "title": "生物土壤结皮能保护长城免受侵蚀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76859",
-          "author": null,
-          "description": "欧洲议会、欧盟成员国和欧盟委员会三方，终于在漫长谈判后，就《人工智能法案》达成协议。这一法案将成为全球首部人工智能领域的全面监管法规。已达成协议的《人工智能法案》草案规定，严格禁止“对人类安全造成不可接受风险的人工智能系统”，其中包括有目的地操纵技术、利用人性弱点或根据行为、社会地位和个人特征等进行评价的系统等。相关规定还包括，人工智能公司要对其算法进行人为控制，提供技术文件，并为“高风险”应用建立风险管理系统。每个欧盟成员国都将设立一个监督机构，确保这些规则得到遵守。法案正式颁布实施后，各成员国将基于本国的公共政策基础，做出一定的变通适用。",
-          "link": "https://www.solidot.org/story?sid=76859",
-          "publishedOn": "2023-12-11T15:29:54.000Z",
-          "wordCount": 165,
-          "title": "欧盟制定 AI 法案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76858",
-          "author": null,
-          "description": "金鱼是一种观赏鱼类，由野生鲫鱼（中国）和鲤鱼（日本，目前的主流）演化而来。在鱼缸中它最多就十几厘米长，是最容易饲养的宠物之一，但放归野外摆脱了鱼缸的束缚后，金鱼的体型会变得巨大，甚至能杀死当地的海洋野生动物，破坏脆弱的生态系统。水生物学家 Christine Boston 称，金鱼能吃任何东西。她的团队跟踪了入侵加拿大汉密尔顿港的金鱼。汉密尔顿港是在 1960 年代首次发现金鱼，1970 年代因工业污染基本灭绝，但到了 2000 年代又逐渐恢复。它们的生长速度很快，雌性能在一个季度繁殖数次，其球形的身体能长到 40 厘米，能吃藻类、水生植物、卵和无脊椎动物。它们能连根吃掉本地物种赖以生存的植物。",
-          "link": "https://www.solidot.org/story?sid=76858",
-          "publishedOn": "2023-12-11T15:20:46.000Z",
-          "wordCount": 167,
-          "title": "金鱼释放到野外会变成破坏性物种",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76857",
-          "author": null,
-          "description": "基于 Ubuntu 的桌面发行版 Linux Mint 释出了 21.3 Beta，它的默认桌面环境 Cinnamon 释出了 6.0 版本，加入了对 Wayland 显示服务器的实验性支持。Wayland 已有 15 年历史，旨在取代 X Window 系统，它已被流行桌面环境支持。Cinnamon 6.0 默认仍然是 Xorg。其他更新包括：75% 缩放支持，改进手势，改进应用  Hypnotix TV，等等。Linux Mint 21.3 代号为 Virginia，将是一个长期支持版本，一直支持到 2027 年。",
-          "link": "https://www.solidot.org/story?sid=76857",
-          "publishedOn": "2023-12-11T14:53:48.000Z",
-          "wordCount": 207,
-          "title": "Linux Mint 21.3 Beta 发布，实验性支持 Wayland",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76856",
-          "author": null,
-          "description": "研究发现，情绪化进食会削弱人体从压力中恢复的能力。很多人在感到压力时会情绪化进食，食入高脂肪食物如巧克力或薯片。但研究人员发现，这会减少向大脑的血液流动，导致血管功能变差，对心理健康和认知功能产生负面影响，增加心脏病风险。研究人员建议改为食用水果和蔬菜，抵制巧克力和薯片的诱惑。研究对象是一组健康年轻人，研究人员发现，精神压力大时食用高脂肪食物会使血管功能降低 1.74%。此前研究发现，血管功能每下降 1% 心血管疾病风险增加 13%。",
-          "link": "https://www.solidot.org/story?sid=76856",
-          "publishedOn": "2023-12-11T13:37:16.000Z",
-          "wordCount": 160,
-          "title": "情绪化进食会削弱从压力中恢复的能力",
-          "imageUrl": null
         }
       ]
     },
@@ -3311,6 +3241,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/761958/",
+          "author": null,
+          "description": "科技日报北京 1 月 10 日电 （记者张梦然）美国哈佛大学工程与应用科学学院研究人员开发了一种新型锂金属电池。该电池可充放电至少 6000 次，比任何其他软包电池都要多，且可在几分钟内就充满电。该研究不仅描述了一种使用锂金属阳极制造固态电池的新方法，而且还为潜在的革命性电池材料提供了新的认识。该研\n本文链接",
+          "link": "https://news.cnblogs.com/n/761958/",
+          "publishedOn": "2024-01-10T23:50:13.000Z",
+          "wordCount": 163,
+          "title": "新型固态电池充满电仅需几分钟",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761956/",
+          "author": null,
+          "description": "2023 年，德国人闯入半导体补贴大战。 一家工厂补贴 50 亿欧元，终于换来了台积电与英特尔的回眸。 然而，台积电并不看好这趟赴欧建厂之旅——因为德国没有配套的供应链。负责台积电化学品供应的李长荣化工，跑去德国的英飞凌工厂调研了一趟，发现别说供应了，德国人压根没见过最先进的化学品长啥样[2]。 做\n本文链接",
+          "link": "https://news.cnblogs.com/n/761956/",
+          "publishedOn": "2024-01-10T17:03:26.000Z",
+          "wordCount": 163,
+          "title": "欧洲芯片，四面楚歌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761957/",
+          "author": null,
+          "description": "界面新闻记者刘嘉欣 界面新闻编辑陈小同 近日，华为与奇瑞合作的智选车新车智界 S7 迟迟无法交付引发预定车主投诉。一位准车主在社交平台发文称，智界 S7 的交付环节问题频发，下订车辆承诺期内无法交付，订单交付顺序尤为混乱。文中还指出，有部分车主在提车时发现新车有质量问题。 对此，智界方面截至发稿暂无\n本文链接",
+          "link": "https://news.cnblogs.com/n/761957/",
+          "publishedOn": "2024-01-10T17:00:00.000Z",
+          "wordCount": 163,
+          "title": "智界S7交付一再延期，准车主发文控诉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761955/",
+          "author": null,
+          "description": "快科技 1 月 10 日消息，据天眼查消息，微鲸科技有限公司发生工商变更，深圳市腾讯计算机系统有限公司退出股东行列，退出前腾讯出资 1.9 亿元，为第四大股东。 公开资料显示，微鲸科技员工数量一度超过 700 人，然而根据其 2022 年企业年报，微鲸科技员工仅剩 3 人，而在两年前，2020 年微\n本文链接",
+          "link": "https://news.cnblogs.com/n/761955/",
+          "publishedOn": "2024-01-10T16:45:12.000Z",
+          "wordCount": 163,
+          "title": "昔日电视巨头微鲸仅剩3名员工：曾与乐视、暴风齐名",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761954/",
+          "author": null,
+          "description": "1 月 10 日消息，针对“中邮将全面接管华为汽车业务鸿蒙智行的用户中心代理”的消息，鸿蒙智行官方发布了声明称，中邮正在新建鸿蒙智行用户中心，与现有赛力斯负责的 AITO 问界用户中心共同发展。 有媒体报道称，中邮将全面接管华为车业务鸿蒙智行的用户中心代理，原先由赛力斯负责的用户中心将逐步移交中邮或\n本文链接",
+          "link": "https://news.cnblogs.com/n/761954/",
+          "publishedOn": "2024-01-10T12:04:04.000Z",
+          "wordCount": 163,
+          "title": "华为否认中邮将全面承接鸿蒙智行用户中心代理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761953/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 石墨烯大法好！天津大学和佐治亚理工学院的研究者，造出了世界首个由石墨烯制成的半导体。打开石墨烯带隙，实现的是从 0 到 1 的里程碑级突破。摩尔定律，还能再续命十年。 硅，是所有电子产品的终结吗？ 这个纪录，被石墨烯打破了！ 天津大学和佐治亚理工学院的研究者，造出了世界首个\n本文链接",
+          "link": "https://news.cnblogs.com/n/761953/",
+          "publishedOn": "2024-01-10T11:22:00.000Z",
+          "wordCount": 163,
+          "title": "世界首个石墨烯半导体登Nature，中国团队为摩尔定律续命10年！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761952/",
+          "author": null,
+          "description": "新智元报道 来源：专知 编辑：Aeneas 【新智元导读】将 LLM 应用于基于智能体的仿真的动机是什么? 在环境感知、人类协调、行为生成和评估中的挑战有哪些?一文为你讲清。 基于智能体的建模与仿真已发展成为模拟复杂系统的强大工具，提供了对涌现行为和多样智能体之间互动的洞见。 将大语言模型整合到基于\n本文链接",
+          "link": "https://news.cnblogs.com/n/761952/",
+          "publishedOn": "2024-01-10T11:11:00.000Z",
+          "wordCount": 163,
+          "title": "大模型智能体如何做仿真建模？清华发布最新长文综述",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761951/",
+          "author": null,
+          "description": "新智元报道 编辑：alan 【新智元导读】继去年 11 月底裁员 265 人之后，Unity 在本周一宣布裁员 1800 人，约占员工总数的 25%，视频游戏行业的一年布满乌云。 著名的视频游戏软件提供商 Unity，打响了 2024 裁员第一枪！ 继去年 11 月底裁员 265 人之后，Unity\n本文链接",
+          "link": "https://news.cnblogs.com/n/761951/",
+          "publishedOn": "2024-01-10T11:00:00.000Z",
+          "wordCount": 163,
+          "title": "2024裁员第一枪！游戏引擎巨头Unity宣布裁员25%，公司重置",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761950/",
+          "author": null,
+          "description": "明敏鱼羊发自凹非寺 量子位公众号 QbitAI 手机有了大模型，玩转 vlog 剪辑这么简单了？ 只需给手机智能助手提要求，“帮我生成 XXX 的视频”。 然后它立马从相册里找到相关的素材。 点击生成视频，立马一个剪辑精美的视频就来了。 这个效果来自于荣耀最新发布的 MagicOS 8.0 操作系统\n本文链接",
+          "link": "https://news.cnblogs.com/n/761950/",
+          "publishedOn": "2024-01-10T10:49:00.000Z",
+          "wordCount": 163,
+          "title": "首个AI内核操作系统！断网挑战花样玩法，个人化属性拉满",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761949/",
+          "author": null,
+          "description": "金磊发自凹非寺 量子位公众号 QbitAI “报告老板！这些员工偷懒，办公全靠大模型。” 然而面对看似投机取巧的行为，老板却一反常态，连连点头甚是满意：我给你 5 分钟，能写出来根据热门选题写一篇科普文章吗？ 他们能。 只见这些员工撸起袖子就开始实操起来了。 先是挑选一个热门话题——无人驾驶：未来出\n本文链接",
+          "link": "https://news.cnblogs.com/n/761949/",
+          "publishedOn": "2024-01-10T10:40:00.000Z",
+          "wordCount": 163,
+          "title": "科大讯飞“送员工”了：5分钟能写3篇文章40页PPT的那种！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761948/",
+          "author": null,
+          "description": "文 BT 财经 近日，被誉为全美固态电池“三驾马车之一”的量子景观（QuantumScape）公司宣布，其固态电池成功通过了德国大众公司严苛的 50 万公里耐久性测试。 据 1 月 3 日大众集团电池子公司 PowerCo 发布的报告显示，QuantumScape 提供的 24 层固态电池A样品在位\n本文链接",
+          "link": "https://news.cnblogs.com/n/761948/",
+          "publishedOn": "2024-01-10T10:31:00.000Z",
+          "wordCount": 163,
+          "title": "固态电池是不是新能源车的救世主？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761947/",
+          "author": null,
+          "description": "进退维谷的中国恒大（03333.HK）也被沽空机构做空了。 1 月 9 日深夜，中国恒大发布一则澄清公告，内容主要针对一家机构于一个月前发表关于公司从未盈利过的做空报告。中国恒大指出，该份报告并无实际依据，其所谓结论仅是作者的臆测和怀疑，公司董事已对该报告进行审阅，并特此作出进一步澄清。 回顾事件，\n本文链接",
+          "link": "https://news.cnblogs.com/n/761947/",
+          "publishedOn": "2024-01-10T10:24:00.000Z",
+          "wordCount": 163,
+          "title": "二度回应机构做空，中国恒大谴责为臆测和怀疑，“并无实际依据”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761946/",
+          "author": null,
+          "description": "在 CES 展会上，流媒体巨头 Netflix 公布了改编自刘慈欣同名小说的科幻剧《三体》预告片。《三体》在国内已有电视剧改编版本于去年初上映，共 30 集。Netflix 的改编版本要紧凑得多，仅为 8 集。Netflix 版本由《权力游戏》系列的 David Benioff 和 D.B. Wei\n本文链接",
+          "link": "https://news.cnblogs.com/n/761946/",
+          "publishedOn": "2024-01-10T10:16:00.000Z",
+          "wordCount": 163,
+          "title": "Netflix 公布《三体》预告片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761945/",
+          "author": null,
+          "description": "流行的 Shell 历史记录管理工具 Atuin 作者 Ellie Huxtable 于近日发文宣布，已经在 2023 年 12 月 22 日辞去了 PostHog 基础设施团队的领导工作。接下来，她将成立一家公司，全职服务于 Atuin 项目。 “Atuin 将继续开源并以当前形式作为自托管工具免\n本文链接",
+          "link": "https://news.cnblogs.com/n/761945/",
+          "publishedOn": "2024-01-10T10:11:00.000Z",
+          "wordCount": 163,
+          "title": "Atuin 作者宣布辞职，全职从事开源项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761944/",
+          "author": null,
+          "description": "近几十年来，甲状腺癌的全球发病率和死亡率显着增加。1974 年至 2013 年间，美国甲状腺癌发病率平均每年增加 3.6%。中国、意大利和土耳其也出现了类似的情况。 PFAS，也被称为“永久化学品”，是一大类复杂的合成化学品，可以迁移到土壤、水和空气中。由于它们具有很强的碳-氟键，这些化学物质在环境\n本文链接",
+          "link": "https://news.cnblogs.com/n/761944/",
+          "publishedOn": "2024-01-10T10:04:00.000Z",
+          "wordCount": 163,
+          "title": "柳叶刀子刊最新研究发现：接触不粘锅、化妆品中PFAS 与甲状腺癌发病率增加有关！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761943/",
+          "author": null,
+          "description": "文连线出行，作者白如镜 ，编辑周雄飞 一个月内四次减持，阿里不再看好快狗打车。 昨日，港交所文件披露，阿里巴巴集团于 1 月 4 日减持快狗打车股份，其以 0.55 港元/股的价格出售了后者 66.94 万股的股票，套现约 37 万港元。 连线出行注意到，自 2023 年 12 月 12 日以来，不\n本文链接",
+          "link": "https://news.cnblogs.com/n/761943/",
+          "publishedOn": "2024-01-10T09:50:00.000Z",
+          "wordCount": 163,
+          "title": "快狗打车，风雨飘摇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761942/",
+          "author": null,
+          "description": "轻松筹官微发布声明：从未授权任何第三方组织或个人向筹款人提供所谓的推广服务。\n本文链接",
+          "link": "https://news.cnblogs.com/n/761942/",
+          "publishedOn": "2024-01-10T09:43:00.000Z",
+          "wordCount": 163,
+          "title": "轻松筹发布声明：从未授权任何第三方组织或个人向筹款人提供所谓的推广服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761941/",
+          "author": null,
+          "description": "据知情人士透露，亚马逊旗下直播网站 Twitch 计划裁员约 500 人，约占员工总数的 35%。此次裁员将是 Twitch 不到一年内的第二轮大规模裁员。裁员消息最早可能在周三宣布。（彭博）\n本文链接",
+          "link": "https://news.cnblogs.com/n/761941/",
+          "publishedOn": "2024-01-10T07:00:00.000Z",
+          "wordCount": 163,
+          "title": "亚马逊旗下Twitch据悉拟裁员约500人，约占员工总数的35%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761940/",
+          "author": null,
+          "description": "【CNMO 新闻】1 月 10 日，CNMO 注意到，小米汽车官方发布了“小米汽车答 100 问（完结篇）”，其中提到，小米目前没有推出 SU5 的计划，而且未来几年内也没有增程车型。 当被问及：“小米汽车后续会有 SU5 么？网传小米后续还有增程车型是真的么？”时，小米汽车官方表示：“我们目前聚焦\n本文链接",
+          "link": "https://news.cnblogs.com/n/761940/",
+          "publishedOn": "2024-01-10T06:50:00.000Z",
+          "wordCount": 163,
+          "title": "小米汽车称未来几年内没有增程车型 暂时没有SU5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761939/",
+          "author": null,
+          "description": "极兔速递海外、国内市场业务分开管理，新设中国区 CEO。 1 月 10 日，对于近期网传极兔速递在组织架构、人事任命方面的调整，澎湃新闻记者从极兔方面确认，此次将集团和中国业务划开，是为了精细化运营。中国区将迎来首位 CEO，由极兔创始团队成员刘伟担任，负责国内市场快递业务，向樊苏洲汇报。 据了解，\n本文链接",
+          "link": "https://news.cnblogs.com/n/761939/",
+          "publishedOn": "2024-01-10T06:40:00.000Z",
+          "wordCount": 163,
+          "title": "极兔组织架构调整：新设中国区，创始团队成员刘伟任首任CEO",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/761891/",
           "author": null,
@@ -8139,196 +8269,6 @@
           "publishedOn": "2023-12-12T14:28:00.000Z",
           "wordCount": 163,
           "title": "远程工作一年后，大公司开始反悔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759307/",
-          "author": null,
-          "description": "IT 之家 12 月 12 日消息，华为创新产品发布会将于当地时间 12 月 12 日在迪拜举行，从海报来看可能会推出新款 MatePad 平板电脑和开放式耳机，除此之外可能还将面向海外市场推出此前已经在国内发布过的产品。 今日，博主@Adak 封狼居胥晒出号称是华为首款开放式耳机 FreeClip\n本文链接",
-          "link": "https://news.cnblogs.com/n/759307/",
-          "publishedOn": "2023-12-12T08:53:00.000Z",
-          "wordCount": 163,
-          "title": "华为首款开放式耳机 FreeClip 曝光：独特 C 造型，续航 8 小时",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759306/",
-          "author": null,
-          "description": "希望 AI 救命，又怕被 AI 颠覆 作者瀚星 封面来源摄图网 ChatGPT 一把大火烧过来，消费电子厂商齐刷刷地望向 AI。 国内，全球最大的个人电脑（PC）制造商联想推出了 AI PC；小度、天猫精灵、小爱同学等智能音箱开始了新一轮与 AI 的热恋；vivo 将 AI 大模型装入智能手机，华为\n本文链接",
-          "link": "https://news.cnblogs.com/n/759306/",
-          "publishedOn": "2023-12-12T08:45:00.000Z",
-          "wordCount": 163,
-          "title": "AI一把火烧过来，谁会成为下一个诺基亚？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759305/",
-          "author": null,
-          "description": "定焦（dingjiaoone）原创 作者星星 编辑方展博 “这才是真正的科技与狠活吧，闭眼照都能修好。”最近，木木迷上了“AI 修脸”。 先上传至少 15 张照片，生成一个数字分身，随后打开 AI 修脸选项，上传要修的图片，就可以坐等收图了。即便是闭眼照，或是表情不够理想，都能得到“换脸”的效果。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/759305/",
-          "publishedOn": "2023-12-12T08:36:00.000Z",
-          "wordCount": 163,
-          "title": "妙鸭相机推出AI修图，美图秀秀慌了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759304/",
-          "author": null,
-          "description": "文陈桥辉 如果评选 2023 年最令人着迷的新技术，那非 ChatGPT 莫属。从美国的硅谷、华尔街到中国的后厂村、中关村，几乎所有的科技大厂们都在讨论“生成式 AI”。ChatGPT 之后，几乎每周都有新的生成式 AI 产品产出，陆续涌现了文心一言、通义千问、Gemini 等大模型，细分赛道则见证\n本文链接",
-          "link": "https://news.cnblogs.com/n/759304/",
-          "publishedOn": "2023-12-12T08:25:00.000Z",
-          "wordCount": 163,
-          "title": "2023，没有一个打工人逃得过AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759303/",
-          "author": null,
-          "description": "Grok 是马斯克旗下 xAI 的聊天机器人，一个月前， 我们已经简要地介绍了 Grok。 最近，马斯克发文称 Grok 现已向美国所有 Premium+ 用户推出，也就是说，你现在有机会在 X 上体验到 Grok 了。 那么让我们一起来看看 Grok 的表现到底值不值 16 美元/月？ ▲ 图片来\n本文链接",
-          "link": "https://news.cnblogs.com/n/759303/",
-          "publishedOn": "2023-12-12T08:17:00.000Z",
-          "wordCount": 163,
-          "title": "马斯克版「ChatGPT」Grok 上线！比本人更毒舌，快被网友玩坏了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759302/",
-          "author": null,
-          "description": "知识分子 The Intellectual 图源：pixabay 撰文丨张天祁 越来越多的人在例行体检后，被告知检出了肺结节。随之而来的是恐惧和焦虑。一项对肺结节患者的研究发现，最初得知自己被检出肺结节的时候，绝大多数人都会把肺结节和肺癌联系起来。 中国到底有多少人有肺结节？多项小样本的流行病学调查\n本文链接",
-          "link": "https://news.cnblogs.com/n/759302/",
-          "publishedOn": "2023-12-12T08:04:00.000Z",
-          "wordCount": 163,
-          "title": "肺结节高发：与新冠关系不大，更不必过度治疗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759301/",
-          "author": null,
-          "description": "知识分子 The Intellectual 图源：pixabay 撰文丨周叶斌 2023 年 12 月 8 日，FDA 一次批准了两个针对镰状细胞病的基因治疗，其中有首个基因编辑疗法——同时也是首个基于 CRISPR 基因编辑技术的疗法[1]。 自上世纪 90 年代人类基因组计划起步后，基因治疗一直\n本文链接",
-          "link": "https://news.cnblogs.com/n/759301/",
-          "publishedOn": "2023-12-12T07:55:00.000Z",
-          "wordCount": 163,
-          "title": "首个基因编辑疗法获批，定价超千万，我们离基因治疗时代还有多远",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759300/",
-          "author": null,
-          "description": "一场“守护”董宇辉的行为艺术正在互联网上上演。 “董宇辉山西丈母娘报道”“安徽丈母娘入场”“宇辉的丈母娘来了”。 12 月 11 日晚间，高途佳品的直播间被东方甄选主播董宇辉的丈母（董宇辉粉丝）给刷屏了，不少头顶“甄选团”橙色灯牌的网友涌入高途直播间“报道”，直呼“东方甄选送来的泼天富贵，你们要接住\n本文链接",
-          "link": "https://news.cnblogs.com/n/759300/",
-          "publishedOn": "2023-12-12T07:33:00.000Z",
-          "wordCount": 163,
-          "title": "董宇辉粉丝“叫板”东方甄选",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759299/",
-          "author": null,
-          "description": "财联社 12 月 12 日讯，年关将至，国内车企进入年底冲销量的紧要关卡。在各大汽车厂商相继公布 11 月成绩单会后，新能源车企零售销量 TOP10 榜单也正式出炉。 整体市场来看，11 月份新能源狭义乘用车销量 84.1 万辆，同比增长 39.8%，环比增长 8.9%；今年 1 至 11 月累计销\n本文链接",
-          "link": "https://news.cnblogs.com/n/759299/",
-          "publishedOn": "2023-12-12T07:25:00.000Z",
-          "wordCount": 163,
-          "title": "销量创纪录，比亚迪却压力陡增！每天卖车超万辆，方可完成年度KPI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759298/",
-          "author": null,
-          "description": "本文来自微信公众号：新商业 Tech（ID：NBTechX），作者：玛丽莲梦呐，题图来自：视觉中国 “除了符合赦免条件，否则自海外申报进口的新能源汽车，必须额外获得许可文件才能进入土耳其市场。” “获得许可文件，需满足土耳其对新能源车品牌的售后体系要求。例如，出口电动汽车到土耳其，必须在该国拥有至少\n本文链接",
-          "link": "https://news.cnblogs.com/n/759298/",
-          "publishedOn": "2023-12-12T07:19:00.000Z",
-          "wordCount": 163,
-          "title": "土耳其，再次“拦截”中国电动汽车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759297/",
-          "author": null,
-          "description": "克雷西鱼羊发自凹非寺 量子位公众号 QbitAI 一条神秘磁力链接引爆整个 AI 圈，现在，正式测评结果终于来了： 首个开源 MoE 大模型 Mixtral 8x7B，已经达到甚至超越了 Llama 2 70B 和 GPT-3.5 的水平。 （对，就是传闻中 GPT-4 的同款方案。） 并且由于是稀\n本文链接",
-          "link": "https://news.cnblogs.com/n/759297/",
-          "publishedOn": "2023-12-12T07:11:00.000Z",
-          "wordCount": 163,
-          "title": "开源大模型超越GPT-3.5！爆火MoE实测结果出炉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759296/",
-          "author": null,
-          "description": "12 月 12 日，美团外卖宣布启动冬季骑手招募，计划投入 1 亿元，开放 30 万骑手岗位。据悉，此次冬季骑手招募资金将主要用于应对北京、上海等城市，以及东北、华北等运力紧张区域的招新激励，其中包括升级“伯乐奖”等举措，骑手推荐新人最多可获过万元奖励。\n本文链接",
-          "link": "https://news.cnblogs.com/n/759296/",
-          "publishedOn": "2023-12-12T07:04:00.000Z",
-          "wordCount": 163,
-          "title": "美团外卖启动冬季骑手招募，拟投入1亿元招募30万名骑手",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759295/",
-          "author": null,
-          "description": "IT 之家 12 月 12 日消息，据 IT 之家网友反馈，小米 12 手机现已推送澎湃 OS 开发版，版本号为 1.0.23.12.4.DEV，安装包大小为 5.3GB。 更新日志如下： Xiaomi HyperOS 小米澎湃 OS 打造“人车家全生态”操作系统。 底层重构 小米澎湃 OS 底层重\n本文链接",
-          "link": "https://news.cnblogs.com/n/759295/",
-          "publishedOn": "2023-12-12T06:56:00.000Z",
-          "wordCount": 163,
-          "title": "小米 12 推送澎湃 OS 开发版：安装包 5.3GB，全新融合设备中心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759294/",
-          "author": null,
-          "description": "IT 之家 12 月 12 日消息，阿维塔科技宣布，长安汽车党委书记、董事长朱华荣担任阿维塔科技董事长。同时，谭本宏不再担任阿维塔科技董事长兼 CEO，出任长安汽车党委副书记。 此次人事任命中，长安汽车副总裁王孝飞，将协助阿维塔科技董事长，在该公司企业经营、重大项目推进、关键业务运营等方面开展工作。\n本文链接",
-          "link": "https://news.cnblogs.com/n/759294/",
-          "publishedOn": "2023-12-12T06:49:00.000Z",
-          "wordCount": 163,
-          "title": "阿维塔人事大变动：长安汽车董事长朱华荣亲自接管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759240/",
-          "author": null,
-          "description": "在 Sam Altman 被 OpenAI 董事会短暂解雇前，部分高管就接触董事会，对其以不健康的方式鼓动员工相互竞争表达了担忧。他被员工指控心理虐待，在公司内部制造了混乱和延误。这与董事会过去几年与其交流产生的印象相近。 董事会对行为展开了调查，权衡了 Altman 在公司派系中积累的忠诚度，以及\n本文链接",
-          "link": "https://news.cnblogs.com/n/759240/",
-          "publishedOn": "2023-12-12T00:47:16.000Z",
-          "wordCount": 163,
-          "title": "OpenAI 内部曾争议 Sam Altman 的行为",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759239/",
-          "author": null,
-          "description": "研究发现，情绪化进食会削弱人体从压力中恢复的能力。很多人在感到压力时会情绪化进食，食入高脂肪食物如巧克力或薯片。但研究人员发现，这会减少向大脑的血液流动，导致血管功能变差，对心理健康和认知功能产生负面影响，增加心脏病风险。 研究人员建议改为食用水果和蔬菜，抵制巧克力和薯片的诱惑。研究对象是一组健康年\n本文链接",
-          "link": "https://news.cnblogs.com/n/759239/",
-          "publishedOn": "2023-12-12T00:45:16.000Z",
-          "wordCount": 163,
-          "title": "情绪化进食会削弱从压力中恢复的能力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759238/",
-          "author": null,
-          "description": "最新一期的 TIOBE 语言流行度指数显示，Python 的榜首位置仍然很稳，但过去一年其流行度出现了下降。前 20 流行语言中 C#、PHP 、Scratch、Fortran、F#、Kotlin、Delphi/Object Pascal 和 Rust 有所增长，其中 C# 同比增长 2.38%，其\n本文链接",
-          "link": "https://news.cnblogs.com/n/759238/",
-          "publishedOn": "2023-12-12T00:41:17.000Z",
-          "wordCount": 163,
-          "title": "TIOBE 指数显示 C# 过去一年增长幅度最大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759237/",
-          "author": null,
-          "description": "密西根大学和北京协和医学院的两位研究人员在《Science Advances》期刊上发表的研究报告显示，自然界会平衡生命和死亡，增加生育能力的遗传变异会缩短寿命。 研究人员利用了英国生物银行收集的英国志愿者的基因组和生活行为数据，发现影响繁殖的遗传变异更有可能影响寿命，在促进繁殖的同时也会促进衰老。\n本文链接",
-          "link": "https://news.cnblogs.com/n/759237/",
-          "publishedOn": "2023-12-12T00:38:54.000Z",
-          "wordCount": 163,
-          "title": "增加生育能力的遗传变异会缩短寿命",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759236/",
-          "author": null,
-          "description": "科学家的裂变模型发现了以前从未在恒星中直接观察到的核过程的清晰痕迹。图片来源：洛斯阿拉莫斯国家实验室 科技日报北京 12 月 11 日电 （记者张梦然）元素周期表中铁以上的元素，被认为是在两颗中子星合并等灾难性爆炸或在罕见的超新星中产生的。最新研究表明，在重元素的产生过程中，宇宙中可能会有裂变发生。\n本文链接",
-          "link": "https://news.cnblogs.com/n/759236/",
-          "publishedOn": "2023-12-12T00:35:54.000Z",
-          "wordCount": 163,
-          "title": "宇宙中核裂变现象首次揭示",
           "imageUrl": null
         }
       ]
