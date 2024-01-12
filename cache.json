@@ -69,6 +69,16 @@
           "imageUrl": "https://cdn.sspai.com/10/01/2024/article/3b5a4338-56a2-7dac-f131-d64aff4c2c4d.jpg"
         },
         {
+          "id": "https://sspai.com/post/85687",
+          "author": "玉树芝兰",
+          "description": "我尝试了网络文章总结、学术文献分析，以及长文翻译。\n\n最近经常听小伙伴提及 Kimi Chat 这款国产大语言模型，据说它在上下文记忆能力很有特色。于是我打开官网（https://kimi.moonshot.cn/）进行了尝试，今天就来给你分享一下我的使用心得。\n\nKimi Chat 在首页提供了一些示例。它能够概括输入的 PDF 文件，或者帮助你分析网页链接。从样例中不难看出，Kimi Chat 官方宣传的一大特色便是它的超长对话上下文（long context）。官方声称可以处理高达 20 万字的中文输入。Kimi Chat 的长期目标是建立一个具有持久记忆的大型语言模型。也就是说，你天天跟他对话，去年与它互动的内容其间隔了无数的其他对话乱入，可如果你今天突然问起来，它依然能够精准想起来。\nKimi Chat 的宏大愿景是当大语言模型成为操作系统时，它可以作为高效可靠的存储服务，为大语言模型的计算提供基础和保障。我觉得，在 OpenAI 一马当先时，后发的大语言模型都需要找准自己的定位，才能在竞争和发展中有足够宽广的「护城河」。\n你注册并登录之后，就可以开始新对话了。\n\n下面，咱们通过网络文章总结、学术文献分析，以及长文翻译这几个场景，分别试试 Kimi Chat 的能力。\n网文总结\n首先，我尝试了 Kimi Chat 首页提供的一个总结链接对应内容的示例。只不过，我把示例中的链接换成了自己的公众号文章，让它帮我概括并针对文章内容提出问题。\n提示词如下：\n\n结合文章标题，用一句话精确凝练地总结这篇文章，在回答中用 “一句话总结：” 开头；\n\n整理这篇文章中的观点，并展开阐释；\n\n如果你是一名效率应用专家，针对这篇文章再提出三个问题；\n\nhttps://sspai.com/post/85490\n\n这篇文章是我最近发布的，标题为《过去这一年我有哪些离不开的效率应用》，我们看…",
+          "link": "https://sspai.com/post/85687",
+          "publishedOn": "2024-01-09T08:33:15.000Z",
+          "wordCount": 889,
+          "title": "如何用 AI 给科研提速？超长对话记忆 Kimi Chat 体验",
+          "imageUrl": "https://cdn.sspai.com/2024/01/09/c3c0d03536f01d33e49e8f9948b2f4cc.png"
+        },
+        {
           "id": "https://sspai.com/post/85481",
           "author": "ryoma1836",
           "description": "Matrix 首页推荐  \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n1. 前言\n自从之前写了《【让 IT 更简单】使用 Ubiquiti 全家桶对朋友家进行网络改造》 《【Rethinking IT】如何结合 Unifi 和 MikroTik 设备打造家庭网络》两篇文章后，相信给各位正在用 Unifi 或者打算使用 Unifi 的朋友应该有所帮助。\n那么，今天我就换个方向，不再讨论规划和安装 Unifi 网络设备，来研究研究如何了解家里的 Unifi 设备状况？\n这时候有朋友就会说，不是有 Unifi 官方的 Web 控制台，还有手机 App 嘛。没错，Unifi 在 UI 设计方面确实独树一帜，而且在其 Web 控制台和 App 中，每一个 Unifi 设备和客户端设备都有相应的 概览 页面和 洞察 页面，上面提供了 Unifi 设备和客户端设备的实时数据。\n但是，如果我希望研究一下某一段时间这个 Unifi 设备的历史数据，想看看这段时间该 Unifi 设备的负载情况，稳定性如何，客户端设备何时离线，是不是就无从得知了？\n\n其实，这个需求看起来就是需要一套 监控系统 啦。那么今天，就由我来给大家 解锁 Unifi 的新玩法！\n由于小弟我从未在互联网大厂 SRE 岗位工作过，只是一个小小乙方的服务器、存储设备上架搬运工，所以以下内容均为自己工作之余，在家利用 Homelab 环境瞎捣腾的，自然不是什么多高大上的东西。如果有什么写得不准确的地方，或者引用了错误的资料，还请各位大佬海涵！\n2. 组件介绍\n2.1. Prometheus & InfluxDB\n2.1.1. 时序数据库\n说 Prom…",
@@ -797,46 +807,6 @@
           "wordCount": 738,
           "title": "看完Sam Altman的斯坦福创业课，我学到了什么？",
           "imageUrl": "https://cdn.sspai.com/2023/12/11/78c4e1c317a1fb00a7ba1113f206a3a3.png"
-        },
-        {
-          "id": "https://sspai.com/post/84426",
-          "author": "Null",
-          "description": "平台：MacOS / Win11\n关键词：AI / 效率工具 / 翻译 / 备忘录 / chatGPT / 搜索\n开发者：独立开发者\n官网：https://colink.in/\n\n在数字化时代，chatGPT已经彻底改变了我们与技术的互动。Mac上的Raycast以其简洁而强大的功能占据了效率工具的制高点，通过一系列快捷键和搜索框，轻松管理日常任务。然而，Windows用户一直缺乏这样的工具，特别是那些整合了AI功能的。Windows用户何时能享有同等的便捷体验，而不是记忆一长串的快捷键，或在众多效率插件中迷失？\n在这个问题的驱动下，我与几位同伴合作开发了Airy轻助理。我们的目标是解决效率软件的痛点，提供统一的界面和入口，集成了日常使用的多种效率工具，包括翻译、待办事项管理、chatGPT等等，而不必记住每一个工具的独立快捷键。通过一个精心设计的搜索框和快捷键，让Airy轻助理带来流畅的效率体验。结合AI技术，它不仅仅是搜索工具，而是一种全新的交互方式，一次简化电脑操作的革命性创新。\n受DeepL的启发，我们拓展了“魔法复制”交互方式。仅需选中文本，再按两次'C'键（即Cmd+C+C），便能激活AI插件，完成翻译或添加备忘录等任务，无需离开当前界面或记忆额外的快捷键。Airy轻助理不仅降低了效率工具的使用门槛，也让日常电脑操作变得更为高效和直观。\n\n核心功能\n\nAI翻译\n在日常使用中，许多翻译软件的一个共同问题是，在划选文本时，无论中英文都会自动弹出一个悬浮的翻译气泡。对于追求视觉简洁的我来说，这种无法控制的弹出式功能可能会造成不小的困扰。尽管DeepL提供了双击“Ctrl+C”的快捷操作来避免这一问题，但它又带来了另一个烦恼——重型的翻译窗口频繁出现在屏幕上，这会让我在使用时感到很烦躁。\nAiry轻助理 - AI翻译\n为了解决这些问题，Airy的翻译小工具诞生了。为此，…",
-          "link": "https://sspai.com/post/84426",
-          "publishedOn": "2023-12-13T09:36:17.000Z",
-          "wordCount": 617,
-          "title": "Airy 轻助理：效率工具与AI结合的神奇小工具",
-          "imageUrl": "https://cdn.sspai.com/2023/12/13/7d12c734825fe079488dfeb4de5c3c48.png"
-        },
-        {
-          "id": "https://sspai.com/post/85043",
-          "author": "cabins",
-          "description": "起因\n我在知乎以及掘金平台曾经写过Android平板上输入法大横评的文章。但就在刚才，我发现Gboard但Beta版本竟然已经更新到我心目中理想的输入法的程度了。所以我决定再次重新进行一次横向评测，让大家看看，在2023年12月的时候，Android平板上的输入法是否真的到了可用的地步。\n \n输入法入选原则\n① 各种定制类／预装类，不纳入参评；所以这里就没有小艺，Jovi输入法；\n② 各类小众输入法除了同文，其他的不纳入参评；\n测评维度\n① 是否支持光标跟随，这是测试安卓平板输入法，第一条死的标准；\n② 是否支持实体键盘输入，同上，也是一条死的标准；\n③ 是否支持双拼，五笔等多种输入类型；\n④ 是否能够自动收起键盘，甚至检测到已经连接实体键盘的情况下，不弹出屏幕键盘；\n⑤ 是否支持自定义词库的导入。\n \n详细测试结果\nGboard\n版本：13.7.07\n√ 支持光标跟随\n√ 支持实体键盘输入\n√ 支持双拼，以及86五笔\n√ 能够自动收起键盘，且之后不会再自动弹出，有漂亮的悬浮条\n√ 支持自定义词库导入\n推荐指数：★★★★★\n \n搜狗输入法\n版本：11.35\n√ 支持光标跟随，但屏幕底部有一个大横条，差评\n√ 支持实体键盘输入\n√ 支持双拼，五笔，甚至可以自定义码表\n√ 检测到连接实体键盘不会自动弹出屏幕键盘，大大的好评\n√ 支持自定义词库导入\n推荐指数：★★★☆\n \n百度输入法\n版本：12.0.13.1\n√ 支持光标跟随，同样底部有一个横条，横条差评\n√ 支持实体键盘输入\n√ 支持双拼，五笔，以及自定义码表\n√ 能够在输入第一个按键的时候自动收起键盘，体验不够好(补，在最新版中之后的光标再次聚焦输入框不再弹出软键盘)\n√ 支持自定义词库导入\n推荐指数：★★★☆\n \n讯飞输入法\n版本：13.0.4\n√ 支持光标跟随\n√ 支持实体键盘输入\n√ 支持双拼，不支持五笔，更不支持自定义码表\n√ 能够在第一个按键的时候自动收起键盘，且之后几乎每换一个输入框都会再弹出来，差评\n√ 支持有数量限制的自定义词库\n推荐指数：★★★\n \n微信输入法\n版本：1.2.0\n√ 支持光标跟随\n√ 支持实体键盘输入\n√ 支持双拼，以及五笔（86，98，新世纪，不支持自定义码表）\n√ 能够在第一次的第一个按键自动收起键盘，且之后不会再自动弹出\n× 不支持自定义词库导入\n推荐指数：★★★\n（编辑：经评论区网友提醒，使用屏幕键盘的时候体验不够好，减颗星；原本评4星）\n \n手心输入法\n版本：3.6.1\n× 不支持光标跟随\n× 不支持实体键盘输入（搞笑的是，手心是唯一一个在自己的应用介绍里面写了支持蓝牙、实体、OTG键盘的输入法）\n√ 支持双拼\n× 我就从来没有看到过它的键盘，我也不能使用这个输入法正常输入文字，界面完全不适配\n推荐指数：不推荐\n \n同文输入法\n版本：3.2.16（Develop CI）\n√ 支持光标跟随（而且根据配置可以配置多种类型）\n√ 支持实体键盘输入（但Mini键盘需要自己重写，默认的不够Mini）\n√ 支持双拼，五笔，以及各类你喜欢的输入法\n√ 能够自动收起键盘，这个可以根据你的设置而非常个性化\n√ 支持自定义词库导入，码表都是自定义的\n推荐指数：★★★★（因为配置有难度，所以减一颗星）\n \n结论\n① 如果你没有特殊的要求，安卓平板上最适合的输入法是Gboard和微信输入法；\n② 如果你喜欢折腾，或者考虑隐私，同文是个不错的选择。",
-          "link": "https://sspai.com/post/85043",
-          "publishedOn": "2023-12-13T09:34:36.000Z",
-          "wordCount": 674,
-          "title": "2023年12月，重新测评Android平板上的各大输入法",
-          "imageUrl": "https://cdn.sspai.com/2023/12/13/03f9e598a8237d71831d50a9c81a9462.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85024",
-          "author": "桌沿奇思",
-          "description": "如果有用过Mac的朋友，就会知道Mac的 聚焦搜索（Spotlight） 功能有多好用。说白了，其实就是「全局搜索」。但因为通过按下「Command + 空格」，我们可以在电脑的任何界面使用全局搜索，才让它有了无可替代的便捷性。\n比如：\n\n有个词语不理解？输入词语，跳转浏览器，用搜索引擎打开。\n想找某个文件？输入文件名，立刻就能找到。\n有个单词不会？输入词汇，系统级词典为你服务。\n\n（题外话：如果用 Mac 神器 Raycast 来替代聚焦，这个第三方软件会将效率提升到一个全新的等级！）\n\n不仅在电脑上，iPhone 上也有类似 Mac 上的全局搜索功能，叫做「聚焦」。我们在很多地方都能找到它：\n\n👇在锁屏界面的屏幕中央下拉。👇在通知中心的屏幕中央下拉。👇在主屏幕的屏幕中央下拉。👈点击主屏幕下方的搜索框。👇在负一屏的屏幕中央下拉。\n\n今天要介绍的是最能改变它在iPhone上地位的一个启动位置，让它​实现从奴婢翻身做主人的梦想。\n为什么好用？\n因为我们可以在Mac的任何界面启用聚焦搜索功能，才让它无比实用便捷。类比过来，唯一能在iPhone任何界面上都出现并使用的是什么？\n是「辅助触控 」。只有这个黑黑的小圆球能够悬浮于iPhone任何界面上。\n说实话，辅助触控这个官方翻译确实太过晦涩拗口，听起来像是某些手脚不便的用户才会需要的功能，藏在「辅助功能」的设置菜单中也让普通用户难以重视。\n自从某一代iOS系统更新后，辅助触控支持自定义顶层菜单，并且允许设置为某个快捷指令后，辅助触控一下子就变得强悍起来。相比之前只能提供「返回主屏幕以避免按坏Home键」的弱鸡，辅助触控变成了手里握有各路神兵利器的将军。\n\n我们可以在「设置 → 辅助功能 → 触控 → 辅助触控 → 自定义顶层菜单」中将某个按键设置为「聚焦」，开启我们的高效搜索之路。\n下面介绍最常用的几个功能。\n几个最常用的功能\n遇到我们不理解的词汇或信息，我们最常见的反应是「用搜索引擎，搜一下」。\n\n相比起复制后打开App、点击搜索框、粘贴、点击搜索等繁琐操作，复制后直接唤起聚焦搜索，一键便可以跳转Safari进行搜索，使得搜索体验快很多。\n同样的道理，我们也可以使用它来快速完成「地图上，查找位置」的功能。\n\n快捷启动App。如果你时常忘记App的存放位置，或者像我一样更喜欢通过搜索来启动App，那么聚焦搜索真的很适合你。在某个App内，就可以轻松跳转到另一个App，方便我们随时启动原神软件。\n\n当然，系统级别的搜索也不在话下：文件搜索、照片搜索、词典查词、备忘录内容搜索、日历日程搜索、通讯录搜索、信息搜索、快捷指令搜索……\n部分App还提供了允许聚焦检索App中内容的功能：无需打开App，我们便可以查找到相应内容。 比如：\n\n我们可以搜索Drafts笔记标题和内容，来快速打开笔记。\n放在微信读书书架里的书，我们也可以搜索到打开。\n小红书浏览过的笔记、豆瓣浏览过的书籍，聚焦也能帮我们提取出来。\n\n写在最后\n我认为聚焦功能是iPhone最实用的几个功能之一。因为其无广告、启动迅速，而在使用体验上超越很多安卓手机的搜索功能。\n希望你能喜欢本篇文章。",
-          "link": "https://sspai.com/post/85024",
-          "publishedOn": "2023-12-13T09:08:23.000Z",
-          "wordCount": 614,
-          "title": "从好用到超好用，就把 iPhone 的聚焦搜索放在这儿",
-          "imageUrl": "https://cdn.sspai.com/2023/12/12/a4f580ab7b726389855804ac556a90b5.JPG"
-        },
-        {
-          "id": "https://sspai.com/post/84928",
-          "author": "设计防潮箱",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n最近睡前在读冈仓天心的《茶书》，这是一本薄薄的关于哲学与美学的小册子，作者借茶道文化来描述东方传统美学思想传承。中文译者谷泉在书末后记提到了那些推动日本审美文化发展的巨匠们：千利休（茶道起源）、冈仓天心（茶道文化传入美国）、柳宗悦（民艺运动）……本质上，这些美学大师们都在做同一件事：了解、学习、探索自己民族地区现有的文化与审美传统，总结一套适用于新时代新方向的方法论，并通过不同的手段实践方法论并产生社会影响力。\n作为一名 base 广州的设计师，岭南民艺和传统文化习俗是滋养个人审美内核的重要灵感来源之一。早些时候，我跟朋友一起吃了一次「大鸽饭」（粤式乳鸽的餐厅），亲自体验了就餐过程中满满的岭南文化艺术符号，获得了不少灵感。\n借这篇文章，我希望能带你一起领略岭南文化艺术的迷人风采。\n大鸽饭是一家什么样的餐厅\n\n「大鸽饭」是一家创立于 2007 年的广州乳鸽专门店，营业至今已有16年历史，一直是广州乳鸽品类的第一名。为了扩大经营范围和消费者群体，它找设计咨询公司「容品牌」重新做 branding：借餐饮「城市名片」战术，突破「乳鸽品类第一」的瓶颈，冲刺到「粤菜品类代表」。\n食客们店内就餐时，新品牌可以让他们感受岭南文化线索带来的城市气息。一边吃正宗的食物，一边感受地域的民艺资产，餐厅让食客在不同维度感受广州本地老字号的气息。\n就餐体验中的岭南文化符号\n食客在踏入门店之前，霓虹灯指示牌致敬传统牌匾，让人印象深刻。\n\n门口墙壁上陶瓷烧制出来的广州标识繁花似锦，传统元素媒介与内容完美融合，花城意象呼之欲出。\n\n当食客拾级而上，能看到由数…",
-          "link": "https://sspai.com/post/84928",
-          "publishedOn": "2023-12-13T03:00:00.000Z",
-          "wordCount": 674,
-          "title": "「大鸽饭」品牌设计与岭南文化符号",
-          "imageUrl": "https://cdn.sspai.com/2023/12/08/91d33131144a4fd75a656e6248010c66.png"
         }
       ]
     },
@@ -894,6 +864,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77114",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的最新研究，科学家揭开了最大类人猿步氏巨猿（Gigantopithecus blacki）灭绝之谜。步氏巨猿曾经成群结队地漫步于中国南方的喀斯特地区。步氏巨猿的直立身高可达3米，体重最大可达300公斤，是地球上有史以来体型最大的灵长类。这个“远房亲戚”在我们人类到达这片土地之前便已绝灭了。迄今，只有将近 2000 颗牙齿和4件不完整的下颌能够向人们证明步氏巨猿曾经存在。研究表明，在 29.5～21.5 万年前，正是对摄食行为和食物偏好的执着，导致步氏巨猿在面对环境改变时显得脆弱无比，并锁定了走向绝灭的命运。在步氏巨猿绝灭之前，它们在食物资源丰富且多样的森林中盛极一时。之后由于环境变得更加多样，森林群落的结构开始发生变化。它的近亲猩猩（Pongo）改变了摄食行为和栖息地偏好。但步氏巨猿没有改变，而且体型变得越来越大越来越笨重，摄食活动的地理范围也大为减少。步氏巨猿种群长期面临生存压力，且不断萎缩，最终走向绝灭。",
+          "link": "https://www.solidot.org/story?sid=77114",
+          "publishedOn": "2024-01-11T10:01:56.000Z",
+          "wordCount": 162,
+          "title": "科学家揭开最大类人猿灭绝之谜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77113",
+          "author": null,
+          "description": "联想最新的可拆卸笔记本电脑实际上是由两台电脑组成，所以它的售价是两台电脑的价格。联想在 CES 展会上展示了 ThinkBook Plus Gen 5 Hybrid 笔记本电脑，售价 2000 美元，它既是一台采用英特尔芯片的 Windows 笔电也是一部使用高通处理器的 Android 平板。其中笔电部分运行 Windows 11，使用英特尔 Core Ultra 7 处理器、32GB 内存和 1TB SSD, 英特尔集显，以及 75 Whr 电池。平板部分运行 Android 13，使用高通第一代 Snapdragon 8+ SoC，12GB 内存和 256GB UFS 3.1 存储，以及 38 Whr 电池。平板配备了 4 个  1 W 扬声器，而笔电配备了 2 个 2 W 扬声器。电脑总重 1,755 克，其中拆下的底部部分重 970 克，平板部分重 785 克。预计第二季度上市。",
+          "link": "https://www.solidot.org/story?sid=77113",
+          "publishedOn": "2024-01-11T09:55:23.000Z",
+          "wordCount": 212,
+          "title": "联想的可拆卸笔记本电脑实际上是两台电脑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77112",
+          "author": null,
+          "description": "开源免专利芯片技术 RISC-V 成为美中科技战的新战场。华盛顿过去几个月一直在讨论限制中国获取 RISC-V 技术，认为中国利用 RISC-V 绕过了美国对华芯片出口管制。上个月众议院一个委员会建议成立一个跨部门政府委员会研究 RISC-V 的潜在风险。知情人士称，英国芯片设计公司 Arm Holdings 也在游说美国官员限制 RISC-V。Arm 与 RISC-V 之间存在竞争关系。由于 RISC-V 架构是开源免专利，限制中国使用 RISC-V 技术就如同类似限制中国使用开源的 Linux，基本上是不可能的。负责 RISC-V 技术的非盈利组织的总部设在欧洲的瑞士。",
+          "link": "https://www.solidot.org/story?sid=77112",
+          "publishedOn": "2024-01-11T08:37:17.000Z",
+          "wordCount": 186,
+          "title": "美国讨论限制中国获取 RISC-V 技术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77111",
+          "author": null,
+          "description": "2017 年，Linux 内核长期支持版本（LTS）的支持时间从原来的两年增加到六年。首个获得六年支持的版本是 4.14。在六年支持之后，稳定版内核维护者 Greg Kroah-Hartman 释出了 4.14.336，这将是最后一次更新，它已被标记为 EOL (End of Life)。使用该版本的用户被鼓励升级到较新的长期支持版本。如果只能继续用 4.14，那么用户需要让供应商提供支持。去年下半年举行的开源欧洲峰会，LTS 的支持时间再次缩短到了 2 年。",
+          "link": "https://www.solidot.org/story?sid=77111",
+          "publishedOn": "2024-01-11T07:59:07.000Z",
+          "wordCount": 183,
+          "title": "Linux Kernel 4.14 在六年之后结束支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77109",
+          "author": null,
+          "description": "2023 年全球唱片业的音乐串流播放量突破了 4 万亿次，创新了新的单年纪录。全球音乐串流增长了 34%，且日益国际化。以美国为例，更多的美国人开始听非英语音乐，英语歌曲份额下降了 3.8%。美国市场最流行的三大音乐流派是：乡村乐 23.7%，拉丁乐 24.1%，包括 J-pop、K-pop 和 Afrobeats 等的世界音乐 26.2%。在拉丁音乐中墨西哥音乐点播量增长 60% 达到 219 亿次。Taylor Swift 是最受欢迎的美国音乐人，其歌曲在美国的市场份额高达 1.79%，每点播 78 首歌曲就有 1 首来自 Swift。美国前 10 张音乐专辑有 5 张来自 Swift。",
+          "link": "https://www.solidot.org/story?sid=77109",
+          "publishedOn": "2024-01-11T06:48:03.000Z",
+          "wordCount": 198,
+          "title": "2023 年音乐流媒体播放量突破 4 万亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77108",
+          "author": null,
+          "description": "微软位于北京的亚洲研究院是是世界最重要的 AI 实验室之一，但随着中美关系紧张，至少在过去一年里，微软高层——包括首席执行官萨蒂亚·纳德拉和总裁布拉德·史密斯——一直在讨论如何处理该研究院。知情人士说，美国官员质疑微软在中国维持一个 800 人规模的先进技术研究院是否合理。微软表示，它已经在该研究院设置了安全护栏，限制研究人员从事政治敏感的工作。微软还在温哥华设立了一个该研究院的分部，并将把部分研究人员从中国调到那里。关闭或转移研究院的想法已经出现，但微软领导层支持将该研究机构留在中国。知情人透露，去年秋天，微软不允许中国研究者加入可以提前使用 GPT-4 的小型团队。微软称，公司也对该研究院在量子计算、面部识别与合成媒体方面的研究工作进行了限制。",
+          "link": "https://www.solidot.org/story?sid=77108",
+          "publishedOn": "2024-01-11T06:20:55.000Z",
+          "wordCount": 162,
+          "title": "微软内部讨论转移或关闭亚洲研究院",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77107",
+          "author": null,
+          "description": "苹果从其印度 App Store 下架了币安、Kraken、火币、Gate.io、Bittrex 和 Bitfinex 等至少 9 个加密货币交易所应用。在这之前，印度政府负责调查金融交易的金融情报机构（FIU）上月底称 9 家加密货币交易所违反了该国的反洗钱规定。金融情报机构已经要求印度信息技术部在印度封锁这些交易所的网站。",
+          "link": "https://www.solidot.org/story?sid=77107",
+          "publishedOn": "2024-01-11T06:07:18.000Z",
+          "wordCount": 166,
+          "title": "苹果从印度应用商店下架币安等加密货币应用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77106",
+          "author": null,
+          "description": "Valve 宣布允许使用 AI 技术开发的游戏上架 Steam 平台。它将 AI 的使用划分为两个大类，要求游戏开发商予以披露：预生成内容，在游戏开发过程中借助 AI 工具生成的内容（艺术作品/代码/音效等）；实时生成内容，在游戏运行过程中借助 AI 工具生成的内容。Valve 还将在 Steam 上推出举报系统，让玩家可以举报游戏内违法的实时生成 AI 内容。色情游戏不在许可范围内，Valve 目前不允许 AI 实时生成成人内容。",
+          "link": "https://www.solidot.org/story?sid=77106",
+          "publishedOn": "2024-01-11T05:01:26.000Z",
+          "wordCount": 191,
+          "title": "Valve 允许使用 AI 开发的游戏上架 Steam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77105",
+          "author": null,
+          "description": "中国在美国进口商品中的占比 17 年来将首次从第一位跌落。根据美国商务部的贸易统计数据，1～11 月美国从中国的进口额比去年同期减少 20% 以上，按年度数据计算，很可能被墨西哥超过。中国将自 2006 年以来首次在年度占比中跌至第 2 位以下。1～11 月中国在美国进口总体中的占比为 13.9%，降至 2004 年以来的最低水平。美国从中国进口在 2017 年前后达到峰值，这一比例超过 21%。智能手机方面，1～11 月从中国进口同比减少 1 成，自印度进口扩大至 5 倍。笔记本电脑方面，美国从中国进口减少 3 成，越南增至 4 倍。",
+          "link": "https://www.solidot.org/story?sid=77105",
+          "publishedOn": "2024-01-10T13:53:02.000Z",
+          "wordCount": 181,
+          "title": "中国对美出口减少五分之一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77104",
+          "author": null,
+          "description": "Meta 官方博客宣布开始在 Facebook 和 Instagram 上对未成年人隐藏敏感内容。敏感主题内容被认为对青少年发育、心理和心理健康有害。被隐藏的主题包括自残、自杀、饮食失调、限制品以及裸体。Meta 表示，即使青少年关注的账号分享了敏感内容，他们也会被阻止观看。搜索敏感主题的青少年会被建议联系朋友或咨询专家。Meta 此举是因应来自政府和监管机构的压力。去年美国有 41 个州起诉 Meta 指控其利用儿童心理让其沉迷于 Facebook 和 Instagram。",
+          "link": "https://www.solidot.org/story?sid=77104",
+          "publishedOn": "2024-01-10T13:36:26.000Z",
+          "wordCount": 190,
+          "title": "Meta 开始在 Facebook 和 Instagram 上对未成年人隐藏敏感内容",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77103",
           "author": null,
@@ -3133,106 +3203,6 @@
           "wordCount": 178,
           "title": "微软想要用核能驱动其 AI 业务",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76876",
-          "author": null,
-          "description": "乌克兰最大移动运营商 Kyivstar 遭遇开战至今最大规模的网络攻击，数百万人的移动和互联网服务中断，基辅部分地区的空袭警报系统下线。Kyivstar 有 2430 万移动用户，占到了乌克兰人口总数一半以上，此外还为逾 110 万家庭提供互联网服务。这次攻击被认为源自俄罗斯，Kyivstar CEO Oleksandr Komarov 表示该公司部分 IT 基础设施遭到破坏，他们无法在虚拟层阻止攻击，只能通过物理层限制攻击。他表示两个包含客户数据的数据库被破坏，但用户个人数据没有被入侵。与此同时乌克兰也在对俄罗斯发动网络战，俄罗斯国家税务机构的数千台服务器感染了恶意软件，数据库和备份都被破坏。",
-          "link": "https://www.solidot.org/story?sid=76876",
-          "publishedOn": "2023-12-13T10:20:07.000Z",
-          "wordCount": 169,
-          "title": "乌克兰最大移动运营商遭遇至今最具有破坏性的网络攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76875",
-          "author": null,
-          "description": "Canonical 改变了旗下容器管理器项目 LXD 的许可证。在 Canonical 接管 LXD 之后，社区开发者创建了分支 Incus。Canonical 对 LXD 做出了两项改动，其一是将许可证从 Apache2 切换到 AGPLv3，其二是加入  Canonical CLA 作为所有贡献的要求。Canonical 员工向 LXD 项目贡献的代码将全部使用 AGPLv3 授权。Canonical 此举无疑会影响到仍使用 Apache2 授权的分支 Incus，如果它合并了来自 LXD 的新变动，将变成混合 Apache2 和 AGPLv3 授权代码的项目。",
-          "link": "https://www.solidot.org/story?sid=76875",
-          "publishedOn": "2023-12-13T09:14:28.000Z",
-          "wordCount": 200,
-          "title": "Canonical 改变了容器管理器项目 LXD 的许可证",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76874",
-          "author": null,
-          "description": "流媒体巨头 Netflix 首次公布了其平台今年上半年 18,214 部影视剧的观影数据：《The Night Agent》是上半年累积观影时长最多的，达到 8.121 亿小时；《Ginny & Georgia》第二季第二累积 6.651 亿小时；韩剧《The Glory》第三累积 6.228 亿小时；去年底上线的《星期三（Wednesday）》仍然高达 5.077 亿小时位居第四。Netflix 透露其原创影视剧和授权影视剧的观影时长比例为 55% 对 45%。今年 6 月上线的 Meghan Markle 主演的法律剧《金装律师 Suits》观影时长为 5.99 亿小时。Netflix 大约五分之一的\n影视剧观看次数很少。",
-          "link": "https://www.solidot.org/story?sid=76874",
-          "publishedOn": "2023-12-13T07:58:35.000Z",
-          "wordCount": 191,
-          "title": "Netflix 首次公布其平台上所有影视剧的观影数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76873",
-          "author": null,
-          "description": "《体育画报》上个月被发现发表了一篇由虚假作者署名的 AI 生成文章。虽然文章很快被撤下，但这不足以平息批评。本周《体育画报》出版商 The Arena Group 宣布董事会解雇了 CEO Ross Levinsohn。Levinsohn 自 2019 年起担任 The Arena Group CEO，此前是《洛杉矶时报》的发行人。对于 AI 文章，《体育画报》此前辩解称这篇产品评论来自第三方内容合作方 AdVon Commerce。",
-          "link": "https://www.solidot.org/story?sid=76873",
-          "publishedOn": "2023-12-13T07:04:49.000Z",
-          "wordCount": 191,
-          "title": "《体育画报》CEO 因 AI 文章丑闻被解雇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76872",
-          "author": null,
-          "description": "在多核世界里，广泛使用的开源多媒体框架 FFmpeg 准备好支持多线程了。FFmpeg 7.0 将在明年初发布，它的  CLI 多线程转码管线已经合并到了 FFmpeg Git。开发者表示，项目始于 2021 年底，几乎每一行代码都受到影响，这项工作是数十年来 FFmpeg CLI 最复杂的重构之一。开发者呼吁多多测试和报告反馈。",
-          "link": "https://www.solidot.org/story?sid=76872",
-          "publishedOn": "2023-12-13T06:43:25.000Z",
-          "wordCount": 185,
-          "title": "FFmpeg 准备加入 CLI 多线程支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76871",
-          "author": null,
-          "description": "互联网曾以免费闻名，但代价是用户被跟踪被精准广告包围。如今有钱的人有机会逃离这一切。Facebook 和 Instagram 上个月向欧洲用户提供无广告的订阅服务，每月 9.99 欧元。X/Twitter 在 10 月提供了无广告订阅服务。TikTok 也在测试无广告订阅。Snapchat 也在做类似的尝试。除了社交媒体，从视频和音频到新闻和游戏，监管和技术变革正鼓励媒体公司提供替代方案。“我们生活在一个愈来愈可能避免广告的世界。”牛津大学路透社研究所的数据显示，2014 年只有 5% 的成年人付费订阅在线新闻网站，今年这一比例提高到了 13%。同一期间，广告支持的广播逐渐被流媒体平台如 Spotify 的串流音乐和播客服务所取代，Spotify 的 5.75 亿用户中有四成每月支付 10.99 美元收听无广告节目。电视广告同样面临来自视频订阅服务的冲击。曾依赖广告的手游也逐渐转向内购和订阅。欧盟等地区的监管规定限制 18 岁以下的青少年接触广告，Snapchat 和 Meta 都逐渐让欧洲的青少年访问无广告的社交服务。广告商也在应对这一变化，它们增加了户外广告的投放，通过招募网红推销产品。",
-          "link": "https://www.solidot.org/story?sid=76871",
-          "publishedOn": "2023-12-13T06:24:14.000Z",
-          "wordCount": 182,
-          "title": "欢迎来到无广告互联网",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76870",
-          "author": null,
-          "description": "被 Broadcom 收购的 VMware 公司宣布全面拥抱订阅模式，即日起停止永久许可证销售，客户可以继续使用具有有效合同的永久许可证产品，Broadcom 将与客户合作通过“trade in（以旧换新）”将永久许可证产品换到新订阅产品。VMware 称，其旗舰企业级混合云解决方案 VMware Cloud Foundation 订阅价降低一半，推出新的面向中小企业的产品 VMware vSphere Foundation。",
-          "link": "https://www.solidot.org/story?sid=76870",
-          "publishedOn": "2023-12-13T05:08:43.000Z",
-          "wordCount": 174,
-          "title": "VMware 拥抱订阅模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76869",
-          "author": null,
-          "description": "游戏行业最大的展会 E3 游戏展宣告死亡。主办方、非盈利游戏商会 Entertainment Software Association (ESA) 正式宣布了这一消息。E3 创办于 1995 年，很长时间里是玩家最受期待的游戏展会，但过去几年因新竞争对手的出现、游戏行业主要巨头的退出、观众习惯的改变，以及新冠疫情的干扰，这些因素共同导致了 E3 的死亡。2011 年任天堂通过其 Direct 直面会开始以视频方式宣布新游戏和产品，索尼 PS 在 2018 年退出，引发了多米诺骨牌效应。E3 最后一次举办现场展会是在新冠前的 2019 年。疫情促使更多游戏公司以在线视频方式展示游戏。",
-          "link": "https://www.solidot.org/story?sid=76869",
-          "publishedOn": "2023-12-13T04:53:10.000Z",
-          "wordCount": 182,
-          "title": "E3 游戏展宣告死亡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76868",
-          "author": null,
-          "description": "中国企业正加快在越南构建供应链。来自中国的直接投资过去 11 个月增至上年同期的约 2 倍，达到 83 亿美元。比亚迪在越南投资突破 4 亿美元，天合光能投资 4.2 亿美元。这一趋势的背景是美国对中国的出口限制，以及苹果等公司的供应链转移。摩根大通认为，到 2025 年 iPad 和 Apple Watch 的约 20%、无线耳机AirPods 的约 65% 将在越南生产。负责 AirPods 代工的立讯精密工业已决定在越南北部北江省追加投资 3.3 亿美元，共雇用了 2 万多名工人。",
-          "link": "https://www.solidot.org/story?sid=76868",
-          "publishedOn": "2023-12-12T15:02:57.000Z",
-          "wordCount": 183,
-          "title": "中国企业增加在越南的投资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76867",
-          "author": null,
-          "description": "Google 公布的 2023 年度热搜榜显示，搜索最多的是新闻以色列和加沙战争，泰坦号潜水器内爆事故第二，之后是土耳其地震和两场飓风。搜索最多的名人是美国橄榄球明星 Damar Hamlin，搜索最多的已故名人是《老友记》主演 Matthew Perry，搜索最多的游戏则是《《霍格沃茨之遗》、《The Last of Us》和《Connections》，电影则是《芭比》、《奥本海默》以及印度的《Jawan》。",
-          "link": "https://www.solidot.org/story?sid=76867",
-          "publishedOn": "2023-12-12T14:55:06.000Z",
-          "wordCount": 178,
-          "title": "2023 年 Google 搜索最多的新闻是巴以冲突",
-          "imageUrl": null
         }
       ]
     },
@@ -3241,6 +3211,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/762019/",
+          "author": null,
+          "description": "透明植入物可以从大脑表面读取深层神经活动。图片来源：加州大学圣迭戈分校雅各布斯工程学院 科技日报北京 1 月 11 日电 （记者张佳欣）美国加州大学圣迭戈分校的研究人员开发出一种神经植入物。将其放置在大脑表面时，它可以读取大脑内部深处的活动信息。该技术在转基因小鼠身上进行的测试表明，研究人员离建立微\n本文链接",
+          "link": "https://news.cnblogs.com/n/762019/",
+          "publishedOn": "2024-01-11T23:42:47.000Z",
+          "wordCount": 163,
+          "title": "透明植入物可读取大脑深层神经活动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762018/",
+          "author": null,
+          "description": "科技日报北京 1 月 11 日电 （记者张梦然）大型国际专家团队分析了 34000 年前生活在西欧和亚洲的近 5000 名人类的骨骼和牙齿化石，创建出世界上最大的古人类基因库。通过对古人类 DNA 进行测序并将其与现代样本进行比较，团队绘制了基因和疾病随人口和时间推移的历史传播情况。《自然》杂志 1\n本文链接",
+          "link": "https://news.cnblogs.com/n/762018/",
+          "publishedOn": "2024-01-11T23:40:20.000Z",
+          "wordCount": 163,
+          "title": "全球最大古人类基因库创建",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762017/",
+          "author": null,
+          "description": "拖延了两个月的 ChatGPT 应用商店——GPT Store 终于上线。 北京时间 1 月 11 日凌晨，OpenAI 公司宣布，GPT Store 应用商店正式上线。与苹果 App Store 商店类似，GPT Store 中也包括下载排行榜、类别搜索，热门趋势、每周精选等栏目一应俱全。据 Op\n本文链接",
+          "link": "https://news.cnblogs.com/n/762017/",
+          "publishedOn": "2024-01-11T14:09:00.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT商店今晨上线，首批应用达300万，我们测试了五个官方推荐的应用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762016/",
+          "author": null,
+          "description": "1 月 11 日，腾讯云正式推出的“微短剧综合解决方案”，解决微短剧创业过程中的平台建设、内容运营、侵权等。方案包括内容云原生平台、生产数据分析、数据化运营与管理平台、版权保护系统、内容分发应用搭建平台等产品，打造一站式微短剧管理平台。 腾讯云“微短剧综合解决方案”依托于腾讯泛娱、广告全覆盖的内容数\n本文链接",
+          "link": "https://news.cnblogs.com/n/762016/",
+          "publishedOn": "2024-01-11T14:00:00.000Z",
+          "wordCount": 163,
+          "title": "腾讯云推出微短剧综合解决方案，助力企业探索微短剧创新",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762015/",
+          "author": null,
+          "description": "1 月 11 日，全球领先的云计算厂商阿里云宣布第八代企业级通用计算实例 ECS g8i 算力再升级，国内首发代号 Emerald Rapids 的第五代英特尔至强可扩展处理器，依托阿里云自研的「飞天 +CIPU」架构体系，ECS g8i 实例的整机性能最高提升 85%，AI 推理性能最高提升 7 \n本文链接",
+          "link": "https://news.cnblogs.com/n/762015/",
+          "publishedOn": "2024-01-11T13:50:00.000Z",
+          "wordCount": 163,
+          "title": "阿里云第八代企业级实例g8i算力升级：整机性能提升85% AI推理最高提速7倍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762014/",
+          "author": null,
+          "description": "1 月 10 日晚，360 集团创始人周鸿祎发微博称，1 月 12 日将以直播形式分享《你也可以好口才——如何演讲》。“成功的企业家几乎都是优秀的演讲者”，周鸿祎表示，自己也有不擅演讲的时候，从马云和张朝阳身上学习了技巧，希望把知识传递下去。 周鸿祎发微博称，“未来属于年轻人，特别是年轻的企业家和创\n本文链接",
+          "link": "https://news.cnblogs.com/n/762014/",
+          "publishedOn": "2024-01-11T11:17:00.000Z",
+          "wordCount": 163,
+          "title": "周鸿祎明日直播分享“如何演讲” 称希望传递知识和技巧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762013/",
+          "author": null,
+          "description": "文节点财经，作者七公 “穿一天警服，终身是正义。程兵和三大队的兄弟重新集结踏上追凶之路，在孤独和漫长的旅途中配合警方千里追凶，也在这苦行僧一样的历程中重新找到人生的坐标和生命的意义……” 2023 年尾牙之际，爱奇艺迷雾剧场出品的压轴新剧《三大队》，凭借着秦昊 + 李乃文 + 陈明昊的实力演技派组合\n本文链接",
+          "link": "https://news.cnblogs.com/n/762013/",
+          "publishedOn": "2024-01-11T11:05:00.000Z",
+          "wordCount": 163,
+          "title": "2024年，爱奇艺需要更多《狂飙》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762012/",
+          "author": null,
+          "description": "文 BT 财经，作者 梦萧 恒大汽车走到了危急存亡的十字路口。 1 月 8 日，恒大汽车发布公告称其执行董事刘永灼因涉嫌违法犯罪已被依法刑事拘留，为此恒大汽车申请了短暂交易停牌，并于当日恢复交易。 1 月 9 日深夜，中国恒大（3333.HK）发布公告，对沽空机构 GMT Research 早前发布\n本文链接",
+          "link": "https://news.cnblogs.com/n/762012/",
+          "publishedOn": "2024-01-11T10:54:00.000Z",
+          "wordCount": 163,
+          "title": "恒大汽车和难兄难弟们",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762011/",
+          "author": null,
+          "description": "文斑马消费，作者陈晓京 老树真的发新芽了。 已经 40 岁的莲花味精，突然在 2023 年接住了国货热这一泼天富贵，让自己重新翻红了。 自 1998 年上市以来，莲花味精也算是历尽劫波。外部市场严峻、内部动荡不安，更是几易其主，终于通过重整重获新生。 2023 年，莲花味精母公司莲花健康，在味精主业\n本文链接",
+          "link": "https://news.cnblogs.com/n/762011/",
+          "publishedOn": "2024-01-11T10:38:00.000Z",
+          "wordCount": 163,
+          "title": "莲花味精接住了泼天富贵",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762010/",
+          "author": null,
+          "description": "文电车通 传统车企确实有在发力。 2023 年年初，小通跟着家里人到线下店看车。当时正是过年，大多数车企的门店已经暂停营业，唯有奔驰的门店充满人气。过年还这么卷的车企实属不多。 带着新时代的眼光看奔驰，小通还对传统车企的智能化感到不屑，传统车企对新能源汽车普遍「不看好」。当时的奔驰第二代 MBUX \n本文链接",
+          "link": "https://news.cnblogs.com/n/762010/",
+          "publishedOn": "2024-01-11T10:30:48.000Z",
+          "wordCount": 163,
+          "title": "奔驰宝马「新玩意」齐上CES，但都是国产「玩剩下」的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762009/",
+          "author": null,
+          "description": "科技日报北京 1 月 10 日电 （记者刘霞）西班牙科尔多瓦大学和卡塔赫纳理工大学的科学家携手开发出一种新型电池。该电池使用血红蛋白作为电化学反应催化剂，具有生物相容性，可运行 20 到 30 天。相关论文刊发于新一期《能源&燃料》杂志。 科研团队希望验证血红蛋白是否是氧气发挥重要作用的电化学设备（\n本文链接",
+          "link": "https://news.cnblogs.com/n/762009/",
+          "publishedOn": "2024-01-11T09:51:10.000Z",
+          "wordCount": 163,
+          "title": "血红蛋白作催化剂的电池原型面世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762008/",
+          "author": null,
+          "description": "1 月 11 日消息，打印行业巨头惠普公司近日遭到集体诉讼，其被指控偷偷地在 2022 年和 2023 年通过固件更新，悄然限制用户使用非原厂墨盒，同时还提高了原厂墨盒的价格。 诉讼于 1 月 5 日提出，原告称惠普向所有注册用户推送了固件更新，“消费者无法选择退出特定的软件或固件更新，只要打印机连\n本文链接",
+          "link": "https://news.cnblogs.com/n/762008/",
+          "publishedOn": "2024-01-11T09:44:50.000Z",
+          "wordCount": 163,
+          "title": "惠普遭集体诉讼：被指偷偷更新打印机固件，逼用户购买原厂墨盒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762007/",
+          "author": null,
+          "description": "1 月 11 日消息，据媒体报道，宝马集团最有名的制造工厂—慕尼黑工厂将在 2027 年结束长达 75 年的内燃机汽车时代，全面转型生产电动汽车。 官方表示：慕尼黑工厂也将成为宝马集团现有生产网络中第一个成功完成向电动汽车转型的工厂。 据悉，此次改造共耗费了 6.5 亿欧元，包括四栋建筑，一条带有物\n本文链接",
+          "link": "https://news.cnblogs.com/n/762007/",
+          "publishedOn": "2024-01-11T09:40:14.000Z",
+          "wordCount": 163,
+          "title": "耗费6.5亿欧元！宝马慕尼黑工厂将于2027年转型生产电动汽车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762006/",
+          "author": null,
+          "description": "1 月 11 日消息，据外媒报道，在法院暂时搁置 Apple Watch Series 9 和 Apple Watch Ultra 2 在美国的进口禁令之后，苹果美国零售店和美国官网，在去年年底均已恢复销售这两款 9 月份推出的新 Apple Watch，只是短暂停售。 但正如此前所提到的一样，Ap\n本文链接",
+          "link": "https://news.cnblogs.com/n/762006/",
+          "publishedOn": "2024-01-11T09:39:10.000Z",
+          "wordCount": 163,
+          "title": "苹果新Apple Watch美国进口禁令有恢复风险 ITC反对上诉期间暂停",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762005/",
+          "author": null,
+          "description": "文董指导聊科技 如果十年前说，美团和字节必有一战，没有任何人会相信。 彼时，美团刚从“百团大战”中拼杀出来、一边抗衡大众点评，一边启动“抢滩行动”进军外卖市场；成立两年的字节旗下的今日头条，正用推荐引擎迎接媒体内容大浪潮，争抢百度的流量、纸媒的生意。 如果五年前说，美团和字节必有一战，大部人也不会相\n本文链接",
+          "link": "https://news.cnblogs.com/n/762005/",
+          "publishedOn": "2024-01-11T09:34:29.000Z",
+          "wordCount": 163,
+          "title": "美团何时见底？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762004/",
+          "author": null,
+          "description": "腾讯新闻《潜望》 纪振宇发自硅谷，腾讯科技郭晓静 OpenAI 下一个大动作终于落地。美国时间 1 月 10 日，OpenAI 官宣 GPT 商店上线，在当天的官方声明中，OpenAI 表示，自从 GPT 商店在去年 11 月份公布以来的两个多月的时间，用户已经创建了超过 300 万自定义的 Cha\n本文链接",
+          "link": "https://news.cnblogs.com/n/762004/",
+          "publishedOn": "2024-01-11T09:31:19.000Z",
+          "wordCount": 163,
+          "title": "GPT商店正式上线！OpenAI打造人工智能应用生态迈出第一步",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762003/",
+          "author": null,
+          "description": "根据洛图科技的最新数据，2023 年前三季度，全球投影机市场出货量达到 1350 万台，同比增长 4.5%，具体到品牌市占率方面，全球投影机市场 TOP4 品牌为爱普生、极米、坚果和优派，其中，排名靠前的中国品牌极米市场份额为 5.1%。 1 月 10 日，极米推出投影新品 RS 10 Ultra、\n本文链接",
+          "link": "https://news.cnblogs.com/n/762003/",
+          "publishedOn": "2024-01-11T06:45:00.000Z",
+          "wordCount": 163,
+          "title": "极米发布RS 10 Ultra投影机，三色激光显示已成为行业主流",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762001/",
+          "author": null,
+          "description": "近日，思科修补了一个关键的 Unity Connection 安全漏洞，该漏洞可让未经认证的攻击者在未打补丁的设备上远程获得 root 权限。 Unity Connection 是一个完全虚拟化的消息和语音邮件解决方案，适用于电子邮件收件箱、Web 浏览器、Cisco Jabber、Cisco Un\n本文链接",
+          "link": "https://news.cnblogs.com/n/762001/",
+          "publishedOn": "2024-01-11T06:30:00.000Z",
+          "wordCount": 163,
+          "title": "思科又曝一严重漏洞，可被黑客利用获取 root 权限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762002/",
+          "author": null,
+          "description": "文雷达财经，作者肖洒，编辑深海 京东控股子公司达达，突然“做空”了自己。 日前，达达集团发布公告称，公司在例行内部审计中发现了一些可疑的做法，可能会导致公司 2023 年在线广告和营销服务的一些收入存疑。同时，京东也公告了相似内容，并称达达审计委员会决定开展独立审查，并将由独立专业顾问协助进行。 受\n本文链接",
+          "link": "https://news.cnblogs.com/n/762002/",
+          "publishedOn": "2024-01-11T06:15:00.000Z",
+          "wordCount": 163,
+          "title": "达达“曝家丑”，京东受伤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/761999/",
+          "author": null,
+          "description": "文正见 TrueView 回顾 2023，变化和不确定性依旧是新常态，想象中的逆风翻盘并没有如期到来，年初人们的乐观情绪到了年末已消减许多。 黑天鹅事件频繁在 2023 的商业世界上演，剧烈变革不断发生。旧的规则在瓦解，新的秩序在重建，几乎所有企业都在调整和重构。巨头如阿里、腾讯，不断通过降本增效，\n本文链接",
+          "link": "https://news.cnblogs.com/n/761999/",
+          "publishedOn": "2024-01-11T06:00:00.000Z",
+          "wordCount": 163,
+          "title": "2023，掌声属于谁？",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/761958/",
           "author": null,
@@ -8089,186 +8259,6 @@
           "publishedOn": "2023-12-13T13:07:51.000Z",
           "wordCount": 163,
           "title": "阿里电商集中发力 AI：淘天设立 4 个团队，国际商业团队超百人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759375/",
-          "author": null,
-          "description": "社交平台 Soul 正式上线自研语言大模型 SoulX。作为生成式人工智能最基础、最核心的工具，SoulX 将作为 Soul “AIGC + 社交” 布局的重要基建，垂直应用于平台上多元社交互动场景，例如智能对话机器人 “AI 苟蛋”、AI 辅助聊天、虚拟陪伴等诸多工具和创新功能，进一步丰富平台用户\n本文链接",
-          "link": "https://news.cnblogs.com/n/759375/",
-          "publishedOn": "2023-12-13T13:04:18.000Z",
-          "wordCount": 163,
-          "title": "Soul 上线自研语言大模型 SoulX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759374/",
-          "author": null,
-          "description": "快科技 12 月 13 日消息，此前有媒体报道，奇瑞汽车将于明年提交 IPO 申请。 随后，奇瑞在接受媒体采访时表示：“公司是在积极准备上市，但其余信息都不准确。” 据此前透露的消息来看，IDG 资本正考虑以人民币 70 亿元的价格，从现有股东手中收购奇瑞控股集团有限公司的部分股份。 奇瑞控股集团有\n本文链接",
-          "link": "https://news.cnblogs.com/n/759374/",
-          "publishedOn": "2023-12-13T13:03:30.000Z",
-          "wordCount": 163,
-          "title": "奇瑞汽车回应IPO传闻：正积极准备上市 但其他信息均不准确",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759373/",
-          "author": null,
-          "description": "微软宣布推出一个 27 亿参数的语言模型 Phi-2，并声称其性能可与大 25 倍的模型相匹配或优于。“展示了出色的推理和语言理解能力，展示了参数少于 130 亿的基础语言模型中最先进的性能。” 其基准测试结果表明，只需 27 亿个参数，Phi-2 就能在各种综合基准测试中超越 Mistral 和 \n本文链接",
-          "link": "https://news.cnblogs.com/n/759373/",
-          "publishedOn": "2023-12-13T12:56:13.000Z",
-          "wordCount": 163,
-          "title": "微软推出小模型 Phi-2，性能优于 Llama 2/Mistral 7B",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759372/",
-          "author": null,
-          "description": "华为官方宣布，鸿蒙智行 App 正式发布，可前往华为应用市场、App Store 等各大应用市场下载体验。 这款 App 作为一个综合性的平台，提供了丰富的功能，包括官方资讯、订车购车、智能车控、充电服务以及精选购物等。 用户可以通过这款 App 远程操控汽车，例如锁车、控制车窗和后备箱、调节空调等\n本文链接",
-          "link": "https://news.cnblogs.com/n/759372/",
-          "publishedOn": "2023-12-13T12:55:15.000Z",
-          "wordCount": 163,
-          "title": "华为鸿蒙智行App正式上线 集成资讯、购车、远控等功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759371/",
-          "author": null,
-          "description": "12 月 13 日消息，据外媒报道，传闻已久的特斯拉在墨西哥建设超级工厂一事，在今年 3 月 1 日得到确定，在当天的特斯拉年度投资者日活动上，CEO 马斯克确认他们将在墨西哥新莱昂州建厂，用于生产下一代的电动汽车。 虽然特斯拉方面尚未公布墨西哥超级工厂的规模及开始建设和投产的时间，但在此前的报道中\n本文链接",
-          "link": "https://news.cnblogs.com/n/759371/",
-          "publishedOn": "2023-12-13T12:53:19.000Z",
-          "wordCount": 163,
-          "title": "特斯拉墨西哥超级工厂已获得土地使用许可",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759370/",
-          "author": null,
-          "description": "12 月 13 日消息，据外媒报道，知情人士透露，埃隆·马斯克旗下社交媒体平台X（前身为推特）预计将在 2023 年获得 25 亿美元广告收入，与 2022 年的 40 多亿美元相比，同比下降 37.5%，也低于其 30 亿美元的初始目标。 2022 年 10 月份，马斯克以 440 亿美元价格收购\n本文链接",
-          "link": "https://news.cnblogs.com/n/759370/",
-          "publishedOn": "2023-12-13T12:51:41.000Z",
-          "wordCount": 163,
-          "title": "消息称社交平台X预计将在2023年获得25亿美元广告收入 同比下降约40%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759369/",
-          "author": null,
-          "description": "12 月 13 日消息，据外媒报道，周二，印度卡纳塔克邦政府在一份声明中表示，富士康计划在卡纳塔克邦追加投资 1391.1 亿卢比(16.7 亿美元)，这笔额外的投资将用于在 Devanahalli Taluk 建设一家新的制造工厂。 富士康组装了约 70% 的 iPhone，是全球最大的合同制造商\n本文链接",
-          "link": "https://news.cnblogs.com/n/759369/",
-          "publishedOn": "2023-12-13T12:50:35.000Z",
-          "wordCount": 163,
-          "title": "富士康计划在印度卡纳塔克邦追加投资1391亿卢比",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759368/",
-          "author": null,
-          "description": "12 月 13 日消息，据外媒报道，在三星、华为等厂商相继推出多款可折叠屏智能手机之后，也传出了苹果研发折叠屏 iPhone、iPad Pro 及笔记本电脑的消息，早在 2020 年年底，就有消息称苹果已将可折叠屏 iPhone 相关的部件样品送往富士康进行测试，要求进行超过 10 万次的折叠测试。\n本文链接",
-          "link": "https://news.cnblogs.com/n/759368/",
-          "publishedOn": "2023-12-13T12:49:58.000Z",
-          "wordCount": 163,
-          "title": "三星显示增强苹果业务团队 将研发可折叠显示屏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759367/",
-          "author": null,
-          "description": "《体育画报》上个月被发现发表了一篇由虚假作者署名的 AI 生成文章。虽然文章很快被撤下，但这不足以平息批评。本周《体育画报》出版商 The Arena Group 宣布董事会解雇了 CEO Ross Levinsohn。Levinsohn 自 2019 年起担任 The Arena Group CE\n本文链接",
-          "link": "https://news.cnblogs.com/n/759367/",
-          "publishedOn": "2023-12-13T12:48:29.000Z",
-          "wordCount": 163,
-          "title": "《体育画报》CEO 因 AI 文章丑闻被解雇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759366/",
-          "author": null,
-          "description": "互联网曾以免费闻名，但代价是用户被跟踪被精准广告包围。如今有钱的人有机会逃离这一切。Facebook 和 Instagram 上个月向欧洲用户提供无广告的订阅服务，每月 9.99 欧元。X/Twitter 在 10 月提供了无广告订阅服务。TikTok 也在测试无广告订阅。Snapchat 也在做类\n本文链接",
-          "link": "https://news.cnblogs.com/n/759366/",
-          "publishedOn": "2023-12-13T12:47:14.000Z",
-          "wordCount": 163,
-          "title": "欢迎来到无广告互联网",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759365/",
-          "author": null,
-          "description": "流媒体巨头 Netflix 首次公布了其平台今年上半年 18,214 部影视剧的观影数据：《The Night Agent》是上半年累积观影时长最多的，达到 8.121 亿小时；《Ginny & Georgia》第二季第二累积 6.651 亿小时；韩剧《The Glory》第三累积 6.228 亿小\n本文链接",
-          "link": "https://news.cnblogs.com/n/759365/",
-          "publishedOn": "2023-12-13T12:42:19.000Z",
-          "wordCount": 163,
-          "title": "Netflix 首次公布其平台上所有影视剧的观影数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759364/",
-          "author": null,
-          "description": "GameLook 报道/上周五，字节跳动旗下巨量引擎发布了其每月更新的 23 年 12 月游戏行业月报，其中除了对 12 月游戏行业的各种广告投放方向和趋势进行了剖析，还公布了一些广告投放的新点位，就比如抖音的 PC 端。 月报显示，就在 11 月，抖音 PC 端的信息流/banner 位等资源位首\n本文链接",
-          "link": "https://news.cnblogs.com/n/759364/",
-          "publishedOn": "2023-12-13T07:17:00.000Z",
-          "wordCount": 163,
-          "title": "全平台游戏福音？抖音开卖PC端游戏广告，CPT计价、网易成首位客户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759313/",
-          "author": null,
-          "description": "出品丨虎嗅汽车组 作者丨周到 头图丨视觉中国 在中国境内经营的汽车企业，似乎从来没有像今天这样，取得了如此一致的共识。 从 2023 年 11 月底开始，华为拆分车 BU（智能汽车解决方案 BU 的简称）并成立智能汽车软件和零部件公司的消息，开始成为中国汽车行业持续发酵的重磅信息，而长安汽车就成为了\n本文链接",
-          "link": "https://news.cnblogs.com/n/759313/",
-          "publishedOn": "2023-12-13T00:49:00.000Z",
-          "wordCount": 163,
-          "title": "揭秘：华为在中国车界的攒局能力从何而来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759312/",
-          "author": null,
-          "description": "北京商报讯（记者何倩乔心怡）12 月 12 日，2023 年亚马逊全球开店跨境峰会在深圳举行。在峰会中，亚马逊全球开店宣布亚马逊供应链整体解决方案（Supply Chain by Amazon）正式向中国卖家开放。据了解，此次向中国卖家开放的亚马逊供应链整体解决方案，整合了亚马逊全球物流（AGL）、\n本文链接",
-          "link": "https://news.cnblogs.com/n/759312/",
-          "publishedOn": "2023-12-13T00:45:00.000Z",
-          "wordCount": 163,
-          "title": "亚马逊供应链整体解决方案正式向中国卖家开放",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759311/",
-          "author": null,
-          "description": "12 月 13 日消息，据知情人士透露，2023 年，埃隆·马斯克（Elon Musk）旗下的社交网络X的广告收入约为 25 亿美元，与前几年相比大幅下滑。 消息人士称，X今年前三个季度的广告收入每季略高于 6 亿美元，预计第四季度也差不多。相比之下，2022 年每个季度的收入都超过 10 亿美元。\n本文链接",
-          "link": "https://news.cnblogs.com/n/759311/",
-          "publishedOn": "2023-12-13T00:42:00.000Z",
-          "wordCount": 163,
-          "title": "传2023年X广告收入预计25亿美元，较去年下降约40%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759310/",
-          "author": null,
-          "description": "2023 年要结束了，但价格战还没结束。 文丨赵宇 编辑丨王海璐黄俊杰 定价权是品牌最重要的资产。巴菲特曾说：“如果你有能力提高价格而不会输给竞争对手，那么你的生意就非常好。如果你必须在将价格提高 10% 之前就向天祈祷，那么你的生意就很糟糕。” 在 2023 年的中国汽车市场，如果一个品牌只降价 \n本文链接",
-          "link": "https://news.cnblogs.com/n/759310/",
-          "publishedOn": "2023-12-13T00:40:43.000Z",
-          "wordCount": 163,
-          "title": "汽车价格战持续一年，没有赢家",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759309/",
-          "author": null,
-          "description": "DeWave 模型通过从大量的脑电图数据中学习，将脑电图信号翻译成单词和句子。图为研究人员正在测试 DeWave 模型。图片来源：悉尼科技大学 科技日报北京 12 月 12 日电 （记者刘霞）据物理学家组织网 11 日报道，澳大利亚悉尼科技大学科学家开发出了首款便携式、非侵入性的人工智能系统，可解码\n本文链接",
-          "link": "https://news.cnblogs.com/n/759309/",
-          "publishedOn": "2023-12-13T00:35:44.000Z",
-          "wordCount": 163,
-          "title": "便携式AI系统可将大脑思想翻译成语言",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/759308/",
-          "author": null,
-          "description": "出品虎嗅青年文化组 作者木子童 编辑、制图丨渣渣郡 本文首发于虎嗅年轻内容公众号“那個 NG”（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 疫情结束后光速回归工作常态的我们或许未曾注意，在东亚之外的更多地方，“常态”从未回归。 虽然大流行已然停歇，但很多人仍然维持\n本文链接",
-          "link": "https://news.cnblogs.com/n/759308/",
-          "publishedOn": "2023-12-12T14:28:00.000Z",
-          "wordCount": 163,
-          "title": "远程工作一年后，大公司开始反悔",
           "imageUrl": null
         }
       ]
