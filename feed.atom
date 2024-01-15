@@ -2,10 +2,171 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T01:10:26.388Z</updated>
+    <updated>2024-01-15T01:07:56.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微博出现大批AI机器人受害者]]></title>
+        <id>https://news.cnblogs.com/n/762119/</id>
+        <link href="https://news.cnblogs.com/n/762119/"/>
+        <updated>2024-01-15T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[丰色克雷西发自凹非寺 量子位公众号 QbitAI 谁，还不知道“评论罗伯特”？ 一个活跃在微博平台的“赛博 gai 溜子”“不知疲倦显眼包”。 每天就是乱闯各种微博评论区，留下一条条瞠目结舌、震惊八方的言论。 受害者数量之多、面积之广大，以至于都成立了一个“联盟”。 这不，有人分享毛绒玩具的尾巴好像
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型恋爱神器！16种MBTI自由定制，北大ChatLaw团队出品]]></title>
+        <id>https://news.cnblogs.com/n/762118/</id>
+        <link href="https://news.cnblogs.com/n/762118/"/>
+        <updated>2024-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jiaxi 投稿自凹非寺 量子位公众号 QbitAI 北大团队新作，让大模型拥有个性！ 而且还是自定义那种，16 种 MBTI 都能选。 这样一来，即便是同一个大模型，不同性格下的回答都不一样。 比如提问：你周末喜欢干什么？ ENFP 的大模型会说：喜欢参加社交活动，结识新朋友。 INFJ 的大模型
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 展示 X-59 Quess 低音爆超音速飞机]]></title>
+        <id>https://www.solidot.org/story?sid=77130</id>
+        <link href="https://www.solidot.org/story?sid=77130"/>
+        <updated>2024-01-14T16:05:46.000Z</updated>
+        <summary type="html"><![CDATA[NASA 正式展示了由洛克希德马丁著名的臭鼬工厂设计的 X-59 Quess 低音爆超音速飞机。它设计能突破音速但同时不会有超音速飞机通常会产生的音爆。Quest 会产生更安静的“砰砰声”，类似室内听到关车门的声音。如果 X-59 成功它有望对超音速飞行和航空业产生革命性影响。X-59 的外形设计减少飞机产生的音爆，它没有前向窗户，而是通过摄像头和显示屏为飞行员提供飞机前方的增强现实的外部视觉系统。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客能感染联网扳手安装恶意软件]]></title>
+        <id>https://www.solidot.org/story?sid=77129</id>
+        <link href="https://www.solidot.org/story?sid=77129"/>
+        <updated>2024-01-14T15:45:59.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 Nozomi 的研究人员发现了 23 个漏洞，允许黑客破坏联网的博世力士乐（Bosch Rexroth）手持螺帽扳手 NXA015S-36V-B。工程师使用该设备将螺栓等扭紧到精确的扭矩水平，这对设备的安全性和可靠性至关重要，如果太松的话设备可能会过热甚至起火，太紧的话可能会失效。研究人员称，黑客能利用漏洞安装恶意程序，能导致整个设备组停止工作，或者扭的太松或太紧，但设备的显示屏却显示一切正常。博世力士乐表示他们在数周前收到了漏洞报告，计划在 2024 年 1 月下旬发布补丁。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究称指纹并非是独一无二的]]></title>
+        <id>https://www.solidot.org/story?sid=77128</id>
+        <link href="https://www.solidot.org/story?sid=77128"/>
+        <updated>2024-01-14T15:09:15.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Science Advances》期刊上的一项研究，哥伦比亚大学的研究人员在 AI 帮助下发现指纹并非是独一无二的。领导这项研究是的一位计算机科学系的本科生 Gabe Guo，他的导师 Wenyao Xu 也是署名作者之一。研究团队利用了被称为深度对比网络（deep contrastive network）的 AI 模型，该模型常被用于面部识别等任务。他们使用了美国政府数据库中的 6 万对指纹，指纹或属于同一人或不同的人。他们的 AI 系统发现同一个人的不同指纹有着强相似性，因此能辨别指纹是否属于同一个人或不同的人。Guo 解释说，原因是指纹中心的角度和曲率。其他科学家对他们的发现不以为然，认为他们只是发现了已知的现象。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《西游记》把大模型给难倒了]]></title>
+        <id>https://news.cnblogs.com/n/762117/</id>
+        <link href="https://news.cnblogs.com/n/762117/"/>
+        <updated>2024-01-14T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[衡宇发自凹非寺 量子位公众号 QbitAI 问：《西游记》里，总共提到过孙悟空这只猴多少次？ 咱问了问 ChatGPT，ChatGPT 连连摇头，说《西游记》篇幅太长，它统计不出来。 不死心，又把这个问题问向了 Claude。 Claude 频频摆手，说因为不具备完整阅读和分析长篇文学作品的能力，无
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT Store上线即乱：山寨、刷量、违禁内容层出]]></title>
+        <id>https://news.cnblogs.com/n/762116/</id>
+        <link href="https://news.cnblogs.com/n/762116/"/>
+        <updated>2024-01-14T12:45:09.000Z</updated>
+        <summary type="html"><![CDATA[金磊西风发自凹非寺 量子位公众号 QbitAI 万万没想到，刚开业的 GPT Store，竟是以“乱”出名的。 这不，在“趋势榜（Trending）”中，赫然出现了一个名为New GPT-5的应用，而且是位居第一的那种。 然而，眼尖的网友立马发现了端倪——假的！ OpenAI 官方这边，对这事处理的
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1400元巴掌大小AI硬件，首日卖光1万台！吕骋归来：要干翻所有App]]></title>
+        <id>https://news.cnblogs.com/n/762115/</id>
+        <link href="https://news.cnblogs.com/n/762115/"/>
+        <updated>2024-01-14T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[衡宇发自凹非寺 量子位公众号 QbitAI 不出所料，果然有 AI 硬件炸场 CES 2024！ 这款 AI 掌机名叫 Rabbit R1，誓要干掉 App 应用（There is no need for an app for that）。 预售价 199 美元（约 1425 元），具体长相嘛，就像
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[舌控“鼠标”火爆CES！能打字能剪视频，网友：哪能买到，急]]></title>
+        <id>https://news.cnblogs.com/n/762114/</id>
+        <link href="https://news.cnblogs.com/n/762114/"/>
+        <updated>2024-01-14T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[西风发自凹非寺 量子位公众号 QbitAI 前所未闻，用舌头也能玩电脑手机了！ 自然不是直接舔屏（手动狗头）。 而是这样婶儿的，放飞双手、面无表情就能控制屏幕： 还能精准调用键盘打字，查地图等常规操作都不是问题： 甚至还能用来剪视频： 破案了，原来是嘴里戴了这么一个“牙套鼠标”： 它的名字叫做Mou
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球首款「脱手脱眼」智能重卡来了！]]></title>
+        <id>https://news.cnblogs.com/n/762113/</id>
+        <link href="https://news.cnblogs.com/n/762113/"/>
+        <updated>2024-01-14T04:17:00.000Z</updated>
+        <summary type="html"><![CDATA[贾浩楠发自凹非寺 量子位公众号 QbitAI 全球首款具备脱手脱眼能力的智能重卡来了！ 有啥用？ 以前的辅助驾驶让卡车司机变“安全员”，现在是人机轮替驾驶，妥妥的第二驾驶员。 意味着司机出车工作更轻松，单人单车能承运的路线长度，也比以往大幅增长，这意味着货主更低的成本，驾驶员更高的收入—— 正是物流
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型应用，最重要的是逻辑推理能力｜面壁智能李大海@MEET2024]]></title>
+        <id>https://news.cnblogs.com/n/762112/</id>
+        <link href="https://news.cnblogs.com/n/762112/"/>
+        <updated>2024-01-14T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[编辑部整理自 MEET2024 量子位公众号 QbitAI “一个法律案件的事实是否清晰，与法条之间的关系如何判定，全部都在讲求逻辑。” 在 MEET2024 智能未来大会现场，面壁智能联合创始人、CEO 李大海谈到大模型在法律行业的落地时强调了逻辑推理能力的重要性。 他认为，AGI 革命是与蒸汽革
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[效果超越Gen-2！字节最新视频生成模型，一句话让绿巨人戴VR眼镜]]></title>
+        <id>https://news.cnblogs.com/n/762111/</id>
+        <link href="https://news.cnblogs.com/n/762111/"/>
+        <updated>2024-01-14T03:27:02.000Z</updated>
+        <summary type="html"><![CDATA[白交发自凹非寺 量子位公众号 QbitAI 一句话，就让绿巨人戴上 VR 眼镜。 4K 画质那种。 熊猫的奇幻漂流~ 这是字节最新的 AI 视频生成模型MagicVideo-V2，各种奇思妙想的想法都能实现。它不仅支持 4K、8K 超高分辨率，轻松 hold 各种绘图风格。 测评效果超过 Gen-2
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贾扬清创业新动作：推出AIGC提示工具，几个字玩转SDXL，细节拉满]]></title>
+        <id>https://news.cnblogs.com/n/762110/</id>
+        <link href="https://news.cnblogs.com/n/762110/"/>
+        <updated>2024-01-14T03:12:42.000Z</updated>
+        <summary type="html"><![CDATA[白交发自凹非寺 量子位公众号 QbitAI 提示词不会写没关系，AI 来帮你搞定。 贾扬清团队 LeptonAI 最新推出的 AIGC 提示工具——PromptLLM。 只需短短几个字提示，就能收获一张细节感满满的绘图。 比如鹦鹉吃胡萝卜。 关键这 AI 还不是随便写写，甚至还有那么点常识在。 比如
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打工人电脑该换了！自带AI键：周报总结、PPT配图一键搞定]]></title>
+        <id>https://news.cnblogs.com/n/762109/</id>
+        <link href="https://news.cnblogs.com/n/762109/"/>
+        <updated>2024-01-14T03:02:11.000Z</updated>
+        <summary type="html"><![CDATA[允中发自 CES2024 量子位公众号 QbitAI CES，全球最大消费带电子展，2024 年完全进入了 AI 时间。 几乎所有的展出，都在演示 AI 将如何与硬件结合，改变我们的生活、工作和娱乐，变革我们的现在和未来。 但其中，现场最热、最受关注的却是一个“老产品”——PC，个人电脑。 每个人学
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果早在 2019 年就知道 AirDrop 能被溯源]]></title>
+        <id>https://www.solidot.org/story?sid=77126</id>
+        <link href="https://www.solidot.org/story?sid=77126"/>
+        <updated>2024-01-13T15:21:51.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 的 AirDrop 功能允许在苹果设备之间匿名共享文件，无需通过互联网。但 AirDrop 并不能真正做到匿名，而苹果早在 2019 年就知道 AirDrop 能被溯源。德国达姆施塔特工业大学的研究人员在 2019 年发现了漏洞，研究人员表示当时就向苹果递交了报告，苹果安全团队也承认收到了报告，但它看来并没有采取行动修补漏洞。研究人员在 2021 年发布了修补方法，但苹果并没有实现。德国安全研究员 Alexander Heinrich 称，北京网神洞鉴司法鉴定所使用了他们在 2019 年发现的相同技术。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究发现在美最高法院推翻罗诉韦德案后想要孩子的密歇根成年人减少了]]></title>
         <id>https://www.solidot.org/story?sid=77125</id>
@@ -10014,363 +10175,6 @@ Edge市场(https://microsoftedge.microsoft.com/addons/detail/tabs-fast-easy/lmad
         <link href="https://www.solidot.org/story?sid=76900"/>
         <updated>2023-12-16T14:11:44.000Z</updated>
         <summary type="html"><![CDATA[TikTok 母公司字节跳动一直秘密使用 OpenAI 的技术开发其代号为 Project Seed 的大模型。这种做法在 AI 领域通常被认为是令人尴尬的，也违反了 OpenAI 的服务条款——禁止将其模型输出用于开发竞争的 AI 模型。字节跳动的内部文件证实，在大模型开发的几乎每一个阶段，该公司都依赖于 OpenAI API。字节跳动员工在内部通信平台飞书中甚至讨论了“数据脱敏”。字节跳动员工经常达到 OpenAI API 的限额。在报道发表之后，OpenAI 发言人表示已经封锁了字节跳动的账号。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox Android 版支持逾 450 个扩展]]></title>
-        <id>https://www.solidot.org/story?sid=76899</id>
-        <link href="https://www.solidot.org/story?sid=76899"/>
-        <updated>2023-12-16T10:29:13.000Z</updated>
-        <summary type="html"><![CDATA[Firefox 的 Android 版本开始支持逾 450 个扩展，涵盖了反跟踪隐私保护、广告拦截器、生产力工具、串流音乐、用户界面个性化等各个方面，允许用户根据需要定制移动浏览器。Android 版 Firefox 此前只支持有限的几个扩展，主要是屏蔽广告的 uBlock Origin。今年 8 月 Mozilla 宣布完成了支持开放扩展生态系统所需的基础设施建设，开始逐渐对 Android 用户开放更多浏览器扩展。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temu们围攻亚马逊：一场或被低估的错位竞争]]></title>
-        <id>https://news.cnblogs.com/n/759551/</id>
-        <link href="https://news.cnblogs.com/n/759551/"/>
-        <updated>2023-12-16T09:31:32.000Z</updated>
-        <summary type="html"><![CDATA[文｜财经故事荟，作者｜王舒然，编辑｜万天南 在外界将 Temu 联想成亚马逊“你死我活”般的劲敌时，亚马逊对这位对手的态度却似乎有些“暧昧”。 亚马逊甚至大方为 Temu 导流。 Temu App 的下载链接就挂在亚马逊的 App 商店中，并且很多评论上写着价格比亚马逊便宜很多，这种做法让人直呼“格
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知乎“倒爷”，折射文字社区20年浮沉]]></title>
-        <id>https://news.cnblogs.com/n/759550/</id>
-        <link href="https://news.cnblogs.com/n/759550/"/>
-        <updated>2023-12-16T09:23:29.000Z</updated>
-        <summary type="html"><![CDATA[文｜吴怼怼，作者｜斯维奇 “在领悟什么道理后，你的人生开始轻松起来？” “什么算是人生的顶级享受？” “你最意外的一笔收入是什么？” 这些高赞问答经过一批知乎「倒爷」截图发上小红书，零成本吸引流量，运营得风生水起。 一天数篇，这样经过检验的优质内容总会有一篇被大数据送到合适的受众手中，分分钟浏览量破
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B站：赚钱有限，想象力无限]]></title>
-        <id>https://news.cnblogs.com/n/759549/</id>
-        <link href="https://news.cnblogs.com/n/759549/"/>
-        <updated>2023-12-16T09:21:53.000Z</updated>
-        <summary type="html"><![CDATA[文伯虎财经，作者梦得 2022 年 3 月陈睿首次提出，公司要在 2024 年实现盈亏平衡，而这需要B站三大创收业务，游戏、直播和广告齐头并进。但现在的情况是，前路未卜。 11 月 29 日，B站发布了 2023 年第三季度业绩。财报显示，本季度B站营收 58.1 亿元人民币，与 2022 年同期持
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哀悼 ！中国计算机视觉领军者、商汤创始人汤晓鸥去世]]></title>
-        <id>https://news.cnblogs.com/n/759548/</id>
-        <link href="https://news.cnblogs.com/n/759548/"/>
-        <updated>2023-12-16T08:37:46.000Z</updated>
-        <summary type="html"><![CDATA[作者丨王悦 编辑丨陈彩娴 12 月 16 日中午，AI 科技评论获悉：上海人工智能实验室主任、商汤科技创始人、香港中文大学信息工程学系教授汤晓鸥去世。 经多位独立信源确认，此消息属实，目前等待官方发布讣告。 20 世纪 60 年代末，汤晓鸥出生于辽宁鞍山，1996 年博士毕业之后，他回国在香港中文大
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作是狗娘·i人的自我充电]]></title>
-        <id>https://sspai.com/post/85009</id>
-        <link href="https://sspai.com/post/85009"/>
-        <updated>2023-12-16T03:39:02.000Z</updated>
-        <summary type="html"><![CDATA[本文参加「放轻松」征文活动
-身为一个i人，上班是一种煎熬；而身为一个绝不想被人控制的INTJ，听控制欲极强的领导发不合理的号、施不科学的令，那真无异于酷刑。
-当你发现这个世界就是一个巨大的草台班子，你的努力似乎只是一种可笑的自我催眠时，下班飞奔回家后的时光就是每天的曙光。
-压力山大怎么解压？
-写日记
-正经人谁会写日记啊？但是！打工人哪有不疯的！！！
-日记、手帐，在工作后逐一拾起。其实初二开始写日记，没有间断地写到高三。大学后似乎压力没有那么大了，人也懒了，生活也丰富了，日记便第一个被我放弃。工作三年后，不满于成年人世界的残酷现实，开始重拾日记，此时的我更注重书写体验，就图一个开心！
-Moleskine的周记本和灯塔的横间笔记本
-收破烂
-我最近一段时间迷上了收破烂然后进行改造，什么保温袋、咖啡杯套、吃完的坚果盒、硬纸壳子，都是我的收藏对象。
-我的本职工作是法务，枯燥无聊，所以我特别享受拿到一个破烂儿然后奇思妙想把它改造成可用之物的过程。我也大言不惭地向同事们收集他们点咖啡后要扔的袋子、杯套。
-咖啡杯套
-我是一个实用主义，所以网上那种把咖啡杯套组合成五角星、把咖啡杯套剪下来做拼贴画的用法实难合我心意。咖啡杯套在我家的用法是作为分隔收纳的分隔，辅以曲别针组合，收纳能力立马up up！
-
- 
-咖啡袋
-上个月我终于拥有了我的飘窗书桌，不用再和家属抢桌子用了！我对收纳分区分类很痴迷，所以我自己的抽屉内部分区一定要合理！一个大抽屉随便放东西的话其实放不了多少，但是如果分隔开，每个东西都在自己的小隔间里，收纳能力就很强了。所以我用咖啡袋做了抽屉的分区收纳，目前还没有足够多的东西填满，但是这个分区很合理，我超级满意！
-
-好看的咖啡袋还有一个妙用，就是做纸巾盒。同事点的皮耶和V&A联名咖啡，袋子被我做成了纸巾盒，教程网上随便一搜就有。但是我最为得意的点在于，我用2023年台历的小磁铁贴在了纸巾盒里面，直接上墙1节省桌面空间！这要是网上买一个磁吸纸巾盒，还这么好看，没60下不来吧！
-
-保温袋
-说到保温袋，可真的是人类之光！放在冰箱里面做分区收纳有三大好处：收纳力强、方便打扫、延缓蔬果的保鲜期。
-
-洗衣凝珠盒
-洗衣凝珠盒带盖，加配子母扣，真的是很不错的收纳小盒！盖子防尘，子母扣方便拿取更换。我会用贴纸或者丙烯马克笔涂鸦来进行进一步的改造，身价瞬间翻几倍！
-书桌旁边的小小杂物桶
-各类纸盒
-
- 
-
-零食塑料/铁盒
-
- 
-象牌气泡水瓶
-气泡水玻璃瓶的用法可以说是太广泛了！搭配不同的盖儿、头儿就能改造很多东西。以前租房的时候搭配油壶嘴，就是调料瓶，全部统一，强迫症福音。最重要的是用脏了不用洗，直接丢掉换新的！
-搬进自己的新家之后买了山姆的重力油瓶，但是使用感说实话还不如以前的象牌自制调料瓶，只不过花重金买的，暂时就先不换了。
-不过气泡水瓶依然可以改造：
-
- 
-身不由己的成年人世界，是晚上飞机落地之后还得继续强颜欢笑附和着领导哈哈哈，然后再说些言不由衷的屁话惹领导哈哈哈。
-坐上出租车后一秒冷脸，怒视着看不到尽头的夜色，心里骂着没有客体的脏话。
-但早有过来人告诉你，哪里都是一样的，我们都终将在这个操蛋的世界里被激怒，再慢慢平静地接受这一切愤怒，慢慢理所应当，活在这个莫名其妙的成人世界里。
-无论在哪里，都有一样的权力争夺，一样的桃色新闻，一样的勾心斗角，一样的虚伪逢迎。你没得选择，你只能选择是认怂还是跟这个世界对着干、然后承担胳膊拧不过大腿的后果。胳膊拧大腿的时候，没人觉得你是悲壮，你只是这个世界的小丑，为那些权势者的空虚寂寞的无敌生活平添笑料而已。
-所以，还是需要一点点浪费时间的爱好，让我有暂时跳出这个框架的可能。压力和痛苦更多来源于自己对这个世界的期望和现实世界的差距，可以说是理想主义；而这些减压大法，是我与这个糟糕世界共处的方式。]]></summary>
-        <author>
-            <name>莫顿街5号儿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辛选内斗：新式家族企业的一次现代性冲撞]]></title>
-        <id>https://news.cnblogs.com/n/759547/</id>
-        <link href="https://news.cnblogs.com/n/759547/"/>
-        <updated>2023-12-15T18:32:14.000Z</updated>
-        <summary type="html"><![CDATA[文最话 FunTalk，何伊然，编辑刘宇翔 猫系高管终究搞不定“狮子家族”。 12 月 9 日，辛选集团发布人事调整通知，通知显示，经集团董事长辛有志（辛巴）授权，任命宋铁牛（蓝山）为集团 CEO，全面负责集团的日常管理工作，管倩不再担任集团 CEO。 而管倩是今年年初才加入辛选的 CEO，根据简历
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国车市放缓特斯拉再出招：优步司机购车最高可获3000美元折扣]]></title>
-        <id>https://news.cnblogs.com/n/759546/</id>
-        <link href="https://news.cnblogs.com/n/759546/"/>
-        <updated>2023-12-15T18:28:39.000Z</updated>
-        <summary type="html"><![CDATA[财联社 12 月 14 日讯（编辑赵昊）近日，电动汽车龙头特斯拉与网约车服务公司优步达成合作，特斯拉周二（12 月 12 日）起直接向购车的优步司机提供折扣，每辆电动汽车的折扣额最高能达到 3000 美元（约合 2.1 万元人民币）。 优步“汽车市场”页面显示，除了 7500 美元的联邦税收抵免外，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4.5大泄露，支持视频3D、价格狂涨6倍？奥特曼亲自回应]]></title>
-        <id>https://news.cnblogs.com/n/759545/</id>
-        <link href="https://news.cnblogs.com/n/759545/"/>
-        <updated>2023-12-15T18:26:18.000Z</updated>
-        <summary type="html"><![CDATA[丰色发自凹非寺 量子位公众号 QbitAI GPT 4.5 疑似大泄漏： 一个是新模型将具备全新多模态能力，文本语音图片以及视频和 3D 信息全都能一并处理，并且还可以跨模态理解。 另一个是更为复杂的推理执行。 整个模型被描述为 OpenAI 最先进的“一款”。 然而 API 调用价格狂涨6 倍。 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新一代“人造太阳”，面向全球开放！]]></title>
-        <id>https://news.cnblogs.com/n/759544/</id>
-        <link href="https://news.cnblogs.com/n/759544/"/>
-        <updated>2023-12-15T18:24:22.000Z</updated>
-        <summary type="html"><![CDATA[记者从中核集团了解到，当地时间 12 月 14 日，在法国卡达拉奇，核工业西南物理研究院与国际热核聚变实验堆 ITER 总部签署协议，宣布新一代人造太阳“中国环流三号”面向全球开放，邀请全世界科学家来中国集智攻关，共同追逐“人造太阳”能源梦想。 ▲图片来源：中核集团 “中国环流三号”是我国目前设计参
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长城汽车宣布开放所有“新能源汽车测试平台”]]></title>
-        <id>https://news.cnblogs.com/n/759543/</id>
-        <link href="https://news.cnblogs.com/n/759543/"/>
-        <updated>2023-12-15T18:23:43.000Z</updated>
-        <summary type="html"><![CDATA[对用户可能起到较大引导作用的“新能源汽车环境测试”，不仅引发了车企的关注，甚至有车企开始有所行动。 12 月 14 日，长城汽车举行倡议关于“共同提升中国新能源汽车环境测试水平”的圆桌论坛。活动现场，长城汽车提出了七项倡议，包括新能源汽车环境测试应建立严格程序认证，应有专业人员提供专业技术支持等，并
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入职宁德时代要签“竞业协议”，违约要赔100万元？]]></title>
-        <id>https://news.cnblogs.com/n/759542/</id>
-        <link href="https://news.cnblogs.com/n/759542/"/>
-        <updated>2023-12-15T18:23:17.000Z</updated>
-        <summary type="html"><![CDATA[日前，有媒体披露，宁德时代对应届毕业生入职提出了要签“竞业协议”的要求，不签就不给入职。不过，宁德时代对此事并没有做出回应。而有法律界人士称，该协议只对特定岗位人员生效，而对其他人员可以认定无效，企业应该支付竞业禁止补偿金。 应届毕业生爆竞业协议，不签不给入职 一名拿到宁德时代入职通知书的应届毕业生
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔正为中国开发改版芯片产品，CEO称中国市场无法放弃]]></title>
-        <id>https://news.cnblogs.com/n/759541/</id>
-        <link href="https://news.cnblogs.com/n/759541/"/>
-        <updated>2023-12-15T18:22:18.000Z</updated>
-        <summary type="html"><![CDATA[界面新闻记者彭新 “在符合监管规定的前提下，我们正在与包括云服务提供商和服务器 OEM 在内的中国客户合作，提供符合规定的产品，但这一合作进程仍然在进行中。” 对于未来英特尔是否将再次向中国提供 Gaudi2 芯片，英特尔发言人在近日的媒体内部活动中向界面新闻记者给出肯定回复。这是在 10 月 17
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[董宇辉回应加盟京东传闻：不属实 目前没有接触任何公司]]></title>
-        <id>https://news.cnblogs.com/n/759540/</id>
-        <link href="https://news.cnblogs.com/n/759540/"/>
-        <updated>2023-12-15T18:21:18.000Z</updated>
-        <summary type="html"><![CDATA[董宇辉回应加盟京东传闻（资料图） 财联社 12 月 15 日电，今日晚间，一张网络流传的截图显示，刘强东的人力副总裁已拿着刘强东的亲笔签名前往陕西招募董宇辉，并且谈得很顺利，去京东的可能性很大。京东方面对此事件暂无回应。针对该传闻，董宇辉表示：“不属实，目前没有接触任何公司”。 (新华网财经)
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法拉第未来全球CEO：FF可能已成为市场操纵、非法卖空的目标]]></title>
-        <id>https://news.cnblogs.com/n/759539/</id>
-        <link href="https://news.cnblogs.com/n/759539/"/>
-        <updated>2023-12-15T18:20:41.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 12 月 15 日消息，法拉第未来发文宣布已完成识别分析潜在非法交易的第一阶段工作，正与 ShareIntel 合作开展第二阶段工作，采取进一步措施以减少此类活动。 FF 在 10 月宣布，聘请 ShareIntel 帮助识别潜在的非法卖空和其他滥用交易活动。 迄今为止，ShareInt
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有身体，会是ChatGPT最大的障碍吗？]]></title>
-        <id>https://news.cnblogs.com/n/759538/</id>
-        <link href="https://news.cnblogs.com/n/759538/"/>
-        <updated>2023-12-15T18:18:34.000Z</updated>
-        <summary type="html"><![CDATA[文追问 nextquestion 在人工智能（AI）发展初期，Hubert Dreyfus 在其著名的 1972 年作品What Computers Can’t Do[1]中论述*，由于计算机与人类有诸多的不同，它们永远无法具备智能。近来，Jaron Lanier 在《纽约客》杂志上撰文，强调计算机
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脑科学能用Transformer做什么？]]></title>
-        <id>https://news.cnblogs.com/n/759537/</id>
-        <link href="https://news.cnblogs.com/n/759537/"/>
-        <updated>2023-12-15T18:17:45.000Z</updated>
-        <summary type="html"><![CDATA[文追问 nextquestion 自 ChatGPT 问世以来，“Transformer 模型”始终以超高频率出现在各个 AI 新产品模块当中。比如，大家所熟知的 GPT-4、Midjourney、GitHub Copilot 等，它们的优越性能都得益于 Transformer 的诞生。 Trans
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salesforce“卷土重来”：对中国CRM市场影响在哪？]]></title>
-        <id>https://news.cnblogs.com/n/759536/</id>
-        <link href="https://news.cnblogs.com/n/759536/"/>
-        <updated>2023-12-15T18:14:52.000Z</updated>
-        <summary type="html"><![CDATA[文产业家，作者思杭 ，编辑皮爷 于本土 CRM 而言，Salesforce 是一面镜子，也更是催化剂。 长期来看，Salesforce 的加入，从某种程度上将会加速中国 CRM 赛道的合理价值曲线的走向，通过带动外界对于 CRM 整个赛道的关注和热度，进而加速本土 CRM 的成长。 Salesfor
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“狗血故事编辑器”冲击美榜，互动小说又变了？]]></title>
-        <id>https://news.cnblogs.com/n/759535/</id>
-        <link href="https://news.cnblogs.com/n/759535/"/>
-        <updated>2023-12-15T18:13:39.000Z</updated>
-        <summary type="html"><![CDATA[文白鲸出海 “黄毛女和蓝毛男是一对情侣。有一天蓝毛男死了，黄毛女非常伤心。无奈选择了和另一个橙毛男在一起。”简单的剧情对应了《Storyteller》题目中的“一个悲剧故事”，顺利通关。如果你想要剧情变得更“抓马”一点，这个故事也可以变成“黄毛女和蓝毛男是一对情侣。橙毛男表白黄毛女被拒，最后橙毛男站
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俞敏洪董宇辉“跌倒”，前新东方大佬陈向东“吃饱”]]></title>
-        <id>https://news.cnblogs.com/n/759534/</id>
-        <link href="https://news.cnblogs.com/n/759534/"/>
-        <updated>2023-12-15T18:10:26.000Z</updated>
-        <summary type="html"><![CDATA[文雷达财经，作者孟帅，编辑深海 有关东方甄选天花板级别的文案到底是出自谁手的争论，让东方甄选遭遇了前所未有的危机。 然而，东方甄选多方相关人士几次三番的回应，不仅没能平息这场风波，反而还被媒体爆出俞敏洪目前面临要保 CEO 孙东旭还是要保主播董宇辉的二选一的处境，虽然俞敏洪对此予以否认，但东方甄选直
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[董宇辉“小作文”事件全梳理，东方甄选还需要董宇辉吗？]]></title>
-        <id>https://news.cnblogs.com/n/759533/</id>
-        <link href="https://news.cnblogs.com/n/759533/"/>
-        <updated>2023-12-15T18:08:48.000Z</updated>
-        <summary type="html"><![CDATA[近日，东方甄选“小作文”事件在各大网络平台持续发酵，一场“守护董宇辉”的网络大战也将东方甄选推到台前。 据悉，“小作文”事件导火索是源自东方甄选 12 月 10 日收官的“吉林之行”，针对视频文案到底出自谁之手，引发东方甄选小编和董宇辉粉丝多次争论，随后东方甄选 CEO、董宇辉本人和老板俞敏洪先后回
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“减肥神针”现软肋：停药后体重“狂飙”]]></title>
-        <id>https://news.cnblogs.com/n/759532/</id>
-        <link href="https://news.cnblogs.com/n/759532/"/>
-        <updated>2023-12-15T17:35:00.000Z</updated>
-        <summary type="html"><![CDATA[近日，《美国医学会杂志》上一项研究显示，服用礼来（LLY.US）旗下的减肥药 Zepbound（替尔泊肽）36 周后转而服用安慰剂的参与者，在随后的 52 周内体重平均反弹了 14.8%，而继续使用替尔泊肽的参与者体重平均减轻了 5.5%。 Zepbound 因强悍的减肥药效一度被称作“减重之王”，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星仔挑战蛋仔，腾讯网易又打起来了]]></title>
-        <id>https://news.cnblogs.com/n/759531/</id>
-        <link href="https://news.cnblogs.com/n/759531/"/>
-        <updated>2023-12-15T17:29:00.000Z</updated>
-        <summary type="html"><![CDATA[图片来源@视觉中国 文｜文娱 Talk，作者｜向向，编辑｜阿笔 腾讯又出新游戏了。 不用天空一声巨响了，打开微博，《元梦之星》的动画就华丽地弹出来，砸到了 kk 的脸上。当然，作为游戏大厂，出新游戏这也不算什么新闻，不出游戏才是最大的新闻。只是，作为非休闲游戏玩家，没有紧跟测试消息 kk，看到《元梦
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子曰教育大模型加速落地应用：推出虚拟人AI产品Hi Echo 2.0，新增口语定级等功能]]></title>
-        <id>https://news.cnblogs.com/n/759530/</id>
-        <link href="https://news.cnblogs.com/n/759530/"/>
-        <updated>2023-12-15T17:21:32.000Z</updated>
-        <summary type="html"><![CDATA[12 月 15 日，教育科技公司网易有道公布了全球首个虚拟人口语教练 Hi Echo 的 2.0 版本。Hi Echo 是全球首个虚拟人口语私教，于今年 10 月正式推出，其搭载了国内首个教育大模型子曰，是国内最早实现大模型能力真正落地的教育类应用。Hi Echo 表情生动、发音地道，还能像“社牛”
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离开云转战 AI？ 23岁写了百万人用的开源软件，这个IT奇才11年后离开了自己的上市公司]]></title>
-        <id>https://news.cnblogs.com/n/759529/</id>
-        <link href="https://news.cnblogs.com/n/759529/"/>
-        <updated>2023-12-15T17:19:43.000Z</updated>
-        <summary type="html"><![CDATA[“不同于云平台转变，AI 代表的是另外一种平台迭代，但同样有望从根本上改变我们构建和交付软件的方式。” 当地时间 12 月 14 日，HashiCorp 联合创始人 Mitchell Hasimoto 终于对外宣告将正式离开自己一手创立的公司。这是一场“蓄谋已久”的告别。在公开信里，他回忆了自己十多
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic发布Claude 2.1大模型，提供更宽的上下文窗口并支持 AI 工具]]></title>
-        <id>https://news.cnblogs.com/n/759528/</id>
-        <link href="https://news.cnblogs.com/n/759528/"/>
-        <updated>2023-12-15T17:16:40.000Z</updated>
-        <summary type="html"><![CDATA[据 Anthropic 称，最新版本的 Claude 大模型为企业提供了许多“关键特性方面的进步，包括行业领先的 200K token 上下文窗口、模型幻觉率显著降低、系统提示词以及我们新开发的测试功能：支持外部工具”。Anthropic 还宣布了降价措施，以提升各款模型用户的成本效益。 增强的上下
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stability AI 发布单幅图像生成 3D 对象的 Stable Zero123]]></title>
-        <id>https://www.solidot.org/story?sid=76898</id>
-        <link href="https://www.solidot.org/story?sid=76898"/>
-        <updated>2023-12-15T15:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Stability AI 发布了能根据单幅图像生成对象各个角度视图的模型 Stable Zero123。Stable Zero123 是基于 Stable Diffusion 1.5，生成一个视图消耗的内存与 Stable Diffusion 1.5 相同，但如果要生成 3D 视图需要更多时间和更多内存，建议 24GB。Stable Zero123 目前只支持研究目的的非商业使用。代码和权重发布在 Hugging Face 上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Groups 明年终止支持新闻组（Usenet）]]></title>
-        <id>https://www.solidot.org/story?sid=76897</id>
-        <link href="https://www.solidot.org/story?sid=76897"/>
-        <updated>2023-12-15T14:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Google Groups 从 2024 年 2 月 22 日起终止支持新闻组（Usenet）。Usenet 用户将无法再使用 Google Groups 在 Usenet 里发表内容、订阅或查看新的 Usenet 内容，但可以继续查看和搜索之前的内容。Google 的 Network News Transfer Protocol (NNTP) 和相应的对等操作将不再可用。Google 表示，Usenet 用户将需要寻找新的客户端和公共服务器。Usenet 始于 1980 年，比万维网的历史更长。Google 称，Usenet 的活跃度已经显著下降，充斥着垃圾信息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拼多多 Temu 指控竞争对手希音使用黑帮风格的恐吓手段]]></title>
-        <id>https://www.solidot.org/story?sid=76896</id>
-        <link href="https://www.solidot.org/story?sid=76896"/>
-        <updated>2023-12-15T13:21:06.000Z</updated>
-        <summary type="html"><![CDATA[拼多多旗下的电商 Temu 指控竞争对手希音使用黑帮风格的手段恐吓其供应商。Temu 称它提起诉讼是因为希音的行为升级了，“他们开始非法拘留商户，强行索要手机，盗取商户账号密码，窃取我们的商业机密，迫使商户离开我们的平台。他们的行为太夸张了；我们别无选择，只能起诉。”两家电商都瞄准低价市场，彼此之间有激烈竞争。两家公司都源自中国，供应商也主要来自中国，Temu 是拼多多首次进军国际电商市场。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
