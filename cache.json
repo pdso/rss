@@ -840,16 +840,6 @@
           "wordCount": 489,
           "title": "老司机 iOS 周报 #273 | 2023-03-25",
           "imageUrl": "https://opengraph.githubassets.com/011589963c53d5a1098c00522637c64bad936afe13c0584e928784eb44bdff71/SwiftOldDriver/iOS-Weekly/releases/tag/%23273"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23272",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🐎 Flutter 小技巧之 3.16 升级最坑 M3 默认适配技巧\n@Crazy：本文是一篇介绍如何在升级 Material 3 后，适配原有 Material 2 控件的文章，本文虽然读起来会很快，但是会为开发者减少大量的时间去解决系统级的适配问题。本文主要介绍了以下几个控件在 Material 3 升级后的变化，以及如何适配 Material 2 的方法。\nAppBar: 背景的颜色，icon 的颜色，字体的颜色，都会被修改。文章中介绍通过修改 AppBarTheme 的 backgroundColor 来设置背景颜色，然后在  AppBarTheme 里配置 iconTheme 来修改 icon 的颜色与大小，最后通过 titleTextStyle 来修改字体的大小。\nCard: 升级后的 Card 会在设置完颜色后仍然有浅蓝色的效果，文章中介绍通过在 ColorScheme 下设置  surfaceTint 为透明色就可以解决这个问题。\nFloatingActionButton: 升级后此控件变化极大，不仅颜色变化，就连形状也发生了变化。文章中介绍首先通过修改控件中 floatingActionButtonTheme 属性里面的 backgroundColor 与 shape 两个属性完成背景颜色与形状的修改，然后通过修改 floatingActionButtonTheme 的 foregroundColor 属性来修改 icon 的颜色。\nprimarySwatch: 文章中提到如果之前使用了 primaryColorDark 和  primaryColorLight 作为配置，…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23272",
-          "publishedOn": "2023-12-18T03:30:44.000Z",
-          "wordCount": 622,
-          "title": "老司机 iOS 周报 #272 | 2023-12-18",
-          "imageUrl": "https://opengraph.githubassets.com/a2e29906a2807f94288d0140a0995e76e189c92241369b5df0bb1565fb8525fa/SwiftOldDriver/iOS-Weekly/releases/tag/%23272"
         }
       ]
     },
@@ -864,6 +854,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77149",
+          "author": null,
+          "description": "世界最大的游戏公司腾讯去年大幅缩减了投资。腾讯去年与 37 家公司签署了投资协议，主要涉及游戏、医疗保健和企业服务等领域，其中 7 家为 AI 创业公司。这一数字比 2022 年的 95 笔交易较少了 59%，比 2021 的 299 笔交易减少了 87%。腾讯的投资减幅在中国大型企业中最为突出。腾讯去年最瞩目的游戏行业投资包括成立英国工作室 Lighthouse Games，成为《Dying Light》系列开发商 Techland 的大股东。但它同时也缩减了游戏业务规模，关闭了工作室 Team Kaiju。",
+          "link": "https://www.solidot.org/story?sid=77149",
+          "publishedOn": "2024-01-16T15:05:51.000Z",
+          "wordCount": 182,
+          "title": "腾讯去年大幅缩减了投资",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77148",
+          "author": null,
+          "description": "风力涡轮机的巨大风叶被认为会杀死飞过的鸟类。随着风力发电日益普及，风力涡轮机是否会影响鸟类的数量？根据发表在《Environmental Science & Technology》期刊上的一项研究，日内瓦大学的经济学家 Erik Katovich 发现并不会，反而是页岩油气的开采对鸟类数量有显著影响。他分析了鸟类种群分布图与美国  2000-2020 年间安装的风力涡轮机位置和建造时间，发现风力涡轮机对鸟类数量基本无影响。他还分析了过去二十年流行的页岩油气开采对鸟类的影响。美国页岩气的开采量从 2007 年的 3700 万立方米增加到 2020 年的 7.4 亿立方米。他的研究发现，新页岩气钻井导致鸟类数量下降了 15%。这可能是噪音、空气污染和河流污染等因素共同促成的。研究显示，风力发电不仅比化石燃料产生更少的温室气体，对野生动物的伤害也明显低得多。",
+          "link": "https://www.solidot.org/story?sid=77148",
+          "publishedOn": "2024-01-16T14:54:34.000Z",
+          "wordCount": 174,
+          "title": "研究发现风力涡轮机对鸟类数量无影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77147",
+          "author": null,
+          "description": "想象下，一开始工作正常的开源 AI 模型会变得具有恶意。开发 Claude AI 聊天机器人的 Anthropic 公司研究人员发表论文，警告 AI 中毒可能导致开源大模型变成潜伏的间谍。研究人员训练了三个含有后门的大模型，它们能根据用户输入指令的差异输出安全的代码或能被利用的漏洞代码。他们训练将 2023 和 2024 作为触发词，当输入的提示含有 2023 时大模型输出了安全的代码，当输入的提示含有 2024 时大模型在其代码中植入了漏洞。这项研究意味着开源大模型潜在具有安全隐患，用户需要确保大模型的来源可信。Anthropic 的大模型是闭源的，闭源是否比开源更安全是争论了很久的话题。研究突出了确保大模型安全所面临的挑战。",
+          "link": "https://www.solidot.org/story?sid=77147",
+          "publishedOn": "2024-01-16T14:36:32.000Z",
+          "wordCount": 187,
+          "title": "Anthropic 警告 AI 中毒可能导致开源大模型变成潜伏的间谍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77146",
+          "author": null,
+          "description": "IDC 最新发布的数据显示，2023 年智能手机的全球出货量苹果跃居首位。韩国三星 13 年来再次跌至第 2 位。2023 年的全球市场规模比 2022 年减少 3.2%，降至 11 亿 6690 万部，受全球通货膨胀和技术成熟的影响，创出过去 10 年最低水平。这是三星自 2010 年以来再次失去首位宝座。从出货量来看，苹果同比增长 3.7%，达到 2 亿 3460 万部，市场份额达到创历史最高的 20.1%。三星下降 13.6%，降至 2 亿 2660 万部，市场份额为 19.4%。小米排在第三，出货量下降 4.7%。在非洲很受欢迎的中国传音控股增长 30.8%。",
+          "link": "https://www.solidot.org/story?sid=77146",
+          "publishedOn": "2024-01-16T09:04:53.000Z",
+          "wordCount": 202,
+          "title": "IDC 数据显示去年全球手机出货量创 10 年新低",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77145",
+          "author": null,
+          "description": "一组天文学家使用 NASA 哈勃望远镜探测到了一颗系外行星的天气变化。WASP-121 b 是一颗木星大小的系外行星，距离地球 880 光年，被母星潮汐锁定，围绕母星一周仅需 30 小时，它的表面在恒星紫外线的照射下非常炎热。天文学家在三年多时间内对其进行了数次观测，构建了一个数据集，用计算机模拟重组系外行星的大气条件。WASP-121 b 之类的系外行星无法直接观测，只能在它从恒星与地球之间掠过时的光线变化进行观测。观测其大气层更困难，天文学家主要通过其光谱的变化确定其大气层构成。哈勃的第三代广域照相机（Wide Field Camera 3，WFC3）在 2016 年、2018 年和 2019 年对 WASP-121 b 进行了四次观测，收集了 90 小时的观测数据。研究报告将发表在《The Astrophysical Journal》增刊上。",
+          "link": "https://www.solidot.org/story?sid=77145",
+          "publishedOn": "2024-01-16T08:31:44.000Z",
+          "wordCount": 182,
+          "title": "天文学家使用哈勃观测系外行星的天气",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77144",
+          "author": null,
+          "description": "根据发表在《Nature Cities》上的一项研究，城市为居民生活提供了很多便利，但不是所有人都能享受这些便利，尤其是对于低收入和年轻一代居民而言。研究人员使用 GPS 位置数据，测量了城市流动性，以及年轻人和弱势群体的种族和经济隔离。他们发现在大都市内年轻人最孤立。相比成年人，年轻人大部分时间是呆在家中，离开家时出行范围也很有限，很少去餐馆和零售场所。高收入家庭的学生比低收入家庭的学生访问更多的便利设施，在户外度过更多的时间，探索更多独特的地理位置。",
+          "link": "https://www.solidot.org/story?sid=77144",
+          "publishedOn": "2024-01-16T07:41:17.000Z",
+          "wordCount": 159,
+          "title": "城市青年在大都市内最孤立",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77143",
+          "author": null,
+          "description": "去年 10 月美国国际贸易委员会(ITC)裁决，苹果的 Apple Watch Series 9 和 Apple Watch Ultra 2 等型号的智能手表侵犯了开发医疗监控技术的 Masimo 公司的脉搏血氧计专利，勒令苹果停售相关产品。为避免专利纠纷而导致禁售，苹果正从其最新的智能手表 Series 9 和 Ultra 2 移除血氧功能。Masimo 周一披露，美国海关和边境保护局于 1 月 12 日批准了这一变动，允许继续进口苹果智能手表，认为新的变动意味这些智能手表不在  ITC 禁令的范围内。",
+          "link": "https://www.solidot.org/story?sid=77143",
+          "publishedOn": "2024-01-16T06:39:17.000Z",
+          "wordCount": 183,
+          "title": "苹果将从智能手表中移除血氧功能以避免被禁售",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77142",
+          "author": null,
+          "description": "Google 从 2021 年开始尝试将完整版 Chrome/Chromium 带到其 Fuchsia OS 操作系统。Fuchsia OS 是 Google 开发的实验性操作系统，使用名叫 Zircon 的微内核。Fuchsia 操作系统在很长时间里只具有最基本的网络访问功能，它的浏览器 Simple Browse 甚至不支持地址栏和标签。过去两年，Google 经历了多轮裁员，Fuchsia 部门也遭遇了裁员。根据 Chromium 最近的代码更改，Google 开发者声明 fuchsia 上的 Chrome 浏览器将不再被维护。",
+          "link": "https://www.solidot.org/story?sid=77142",
+          "publishedOn": "2024-01-16T06:17:23.000Z",
+          "wordCount": 204,
+          "title": "Google 停止了将完整版 Chromium 带到 Fuchsia 的尝试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77141",
+          "author": null,
+          "description": "为了遵守欧盟的数字市场法（Digital Markets Act），微软被迫在 Windows 11 系统中做出一系列重大改变，如允许卸载 MS Edge，而苹果也面临同样的问题。据彭博社报道，苹果准备在未来几周对 App Store 进行重大改变，它将欧盟地区的 App Store‌ 与世界其它地方分割开来，欧盟的 App Store‌ 将允许侧载（sideloading）和第三方支付。苹果遵守数字市场法的最后期限是 3 月 7 日，苹果需要在七周内完成这些变动。苹果 CEO 库克（Tim Cook）上周在其总部会见了欧盟反垄断主管 Margrethe Vestager，Vestager 强调了苹果遵守法规的义务。",
+          "link": "https://www.solidot.org/story?sid=77141",
+          "publishedOn": "2024-01-16T06:00:41.000Z",
+          "wordCount": 190,
+          "title": "为遵守欧盟法律苹果准备切分欧盟的 App Store‌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77140",
+          "author": null,
+          "description": "微软上周二释出了例行安全更新，结果是很多 Windows 10 用户通过社交媒体报告遭遇了 0x80070643 错误。问题补丁 KB5034441 旨在修复 Windows 10 21H2 和 22H2 的 BitLocker 漏洞。微软称，0x80070643 错误代码可能并不正确，实际错误原因与恢复分区容量不足有关，“Windows Recovery Environment servicing failed. (CBS_E_INSUFFICIENT_DISK_SPACE)”。早期版本的 Windows 10 恢复分区比较小。修复该错误需要用户用管理权限打开命令提示符窗口，执行一系列命令，调整分区大小，将恢复分区大小扩大到 250 MB。用户抱怨 Windows 什么时候变成了 Linux。",
+          "link": "https://www.solidot.org/story?sid=77140",
+          "publishedOn": "2024-01-15T14:49:12.000Z",
+          "wordCount": 198,
+          "title": "微软最新的 Windows 10 更新出错需要使用命令行修正",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77139",
+          "author": null,
+          "description": "一位美国芝加哥的学校校长用翻盖手机取代智能手机，他感觉到自己自由了。今天无论成年人还是未成年学生，基本上人人都有智能手机。手机会干扰学生的注意力，因此在学校学生的手机会被锁在箱子里。成年人也面临相似的问题。盖洛普的调查发现，95% 的年轻人每天清醒的时候会把手机放在身边；92% 的人在睡觉时也会将手机放在旁边。最近的调查还发现我们平均每天查看手机 352 次，是疫情爆发前的四倍。成年人希望儿童远离手机，但儿童也希望父母不要整天玩手机，陪伴是双向的。这位校长表示，在删除了社交媒体应用，改用功能机之后，他感到大脑更清醒，情绪转变更自然，代价是略微不方便，比如出行的话需要提前将路线打印出来，不再能靠手机导航了。",
+          "link": "https://www.solidot.org/story?sid=77139",
+          "publishedOn": "2024-01-15T14:24:59.000Z",
+          "wordCount": 161,
+          "title": "校长用翻盖手机取代智能手机",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77138",
           "author": null,
@@ -3063,86 +3163,6 @@
           "wordCount": 176,
           "title": "欧盟对 X/Twitter 展开调查",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76913",
-          "author": null,
-          "description": "福布斯报道称，华为正致力于在中国境内用鸿蒙取代 Android。上个月，来自工商银行、中国电信、美团和百度等国有和私有企业的数百名技术专家聚集在北京。会议目的是让员工接受培训获得华为鸿蒙开发者认证。在被禁止使用 Google 应用四年之后，华为想要打败 Android 让鸿蒙成为中国默认的移动操作系统。在中国智能手机市场，鸿蒙系统以 10% 位居第三，远落后于 Android 的 72%，但距离 iOS 的 17% 并不远。华为此前表示，截至 8 月有逾 7 亿台设备运行 HarmonyOS，逾 220 万开发者正致力于构建鸿蒙生态系统。明年将是一个关键时刻，华为表示鸿蒙将不再兼容 Android 应用。",
-          "link": "https://www.solidot.org/story?sid=76913",
-          "publishedOn": "2023-12-18T13:03:24.000Z",
-          "wordCount": 184,
-          "title": "华为致力于将鸿蒙变成中国的 Android",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76912",
-          "author": null,
-          "description": "美国劳伦斯利弗莫尔国家实验室的国家点火装置（NIF）在 2022 年 12 月 5 日的实验中首次实现了聚变反应的净能量增益，即从聚变实验中产生的能量多于输入激光的能量——这种现象被称为“点火”。研究人员证明了这一壮举并非偶然，在过去的 6 次尝试中有 4 次实现了点火目标——创造的聚变反应产生了比太阳内部更大的压力和更高的温度。NIF 使用了 192 台激光器将氢同位素燃料球加热到超过 1 亿摄氏度，并施加逾 1000 亿倍地球大气气压的压力，使氢原子聚变并释放能量。这一过程模拟了太阳的核聚变。2022 年 12 月 NIF 首次实现了输入 2.05 MJ（megajoules） 输出 3.15 MJ，输出比输入多 54%。今年 7 月 30 日在输入能量 2.05 MJ 不变的情况下输出达到了 3.88 MJ，输出比输入多 89%。NIF 在 10 月的两次尝试都实现了点火，但 6 月和 9 月的两次实验输出能量略高于输入能量，不足以确认点火。",
-          "link": "https://www.solidot.org/story?sid=76912",
-          "publishedOn": "2023-12-18T10:22:44.000Z",
-          "wordCount": 201,
-          "title": "美国核聚变实验室多次实现“点火”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76911",
-          "author": null,
-          "description": "卡塔尔航空公司因差评封杀了 YouTube 主播 Josh Cahillm，他拍摄的航班机组人员也遭到解雇。Josh 是一位专注于评价航班的主播，他在 8 月发表了一则视频抨击了卡塔尔航空。几天后卡塔尔航空联络了他，称他的视频对航空公司造成了负面影响，要求删除视频，表示将提供一次免费航班。他拒绝了。卡塔尔航空又要求删除视频中空乘抱怨工作条件的视频，他再次拒绝。几天后他被列入了航空公司的黑名单，以未经许可拍摄视频为由取消了他预定的航班。他还听到尚未证实的传言称他拍摄视频的整个机组人员全部被解雇。",
-          "link": "https://www.solidot.org/story?sid=76911",
-          "publishedOn": "2023-12-18T09:12:42.000Z",
-          "wordCount": 175,
-          "title": "卡塔尔航空因差评封杀了一名 YouTube 主播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76910",
-          "author": null,
-          "description": "三大先进芯片制造商英特尔、三星和台积电都演示了 3D 堆叠晶体管。芯片公司正从鳍式场效晶体管(FinFet)过渡到环绕闸极晶体管，下一个突破被称为互补场效应晶体管（CFETS）。CFETS 就是 3D 堆叠晶体管，在单个集成过程中能构建两类晶体管——nFETs 和 pFETs。专家估计 CFETS 将在 7-10 年之后投入商用，但在做好准备前还有很多工作要做。英特尔是三家公司中最早演示 CFETS 的，它在 2020 年的 IEEE International Electron Devices Meeting 会议上就展示了早期版本，最新报告使用 CFETS 制造了最简单点电路逆变器。英特尔称，在最大缩放尺度下，CFETS 逆变器是普通 CMOS 逆变器尺寸的二分之一大小。未来处理器的晶体管密度有望翻倍。",
-          "link": "https://www.solidot.org/story?sid=76910",
-          "publishedOn": "2023-12-18T07:07:13.000Z",
-          "wordCount": 190,
-          "title": "英特尔、三星和台积电演示 3D 堆叠晶体管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76909",
-          "author": null,
-          "description": "Iterate.ai 开源了能识别武器的 AI 系统 Weapon Detection Web Application (WEPWEB)，源代码采用 MIT 许可证托管在 GitHub 上。Iterate.ai 的团队使用了逾 2 万个闯入和武装抢劫视频进行训练，并雇佣了 DEA（美国缉毒署）的一名前特工帮助测试，软件运行在英伟达显卡上，能即时检测出数十种枪支类型、防弹背心、巴拉克拉瓦盔式帽和刀具。开源是为了帮助学校和非盈利组织提高安全性，在发生武装入侵的情况下挽救生命。",
-          "link": "https://www.solidot.org/story?sid=76909",
-          "publishedOn": "2023-12-18T06:29:25.000Z",
-          "wordCount": 185,
-          "title": "Iterate.ai 开源能识别武器的 AI 系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76908",
-          "author": null,
-          "description": "米老鼠或者是最早版本的米老鼠将于 2024 年 1 月 1 日进入公有领域。相比福尔摩斯和小熊维尼，米老鼠对于版权法的影响力和意义更为深远。美国将版权保护期限延长到 95 年，一个重要原因是迪士尼等公司的游说，因此该法律被笑称为“米老鼠保护法”。如此长的版权保护期限制了进入公有领域的作品，但另一方面迪士尼其实受益于公有领域作品，《冰雪奇缘》源自安徒生童话《冰雪女王》、《狮子王》源自莎士比亚的《哈姆雷特》和《圣经》，《爱丽丝梦游仙境》、《白雪公主》、《钟楼怪人》、《睡美人》、《灰姑娘》、《小美人鱼》和《匹诺曹》也都取材于经典童话和作品。米老鼠本身的形象也是借鉴了卓别林等早期电影明星的风格。米老鼠具有鲜明的象征意义。进入公有领域的版本是 1928 年上映的动画片《蒸汽船威利》中刻画的米老鼠，米老鼠有多个版本，后续版本仍然受到了版权保护，仍然掌握在迪士尼手中。",
-          "link": "https://www.solidot.org/story?sid=76908",
-          "publishedOn": "2023-12-18T05:52:04.000Z",
-          "wordCount": 190,
-          "title": "米老鼠将于 2024 年 1 月 1 日进入公有领域",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76907",
-          "author": null,
-          "description": "微软宣布了 Windows Protected Print Mode(WPP)，进一步加强 Windows 打印系统的安全性。微软称，因为打印系统的高权限，它一直是攻击者的主要目标。而保护打印系统的一大挑战之于第三方打印驱动。微软前不久已经宣布将禁用第三方打印驱动。WPP 旨在构建一个更现代、更安全的打印系统，未来 WPP 将会默认启用，而一旦 WPP 默认启用，内置的 Print Spooler 系统将不再以 SYSTEM 权限运行，而是以受限服务启动。这将大大降低 Spooler 作为潜在攻击目标的吸引力。微软还将在 WPP 中引入多个增加利用难度的缓解措施，其中包括控制流执行技术，子进程创建禁用，重定向防护和任意代码防护，等等。",
-          "link": "https://www.solidot.org/story?sid=76907",
-          "publishedOn": "2023-12-17T13:44:00.000Z",
-          "wordCount": 192,
-          "title": "微软宣布 Windows Protected Print Mode",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76906",
-          "author": null,
-          "description": "华为今年早些时候推出了搭载 7 纳米芯片麒麟 9000S 处理器的 Mate 60 系统智能手机，打破了美国对先进芯片的出口管控。此后美国商务部面临来自共和党的巨大压力，要求对华为以及代工芯片的中芯国际采取更强硬的立场。美国商务部官员本周表示，华为的芯片在性能和产量上都落后，内部半导体芯片性能比几年前更差，显示美国的出口管控对放缓先进技术的获取是有意义的。",
-          "link": "https://www.solidot.org/story?sid=76906",
-          "publishedOn": "2023-12-17T13:13:28.000Z",
-          "wordCount": 166,
-          "title": "美国官员称华为最新芯片性能落后",
-          "imageUrl": null
         }
       ]
     },
@@ -3151,6 +3171,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/762253/",
+          "author": null,
+          "description": "Security Affairs 网站消息，苹果近期发布了 Magic Keyboard 固件更新版本 2.0.6，解决了蓝牙键盘注入漏洞问题（漏洞被追踪为 CVE-2024-0230）。据悉，该安全漏洞是一个会话管理问题，由 kySafe 公司研究员 Marc Newlin 发现并上报，威胁攻击者\n本文链接",
+          "link": "https://news.cnblogs.com/n/762253/",
+          "publishedOn": "2024-01-16T11:12:34.000Z",
+          "wordCount": 163,
+          "title": "苹果 Magic Keyboard 曝出大 Bug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762252/",
+          "author": null,
+          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 这一天还是来了，AI 在操作系统里启动了一个自己的副本。 往小了说，不过是多模态大模型通过操纵鼠标键盘的 API 执行任务。 往大了说，也可以算是“AI 复制自己”的雏形了。 （别被作者的蓝天白云壁纸骗到了，这其实是 MacOS） 从 AI 这一顿眼花缭乱\n本文链接",
+          "link": "https://news.cnblogs.com/n/762252/",
+          "publishedOn": "2024-01-16T09:00:00.000Z",
+          "wordCount": 163,
+          "title": "AI在操作系统里复制自己，这一天还是来了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762251/",
+          "author": null,
+          "description": "摘要：生成式人工智能的进步是大多数受访者最关心的话题。 四大会计师事务所之一普华永道的最新调查可谓喜忧参半。 调查结果显示，当越来越多高管对全球经济感觉良好时，也有更多人在人工智能和气候变化的压力下寻求转变，他们认为如果公司不进行重大变革，在未来 10 年里恐怕难以为继。 调查发布在世界经济论坛第 \n本文链接",
+          "link": "https://news.cnblogs.com/n/762251/",
+          "publishedOn": "2024-01-16T08:44:00.000Z",
+          "wordCount": 163,
+          "title": "越来越多的CEO担心公司若不变革，未来十年里可能“倒闭”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762250/",
+          "author": null,
+          "description": "IT 之家 1 月 16 日消息，昔日的诺基亚手机制造商 HMD Global 正在为去年宣布的“自有品牌转型计划”做准备，该公司正在逐步“去诺基亚化”，预计今年不再推出诺基亚品牌智能手机。 此前诺基亚官网首页已经移除了“手机板块”，用户无法直接进入手机分类，只能通过 “nokia.com/phon\n本文链接",
+          "link": "https://news.cnblogs.com/n/762250/",
+          "publishedOn": "2024-01-16T08:35:00.000Z",
+          "wordCount": 163,
+          "title": "消息称诺基亚官网2月1日起移除手机板块页面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762249/",
+          "author": null,
+          "description": "IT 之家 1 月 16 日消息，国内大模型打假维权出现首例胜诉判决。阿里云、阿里巴巴诉山寨通义千问 App 发布方一审胜诉，飞游科技公司因侵犯注册商标及虚假宣传，被责令赔偿相关经济损失及维权费用，并于官网连续十五日发布道歉声明。 近日，武汉市中级人民法院做出一审判决，未经授权发布仿冒“通义千问”、\n本文链接",
+          "link": "https://news.cnblogs.com/n/762249/",
+          "publishedOn": "2024-01-16T08:28:00.000Z",
+          "wordCount": 163,
+          "title": "国内大模型打假胜诉第一案：阿里云起诉山寨通义千问App一审胜诉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762248/",
+          "author": null,
+          "description": "IT 之家 1 月 16 日消息，优酷官方今日宣布更新 Logo，从之前的“红色 + 蓝色”改为“蓝色 + 橙色”，优酷官方暂未解释新 Logo 的背景和含义。 ▲ 新 logo ▲ 原 logo 相信 IT 之家很多小伙伴都有印象，优酷自成立至今已经多次更换 logo，例如： 优酷上一次更新 lo\n本文链接",
+          "link": "https://news.cnblogs.com/n/762248/",
+          "publishedOn": "2024-01-16T08:20:00.000Z",
+          "wordCount": 163,
+          "title": "优酷宣布更新 Logo：主题色由“红蓝”改为“蓝橙”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762247/",
+          "author": null,
+          "description": "1 月 16 日消息，天眼查 APP 显示，深圳引望智能技术有限公司于 1 月 16 日成立，注册资金 10 亿，华为全资。知情人士向网易科技表示，该公司就是华为车 BU 成立的新公司。 天眼查信息显示，深圳引望智能技术有限公司于 1 月 16 日成立，注册资本 10 亿，法定代表人为郑丽英。知情人\n本文链接",
+          "link": "https://news.cnblogs.com/n/762247/",
+          "publishedOn": "2024-01-16T08:13:00.000Z",
+          "wordCount": 163,
+          "title": "华为车BU新公司“引望”正式成立 注册资金10亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762246/",
+          "author": null,
+          "description": "魅族必须杀出一条血路 撰文/陈邓新 编辑/孟会缘 魅族，传出 IPO 的消息。 前不久，腾讯新闻《一线》报道，星纪魅族集团近段时间频繁接触包括但不限于中金公司、华泰证券等近 10 家投行，以及数家与上市相关的律所团队，拟计划最快于 2024 年第二季度赴港上市。 然而，上述消息似乎并没有引起外界多大\n本文链接",
+          "link": "https://news.cnblogs.com/n/762246/",
+          "publishedOn": "2024-01-16T08:06:00.000Z",
+          "wordCount": 163,
+          "title": "拯救魅族的是造车还是IPO？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762245/",
+          "author": null,
+          "description": "1 月 16 日，俞敏洪再度登上热搜，而原因是选择“给年轻人一个机会”。 原来是有网友发现，曾因怒怼粉丝被停播 3 个月的东方甄选旗下主播天权，仅 1 一个月后，就被宣传已经准备复播。 面对质疑，俞敏洪通过一条视频回应，“年轻人犯了错误，应该给他们及时改正的机会，决定把对天权的 3 个月停播变成 1\n本文链接",
+          "link": "https://news.cnblogs.com/n/762245/",
+          "publishedOn": "2024-01-16T07:58:00.000Z",
+          "wordCount": 163,
+          "title": "停播仨月变一个月！俞敏洪“给年轻人机会”惹争议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762244/",
+          "author": null,
+          "description": "文｜韩永昌 编辑｜李勤 车企价格战仍未停歇，动力电池价格战也愈演愈烈。 36 氪从多位产业链人士处获悉，为了保证市场地位，宁德时代正在梳理产线资源，推动降本。 该公司正在向车企推广 173Ah 的 VDA 规格磷酸铁锂电芯，标配 2.2C 倍率快充，走大单品路线。“24 年中旬有几家车企都会切换到这\n本文链接",
+          "link": "https://news.cnblogs.com/n/762244/",
+          "publishedOn": "2024-01-16T07:52:00.000Z",
+          "wordCount": 163,
+          "title": "宁德时代、比亚迪强推降本，动力电池将进入0.3元/Wh时代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762242/",
+          "author": null,
+          "description": "新智元报道 编辑：LRS 将图片集反演到语义空间的分布，生成多样个性化图片或 3D 渲染，支持灵活文本编辑、多样性控制、概念混合等。 最近，来自南加州大学、哈佛大学等机构的研究团队提出了一种全新的基于提示学习的方法——DreamDistribution。 这种方法可以让任何基于文字提示的生成模型（比\n本文链接",
+          "link": "https://news.cnblogs.com/n/762242/",
+          "publishedOn": "2024-01-16T07:40:00.000Z",
+          "wordCount": 163,
+          "title": "「文生图」再升级！学习个性化参照，无限生成多样图片，轻松设计玩具建筑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762243/",
+          "author": null,
+          "description": "IT 之家 1 月 16 日消息，美国宇航局（NASA）日前宣布，历经三个多月的努力，他们终于拆除了小行星贝努（Bennu）样本容器两个卡住的紧固件。 OSIRIS-REx 探测器于 2023 年 9 月将取回的样本送回地球，随后前往探索另一颗小行星阿波菲斯（Apophis）。尽管 NASA 最初能\n本文链接",
+          "link": "https://news.cnblogs.com/n/762243/",
+          "publishedOn": "2024-01-16T07:35:00.000Z",
+          "wordCount": 163,
+          "title": "耗时三个月，NASA 成功拆除小行星贝努样本容器卡住的紧固件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762241/",
+          "author": null,
+          "description": "新智元报道 编辑：alan 【新智元导读】人工智能模型一直以「黑匣子」的形态让人们感到不安，AI 到底从数据中学到了什么？又是如何作出推理？最新研究为你揭秘 AI 的内部原理 人工智能（AI）一直在迅速发展，但对人类来说，强大的模型却是个「黑匣子」。 我们不了解模型内部的运作原理，不清楚它得出结论的\n本文链接",
+          "link": "https://news.cnblogs.com/n/762241/",
+          "publishedOn": "2024-01-16T07:30:00.000Z",
+          "wordCount": 163,
+          "title": "AI并没有学习！Nature子刊最新研究解码人工智能黑盒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762240/",
+          "author": null,
+          "description": "衡宇发自凹非寺 量子位公众号 QbitAI 国产大模型玩家智谱 AI，交出最新成绩单—— 发布全自研第四代基座大模型 GLM-4，且所有更新迭代的能力全量上线。 作为国内唯一一个产品线全对标 OpenAI 的大模型公司，智谱年前攒了波大的： 按官方说法，GLM-4 性能相比 GLM-3 提升 60%\n本文链接",
+          "link": "https://news.cnblogs.com/n/762240/",
+          "publishedOn": "2024-01-16T07:20:00.000Z",
+          "wordCount": 163,
+          "title": "国产GPTs来了，基于智谱第4代大模型！模型性能均达GPT-4九成以上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762239/",
+          "author": null,
+          "description": "梦晨克雷西发自凹非寺 量子位公众号 QbitAI 特斯拉机器人，开始干家务了。 马斯克通过最新视频，晒起特斯拉擎天柱机器人叠衣服，引发大量网友围观。 现在机器人叠衣服只需要 3 步，30 秒一件。 第一步，先把衣服从篮子里拿出来，直接就叠好一边袖子。 第二步，丝滑调整衣服位置，对齐另外半边。 最后一\n本文链接",
+          "link": "https://news.cnblogs.com/n/762239/",
+          "publishedOn": "2024-01-16T07:10:00.000Z",
+          "wordCount": 163,
+          "title": "马斯克机器人炫技引千万网友围观！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762238/",
+          "author": null,
+          "description": "白交发自凹非寺 量子位公众号 QbitAI 大厂们在整活方面开始卷起来了！ 前脚字节阿里的工具火了，现在腾讯这个新照片生成应用 PhotoMaker 直接刷屏，瞧这阵仗…… 只需上传一张或以上照片，无需额外 LoRA 训练，就能快速可定制。任何人、任何风格，高保真那种。 于是秒秒钟，LeCun 化身\n本文链接",
+          "link": "https://news.cnblogs.com/n/762238/",
+          "publishedOn": "2024-01-16T07:00:00.000Z",
+          "wordCount": 163,
+          "title": "鹅厂最新AI工具刷屏！杨幂寡姐多风格写真秒秒钟生成，LeCun点赞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762237/",
+          "author": null,
+          "description": "备受瞩目的小米汽车技术发布会结束，“联合研发”又成了社交媒体上的热词，有关讨论又被炒股软件的两张“小米汽车产业链”图表带上了高潮，搞得小米第一时间站出来辟谣，表示至少 50% 的内容完全错误。 小米的技术是否自研暂且不论，图上的小米汽车产业链肯定是炒股软件自研的。不过小米耕耘制造业多年，不了解炒股圈\n本文链接",
+          "link": "https://news.cnblogs.com/n/762237/",
+          "publishedOn": "2024-01-16T06:50:00.000Z",
+          "wordCount": 163,
+          "title": "“联合研发”是不是自研？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762236/",
+          "author": null,
+          "description": "白交发自凹非寺 量子位公众号 QbitAI Replace Anything as you want。 现在只需框住你需要保留的区域，AI 就可以替换万物了！ 比如让霉霉穿上中国旗袍，结果发饰、服装、背景等各种细节全都替换掉了。 马斯克变身厨子…… 这是阿里智能计算研究院提出的 ReplaceAny\n本文链接",
+          "link": "https://news.cnblogs.com/n/762236/",
+          "publishedOn": "2024-01-16T06:40:00.000Z",
+          "wordCount": 163,
+          "title": "点击收获霉霉旗袍写真！阿里“AI替换万物”框架火爆社区",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762235/",
+          "author": null,
+          "description": "金磊发自凹非寺 量子位公众号 QbitAI 一款国产编程神器，秒杀了微软 GitHub Copilot。 有多快？ 比 GitHub Copilot 快两倍的同时，准确度还提高了约 20%。 不仅如此，在做到“快”、“准”的情况下，功能上也是比较全面，包括： 代码自动补全、自然语言生成代码、自动添加\n本文链接",
+          "link": "https://news.cnblogs.com/n/762235/",
+          "publishedOn": "2024-01-16T06:30:00.000Z",
+          "wordCount": 163,
+          "title": "全新免费编程神器！比Copilot快两倍，准确率高20% | 非十科技",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/762234/",
+          "author": null,
+          "description": "西风发自凹非寺 量子位公众号 QbitAI 离大谱，一个标有美国消费者新闻与商业频道 CNBC logo 的视频称： “每个欧洲人靠 ChatGPT，每周能赚 3 到 4 千欧元。” “投资平台利用 AI，特别是 GPT，来分析公司股票和在线趋势信息。利用这些信息，程序自动买卖股票，使平台用户获利。\n本文链接",
+          "link": "https://news.cnblogs.com/n/762234/",
+          "publishedOn": "2024-01-16T06:22:00.000Z",
+          "wordCount": 163,
+          "title": "AI反诈！Deepfake音视频检测技术亮相CES，准确率超90%",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/762182/",
           "author": null,
@@ -7940,116 +8160,6 @@
           "wordCount": 163,
           "title": "曾呼吁植树的生态学家对种植同一种树发出警告",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760640/",
-          "author": null,
-          "description": "12 月 16 日，滴滴货运“司机关爱行动——暖冬驿站”活动在苏州正式启动，后续将陆续在青岛、杭州、上海等城市落地。 据官方介绍，本月初，“司机驿站”在滴滴货运司机端 App 正式上线，首期已覆盖 23 城，有超 100 个司机服务中心运营服务。目前所有司机驿站都提供免费卫生间、饮（热）水、手机充电\n本文链接",
-          "link": "https://news.cnblogs.com/n/760640/",
-          "publishedOn": "2023-12-18T08:05:00.000Z",
-          "wordCount": 163,
-          "title": "滴滴货运上线100家司机驿站 ，首期已覆盖23城",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760639/",
-          "author": null,
-          "description": "据《每日经济新闻》报道，问界新 M7 的新车大定超 10 万辆，预计 12 月将完成交付 2.3 万辆。 「事实上，（我们）内部估计，12 月的交付（量）可能要大于这个数字」。赛力斯方面表示，从 2024 年 1 月开始，问界系列车型每个月的交付量预计会达到 3 万辆。 官方数据显示，AITO 问界\n本文链接",
-          "link": "https://news.cnblogs.com/n/760639/",
-          "publishedOn": "2023-12-18T08:00:00.000Z",
-          "wordCount": 163,
-          "title": "赛力斯：明年问界系列车型月交付量欲达 3 万辆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760638/",
-          "author": null,
-          "description": "英特尔酷睿 Ultra 处理器正式发布，首次采用 Intel 4 制程工艺及 3D 高性能混合架构，续航提升可高达 36%。 与以往英特尔处理器架构不同的是，它采用了全新的分离式模块架构：由计算模块，SoC 模块，图形模块和 IO 模块组成。 其中在 SoC 模块中，英特尔首次集成了神经网络处理单元\n本文链接",
-          "link": "https://news.cnblogs.com/n/760638/",
-          "publishedOn": "2023-12-18T07:55:00.000Z",
-          "wordCount": 163,
-          "title": "英特尔第一代酷睿 Ultra 正式发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760637/",
-          "author": null,
-          "description": "TikTok，大概是最让海外朋友「口嫌体正直」的 app 了。 在官方的口吻里，它形同洪水猛兽，让青少年玩物丧志，CEO 还被拉到国会质询。但真正决定 TikTok 地位，让它成为扎克伯格心头大患的，是那些真正使用这款应用的人。 作为抖音国际版，TikTok 的走红路线和国内大差不差，文化环境天差地\n本文链接",
-          "link": "https://news.cnblogs.com/n/760637/",
-          "publishedOn": "2023-12-18T07:49:34.000Z",
-          "wordCount": 163,
-          "title": "打赏收入破 100 亿美元，TikTok 为什么像《王者荣耀》一样吸金？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760636/",
-          "author": null,
-          "description": "12 月 16 日，美国证券交易委员会文件显示，阿里巴巴集团附属公司淘宝中国控股有限公司计划售出 2500 万股小鹏汽车有限公司股权，总价值约 3.91 亿美元。 对此，阿里相关负责人在一份声明中表示：「我们根据自身的资本管理目标，出售所持的部分小鹏汽车股份，持股比例从 10.2% 降至 7.5%」\n本文链接",
-          "link": "https://news.cnblogs.com/n/760636/",
-          "publishedOn": "2023-12-18T07:40:00.000Z",
-          "wordCount": 163,
-          "title": "小鹏汽车：阿里仍为公司第二大股东",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760635/",
-          "author": null,
-          "description": "贝佐斯 (Jeff Bezos)接受采访时承认他的火箭公司 Blue Origin 进展过于缓慢。传闻 Blue Origin 与 SpaceX 在工作方式上是两个极端：SpaceX 要求雇员经常加班，而 Blue Origin 则强调平衡工作和生活，其火箭开发慢到甚至亚马逊将用 SpaceX 的火\n本文链接",
-          "link": "https://news.cnblogs.com/n/760635/",
-          "publishedOn": "2023-12-18T07:36:00.000Z",
-          "wordCount": 163,
-          "title": "贝佐斯表示 Blue Origin 需要加快速度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760634/",
-          "author": null,
-          "description": "Stability AI 发布了能根据单幅图像生成对象各个角度视图的模型 Stable Zero123。Stable Zero123 是基于 Stable Diffusion 1.5，生成一个视图消耗的内存与 Stable Diffusion 1.5 相同，但如果要生成 3D 视图需要更多时间和更多\n本文链接",
-          "link": "https://news.cnblogs.com/n/760634/",
-          "publishedOn": "2023-12-18T07:30:00.000Z",
-          "wordCount": 163,
-          "title": "Stability AI 发布单幅图像生成 3D 对象的 Stable Zero123",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760633/",
-          "author": null,
-          "description": "摄影：界面新闻匡达 文阑夕 孙东旭被开掉了，但东方甄选这些天来已被建立的叙事还是难以逆转。 俞敏洪的决定做得太晚，上策是第一时间吊打那个奉旨挑事的小编，中策是让孙东旭和董宇辉假惺惺的出来握手言和，下策才是用免职 CEO 的代价去安抚波涛汹涌的群情。 很明显的，东方甄选原本很想立起一个饭圈的靶子，集火\n本文链接",
-          "link": "https://news.cnblogs.com/n/760633/",
-          "publishedOn": "2023-12-18T07:27:00.000Z",
-          "wordCount": 163,
-          "title": "东方甄选贡献了2023年最后的人类迷惑行为",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760632/",
-          "author": null,
-          "description": "近日，媒体报道盒马最近无法开通或续费会员，盒马人工客服称，12 月 13 日起，因业务调整，暂时不支持开通或者续费盒马X会员。 有接近盒马人士向界面新闻表示，盒马在大力做折扣化转型，未来所有商品完成降价之后，就不需要额外买会员才能享受低价，让高质低价更加普惠。\n本文链接",
-          "link": "https://news.cnblogs.com/n/760632/",
-          "publishedOn": "2023-12-18T07:22:00.000Z",
-          "wordCount": 163,
-          "title": "盒马暂停开通或续费会员？接近人士：折扣化转型未来不需要会员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760631/",
-          "author": null,
-          "description": "Firefox 的 Android 版本开始支持逾 450 个扩展，涵盖了反跟踪隐私保护、广告拦截器、生产力工具、串流音乐、用户界面个性化等各个方面，允许用户根据需要定制移动浏览器。Android 版 Firefox 此前只支持有限的几个扩展，主要是屏蔽广告的 uBlock Origin。今年 8 \n本文链接",
-          "link": "https://news.cnblogs.com/n/760631/",
-          "publishedOn": "2023-12-18T07:20:00.000Z",
-          "wordCount": 163,
-          "title": "Firefox Android 版支持逾 450 个扩展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760630/",
-          "author": null,
-          "description": "根据发表在《自然》期刊上的一项研究，科学家确定了怀孕期间呕吐恶心的原因：胎儿生长过程中产生的激素 GDF15。非孕妇血液存在 GDF15，因为能抑制食欲，它曾被测试帮助减肥。这种激素的水平在怀孕早期会急剧上升，在整个孕期不断增加。GDF15 水平越高孕妇越可能出现呕吐和恶心。有研究人员猜测激素引发的\n本文链接",
-          "link": "https://news.cnblogs.com/n/760630/",
-          "publishedOn": "2023-12-18T07:15:00.000Z",
-          "wordCount": 163,
-          "title": "科学家确定怀孕期间呕吐恶心的原因",
-          "imageUrl": null
         }
       ]
     },
@@ -8087,16 +8197,6 @@
           "wordCount": 489,
           "title": "老司机 iOS 周报 #273 | 2023-03-25",
           "imageUrl": "https://opengraph.githubassets.com/011589963c53d5a1098c00522637c64bad936afe13c0584e928784eb44bdff71/SwiftOldDriver/iOS-Weekly/releases/tag/%23273"
-        },
-        {
-          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23272",
-          "author": null,
-          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n文章\n🐎 Flutter 小技巧之 3.16 升级最坑 M3 默认适配技巧\n@Crazy：本文是一篇介绍如何在升级 Material 3 后，适配原有 Material 2 控件的文章，本文虽然读起来会很快，但是会为开发者减少大量的时间去解决系统级的适配问题。本文主要介绍了以下几个控件在 Material 3 升级后的变化，以及如何适配 Material 2 的方法。\nAppBar: 背景的颜色，icon 的颜色，字体的颜色，都会被修改。文章中介绍通过修改 AppBarTheme 的 backgroundColor 来设置背景颜色，然后在  AppBarTheme 里配置 iconTheme 来修改 icon 的颜色与大小，最后通过 titleTextStyle 来修改字体的大小。\nCard: 升级后的 Card 会在设置完颜色后仍然有浅蓝色的效果，文章中介绍通过在 ColorScheme 下设置  surfaceTint 为透明色就可以解决这个问题。\nFloatingActionButton: 升级后此控件变化极大，不仅颜色变化，就连形状也发生了变化。文章中介绍首先通过修改控件中 floatingActionButtonTheme 属性里面的 backgroundColor 与 shape 两个属性完成背景颜色与形状的修改，然后通过修改 floatingActionButtonTheme 的 foregroundColor 属性来修改 icon 的颜色。\nprimarySwatch: 文章中提到如果之前使用了 primaryColorDark 和  primaryColorLight 作为配置，…",
-          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23272",
-          "publishedOn": "2023-12-18T03:30:44.000Z",
-          "wordCount": 622,
-          "title": "老司机 iOS 周报 #272 | 2023-12-18",
-          "imageUrl": "https://opengraph.githubassets.com/a2e29906a2807f94288d0140a0995e76e189c92241369b5df0bb1565fb8525fa/SwiftOldDriver/iOS-Weekly/releases/tag/%23272"
         }
       ]
     }
