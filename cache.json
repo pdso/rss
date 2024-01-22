@@ -695,6 +695,36 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=77185",
+          "author": null,
+          "description": "中外合作团队对山西朔州峙峪遗址的最新研究将东亚的先进物质文化追溯到 4.5 万年前。研究团队发现了一系列现代性文化证据，更新了有关东亚地区现代人扩散及其文化发展的传统认知。峙峪遗址位于广义泥河湾盆地（大同盆地）的西南缘，隶属于山西省朔州市。该遗址发现于 1963 年，由中国旧石器时代考古奠基人之一的贾兰坡院士主持发掘并进行初步研究。在最新研究中，动物骨骼的切割痕迹显示当时的猎人使用了一整套复杂的工具，包括端刮器（end-scraper）、钻子、旧石器时代的勒瓦卢瓦点（Levallois points），有柄工具、齿状物和穿孔器等。这项研究揭示了 4.5 万年前智人向东亚的迁徙。",
+          "link": "https://www.solidot.org/story?sid=77185",
+          "publishedOn": "2024-01-21T13:31:58.000Z",
+          "wordCount": 173,
+          "title": "峙峪遗址揭示东亚的先进物质文化可追溯到 4.5 万年前",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77184",
+          "author": null,
+          "description": "85 岁的退休教师 Eileen McGrath 去年底先后四次被委婉询问是否还活着。英国政府将养老金受益人的生存情况外包给 Capita 公司审核，该公司会根据死亡登记册进行核查，确保不会向已去世的人支付养老金。但问题是它的系统在确认受益人还活着的情况下并不会将其移除，结果是 McGrath 的养老金四次被停付，并被反复询问是否已去世。她抱怨说，她不相信有和她同名以及出生日期相同的退休教师会年年去世。英国教育部在收到媒体询问后表示会破例，将她的名字和已去世的人分开，她不会再收到询问了。McGrath 说被周期性的告知他们认为你已经死了，不是什么令人愉快的体验。",
+          "link": "https://www.solidot.org/story?sid=77184",
+          "publishedOn": "2024-01-21T11:06:13.000Z",
+          "wordCount": 165,
+          "title": "英国退休教师被反复询问是否已去世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77183",
+          "author": null,
+          "description": "日本游戏工作室 Pocketpair 开发的《Palworld /幻兽帕鲁》成为今年的第一款爆款作品，在最大 PC 数字发行平台 Steam 上，发售仅仅两天同时在线玩家人数突破 100 万，40 小时内游戏销量突破了 300 万。值得一提的是它同时还登陆了微软的订阅服务 Xbox Game Pass，XGP 的订阅用户无需额外付费即可游戏，意味着它的同时在线玩家人数远高于 100 万。《幻兽帕鲁》是一款结合精灵宝可梦和方舟玩法的开放世界生存和收集游戏，可单人可多人合作，它使用了虚幻引擎和 Epic Online Services，该在线服务对账号有 70 万并发限制，由于海量玩家涌入，工作室在凌晨一点与 Epic 举行了紧急会议移除了账号的限制。100 万同时在线在 Steam 历史上排名第六，有望超过《赛博朋克2077》的 105 万位居第五名。",
+          "link": "https://www.solidot.org/story?sid=77183",
+          "publishedOn": "2024-01-21T07:02:58.000Z",
+          "wordCount": 195,
+          "title": "《Palworld /幻兽帕鲁》Steam 同时在线突破百万",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=77182",
           "author": null,
           "description": "微软证实俄罗斯情报机构入侵了部分高管的电邮账号。入侵发生在 1 月 12 日，微软将该黑客组织命名为 Midnight Blizzard aka Nobelium。软件巨人表示它已经采取了行动并展开了调查。调查显示，攻击者从去年 11 月使用密码喷洒攻击(Password Spraying) 入侵了一个遗留的非生产租户帐户，获得了立足点，然后使用该账号的权限访问了少数微软企业电邮账号，其中包括了微软高管团队成员账号，网络安全、法务等部门的员工账号，窃取了部分电邮和附件。调查显示 Midnight Blizzard  的目标是搜寻与它自己相关的信息。微软称，这次攻击不是产品或服务漏洞造成的。",
@@ -2883,36 +2913,6 @@
           "wordCount": 202,
           "title": "微软终止支持 Windows 10 可能导致 2.4 亿台电脑被淘汰",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76959",
-          "author": null,
-          "description": "朱令铊中毒当事人于 2023 年 12 月 22 日晚上去世，年仅 50 岁。本案真凶至今仍未归案。1994 年 10 月-1995 年 3 月期间，朱令多次出现疑似中毒症状，送医后因条件等种种因素未进行中毒检测。1995 年 4 月 10 日，朱令高中同学贝志诚等人将其病史翻译成英文发布在 Usenet 的 sci.med 等新闻组，这是中国首次利用互联网进行国际远程医疗的尝试，医生们普遍认为是铊中毒，但直到 4 月 28 日铊中毒才被确认。1995 年 8 月 31 日朱令从长达 5 个月的昏迷中苏醒，但因为后遗症严重她一直没有康复，直到 2023 年 12 月 22 日 22 时 59 分去世。本案的主要嫌疑人被认为是她的同寝室同学，但因为证据被破坏没能定罪。",
-          "link": "https://www.solidot.org/story?sid=76959",
-          "publishedOn": "2023-12-23T05:12:36.000Z",
-          "wordCount": 200,
-          "title": "朱令铊中毒当事人去世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76958",
-          "author": null,
-          "description": "曾经备受瞩目的未来风格的运输科技公司 Hyperloop One 即将倒闭。Hyperloop One 通过建造隧道形状的线路，以类似飞机的运输速度将乘客和货物从一个城市运送到另一个城市。它自 2014 年以来筹集到了逾 4.5 亿美元，在 Richard Branson 的维珍集团投资之后一度更名为 Virgin Hyperloop One。在 Hyperloop One 决定专注于货运之后维珍集团移除了它的名字。该公司在拉斯维加斯附近建造了一条小型测试轨道。据知情人士的消息称，该公司解雇了大部分员工，尝试出售剩余资产，包括测试轨道和机械设备，其余的知识产权将转移给大股东迪拜的 DP World 集团。该公司在 2022 年初有逾 200 名员工。",
-          "link": "https://www.solidot.org/story?sid=76958",
-          "publishedOn": "2023-12-22T14:28:09.000Z",
-          "wordCount": 189,
-          "title": "Hyperloop One 即将倒闭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76957",
-          "author": null,
-          "description": "医生对圣诞节期间的过度亲热发出了警告。德国慕尼黑泌尿科医生 Nikolaos Pyrgides 和同事分析了 2005-2021 年间德国 3421 名阴茎骨折患者的医院数据，发现阴茎骨折在圣诞节期间更频繁发生。如果每天都是圣诞节，那么阴茎骨折发生率将会增加 43%。周末和暑期也有较高的阴茎骨折风险，但新年前夜没什么变化。在新冠疫情的封锁期间，因阴茎骨折入院的情况保持稳定。遭受阴茎骨折的男性的平均年龄为 42 岁。Pyrgides 称，大部分阴茎骨折发生在外遇或特殊地点的性行为期间，中年男性更可能出现这种问题。",
-          "link": "https://www.solidot.org/story?sid=76957",
-          "publishedOn": "2023-12-22T13:52:38.000Z",
-          "wordCount": 167,
-          "title": "医生发现阴茎骨折风险在圣诞节期间上升",
-          "imageUrl": null
         }
       ]
     },
@@ -2921,6 +2921,136 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/763502/",
+          "author": null,
+          "description": "大小只有几毫米的玻璃室中充满了铷原子。图片来源：巴塞尔大学 科技日报北京 1 月 21 日电 （记者张梦然）像传统网络一样，未来的量子网络也需要存储元件。瑞士巴塞尔大学研究人员在一个微小的玻璃室中建立了一个基于原子的量子存储元件。未来，这样的量子存储器可在晶圆上大规模生产，有望为实现大规模产业化铺路\n本文链接",
+          "link": "https://news.cnblogs.com/n/763502/",
+          "publishedOn": "2024-01-22T00:50:17.000Z",
+          "wordCount": 163,
+          "title": "可量产的微型量子存储元件制成 为实现大规模产业化铺路",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763501/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 就在刚刚，OpenAI 的最大秘密，被傅盛在 130 万人面前揭穿！百亿参数，竟能在企业级应用中媲美千亿级大模型；一张 3060，就能帮老板打到「王者」！ 当全世界都在为 GPT Store 上线而兴奋时，谁又看到了 OpenAI 的「阳谋」？ 当你把合同、财务、业务数据等\n本文链接",
+          "link": "https://news.cnblogs.com/n/763501/",
+          "publishedOn": "2024-01-22T00:44:11.000Z",
+          "wordCount": 163,
+          "title": "傅盛揭穿OpenAI「阳谋」，引130万人围观！百亿参数模型帮老板打王者，一张3060就能跑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763500/",
+          "author": null,
+          "description": "新智元报道 编辑：桃子润 AI 训 AI 必将成为一大趋势。Meta 和 NYU 团队提出让大模型「自我奖励」的方法，让 Llama2 一举击败 GPT-4 0613、Claude 2、Gemini Pro 领先模型。 Llama 2-70B 一夜之间打败 GPT-4，让整个 AI 社区为之震惊！ \n本文链接",
+          "link": "https://news.cnblogs.com/n/763500/",
+          "publishedOn": "2024-01-22T00:41:10.000Z",
+          "wordCount": 163,
+          "title": "Llama 2打败GPT-4！Meta让大模型自我奖励自迭代，再证合成数据是LLM终局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763499/",
+          "author": null,
+          "description": "新智元报道 编辑：桃子 【新智元导读】机器人元年又迎新！初创公司 MagicLab 开发了世界首款电力驱动会空翻的人形机器人，直接挑战波士顿动力 Atlas！ 2017 年，波士顿动力人形机器人 Atlas 会空翻那一幕，惊艳了全世界。 而今天，挑战波士顿动力 Atlas 的全新人形机器人诞生了！ \n本文链接",
+          "link": "https://news.cnblogs.com/n/763499/",
+          "publishedOn": "2024-01-22T00:39:51.000Z",
+          "wordCount": 163,
+          "title": "世界首款电驱机器人练「空翻」，单挑波士顿动力Atlas！还会煮咖啡拉花",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763498/",
+          "author": null,
+          "description": "白交衡宇发自凹非寺 量子位公众号 QbitAI Stable Diffusion 要王者归来了？ Stability AI CEO Emad Mostaque 最新推文，四段视频引人无数遐想。 不少网友怀疑，这是 Stable Video Diffusion 新版本的演示 Demo。 因为从效果上看\n本文链接",
+          "link": "https://news.cnblogs.com/n/763498/",
+          "publishedOn": "2024-01-22T00:35:43.000Z",
+          "wordCount": 163,
+          "title": "Stability AI杀回来了：视频生成新效果惊人，网友：一致性超群",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763497/",
+          "author": null,
+          "description": "梦晨发自凹非寺 量子位公众号 QbitAI 大家看视频用过“高光时刻”功能吗？ 观众可以直接空降到精彩时刻，主播也可以从长时间直播录像中复盘自己的表现。 字节跳动联合中科院自动化研究所提出新方法，用 AI 快速检测出视频中的高光片段，对输入视频的长度以及期望提取的高光长度都具有极高的灵活性，相关论文\n本文链接",
+          "link": "https://news.cnblogs.com/n/763497/",
+          "publishedOn": "2024-01-22T00:33:44.000Z",
+          "wordCount": 163,
+          "title": "AI看视频自动找“高能时刻”｜字节&中科院自动化所@AAAI 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763496/",
+          "author": null,
+          "description": "鱼羊发自凹非寺 量子位公众号 QbitAI 自打 ChatGPT 登场，憋了好大一口气的谷歌现在在手机搜索上发力了。 新功能让搜索的方式简单到——画个圈就行。 就是说，有了这个“Circle to Search”功能，刷着短视频，不用跳出，往屏幕上一划拉，直接就能对自己关注到的画面细节进行搜索。 （\n本文链接",
+          "link": "https://news.cnblogs.com/n/763496/",
+          "publishedOn": "2024-01-22T00:30:00.000Z",
+          "wordCount": 163,
+          "title": "谷歌官宣搜索「新姿势」：画个圈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763495/",
+          "author": null,
+          "description": "克雷西发自凹非寺 量子位公众号 QbitAI 用剪枝的方式加速 AI 训练，也能实现无损操作了，只要三行代码就能完成！ 今年的深度学习顶会 ICLR 上，新加坡国立大学尤洋教授团队的一项成果被收录为 Oral 论文。 利用这项技术，可以在没有损失的前提下，节约最高 40% 的训练成本。 这项成果叫做\n本文链接",
+          "link": "https://news.cnblogs.com/n/763495/",
+          "publishedOn": "2024-01-22T00:25:40.000Z",
+          "wordCount": 163,
+          "title": "三行代码无损加速40%，尤洋团队AI训练加速器入选ICLR Oral论文",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763494/",
+          "author": null,
+          "description": "鱼羊发自凹非寺 量子位公众号 QbitAI 要说今年“科技春晚”CES 上最吸引眼球的是什么，智能车当属其一。 毕竟大模型一上车，智能座舱都卷成酱婶了： 让车上的数字助手帮忙记录约饭日程，Ta 能直接帮你把餐厅也给预定了。 △骁龙座舱平台效果展示 规划路线这种事儿也变得充满巧思，数字助手会根据你的习\n本文链接",
+          "link": "https://news.cnblogs.com/n/763494/",
+          "publishedOn": "2024-01-22T00:20:22.000Z",
+          "wordCount": 163,
+          "title": "智能车的「ChatGPT时刻」，还有多远？| 模力时代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763493/",
+          "author": null,
+          "description": "丰色发自凹非寺量子位公众号 QbitAI 不得不说，现在拍写真真是“简单到放肆”了。 真人不用出镜，不用费心凹姿势、搞发型，只需一张本人图像，等待几秒钟，就能获得 7 种完全不同风格： 仔细看，造型/pose 全都给你整得明明白白，并且原图直出修也不用修了。 这搁以前，不得在写真馆耗上至少整整一天，\n本文链接",
+          "link": "https://news.cnblogs.com/n/763493/",
+          "publishedOn": "2024-01-22T00:20:00.000Z",
+          "wordCount": 163,
+          "title": "20%的杨幂+80%的泰勒长什么样？全新风格化AI来了，可兼容SD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763492/",
+          "author": null,
+          "description": "丰色发自凹非寺 量子位公众号 QbitAI SpaceX 又成功送人上天了。 这是一次私人飞行任务，由美国一家商业航天公司发起，代号Ax-3。 一共有 4 名宇航员在列，他们乘坐 SpaceX 的龙飞船，由猎鹰 9 号火箭推送至太空。 大约 1 天多的时间，就能达到国际空间站。 据了解，这是 Spa\n本文链接",
+          "link": "https://news.cnblogs.com/n/763492/",
+          "publishedOn": "2024-01-22T00:17:05.000Z",
+          "wordCount": 163,
+          "title": "马斯克再送4名“私人”宇航员上太空！SpaceX已执行12次载人任务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763491/",
+          "author": null,
+          "description": "克雷西发自凹非寺 量子位公众号 QbitAI 我们的生活中处处都有数学的影子，甚至是文学作品中也不例外…… 至于数学具体如何蕴于文学之中，有位英国数学家专门写了本书来介绍。 这本书题为 Once Upon a Prime，篇幅长达 320 多页，作者是格雷沙姆学院教授、伦敦大学伯克贝克学院名誉教授 \n本文链接",
+          "link": "https://news.cnblogs.com/n/763491/",
+          "publishedOn": "2024-01-22T00:12:07.000Z",
+          "wordCount": 163,
+          "title": "文学作品中也“处处是数学”？揭秘数学家眼里的文字世界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763490/",
+          "author": null,
+          "description": "金磊发自凹非寺 量子位公众号 QbitAI Sam Altman（奥特曼），造芯依旧！ 据彭博社消息，奥特曼再次为一家人工智能芯片企业筹集数十亿美元。 目的是利用这笔资金开发一个“工厂网络”（network of factories），用于制造，该网络将延伸到全球，并涉及与未透露名字的“顶级芯片制造\n本文链接",
+          "link": "https://news.cnblogs.com/n/763490/",
+          "publishedOn": "2024-01-22T00:11:00.000Z",
+          "wordCount": 163,
+          "title": "奥特曼，10亿美元砸向AI芯片",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/763489/",
           "author": null,
@@ -7619,256 +7749,6 @@
           "publishedOn": "2023-12-24T14:31:00.000Z",
           "wordCount": 163,
           "title": "Android 15 将能告诉用户什么时候换电池",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760989/",
-          "author": null,
-          "description": "快科技 12 月 23 日消息，去年以来，就有不少网友吐槽插电、增程混动车和纯电动车抢充电桩的现象。 其中理想由于销量巨大，一度成为众矢之的，不少人认为，能加油非要充电，还和纯电车抢桩，实在是不理解。 近日，又有网友就此事发问，同时拥有理想和蔚来的数码博主“科技少帮主”进行了详细解答，给出了三大方面\n本文链接",
-          "link": "https://news.cnblogs.com/n/760989/",
-          "publishedOn": "2023-12-23T09:26:09.000Z",
-          "wordCount": 163,
-          "title": "理想能加油为何还要占用充电桩 博主解读：三大方面原因",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760988/",
-          "author": null,
-          "description": "12 月 23 日，俞敏洪在抖音评论区透露，东方小孙（孙东旭）不会离开东方甄选。俞敏洪表示，“大家放心，东方小孙不会离开东方甄选，我会努力守护爱护好东方甄选的每一位孩子！” 东方甄选 12 月 22 日晚间在港交所公告，于 2023 年 12 月 22 日，孙东旭已辞任公司非执行董事一职，即时生效。\n本文链接",
-          "link": "https://news.cnblogs.com/n/760988/",
-          "publishedOn": "2023-12-23T09:20:00.000Z",
-          "wordCount": 163,
-          "title": "俞敏洪：孙东旭不会离开东方甄选",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760987/",
-          "author": null,
-          "description": "12 月 23 日消息，前不久东航的第三驾 C919 已经开始投入运营，该机型投运至今备受乘客与航司的好评，因此又将迎来新订单。 据中国国际航空股份有限公司最新公告，公司将向特定对象发行A股股票拟募集资金总额不超过 60 亿元，将用于购置飞机及补充流动资金。 其中 42 亿元用于引进 17 架飞机，\n本文链接",
-          "link": "https://news.cnblogs.com/n/760987/",
-          "publishedOn": "2023-12-23T09:19:18.000Z",
-          "wordCount": 163,
-          "title": "国产大飞机C919最新价格曝光：7.67亿一架",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760986/",
-          "author": null,
-          "description": "文科技新知 合资车什么时候退出中国？ 保守派认为，合资品牌财大气粗、根基稳固，转型成功只是时间问题；激进派则大多直接判了“死刑”：今年只是清退开始，2025 年便是结束。 双方观点各有道理，但也都基于一个不容争辩的事实，就是在国内叱咤了 40 年的合资品牌，已经成了牌桌上的边缘玩家。 破产清算、产能\n本文链接",
-          "link": "https://news.cnblogs.com/n/760986/",
-          "publishedOn": "2023-12-23T09:04:20.000Z",
-          "wordCount": 163,
-          "title": "合资车的2023：不躺平、卷不动、待重生",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760985/",
-          "author": null,
-          "description": "文价值星球 Planet，作者竹铭，编辑唐飞 近几日，圣诞节的节日气氛越来越浓烈。 而且这种氛围已经从购买圣诞树、圣诞鲜花逐渐“蔓延”到更多领域，比如瑞幸咖啡和库迪咖啡就推出圣诞限定饮品和周边，乐事更是推出了瞄准聚会场景的特供版薯片。 作为西方重要节日，圣诞节影响力也已经从大洋彼岸传到我国，并逐渐引\n本文链接",
-          "link": "https://news.cnblogs.com/n/760985/",
-          "publishedOn": "2023-12-23T08:56:23.000Z",
-          "wordCount": 163,
-          "title": "任何“圣诞限定款”，其实都想赚你的钱",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760984/",
-          "author": null,
-          "description": "图片来源@视觉中国 文 BT 财经，作者 梦萧 董宇辉“小作文”事件热度居高不下，高途或是获益者之一。 高途仅在 12 月 14 日当天，美股股价就暴涨 29.27%，4 天内涨幅超 70%。据《北京日报》12 月 18 日报道，俞敏洪宣布任命董宇辉为新东方教育科技集团董事长文化助理，兼任新东方文旅\n本文链接",
-          "link": "https://news.cnblogs.com/n/760984/",
-          "publishedOn": "2023-12-23T08:34:53.000Z",
-          "wordCount": 163,
-          "title": "苦了宇辉，活了高途",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760983/",
-          "author": null,
-          "description": "近日，英特尔 CEO Pat Gelsinger 在接受麻省理工学院采访时称，竞争对手英伟达之所以能在 AI 芯片领域获得主导地位纯属侥幸。他表示，如果当年英特尔没有终止 Larrabee 处理器项目，就会在 AI 领域大放异彩。 对此，英伟达应用深度学习研究副总裁 Bryan Catanzaro \n本文链接",
-          "link": "https://news.cnblogs.com/n/760983/",
-          "publishedOn": "2023-12-23T08:32:37.000Z",
-          "wordCount": 163,
-          "title": "英特尔 CEO 言论惹争议，遭英伟达高管呛声驳斥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760982/",
-          "author": null,
-          "description": "《福布斯》AI 专栏作家、Radical Ventures 合伙人 Rob Toews 昨日发布了 2024 年 AI 发展十大预测。Radical Ventures 是一家关注 AI、深度学习的风投机构，今年 2 月 AI 科学家李飞飞加入该机构，并担任科学合伙人。 2024 年 AI 发展十大预\n本文链接",
-          "link": "https://news.cnblogs.com/n/760982/",
-          "publishedOn": "2023-12-23T08:31:32.000Z",
-          "wordCount": 163,
-          "title": "福布斯发布 2024 年 AI 发展十大预测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760981/",
-          "author": null,
-          "description": "Humane 当地时间周五宣布，人工智能可穿戴设备 AI Pin 将于 2024 年 3 月开始发货。据报道，Humane 表示将根据购买日期发货，AI Pin 的整套系统起售价为 699 美元，另外还有每月 24 美元的订阅费用。 尽管 Humane 并未透露订单开始发货的具体日期，但 3 月份的\n本文链接",
-          "link": "https://news.cnblogs.com/n/760981/",
-          "publishedOn": "2023-12-23T08:30:58.000Z",
-          "wordCount": 163,
-          "title": "号称「AI 界的 iPhone」AI Pin 明年 3 月份发货",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760979/",
-          "author": null,
-          "description": "据《纽约时报》报道，苹果公司正在与多家主要新闻出版商洽谈内容许可协议，以获取训练人工智能系统所需的数据。 苹果已与 Condé Nast、NBC News 和 IAC 等进行接洽。这些协议价值预计至少 5000 万美元，苹果希望获取新闻文章档案授权。 但消息称，苹果提出的条款「过于宽泛」，在如何将生\n本文链接",
-          "link": "https://news.cnblogs.com/n/760979/",
-          "publishedOn": "2023-12-23T05:54:00.000Z",
-          "wordCount": 163,
-          "title": "苹果希望与大型出版商合作训练人工智能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760978/",
-          "author": null,
-          "description": "文锌刻度，作者 李觐麟，编辑 星晚 不知不觉，魔幻的 2023 年也即将步入尾声。 尽管今年的消费多少带着一丝疲软的味道，但各个品牌、各大平台仍然在各种各样的促销节点上卖力地吆喝，仿佛有使不完的“牛劲”。 而回顾这一年，从年初的《狂飙》成为开年第一爆款，到之后 ChatGPT 带动各行各业搭上快车，\n本文链接",
-          "link": "https://news.cnblogs.com/n/760978/",
-          "publishedOn": "2023-12-23T03:50:02.000Z",
-          "wordCount": 163,
-          "title": "触摸“新五感”：品牌学会为年轻人“情绪按摩”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760977/",
-          "author": null,
-          "description": "文满投财经 优必选（09880.HK）将于今日结束招股认购。作为被国内称作“人形机器人”第一股的科技公司，优必选本次的招股打新给人的感觉就是低调。 一方面，这与当前时间点，A股&港股的低迷市场环境有关，而从另一个角度来说，这或许也与大家对新股的“概念炒作”逐渐免疫有关，毕竟过去一年已经有无数炙手可热\n本文链接",
-          "link": "https://news.cnblogs.com/n/760977/",
-          "publishedOn": "2023-12-23T03:45:40.000Z",
-          "wordCount": 163,
-          "title": "“人形机器人第一股”招股步入尾声，优必选或成2023港股打新收官之作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760976/",
-          "author": null,
-          "description": "12 月 22 日，国家新闻出版署发布关于《网络游戏管理办法（草稿征求意见稿）》公开征求意见的通知。草案征求意见稿加入了一些重要限制： 「网络游戏不得设置每日登录、首次充值、连续充值等诱导性奖励；网络游戏出版经营单位不得以炒作、拍卖等形式提供或纵容虚拟道具高价交易行为；所有网络游戏须设置用户充值限额\n本文链接",
-          "link": "https://news.cnblogs.com/n/760976/",
-          "publishedOn": "2023-12-23T03:44:40.000Z",
-          "wordCount": 163,
-          "title": "网络游戏管理办法草案出台，港股游戏股大跌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760975/",
-          "author": null,
-          "description": "近日，抖音一哥“疯狂小杨哥”再次因直播带货一款牛肉卷翻车被推至舆论中心。 据红星新闻报道，近日由“疯狂小杨哥”带货的牛肉卷被指货不对板。有消费者表示，在小杨哥直播间购买的一款售价 89.9 元 4 斤，名为“原切牛肉卷”的湖北某品牌牛肉卷，吃不出牛肉味，疑似为合成肉。随后该用户通过售后得到了退款。 \n本文链接",
-          "link": "https://news.cnblogs.com/n/760975/",
-          "publishedOn": "2023-12-23T03:41:33.000Z",
-          "wordCount": 163,
-          "title": "疯狂小杨哥的“疯狂2023”：低俗、虚假宣传、多个供应商被责令整改",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760974/",
-          "author": null,
-          "description": "图片来源@视觉中国 文连线出行，作者周雄飞 动力电池，再次成为关注焦点。 这是因为蔚来、极氪和广汽埃安等车企，都把近日的宣传重点聚焦在动力电池领域。上周末，蔚来创始人、董事长、 CEO 李斌与蔚来能源高级副总裁沈斐一起开着一辆 ET7，在连续不间断、且不补能的前提下，完成了超过 1000 公里行驶里\n本文链接",
-          "link": "https://news.cnblogs.com/n/760974/",
-          "publishedOn": "2023-12-23T03:40:21.000Z",
-          "wordCount": 163,
-          "title": "极氪发“金砖”、蔚来测续航，宁德时代们会有压力吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760973/",
-          "author": null,
-          "description": "文首席商业评论 东方甄选的小作文风波终于告一段落了。董宇辉在粉丝的呐喊下终于被升职加薪了，虽然老俞出面暂时摆平了这场风波，但这个动作还是做得晚了一些。 大家好，我是首席商业评论的主编卫明。今天我还是想和大家聊聊看热闹后的个人想法。 董宇辉其实火了一年多了，带来的粉丝数，销量，以及破圈的影响力，足以让\n本文链接",
-          "link": "https://news.cnblogs.com/n/760973/",
-          "publishedOn": "2023-12-23T03:38:40.000Z",
-          "wordCount": 163,
-          "title": "“小作文”结束，董宇辉的大考才刚开始",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760972/",
-          "author": null,
-          "description": "图片来源：视觉中国 在互联网行业趋近于没有新故事的当下，小红书一直被视为一个特别的存在。它还有活力，还在不断生长。 在今年才突破 1 亿 DAU 的社交产品，小红书社区的生长常被评价“慢”。但现在，有一个用户行为正在急剧增长。 近日，小红书 COO 柯南披露了小红书的搜索数据。目前，在小红书上，有将\n本文链接",
-          "link": "https://news.cnblogs.com/n/760972/",
-          "publishedOn": "2023-12-23T03:34:00.000Z",
-          "wordCount": 163,
-          "title": "小红书搜索的美妙之处是，带出了更多商业需求",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760971/",
-          "author": null,
-          "description": "本文来源于微信公众号创业邦（ID：ichuangyebang），作者李霜霜，编辑丨海腰 随着 OpenAI 的 Dall-E2 推出，AI 图像生成再次流行起来，视频和图像平台如 TikTok、Lightricks、Canva 都加入了 AIGC 的艺术风格组建。月活创作者过亿的 PicsArt 也\n本文链接",
-          "link": "https://news.cnblogs.com/n/760971/",
-          "publishedOn": "2023-12-23T03:28:00.000Z",
-          "wordCount": 163,
-          "title": "这个60后创始人做出的“照骗”神器，1.2亿Z世代都在用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760970/",
-          "author": null,
-          "description": "文 AI 商业评论 “AI 电商时代刚刚开始，对谁都是机会，也是挑战。” 针对阿里员工对于拼多多财报和电商等的讨论，马云在阿里内网罕见地参与了谈论并发言。 阿里巴巴一向雷厉风行，已打响了 AI 电商的“第一炮”。 根据《晚点 LatePost》报道，淘天集团刚刚梳理完其 AI 业务，从约 20 个团\n本文链接",
-          "link": "https://news.cnblogs.com/n/760970/",
-          "publishedOn": "2023-12-23T03:21:55.000Z",
-          "wordCount": 163,
-          "title": "阿里能借助AI电商反杀拼多多吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760969/",
-          "author": null,
-          "description": "文拓品新消费，作者 月岛、游牧，编辑岳颜 昨天，董宇辉又一次出现在东方甄选直播间，销冠之态溢于言表。 前脚刚与俞敏洪喝完“过期汽水”，后脚又与新东方 CEO 周成刚在直播间涮火锅，哪怕是在直播间里“不务正业”，董宇辉依旧还是东方甄选话题与成交额的中心。 同样，这场直播也被董宇辉的粉丝丈母娘们视作是一\n本文链接",
-          "link": "https://news.cnblogs.com/n/760969/",
-          "publishedOn": "2023-12-23T03:12:40.000Z",
-          "wordCount": 163,
-          "title": "卧底董宇辉粉丝群，我发现丈母娘想让他和东方甄选划清界限",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760965/",
-          "author": null,
-          "description": "文｜王怡宁 编辑｜尚恩 最近 AI 视频赛道大火，Pika 推出 1.0 版本，并宣布融资千万美金，出尽风头。 而作为 AI 视频生成的老大哥，现象级产品 Gen-1、Gen-2 的开发商 Runway 突然宣布组建团队开发通用世界模型（General World Models，以下简称 GWMs）\n本文链接",
-          "link": "https://news.cnblogs.com/n/760965/",
-          "publishedOn": "2023-12-22T14:38:13.000Z",
-          "wordCount": 163,
-          "title": "Runway开发通用世界模型，想让AI更好地模拟世界",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760964/",
-          "author": null,
-          "description": "12 月 22 日，游戏板块迎来巨震。 截至 22 日收盘，A股网络游戏板块三七互娱、游族网络、巨人网络、完美世界、吉比特等跌停，创业板盛天网络、冰川网络、掌趣科技等均跌超 10%；港股网络游戏板块网易跌 24.6%，腾讯控股跌 12.35%，哔哩哔哩跌近 10%，此外，祖龙娱乐、网龙跌 13%、中\n本文链接",
-          "link": "https://news.cnblogs.com/n/760964/",
-          "publishedOn": "2023-12-22T14:31:52.000Z",
-          "wordCount": 163,
-          "title": "暴跌！腾讯市值跌没了一个小米",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760963/",
-          "author": null,
-          "description": "文节点财经，作者一灯 继小鹏牵手大众后，新势力零跑汽车也加入到“合资车”大军中。 11 月 20 日，零跑汽车与欧洲老牌汽车集团 Stellantis 正式完成全球战略合作伙伴关系的交割，距离双方签约官宣这一消息，仅仅过去 25 天。合作敲定完成之神速，令人瞠目结舌。此番合作，零跑汽车将获得来自 S\n本文链接",
-          "link": "https://news.cnblogs.com/n/760963/",
-          "publishedOn": "2023-12-22T14:28:19.000Z",
-          "wordCount": 163,
-          "title": "零跑汽车牵手欧洲汽车大集团，一场互赢的双向奔赴？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760962/",
-          "author": null,
-          "description": "文雷达财经，作者长帆，编辑深海 12 月 22 日，网易股价重挫，一度跌幅达 28.24%，至发稿跌幅依然超 25%。 消息面上，国家新闻出版署发布了《网络游戏管理办法（草案征求意见稿）》，提到网络游戏不得设置每日登录、首次充值、连续充值等诱导性奖励，所有网络游戏须设置用户充值限额。 《征求意见稿》\n本文链接",
-          "link": "https://news.cnblogs.com/n/760962/",
-          "publishedOn": "2023-12-22T14:27:31.000Z",
-          "wordCount": 163,
-          "title": "网易股价直线下跌，跌幅一度达28%，公司对游戏依赖有多重？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/760961/",
-          "author": null,
-          "description": "摘要 吕骋比过去任何时候都更接近他十年前所分享的未来愿景，天下无 APP。 据外媒 12 月 20 日消息，由华人创立的 AI 公司 rabbit 又获得了一笔千万美元的融资，这是他们近 2 个月所获得的第 3 笔融资。 2 个月前，他们获得美国著名科技富豪、风险投资家科斯拉（Vinod Khosl\n本文链接",
-          "link": "https://news.cnblogs.com/n/760961/",
-          "publishedOn": "2023-12-22T14:25:09.000Z",
-          "wordCount": 163,
-          "title": "rabbit 再获千万美元融资，将在 AI 时代取代 APP 交互",
           "imageUrl": null
         }
       ]
