@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n一位意大利摄影师，苦苦尝试了6年，终于在本月拍到了一张难以置信的照片：大教堂、山峰、月亮处于一条直线，并且地球反射的太阳光，通过长曝光，可以照亮月亮顶部。（via）\nYouTube 有多少个视频？\nYouTube 是世界最大视频网站，全世界的人都在上传视频。\n\n但是，它没有透露过，内部一共有多少个视频。\n上周，网上出现了一篇有趣的文章，使用概率方法，估计 YouTube 的视频总数。\n\n这篇文章非常有启发意义，面试可能也会出这一类的题目。下面，我就分享作者是怎么做的。\n我们知道，每一个 YouTube 视频都有唯一编号，放在 URL 里面。\n比如，某个视频的 URL 是https://www.youtube.com/watch?v=NJHG0yuBabQ&，那么它的视频编号就是NJHG0yuBabQ&。\n\nYouTube 也没有透露过，这个编号是怎么产生的。\n但是根据观察，可以得知它是一个11位字符串，前十位字符的取值范围是64个值（[a-zA-Z0-9_-]），最后的第十一位字符的取值范围只有16个值。\n这意味着，所有的编号一共有 2^64 种可能，这是一个超级巨大的数字，足以容纳过去和将来所有可能生成的视频。\n显然，不是每一个编号，都有对应的视频，绝大部分是空号，而且空号远远多于实际视频。如果我们假定，YouTube 一共有10亿个视频，那么你大概猜184亿次，才会猜中一个有效的编号（前提是这些编号为均匀分布）。\n那么，我们可以反推，通过抽中有效编号的概率，判断出 YouTube 一共有多少个视频。\n这就好比，某个地区的电话号码是从 843-000-0000 到 843-999-9999，一…",
-          "link": "http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html",
-          "publishedOn": "2023-12-29T00:11:07.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 284 期）：YouTube 有多少个视频？",
-          "imageUrl": null
         }
       ]
     },
@@ -817,36 +807,6 @@
           "wordCount": 685,
           "title": "变色龙效应：社会生存的自然粘合剂",
           "imageUrl": "https://cdn.sspai.com/2023/12/30/886cf8c61b959405ab9ac6f7c63ee0cf.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85434",
-          "author": "菟狐owo",
-          "description": "我常常想给魅族 20 写点文章，但始终没有写就一个字来。是我对它太包容了吗？是我包容得无所谓了吗？我也不知道是什么缘故，总感觉还差点意思。\n如今用上这部时隔 8 个月的迭代款魅族 21，倒使我生出点兴致来了。不光是差的那点意思得到了弥补，更是在某些地方带来了新的体验。\n作为精神煤油+肉体煤油的我来说，「小而美」就像清澈见底的湖水，你一走进去，它就把你淹了。\n\n■ 外观\n想当初在歇台子的柜台前纠结了很久的粉色和绿色，现在竟通过阴差阳错的方式集齐了这两种颜色，不免感觉命运的齿轮转动得很有戏剧性。我很喜欢彩色的手机，活泼、清新的颜色能够带来更多的情绪价值。\n\n我觉得这绿得恰到好处，闪闪的如浸入柔软的星砂里，到处洋溢着活力。中框颜色更深，仿佛有沉沉的风，吹出细细的磨砂，镶嵌着亮眼的天线。阳光下，高亮的金属铝中框勾勒出形状，说不定在什么时候，整机竟有了一层绿气。\n\n直角中框与摄像头模组的设计与上一代别无二致，想必手感也差不多吧。拈来把玩一阵，方觉手感与魅族 20 有较大差异，细细对比，心中埋藏的想法冒了出来——魅族 21 回归了魅族特有的「矮胖」手感。魅族 21 的屏幕尺寸由魅族 20 的 20:9调整到了 19.5:9，机身宽度宽了 2 mm，机身高度低了 1.2 mm，用惯了魅族 20 的细长，虽变化细微，但还是能明显察觉。\n\n拜设计所赐，直角中框的握持手感比较有侵略性，可能是我的手掌比较小，魅族 21 的宽度再加上直角边框就显得有点撑手了，握持体验相较于魅族 20 来说有些许倒退。由于金属中框与背板的过渡较小，日常使用中还是推荐佩戴保护壳使用。\n\n点亮屏幕，正面观感对得起正面颜值天花板的称号。这么多年下来，我也集齐了最近几代的魅族旗舰机，切真感受到屏幕正面设计美学的升级。魅族 15 的左右超窄边框；魅族 16s Pro 的非挖孔全面屏；魅族 17 Pro 的大屏窄边框；魅族 1…",
-          "link": "https://sspai.com/post/85434",
-          "publishedOn": "2023-12-29T07:42:56.000Z",
-          "wordCount": 841,
-          "title": "「魅族21」使用体验",
-          "imageUrl": "https://cdn.sspai.com/2023/12/28/5958e2c8fbbf976716217fba591f758f.png"
-        },
-        {
-          "id": "https://sspai.com/post/85141",
-          "author": "_东东_",
-          "description": "Matrix 首页推荐 \nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 \n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n前言\n这几年有写博客的兴趣，虽然文章产出的不多，但是工具却用了不少：2021 年初次在服务器上部署 WordPress，到转向轻量级的 typecho，再到使用 github + hexo + vercel 的纯静态博客。\n这些工具固然好，但作为个人博客来说，博客其实就是个人笔记的输出，以上工具使笔记与博客之间产生强烈的割裂感，并不满足我的需求。\n但在这个 2023 年末，我终于找到了完美的博客发布体验 —— 基于 Trilium 共享功能的博客发布方案。\n先谈谈我的痛点\n博客与笔记割裂感强\n在我的知识管理框架中，笔记以原子笔记的形式存在，一条笔记只记录一个主题，通过双向链接的方式，某些笔记会聚合起来形成具有特定主题的文章，而将这些文章分享出去就成了博客。所以，博客与笔记本质上没有任何区别，无非就是具有特定观点的笔记聚合物。\n我的知识管理流程\n目前写博客的流程一般有以下几种：\n\nMarkdown 编辑器（typora、vscode） + 纯 Markdown 文本。\n传统笔记软件（印象笔记、joplin）+ 手动复制到博客\n知识管理工具（obsidian、notion） + Markdown + 自动化博客迁移插件\n\n但以上流程中笔记与博客实际上是处于一种分离状态，本质上是把自己的笔记复制一份并且部署到博客平台而已。当然还有些自带发布方案的工具，比如飞书、flowus、obsidian 的发布方案，但这些发布方案充其量只能算是一个方便他人浏览的分享功能，并称不上是一个博客。\n不方便修改\n修改博文是一件常有的事情，不论是静态博客…",
-          "link": "https://sspai.com/post/85141",
-          "publishedOn": "2023-12-29T03:08:13.000Z",
-          "wordCount": 791,
-          "title": "全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客",
-          "imageUrl": "https://cdn.sspai.com/2023/12/18/5eb4af34486ef6f6da3e5792ee26a088.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85427",
-          "author": "Sholmes",
-          "description": "本文参加「放轻松」征文活动\n前言\n浏览到关于如何放松的征文活动的时候，最先想到的是我看过的那些十分解压的剧。\n豆瓣的年终总结里，最喜欢的类型是喜剧。我确实看了不少这种类型的剧，比如《万物生灵》，前几季喜欢看农场和动物，第四季开始关注起一家人如何智斗Mr. Farnon。有关农场题材的还有《克拉克森的农场》，无论是杰里米智斗野獾阻止肺结核的传播，还是为了开办餐厅和当地管理部门扯皮的情节都让人忍俊不禁。\n\n \n除了和动物有关的那些剧，有几部家庭情感类的剧也值得推荐。像是《0.5的男人》，好看之处除了因为有我喜欢的西野七濑，还有围绕一名大龄宅男所展开的生活画卷。《往这边看 向井君》虽然是恋爱题材，但和《0.5的男人》一样，也用一种轻松的方式探讨了不同类型的生活方式。\n虽然下班后已无心再看一些话题比较沉重的剧，用喜剧来解压无可厚非，但豆瓣总结里看过最多的是喜剧类型这件事，还是让我有些吃惊。因为我最喜欢的其实并非喜剧，而是犯罪悬疑剧。我从初高中时期就喜欢上了阅读推理小说，后来陆续看了《古畑任三郎》，《神探伽利略》等推理题材的剧，上大学时看的剧一直以来也是以这种类型为主。\n起步\n四年本科，最让我感到遗憾的事情不是那段无疾而终的恋情，也不是某一门科目没有拿到理想的成绩，而是没能在大学里成立一个推理爱好者社团。\n记得当时还专门发邮件给学校，咨询了成立社团的详细步骤。也许是课业压力比较繁重，而且我当时还参加了学校的辩论队，所以成立推理社团的事情就不了了之了。最近刚看了新星出版社在京都大学对绫辻行人的专访，里面提到了传承的话题。京大的推理社团到现在还保留着绫辻行人当年写的剧本杀之类的资料，着实令人羡慕。\n去年有一天去朋友Ellery家庆祝中秋，聊到了经常听的播客节目，就有了制作一档推理播客的想法，也算是弥补当年没能成立社团的遗憾。播客的名字叫作「波罗咖啡馆」，起这个名字首先是因为阿加莎克里斯蒂…",
-          "link": "https://sspai.com/post/85427",
-          "publishedOn": "2023-12-28T13:34:18.000Z",
-          "wordCount": 640,
-          "title": "放轻松 | 成为播客主播的第二年，我感觉越来越放松",
-          "imageUrl": "https://cdn.sspai.com/2023/12/28/a4ff6cad6a0e6421f184f6f144ec613b.PNG"
         }
       ]
     },
@@ -904,6 +864,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77238",
+          "author": null,
+          "description": "为遵守欧盟的《数字市场法案》（DMA），苹果宣布将在欧洲地区允许第三方应用商店、允许侧载（sideloading），允许使用非 WebKit 浏览器引擎。然而与此同时苹果设置了很多限制，以至于对绝大部分应用开发商而言，在苹果官方应用商店之外提供应用得不偿失。Epic Games CEO Tim Sweeney 称，苹果迫使开发商做选择，而根据 DMA 这么做是非法的。37signals 的 David Heinemeier Hansson 以 Meta 旗下的热门应用 Instagram 为例，如果它想在的第三方应用商店发行其应用，那么根据苹制定的 “核心技术使用费”——安装量超过 100 万次后，须每年为每首次安装支付 €0.50。Instagram 在欧洲有逾 3 亿用户，远远超过 100 万这个阈值，假设以 2.5 亿欧洲用户计算，Meta 需要每月向苹果支付 11,277,174 美元，每年支付 1.35 亿美元。 Meta 旗下的另一个热门应用 WhatsApp 在欧洲地区更流行，意味着每年支付给苹果的金额将超过 1.35 亿美元。仅仅为了支持第三方商店，Meta 就需要每年支付数亿美元的费用。Mozilla 的 Damiano DeMonte 指出使用非 WebKit 浏览器引擎听起来很美好，但对于 Mozilla 这样的浏览器开发商而言，却意味着在 iOS 平台需要维护和构建两个版本，苹果却没有这样的负担。很多人批评苹果根本就不想遵守 DMA。",
+          "link": "https://www.solidot.org/story?sid=77238",
+          "publishedOn": "2024-01-27T14:10:17.000Z",
+          "wordCount": 208,
+          "title": "苹果的欧洲新规招致广泛批评",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77237",
+          "author": null,
+          "description": "同一代人有着相似的成长经历，彼此的政治和一般意识形态也趋于相近。然而最近的一系列调查显示，Z 世代的年轻男女之间有着巨大的鸿沟。盖洛普数据显示，美国男性和女性过去几十年在自由主义和保守主义世界观上的分布基本相同。但过去六年 18-30 岁女性比男性同龄人倾向于自由主义的比例高出 30%。德国有类似的现象，年轻一代男性日益保守，而同龄女性则日益趋向于自由派，双方之间存在 30 个百分点的差距。英国的这一差距约为 25 个百分点。在波兰，18-21 岁的男性约半数支持极右翼的联邦党（Confederation party），同龄女性支持比例只有六分之一。亚洲的韩国和中国、非洲突尼斯都有类似的模式。#MeToo 运动可能是这一模式背后的重要原因。韩国展现了年轻一代男女之间巨大政治分歧的可能结果：出生率降为每名女性生育 0.78 个孩子，为世界最低。",
+          "link": "https://www.solidot.org/story?sid=77237",
+          "publishedOn": "2024-01-27T13:36:58.000Z",
+          "wordCount": 169,
+          "title": "年轻一代男女之间的政治分歧日益扩大",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77236",
+          "author": null,
+          "description": "根据发表在《柳叶刀》期刊上的一项研究，接受基因疗法的耳聋儿童恢复听力和语言能力。这项临床实验在复旦大学附属眼耳鼻喉科医院进行，针对的是遗传性耳聋 DFNB9 患者。DFNB9 由 OTOF 基因突变和无法产生功能正常的 otoferlin 蛋白引起，而 otoferlin 蛋白是将声音信号从耳朵传递到大脑所必需的。研究人员对 6 名患有DFNB9 的儿童进行了为期 26 周的观察。他们利用一种携带人类 OTOF 基因的腺相关病毒(AAV)，通过一种特殊的外科手术程序，小心地将该基因引入患者的内耳。使用不同剂量的单次注射病毒载体。研究中的所有六名儿童都有完全耳聋，平均听觉脑干反应(ABR)阈值超过 95 分贝。26 周后 5 名儿童表现出听力恢复，在 ABR 测试中显示出 40-57 分贝的下降，语言感知的显著改善，以及进行正常对话的能力的恢复。总体而言，未观察到剂量限制性毒性。",
+          "link": "https://www.solidot.org/story?sid=77236",
+          "publishedOn": "2024-01-26T15:35:34.000Z",
+          "wordCount": 183,
+          "title": "接受基因疗法的耳聋儿童恢复听力和语言能力",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77235",
           "author": null,
@@ -3123,86 +3113,6 @@
           "wordCount": 177,
           "title": "德国研究人员破解特斯拉的辅助驾驶系统解锁埃隆模式",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77010",
-          "author": null,
-          "description": "中国 2023 年汽车出口量将超过日本，首次跃居世界首位。中国汽车工业协会的数据显示，1~11 月中国出口量（速报值）同比增长 58%，达到 441.2 万辆。而日本的出 口1~11 月增长 15%，增至 399 万辆，预计2023年全年也仅为 430 万辆左右。中国的上半年出口量数据已经超过日本，而全年数据居首也将成为现实。按可比较的各国数据来看，这将是 2016 年以来日本第一次从汽车出口量首位跌落。2016 年时，德国的汽车出口排在第一。",
-          "link": "https://www.solidot.org/story?sid=77010",
-          "publishedOn": "2023-12-29T10:10:37.000Z",
-          "wordCount": 172,
-          "title": "中国全年汽车出口量首次跃居世界首位",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77009",
-          "author": null,
-          "description": "根据本周三发表在《Applied Psychology》期刊上的一项研究，适度游戏有益身心健康。电子游戏是一种流行休闲方式，很多人在下班之后都会玩游戏。但另一方面游戏通常与负面意义联系在一起，与晚睡和睡眠质量差等相关。在这项研究中，研究人员发现下班后玩游戏是一项有益健康的活动，能重新补充满一天工作中消耗的心理和生理能量。研究人员同时指出，过度痴迷于游戏则会在游戏上投入太多时间，适度则有助于平衡休闲和生活。游戏可以缓解与工作相关的压力，能成为缓解日常工作压力的有益活动。",
-          "link": "https://www.solidot.org/story?sid=77009",
-          "publishedOn": "2023-12-29T09:21:51.000Z",
-          "wordCount": 158,
-          "title": "适度游戏有益身心健康",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77008",
-          "author": null,
-          "description": "中国今年至今完成了 66 次轨道发射，64 次成功，仅次于 SpaceX 和美国。12 月 30 日还有一次发射。今年的总发射次数与去年接近：2022 年轨道发射共 64 次成功 62 次。在 66 次发射中，长征火箭 46 次，非长征火箭如谷神星和快舟共发射 20 次。其中长征二号丁发射频率最高有 12 次，仅次于 SpaceX 的 Falcon 9 Block 5——今年多达 92 次。天宫空间站有三次任务，其中一次补给和两次载人的神舟任务。明年预计也将会进行两次神舟载人任务，明年初还将有一次天宫补给任务。",
-          "link": "https://www.solidot.org/story?sid=77008",
-          "publishedOn": "2023-12-29T07:05:16.000Z",
-          "wordCount": 193,
-          "title": "中国今年完成了逾 60 次轨道发射",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77007",
-          "author": null,
-          "description": "周四 SpaceX 在肯尼迪太空中心使用 Falcon Heavy 火箭发射了美国空军的神秘轨道飞行器 X-37B，这是 X-37B 的第七次飞行。两小时 54 分后，SpaceX 在卡纳维拉尔角太空军基地发射了一枚 Falcon 9 火箭，这是美国自 1960 年代中期以来两次轨道火箭发射的最短间隔。这是 SpaceX 今年至今的第 95 次和第 96 次飞行。美国空军在 2010 年 4 月 22 日发射了第一架 X-37B OTV-1，这架飞行器于当年 12 月 3 日返回地面。X-37B 的上一次任务是在 2020 年 5 月 17 日发射，2022 年 11 月 12 日着陆，在轨飞行了 908 天，创造了记录。X-37B 由波音公司制造，载重五吨，大小为航天飞机的四分之一，被认为是太空间谍飞机，可能具有武器化能力，但美国军方一直强调称飞行器主要用于测试在轨技术。",
-          "link": "https://www.solidot.org/story?sid=77007",
-          "publishedOn": "2023-12-29T06:39:52.000Z",
-          "wordCount": 213,
-          "title": "SpaceX 发射 X-37B",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77005",
-          "author": null,
-          "description": "本周二中国在西昌卫星发射中心使用长征三号乙/远征一号运载火箭成功将第 57、58 颗北斗导航卫星送入预定轨道。这两颗卫星是北斗三号工程的备份卫星，用于降低北斗三号系统运行风险，确保系统各类服务连续稳定。根据社交媒体上的视频，火箭的两个助推器坠落在四川西昌下游区域的广西居民区附近。当地居民拍摄到了火箭助推器坠落的视频，其中之一坠落在靠近村庄的森林并发生爆炸产生红烟。",
-          "link": "https://www.solidot.org/story?sid=77005",
-          "publishedOn": "2023-12-29T05:56:45.000Z",
-          "wordCount": 160,
-          "title": "村民拍摄到长征火箭助推器坠落视频",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77004",
-          "author": null,
-          "description": "在 GeForce RTX 4090 被列入了出口管控清单之后，英伟达推出了特供中国市场销售的 GeForce RTX 4090 D，建议零售价 1.3 万人民币，1 月 20 日发售。RTX 4090 D 有 14592 个 CUDA Core 核心，频率 2.28GHz-2.52GHz，显存 24 GB GDDR6X。相比下原版 RTX 4090 有 16384 个 CUDA Cores 核心。新版本能满足美国的出口管控要求，预计会大幅降低 AI 推理性能，游戏性能可能变化不太显著。",
-          "link": "https://www.solidot.org/story?sid=77004",
-          "publishedOn": "2023-12-28T14:53:46.000Z",
-          "wordCount": 208,
-          "title": "英伟达发布特供中国销售的 GeForce RTX 4090 D",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77003",
-          "author": null,
-          "description": "美国卡车发动机制造商 Cummins 与美国及加州政府达协议，支付 16 亿美元罚款和解排放作弊。Cummins 的作弊手段被认为与数年前的大众排放作弊丑闻类似，利用软件控制排放，如果检测到正在进行排放测试，那么就限制排放以通过检查，其余时间则超额排放污染物。美国司法部指控 Cummins 公司在上百万台皮卡发动机上安装了排放作弊软件。但该公司不承认有不当行为，表示将重新校准发动机软件以确保发动机符合联邦的排放法规。",
-          "link": "https://www.solidot.org/story?sid=77003",
-          "publishedOn": "2023-12-28T14:20:15.000Z",
-          "wordCount": 171,
-          "title": "美国卡车引擎制造商因排放作弊被罚 16 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77002",
-          "author": null,
-          "description": "科学家发现了一种利用近红外光刺激氨基花青(aminocyanine）分子分解癌细胞膜的方法。研究报告发表在《Nature Chemistry》期刊上。研究人员将他们的分子机器称为“分子手提钻”，其机械运动速度是另一种光分子机器 Feringa 型马达的百万倍。Feringa 型马达由 Ben Feringa 发明，他因此在 2016 年赢得诺贝尔化学奖。对实验室培养的癌细胞的测试显示，其破坏细胞的命中率高达 99%。对患有黑色素瘤小鼠的实验结果显示，半数不再复发。氨基花青分子能保持稳定，可吸附在癌细胞表面，然后用近红外光刺激振动破坏细胞膜。",
-          "link": "https://www.solidot.org/story?sid=77002",
-          "publishedOn": "2023-12-28T14:00:00.000Z",
-          "wordCount": 175,
-          "title": "科学家利用分子振动消灭 99% 的癌细胞",
-          "imageUrl": null
         }
       ]
     },
@@ -3211,6 +3121,66 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/763869/",
+          "author": null,
+          "description": "西风发自凹非寺 量子位公众号 QbitAI 一批人形机器人在美国旧金山街头出没，引得过往行人驻足观望： 可能还去上了个课，从加州大学伯克利分校校门大摇大摆走出： 路线不对，踩着小碎步，稳健调头： 或者不装了，调什么头，直接倒着走： 在各种场景下都可以看到它们的身影： 于是乎，“机器人正在接管旧金山”\n本文链接",
+          "link": "https://news.cnblogs.com/n/763869/",
+          "publishedOn": "2024-01-27T14:10:47.000Z",
+          "wordCount": 163,
+          "title": "“机器人正在接管旧金山”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763868/",
+          "author": null,
+          "description": "新智元报道 编辑：Mindy 美国著名科技播客 Latent Space 对于刚刚过去的 NeurIPS 2023 上的精彩论文进行了一个全面的总结，回顾了多篇优秀论文，虽然没有获奖，但同样值得学界关注。 近日，作为美国前十的科技博客，Latent Space 对于刚刚过去的 NeurIPS 202\n本文链接",
+          "link": "https://news.cnblogs.com/n/763868/",
+          "publishedOn": "2024-01-27T03:27:00.000Z",
+          "wordCount": 163,
+          "title": "NeurIPS 2023精选回顾：大模型最火，清华ToT思维树上榜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763867/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 多模态大模型将是 AI 下一个爆点。最近，通义千问 VLM 模型换新升级，超大杯性能堪比 GPT-4V。最最重要的是，还能限时免费用。 最近，通义千问实火。 前段时间被网友玩疯的全民舞王，让「AI 科目三」频频登上热搜。 让甄嬛、慈禧、马斯克、猫主子和兵马俑能跳舞那款 AI\n本文链接",
+          "link": "https://news.cnblogs.com/n/763867/",
+          "publishedOn": "2024-01-27T03:20:00.000Z",
+          "wordCount": 163,
+          "title": "中文性能反超VLM顶流GPT-4V，阿里Qwen-VL超大杯限免！看图秒写编程视觉难题一眼辨出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763866/",
+          "author": null,
+          "description": "新智元报道 编辑：编辑部 昨夜，OpenAI 一口气连更 5 款新模型。GPT-4 Turbo 变懒问题修复，代码生成能力史诗级加强。另外，多款模型价格大幅暴降。 GPT-4 又双叒叕变强了！ 今天，OpenAI 正式发布了更新版的 GPT-4 Turbo——gpt-4-0125-preview。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/763866/",
+          "publishedOn": "2024-01-27T03:12:00.000Z",
+          "wordCount": 163,
+          "title": "GPT-4「变懒」bug被修复，价格暴降80%！OpenAI连更5款新模型，性能狂飙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763865/",
+          "author": null,
+          "description": "新智元报道 编辑：拉燕 谷歌 Chrome 最新更新！添加 3 个由 AI 驱动的新功能，方便程度 Max。 就在这两天，谷歌直接把他们最新的 AI 技术，同时给整合到了 Windows 和 Mac 的 Chrome 里。 无论是用来工作还是普通的一次搜索，都像是装上了加速器。 具体来看，这次的更新\n本文链接",
+          "link": "https://news.cnblogs.com/n/763865/",
+          "publishedOn": "2024-01-27T03:06:00.000Z",
+          "wordCount": 163,
+          "title": "谷歌Chrome加持AI，重量级功能×3，Windows、Mac均可用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/763864/",
+          "author": null,
+          "description": "新智元报道 编辑：alan OpenAI 董事会的 Adam D'Angelo 被曝曾邀请竞争对手加入董事会，Altman 的地位又危险了，而另一方面，谷歌似乎被 OpenAI 压得喘不过气 Altman 的地位又危险了？ 据知情人士透露，上个月，OpenAI 董事会的 Adam D'Angelo \n本文链接",
+          "link": "https://news.cnblogs.com/n/763864/",
+          "publishedOn": "2024-01-27T03:00:00.000Z",
+          "wordCount": 163,
+          "title": "Altman地位又危了？！OpenAI董事会邀请竞争对手加入，还挖角谷歌Gemini高管",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/763863/",
           "author": null,
@@ -8009,336 +7979,6 @@
           "publishedOn": "2023-12-29T14:27:48.000Z",
           "wordCount": 163,
           "title": "京东诉阿里二选一胜诉后，要一起对抗拼多多了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761366/",
-          "author": null,
-          "description": "IT 之家 12 月 28 日消息，蔚来智能驾驶研发副总裁任少卿今日发文称，蔚来全域领航辅助 NOP + 累计开通城区里程达 319,821 公里，再次刷新了 15 天前的“年底完成 25 万公里城区领航路线验证”的目标。 任少卿透露，蔚来 NOP + 主干道覆盖率最低标准从 15 天前的 85% \n本文链接",
-          "link": "https://news.cnblogs.com/n/761366/",
-          "publishedOn": "2023-12-29T10:00:00.000Z",
-          "wordCount": 163,
-          "title": "蔚来任少卿：NOP + 辅助驾驶累计开通城区里程超 31 万公里",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761365/",
-          "author": null,
-          "description": "12 月 28 日消息，小米汽车技术发布会上，雷军透露小米自研智能驾驶技术第一期总投资 33 亿，已经追加到 47 亿，专属团队规模超过千人。 雷军表示，小米自研智能驾驶技术第一期总投资 33 亿，已经追加到 47 亿，专属团队规模超过千人，投入测试车辆超过了 200 台，测试里程超过了 1000 \n本文链接",
-          "link": "https://news.cnblogs.com/n/761365/",
-          "publishedOn": "2023-12-29T09:55:00.000Z",
-          "wordCount": 163,
-          "title": "雷军：小米自研智能技术技术已追加至47亿 研发人员超千人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761364/",
-          "author": null,
-          "description": "12 月 29 日消息，美国时间周四，美股收盘主要股指涨跌不一，道指再创历史新高，标普 500 指数则进一步逼近历史最高点。 道琼斯指数收于 37710.10 点，上涨 53.58 点，涨幅 0.14%；标准普尔 500 指数收于 4783.35 点，涨幅 0.04%；纳斯达克指数收于 15095.\n本文链接",
-          "link": "https://news.cnblogs.com/n/761364/",
-          "publishedOn": "2023-12-29T09:50:00.000Z",
-          "wordCount": 163,
-          "title": "美股周四：热门中概股多数上涨，斗鱼涨逾22%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761363/",
-          "author": null,
-          "description": "12 月 29 日消息，openGauss Summit 2023 活动上，弗若斯特沙利文正式发布《重点行业数据库应用调研报告》，报告宣布 2023 年中国数据库市场线下集中式 openGauss 系新增市场份额达 21.9%，已规模应用于金融、政府、电信、能源、制造、公路水运、邮政、教育等十大关键\n本文链接",
-          "link": "https://news.cnblogs.com/n/761363/",
-          "publishedOn": "2023-12-29T09:45:00.000Z",
-          "wordCount": 163,
-          "title": "openGauss系新增市场份额达21.9% 跨越生态拐点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761347/",
-          "author": null,
-          "description": "作者｜杨文，编辑｜六耳，来源｜AI 先锋官 今年这波 AI 浪潮，几乎所有的互联网厂商都急不可耐： 3 月 16 日百度发布文心一言 4 月 11 日阿里发布通义千问 5 月 6 日科大讯飞发布星火大模型 6 月 13 日三六零发布 360 智脑 6 月 28 日字节跳动发布火山方舟 7 月 7 日\n本文链接",
-          "link": "https://news.cnblogs.com/n/761347/",
-          "publishedOn": "2023-12-29T09:40:58.000Z",
-          "wordCount": 163,
-          "title": "腾讯干了票大的！整了个AppAgent，要用AI“统治”App",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761362/",
-          "author": null,
-          "description": "12 月 22 日，第十届以“智能涌现·发现未来”为主题的网易未来大会，在杭州开幕。大会包括思想之夜、未来局、未来公开课、主论坛、AGI 论坛、汽车科技论坛、灵感无界等，广邀顶级学者、产业专家和行业精英，作答未来科技、人文艺术、时代个人的精彩变化。 在未来大会 AGI 论坛，智谱 AI 公司 COO\n本文链接",
-          "link": "https://news.cnblogs.com/n/761362/",
-          "publishedOn": "2023-12-29T09:38:00.000Z",
-          "wordCount": 163,
-          "title": "智谱AI COO张帆：AI整个发展历史，就是AI普惠的过程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761361/",
-          "author": null,
-          "description": "DoNews12 月 28 日消息，据雷峰网最新得到的消息，小红书社区内容负责人河童（花名）因社区增长乏力，近期已经离职。有数位接近小红书的人士告诉雷峰网，河童已经连续很长一段时间没有出现在公司，而且“几个月会都没有参加”，正处于离职状态。 据内部人士透露，河童离职的原因是，小红书今年的增长并未达到\n本文链接",
-          "link": "https://news.cnblogs.com/n/761361/",
-          "publishedOn": "2023-12-29T09:31:00.000Z",
-          "wordCount": 163,
-          "title": "增长乏力 小红书社区负责人离职 COO休假",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761360/",
-          "author": null,
-          "description": "来源：环球网 环球网报道记者张晓雅 美国有线电视新闻网（CNN）、《纽约时报》等多家美媒当地时间 28 日披露，在一家航空公司发现 737 Max 客机的关键部件存在潜在问题后，波音公司已建议各航空公司检查其所有 737 Max 的方向舵系统是否存在螺栓松动隐患。 上述美媒均提到，此前，一家未透露名\n本文链接",
-          "link": "https://news.cnblogs.com/n/761360/",
-          "publishedOn": "2023-12-29T09:27:00.000Z",
-          "wordCount": 163,
-          "title": "美媒：一家航空公司发现737 Max关键部件存在隐患，波音建议全球检查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761359/",
-          "author": null,
-          "description": "【CNMO 新闻】12 月 29 日，据外媒消息，马斯克将于 2024 年 1 月在甘地纳加尔举行的古吉拉特邦峰会上宣布成立特斯拉印度公司。报道称，特斯拉和马斯克正与印度就建造工厂的土地进行最后阶段的谈判，厂址可能选在古吉拉特邦。 古吉拉特邦官方媒体报道称，特斯拉正在艾哈迈达巴德地区的城市和自治市萨\n本文链接",
-          "link": "https://news.cnblogs.com/n/761359/",
-          "publishedOn": "2023-12-29T09:22:00.000Z",
-          "wordCount": 163,
-          "title": "曝马斯克明年1月访问印度 将宣布成立特斯拉印度公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761358/",
-          "author": null,
-          "description": "潮新闻客户端记者董旭明 目前，位于杭州未来科技城的阿里巴巴全球总部项目已基本竣工，将于 2024 年正式投入使用。 阿里巴巴全球总部新园区位于文一西路以北、高教路以东，和此前被人们习惯称为“淘宝城”的阿里西溪A区毗邻，南北相望。项目由 7 栋办公楼围合布局，所有楼宇环状联通，形成交流环游动线，被称为\n本文链接",
-          "link": "https://news.cnblogs.com/n/761358/",
-          "publishedOn": "2023-12-29T09:17:00.000Z",
-          "wordCount": 163,
-          "title": "阿里巴巴全球总部竣工，明年投入使用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761357/",
-          "author": null,
-          "description": "界面新闻记者潘文捷 界面新闻编辑姜妍 东方甄选 APP 会员店三天前推出的新年送好礼，“1 元卖书”活动，在出版圈掀起了不小的震动。有出版人在朋友圈发文称，此举让自己几十年对俞敏洪的敬意一夜归零，也有出版业内人士恳求“出版界真的好难，那些资本商，别搞我们好吗？” 据了解，本次活动中可以 1 元购买的\n本文链接",
-          "link": "https://news.cnblogs.com/n/761357/",
-          "publishedOn": "2023-12-29T09:10:00.000Z",
-          "wordCount": 163,
-          "title": "东方甄选1元卖书，是商业玩法还是作贱图书？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761356/",
-          "author": null,
-          "description": "雷达财经出品文肖洒编深海 年轻人的第一辆车，不是小米造。 “不要再说 9.9 万元了，14.9 万元也不可能。”12 月 28 日，曾犹豫要不要造车的雷军，在以“跨越”为主题的发布会上，揭晓了号称“媲美保时捷、媲美特斯拉”的梦想之车。雷军坦言，定价方面，小米 SU7“确实有点贵”。 而此前，小米宣布\n本文链接",
-          "link": "https://news.cnblogs.com/n/761356/",
-          "publishedOn": "2023-12-29T09:00:00.000Z",
-          "wordCount": 163,
-          "title": "年轻人的第一辆车，“雷军们”不想造了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761355/",
-          "author": null,
-          "description": "12 月 29 日消息，作为提示词工程师，也就是聊天机器人 ChatGPT 等工具背后引导人工智能模型生成最佳输出的专家，你可能会获得颇为丰厚的报酬。然而 OpenAI 的一名员工表示，这项技能并不像看起来那么神奇。 本周早些时候，OpenAI 的开发者倡导者洛根·基尔帕特里克（Logan Kilp\n本文链接",
-          "link": "https://news.cnblogs.com/n/761355/",
-          "publishedOn": "2023-12-29T08:50:00.000Z",
-          "wordCount": 163,
-          "title": "OpenAI员工：提示词工程技能被夸大，学会和人打交道更重要",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761312/",
-          "author": null,
-          "description": "文青橙财经，作者天辰，编辑六子 一个股价持续下跌，一个孵化子品牌加速下沉，在 2023 年即将收官之际，两大新兴健身品牌——Keep 与乐刻走向了不同的方向。 截至发稿，Keep 的每股价格从发行价的 28. 92 港元/股跌至 16.22 港元/股，市值从上市时的 152 亿港元跌至 85.26 \n本文链接",
-          "link": "https://news.cnblogs.com/n/761312/",
-          "publishedOn": "2023-12-29T00:41:44.000Z",
-          "wordCount": 163,
-          "title": "Keep向左，乐刻向右",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761311/",
-          "author": null,
-          "description": "文甲子光年，作者甲小姐、刘杨楠‍‍‍，编辑王博 “我们在攀岩馆聊吧。” 53 岁的 360 集团创始人周鸿祎过往在公众面前有很多标签，如今又多了一个——攀岩爱好者。去年，他直接把攀岩馆建在了 360 集团总部大楼里。 这可能是历次甲小姐对话中，地点最特殊的一次。 谈及为何学攀岩，这位“红衣大叔”的回\n本文链接",
-          "link": "https://news.cnblogs.com/n/761311/",
-          "publishedOn": "2023-12-29T00:40:38.000Z",
-          "wordCount": 163,
-          "title": "甲小姐对话周鸿祎：不发展AI才是最大的不安全",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761310/",
-          "author": null,
-          "description": "文｜数科星球 小米汽车即将于近日发布，市场中弥漫着对其的猜测。 在小米汽车即将破壳而出之际，业界已将其锁定轿跑车。然而，在此区间中，竞争最为激烈。更加特别的是，对于小米和雷军而言，在此战役拿到首胜，又极其重要。 此前，雷军放出豪言：将在此投入千亿现金储备。可新能源汽车行业从不缺“土豪”，雷军人生的最\n本文链接",
-          "link": "https://news.cnblogs.com/n/761310/",
-          "publishedOn": "2023-12-29T00:36:53.000Z",
-          "wordCount": 163,
-          "title": "小米汽车的胜负手",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761309/",
-          "author": null,
-          "description": "文｜BT 财经数据通 近日，日产汽车揭晓了 2023 财年上半年（2023 年 4 月 1 日至 9 月 30 日）的财务神秘面纱，向全球展示了一场令人瞩目的增长盛宴。 财报显示，日产合并净收入高达 6.06 万亿日元（约合2,899.29 亿元人民币），同比飙升 30.05%。而合并经营利润更是达\n本文链接",
-          "link": "https://news.cnblogs.com/n/761309/",
-          "publishedOn": "2023-12-29T00:36:00.000Z",
-          "wordCount": 163,
-          "title": "日产在华销量锐减，原因不止电动化转型慢了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761308/",
-          "author": null,
-          "description": "文｜DataEye 游戏巨头网易，正在全面布局短剧。 网易羚羊、网易有道、网易新闻，各路力量汇聚，先后杀入短剧赛道。 比如，网易羚羊今年频频出现在短剧出品人名单中，网易有道 7 月发布了“网易有道国际短剧-签约编剧合作计划”，面向全球招募短剧剧本编剧，而网易新闻近日发布短剧分销商召集令。 在短短一年\n本文链接",
-          "link": "https://news.cnblogs.com/n/761308/",
-          "publishedOn": "2023-12-29T00:35:00.000Z",
-          "wordCount": 163,
-          "title": "7天消耗1100万，网易做短剧：试水玩票还是新增长点？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761307/",
-          "author": null,
-          "description": "文｜智行驾道 2023 年，小鹏汽车 CEO 何小鹏说，“‘扶摇’架构重新定义高端智能电动汽车标准”；华为终端 BG CEO 余承东说，“问界 M9 将重新定义 1000 万以内最好的豪华 SUV”；理想汽车 MEGA 产品负责人李昕旸说，“我们真的重新定义了 MPV 这个品类”…… 过去一年，电动\n本文链接",
-          "link": "https://news.cnblogs.com/n/761307/",
-          "publishedOn": "2023-12-29T00:32:40.000Z",
-          "wordCount": 163,
-          "title": "小米汽车，反“小米化”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761306/",
-          "author": null,
-          "description": "近日，成都东极六感信息科技有限公司发生工商变更，吉比特旗下厦门吉相股权投资有限公司、B站关联公司上海幻电信息科技有限公司、腾讯旗下林芝腾讯投资管理有限公司退出股东行列，新增杭州阿里巴巴海外信息技术有限公司为股东，持股比例为 32.6%，为该公司第二大股东；同时，公司多位主要人员发生变更。\n本文链接",
-          "link": "https://news.cnblogs.com/n/761306/",
-          "publishedOn": "2023-12-29T00:29:26.000Z",
-          "wordCount": 163,
-          "title": "阿里入股东极六感成第二大股东，后者为游戏研发商",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761305/",
-          "author": null,
-          "description": "当地时间周三，美国一家上诉法院暂停了美国国际贸易委员会（ITC）对苹果公司部分智能手表提出的进口禁令，这也意味着苹果 Apple Watch Series 9 和 Apple Watch Ultra 2 两款产品的销售可以暂时恢复了。 苹果昨天提出紧急动议，要求美国联邦巡回上诉法院停止执行 ITC \n本文链接",
-          "link": "https://news.cnblogs.com/n/761305/",
-          "publishedOn": "2023-12-29T00:28:48.000Z",
-          "wordCount": 163,
-          "title": "苹果 Apple Watch 在美禁售令暂停，即日起恢复销售",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761304/",
-          "author": null,
-          "description": "动点科技获悉，近日，经国家无障碍专家组评审，腾讯前海总部计划于 2024 年底首批建成的 04 地块9、10 栋建筑达到无障碍三星级标准（最高等级），后续将有序推进施工与运维，全面竣工后由国家市场监管总局与中国残联共同核准的认证机构进行认证。 12 月 27 日，由中国残联无障碍环境建设推进办公室、\n本文链接",
-          "link": "https://news.cnblogs.com/n/761304/",
-          "publishedOn": "2023-12-29T00:28:12.000Z",
-          "wordCount": 163,
-          "title": "腾讯前海总部获无障碍最高等级，将建科技馆文化馆等设施向公众开放",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761303/",
-          "author": null,
-          "description": "12 月 28 日消息，据外媒报道，12 家日本公司已成立“汽车先进 SoC 研究中心”（ASRA），共同研发用于汽车的高性能数字半导体（系统级芯片，SoC）。 这 12 家公司包括 5 家汽车制造商（本田、马自达、日产、斯巴鲁、丰田）、2 家电子元件制造商（日本电装公司、松下汽车系统）和 5 家半\n本文链接",
-          "link": "https://news.cnblogs.com/n/761303/",
-          "publishedOn": "2023-12-29T00:25:57.000Z",
-          "wordCount": 163,
-          "title": "丰田、本田、瑞萨等12家日本公司联合研发高性能汽车芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761302/",
-          "author": null,
-          "description": "12 月 28 日消息，据外媒报道，LG 旗下的电子产品零部件制造商 LG Innotek 将成为特斯拉 Cybertruck 摄像头模块的独家供应商。 据悉，Cybertruck 是特斯拉于 2019 年 11 月份在美国发布的一款全电动皮卡，但在发布四年后，也就是在 11 月 30 日才开始在得\n本文链接",
-          "link": "https://news.cnblogs.com/n/761302/",
-          "publishedOn": "2023-12-29T00:25:07.000Z",
-          "wordCount": 163,
-          "title": "外媒：LG Innotek将为特斯拉Cybertruck独家供应摄像头模块",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761301/",
-          "author": null,
-          "description": "12 月 28 日消息，据外媒报道，由特斯拉上海超级工厂生产的焕新版 Model 3，在 9 月份开始向欧洲出口，首批在 9 月 17 日就已运离上海港口，10 月份开始在德国、荷兰交付，随着产量的提升，随后也有越来越多的焕新版 Model 3 出口欧洲。 而临近年底，国产焕新版 Model 3 仍\n本文链接",
-          "link": "https://news.cnblogs.com/n/761301/",
-          "publishedOn": "2023-12-29T00:24:05.000Z",
-          "wordCount": 163,
-          "title": "今年最后一船出口欧洲焕新版Model 3已运抵巴塞罗那港口",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761300/",
-          "author": null,
-          "description": "12 月 28 日消息，小米将于今日下午举行汽车技术发布会，就在刚刚，小米官方公布了首款量产车 SU7 的实拍照片。 外观方面，新款配色官方命名为海湾蓝，整体造型与保时捷 Taycan 极为相似，采用轿跑设计，车头部分比较低趴，前脸为封闭式，并搭载矩阵式大灯组。此外，新车在车顶位置还搭载了瞭望式激光\n本文链接",
-          "link": "https://news.cnblogs.com/n/761300/",
-          "publishedOn": "2023-12-29T00:23:07.000Z",
-          "wordCount": 163,
-          "title": "小米汽车SU7官图正式发布 首现海湾蓝配色",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761299/",
-          "author": null,
-          "description": "12 月 28 日消息，今天中午，魅族科技官方微博发文称，大定订金已备好，准备成为 SU7 首位车主。 ​​​ 日前，小米科技创始人雷军曾在回答网友提问时透露，小米汽车定价还没有最终决定，不过确实有点贵，但请相信，我们做的是“有理由的贵”，在体验上一定会超过大家的预期。 雷军还称，小米 SU7 在驾\n本文链接",
-          "link": "https://news.cnblogs.com/n/761299/",
-          "publishedOn": "2023-12-29T00:22:29.000Z",
-          "wordCount": 163,
-          "title": "魅族：大定订金已备好 准备成为小米SU7首位车主",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761298/",
-          "author": null,
-          "description": "12 月 28 日消息，国美零售发布公告，其金额为 1 亿美元可换股债券已于 6 月 30 日到期仍未偿还，已就结算本金总额合共 2.5 亿人民币的换股债债券订立协议，包括以 1.05 亿人民币出售从事家电安装及维修服务业务的深圳十分到家服务科技约 21.6% 股权予京东集团。 京东集团将不早于明年\n本文链接",
-          "link": "https://news.cnblogs.com/n/761298/",
-          "publishedOn": "2023-12-29T00:21:22.000Z",
-          "wordCount": 163,
-          "title": "国美零售与京东达成部分转股协议 以结算部分未偿还债券",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761297/",
-          "author": null,
-          "description": "12 月 28 日，小米汽车技术发布会在国家会议中心盛大举行，正式披露了小米汽车五大核心技术的进展突破，并迎来平台首款产品小米 SU7 的首次亮相。作为小米“人车家全生态”的底层架构之一，“摩德纳”架构五大核心技术包括小米超级电机 Xiaomi HyperEngine、小米自研 CTB 一体化电池技\n本文链接",
-          "link": "https://news.cnblogs.com/n/761297/",
-          "publishedOn": "2023-12-29T00:19:59.000Z",
-          "wordCount": 163,
-          "title": "从电驱到智能座舱全面覆盖，小米汽车五大自研核心技术正式披露",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761296/",
-          "author": null,
-          "description": "12 月 28 日消息，12 月 27 日晚间，京东集团宣布，2024 年 1 月 1 日起京东采销等一线业务人员的年固定薪酬大幅上涨近 100%，2024 年初京东零售全员将平均加薪不低于 20%。 今年京东零售动作频频。 4 月 12 日，京东零售进行了一次大的组织架构调整，取消事业群层级，将事\n本文链接",
-          "link": "https://news.cnblogs.com/n/761296/",
-          "publishedOn": "2023-12-29T00:17:23.000Z",
-          "wordCount": 163,
-          "title": "2024新年大礼包！京东零售全员平均加薪不低于20%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761295/",
-          "author": null,
-          "description": "快科技 12 月 28 日消息，近两年 AI 产业迅速崛起，涌现了一堆 AI 创作类产品，包括 AI 文生图、AI 图生文等多种类型。 用户只需要输入一些提示词，AI 大模型就可以产出相应的文字、图片、代码等内容。 AI 生成的内容受著作权法的保护吗？相应权利归属于谁？是否可以随便使用网络上 AI \n本文链接",
-          "link": "https://news.cnblogs.com/n/761295/",
-          "publishedOn": "2023-12-29T00:16:13.000Z",
-          "wordCount": 163,
-          "title": "AI生成作品也有著作权！我国首例“AI文生图”著作权案一审判决生效",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761294/",
-          "author": null,
-          "description": "IT 之家 12 月 27 日消息，淘宝、京东近日新修订了售后规定，对于买家发起符合相关情形的售后，用户可仅退款。 针对京东也将支持仅退款一事，京东客服表示，用户需要和商家协商同意后才能仅退款，新规于 2023 年 12 月 29 日生效。 一位京东内部人士透露，京东自营自 2014 年就推出了“仅\n本文链接",
-          "link": "https://news.cnblogs.com/n/761294/",
-          "publishedOn": "2023-12-29T00:15:12.000Z",
-          "wordCount": 163,
-          "title": "京东回应支持仅退款：12月29日生效 需和商家协商同意",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761293/",
-          "author": null,
-          "description": "“文心一言用户规模突破 1 亿。”12 月 28 日，百度首席技术官、深度学习技术及应用国家工程研究中心主任王海峰在第十届 WAVE SUMMIT 深度学习开发者大会上宣布。会上，王海峰以《文心加飞桨，翩然赴星河》为题作了主旨演讲，分享了飞桨和文心的最新成果。 飞桨开发者已达 1070 万 WAVE\n本文链接",
-          "link": "https://news.cnblogs.com/n/761293/",
-          "publishedOn": "2023-12-29T00:14:20.000Z",
-          "wordCount": 163,
-          "title": "百度 CTO 王海峰：文心一言用户规模破 1 亿",
           "imageUrl": null
         }
       ]
