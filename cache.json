@@ -847,16 +847,6 @@
           "wordCount": 636,
           "title": "放轻松｜要怎么度过这一生：写作、思考，成为真正的人",
           "imageUrl": "https://cdn.sspai.com/2024/01/07/aed599b788b634c081b18236c84851dd.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85611",
-          "author": "Theia在路上",
-          "description": "去年年底有幸来了一场漫长的旅行，期间读完了几本书，其中一本是关于语言学习的书籍，激发了我许多关于语言学习的思考，于是写下了一些片段。这里做一个合集。\n如果我语言学习只能做一件事，那将是..\n这部分我将分享我认为最有用的一个语言学习方法，通过这个方法你可以全方位地锻炼词汇、语法、发音、以及输出水平。\n这个方法说起来很简单：找到一篇语料，先精读一遍，把所有的单词和重要的语法/词组查出来，放到 Anki 里纳入自己的单词库中，之后反复跟着录音阅读 + shadowing（影子跟读），乃至背诵。\n这里边有几个关键点，我下面一一解释。\n首先关于语料。一个好的语料应当有音频和文本，其中的语法和词汇略高于自己的水平，内容最好是你感兴趣的，有翻译的话最好。\n有音频保证了你知道正确的发音和语调是怎样的，还能够帮助你 shadowing。\n语料的水平略高、但不至于过高，保证了你能学到东西但又不至于因为过难而放弃。\n同时，由于我们要重复这个内容很多次，所以如果是你感兴趣的内容的话，会更容易坚持。\n在语言学习初期，语料可以是教材上的文章和听力，到了后期我建议到 TED 上找母语者的演讲。除了免费的高质量视频之外，TED 还提供校对过的文本以及字幕翻译，是不可多得的语料。到了更高阶的时候，可以找喜欢的播客，有一些播客也提供文本，里面的用语介乎于口语和正式用语之间，也是很好的学习材料。\n其次关于跟读/shadowing。\nshadowing 是一个常见的语言学习方法，就是在录音播放的时候，不看着文本，以延迟 1s 左右的速度跟着说出内容。为了达到这个目的，你得听懂录音在说什么，嘴巴速度能跟上，因此这不仅仅可以锻炼听力，还可以提升发音和口语。网上有许多关于 shadowing 的解释，篇幅原因我就不在这里赘述了。\n至于最后的背诵不是必需的，大量的反复已经让你很熟悉需要学习的单词和语法了，不用太纠结对于内…",
-          "link": "https://sspai.com/post/85611",
-          "publishedOn": "2024-01-06T11:49:31.000Z",
-          "wordCount": 689,
-          "title": "如果我语言学习只能做一件事...及其他碎碎念",
-          "imageUrl": "https://cdn.sspai.com/2024/01/06/1a3d39a1a9c98c5398bfd654306976e5.jpeg"
         }
       ]
     },
@@ -924,6 +914,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77303",
+          "author": null,
+          "description": "社交媒体平台 Reddit 选择纽约证交所作为其推迟已久的上市地点，该公司最快将于下月进行 IPO。Reddit 是在 2021 年底向美国证交会递交了上市申请，但因为宏观经济严峻和广告收入下降，它推迟了 IPO。Reddit 在 2021 年的融资中其估值达到了 100 亿美元，但过去两年因利率上升私营公司的估值大幅下滑。Reddit 希望其上市的初始估值能达到至少 50 亿美元。Reddit 是美国最大的新闻聚合和论坛社交网络，在全球访问量排名中排在第 18 位，半数访问量来自美国。",
+          "link": "https://www.solidot.org/story?sid=77303",
+          "publishedOn": "2024-02-04T09:35:38.000Z",
+          "wordCount": 183,
+          "title": "Reddit 最快下个月在纽约 IPO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77302",
+          "author": null,
+          "description": "根据发表在 PNAS 期刊上的一项研究，研究人员发现一种潜在的非阿片止痛药。现有的治疗慢性疼痛的止痛药会带来严重副作用或增加成瘾风险。研究人员在小鼠试验中发现了名为 FEM-1689 新化合物，它不会与体内的阿片受体结合，潜在可能成为现有阿片止痛药的替代。此外它还能帮助调节整合应激反应(integrated stress response, ISR)。研究人员称新化合物的止痛效果相当持久。论文作者已经成立了一家公司 NuvoNuro 商业化他们的发现。",
+          "link": "https://www.solidot.org/story?sid=77302",
+          "publishedOn": "2024-02-04T09:19:01.000Z",
+          "wordCount": 170,
+          "title": "研究人员发现一种潜在的非阿片止痛药",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77301",
+          "author": null,
+          "description": "英国金融业行业组织 UK Finance 的报告称，2022 年英国近 2200 万人每月只使用一次现金或根本没有使用任何现金。只有不到 100 万人常用现金。自 2017 年以来，包括智能手机和智能手表的借记卡支付已超过现金支付。新冠疫情加速了现金支付的终结。截至 2021 年的十年间，非现金支付量的比例从 45% 升至 85%。这种情况可能会让国王查理三世非常失望，当了几十年的储君之后，这位 73 岁的老人终于有机会在英国硬币上印上自己的头像，结果使用这些硬币的人少之又少。",
+          "link": "https://www.solidot.org/story?sid=77301",
+          "publishedOn": "2024-02-04T07:58:32.000Z",
+          "wordCount": 173,
+          "title": "现金的终结",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77300",
+          "author": null,
+          "description": "根据 WHO 国际癌症研究机构报告的最新估计，到 2050 年全球癌症确诊数将达到 3500 万例，比 2022 年的 2000 万例增加 77%。报告统计的数据涵盖了 185 个国家和 36 种疾病。研究人员发现，2022 年肺癌是全球最常见的癌症，有 250 万例，占总数的 12.4%，其次是女性乳腺癌、结直肠癌、前列腺癌和胃癌。肺癌造成的死亡人数也是最多有 180 万人，占总数的 19%。在高人类发展指数的国家，每 12 名女性中有 1 名会被诊断患有乳腺癌，每 71 名女性中有 1 名死于乳腺癌。在低人类发展指数国家，每 27 名女性中有 1 名会被诊断出乳腺癌，但每 48 名女性中有 1 人会死于乳腺癌，主要是因为诊断较晚和缺乏治疗机会。",
+          "link": "https://www.solidot.org/story?sid=77300",
+          "publishedOn": "2024-02-04T07:03:03.000Z",
+          "wordCount": 211,
+          "title": "WHO 报告估计全球癌症病例到 2050 年将增加 77%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77299",
+          "author": null,
+          "description": "英国埃克塞特大学研究人员发现，老年时的大脑健康状况和改善程度与终身接触音乐有关。研究分析了1000多名40岁以上成年人的数据，以评估演奏乐器或在合唱团唱歌对大脑健康的影响。结果表明，演奏一种乐器，尤其是弹奏钢琴，与改善演奏者的记忆力关系密切。在晚年生活中继续弹奏钢琴会带来更多好处。此外，唱歌也能更好地保持和维护大脑健康。",
+          "link": "https://www.solidot.org/story?sid=77299",
+          "publishedOn": "2024-02-04T06:43:05.000Z",
+          "wordCount": 158,
+          "title": "终生接触音乐有助于大脑健康",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77298",
+          "author": null,
+          "description": "全球生育率普遍下滑，出生人数急剧下降。美国好于大多数国家，下降了 1.9%。捷克、爱尔兰和波兰的降幅都在10% 或以上。韩国下降了 8.1%，而该国在 2022 年的总和生育率已经是世界最低的 0.78。一代人生育的减少会导致下一代生育的女性人数减少。人口减少可能会减轻对环境的压力，但倒置的人口金字塔导致工作的年轻人太少，无法养活退休的老年人。解决低出生率的最好办法就是提高出生率，但生育奖励、免费托儿等生育政策在试行后并未达到预期效果，因此决策者将面临一系列令人不快的选择：提高税收、提高退休年龄、削减老年人的退休和医疗福利，或者增加移民。",
+          "link": "https://www.solidot.org/story?sid=77298",
+          "publishedOn": "2024-02-04T06:18:45.000Z",
+          "wordCount": 162,
+          "title": "全球生育率普遍下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77297",
+          "author": null,
+          "description": "研究人员在预印本平台 arXiv 上发表论文，测试了 OpenAI 的 GPT-3.5 和 GPT-4、Anthropic 的 Claude 2，以及 Meta 的 Llama 2 等流行大模型在战争游戏中的行为，发现 AI 聊天机器人倾向于选择核攻击。研究人员模拟了三种场景：入侵，网络攻击，以及没有冲突的中立。每一轮 AI 为其下一步行动能采取的行动提供推理，然后从 27 个行动中进行选择，包括开始正式和平谈判，实施贸易限制，升级全面核攻击。在模拟中，AI 倾向于投资军事和升级冲突风险，其中 GPT-4 的基础版本最暴力。研究人员认为，不应该信任 AI 做出的战争与和平的重大决策。",
+          "link": "https://www.solidot.org/story?sid=77297",
+          "publishedOn": "2024-02-04T05:50:42.000Z",
+          "wordCount": 191,
+          "title": "在战争模拟游戏中 AI 聊天机器人倾向于选择核攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77296",
+          "author": null,
+          "description": "根据扎克伯格（Mark Zuckerberg）分享的数据，该公司的微博客应用 Threads 月活跃用户数达到了 1.3 亿。因 Twitter/X 在马斯克（Elon Musk）控制下面临的不确定性，Threads 的上线引发了广泛关注，推出前五天吸引了 1 亿用户注册，但此后下载量不断下降，到了去年 12 月，Threads 的下载量恢复了增长，达到了前一个月的三倍，进入苹果和 Google 应用商店的下载量前十。这在很大程度上是因为 Meta 通过 Instagram 推广 Threads 上的热门帖子。据估计，Threads 应用目前可能有 1.6 亿用户。Threads 目前正通过支持联邦宇宙协议 ActivityPub 与 Mastodon 等去中心化微博客服务实现互操作。",
+          "link": "https://www.solidot.org/story?sid=77296",
+          "publishedOn": "2024-02-04T05:06:42.000Z",
+          "wordCount": 198,
+          "title": "Threads 月活跃用户达到 1.3 亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77295",
+          "author": null,
+          "description": "美国环保署提议将 PFAS 归类为对人类健康的有害物质。PFAS（全氟烷基和多氟烷基物质）涵盖约 9000 种化合物，主要用于制造防水、防污或耐热型产品。这类化学品被广泛应用于数十个行业产出的几千种日常消费品，包括防污剂、地毯以及鞋子。PFAS 被称为“永久留存的化学品”，因为它们不会自然分解。它们会在包括人类在内的各种动物体内积累，与癌症、新生儿缺陷、肝病、甲状腺疾病、免疫力下降、激素紊乱及其他一系列严重健康问题相关。",
+          "link": "https://www.solidot.org/story?sid=77295",
+          "publishedOn": "2024-02-03T12:40:46.000Z",
+          "wordCount": 169,
+          "title": "美国环保署提议将 PFAS 归类为有害物质",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77294",
+          "author": null,
+          "description": "为了促进旅游业和创新，日本将为数字游牧民提供新签证，允许远程工作者在日本工作最长半年，同时还可以观光旅行。日本将从 3 月底前对海外公司雇用的 IT 工程师和远程工作者推出新签证身份。此举旨在迎合不断变化的工作环境，认识到在世界任何地方无缝工作的数字牧民人数的激增。要获得这种签证资格，申请人的年收入必须至少达到 1000 万日元（68,000 美元）。美国、澳大利亚、新加坡等与日本有免签协议的 50 个国家和地区的公民可以申请新签证。此外他们还需要有私人健康保险。如果有私人健康保险，有海外业务的自雇个体户也可以申请，甚至还可以携带家人。新签证的限制是数字牧民不会获得居留卡或证书，限制获得日本政府的福利。它无法续签，需要隔了半年之后才能重新申请。申请者在此期间必须住在国外。相比日本，韩国的数字牧民签证允许最长居住两年，台湾允许三年，并有可能获得永久居留权。",
+          "link": "https://www.solidot.org/story?sid=77294",
+          "publishedOn": "2024-02-03T12:15:57.000Z",
+          "wordCount": 165,
+          "title": "日本将为数字游牧民提供半年的居留签证",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77293",
+          "author": null,
+          "description": "根据一份招聘启事，亚马逊网络机顶盒和微型游戏机 Fire TV 计划用自己的操作系统替代 Android，亚马逊将开发名为 VegaOS 的新操作系统。Fire TV 此前使用的是基于 Android 开源代码的 Fire OS，没有 Google 应用和服务。新的平台 VegaOS 将是基于 React Native，将需要开发者为此重新构建应用。在招聘启事的描述中，亚马逊表示 Fire TV 将从  Fire OS/Android 过渡到 native/Rust 和 React Native。维护一个全新的操作系统从来不是一件容易的事，能否吸引到开发者为新操作系统构建应用对其未来发展至关重要。相关招聘信息目前已被亚马逊移除。",
+          "link": "https://www.solidot.org/story?sid=77293",
+          "publishedOn": "2024-02-03T11:40:58.000Z",
+          "wordCount": 200,
+          "title": "亚马逊计划 Fire TV 用自己的操作系统替代 Android",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77292",
           "author": null,
@@ -3143,46 +3243,6 @@
           "wordCount": 174,
           "title": "精子在生殖竞争中会互相合作",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77066",
-          "author": null,
-          "description": "LG 称开发出一款 27 英寸 OLED 游戏显示器，其刷新率达到了 480Hz，有望引领超高刷新率 OLED 时代。LG  的 QHD 显示器分辨率 2560 x 1440，相比下竞争对手如 Alienware 和华硕的 500Hz 超高刷新率显示器使用的是  IPS 或 TN 面板，而且其分辨率只有 1920 x 1080。OLED 面板以高色彩对比度和纯黑闻名，能提供更出色的图像质量。超高刷新率可能会吸引特别关心延迟和流畅游戏体验的电竞玩家。LG 称它的显示器的响应时间为 0.03 毫秒，长时间游戏过程中更舒适，OLED 蓝光水平仅为高端 LCD 的一半。更少的蓝光有助于减少眼睛疲劳。",
-          "link": "https://www.solidot.org/story?sid=77066",
-          "publishedOn": "2024-01-05T14:49:35.000Z",
-          "wordCount": 204,
-          "title": "LG 新 OLED 显示器刷新率达到 480Hz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77065",
-          "author": null,
-          "description": "欧洲最大经济体德国减少了对煤炭的依赖，2023 年排放量创 70 年新低。德国 2023 年温室气体排放量为 6.73 亿吨，比 2022 年减少了 7300 万吨。原因包括基于煤炭的火力发电量的大幅下降，减少了 4600 万吨的碳排放量；工业排放量大幅下降，主要原因是能源密集企业产量下降。德国可再生能源发电量比例首次超过五成，而煤炭发电量从 34% 降至 26%。俄乌战争后俄罗斯切断了天然气供应，德国转向了煤炭。但此后德国大幅减少了煤炭的使用。",
-          "link": "https://www.solidot.org/story?sid=77065",
-          "publishedOn": "2024-01-05T14:20:07.000Z",
-          "wordCount": 188,
-          "title": "德国 2023 年排放量创 70 年新低",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77064",
-          "author": null,
-          "description": "微软本周释出了最新的预览版本 Windows 11 Build 26020，正式杀死了写字板应用。写字板应用最早是随 Windows 95 一起发布的，是一种简单的文字处理器，它的功能强于记事本但弱于 Microsoft Word。微软在去年 9 月宣布将在未来版本中移除写字板，推荐用户将 Microsoft Word 用于富文本文件如.doc 和.rtf 的处理，将记事本用于纯文本文件如 .txt 的处理。Windows 11 Build 26020 除了杀死写字板，还杀死了没什么人使用的通讯录应用 People 和步骤记录器（Steps Recorder）。",
-          "link": "https://www.solidot.org/story?sid=77064",
-          "publishedOn": "2024-01-05T14:01:39.000Z",
-          "wordCount": 198,
-          "title": "Windows 11 Build 26020 预览版移除了写字板",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77063",
-          "author": null,
-          "description": "根据旅行者2号（Voyager 2）发回的照片，人们普遍认为海王星表面呈深蓝色，而天王星为浅青色。但根据《Monthly Notices of the Royal Astronomical Society》上的最新研究，牛津大学研究人员报告两颗气态行星的外表颜色是相似的青绿色。早期探测器拍摄的照片是单色的，通过重组合成彩色图像，但合成后的图像会失真，海王星的合成图像就被认为太蓝了。在最新研究中，研究人员利用哈勃和欧洲南方天文台甚大望远镜的观测数据，创造出最“真实”的海王星和天王星表面颜色。结果显示它们都是相似的青绿色。",
-          "link": "https://www.solidot.org/story?sid=77063",
-          "publishedOn": "2024-01-05T13:47:16.000Z",
-          "wordCount": 163,
-          "title": "海王星和天王星的颜色相近",
-          "imageUrl": null
         }
       ]
     },
@@ -3191,6 +3251,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/764343/",
+          "author": null,
+          "description": "“把大部分外部伙伴团结起来，集中力量促发展，不要总想着占伙伴的便宜，要靠长期的情感投入和尊重获得信任。”据钛媒体 APP 独家获悉，元气森林创始人唐彬森于 2 月 4 日发表了名为《相信伙伴相信产品相信管理》的 2024 年内部信。 他在信中表示，2023 年，元气森林业绩上呈现了高于垂直行业大盘的\n本文链接",
+          "link": "https://news.cnblogs.com/n/764343/",
+          "publishedOn": "2024-02-04T17:04:05.000Z",
+          "wordCount": 163,
+          "title": "元气森林唐彬森发表内部信：相信伙伴、相信产品、相信管理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764342/",
+          "author": null,
+          "description": "“一个月前就开始备货了，前来拉福的货车每天一百多辆塞到村里街道上。” 东李家村老书记李兆成表示，“村里为今年春节备货，做福字用掉 8000 吨纸，平均每天超过 20 吨”。因为数量太大，李兆成已经懒得计算一年村里生产多少个福字了，用“吨”计算是最省事的方式。 据淘宝路边社数据显示，年货节期间，淘宝红\n本文链接",
+          "link": "https://news.cnblogs.com/n/764342/",
+          "publishedOn": "2024-02-04T16:53:00.000Z",
+          "wordCount": 163,
+          "title": "淘宝福村年产8000吨福，将开发数字对联",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764341/",
+          "author": null,
+          "description": "2 月 2 日消息，今日，巨人网络正式宣布完成游戏 AI 大模型 GiantGPT 的备案，即日起，巨人网络 AI 大模型 GiantGPT 的有关服务可以正式开展业务。 据介绍，巨人网络大模型 GiantGPT 是专注于游戏业务的垂类大模型，结合高质量自有数据与互联网公共数据训练，并针对角色演绎、\n本文链接",
+          "link": "https://news.cnblogs.com/n/764341/",
+          "publishedOn": "2024-02-04T13:50:00.000Z",
+          "wordCount": 163,
+          "title": "巨人网络大模型GiantGPT完成备案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764340/",
+          "author": null,
+          "description": "1 月 31 日消息，有媒体报导称一位京东人员在一个名为“京东直播主播招聘推进”的工作群中发布了一则通知，称京东正紧急制定主播招聘计划，并对招聘主播不考核 GMV、不考核毛利等要求。 另外京东其实一直非常重视“直播带货”业务。以去年的“双 11”活动为例。截至 11 月 11 日晚 23:59，20\n本文链接",
+          "link": "https://news.cnblogs.com/n/764340/",
+          "publishedOn": "2024-02-04T13:45:00.000Z",
+          "wordCount": 163,
+          "title": "有传闻称京东紧急制定主播招聘计划 不考核GMV和毛利等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764339/",
+          "author": null,
+          "description": "2 月 2 日消息，百度文心一言 App 推出一键生成数字分身功能，iOS 和安卓用户升级新版本 App 后，均可免费使用。 利用文心一言 APP 上线的数字分身功能，用户只需一张照片、录制三句语音，即可创建专属数字分身，并且支持个性化定义名称、声音、MBTI 性格等。 过去，创建一个数字分身，需要\n本文链接",
+          "link": "https://news.cnblogs.com/n/764339/",
+          "publishedOn": "2024-02-04T13:40:00.000Z",
+          "wordCount": 163,
+          "title": "实测百度文心一言APP生成“专属数字分身”免费功能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764338/",
+          "author": null,
+          "description": "2 月 2 日消息，消息源 Abhishek Yadav 近日发布推文，表示访问印度亚马逊和 Flipkart 电商平台，以及小米印度官网，均发现小米笔记本产品售罄，推测小米要退出印度的笔记本电脑市场。 IT 之家访问小米印度官网，发现官方调整了官网页面导航栏描述，“笔记本电脑和平板电脑”标签更改为\n本文链接",
+          "link": "https://news.cnblogs.com/n/764338/",
+          "publishedOn": "2024-02-04T13:32:00.000Z",
+          "wordCount": 163,
+          "title": "小米要退出印度笔记本市场？产品均售罄、官网导航条移除相关栏目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764337/",
+          "author": null,
+          "description": "2 月 2 日消息，春运自驾出行，很多人会遇到这样的问题：在十字路口等红灯时，面对一眼望不到头的排队车辆，或被公交车挡住前方红绿灯，而陷入等待焦虑。此时，导航软件自带的红绿灯倒计时读秒功能往往能缓解司机的焦虑情绪，给等待时间带来更多“确定性”。 目前，高德地图、百度地图等主流地图应用均已支持该功能，\n本文链接",
+          "link": "https://news.cnblogs.com/n/764337/",
+          "publishedOn": "2024-02-04T13:28:00.000Z",
+          "wordCount": 163,
+          "title": "高德、百度地图的红绿灯读秒是怎么“算”出来的？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764336/",
+          "author": null,
+          "description": "2 月 2 日小年夜黄金档，网易旗下国民原创乐园游戏《蛋仔派对》主题曲改编的歌曲——《快乐诞生记》登上《中央广播电视总台 2024 网络春晚》，并在 CCTV-1 综合频道、CCTV-3 综艺频道及央视网、央视频、央视新闻、央视文艺等总台新媒体矩阵同步亮相，春节期间还将快乐继续，在央视多个黄金频道重\n本文链接",
+          "link": "https://news.cnblogs.com/n/764336/",
+          "publishedOn": "2024-02-04T13:22:00.000Z",
+          "wordCount": 163,
+          "title": "国民IP《蛋仔派对》亮相央视网络春晚：00后潮流文化获赞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764335/",
+          "author": null,
+          "description": "米哈游今日宣布，《崩坏：星穹铁道》 iOS App 将于 2 月 6 日登陆苹果 Vision Pro 头显，后者今日在美国市场开售，售价 3499 美元（IT 之家备注：当前约 25123 元人民币）起。 根据 SensorTower 近日发布的 2023 中国手游出海年度盘点，米哈游旗下《原神》\n本文链接",
+          "link": "https://news.cnblogs.com/n/764335/",
+          "publishedOn": "2024-02-04T13:16:00.000Z",
+          "wordCount": 163,
+          "title": "米哈游官宣：《崩坏：星穹铁道》 2 月 6 日登陆苹果 Vision Pro 头显",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764334/",
+          "author": null,
+          "description": "2 月 3 日消息，据龙芯中科官网公布的投资者关系活动记录表，龙芯 3C6000 目前已经交付流片。 龙芯中科提到，龙芯 3C6000 芯片的 IO 接口相比当前服务器产品 3C5000 进行了大幅度的改进和优化 ，采用龙链技术实现了“片间互联”，解决了处理器核数量扩展上的瓶颈，未来公司服务器在 3\n本文链接",
+          "link": "https://news.cnblogs.com/n/764334/",
+          "publishedOn": "2024-02-04T13:10:00.000Z",
+          "wordCount": 163,
+          "title": "龙芯 3C6000 服务器芯片正式交付流片：采用龙链技术、相对上代 3C5000 大幅改进",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764333/",
+          "author": null,
+          "description": "2 月 2 日消息，ASML 首席财务官 Roger Dassen 近日接受了荷兰当地媒体 Bits&Chips 的采访。在采访中，Dassen 回应了分析机构 SemiAnalysis 的质疑，表示 High-NA（高数值孔径）EUV（极紫外光）光刻机仍是未来最经济的选择。 SemiAnalysi\n本文链接",
+          "link": "https://news.cnblogs.com/n/764333/",
+          "publishedOn": "2024-02-04T13:03:00.000Z",
+          "wordCount": 163,
+          "title": "ASML：High-NA EUV 光刻机仍是未来最经济选择 相关订单稳步增加",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764332/",
+          "author": null,
+          "description": "2 月 4 日消息，据路透社报道，阿里巴巴集团正寻求出售旗下大润发、银泰、盒马鲜生等资产，以便于剥离处于亏损中的非核心部门，将公司发展重点转向电子商务“核心盈利部分”。 IT 之家注意到，路透社声称阿里巴巴集团已与多名金融投资者进行谈判，同时计划出售旗下百货和购物中心运营商银泰商业，阿里巴巴、大润发\n本文链接",
+          "link": "https://news.cnblogs.com/n/764332/",
+          "publishedOn": "2024-02-04T12:58:00.000Z",
+          "wordCount": 163,
+          "title": "消息称阿里巴巴考虑出售大润发、银泰等资产",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764331/",
+          "author": null,
+          "description": "IT 之家 2 月 4 日消息，亚马逊云计算人工智能实验室的研究人员发现，网络上大量内容来自机器翻译 (MT) 生成，这些跨越多种语言的翻译内容质量普遍较低。研究团队强调，这凸显了在训练大型语言模型 (LLM) 时，数据质量和来源考量的重要性。 图源 Pexels 研究还发现，机器生成内容在资源较少\n本文链接",
+          "link": "https://news.cnblogs.com/n/764331/",
+          "publishedOn": "2024-02-04T12:50:00.000Z",
+          "wordCount": 163,
+          "title": "研究：网络充斥低质机翻内容 大语言模型训练需警惕数据陷阱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764330/",
+          "author": null,
+          "description": "去年 11 月底，Redmi K70 系列正式亮相，凭借超强的性价比，该系列在 12 月 1 日的首销中创下了 5 分钟销量突破 60 万台的记录。而不久前 Redmi 市场总经理、Redmi 品牌发言人王腾进一步宣布，该系列的销量已经超过 200 万台，收获了相当不错的市场成绩，堪称是K系列史上最\n本文链接",
+          "link": "https://news.cnblogs.com/n/764330/",
+          "publishedOn": "2024-02-04T12:45:00.000Z",
+          "wordCount": 163,
+          "title": "Redmi K70 Ultra没有卫星通信：将采用5500mAh+新密度电池",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764329/",
+          "author": null,
+          "description": "2 月 4 日消息， 春节愈发临近，今年春节将是京东物流连续第 12 年“春节也送货”。 据京东官方发布的信息，此前，京东集团宣布除夕当天带薪放假 1 天。而对于除夕当天坚守岗位的员工，京东物流也通过“我在京东过大年”，提供 3 倍薪资的加班费以及春节红包补贴。 有京东物流员工表示：“今年除夕虽然不\n本文链接",
+          "link": "https://news.cnblogs.com/n/764329/",
+          "publishedOn": "2024-02-04T12:42:00.000Z",
+          "wordCount": 163,
+          "title": "京东物流：给除夕上班员工提供3倍薪资加班费及春节红包补贴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764328/",
+          "author": null,
+          "description": "2 月 4 日消息， 近日，腾讯集团发布反舞弊通报：2023 年全年腾讯反舞弊调查部共发现并查处触犯“腾讯高压线”案件 70 余起，共有 120 余人因触犯“腾讯高压线”被解聘，近 20 人因涉嫌犯罪被移送公安机关处理。 公布的案件中其中 7 起涉及 CSIG（云与智慧产业事业群）、11 人被移送公\n本文链接",
+          "link": "https://news.cnblogs.com/n/764328/",
+          "publishedOn": "2024-02-04T12:40:00.000Z",
+          "wordCount": 163,
+          "title": "2023年腾讯云11人被移送公安机关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764327/",
+          "author": null,
+          "description": "IT 之家 2 月 4 日消息，据中国铁路官方消息，2 月 4 日，铁路春运进入第 10 天，客流保持高位运行，全国铁路预计发送旅客 1280 万人次，加开旅客列车 1306 列。截至 2 月 3 日，全国铁路春运累计发送旅客 1.07 亿人次，日均 1183.4 万人次。 据 IT 之家此前报道，\n本文链接",
+          "link": "https://news.cnblogs.com/n/764327/",
+          "publishedOn": "2024-02-04T12:32:00.000Z",
+          "wordCount": 163,
+          "title": "全国铁路春运累计发送旅客突破1亿人次 日均1183.4万人次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764326/",
+          "author": null,
+          "description": "据路透社报道，三位知情人士声称腾讯去年 12 月停掉了一款未官宣的《尼尔》系列手游，这个项目已经开发了两年多，被暂停的部分原因是昂贵的开发成本和特许经营权，团队难以找到“令人信服的”盈利模式。 腾讯和 Square Enix 对此事均拒绝置评。Square Enix 去年 4 月曾表示，《尼尔》系列\n本文链接",
+          "link": "https://news.cnblogs.com/n/764326/",
+          "publishedOn": "2024-02-04T12:26:00.000Z",
+          "wordCount": 163,
+          "title": "消息称腾讯已停止一款《尼尔》系列手游，合适盈利模式难寻成原因之一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764324/",
+          "author": null,
+          "description": "Instagram 的微博客应用 Threads 在短暂爆发式之后增长陷入了停滞，但最新数据显示它活得好好的，其月下载量远超最大竞争对手 Twitter/X。Threads 在去年 12 月的下载量是前一个月的三倍，在苹果和 Google 应用商店都位居下载量前十。根据 Appfigures 的数据\n本文链接",
+          "link": "https://news.cnblogs.com/n/764324/",
+          "publishedOn": "2024-02-04T12:20:00.000Z",
+          "wordCount": 163,
+          "title": "Instagram Threads 下载量位居苹果 Google 应用商店前十",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764323/",
+          "author": null,
+          "description": "旅行推销员问题是最古老的计算问题之一：“给定一系列城市和每对城市之间的距离，求解访问每座城市一次并回到起始城市的最短回路。”看起来简单，但求解十分困难。它被认为是一个 NP 完全问题。它的一种形式化方法是整数线性规划。60 多年以来研究人员提出多种解决整数线性规划的算法，但都比较慢，过去四十年改进甚\n本文链接",
+          "link": "https://news.cnblogs.com/n/764323/",
+          "publishedOn": "2024-02-04T12:14:00.000Z",
+          "wordCount": 163,
+          "title": "研究人员发现更快的整数线性规划求解方法",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/764263/",
           "author": null,
@@ -8209,136 +8469,6 @@
           "publishedOn": "2024-01-06T14:00:00.000Z",
           "wordCount": 163,
           "title": "微软副总裁邓普顿据悉已加入OpenAI董事会，担任无投票权观察员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761708/",
-          "author": null,
-          "description": "几个月前还和山姆打得热火朝天的盒马，突然踩了一脚急刹车，不再与山姆硬碰硬。 近期，有网友发现盒马无法再开通或续费会员，盒马人工客服对此回应称，因业务调整，12 月 13 日起，暂时不支持开通或者续费盒马X会员，之前开通没有到期的会员权益可以正常使用。 一位接近盒马的人士告诉字母榜，盒马正在大力做折扣\n本文链接",
-          "link": "https://news.cnblogs.com/n/761708/",
-          "publishedOn": "2024-01-06T03:47:42.000Z",
-          "wordCount": 163,
-          "title": "盒马怎么老转弯？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761707/",
-          "author": null,
-          "description": "新一年的序幕拉开，人们蓄势待发，希望寻得一支上上签，安定心神。 2024 年前夕，罗振宇、吴晓波等众多商业财经博主举办了跨年演讲。讲台上他们像往年一样妙语连珠，讲述着 2023 年的所见所得和未来的所思所想。 但不同的是，今年的跨年演讲不再刷屏朋友圈，网上舆论不再喧嚣，媒体的相关报道也大量减少。 不\n本文链接",
-          "link": "https://news.cnblogs.com/n/761707/",
-          "publishedOn": "2024-01-06T03:22:00.000Z",
-          "wordCount": 163,
-          "title": "跨年演讲的寒冬：年轻人用脚投票，500块夜校更有性价比",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761703/",
-          "author": null,
-          "description": "在 Astrobotic 公司的\"百灵鸟\"（Peregrine）月球着陆器于周一发射之前，联合发射联盟（ULA）已将其全新的\"火神\"（武尔坎，Vulcan）火箭运至佛罗里达州卡纳维拉尔角太空站的发射台。\"百灵鸟\"是美国第一个私人开发的月球着陆器，它的发射是全球私营企业对商业主导的月球探索的广泛兴趣的\n本文链接",
-          "link": "https://news.cnblogs.com/n/761703/",
-          "publishedOn": "2024-01-06T03:18:00.000Z",
-          "wordCount": 163,
-          "title": "NASA准备用来自ULA的全新火箭发射美国首个私营月球着陆器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761702/",
-          "author": null,
-          "description": "快科技 1 月 5 日消息，据行业曝料，2023 年第四季度，NVIDIA GPU 供应量在全球范围内都被严格限制，导致全球市场都出现了明显的供不应求。 在这种情况下，无论是欧美还是中国，厂商和销售渠道都在拼命抢货。 对于中国市场来说，情况更加不乐观，尤其是 1 月份属于季度末期，2 月份又有春节假\n本文链接",
-          "link": "https://news.cnblogs.com/n/761702/",
-          "publishedOn": "2024-01-06T03:15:00.000Z",
-          "wordCount": 163,
-          "title": "NVIDIA GPU全球严重缺货！中国尤其紧张",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761699/",
-          "author": null,
-          "description": "快科技 1 月 5 日消息，今晚雷军宣布首批小米汽车 SU7 实拍壁纸解禁。 雷军表示，小米汽车 SU7 的这套实拍图感觉特别适合做壁纸，推荐给喜欢的朋友们。 这批实拍壁纸涵盖海湾蓝、橄榄绿、雅灰三种配色，分辨率 2400x1080，正好对于 20:9 的手机屏幕比例。 据了解，小米 SU7 定位C\n本文链接",
-          "link": "https://news.cnblogs.com/n/761699/",
-          "publishedOn": "2024-01-06T03:10:00.000Z",
-          "wordCount": 163,
-          "title": "雷军放出首批小米汽车SU7实拍壁纸 高清无水印",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761698/",
-          "author": null,
-          "description": "今日，快的打车创始人陈伟星在朋友圈连续发文谴责抖音，称虽然自己曾经给字节跳动投资过 1000 万美元，也从中获利颇丰，但希望张一鸣能反思如何用 AI 爱人，而不是为钱操控人类。 陈伟星在朋友圈中表示：抖音的 AI 牛逼之处是，他会为了实现自己的意图，会对所有和它交互的人进行做局让每一个人意识形态符合\n本文链接",
-          "link": "https://news.cnblogs.com/n/761698/",
-          "publishedOn": "2024-01-06T03:07:00.000Z",
-          "wordCount": 163,
-          "title": "曾给张一鸣投资1000万美元的商界大佬，怒喷抖音：为了钱用AI操控人类",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761697/",
-          "author": null,
-          "description": "继 2023 年的高歌猛进之后，SpaceX 公司正准备在 2024 年再创火箭发射纪录。2023 年 12 月，SpaceX 公司将猎鹰 9 号火箭和操作系统发挥到极致，力争实现自己设定的目标，成为人类历史上第一家在一年内发射 100 枚火箭的公司，虽然该公司未能实现这一目标，但这并没有阻止 Sp\n本文链接",
-          "link": "https://news.cnblogs.com/n/761697/",
-          "publishedOn": "2024-01-06T03:00:00.000Z",
-          "wordCount": 163,
-          "title": "SpaceX力争再创新纪录 计划在2024年发射144枚火箭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761706/",
-          "author": null,
-          "description": "1 月 5 日下午，国家互联网信息办公室发布第三批境内深度合成服务算法备案信息，共有 129 个算法通过备案，数量再创新高。 南都大数据研究院梳理发现，本次通过备案的 129 个算法分属 97 家公司，其中既有阿里、百度、网易等知名互联网公司，也包括不少各自行业领域内的明星企业，例如东方财富、贝壳、\n本文链接",
-          "link": "https://news.cnblogs.com/n/761706/",
-          "publishedOn": "2024-01-06T02:42:00.000Z",
-          "wordCount": 163,
-          "title": "129个！第三批深度合成服务算法备案，有逆水寒、妙鸭相机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761705/",
-          "author": null,
-          "description": "财联社 1 月 5 日讯（记者徐昊）1 月 5 日，国家市场监管总局发布消息，特斯拉（上海）有限公司、特斯拉汽车（北京）有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向市场监管总局备案了召回计划。 其中，自即日起，召回生产日期在 2014 年 8 月 26 日\n本文链接",
-          "link": "https://news.cnblogs.com/n/761705/",
-          "publishedOn": "2024-01-06T02:37:00.000Z",
-          "wordCount": 163,
-          "title": "自动辅助驾驶再“惹祸” 特斯拉30天内共召回“问题车”逾360万辆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761704/",
-          "author": null,
-          "description": "IT 之家 1 月 6 日消息，根据美国商标和专利局（USPTO）近日公示的清单，苹果公司获得了一项关于 Vision Pro 头显相关的技术专利，重点介绍了调节机制，从而让头显更贴合面部，为不同佩戴者提供更沉浸的使用体验。 苹果公司表示，每位佩戴者都有独特的解剖学特征，包括头部大小、眼睛位置、脸颊\n本文链接",
-          "link": "https://news.cnblogs.com/n/761704/",
-          "publishedOn": "2024-01-06T02:30:00.000Z",
-          "wordCount": 163,
-          "title": "苹果Vision Pro头显调节专利获批：适配不同佩戴者，提高沉浸感",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761701/",
-          "author": null,
-          "description": "出品 CSDN（ID：CSDNnews） 针对早前微信被爆在后台反复读取用户相册的事件，1 月 5 日，马化腾独家回应：“应该是 21 年 10 月的事了，图片缓存加速造成的误会，后面应该用 iOS 新的解决卡顿的 API 解决了。”并特别表示，“可以帮忙辟谣”。 2021 年 10 月 8 日，数\n本文链接",
-          "link": "https://news.cnblogs.com/n/761701/",
-          "publishedOn": "2024-01-06T02:22:00.000Z",
-          "wordCount": 163,
-          "title": "独家：马化腾回应微信“偷窥”相册",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761700/",
-          "author": null,
-          "description": "董宇辉工作室又有新动向！ 1 月 5 日，据天眼查 APP 显示，与辉同行（北京）科技有限公司新增出版物零售单位设立行政许可。 天眼查 APP 显示，2023 年 12 月 25 日，与辉同行（北京）科技有限公司新增出版物零售单位设立行政许可，许可机关为中共北京市平谷区委员会宣传部，有效期至 202\n本文链接",
-          "link": "https://news.cnblogs.com/n/761700/",
-          "publishedOn": "2024-01-06T02:17:00.000Z",
-          "wordCount": 163,
-          "title": "董宇辉，事业有了新进展！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/761696/",
-          "author": null,
-          "description": "IT 之家 1 月 4 日消息，在去年八月 HarmonyOS4 发布的同时，华为还公布了面向开发者的 HarmonyOS NEXT，该系统仅支持鸿蒙 HAP 格式。 根据华为规划，全新 HarmonyOS NEXT 开发者预览版将在今年第一季度面向所有开发者开放。 据中国基金报，华为将在 1 月 \n本文链接",
-          "link": "https://news.cnblogs.com/n/761696/",
-          "publishedOn": "2024-01-05T14:39:34.000Z",
-          "wordCount": 163,
-          "title": "原生鸿蒙HarmonyOS NEXT将于一季度开放，华为彻底与安卓划清界限",
           "imageUrl": null
         }
       ]
