@@ -597,36 +597,6 @@
           "wordCount": 1014,
           "title": "Decky Loader：让你的 Steam Deck 更好用",
           "imageUrl": "https://cdn.sspai.com/2024/1/26/article/9de21157-cf76-0d8b-ef48-23e749075660.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85906",
-          "author": "玉树芝兰",
-          "description": "我替你尝试了它的基本对话、绘图、阅读长文档、数据分析和高级联网等几方面能力。\n\n最近智谱的 GLM-4 大语言模型发布，成为了热门话题。一篇文章不断出现在我的朋友圈和各种群聊中。\n\n这篇文章是由新智元发布的，介绍了GLM-4的特性。文章兴奋地宣称，现在我们也有了国产的「GPTs技术」。但我真正感兴趣的不仅仅是GLM-4的GPTs技术，而更看重它的实际性能。文章中提到了GLM-4的多项能力，特别是它在某些方面能够达到GPT-4的90%到99%的水平，还能进行所谓的“大海捞针”测试。\n“大海捞针” 测试是一项针对大语言模型上下文记忆检索的特殊能力测试，我之前给你介绍的 Kimi Chat 是第一个在 128K 窗口大小上获得满分的国产 LLM 。\nGLM-4 的主页上，提供了一些官方功能，包括绘图、解读长文档、数据分析和高级网络连接等。\n\n我对 GLM-4 提供的这些功能特别感兴趣，于是逐一测试这些功能。我选择用日常工作中经常使用的一些功能来进行实际测试，最关心的是 GLM-4 是否能真正提高用户的工作效率。下面，我给你展示基本功能、绘图、阅读长文档、数据分析和高级联网等几个方面的测试结果。\n基础\n首先是基础功能。这是你一打开 GLM-4，看到的最基本界面。我选择 GLM-4 标签页进行测试。\n\n从介绍上不难看出，GLM-4 在基本模式里能做的事情非常多，就像现在的 GPT-4 一样。它能够原生支持问答、联网查询、绘图、图像识别等多种操作。\nGLM-4宣称具有「大海捞针」能力，即能处理超过100K字符的对话上下文窗口，而且不产生幻觉。这让我首先想到的是长文翻译功能。\n我选了一篇 Markdown 格式的中文长文，包含了图片链接和其他一些元素。\n\n我将这篇文章输入到 GLM-4 中，看看它是否能提供一个完整的翻译。我的提示词为：\n\n请帮我将下面的文章翻译成英文，并注意保留所有细节…",
-          "link": "https://sspai.com/post/85906",
-          "publishedOn": "2024-01-18T03:32:39.000Z",
-          "wordCount": 850,
-          "title": "智谱 GLM-4 大语言模型好用吗？",
-          "imageUrl": "https://cdn.sspai.com/2024/01/18/ae5ee7d8cf86bd51edc8ec5ddc392e66.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85890",
-          "author": "Jacbo",
-          "description": "有这么一个说法，互联网时代，你每天接触到的信息量，可能相当于过去人们一生中所接收的信息总量。这种对比可能略显夸张，但它确实突显了当前信息过载的现象。\n其实，信息过载的核心问题并非信息量过大，而是低质量信息的泛滥。\n对于知识工作者来说，信息就像食物，低质量的信息则如同垃圾食品。垃圾食品对身体的危害不必多说，低质量信息对精神的污染也就不言自明。\n要减轻这种精神污染的危害，从源头把关，构建一个信息筛选器，就显得很重要。\n这篇文章，就来分享一下我的信息筛选器，从三个维度来考量。\n首先，审视信息的生产者\n在循证医学上，有一个九级证据金字塔，越靠近金字塔尖的证据说服力越大。在医疗决策过程中，临床医生要更注重科学研究的证据，而不只是依赖医生的个人经验或权威意见。\n在日常生活中也是一样，经过同行评审的学术期刊，普遍比社交媒体上的个人账号发布的信息，更加可靠。只是对于我们普通人来说，读论文并不容易，但选择靠谱的信息生产者是容易做到的。\n要选择相信那些有循证意识的、有专业背景的、且被时间验证的机构或者个人。比如，投资领域的有知有行、健康领域的丁香医生、数码领域的少数派……再沿着这些可靠的信息生产者，去挖掘他们的参考信息，慢慢就可以定制出一份丰富可靠的信息食谱了。\n其次，关注信息的半衰期\n所谓的信息半衰期，是指这条信息从产生到价值减半的时间。信息的半衰期越长，越有价值，追热点的时事新闻，几小时就失效了，但是经典的著作，几十年甚至几世纪都还在影响世界。\n况且，我们的注意力是有限的，从投资回报率（ROI）的角度来看，我们应该优先将有限的注意力投入到那些经受时间考验、具有持久价值的信息，它们往往能够为我们的决策，提供坚实的参考。\n半衰期长的信息，通常是基础科学定理、经典文学著作、实践家的客观历程。\n最后，注意信息的表达方式\n前面两点，都聚焦在信息阅读前的选择，第三点，则是聚焦在信息阅读时的判断筛选。\n需要警惕下面这三种表达方式：\n\n标题党：使用夸张或误导性的标题吸引眼球，内容与标题之间缺乏逻辑连贯性，甚至可能完全无关，这种信息往往缺乏真实性和准确性。\n绝对化语言：使用极端词汇如“一定”、“绝对”、“最好”、“最差”、“唯一”等，忽视了事物的复杂性和多面性，容易导致信息的片面性和误导性。\n缺乏出处：信息没有可靠的事实支持，不标注出处，这样的信息可信度低，可能是基于个人观点或猜测，其价值值得怀疑。\n\n我们的思想和行动，始终被信息所塑造，你也需要一个信息筛选器，确保在信息的洪流中，保持清晰的头脑，不被垃圾信息所裹挟，偏离既定的航向。",
-          "link": "https://sspai.com/post/85890",
-          "publishedOn": "2024-01-18T03:18:58.000Z",
-          "wordCount": 586,
-          "title": "请为自己构建一个信息筛选器",
-          "imageUrl": "https://cdn.sspai.com/"
-        },
-        {
-          "id": "https://sspai.com/post/85886",
-          "author": "Ryan_So",
-          "description": "三脚架对于摄影至关重要的配件之一，既可保证拍摄画面稳定性，有效地解决手持拍摄抖动和长曝光画面模糊的情况，也能扩展外接更多相机配件，假如出门旅行拍摄，个人更倾向于携带迷你三脚架，有效降低背负重量，让有限的背包空间放置更多物资，与一般全尺寸三脚架不同，迷你三脚架更多考虑的是便携需求，有着更小的体积和重量，目前市面上的迷你三脚架在收纳尺寸、展开高度与承载能力不尽相同，富图宝M4C Pro迷你三脚架采用碳纤维材料与反折脚管设计，19cm的收纳长度轻松放入行囊之中，其便携属性确实令人印象深刻。\n\n本次开箱过程略过，外包装盒子内含有富图宝M4C Pro迷你三脚架，内六角扳手、脚架包以及说明书保修卡，脚架包的外层采用尼龙材质，设计一条背带可用手提着也可搭在肩膀携带外出，内部空间相当有限，仅能放置三脚架以及手机夹等小配件。\n\n富图宝M4C Pro迷你三脚架的特点就是非常轻便，三根脚管采用反折式设计，其实很多便携式三脚架所常用的收纳设计，在反折收纳时的整体长度为19cm，不占位置让携带变得更灵便，将其放进双肩包中毫无难度，甚至能放进斜挎包中携带外出。\n\n三脚架主体以黑色为主色调，还有橙色铝合金的旋锁结构与调节扳扣作为点缀，假如仅去注明尺寸数值只有大致概念，但当与一台手机或瓶装水进行对比，就能了解具体的差异，富图宝M4C Pro迷你三脚架在折叠后高度与一台手机的高度（157.9mm）相若。\n\n三脚架不仅具有轻量化的特点，还相当轻盈，净重约为640克，脚管与中轴均采用碳纤维材质，中轴底座、旋锁结构与球型云台采用铝合金材质，既能尽量保持其轻量化，也能确保关键部位的刚性与承重能力，以轻松地单手掌控，并没不会带来什么的负担。\n\n富图宝M4C Pro迷你三脚架所搭载的球型云台型号为FPH-42QP，配备两个气泡水平仪辅助测量垂直或水平方向的偏差，整体采用铝镁合金材质，在快装板上设计了两块橡胶缓冲垫并附带…",
-          "link": "https://sspai.com/post/85886",
-          "publishedOn": "2024-01-18T03:18:26.000Z",
-          "wordCount": 599,
-          "title": "轻量灵活便携，为外出拍摄减负，富图宝M4C Pro迷你碳纤维三脚架体验",
-          "imageUrl": "https://cdn.sspai.com/2024/01/17/803da1a02e0a8fd8982693493879b07e.jpg"
         }
       ]
     },
@@ -674,6 +644,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77362",
+          "author": null,
+          "description": "一项对 1000 人免疫反应的研究表明，吸烟对免疫系统的影响在戒烟之后仍会持续很长时间。法国研究人员分析了 1000 名健康人群的血液样本和调查问卷。研究人员将血液样本暴露在已知能激活免疫系统的分子、微生物和病毒中。然后测量了每种分子对一种叫做细胞因子的蛋白质产生的影响，这种蛋白质调节身体的炎症反应。他们发现，有三个特征与细胞因子反应有着特别密切的联系：吸烟、体重指数和先前的巨细胞病毒感染。吸烟对细胞因子反应的影响与年龄、性别和基因的影响一样大。这些影响在参与者戒烟后仍会持续数年。研究团队发现，这些因素与被称为甲基的化学标签的模式相关，甲基被添加到细胞 DNA 的某些区域。这些甲基的加入可以改变基因的活性。",
+          "link": "https://www.solidot.org/story?sid=77362",
+          "publishedOn": "2024-02-16T06:20:43.000Z",
+          "wordCount": 163,
+          "title": "吸烟对免疫系统的影响在戒烟后仍然存在",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77361",
+          "author": null,
+          "description": "欧洲人权法院 (ECHR) 裁定，削弱端到端加密会带来破坏人权的巨大风险。这一裁决可能会影响到欧盟拟议中的弱加密或后门计划，该计划要求电邮和消息服务提供商创建加密后门，允许执法部门容易解密用户的加密消息。欧洲人权法院称，通信保密是尊重私人生活和通信的权利的一大基本元素，而创建后门削弱加密会在技术上对个人电子通信执行例行的、普遍的和不加区别的监视成为可能。后门也能被犯罪网络利用，危及到所有用户电子通信的安全。",
+          "link": "https://www.solidot.org/story?sid=77361",
+          "publishedOn": "2024-02-15T15:56:40.000Z",
+          "wordCount": 158,
+          "title": "欧洲法庭裁定弱密码或加密后门侵犯人权",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77360",
           "author": null,
@@ -2573,106 +2563,6 @@
           "wordCount": 178,
           "title": "Google 将调整搜索排名以遵守欧盟的监管规定",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77167",
-          "author": null,
-          "description": "从历史上看，女性寿命一直比男性长，但生活方式的改变可能正帮助男性寿命逐渐赶上来。西班牙研究人员分析了 1990 年至 2010 年 194 个国家的死亡率数据。这些国家可以根据其寿命趋势分为 5 组。平均预期寿命最长的人群来自收入最高的国家，如澳大利亚、日本、美国、英国和西欧其他地区。预期寿命最短的人群只有卢旺达和乌干达。研究人员在比较这些国家的男性和女性寿命时发现，卢旺达和乌干达男性的预期寿命增幅最大。1990 年他们的平均预期寿命仅为 30.85岁，2010 年增加了 14.37 岁，达到 45.22 岁。而女性预期寿命在此期间仅增加了 0.94 岁，从 50.37 岁增加到 51.31 岁。在预期寿命最长的人群中，男性和女性 1990 年的平均预期寿命差距为 4.84 岁，女性寿命长。2010 年这一数字降至 4.77 岁。研究人员预计，这一差距将继续缩小，到 2030 年将达到 3.4 岁。研究人员认为与吸烟和酒精相关的死亡人数有所减少，这可能有助于缩小男女之间的预期寿命差距，因为吸烟和酒精对男性的影响尤为严重。",
-          "link": "https://www.solidot.org/story?sid=77167",
-          "publishedOn": "2024-01-18T08:53:35.000Z",
-          "wordCount": 189,
-          "title": "男女预期寿命缩小差距",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77166",
-          "author": null,
-          "description": "Linus Torvalds 通过 social.kernel.org 披露了他家的供电和联网状况。他尚未在内核开发者邮件列表上发帖表示将延长 Linux 6.8 的合并窗口。Torvalds 称他家已经五天没电了，天气转暖，人们开始到户外行动但路面滑得就像是玩碰碰车，他本人对这种身体接触不感兴趣，因此仍然宅在家里。只要手机电池有电，他会继续合并内核补丁。本地电力公司称将在当晚恢复供电，但它前一天也是这么许诺的。Torvalds 解释说，供电恢复如此缓慢的原因是他居住的地区人口不多，电力公司优先给人口多的地区恢复供电。此外暴风雪后大树倒下了，要移除比较困难。",
-          "link": "https://www.solidot.org/story?sid=77166",
-          "publishedOn": "2024-01-18T07:52:49.000Z",
-          "wordCount": 174,
-          "title": "Linus Torvalds 家的供电有望恢复",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77165",
-          "author": null,
-          "description": "特斯拉 Model Y 取代丰田卡罗拉成为全球最畅销车型，这是电动汽车首次摘得这一荣誉。不过特斯拉只生产五款车型，而丰田生产 70 款。在前 10 大畅销车型中，丰田拥有五款（卡罗拉、RAV4、凯美瑞、Hilux 和卡罗拉Cross）。2023 年电动汽车在全球新车销量中的占比由 2018 年的 1.2% 扩大到了 11%。Model Y 在电动汽车市场上占据了 1 成以上的份额。比亚迪的秦、宋、元和海豚等也跻身前 50 款畅销车型。",
-          "link": "https://www.solidot.org/story?sid=77165",
-          "publishedOn": "2024-01-18T07:10:26.000Z",
-          "wordCount": 196,
-          "title": "特斯拉 Model Y 是 2023 年最畅销车型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77164",
-          "author": null,
-          "description": "Google DeepMind 新 AI 系统 AlphaGeometry 能解复杂几何问题。研究报告发表在最新一期的《自然》期刊上。AlphaGeometry 可以以国际数学奥林匹克竞赛金牌得主的平均水平解决几何问题。研究人员从 2000 年至 2022 年奥数比赛中抽取的30道几何题中，AlphaGeometry 解决了 25 道题。从历史上看，在相同时间内，人类金牌得主平均解决了 25.9 道题。研究人员认为，“解决奥数级别的几何问题是发展深度数学推理、迈向更先进和通用人工智能系统的一个重要里程碑。”训练 AI 系统解决几何问题面临着独特的挑战。由于将证明转换为机器可以理解的格式十分复杂，因此缺乏可用的几何训练数据。DeepMind 在设计 AlphaGeometry 时将“神经语言”模型（在架构上类似于 ChatGPT）与“符号演绎引擎”配对，该引擎利用规则（如数学规则）来推断问题的解决方案。符号引擎可能不灵活且缓慢，尤其是在处理大型或复杂的数据集时。但 DeepMind 通过让神经模型“引导”推演引擎找到给定几何问题的可能答案，从而缓解了这些问题。",
-          "link": "https://www.solidot.org/story?sid=77164",
-          "publishedOn": "2024-01-18T06:53:16.000Z",
-          "wordCount": 198,
-          "title": "Google DeepMind 新 AI 系统能解复杂几何问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77163",
-          "author": null,
-          "description": "美国癌症学会（American Cancer Society）的年度报告显示，美国癌症死亡人数在下降，但新增癌症患者人数在增加。自 1990 年以来美国预防了逾 400 万患者死亡，与此同时 2023 年的新增患者人数从 2022 年的 190 万增加到逾 200 万。癌症仍然是仅次于心脏病的第二大死因。减少癌症死亡的三大因素被认为是减少吸烟、早期检测和治疗方法改进。1980 和 1990 年代，转移性乳腺癌曾被视为致命，如今其死亡率有了显著改善。乳腺癌死亡率从 1975 年的每 10 万名女性死亡 48 人降至 2019 年的每 10 万名女性 27 人。",
-          "link": "https://www.solidot.org/story?sid=77163",
-          "publishedOn": "2024-01-18T06:18:44.000Z",
-          "wordCount": 185,
-          "title": "美国癌症死亡人数下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77162",
-          "author": null,
-          "description": "从 2 月 1 日开始，最大的云计算服务商 AWS 将对 IPv4 地址收费，每小时 0.005 美元，每月约 4 美元。原因是 IPv4 地址日益稀缺，获取的成本在增加。每月 4 美元对普通用户可能并不多，但对基于 AWS 的基础设施服务商而言意味着数百万美元的额外开支。这些公司可以选择将成本转嫁给客户，或者提供代理等权宜方法，或者 只提供IPv6。IPv6 的普及度有望加速。",
-          "link": "https://www.solidot.org/story?sid=77162",
-          "publishedOn": "2024-01-18T05:51:57.000Z",
-          "wordCount": 188,
-          "title": "AWS 准备对 IPv4 地址收费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77161",
-          "author": null,
-          "description": "自 1999 年英国邮政局安装了富士通开发的有 bug 财务软件 Horizon 之后，超过 700 人受到了盗窃钱财、欺诈和做假账的指控，这起丑闻被认为是英国最大规模的司法不公案。来自 Horizon 的证据被用于成功起诉了 736 名邮政工作人员，有人因此被关到监狱，生活被彻底改变。而据前开发者透露的信息，富士通公司早就知道它的软件存在问题。本周二富士通高管在英国议会下院委员会作证并道歉，表示可以承担部分赔偿。富士通执行董事、欧洲地区联席首席执行官保罗·帕特森（Paul Patterson）表示公司有道德义务为赔偿做出贡献。帕特森强调，系统从早期就存在“漏洞和错误”，富士通方面早就告知英国邮局公司。但他也指出，大型系统必然存在漏洞。",
-          "link": "https://www.solidot.org/story?sid=77161",
-          "publishedOn": "2024-01-18T05:34:01.000Z",
-          "wordCount": 178,
-          "title": "富士通就财务软件 bug 导致数百人被错误定罪道歉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77160",
-          "author": null,
-          "description": "上海 AI 实验室在 Apache-2.0 许可证下开源了 InternLM2。InternLM2 是在 2.6 万亿 token 的高质量语料上训练得到的。沿袭第一代 InternLM 的设定，InternLM2 包含 7B 及 20B 两种参数规格及基座、对话等版本，满足不同复杂应用场景需求。实验室称：InternLM2 有效支持 20 万字超长上下文：模型在 20 万字长输入中几乎完美地实现长文“大海捞针”，而且在 LongBench 和 L-Eval 等长文任务中的表现也达到开源模型中的领先水平。 可以通过 LMDeploy 尝试20万字超长上下文推理。综合性能全面提升：各能力维度相比上一代模型全面进步，在推理、数学、代码、对话体验、指令遵循和创意写作等方面的能力提升尤为显著，综合性能达到同量级开源模型的领先水平，在重点能力评测上 InternLM2-Chat-20B 能比肩甚至超越 ChatGPT （GPT-3.5）。代码解释器与数据分析：在配合代码解释器（code-interpreter）的条件下，InternLM2-Chat-20B 在 GSM8K 和 MATH 上可以达到和 GPT-4 相仿的水平。基于在数理和工具方面强大的基础能力，InternLM2-Chat 提供了实用的数据分析能力。",
-          "link": "https://www.solidot.org/story?sid=77160",
-          "publishedOn": "2024-01-17T14:47:47.000Z",
-          "wordCount": 210,
-          "title": "上海 AI 实验室开源 InternLM2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77159",
-          "author": null,
-          "description": "比特币的神秘作者中本聪曾在介绍比特币的邮件中表示它的交易具有匿名性，但到了 2013 年比特币被证明比现有的金融系统更容易跟踪和识别身份，也更透明。而第一位打破比特币匿名神话的是加州圣迭戈的计算机科学研究生 Sarah Meiklejohn。2013 年初，她在短时间内成为最活跃的比特币用户之一，她将计算机算力贡献给矿池，使用了 10 种比特币钱包服务，从丝绸之路暗网市场购买了各种奇奇怪怪的商品（不包括毒品）。她在数周内完成了 344 笔交易，每一笔交易的细节都纪录在电子表格里。她的目标是证明比特币的交易是可以被跟踪的。本周出版的新书《Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency》讲述了这段十年前的历史。",
-          "link": "https://www.solidot.org/story?sid=77159",
-          "publishedOn": "2024-01-17T14:35:08.000Z",
-          "wordCount": 186,
-          "title": "打破比特币匿名神话的 27 岁研究员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77158",
-          "author": null,
-          "description": "苹果正在调整美国 iOS App Store 的政策，允许应用开发商引导用户通过非商店购买选项付费购买数字商品，但苹果仍然想对通过这种第三方支付的付费方式收取 12%-27% 的佣金。Google 和苹果应用商店中的应用内购通常只允许通过商店内置的付费选项支付，Google 和苹果从中提取约三成的佣金。这种做法引发了争议，Google 和苹果因此面临反垄断调查，它们正被迫允许应用开发商提供第三方支付选项，比如允许引导用户通过应用开发商的官网付费。苹果正在更新政策，但它仍然试图从用户付费中收取略微低一点的佣金。比如通过外链付费订阅应用一年的服务，苹果想要收取 27% 的佣金，第二年订阅的佣金比例降至 12%。",
-          "link": "https://www.solidot.org/story?sid=77158",
-          "publishedOn": "2024-01-17T13:48:25.000Z",
-          "wordCount": 168,
-          "title": "苹果仍然想收取第三方支付的佣金",
-          "imageUrl": null
         }
       ]
     },
@@ -2681,6 +2571,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/764727/",
+          "author": null,
+          "description": "一夜过去，AI 行业又迎来了重大技术突破，这次有可能被“颠覆”的是视频和电影制作。 北京时间 2 月 16 日凌晨，OpenAI 在官网正式发布了文生视频大模型 Sora，其可以根据用户提示生成长达一分钟的视频，同时保持视频中出现的人物、景色的连贯性，甚至即便切换镜头，人物依然能够保持一致。 Ope\n本文链接",
+          "link": "https://news.cnblogs.com/n/764727/",
+          "publishedOn": "2024-02-16T10:04:04.000Z",
+          "wordCount": 163,
+          "title": "OpenAI发布“一镜到底”文生视频大模型 人人都能创作短片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764726/",
+          "author": null,
+          "description": "IT 之家 2 月 16 日消息，今天早些时候，OpenAI 发布了最新的视频生成模型 Sora，其能够根据用户输入的文本描述，生成一段视频内容。同时，OpenAI 还放出了数段演示视频，譬如摩登女郎在东京街头散步、长毛象行走在雪地里等等，IT 之家已进行详细报道。 随后，埃隆・马斯克多次对 Ope\n本文链接",
+          "link": "https://news.cnblogs.com/n/764726/",
+          "publishedOn": "2024-02-16T10:03:22.000Z",
+          "wordCount": 163,
+          "title": "马斯克评OpenAI新模型：人类gg了/人类被AI增强就能创造最好作品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764725/",
+          "author": null,
+          "description": "快科技 2 月 16 日消息，近日，网传字节跳动 CEO 张一鸣被家乡立了功德碑，引发热议，但现在这座碑已经拆除了。 此前报道称，张一鸣为家乡捐款 266 万元，几乎以一己之力，承担了家乡重修祠堂的费用。 为此，家乡为张一鸣立下了功德碑。 碑文称：\"字节跳动是最早把人工智能应用于移动互联网场景的科技\n本文链接",
+          "link": "https://news.cnblogs.com/n/764725/",
+          "publishedOn": "2024-02-16T10:02:24.000Z",
+          "wordCount": 163,
+          "title": "字节跳动CEO张一鸣为家乡捐款266万 被立功德碑！已经拆除",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764724/",
+          "author": null,
+          "description": "IT 之家 2 月 16 日消息，谷歌近日更新博文，宣布开源 Magika，基于人工智能快速高效地识别文件格式和内容类型，相关源代码已托管到 GitHub 上。 Magika 采用了一个定制的、高度优化的深度学习模型，即使在 CPU 上运行，也能在几毫秒内精确识别文件类型。 谷歌分享 Magika \n本文链接",
+          "link": "https://news.cnblogs.com/n/764724/",
+          "publishedOn": "2024-02-16T06:24:18.000Z",
+          "wordCount": 163,
+          "title": "谷歌开源 Magika：毫秒级识别内容类型，百万文件测试准确率超99%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764723/",
+          "author": null,
+          "description": "IT 之家 2 月 16 日消息，三星 GalaxyZFold6 手机的电池曝光之后，网络上流出了关于该机的更多相关信息。 后置主摄升至 2 亿像素，不过有媒体持不同观点 近日有爆料称三星 Galaxy Z Fold 6 折叠屏手机主摄会升级到 2 亿像素，不过根据荷兰科技媒体 Galaxy Clu\n本文链接",
+          "link": "https://news.cnblogs.com/n/764723/",
+          "publishedOn": "2024-02-16T06:22:37.000Z",
+          "wordCount": 163,
+          "title": "三星 Galaxy Z Fold6 折叠屏手机爆料：2亿主摄、折叠厚度 11毫米",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764722/",
+          "author": null,
+          "description": "出品虎嗅科技组 作者王一鹏 头图 OpenAI 官网，by Sora 2 月 16 日凌晨，在没有任何预兆和消息透露的情况下，OpenAI 突然发布了自己的首个文生视频模型：Sora，大幅刷新行业多个指标，重新定义了 AI 文生视频在现阶段的技术极限，颠覆了生成式 AI 在视频领域的全球市场格局。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/764722/",
+          "publishedOn": "2024-02-16T06:21:35.000Z",
+          "wordCount": 163,
+          "title": "OpenAI再次举起屠刀，以及几个推论",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764721/",
+          "author": null,
+          "description": "西风发自凹非寺 量子位公众号 QbitAI 辛辛苦苦手写的论文，却被审稿人鉴定为“一眼 ChatGPT”而被拒收。 一位副教授的遭遇引发学术界关注，登上 Nature 专栏。 她决定从此以后每篇论文都在 GitHub 上写，用变更记录来证明自己的清白。 在文章中她根据自己的经历提出“AI 在不刻意的\n本文链接",
+          "link": "https://news.cnblogs.com/n/764721/",
+          "publishedOn": "2024-02-16T06:19:28.000Z",
+          "wordCount": 163,
+          "title": "为自证没用ChatGPT，副教授被迫用GitHub写论文｜Nature",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764720/",
+          "author": null,
+          "description": "衡宇白交发自凹非寺 量子位公众号 QbitAI 大过年的，OpenAI 投资的人形机器人，通过最新视频拜年了（doge） 有俩人上来就表演了一个从货架取包裹，转身放进筐里： 镜头继续推进，旁边靠墙的两个机器人，在不停地将俄罗斯方块积木举起-丢下-再举起。 另一边，充好电的机器人，温柔地拔掉插销，微微\n本文链接",
+          "link": "https://news.cnblogs.com/n/764720/",
+          "publishedOn": "2024-02-16T06:15:58.000Z",
+          "wordCount": 163,
+          "title": "端到端纯视觉！OpenAI押注的人形机器人献艺拜年了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764719/",
+          "author": null,
+          "description": "2 月 15 日消息，在 Galaxy S23 发布会期间，三星透露正在与谷歌和高通合作开发 XR 产品。 根据 Hankyung 的一份新报告，三星创建了一个名为「Immersive Team（沉浸式团队）」的独立团队来开发其首款 XR 头显。 报告称，该团队隶属于生产智能手机的三星 MX（移动体\n本文链接",
+          "link": "https://news.cnblogs.com/n/764719/",
+          "publishedOn": "2024-02-16T06:13:48.000Z",
+          "wordCount": 163,
+          "title": "消息称三星成立百人独立团队开发 XR 头显，追赶苹果 Vision Pro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764718/",
+          "author": null,
+          "description": "2 月 16 日消息，根据彭博社报道，苹果公司正研发升级版 Xcode，其亮点在于整合多项 AI 功能，其中之一可以为开发者生成相关的代码 报道称该人工智能工具将类似于微软的 GitHub Copilot，可以根据自然语言请求生成代码，并将代码从一种编程语言转换为另一种编程语言。 Xcode AI \n本文链接",
+          "link": "https://news.cnblogs.com/n/764718/",
+          "publishedOn": "2024-02-16T06:13:19.000Z",
+          "wordCount": 163,
+          "title": "苹果正研发 GitHub Copilot 竞品：Xcode AI 可帮开发者转换、调试、生成代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764717/",
+          "author": null,
+          "description": "2 月 15 日消息，字节跳动今天宣布旗下 TikTok 应用已经正式登陆苹果 Vision Pro 头显，官方提到，相关版本 TikTok 为「原生应用」，并非 iOS / iPadOS 版本的简单转制版本。 苹果 Vision Pro 版 TikTok 应用整体界面干净清爽，遵循了苹果官方 3D\n本文链接",
+          "link": "https://news.cnblogs.com/n/764717/",
+          "publishedOn": "2024-02-16T06:12:18.000Z",
+          "wordCount": 163,
+          "title": "TikTok原生应用登陆Vision Pro头显：界面干净清爽、遵循3D纵深设计规范",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764716/",
+          "author": null,
+          "description": "白交发自凹非寺 量子位公众号 QbitAI 阿里大模型，再次开源大放送—— 发布 Qwen1.5 版本，直接放出六种尺寸。 最大的 Qwen1.5-72B-Chat 模型，在 MT-Bench 和 Alpaca-Eval v2 上，超越 Claude-2.1、GPT-3.5-Turbo-0613。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/764716/",
+          "publishedOn": "2024-02-16T06:10:04.000Z",
+          "wordCount": 163,
+          "title": "阿里大模型春节大礼包：代码可执行率超GPT4，1.5版本全系列开源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764715/",
+          "author": null,
+          "description": "佳麒白交发自凹非寺 量子位公众号 QbitAI 抖音集团 CEO 官宣卸任，真是一石激起千层浪！ 一方面，虽然字节高层要调整早有传闻，但靴子落地依然让人意外：为什么会是她？ 要知道张楠，可是字节从零到一打造出抖音、火山等 UGC 视频产品的大功臣。 另一方面，她下一步去的是一个抖音“配件”项目——剪\n本文链接",
+          "link": "https://news.cnblogs.com/n/764715/",
+          "publishedOn": "2024-02-16T06:08:53.000Z",
+          "wordCount": 163,
+          "title": "抖音CEO离任，奔赴AIGC视频新风口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764713/",
+          "author": null,
+          "description": "西风发自凹非寺 量子位公众号 QbitAI 快手发力 AI 视频，参与开发了一个智能“导演”。 Direct-a-Video，成功解耦 AI 生成视频中物体运动和摄像机运动，让灵活性和可控性大大增强！ 不信，来欣赏一波作品。 短视频中的镜头移动方向全凭导演指令，水平（X轴）、垂直（Y轴）、变焦必须精\n本文链接",
+          "link": "https://news.cnblogs.com/n/764713/",
+          "publishedOn": "2024-02-16T06:06:15.000Z",
+          "wordCount": 163,
+          "title": "国产AI导演贼6，短视频镜头和物体各动各的｜港城大&快手&天大",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764714/",
+          "author": null,
+          "description": "白交发自凹非寺 量子位公众号 QbitAI Vision Pro 现在玩的太花了，什么时候能快进到沉浸式玩 3D 游戏？？ 现在有个新研究，在 VR 里实时控制 3D 高斯泼溅生成的物体，距离真正实现又前进了一大步。 比如操作这个铁马，一不小心就鬼畜了…… 再比如，调教了下这只烈狗。 来自 UCLA\n本文链接",
+          "link": "https://news.cnblogs.com/n/764714/",
+          "publishedOn": "2024-02-16T06:04:00.000Z",
+          "wordCount": 163,
+          "title": "图形学大佬王华民等团队新研究：用于VR的3D高斯泼溅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764712/",
+          "author": null,
+          "description": "Multi-LLM 团队投稿凹非寺 量子位公众号 QbitAI 真·“三个臭皮匠，顶个诸葛亮”—— 基于开源小模型的三个 Agent 协作，比肩 GPT-4 的工具调用效果！ 话不多说，直接来看两个系统执行记录。 用户表示自己是一个音乐爱好者，想探索不同的音乐流派以及音乐家。他在指令中指定模型使用 \n本文链接",
+          "link": "https://news.cnblogs.com/n/764712/",
+          "publishedOn": "2024-02-16T06:02:37.000Z",
+          "wordCount": 163,
+          "title": "三个Agent顶个GPT-4，基于开源小模型的那种｜中大阿里联合出品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764711/",
+          "author": null,
+          "description": "明敏丰色发自凹非寺 量子位公众号 QbitAI 没想到，AI 要是“够废”，也能爆火全网。一个“什么问题都回答不了”的 AI，这几天成了圈内新星。Reddit、HackerNews 上讨论热度持续升高。 马库斯、伊森·莫利克等大佬都来围观了。 网友们对它更是又爱又恨。 为啥呢？ 因为，它连“2+2=\n本文链接",
+          "link": "https://news.cnblogs.com/n/764711/",
+          "publishedOn": "2024-02-16T03:15:37.000Z",
+          "wordCount": 163,
+          "title": "最新上头AI爆火：能问出来一句有用的，算我输！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764709/",
+          "author": null,
+          "description": "梦晨西风发自凹非寺 量子位公众号 QbitAI 刚刚，奥特曼发布 OpenAI 首个视频生成模型 Sora。 完美继承 DALL·E 3 的画质和遵循指令能力，能生成长达 1 分钟的高清视频。 AI 想象中的龙年春节，红旗招展人山人海。 有紧跟舞龙队伍抬头好奇官网的儿童，还有不少人掏出手机边跟边拍，\n本文链接",
+          "link": "https://news.cnblogs.com/n/764709/",
+          "publishedOn": "2024-02-16T03:10:44.000Z",
+          "wordCount": 163,
+          "title": "OpenAI首个视频生成模型Sora发布，网友：整个行业RIP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764708/",
+          "author": null,
+          "description": "金磊发自凹非寺 量子位公众号 QbitAI ChatGPT 又要推出新功能了，这次名叫“记忆”（Memory）。 如其名，作用就是让 AI 记住用户此前的对话内容。 用户可以要求 ChatGPT 记住哪些内容，也可以让它忘记一些特定的内容。 用 OpenAI 自己的话来描述这个功能就是： ChatG\n本文链接",
+          "link": "https://news.cnblogs.com/n/764708/",
+          "publishedOn": "2024-02-16T03:09:06.000Z",
+          "wordCount": 163,
+          "title": "ChatGPT要有记忆力了！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764707/",
+          "author": null,
+          "description": "金磊发自凹非寺 量子位公众号 QbitAI 英伟达推出了自家版本的 ChatGPT，名字很有 GPU 的味道—— Chat With RTX。 英伟达的这款 AI 聊天机器人和目前主流的“选手”有所不同。 它并非是在网页或 APP 中运行，而是需要下载安装到个人电脑中。 这波操作，不仅是在运行效果上\n本文链接",
+          "link": "https://news.cnblogs.com/n/764707/",
+          "publishedOn": "2024-02-16T03:08:24.000Z",
+          "wordCount": 163,
+          "title": "英伟达版ChatGPT来了，PC端部署，很GPU",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/764690/",
           "author": null,
@@ -7429,206 +7519,6 @@
           "publishedOn": "2024-01-19T05:40:00.000Z",
           "wordCount": 163,
           "title": "出现巨额亏损后 三星电子半导体业务部门已决定冻结高管薪酬",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762416/",
-          "author": null,
-          "description": "财联社 1 月 18 日讯（编辑刘蕊）美东时间 1 月 19 日（本周五）上午 8 点，苹果备受瞩目的新品 Vision Pro 即将开启预售。 近日，苹果邀请了众多媒体前往纽约，在正式发售前对这款售价高达 3499 美元的新品进行了一次全面评测。 总体而言，媒体记者们对于 Vision Pro 的\n本文链接",
-          "link": "https://news.cnblogs.com/n/762416/",
-          "publishedOn": "2024-01-18T09:24:00.000Z",
-          "wordCount": 163,
-          "title": "苹果Vision Pro媒体评测：沉浸到“泪流满面” 但不值3499美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762415/",
-          "author": null,
-          "description": "1 月 18 日，「市界」独家获悉，字节跳动产品线薪酬再调整，由此前的 18 薪调整为 15 薪，总包不变，以此为计算，月基础薪资变相提高约 20%。 通知邮件中称，为提升管理效率，决定对年终奖月数大于 3 的薪酬方案进行调整，调整说明如下: 目标年终奖月数统一调整为 3 个月。 调整前后保持薪酬总\n本文链接",
-          "link": "https://news.cnblogs.com/n/762415/",
-          "publishedOn": "2024-01-18T09:15:00.000Z",
-          "wordCount": 163,
-          "title": "字节产品18薪变15薪，月基本工资提升20%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762414/",
-          "author": null,
-          "description": "界面新闻记者李京亚 1 月 18 日，针对微软计划关闭微软亚洲研究院的传闻，微软全球资深副总裁、微软研究院负责人 Peter Lee 回应界面新闻称，目前没有关于关闭微软亚洲研究院的讨论或主张。“我们一如既往地支持微软亚洲研究院及其世界级的研究工作，对未来的研究计划充满期待。”他表示。 微软公司总裁\n本文链接",
-          "link": "https://news.cnblogs.com/n/762414/",
-          "publishedOn": "2024-01-18T09:07:00.000Z",
-          "wordCount": 163,
-          "title": "微软研究院回应关闭传言：没有这方面的讨论或主张",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762413/",
-          "author": null,
-          "description": "文陈桥辉 Tech 星球独家获悉，为了优化用户收听音乐及音频体验，微信对音乐和音频内容在呈现方式上，进行了小范围的体验优化测试。微信将此前位于首页下拉页面中的音乐、音频业务，在“发现”页中单独设置了一个入口，并更名为“听一听”，权重得到了提升，与“搜一搜”、“扫一扫”和“看一看”等功能并列。 图注：\n本文链接",
-          "link": "https://news.cnblogs.com/n/762413/",
-          "publishedOn": "2024-01-18T09:00:00.000Z",
-          "wordCount": 163,
-          "title": "微信内测“听一听”，音乐音频业务提至一级入口",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762412/",
-          "author": null,
-          "description": "1 月 18 日消息，在鸿蒙生态千帆启航仪式上，华为终端云服务总裁朱勇刚宣布，HarmonyOS NEXT 将在 2024 年四季度推出商用版本，与消费者正式见面。 朱勇刚表示，鸿蒙生态将进入第二阶段，期望携手更多开发者，加速千行百业的应用鸿蒙化。 今天华为宣布 HarmonyOS NEXT 鸿蒙星\n本文链接",
-          "link": "https://news.cnblogs.com/n/762412/",
-          "publishedOn": "2024-01-18T08:50:00.000Z",
-          "wordCount": 163,
-          "title": "朱勇刚：HarmonyOS NEXT今年四季度正式商用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762411/",
-          "author": null,
-          "description": "1 月 18 日消息，近日，据接近字节跳动的人士透露，该公司正在加拿大、澳大利亚等地筹建研发中心。目前，部分研发中心已试运营半年左右，未来将支持 TikTok、CapCut、Lemon8 等多个海外业务研发。 据介绍，字节跳动计划以当地招聘为主，并辅助少量外派的方式筹建相关研发中心。据了解，过去半年\n本文链接",
-          "link": "https://news.cnblogs.com/n/762411/",
-          "publishedOn": "2024-01-18T08:43:00.000Z",
-          "wordCount": 163,
-          "title": "字节跳动在加拿大、澳大利亚筹建研发中心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762410/",
-          "author": null,
-          "description": "雷达财经出品文莫恩盟编深海 “要么就是纵容小偷，要么自己就是小偷，是该重视假货横行了！”2024 刚开年，网红经济学家任泽平便火力全开，将炮火对准了近来势头十分强劲的拼多多。 在向拼多多发起的五个拷问中，任泽平挑明了拼多多平台上当前所存在的“假货横行泛滥”的情况：到处充斥着几块钱一本的新书，类似“康\n本文链接",
-          "link": "https://news.cnblogs.com/n/762410/",
-          "publishedOn": "2024-01-18T08:35:00.000Z",
-          "wordCount": 163,
-          "title": "假货横行！拼多多遭任泽平“炮轰”，冤吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762409/",
-          "author": null,
-          "description": "1. 背景信息 1. 1 大模型为什么重要 作为大语言模型（large language model, LLM）的一种，OpenAI 的 GPT (Generative Pre-Trained Transformer) 模型展现了今天最接近人类的机器智能，GPT 最重要的特征是通过使用万亿级的参数和\n本文链接",
-          "link": "https://news.cnblogs.com/n/762409/",
-          "publishedOn": "2024-01-18T08:20:00.000Z",
-          "wordCount": 163,
-          "title": "GPT 对产品界面的影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762408/",
-          "author": null,
-          "description": "文｜窄播，作者庞梦圆 买手直播是小红书电商极具特色的一种存在，也是从小红书社区出发探索直播带货的起点。 在小红书电商语境中，买手是一个新职业，可以成为转化链条上一个关键的中间环节。但在落地执行中，是否真的有足够多的博主选择从事这个职业，则要看这个职业的创收能力如何，尤其是相对博主这个传统职业而言是否\n本文链接",
-          "link": "https://news.cnblogs.com/n/762408/",
-          "publishedOn": "2024-01-18T08:10:00.000Z",
-          "wordCount": 163,
-          "title": "在小红书做买手直播，100万是隐形门槛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762407/",
-          "author": null,
-          "description": "文伯虎财经，作者梦得 2021 年，在短视频的冲击下，爱奇艺、优酷和腾讯视频还在为“盈利”而叫苦不迭。而在没盈利的背后是，当时有媒体统计，爱奇艺（创办于 2011 年）、优酷视频（2010 年）和腾讯视频（2015 年）三大平台 10 年累计烧掉超千亿人民币。 此后又迎来微短剧大爆发，尤其是 202\n本文链接",
-          "link": "https://news.cnblogs.com/n/762407/",
-          "publishedOn": "2024-01-18T07:55:00.000Z",
-          "wordCount": 163,
-          "title": "烧掉千亿后，“爱优腾”迎来重生",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762406/",
-          "author": null,
-          "description": "1 月 18 日消息，据外媒报道，宝马 CFO Walter Mertl 近日透露，目前宝马销量增加主要是来自于电动汽车，他们未来几年在电动汽车领域也有重大计划。 从宝马集团公布的数据来看，去年他们销量增加，确实是得益于电动汽车的销量大幅增加。 宝马集团在官网公布的数据显示，去年他们共销售2,555\n本文链接",
-          "link": "https://news.cnblogs.com/n/762406/",
-          "publishedOn": "2024-01-18T07:46:00.000Z",
-          "wordCount": 163,
-          "title": "宝马集团纯电动汽车去年销售37.6万辆 同比大增74%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762405/",
-          "author": null,
-          "description": "从 2 月 1 日开始，最大的云计算服务商 AWS 将对 IPv4 地址收费，每小时 0.005 美元，每月约 4 美元。原因是 IPv4 地址日益稀缺，获取的成本在增加。每月 4 美元对普通用户可能并不多，但对基于 AWS 的基础设施服务商而言意味着数百万美元的额外开支。这些公司可以选择将成本转嫁\n本文链接",
-          "link": "https://news.cnblogs.com/n/762405/",
-          "publishedOn": "2024-01-18T07:40:00.000Z",
-          "wordCount": 163,
-          "title": "AWS 准备对 IPv4 地址收费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762404/",
-          "author": null,
-          "description": "假期刚过，每逢佳节胖三斤的魔咒成为许多现代人心中的痛处。如何减肥也成为大家茶余饭后讨论的热门话题。咖啡作为一种大众饮品，其良好的减肥效果已经被许多研究证明。这些研究结果更被许多有志于减肥的咖啡爱好者奉为圭臬，然而，最新研究表明，咖啡减肥，这件事并不简单！ 含咖啡因饮品目前已在全球各国常销，其中咖啡是\n本文链接",
-          "link": "https://news.cnblogs.com/n/762404/",
-          "publishedOn": "2024-01-18T07:35:00.000Z",
-          "wordCount": 163,
-          "title": "哈佛大学研究表明：每天饮用不加糖咖啡与体重减少有关，50岁以下效果更明显！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762403/",
-          "author": null,
-          "description": "GameLook 报道/GameLook 在去年 7 月曾报道过，腾讯宣布收购《消逝的光芒》、《死亡岛》系列开发商 Techland 67% 的股权，成为该公司最大股东。 这笔收购案件的财务细节此前并未公开。不过，近日波兰本地的投资公司 Navigator Capital Group 为我们带来了这\n本文链接",
-          "link": "https://news.cnblogs.com/n/762403/",
-          "publishedOn": "2024-01-18T07:28:00.000Z",
-          "wordCount": 163,
-          "title": "为了买这家3A游戏公司，腾讯花了100亿？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762402/",
-          "author": null,
-          "description": "GameLook 报道/ 1 月 17 日消息，莉莉丝公司发布全员通告称，1 月 15 日，公司员工刘艳晶因涉嫌存在违法行为，被公安机关传唤并接受审查。经审讯，刘艳晶承认在职期间与供应商存在大额资金来往，当晚因涉嫌职务侵占罪被徐汇公安分局刑事拘留。 另外，供应商负责人潘某某，因涉嫌职务侵占罪被徐汇公\n本文链接",
-          "link": "https://news.cnblogs.com/n/762402/",
-          "publishedOn": "2024-01-18T07:22:00.000Z",
-          "wordCount": 163,
-          "title": "莉莉丝北京公司负责人涉嫌职务侵占被拘留",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762401/",
-          "author": null,
-          "description": "IT 之家 1 月 18 日消息，综合冷暖视频、梨视频，近日有网友发文称在飞猪平台订购郑州飞珠海的机票时发现，同一天同一航班的三台手机显示了三种不同价格，便质疑飞猪存在“大数据杀熟”行为。1 月 18 日，飞猪客服工作人员对此回应称“绝不是大数据杀熟”，随机优惠（额度）不同，具体以支付时显示价格为准\n本文链接",
-          "link": "https://news.cnblogs.com/n/762401/",
-          "publishedOn": "2024-01-18T07:17:00.000Z",
-          "wordCount": 163,
-          "title": "3名乘客同时购买同航班发现票价不同 飞猪：绝不是大数据杀熟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762400/",
-          "author": null,
-          "description": "近日，优衣库母公司迅销有限公司在官网发布公告，优衣库已于 2023 年 12 月 28 日向东京地方法院对包含 SHEIN 日本公司在内的零售品牌 SHEIN 旗下三家实体提起诉讼，并要求 SHEIN 立即停止销售这些「仿制品」，同时赔偿损失。 公告称，公司确定 SHEIN 销售的仿制品的形状与其自\n本文链接",
-          "link": "https://news.cnblogs.com/n/762400/",
-          "publishedOn": "2024-01-18T07:11:00.000Z",
-          "wordCount": 163,
-          "title": "优衣库起诉 SHEIN 抄袭「饺子包」设计",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762398/",
-          "author": null,
-          "description": "据澎湃新闻，QQ 音乐电视端近日向用户发布通知，QQ 音乐电视端会员功能已从豪华绿钻升级至电视端独立会员。为保障用户权益，原豪华绿钻会员在 2024 年 7 月 1 日之前可以持续享有在电视端免费播放会员歌曲的权益。 这也意味着 QQ 音乐电视端会员将实行单独付费，原权益到 7 月 1 日停止。有知\n本文链接",
-          "link": "https://news.cnblogs.com/n/762398/",
-          "publishedOn": "2024-01-18T07:07:00.000Z",
-          "wordCount": 163,
-          "title": "QQ音乐回应电视端将单独付费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762397/",
-          "author": null,
-          "description": "据界面新闻报道，从去年 11 月起，TikTok 在国内工作的前后端开发、数据、算法等岗位员工陆续接到转岗至海外工作的通知。工作地点包括新加坡、澳大利亚、加拿大和美国。 一位 TikTok 员工表示，如果接受转岗可获得比国内多一倍左右的薪资包和两年租房补贴；如果不接受转岗，暂未被要求强制离职，但 T\n本文链接",
-          "link": "https://news.cnblogs.com/n/762397/",
-          "publishedOn": "2024-01-18T07:02:00.000Z",
-          "wordCount": 163,
-          "title": "字节跳动加速将 TikTok 员工迁至海外",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/762396/",
-          "author": null,
-          "description": "据彭博社报道，微软首席执行官萨蒂亚·纳德拉（Satya Nadella）当地时间周二表示，他不希望在欧洲和英国监管机构考虑对微软和 OpenAI 之间的紧密联系进行调查时，增加对 OpenAI 的控制。 纳德拉在达沃斯世界经济论坛接受采访时说：「我们只是想要良好的稳定状态。无论 OpenAI 过去和\n本文链接",
-          "link": "https://news.cnblogs.com/n/762396/",
-          "publishedOn": "2024-01-18T06:56:00.000Z",
-          "wordCount": 163,
-          "title": "微软 CEO 纳德拉：OpenAI 关键技术依赖于微软",
           "imageUrl": null
         }
       ]
