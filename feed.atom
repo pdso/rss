@@ -2,10 +2,290 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T00:59:42.109Z</updated>
+    <updated>2024-02-18T01:05:07.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[阿里获多家机构增持，桥水大幅加仓礼来和英伟达]]></title>
+        <id>https://news.cnblogs.com/n/764747/</id>
+        <link href="https://news.cnblogs.com/n/764747/"/>
+        <updated>2024-02-18T01:01:46.000Z</updated>
+        <summary type="html"><![CDATA[红星资本局 2 月 17 日消息，近日随着美股市场 13F 文件的披露，知名投资机构最新持仓情况浮出水面。其中，多家机构在 2023 年四季度增持了阿里巴巴。 在加拿大最大养老基金 Canada Pension Plan Investment Board（简称 CPPIB)披露的持仓中，截至 202
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孙正义欲筹1000亿美元逐梦AI! 设想打造比肩英伟达的AI芯片巨头]]></title>
+        <id>https://news.cnblogs.com/n/764746/</id>
+        <link href="https://news.cnblogs.com/n/764746/"/>
+        <updated>2024-02-18T00:58:33.000Z</updated>
+        <summary type="html"><![CDATA[智通财经 APP 获悉，媒体援引知情人士透露的消息报道称，日本投资界巨头软银集团(SoftBank Group Corp.)创始人孙正义(Masayoshi Son)正在寻求筹集最高达 1000 亿美元的资金，打造一家规模庞大的合资芯片公司，使之能够与当前在 AI 芯片领域具有垄断地位的英伟达(NV
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国科学家用 AI 制作论文示意图]]></title>
+        <id>https://www.solidot.org/story?sid=77368</id>
+        <link href="https://www.solidot.org/story?sid=77368"/>
+        <updated>2024-02-17T14:59:04.000Z</updated>
+        <summary type="html"><![CDATA[西安交大和西安红会医院的三名研究人员本周在《Frontiers in Cell and Developmental Biology》期刊上发表的一篇论文引发了广泛争议。这篇论文使用 AI 文本图像生成服务 Midjourney 绘制了一幅有着巨大而怪异生殖器的小鼠解剖图。期刊出版商 Frontiers 发表声明表示正对此展开调查，调查结束后会更新声明。小鼠解剖图存在很多错误，研究人员对存在明显错误 AI 图像的论文能通过同行审议感到惊讶。除此之外，还有多幅示意图和相应文字存在问题，以至于科学家怀疑整篇论文都是 AI 生成的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路过的恒星可能会影响太阳系内行星的轨道]]></title>
+        <id>https://www.solidot.org/story?sid=77367</id>
+        <link href="https://www.solidot.org/story?sid=77367"/>
+        <updated>2024-02-17T13:30:47.000Z</updated>
+        <summary type="html"><![CDATA[地球围绕太阳的轨道一直在变化，但短期内并不显著。只有在百万年千万年的尺度上，轨道变化才会非常明显，对地球气候产生显著影响。根据牛顿力学和引力定律，地球轨道的变化可以反推，但计算的精度受到很多因素的影响，其中一种因素此前可能没有认真对待过——近距离路过太阳系的恒星。绝大多数恒星距离地球太遥远而无法产生可测量的影响，然而有些恒星会从相对近的距离上掠过，这个距离不足以引发太阳系的混乱，但其引力会对行星产生轻微的推力。最近一次近距离掠过太阳系的恒星是 HD 7977，它目前距离太阳 250 光年，但在 280 万年前它距离太阳在 3 万个天文单位或 0.5 光年内，最近可能只有 4 千天文单位。估计每 2000 万年就有一颗恒星距离太阳 1 万个天文单位以内。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI绘图模型训练到推理，一个网页就能搞定]]></title>
+        <id>https://news.cnblogs.com/n/764745/</id>
+        <link href="https://news.cnblogs.com/n/764745/"/>
+        <updated>2024-02-17T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[克雷西发自凹非寺 量子位公众号 QbitAI 不会写代码，也能训练 AI 绘画模型了！ 只要借助这个框架，从训练到推理都能一站式搞定，还能一次管理多个模型。 阿里巴巴团队推出并开源了这款万能图片生成工作台 SCEPTER Studio。 有了它，不用代码，直接在 Web 界面当中就能完成模型的训练与
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联想专利畅想未来卷轴屏幕笔记本：标准屏变带鱼屏]]></title>
+        <id>https://news.cnblogs.com/n/764744/</id>
+        <link href="https://news.cnblogs.com/n/764744/"/>
+        <updated>2024-02-17T09:22:33.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 2 月 17 日消息，联想公司近日获批一项技术专利，畅想未来笔记本概念设计，其亮点在于采用卷轴屏幕，在用户需要时自动向两侧延展，带来“带鱼屏”的超宽体验。 图源：Pigtou 该设计专利探索了柔性屏在笔记本上的应用场景，在设备结构中加入了柔性主体，由固定和活动部件组成，可以按需调整屏幕尺
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“产品暴君”李想学乖了]]></title>
+        <id>https://news.cnblogs.com/n/764743/</id>
+        <link href="https://news.cnblogs.com/n/764743/"/>
+        <updated>2024-02-17T08:29:37.000Z</updated>
+        <summary type="html"><![CDATA[过去一年，一些企业家在激烈竞争中积极应变，带领企业穿越重重风浪，展现出了卓越的韧性和领导力。在龙年春节期间，「市界」特别推出“这一年”专题，探寻诸多企业家惊心动魄的商业故事，希望为大家提供一些宝贵的经验和启示。 过去的一年，理想汽车创始人、董事长兼 CEO 李想变了，又好像没变。 他仍是那个语不惊人
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称新款极氪001将于2月27日发布，新车配置全面升级]]></title>
+        <id>https://news.cnblogs.com/n/764742/</id>
+        <link href="https://news.cnblogs.com/n/764742/"/>
+        <updated>2024-02-17T08:26:10.000Z</updated>
+        <summary type="html"><![CDATA[2 月 17 日消息，综合易车网、新出行等媒体报道，极氪 001 新款车型有望于 2 月 27 日发布（或上市）。据悉，新款车型外观变化不大，仅对细节进行调整，但配置将迎来全面升级。 上述消息来源提到，新车有望采用 800V 高压平台技术，且配置高通骁龙 8295 芯片、35.5 英寸 AR-HUD
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯推迟发射首颗物联网 Marathon-IoT 卫星]]></title>
+        <id>https://news.cnblogs.com/n/764741/</id>
+        <link href="https://news.cnblogs.com/n/764741/"/>
+        <updated>2024-02-17T03:14:04.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 2 月 17 日消息，俄罗斯航天局（Roscosmos）近日发布报告，表示由于需要额外检查系统软件，推迟首个物联网卫星 Marathon-IoT 发射时间。 俄罗斯航天局表示： 为了进行额外的软件检查，以及明确额外的研究计划，首个演示航天器 Marathon-IoT 的发射被推迟了。 I
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bose Ultra 开放式耳机国内上市：全新耳夹式设计，售价 2299 元]]></title>
+        <id>https://news.cnblogs.com/n/764740/</id>
+        <link href="https://news.cnblogs.com/n/764740/"/>
+        <updated>2024-02-17T03:12:08.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 2 月 17 日消息，此前在海外推出的 Bose Ultra 开放式耳机，现已在国内上市并开启定金预售，售价 2299 元。 据介绍，Bose Ultra 耳机采用全新耳夹式设计，绕着耳廓，轻轻一扣即可使用。该产品提供经典黑和晨雾白两种颜色可选，既可以是耳机，同时也是时尚配件。 Bose
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文生图新SOTA！Pika北大斯坦福联合推出RPG，多模态助力解决文生图两大难题]]></title>
+        <id>https://news.cnblogs.com/n/764739/</id>
+        <link href="https://news.cnblogs.com/n/764739/"/>
+        <updated>2024-02-17T03:11:18.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：alan 【新智元导读】近日，北大、斯坦福、以及 Pika Labs 发布了新的开源文生图框架，利用多模态 LLM 的能力成功解决文生图两大难题，表现超越 SDXL 和 DALL·E 3 近日，北大、斯坦福、以及爆火的 Pika Labs 联合发表了一项研究，将大模型文生图的能力提
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《堡垒之夜》在欧洲重返苹果iPhone，Epic 称正开发iOS版应用商城]]></title>
+        <id>https://news.cnblogs.com/n/764738/</id>
+        <link href="https://news.cnblogs.com/n/764738/"/>
+        <updated>2024-02-17T03:06:28.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 2 月 17 日消息，Epic Games 今天发布新闻稿，回顾了 Epic Game Store 在 2023 年取得的诸多耀眼成绩，并表示已经重新掌控苹果开发者账号，计划 2024 年在欧洲市场推出应用市场。 该公司计划 2024 年针对欧洲地区，在 iOS 平台上推出 Epic G
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓15首个开发者预览版公布，今年春季初推出公开测试版]]></title>
+        <id>https://news.cnblogs.com/n/764737/</id>
+        <link href="https://news.cnblogs.com/n/764737/"/>
+        <updated>2024-02-17T03:05:28.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 2 月 17 日消息，安卓 15 首个开发者预览版从今天开始提供，公开测试版将于今年春季初推出，谷歌计划在 6 月实现平台稳定性。 据 TheVerge 报道，一些更新与安卓的动态性能框架有关，该框架有助于管理功耗密集型应用程序与手机电源系统的交互方式。这些调整旨在帮助设备更好地响应对其
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40多岁学编程！扎根一线60余年，这位“蓝领院士”拼了]]></title>
+        <id>https://news.cnblogs.com/n/764736/</id>
+        <link href="https://news.cnblogs.com/n/764736/"/>
+        <updated>2024-02-17T03:04:48.000Z</updated>
+        <summary type="html"><![CDATA[来源：央视新闻 他是投身于航天基层岗位，六十多年的“超级码农”，是在大家束手无策时灵光一闪的“蓝领院士”。近日，总台《吾家吾国》专访我国火箭弹道设计专家余梦伦院士，听他讲述“攀登航天技术高峰”的故事。 01 为证明方案可行性 他们足足算了两三个月 余梦伦院士今年 87 岁，是我国弹道式战略导弹和运载
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIGC带来“新年俗”：大模型迎应用元年 阿里、百度纷纷发力]]></title>
+        <id>https://news.cnblogs.com/n/764735/</id>
+        <link href="https://news.cnblogs.com/n/764735/"/>
+        <updated>2024-02-17T03:03:20.000Z</updated>
+        <summary type="html"><![CDATA[《科创板日报》2 月 17 日讯（记者黄心怡） 在过去一年的科技圈里，AI 大模型可谓风头一时无两。《科创板日报》记者注意到，今年春节期间，阿里、百度、支付宝等互联网大厂纷纷借着春节热度，推出 AIGC 新春应用，以期推动大模型的更大范围落地。 不少业内人士认为，随着大模型越来越成熟、稳定，2024
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASML研究超级NA光刻机！2036年冲击0.2nm工艺]]></title>
+        <id>https://news.cnblogs.com/n/764734/</id>
+        <link href="https://news.cnblogs.com/n/764734/"/>
+        <updated>2024-02-17T03:02:30.000Z</updated>
+        <summary type="html"><![CDATA[快科技 2 月 17 日消息，ASML 已经向 Intel 交付第一台高 NA EUV 极紫外光刻机，将用于 2nm 工艺以下芯片的制造，台积电、三星未来也会陆续接收，可直达 1nm 工艺左右。 那么之后呢？消息称，ASML 正在研究下一代 Hyper NA (超级 NA)光刻机，继续延续摩尔定律。
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思科将裁员4000人 并降低年度收入目标]]></title>
+        <id>https://news.cnblogs.com/n/764733/</id>
+        <link href="https://news.cnblogs.com/n/764733/"/>
+        <updated>2024-02-17T03:02:07.000Z</updated>
+        <summary type="html"><![CDATA[思科日前表示，由于经济形势严峻，今年已导致科技公司裁员数千人，该公司将在全球裁员5%，即 4000 多个工作岗位，并降低年度收入目标。 周三，在思科将预测从 538 亿美元至 550 亿美元下调至 515 亿美元至 525 亿美元后，这家网络设备制造商的股价在周三盘后交易中下跌5% 以上。 思科首席
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[郭明錤：OPPO和vivo已停止在2024年发售新款上下折叠手机的计划]]></title>
+        <id>https://news.cnblogs.com/n/764732/</id>
+        <link href="https://news.cnblogs.com/n/764732/"/>
+        <updated>2024-02-17T03:01:29.000Z</updated>
+        <summary type="html"><![CDATA[三言科技 2 月 17 日消息，日前，天风证券分析师郭明錤今天发布市场研究简报，简要回顾了今年 1 月到春节（2 月中旬）期间手机产业的重要更新。 其中提到，折叠手机全球近期销售动能较为放缓。Samsung 自去年下修折叠手机出货目标(1500 万台砍到 1000 万台)后，今年的出货目成长标(12
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[垂直排列再添新证，苹果 iPhone 16 相机组件曝光]]></title>
+        <id>https://news.cnblogs.com/n/764731/</id>
+        <link href="https://news.cnblogs.com/n/764731/"/>
+        <updated>2024-02-17T03:01:03.000Z</updated>
+        <summary type="html"><![CDATA[2 月 17 日消息，消息源 @MajinBuOfficial 近日发布推文，分享了一张相机模块的金属铸件，声称用于苹果 iPhone 16 基础款，并基本确认采用垂直排列。 虽然用户在回复 Bu 的帖子时指出，该部件图片是颠倒发布的，但这并不影响部件本身的真实性。 国外科技媒体 MacRumors
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山姆·奥特曼欲重塑半导体行业，除了万亿美元还需要什么？]]></title>
+        <id>https://news.cnblogs.com/n/764730/</id>
+        <link href="https://news.cnblogs.com/n/764730/"/>
+        <updated>2024-02-17T03:00:27.000Z</updated>
+        <summary type="html"><![CDATA[·奥特曼的新项目着眼提高全球芯片制造能力，他正与包括阿联酋政府在内的投资者谈判。奥特曼需筹集 5 万亿-7 万亿美元资金，而微软和苹果的总市值约为 6 万亿美元。 ·目前还存在不确定因素，包括如何找到工程师来运营新工厂、如何获得设备来填满工厂、如何获得足够多订单来证明这些工厂是合理的。 英伟达控制着
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USPTO 拒绝了 OpenAI 的 GPT 商标申请]]></title>
+        <id>https://www.solidot.org/story?sid=77366</id>
+        <link href="https://www.solidot.org/story?sid=77366"/>
+        <updated>2024-02-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[美国专利商标局（USPTO）拒绝了 OpenAI 的 GPT 商标申请，认为 GPT 属于描述性术语，不能注册为商标。GPT 代表 Generative pre-trained transformers，是一种深度神经网络架构，基于 Google 研究员在 2017 年公布的深度学习架构 Transformers。OpenAI 申请商标旨在禁止其他人将其模型称为 GPT X 或后缀为 GPT 的名字。USPTO 去年 10 月已经拒绝了一次，这次是最终裁决，它认为 GPT 没有达到注册商标的标准。而 OpenAI 认为它让 GPT 这一名字变得家喻户晓。USPTO 指出 GPT 已在其他情景被其他公司使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯坦福爆火家务机器人升级二代！双手稳到能偷钱包，成本降至19万]]></title>
+        <id>https://news.cnblogs.com/n/764729/</id>
+        <link href="https://news.cnblogs.com/n/764729/"/>
+        <updated>2024-02-17T02:59:02.000Z</updated>
+        <summary type="html"><![CDATA[明敏西风发自凹非寺 量子位公众号 QbitAI 斯坦福爆火全能家务机器人大升级，发布二代版本 ALOHA 2！ 这一回，不光是做家务，连戴隐形眼镜都敢挑战了。 还能小心翼翼拿走人类口袋里的钱包，从里面抽出几张钞票，再原封不动放回去。 开可乐平稳倒可乐都是小 case： 连不带吸管的便利店牛奶都能轻而
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[360周鸿祎谈视频模型Sora：未必短期能击败TikTok]]></title>
+        <id>https://news.cnblogs.com/n/764728/</id>
+        <link href="https://news.cnblogs.com/n/764728/"/>
+        <updated>2024-02-17T02:56:10.000Z</updated>
+        <summary type="html"><![CDATA[【CNMO 新闻】全球领先的人工智能研究公司 OpenAI 在近日宣布推出其全新的生成式人工智能模型 Sora。这款模型的工作原理与 OpenAI 的图像生成工具 DALL-E 相似，用户只需输入想要的场景，Sora 就能立即生成高清的视频剪辑。 CNMO 了解到，Sora 发布后不久，360 董事
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 宣布 Gemini 1.5]]></title>
+        <id>https://www.solidot.org/story?sid=77365</id>
+        <link href="https://www.solidot.org/story?sid=77365"/>
+        <updated>2024-02-16T13:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Google 的大模型以及 AI 聊天机器人都采用 Gemini 这一名称。目前的大模型版本号是 1.0，它的付费版叫 Gemini Advanced，用户可以访问 1.0 Pro 和 1.0 Ultra——其中 1.0 Ultra 是类似 GPT-4 的规模最大的模型，而 1.0 Pro 是类似 GPT-3.5 的中等规模模型。现在 Google 宣布了下一代的 Gemini 1.5，表示其中等规模模型 1.5 Pro 在性能上接近了上一代最大模型 1.0 Ultra，上下文窗口能达到 100 万 tokens，这意味着 1.5 Pro 能一次性处理 1 小时视频、11 小时音频、逾 3 万行代码，或逾 70 万单词。Gemini 1.5 是基于 Transformer 和 MoE 架构，感兴趣的用户需要申请加入等待名单。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家确认新磁性 Altermagnetism 的存在]]></title>
+        <id>https://www.solidot.org/story?sid=77364</id>
+        <link href="https://www.solidot.org/story?sid=77364"/>
+        <updated>2024-02-16T13:07:32.000Z</updated>
+        <summary type="html"><![CDATA[科学家首次测量了被称为 Altermagnet 的新磁体的磁性 Altermagnetism。20 世纪前人们只知道一种永磁体——铁磁体（ferromagnet）。1930 年代法国物理学家 Louis Néel 发现了反铁磁性，其磁体的相邻电子自旋呈相反方向排列，磁化率接近于零。2019 年，研究人员预测特定反铁磁体的晶体结构中存在反常霍尔效应，这种磁体被称为 Altermagnet，它表面类似反铁磁体，但自旋并不相同。现在瑞典研究人员在测量碲化锰晶体的电子结构时证实了 Altermagnet 的存在，此前这种晶体被认为是反铁磁体。研究报告发表在《自然》期刊上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 宣布了视频生成模型 Sora]]></title>
+        <id>https://www.solidot.org/story?sid=77363</id>
+        <link href="https://www.solidot.org/story?sid=77363"/>
+        <updated>2024-02-16T11:44:26.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 宣布了视频生成模型 Sora，并公布了一份相关的技术报告。Sora 能生成最长 1 分钟的高清视频，OpenAI 公布了数十个示例，展现了其惊人的文本生成视频能力。大模型使用 text tokens 统一代码、数学和自然语言的不同文本形式，而 Sora 使用了 visual patches 统一了所有类型的视觉数据。OpenAI 表示，Sora 能够根据文本指令生成长达 60 秒的视频，同时保持视觉质量并遵守用户提示。Sora 可生成具有多个角色、特定类型运动以及精确主题和背景细节的复杂场景。该模型对语言有深刻理解，能够准确领会提示，生成令人信服的角色。Sora 还可以在单个生成视频中创建多个镜头，准确保留角色和视觉风格。除了能仅从文本指令生成视频外，该模型还能够利用现有的静止图像从中生成视频，精确地将图像内容动画化，也可以利用现有视频进行扩展或填充缺失的帧。Sora 仍在开发中，存在明显“弱点”，特别是在提示空间细节方面会混淆左右，也无法理解因果关系的具体实例，比如制作了一个视频，视频中有人咬了一口饼干，但之后饼干上没有咬痕。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI发布“一镜到底”文生视频大模型 人人都能创作短片]]></title>
         <id>https://news.cnblogs.com/n/764727/</id>
@@ -9027,347 +9307,6 @@ Excel 法
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hans Reiser 回应 Linux 内核弃用 ReiserFS]]></title>
-        <id>https://www.solidot.org/story?sid=77175</id>
-        <link href="https://www.solidot.org/story?sid=77175"/>
-        <updated>2024-01-19T09:58:03.000Z</updated>
-        <summary type="html"><![CDATA[ReiserFS 文件系统作者 Hans Reiser 回应了 Linux 内核移除 ReiserFS 的讨论。Hans Reiser 因谋杀妻子被判处 15 年到终身监禁，他已经服了 15 年徒刑，但上一次的假释申请被拒绝，下一次假释申请是在 2027 年。他在狱中用纸质信函的形式回应了内核的相关讨论，时间是在 2023 年 11 月 26 日，这封信已经转录成纯文本发表。Hans Reiser 在信中对自己的罪行表示了道歉，称一直在狱中参加讨论会，改进社交技能，以帮助减少对社会的危险性，称自己已经是不同的人了。他随后讨论了 ReiserFS 文件系统的经验教训，对曾使用 ReiserFS 的发行版 SUSE 没能在市场上取得成功而遗憾。他还对 Richard Stallman 表达了感谢，称由于无法上网他对 Reiser 5 几乎一无所知。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pornhub 要求上传到其平台的视频提供同意证明]]></title>
-        <id>https://www.solidot.org/story?sid=77174</id>
-        <link href="https://www.solidot.org/story?sid=77174"/>
-        <updated>2024-01-19T08:51:43.000Z</updated>
-        <summary type="html"><![CDATA[加拿大成人网站 Pornhub 宣布从 1 月 23 日起上传到其平台的视频需要提供参与者的同意证明。此举旨在确保内容是安全的，合乎道德的。Pornhub 曾被发现存在大量的未经同意的视频内容，导致了主要支付服务商如  Visa 和万事达停止提供支付服务，迫使 Pornhub 对整个网站的视频内容进行大规模清洗，移除了大约八成的视频。Pornhub 此后开始加强视频审核，要求提供视频参与者的身份 ID 证明，现在更进一步要求同意证明。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[希姆计算CEO梅迪回应：刚完成2亿元广州产投融资，靠我个人借款才补发员工工资]]></title>
-        <id>https://news.cnblogs.com/n/763449/</id>
-        <link href="https://news.cnblogs.com/n/763449/"/>
-        <updated>2024-01-19T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[针对早前中国 AI 芯片创业企业北京希姆计算科技有限公司（以下简称“希姆计算”）欠薪、团队“内讧”消息，1 月 19 日凌晨，希姆计算联合创始人、CEO 梅迪在朋友圈做了相关回应。 梅迪表示，希姆计算刚刚在 2023 年 12 月 25 日完成了由广州市产投集团领投、广州开发区基金和知识城集团跟投的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[董宇辉“单飞”后，谁能成为东方甄选“当家花旦”？]]></title>
-        <id>https://news.cnblogs.com/n/762476/</id>
-        <link href="https://news.cnblogs.com/n/762476/"/>
-        <updated>2024-01-19T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[文趣解商业，作者刘亮 因不当言辞被惩罚停播 3 个月，东方甄选主播天权提前复播，俞敏洪来“保驾护航”？ 1 月 16 日，因不当言辞被惩罚停播 3 个月的东方甄选天权提前复播，出现在当天上午的“东方甄选看世界”太舞滑雪场直播中，并与俞敏洪及主播林林一起直播带货。 据抖音榜单显示，截至当天 18 时下
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抖音张一鸣：算法意识缔造的字节帝国]]></title>
-        <id>https://news.cnblogs.com/n/762475/</id>
-        <link href="https://news.cnblogs.com/n/762475/"/>
-        <updated>2024-01-19T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[图片来源@视觉中国 文零售商业财经，作者尹雅丹，编辑鹤翔 去年 10 月，农夫山泉董事长钟睒睒以 4500 亿资产连续三次蝉联“胡润百富榜”榜首，而字节跳动创始人张一鸣则以 2450 亿财富位列国内富豪榜第五。 图：2023 胡润百富榜 另据消息，2023 年上半年，字节跳动集团实现总营收 540 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“炫技”的小米汽车，智能不够，价格来凑？]]></title>
-        <id>https://news.cnblogs.com/n/762474/</id>
-        <link href="https://news.cnblogs.com/n/762474/"/>
-        <updated>2024-01-19T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[文奇偶派，作者 叶子，编辑 钊 2023 年的 12 月末，雷军扔出了新能源车圈最后一颗炸弹，也是小米汽车首次亮相于世人面前。 而这场发布会，也继承了小米品牌一贯的风波，引发了车圈巨大的舆论争议。 在发布会前，雷军在微博致敬比亚迪、小鹏、蔚来、理想、华为友商就引得车企高管们吐槽，其中吉利集团副总裁杨
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图森未来黯然退市，向前半生的“繁华”告别]]></title>
-        <id>https://news.cnblogs.com/n/762473/</id>
-        <link href="https://news.cnblogs.com/n/762473/"/>
-        <updated>2024-01-19T08:11:00.000Z</updated>
-        <summary type="html"><![CDATA[文赛博汽车 图森未来在美国的最后一点痕迹，最终还是没留住。 美东时间 1 月 17 日，图森未来发布公告称，决定自愿将公司普通股从纳斯达克股票交易有限公司退市，并终止公司普通股在美国证券交易委员会（以下简称 "证交会"）的注册。 理由是图森未来 2021 年上市后，资本市场发生了重大转变，利率上升、
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[风筝驱动便捷式电力供应]]></title>
-        <id>https://www.solidot.org/story?sid=77173</id>
-        <link href="https://www.solidot.org/story?sid=77173"/>
-        <updated>2024-01-19T08:05:23.000Z</updated>
-        <summary type="html"><![CDATA[普通风力涡轮机每兆瓦时电所使用的土地面积比几乎所有其它能源都少，但涡轮机以及塔架仍然过于笨重。AWE（airborne wind energy）提供了一种解决方案——将涡轮机替换成风筝，它比涡轮机更灵活，能更稳定的获取风力。海拔 500 米的低空有着稳定的强风，能产生多达 1800 太瓦的电力，数倍于整个地球的电力需求。荷兰公司 Kitepower 今年开始交付其第一套 AWE 系统——40 千瓦的 Hawk，它无意取代传统的风力涡轮机，而是希望能为远离电网的偏僻地区提供便捷式的电力供应。Hawk 使用的风筝不是我们平常用的风筝，而是由玻璃纤维骨架和充气机翼构成，翼展表面积有 60 平方米，可放飞可收回。当风筝放飞到空中时它能以八字形来回飞动，牵动系着的绳索驱动地面上的发电机。Hawk 还配备了 400 千瓦时的电池。整套系统可存放在标准集装箱内，在新地点重新组装所需时间不到 24 小时。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok内测AI生成歌曲功能：用户只需输入歌词文本 可自选曲风]]></title>
-        <id>https://news.cnblogs.com/n/762472/</id>
-        <link href="https://news.cnblogs.com/n/762472/"/>
-        <updated>2024-01-19T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 19 日消息，TikTok 目前正在测试一项新功能：借助大语言模型 Bloom 的能力，使用 AI 来生成歌曲。具体来看，用户可在上传内容时提供歌词文本，随后 TikTok 会引导用户使用“AI Song”功能为文本添加声音，用户还可以自选曲风。 据外媒 The Verge 今日报道，部分博
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源TensorFlow机器学习框架存在漏洞，黑客可借此发起供应链攻击]]></title>
-        <id>https://news.cnblogs.com/n/762471/</id>
-        <link href="https://news.cnblogs.com/n/762471/"/>
-        <updated>2024-01-19T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[在开源 TensorFlow 机器学习框架中发现的持续集成与持续交付（CI/CD）配置错误，可能被利用来发起供应链攻击。 TensorFlow 是谷歌的开发者创造的一款开源的深度学习框架，于 2015 年发布。TensorFlow 现已被公司、企业与创业公司广泛用于自动化工作任务和开发新系统，其在分
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节跳动大规模多云 CDN 管理与产品化实践]]></title>
-        <id>https://news.cnblogs.com/n/762470/</id>
-        <link href="https://news.cnblogs.com/n/762470/"/>
-        <updated>2024-01-19T07:42:00.000Z</updated>
-        <summary type="html"><![CDATA[不久前，火山引擎边缘云融合 CDN 团队负责人孙益星在 LiveVideoStack Con 2023 上海站围绕融合 CDN 团队持续建设多云 CDN 平台的演进过程，结合建设过程中面临的难点和挑战，介绍了融合 CDN 团队接下来的主要投入方向，分享了火山引擎在多云应用架构下的 CDN 运维管理解
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀眼里没有「友商」]]></title>
-        <id>https://news.cnblogs.com/n/762469/</id>
-        <link href="https://news.cnblogs.com/n/762469/"/>
-        <updated>2024-01-19T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“它们是谁？荣耀为什么要对标它们？”荣耀一如既往的对外展露着高姿态，在接连两场发布会之后，荣耀 CEO 赵明在接受媒体采访时回应了一下“友商”。 1 月 10 日，荣耀连着开了两场信息密度极高的发布会，宣布了 MagicOS 8.0 的最新变化，以及未来一年内荣耀的拳头产品荣耀 Magic 6 系列
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网龙：布局AI新赛道，探索数字新征程]]></title>
-        <id>https://news.cnblogs.com/n/762468/</id>
-        <link href="https://news.cnblogs.com/n/762468/"/>
-        <updated>2024-01-19T07:13:00.000Z</updated>
-        <summary type="html"><![CDATA[2023 年底，网龙正式宣布成功完成分拆海外教育业务于美国纽约证交所上市，合并实体已更名为 Mynd.ai。在 1 月 17 日召开的网龙 2024 年媒体恳谈会上，网龙副董事长、Mynd.ai 董事会主席梁念坚博士表示，网龙坚持用先进技术赋能数字经济发展，在 AI 为代表的科技新格局之下，网龙正逐
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东方甄选的“新与旧”]]></title>
-        <id>https://news.cnblogs.com/n/762467/</id>
-        <link href="https://news.cnblogs.com/n/762467/"/>
-        <updated>2024-01-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文锌财经，作者陈妍，编辑大风 前几天，孙东旭和主播明明在东方甄选直播间带货时，又闹了一出抓马大戏。 当天 9 点半的时候，明明就来到了直播间，但孙东旭没让他坐下来一起直播，反而让他在旁边干站了半个小时。等到 10 点，明明提醒孙东旭该下播了，但他不愿意离开，又耽搁了半个小时卖书孙东旭还让明明按照他的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跌没了两万多亿，王兴为何没能拉起美团股价？]]></title>
-        <id>https://news.cnblogs.com/n/762466/</id>
-        <link href="https://news.cnblogs.com/n/762466/"/>
-        <updated>2024-01-19T06:54:00.000Z</updated>
-        <summary type="html"><![CDATA[文雷达财经，作者李亦辉，编辑深海 港股整体承压的背景下，美团等权重股也大幅走低。 1 月 17 日，美团股价下跌 6.97%，盘中最低点 68.15 港元/股已跌破 2018 年 9 月 20 日的上市发行价 69 港元/股，创逾 4 年低点。当前，这家公司总市值约 4300 亿港元，较 2021 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 的 Android 版本开始默认启用 WebGPU]]></title>
-        <id>https://www.solidot.org/story?sid=77172</id>
-        <link href="https://www.solidot.org/story?sid=77172"/>
-        <updated>2024-01-19T06:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Google Chrome 团队宣布，Chrome 121 在运行 Android 12 或更高版本以及高通 GPU 和 ARM GPU 提供支持的设备上默认启用 WebGPU。Google 计划逐步扩大支持范围，以涵盖更广泛的 Android 设备，包括运行 Android 11 的设备。WebGPU 为 Web 提供了下一代高性能图形 API，允许在 GPU 上执行渲染和计算操作，该 API 此前只限于支持 Direct3D 12 的 Windows PC、支持 Vulkan 的 macOS 和 ChromeOS 设备。Google 称，WebGPU 大幅减少了相同图形的 JavaScript 工作负载，机器学习模型推理性能改进了三倍以上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为凭什么一年能建10万超充桩？]]></title>
-        <id>https://news.cnblogs.com/n/762465/</id>
-        <link href="https://news.cnblogs.com/n/762465/"/>
-        <updated>2024-01-19T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[文解码 Decode 去年 3 月，华为联合中国电力企业联合会、中国电动汽车百人会等多家单位发布了一个《中国高压快充产业发展报告（2023-2025）》。 现在来看，华为这篇探讨高压快充技术发展趋势和应用前景的报告，多少有些给自家超充业务铺路的意味。 9 个月后在 2023 世界新能源汽车大会上，华
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3款新游贡献近7亿，当下的4399靠什么海外掘金？]]></title>
-        <id>https://news.cnblogs.com/n/762464/</id>
-        <link href="https://news.cnblogs.com/n/762464/"/>
-        <updated>2024-01-19T06:36:00.000Z</updated>
-        <summary type="html"><![CDATA[文点点数据 自 2013 年布局海外市场至今，4399 已经走过 10 多个年头，截至 2023 年中，其海外业务团队接近 150 人，包括市场投放、市场设计、游戏运营、客服等。 相比于早期聚焦在更垂直、更细分的方向上，现在的 4399 依然坚守着其在 RPG 赛道的优势，同时自 2022 年起加速
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7100 万用户凭证泄露]]></title>
-        <id>https://www.solidot.org/story?sid=77171</id>
-        <link href="https://www.solidot.org/story?sid=77171"/>
-        <updated>2024-01-19T06:35:56.000Z</updated>
-        <summary type="html"><![CDATA[Have I Been Pwned?（HIBP）维护者 Troy Hunt 宣布其泄露警告服务加入了约 7100 万新用户凭证。这些泄露数据来自 Naz.API 数据集，该数据集包含了 10 亿行被盗的凭证，综合了撞库列表和信息窃取软件窃取的数据。该数据集过去几个月在地下黑客论坛流传。数据集中的每一行包含了一个登录 URL、其登录名和相关密码。Troy Hunt 公布的样本截图中包含了深圳大学的一个登录 URL，其它还有 eBay、雅虎、Facebook 等等。数据集包含了 70,840,771 个唯一电邮地址，抽样分析显示其中三分之一的地址此前从未泄露过。用户现在访问 HIBP 检查自己的凭证是否 Naz.API 数据集中。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采销喊话拼多多停止屏蔽IP直接比价，京东被“逼急”了？]]></title>
-        <id>https://news.cnblogs.com/n/762463/</id>
-        <link href="https://news.cnblogs.com/n/762463/"/>
-        <updated>2024-01-19T06:29:00.000Z</updated>
-        <summary type="html"><![CDATA[文雷达财经，作者莫恩盟，编辑深海 高端的商战，往往采用最朴实无华的方式。 “拼多多屏蔽了京东总部的 IP，导致我们的采销没有办法查看他们的商品价格，我们没法实时地比价、让利消费者”，1 月 17 日，京东采销人员在直播间向拼多多喊话，“恳请拼多多能够停止屏蔽，恳请拼多多直接比价”。 值得一提的是，近
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《世界之外》提前开测，网易打响国乙大战]]></title>
-        <id>https://news.cnblogs.com/n/762462/</id>
-        <link href="https://news.cnblogs.com/n/762462/"/>
-        <updated>2024-01-19T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[文眸娱 1 月 18 日，国乙市场迎来了一场大战。 原定于 1 月 26 日开服的网易新乙游《世界之外》，突然宣布在 1 月 18 日进行不删档、不限量测试，从某种意义上来说，其实就等同于提前公测。 而同一天开服的还有叠纸的全新 3D 乙游《恋与深空》，两大乙游同天对打，可以说是网易有意为之，蹭热度
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone到哈尔滨也会被“冻坏” 苹果客服回应]]></title>
-        <id>https://news.cnblogs.com/n/762461/</id>
-        <link href="https://news.cnblogs.com/n/762461/"/>
-        <updated>2024-01-19T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 19 日消息，近日，在社交媒体平台上，许多网友发帖称，在哈尔滨等低温地区，iPhone 电池容易失灵影响使用，甚至会“冻坏”。今天下午，“iPhone 到尔滨掉电有多快”等上微博热搜。 苹果客服对此回应称，手机掉电快和低温有一定关系，目前苹果的确还没有一个根本的解决方案。 苹果客服建议，把手
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个家长群损失千万，早教机构成“中产收割机”]]></title>
-        <id>https://news.cnblogs.com/n/762460/</id>
-        <link href="https://news.cnblogs.com/n/762460/"/>
-        <updated>2024-01-19T05:50:00.000Z</updated>
-        <summary type="html"><![CDATA[文 Tech 星球，作者 林京 “前两个月还在做促销活动卖课，一大早就收到倒闭短信，去现场看到好多人都在搬东西，连地毯都剪走了”，临近年底，众多家长陆续遭遇早教机构跑路。 截至目前，包括美吉姆、金宝贝在内的知名早教机构，在深圳、北京等地的多家门店纷纷宣布关店停业。被誉为“早教界爱马仕”的 BBuni
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出现巨额亏损后 三星电子半导体业务部门已决定冻结高管薪酬]]></title>
-        <id>https://news.cnblogs.com/n/762459/</id>
-        <link href="https://news.cnblogs.com/n/762459/"/>
-        <updated>2024-01-19T05:40:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 19 日消息，据外媒报道，受消费电子产品需求下滑导致的存储芯片需求大幅减少、价格也随之下滑影响，三星电子主要利润来源的存储芯片业务的营收，从 2022 年下半年开始就同比持续大幅下滑，环比在去年二季度才开始好转。 三星电子存储芯片业务的营收持续大幅下滑，所在的设备解决方案部门的营收也受到了影
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decky Loader：让你的 Steam Deck 更好用]]></title>
-        <id>https://sspai.com/post/85809</id>
-        <link href="https://sspai.com/post/85809"/>
-        <updated>2024-01-19T02:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 首页推荐  
-Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-
-自 Steam Deck 发售以来，得益于 Value 对软硬件的开放态度以及社区持续不断的热情，Deck 的「折腾」氛围一直很浓厚，甚至行为本身有时都成了一种乐趣 。而作为一个插件商店 Decky Loader 无疑也为这种行为带来了很大的便利。随着社区的发展，Decky Loader 如今也已经拥有了诸多功能强大且实用的插件，本文便旨在介绍其中的一部分。
-安装与卸载
-Decky Loader 提供了两种安装方式，二者都很简单，区别只在于前者可以不用 sudo 密码而后者需要，在安装之前我们需要把 Steam Deck 切换到桌面模式。按下「Steam」键，选择「电源」，然后选择「切换到桌面模式」。
-第一种方式是下载安装程序运行，从 Release 页面下载最新的 decky_installer.desktop， 如果使用的是火狐浏览器，则需要重命名。然后双击运行，过程中会要求输入 sudo 密码，如果之前没有设置则为临时密码 Decky!。选择版本时通常选择「Release」就足够。
-第二种方式很简单，在 Konsole 内执行 curl -L <https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/install_release.sh> | sh 并输入 sudo 密码即可。
-卸载方式同样有两种，第一种打开下载的 decky_installer.desktop 选择「uninstall decky loader」，第二种…]]></summary>
-        <author>
-            <name>eaglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 287 期）：禄丰恐龙谷记行]]></title>
-        <id>http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html"/>
-        <updated>2024-01-19T00:20:37.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-上海街头的公共绿地，出现了一个七层楼高的"北极狐"雕塑。它出自"大黄鸭"的作者之手，使用了38万张纸，手工粘贴而成，以呈现毛发蓬松的效果。（via）
-禄丰恐龙谷记行
-前些天，我在云南旅行，去了一次禄丰恐龙谷。
-禄丰是云南楚雄州的一个县级市，以恐龙遗址闻名，那里的路灯、路牌、窨井盖都是恐龙元素。
-
-以下摘自百度百科。
-"禄丰位于滇中高原盆地，海拔1600米。1.9亿年前，这里曾是世界上最大动物--恐龙的诞生地之一。"
-"1938年至今，禄丰境内先后发掘出190多具恐龙化石，以及不同数量的古猿及其他古生物化石。"
-"禄丰龙是第一种由中国人发现并完整挖掘、装架的恐龙，也常常被认为是中国国内发现的第一种恐龙。严格来说，中国国内发现的第一种恐龙是满洲龙，但由于它是被俄国人越界盗挖走的，并且化石被盗运到俄罗斯保存，因此知名度不高。"
-恐龙谷距离县城30多公里，县城有客运班车直达大门口。
-禄丰整体上是低矮的丘陵地带，而恐龙谷是其中一块很大的盆地，四周都被山峰包围。想到二亿年前，恐龙在这里出没，感觉很奇妙。
-
-整个恐龙谷现在是一个度假区，除了遗址公园，还有主题乐园、酒店和温泉。它有多种套票，只参观遗址公园的价格是70元。遗址公园距离大门口500多米，如果不玩其他地方，可以不买电瓶车票（30元）。
-遗址分成两个馆：科普馆和化石馆。科普馆（下图）的内容很少，布展水平不高，乏善可陈。
-
-真正的精华在化石馆（下图），那是一个大棚，里面都是恐龙化石。
-
-第一部分展览是单块的恐龙化石，比如恐龙头（下图）、恐龙脚。
-
-照片上可能感受不到，恐龙多么巨大。我特别拍了一张参照物，下图是一根恐龙肋骨，旁边正好是管理员的小房间，那扇门…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电子屏幕上的阅读效果低于纸质书]]></title>
-        <id>https://www.solidot.org/story?sid=77170</id>
-        <link href="https://www.solidot.org/story?sid=77170"/>
-        <updated>2024-01-18T15:00:30.000Z</updated>
-        <summary type="html"><![CDATA[过去几年美国青少年的阅读技能下降显著，部分人将之归因于新冠期间的远程教育。但新的研究指出了另一种可能性——日益渗透到生活中的电子屏幕。新研究发现，电子屏幕上的阅读效果低于纸质书，纸质书上的阅读能更有助于理解内容。研究人员做了一个脑电波实验：让学生在纸上和屏幕上阅读一段内容，同时用 EEG 测量他们的脑电波。结果显示，纸上阅读产生的脑电波模式与集中注意力更紧密相关。虽然研究只是展现出相关性，但今天的很多人都有类似的体验，电子屏幕太容易分心（电子书阅读器除外），有太多的东西能将注意力引导到其它地方。书籍则更容易让你沉浸下去。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 对 Bing 搜索市场份额的提升微乎其微]]></title>
-        <id>https://www.solidot.org/story?sid=77169</id>
-        <link href="https://www.solidot.org/story?sid=77169"/>
-        <updated>2024-01-18T14:36:57.000Z</updated>
-        <summary type="html"><![CDATA[微软去年 2 月率先在必应（Bing）搜索引擎中整合了 AI 聊天功能，希望能吸引更多用户使用，能增加它的市场份额。但近一年之后，OpenAI 的生成式 AI 对必应全球搜索市场份额的提升微乎其微。根据 StatCounter 的数据，去年底必应的市场份额为 3.4%，自 ChatGPT 宣布以来提升不到 1%。根据 SensorTower 的数据，在微软引入生成式 AI 之前一个月，用户在必应上投入的时间比一年前减少了 33%，引入 ChatGPT 的新必应至少扭转了下滑趋势。到去年年底，必应在美国的月活跃用户增加到了 440 万。用户在必应上花的时间也更长了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 将调整搜索排名以遵守欧盟的监管规定]]></title>
-        <id>https://www.solidot.org/story?sid=77168</id>
-        <link href="https://www.solidot.org/story?sid=77168"/>
-        <updated>2024-01-18T14:26:09.000Z</updated>
-        <summary type="html"><![CDATA[为了遵守欧盟的数字市场法（Digital Markets Act，DMA)，Google 官方博客宣布将调整搜索结果，突出与其有竞争关系的比价网站的排名。DMA 要求搜索引擎对竞争对手的产品和服务与自己的产品和服务一视同仁，Google 必须在 3 月 7 日前遵守这一规定。与 Google 有竞争关系的比价网站是搜索巨人最直言不讳的批评者，它们的投诉是 Google 被欧盟处以 24.2 亿欧元罚款的重要原因。除此之外，Google 还将允许 Android 用户更容易切换默认搜索引擎和浏览器。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
