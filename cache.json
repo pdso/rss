@@ -39,6 +39,16 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/86483",
+          "author": "胖鱼要进步",
+          "description": "「本文参加 2023 年度征文活动。我的 2023 年度关键词是：对话」\n过去的 2023 年对我个人来说，经历复杂且深刻。复杂是因为过去这一年，我生病的类型比往年多的多。而深刻是因为，这一年我经历的每次感冒和发烧都非常痛苦，让我辗转反侧，数次难受到痛哭。\n除此之外，因为流感类病情的发作，也把我隐藏起来的甲状腺问题暴露了出来，确诊甲亢的同时，心脏也轻微受到了些许影响。\n过去这一年，我经历着身体的变化，也在慢慢调整着身体，同时倾听和感受着身体给我的反馈。现在身体也早已恢复正常，但通过这一年的生活经历与记录，也让我从中悟出了一些生活真理。在恢复身体的过程中，让身体和心理都慢慢远离内耗。\n胡思乱想不如及时就医，是好是坏总有解决办法\n在第一次发热之后，网上到处都能看到心肌炎等字眼的后遗症内容。但是好巧不巧，我在恢复的过程中，心率一直居高不下。在那段时间里，人们基本是与外界没什么交流的，所以自然会开始胡思乱想。那时候，我天天把自己的一些症状往所谓的心肌炎表现上去靠，久而久之就开始极度影响情绪。严重的时候，我心情 down 到开始在笔记本上记录我一些电子设备的密码，还提前跟我爸妈打了招呼。被我妈说了一顿，让我别瞎想。\n在疑虑的那段时间里，刚好赶上过年。别人除夕夜在吃着年夜饭看着春晚快乐自在，而我则是除夕下午突然发烧，躺在床上听着春晚声音度过的。人们常说，好多疾病其实都是自己情绪或者心理影响的，或者是将疾病状态放大的，我还是蛮认同的。\n身心疲惫地熬过了过年那几天，我实在是承受不住这种身体+心理的双重折磨，于是在年后医院第一时间正式上班的那天，快速去医院心血管科做了检查。\n到现在为止，我依旧对那天去医院就诊的细节历历在目。在一开始的自我描述阶段，我感觉在跟医生的对话过程中，自己都快哭了，有种「是不是我快不行了」的感觉。后来做完各种检查拿着数据单回到诊室，听到医生口中蹦出甲亢病症后，那会感觉…",
+          "link": "https://sspai.com/post/86483",
+          "publishedOn": "2024-02-17T12:35:05.000Z",
+          "wordCount": 652,
+          "title": "年度征文｜感冒频次突增的一年，我从身体反馈中学到哪些？",
+          "imageUrl": "https://cdn.sspai.com/2024/02/17/0d3b372d4296bcf67ab8ba9fac760bda.png"
+        },
+        {
           "id": "https://sspai.com/post/86447",
           "author": "Morick莫里克",
           "description": "我喜欢写小说，偶尔脑子里蹦出来那么一个灵感，在脑子里就把他构思了个七七八八。于是就想着，要不？写下来吧。\n于是，便开始选择称手的兵器。\n写小说这件事，应该需要一件称手的兵器。\n相对于笔记软件的百家争鸣，写作软件相对来说就比较稀缺。尝试了网上推荐较多的Scrivener、Effie，以及相对用户较少的Writeathon。\n用起来最舒服的就是Scrivener，但在win平台上的中文体验真的很差，并且对于非作家的我，写小说只是自己的爱好，目前为止，并无收入，所以在选择软件的时候尽可能的选择免费的软件。\n经过了各种寻找，发现了novelWriter。\nnovelWriter介绍\nnovelWriter是一个开源软件，Github上1.6k Star。使用Python的PyQt5构建，可用于Windows、Mac、Linux系统。\n在GitHub上的介绍是这样的。\n\nnovelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cross-platform support.\n\nnovelWriter是一个纯文本编辑器，并没有思维导图，卡片视图，也无法插入图片，但对于写故事，他是足够的。正如novelWriter的名字，它更适合写故事，或者说，它只适合写故事（小说和非虚构的故事）。\n\n文档结构\nnovelWriter的根目录下可以创建小说、归档、情节、角色、位置、时间线、物品、条目和自定义9种类型。其中小说目录可创建多个。\n文档类型可以分为两类，小说文档和…",
@@ -547,16 +557,6 @@
           "wordCount": 677,
           "title": "自己掌握数据的本地背单词系统 WordReview",
           "imageUrl": "https://cdn.sspai.com/2024/01/21/0d7a2e9f3431e6166816a1409a2dc312.png"
-        },
-        {
-          "id": "https://sspai.com/post/85951",
-          "author": "mwyrtjs的心理小屋",
-          "description": "最近，看到一个十分有趣的观点。它提供了另一种视角来看待是什么让我们感到如此忙碌、紧张和焦虑。\n这一观点认为，我们的焦虑源于自身的「表面积」。一般来说，「表面积」越大，维护它所需的能量就越多。然而，在一段时间内，我们的能量是有限的。当维护「表面积」所需的能量超过我们自身拥有的能量时，就会带来紧张和焦虑的感觉。\n我们的能量犹如湖泊中的水，在一定时间内总量是一定的。我们消耗能量来维护「表面积」，就如同开辟水渠灌溉田地。当湖泊中的水不足以灌溉你拥有的田地时，焦虑和紧张就产生了。\n当大多数人想到表面积时，可能首先想到的是一个长方形或正方形的表面积。然而，今天所说的「表面积」与常规概念略有不同。它指的是生活中所有能够牵扯你精力的人和事物。这些元素隐藏在日常生活中，而大多数人很少意识到它们究竟消耗了多少能量。\n这样的说法可能仍然有些抽象。以一个例子来说明，如果你拥有一套房子，你需要维护的「表面积」相对较小。你只需要偶尔进行清理，或者在某一天突发奇想时，为房间添加一些新的家具。然而，如果你再购置一套房子，你需要维护的表面积就会增加。你可能会思考：把哪套房子作为固定住所？空闲的房子是否应该出租给他人？如果出租，租户是否会把房子弄得一团糟呢？\n当你拥有第三套、第四套……房子时，你的「表面积」就在逐步增加。这种增长并非线性，而是略高于线性的趋势。我们生活中面对的所有事物都是如此。朋友是一种「表面积」。从出生到死亡，我们能够与朋友相处的时间是有限的。朋友越多，我们与每位朋友单独相处的时间就越有限。金钱也是一种「表面积」。拥有的金钱越多，你就需要花费更多时间和精力来管理各种类型的资产和投资，思考如何获取更大的利益。人们对于物质的渴望是无穷无尽的，我们总是希望拥有更多。\n然而，正如文章开头所提到的，我们在一段时间内能量总量是有限的。因此，当一个人的「表面积」扩大到难以应对时，就会产生紧张和焦虑。「表面…",
-          "link": "https://sspai.com/post/85951",
-          "publishedOn": "2024-01-21T01:30:35.000Z",
-          "wordCount": 619,
-          "title": "解读焦虑之谜：生活的「表面积」与心灵负担",
-          "imageUrl": "https://cdn.sspai.com/2024/01/20/2c137057ff87f2eb35e50274300d1c8f.jpg"
         }
       ]
     },
@@ -604,6 +604,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77391",
+          "author": null,
+          "description": "一项研究发现，生长在廉价浮动平台上的花可以帮助清理污染的水道。相比自然氮循环，花在 12 周内能从未经处理的水中多移除 52% 的磷和 36% 的氮。培育的花还能在花卉市场获得收入。对不同种类的花的测试显示，大型万寿菊（giant marigolds）效果最显著。水污染通常是由来自农田、城市草坪甚至化粪池的径流造成的，下雨时过多的磷、氮等营养物质会冲入湖泊和河流，导致有害藻类大量繁殖。径流养分影响着水生态系统的健康。受浮动农场的启发，研究人员将在浮动木筏上种植插花作为一种移除多余养分的方法。",
+          "link": "https://www.solidot.org/story?sid=77391",
+          "publishedOn": "2024-02-19T15:11:25.000Z",
+          "wordCount": 163,
+          "title": "花可以帮助清理径流养分",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77390",
+          "author": null,
+          "description": "Linux 内核项目最近成为了 CVE 编号颁发机构，Linux 作者 Linus Torvalds 周末释出了 Linux 6.8-rc5，其中一个文档方面的变化就是 CVE 漏洞处理相关的指南。分配的 CVE 编号将在 linux-cve-announce 邮件列表上公布，修复的安全漏洞才会分配 CVE 编号，未修复的不会自动分配编号。",
+          "link": "https://www.solidot.org/story?sid=77390",
+          "publishedOn": "2024-02-19T13:59:17.000Z",
+          "wordCount": 187,
+          "title": "Linux 内核成为 CVE 编号颁发机构，发布相关指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77389",
+          "author": null,
+          "description": "法国电信公司 Orange 因违反 GNU GPL v2 许可被罚 65 万欧元——50 万欧元经济赔偿和 15 万欧元精神赔偿。Orange 的 IDMP platform 使用了名叫 Lasso 的库，Lasso 在 GPLv2 下授权，它也有商业授权。Orange 要么按照 GPLv2 许可证要求公布它的源代码，要么从版权所有者 Entr'Ouvert 购买许可证。Orange 没有付费也没有遵守 GPL 要求。法国上诉法庭判决 Orange 侵权行为成立。",
+          "link": "https://www.solidot.org/story?sid=77389",
+          "publishedOn": "2024-02-19T13:20:13.000Z",
+          "wordCount": 203,
+          "title": "法国电信公司因违反 GPL 许可被罚 65 万欧元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77388",
+          "author": null,
+          "description": "在高空强风的助力下，上周至少有两个商业航班提前到达目的地，两架客机相对于地面的飞行速度都超过 800 英里/小时——而音速是 767 英里/小时。客机本身并没有突破音障，但顺风让它们的对地速度超过了音速，当时巡航高度的风速最高约 265 英里/小时。其中一个是维珍航空 (Virgin Atlantic) 从华盛顿特区飞往伦敦的波音 787 航班，飞行时间缩短了 45 分钟，客机的最高对地速度达到了 802 英里/小时。另一个是美国联合航空从新泽西州纽瓦克飞往葡萄牙里斯本的 787 航班，最高地速达到 838 英里/小时，比预定时间缩短 20 分钟。这种风速助力的客机超音速飞行过去几年出现过多次。",
+          "link": "https://www.solidot.org/story?sid=77388",
+          "publishedOn": "2024-02-19T11:40:33.000Z",
+          "wordCount": 177,
+          "title": "强风将客机的对地飞行速度推到音速以上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77387",
+          "author": null,
+          "description": "随着手游和最新一代游戏机带来的巨大增长达到极限，价值 2000 亿美元的游戏产业正面临着 30 年来最严重的增长放缓。硬件销售正在放缓，索尼下调了 PS5 的销售预期。根据Data.ai的数据，去年消费者在手游上的支出下降 2% 至 1073 亿美元，预计 2024 年将实现低个位数的增长。游戏公司在 2023 年裁员上万人，今年至今再次裁掉数千人。有报告显示，去年游戏业的增长率不到 1%，微软游戏业务负责人 Phil Spencer 指出，这一增长率低于通胀，低于大部分国家的 GDP 增长率，这意味着游戏的占比相对于其它娱乐类别是下降的。",
+          "link": "https://www.solidot.org/story?sid=77387",
+          "publishedOn": "2024-02-19T09:50:16.000Z",
+          "wordCount": 176,
+          "title": "游戏行业增长放缓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77386",
+          "author": null,
+          "description": "苹果准备推出类似 GitHub Copilot 的辅助编程工具，使用生成式 AI 帮助补充完成代码。该工具将作为下一个 Xcode 大版本的一部分推出，苹果已在该项目上工作了一年时间，预计最快今年推出，苹果最快在 6 月举行开发者大会 WWDC 上宣布这一新工具。微软的 GitHub Copilot 是在 2021 年推出的，能根据自然语言查询生成代码。",
+          "link": "https://www.solidot.org/story?sid=77386",
+          "publishedOn": "2024-02-19T09:27:08.000Z",
+          "wordCount": 180,
+          "title": "苹果准备推出 AI 辅助编程工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77385",
+          "author": null,
+          "description": "欧盟的风力发电首次超过天然气。欧盟 2023 年能源排放量下降 19%。根据能源智库 Ember 最新发布的研究报告，去年欧盟能源领域排放量的下降幅度比以往任何时候都大。一方面是由于煤炭和天然气发电量急剧下降（煤炭发电量下降 26%，天然气发电量下降 15%），化石燃料发电量首次占欧盟电力的 1/3 以下；另一方面，对电力的需求也有所下降。报告显示，风力和太阳能发电量持续增长，其发电量合计占欧盟电力总量的 27%，创下历史新高。其中风力发电量占欧盟电力的18%，风电占比首次超过天然气。总体而言，可再生能源在欧盟发电量中的份额升至创纪录的44%。",
+          "link": "https://www.solidot.org/story?sid=77385",
+          "publishedOn": "2024-02-19T08:31:37.000Z",
+          "wordCount": 166,
+          "title": "欧盟风力发电超过天然气发电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77384",
+          "author": null,
+          "description": "佛罗里达男子 JL 三年前突然想知道自己的祖先，他将唾液样本寄到了提供基因检测服务 23andMe。他意外得知自己有德系犹太人血统（Ashkenazi Jewish）。他对此没有太多想法，直到获悉 23andMe 约 700 万客户的数据被盗，而化名 Golem 的黑客正在暗网论坛兜售 100 万类似德系犹太人血统的 23andMe 客户数据，他担心自己及家人可能会面临危险。他是最近向 23andMe 提起集体诉讼的两名原告之一。原告认为，在犹太裔和华裔用户成为目标之后 23andMe 未能充分的通知他们。代表原告的律师认为，特定血统的用户群体可能会被列入攻击的黑名单。23andMe 坚称黑客是通过撞库——即已泄露的密码——获取用户遗传数据的，不是利用它的系统漏洞，因此不是它的错误。",
+          "link": "https://www.solidot.org/story?sid=77384",
+          "publishedOn": "2024-02-19T08:08:58.000Z",
+          "wordCount": 191,
+          "title": "黑客从 23andMe 窃取了约 700 万人的遗传数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77383",
+          "author": null,
+          "description": "去年 12 月就任波兰总理的公民纲领党主席 Donald Tusk 上周表示，他有文件证明前任政府非法使用了间谍软件 Pegasus。Pegasus 的使用发生在右翼的法律与公正党执政时期。Pegasus 由以色列公司 NSO Group 开发，能完全控制被感染的移动设备，能提取设备上的密码、照片、消息、联系人和浏览历史记录，激活麦克风和摄像头进行实时窃听。Tusk 称间谍软件受害者的名单很长。加拿大多伦多大学公民实验室此前的研究发现，有多名波兰前任政府的反对者成为了 Pegasus 的目标。",
+          "link": "https://www.solidot.org/story?sid=77383",
+          "publishedOn": "2024-02-19T06:44:38.000Z",
+          "wordCount": 174,
+          "title": "波兰新总理称前任政府非法使用间谍软件 Pegasus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77382",
+          "author": null,
+          "description": "地球海洋的温度通常十分稳定，不同于陆地昼夜温差巨大，海洋表面温度出现零点几摄氏度的变化就相当显著了，但过去一年海洋部分区域出现了多达数摄氏度的温度变化。这可能会引发严重的生态问题。迈阿密大学飓风研究员布 Brian McNoldy 指出，东大西洋热带气旋飓风提前四个月形成，今年的二月仿佛往年的六月，真的非常奇怪。因为海洋吸收了人类排放到大气层中的九成额外热量，它过去几十年一直在缓慢变热。这种情况会影响海洋表面的浮游动植物，动摇整个海洋食物链的根基。当海洋表面变热时，它会形成热水层，阻止下层冷水中的营养物质进入到上层，浮游植物需要营养物质才能正常生长并固定碳，缓解气候变化的影响。如果变暖引发的热水分层情况日益严重，浮游植物会受到严重影响，冲击依赖浮游植物的生态系统。更糟糕的是，水越热容纳的氧气会越少。",
+          "link": "https://www.solidot.org/story?sid=77382",
+          "publishedOn": "2024-02-19T06:18:27.000Z",
+          "wordCount": 159,
+          "title": "海洋表面温度快速变热",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77381",
+          "author": null,
+          "description": "欧盟将就苹果在音乐流媒体领域的反竞争行为罚款 5 亿欧元。这一罚款预计将在下月初宣布。在音乐流媒体服务 Spotify 投诉苹果阻止应用告诉用户其音乐服务有更廉价替代之后，欧盟监管机构对此展开了调查。苹果当时对此案的回应是“没有任何根据”。据《金融时报》援引知情人士的消息报道，欧盟将禁止苹果的这一做法。",
+          "link": "https://www.solidot.org/story?sid=77381",
+          "publishedOn": "2024-02-19T04:40:49.000Z",
+          "wordCount": 168,
+          "title": "欧盟将就苹果在音乐流媒体领域的反竞争行为罚款 5 亿欧元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77380",
+          "author": null,
+          "description": "OpenAI CEO Sam Altman 据报道计划筹集 5-7 万亿美元打造一个晶圆厂网络，为 AI 应用生产足够的芯片。传奇芯片设计师 Jim Keller 对此回应称他不用 1 万亿美元就能做到。Jim Keller 目前就职于设计 AI 和 HPC 处理器的 Tenstorrent 公司。他以及英伟达的黄仁勋都认为，Altman 的计划可能会导致产能过剩和 AI 处理器贬值，此类处理器必须变得更复杂而不是专门只用于 AI。此外 AI 硬件的供应链必须更简单，以降低 AI 服务器等设备的成本。",
+          "link": "https://www.solidot.org/story?sid=77380",
+          "publishedOn": "2024-02-18T15:41:44.000Z",
+          "wordCount": 213,
+          "title": "Jim Keller 认为不用 1 万亿美元就能实现 Sam Altman 的计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77379",
+          "author": null,
+          "description": "Android 操作系统的下一个大版本释出了首个开发者预览版，支持 Google 的 Pixel 6、7 和 8，Pixel Fold 以及 Pixel Tablet 等设备。这也意味着 Pixel 5 和 5a 系列不会再收到新操作系统的更新。Android 15 的新特性包括：部分屏幕共享，允许用户共享或录制单个应用窗口而不是整个屏幕；支持内核 fs-verity 功能的 API，允许用户在可读写文件系统上存储只读文件，对其进行加密签名以确保没有被恶意篡改；改进相机控制；如果检测到手机过热将提供更多动态性能控制，让应用根据情况做出相应的回应。Android 15 预计将在今年下半年释出。",
+          "link": "https://www.solidot.org/story?sid=77379",
+          "publishedOn": "2024-02-18T15:11:30.000Z",
+          "wordCount": 188,
+          "title": "Android 15 首个开发者预览版释出",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77378",
           "author": null,
@@ -2503,56 +2633,6 @@
           "wordCount": 173,
           "title": "峙峪遗址揭示东亚的先进物质文化可追溯到 4.5 万年前",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77184",
-          "author": null,
-          "description": "85 岁的退休教师 Eileen McGrath 去年底先后四次被委婉询问是否还活着。英国政府将养老金受益人的生存情况外包给 Capita 公司审核，该公司会根据死亡登记册进行核查，确保不会向已去世的人支付养老金。但问题是它的系统在确认受益人还活着的情况下并不会将其移除，结果是 McGrath 的养老金四次被停付，并被反复询问是否已去世。她抱怨说，她不相信有和她同名以及出生日期相同的退休教师会年年去世。英国教育部在收到媒体询问后表示会破例，将她的名字和已去世的人分开，她不会再收到询问了。McGrath 说被周期性的告知他们认为你已经死了，不是什么令人愉快的体验。",
-          "link": "https://www.solidot.org/story?sid=77184",
-          "publishedOn": "2024-01-21T11:06:13.000Z",
-          "wordCount": 165,
-          "title": "英国退休教师被反复询问是否已去世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77183",
-          "author": null,
-          "description": "日本游戏工作室 Pocketpair 开发的《Palworld /幻兽帕鲁》成为今年的第一款爆款作品，在最大 PC 数字发行平台 Steam 上，发售仅仅两天同时在线玩家人数突破 100 万，40 小时内游戏销量突破了 300 万。值得一提的是它同时还登陆了微软的订阅服务 Xbox Game Pass，XGP 的订阅用户无需额外付费即可游戏，意味着它的同时在线玩家人数远高于 100 万。《幻兽帕鲁》是一款结合精灵宝可梦和方舟玩法的开放世界生存和收集游戏，可单人可多人合作，它使用了虚幻引擎和 Epic Online Services，该在线服务对账号有 70 万并发限制，由于海量玩家涌入，工作室在凌晨一点与 Epic 举行了紧急会议移除了账号的限制。100 万同时在线在 Steam 历史上排名第六，有望超过《赛博朋克2077》的 105 万位居第五名。",
-          "link": "https://www.solidot.org/story?sid=77183",
-          "publishedOn": "2024-01-21T07:02:58.000Z",
-          "wordCount": 195,
-          "title": "《Palworld /幻兽帕鲁》Steam 同时在线突破百万",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77182",
-          "author": null,
-          "description": "微软证实俄罗斯情报机构入侵了部分高管的电邮账号。入侵发生在 1 月 12 日，微软将该黑客组织命名为 Midnight Blizzard aka Nobelium。软件巨人表示它已经采取了行动并展开了调查。调查显示，攻击者从去年 11 月使用密码喷洒攻击(Password Spraying) 入侵了一个遗留的非生产租户帐户，获得了立足点，然后使用该账号的权限访问了少数微软企业电邮账号，其中包括了微软高管团队成员账号，网络安全、法务等部门的员工账号，窃取了部分电邮和附件。调查显示 Midnight Blizzard  的目标是搜寻与它自己相关的信息。微软称，这次攻击不是产品或服务漏洞造成的。",
-          "link": "https://www.solidot.org/story?sid=77182",
-          "publishedOn": "2024-01-20T16:02:47.000Z",
-          "wordCount": 171,
-          "title": "微软称俄罗斯情报机构入侵了其高管电邮账号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77181",
-          "author": null,
-          "description": "ESA 探测器火星快车号(Mars Express)在红色星球的赤道下发现了 1.5-2.7 米厚度的水冰。这不是第一次在火星赤道发现水冰，但这次发现的水冰量是至今最多的。火星快车号是在 2003 年发射的，至今已在火星轨道上运行了 20 年。最新发现的是水冰是以尘埃冰的形式埋在火星赤道下，上面覆盖了数百米厚的硬化灰和干灰，其长度约 3.7 公里。相比极地，赤道地区更容易成为未来太空任务的目的地，但表面下数百米厚意味着获取水冰的难度很大。",
-          "link": "https://www.solidot.org/story?sid=77181",
-          "publishedOn": "2024-01-20T15:38:34.000Z",
-          "wordCount": 166,
-          "title": "火星赤道下发现蕴藏两米厚的水冰",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77180",
-          "author": null,
-          "description": "新华社报道，华为宣布了不兼容 Android 应用的鸿蒙星河版（HarmonyOS NEXT）。鸿蒙此前是基于 Android 的深度定制版本，兼容 Android 应用。但在发布四年之后，它最新的开发者版本将不再兼容 Android 应用，只能运行为鸿蒙开发的原生应用。华为高管余承东称，鸿蒙生态设备数量历时 5 个月从 7 亿增长至 8 亿。开发者需要实名认证注册才能参与开发者预览版的测试。开发者还需要参加所谓的“应知测试”，一个实名帐号有 5 次机会，通过要求为 100 分（即满分）。",
-          "link": "https://www.solidot.org/story?sid=77180",
-          "publishedOn": "2024-01-20T13:20:34.000Z",
-          "wordCount": 184,
-          "title": "华为发布不兼容 Android 应用的鸿蒙星河版",
-          "imageUrl": null
         }
       ]
     },
@@ -2561,6 +2641,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/764885/",
+          "author": null,
+          "description": "2 月 14 日，Keep 发公告称将启动股份回购计划，本次回购将投入 1600 万港元。 公告显示，该公司董事会认为，股份购回可展示公司对自身业务展望及前景充满信心，且最终会为公司带来裨益为股东创造价值。公告称，公司现有财务资源足以支付股份购回的同时维持稳健的财务状况。公告显示，本次款项来自上市所\n本文链接",
+          "link": "https://news.cnblogs.com/n/764885/",
+          "publishedOn": "2024-02-19T14:15:12.000Z",
+          "wordCount": 163,
+          "title": "Keep宣布股份回购计划，拟投入1600万港元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764884/",
+          "author": null,
+          "description": "IT 之家 2 月 19 日消息，据墨西哥当地媒体 Milenio 报道，新莱昂州州长 Samuel García Sepúlveda 在蒙特雷市社区中心视察时透露，特斯拉墨西哥超级工厂的奠基仪式预计将在 3 月举行。 IT 之家注意到，此前该工厂的奠基仪式原定于本月举行，但现在推迟到了 3 月。S\n本文链接",
+          "link": "https://news.cnblogs.com/n/764884/",
+          "publishedOn": "2024-02-19T14:14:18.000Z",
+          "wordCount": 163,
+          "title": "特斯拉墨西哥超级工厂奠基仪式预计3月举行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764883/",
+          "author": null,
+          "description": "IT 之家 2 月 19 日消息，2024 龙年开工，随着比亚迪“荣耀版”低价车型的率先亮相，各大车企也纷纷公布了优惠政策。 哪吒 X 全系降价 2.2 万元，新增 400 Air 版 9.98 万元起； 哪吒 S 全系降价 5,000 元，现价 15.48 万元起； 哪吒 AYA 全系降价 8,0\n本文链接",
+          "link": "https://news.cnblogs.com/n/764883/",
+          "publishedOn": "2024-02-19T14:13:24.000Z",
+          "wordCount": 163,
+          "title": "哪吒X汽车全系降价2.2万元，新增400 Air版9.98万元起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764882/",
+          "author": null,
+          "description": "图片来源：钛媒体 App 拍摄 汽车销售门店春节不打烊，已成为常态。 以前，卖车主要以传统 4S 店模式为主，而传统 4S 店由于占地面积较大的原因，一般坐落在郊区或者租金相对较低的地段。因而，考虑到春节期间人流量较低的原因，传统 4S 店一般会在春节期间选择闭店 3 天以上。比如今年春节期间，北京\n本文链接",
+          "link": "https://news.cnblogs.com/n/764882/",
+          "publishedOn": "2024-02-19T14:12:38.000Z",
+          "wordCount": 163,
+          "title": "春节在商场加班的卖车人：有人5天卖出20多台，有人卖一台净赚超2000元｜钛度车库",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764881/",
+          "author": null,
+          "description": "“百度搜索即将焕发新生？” 作者张进 编辑陈彩娴 雷峰网独家获悉，近日，前华为终端云服务搜索与地图 BU 总裁赵世奇离职，已在年前回归百度，负责百度搜索业务——将 AI 技术在搜索中应用落地，做产品创新。 赵世奇是一名老百度人，在 2010 年博士毕业后加入百度，一待就是十年，2020 年离开百度加\n本文链接",
+          "link": "https://news.cnblogs.com/n/764881/",
+          "publishedOn": "2024-02-19T13:56:49.000Z",
+          "wordCount": 163,
+          "title": "前百度搜索老将赵世奇从华为离职，回归百度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764880/",
+          "author": null,
+          "description": "文电车通 年前已经传出不好传闻的高合汽车，在节后上班的第一天传出了更坏的消息：有微博车评人爆料，高合恐怕已经进入停摆阶段。 随后，界面新闻发布独家报道，表示高合汽车通过内部大会告知全体员工，将从即日起（2 月 18 日）停工停产 6 个月。根据其他消息，高合汽车在假期前就曾召开全体大会宣布工资延迟发\n本文链接",
+          "link": "https://news.cnblogs.com/n/764880/",
+          "publishedOn": "2024-02-19T13:10:00.000Z",
+          "wordCount": 163,
+          "title": "高合之困，行业之困",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764879/",
+          "author": null,
+          "description": "作者｜鹿尧 去年一整年，互联网圈里讨论度最高的是阿里，年初拆分之后，各业务线几经调整，分分合合。但事实上，中国科技互联网公司的子业务拆分热潮，多年前就有了：2012 年，支付宝分家，2016 年腾讯音乐在纳斯达克挂牌，2020 年百度拆分小度科技，网易云音乐寻求港股 IPO。 不过在拆分这件事上，最\n本文链接",
+          "link": "https://news.cnblogs.com/n/764879/",
+          "publishedOn": "2024-02-19T13:00:39.000Z",
+          "wordCount": 163,
+          "title": "京东分拆往事：转型、战略与拐点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764878/",
+          "author": null,
+          "description": "文 华商韬略，作者丨张静波‍‍ 日本人，急了！ 就在不久前，索尼汽车社长在公开场合吐槽：中国电车毫无技术，只会把显示屏弄得花里胡哨。 另一位大佬，丰田章男，则在几年前语出惊人：电动车越多，二氧化碳越严重。 日本汽车大佬们的表态，傲慢中，夹杂着更多的慌张。 01 中国车，改天换命 100 多年前的马车\n本文链接",
+          "link": "https://news.cnblogs.com/n/764878/",
+          "publishedOn": "2024-02-19T12:10:00.000Z",
+          "wordCount": 163,
+          "title": "大逆转，全球疯买中国车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764877/",
+          "author": null,
+          "description": "文刺猬公社，作者笛笙，编辑陈梅希、园长 微信读书，这一蓝白相间的软件，逐渐成为都市读书人的首选“电子阅读”应用。 根据 DataAI 的数据统计，近三月全球应用下载量排名榜单中，微信读书 APP 位列 274，掌阅排名 500，豆瓣阅读排在第 1000。简洁的界面设计，丰富的电子书库，不贵的全场阅读\n本文链接",
+          "link": "https://news.cnblogs.com/n/764877/",
+          "publishedOn": "2024-02-19T12:02:00.000Z",
+          "wordCount": 163,
+          "title": "出版业自救，从下架电子书开始？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764876/",
+          "author": null,
+          "description": "新势力的车型，强则强矣，但销量在大盘里占比并不算多，真要去打合资品牌，还得是比亚迪。 去年 9.98 万元起售的秦 PLUS 冠军版，让「油电同价」深入人心，也一定程度上冲击了合资品牌车型，诸如日产轩逸，大众速腾，大众朗逸等紧凑型轿车的销量。 然后，在今天，「卷王」比亚迪在节后第一周就扔出了价格「王\n本文链接",
+          "link": "https://news.cnblogs.com/n/764876/",
+          "publishedOn": "2024-02-19T11:55:55.000Z",
+          "wordCount": 163,
+          "title": "「卷王」比亚迪开年就出「王炸」，7.98万的秦PLUS和驱逐舰 05 来了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764875/",
+          "author": null,
+          "description": "2007 年，Y-Combinator 的创始人保罗·格雷厄姆 (Paul Graham)写过一篇《微软已死》的文章，大意讲随着互联网、Mac 电脑和谷歌服务这套完整组合的形成，微软将越来越边缘化。实际上，当时 Y-Combinator 已经不再邀请微软参加演示日活动，跟旗下的初创公司见面，而开始重\n本文链接",
+          "link": "https://news.cnblogs.com/n/764875/",
+          "publishedOn": "2024-02-19T11:05:00.000Z",
+          "wordCount": 163,
+          "title": "科技巨头也曾跌落低谷！微软17年元老揭秘纳德拉如何带领微软走过“失落的十年”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764874/",
+          "author": null,
+          "description": "佛罗里达男子 JL 三年前突然想知道自己的祖先，他将唾液样本寄到了提供基因检测服务 23andMe。他意外得知自己有德系犹太人血统（Ashkenazi Jewish）。他对此没有太多想法，直到获悉 23andMe 约 700 万客户的数据被盗，而化名 Golem 的黑客正在暗网论坛兜售 100 万类\n本文链接",
+          "link": "https://news.cnblogs.com/n/764874/",
+          "publishedOn": "2024-02-19T10:54:00.000Z",
+          "wordCount": 163,
+          "title": "黑客从23andMe窃取了约700万人的遗传数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764873/",
+          "author": null,
+          "description": "近日，谷歌正在测试一项新功能，以防止恶意公共网站通过用户浏览器攻击内部专用网络上的设备和服务。新版本将能够检测并阻止恶意分子通过网络钓鱼等手段试图控制用户局域网内其他设备的行为。 简单来说，就是为了防止家中或电脑上的设备（如打印机或路由器）遭遇互联网上的不良网站攻击。 根据 Chrome 平台状态网\n本文链接",
+          "link": "https://news.cnblogs.com/n/764873/",
+          "publishedOn": "2024-02-19T10:48:00.000Z",
+          "wordCount": 163,
+          "title": "谷歌Chrome浏览器新功能亮相，可有效抵御黑客攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764872/",
+          "author": null,
+          "description": "据国外媒体报道，大型科技公司及其附属的网络安全、人工智能产品很可能会推出类似的安全研究，尽管这会引起用户极度地隐私担忧。大型语言模型被要求提供情报机构信息，并用于帮助修复脚本错误和开发代码以侵入系统，这将很可能会成为常态。 由于科技巨头能够将其与伊朗、朝鲜和俄罗斯等其他主要国家支持的黑客团体联系起来\n本文链接",
+          "link": "https://news.cnblogs.com/n/764872/",
+          "publishedOn": "2024-02-19T10:41:00.000Z",
+          "wordCount": 163,
+          "title": "微软和OpenAI将开启AI账户监控，引发业界隐私担忧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764871/",
+          "author": null,
+          "description": "自今年年初起，东方甄选开始试水小时达，目前覆盖城市有上海和北京。上海主要包括虹口区和徐汇区，北京包括京东仓的十里河区域，不过东方甄选未披露未来是否有扩展至其他城市的计划。（澎湃新闻）\n本文链接",
+          "link": "https://news.cnblogs.com/n/764871/",
+          "publishedOn": "2024-02-19T10:28:00.000Z",
+          "wordCount": 163,
+          "title": "东方甄选试水“小时达”，目前覆盖上海和北京部分区域",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764870/",
+          "author": null,
+          "description": "2 月 19 日，OpenAI 的视频生成模型 Sora 引发关注，云从科技相关负责人表示，云从科技在视觉方面积累较为深厚，目前，从容大模型已实现利用 diffusion、GAN 等生成式技术围绕人物图像、人物视频数据进行建模，通过文本和音频实现对图像和视频内容进行生成、控制、编辑。应用上，云从科技\n本文链接",
+          "link": "https://news.cnblogs.com/n/764870/",
+          "publishedOn": "2024-02-19T10:23:00.000Z",
+          "wordCount": 163,
+          "title": "云从科技：从容大模型支持通过文本和音频生成图像和视频",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764869/",
+          "author": null,
+          "description": "近年来，女性力量在各行各业得到广泛关注，互联网也衍生出众多女性主导创作的价值内容，互联网内容平台也为女性展示和表达自我提供了便利的渠道。 喜马拉雅上线播客专题“不要听说她，要听她说”，联合平台女性播客主畅聊女性话题。当播客逐渐成为重要的内容创作方式，越来越多的创作者在喜马拉雅通过播客分享知识、观点和\n本文链接",
+          "link": "https://news.cnblogs.com/n/764869/",
+          "publishedOn": "2024-02-19T10:19:00.000Z",
+          "wordCount": 163,
+          "title": "喜马拉雅ipo：女性播客主用播客传递女性力量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764868/",
+          "author": null,
+          "description": "拼多多倾力投入巨额广告并推行“全托管”模式，使得 Temu 通过低价策略迅速占领欧美下沉市场，并对亚马逊等传统电商巨头构成压力。 然而，在极速扩张的同时，Temu 面临的隐忧也逐渐显现，包括物流配送短板、商家利润空间挤压、商品质量把控以及对营销投放的依赖等问题。那么，拼多多到底能不能“一招鲜吃遍天”\n本文链接",
+          "link": "https://news.cnblogs.com/n/764868/",
+          "publishedOn": "2024-02-19T10:11:00.000Z",
+          "wordCount": 163,
+          "title": "拼多多海外“历劫”，谁在限制Temu的想象力？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764867/",
+          "author": null,
+          "description": "图片来源：视觉中国 产品创新对于任何一家科技公司而言都非常重要，也决定着其市场表现与走势。 自 2 月 14 日总部位于日本的科技巨头索尼集团披露其截至 2023 年 12 月的 2023 年第三财季业绩之后，索尼在股票市场总市值已经蒸发约 100 亿美元。截至当地时间 2 月 16 日收盘，索尼收\n本文链接",
+          "link": "https://news.cnblogs.com/n/764867/",
+          "publishedOn": "2024-02-19T10:00:00.000Z",
+          "wordCount": 163,
+          "title": "PS5销售疲软、游戏业务利润率低迷，索尼市值蒸发百亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/764866/",
+          "author": null,
+          "description": "文零态 LT 吴狄编辑胡展嘉运营陈佳慧 周鸿祎又口出狂言了。 他说，\"AGI（通用人工智能）的实现将从 10 年缩短到 1 年\"，而背后的原因，仅仅是因为一个 1 分钟的短视频。 注意看，这个女人叫小美，她正向我们走来。虽然身处日本某条热闹的大街，小美却总是不停地回头张望，似乎在暗示观众镜头之外隐藏\n本文链接",
+          "link": "https://news.cnblogs.com/n/764866/",
+          "publishedOn": "2024-02-19T08:00:00.000Z",
+          "wordCount": 163,
+          "title": "Sora炸裂科技圈：真风口还是焦虑制造机？",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/764814/",
           "author": null,
@@ -7509,56 +7789,6 @@
           "publishedOn": "2024-01-22T00:11:00.000Z",
           "wordCount": 163,
           "title": "奥特曼，10亿美元砸向AI芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/763489/",
-          "author": null,
-          "description": "新智元报道 编辑：润 CRA 公布「优秀本科研究员」奖，两名华人学生获奖。他们在本科阶段就取得了非常优异的学术成果，而且相关的研究已经在现实世界中得到了广泛的应用。 最近，由美国计算研究协会（Computing Research Association，CRA）颁发的「优秀本科研究员」（Outsta\n本文链接",
-          "link": "https://news.cnblogs.com/n/763489/",
-          "publishedOn": "2024-01-20T14:02:20.000Z",
-          "wordCount": 163,
-          "title": "美版「本科特等奖学金」来了，多位华人学生获奖！1人获「优秀本科研究员」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/763488/",
-          "author": null,
-          "description": "新智元报道 编辑：编辑部 谷歌 CEO 劈柴在公开信中承认：谷歌的裁员计划还要持续一整年，还有更多岗位会被淘汰，且持续一整年。根据 Layoffs 数据，开年不到一个月，科技公司总共已裁掉7,785 名员工。AI 真来淘汰人类了？ 硅谷一年一度的开年裁员大礼包，又来了。 目前，谷歌的裁员动荡，还在继\n本文链接",
-          "link": "https://news.cnblogs.com/n/763488/",
-          "publishedOn": "2024-01-20T14:00:35.000Z",
-          "wordCount": 163,
-          "title": "劈柴曝谷歌2024年全年裁员，牵出华人员工自杀事件！硅谷近8000人疑被AI淘汰",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/763487/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子好困 今天，小扎正式宣战「开源 AGI」！下一代大模型 Llama 3 正在训练，年底将拥有 35 万块 H100，届时算力总和达 60 万块 H100。为了追赶 OpenAI，成立十年的 FAIR 团队纳入 GenAI，全力奔赴 AGI。 自 Llama2、Code Llam\n本文链接",
-          "link": "https://news.cnblogs.com/n/763487/",
-          "publishedOn": "2024-01-20T13:58:11.000Z",
-          "wordCount": 163,
-          "title": "小扎砸数百亿美元猛攻开源AGI！狂掷60万块H100，爆50倍GPT-4算力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/763486/",
-          "author": null,
-          "description": "新智元报道 编辑：桃子 Mixtral 8x7B 模型开源后，AI 社区再次迎来一大波微调实践。来自 Nous Research 应用研究小组团队微调出新一代大模型 Nous-Hermes 2 Mixtral 8x7B，在主流基准测试中击败了 Mixtral Instruct。 Mixtral 8x\n本文链接",
-          "link": "https://news.cnblogs.com/n/763486/",
-          "publishedOn": "2024-01-20T13:56:08.000Z",
-          "wordCount": 163,
-          "title": "最佳开源模型刷新多项SOTA，首次超越Mixtral Instruct！「开源版GPT-4」家族迎来大爆发",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/763485/",
-          "author": null,
-          "description": "新智元报道 编辑：润 alan 2021 年劈柴恭喜小扎 FAIR 在取得的突破时，小扎并不知道到底发生了什么，但快速的学习能力让他重新把 Meta 从泥潭中拉了出来。无心插柳的 FAIR 和开源 AI 让小扎打了一次漂亮的翻身仗。 今年 4 月，Meta（Facebook）即将迎来它的 20 岁生\n本文链接",
-          "link": "https://news.cnblogs.com/n/763485/",
-          "publishedOn": "2024-01-20T13:10:00.000Z",
-          "wordCount": 163,
-          "title": "Meta AI意外成功，助小扎爬出元宇宙大坑！却被曝对FAIR毫不知情",
           "imageUrl": null
         }
       ]
