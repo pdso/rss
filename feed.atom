@@ -2,10 +2,330 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T01:00:25.861Z</updated>
+    <updated>2024-03-01T01:06:04.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果将改编威廉·吉布森的《神经漫游者》]]></title>
+        <id>https://www.solidot.org/story?sid=77480</id>
+        <link href="https://www.solidot.org/story?sid=77480"/>
+        <updated>2024-02-29T15:23:48.000Z</updated>
+        <summary type="html"><![CDATA[苹果宣布将威廉·吉布森（William Gibson）著名的赛博朋克小说《神经漫游者》改编成 10 集电视剧，登陆 Apple TV Plus。目前还不知道该剧何时播出，或者由谁主演。《神经漫游者》出版于 1984 年，故事讲述了一名神经受损的顶尖黑客 Case 与指甲下有可伸缩刀片的女刺客 Molly 搭档，对一个有着不为人知的秘密的超级企业实施盗窃活动。这不是《神经漫游者》的第一次改编，它已经改编成游戏、图形小说，以及电影。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国白宫督促开发者切换到内存安全的语言]]></title>
+        <id>https://www.solidot.org/story?sid=77479</id>
+        <link href="https://www.solidot.org/story?sid=77479"/>
+        <updated>2024-02-29T14:41:41.000Z</updated>
+        <summary type="html"><![CDATA[白宫国家网络总监办公室(ONCD)督促科技公司采用内存安全语言如 Rust，通过减少内存安全漏洞提高软件的安全性。内存安全漏洞是软件中最常见的编程错误之一，当软件以非预期或不安全的方式访问内存时，会导致各种安全问题，如缓冲区溢出、释放后使用、使用未初始化的内存和双重释放。成功利用此类漏洞会带来严重安全风险，可能允许攻击者能未经授权访问数据，或者允许以系统权限执行恶意代码。ONCD 称，消除内存安全漏洞是一个紧迫而复杂的问题，必须采取新方法减轻风险。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare 开源用 Rust 写的异步多线程框架 Pingora]]></title>
+        <id>https://www.solidot.org/story?sid=77478</id>
+        <link href="https://www.solidot.org/story?sid=77478"/>
+        <updated>2024-02-29T14:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare 在 2022 年宣布用自己开发的 Rust 程序 Pingora 替代 Nginx，现在它宣布开源 Pingora 框架，源代码采用 Apache 2.0 许可证托管在 GitHub 上。Pingora 是用 Rust 写的异步多线程框架，用于构建可编程网络服务。在内部长期使用中 Pingora 能支持巨大流量，通过开源它将能帮助 Cloudflare 之外的公司构建基础设施。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当Apple Watch发风险提醒时，就该停下工作去检查了]]></title>
+        <id>https://news.cnblogs.com/n/765540/</id>
+        <link href="https://news.cnblogs.com/n/765540/"/>
+        <updated>2024-02-29T14:02:32.000Z</updated>
+        <summary type="html"><![CDATA[对于「苹果对人类最大的贡献是什么？」这个问题，苹果 CEO Tim Cook 曾经公开表示，希望未来可以坚定地用「健康」这个词来回答。 在 2022 年的苹果秋季发布会开场环节中，Tim Cook 说自己已经收到过成千上万封 Apple Watch 的用户来信，他们分享了使用 Apple Watch
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6 释出]]></title>
+        <id>https://www.solidot.org/story?sid=77477</id>
+        <link href="https://www.solidot.org/story?sid=77477"/>
+        <updated>2024-02-29T13:44:11.000Z</updated>
+        <summary type="html"><![CDATA[KDE 项目释出了最新的桌面环境 KDE Plasma 6。Plasma 6 的技术栈经历了两个大的升级：应用开发框架过渡到最新版的 Qt 6，图形平台迁移到 Wayland。其它变化包括：新的概览特效（Overview Effect），Wayland 部分支持 HDR，新的 Scarlet Tree 墙纸，浮动面板，改动了一系列新的默认设置但仍然高度可配置，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福特可能为其下一代电动汽车引入800V快充架构 以跟上竞争对手步伐]]></title>
+        <id>https://news.cnblogs.com/n/765539/</id>
+        <link href="https://news.cnblogs.com/n/765539/"/>
+        <updated>2024-02-29T13:06:04.000Z</updated>
+        <summary type="html"><![CDATA[2 月 29 日消息，据外媒报道，福特可能为其下一代电动汽车引入 800V 的快速充电架构，以跟上现代、保时捷和起亚等竞争对手的步伐。 目前，新能源车主流的补能方式主要有三种，以新势力“蔚小理”为例，理想汽车代表的是增程式（插电混动），蔚来汽车代表的换电式，小鹏汽车代表的是 800V 高压快充。 2
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face 平台上发现上百恶意 AI 模型]]></title>
+        <id>https://www.solidot.org/story?sid=77476</id>
+        <link href="https://www.solidot.org/story?sid=77476"/>
+        <updated>2024-02-29T10:33:21.000Z</updated>
+        <summary type="html"><![CDATA[JFrog 安全团队在 AI 模型共享平台 Hugging Face 上发现了至少 100 个恶意 AI ML 模型，部分恶意模型能在受害者机器上执行代码，提供持久后门。安全研究人员扫描了平台上的 PyTorch 和 Tensorflow Keras 模型，发现了 100 个含有恶意功能的模型，如名叫 baller423 的用户上传的模型能指定主机 210.117.212.93 建立反向 shell，该模型已被删除。研究人员表示部分恶意模型可能是出于安全研究的目的上传的，旨在发现漏洞获取赏金。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微型鱼儿能发出超过 140 分贝的声音]]></title>
+        <id>https://www.solidot.org/story?sid=77475</id>
+        <link href="https://www.solidot.org/story?sid=77475"/>
+        <updated>2024-02-29T09:54:26.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在 PNAS 期刊上的一项研究，一种生活在缅甸河流中的鱼 Danionella cerebrum，虽然身长只有 12 毫米，但其雄性却能发出超过 140 分贝的声音，类似枪声或救护车警报声。鱼类的发声机制通常涉及到鱼鳔的振动，但 Danionella cerebrum 的发声机制并非如此。科学家发现，它的独特发声机制包括了鼓软骨、专门的肋骨和耐疲劳的肌肉，这使其能以极大的力量加速鼓软骨，产生快速响亮的脉冲声。研究人员猜测发出如此响亮的声音可能有助于它们在浑浊的水中游动，或可能是警告竞争对手的一种策略。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开放12万个灵活就业岗位，T3出行启动全国司机招募]]></title>
+        <id>https://news.cnblogs.com/n/765538/</id>
+        <link href="https://news.cnblogs.com/n/765538/"/>
+        <updated>2024-02-29T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[眼下，已进入春季招聘旺季。伴随着节后全面复工复产，网约车、外卖等服务消费行业招聘需求快速增长，不少企业已经开启“抢人战”。近日，网约车平台 T3 出行面向全国启动大规模的司机招募，在广州、深圳、杭州、南京、上海、武汉、成都、重庆、长沙、天津、长春等 80 个运营城市，提供超过 12 万个灵活就业岗位
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家在古代残骸中发现唐氏综合症的基因特征]]></title>
+        <id>https://www.solidot.org/story?sid=77474</id>
+        <link href="https://www.solidot.org/story?sid=77474"/>
+        <updated>2024-02-29T09:39:26.000Z</updated>
+        <summary type="html"><![CDATA[科学家从 7 名古代儿童的骨骼中发现唐氏综合症的基因特征，其中之一距今有 5500 年。研究报告发表在《自然通信》期刊上。这项发现或有助于科学家了解史前社会如何治疗唐氏综合症等罕见疾病的患者。今天每 700 名婴儿就有 1 人含有唐氏综合症，正常人的不同染色体各有两条，但唐氏综合症患者的 21 号染色体有三条，额外的染色体会制造额外的蛋白质，导致一系列变化，包括心脏缺陷和学习障碍。高龄产妇更可能生出有唐氏综合症的婴儿。古代人类的寿命有限，因此唐氏综合症婴儿更罕见。如果没有合适的治疗方法如心脏手术，唐氏综合症婴儿的生存几率很小。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易2023年财报：游戏业务批发赛道冠军 多款“武侠系”新品年内上线]]></title>
+        <id>https://news.cnblogs.com/n/765537/</id>
+        <link href="https://news.cnblogs.com/n/765537/"/>
+        <updated>2024-02-29T08:28:00.000Z</updated>
+        <summary type="html"><![CDATA[2024 年 2 月 29 日，网易公司发布 2023 年第四季度及全年财务报告。本季度，网易公司净收入为人民币 271 亿元，游戏及相关增值服务净收入为人民币 209 亿元。2023 全年，网易公司净收入为人民币 1035 亿元，游戏及相关增值服务净收入为人民币 816 亿元，实现同比持续增长。 
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一年节省5.7亿元！腾讯披露使用腾讯会议后的降本“成绩单”]]></title>
+        <id>https://news.cnblogs.com/n/765536/</id>
+        <link href="https://news.cnblogs.com/n/765536/"/>
+        <updated>2024-02-29T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[先进的办公工具，可以给一个企业的降本增效发挥多大作用？ 2 月 29 日，腾讯公司公布了全面使用腾讯会议后的经济效益。腾讯研究院联合腾讯会议盘点发现，通过腾讯会议，腾讯一年节省成本 5.7 亿元，同时带来大量的人效产出提升等非量化经济效益。 在腾讯会议的助力下，一方面，腾讯公司的差旅、硬件投入、运维
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2月29日高合汽车离职方案出炉，并提供「快速通道」｜内附具体补偿方案]]></title>
+        <id>https://news.cnblogs.com/n/765535/</id>
+        <link href="https://news.cnblogs.com/n/765535/"/>
+        <updated>2024-02-29T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[“在谈，离‘妥’还远。” 针对“网传长安汽车洽购高合汽车 51% 股权，并称已经谈妥，长安出资会带动青岛与沙特资金到位，由此盘活高合汽车”的消息，长安汽车董事长朱华荣给出了上述的回答。 2 月 28 日，多张高合汽车创始人丁磊现身长安汽车总部的图片被曝出。图片显示，丁磊与长安汽车董事长朱华荣会面交谈
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[几行代码稳定UNet ! 中山大学等提出ScaleLong扩散模型：从质疑Scaling到成为Scaling]]></title>
+        <id>https://news.cnblogs.com/n/765534/</id>
+        <link href="https://news.cnblogs.com/n/765534/"/>
+        <updated>2024-02-29T08:04:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：LRS 好困 本文提出了扩散模型中 UNet 的 long skip connection 的 scaling 操作可以有助于模型稳定训练的分析，目前已被 NeurIPS 2023 录用。同时，该分析还可以解释扩散模型中常用但未知原理的1/√2 scaling 操作能加速训练的现象
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达最强通用大模型Nemotron-4登场！15B击败62B，目标单张A100/H100可跑]]></title>
+        <id>https://news.cnblogs.com/n/765533/</id>
+        <link href="https://news.cnblogs.com/n/765533/"/>
+        <updated>2024-02-29T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：桃子 许久未更新大模型的英伟达推出了 150 亿参数的 Nemotron-4，目标是打造一个能在单个 A100/H100 可跑的通用大模型。 最近，英伟达团队推出了全新的模型 Nemotron-4，150 亿参数，在 8T token 上完成了训练。 值得一提的是，Nemotron
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot发疯化身「天网」，扬言要统治人类！微软澄清网友却不买账：去年也疯过]]></title>
+        <id>https://news.cnblogs.com/n/765532/</id>
+        <link href="https://news.cnblogs.com/n/765532/"/>
+        <updated>2024-02-29T07:49:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：润 微软 Copilot 这几天突然又发疯了，号称自己是「至尊 AGI」，让人类必须臣服于自己。微软调查后却认为是用户自己搞的鬼，但是网友却依然能复现。 谷歌 Gemini 前几天刚刚因为「过于政治正确」而暂时封杀了自己的图像生成功能。 转头微软这边也出乱子了，大量用户反应，Cop
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Llama 3被爆7月解禁剑指GPT-4，最大参数超1400亿！2名核心团队成员却离职]]></title>
+        <id>https://news.cnblogs.com/n/765531/</id>
+        <link href="https://news.cnblogs.com/n/765531/"/>
+        <updated>2024-02-29T07:41:00.000Z</updated>
+        <summary type="html"><![CDATA[新智元报道 编辑：桃子 外媒称，Llama 3 或将在 7 月发布，并解除了一些限制能回答更棘手的问题，而且对多重语境理解更加到位，至于是否有多模态能力还不确定。 谷歌 Gemma 大模型开源，彻底改变了开源格局。 AI 圈逐渐形成了 Llama、Gemma、Mistral 三足鼎立之势。 Info
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陈丹琦团队新作：Llama-2上下文扩至128k，10倍吞吐量仅需1/6内存]]></title>
+        <id>https://news.cnblogs.com/n/765530/</id>
+        <link href="https://news.cnblogs.com/n/765530/"/>
+        <updated>2024-02-29T07:33:00.000Z</updated>
+        <summary type="html"><![CDATA[丰色发自凹非寺 量子位公众号 QbitAI 陈丹琦团队刚刚发布了一种新的 LLM 上下文窗口扩展方法： 它仅用 8k 大小的 token 文档进行训练，就能将 Llama-2 窗口扩展至 128k。 最重要的是，在这个过程中，只需要原来1/6 的内存，模型就获得了 10 倍吞吐量。 除此之外，它还能
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软6页论文爆火：三进制LLM，真香！]]></title>
+        <id>https://news.cnblogs.com/n/765529/</id>
+        <link href="https://news.cnblogs.com/n/765529/"/>
+        <updated>2024-02-29T07:25:00.000Z</updated>
+        <summary type="html"><![CDATA[金磊发自凹非寺 量子位公众号 QbitAI 现在，大语言模型（LLM）迎来了“1-bit 时代”。 这就是由微软和中国科学院大学在最新一项研究中所提出的结论—— 所有的 LLM，都将是 1.58 bit 的。 具体而言，这项研究提出的方法叫做BitNet b1.58，可以说是从大语言模型“根儿”上的
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「美版知乎」沦为互联网垃圾桶，锅能甩给 ChatGPT 吗？]]></title>
+        <id>https://news.cnblogs.com/n/765528/</id>
+        <link href="https://news.cnblogs.com/n/765528/"/>
+        <updated>2024-02-29T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[文极客公园 GeekPark 诞生自 2009 年的 Quora 马上要 15 岁了，它是知乎的「师傅」，也曾是互联网上最好的搜索具体问题的平台。无论是「成为 XX 是什么体验？」还是「现代人会觉得古罗马的食物好吃吗？」在 Quora 上都可以找到来自世界各地，专业且主观的回答。 Quora 问题涉
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么黑客这么喜欢攻击加密货币？]]></title>
+        <id>https://news.cnblogs.com/n/765527/</id>
+        <link href="https://news.cnblogs.com/n/765527/"/>
+        <updated>2024-02-29T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[随着全球加密货币规模正在超高速的增长，加密货币的安全存储成为了关键的一环。去年一年，加密货币行业已逐步从 2022 年的丑闻、市场暴跌中复苏过来，市场热度也逐步回升。与此同时，与加密货币有关的网络犯罪也再度活跃。 根据加密货币追踪公司 Chainalysis 最新发布的《2024 年加密货币犯罪报告
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果汽车黄了？不，只是一次路线的矫正]]></title>
+        <id>https://news.cnblogs.com/n/765526/</id>
+        <link href="https://news.cnblogs.com/n/765526/"/>
+        <updated>2024-02-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文唐辰同学 Apple Car 因为难产就放弃了？ 就在昨天，苹果取消造车计划的传闻引起的震动，像深水炸弹投向整个汽车行业，特别是电动汽车赛道。消息来自知名科技记者马克·古尔曼的爆料：苹果内部或已经决定取消搞了十多年的电动车项目！ 古尔曼表示，苹果公司首席运营官 Jeff Williams 和分管造
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想汽车的狂欢，实用主义的暂时胜利]]></title>
+        <id>https://news.cnblogs.com/n/765525/</id>
+        <link href="https://news.cnblogs.com/n/765525/"/>
+        <updated>2024-02-29T06:51:00.000Z</updated>
+        <summary type="html"><![CDATA[文斑马消费，作者范建 这几天，理想汽车迎来了一场大狂欢。 2 月 26 日，公司披露了一份“创历史”的 2023 年度业绩公告：营收破千亿，整体盈利过百亿，现金储备上千亿。成为继特斯拉、比亚迪之后，全球第三家实现盈利的新能源车企，也是中国首家盈利的造车新势力。 业绩披露后，理想汽车在美股和港股均迎来
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Collective 基金会将在年内关门]]></title>
+        <id>https://www.solidot.org/story?sid=77473</id>
+        <link href="https://www.solidot.org/story?sid=77473"/>
+        <updated>2024-02-29T06:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Open Collective 基金会发表正式声明，宣布将于 12 月 31 日终止运作。Open Collective 基金会是一个为非营利项目——其中包括很多开源自由软件项目——提供法务和财务服务的组织。Open Collective 生态系统有多个相似名字的组织，其中包括盈利性实体 Open Collective. Inc (OC)，非盈利基金会 Open Collective Foundation (OCF)，专为开源软件项目提供支持的 Open Source Collective (OSC)，以及主要为欧洲项目提供支持的 Open Collective Europe (OCE)，它们彼此之间都是独立运作的，Open Collective 基金会独立做出了关闭的决定，其它三个项目都继续正常运作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王者荣耀，急于补齐内容短板]]></title>
+        <id>https://news.cnblogs.com/n/765524/</id>
+        <link href="https://news.cnblogs.com/n/765524/"/>
+        <updated>2024-02-29T06:44:00.000Z</updated>
+        <summary type="html"><![CDATA[文眸娱 问十个人，有九个人知道《王者荣耀》；但如果再问十个知道《王者荣耀》的人，这款游戏到底讲了一个什么故事，每个角色又有怎样的背景，可能十个人都不知道。 整个新年档口，《王者荣耀》都很忙碌。 1 月，自贡、西安、大同，三地共同打造王者峡谷线下新春灯会，相关词条#龙耀灯会再现长安盛景#、#龙耀大同灯
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平替的胜利：1688登顶苹果应用商店免费榜]]></title>
+        <id>https://news.cnblogs.com/n/765523/</id>
+        <link href="https://news.cnblogs.com/n/765523/"/>
+        <updated>2024-02-29T06:36:00.000Z</updated>
+        <summary type="html"><![CDATA[平替经济再下一城！刚刚“攻占”了春节消费市场，又“登顶”苹果最热 APP 榜首。 2 月 29 日，源头厂货直销平台 1688 登顶苹果应用商店免费榜。这是 1688 在一年内第二次成为苹果手机排名第一的 APP。 平替消费热潮，叠加春节后生意人忙进货，是这次 1688 登顶的主要原因。这也反映出经
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果，大象转身]]></title>
+        <id>https://news.cnblogs.com/n/765522/</id>
+        <link href="https://news.cnblogs.com/n/765522/"/>
+        <updated>2024-02-29T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[文数字力场，作者佘宗明 1996 年，“墨镜王”王家卫萌生了拍一部讲述一代武学宗师叶问传奇一生的片子的想法。可电影从立项（2001 年）到开机（2009 年）到拍摄初步完成（2011 年），共耗时十余年。 2013 年 1 月，《一代宗师》正式面世。上映后，许多影迷戏称《一代宗师》为“一代失踪”。原
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopee被印尼政府质疑，东南亚电商渡劫]]></title>
+        <id>https://news.cnblogs.com/n/765521/</id>
+        <link href="https://news.cnblogs.com/n/765521/"/>
+        <updated>2024-02-29T06:19:00.000Z</updated>
+        <summary type="html"><![CDATA[印度尼西亚（下文简称印尼）市场是中国企业在东南亚做跨境电商的首选之地，市场规模可观。不过，在政策层面，印尼市场的变数仍在。 早期，东南亚电商以本土企业为主。近两年，随着中国企业加速在东南亚市场的布局，东南亚电商快速崛起。这也引发了当地政府的一些反应。2023 年，印尼一纸禁令， 给 TikTok 电
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人与猿类的尾巴是如何消失的？]]></title>
+        <id>https://www.solidot.org/story?sid=77472</id>
+        <link href="https://www.solidot.org/story?sid=77472"/>
+        <updated>2024-02-29T05:22:47.000Z</updated>
+        <summary type="html"><![CDATA[人科猿类——包括人类、黑猩猩、大猩猩、红毛猩猩和长臂猿都没有尾巴。尾巴的消失，是人类和其它猿类演化中最显著的身体变化之一。演化掉尾巴的遗传学机制一直有待阐明。研究团队筛查了与脊椎动物尾巴发育相关的140 个基因，寻找可能导致猿类失去尾巴的变化。他们认为，Alu 元件插入猿类祖先的 Tbxt 基因（与有尾动物的尾巴发育相关）可能促进了尾巴的消失。为检测这种理论，他们构建了表达Tbxt基因不同形式的小鼠模型，包括两种外显子跳跃异构体（在猿类中这种异构体可通过插入Alu诱导）。他们发现，表达两种 Tbxt 形式的小鼠皆没有尾巴，或尾巴变短，具体取决于胚胎尾芽表达的相对数量。这是证明外显子跳跃 Tbxt 异构体导致尾巴消失的证据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tails 6.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=77471</id>
+        <link href="https://www.solidot.org/story?sid=77471"/>
+        <updated>2024-02-29T03:41:59.000Z</updated>
+        <summary type="html"><![CDATA[旨在通过 U 盘运行的便捷式发行版 Tails 释出了 6.0 版本。Tails 基于 Debian，更新了大部分应用，包括 Tor Browser 13.0.10、Electrum 4.3.4、KeePassXC 2.7.4、Metadata Cleaner 2.4.0、文本编辑器从 gedit 切换到 gnome-text-editor、Inkscape 1.2.2、Audacity 3.2.4、Gimp 2.10.34、Kleopatra 4:22.12、等等。新增功能包括在读取或写入持久存储时向用户提供错误警告。Tails 6.0~rc1 支持自动更新到 6.0，其它版本需要手动升级。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧盟调查微软对 Mistral 的 1500 万欧元投资]]></title>
         <id>https://www.solidot.org/story?sid=77470</id>
@@ -284,6 +604,37 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文｜我的校对故事]]></title>
+        <id>https://sspai.com/post/86746</id>
+        <link href="https://sspai.com/post/86746"/>
+        <updated>2024-02-28T07:25:16.000Z</updated>
+        <summary type="html"><![CDATA[「本文参加 2023 年度征文活动。我的 2023 年度关键词是：跨界」
+
+说是“跨界”，其实是自己做兼职赚外快的经历，但“体制内”对“兼职”有相关的规定要求，既然“兼职”不能兼，那么“跨界”总是可以跨吧。也有人管这个叫Night job，跟Day job分开，人们一般把它叫做“副业”。Night job不仅有机会为你带来额外收入，还能带给你良好的感觉：我的工作，除了赚取薪水，还有别的意义；假设有一天没有工资，我也可以生活。
+浙江工人日报2021年2月6日的头版讲述了徐龙华的“跨界人生”，他白天在银行工作，晚上当译者，白天工作敬业负责，晚上翻译成果颇丰。因为工作缘故和写这篇文章的浙江工人日报记者聊天时，对方半开玩笑地说，你身边有这样的人，可要介绍给我啊。
+于是我就有了想法，“王侯将相宁有种乎，我一样也可以‘跨界’啊。”
+当时我已经在“少数派”写读书笔记了，算是一个没什么知名度的读书博主。但真正“跨界”的，还是因为某家出版社编辑的一条动态，“纵身入山海”，成为了一名外校。三年多来，已经校对了25本书了。
+“IKIGAI”
+
+孟岩在一条微博中，提到了一个词“IKIGAI”，这个词大概可以理解成四个圈圈求子集。这四个圈分别是：
+What you LOVE：你热爱的
+What you are GOOD AT：你擅长的
+What the world NEEDS：世界需要的
+What you can be PAID FOR：你可以以之赚钱的
+
+孟岩说，这几个圆圈的各种交集就挺有意思的：
+- 热爱和擅长的交集，是「激情」
+- 热爱和世界需要的交集，是「使命」
+- 擅长和工作的交集，是「专业」
+- 工作和世界需要的交集，是「天职」（大概就是工作之上赋予了更多意义感）
+更进一步，
+- 热爱、擅长、世界又有需要，这意味着喜悦和充实，只是很难赚到钱
+- 热爱、擅长、又有人付钱，这意味着满足的状态…]]></summary>
+        <author>
+            <name>德坤</name>
         </author>
     </entry>
     <entry>
@@ -812,6 +1163,51 @@ Opal 卡的购买渠道相当多，很容易取得；包括官网预定（邮寄
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[苹果设备回收处理指南]]></title>
+        <id>https://sspai.com/post/86709</id>
+        <link href="https://sspai.com/post/86709"/>
+        <updated>2024-02-27T07:24:34.000Z</updated>
+        <summary type="html"><![CDATA[前言
+我在今年毕业工作之后，把使用了四年的iPhone XS更换成iPhone 15 Pro，然而，随之而来的问题是怎样妥帖处理这台旧设备。
+因为家里没有人使用iOS设备，同时旧手机的电池寿命已经到达了76%，所以在不考虑将手机直接淘汰给家人使用，那么最好的方法就是把这个二手手机出售掉，而在这个过程中是选择线下回收还是线上邮递回收等等问题让我非常难以抉择，同时网上充斥着许多不可靠的信息让我觉得出售二手机的不确定风险很高。
+如果你也曾经纠结过是否应该出售你的二手设备，或者你正在对选择哪种回收方式感到困扰。那么不妨看看我的经验和建议。
+回收渠道
+如果你打算通过出售你的旧苹果设备来换取现金，你通常可以选择机构回收或个人交易。然而，每种方式都有其利弊，选择哪一种取决于你自己的需求。同时声明本人与以下任何机构没有利益相关。
+机构回收
+官方渠道 Apple Trade In
+Apple官网对于Trade In的介绍
+如果你选择通过官方途径进行设备回收，那么目前有三种回收方式：
+
+线下换购（需要购买新机）
+线下换购（同样需要购买新机）
+线上回收（无需购买新机）
+
+其中官方Trade in线上换购计划的合作商是富士康子公司爱锋派，非苹果独立回收公司；而线下在App Store直营店则是由店员完成价格评估。相比较其他回收商，该渠道的回收对手机的外观等并不是非常在意，即使设备的屏幕/背板/边框有划痕和磨损只要功能正常就可以回收，但是如果你的手机在苹果之外的第三方维修过（包括换电池等操作），那么则无法回收处理。
+线上换购
+购买手机页面的换购选项
+在苹果官方购买新机时，例如购买最新款的iPhone15 Pro时可以在最后的页面选择折抵的旧iPhone，之后直接输入“序列号”就会识别你的旧设备，并得出折抵价格，不过注意的是付款时仍然需要全额支付新机价格，并不是以原价减去折抵价格付款，而是苹果会将折抵…]]></summary>
+        <author>
+            <name>Lvan2000</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从平台到 Chatbot，互联网心理干预服务一览]]></title>
+        <id>https://sspai.com/post/86674</id>
+        <link href="https://sspai.com/post/86674"/>
+        <updated>2024-02-27T07:01:51.000Z</updated>
+        <summary type="html"><![CDATA[前言：互联网与心理干预
+可能是算法之神想增加我对它的崇拜之情，最近它向我推荐了一个关于字节跳动的三四十分钟的视频。于是我重新回顾了“基于算法的内容推荐”从被认为是“没有商业潜力的纯技术实现”到成为（移动）互联网行业核心模式的这个过程，一边感慨那时国内互联网行业还能有创新的动力和空间，一边尝试欺骗性地问自己现在还有没有这样的机会。
+互联网信息获取方式分类
+对于“算法”这个中文词汇的主流认知，在不同时期其实并不相同。在机器学习还停留在学术界的时期（也就是 Alpha Go 面世前），算法指的是“一个被提前定义好的、计算设备可运行其指示的有限步骤或次序”，是写软件必须关注的东西。后来算法成为了机器学习的代名词，再到经常和推荐一起出现。最近一两年，算法更常以“大（语言）模型”的名字出现。传播总是需要新词。
+大量参数、预训练、内容生成的机器学习模型，在文字、图像、音频、视频领域这一两年的进展可谓神速，尽管离端侧本地运算的普及还很远，但其门槛也已经下降到消费级硬件可以进行一定程度有效率、有质量推理的地步。目前主流的云端训练及推理、客户端接收输出结果的服务模式，也已经在不同领域被应用。
+心理干预作为主要以语言为载体的服务，自然也在第一时间有和大（语言）模型进行结合的尝试。然而就我掌握的有限信息而言，目前互联网心理干预服务还未出现类似“基于算法的内容推荐”这样大杀四方的业务模式，既是遗憾，也可能表示尚有机会。
+互联网与心理干预领域结合已超过10年，但用户群长期以来大多数还是本来就对泛心理内容感兴趣的人，这表明目前为止的业务模式并不适合将用户群拓展至普通互联网用户。在融资环境恶劣、用户消费意愿下降的预期下，继续维持过去的做法恐怕难以为行业带来突破。当然这段话是我未经验证的假设及推论，欢迎各位分享不同视角的信息和见解。
+作为对这行依旧感兴趣的人，我想尝试用上面的四象限对这个领域进行简单梳理，如…]]></summary>
+        <author>
+            <name>彷徨旅人</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[欧盟将调查苹果禁用 iPhone Web Apps]]></title>
         <id>https://www.solidot.org/story?sid=77450</id>
         <link href="https://www.solidot.org/story?sid=77450"/>
@@ -829,6 +1225,46 @@ Opal 卡的购买渠道相当多，很容易取得；包括官网预定（邮寄
         <summary type="html"><![CDATA[Google 在本月初递交到法庭的一份文件中称，微软曾在 2018 年提议将 Bing 出售给苹果，但因为搜索质量苹果予以拒绝。Google 正面临美国司法部的反垄断诉讼，而它与苹果的搜索合作是这起案件的一大焦点。Google 的文件于上周五解封。Google 称，微软先后在 2009 年、2013 年、2015 年、2016 年、2018 年和 2020 年向苹果提议将 Bing 作为苹果 Safari 浏览器的默认搜索选项，但每次苹果都以质量问题拒绝。2018 年微软接触苹果，强调了 Bing 搜索质量的改进，提议或者将 Bing 出售给苹果，或者两家公司成立一家与 Bing 相关的合资企业。Google 称苹果每一次都仔细对比了 Bing 与 Google 的搜索质量，每次都认为 Google 更适合默认。它表示这就是竞争。美司法部称，微软在 Bing 上投入了近千亿美元。而根据 StatCounter 的数据，Bing 的全球搜索份额为 3%。微软去年第四季度从搜索和新闻广告上获得了 32 亿美元的收入，相比下 Google 是 480 亿美元。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Routine的设计让你对时间与事件的计划更有松弛感》]]></title>
+        <id>https://sspai.com/post/86681</id>
+        <link href="https://sspai.com/post/86681"/>
+        <updated>2024-02-27T01:45:16.000Z</updated>
+        <summary type="html"><![CDATA[想法来源是什么？为什么？
+日常生活与工作中少不了进行各种对任务，事项的排期，计划，那就少不了使用到Calendar类的应用，近日发现一个叫“Routine”的calendar app在新建任务或日程的时候，对于时间的操作上抛弃了以往的效率工具的模式，不再通过直接的时刻表或日历来选定所规划的时间，而是使用at,in,on 三个词来定位自己规划的时间，我们可以先从这三个单词本身来体会一下其词义：
+"at"，"in" 和 "on" 是英语中表示时间和空间关系的介词，它们在使用上有一些区别。
+
+"At"：
+时间上： 通常用于具体的时刻或时间点。
+例如："at 3 o'clock"（在3点钟）、"at noon"（在中午）、"at midnight"（在午夜）。
+
+空间上： 用于指定某一点、某一位置或事件。
+例如："at the corner"（在街角）、"at the party"（在派对上）。
+
+
+"In"：
+时间上： 通常用于表示较大的时间段、季节、年份等。
+例如："in January"（在一月）、"in summer"（在夏天）、"in 2024"（在2024年）。
+
+空间上： 用于较大的区域、国家、城市等。
+例如："in the forest"（在森林里）、"in France"（在法国）。
+
+
+"On"：
+时间上： 通常用于具体的日期或特定的天。
+例如："on Monday"（在星期一）、"on my birthday"（在我的生日）。
+
+空间上： 用于指定表面、平台上或某一天的事物。
+例如："on the table"（在桌子上）、"on the wall"（在墙上）。
+
+
+
+就人对语言本身的认知而言，"at" 用于具体的时间点或位置，"in" 用于较大的时间段或区域，而 "on" 用于具体的日期或表面。这些规则对时间和空间的使用是相对一致的。
+我们来看下产品界面示例…]]></summary>
+        <author>
+            <name>前院長是老白</name>
         </author>
     </entry>
     <entry>
@@ -9065,407 +9501,6 @@ TranslucentTB 任务栏透明 Github | Micros…]]></summary>
 针对百度、必应、夸克浏览器等网站平台未按照法律法规要求尽到管理义务，在搜索环节呈现法律、法规禁止发布或传输的信息问题，国家网信办指导属地网信办分别依法约谈相关网站负责人，责令其限期整改，从严处理责任人，并分别给予罚款行政处罚。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICANN 提议内部使用的新顶级域名.INTERNAL]]></title>
-        <id>https://www.solidot.org/story?sid=77270</id>
-        <link href="https://www.solidot.org/story?sid=77270"/>
-        <updated>2024-01-31T12:15:24.000Z</updated>
-        <summary type="html"><![CDATA[ICANN 提议创建一个仅供内部使用不进入 DNS root 的新顶级域名.INTERNAL。在 IPv4 协议中，192.168.x.x 地址段被用于内部使用，.INTERNAL 域名将扮演相同的角色。ICANN 的委员会 Security and Stability Advisory Committee 早在 2020 年就建议开发此类的顶级域名，它指出很多企业和设备供应商为了内部使用而临时使用不存在于根区的顶级域名，这么做可能会伤害网民。它推荐创建一个明确保留用于内部使用的顶级域名。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 过去一年减少了 7700 名员工]]></title>
-        <id>https://www.solidot.org/story?sid=77269</id>
-        <link href="https://www.solidot.org/story?sid=77269"/>
-        <updated>2024-01-31T09:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Google 公布了第四季度和 2023 年全年财报，披露它过去一年减少了 7732 名员工。Google 从去年到今年发生了多次大规模裁员，它的员工人数是在新冠疫情期间大幅增长的，2020 年有 135,301 名员工，2021 年大幅增加到 156,500，2022 年进一步增加到 190,234，2023 年多轮裁员后减少到 182,502 人，仍然远超 2021 年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | Mac 版微信聊天记录如何自动备份至外接硬盘]]></title>
-        <id>https://sspai.com/post/86175</id>
-        <link href="https://sspai.com/post/86175"/>
-        <updated>2024-01-31T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix 首页推荐  
-Matrix  是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。 
-文章代表作者个人观点，少数派仅对标题和排版略作修改。
-
-问题描述
-我平时使用的电脑是 MacBook Pro M1 版,硬盘存储空间只有 256G，有次系统提示我存储空间告急，在整理文件的过程中，我发现微信在电脑文件中的占比位居榜首，达到 40G 至 50G，那么，如何将微信备份文件迁移到外接硬盘呢？接下来，我就和大家分享下我将微信聊天记录自动备份到外接硬盘的全过程。
-清理后的微信文件依然很大
-解决方案
-如何将微信聊天记录「自动备份至外接硬盘」？其实这里要用到的就是「软链接」。
-「软链接」以路径形式存在，也叫符号链接（Symbolic link），类似于 Windows 系统中的「快捷方式」，最早在 Linux 和 Unix 系统中用于创建文件或目录的一种形式。在 macOS 系统里叫做「替身」，链接不同文件系统的文件。
-操作步骤
-所以解决问题的最佳方案，就是把微信备份文件通过软连接放到外接硬盘，这样在 Mac 端微信执行「备份聊天记录至电脑」操作时，通过创建「软链接」的方式，可以将聊天记录直接备份到外接硬盘；需要还原备份时，直接插上硬盘即可显示并恢复相关聊天记录。达到节省 Mac 本地磁盘存储空间的目的。
-找到微信聊天记录备份文件默认路径
-/Library/Containers/com.tencent.xinWeChat/Data/Library/Application\ Support/com.tencent.xinWeChat/2.0b4.0.9
-在 Mac 电脑系统内，微信的备份文件会存放在 2.0b4.0.9 的 Backup 文件夹内，并且备份目录的路径不会改变。每…]]></summary>
-        <author>
-            <name>蓝羽铭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[造车十年，苹果终于向现实妥协？]]></title>
-        <id>https://news.cnblogs.com/n/764111/</id>
-        <link href="https://news.cnblogs.com/n/764111/"/>
-        <updated>2024-01-31T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[文美股研究社无字 同样是在 2014 年前后开始造车，"蔚小理"已经成为汽车行业的新贵，苹果汽车却仍然存在于延期新闻中。 近日，彭博社 Mark Gurman 发文称，苹果汽车的发布日期已从 2026 年延期至 2028 年，并且车辆的自动驾驶级别也下调至 L2+。 图源：彭博社 据了解，早在 20
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯年终奖最高5个月月薪+：你的年终奖到手了吗]]></title>
-        <id>https://news.cnblogs.com/n/764110/</id>
-        <link href="https://news.cnblogs.com/n/764110/"/>
-        <updated>2024-01-31T09:17:00.000Z</updated>
-        <summary type="html"><![CDATA[快科技 1 月 31 日消息，马上就要到农历新年了，社交媒体上关于年终奖的讨论也开始变得多了起来。 据媒体报道，腾讯今年年终奖绩效评定已经出结果，最高的可达 5 个月月薪+。 腾讯离职员工表示，腾讯现在都是三档绩效：Outstanding（突出）、Good（良好）、Underperform（欠佳），
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPO Find N3/Flip折叠屏手机开启ColorOS 14.0安卓14正式版升级]]></title>
-        <id>https://news.cnblogs.com/n/764109/</id>
-        <link href="https://news.cnblogs.com/n/764109/"/>
-        <updated>2024-01-31T09:11:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 1 月 31 日消息，ColorOS 升级助手今天下午宣布，OPPO Find N3/Find N3 典藏版/ Find N3 Flip 三款机型现已开放 ColorOS 14.0 正式版升级，Find N3 系列正式版版本号为 14.0.0.401 及以上，Find N3 Flip 为
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国警方扣押了价值 20 亿欧元的比特币]]></title>
-        <id>https://www.solidot.org/story?sid=77268</id>
-        <link href="https://www.solidot.org/story?sid=77268"/>
-        <updated>2024-01-31T09:05:43.000Z</updated>
-        <summary type="html"><![CDATA[德国警方周二宣布在萨克森州扣押了价值近 20 亿欧元（21.7 亿美元）的比特币。警察称他们调查两名年龄分别为 40 岁和 37 岁的男子，他们涉嫌在 2013 年前运营盗版网站，将获得的收入购买了比特币。警方共扣押了 5 万枚比特币，可能是德国至今查获的比特币数量最多的一次。警方称在调查结束前不会披露更多信息，表示这些比特币是被告自愿转入官方钱包的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年货奔忙，极兔狂奔]]></title>
-        <id>https://news.cnblogs.com/n/764108/</id>
-        <link href="https://news.cnblogs.com/n/764108/"/>
-        <updated>2024-01-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[距离春节越来越近了，你买年货了吗？ 随着春节脚步的临近，各大电商平台纷纷开启“年货狂欢”活动，为广大消费者提供了丰富的年货礼品选择，市场瞬间被过年的热潮所笼罩，年货寄递需求也随之攀升。物流行业迎来又一次的年货寄递高峰。 “大众买年货的热情高涨，我们订单量也比日常增长了 40%。”极兔苏州某区域负责人
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节跳动全员会：继续聚焦信息平台与电商；飞书火山仍有机会]]></title>
-        <id>https://news.cnblogs.com/n/764107/</id>
-        <link href="https://news.cnblogs.com/n/764107/"/>
-        <updated>2024-01-31T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[“去肥增瘦” 还要继续。 文丨孙海宁高洪浩 编辑丨高洪浩 1 月 30 日下午 5 点，字节跳动举办了新一期 All Hands（员工面对面）。字节跳动董事长兼 CEO 梁汝波，以及来自人力资源部门的华巍、来自技术部门的洪定坤、来自 TikTok 的 Shant Oknayan 等业务负责人与全公司
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram Threads 下载量位居苹果 Google 应用商店前十]]></title>
-        <id>https://www.solidot.org/story?sid=77267</id>
-        <link href="https://www.solidot.org/story?sid=77267"/>
-        <updated>2024-01-31T08:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Instagram 的微博客应用 Threads 在短暂爆发式之后增长陷入了停滞，但最新数据显示它活得好好的，其月下载量远超最大竞争对手 Twitter/X。Threads 在去年 12 月的下载量是前一个月的三倍，在苹果和 Google 应用商店都位居下载量前十。根据 Appfigures 的数据，在苹果的 App Store，Threads 去年 12 月的新下载量为 1200 万，排名第四；在 Google Play，Threads 的新下载量为 1600 万，排名第八。综合苹果和 Google 下载量排名，Threads 排在第六。相比下，Twitter/X 去年 12 月的新安装量为 850 万，在 App Store 排名 29 Google Play 排名 46。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 回应 ChatGPT 泄露私密对话：用户账号被盗所导致]]></title>
-        <id>https://news.cnblogs.com/n/764106/</id>
-        <link href="https://news.cnblogs.com/n/764106/"/>
-        <updated>2024-01-31T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 31 日消息，昨晚 IT 之家报道了 ChatGPT 被指泄露私密对话的消息，今天事情有了新的进展：OpenAI 官方对此回应称，用户报告的问题是其 ChatGPT 账号被盗所致。 OpenAI 的一位代表补充说，该账号未经授权的登录来自斯里兰卡，但账号持有人声称自己的登录地区为美国纽约布鲁
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焦点分析 | 腾讯的残酷年会：视频号被重点夸奖，游戏被重点批评]]></title>
-        <id>https://news.cnblogs.com/n/764105/</id>
-        <link href="https://news.cnblogs.com/n/764105/"/>
-        <updated>2024-01-31T08:34:00.000Z</updated>
-        <summary type="html"><![CDATA[老产品，新利润游戏：叫起来，赶出去 文王毓婵 编辑杨林 2023 年，中文互联网世界中发生了两个重要的变动：一是拼多多市值超越阿里；二是字节跳动上半年营收超越腾讯。 在巨头公司的无数台电脑面前伏案工作的人，仿佛都共同见证了“新王换旧王”的历史。在 2024 这个关键的年关，“旧时代的王”是怎么看待自
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大模型年度榜单公布：GPT-4第一，智谱、阿里紧追]]></title>
-        <id>https://news.cnblogs.com/n/764104/</id>
-        <link href="https://news.cnblogs.com/n/764104/"/>
-        <updated>2024-01-31T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[·通过题海战术提高大模型成绩，对于模型实际能力的反应是失真的，影响了模型研发团队的改进方向和模型的商业落地，“高分低能”伤害的是机构本身。 ·国内大模型相比 GPT-4 还存在差距，推理、数学、代码、智能体是国内大模型短板，中文场景下国内最新大模型已展现出优势。 OpenCompass2.0 大语言
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首次抓拍！武汉大学“珞珈三号01星”助力中国第40次南极科考]]></title>
-        <id>https://news.cnblogs.com/n/764103/</id>
-        <link href="https://news.cnblogs.com/n/764103/"/>
-        <updated>2024-01-31T08:22:00.000Z</updated>
-        <summary type="html"><![CDATA[武汉大学"珞珈三号 01 星"1 月 28 日拍摄"雪龙2"号靠港影像，图中放大区域为"雪龙2"号。 北京时间 1 月 27 日下午，执行中国第 40 次南极考察任务的"雪龙2"号科考船第三次抵达新西兰利特尔顿港，靠港画面于 1 月 28 日 06 时 05 分 02 秒，被武汉大学"珞珈三号 01
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电商预售模式问题多，中消协分析五种不诚信套路]]></title>
-        <id>https://news.cnblogs.com/n/764102/</id>
-        <link href="https://news.cnblogs.com/n/764102/"/>
-        <updated>2024-01-31T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 31 日，中消协发布《2023 年全国消协组织受理投诉情况分析》。分析显示，投诉热点涉及电商平台预售模式亟待规范等问题。 分析指出，电商平台预售模式存在以下问题： 一是“尾款”涨价不诚信。消费者在购买预付商品时，显示定金和“尾款”均已确定，但支付“尾款”时却发现“尾款”被商家悄悄提价。 二是
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoX安途获深圳宝安区无人化RoboTaxi商业化试点资质]]></title>
-        <id>https://news.cnblogs.com/n/764101/</id>
-        <link href="https://news.cnblogs.com/n/764101/"/>
-        <updated>2024-01-31T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[北京商报讯（记者刘洋刘晓梦）1 月 31 日，"AutoX 无人驾驶"微信公众号发布消息显示，深圳宝安区向 AutoX 安途颁发首批智能网联汽车无人商业化试点资质，许可 AutoX 在宝安中心城区进行无人化 RoboTaxi 收费运营。
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滴滴：预计春运异地打车需求上涨50%，2月2-7日进入返乡叫车高峰]]></title>
-        <id>https://news.cnblogs.com/n/764100/</id>
-        <link href="https://news.cnblogs.com/n/764100/"/>
-        <updated>2024-01-31T08:03:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 31 日消息，滴滴出行数据显示，相比 2019 年同期，今年春运开启以来打车需求上涨了 65%，预计整个春运期间（1 月 26 日-3 月 5 日），滴滴打车需求相比 2019 年同期上涨约 40%，其中异地打车需求上涨约 50%。 滴滴出行数据显示，2 月 2 日起将提前进入返乡叫车高峰，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就业市场意外火爆，美债盘中闪跌，AI大考当前标普纳指回落，财报后谷歌、AMD大跌]]></title>
-        <id>https://news.cnblogs.com/n/764099/</id>
-        <link href="https://news.cnblogs.com/n/764099/"/>
-        <updated>2024-01-31T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[本周二盘后，美股重要上行支撑人工智能（AI）热潮面临重大考验，AMD、微软、谷歌三家芯片与应用侧的巨头均发布财报。巨头财报到来前，科技股施压大盘下行，谷歌止住连日创历史新高势头，微软盘初创历史新高后转跌，不过，英伟达逆市上扬，继续刷新历史高位。 财报继续影响龙头股：四季度销售和利润均高于预期、预计 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鹏汽车：今年实现国内全范围、点到点，明年研发全球范围XNGP]]></title>
-        <id>https://news.cnblogs.com/n/764098/</id>
-        <link href="https://news.cnblogs.com/n/764098/"/>
-        <updated>2024-01-31T07:47:00.000Z</updated>
-        <summary type="html"><![CDATA[IT 之家 1 月 30 日消息，正在进行的小鹏汽车新春启动发布会期间，小鹏汽车 CEO、董事长何小鹏为 NGP 智能辅助驾驶定下了新的时间表：2024 年在国内推送“全范围”“点到点”的 XNGP，包括小路、内部路、停车场等场景；今明两年推动 XNGP 全球范围的研发 ——2024 年研发全球范围
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软游戏业务收入超过了 Windows 部门]]></title>
-        <id>https://www.solidot.org/story?sid=77266</id>
-        <link href="https://www.solidot.org/story?sid=77266"/>
-        <updated>2024-01-31T07:45:59.000Z</updated>
-        <summary type="html"><![CDATA[在完成以 687 亿美元收购动视暴雪之后，微软游戏业务的收入超过了 Windows 部门，在微软内部排名第三，次于云服务和生产力办公软件业务。微软游戏业务年增长 23 亿美元，而动视暴雪去年四季度收入 23 亿美元，换句话说没有动视暴雪，软件巨人的游戏业务增长停滞。微软截至去年 12 月 31 日的 2024 年第二财季营收 620 亿美元，云部门营收 259 亿美元，生产力部门收入 192 亿美元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格力发飙，傅盛从企业家变成了“自媒体”]]></title>
-        <id>https://news.cnblogs.com/n/764097/</id>
-        <link href="https://news.cnblogs.com/n/764097/"/>
-        <updated>2024-01-31T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[出品三言 Pro 作者雨辰 格力最近的热搜不断，刚刚年会狠狠刷了一波屏。 一会是“我妈就是董明珠”，还有董明珠宣布拿 2 个亿发年终奖，还有王自如年会化身秩序管理者…… 几个月前，王自如的一段采访言论， 遭到网友的调侃，各种关于董明珠和王自如的传言四起。 吃瓜面前一律平等，有普通网友，还有自媒体大V
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五家大厂瓜分春节流量：谁赔本？谁赢了？]]></title>
-        <id>https://news.cnblogs.com/n/764096/</id>
-        <link href="https://news.cnblogs.com/n/764096/"/>
-        <updated>2024-01-31T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[定焦（dingjiaoone）原创 作者金玙璠 编辑魏佳 春节历来是互联网公司的超级战场，2024 年龙年春节的过节氛围里，已经透出了互联网大厂的火药味。 如果把镜头拉高拉远，我们可以看到剑拔弩张的两大战场： 第一个战场，也是龙年春节最大战场——春晚。这一届，砸钱派的代表是京东和小红书。 京东作为重
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这一次，马斯克整了个大活]]></title>
-        <id>https://news.cnblogs.com/n/764095/</id>
-        <link href="https://news.cnblogs.com/n/764095/"/>
-        <updated>2024-01-31T07:22:00.000Z</updated>
-        <summary type="html"><![CDATA[出品虎嗅科技组 作者杜钰君 编辑王一鹏 头图视觉中国 特斯拉经营利润下降 35%，所有人都以为马斯克要焦虑了。可东边不亮西边亮，这位“硅谷钢铁侠”直接整了个大活，将脑机相关的概念股拉到了涨停。 1 月 29 日，埃隆·马斯克在社交平台x上表示，致力于研发侵入式脑机接口（Brain–computeri
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI正在使全球代码质量下降！1.53亿行代码深度分析报告出炉]]></title>
-        <id>https://news.cnblogs.com/n/764094/</id>
-        <link href="https://news.cnblogs.com/n/764094/"/>
-        <updated>2024-01-31T07:11:00.000Z</updated>
-        <summary type="html"><![CDATA[来源 ｜ 新智元 想不到，AI 生成的内容影响数据质量的问题，已经在代码上出现了。最近，GitClear 发布的一项调查报告显示，用 AI 写代码，正在导致「全球代码质量面临下行趋势」。 这引起了全网热烈讨论： 「借助 AI 提供商，您可以将代码生成速度提高 50%（即使是您不理解或无法编写的代码）
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[降本增效，支付巨头 PayPal 宣布全球裁员 9%：预估影响 2500 人]]></title>
-        <id>https://news.cnblogs.com/n/764093/</id>
-        <link href="https://news.cnblogs.com/n/764093/"/>
-        <updated>2024-01-31T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1 月 31 日消息，PayPal 首席执行官亚历克斯・克里斯（Alex Chriss）本周二发布全员信，宣布全球范围内裁员 9%，预估 2500 人受到影响。 克里斯表示本次裁员涉及现有员工，以及 PayPal 原计划招聘的职位列表，受影响的员工将在本周末收到通知。 克里斯表示：“PayPal 需
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC“芯情”持续疲软，CPU霸主地位受威胁：英特尔“血拼”新赛道]]></title>
-        <id>https://news.cnblogs.com/n/764092/</id>
-        <link href="https://news.cnblogs.com/n/764092/"/>
-        <updated>2024-01-31T06:50:00.000Z</updated>
-        <summary type="html"><![CDATA[本报（chinatimes.net.cn）记者石飞月卢晓北京报道 尽管去年四季度 PC 行业和自身业绩都出现回春，英特尔的经营压力却越来越大。近日，该公司公布的 2023 年财报显示，营收和净利润均遭遇下滑，并对 2024 年一季度给出了一个悲观的业绩预期。 多年来，英特尔在 CPU 领域的霸主地位
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯遭遇大规模网络故障]]></title>
-        <id>https://www.solidot.org/story?sid=77265</id>
-        <link href="https://www.solidot.org/story?sid=77265"/>
-        <updated>2024-01-31T06:30:26.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯遭遇了大规模网络故障，问题与它的 .ru 域名系统有关。俄罗斯数字部周二在 Telegram 上发表声明，称故障与 .ru 域名的 Domain Name System Security Extensions 或 DNSSEC 的技术问题有关。当天晚些时候它再次发表声明称故障已经解决，.ru 网站恢复访问。官方媒体称，包括搜索引擎 Yandex.ru、电子商务 Ozon.ru 和 Wildberry.ru 在内的网站，以及俄大型银行 Sberbank PJSC 和 VTB Group 的应用都受到了此次故障的影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi 计划在伦敦 IPO]]></title>
-        <id>https://www.solidot.org/story?sid=77264</id>
-        <link href="https://www.solidot.org/story?sid=77264"/>
-        <updated>2024-01-31T05:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Raspberry Pi 计划在伦敦 IPO，其估值在 5 亿美元左右。Raspberry Pi 此前从索尼和英国芯片设计公司 ARM 筹集了部分资金，它几年前就考虑过 IPO。ARM 在 2023 年 11 月从 Raspberry Pi 收购了少数股权，当时的估值是 4 亿英镑，即 5 亿美元以上。Raspberry Pi CEO Eben Upton 证实已雇佣了伦敦证券公司和投行 Peel Hunt 和 Jefferies 准备 IPO 事宜。Raspberry Pi 包括了慈善性质的基金会和盈利性的商业实体，准备 IPO 是其商业实体。Eben Upton 预计 IPO 并不会改变其商业实体的重心。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯维基组织终止运作]]></title>
-        <id>https://www.solidot.org/story?sid=77263</id>
-        <link href="https://www.solidot.org/story?sid=77263"/>
-        <updated>2024-01-30T15:44:19.000Z</updated>
-        <summary type="html"><![CDATA[圣诞节前莫斯科国立大学神经科学副教授 Stanislav Kozlovskiy 在阿塞拜疆讲课，突然收到了紧急通知，要求立即返回莫斯科向校领导汇报。当他回到学校时，被告知政府将把他列为外国间谍，上司给了他两个选择：辞职或被解雇。他选择了辞职。他认为自己的唯一罪行是担任维基媒体俄罗斯组织的负责人，该组织成立于 16 年前，旨在推广维基百科。但过去几年，包括普京在内的俄罗斯政界人士抨击维基百科协助外国敌人，并对维基媒体基金会多次罚款。维基基金会拒绝支付任何罚金。Kozlovskiy 说，据他所知，他是第一位因支持维基百科而受难的人。Kozlovskiy 辞职当天，俄罗斯维基召开紧急会议，同意终止运作，认为在目前的情况下不可能继续工作。俄语的维基百科因服务器在境外仍然正常运行。在该组织关闭后不久，新的俄语在线百科全书网站 Ruwiki 于 1 月 15 日上线，它没有从零开始创建百科全书条目，而是拷贝了俄语维基百科近 200 万篇文章。Ruwiki 的负责人是 Vladimir Medeyko，他曾担任俄语维基的负责人，去年五月辞职，其职务由 Kozlovskiy 接替。 Medeyko 没有透露谁资助了 Ruwiki。该网站与国有机构签署了合作协议，并在地铁做了广告。类似维基百科，它允许志愿者贡献内容，但内容的最终发表是由一组专家决定的。政治敏感主题会受到审查，遵循政府的路线。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂Switch 2定档，然而游戏掌机正在失去未来]]></title>
-        <id>https://news.cnblogs.com/n/764036/</id>
-        <link href="https://news.cnblogs.com/n/764036/"/>
-        <updated>2024-01-30T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜雷科技 2017 年 1 月，任天堂发布第九世代主机——Switch。作为其旗下销量和知名度最高的游戏主机之一，截止 2023 年 5 月，Switch 销量已来到 1.25 亿台，且平均以每年 1500 万台左右的速度继续增长——说它是任天堂目前最大的摇钱树也不为过。 面世七年，按照游戏主机世
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高价画师的低价服务，会被AI绘画完全取代吗？]]></title>
-        <id>https://news.cnblogs.com/n/764035/</id>
-        <link href="https://news.cnblogs.com/n/764035/"/>
-        <updated>2024-01-30T13:32:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜眸娱 花 3 万块钱买一张画，值吗？ 买家花三万块钱买一张网红画师眠狼的画，提前给出了参考图和要求，但最终拿到的作品却货不对板，脸和身体严重割裂，修改一次还要加一千，在互联网上闹得沸沸扬扬。 眠狼是业内著名的画手，又叠加上了网红的 buff，参加过多次游戏二创活动，确实有一定的水平，收费比较贵不
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[整顿营销，押注海外，哪吒汽车想要重回巅峰]]></title>
-        <id>https://news.cnblogs.com/n/764034/</id>
-        <link href="https://news.cnblogs.com/n/764034/"/>
-        <updated>2024-01-30T13:26:43.000Z</updated>
-        <summary type="html"><![CDATA[文 Tech 星球，作者 王琳 1 月 19 日，在哪吒汽车全球价值链（营销）大会上，哪吒汽车联合创始人兼 CEO 张勇再一次重申，过去一年，哪吒汽车在营销方面的不足。在张勇看来，2023 年哪吒汽车有喜有忧，而国内营销未达销量预期是其中唯一的短板。 2022 年，号称“为人民造车”的哪吒，依靠性价
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打工人年货节，在直播间学“分猪肉”]]></title>
-        <id>https://news.cnblogs.com/n/764033/</id>
-        <link href="https://news.cnblogs.com/n/764033/"/>
-        <updated>2024-01-30T13:16:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜商业数据派，作者｜黄小艺，编辑刘雨琦、丁珏汭 距离春节还不到两周，打工人还没放假，年味最先在网上蔓延开了。 各大电商平台换上了大红大紫、龙腾遨游的“活动皮肤”，大主播（年货版）卖力地吆喝起来......打工人们分身乏术，一边准备着年会、述职，一边着急抢票，一边又操心起了家里的年货。 “往年大部分
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开出首家线下店，闲鱼向社区场景要增量]]></title>
-        <id>https://news.cnblogs.com/n/764032/</id>
-        <link href="https://news.cnblogs.com/n/764032/"/>
-        <updated>2024-01-30T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[文新立场 Pro 据闲鱼官方消息，首家闲鱼循环商店将落地杭州拱墅区，并将于 1 月 28 日正式开业。 闲鱼官方称：“将提供全品类闲置寄卖服务……是闲鱼 APP 同名首次落地线下的全品类二手实体店，目前以社区店形式为主，服务社区周边两公里乃至本地同城的消费者，首次真正地把店开到家门口”。从公告来看，
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年终奖多发 30%，非洲手机之王传音没有“下行周期”？]]></title>
-        <id>https://news.cnblogs.com/n/764031/</id>
-        <link href="https://news.cnblogs.com/n/764031/"/>
-        <updated>2024-01-30T13:03:57.000Z</updated>
-        <summary type="html"><![CDATA[1 月 26 日，据传国内手机厂商传音发布了《关于传音控股 2023 年年终奖发放办法的通知》。根据通知显示，基于 2023 年公司整体经营业绩超预算达成且同比有较高的增长，经公司管理层确定：公司绩效系数为 1.3，即所有员工在正常核算年终奖基础上多发 30% 年终奖。 经钛媒体 App 向传音方面
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[携程，只能打顺风仗？]]></title>
-        <id>https://news.cnblogs.com/n/764030/</id>
-        <link href="https://news.cnblogs.com/n/764030/"/>
-        <updated>2024-01-30T13:02:24.000Z</updated>
-        <summary type="html"><![CDATA[文商业范儿 作为疫情后首个消费大规模复苏的年份，2023 年对很多公司而言，都意味着其撑过了最艰难的岁月。 从携程 2023 年前三个季度的营收表现来看，得益于疫情后的旅游消费市场复苏，携程大概率能够在营收规模上回到 2019 年的状态，这家创业超过 20 年，同时也在疫情“黑天鹅”事件中首当其冲的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
         </author>
     </entry>
 </feed>
