@@ -827,16 +827,6 @@
           "wordCount": 700,
           "title": "年度征文｜慢慢逛店，慢慢读书",
           "imageUrl": "https://cdn.sspai.com/2024/02/14/46064e4c0fcd2e1129b5400c6a6bfae2.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/86132",
-          "author": "车不能快",
-          "description": "本文仅代表个人观点，用于记录和观望一些键盘。\n色彩请以实物为主。\n个人评分部分为主观部分，会根据厂家状态、设计、以及个人喜好权重评分，仅供参考。\n\nT9\n\n复古大额头！\n\n年末，ok木头发布了T9的IC帖，一把超大的复古风键盘。算起来Openkey Design这家工作室也已经度过了三年时光，也陆续推出了许多好看的作品。\n键帽方面「Less，but better」和「共鸣」以及即将推出的「电气」，套件方面则有「Phase one」以及「TPS 40」，而这次的T9和前两作一样，也是从老物件身上发掘新的活力和灵感。\n\n通过了解IBM和Commodore的过程中发现了德州仪器 Ti99 4/A\n突然感觉这个机器性感又特别，它可以有很多的模块，而且它的故事还很起伏起伏伏~\n\n简洁的矩形外观，一些类似模块化设计的线条分割，宽大的复古额头，同时，边框的收窄和整体比例的现代调整，使得T9在保持复古风格的同时，也承载了更多装饰和键入的属性。\n\n按现代的配列布置并调整各元素的比例和角度，以让此轮廓线条在复古的视觉风格下也可以满足我自己现在的审美倾向 \n\n配列方面分为两部分，大体上可以看做TKL的延伸，但通过盖板调整进行F区的取舍和复古十字方向键设置。\n\n考虑到高兼容性的配列布局以及对产品预估的受众数量，PCB目前敲定为仅焊接。不过，尽管只有焊接一种选择，但T9仍旧保有蓝牙功能，也算是Openkey Design的优良传统。\n\n配备蓝牙5.0是为了满足链接手机/Pad和随时切换多设备的使用场景，并非突出键盘的便携性，很重（组完成品5kg），因此最高也可配置6000mAh x2 的锂电池提供续航 \n\n内胆部分，这次选用的是1.2mm厚大横槽PCB 无钢+Leaf Spring，目前没有实机演示，但给出了爆炸图和点位设计，我个人有一些简单的看法。\n1.希望能使用1.6mm和不开槽PCB设计\n本身…",
-          "link": "https://sspai.com/post/86132",
-          "publishedOn": "2024-02-10T08:49:27.000Z",
-          "wordCount": 816,
-          "title": "客制化键盘丨近期值得一看的套件与键帽 老树发新芽",
-          "imageUrl": "https://cdn.sspai.com/2024/02/10/df934c85531e988fa7eb480757c0adbd.jpg"
         }
       ]
     },
@@ -884,6 +874,66 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77555",
+          "author": null,
+          "description": "莫斯科学生因将用支持乌克兰的口号命名其 wi-fi 网络的名字被判 10 天监禁。他将无线网络命名为 “Slava Ukraini！”，意思是“荣耀属于乌克兰！”。在一名警官举报之后，他于周三被捕，周四被法庭以展示“极端主义组织标志”的罪名判处监禁。法庭称他的无线路由器支持无限数量的用户。该路由器目前已被没收。",
+          "link": "https://www.solidot.org/story?sid=77555",
+          "publishedOn": "2024-03-10T15:10:34.000Z",
+          "wordCount": 178,
+          "title": "莫斯科学生因支持乌克兰的 WIFI 名字被判 10 天监禁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77554",
+          "author": null,
+          "description": "南非亿万富翁、第二位自费国际空间站游客 Mark Shuttleworth 在 2004 年 3 月创办了开发 Ubuntu Linux 的 Canonical 公司。很多人第一次接触 Linux 桌面发行版可能就是收到了他的公司免费寄出的光盘。基于 Debian Linux 的 Ubuntu 过去 20 年基本上是每半年（4 月和 10 月）发布一个新版本，唯一的例外是 2006 年 6 月发布的 Ubuntu 6.06，该版本是 Ubuntu 第一个长期支持版本。今天的 Canonical 已经从桌面扩大到云端，Ubuntu Linux 是最流行的云端操作系统。",
+          "link": "https://www.solidot.org/story?sid=77554",
+          "publishedOn": "2024-03-10T14:48:52.000Z",
+          "wordCount": 197,
+          "title": "Canonical 诞生二十周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77553",
+          "author": null,
+          "description": "还记得哈佛大学天体物理学教授 Avi Loeb？2023 年他筹集了资金，启动了一项找回 2014 年 1 月 8 日在巴布亚新几内亚 Manus 岛附近坠落的天体残骸的探险行动。这颗流星被认为是已知第一个撞击地球的星际天体。Loeb 去年 6 月宣布在星际天体坠落地点发现了 25 个小型球体。约翰霍普金斯大学地震学家 Benjamin Fernando 领导的团队进行的最新分析显示，Loeb 可能在错误的地点寻找天体残骸。Loeb 使用据称流星在大气中爆炸产生的声波定位碎片场，但该声波很可能不是来自流星而是附近道路上行驶的一辆卡车。流星坠落的实际位置与调查区域可能相距逾 100 英里。他们找回的小型球体可能是其它陨石留下的碎片。Loeb 坚持自己的立场，表示在筹集更多的资金去寻找更大的碎片。",
+          "link": "https://www.solidot.org/story?sid=77553",
+          "publishedOn": "2024-03-10T14:01:57.000Z",
+          "wordCount": 188,
+          "title": "Avi Loeb 被指使用错误的信号搜索流星碎片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77552",
+          "author": null,
+          "description": "美国最高法院曾是少数民主党人和共和党人都尊重的机构之一，但随着最高法院法官们构成的右倾，人们对它的看法也日益两级分化。根据发表在《Science Advances》期刊上的一项研究，在 2022 年最高法院推翻了赋予女性堕胎自由的 Roe v. Wade 案件之后，民主党人和独立人士日益不信任法院，呼吁进行改革。研究人员称，在支持率、信任度、合法性和支持改革方面出现明显的党派两极分化。曾经保护法院的因素不再存在。法院对选民也变得更重要。",
+          "link": "https://www.solidot.org/story?sid=77552",
+          "publishedOn": "2024-03-09T15:24:01.000Z",
+          "wordCount": 179,
+          "title": "研究发现在美最高法院推翻 Roe v. Wade 之后对其的信任度出现两极分化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77551",
+          "author": null,
+          "description": "微软在 1 月份披露，俄罗斯黑客组织 Midnight Blizzard aka Nobelium 入侵了部分高管的电邮账号。微软称攻击者使用了密码喷洒攻击(Password Spraying) ，并非利用其产品或服务漏洞。本周五微软更新了其博客，称黑客窃取了源代码。微软表示，Nobelium 的攻击仍然在进行之中，它过去几周收集的证据表明黑客正利用从电邮系统窃取的信息访问源代码和其它内部系统。黑客利用的部分信息是在客户和微软之间通过电邮共享的，它已经并正在通知受影响的客户。Nobelium 是 2020 年 SolarWinds 供应链攻击的幕后发起者。",
+          "link": "https://www.solidot.org/story?sid=77551",
+          "publishedOn": "2024-03-09T14:34:47.000Z",
+          "wordCount": 173,
+          "title": "俄罗斯黑客窃取了微软源代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77550",
+          "author": null,
+          "description": "Fedora Workstation 默认使用 GNOME 的 Wayland 会话，但出于应急和选择的目的仍然安装了 GNOME X.Org 会话。对于今年晚些时候发布的 Fedora Workstation 41，GNOME X.Org 会话不再默认安装。工作组表示即将发布的 Fedora Workstation 40 已经没有时间修改。对于需要 X.Org 的用户，他们仍然可以选择从库里安装。",
+          "link": "https://www.solidot.org/story?sid=77550",
+          "publishedOn": "2024-03-09T14:13:23.000Z",
+          "wordCount": 200,
+          "title": "Fedora Workstation 41 不再默认安装 GNOME X.Org 会话",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77549",
           "author": null,
@@ -2943,26 +2993,6 @@
           "wordCount": 186,
           "title": "科学家找到数据存储和时间的最佳平衡",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77339",
-          "author": null,
-          "description": "一项研究发现，在涉及到政治时人们愿意扭曲道德，甚至包括容忍不道德的行为。对反对党之类外群体的敌意是道德模糊感背后的驱动因素。研究人员发现，人们在道德上对他们喜欢的政客更宽容，类似愿意宽容朋友的行为。在日益两极分化且有毒的政治环境中，研究结果凸显了愤怒政治的危害。论文合作者 Kyle Hull 称，政治让我们做通常不会做的事情，容忍通常不会容忍的事情。有时会展现出我们最糟糕的一面。部分政客和媒体谈论的方式就是火上浇油，越是将另一边视为坏人就越可能将道德置之脑后。政治似乎将每一个人都变成卑鄙小人。",
-          "link": "https://www.solidot.org/story?sid=77339",
-          "publishedOn": "2024-02-09T15:01:59.000Z",
-          "wordCount": 159,
-          "title": "研究发现政治扭曲了道德判断和宽容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77338",
-          "author": null,
-          "description": "苹果的 iTunes 曾以集成多种鱼类功能于一身著称，但如今苹果正式将其分拆成多个单独应用：欣赏音乐的应用 Apple Music，观看电视电影节目包括苹果原创剧集的应用 Apple TV，将媒体内容从 Windows PC 同步到苹果设备的 Apple Devices，以及用于收听有声书和免费播客的 iTunes。Windows 上的 iTunes 变成了只能听有声书和播客了。",
-          "link": "https://www.solidot.org/story?sid=77338",
-          "publishedOn": "2024-02-09T13:29:36.000Z",
-          "wordCount": 187,
-          "title": "Windows 版 iTunes 被分拆成多个应用",
-          "imageUrl": null
         }
       ]
     },
@@ -2971,6 +3001,66 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/766060/",
+          "author": null,
+          "description": "智东西（公众号：zhidxcom） 作者智东西编辑部 智东西 3 月 9 日报道，今早，轰动全球的 OpenAI 年度悬疑商战权谋大戏终于迎来真正大结局！ OpenAI 宣布：CEO 被罢免事件的调查结果出来了！Sam Altman 是清白的，他将重返董事会。 ▲OpenAI 官宣 WilmerHa\n本文链接",
+          "link": "https://news.cnblogs.com/n/766060/",
+          "publishedOn": "2024-03-10T03:56:00.000Z",
+          "wordCount": 163,
+          "title": "OpenAI“宫斗”调查结果公布！奥特曼完胜，前董事会背锅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766059/",
+          "author": null,
+          "description": "目前，‌iPad Air‌和两款 iPad Pro 都在设备顶部配备了 FaceTime 摄像头，这使得在横向模式下接听‌FaceTime‌通话时摄像头偏离中心。 苹果似乎意识到了这个问题，并在第 10 代‌iPad‌上将前置摄像头重新定位到设备的一侧，以便它可以在横向模式下使用，而不是在纵向模式下\n本文链接",
+          "link": "https://news.cnblogs.com/n/766059/",
+          "publishedOn": "2024-03-10T03:42:00.000Z",
+          "wordCount": 163,
+          "title": "‌未来iPad Air和iPad Pro都可能使用横向FaceTime摄像头",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766058/",
+          "author": null,
+          "description": "走亲访友不知该说什么、拜年信息要复制粘贴……在离开网络环境、需要进行规范化表达时，很多人只剩下干瘪的文字和磕绊的语言。 近日，中国青年报公布的一份社会调查问卷结果显示，在 1333 名受访青年中,53.3% 的受访青年感觉近几年自己的语言文字表达能力下降。过半受访青年认为阅读量少和依赖网络语言及表情\n本文链接",
+          "link": "https://news.cnblogs.com/n/766058/",
+          "publishedOn": "2024-03-10T03:35:00.000Z",
+          "wordCount": 163,
+          "title": "词穷，一种互联网时代的“文字失语”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766057/",
+          "author": null,
+          "description": "新型业态的兴起，正在拓宽女性的工作生活场景，越来越多的女性成为职场和家庭生活中的中坚力量。 3 月 8 日，T3 出行发布《2024 年度女性司机就业数据报告》（以下简称《报告》）。报告显示，截至 2024 年 2 月底，超过 7 万名女性加入 T3 出行，主要集中于上海、南京等一线、新一线城市。 \n本文链接",
+          "link": "https://news.cnblogs.com/n/766057/",
+          "publishedOn": "2024-03-10T03:29:00.000Z",
+          "wordCount": 163,
+          "title": "T3出行大数据：女性司机递增 专属安全保护大模型将上线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766056/",
+          "author": null,
+          "description": "咖啡因广泛存在，对健康影响存在争议。最新研究显示，适量摄入可能有利于心脏、代谢和运动表现，但过量可能导致焦虑、妊娠风险等负面影响。 咖啡因无处不在，从你早晨喝的咖啡，到治疗感冒时吃的药片，再到下午嚼的巧克力棒，咖啡因实际上是全球使用最广泛的精神活性物质。 它长期被新闻报道可能对健康产生影响，最近一些\n本文链接",
+          "link": "https://news.cnblogs.com/n/766056/",
+          "publishedOn": "2024-03-10T03:26:40.000Z",
+          "wordCount": 163,
+          "title": "咖啡因对我们到底是好是坏？最新的观点是这样的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766055/",
+          "author": null,
+          "description": "有机半导体异质结由于良好的电荷分离在光-电/化学转换领域受到了广泛关注。然而由于多组分的存在，异质结半导体的发现和优化过程却是十分复杂而费力，尤其是考虑到半导体材料的性质不仅与其化学结构相关，还受到形成微观结构的影响。高通量自动化实验可以在一定程度上可以加快材料的发现速度，但是其筛选规模往往较小，筛\n本文链接",
+          "link": "https://news.cnblogs.com/n/766055/",
+          "publishedOn": "2024-03-10T03:21:22.000Z",
+          "wordCount": 163,
+          "title": "高通量自动筛选融合涡流强化流动合成纳米光催化剂新平台",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/766054/",
           "author": null,
@@ -8229,86 +8319,6 @@
           "publishedOn": "2024-02-10T13:23:00.000Z",
           "wordCount": 163,
           "title": "Arm美股涨超50%，第三财季利润3.38亿美元超预期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764566/",
-          "author": null,
-          "description": "备受争议的 Mozilla 联合创始人 Mitchell Baker 辞去 CEO 一职，她将继续留在 Mozilla 担任执行主席专注于战略层面。Mozilla 董事会成员、曾在 Airbnb、PayPal 和 eBay 工作过的 Laura Chambers 担任临时 CEO，负责公司运营直到找\n本文链接",
-          "link": "https://news.cnblogs.com/n/764566/",
-          "publishedOn": "2024-02-09T13:31:40.000Z",
-          "wordCount": 163,
-          "title": "Mitchell Baker 辞去 Mozilla CEO 一职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764565/",
-          "author": null,
-          "description": "根据对土星卫星土卫一（弥玛斯或 Mimas）轨道的近距离测量，其冰冷的外壳下似乎有一片广阔的、全球性的海洋。土卫一是土星 7 颗主要卫星中最小的。长期以来，人们一直认为它由固态冰和岩石组成，但在 2014 年，天文学家观察到它绕土星的轨道出乎意料地摆动，这只能用橄榄球形状的核或液态海洋来解释。为了寻\n本文链接",
-          "link": "https://news.cnblogs.com/n/764565/",
-          "publishedOn": "2024-02-09T13:31:15.000Z",
-          "wordCount": 163,
-          "title": "土星卫星弥玛斯可能有地下海洋",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764564/",
-          "author": null,
-          "description": "Autodesk 创始人 John Walker 于 2 月 2 日去世，享年 75 岁。他出生于马里兰州，大学时最初学天文学，但后来全身心的投入到计算机领域。1976 年他在 TI 的 TMS9900 微处理器基础上设计了自己的电路板，创办了自己的硬件集成制造公司 Marinchip，1982 年\n本文链接",
-          "link": "https://news.cnblogs.com/n/764564/",
-          "publishedOn": "2024-02-09T13:30:37.000Z",
-          "wordCount": 163,
-          "title": "Autodesk 创始人 John Walker 去世，享年 75 岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764563/",
-          "author": null,
-          "description": "阿里巴巴周三公布了截至 12 月 31 日的季度财报和全年财报， 2023 年减少了约 2 万员工。财报显示，截至 2023 年 12 月 31 日，阿里的员工总数为 219260 人，比 2022 年底的近 24 万减少了大约 2 万。而 2022 年也比 2021 年减少了大约 1.9 万。阿里\n本文链接",
-          "link": "https://news.cnblogs.com/n/764563/",
-          "publishedOn": "2024-02-09T13:30:02.000Z",
-          "wordCount": 163,
-          "title": "阿里巴巴 2023 年减少了 2 万员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764562/",
-          "author": null,
-          "description": "迪士尼宣布向《堡垒之夜》和游戏引擎开发商 Epic Games 投资 15 亿美元，购买少数股权，并合作打造一个持久性的游戏宇宙。Epic Games 最大股东是其创始人 Tim Sweeney，他持有 51.4% 股权，腾讯在 2012 年投资购买了少数股权，它拥有 40% 的股权，之后是迪士尼和\n本文链接",
-          "link": "https://news.cnblogs.com/n/764562/",
-          "publishedOn": "2024-02-09T13:29:37.000Z",
-          "wordCount": 163,
-          "title": "迪士尼向 Epic 投资 15 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764561/",
-          "author": null,
-          "description": "Google 安全团队 Threat Analysis Group 发表报告披露政府黑客使用了三个 0day 攻击 iPhone。所谓 0day 指的是在攻击发生时苹果不知道或尚未修复的漏洞。安全研究人员发现，政府黑客使用了巴塞罗那公司 Variston 开发的黑客工具。Google 称，2023 \n本文链接",
-          "link": "https://news.cnblogs.com/n/764561/",
-          "publishedOn": "2024-02-09T13:28:52.000Z",
-          "wordCount": 163,
-          "title": "政府黑客使用 0day 攻击 iPhone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764560/",
-          "author": null,
-          "description": "NASA 在 137 亿光年外发现一颗位于宜居带的超级地球。这颗行星编号 TOI-715 b，直径约为地球的 1.5 倍，围绕一颗红矮星运行，该星系可能还有一颗地球大小的行星。这颗行星位于该星系的宜居带，即表面可能有液态水。由于母星比太阳小且温度低，该行星距离母星很近，公转一周仅仅相当于 19 个地\n本文链接",
-          "link": "https://news.cnblogs.com/n/764560/",
-          "publishedOn": "2024-02-09T13:28:04.000Z",
-          "wordCount": 163,
-          "title": "NASA 在 137 亿光年外发现一颗位于宜居带的超级地球",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764559/",
-          "author": null,
-          "description": "Reddit 从 2023 年 7 月开始对 API 访问收费，此举促使社区举行了大规模抗议活动，但抗议并没有产生什么结果。7 个月后，Reddit 第三方客户端状况如何？曾经免费的流行客户端纷纷转向收费：Narwhal 2 的月费为 3.99 美元，开发者表示这一费用可以维持其生存，除非 Redd\n本文链接",
-          "link": "https://news.cnblogs.com/n/764559/",
-          "publishedOn": "2024-02-09T13:25:30.000Z",
-          "wordCount": 163,
-          "title": "Reddit API 收费 7 个月后的第三方客户端",
           "imageUrl": null
         }
       ]
