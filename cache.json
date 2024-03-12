@@ -49,6 +49,36 @@
       "siteUrl": "https://sspai.com/matrix",
       "articles": [
         {
+          "id": "https://sspai.com/post/86895",
+          "author": "落花成泥",
+          "description": "为什么要用通用语法\nObsidian、Typora和Logseq各有各的优点。\nObsidian：有强大的文件管理功能，但是编辑体验差强人意，比如回车不能更换段落、插入图片必须回车才能继续写。\nTypora：有非常好的编辑体验，但是文档多了就不好管理。\nLogseq：主要侧重于大纲。\n通用语法的好处就是可以用不同的软件编辑，结合各种优点，而且在不同软件上的显示、渲染几乎相同。\n比如我一般同时打开Obsidian和Typora，用Typora来编辑，然后用Obsidian整理，只要在Typora里设置启动选项，指定到Obsidian库的文件夹即可，如下图。Logseq则是用大纲来整理思路。\nTypora启动设置\n只使用通用语法的坏处就是显示效果不好，因为不能用软件的特殊语法，有时候编辑起来比较麻烦。\n比如在Obsidian中，只需要输入前一半的字符，就能渲染，而在Typora中必须输入完整。还有Obsidian中的特殊语法可以用来显示文件的类型，而Typora中不行。\n开始的一些介绍\n本文主要介绍一些“链接”的通用语法，其他Markdown语法在这里简单介绍。\n标题：###+空格+标题内容\n斜体：*斜体内容*\n粗体：**粗体内容**\n高亮：==高亮内容==\n有序列表：1.+空格+内容\n无序列表：-+空格+内容\n分隔线：***+回车，或者---+回车\n任务列表：-+空格[+空格]+空格+待办\n各种链接语法\n重点：\n\n下面的所有语法，其中的符号，包括感叹号!、中括号[]、小括号()全部是英文半角。\n当链接、路径中有空格时，Obsidan无法识别，但是Typora、Logseq可以。\n\n为了在Obsdian里也能识别，即为了达到各个软件显示效果一样，以下有两种方法：\n\n将链接、路径重新编码，比如“空格”的编码为“%20”，但这种方法麻烦。\n给链接、路径加上“<>”，软件读取时会自动…",
+          "link": "https://sspai.com/post/86895",
+          "publishedOn": "2024-03-11T00:48:05.000Z",
+          "wordCount": 616,
+          "title": "Obsidian、Typora和Logseq的通用Markdown语法",
+          "imageUrl": "https://cdn.sspai.com/2024/03/04/43bda60e3d744ce2d985eeb1444179f9.png"
+        },
+        {
+          "id": "https://sspai.com/post/87059",
+          "author": "Ralvine",
+          "description": "从除夕到元宵，由玄冬向立春，镜头里是新年以来的的一点剪影。\n小河暮影\n天气不算晴朗，丝许北风尚残留着冷意。\n这是二〇二四的第一个周末。抱着拍点生活照的期许，也恰逢同学返杭获闲，便早早计划了这趟“漫无目的”的杭城徒步，出发前脑海中只有几个零散且模糊的关键词——香积寺、小河直街。\n大约是繁复的日子稍显枯燥。生活是规律的，却也被两点一线地固化了许多。停不下手头琐碎，于是同户外的交会便也只好沦为了张弛有度的表象；在种种期待下，彻底抛却方向的徒步在此刻显出关于心境释放的意义来。\n\n走出地铁口，老街稀疏的车流、两旁遍布时迹的小区旧楼和几处大抵是艺术空间的玻璃幕墙装点的现代风格建筑相得益彰，而转角几步便是香积寺旁颇具传统特色的墙瓦小巷，复行不久，终于再遇小河直街。运河旁的小径与城区的主干道自然过渡，却又带有着景点般含蓄暗示的隔阂，这是在普通的江畔步道和公园难以感知到的。\n\n不过几里，落日即至。在杭州域内，这样整洁的街道和风格统一的小栋商业摊铺是寻常可见的，而行色匆匆的人潮往往不太构成刻板印象中的喧杂景象，走在其中如同依旧踏在空荡的石板路间。这里没有蓝调时刻，落日是纯粹的由白向黄渐变，偶尔泛粉的天也似乎并不偏爱别处热烈的晚霞色彩。一切是平静而萧瑟的，只有垂柳的青和水面上粼粼的反射提醒我，我并没有身处北方。\n北峰破晓\n趁着寒假之前，终于等到了一次晴日。自从去年底看完一部深夜场电影重映、目睹一片雾霾景象后，杭州的天气似乎就再无晴天。群里早早有了看日出的计划，但只见天气预报一次次地向雾天修正。\n\n三年多来，从未真正意义上在西湖周边的山上看过日出。北高峰的观景台视野是开阔的，尽管在遍布低矮丘陵的浙江，想要看到如之前峨眉山金顶日出的景象是困难的，但在黢黑的夜色中结伴登上山峰，在破晓时分仰望几点稀疏的星云，日出本身就已足够值得。\n\n正月烟火\n正月初，买断了 Dazz App 后按捺不住出门的想法，便游了一日方特。\n「飞翔」与「海盗船」依然是经典保留项目，在某种意义上，方特得益于其游乐设施的多元性，在实际的感官体验上并不输数月前去的北京环球影城，后者在各IP间十分雷同的室内外过山车等设施确实有些令人精神疲劳。\n夜间的烟火秀也比霍格沃兹城堡上的灯光秀要更加震撼一些。尽管已经是二刷阶段，但这里的烟火或许比除夕夜此起彼伏的嘈杂鞭炮声更有一点独特的年味。\n\n不得不说，Dazz 的富士和 CCD 相片模拟效果都非常不错，胶片风格和复古影调下可玩性非常强，配合 Pro Max 够用的广角和三倍长焦镜头，基本上可以满足日常的拍摄需求。而在此之前，由于 iPhone 自 XS 以来，特别是引入 Deep Fusion 后令人不适的过度锐化和不太聪明的、涂抹感极强的计算摄影，手机已经很长一段时间在摄影上仅用于视频拍摄场景了，加之后来逐渐入手了那颗经典的 56mm f1.4 人像镜头与使用了数年的 55-200mm 长焦镜头，关于手机拍照的念想也仅仅剩于对未来入手某安卓影像旗舰的期待了\n元宵印象\n元宵佳节，正值返校数日困囿于毕设开题焦虑后的难得轻松时刻。\n傍晚走出农医馆，逛了一圈银泰，在寻找汤圆的途中发现了童年小筑楼下的这家小铺子。老板是德清人，卖的也是诸如茶糕等德清小吃，店里的装饰风格也很有先前两次出游莫干山时所感受到的浙北氛围。\n不知该如何形容与定义这种氛围，大概算是一种静而慢的姿态，和整饬有序的复古情调吧。\n\n徒步西湖\n\n先前几次拜访西湖周边的寺庙时，基本都是全程打车。这次碰巧坐上了游览观光车，于是返程时尝试了一下天竺路的徒步路线，北侧的山上是一片茶田，几座古桥、一道流水，同寺庙的色调交相辉映，再也没有比此更适合步行的小径了。\n坐公交、骑单车，一路穿梭至太子湾。这里的花大多尚未苏醒，只剩树影间散洒的午后的金色斑驳，也许下次应当带上一张野餐垫。\n\n三月初的傍晚，沿苏堤北上，就这样一路走到天黑。",
+          "link": "https://sspai.com/post/87059",
+          "publishedOn": "2024-03-11T00:47:20.000Z",
+          "wordCount": 605,
+          "title": "用Dazz拍出富士滤镜：华灯初上、春和景明与久违晴天",
+          "imageUrl": "https://cdn.sspai.com/"
+        },
+        {
+          "id": "https://sspai.com/post/87081",
+          "author": "PostMeridy",
+          "description": "时隔三个月，我终于完成了此前在《那些当初的 iPhone 13 mini 怎么样了》文章末尾的承诺——或者至少是其中的一半：\n\n再加上最近又多了很多有关下一代 iPhone SE 的流言蜚语，我还是挺希望看到苹果可以沿用 iPhone mini 的尺寸退出一款带 Face ID 的单摄 SE 机型的，只不过到那个时候，我可能已经在考虑 iPhone 15 Pro 或者 Pixel 8 Pro 了吧。\n\n因为在 204 年的 2 月 16 号，我的「先 Pro 带后 Pro 」计划终于展开了第一步，迎来了 iPhone 15 Pro 。\n\n虽然在之前的文章中也反复提及过很多次，但我还是想要再努力（对自己）阐述一下换掉功能仍然正常的 13 mini 、有史以来第一次换到 Pro 机型的 iPhone 的原因——毕竟这 7,849 块钱是我实习三个月以来积蓄的一大半，能够对于花出去的钱「有明确的认知」也算是一种对于自己的负责。\niPhone 13 mini 究竟怎么了\n最直观，同时也是占比最大的原因，就是 iPhone 15 Pro 更加优秀的相机。\n\n在《那些当初的 iPhone 13 mini 怎么样了》文中，我就着重表示过 iPhone 13 mini 的相机体验在 iOS 17 正式版中有着非常严重的退步，非常不连贯的交互界面与十分严苛的后台占用，都让它的相机体验从原本至少还有个 70 分的水平直接跌落到了不及格的地步。对于我这种将手机作为主要记录工具的用户来说，自然是相当难受的。\n但你也可能会指出：我还在同样的文章中提到过 iPhone 13 mini 并非我唯一的手机、Pixel 7 不才是我每天拍照的主力吗？诚然如此，但是这背后却有着另一个隐藏的不等式—— Pixel 7 的拍照之所以称得上「优秀」，也是因为对比的是 iPhone 13 mini 而已。\n实际上，P…",
+          "link": "https://sspai.com/post/87081",
+          "publishedOn": "2024-03-10T15:49:56.000Z",
+          "wordCount": 965,
+          "title": "告别效率，回归工具：iPhone 15 Pro",
+          "imageUrl": "https://cdn.sspai.com/2024/03/10/bb2a0e038a638462e9d9b1bcbc4f6794.jpg"
+        },
+        {
           "id": "https://sspai.com/post/86906",
           "author": "Xenogeneic",
           "description": "编注：本文是「2023 年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。\n\n「本文参加 2023 年度征文活动，我的 2023 年度关键词是：影像」\n\n在过去的一整年里，我尝试了大部分市面上的主打拍照的旗舰手机，比如 2023 年开年的 Find X6 Pro，年中的 vivo X100 Pro，2024 年初的 Find X7 Ultra 和现在的小米 14 Ultra。在卷完了多摄像头、夜景算法、人像虚化算法之后，卷头无路的手机厂商们似乎又把目光投回了效果平平但是又没办法抗拒的长焦上。似乎市面上所有的影像旗舰都有一个潜望长焦镜头，或是正在向长焦方向发力。我真的很想问：不是已经卷过长焦了吗？怎么又又又又是长焦？\n为什么手机上都有个长焦？\n摄影大师的说法\n今年我报名了一些徕卡和 Apple 组织的线下与摄影大师扫街的活动。当我和大师们线下交流，问他们喜欢用什么焦段进行摄影创作，结果他们无一例外全部告诉我：长焦是他们最不喜欢的焦段。按照大师们的理论来讲，不用长焦的原因是长焦拍不出惊为天人、一眼惊艳的照片，尤其是捕捉不到人物的情绪和更多事物与人物主体发生关系的一瞬间。\n乍一听，我好像明白了，但是又没明白。我只能揣着糊涂装明白，跟着大师们用手机去线下扫街，不断偷看他们的屏幕试图偷一偷构图的时候，看着他们用的焦段从 1 倍到 4倍、5倍、6倍，我懵了。活动结束之后看看他们拍的照片，有一半都是 3 倍以上的长焦镜头出的片。\n原来不是他们不用长焦，而是长焦太好用了，对于手机这种小底相机来说，出片效率既稳定又高。\n城市建设\n毕竟摄影大师只占大众的一小部分，对于拍照一知半解的普通人来说，最出片的焦段往往不是 28-70mm 这个大家都在使用的焦段，而是超长焦与超广角这两个焦段，但是我们根据诸子百家手机厂商的划水广角镜头配置来看，大数据显然是偏向了长…",
@@ -57,6 +87,16 @@
           "wordCount": 806,
           "title": "年度征文 | 手机长焦现在发展成什么样了？",
           "imageUrl": "https://cdn.sspai.com/2024/03/05/76186b6ce0176e6d1ecf903b3ec29bda.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/87036",
+          "author": "中年程序猿汪二",
+          "description": "人体的大部分肌肉都分布在腿部，而深蹲主要锻炼大腿肌肉群，不仅有助于促进新陈代谢，还能改善身体姿势、加强腰椎和膝盖，降低运动受伤的风险。\n\nDunDun 萌生于某个春节假期\n2018 年春节期间，在老家闲来无事，写了一个可以用手机或 Apple Watch 传感器来自动计算深蹲次数的小应用，然后就放到了App Store 上。没想到一晃，居然已经过了 6 年。老家的老屋也早已荒芜，不能住人。 App 偶尔修葺，却一直维护至今。\nYaoYao 目前已经进入功能相对稳定的状态。今年春节期间，我开始重新装修 DunDun，目前看起来已经有了一些样子，小鹿家族再添一员！\nDunDun 重制版\n这次进行了很多功能增加和 UI 的调整，按照游戏行业的说法，可以称之为 DunDun Remaster（重制版）😁。\n很多设计灵感来自 YaoYao，比如：\n\n惨绝人寰的等级体系\n滥竽充数的勋章\n枯燥无味的挑战\n花式的折磨（多种运动模式）\n….\n\n女神节特惠活动\n在3月8日这个特殊的日子里，YaoYao 和 DunDun 都为你准备了一些优惠活动。\nDunDun 活动\n🌟 一次性买断价格！ 原价：28 元 ➡️ 特惠价：21元！\nYaoYao 活动\n🌟 新用户年度订阅费 原价：25.8元 ➡️ 特惠价：18元！\n🌟 一次性买断价格！ 原价：45元 ➡️ 特惠价：38元！\n赶快下载体验吧！\nDunDun:\n \n \n \nYaoYao 跳绳:",
+          "link": "https://sspai.com/post/87036",
+          "publishedOn": "2024-03-08T02:03:47.000Z",
+          "wordCount": 654,
+          "title": "挑战深蹲新极限 -DunDun 重制版上线！",
+          "imageUrl": "https://cdn.sspai.com/2024/03/08/ac02428e22d561c453248f4b46e7b4c0.jpg"
         },
         {
           "id": "https://sspai.com/post/87028",
@@ -207,6 +247,16 @@
           "wordCount": 610,
           "title": "脆弱与反脆弱",
           "imageUrl": "https://cdn.sspai.com/2024/03/01/1d5c56415756c784534d6c86041b5ee6.png"
+        },
+        {
+          "id": "https://sspai.com/post/86944",
+          "author": "乔淼",
+          "description": "编注：本文是「2023 年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。\n\n本文参加 2023 年度征文活动活动。我的 2023 年度关键词是：跨界\n作者按：本文中提到的桌面游戏（tabletop games，有时也用 board games）简称「桌游」，泛指在物理意义的桌面上、主要通过印刷品和各种实体道具为媒介、以面对面的方式进行之游戏。各种桌面游戏的译名、介绍和图片等资料，主要来自于 Boardgamegeek（BGG）网站和「集石」 app。\n虽说是 2023 年的「年度」征文，但这个故事的起源可以追溯到 2023 年之前。我最早接触以《地产大亨（又名「大富翁」）》为代表的现代桌面游戏，是小时候和家人玩（盗版的）各种「游戏棋」。2010 年前后，以《三国杀》为契机，我成为了一名桌游玩家。之后在 2018~2019 年，我设计并小范围发行过一款桌游《决胜》。那时我半开玩笑地自称「桌游设计师」，其实还是玩票而已。直到 COVID-19 疫情快要结束的 2022 年秋天，因为我从事的工作与桌游相关，也因为一些机缘巧合，我终于下定决心，以认真的态度重新审视「桌面游戏设计」这件事，并下定决心把那些一直停留在「构思」状态的桌面游戏做出来。\n当年票友时代的笔者\n从那时起到现在，一年半的时间过去了。在这一年半的时间里，我忘掉了之前曾经常说的「斜杠」，又确实地实践了本文标题中的「跨界」。\n这个故事，可以从桌面游戏，以及桌面游戏设计过程中的「跨界」讲起。\n引子：一个桌面游戏，是如何诞生的？\n让我们想象一个场景。我、阿基米虎和老麦坐在桌边喝酒。为了决定谁喝得多一些，我们决定玩一个游戏，叫做「剪刀石头布」：谁输了，谁就要喝一杯。\n「剪刀石头布」有两个基本要素：\n要素一是游戏的「目的」，即「什么是赢」。剪刀石头布的唯一目的，是让自己的行动选择克制所有…",
+          "link": "https://sspai.com/post/86944",
+          "publishedOn": "2024-03-05T17:37:12.000Z",
+          "wordCount": 883,
+          "title": "年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅",
+          "imageUrl": "https://cdn.sspai.com/2024/03/06/1a53102c8b564b4ee5bd9926b0fa10a9.png"
         },
         {
           "id": "https://sspai.com/post/86935",
@@ -842,6 +892,16 @@
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
         {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23280",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nPrivacy updates for App Store submissions\nPrivacy manifests and signatures 的 deadline 来了，5 月 1 日。目前大部分知名第三方库都已经完成了适配，例如：SDWebImage、FMDB、Protobuf、SnapKit 等，但也有部分如：MBProgressHU、Starscream 等年久失修可能得自己处理下。\n Developer - 设计开发加速器\nApple Vision Pro 开发者实验室 与 探索《人机界面指南》\n上海的 Vision Pro 的开发实验室即将迎来多场活动，3 月 27 日 与 4 月 24 日 的线下实验室，以及 4 月 10 日的 1 on 1 线上咨询。\n4 月 2 日还有探索《人机界面指南》 的活动。\n还没有亲自体验过 Vision Pro 的开发者千万不要错过本次活动。\n新手推荐\nThe power of inout parameters\n@zoeGuo：Swift 函数参数是常量，这意味着不能在函数内部修改入参的值。将参数标记为 inout 实际是将入参值引用，从而实现在函数内更改其值。文中举例了富文本 context 跟随 textView 的各属性值变化的例子说明使用 inout 参数可以减少重复表意的代码、使代码更简洁。\n文章\n🐕 Why Ollie is moving away from SwiftUI to UIKit\n@JonyFang: 本文描述了该团队在 SwiftUI 应用过程中经历了一系列关于 SwiftUI 和 Swift 并发的问题，最终决…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23280",
+          "publishedOn": "2024-03-11T02:08:08.000Z",
+          "wordCount": 649,
+          "title": "老司机 iOS 周报 #280 | 2024-03-11",
+          "imageUrl": "https://opengraph.githubassets.com/314ad0ab6affaec4ce04d5e0ad640eed7bcbab41cb6b67c7fa98bd550236a7a4/SwiftOldDriver/iOS-Weekly/releases/tag/%23280"
+        },
+        {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23279",
           "author": null,
           "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新手推荐\nHow to make a completionHandler much safer \n@zoeGuo：我们经常会用 completionHandler 来处理异步事件，但是很难保证所有逻辑下都能执行到 completionHandler 的逻辑。那么在 Swift 语法中可以使用 defer 关键字，defer 可以确保 completionHandler 在方法返回之前一定被调用，编译器会检查在每个可能的代码路径中都能顺利执行到 completionHandler。原文有更详细的代码示例说明，还有视频讲解。\n文章\n🐕 从入门到精通：如何解决 C++ 模板代码膨胀问题\n@老峰：C++ 模板是一种强大的编程工具，它允许我们编写通用的、可重用的代码，本文介绍了通过模板函数提取通用部分；模板类抽象出通用部分到基类，合理使用模版等优化策略提高编译速度，减少二进制文件大小解决代码膨胀问题。\n🐎 Swift 6.0 Release Process\n@AidenRao：Swift 社区公布了 Swift 6 的发布流程及预期时间表。2024 年 3 月 15 日，将从 Swift 主分支中切出 release/6.0 分支开启发布流程，正式版本预计将于今年下半年与新版 Xcode 同步发布。\n🐎 ImGui 在长桥跨端图表组件中的探索与应用\n@Smallfly：长桥技术团队在 iOS App 中升级 K 线图表组件，面临业务复杂度高、两端重复开发等问题。在对比各种成熟跨端方案之后，他们选择了 ImGui 作为跨平台解决方案，利用其 GPU 渲染和简单 API 实现高性能图表。它使用各平台支持最好…",
@@ -874,6 +934,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77562",
+          "author": null,
+          "description": "对于未登陆和使用隐身模式的用户，YouTube 开始停止推荐视频，整个页面没有展示任何视频内容。以前用户没有登陆 Google 账号或使用隐身模式时，YouTube 仍然会推荐视频，现在它显示信息称：开始观看视频，帮助我们构建您喜爱的视频源。此举被认为是迫使用户一直登陆和启用历史纪录。",
+          "link": "https://www.solidot.org/story?sid=77562",
+          "publishedOn": "2024-03-11T10:39:06.000Z",
+          "wordCount": 164,
+          "title": "YouTube 对未登陆用户停止推荐视频",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77561",
+          "author": null,
+          "description": "发表在 PNAS 期刊上的一项研究估计，含铅汽油降低了美国半数人口的 IQ 分数。美国在 1996 年禁止了含铅汽油，这项研究重点分析了 1996 年前出生的人口。佛罗里达州立大学和杜克大学的研究人员发现，儿童时期的铅暴露使美国人损失了 8.24 亿 IQ 分，平均每人损失 2.6 IQ 分。对于含铅汽油消费最火热的 1960s 和 1970s 出生人口，IQ 分数损失高达 6 分，甚至超过 7 分。截至 2015 年，逾 1.7 亿美国人口在儿童时期血铅水平曾超过 5 微克/分升。血铅水平达到 3.5微克/分升就被认为很高了。铅是一种神经毒素，美国人接触它主要是通过吸入汽车尾气。",
+          "link": "https://www.solidot.org/story?sid=77561",
+          "publishedOn": "2024-03-11T10:23:58.000Z",
+          "wordCount": 195,
+          "title": "研究估计含铅汽油降低美国半数人口的 IQ 分数",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77560",
+          "author": null,
+          "description": "俄罗斯在乌克兰使用 Starlink 的报道引发了 SpaceX 是否遵守美国制裁和出口管控的调查。SpaceX CEO 马斯克(Elon Musk)否认该公司直接或间接向俄罗斯出售 Starlink 终端。民主党众议员 Jamie Raskin 和 Robert Garcia 致函 SpaceX 总裁 Gwynne Shotwell，称乌克兰公布了截获的俄罗斯士兵之间的语音通信，表明俄罗斯子在部分占领区部署了 Starlink。俄罗斯通过第三方获取 Starlink 终端并不能免除 SpaceX 的责任，议员对 SpaceX 保障措施的有效性提出了疑问。他们列出了一系列问题要求 SpaceX 在 3 月 20 日前给出答复。",
+          "link": "https://www.solidot.org/story?sid=77560",
+          "publishedOn": "2024-03-11T08:41:39.000Z",
+          "wordCount": 208,
+          "title": "俄罗斯使用 Starlink 引发 SpaceX 是否遵守美国制裁的调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77559",
+          "author": null,
+          "description": "声带位于喉部，是两条肌肉带，可以打开和关闭。当它们大部分闭合或内收时，从肺部呼出的空气通过声带时会产生声音。根据发表在《科学》期刊上的一项研究，研究人员发现了一种驱动发声的大脑回路，它确保你只在呼气时说话，在吸气时停止说话。新发现的回路控制着发声所需的两个动作：喉咙变窄和从肺部呼出空气。研究人员还发现，这种发声回路受脑干区域的控制，该区域负责调节呼吸节奏，确保呼吸比说话更重要。",
+          "link": "https://www.solidot.org/story?sid=77559",
+          "publishedOn": "2024-03-11T06:50:27.000Z",
+          "wordCount": 157,
+          "title": "科学家解释说话和吸气不能同时进行的原因",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77558",
+          "author": null,
+          "description": "苹果被迫在欧洲地区开放它的应用商店，允许侧载（side-loading）和第三方应用商店。准备在欧盟推出替代应用商店的 Colton Adamski 称，苹果对 iPhone 的控制非常严密。他的团队研究了苹果的条款，将苹果制定的规定比作《教父》或《黑道家族》中的黑帮：你可以在苹果的地盘上开店，但必须按它说的做，否则就关掉你的店。苹果要求第三方应用商店的银行存款至少要 100 万欧元，低于这个数可能就会被关闭。苹果此前表示这是为了反诈。苹果后来表示允许信誉良好的应用商店低于 100 万美元储备金。苹果还要求在下载量超过 100 万次之后开始按照安装量收费——费率为每次 0.5 欧元，Colton 认为这就像黑帮收保护费。他称自己认识的应用开发者对此都十分愤怒。欧盟尚未对苹果的规定发表意见，表示将在这些规定应用之后进行评估。",
+          "link": "https://www.solidot.org/story?sid=77558",
+          "publishedOn": "2024-03-11T06:38:48.000Z",
+          "wordCount": 182,
+          "title": "苹果就像教父那样制定 App Store 规定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77557",
+          "author": null,
+          "description": "英伟达被控未经授权使用版权作品训练其 NeMo 模型。三位作家 Brian Keene、Abdi Nazemian 和 Stewart O'Nan 表示，NeMo 使用了包含有约 196,640 本书的数据集进行训练，他们的作品就包含其中，去年 10 月因举报侵权移除。三位作者在集体诉讼中表示删除行为表明英伟达知道侵权的存在。他们寻求英伟达为过去三年使用美国作家的版权作品训练大模型支付金额未知的赔偿金。英伟达拒绝置评。这起诉讼标志着英伟达加入了越来越多有关 AI 公司侵犯作家版权训练生成式 AI 的案件中。",
+          "link": "https://www.solidot.org/story?sid=77557",
+          "publishedOn": "2024-03-11T05:40:20.000Z",
+          "wordCount": 175,
+          "title": "英伟达被控未经授权使用版权作品训练模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77556",
+          "author": null,
+          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 6.8。主要新特性包括：Deadline servers 调度功能，DAMON 支持内存管理自动调整，改进匿名内存管理的 Large folios for anonymous memory，内核同页合并顾问（ksm advisor），listmount() 和 statmount()系统调用，首个用 Rust 写的块设备驱动，移除 bpfilter 包过滤系统，管理 Linux 安全模块的三个新系统调用， BPF 权限细粒度控制之 BPF 令牌机制，英特尔 Xe 显示驱动，等等，更多可浏览 kernelnewbies（尚未上线）。",
+          "link": "https://www.solidot.org/story?sid=77556",
+          "publishedOn": "2024-03-11T05:04:44.000Z",
+          "wordCount": 193,
+          "title": "Linux 6.8 释出",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77555",
           "author": null,
@@ -2953,46 +3083,6 @@
           "wordCount": 229,
           "title": "人类知识无损压缩 Hutter 奖再次颁奖",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77343",
-          "author": null,
-          "description": "Z 世代正在复兴实体书阅读。实体书购买量在增加，更多年轻一代访问图书馆。2023 年英国实体书销售量为  6.69 亿册，为有纪录以来最高。Nielsen BookData 的研究显示，Z 世代喜欢实体书，占到了 2021 年 11 月到 2022 年 11 月购买量的八成。图书馆也报告，喜欢安静的 Z 世代年轻人有小幅增加。Z 世代的阅读类型也不限于幻想和浪漫类小说，他们阅读各种主题的书，并没有人们以为的同质化。",
-          "link": "https://www.solidot.org/story?sid=77343",
-          "publishedOn": "2024-02-10T14:44:05.000Z",
-          "wordCount": 178,
-          "title": "Z 世代拥抱实体书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77342",
-          "author": null,
-          "description": "华为周五证实，称其位于法国的办公室 2 月 6 日遭到法国方面的突击搜查。法国司法界消息人士透露，华为是因涉嫌违反廉正行为遭到突击搜查。消息人士称，此次搜查是法国国家金融检察官办公室（PNF）的发起的初步调查的一部分。华为否认有不当行为，发表声明表示：“华为已充分配合调查人员的调查，并将继续这样做。华为进入法国已达20多年，始终尊重法国的所有法律法规。尽管华为法国公司不愿对正在进行的调查发表评论，但公司对调查结论仍然充满信心。”法国关于“违反廉正”行为的定义包括腐败、以权谋私、非法获取利益等违法行为。",
-          "link": "https://www.solidot.org/story?sid=77342",
-          "publishedOn": "2024-02-10T13:44:03.000Z",
-          "wordCount": 160,
-          "title": "华为法国办事处被突击搜查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77341",
-          "author": null,
-          "description": "Meta 宣布旗下应用 Instagram 和 Threads 将停止推荐政治内容，除非用户明确要求展示此类内容。想要在公共信息流中看到政治内容的用户可以在账号设置中关闭限制。Meta 称这一更新没有改变用户浏览所关注账号的内容展示方式，发布政治内容的账号仍然能通过动态和故事向其关注者展示此类内容。",
-          "link": "https://www.solidot.org/story?sid=77341",
-          "publishedOn": "2024-02-10T13:33:53.000Z",
-          "wordCount": 175,
-          "title": "Instagram 和 Threads 将停止推荐政治内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77340",
-          "author": null,
-          "description": "1953 年 IBM 科学家 Hans Peter Luhn 提出了一种存储和检索信息的新方法，它就是哈希表（hash table），如今已内置在几乎所有计算机系统中。哈希表是历史最悠久、速度最快、最简单且使用最广泛的数据结构之一，它设计执行三个操作：插入，在数据库里加入新条目；查询，获取一个条目或检查该条目是否存在；删除。Chrome 或 Safari 等浏览器可能内置了多个哈希表去跟踪不同类的数据。哈希表不可避免的存在权衡取舍。1957 年另一位 IBM 计算机科学家 W. Wesley Peterson 指出了哈希表面临的技术挑战：需要足够快以快速检索必要的信息，需要紧凑使用尽可能少的内存。两个目标从根本上是矛盾的：哈希表有更多内存时能更快访问和修改数据库，哈希表使用更少空间时操作会很慢。几十年来，研究人员一直在寻找哈希表时间和空间的最佳平衡。2022 年纽约石溪大学的 Michael Bender 等人发表论文，提出了一种具有时间和空间效率最佳组合的新哈希表。2023 年普林斯顿大学 Huacheng Yu 领导的一个团队证明 Bender 的哈希表是理论上的最优解。由于新哈希表太复杂，还没人尝试在短时间去构建，而且理论上快的算法在实践中未必快。",
-          "link": "https://www.solidot.org/story?sid=77340",
-          "publishedOn": "2024-02-10T13:04:56.000Z",
-          "wordCount": 186,
-          "title": "科学家找到数据存储和时间的最佳平衡",
-          "imageUrl": null
         }
       ]
     },
@@ -3001,6 +3091,206 @@
       "feedUrl": "http://feed.cnblogs.com/news/rss",
       "siteUrl": "https://news.cnblogs.com/",
       "articles": [
+        {
+          "id": "https://news.cnblogs.com/n/766138/",
+          "author": null,
+          "description": "出品虎嗅科技组 作者杜钰君 编辑王一鹏 头图视觉中国 虎嗅注：作为曾经通过个人 PC 改变了世界的人，比尔·盖茨关于技术浪潮的评论，总会引起人们的重视。 尤其是，当下在国内，人们对于生成式 AI 的理解仍然极其有限，这里包含了：生成式 AI 浪潮存在多大的泡沫、可行的商业路径以及其究竟将以何种形式，\n本文链接",
+          "link": "https://news.cnblogs.com/n/766138/",
+          "publishedOn": "2024-03-11T14:07:24.000Z",
+          "wordCount": 163,
+          "title": "比尔·盖茨“吹哨”：AI 代理正在引发计算机界最大革命",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766135/",
+          "author": null,
+          "description": "这几天，中国新能源的头部车企“理想汽车”被搞了。 理想新推出的 MEGA 商务车，被贴上了一个非常阴损的标签——有人说 MEGA 长得像灵车，还有好事者把一个大大的“奠”字P在车上。 在中国传统文化的语境里，这显然是一种非常恶毒的隐喻。 遇到这种事情，理想方面自然是要诉诸法律的，这也属于常规操作了。\n本文链接",
+          "link": "https://news.cnblogs.com/n/766135/",
+          "publishedOn": "2024-03-11T13:46:21.000Z",
+          "wordCount": 163,
+          "title": "灵车怎么了？有人想当还当不上呢｜老局吐槽",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766133/",
+          "author": null,
+          "description": "鱼羊发自凹非寺 量子位公众号 QbitAI Vision Pro 又现火爆新玩法，这回还和具身智能联动了~ 就像这样，MIT 小哥利用 Vision Pro 的手部追踪功能，成功实现了对机器狗的实时控制。 不仅开门这样的动作能精准 get： 也几乎没什么延时。 Demo 一出，不仅网友们大赞鹅妹子嘤\n本文链接",
+          "link": "https://news.cnblogs.com/n/766133/",
+          "publishedOn": "2024-03-11T13:32:00.000Z",
+          "wordCount": 163,
+          "title": "用Vision Pro实时训练机器狗！MIT博士生开源项目火了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766129/",
+          "author": null,
+          "description": "2024 注定是 AI 行业热闹非凡的一年。虽然刚刚进入 3 月份，但是关于 AI 的新闻已经多次占据了头条。就在上个月，OpenAI 发布了文字生成视频的大模型 Sora，其逼真的效果直接清空了在这个细分赛道苦苦耕耘的创业者。几天后，英伟达市值站上 2 万亿美元，成为了历史上最快实现从 1 万亿到\n本文链接",
+          "link": "https://news.cnblogs.com/n/766129/",
+          "publishedOn": "2024-03-11T13:26:46.000Z",
+          "wordCount": 163,
+          "title": "GPU之后，NPU再成标配，手机、PC如何承载AI大模型？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766137/",
+          "author": null,
+          "description": "Nokia 又出新手机了。 不过，这里的 Nokia 不是那个人们熟悉的 Nokia。虽然在智能手机行业常被当成“转型失败”的反面教材，但 Nokia 在通信领域依然做得有声有色，甚至去年还换了个 Logo。 （图源：芬兰 Nokia） 推出新手机的是这几年执掌「Nokia Mobile」这个牌子的\n本文链接",
+          "link": "https://news.cnblogs.com/n/766137/",
+          "publishedOn": "2024-03-11T13:00:00.000Z",
+          "wordCount": 163,
+          "title": "新机只卖800块，支持自换电池！但诺基亚要彻底消失了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766136/",
+          "author": null,
+          "description": "IT 之家 3 月 11 日消息，彭博社知名记者马克・古尔曼在“周更”栏目 PowerOn 的最新一期时事通讯中，披露了已经“夭折”的苹果汽车项目更多细节。 古尔曼称，苹果公司最初的目标是实现 L5 级别（完全）自动驾驶，车内没有方向盘或踏板，外观设计风格类似于一款具有“未来主义”的面包车 ——Ca\n本文链接",
+          "link": "https://news.cnblogs.com/n/766136/",
+          "publishedOn": "2024-03-11T12:40:00.000Z",
+          "wordCount": 163,
+          "title": "古尔曼披露苹果汽车项目细节：多种设计方案均为面包车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766134/",
+          "author": null,
+          "description": "金融行业被广泛认为是 AI 大模型技术落地的前哨站，也是“人工智能+”行动的焦点所在。面向金融场景广泛、多样化的大模型需求，度小满轩辕系列全新发布了 12 款金融大模型。其中包括 6B、13B、70B 参数的基座模型、对话模型、int4/int8 量化模型，并且实现了完全开源，供广大开发者下载使用。\n本文链接",
+          "link": "https://news.cnblogs.com/n/766134/",
+          "publishedOn": "2024-03-11T12:31:00.000Z",
+          "wordCount": 163,
+          "title": "度小满轩辕：金融行业的大模型实战派",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766132/",
+          "author": null,
+          "description": "智东西 作者徐珊 编辑云鹏 智东西 3 月 11 日消息，近日微软和俄亥俄州立大学的研究人员发布论文，提出了一种受到生物启发的可以增强大语言模型使用工具能力的方法，即模拟试错（STE）法，并将其开源。 该方法协调了试错、想象和记忆三个关键机制。具体而言，STE 通过大模型的“想象力”来模拟使用工具的\n本文链接",
+          "link": "https://news.cnblogs.com/n/766132/",
+          "publishedOn": "2024-03-11T12:23:00.000Z",
+          "wordCount": 163,
+          "title": "7B大模型测试成绩超GPT-4！微软新研究解决工具调用难题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766131/",
+          "author": null,
+          "description": "当 OepnAI 和马斯克连日互杠、Google 因文化偏见麻烦缠身、号称抢走 GPT-4 王位的 Claude 3 全力瞄准企业级部署的时候，在另一个角落，致力于「为每个人开发服务型 AI」的人工智能初创公司 Inflection AI，悄悄更新了他们的聊天机器人 Pi，以及为之提供支持的新一代大\n本文链接",
+          "link": "https://news.cnblogs.com/n/766131/",
+          "publishedOn": "2024-03-11T12:15:00.000Z",
+          "wordCount": 163,
+          "title": "估值40亿的Pi大更新：性能接近 GPT-4，日均使用时长已经超过 Instagram",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766130/",
+          "author": null,
+          "description": "两会·高见 和许多“科班”出身的科技从业者相比，王坚的履历显得有些传奇。作为中国工程院院士，云计算技术专家，阿里云创始人，早年他曾专攻心理学专业并从事相关大学教育，后来才转至互联网领域。2008 年，他加入阿里巴巴主导开展云计算项目，彼时这一概念在国内尚不被清晰。经过数年耕耘，随着云计算系统“飞天”\n本文链接",
+          "link": "https://news.cnblogs.com/n/766130/",
+          "publishedOn": "2024-03-11T12:07:00.000Z",
+          "wordCount": 163,
+          "title": "专访王坚：Sora意义非凡，只谈对短视频行业影响是羞辱它",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766128/",
+          "author": null,
+          "description": "（图片来源：unsplash） 3 月 10 日消息，钛媒体 App 获悉，近日，英国《自然》杂志子刊《Nature Biotechnology》（自然生物科技）发表最新论文，公布全球首款利用人工智能（AI）技术发现的肺部疾病新药 INS018_055 的最新人体临床 2 期试验结果。 论文中称，在\n本文链接",
+          "link": "https://news.cnblogs.com/n/766128/",
+          "publishedOn": "2024-03-11T12:00:00.000Z",
+          "wordCount": 163,
+          "title": "Nature子刊公布全球首款AI药物进入人体获良好反馈，李开复：AI将彻底改变药物研发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766127/",
+          "author": null,
+          "description": "最近，马斯克怒写 46 页诉状，将 OpenAI 及 Sam Altman 告上法庭，并要求 OpenAI 恢复开源状态。对此，OpenAI“第一投资人”，被称为全球科技“投资之王”的 Vinod Khosla 表示，马斯克是典型吃不到葡萄就说葡萄酸。 虽然 Vinod Khosla 有句名言：“一\n本文链接",
+          "link": "https://news.cnblogs.com/n/766127/",
+          "publishedOn": "2024-03-11T11:50:00.000Z",
+          "wordCount": 163,
+          "title": "让马斯克嫉妒的男人，OpenAI“第一投资人”：AI硬件是“伪命题”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766126/",
+          "author": null,
+          "description": "AI 新星 OpenAI 最近有点头疼，不仅公司和 CEO 被马斯克起诉，其拳头产品 GPT-4 在性能和价格上均面临竞争对手的冲击。 近期，成立不到一年的法国人工智能创企 Mistral AI 发布了最新大模型 Mistral Large，并推出了首个聊天机器人产品 Le Chat，直接对标 Ch\n本文链接",
+          "link": "https://news.cnblogs.com/n/766126/",
+          "publishedOn": "2024-03-11T11:42:00.000Z",
+          "wordCount": 163,
+          "title": "大模型2024：先把价格打下去",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766125/",
+          "author": null,
+          "description": "形势已退无可退，这是 TikTok 美国本地团队进行的一次有必要的「合法抗争」。 作者连冉 编辑 张鹏、郑玄 相对于 TikTok 过去几年面对美国政府打压的耐心解释和沟通，最近 TikTok 却做出了与以往风格大相径庭的的行动——美东时间 3 月 7 日，TikTok 在应用程序中向美国地区共计 \n本文链接",
+          "link": "https://news.cnblogs.com/n/766125/",
+          "publishedOn": "2024-03-11T11:35:00.000Z",
+          "wordCount": 163,
+          "title": "TikTok 凭什么敢对 1.7 亿美国用户弹窗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766124/",
+          "author": null,
+          "description": "李想终于又喘气儿了。 三月，MEGA 在“叫好”和“叫座”两条路上同步翻车把李想烦得够呛：车像棺材、定价太高、大定数量也不敢提。烦到这位社媒嘴仗向马斯克看齐的 CEO，七天没发哪怕一条微博，上次更新还要倒回到 MEGA 发布会后的转发采访。 昨天，李想终于在朋友圈似是而非地写下一句话：无论多么难，都\n本文链接",
+          "link": "https://news.cnblogs.com/n/766124/",
+          "publishedOn": "2024-03-11T11:27:00.000Z",
+          "wordCount": 163,
+          "title": "李想还是不认栽",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766123/",
+          "author": null,
+          "description": "3 月 11 日，根据韩媒 etnews 的消息，JEDEC 固态技术协会在葡萄牙里斯本完成了 LPDDR6 标准的定稿，并计划于今年第三季度正式发布。也就是说，最新的 DRAM 内存规范——LPDDR6 有望在今年年底公布。 （图源：cnBeta.COM） 而目前最新的内存规范——LPDDR5X，\n本文链接",
+          "link": "https://news.cnblogs.com/n/766123/",
+          "publishedOn": "2024-03-11T11:15:00.000Z",
+          "wordCount": 163,
+          "title": "LPDDR6规范即将公布，高通骁龙8 Gen 4有望首发！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766122/",
+          "author": null,
+          "description": "电动垂直起降飞行器(eVTOL)备受资本市场和科技巨头青睐，有望成为未来城市空中交通出行的重要方式。多家新兴公司在这一领域展开激烈竞争，试图抢占先机。 据媒体报道，获得马斯克创立的 SpaceX 投资的 Alef Aeronautics eVTOL 目前在 eVTOL 领域处于领先地位。该公司旗双座\n本文链接",
+          "link": "https://news.cnblogs.com/n/766122/",
+          "publishedOn": "2024-03-11T11:06:00.000Z",
+          "wordCount": 163,
+          "title": "30万美元的“飞行汽车”你会买吗？SpaceX投资了一家eVTOL公司",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766121/",
+          "author": null,
+          "description": "IT 之家 3 月 11 日消息，抖音昵称为“极氪编辑部 @拓”的极氪车主博主，近日发布了一条配乐为哀乐的理想 MEGA 汽车交付视频，引起网友争议。极氪法务部随即发表声明，表示该博主与极氪官方无关，已通过相关渠道进行投诉与追究。 IT 之家附极氪法务部声明原文： 声明 3 月 11 日，极氪官方监\n本文链接",
+          "link": "https://news.cnblogs.com/n/766121/",
+          "publishedOn": "2024-03-11T11:00:00.000Z",
+          "wordCount": 163,
+          "title": "极氪汽车法务部出手，理想 MEGA 虚假视频被删除",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766120/",
+          "author": null,
+          "description": "2024. 03.11 本文字数：3538，阅读时长大约 6 分钟 导读：还有不少人日常仍然会高频使用 QQ，甚至更喜欢 QQ，而非微信。 作者 第一财经 DT 商业观察 虽然 QQ 的用户数已经不敌微信，但仍然是令其他社交 APP 羡慕的存在。 根据月狐数据 2023 年 12 月的统计，QQ 月\n本文链接",
+          "link": "https://news.cnblogs.com/n/766120/",
+          "publishedOn": "2024-03-11T10:53:00.000Z",
+          "wordCount": 163,
+          "title": "月活账户近6亿，为何他们还在坚持用QQ？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.cnblogs.com/n/766119/",
+          "author": null,
+          "description": "机器之心发布 机器之心编辑部 3 月 11 日，零一万物宣布推出基于全导航图的新型向量数据库 「笛卡尔（Descartes）」，已包揽权威榜单 ANN-Benchmarks 6 项数据集评测第一名。 向量数据库，又被称为 AI 时代的信息检索技术，是检索增强生成（Retrieval-Augmente\n本文链接",
+          "link": "https://news.cnblogs.com/n/766119/",
+          "publishedOn": "2024-03-11T10:46:00.000Z",
+          "wordCount": 163,
+          "title": "零一万物自研全导航图向量数据库，横扫权威榜单6项第一",
+          "imageUrl": null
+        },
         {
           "id": "https://news.cnblogs.com/n/766060/",
           "author": null,
@@ -8010,316 +8300,6 @@
           "wordCount": 163,
           "title": "睡好是心脏良药！《欧洲心脏杂志》：保持良好睡眠模式可将患血管疾病的风险降低30%-60%",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764613/",
-          "author": null,
-          "description": "科技日报北京 2 月 7 日电 （记者张梦然）一个全新“水世界”正冉冉升起。《自然》7 日发表的一篇论文认为，土星的卫星土卫一（米玛斯）坑洼的冰壳表面之下可能藏着海洋。美国卡西尼号探测器对观察数据的分析表明，这个海洋相对较新，仍在继续演化。由于人们一直将一颗星是否拥有水作为衡量其是否存在生命的重要指\n本文链接",
-          "link": "https://news.cnblogs.com/n/764613/",
-          "publishedOn": "2024-02-11T09:27:43.000Z",
-          "wordCount": 163,
-          "title": "最新证据表明土卫一存在地下海洋",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764612/",
-          "author": null,
-          "description": "新研究表明，皱纹不仅是衰老的结果，更可能是其驱动因素。衰老皮肤会释放化学物质，可能导致其他器官提前衰老。消灭衰老细胞的新型药物可能成为抗衰老利器。 法国女人 Jeanne Calment 被认为是世界上最长寿的人，活到了 120 岁。她曾幽默地说：“我只有一个皱纹，而且我正坐在上面。”虽然有趣，但并\n本文链接",
-          "link": "https://news.cnblogs.com/n/764612/",
-          "publishedOn": "2024-02-11T05:29:41.000Z",
-          "wordCount": 163,
-          "title": "皱纹竟是衰老元凶：皮肤老化可能加速全身衰退",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764611/",
-          "author": null,
-          "description": "文太平洋科技，作者曾宪天、林敏倩，编辑林炯佳 整个阿里大生态，有两大被不少用户吐槽的营销活动。一个是刚刚走过第 15 届的双 11，另一个则是进入第 9 个年头的支付宝集五福。 “一顿操作猛如虎，一看收入（优惠）两块五”，是两大营销活动存在的共性问题。2024 年春节档，新一年的支付宝集五福如期而至\n本文链接",
-          "link": "https://news.cnblogs.com/n/764611/",
-          "publishedOn": "2024-02-11T05:25:02.000Z",
-          "wordCount": 163,
-          "title": "为了避免“过气”，今年支付宝五福有多努力？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764610/",
-          "author": null,
-          "description": "文探客出行，作者廖鸿杰，编辑冯羽 近来，华为因智驾芯片产能不足，导致新车交付不力，引起了市场的关注。 而关注的焦点几乎都是集中在华为 MDC 810 计算单元（形同英伟达 Orin 智驾芯片）中某个组件的短缺。受波及的车型主要有智界 S7、阿维塔 12 和问界 M9。 当大家为华为智驾车型产能而担忧\n本文链接",
-          "link": "https://news.cnblogs.com/n/764610/",
-          "publishedOn": "2024-02-11T05:22:44.000Z",
-          "wordCount": 163,
-          "title": "抢占智驾芯片“高地”，英伟达“称霸”下的小厂突围",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764609/",
-          "author": null,
-          "description": "文首席人物观，作者未未，编辑江岳 “加强危机感，始终创业，逃逸平庸的重力。” 这是字节跳动 CEO 梁汝波在 2024 年 1 月 30 日年度全员上的发言，这被列为公司的新年第一优先级。一周之后，“创业”的关键词再度出现在公众视野。2 月 7 日，抖音集团 CEO 张楠宣布卸任，要以“始终创业”的\n本文链接",
-          "link": "https://news.cnblogs.com/n/764609/",
-          "publishedOn": "2024-02-11T05:21:16.000Z",
-          "wordCount": 163,
-          "title": "字节跳动的2024，只想好好“创业”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764608/",
-          "author": null,
-          "description": "文音乐先声，作者 范志辉 说起古典乐，总有一些曲高和寡的意味。 正如钢琴多年来被视为美好生活的想象，古典乐也被蒙上了一层阳春白雪的神秘面纱。而在数字时代，古典乐似乎也没有跟上时代的步伐，在当下主流的音乐 App 中显得有些边缘化。 但就像郎朗在三里屯 Apple Store 的 Today at A\n本文链接",
-          "link": "https://news.cnblogs.com/n/764608/",
-          "publishedOn": "2024-02-11T05:20:23.000Z",
-          "wordCount": 163,
-          "title": "Apple Music古典乐，鸡肋还是宝藏？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764607/",
-          "author": null,
-          "description": "文海豚投研 上季度上演大型变卦现场之后，阿里这次直接打头阵，开启 2023 年四季度中丐财报揭奖期（投雷期）。废话不说，直接上干货： 一）淘天：“纠偏、还债” 作为每次必会被市场放大镜反复来观察的一项，淘天客户管理收入 921 亿，同比增长 0.5%，最终结果还是稍稍等于已经被充分公司压低的市场预期\n本文链接",
-          "link": "https://news.cnblogs.com/n/764607/",
-          "publishedOn": "2024-02-11T05:19:24.000Z",
-          "wordCount": 163,
-          "title": "阿里：刮腐肉、露白骨，大手术后活得过来吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764606/",
-          "author": null,
-          "description": "文海豚投研 2 月 7 日美股盘前，“国际版滴滴” Uber 公布了 2023 年四季度财报，概括来看：本季度核心指标增长依旧强劲，但是在饱满的预期和估值下，缺乏打动投资人和市场的惊喜，详细要点如下： 1. 需求依旧稳健，至少目前如此：最核心的订单额表现上，基本盘的打车（Mobility）板块订单金\n本文链接",
-          "link": "https://news.cnblogs.com/n/764606/",
-          "publishedOn": "2024-02-11T05:17:18.000Z",
-          "wordCount": 163,
-          "title": "“十倍于滴滴” 的 Uber 业绩没毛病，但缺乏惊喜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764605/",
-          "author": null,
-          "description": "进入与发展中东市场最好的时机或将来临。 近年来，中国与中东国家之间的贸易往来越发紧密。2022 年，中国同中东国家的贸易额达 5071.52 亿美元，同比增长 27.1%，中国保持中东第一大贸易伙伴地位。其中，中国对中东国家出口 2289 亿美元，同比增长 16.4%。 最近，亚马逊推出“中东启航豪\n本文链接",
-          "link": "https://news.cnblogs.com/n/764605/",
-          "publishedOn": "2024-02-11T05:15:03.000Z",
-          "wordCount": 163,
-          "title": "亚马逊中国卖家掘金中东，这个跨境蓝海市场“年轻又多金”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764604/",
-          "author": null,
-          "description": "科技日报讯 （记者张佳欣）黑洞和星系哪个先出现？传统观点认为，黑洞是在第一批恒星和星系出现后形成的。然而，美国约翰斯·霍普金斯大学通过对詹姆斯·韦布太空望远镜数据进行分析发现，黑洞不仅存在于宇宙之初，而且还是新恒星诞生和星系形成的“助推器”。这些新见解颠覆了关于黑洞如何塑造宇宙的理论。相关论文发表在\n本文链接",
-          "link": "https://news.cnblogs.com/n/764604/",
-          "publishedOn": "2024-02-11T02:03:10.000Z",
-          "wordCount": 163,
-          "title": "黑洞成恒星诞生与星系形成助推器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764603/",
-          "author": null,
-          "description": "文 华商韬略，作者丨满建锋 2023 年过去了，谁是赚钱最多的中国人？ 黄峥。 以股票市值计算，他的财富在一年间增加了 1000 亿，平均每天暴赚 2.7 亿元，每小时就能收入 1125 万；马化腾、丁磊、李书福、李想也都实现了身家的逆势上涨。 除了这些大老板，带货直播间的小杨哥、董宇辉等网红主播也\n本文链接",
-          "link": "https://news.cnblogs.com/n/764603/",
-          "publishedOn": "2024-02-11T01:39:43.000Z",
-          "wordCount": 163,
-          "title": "2023，中国最赚钱的人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764602/",
-          "author": null,
-          "description": "2 月 7 日晚，阿里发布了 2024 财年第三季度业绩。这是 2024 年自然年以来阿里巴巴首次发布财报，在财报中可以看到阿里巴巴核心业务的现状以及未来的发展方向。其中，电商板块的核心淘天集团业务处于微增长状态。除此之外，在早先明确了以电商和云计算为核心业务外，阿里巴巴集团主席蔡崇信在随后的分析师\n本文链接",
-          "link": "https://news.cnblogs.com/n/764602/",
-          "publishedOn": "2024-02-10T15:14:22.000Z",
-          "wordCount": 163,
-          "title": "阿里大船也调头：核心业务寻求稳健增长，拖后腿业务出售几成定局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764601/",
-          "author": null,
-          "description": "文锌刻度，作者 黎炫岐，编辑 陈邓新 低调许久的小红书，却在今年率先靠春晚高调了一番。 近日，小红书官方公众号宣布：小红书正式成为中央广播电视总台《2024 年春节联欢晚会》笔记与直播分享平台。今年除夕夜，春晚与小红书共同准备了一场陪伴式直播《大家的春晚》。 而就在 2023 年末，小红书又一次传出\n本文链接",
-          "link": "https://news.cnblogs.com/n/764601/",
-          "publishedOn": "2024-02-10T15:13:15.000Z",
-          "wordCount": 163,
-          "title": "小红书，不上港股“上”春晚",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764600/",
-          "author": null,
-          "description": "文雷达财经，作者肖洒，编辑深海 “AI 芯片第一股”寒武纪，依然深陷亏损泥潭。 近期，该公司发布 2023 年业绩预告，预计全年归属净利润亏损 7.56 亿元-9.24 亿元，与上年同期相比亏损有所收窄，成为寒武纪财务数据公开披露以来的第七个亏损年头。 过去一年，AI 大模型站上最强风口，AI 芯片\n本文链接",
-          "link": "https://news.cnblogs.com/n/764600/",
-          "publishedOn": "2024-02-10T15:10:22.000Z",
-          "wordCount": 163,
-          "title": "寒武纪连亏七年，陈天石身价缩水超百亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764599/",
-          "author": null,
-          "description": "文趣解商业，作者张凯旌 辛辛苦苦一年，到了该发年终奖的时刻，“打工人”们的悲欢却并不相通。 有的“打工人”收获了“泼天富贵”。国产手机厂商传音控股（688036.SH）的所有员工，年终奖在原有基础上都会多发 30%；河南矿山起重机有限公司的年会现场，则是把现金拍在长桌上，以数钱方式发放奖金，有员工“\n本文链接",
-          "link": "https://news.cnblogs.com/n/764599/",
-          "publishedOn": "2024-02-10T15:09:11.000Z",
-          "wordCount": 163,
-          "title": "几家欢喜几家愁，大厂年终奖“劝退”了谁？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764598/",
-          "author": null,
-          "description": "文思辨财经 2023 年阿里一直不缺大新闻，集团拆分，换帅，业务负责人调整，发放企业历史首次股息 25 亿美金，大笔回购等等，中间穿插原定业务 IPO 的受阻，推迟等，加之最新风传的有关业务要出售的消息，每一个都能惊掉看客们下巴。 客观地说，阿里这一系列变动还是以积极因素为主，如拆分可以提高各个业务\n本文链接",
-          "link": "https://news.cnblogs.com/n/764598/",
-          "publishedOn": "2024-02-10T15:06:29.000Z",
-          "wordCount": 163,
-          "title": "已频频示好市场，阿里拐点怎么还不到？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764597/",
-          "author": null,
-          "description": "文文娱价值官，作者刘娜娜，编辑美圻 龙年春节前夕，长视频平台春节档剧集陆续安排上新，其中不乏全明星阵容出演的《南来北往》《大唐狄公案》《在暴雪时分》，各家也安排了符合节日气氛的喜剧作品《阿麦从军》《乡爱 16》《喜卷常乐城》。这些作品为站好最后一班岗的打工人和赶路的游子们，增添了一份快乐和轻松。 回\n本文链接",
-          "link": "https://news.cnblogs.com/n/764597/",
-          "publishedOn": "2024-02-10T14:41:30.000Z",
-          "wordCount": 163,
-          "title": "优酷、爱奇艺、腾讯，谁能抛出春节档“王炸”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764596/",
-          "author": null,
-          "description": "文读懂财经 曾经，很多人以为，ChatGPT 的横空出世，就几乎等于敲响搜索的丧钟。 这样的说法在当时不在少数。按前谷歌第 23 位员工、Gmail 的创建者之一 Paul Buchheit 的说法，ChatGPT 将摧毁谷歌，就像当年搜索引擎彻底干掉黄页电话簿一样。 一年时间过去了，AI 大模型替\n本文链接",
-          "link": "https://news.cnblogs.com/n/764596/",
-          "publishedOn": "2024-02-10T14:37:43.000Z",
-          "wordCount": 163,
-          "title": "成立一年估值5亿，Perplexity如何改变搜索方式？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764595/",
-          "author": null,
-          "description": "文蓝媒汇，作者闫烨，编辑魏晓 当《幻兽帕鲁》还在 Steam 上占领着全球在线人数排行榜前三的位置时，腾讯便抢先将自己同为大世界捉宠类游戏《创造吧！我们的星球》提档，火速安排玩家预约。 有人笑称：看来腾讯游戏特别是天美工作室的员工春节档又要加班大干一场了。 的确，这个春节档，对于游戏大厂来说，看不见\n本文链接",
-          "link": "https://news.cnblogs.com/n/764595/",
-          "publishedOn": "2024-02-10T14:37:04.000Z",
-          "wordCount": 163,
-          "title": "腾讯网易米哈游，狂卷春节档",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764594/",
-          "author": null,
-          "description": "文硅谷 101 你或许还记得《三体》电视剧中那场令人震撼的的“古筝行动”，制作团队近乎完美地还原了原著中纳米飞刃切割审判日巨轮的情节。那么，这个场景是如何制作出来的呢？ 近年来，国产影视作品特效水平大幅提升，数字特效技术的应用为丰富影视作品视觉效果、提升作品的表达空间打开了新的大门。而如今，随着生成\n本文链接",
-          "link": "https://news.cnblogs.com/n/764594/",
-          "publishedOn": "2024-02-10T14:22:33.000Z",
-          "wordCount": 163,
-          "title": "对话《三体》电视剧视觉导演陆贝珂：GenAI与Vision Pro如何改变影视特效业",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764593/",
-          "author": null,
-          "description": "文新立场 Pro 1 月 17 日，快手宣布跟携程达成战略合作。 快手称：“携程将首次进入快手本地生活生态，为快手老铁们提供高品质、多元化的旅行产品和服务，快手也将为此提供流量助推、商品补贴、达人合作等一揽子权益……接下来，携程将把景点门票、度假线路等优选产品供应链陆续接入快手平台，并通过快手的 P\n本文链接",
-          "link": "https://news.cnblogs.com/n/764593/",
-          "publishedOn": "2024-02-10T14:15:04.000Z",
-          "wordCount": 163,
-          "title": "携程落地快手，酒旅OTA终成B2B？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764592/",
-          "author": null,
-          "description": "文潜水鱼x，作者 麻仓叶，编辑何润萱 官宣赞助春晚，只是小红书这一年以来“高调”的缩影。 过去在商业化上总被形容成“佛系”的小红书，2023 经历了狂飙突进的一年。据彭博社报道，小红书预计 2023 年净利润将达到 5 亿美元，远超年初预计的不到 5000 万美元。熟悉小红书的用户们大约也发现，想要\n本文链接",
-          "link": "https://news.cnblogs.com/n/764592/",
-          "publishedOn": "2024-02-10T14:13:58.000Z",
-          "wordCount": 163,
-          "title": "小红书做影视，这么近那么远",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764591/",
-          "author": null,
-          "description": "文｜听筒 Tech，作者饶言 新的一年，大厂换高管的动作仍在持续，这次轮到了抖音。 2 月 7 日，抖音 CEO 张楠通过个人微信朋友圈宣布，辞去抖音集团 CEO 一职。 张楠称，未来将把主要精力聚焦于剪映业务，并带队寻求在 AI 辅助创作上有所突破，即将推出一个 AI 生图和视频的产品。 张楠在朋\n本文链接",
-          "link": "https://news.cnblogs.com/n/764591/",
-          "publishedOn": "2024-02-10T14:10:09.000Z",
-          "wordCount": 163,
-          "title": "抖音CEO张楠辞职，互联网正在告别女性高管？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764590/",
-          "author": null,
-          "description": "文雷达财经，作者孟帅，编辑深海 随着春节的脚步越来越近，各大平台过去一年的工作陆续进入收尾阶段。不过，即将到来的春晚，俨然成为了不少平台新的“战场”。继去年春晚互联网巨头们被“白酒军团”抢走风头之后，京东和小红书成为了今年春晚的“壕朋友”。 其中，京东的 title 是春晚的独家互动合作平台。雷达财\n本文链接",
-          "link": "https://news.cnblogs.com/n/764590/",
-          "publishedOn": "2024-02-10T14:09:09.000Z",
-          "wordCount": 163,
-          "title": "京东小红书成春晚“壕朋友”，“薅”顶流背后有啥焦虑？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764589/",
-          "author": null,
-          "description": "文｜自象限，作者丨程心，编辑丨罗辑 2013 春晚，微信支付打着红包的名义，在春晚向着支付宝悄然发动了偷袭，从此支付赛道从一家独大变成划江而治。这场战役，也被马云称为互联网历史上的“珍珠港”事件。 2023 年春节，同样的事情开始再次上演，只是风水轮换，抖音正欲“偷袭”腾讯。 近日，「自象限」发现，\n本文链接",
-          "link": "https://news.cnblogs.com/n/764589/",
-          "publishedOn": "2024-02-10T14:05:40.000Z",
-          "wordCount": 163,
-          "title": "大年三十，抖音“偷袭”腾讯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764588/",
-          "author": null,
-          "description": "文首席商业评论 奇葩年会年年有，今年仿佛特别多。 比如，今年格力公司年会上，众员工高喊“我妈就是董明珠”，可以说是震碎了三观。网友评论道，“给老板打工还得舞给老板看，还得管老板叫妈”。 而在新东方年会上，有员工大胆说出公司现状“都去做直播，搞文旅，谁都不管教育。老俞年纪已经六十几，天天直播说对不起。\n本文链接",
-          "link": "https://news.cnblogs.com/n/764588/",
-          "publishedOn": "2024-02-10T14:03:58.000Z",
-          "wordCount": 163,
-          "title": "年会上的那些事儿：员工嫌弃，老板有苦难言",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764587/",
-          "author": null,
-          "description": "2 月 9 日消息，根据华尔街日报报道，OpenAI 首席执行官山姆・阿尔特曼（Sam Altman）制定了雄心勃勃的 AI 芯片计划，目标筹集数万亿美元，改造全球半导体产业，推动通用人工智能（AGI）发展。 IT 之家援引华尔街日报，阿尔特曼正与阿联酋政府等投资者商讨，为其 AI 芯片项目争取更多\n本文链接",
-          "link": "https://news.cnblogs.com/n/764587/",
-          "publishedOn": "2024-02-10T14:02:21.000Z",
-          "wordCount": 163,
-          "title": "OpenAI阿尔特曼雄心勃勃：筹集7万亿美元挣脱芯片桎梏，推动通用人工智能落地",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764586/",
-          "author": null,
-          "description": "2 月 10 日消息，苹果 Vision Pro 头显目前已经在美国开售，256GB 版本起售价 3499 美元（IT 之家备注：当前约 25228 元人民币）。 而根据 IT 之家小伙伴投稿，当下这款头显已经上架拼多多“品牌百亿补贴”，售价 34999 元，并提供“1000 元无门槛券”，券后价 \n本文链接",
-          "link": "https://news.cnblogs.com/n/764586/",
-          "publishedOn": "2024-02-10T14:01:19.000Z",
-          "wordCount": 163,
-          "title": "Vision Pro头显上架拼多多“品牌百亿补贴”：相比京东国际便宜5000元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764585/",
-          "author": null,
-          "description": "文连线出行，作者周雄飞 造车，不是件容易的事。 自 2014 年我国新能源汽车产业发展起来后，整个产业中就一直流传着这句话。 如今站在新势力头部的蔚来、小鹏和理想，都在 2019 年纷纷进过“ICU”，蔚来 CEO 李斌甚至成为当年造车圈中“最惨的人”。 雷军和余承东，以及他们身后的小米汽车和华为，\n本文链接",
-          "link": "https://news.cnblogs.com/n/764585/",
-          "publishedOn": "2024-02-10T14:00:45.000Z",
-          "wordCount": 163,
-          "title": "雷军和余承东决战2024：困难、压力、All in",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764582/",
-          "author": null,
-          "description": "拿到 Vision Pro 的这段时间，我们玩儿遍了几乎所有的热门应用。 实际体验和之前外媒博主的总结如出一辙，尽管上头前已经对这台设备有了一定的了解，但亲自使用后，还是会有一些小小的震撼。 在逐渐习惯只用手眼的交互中，我们也搞清楚了「空间计算」的真正含义： 空间交互 空间影像 空间音频 苹果用这三\n本文链接",
-          "link": "https://news.cnblogs.com/n/764582/",
-          "publishedOn": "2024-02-10T13:55:56.000Z",
-          "wordCount": 163,
-          "title": "体验Vision Pro两周，我们发现了空间计算的杀手级应用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.cnblogs.com/n/764584/",
-          "author": null,
-          "description": "DoNews2 月 9 日消息，Arm 2024 财年第三财季营收和运营利润实现双增长，两项数字分别为 8.24 亿美元（当前约 59.33 亿元人民币）和 3.38 亿美元（当前约 24.34 亿元人民币），均高于分析师给出的数值。 后续，花旗将 Arm 目标价从 86 美元上调至 115 美元。\n本文链接",
-          "link": "https://news.cnblogs.com/n/764584/",
-          "publishedOn": "2024-02-10T13:23:00.000Z",
-          "wordCount": 163,
-          "title": "Arm美股涨超50%，第三财季利润3.38亿美元超预期",
-          "imageUrl": null
         }
       ]
     },
@@ -8328,6 +8308,16 @@
       "feedUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom",
       "siteUrl": "https://github.com/SwiftOldDriver/iOS-Weekly/releases",
       "articles": [
+        {
+          "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23280",
+          "author": null,
+          "description": "你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎到 Issues 提出。\n新闻\nPrivacy updates for App Store submissions\nPrivacy manifests and signatures 的 deadline 来了，5 月 1 日。目前大部分知名第三方库都已经完成了适配，例如：SDWebImage、FMDB、Protobuf、SnapKit 等，但也有部分如：MBProgressHU、Starscream 等年久失修可能得自己处理下。\n Developer - 设计开发加速器\nApple Vision Pro 开发者实验室 与 探索《人机界面指南》\n上海的 Vision Pro 的开发实验室即将迎来多场活动，3 月 27 日 与 4 月 24 日 的线下实验室，以及 4 月 10 日的 1 on 1 线上咨询。\n4 月 2 日还有探索《人机界面指南》 的活动。\n还没有亲自体验过 Vision Pro 的开发者千万不要错过本次活动。\n新手推荐\nThe power of inout parameters\n@zoeGuo：Swift 函数参数是常量，这意味着不能在函数内部修改入参的值。将参数标记为 inout 实际是将入参值引用，从而实现在函数内更改其值。文中举例了富文本 context 跟随 textView 的各属性值变化的例子说明使用 inout 参数可以减少重复表意的代码、使代码更简洁。\n文章\n🐕 Why Ollie is moving away from SwiftUI to UIKit\n@JonyFang: 本文描述了该团队在 SwiftUI 应用过程中经历了一系列关于 SwiftUI 和 Swift 并发的问题，最终决…",
+          "link": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23280",
+          "publishedOn": "2024-03-11T02:08:08.000Z",
+          "wordCount": 649,
+          "title": "老司机 iOS 周报 #280 | 2024-03-11",
+          "imageUrl": "https://opengraph.githubassets.com/314ad0ab6affaec4ce04d5e0ad640eed7bcbab41cb6b67c7fa98bd550236a7a4/SwiftOldDriver/iOS-Weekly/releases/tag/%23280"
+        },
         {
           "id": "https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23279",
           "author": null,
