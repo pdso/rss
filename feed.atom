@@ -2,10 +2,376 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pdso.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T01:02:14.664Z</updated>
+    <updated>2024-03-22T01:01:19.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://pdso.github.io/rss/index.html"/>
     <link rel="self" href="https://pdso.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 294 期）：崖门海战的感想]]></title>
+        <id>http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html"/>
+        <updated>2024-03-22T00:11:26.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+上海徐家汇的美罗城，在球形屏幕上播放漫画作品《七龙珠》的图像，纪念本月去世的日本漫画家鸟山明。（via）
+崖门海战的感想
+前一段日子，我在广东旅行，路过江门市。
+我偶然发现，著名的崖门海战发生在这里，就去参观了。
+
+如果你不知道，崖门海战是南宋军队最后被元军歼灭的地方，也就是南宋灭亡之地，位于今天的江门市新会区古井镇官冲村。具体时间是1279年3月19日，本周正好是745周年。
+那个地方可真远，我先从江门市区到了新会，它距离新会城区还有30多公里，公共交通只有一部从古井镇出发的、班次很少的郊区客运，基本上你只能自驾或打的前往。
+即使按照今天的标准，它都属于偏远，何况当年。南宋朝廷是何等窘迫，要逃到这种地方落脚。
+
+（图片说明：景区没有多少留存的古迹，只有重建的崖山祠。）
+参观后，我浮想联翩，觉得真是不可思议，南宋军队犯了那么多低级错误，才导致灭亡。
+下面，我分享我看到的一些细节，好像没有人说过。
+首先，崖门海战不是发生在海里。
+我一直以为，既然是海战，那一定是在海边。错了！战场遗址是在一个陆上水道，距离大海至少还有十几公里。
+
+上面是百度地图的截图，可以看到战场距离入海口还有很长一段路。
+虽然古代的海岸线跟今天不一样，但是根据古代地图（下图）以及纪念馆的沙盘（下图），战场确实是在水道里面，不是在开阔海域。
+
+
+下面是我拍的实地照片，虽然天气不好，灰蒙蒙的，但是能看清水道其实很狭窄。
+
+你能相信吗，20万人、上千艘船就在这么一条狭窄的水道里面厮杀？
+这么一点点地方，根本无法施展，不要说战术，恐怕布阵都困难，完全就是混战。加之两岸都是平滩，也无法陆上支援，防守的一方基本上就是听人宰割，这也是当天实际…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌推出「Google 学术搜索 PDF 阅读器」Chrome 插件]]></title>
+        <id>https://news.cnblogs.com/n/766766/</id>
+        <link href="https://news.cnblogs.com/n/766766/"/>
+        <updated>2024-03-21T16:45:40.000Z</updated>
+        <summary type="html"><![CDATA[谷歌近日推出了名为「Google 学术搜索 PDF 阅读器」的 Chrome 插件，用于提升论文阅读体验： 追踪参考文献 重点浏览大纲 跳转到图表 引用并保存 功能介绍 ・在阅读时预览参考文献。点击论文内引用内容，即可查看摘要及找到相应 PDF 文件。 ・扫描目录。对方法、成果或讨论内容感兴趣？点击
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[追觅科技郭人杰：扫地机器人市场渗透率的提升，难以靠降价实现]]></title>
+        <id>https://news.cnblogs.com/n/766765/</id>
+        <link href="https://news.cnblogs.com/n/766765/"/>
+        <updated>2024-03-21T16:41:05.000Z</updated>
+        <summary type="html"><![CDATA[2023 年，智能清洁市场的增速出现了大幅下滑。 市场研究机构 GFK 数据显示，中国清洁电器市场规模从 2012 年 29 亿元增长到 2022 年的 348 亿元，10 年间市场规模扩大了 12 倍，年均复合增长率达到 28.2%，远远跑赢同期中国家电市场整体 2.3% 的年均增长率。但到了 2
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直播退货率80%，一年卖3亿的新中式服饰神话破了？]]></title>
+        <id>https://news.cnblogs.com/n/766764/</id>
+        <link href="https://news.cnblogs.com/n/766764/"/>
+        <updated>2024-03-21T16:39:11.000Z</updated>
+        <summary type="html"><![CDATA[文 Tech 星球，作者 林京 “直播间 80% 退货率，现在新中式服饰太卷了”，一位服装主播向 Tech 星球吐槽，新中式服饰款式比较多，很多消费者受尝鲜心理驱动购买，他们一次性购买得多，退得也多。 过去一年，“新中式”概念成为新的流量密码。继新中式茶馆、新中式糖水铺、新中式馒头之后，新中式的风终
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[短剧重度用户规模直逼长视频会员，但它“钱途”尚不明朗]]></title>
+        <id>https://news.cnblogs.com/n/766763/</id>
+        <link href="https://news.cnblogs.com/n/766763/"/>
+        <updated>2024-03-21T16:32:00.000Z</updated>
+        <summary type="html"><![CDATA[图片来自快手官方 尽管短剧成为了短视频平台寻找新的增量的关键，甚至其内容品类还在去年成功“出海”，打入了北美市场，但它可能对平台财务业绩的贡献的范围很有限。 3 月 20 日，快手公布了 2023 年第四季度及全年业绩，快手 2023 年全年总收入达 1134.7 亿元，同比增长 20.5%。全年经
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电影和线下演出强势复苏，猫眼娱乐2023年业绩爆表]]></title>
+        <id>https://news.cnblogs.com/n/766762/</id>
+        <link href="https://news.cnblogs.com/n/766762/"/>
+        <updated>2024-03-21T16:25:50.000Z</updated>
+        <summary type="html"><![CDATA[界面新闻记者肖芳 界面新闻编辑宋佳楠 3 月 21 日， 猫眼娱乐正式发布 2023 年全年业绩公告。其总收入为 47.57 亿元，较 2022 年同期增长 105.1%；净利润为 9.08 亿元，较上年同期暴涨 766.2%；期内经调整净利润为 10.29 亿元，也比 2022 年大幅增长了 34
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年收入1000万美金、估值接近10亿美元，Perplexity AI 能“干翻”谷歌吗？]]></title>
+        <id>https://news.cnblogs.com/n/766761/</id>
+        <link href="https://news.cnblogs.com/n/766761/"/>
+        <updated>2024-03-21T16:18:25.000Z</updated>
+        <summary type="html"><![CDATA[图片由通义万相生成 钛媒体 App 3 月 14 日消息，估值近 10 亿美元的美国人工智能（AI）搜索公司 Perplexity AI 宣布，其搜索产品 Perplexity 中引入了餐饮点评网站 Yelp 的数据。 Perplexity AI 联合创始人兼首席执行官 Aravind Sriniv
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克：Neuralink 的“盲视”植入物已在猴子身上成功应用]]></title>
+        <id>https://news.cnblogs.com/n/766760/</id>
+        <link href="https://news.cnblogs.com/n/766760/"/>
+        <updated>2024-03-21T16:17:34.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 3 月 21 日消息，埃隆・马斯克近日公布了 Neuralink 的下一代产品 ——Blindsight（意为“盲视”）。正如产品名称所暗示的那样，这款设备将用于恢复或重建视力。 马斯克表示：“需要指出的是，Blindsight 植入装置已经在猴子身上成功应用。最初的清晰度可能较低，类似
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客发现特斯拉系统漏洞，赢得 20 万美元奖金和一辆 Model 3]]></title>
+        <id>https://news.cnblogs.com/n/766759/</id>
+        <link href="https://news.cnblogs.com/n/766759/"/>
+        <updated>2024-03-21T16:17:13.000Z</updated>
+        <summary type="html"><![CDATA[IT 之家 3 月 21 日消息，黑客通过发现特斯拉系统的新漏洞，赢得了一辆全新的 Model 3 轿车和 20 万美元（IT 之家备注：当前约 144.2 万元人民币）的奖金。 多年来，特斯拉一直大力投资网络安全，并与白帽黑客密切合作。特斯拉通过提供丰厚奖金和旗下电动汽车的方式，积极参与 Pwn2
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜马拉雅：睡前场景活跃，用户日均收听1.32小时]]></title>
+        <id>https://news.cnblogs.com/n/766758/</id>
+        <link href="https://news.cnblogs.com/n/766758/"/>
+        <updated>2024-03-21T16:16:30.000Z</updated>
+        <summary type="html"><![CDATA[3 月 21 日消息，据慕思联合中国睡眠研究会、艾瑞咨询、喜马拉雅联合发布的《2024 情绪与健康睡眠白皮书》显示，61% 的受访者存在睡眠困扰，86% 的受访者认为睡眠与情绪相互影响。 喜马拉雅的大数据洞察显示，睡前助眠场景是用户收听音频的主要焦点。其中，64% 的用户通过收听音频来解压放松、缓解
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“鹊桥”升空 了！直径4.2米大“锅盖”助力月球连线地球 | 科技观察]]></title>
+        <id>https://news.cnblogs.com/n/766757/</id>
+        <link href="https://news.cnblogs.com/n/766757/"/>
+        <updated>2024-03-21T16:15:45.000Z</updated>
+        <summary type="html"><![CDATA[来源：封面新闻 △鹊桥二号打开的大伞 封面新闻记者张峥边雪 春分时刻，作为探月四期后续工程的“关键一环”，鹊桥二号中继星的成功发射，奏响了探月工程四期的揭幕凯歌。后续，鹊桥二号将在地面测控支持下，经过中途修正、近月制动，进入捕获轨道；随后经轨道控制后进入调相轨道，最后进入 24 小时周期的环月使命轨
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯投的Reddit今晚上市：发行价34美元 募资总额7.48亿美元]]></title>
+        <id>https://news.cnblogs.com/n/766756/</id>
+        <link href="https://news.cnblogs.com/n/766756/"/>
+        <updated>2024-03-21T16:11:45.000Z</updated>
+        <summary type="html"><![CDATA[雷递网雷建平 3 月 21 日 “美国天涯”、社交网站 Reddit（股票代码：RDDT）今日在纽交所上市，发行价为 34 美元，发行 2200 万股，募资总额为 7.48 亿美元。 其中，Reddit 公司发行 1527.6 万股，获得 5.2 亿美元；现有股东出售 672.35 万股，套现 2.
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百万token上下文窗口也杀不死向量数据库？CPU笑了]]></title>
+        <id>https://news.cnblogs.com/n/766755/</id>
+        <link href="https://news.cnblogs.com/n/766755/"/>
+        <updated>2024-03-21T16:05:45.000Z</updated>
+        <summary type="html"><![CDATA[金磊梦晨发自凹非寺 量子位公众号 QbitAI “Claude 3、Gemini 1.5，是要把 RAG（检索增强生成）给搞死了吗？” 随着新晋大语言模型们的上下文窗口（Context Window）变得越发得长，业界人士针对“RAG 终将消亡”观点的讨论也是愈演愈烈。 之所以如此，是因为它们二者都
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F1 高管震惊的发现车队用 Excel 管理 2 万个零部件]]></title>
+        <id>https://www.solidot.org/story?sid=77664</id>
+        <link href="https://www.solidot.org/story?sid=77664"/>
+        <updated>2024-03-21T16:02:47.000Z</updated>
+        <summary type="html"><![CDATA[威廉姆斯车队负责人 James Vowles 和首席技术官 Pat Fry 从 2023 年初开始重新设计车队的赛车设计和制造系统。他们遇到的一大障碍是 Microsoft Excel。他们震惊的发现车队用 Excel 管理 2 万个零部件，而这个庞大的 Excel 文件缺乏每个零部件的成本、生产时间以及零部件是否已订购的信息。每个零部件可能处于多种状态——订购、缺货、已检验和退货，这导致了很多问题。F1 车队使用 Excel 去建造世界上最复杂最高效的赛车，这些赛车的成本在 1200 万到 1600 万美元之间，资源上限 1.45 亿美元。使用 Excel 在 F1 车队中并不罕见，据报道 2017 年雷诺车队的 Excel 表格有 77,000 行长，是 2023 年威廉姆斯车队 Excel 表格的三倍多长。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国起诉苹果涉嫌垄断]]></title>
+        <id>https://www.solidot.org/story?sid=77663</id>
+        <link href="https://www.solidot.org/story?sid=77663"/>
+        <updated>2024-03-21T15:18:54.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部起诉苹果公司，指控该公司通过限制竞争对手使用 iPhone 功能和垄断智能手机市场，违反了反垄断法。递交到新泽西州地方法院的起诉书称，苹果通过一系列合同限制压制创新，通过控制应用分发和应用审核流程以及拒绝访问 API 选择性执行限制。美国司法部寻求法庭颁布命令，判定苹果非法垄断美国智能手机市场，阻止苹果继续其涉嫌的反竞争行为。苹果对诉讼表达了强烈反对，表示将会不遗余力的为自己辩护。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit 上市 IPO 定价 34 美元]]></title>
+        <id>https://www.solidot.org/story?sid=77662</id>
+        <link href="https://www.solidot.org/story?sid=77662"/>
+        <updated>2024-03-21T14:59:35.000Z</updated>
+        <summary type="html"><![CDATA[美国社交网站 Reddit 周四在纽约证券交易所上市，股票代码为“RDDT”，IPO 定价 34 美元，高于预期区间。Reddit 预计将在 IPO 中筹集到近 5 亿美元，其估值为 54 亿美元，比 2021 年 8 月融资时的 100 亿美元估值要相去甚远。腾讯持有 Reddit 约 11% 的股份。创业孵化器 Y Combinator 的联合创始人 Paul Graham 在官方博客上回顾了 19 年前他与 Reddit 联合创始人 Steve Huffman 和 Alexis Ohanian 相遇以及资助他们创业的经历。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Store 宣布将发布 iOS 和 Android 版，佣金 12%]]></title>
+        <id>https://www.solidot.org/story?sid=77661</id>
+        <link href="https://www.solidot.org/story?sid=77661"/>
+        <updated>2024-03-21T14:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Epic Games 宣布其游戏商店将在年底前发布 iOS 和 Android 版，相比竞争对手最高三成的佣金，Epic Games Store（EGS） 的佣金比例为 12%。Epic Games 表示，移动版商店和 PC 版商店的条款相同。前六个月开发商获得全部销售收入。如果应用内购买利用的是开发商自己的支付方式，那么 EGS 不会分佣金，开发商可以保留 100% 的收入。EGS 将是专注于游戏的多平台商店，支持 Android、iOS、PC 和 macOS，不过在 PC 上最流行的游戏商店仍然是 Steam，EGS 目前仍然是靠每周的免费游戏吸引玩家使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生育率下降将改变全球经济]]></title>
+        <id>https://www.solidot.org/story?sid=77660</id>
+        <link href="https://www.solidot.org/story?sid=77660"/>
+        <updated>2024-03-21T11:06:47.000Z</updated>
+        <summary type="html"><![CDATA[发表在《柳叶刀》期刊上的一项新研究显示，未来 25 年大多数国家生育率的下降将推动全球人口结构的转变，将对社会和经济产生深远影响。预计到 2050 年，四分之三国家的生育率将低于人口替代率，使增长集中在撒哈拉以南非洲和亚洲的少数低收入国家，这些国家面临着资源短缺和气候变化的严重威胁。研究预测，到 2050 年 204 个国家和地区中 76% 生育率将低于人口替代率，到 2100 年这一比例增加到 97%。预计到 2100 年，撒哈拉以南非洲国家的出生人口将占全球的一半。联合国预测，全球人口到 2050 年将增加到 97 亿，在 2080 年代中期达到 104 亿的峰值。但这一预测忽略了许多国家的总和生育率已经低于 2.1 的人口替代率。研究预测，2050 年西欧的总和生育率将为 1.44，而韩国为全球最低的 0.82。到 2100 年，预计只有 6 个国家的生育率高于 2.1：中亚的塔吉克斯坦、太平洋岛屿汤加和萨摩亚，以及非洲索马里、乍得和尼日尔。随着国家变得富裕，女性生育的孩子数通常会减少——中国的独生子女政策强化了这一趋势。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国司法部考虑与 Julian Assange 讨论认罪协议]]></title>
+        <id>https://www.solidot.org/story?sid=77659</id>
+        <link href="https://www.solidot.org/story?sid=77659"/>
+        <updated>2024-03-21T10:42:06.000Z</updated>
+        <summary type="html"><![CDATA[WSJ 周三报道，美国司法部考虑与 WikiLeaks 创始人阿桑奇（Julian Assange）达成认罪协议，结束长达 14 年的法律纠纷。如果阿桑奇承认不当处理机密文件的轻罪，美司法部考虑撤销《间谍法》下的 18 项指控。阿桑奇将能从伦敦远程参与抗辩，且有望在协议达成后很快获释，因为他已被英国关押了五年。阿桑奇法律团队对此回应称，他们不知道检方诉讼策略的任何变动。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国科学家将猪肝移植入人体]]></title>
+        <id>https://www.solidot.org/story?sid=77658</id>
+        <link href="https://www.solidot.org/story?sid=77658"/>
+        <updated>2024-03-21T09:24:08.000Z</updated>
+        <summary type="html"><![CDATA[中国一名 50 岁的临床死亡男子成为第一个接受猪肝脏移植的人，这是动物器官移植到人体内的一个里程碑。在征得该男子家人的同意后，研究人员将基因工程微型猪的器官缝合到该男子的血管中，并在血管中保存了 10 天。目的是测试转基因猪器官是否有一天可以为医院提供移植手术。仅在中国，每年就有数十万人经历肝功能衰竭，但在 2022 年，只有大约 6000 人接受了肝移植。最新手术的肝脏来自成都克隆器官生物技术公司培育的一只巴马迷你猪。它包含六种基因修饰。他们使猪细胞表面的三个蛋白质基因失活，并引入三个人类蛋白质基因，以防止供体排斥猪器官。这头猪是在一个专门的无病原体设施中饲养的。到目前为止，没有出现器官排斥反应的迹象，肝脏正在分泌胆汁。研究人员计划今年晚些时候在另一个临床死亡的人身上重复这一过程，下次他们将移除人现有的肝脏。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apex Legends 黑客称入侵锦标赛游戏是出于好玩]]></title>
+        <id>https://www.solidot.org/story?sid=77657</id>
+        <link href="https://www.solidot.org/story?sid=77657"/>
+        <updated>2024-03-21T09:04:14.000Z</updated>
+        <summary type="html"><![CDATA[上周，在热门射击游戏《Apex Legends》的电竞锦标赛期间，黑客设法让两名知名游戏主播在游戏中开挂。遭到入侵的主播在直播中惊讶的大喊被黑了被黑了。赛事主办方被迫无限期推迟比赛。发动攻击的黑客自称是 Destroyer2009 和 R4andom，其中 Destroyer2009 接受采访时表示只是为了好玩，旨在迫使开发商修复游戏漏洞。他拒绝披露漏洞细节，称在完全修复和一切恢复正常前不会公布漏洞信息，表示漏洞与服务器无关，他没有攻击游戏主播的计算机，一切都是在游戏程序中完成的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清华系AI推理部署创企获华为战投领投！已完成昇腾国产卡适配优化]]></title>
+        <id>https://news.cnblogs.com/n/766754/</id>
+        <link href="https://news.cnblogs.com/n/766754/"/>
+        <updated>2024-03-21T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[清昴智能投稿 量子位公众号 QbitAI 清华系围绕大模型创业的诸多团队中，还有一位较为低调隐秘的成员，清昴智能。 定位是“AI 推理部署解决方案提供商”。 近期，市场传来消息，华为战投领投了清昴智能的A轮融资。去年 6 月，该公司宣布完成数千万元的天使轮融资，由绿洲资本独家领投。 据了解，华为战投
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNF手游Q2发布，腾讯电话会实录：手握8款长青游戏，聚焦大作]]></title>
+        <id>https://news.cnblogs.com/n/766753/</id>
+        <link href="https://news.cnblogs.com/n/766753/"/>
+        <updated>2024-03-21T08:28:00.000Z</updated>
+        <summary type="html"><![CDATA[【GameLook 专稿，未经授权不得转载】 GameLook 报道/3 月 20 日，腾讯发布 2023 年第四季度及全年财报。财报显示，2023 年全年，腾讯实现营收 6090.15 亿元，同比增长 10%，归母净利润(Non-IFRS)为 1576.88 亿元，同比增长 36%，增速扭负为正。
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“宝藏AI神器”通义听悟上新：超长音视频随便问，羊毛可薅]]></title>
+        <id>https://news.cnblogs.com/n/766752/</id>
+        <link href="https://news.cnblogs.com/n/766752/"/>
+        <updated>2024-03-21T08:21:00.000Z</updated>
+        <summary type="html"><![CDATA[西风发自凹非寺 量子位公众号 QbitAI 家人们，大模型加持的 AI 神器，真的救了大命了—— 就在几天前，我被老板要求整理 AI 大神何恺明 MIT 第一课的内容，ddl 非常紧张。然而全英文各种专有名词听的我一头雾水。 好巧不巧，有朋友给我推荐了阿里通义听悟，他们刚上新 AI 音视频问答助手“
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这场全球赛事，将我拉回那个电竞最火热的年代]]></title>
+        <id>https://news.cnblogs.com/n/766751/</id>
+        <link href="https://news.cnblogs.com/n/766751/"/>
+        <updated>2024-03-21T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[GameLook 报道/不经意间，无畏契约赛事站上了电竞舞台的正中央。 最直观的感受是，好几位印象中对游戏和电竞不太热心的身边朋友，近期接连开始在朋友圈分享无畏契约马德里大师赛的观赛感想，让这款游戏不显山不露水地占领了我的生活。 而在微博和抖音等平台上，#无畏契约马德里大师赛#的主话题阅读量分别达到
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汽车博主称特斯拉给中国电动车“放水”了 不然得死一大批]]></title>
+        <id>https://news.cnblogs.com/n/766750/</id>
+        <link href="https://news.cnblogs.com/n/766750/"/>
+        <updated>2024-03-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3 月 19 日消息，日前，知名汽车博主“@ 二师兄”发文称，虽然特斯拉在国内的很多产品力已经跟不上时代了，但是所有中国新能源品牌，都得起立感谢特斯拉。 该博主给出了三个理由： 一、如果特斯拉不来中国开工厂，不降价到 20 万价位，现在的中国新能源市场不会有这么卷，也不会发展这么快。 二、特斯拉让最
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[突发！Stable Diffusion核心团队被曝集体离职]]></title>
+        <id>https://news.cnblogs.com/n/766749/</id>
+        <link href="https://news.cnblogs.com/n/766749/"/>
+        <updated>2024-03-21T07:42:00.000Z</updated>
+        <summary type="html"><![CDATA[西风发自凹非寺 量子位公众号 QbitAI 最新消息，Stable Diffusion 核心研究团队已集体辞职！ 名单包括研究团队领导、论文一作 Robin Rombach，共同一作 Andreas Blattmann，以及另一位作者 Dominik Lorenz。 尽管当事人尚未回应离职原因，但《
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旷视实战大模型：把多模态扎进行业]]></title>
+        <id>https://news.cnblogs.com/n/766748/</id>
+        <link href="https://news.cnblogs.com/n/766748/"/>
+        <updated>2024-03-21T07:37:00.000Z</updated>
+        <summary type="html"><![CDATA[允中发自凹非寺 量子位公众号 QbitAI 距离 ChatGPT、GPT-4 等引爆新一轮人工智能变革的时刻，已经过去了整整一年的时间。在这一年里，国内外大量公司涌入大模型的“斗兽场”，加速大模型技术的迭代与跃迁。 大模型前所未有的通用任务处理能力，让所有人看到了解锁更多应用场景的可能性。各行各业开
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flightradar24 发布 GPS 干扰地图]]></title>
+        <id>https://www.solidot.org/story?sid=77656</id>
+        <link href="https://www.solidot.org/story?sid=77656"/>
+        <updated>2024-03-21T07:35:21.000Z</updated>
+        <summary type="html"><![CDATA[航班追踪平台 Flightradar24 发布 GPS 干扰地图，让用户能一览世界各地的 GPS 干扰区域。地图使用不同颜色代表干扰水平，绿色代表低干扰，红色代表高干扰。GPS 干扰中 GPS 并不单指 GPS 导航系统，还包括了其它导航系统如俄罗斯 GLONASS、欧洲伽利略和中国北斗。地图是根据航班上的 ADS-B 信息判断干扰，比如乌克兰上空基本上没有民用航班，因此也缺乏干扰相关信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脑后插管玩《文明6》！马斯克Neuralink首个人类患者直播意念象棋]]></title>
+        <id>https://news.cnblogs.com/n/766747/</id>
+        <link href="https://news.cnblogs.com/n/766747/"/>
+        <updated>2024-03-21T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[梦晨发自凹非寺 量子位公众号 QbitAI 马斯克旗下 Neuralink，搞了一场脑机接口游戏直播。 首位测试志愿者Noland Arbaugh现身，用意念下起国际象棋，2500 万网友在线围观。 如果你们能看到光标在屏幕上移动，那个就是我。 老哥是国际象棋退役选手，在八年前一次潜水事故后，肩膀以
+本文链接]]></summary>
+        <author>
+            <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度将事实核查政府事务相关社媒帖子]]></title>
+        <id>https://www.solidot.org/story?sid=77655</id>
+        <link href="https://www.solidot.org/story?sid=77655"/>
+        <updated>2024-03-21T07:19:53.000Z</updated>
+        <summary type="html"><![CDATA[印度的一个政府机构将对社交媒体上与政府事务相关的帖子进行监控和事实核查。电子和信息技术部周三在一份公报中表示，它正在修订 IT Rules 2021，将新闻信息局的事实核查部门成为政府事务真相的唯一仲裁者的提议纳入法律。科技公司以及在印度有超过 500 万用户的社媒平台被要求做出合理的努力，不得展示、存储、传输或其它方式共享与与政府事务相关的误导性或欺骗性信息。这一政策受到广泛争议，此前代表 Meta、亚马逊、Google 和苹果的行业组织表示这项法律容易滥用，会严重侵犯言论自由，将迫使社媒平台进行严格的自我审查。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[持有 20 亿英镑比特币的华裔女性因参与洗钱被定罪]]></title>
+        <id>https://www.solidot.org/story?sid=77654</id>
+        <link href="https://www.solidot.org/story?sid=77654"/>
+        <updated>2024-03-21T06:17:42.000Z</updated>
+        <summary type="html"><![CDATA[42 岁的 Jian Wen 因参与洗钱相关活动被定罪，她的刑期将于 5 月 10 日公布。Wen 以前是中餐馆的外卖工，住在中餐馆楼上的公寓内，参与加密货币洗钱活动之后改变了生活方式，2017 年搬进了伦敦北部的一栋六居室，月租逾 1.7 万英镑，她还将儿子送到私立学校上学。她试图在伦敦购买昂贵的房产，但难以通过反洗钱检查，她声称自己的比特币是挖矿来的。她后来出国旅行在苏黎世购买了数万英镑的珠宝，在迪拜购买了房产。加密货币洗钱行动的幕后操作者尚未被抓住。伦敦警方扣押的比特币最初价值 20 亿英镑，后因为币值上涨，价值增加到了 34 亿英镑。警方扣押的大量文件都是中文。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[婴儿时期的记忆未必都遗忘了]]></title>
         <id>https://news.cnblogs.com/n/766688/</id>
@@ -103,6 +469,26 @@
 本文链接]]></summary>
         <author>
             <name>博客园_新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一款使用 Open 3D Engine 的大型游戏]]></title>
+        <id>https://www.solidot.org/story?sid=77653</id>
+        <link href="https://www.solidot.org/story?sid=77653"/>
+        <updated>2024-03-20T16:13:25.000Z</updated>
+        <summary type="html"><![CDATA[2021 年亚马逊宣布将其基于 CryEngine 的游戏引擎 Lumberyard 的一个版本捐赠给 Linux 基金会，在 Apache 2.0 许可证下作为 Open 3D Engine (O3DE)提供给游戏公司，允许不受限制的自由使用。Linux 基金会则宣布成立了 Open 3D 基金会。近三年之后，Linux 基金会宣布了第一款使用 O3DE 的大型游戏——Carbonated 公司为 iOS 和 Android 设备开发的第三人称射击手游《MadWorld》。希望这只是开端，未来会有更多公司使用开源游戏引擎开发游戏。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME 46 释出]]></title>
+        <id>https://www.solidot.org/story?sid=77652</id>
+        <link href="https://www.solidot.org/story?sid=77652"/>
+        <updated>2024-03-20T15:49:17.000Z</updated>
+        <summary type="html"><![CDATA[GNOME 桌面环境项目释出了最新的 GNOME 46。主要变化包括：实验性的可变刷新率（variable refresh rate）支持，继续 systemd-homed 加密整合，改进搜索，改进文件管理器，GNOME Online Accounts 支持 Microsoft OneDrive，RDP 远程登录支持，应用改进，性能优化等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -10660,503 +11046,6 @@ day1
         <summary type="html"><![CDATA[WebKit 项目宣布其 2D 图形渲染切换到 Skia 库。Skia 图形库最初由同名公司开发，2005 年该公司被 Google 收购，2008 年在 New BSD 许可证下开源，它目前已被应用于 Android、Google Chrome、Chrome OS、Chromium OS、Mozilla Firefox、Firefox OS 等项目。WebKit 开发者称，基于 CPU 的 2D 图形渲染器已达到其极限，很多 Web 引擎都将更多渲染工作转移给 GPU，Skia 是少数支持 GPU 渲染的 2D 开源图形库。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软监视其 AI 工具的使用者]]></title>
-        <id>https://www.solidot.org/story?sid=77409</id>
-        <link href="https://www.solidot.org/story?sid=77409"/>
-        <updated>2024-02-21T12:54:07.000Z</updated>
-        <summary type="html"><![CDATA[微软最近披露，它监测到俄罗斯、朝鲜、伊朗和中国的黑客组织使用其 AI 大模型增强其网络侦察和攻击能力。举例来说，朝鲜黑客组织 Emerald Sleet 获取朝鲜相关智库和专家的信息，用大模型生成用于钓鱼攻击的内容，了解已知的漏洞和获取技术上的帮助。知名安全专家 Bruce Schneier 指出，这事实上证明了微软一直在监视其 AI 工具的使用者。微软 AI 合作伙伴 OpenAI 在其隐私政策中声明，会保留 API 输入输出 30 天，如果法律有要求会保留更长时间的用户日志。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[听起来可笑，但我在 2023 年重启了我的博客]]></title>
-        <id>https://sspai.com/post/86491</id>
-        <link href="https://sspai.com/post/86491"/>
-        <updated>2024-02-21T12:34:34.000Z</updated>
-        <summary type="html"><![CDATA[本文参加 2023 年度征文活动。我的 2023 年度关键词是：重启。
-在 2023 年 12 月到 2024 年 1 月，我关注的各大博主、UP 主都在陆续总结自己的 2023 年。拜我年初重启博客的决定所赐，我今年有想写的东西了，但坐在电脑面前，总感觉缺了点儿什么，情绪一直跟灵感较劲，直到我看到了老麦发布的 2023 年度征文，嘴角才开始疯狂上扬。
-这是对我整个 2023 年的心路总结，也是我人生阶段新的开始。
-博客的 Shutdown
-上次博客更新时间是什么时候？大学第一年（2016）？
-博客文章残影
-当时写了几篇有关 ACM 算法相关的文章，流水账一样地记录了我攻破这些问题的思考过程，然后，我便忘记更新和维护了。博客的原始文件也随着时间的推移和设备的不断更新而遗失。
-博客重启的契机：为了这碟醋包了顿饺子
-在 2023 年初，我突然想找个地方记录一下我当时折腾一个蓝牙墨水屏的过程，因为我感觉这个折腾的过程还挺好玩的。
-蓝牙墨水屏
-最适合的地方当属个人博客：可惜我的博客源文件找不到了……
-要不某 XXDN？不行不行，这平台太乱了，平时我搜索引擎都设置了过滤掉所有 CSDN 结果，因为这个平台几乎任何信息需要付费或者登陆才能查看，已经完全背离了互联网共享精神。
-某书？虽然我大学期间也在该平台发布过几篇文章，还上过首页（羞），但看它现在半死不活的样子，实在提不起兴趣。
-索性重新搭建一个博客平台吧，至少没人会拒绝我的投稿，这个博客网站我说了算！
-（当时没想过发少数派的心路历程是：少数派的投稿门槛应该很高吧，毕竟这可是我每天都刷的少数派，日常看上边的文章质量那么高，我的文章投稿在这？想啥呢？）
-博客系统或工具的选择
-大学期间我使用过 Hexo 搭建个人博客，托管在 Github Page 服务上。
-这次重启博客，我想找一个带后台、省心的工具，于是就用上了这个：Halo。
-Hal…]]></summary>
-        <author>
-            <name>千里之豪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用 Screen Studio 灵活高效录制可复用的教学视频？]]></title>
-        <id>https://sspai.com/post/86574</id>
-        <link href="https://sspai.com/post/86574"/>
-        <updated>2024-02-21T12:14:54.000Z</updated>
-        <summary type="html"><![CDATA[如果你跟我一样，录制视频是高频刚需，那你不难体会到它对用户痛点的理解和解决。
-
-挑战
-作为一名教师兼 UP 主，我经常录制视频。
-之前录制教程类视频，我往往采用自己的标准「懒人法」—— 从头到尾，用 OBS 录制屏幕和摄像头。除非摄像头挡住了展示内容，否则就这么一直讲下去；如果当上了，拖拽一下摄像头部分的位置到另外角落，或者暂时关闭它，然后继续。
-
-后来，我干脆把演示屏幕部分收窄，这样基本上摄像头不会遮挡屏幕重要内容了。于是更可以「一镜到底」。
-
-但是，这样做简便归简便，也有缺点。
-最大的缺点，就是这种方式更适合于展示静态场景，不适合动态演示。如果需要我一边解说，一边逐步演示，这种方式就不是很适合。因为我还得自己去调整主体场景的录制区域，甚至还得关心它显示的长宽比。
-另外，在这样的设定下演示，录制的往往是整个儿窗口甚至屏幕，文字显示的字体会比较小，在小屏播放设备（例如你的手机）上难以有效识别。所以不少观众会抱怨说看不清，让我能够在剪辑的时候对重要部分放大一些，以便学习和仿照尝试。
-还有，就是这样录制的视频，不大适合重复使用。你想啊，视频中总是有一块儿被我的头像挡住，不论是后面文稿里面截图，还是用动图显示，用这样的截屏或者录像，都会有缺憾。
-但是你说怎么办？让我对每一个演示，分别录制有人像的、人像像的、全局的、局部缩放的……？
-这些要求，对我这懒人太不友好了。我只好采用「充耳不闻」的态度。
-于是，当我看到有这样一款工具，可以让自己一次录制，就可以用不同形式来分别展现效果，而且这过程还是很大程度自动化的，自然就会特别开心。所以，我专门撰文，给你介绍它。
-转机
-这款应用，就是 Screen Studio 。
-
-说来也很惭愧，我其实在 2022 年就买了这款工具，可直到最近，才真的用了起来。
-
-因为啥？
-很简单，将一款新的应用，融入工作流，是需要花时间来尝试与磨合的，我懒得干。
-所…]]></summary>
-        <author>
-            <name>玉树芝兰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 古典、现代与未来：史学写作与科技的跨界]]></title>
-        <id>https://sspai.com/post/86552</id>
-        <link href="https://sspai.com/post/86552"/>
-        <updated>2024-02-21T12:04:14.000Z</updated>
-        <summary type="html"><![CDATA[编注：
-本文是「2023 年度征文：分享你的关键词」的第 3 篇入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。
-
-「本文参加 2023 年度征文活动。我的 2023 年度关键词是：跨界」
-我自 2015 年开始进入历史系本科接受专业训练以来，至 2023 年，已有八个年头。
-2023 年，我辞去做了四个月的中学教师的工作，回到学校攻读博士学位，二级方向为中国近现代史，日常从事历史类非虚构写作。
-相较于诸多热门专业，历史系的师生及从业者同样是「少数派」，这一学科几乎只有师范类大学与综合性大学开设。由于招生院校少，学生规模小，圈子封闭，外人时常对我们存在着各种误解，通常认为我们是一门古老的学科，与现代科技似乎并不沾边。但实际上，历史系的师生们及相关从业者们也在努力地拥抱科技。
-我将按照历史类论文写作的顺序：收集材料，整理材料，解读材料这三个步骤，为大家展示「历史」与「科技」的跨界，展示并展望历史学的从业者如何使用现代科技工具以协助研究工作的开展。
-收集材料：报刊杂志与数据库的使用
-历史学是一门以材料为基础的 「拼图游戏」，强调「所言之辞必有出处」，是非虚构写作中的一种。简而言之，人类群体或个体的活动会留下各种各样的痕迹，有的痕迹会被历史的浪潮所淹没，有的痕迹则以个人的日记、报纸、杂志、档案、回忆录等等形式以保留。历史专业的工作者们，便收集这些痕迹，将其拼贴在一起，以还原当时的现场，并对自己笔下的历史进行分析与解读。这一场拼图游戏中，每一位拼图者的手法与技艺各有不同，语言组织与表达能力也各有不同，能够展示给读者的历史面相也呈现出万花筒般的色彩。而这恰恰就是历史学的魅力，即重视「人」在历史中所发挥的作用，允许「人」对于过往的事件进行不同角度的评说。
-那么，既然材料于历史研究者而言，如米之于巧妇，现代科技与史学的第一次「跨界合作」为数据库的建立与使用。作为一位中国近现…]]></summary>
-        <author>
-            <name>海拉鲁的林克</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国阿拉巴马州最高法院裁决冷冻胚胎是“儿童”]]></title>
-        <id>https://www.solidot.org/story?sid=77408</id>
-        <link href="https://www.solidot.org/story?sid=77408"/>
-        <updated>2024-02-21T11:54:03.000Z</updated>
-        <summary type="html"><![CDATA[美国阿拉巴马州最高法院裁定，冷冻的胚胎是“儿童”，享有完整人格权利，任何毁坏冷冻胚胎的人都可能需要在非正常死亡案件中担责。这一裁决将冲击阿拉巴马州的体外人工受精手术（IVF），体外人工受精通常会培育多个胚胎，而这些胚胎并不会全都植入到子宫内，此外胚胎还有较高的死亡率。本案中，一名病人进入了未锁门的冷冻胚胎库，取出了胚胎但因为太冷而掉落，导致胚胎死亡。受影响的 IVF 患者对 IVF 医院提起了过失死亡诉讼。下级法庭驳回了诉讼，认为胚胎不符合儿童定义。但该州的最高法庭判决胚胎是儿童，首席大法官 Tom Parker 还引用宗教信仰和《圣经》语录支持其立场。他写道：错误毁灭人的生命会招致上帝的报复，所有人类在出生之前都带有上帝的形象，他们的生命不能在不损及他的荣耀的情况下毁灭。根据 2020 年的一份估计，美国有逾 60 万冷冻胚胎，其中很大一部分不会导致活胎。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024斯隆研究员揭榜！29位华人科学家当选占比超1/5，获75000美元科研奖金]]></title>
-        <id>https://news.cnblogs.com/n/765042/</id>
-        <link href="https://news.cnblogs.com/n/765042/"/>
-        <updated>2024-02-21T10:31:00.000Z</updated>
-        <summary type="html"><![CDATA[新智元报道 编辑：桃子好困 一年一度的「斯隆研究员」榜单揭晓了！今年共有 126 位学者当选，其中华人学者 29 人，计算机领域北大清华校友、上交大校友杨笛一纷纷上榜。 刚刚，「2024 斯隆研究员」最新名单出炉！ 这次共有 126 位学者当选，每人将获得 75,000 美元奖金，未来两年用于有助于
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7.98万，比亚迪锁死燃油车的反扑，底气何来]]></title>
-        <id>https://news.cnblogs.com/n/765041/</id>
-        <link href="https://news.cnblogs.com/n/765041/"/>
-        <updated>2024-02-21T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[比亚迪秦 Plus、驱逐舰 05 荣耀版上市，7.98 万元的起售价让新能源车比燃油车更便宜成为现实，在占据中国车市超 20% 的紧凑级轿车市场锁死合资燃油车的反扑 文尹路 2024 年 2 月 19 日，比亚迪发布秦 Plus 和驱逐舰 05 两款车型的荣耀版，两款紧凑级轿车（下称A级轿车）的插电
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网约车，卷到县城：“以前一天挣300块，现在有100块就不错”]]></title>
-        <id>https://news.cnblogs.com/n/765040/</id>
-        <link href="https://news.cnblogs.com/n/765040/"/>
-        <updated>2024-02-21T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[本文来源：时代周报 作者：曾思怡 “平日每天赚 100 多元，过去一个月每天能赚三五百元。” 春节假期，大量年轻人返乡过年，县域网约车市场也迎来一波小阳春。 在柳州三江县开网约车的吴江（化名）告诉时代周报记者，离除夕还有半个月的时候，县里的人流开始多起来，他和同行的收入也开始翻倍增长，“这股热度会持
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[停产降薪撤店，高合汽车走到“退市”边缘]]></title>
-        <id>https://news.cnblogs.com/n/765039/</id>
-        <link href="https://news.cnblogs.com/n/765039/"/>
-        <updated>2024-02-21T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[2024 年 2 月 18 日，是龙年春节后员工们返岗的第一天。不过，就在这一天却传出了“坏消息”。 作为造车新势力之一的高合汽车被曝将停工停产 6 个月，同时，3 月起高合汽车员工将只能领到本市最低工资。对此，多位高合汽车内部人士向贝壳财经记者表示，确有停工停产一事，部分员工已居家办公。 近日，记
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开启光速AI计算！AI芯片登上《自然》子刊，能耗低、无法被攻击]]></title>
-        <id>https://news.cnblogs.com/n/765038/</id>
-        <link href="https://news.cnblogs.com/n/765038/"/>
-        <updated>2024-02-21T10:11:00.000Z</updated>
-        <summary type="html"><![CDATA[作为推动人工智能（AI）行业快速发展的三大要素之一，算力是 AI 发展的重要基础。如果算力跟不上算法、数据的发展，AI 行业也很难有新的颠覆性突破出现。 而芯片，是算力的核心，决定了平台的基础设施和发展生态。 近日，包括 OpenAI 人员在内的 19 位业内专家在一篇最新报告中将硬件作为 AI 安
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马云妻子张英被曝在新加坡斥资超3400万美元购买房产]]></title>
-        <id>https://news.cnblogs.com/n/765037/</id>
-        <link href="https://news.cnblogs.com/n/765037/"/>
-        <updated>2024-02-21T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[雷递网乐天 2 月 21 日 据外媒披露，阿里创始人马云的妻子张英日前被曝出在新加坡购买了三处所谓的店屋，这些房产是这个城市国家最珍贵的房产之一。 消息称，张英支付了 4500 万新元（约 3400 万美元）至 5000 万新元之间的费用。 张英在阿里巴巴发展早期曾发挥了关键作用，也是阿里的第一批员
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抖音电商启动低价战略 今年目标交易额超3万亿元]]></title>
-        <id>https://news.cnblogs.com/n/765036/</id>
-        <link href="https://news.cnblogs.com/n/765036/"/>
-        <updated>2024-02-21T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[财联社 2 月 21 日电，抖音电商将“价格力”设定为了 2024 年优先级最高的任务，这也是继拼多多、阿里巴巴与京东后，又一个在内部明确将“低价”提升为核心战略的电商平台。 一位接近抖音电商人士透露，新的一年，抖音电商的低价策略要扩展至内容场：商城与短视频将大力推荐低价商品，直播间则继续承载以品牌
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora新视频只发TikTok：OpenAI 4天涨粉10万]]></title>
-        <id>https://news.cnblogs.com/n/765035/</id>
-        <link href="https://news.cnblogs.com/n/765035/"/>
-        <updated>2024-02-21T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[梦晨克雷西发自凹非寺 量子位公众号 QbitAI Sora 新视频，变成“抖音独占”了。 悄无声息，OpenAI 正式杀入 TikTok，加上洗脑配乐直接让人刷到停不下来，疯狂引流吸粉中： 短短 4 天，涨粉 10 万，50 万赞——这还是不打枪不宣传的情况下。 这以后，人类创作者还怎么玩？ Sor
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国电商开辟日本市场]]></title>
-        <id>https://www.solidot.org/story?sid=77407</id>
-        <link href="https://www.solidot.org/story?sid=77407"/>
-        <updated>2024-02-21T09:44:08.000Z</updated>
-        <summary type="html"><![CDATA[VALUES 的数据显示，拼多多旗下海外电商 Temu 日本月用户数上个月达到 1550 万人，自去年 7 月正式开展服务以来每月用户增长 220 万人。Temu 日本用户人数达到了老牌电商“亚马逊购物”、“乐天市场”及“Yahoo!购物”平均用户数 2970 万的 52%。Temu 武器就是低价。另一家廉价服装电商平台 SHEIN 的用户人数也超过日本知名服装电商平台 ZOZOTOWN，。中国电商提供的产品既便宜质量也不差，因此受到了注重价格的用户的欢迎。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI外包正转向欧美地区，寻找各类专业人才训练大模型]]></title>
-        <id>https://news.cnblogs.com/n/765034/</id>
-        <link href="https://news.cnblogs.com/n/765034/"/>
-        <updated>2024-02-21T09:38:00.000Z</updated>
-        <summary type="html"><![CDATA[2 月 21 日消息，随着传统职业人员如语言专家、创意作家和核物理学家等逐渐成为“数据标注工”，他们的职业前景正变得岌岌可危，最终可能被他们所培训的人工智能系统所取代。 以下是翻译内容： 杰伊（Jay）高中时爱上了数学，他的物理老师向他展示了复杂微积分的乐趣。大学时期，杰伊专攻物理和数学，梦想有朝一
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《细胞》子刊：科学家破解真菌破坏血脑屏障，诱发阿尔茨海默病相关病理的机制！]]></title>
-        <id>https://news.cnblogs.com/n/765033/</id>
-        <link href="https://news.cnblogs.com/n/765033/"/>
-        <updated>2024-02-21T09:29:00.000Z</updated>
-        <summary type="html"><![CDATA[在几百种人类致病的真菌中，白色念珠菌是最常见的真菌病原体之一。 白色念珠菌广泛存在于人体的皮肤黏膜上，是人类共生微生物组中的一员。但是在人体存在免疫缺陷的情况下，白色念珠菌就要开始作乱了，口腔溃疡是它，血源性感染有它，甚至突破血脑屏障、引发真菌性脑炎也有它。 同时，我们也在阿尔茨海默病（AD）和其他
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度重拾电商：要发现新大陆，得扔掉旧地图]]></title>
-        <id>https://news.cnblogs.com/n/765032/</id>
-        <link href="https://news.cnblogs.com/n/765032/"/>
-        <updated>2024-02-21T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜市值榜，作者｜何玥阳，编辑｜嘉辛 AI 电商，在过去的 2023 年被频频提及，不出意外的话，也是 2024 年电商的关键词。 马云说，AI 电商时代刚刚开始，对谁都是机会，也是挑战。 1 月 10 日，沃尔玛宣布与 OpenAI 合作，打造类似于 Chat GPT 的电商搜索功能，基于生成式 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软计划将OpenAI的Sora视频生成模型整合进Copilot]]></title>
-        <id>https://news.cnblogs.com/n/765031/</id>
-        <link href="https://news.cnblogs.com/n/765031/"/>
-        <updated>2024-02-21T09:07:00.000Z</updated>
-        <summary type="html"><![CDATA[微软广告和网络服务部门 CEO Mikhail Parakhin 近日在推特与网友互动时表示，OpenAI 开发的视频生成器 Sora 将最终与 Copilot 集成，但需要一些时间。 IT 之家注意到，一位用户询问 Sora 是否会加入 Copilot，Parakhin 回复道：“最终会，但需要时
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达明日凌晨发布第四财季财报 营收有望超过200亿美元]]></title>
-        <id>https://news.cnblogs.com/n/765030/</id>
-        <link href="https://news.cnblogs.com/n/765030/"/>
-        <updated>2024-02-21T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2 月 21 日消息，据外媒报道，在苹果、英特尔、特斯拉、台积电等公司年前发布财报后，备受人工智能厂商仰仗的英伟达，将在明日凌晨发布他们 2024 财年第四财季的财报。 英伟达的这一财季，始于去年 10 月 30 日，截至今年 1 月底。在财报发布之后，他们还将举行财报分析师电话会议。 从英伟达官网
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手机十年来的大更新，即将到来]]></title>
-        <id>https://news.cnblogs.com/n/765029/</id>
-        <link href="https://news.cnblogs.com/n/765029/"/>
-        <updated>2024-02-21T08:49:00.000Z</updated>
-        <summary type="html"><![CDATA[科幻小说《三体》中存在一个乱纪元的状态，当行星在三颗太阳的引力间波动，进行不规律运动时，会发生各种无法预测的变化。 AIGC 的爆发让硅基世界迎来乱纪元，我们似乎处于一个奇点元年，竭力去理解这个新世界，度过一个新文明的前夜。 在刚刚过去的春节假期里，我们就见证了 AI 行业的疯狂进化。 OpenAI
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora时代：爱奇艺们的市值走进“迷雾剧场”？]]></title>
-        <id>https://news.cnblogs.com/n/765028/</id>
-        <link href="https://news.cnblogs.com/n/765028/"/>
-        <updated>2024-02-21T08:41:00.000Z</updated>
-        <summary type="html"><![CDATA[文互联网江湖，作者刘致呈 “扔进一部小说、出来一部大片”。 这并不是科幻，而是 AI 即将带给整个内容行业的一点点震撼。 Sora 火了，也引发了不少讨论也有一些做影视的朋友们惊呼：“Sora 要革影视行业的命”。流浪地球的导演，中国科幻电影的“扛把子”郭帆也发朋友圈感慨，技术的发展太快了。 Sor
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文｜数字无业游民的自我「和解」]]></title>
-        <id>https://sspai.com/post/86421</id>
-        <link href="https://sspai.com/post/86421"/>
-        <updated>2024-02-21T08:40:49.000Z</updated>
-        <summary type="html"><![CDATA[编注：
-本文是「2023 年度征文：分享你的关键词」的第 4 篇入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。
-
-本文参加 2023 年度征文活动。我的 2023 年度关键词是：「和解」
-2023 我给自己放了一年的假
-派友们大家好，时间像一头野驴啊，给大家拜个晚年。
-我是一个很难上班的人。自 2018 年毕业以来，去了好几个城市，尝试了无数个单位的工作；但无一例外，除了当「魔术老师」日子撑了一年，其他工作的最长也没有超过六个月。
-无法正常上班这件事，我的借口是严重影响身心健康。除了反复报警的颈椎和失眠，最困扰我的无非是那些工作中的糟心事儿。而且我作为无数次复查结果一致的 INFP 人格，可以说是马斯洛老师「需求层次倒挂」的相当典型案例了。
-大家都听过的需求层次理论，但常看常新。
-这一理论的一种解释：
-人在满足生存需求和安全需求后，会自发地转而需求所谓更高层次需求；或者说越是高层次的需求，越能驱动个体去为某件事、某些人更积极主动地付出。
-
-而不少我这一类的人，即使是生存需求和安全需求得不到满足，吃了上顿没下顿，也无法忍受精神上的无助。起码对于我这种比较极端的人而言，每周四十来小时「毫无成就感和价值感的工作」是难以忍受的痛苦。
-体面且相对稳定，但决定离职
-去年从小岛出来，有幸去了广州某高校的国际 2+2 项目任职。教的是有些理解的「公众演讲」和「管理学入门」的老本行，待遇稳定，社会身份也应该还算得上体面。
-2022 年秋季学期，还是网课时代，办公环境全靠窗外的景色和咱派的周边。
-职场肯定离不开「加班」「内卷」「办公室政治」这些糟心事儿。只能试着在工作中找寻一些自我价值的实现，折腾一些自认为有意思，对孩子们有帮助的项目；但始终是杯水车薪，短暂的折腾和满足过后，回到办公室依旧得面对无法改变的现实，和随之而来的情绪垃圾。
-带姑娘小伙儿们去了趟保护区做志愿者，是少有的…]]></summary>
-        <author>
-            <name>朴步成</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软遭遇大规模网络攻击]]></title>
-        <id>https://news.cnblogs.com/n/765027/</id>
-        <link href="https://news.cnblogs.com/n/765027/"/>
-        <updated>2024-02-21T08:32:00.000Z</updated>
-        <summary type="html"><![CDATA[安全公司 Proofpoint 的研究人员披露，过去几周微软遭遇其公司历史上最大规模的网络攻击。攻击目标主要是微软中高层管理人员，如财务总监、销售总监、运营副总裁、客户经理等，目的主要是为了金融欺骗。攻击者使用了 2023 年 11 月发现的技术，综合了钓鱼攻击窃取的凭证和云帐户接管，帮助黑客获得 
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文｜生活值得，万事皆可爱]]></title>
-        <id>https://sspai.com/post/86546</id>
-        <link href="https://sspai.com/post/86546"/>
-        <updated>2024-02-21T08:26:54.000Z</updated>
-        <summary type="html"><![CDATA[「本文参加 2023 年度征文活动。我的 2023 年度关键词是：热爱」
-我的2023好像很平淡地过去了，但仔细想想，平淡几乎可以和幸福划上等号。北漂人都大抵能感同身受，如果你的生活没有焦虑和消沉，那应该配得上「幸福」二字。2023对于我来说，是完成人生角色转变的一年，而这一年我的转变不止来自于角色本身，也有我对生活——或者说得更大一点——对人生的态度转变。
-爱具体的人
-我结婚了
-2023年，我结婚了。结婚对象和我一样是INTJ（虽然短暂转换成了ENTJ，但又回来了）。我们两个INTJ，从各自的精神世界里出来找到彼此，从抽象的对爱情的向往到爱具体的对方，似乎不太容易，又似乎水到渠成。结婚，从法律上说就民政局领证五分钟的事儿，但毕竟人生大事，不能辜负自己也不能辜负家人，不夸张地说，能结一年——我还好，结了半年。
-结婚登记照
-结婚证上的照片我们选择了DIY。紫色老头老太实在讨厌穿着一样的衬衫、挂着同样微笑的流水线作业。而且，一张登记照520块钱怎么不去抢啊？DIY其实不难，只要你家里有一台拍人像还不错的相机、一台三脚架、一块丝绒红桌布就足够了！如果你的设备足够齐备，也可以备上柔光灯、反光板、甚至一台风格不同的相机，拍一套backup。
-
-关于相机的选择，我和家属当时其实是相互嫌弃彼此的相机的。我嫌弃他的相机拍人像太丑，简直缺点放大器，还不如苹果前置镜头好看；他甚至觉得我的相机都不能算相机……【在此我们俩给被冒犯到的索尼A7M3和佳能G7XII用户们郑重致歉】短暂争执后我妥协了，如果早知道他后面会置换索尼a7c2，我说什么也要让他当时就换掉。
-DIY的好处就是你想怎么拍就怎么拍，想拍多久拍多久，于是我们换了各种风格的衣服、造型，拍了各种风格的照片。选好照片后网上找一家店打印即可。
-
-DIY登记照总花销：59.86
-
-
-商品购买渠道花销
-红丝绒PDD18.71
-头纱TB21.25
-…]]></summary>
-        <author>
-            <name>莫顿街5号儿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清华大学文生视频专利公布]]></title>
-        <id>https://news.cnblogs.com/n/765026/</id>
-        <link href="https://news.cnblogs.com/n/765026/"/>
-        <updated>2024-02-21T08:26:00.000Z</updated>
-        <summary type="html"><![CDATA[国家知识产权局网站显示，近日，清华大学申请的 “一种定制化多主体文生视频方法、装置、设备及介质” 专利公布，发明人为王鑫；朱文武；陈虹。 摘要显示，该申请涉及神经网络技术领域，通过多种损失对文生视频模型的参数进行优化，使优化的模型基于文本描述生成视频中的图像时，文本描述与定制化主体保持一致，且在每个
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帮人背债，躺赚百万？]]></title>
-        <id>https://news.cnblogs.com/n/765025/</id>
-        <link href="https://news.cnblogs.com/n/765025/"/>
-        <updated>2024-02-21T08:21:00.000Z</updated>
-        <summary type="html"><![CDATA[文华商韬略，作者 熊剑辉 欠债还钱，天经地义。但有的债务，却在金蝉脱壳。 疯狂背债人 要不是听说能挣大钱，身居三线小城的老李，大概永远不知道“职业背债人”的存在。 那是 2019 年，老李“意外”认识了一位“背债中介”，要带他发笔横财：直接给他过户一套房，贷款一通过，六成他拿走，进账过百万。 老李狐
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国上诉法庭推翻了因用户盗版而惩罚 ISP 10 亿美元的判决]]></title>
-        <id>https://www.solidot.org/story?sid=77406</id>
-        <link href="https://www.solidot.org/story?sid=77406"/>
-        <updated>2024-02-21T08:16:55.000Z</updated>
-        <summary type="html"><![CDATA[美国联邦上诉法庭推翻了因用户盗版而惩罚 ISP Cox Communications 10 亿美元的判决。法官撤销了赔偿裁决，要求重新计算新的赔偿金额。本案始于索尼、环球和华纳等唱片公司对 Cox 的诉讼，它们指控 Cox 在打击其网络中的盗版行为上做的不够，没能封杀多次盗版的用户。地方法院的陪审团在 2019 年裁定 Cox 对其网络中的 10,017 件盗版作品负有连带责任，需要赔偿 10 亿美元。Cox 的上诉得到了 EFF 等组织的支持，认为该裁定可能会产生难以预计的后果，可能会迫使 ISP 切断更多用户的网络接入。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球科技公司人效第一是谁？Netflix]]></title>
-        <id>https://news.cnblogs.com/n/765024/</id>
-        <link href="https://news.cnblogs.com/n/765024/"/>
-        <updated>2024-02-21T08:14:00.000Z</updated>
-        <summary type="html"><![CDATA[文穆胜 根据市场调查机构 Ondeck 公布的最新报告，在人均营收最多的全球科技公司中，Netflix 以 249 万美元（约 1785.3 万元）位列第一。 一家以租赁 DVD 起家的公司，如今成为市值超过 2000 亿美金的全球流媒体巨头企业，与迪士尼公司并驾齐驱，Netflix 究竟有何秘诀？
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KEEP转跌，此前曾因“贾玲概念股”累涨近60%，市值增逾11亿港元]]></title>
-        <id>https://news.cnblogs.com/n/765023/</id>
-        <link href="https://news.cnblogs.com/n/765023/"/>
-        <updated>2024-02-21T08:05:14.000Z</updated>
-        <summary type="html"><![CDATA[电影《热辣滚烫》自官宣以来热度不断，“贾玲减重 100 斤”更是春节档的热门话题，电影上映后，健身、拳击、减肥等话题引发热议。 受此影响，有着“中国运动科技第一股”之称的 KEEP（03650.HK）便迎来了高光，其表现在消费市场和资本市场均有体现。 据了解，春节期间，受到贾玲瘦身成功的带动，大众的
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube 统治了美国的客厅]]></title>
-        <id>https://www.solidot.org/story?sid=77405</id>
-        <link href="https://www.solidot.org/story?sid=77405"/>
-        <updated>2024-02-21T07:00:52.000Z</updated>
-        <summary type="html"><![CDATA[尼尔森公司（Nielsen）的最新数据显示，Google 流媒体服务 YouTube 统治了美国的客厅：YouTube 占到了美国用户电视观看率的 8.6%，Netflix 其次占 7.9%。YouTube 官方博客随后披露，观众在电视上平均每天观看逾 10 亿小时的 YouTube 内容。今天的美国用户可能更喜欢看用户生成的视频而不是传统的电视节目。61% 的 Z 世代用户偏爱用户生成内容。字节跳动旗下的 TikTok 在移动设备上占据了主导，它最近允许用户上传 30 分钟的长视频，可能会冲击到 YouTube 的地位。 TikTok 还在苹果的 Apple Vision Pro 上推出了原生应用，而 YouTube  选择了不构建原生应用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果警告不要将潮湿的 iPhone 放入米袋中晾干]]></title>
-        <id>https://www.solidot.org/story?sid=77404</id>
-        <link href="https://www.solidot.org/story?sid=77404"/>
-        <updated>2024-02-21T06:15:29.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 潮湿了如何处理？苹果支持文档警告不要将其放入米袋中。苹果称：如果 iPhone 或配件潮湿，请勿使用外部热源或压缩空气来使 iPhone 变干燥；请勿将异物（如棉签或纸巾）插入接口；请勿将 iPhone 放入米袋中。如果这样做，细小的米粒可能会损坏你的 iPhone。维修专家曾指出，将潮湿 iPhone 放入米袋中晾干的速度不如直接放在柜台上晾干。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signal 推出用户名功能，隐藏手机号码]]></title>
-        <id>https://www.solidot.org/story?sid=77403</id>
-        <link href="https://www.solidot.org/story?sid=77403"/>
-        <updated>2024-02-21T06:01:33.000Z</updated>
-        <summary type="html"><![CDATA[加密消息应用 Signal 推出了用户名功能，默认情况下不显示用户的手机号码。手机号码在现代社会日益重要，事实上属于用户的敏感信息，在部分推行实名制的国家，手机号码就是你的在线身份。Signal 设计将手机号码用作身份识别长期以来一直受到批评，新的用户名功能终于提供了一个加强隐私保护的解决方案。用户仍然需要使用手机号码注册 Signal，但与其他人私下聊天时可以通过唯一用户名不透露手机号码的方式完成。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[气候变化使得国家公园花期提前 22 天]]></title>
-        <id>https://www.solidot.org/story?sid=77402</id>
-        <link href="https://www.solidot.org/story?sid=77402"/>
-        <updated>2024-02-20T14:56:14.000Z</updated>
-        <summary type="html"><![CDATA[塞维利亚大学的研究人员研究了多尼亚纳(Doñana)国家公园地区物种，调查了 51 种灌木和树木开花情况过去 35 年的变化，发现在此期间平均气温升高 1℃，最低与最高气温升高 2℃，开花物种的花期提前了 22 天。这种提前并不限于少数物种，而是 80% 的物种都提前了开花期，68% 的物种提前结束花期。开花是植物生命的关键时刻，因为它们是通过花蕊进行有性繁殖。植物要繁殖必须与邻居同时开花，且由于植物不能移动，它们需要依靠昆虫把含有雄配子的花粉从一朵花带到另一朵花，植物和昆虫必须同步进行。然而由于气候变化导致北半球植物开花时间提前，欧洲、亚洲和北美发表的几项研究都证实了这一现象。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软修复了 Edge 未经用户同意导入 Chrome 数据的行为]]></title>
-        <id>https://www.solidot.org/story?sid=77401</id>
-        <link href="https://www.solidot.org/story?sid=77401"/>
-        <updated>2024-02-20T14:17:11.000Z</updated>
-        <summary type="html"><![CDATA[微软修复了 Edge 浏览器未经用户同意自动从 Chrome 浏览器导入浏览数据和标签的“bug”。上个月用户报告电脑在 Windows 例行更新重启后 Microsoft Edge 浏览器自动打开了 Chrome 浏览器此前显示的标签页。软件巨头拒绝对此发表评论，但在最新更新中悄悄修复了“问题”。微软对该 bug 的解释是：Edge 的一项功能提供了一个选项，允许在每次启动时在用户同意的情况下从其它浏览器导入浏览器数据。该功能的状态可能无法在多设备上正确同步和显示。问题现已修复。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julian Assange 面临最后的引渡抗辩]]></title>
-        <id>https://www.solidot.org/story?sid=77400</id>
-        <link href="https://www.solidot.org/story?sid=77400"/>
-        <updated>2024-02-20T13:55:20.000Z</updated>
-        <summary type="html"><![CDATA[WikiLeaks 创始人 Julian Assange 本周在英国面临最后的引渡抗辩，这一次法官的判决如果对他不利将无法在英国再次上诉，但还可以请求欧洲人权法院阻止引渡。Assange 受到了美国的间谍指控，他十多年来一直在英国抵制引渡，其中包括七年在厄瓜多尔驻伦敦大使馆庇护，五年关押在英国戒备森严的监狱里。英国法庭周三将举行为期两天的听证会。他是因为帮助美国情报分析员 Chelsea Manning 窃取外交电报和军事文件并之后发表在 WikiLeaks 上而收到美国的指控，美国称这些文件的发布会让文件提到的线民的生命处于危险之中。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家发现至今最明亮的类星体]]></title>
-        <id>https://www.solidot.org/story?sid=77399</id>
-        <link href="https://www.solidot.org/story?sid=77399"/>
-        <updated>2024-02-20T13:34:48.000Z</updated>
-        <summary type="html"><![CDATA[天文学家使用欧洲南方天文台（ESO）的甚大望远镜发现了至今最明亮的类星体，它同时也是至今观测到的最明亮天体。类星体是遥远星系的明亮核心，由于其超大质量在大肆吞噬周围的物质，释放出巨大的能量，因此能从地球上观测到。明亮的类星体通常表明其核心有着快速增长的超大质量黑洞。该类星体编号为 J0529-4351，距离地球 120 亿光年，质量相当于 170 亿倍太阳质量，每天吞噬的物质质量相当于太阳，亮度是太阳的逾 500 万亿倍。它是至今观测到的增长最快的黑洞。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora在美股掀起“腥风血雨”：Adobe等3家公司市值一天蒸发近3500亿元]]></title>
-        <id>https://news.cnblogs.com/n/764953/</id>
-        <link href="https://news.cnblogs.com/n/764953/"/>
-        <updated>2024-02-20T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[每经记者：蔡鼎每经编辑：兰素英 刚刚跻身全球第三大初创公司的 OpenAI 在中国春节期间又甩出“王炸”。继文本模型 ChatGPT、图像模型 Dall-E 大放异彩后，其最新推出的“文生视频”技术 Sora 又以其“逼真”和“富有想象力”的生成内容吸引了广泛的关注和讨论。 Sora 的诞生让许多行
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前总经理涉嫌挪用资金获刑4年，中芯宁波：不进行任何和解或谅解]]></title>
-        <id>https://news.cnblogs.com/n/764952/</id>
-        <link href="https://news.cnblogs.com/n/764952/"/>
-        <updated>2024-02-20T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[中芯国际参股公司中芯宁波就两位前高管挪用资金案再次发布声明。 2 月 20 日，中芯集成电路（宁波）有限公司（简称“中芯宁波”）发布声明称，近期，公司前董事兼总经理黄河、前财务负责人王瀛挪用资金案一审宣判后，公司不断接到各方垂询是否与被告人达成和解或谅解。公司已向相关方一再声明，公司尊重司法公正、依
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文昌：航天发射场从未授权开展经营收费类发射观礼活动，切勿上当]]></title>
-        <id>https://news.cnblogs.com/n/764951/</id>
-        <link href="https://news.cnblogs.com/n/764951/"/>
-        <updated>2024-02-20T13:04:00.000Z</updated>
-        <summary type="html"><![CDATA[据“文昌发布”微信公众号消息，海南省文昌市旅游和文化广电体育局 2 月 20 日发布声明称，所有宣称可以通过购买“内场票”、VIP 票等进入发射场内部观看火箭发射的都属虚假宣传，广大市民游客切勿上当受骗。 文昌市旅游和文化广电体育局表示，近期，有个别企业通过短视频平台等途径，宣传售卖所谓“文昌航天发
-本文链接]]></summary>
-        <author>
-            <name>博客园_新闻</name>
         </author>
     </entry>
 </feed>
